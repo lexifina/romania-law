@@ -181,6 +181,81 @@
      "sha256": "44c65cfbf2e86da8ad695969aaa3712e779b502ec153e83db5eb702782825e03"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-946-2023",
+   "path": "ue/directiva/2023/946",
+   "short": "Directiva (UE) 2023/946",
+   "title": "Directiva (UE) 2023/946 a Parlamentului European și a Consiliului din 10 mai 2023 de modificare a Directivei 2003/25/CE în ceea ce privește includerea unor cerințe de stabilitate îmbunătățite și alinierea directivei respective la cerințele de stabilitate definite de Organizația Maritimă Internațională (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L0946",
+   "versions": [
+    {
+     "from": "2023-06-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/842118d8-f2e4-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "21be6e17e2f49bf32aa95c9c08473e8a27f230e8991e20fdc82108cec243e887"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-958-2023",
+   "path": "ue/directiva/2023/958",
+   "short": "Directiva (UE) 2023/958",
+   "title": "Directiva (UE) 2023/958 a Parlamentului European și a Consiliului din 10 mai 2023 de modificare a Directivei 2003/87/CE în ceea ce privește contribuția sectorului aviației la obiectivul Uniunii de reducere a emisiilor la nivelul întregii economii și punerea în aplicare în mod corespunzător a unei măsuri globale bazate pe piață (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L0958",
+   "versions": [
+    {
+     "from": "2023-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2f93a0a8-f384-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4d0bcd992d74e4036b86dffdd81c56497deaa993344c596e765a7c31ef42d38b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-959-2023",
+   "path": "ue/directiva/2023/959",
+   "short": "Directiva (UE) 2023/959",
+   "title": "Directiva (UE) 2023/959 a Parlamentului European și a Consiliului din 10 mai 2023 de modificare a Directivei 2003/87/CE de stabilire a unui sistem de comercializare a cotelor de emisie de gaze cu efect de seră în cadrul Uniunii și a Deciziei (UE) 2015/1814 privind înființarea și funcționarea unei rezerve pentru stabilitatea pieței aferentă schemei UE de comercializare a certificatelor de emisii de gaze cu efect de seră (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L0959",
+   "versions": [
+    {
+     "from": "2023-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7477bc6a-f384-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c7890833d45b33b603a74c61b97524c431e1b7a9c8430dcb871a201bd7474883"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-970-2023",
+   "path": "ue/directiva/2023/970",
+   "short": "Directiva (UE) 2023/970",
+   "title": "Directiva (UE) 2023/970 a Parlamentului European și a Consiliului din 10 mai 2023 de consolidare a aplicării principiului egalității de remunerare pentru aceeași muncă sau pentru o muncă de aceeași valoare între bărbați și femei prin transparență salarială și mecanisme de asigurare a respectării legii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L0970",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5bbb9daf-f470-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "564eaea1f2d2b7cd330f14351dd3511f66dcf838d9cf95284d315c4aeebaf215"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-977-2023",
+   "path": "ue/directiva/2023/977",
+   "short": "Directiva (UE) 2023/977",
+   "title": "Directiva (UE) 2023/977 a Parlamentului European și a Consiliului din 10 mai 2023 privind schimbul de informații dintre autoritățile de aplicare a legii ale statelor membre și de abrogare a Deciziei-cadru 2006/960/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L0977",
+   "versions": [
+    {
+     "from": "2023-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0aa0c2b9-f83b-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "44977cc1bafbe02ddd9328c86fc5d26fd7ef747d8cdadbb2b5328c1e0e49a3fa"
+    }
+   ]
   }
  ]
 }

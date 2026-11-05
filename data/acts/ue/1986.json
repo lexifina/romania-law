@@ -35,6 +35,23 @@
 "from": "1986-11-21",
 "latest": "1986-11-21",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31986L0560"
+},
+{
+"slug": "ue-directiva-653-1986",
+"path": "ue/directiva/1986/653",
+"kind": "ue",
+"year": "1986",
+"number": "653",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 18 decembrie 1986 privind coordonarea legislației statelor membre referitoare la agenții comerciali independenți",
+"short": "Directiva 86/653/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1986-12-23",
+"latest": "1986-12-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31986L0653"
 }
 ]
 }

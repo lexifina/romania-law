@@ -3,6 +3,27 @@
 "shard": "ue/2000",
 "acts": [
 {
+"slug": "ue-directiva-8-2000",
+"path": "ue/directiva/2000/8",
+"kind": "ue",
+"year": "2000",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2000/8/CE a Parlamentului European și a Consiliului din 20 martie 2000 de modificare a Directivei 70/221/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la rezervoarele de carburant lichid și la dispozitivele de protecție spate ale autovehiculelor și ale remorcilor acestora",
+"short": "Directiva 2000/8/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2000-05-23",
+"latest": "2000-05-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0008",
+"flags": {
+"figures_missing": 9,
+"end_of_validity": "2014-10-31"
+}
+},
+{
 "slug": "ue-directiva-14-2000",
 "path": "ue/directiva/2000/14",
 "kind": "ue",
@@ -41,6 +62,23 @@
 "flags": {
 "end_of_validity": "2009-12-29"
 }
+},
+{
+"slug": "ue-directiva-36-2000",
+"path": "ue/directiva/2000/36",
+"kind": "ue",
+"year": "2000",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2000/36/CE a Parlamentului European și a Consiliului din 23 iunie 2000 privind produsele din cacao și din ciocolată destinate consumului uman",
+"short": "Directiva 2000/36/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2000-08-03",
+"latest": "2000-08-03",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0036"
 },
 {
 "slug": "ue-directiva-39-2000",
@@ -115,6 +153,111 @@
 "flags": {
 "figures_missing": 1
 }
+},
+{
+"slug": "ue-directiva-60-2000",
+"path": "ue/directiva/2000/60",
+"kind": "ue",
+"year": "2000",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2000/60/CE a Parlamentului European și a Consiliului din 23 octombrie 2000 de stabilire a unui cadru de politică comunitară în domeniul apei",
+"short": "Directiva 2000/60/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2000-12-22",
+"latest": "2000-12-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0060",
+"flags": {
+"figures_missing": 2
+}
+},
+{
+"slug": "ue-directiva-71-2000",
+"path": "ue/directiva/2000/71",
+"kind": "ue",
+"year": "2000",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2000/71/CE a Comisiei din 7 noiembrie 2000 de adaptare la progresul tehnic a metodelor de măsurare prevăzute în anexele I, II, III și IV la Directiva 98/70/CE a Parlamentului European și a Consiliului în conformitate cu articolul 10 al acesteiaText cu relevanță pentru SEE.",
+"short": "Directiva 2000/71/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2000-12-04",
+"latest": "2000-12-04",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0071"
+},
+{
+"slug": "ue-directiva-78-2000",
+"path": "ue/directiva/2000/78",
+"kind": "ue",
+"year": "2000",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2000/78/CE a Consiliului din 27 noiembrie 2000 de creare a unui cadru general în favoarea egalității de tratament în ceea ce privește încadrarea în muncă și ocuparea forței de muncă",
+"short": "Directiva 2000/78/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2000-12-02",
+"latest": "2000-12-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078"
+},
+{
+"slug": "ue-directiva-79-2000",
+"path": "ue/directiva/2000/79",
+"kind": "ue",
+"year": "2000",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2000/79/CE a Consiliului din 27 noiembrie 2000 privind punerea în aplicare a Acordului European privind organizarea timpului de lucru al personalului mobil din aviația civilă, încheiat de Asociația companiilor europene de navigație aeriană (AEA), Federația europeană a lucrătorilor din transporturi (ETF), Asociația europeană a personalului tehnic navigant (ECA), Asociația europeană a companiilor aviatice din regiunile Europei (ERA) și Asociația internațională a liniilor aeriene rezervate în sistem charter (AICA) (Text cu relevanță pentru SEE)",
+"short": "Directiva 2000/79/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2000-12-01",
+"latest": "2000-12-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0079"
+},
+{
+"slug": "ue-directiva-82-2000",
+"path": "ue/directiva/2000/82",
+"kind": "ue",
+"year": "2000",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2000/82/CE a Comisiei din 20 decembrie 2000 de modificare a anexelor la Directivele 76/895/CEE, 86/362/CEE, 86/363/CEE și 90/642/CEE ale Consiliului de stabilire a conținuturilor maxime de reziduuri de pesticide din și de pe fructe și legume, cereale, produse alimentare de origine animală și anumite produse de origine vegetală, inclusiv fructe și legumeText cu relevanță pentru SEE.",
+"short": "Directiva 2000/82/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2001-01-26",
+"latest": "2001-01-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0082"
+},
+{
+"slug": "ue-directiva-84-2000",
+"path": "ue/directiva/2000/84",
+"kind": "ue",
+"year": "2000",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2000/84/CE a Parlamentului European și a Consiliului din 19 ianuarie 2001 privind dispozițiile referitoare la orarul de vară",
+"short": "Directiva 2000/84/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2001-02-02",
+"latest": "2001-02-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0084"
 }
 ]
 }

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "ue/1995",
+ "acts": [
+  {
+   "slug": "ue-directiva-32-1995",
+   "path": "ue/directiva/1995/32",
+   "short": "Directiva CELEX 31995L0032",
+   "title": "A șasea Directivă 95/32/CE a Comisiei din 7 iulie 1995 privind metodele de analiză necesare pentru controlul compoziției produselor cosmeticeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995L0032",
+   "versions": [
+    {
+     "from": "1995-08-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f03d7204-0256-44a5-92be-265a88274047.0022.03/DOC_33",
+     "sha256": "c144f35ab315f3c9c7d00f03da4dc2ba4015c40d914cacb5dc329c89332b19ea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-6-1995",
+   "path": "ue/directiva/1995/6",
+   "short": "Directiva 95/6/CE",
+   "title": "Directiva 95/6/CE a Comisiei din 20 martie 1995 de modificare a anexelor I și II la Directiva 66/402/CEE a Consiliului privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995L0006",
+   "versions": [
+    {
+     "from": "1995-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8223b75b-4b03-42d4-ae7f-e867a8c7a7a1.0022.04/DOC_4",
+     "sha256": "1e0d6baa642e8e464c38904d1c1fe583851c9bb0d0baa15ace7be522c88f83e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-60-1995",
+   "path": "ue/directiva/1995/60",
+   "short": "Directiva 95/60/CE",
+   "title": "Directiva 95/60/CE a Consiliului din 27 noiembrie 1995 privind marcarea fiscală a motorinelor și a kerosenului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995L0060",
+   "versions": [
+    {
+     "from": "1995-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ece9ec9-4f9e-4cb8-81d3-beb9068b1e16.0022.04/DOC_1",
+     "sha256": "80fee8f0fde41cf6949b289efc8d7819405c8b256c8cb03259083ce07376b29f"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "ue/1979",
+"acts": [
+{
+"slug": "ue-directiva-7-1979",
+"path": "ue/directiva/1979/7",
+"kind": "ue",
+"year": "1979",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 19 decembrie 1978 privind aplicarea treptată a principiului egalității de tratament între bărbați și femei în domeniul securității sociale",
+"short": "Directiva 79/7/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1978-12-22",
+"latest": "1978-12-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31979L0007"
+}
+]
+}

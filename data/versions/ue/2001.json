@@ -3,6 +3,81 @@
  "shard": "ue/2001",
  "acts": [
   {
+   "slug": "ue-directiva-110-2001",
+   "path": "ue/directiva/2001/110",
+   "short": "Directiva 2001/110/CE",
+   "title": "Directiva 2001/110/CE a Consiliului din 20 decembrie 2001 privind mierea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0110",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c790b71-4b07-4e82-8bdb-9d489a3d44d2.0022.04/DOC_1",
+     "sha256": "6c7d36c470a42751356de3b4e2587b6a4b2b2015c0434eae1032ddf3f91ef1da"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-111-2001",
+   "path": "ue/directiva/2001/111",
+   "short": "Directiva 2001/111/CE",
+   "title": "Directiva 2001/111/CE a Consiliului din 20 decembrie 2001 privind anumite tipuri de zahăr destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0111",
+   "versions": [
+    {
+     "from": "2002-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd6ea92f-ef98-491e-b105-d8109f55857f.0022.04/DOC_1",
+     "sha256": "84c1e5c4e5e89b36c7650e6483c84e1a235b9f2da7867d1d308970d213ad3aa1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-112-2001",
+   "path": "ue/directiva/2001/112",
+   "short": "Directiva 2001/112/CE",
+   "title": "Directiva 2001/112/CE a Consiliului din 20 decembrie 2001 privind sucurile de fructe și anumite produse similare destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0112",
+   "versions": [
+    {
+     "from": "2002-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/12ff4f64-f569-4fe4-9364-39ef9a0d2fcf.0022.03/DOC_1",
+     "sha256": "b8bcb80de2c8fbd291599677e91db0e58a1dba2769909fddd33cfd7fb1730560"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-113-2001",
+   "path": "ue/directiva/2001/113",
+   "short": "Directiva 2001/113/CE",
+   "title": "Directiva 2001/113/CE a Consiliului din 20 decembrie 2001 privind gemurile, jeleurile și marmeladele de fructe, precum și piureul de castane îndulcit destinate alimentației umane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0113",
+   "versions": [
+    {
+     "from": "2002-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fae3a3ab-dfb3-4769-9985-c4f77234ce61.0022.04/DOC_1",
+     "sha256": "6d1c3da73ae1a0669baca54d316c653f5ccb0e1d73a86a693197cc5db28244a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-114-2001",
+   "path": "ue/directiva/2001/114",
+   "short": "Directiva 2001/114/CE",
+   "title": "Directiva 2001/114/CE a Consiliului din 20 decembrie 2001 privind anumite tipuri de lapte conservat, parțial sau integral deshidratat și destinat consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0114",
+   "versions": [
+    {
+     "from": "2002-01-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1cdca2ff-07d4-4be0-9892-ed039d97e898.0022.03/DOC_1",
+     "sha256": "ae135047f083fa6dabfded78cf558dcbb20ed8c2b6d6a7fb78eebfbe2950a015"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-18-2001",
    "path": "ue/directiva/2001/18",
    "short": "Directiva 2001/18/CE",
@@ -29,6 +104,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/529dc4cd-e8e9-4afa-b216-b3d1ce673ce3.0022.01/DOC_1",
      "sha256": "0973c5b14aa12a1fa0b29523837783e432a1a7d888693a3dc46c704a7ea2982a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-20-2001",
+   "path": "ue/directiva/2001/20",
+   "short": "Directiva 2001/20/CE",
+   "title": "Directiva 2001/20/CE a Parlamentului European și a Consiliului din 4 aprilie 2001 de apropiere a actelor cu putere de lege și a actelor administrative ale statelor membre privind aplicarea bunelor practici clinice în cazul efectuării de studii clinice pentru evaluarea produselor medicamentoase de uz uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0020",
+   "versions": [
+    {
+     "from": "2001-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/096d56ab-bf8e-45de-9c28-d3599733c923.0022.03/DOC_1",
+     "sha256": "2761980bb36809b60169f3b44909c8e2df71d5d824036778d12496adafd56d89"
     }
    ]
   },
@@ -149,6 +239,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c73f3c3d-13b6-4e10-a3ff-472aee1bdfa4.0022.01/DOC_1",
      "sha256": "2aef40ea0994ecc38b60903729d633c6031da5f8a14b60b303e728ceb5c3dac2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-64-2001",
+   "path": "ue/directiva/2001/64",
+   "short": "Directiva 2001/64/CE",
+   "title": "Directiva 2001/64/CE a Consiliului din 31 august 2001 de modificare a Directivei 66/401/CEE privind comercializarea semințelor de plante furajere și a Directivei 66/402/CEE privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0064",
+   "versions": [
+    {
+     "from": "2001-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19a2e2fa-0482-490e-82f3-c801e1c1cb8c.0022.03/DOC_1",
+     "sha256": "1fd992e42517d74772c7f94a341bb395346a70ffa999f483096e6862fec543ec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-83-2001",
+   "path": "ue/directiva/2001/83",
+   "short": "Directiva 2001/83/CE",
+   "title": "Directiva 2001/83/CE a Parlamentului European și a Consiliului din 6 noiembrie 2001 de instituire a unui cod comunitar cu privire la medicamentele de uz uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0083",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6af3ed69-c00a-4629-9deb-a7003a30a52d.0022.04/DOC_1",
+     "sha256": "f00197bfb683dd9908df66d0ce19522182d1b0c2ac4ad26b0e1c4de15c9de0fd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-84-2001",
+   "path": "ue/directiva/2001/84",
+   "short": "Directiva 2001/84/CE",
+   "title": "Directiva 2001/84/CE a Parlamentului European și a Consiliului din 27 septembrie 2001 privind dreptul de suită în beneficiul autorului unei opere de artă originale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0084",
+   "versions": [
+    {
+     "from": "2001-10-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0871bec1-b635-48eb-a227-694b45e429e1.0022.03/DOC_1",
+     "sha256": "4a9b2803028b9c68ec25552b37d2f98313b6638224b7a5aa6557f1cf33cb91f6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-86-2001",
+   "path": "ue/directiva/2001/86",
+   "short": "Directiva 2001/86/CE",
+   "title": "Directiva 2001/86/CE a Consiliului din 8 octombrie 2001 de completare a statutului societății europene în ceea ce privește implicarea lucrătorilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0086",
+   "versions": [
+    {
+     "from": "2001-11-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4337ae8-6cf3-440e-8ab0-a5bc1d53516e.0022.03/DOC_1",
+     "sha256": "edb836a31ed12ef25b21ddc7566f4c0fc18ea4f7131e6e2f5c4930356b28829f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-96-2001",
+   "path": "ue/directiva/2001/96",
+   "short": "Directiva 2001/96/CE",
+   "title": "Directiva 2001/96/CE a Parlamentului European și a Consiliului din 4 decembrie 2001 de stabilire a cerințelor și procedurilor armonizate pentru încărcarea și descărcarea în siguranță a vrachierelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0096",
+   "versions": [
+    {
+     "from": "2002-02-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15205e94-1b8f-43a0-b8d6-e94b785c7334.0022.01/DOC_1",
+     "sha256": "e8a892914f8354b7cf88e753cb02db05c15043667e2a0714a87a602c19068666"
     }
    ]
   }

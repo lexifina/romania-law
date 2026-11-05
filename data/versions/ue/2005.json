@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-12-2005",
+   "path": "ue/directiva/2005/12",
+   "short": "Directiva 2005/12/CE",
+   "title": "Directiva 2005/12/CE a Comisei din 18 februarie 2005 de modificare a anexelor I și II la Directiva 2003/25/CE a Parlamentului European și a Consiliului privind cerințele de stabilitate specifice pentru navele de pasageri ro-roText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0012",
+   "versions": [
+    {
+     "from": "2005-03-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ce01084c-f8dc-4022-ad18-99c96cf23abb.0022.04/DOC_1",
+     "sha256": "bb5e6b4d08adbd606579195fe44348929f1aa196a21c0d5eb5d871c1247c9eb7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-28-2005",
+   "path": "ue/directiva/2005/28",
+   "short": "Directiva 2005/28/CE",
+   "title": "Directiva 2005/28/CE a Comisiei din 8 aprilie 2005 de stabilire a principiilor și a orientărilor detaliate privind aplicarea bunelor practici clinice în ceea ce privește medicamentele experimentale de uz uman, precum și a cerințelor pentru acordarea autorizației de fabricație sau de import de astfel de produseText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0028",
+   "versions": [
+    {
+     "from": "2005-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d8a4e22f-710e-4062-aaf6-ba9772b6decc.0022.03/DOC_1",
+     "sha256": "6ebd4dfe154520312921d7c170b690a70f14b6800f85337227c9cf6922c1062b"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-29-2005",
    "path": "ue/directiva/2005/29",
    "short": "Directiva 2005/29/CE",
@@ -78,6 +108,51 @@
    ]
   },
   {
+   "slug": "ue-directiva-43-2005",
+   "path": "ue/directiva/2005/43",
+   "short": "Directiva 2005/43/CE",
+   "title": "Directiva 2005/43/CE a Comisiei din 23 iunie 2005 de modificare a anexelor la Directiva 68/193/CEE a Consiliului privind comercializarea materialului pentru înmulțirea vegetativă a viței-de-vie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0043",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a06708eb-e2ab-456e-9dad-a1e7faad6776.0022.04/DOC_1",
+     "sha256": "7a2d74f108d19f1251c202f1854cb4c21a140b096551970a727b965987dba1dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-44-2005",
+   "path": "ue/directiva/2005/44",
+   "short": "Directiva 2005/44/CE",
+   "title": "Directiva 2005/44/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind serviciile de informații fluviale (RIS) armonizate pe căile navigabile interioare de pe teritoriul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0044",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e28210e8-9728-4e38-9dbb-ae63a049ca53.0022.03/DOC_1",
+     "sha256": "df8682b1e9c0ae2250ae7e837348282323e1836a2aad8074a7fca3d011d4744f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-47-2005",
+   "path": "ue/directiva/2005/47",
+   "short": "Directiva 2005/47/CE",
+   "title": "Directiva 2005/47/CE a Consiliului din 18 iulie 2005 privind acordul dintre Comunitatea Căilor Ferate Europene (CER) și Federația Europeană a Lucrătorilor în Transporturi (ETF) asupra anumitor aspecte legate de condițiile de muncă ale lucrătorilor mobili care prestează servicii de interoperabilitate transfrontalieră în sectorul feroviar",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0047",
+   "versions": [
+    {
+     "from": "2005-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c808b71-1338-4850-8d30-1890235b150a.0022.03/DOC_1",
+     "sha256": "7c5f4bf6daa95e1f3ed696203fa5765bfd4d52175b084e325b31710409ddf825"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-50-2005",
    "path": "ue/directiva/2005/50",
    "short": "Directiva 2005/50/CE",
@@ -89,6 +164,156 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/222ba47c-7669-4fd7-beef-1a7334f5b5d3.0022.03/DOC_1",
      "sha256": "59cebc37ed9cbec38463410fcb49f9da8b7cf281682830edee522351fa0a0f76"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-61-2005",
+   "path": "ue/directiva/2005/61",
+   "short": "Directiva 2005/61/CE",
+   "title": "Directiva 2005/61/CE a Comisiei din 30 septembrie 2005 de punere în aplicare a Directivei 2002/98/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele de trasabilitate și notificarea incidentelor și a reacțiilor adverse graveText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0061",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/197c3d91-0d7b-4db4-9ceb-1e41ed814dea.0022.04/DOC_1",
+     "sha256": "03f624b8a1ac3573c0226835c0a820e334df44d73444a5d6e90c17e5e7a403d2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-62-2005",
+   "path": "ue/directiva/2005/62",
+   "short": "Directiva 2005/62/CE",
+   "title": "Directiva 2005/62/CE a Comisiei din 30 septembrie 2005 de punere în aplicare a Directivei 2002/98/CE a Parlamentului European și a Consiliului privind standardele și specificațiile comunitare referitoare la un sistem de calitate pentru unitățile de transfuzie sangvinăText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0062",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd234c07-e350-41a4-ba9a-3cda65ee9a22.0022.04/DOC_1",
+     "sha256": "9d3e00aa1311803f710279381fbf7da3931be34f41d2e6c16c6060eaafea4627"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-64-2005",
+   "path": "ue/directiva/2005/64",
+   "short": "Directiva 2005/64/CE",
+   "title": "Directiva 2005/64/CE a Parlamentului European și a Consiliului din 26 octombrie 2005 privind omologarea autovehiculelor în ceea ce privește posibilitățile de reutilizare, reciclare și recuperare a acestora și de modificare a Directivei 70/156/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0064",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0022.04/DOC_93",
+     "sha256": "3f78c8fa83945badc845d44a5c1654159c0953f8610887723877adf646543fa1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-65-2005",
+   "path": "ue/directiva/2005/65",
+   "short": "Directiva 2005/65/CE",
+   "title": "Directiva 2005/65/CE a Parlamentului European și a Consiliului din 26 octombrie 2005 privind consolidarea securității portuareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0065",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0022.03/DOC_1",
+     "sha256": "6cfa1dd6f4c8747624dc7475d03dfded4c53187a36268371b30840bca75454a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-8-2005",
+   "path": "ue/directiva/2005/8",
+   "short": "Directiva 2005/8/CE",
+   "title": "Directiva 2005/8/CE a Comisiei din 27 ianuarie 2005 de modificare a anexei I la Directiva 2002/32/CE a Parlamentului European și a Consiliului din 7 mai 2002 privind substanțele nedorite din furajeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0008",
+   "versions": [
+    {
+     "from": "2005-02-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/348bb2b1-cce7-41e0-88f4-41d247d35717.0022.04/DOC_2",
+     "sha256": "a482695526953e121da205cb106d933a5ea4e9a0970bfa82f00153ac3727ca66"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-85-2005",
+   "path": "ue/directiva/2005/85",
+   "short": "Directiva 2005/85/CE",
+   "title": "Directiva 2005/85/CE a Consiliului din 1 decembrie 2005 privind standardele minime cu privire la procedurile din statele membre de acordare și retragere a statutului de refugiat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0085",
+   "versions": [
+    {
+     "from": "2006-01-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0022.04/DOC_1",
+     "sha256": "4fb547c907da27dee93ca6b0bd6ece648f7438ad6ac22e108cd4dbaf3e966829"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-86-2005",
+   "path": "ue/directiva/2005/86",
+   "short": "Directiva 2005/86/CE",
+   "title": "Directiva 2005/86/CE a Comisiei din 5 decembrie 2005 de modificare a anexei I la Directiva 2002/32/CE a Parlamentului European și a Consiliului privind substanțele nedorite din furaje în ceea ce privește camfeclorulText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0086",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d518131c-17b9-4bc2-95c4-71d1416b1224.0022.04/DOC_1",
+     "sha256": "b92543ff8eb25a9b37dbfff1391431ba28766783aee90f09f4ea928072da5319"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-87-2005",
+   "path": "ue/directiva/2005/87",
+   "short": "Directiva 2005/87/CE",
+   "title": "Directiva 2005/87/CE a Comisiei din 5 decembrie 2005 de modificare a anexei I la Directiva 2002/32/CE a Parlamentului European și a Consiliului privind substanțele nedorite din furaje în ceea ce privește plumbul, fluorul și cadmiulText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0087",
+   "versions": [
+    {
+     "from": "2005-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b416e3f4-f66a-47fa-8242-d0117679afb2.0022.04/DOC_1",
+     "sha256": "19277e8037b1f729b80a0d335bae3532f5d9a642f222b871e2b4a1d3214443b2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-88-2005",
+   "path": "ue/directiva/2005/88",
+   "short": "Directiva 2005/88/CE",
+   "title": "Directiva 2005/88/CE a Parlamentului European și a Consiliului din 14 decembrie 2005 de modificare a Directivei 2000/14/CE privind apropierea legislațiilor statelor membre cu privire la emisiile sonore în mediu produse de echipamentele utilizate în exteriorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0088",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a83cd8c8-b37e-433b-89a9-132e87030a69.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-91-2005",
+   "path": "ue/directiva/2005/91",
+   "short": "Directiva 2005/91/CE",
+   "title": "Directiva 2005/91/CE a Comisiei din 16 decembrie 2005 de modificare a Directivei 2003/90/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directiva 2002/53/CE a Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricoleText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0091",
+   "versions": [
+    {
+     "from": "2005-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c8859297-acbf-49ef-bfc4-c04b92fc860c.0022.04/DOC_1",
+     "sha256": "ec58e981c62e71081bc6b8f27f12558422fa27fbd08c767fd39a2de369f883b6"
     }
    ]
   }

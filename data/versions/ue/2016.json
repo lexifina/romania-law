@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-1106-2016",
+   "path": "ue/directiva/2016/1106",
+   "short": "Directiva (UE) 2016/1106",
+   "title": "Directiva (UE) 2016/1106 a Comisiei din 7 iulie 2016 de modificare a Directivei 2006/126/CE a Parlamentului European și a Consiliului privind permisele de conducere (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L1106",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dd8a0e11-44cf-11e6-9c64-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "601a8e82bc67b9211b62d0e940037af31234ee96185a25516cfd565b887f6e39"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-1164-2016",
    "path": "ue/directiva/2016/1164",
    "short": "Directiva (UE) 2016/1164",
@@ -44,6 +59,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/029ea67e-4d76-11e6-89bd-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "bff06276009edc7b8c98c34dabc68036cb9dcc3f903067987bf00bee9b8b6801"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1214-2016",
+   "path": "ue/directiva/2016/1214",
+   "short": "Directiva (UE) 2016/1214",
+   "title": "Directiva (UE) 2016/1214 a Comisiei din 25 iulie 2016 de modificare a Directivei 2005/62/CE în ceea ce privește standardele și specificațiile sistemului de calitate pentru unitățile de transfuzie sangvină (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L1214",
+   "versions": [
+    {
+     "from": "2016-08-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/72df70cb-5300-11e6-89bd-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "91df8a1c6a938c08b6769995a232aa0a3b32f37812525853442b61268fc9ba69"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1629-2016",
+   "path": "ue/directiva/2016/1629",
+   "short": "Directiva (UE) 2016/1629",
+   "title": "Directiva (UE) 2016/1629 a Parlamentului European și a Consiliului din 14 septembrie 2016 de stabilire a cerințelor tehnice pentru navele de navigație interioară, de modificare a Directivei 2009/100/CE și de abrogare a Directivei 2006/87/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L1629",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/716da0f9-7bd1-11e6-b076-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0677cf5ca09d98c66c7a1df6441dfa28b3c93b4413cfa8346e53810880677992"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1855-2016",
+   "path": "ue/directiva/2016/1855",
+   "short": "Directiva (UE) 2016/1855",
+   "title": "Directiva (UE) 2016/1855 a Comisiei din 19 octombrie 2016 de modificare a Directivei 2009/32/CE a Parlamentului European și a Consiliului de apropiere a legislațiilor statelor membre privind solvenții de extracție utilizați la fabricarea produselor alimentare și a ingredientelor alimentare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L1855",
+   "versions": [
+    {
+     "from": "2016-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/be9794d2-9694-11e6-a9e2-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ac561c711f2b5171dbe76208881c8d8504525877f86060ebbf9b735d093cdff1"
     }
    ]
   },
@@ -123,6 +183,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-2309-2016",
+   "path": "ue/directiva/2016/2309",
+   "short": "Directiva (UE) 2016/2309",
+   "title": "Directiva (UE) 2016/2309 a Comisiei din 16 decembrie 2016 de adaptare, pentru a patra oară, la progresul științific și tehnic a anexelor la Directiva 2008/68/CE a Parlamentului European și a Consiliului privind transportul interior de mărfuri periculoase (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L2309",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3dd439d3-c684-11e6-a6db-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "50cce36dd551a5fa75823db3c08efe78bead5017607207a1ef9502acb92a2f8b"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-2341-2016",
    "path": "ue/directiva/2016/2341",
    "short": "Directiva (UE) 2016/2341",
@@ -164,6 +239,246 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/8ed9d641-e757-11e5-8a50-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "bf35fee51c29dad174c89fa7991b2f140d02db37f1e7ba28cb97e4c428c961c9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-680-2016",
+   "path": "ue/directiva/2016/680",
+   "short": "Directiva (UE) 2016/680",
+   "title": "Directiva (UE) 2016/680 a Parlamentului European și a Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice referitor la prelucrarea datelor cu caracter personal de către autoritățile competente în scopul prevenirii, depistării, investigării sau urmăririi penale a infracțiunilor sau al executării pedepselor și privind libera circulație a acestor date și de abrogare a Deciziei-cadru 2008/977/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0680",
+   "versions": [
+    {
+     "from": "2016-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/182703d1-11bd-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e9e70450ecce9fc45f50a492a22348c8e240be9fd84be8040cb28a1a4d3f963f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-681-2016",
+   "path": "ue/directiva/2016/681",
+   "short": "Directiva (UE) 2016/681",
+   "title": "Directiva (UE) 2016/681 a Parlamentului European și a Consiliului din 27 aprilie 2016 privind utilizarea datelor din registrul cu numele pasagerilor (PNR) pentru prevenirea, depistarea, investigarea și urmărirea penală a infracțiunilor de terorism și a infracțiunilor grave",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0681",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ba036c2-11bd-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "033e2e680ede7ea524aa9a75916503c99068fe14d8d180e9d80926f14c800676"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-774-2016",
+   "path": "ue/directiva/2016/774",
+   "short": "Directiva (UE) 2016/774",
+   "title": "Directiva (UE) 2016/774 a Comisiei din 18 mai 2016 de modificare a anexei II la Directiva 2000/53/CE a Parlamentului European și a Consiliului privind vehiculele scoase din uz (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0774",
+   "versions": [
+    {
+     "from": "2016-06-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d9230fd-1d84-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c1c4bf0809ff66aa7886c74c2de1939fbbb3e1042d11b3bbd7f4983e3be43c7d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-797-2016",
+   "path": "ue/directiva/2016/797",
+   "short": "Directiva (UE) 2016/797",
+   "title": "Directiva (UE) 2016/797 a Parlamentului European și a Consiliului din 11 mai 2016 privind interoperabilitatea sistemului feroviar în Uniunea Europeană (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0797",
+   "versions": [
+    {
+     "from": "2016-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eaefba25-22d0-11e6-86d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b55a4aefade81748f4986114cfd1795196dc552aba71def6a587a8c879f3adfa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-798-2016",
+   "path": "ue/directiva/2016/798",
+   "short": "Directiva (UE) 2016/798",
+   "title": "Directiva (UE) 2016/798 a Parlamentului European și a Consiliului din 11 mai 2016 privind siguranța feroviară (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0798",
+   "versions": [
+    {
+     "from": "2016-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b24c5e2e-22d0-11e6-86d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ab2194ab797b37aeceaa6ce55242954228f9c2703c0b7817fe6bc0f45e69aae7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-800-2016",
+   "path": "ue/directiva/2016/800",
+   "short": "Directiva (UE) 2016/800",
+   "title": "Directiva (UE) 2016/800 a Parlamentului European și a Consiliului din 11 mai 2016 privind garanțiile procedurale pentru copiii care sunt persoane suspectate sau acuzate în cadrul procedurilor penale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0800",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/224dd2cf-1edd-11e6-86d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b19fe9ebd83262a929f5a76479b490747554669f9425c5fa8c85132cbd189fb7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-801-2016",
+   "path": "ue/directiva/2016/801",
+   "short": "Directiva (UE) 2016/801",
+   "title": "Directiva (UE) 2016/801 a Parlamentului European și a Consiliului din 11 mai 2016 privind condițiile de intrare și de ședere a resortisanților țărilor terțe pentru cercetare, studii, formare profesională, servicii de voluntariat, programe de schimb de elevi sau proiecte educaționale și muncă au pair (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0801",
+   "versions": [
+    {
+     "from": "2016-05-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65b80366-1ede-11e6-86d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "da9fb8c195fc0ede994d401f492e8d2f1d9c76df376bc47364e591cbc3a059de"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-802-2016",
+   "path": "ue/directiva/2016/802",
+   "short": "Directiva (UE) 2016/802",
+   "title": "Directiva (UE) 2016/802 a Parlamentului European și a Consiliului din 11 mai 2016 privind reducerea conținutului de sulf din anumiți combustibili lichizi (text codificat)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0802",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/76a4e627-1ede-11e6-86d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6f66a150e1247468c430a8dd46a2933a6d2f20588f280664fd7c511eefcbd68b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-844-2016",
+   "path": "ue/directiva/2016/844",
+   "short": "Directiva (UE) 2016/844",
+   "title": "Directiva (UE) 2016/844 a Comisiei din 27 mai 2016 de modificare a Directivei 2009/45/CE a Parlamentului European și a Consiliului privind normele și standardele de siguranță pentru navele de pasageri (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0844",
+   "versions": [
+    {
+     "from": "2016-06-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d631539e-2496-11e6-86d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3c2ec5f88c5b80e9c65324eb93929ea0b7d9db833af2d16d864e77969e1d12e6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-856-2016",
+   "path": "ue/directiva/2016/856",
+   "short": "Directiva (UE) 2016/856",
+   "title": "Directiva (UE) 2016/856 a Consiliului din 25 mai 2016 de modificare a Directivei 2006/112/CE privind sistemul comun al taxei pe valoarea adăugată, în ceea ce privește durata obligației de respectare a cotei standard minime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0856",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b9dec69-26f8-11e6-86d0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5d2bb32d893a904dbb88afd6a82fa02f8662e7aa995dd85a17ebc105231241b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-881-2016",
+   "path": "ue/directiva/2016/881",
+   "short": "Directiva (UE) 2016/881",
+   "title": "Directiva (UE) 2016/881 a Consiliului din 25 mai 2016 de modificare a Directivei 2011/16/UE în ceea ce privește schimbul automat obligatoriu de informații în domeniul fiscal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0881",
+   "versions": [
+    {
+     "from": "2016-06-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/859a15db-2957-11e6-b616-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "42dfc501f59d81a601b2dda6542bc3113b35687193a81239f820660c685814c7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-882-2016",
+   "path": "ue/directiva/2016/882",
+   "short": "Directiva (UE) 2016/882",
+   "title": "Directiva (UE) 2016/882 a Comisiei din 1 iunie 2016 de modificare a Directivei 2007/59/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele lingvistice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0882",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a5d0648f-2957-11e6-b616-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7971c879d60305db36b67e25b20339cc2e401050d203303fab761be99a622da2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-943-2016",
+   "path": "ue/directiva/2016/943",
+   "short": "Directiva (UE) 2016/943",
+   "title": "Directiva (UE) 2016/943 a Parlamentului European și a Consiliului din 8 iunie 2016 privind protecția know-how-ului și a informațiilor de afaceri nedivulgate (secrete comerciale) împotriva dobândirii, utilizării și divulgării ilegale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0943",
+   "versions": [
+    {
+     "from": "2016-07-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dc0eda0f-32bc-11e6-b497-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6bc471a9b0b26a9b4c4887c38c15d590d8a9b2f7b1d7b79d3fe644367c2cdf8d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-97-2016",
+   "path": "ue/directiva/2016/97",
+   "short": "Directiva (UE) 2016/97",
+   "title": "Directiva (UE) 2016/97 a Parlamentului European și a Consiliului din 20 ianuarie 2016 privind distribuția de asigurări (reformare)Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0097",
+   "versions": [
+    {
+     "from": "2016-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/71ac60f7-c97f-11e5-a4b5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d07e7934014ab79a7d272e403b7258408571f4aa9a5eb0cc48fd573cffff6f04"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-970-2016",
+   "path": "ue/directiva/2016/970",
+   "short": "Directiva (UE) 2016/970",
+   "title": "Directiva (UE) 2016/970 a Comisiei din 27 mai 2016 de modificare a Directivei 2009/43/CE a Parlamentului European și a Consiliului în ceea ce privește lista produselor din domeniul apărării (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0970",
+   "versions": [
+    {
+     "from": "2016-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e58a462e-377e-11e6-a825-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e4f932fb7bb447f43c94158e2de8b4bf10772dc8e60474f1b626efa9c952962d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-679-2016",
+   "path": "ue/regulament/2016/679",
+   "short": "Regulamentul (UE) 2016/679",
+   "title": "Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0679",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bb84c6c725284518799070f4efb7278ea976d101d110baee51548cfd0d4b534c"
     }
    ]
   }

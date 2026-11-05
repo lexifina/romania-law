@@ -3,6 +3,36 @@
  "shard": "ue/2007",
  "acts": [
   {
+   "slug": "ue-directiva-14-2007",
+   "path": "ue/directiva/2007/14",
+   "short": "Directiva 2007/14/CE",
+   "title": "Directiva 2007/14/CE a Comisiei din 8 martie 2007 de stabilire a normelor de aplicare a anumitor dispoziții ale Directivei 2004/109/CE privind armonizarea obligațiilor de transparență în ceea ce privește informația referitoare la emitenții ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0014",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3785080a-2539-4f3f-8478-9ac6e999ed89.0018.02/DOC_1",
+     "sha256": "aeaab0a8df06baece98f00a0a634c3cb06434c9a44b6993395cadffe5148f2bf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-16-2007",
+   "path": "ue/directiva/2007/16",
+   "short": "Directiva 2007/16/CE",
+   "title": "Directiva 2007/16/CE a Comisiei din 19 martie 2007 privind punerea în aplicare a Directivei 85/611/CEE a Consiliului privind coordonarea actelor cu putere de lege și a actelor administrative privind anumite organisme de plasament colectiv în valori mobiliare (OPCVM), în ceea ce privește clarificarea anumitor definiții (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0016",
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/58bc3fc1-52e0-4e6f-950d-59bac95868a9.0018.02/DOC_1",
+     "sha256": "03ff090b5238b9031aa22a81dd602dae0f0dbea31ed1dd43ea41ef31b74179e5"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-19-2007",
    "path": "ue/directiva/2007/19",
    "short": "Directiva 2007/19/CE",
@@ -33,6 +63,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-24-2007",
+   "path": "ue/directiva/2007/24",
+   "short": "Directiva 2007/24/CE",
+   "title": "Directiva 2007/24/CE a Parlamentului European și a Consiliului din 23 mai 2007 de abrogare a Directivei 71/304/CEE a Consiliului privind eliminarea restricțiilor referitoare la libertatea de a presta servicii în domeniul contractelor de achiziții publice de lucrări și la atribuirea contractelor de achiziții publice de lucrări prin intermediul agențiilor sau sucursalelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0024",
+   "versions": [
+    {
+     "from": "2007-06-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/052b2868-f020-4da1-8e95-c830e172ea68.0019.02/DOC_1",
+     "sha256": "485eaa31b24747fdcf3030ae193d2d4cb1b69a71c741426795238d9515cdcf91"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-30-2007",
    "path": "ue/directiva/2007/30",
    "short": "Directiva 2007/30/CE",
@@ -44,6 +89,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e51a0237-5e67-4021-b7d8-1dc1d89d5cdc.0019.02/DOC_1",
      "sha256": "627a31f00329e3e34314e8b99462352867849c55c3e85e44a8bdd226c6f7f5e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-34-2007",
+   "path": "ue/directiva/2007/34",
+   "short": "Directiva 2007/34/CE",
+   "title": "Directiva 2007/34/CE a Comisiei din 14 iunie 2007 de modificare, în vederea adaptării la progresul tehnic, a Directivei 70/157/CEE a Consiliului referitoare la nivelul de zgomot admis și la sistemul de evacuare al autovehiculelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0034",
+   "versions": [
+    {
+     "from": "2007-07-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2f99fdbe-7ce1-47c7-83a8-da7b32216d81.0019.02/DOC_1",
+     "sha256": "8d5976b07c2e31a372cdbc196da0ed0e2949153cc17fcfd77750e96d5ff75ff5"
     }
    ]
   },
@@ -63,6 +123,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-38-2007",
+   "path": "ue/directiva/2007/38",
+   "short": "Directiva 2007/38/CE",
+   "title": "Directiva 2007/38/CE a Parlamentului European și a Consiliului din 11 iulie 2007 privind postechiparea cu oglinzi retrovizoare a vehiculelor grele pentru transportul de mărfuri înmatriculate în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0038",
+   "versions": [
+    {
+     "from": "2007-08-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/49b7e17e-a9ed-4e94-b0d8-ebe5068360ac.0019.02/DOC_1",
+     "sha256": "afabc91e5faa2d18a93bd7cad0dc96a527f3418dcd289d7a99cc396b6f25c819"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-42-2007",
    "path": "ue/directiva/2007/42",
    "short": "Directiva 2007/42/CE",
@@ -74,6 +149,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/06436cae-5867-4271-8b3e-03378c02a0b0.0019.04/DOC_1",
      "sha256": "8b2e3df1b549bb2dd83b98aeef0a4941f6cdcc67f004bbb222562d8756906c86"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-43-2007",
+   "path": "ue/directiva/2007/43",
+   "short": "Directiva 2007/43/CE",
+   "title": "Directiva 2007/43/CE a Consiliului din 28 iunie 2007 de stabilire a normelor minime de protecție a puilor destinați producției de carne (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0043",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d6db5ca1-1935-47cc-82e2-e16d3f84f4ed.0019.03/DOC_1",
+     "sha256": "f78f2e873e9359a7b9b937223035967c0340daddc3d4c0b065932da9a17abb96"
     }
    ]
   },
@@ -93,6 +183,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-48-2007",
+   "path": "ue/directiva/2007/48",
+   "short": "Directiva 2007/48/CE",
+   "title": "Directiva 2007/48/CE a Comisiei din 26 iulie 2007 de modificare a Directivei 2003/90/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directiva 2002/53/CE a Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0048",
+   "versions": [
+    {
+     "from": "2007-08-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a3c06b8-b49c-4f81-99b9-f887dab3452d.0019.03/DOC_1",
+     "sha256": "ff61b101ec601f19b2903a0e1fa4d67ba66ac77fe59d0d48cbcae8e4a12b1cd8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-49-2007",
+   "path": "ue/directiva/2007/49",
+   "short": "Directiva 2007/49/CE",
+   "title": "Directiva 2007/49/CE a Comisiei din 26 iulie 2007 de modificare a Directivei 2003/91/CE de stabilire a normelor de aplicare a dispozițiilor articolului 7 din Directiva 2002/55/CE a Consiliului privind numărul minim de caracteristici care trebuie examinate și condițiile minime necesare pentru examinarea anumitor soiuri de legume (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0049",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a73d20e4-cc60-468c-bca5-7bc796063491.0019.03/DOC_1",
+     "sha256": "3a2ab3b00ec0abdb087ef28c69431200136c1597fd0bd302d20ed615ff33708e"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-59-2007",
    "path": "ue/directiva/2007/59",
    "short": "Directiva 2007/59/CE",
@@ -104,6 +224,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/40923248-5509-41b9-9c89-4b6fdeb2ba80.0019.02/DOC_1",
      "sha256": "b0212a74679456de60b037cfe6f510ea4e491fb521ee199fe716da58d0d1f521"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-60-2007",
+   "path": "ue/directiva/2007/60",
+   "short": "Directiva 2007/60/CE",
+   "title": "Directiva 2007/60/CE a Parlamentului European și a Consiliului din 23 octombrie 2007 privind evaluarea și gestionarea riscurilor de inundații (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0060",
+   "versions": [
+    {
+     "from": "2007-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e2a74e6e-8145-4b93-bf07-d5653a55a743.0019.02/DOC_1",
+     "sha256": "2aa89ec2c717f2f6b03c8a713f27af37d857d6891daee4986d4b51a2dd3b669f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-61-2007",
+   "path": "ue/directiva/2007/61",
+   "short": "Directiva 2007/61/CE",
+   "title": "Directiva 2007/61/CE a Consiliului din 26 septembrie 2007 de modificare a Directivei 2001/114/CE privind anumite sortimente de lapte conservat, parțial sau integral deshidratat și destinat consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0061",
+   "versions": [
+    {
+     "from": "2007-10-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8e8023e2-6ef7-49e4-974d-50a81bce9c8a.0019.02/DOC_1",
+     "sha256": "bb5a16d51827d639d85c2b12699421b6b13287c57f27ba4e5bea6305e3fe87ed"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-66-2007",
+   "path": "ue/directiva/2007/66",
+   "short": "Directiva 2007/66/CE",
+   "title": "Directiva 2007/66/CE a Parlamentului European și a Consiliului din 11 decembrie 2007 de modificare a Directivelor 89/665/CEE și 92/13/CEE ale Consiliului în ceea ce privește ameliorarea eficacității căilor de atac în materie de atribuire a contractelor de achiziții publice (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0066",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c3c9c373-0f2f-41ff-8ee8-924dd53658c6.0019.03/DOC_1",
+     "sha256": "75190f643194135a040f75df5cc63f2ed26a486accb5aef490ed4281c5c72a10"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-72-2007",
+   "path": "ue/directiva/2007/72",
+   "short": "Directiva 2007/72/CE",
+   "title": "Directiva 2007/72/CE a Comisiei din 13 decembrie 2007 de modificare a Directivei 66/401/CEE a Consiliului în ceea ce privește includerea speciei Galega orientalis Lam. (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0072",
+   "versions": [
+    {
+     "from": "2008-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/385d4435-0fca-4993-88d3-585784e9549d.0019.03/DOC_1",
+     "sha256": "8ceebcb67300bc810632b5a561db19aa754549229ada70dc160e39624b175d32"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-74-2007",
+   "path": "ue/directiva/2007/74",
+   "short": "Directiva 2007/74/CE",
+   "title": "Directiva 2007/74/CE a Consiliului din 20 decembrie 2007 privind scutirea de taxa pe valoare adăugată și de accize pentru bunurile importate de către persoanele care călătoresc din țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0074",
+   "versions": [
+    {
+     "from": "2007-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/84ef27b4-c137-4386-ae28-c79d2bebdc12.0019.02/DOC_1",
+     "sha256": "dd1e84b044ed9b61a758b62683658299c8acdce46824ebfb159721e4ca22df31"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-75-2007",
+   "path": "ue/directiva/2007/75",
+   "short": "Directiva 2007/75/CE",
+   "title": "Directiva 2007/75/CE a Consiliului din 20 decembrie 2007 de modificare a Directivei 2006/112/CE în ceea ce privește anumite dispoziții temporare referitoare la cotele taxei pe valoarea adăugată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0075",
+   "versions": [
+    {
+     "from": "2007-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/87c74192-5078-421e-81ec-311cdb7a90eb.0019.02/DOC_1",
+     "sha256": "2015e47511aa8459c6cfd84a63d2d9ea355e204b0f00385d7ea0d345903026d7"
     }
    ]
   }

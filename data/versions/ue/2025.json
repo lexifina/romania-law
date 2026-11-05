@@ -286,6 +286,36 @@
      "sha256": "b488a1deb17acbaf2f8190e1e956799c4916692dec6a611a3c37a86abc80e090"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-794-2025",
+   "path": "ue/directiva/2025/794",
+   "short": "Directiva (UE) 2025/794",
+   "title": "Directiva (UE) 2025/794 a Parlamentului European și a Consiliului din 14 aprilie 2025 de modificare a Directivelor (UE) 2022/2464 și (UE) 2024/1760 în ceea ce privește datele de la care statele membre trebuie să aplice anumite cerințe de raportare și de diligență necesară în materie de durabilitate a întreprinderilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L0794",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8a789948-1a5f-11f0-b1a3-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8861b309f7e83ea1a2dc7027b1b0b4e8120900bab1426ae8565fb830ede6ddb8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-872-2025",
+   "path": "ue/directiva/2025/872",
+   "short": "Directiva (UE) 2025/872",
+   "title": "Directiva (UE) 2025/872 a Consiliului din 14 aprilie 2025 de modificare a Directivei 2011/16/UE privind cooperarea administrativă în domeniul fiscal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L0872",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da4ea701-2a16-11f0-8a44-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "568af37c6be469d9daabe5488c045ff3a3388f1ef944ad8df474b6e8e514b47b"
+    }
+   ]
   }
  ]
 }

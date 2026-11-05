@@ -241,6 +241,66 @@
      "sha256": "9ba8efac38624bf3c19e83245a88c61953218eabec05afbaf7b9d63f48c12c0b"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-642-2022",
+   "path": "ue/directiva/2022/642",
+   "short": "Directiva (UE) 2022/642",
+   "title": "Directiva (UE) 2022/642 a Parlamentului European și a Consiliului din 12 aprilie 2022 de modificare a Directivelor 2001/20/CE și 2001/83/CE în ceea ce privește derogările de la anumite obligații referitoare la anumite medicamente de uz uman puse la dispoziție în Regatul Unit în ceea ce privește Irlanda de Nord și în Cipru, Irlanda și Malta (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0642",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e78e420-c043-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b20bca84f9593035814ad749835e70000efc83d79f6a1337c96bf360e38f12eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-738-2022",
+   "path": "ue/directiva/2022/738",
+   "short": "Directiva (UE) 2022/738",
+   "title": "Directiva (UE) 2022/738 a Parlamentului European și a Consiliului din 6 aprilie 2022 de modificare a Directivei 2006/1/CE privind utilizarea vehiculelor închiriate fără conducători auto pentru transportul rutier de mărfuri (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0738",
+   "versions": [
+    {
+     "from": "2022-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6c3f8ee3-d4e0-11ec-a95f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3ec8dd2550d3b8414f42e6c6e7ac3dfcb8b268882bfade18594b5d0982654af5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-890-2022",
+   "path": "ue/directiva/2022/890",
+   "short": "Directiva (UE) 2022/890",
+   "title": "Directiva (UE) 2022/890 a Consiliului din 3 iunie 2022 de modificare a Directivei 2006/112/CE în ceea ce privește prelungirea perioadei de aplicare a mecanismului opțional de taxare inversă în legătură cu livrările de anumite bunuri și prestările de anumite servicii care prezintă risc de fraudă și a mecanismului de reacție rapidă împotriva fraudei în domeniul TVA",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0890",
+   "versions": [
+    {
+     "from": "2022-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/34d092cc-e6c6-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d128d088efe8ba18d639c5e9439dc7ebc9410c2ba4fdbff1908f305f009efec2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-993-2022",
+   "path": "ue/directiva/2022/993",
+   "short": "Directiva (UE) 2022/993",
+   "title": "Directiva (UE) 2022/993 a Parlamentului European și a Consiliului din 8 iunie 2022 privind nivelul minim de formare a navigatorilor (codificare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0993",
+   "versions": [
+    {
+     "from": "2022-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65d8e651-f5b2-11ec-b976-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5bea2cdfaed6f2c894fce1e34f1526bc0e80fb99d6d9a3d0b53b1e95d207d60d"
+    }
+   ]
   }
  ]
 }

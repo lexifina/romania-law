@@ -196,6 +196,66 @@
      "sha256": "dd86a47151687c4857fd5686b0a3250dbd0b68dfa148a8996aa7263b0f30b804"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-612-2020",
+   "path": "ue/directiva/2020/612",
+   "short": "Directiva (UE) 2020/612",
+   "title": "Directiva (UE) 2020/612 a Comisiei din 4 mai 2020 de modificare a Directivei 2006/126/CE a Parlamentului European și a Consiliului privind permisele de conducere (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0612",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/31a29b76-8fa4-11ea-812f-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ce36352f234f294d725fa8db0815d56136ab6e44389d9aec05a469d7c793cab5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-700-2020",
+   "path": "ue/directiva/2020/700",
+   "short": "Directiva (UE) 2020/700",
+   "title": "Directiva (UE) 2020/700 a Parlamentului European și a Consiliului din 25 mai 2020 de modificare a Directivelor (UE) 2016/797 și (UE) 2016/798 în ceea ce privește prelungirea perioadelor lor de transpunere (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0700",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b489136f-9fe9-11ea-9d2d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "eda36ba7d0ec2b79d2224dde67ee46687b277cc2f1170a35c0f9b405b914e273"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-739-2020",
+   "path": "ue/directiva/2020/739",
+   "short": "Directiva (UE) 2020/739",
+   "title": "Directiva (UE) 2020/739 a Comisiei din 3 iunie 2020 de modificare a anexei III la Directiva 2000/54/CE a Parlamentului European și a Consiliului în ceea ce privește includerea SARS-CoV-2 în lista agenților biologici care cauzează infecții la om și de modificare a Directivei (UE) 2019/1833 a Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0739",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/26c2097f-a626-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b88812253e71f73fec9980b966c3a7f2aec14da0730f482234745aec5893f1d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-876-2020",
+   "path": "ue/directiva/2020/876",
+   "short": "Directiva (UE) 2020/876",
+   "title": "Directiva (UE) 2020/876 a Consiliului din 24 iunie 2020 de modificare a Directivei 2011/16/UE în vederea soluționării nevoii urgente de amânare a anumitor termene pentru depunerea și schimbul de informații în domeniul fiscal ca urmare a pandemisei de COVID-19",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0876",
+   "versions": [
+    {
+     "from": "2020-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f06bf799-b777-11ea-bb7a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "45f6fef72877a6e64d7ff641471eff3ab0a7ce68c7ef57f1b76386f4e733185f"
+    }
+   ]
   }
  ]
 }

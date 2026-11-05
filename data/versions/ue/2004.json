@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-117-2004",
+   "path": "ue/directiva/2004/117",
+   "short": "Directiva 2004/117/CE",
+   "title": "Directiva 2004/117/CE a Consiliului din 22 decembrie 2004 de modificare a directivelor 66/401/CEE, 66/402/CEE, 2002/54/CE, 2002/55/CE și 2002/57/CE privind examinările efectuate sub supraveghere oficială și echivalența semințelor produse în țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0117",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4d202930-39f6-4516-9a7d-aa26b4de21d9.0022.03/DOC_2",
+     "sha256": "7bb9b24ae26f45b7b34e14a604718c2d63e1bfc289d38470abd9b54f4245f23f"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-23-2004",
    "path": "ue/directiva/2004/23",
    "short": "Directiva 2004/23/CE",
@@ -149,6 +164,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/61bbe31e-fc11-4f11-b2a7-e175a7529f8d.0022.04/DOC_1",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-29-2004",
+   "path": "ue/directiva/2004/29",
+   "short": "Directiva 2004/29/CE",
+   "title": "Directiva 2004/29/CE a Comisiei din 4 martie 2004 privind stabilirea caracteristicilor și a condițiilor minime pentru inspectarea soiurilor de viță de vie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0029",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55091694-037d-4044-a818-d1b2c52891e2.0022.04/DOC_1",
+     "sha256": "8f0d0b000f6e8a0d0de65a1b62ea0c5113d5a73c696cabf4a80cdc1303aa1a61"
     }
    ]
   },
@@ -213,6 +243,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-41-2004",
+   "path": "ue/directiva/2004/41",
+   "short": "Directiva 2004/41/CE",
+   "title": "Directiva 2004/41/CE a Parlamentului European și a Consiliului din 21 aprilie 2004 de abrogare a unor directive privind igiena alimentară și normele sanitar-veterinare referitoare la producția și comercializarea anumitor produse de origine animală destinate consumului uman și de modificare a Directivelor 89/662/CEE și 92/118/CEE ale Consiliului, precum și a Deciziei 95/408/CE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0041",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ddf99b57-c682-46c5-a35d-0c7a4c455cf0.0022.04/DOC_1",
+     "sha256": "a24efa4ab4121714383ffaba767b52ada4df8c668ec844d13a73bebec2ef9ab1"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-42-2004",
    "path": "ue/directiva/2004/42",
    "short": "Directiva 2004/42/CE",
@@ -254,6 +299,171 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/3681d17d-ec25-4d1a-b189-01af9633e04c.0022.01/DOC_1",
      "sha256": "0689a99fcd3f04bc647c8d74151c4e7f11159c17b207e506cc9e8ca78f179fd9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-55-2004",
+   "path": "ue/directiva/2004/55",
+   "short": "Directiva 2004/55/CE",
+   "title": "Directiva 2004/55/CE a Comisiei din 20 aprilie 2004 de modificare a Directivei 66/401/CEE a Consiliului privind comercializarea semințelor de plante furajereText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0055",
+   "versions": [
+    {
+     "from": "2004-05-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b90fab8-fd16-4f7a-8468-cedc4d18f73b.0022.04/DOC_1",
+     "sha256": "318fcea443c1fc9f8a56547b9613ae21eeebac4b180c3098df478b318744e497"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-66-2004",
+   "path": "ue/directiva/2004/66",
+   "short": "Directiva CELEX 32004L0066",
+   "title": "Directiva Consiliului din 26 aprilie 2004 de adaptare a Directivelor 1999/45/CE, 2002/83/CE, 2003/37/CE și 2003/59/CE ale Parlamentului European și ale Consiliului și a Directivelor 77/388/CEE, 91/414/CEE, 96/26/CE, 2003/48/CE și 2003/49/CE ale Consiliului din domeniile liberei circulații a mărfurilor, libertății de a presta servicii, agriculturii, politicii de transport și impozitării, cu ocazia aderării Republicii Cehe, a Estoniei, a Ciprului, a Letoniei, a Lituaniei, a Ungariei, a Maltei, a Poloniei, a Sloveniei și a Slovaciei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0066",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5ddb1e76-d8cb-4cd8-bab7-ee35afd2c75d.0022.04/DOC_1",
+     "sha256": "a62af9a33136e01d9a7e395ca3ce391d691fe6db360c5ae0f114af3b27b64d72"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-74-2004",
+   "path": "ue/directiva/2004/74",
+   "short": "Directiva 2004/74/CE",
+   "title": "Directiva 2004/74/CE a Consiliului din 29 aprilie 2004 de modificare a Directivei 2003/96/CE în ceea ce privește posibilitatea unor state membre de a aplica scutiri sau reduceri temporare ale nivelurilor de impozitare la produsele energetice sau electricitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0074",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b23625b3-5524-4d30-a4bc-eba3670de338.0022.04/DOC_1",
+     "sha256": "b2183708bc3e3a8ca1c85c16f9e62f23f8fd40647adc524147dfbc3f03e3c196"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-75-2004",
+   "path": "ue/directiva/2004/75",
+   "short": "Directiva 2004/75/CE",
+   "title": "Directiva 2004/75/CE a Consiliului din 29 aprilie 2004 de modificare a Directivei 2003/96/CE în ceea ce privește posibilitatea ca Cipru să aplice, pentru produsele energetice și electricitate, scutiri sau reduceri temporare ale nivelurilor de impozitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0075",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3968ceb6-c8b5-4d86-a3b8-8cb230f6dc1d.0022.04/DOC_1",
+     "sha256": "c135788ec438b0bb4fc4d12a9df478e3d4e1dcc88faf82bbd79201a6db3d5b5d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-76-2004",
+   "path": "ue/directiva/2004/76",
+   "short": "Directiva 2004/76/CE",
+   "title": "Directiva 2004/76/CE a Consiliului din 29 aprilie 2004 de modificare a Directivei 2003/49/CE în ceea ce privește posibilitatea ca anumite state membre să stabilească perioade de tranziție pentru aplicarea unui regim comun de impozitare aplicabil plăților de dobânzi și redevențe efectuate între societăți asociate din diferite state membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0076",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e744966a-ca81-44b5-beab-f361c5cf4271.0022.04/DOC_1",
+     "sha256": "08fcd2bf1a6bdf8de45958c4d956dc575dd2f24fe1704aa6cd7dcf4a76d12b7e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-80-2004",
+   "path": "ue/directiva/2004/80",
+   "short": "Directiva 2004/80/CE",
+   "title": "Directiva 2004/80/CE a Consiliului din 29 aprilie 2004 privind despăgubirea victimelor infracționalității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0080",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d793897a-b1b2-457b-af26-b8bbce840b62.0022.05/DOC_1",
+     "sha256": "5188b013498e34e3d15dabf3a7da8dc859e6b5cf6a5f36a6538af1d3a78f65e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-81-2004",
+   "path": "ue/directiva/2004/81",
+   "short": "Directiva 2004/81/CE",
+   "title": "Directiva 2004/81/CE a Consiliului din 29 aprilie 2004 privind permisul de ședere eliberat resortisanților țărilor terțe care sunt victime ale traficului de persoane sau care au făcut obiectul unei facilitări a imigrației ilegale și care cooperează cu autoritățile competente",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0081",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15a6bebb-0b42-448a-836b-33b8b4d135fd.0022.05/DOC_1",
+     "sha256": "b4b6879e38d48d428a030c039ea745e81f5a7ec529aec4ec598933925bdb1be6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-82-2004",
+   "path": "ue/directiva/2004/82",
+   "short": "Directiva 2004/82/CE",
+   "title": "Directiva 2004/82/CE a Consiliului din 29 aprilie 2004 privind obligația operatorilor de transport de a comunica datele privind pasagerii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0082",
+   "versions": [
+    {
+     "from": "2004-09-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/140d3b9c-f346-4c9d-96ec-f4f8f904ec2b.0022.05/DOC_1",
+     "sha256": "ac2217fcee5d88598fda925c29df361ee8f395ebbf9d01dad9b1f986e5123db0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-83-2004",
+   "path": "ue/directiva/2004/83",
+   "short": "Directiva 2004/83/CE",
+   "title": "Directiva 2004/83/CE a Consiliului din 29 aprilie 2004 privind standardele minime referitoare la condițiile pe care trebuie să le îndeplinească resortisanții țărilor terțe sau apatrizii pentru a putea beneficia de statutul de refugiat sau persoanele care, din alte motive, au nevoie de protecție internațională și referitoare la conținutul protecției acordate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0083",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c22317ec-43eb-4f6a-955a-c1da055c9913.0022.05/DOC_1",
+     "sha256": "39955ae32fc4e544facbe40252b1d596e0e502f13331ef667695d3b042c1bb34"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-84-2004",
+   "path": "ue/directiva/2004/84",
+   "short": "Directiva 2004/84/CE",
+   "title": "Directiva 2004/84/CE a Consiliului din 10 iunie 2004 de modificare a Directivei 2001/113/CE privind gemurile, jeleurile și marmeladele din fructe, precum și piureul din castane îndulcit, destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0084",
+   "versions": [
+    {
+     "from": "2004-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/77e8c27e-3a7a-4593-b600-8cd827ae32f7.0022.04/DOC_1",
+     "sha256": "477b1dd80440d144a6b0ed98a054bfe2dfe484ae9f6fdf69cf99d76d70a40593"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-9-2004",
+   "path": "ue/directiva/2004/9",
+   "short": "Directiva 2004/9/CE",
+   "title": "Directiva 2004/9/CE a Parlamentului European și a Consiliului din 11 februarie 2004 privind inspecția și verificarea bunei practici de laborator (BPL) (Versiunea codificată)Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0009",
+   "versions": [
+    {
+     "from": "2004-03-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1e7cab61-131c-4866-b7ea-df6024e0d945.0022.03/DOC_1",
+     "sha256": "9fd676ac5395ee732e3ef33dc4bbdd285b5025eaf1410bd53dd96abdee233ede"
     }
    ]
   }

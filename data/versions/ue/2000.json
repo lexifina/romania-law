@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-36-2000",
+   "path": "ue/directiva/2000/36",
+   "short": "Directiva 2000/36/CE",
+   "title": "Directiva 2000/36/CE a Parlamentului European și a Consiliului din 23 iunie 2000 privind produsele din cacao și din ciocolată destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0036",
+   "versions": [
+    {
+     "from": "2000-08-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4cad5cf4-0825-484e-8a99-102f8a9b5113.0022.04/DOC_90",
+     "sha256": "fefb9c6c30efb6c94accb7aa13ebe9c746953cf864151682e4d59b37b6e4b861"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-39-2000",
    "path": "ue/directiva/2000/39",
    "short": "Directiva 2000/39/CE",
@@ -89,6 +104,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4e97e2e4-4e7a-4683-abd4-f4ed61e36622.0022.03/DOC_1",
      "sha256": "15a0841798fa31bcbc985fc2fcc35f76cc00af10fef1a543da9c853e4646386a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-60-2000",
+   "path": "ue/directiva/2000/60",
+   "short": "Directiva 2000/60/CE",
+   "title": "Directiva 2000/60/CE a Parlamentului European și a Consiliului din 23 octombrie 2000 de stabilire a unui cadru de politică comunitară în domeniul apei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0060",
+   "versions": [
+    {
+     "from": "2000-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5c835afb-2ec6-4577-bdf8-756d3d694eeb.0022.04/DOC_3",
+     "sha256": "6d5f4a02ab5a1385a98eced7d7ed0c3f8c4a370820c5c3586f7d491ccad51822"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-71-2000",
+   "path": "ue/directiva/2000/71",
+   "short": "Directiva 2000/71/CE",
+   "title": "Directiva 2000/71/CE a Comisiei din 7 noiembrie 2000 de adaptare la progresul tehnic a metodelor de măsurare prevăzute în anexele I, II, III și IV la Directiva 98/70/CE a Parlamentului European și a Consiliului în conformitate cu articolul 10 al acesteiaText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0071",
+   "versions": [
+    {
+     "from": "2000-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c3b78a0-3533-4ce4-9933-4928672be4ae.0022.04/DOC_1",
+     "sha256": "fcb2161b4cf45796570f004b04b622f7cec9ccfea7ea6cf78bad5f57a5de4c02"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-78-2000",
+   "path": "ue/directiva/2000/78",
+   "short": "Directiva 2000/78/CE",
+   "title": "Directiva 2000/78/CE a Consiliului din 27 noiembrie 2000 de creare a unui cadru general în favoarea egalității de tratament în ceea ce privește încadrarea în muncă și ocuparea forței de muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0078",
+   "versions": [
+    {
+     "from": "2000-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/27cc3913-6ba0-402c-8cdf-c5e1f7989673.0022.03/DOC_9",
+     "sha256": "8b47832897ee11f92e5045cf0234f4ab15ccea82e8459d129daa49eaf6a75b71"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-79-2000",
+   "path": "ue/directiva/2000/79",
+   "short": "Directiva 2000/79/CE",
+   "title": "Directiva 2000/79/CE a Consiliului din 27 noiembrie 2000 privind punerea în aplicare a Acordului European privind organizarea timpului de lucru al personalului mobil din aviația civilă, încheiat de Asociația companiilor europene de navigație aeriană (AEA), Federația europeană a lucrătorilor din transporturi (ETF), Asociația europeană a personalului tehnic navigant (ECA), Asociația europeană a companiilor aviatice din regiunile Europei (ERA) și Asociația internațională a liniilor aeriene rezervate în sistem charter (AICA) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0079",
+   "versions": [
+    {
+     "from": "2000-12-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/71f80efb-7bb8-46f7-8812-75dcccaaef18.0022.03/DOC_12",
+     "sha256": "133af3a41d7bf8281e7cd3493bad5f334579740b8f75f273ee01149cdbb39291"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-8-2000",
+   "path": "ue/directiva/2000/8",
+   "short": "Directiva 2000/8/CE",
+   "title": "Directiva 2000/8/CE a Parlamentului European și a Consiliului din 20 martie 2000 de modificare a Directivei 70/221/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la rezervoarele de carburant lichid și la dispozitivele de protecție spate ale autovehiculelor și ale remorcilor acestora",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0008",
+   "versions": [
+    {
+     "from": "2000-05-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d9e0d40c-b4ac-435a-9010-1f519e1ce76a.0022.03/DOC_14",
+     "sha256": "5a78f6cf81ed7f35912084a41f0653fef1c7a3be6c7aae9c22613b0534c71e18"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-82-2000",
+   "path": "ue/directiva/2000/82",
+   "short": "Directiva 2000/82/CE",
+   "title": "Directiva 2000/82/CE a Comisiei din 20 decembrie 2000 de modificare a anexelor la Directivele 76/895/CEE, 86/362/CEE, 86/363/CEE și 90/642/CEE ale Consiliului de stabilire a conținuturilor maxime de reziduuri de pesticide din și de pe fructe și legume, cereale, produse alimentare de origine animală și anumite produse de origine vegetală, inclusiv fructe și legumeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0082",
+   "versions": [
+    {
+     "from": "2001-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b4efcf85-0146-4494-abbe-13aa1d648761.0022.04/DOC_2",
+     "sha256": "8cb911f3d2688f15e73547ab79a26907994e1bec2b6308a9f744df11e6012b30"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-84-2000",
+   "path": "ue/directiva/2000/84",
+   "short": "Directiva 2000/84/CE",
+   "title": "Directiva 2000/84/CE a Parlamentului European și a Consiliului din 19 ianuarie 2001 privind dispozițiile referitoare la orarul de vară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0084",
+   "versions": [
+    {
+     "from": "2001-02-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb170453-93f3-4edb-a1ef-a4c46b64efc7.0022.04/DOC_1",
+     "sha256": "6c93fe7d7b36d65000905f9b89264ff738ddfeaa8c37dbebbe90e77fdc82fad4"
     }
    ]
   }

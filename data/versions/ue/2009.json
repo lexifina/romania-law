@@ -3,6 +3,51 @@
  "shard": "ue/2009",
  "acts": [
   {
+   "slug": "ue-directiva-1-2009",
+   "path": "ue/directiva/2009/1",
+   "short": "Directiva 2009/1/CE",
+   "title": "Directiva 2009/1/CE a Comisiei din 7 ianuarie 2009 de modificare, în scopul adaptării sale la progresul tehnic, a Directivei 2005/64/CE a Parlamentului European și a Consiliului privind omologarea autovehiculelor în ceea ce privește posibilitățile de reutilizare, reciclare și recuperare a acestora (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0001",
+   "versions": [
+    {
+     "from": "2009-02-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f70885e1-306c-41c9-bf04-099840c47172.0019.02/DOC_1",
+     "sha256": "11a7badf604d40399713c7d4d1a0f5815c8337f213a891bc71a8cc1a6ade926f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-100-2009",
+   "path": "ue/directiva/2009/100",
+   "short": "Directiva 2009/100/CE",
+   "title": "Directiva 2009/100/CE a Parlamentului European și a Consiliului din 16 septembrie 2009 privind recunoașterea reciprocă a certificatelor de navigație pentru navele de navigație interioară (Versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0100",
+   "versions": [
+    {
+     "from": "2009-10-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0019.02/DOC_1",
+     "sha256": "c5371709b437ade28946efd52b0bc8d0b8763af8b6e2c0e8be92bd31e68e1ef1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-102-2009",
+   "path": "ue/directiva/2009/102",
+   "short": "Directiva 2009/102/CE",
+   "title": "Directiva 2009/102/CE a Parlamentului European și a Consiliului din 16 septembrie 2009 în materie de drept al societăților comerciale privind societățile comerciale cu răspundere limitată cu asociat unic (Versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0102",
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0019.02/DOC_1",
+     "sha256": "47661774f86a523140bd6b78750ec0c4fcd2e7ee4118f6523a478eee2e4c3ca6"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-103-2009",
    "path": "ue/directiva/2009/103",
    "short": "Directiva 2009/103/CE",
@@ -18,6 +63,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-104-2009",
+   "path": "ue/directiva/2009/104",
+   "short": "Directiva 2009/104/CE",
+   "title": "Directiva 2009/104/CE a Parlamentului European și a Consiliului din 16 septembrie 2009 privind cerințele minime de securitate și sănătate pentru folosirea de către lucrători a echipamentului de muncă la locul de muncă [a doua directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE] (Versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0104",
+   "versions": [
+    {
+     "from": "2009-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/82c0fd2c-cfad-435c-8287-6f4bda656d7d.0019.02/DOC_1",
+     "sha256": "56bbbe0f1c4b4b8fdcb2f0f979ca46bb6cd80ed7a2168b40f63cff732e035b0f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-106-2009",
+   "path": "ue/directiva/2009/106",
+   "short": "Directiva 2009/106/CE",
+   "title": "Directiva 2009/106/CE a Comisiei din 14 august 2009 de modificare a Directivei 2001/112/CE a Consiliului privind sucurile de fructe și anumite produse similare destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0106",
+   "versions": [
+    {
+     "from": "2009-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/96bcea07-800b-4610-a884-170321a72de8.0019.02/DOC_1",
+     "sha256": "96bcb89d1f87a860561f461876d9c0a479c3e79b107a24361fe82a425d5984f7"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-110-2009",
    "path": "ue/directiva/2009/110",
    "short": "Directiva 2009/110/CE",
@@ -29,6 +104,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/bb562081-8f79-4ee2-9f0d-13a01ceb66b6.0019.03/DOC_1",
      "sha256": "5833b1c3b5ad75f2681971161e277167da0dba11d603be00302d7333a32ab5c6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-113-2009",
+   "path": "ue/directiva/2009/113",
+   "short": "Directiva 2009/113/CE",
+   "title": "Directiva 2009/113/CE a Comisiei din 25 august 2009 de modificare a Directivei 2006/126/CE a Parlamentului European și a Consiliului privind permisele de conducere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0113",
+   "versions": [
+    {
+     "from": "2009-09-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f9f12b70-c395-48c2-b486-9eb72602bb9b.0019.02/DOC_1",
+     "sha256": "753efa98be5efae1196909bc8767193ed3f2466d8a144b965aeb5d53d9e87f14"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-114-2009",
+   "path": "ue/directiva/2009/114",
+   "short": "Directiva 2009/114/CE",
+   "title": "Directiva 2009/114/CE a Parlamentului European și a Consiliului din 16 septembrie 2009 de modificare a Directivei 87/372/CEE a Consiliului privind benzile de frecvență care urmează să fie rezervate pentru introducerea coordonată în Comunitate a telecomunicațiilor mobile terestre digitale celulare paneuropene publice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0114",
+   "versions": [
+    {
+     "from": "2009-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f26d1ac8-b367-469b-9ee0-0b028524e20c.0019.02/DOC_1",
+     "sha256": "d2b9a9470d67c21feff7a6bc22c6ff0badae32d6ddfe77ee935a203ff4739288"
     }
    ]
   },
@@ -59,6 +164,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0019.02/DOC_1",
      "sha256": "a64ab13d019dd60d766aca7a342f7d696bdebe65534cf016a55591a222568528"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-120-2009",
+   "path": "ue/directiva/2009/120",
+   "short": "Directiva 2009/120/CE",
+   "title": "Directiva 2009/120/CE a Comisiei din 14 septembrie 2009 de modificare a Directivei 2001/83/CE a Parlamentului European și a Consiliului de instituire a unui cod comunitar cu privire la medicamentele de uz uman în ceea ce privește medicamentele pentru terapii avansate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0120",
+   "versions": [
+    {
+     "from": "2009-10-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/23e644cc-1902-41ab-8b06-615db0931174.0019.02/DOC_1",
+     "sha256": "e2187bbbb34d6dc95d14de17d8f6ec3a68c8ee183e88b8b719cf287cafb66bd6"
     }
    ]
   },
@@ -213,6 +333,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-141-2009",
+   "path": "ue/directiva/2009/141",
+   "short": "Directiva 2009/141/CE",
+   "title": "Directiva 2009/141/CE a Comisiei din 23 noiembrie 2009 de modificare a anexei I la Directiva 2002/32/CE a Parlamentului European și a Consiliului privind nivelurile maxime pentru arsen, teobromină, Datura sp., Ricinus communis L., Croton tiglium L. și Abrus precatorius L. (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0141",
+   "versions": [
+    {
+     "from": "2009-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb73aeb0-9ec6-4471-ba71-e50f71e03c08.0019.03/DOC_1",
+     "sha256": "3d31b46365b1a98b3e8753e14348f231e06e7854e22943309240392daeccec14"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-145-2009",
+   "path": "ue/directiva/2009/145",
+   "short": "Directiva 2009/145/CE",
+   "title": "Directiva 2009/145/CE a Comisiei din 26 noiembrie 2009 de stabilire a anumitor derogări pentru acceptarea varietăților primitive și a soiurilor de legume care sunt cultivate, în mod tradițional, în localități și regiuni speciale și care sunt amenințate de erodare genetică și a soiurilor de legume lipsite de valoare intrinsecă pentru producția vegetală comercială, dar create pentru a fi cultivate în condiții speciale, precum și pentru comercializarea semințelor acestor varietăți primitive și soiuri (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0145",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/607cb31a-e6f5-439c-ac67-1b14be2251e2.0019.02/DOC_1",
+     "sha256": "5457519f25d779151963651e59876eeebee472a96648071ac97606264a7e05a4"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-147-2009",
    "path": "ue/directiva/2009/147",
    "short": "Directiva 2009/147/CE",
@@ -224,6 +374,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a3b1a793-7b18-49f7-a05c-19d10796cdff.0019.02/DOC_1",
      "sha256": "1fe7ef79208ca32e10c59b877cba81a0aa8c4c96d228e615752d0b4981e0eb04"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-148-2009",
+   "path": "ue/directiva/2009/148",
+   "short": "Directiva 2009/148/CE",
+   "title": "Directiva 2009/148/CE a Parlamentului European și a Consiliului din 30 noiembrie 2009 privind protecția lucrătorilor împotriva riscurilor legate de expunerea la azbest la locul de muncă (Versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0148",
+   "versions": [
+    {
+     "from": "2010-01-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0019.02/DOC_1",
+     "sha256": "a3798d540a0d70ade08256087565fb593e34cf3ca9440ae055fff81601384b1a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-15-2009",
+   "path": "ue/directiva/2009/15",
+   "short": "Directiva 2009/15/CE",
+   "title": "Directiva 2009/15/CE a Parlamentului European și a Consiliului din 23 aprilie 2009 privind normele și standardele comune pentru organizațiile cu rol de inspecție și control al navelor, precum și pentru activitățile în domeniu ale administrațiilor maritime (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0015",
+   "versions": [
+    {
+     "from": "2009-06-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e540179f-10ce-4147-9ff9-6609baedd4e4.0019.03/DOC_1",
+     "sha256": "0f0bed9dac932c89abd14199486d128a5fd530c30b913fcbbe89f7343b3e0e32"
     }
    ]
   },
@@ -318,6 +498,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-21-2009",
+   "path": "ue/directiva/2009/21",
+   "short": "Directiva 2009/21/CE",
+   "title": "Directiva 2009/21/CE a Parlamentului European și a Consiliului din 23 aprilie 2009 privind respectarea obligațiilor statelor de pavilion (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0021",
+   "versions": [
+    {
+     "from": "2009-06-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a624803-ab00-46ff-ad41-cdb62b40f82c.0019.03/DOC_1",
+     "sha256": "5eddb1b2176393efba2ab1cc00c6b1f666736ea10ea18d43a995e7d238860dea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-24-2009",
+   "path": "ue/directiva/2009/24",
+   "short": "Directiva 2009/24/CE",
+   "title": "Directiva 2009/24/CE a Parlamentului European și a Consiliului din 23 aprilie 2009 privind protecția juridică a programelor pentru calculator (versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0024",
+   "versions": [
+    {
+     "from": "2009-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fdad2566-1ecd-4d32-a54d-7b9b386c43c9.0019.02/DOC_1",
+     "sha256": "6b670e4744991f8dbf684f43b5e259c638efa9591687baec946e564a1d59e802"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-29-2009",
    "path": "ue/directiva/2009/29",
    "short": "Directiva 2009/29/CE",
@@ -378,6 +588,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-32-2009",
+   "path": "ue/directiva/2009/32",
+   "short": "Directiva 2009/32/CE",
+   "title": "Directiva 2009/32/CE a Parlamentului European și a Consiliului din 23 aprilie 2009 de apropiere a legislațiilor statelor membre privind solvenții de extracție utilizați la fabricarea produselor alimentare și a ingredientelor alimentare (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0032",
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cbf632d5-30e6-44f5-85fb-0bfe6c3caf69.0019.02/DOC_1",
+     "sha256": "07e0157f70599c921579a63fbe76b93089a875666cc0dece6f8891f76cce8265"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-33-2009",
    "path": "ue/directiva/2009/33",
    "short": "Directiva 2009/33/CE",
@@ -389,6 +614,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/65d53e25-ff1e-4c62-adfa-ae2bc60c7d65.0019.02/DOC_1",
      "sha256": "1f4a244f874e9813d8d065c15d9877b3757823e99dc907a75e06787bf141ff54"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-34-2009",
+   "path": "ue/directiva/2009/34",
+   "short": "Directiva 2009/34/CE",
+   "title": "Directiva 2009/34/CE a Parlamentului European și a Consiliului din 23 aprilie 2009 privind dispozițiile comune pentru mijloacele de măsurare și metodele de control metrologic (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0034",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0019.03/DOC_1",
+     "sha256": "6232260a0c78df9f50b6b69d64c74b0893b296a9c1bf5b38a5c3eaccdbbfb2e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-35-2009",
+   "path": "ue/directiva/2009/35",
+   "short": "Directiva 2009/35/CE",
+   "title": "Directiva 2009/35/CE a Parlamentului European și a Consiliului din 23 aprilie 2009 privind materiile colorante care pot fi adăugate în produsele medicamentoase (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0035",
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c283efe6-f205-46f7-8b31-3ec805ffc6fe.0019.03/DOC_1",
+     "sha256": "26a067e546bfd009900430925ac380fffcd3daea7568eb0f39f32e4eacdde4d5"
     }
    ]
   },
@@ -438,6 +693,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-42-2009",
+   "path": "ue/directiva/2009/42",
+   "short": "Directiva 2009/42/CE",
+   "title": "Directiva 2009/42/CE a Parlamentului European și a Consiliului din 6 mai 2009 privind raportările statistice cu privire la transportul maritim de mărfuri și pasageri (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0042",
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5cd41b4c-d85b-497e-9234-2026c8b05d84.0019.02/DOC_1",
+     "sha256": "2af8afa3f92d03cea9af55004ec0a1068380afd9210f09c722a0bcffca25899a"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-43-2009",
    "path": "ue/directiva/2009/43",
    "short": "Directiva 2009/43/CE",
@@ -464,6 +734,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5ae33c71-8b45-4b4b-aa58-6546a0af9d19.0019.03/DOC_1",
      "sha256": "e69acbbd0b1ea8649a3ff60bc523f3978280c7bda7c79cfc9e27c419e1ae08e1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-45-2009",
+   "path": "ue/directiva/2009/45",
+   "short": "Directiva 2009/45/CE",
+   "title": "Directiva 2009/45/CE a Parlamentului European și a Consiliului din 6 mai 2009 privind normele și standardele de siguranță pentru navele de pasageri (Reformare) (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0045",
+   "versions": [
+    {
+     "from": "2009-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c5559968-a934-48c9-8294-48c69b1c9274.0019.02/DOC_1",
+     "sha256": "539e8dca63d89fc80ecacf369fd70e04f148e402cef9d6330603cd955c417fe7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-47-2009",
+   "path": "ue/directiva/2009/47",
+   "short": "Directiva 2009/47/CE",
+   "title": "Directiva 2009/47/CE a Consiliului din 5 mai 2009 de modificare a Directivei 2006/112/CE în ceea ce privește cotele reduse ale taxei pe valoarea adăugată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0047",
+   "versions": [
+    {
+     "from": "2009-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5358a58a-a321-49db-b322-5034219d9934.0019.02/DOC_1",
+     "sha256": "ad49538de281149d4a7035f228054a16a430881ca4f69cac157d6ee8921e7df1"
     }
    ]
   },
@@ -539,6 +839,141 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/41c107dd-8061-4bb5-bf05-d12ecf8c4697.0019.02/DOC_1",
      "sha256": "4e07a93c41efae9de6434405be48c0e2632b2beb608677634d7114de61012832"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-55-2009",
+   "path": "ue/directiva/2009/55",
+   "short": "Directiva 2009/55/CE",
+   "title": "Directiva 2009/55/CE a Consiliului din 25 mai 2009 privind scutirile de taxe aplicabile la introducerea definitivă de bunuri personale ale persoanelor fizice provenind dintr-un stat membru (versiune codificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0055",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ac64b0c4-4564-42e4-9785-87ab8ca90159.0019.02/DOC_1",
+     "sha256": "250fe811a6464b39d0d39dce4363128342c2ae36722fbd34a9e4eac7ef09bac1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-65-2009",
+   "path": "ue/directiva/2009/65",
+   "short": "Directiva 2009/65/CE",
+   "title": "Directiva 2009/65/CE a Parlamentului European și a Consiliului din 13 iulie 2009 de coordonare a actelor cu putere de lege și a actelor administrative privind organismele de plasament colectiv în valori mobiliare (OPCVM) (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0065",
+   "versions": [
+    {
+     "from": "2009-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0baaf4bd-450e-4b61-8bfd-6d7bad1f97cf.0019.02/DOC_1",
+     "sha256": "3af1fba9844d500bc73befbab585796c920890d0f42570232aeb1c2a5594e7f6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-69-2009",
+   "path": "ue/directiva/2009/69",
+   "short": "Directiva 2009/69/CE",
+   "title": "Directiva 2009/69/CE a Consiliului din 25 iunie 2009 de modificare a Directivei 2006/112/CE privind sistemul comun al taxei pe valoarea adăugată, cu privire la evaziunea fiscală legată de import",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0069",
+   "versions": [
+    {
+     "from": "2009-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/613c1f40-8fe3-4369-bda5-ef836da3bc2b.0019.02/DOC_1",
+     "sha256": "cd1af1fd1c4ac6f1268cce7bf2a2f5b3b027d7f5c3f1a6178759caf24bf684a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-71-2009",
+   "path": "ue/directiva/2009/71",
+   "short": "Directiva 2009/71/Euratom",
+   "title": "Directiva 2009/71/Euratom a Consiliului din 25 iunie 2009 de instituire a unui cadru comunitar pentru securitatea nucleară a instalațiilor nucleare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0071",
+   "versions": [
+    {
+     "from": "2009-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/445875e6-b9bf-4d0c-820f-41aee3dd3651.0019.02/DOC_1",
+     "sha256": "41d360b33451cd3dc0fa7bcc2e39bf370a2079a30e305f856ae3bd5e1a90e7e8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-74-2009",
+   "path": "ue/directiva/2009/74",
+   "short": "Directiva 2009/74/CE",
+   "title": "Directiva 2009/74/CE a Comisiei din 26 iunie 2009 de modificare a Directivelor 66/401/CEE, 66/402/CEE, 2002/55/CE și 2002/57/CE ale Consiliului în ce privește denumirile botanice ale plantelor, denumirile științifice ale altor organisme, precum și a anumitor anexe la Directivele 66/401/CEE, 66/402/CEE și 2002/57/CE ca urmare a progreselor științifice și tehnice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0074",
+   "versions": [
+    {
+     "from": "2009-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62a29470-95bf-4889-95a4-dcf210539493.0019.03/DOC_1",
+     "sha256": "dda063b743af1831d3b835c7532e59f764729c26fe190bfab09f19c2439b4ee2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-8-2009",
+   "path": "ue/directiva/2009/8",
+   "short": "Directiva 2009/8/CE",
+   "title": "Directiva 2009/8/CE a Comisiei din 10 februarie 2009 de modificare a anexei I la Directiva 2002/32/CE a Parlamentului European și a Consiliului în ceea ce privește limitele maxime ale transferului inevitabil de coccidiostatice sau histomonostatice în furajele nevizate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0008",
+   "versions": [
+    {
+     "from": "2009-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c3c6357f-875a-455f-a007-28395b77eaae.0019.02/DOC_1",
+     "sha256": "5e649df97a4893b3f7b7abf301809554e92d3bb0c19c224164b78c28e6e8d971"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-81-2009",
+   "path": "ue/directiva/2009/81",
+   "short": "Directiva 2009/81/CE",
+   "title": "Directiva 2009/81/CE a Parlamentului European și a Consiliului din 13 iulie 2009 privind coordonarea procedurilor privind atribuirea anumitor contracte de lucrări, de furnizare de bunuri și de prestare de servicii de către autoritățile sau entitățile contractante în domeniile apărării și securității și de modificare a Directivelor 2004/17/CE și 2004/18/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0081",
+   "versions": [
+    {
+     "from": "2009-08-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3fb664c4-0b51-44fc-b738-2c28b4637657.0019.02/DOC_1",
+     "sha256": "52955e419dd005999fa656e64bd2a63530be5a2fdd052822d0ff8d19b261f4f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-90-2009",
+   "path": "ue/directiva/2009/90",
+   "short": "Directiva 2009/90/CE",
+   "title": "Directiva 2009/90/CE a Comisiei din 31 iulie 2009 de stabilire, în temeiul Directivei 2000/60/CE a Parlamentului European și a Consiliului, a specificațiilor tehnice pentru analiza chimică și monitorizarea stării apelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0090",
+   "versions": [
+    {
+     "from": "2009-08-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/300390c7-6c23-4be1-800d-bce9f62b8ba4.0019.02/DOC_1",
+     "sha256": "0a04a2d6d49cc4fc8a22e11d4b8c081c0e67165a8cfb1e962b4c252c5ba9adec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-97-2009",
+   "path": "ue/directiva/2009/97",
+   "short": "Directiva 2009/97/CE",
+   "title": "Directiva 2009/97/CE a Comisiei din 3 august 2009 de modificare a Directivelor 2003/90/CE și 2003/91/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directivele 2002/53/CE și, respectiv, 2002/55/CE ale Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole și specii de legume (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009L0097",
+   "versions": [
+    {
+     "from": "2009-08-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2399c24e-1f0f-4c7a-ad7f-ef71f1932b8a.0019.03/DOC_1",
+     "sha256": "9398c3620a283a669a2a8a96986897c54d7b10f3ab2f8049758700ea5827ca2a"
     }
    ]
   }

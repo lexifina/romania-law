@@ -3,6 +3,26 @@
 "shard": "ue/1990",
 "acts": [
 {
+"slug": "ue-directiva-207-1990",
+"path": "ue/directiva/1990/207",
+"kind": "ue",
+"year": "1990",
+"number": "207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 4 aprilie 1990 de modificare a celei de a doua directive 82/434/CEE privind apropierea legislațiilor statelor membre cu privire la metodele de analiză necesare pentru verificarea compoziției produselor cosmetice",
+"short": "Directiva 90/207/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1990-04-10",
+"latest": "1990-04-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0207",
+"flags": {
+"figures_missing": 6
+}
+},
+{
 "slug": "ue-directiva-269-1990",
 "path": "ue/directiva/1990/269",
 "kind": "ue",
@@ -35,6 +55,98 @@
 "from": "1990-06-11",
 "latest": "1990-06-11",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0270"
+},
+{
+"slug": "ue-directiva-428-1990",
+"path": "ue/directiva/1990/428",
+"kind": "ue",
+"year": "1990",
+"number": "428",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 26 iunie 1990 privind schimburile de cai pentru concursuri și stabilirea condițiilor de participare la aceste concursuri",
+"short": "Directiva 90/428/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1990-07-17",
+"latest": "1990-07-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0428"
+},
+{
+"slug": "ue-directiva-623-1990",
+"path": "ue/directiva/1990/623",
+"kind": "ue",
+"year": "1990",
+"number": "623",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 7 noiembrie 1990 de modificare a anexei II la Directiva 66/402/CEE a Consiliului privind comercializarea semințelor de cereale",
+"short": "Directiva 90/623/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1990-11-08",
+"latest": "1990-11-08",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0623"
+},
+{
+"slug": "ue-directiva-629-1990",
+"path": "ue/directiva/1990/629",
+"kind": "ue",
+"year": "1990",
+"number": "629",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 30 octombrie 1990 de adaptare la progresul tehnic a Directivei 76/115/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la ancorajele centurilor de siguranță ale autovehiculelor",
+"short": "Directiva 90/629/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1990-12-06",
+"latest": "1990-12-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0629",
+"flags": {
+"end_of_validity": "2014-10-31"
+}
+},
+{
+"slug": "ue-directiva-630-1990",
+"path": "ue/directiva/1990/630",
+"kind": "ue",
+"year": "1990",
+"number": "630",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 30 octombrie 1990 de adaptare la progresul tehnic a Directivei 77/649/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la câmpul de vizibilitate al conducătorului auto din interiorul unui autovehicul",
+"short": "Directiva 90/630/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1990-12-06",
+"latest": "1990-12-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0630",
+"flags": {
+"figures_missing": 4,
+"end_of_validity": "2014-10-31"
+}
+},
+{
+"slug": "ue-directiva-653-1990",
+"path": "ue/directiva/1990/653",
+"kind": "ue",
+"year": "1990",
+"number": "653",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 4 decembrie 1990 de stabilire a unor adaptări în scopul punerii în aplicare în Germania a anumitor directive comunitare privind statistica transportului de mărfuri și statistica prețurilor pentru gaze și electricitate",
+"short": "Directiva 90/653/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1990-12-12",
+"latest": "1990-12-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0653"
 }
 ]
 }

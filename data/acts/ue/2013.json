@@ -114,6 +114,86 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0015"
 },
 {
+"slug": "ue-directiva-16-2013",
+"path": "ue/directiva/2013/16",
+"kind": "ue",
+"year": "2013",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/16/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul achizițiilor publice, având în vedere aderarea Republicii Croația",
+"short": "Directiva 2013/16/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-07-01",
+"latest": "2013-07-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0016",
+"flags": {
+"end_of_validity": "2016-04-18"
+}
+},
+{
+"slug": "ue-directiva-17-2013",
+"path": "ue/directiva/2013/17",
+"kind": "ue",
+"year": "2013",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/17/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul mediului, având în vedere aderarea Republicii Croația",
+"short": "Directiva 2013/17/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-07-01",
+"latest": "2013-07-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0017",
+"flags": {
+"end_of_validity": "2019-12-31"
+}
+},
+{
+"slug": "ue-directiva-19-2013",
+"path": "ue/directiva/2013/19",
+"kind": "ue",
+"year": "2013",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/19/UE a Consiliului din 13 mai 2013 de adaptare a Directivei 94/80/CE de stabilire a normelor de exercitare a dreptului de a alege și de a fi ales la alegerile locale pentru cetățenii Uniunii care au reședința într-un stat membru a cărui cetățenie nu o dețin, având în vedere aderarea Republicii Croația",
+"short": "Directiva 2013/19/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-07-01",
+"latest": "2013-07-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0019",
+"flags": {
+"end_of_validity": "2028-06-25"
+}
+},
+{
+"slug": "ue-directiva-20-2013",
+"path": "ue/directiva/2013/20",
+"kind": "ue",
+"year": "2013",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/20/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul siguranței alimentare și al politicii veterinare și fitosanitare, având în vedere aderarea Republicii Croația",
+"short": "Directiva 2013/20/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-07-01",
+"latest": "2013-07-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0020",
+"flags": {
+"end_of_validity": "2014-12-12"
+}
+},
+{
 "slug": "ue-directiva-22-2013",
 "path": "ue/directiva/2013/22",
 "kind": "ue",
@@ -131,6 +211,46 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0022",
 "flags": {
 "end_of_validity": "2018-10-06"
+}
+},
+{
+"slug": "ue-directiva-23-2013",
+"path": "ue/directiva/2013/23",
+"kind": "ue",
+"year": "2013",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/23/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul serviciilor financiare, având în vedere aderarea Republicii Croația",
+"short": "Directiva 2013/23/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-07-01",
+"latest": "2013-07-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0023",
+"flags": {
+"end_of_validity": "2015-12-31"
+}
+},
+{
+"slug": "ue-directiva-24-2013",
+"path": "ue/directiva/2013/24",
+"kind": "ue",
+"year": "2013",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/24/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul dreptului societăților comerciale, având în vedere aderarea Republicii Croația",
+"short": "Directiva 2013/24/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-07-01",
+"latest": "2013-07-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0024",
+"flags": {
+"end_of_validity": "2013-07-18"
 }
 },
 {
@@ -203,6 +323,23 @@
 "from": "2013-07-18",
 "latest": "2013-07-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0030"
+},
+{
+"slug": "ue-directiva-34-2013",
+"path": "ue/directiva/2013/34",
+"kind": "ue",
+"year": "2013",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/34/UE a Parlamentului European și a Consiliului din 26 iunie 2013 privind situațiile financiare anuale, situațiile financiare consolidate și rapoartele conexe ale anumitor tipuri de întreprinderi, de modificare a Directivei 2006/43/CE a Parlamentului European și a Consiliului și de abrogare a Directivelor 78/660/CEE și 83/349/CEE ale Consiliului Text cu relevanță pentru SEE",
+"short": "Directiva 2013/34/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-07-19",
+"latest": "2013-07-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0034"
 },
 {
 "slug": "ue-directiva-35-2013",
@@ -393,6 +530,23 @@
 }
 },
 {
+"slug": "ue-directiva-54-2013",
+"path": "ue/directiva/2013/54",
+"kind": "ue",
+"year": "2013",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/54/UE a Parlamentului European și a Consiliului din 20 noiembrie 2013 privind anumite responsabilități ale statului de pavilion referitoare la respectarea și asigurarea aplicării Convenției din 2006 privind munca în domeniul maritim Text cu relevanță pentru SEE",
+"short": "Directiva 2013/54/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-12-30",
+"latest": "2013-12-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0054"
+},
+{
 "slug": "ue-directiva-55-2013",
 "path": "ue/directiva/2013/55",
 "kind": "ue",
@@ -408,6 +562,23 @@
 "from": "2014-01-17",
 "latest": "2014-01-17",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0055"
+},
+{
+"slug": "ue-directiva-58-2013",
+"path": "ue/directiva/2013/58",
+"kind": "ue",
+"year": "2013",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/58/UE a Parlamentului European și a Consiliului din 11 decembrie 2013 de modificare a Directivei 2009/138/CE (Solvabilitate II) în ceea ce privește data pentru transpunerea acesteia și data de aplicare a acesteia, precum și data de abrogare a anumitor directive (Solvabilitate I) Text cu relevanță pentru SEE",
+"short": "Directiva 2013/58/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0058"
 },
 {
 "slug": "ue-directiva-59-2013",
@@ -427,6 +598,43 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0059",
 "flags": {
 "figures_missing": 19
+}
+},
+{
+"slug": "ue-directiva-61-2013",
+"path": "ue/directiva/2013/61",
+"kind": "ue",
+"year": "2013",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/61/UE a Consiliului din 17 decembrie 2013 de modificare a Directivelor 2006/112/CE și 2008/118/CE în ceea ce privește regiunile ultraperiferice franceze și în special Mayotte",
+"short": "Directiva 2013/61/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2014-01-01",
+"latest": "2014-01-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0061"
+},
+{
+"slug": "ue-directiva-64-2013",
+"path": "ue/directiva/2013/64",
+"kind": "ue",
+"year": "2013",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2013/64/UE a Consiliului din 17 decembrie 2013 de modificare a Directivelor 91/271/CEE și 1999/74/CE ale Consiliului și a Directivelor 2000/60/CE, 2006/7/CE, 2006/25/CE și 2011/24/UE ale Parlamentului European și ale Consiliului, ca urmare a schimbării statutului Mayotte în raport cu Uniunea Europeană",
+"short": "Directiva 2013/64/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2014-01-01",
+"latest": "2014-01-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0064",
+"flags": {
+"end_of_validity": "2027-07-31"
 }
 }
 ]

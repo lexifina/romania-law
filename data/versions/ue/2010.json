@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-33-2010",
+   "path": "ue/directiva/2010/33",
+   "short": "Directiva 2010/33/UE",
+   "title": "Directiva 2010/33/UE a Comisiei din 21 mai 2010 de rectificare a versiunii în limba spaniolă a Directivei 2001/112/CE a Consiliului privind sucurile de fructe și anumite produse similare destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0033",
+   "versions": [
+    {
+     "from": "2010-05-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6eb9194b-caa2-42c5-ab21-ba1d81084f94.0019.02/DOC_1",
+     "sha256": "9500555419a99b98657badab7bb98380db005a8b34707815fc453cf550faff71"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-35-2010",
    "path": "ue/directiva/2010/35",
    "short": "Directiva 2010/35/UE",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e2a940ba-4b38-4e50-8ea5-526166f61b9a.0019.03/DOC_1",
      "sha256": "eea3f59946ede9dbf4511aa1e6a01c5ded829fd13c49d6011ae4547e9c909ad0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-36-2010",
+   "path": "ue/directiva/2010/36",
+   "short": "Directiva 2010/36/UE",
+   "title": "Directiva 2010/36/UE a Comisiei din 1 iunie 2010 de modificare a Directivei 2009/45/CE a Parlamentului European și a Consiliului privind regulile și standardele de siguranță pentru navele de pasageri (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0036",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e2f62f0e-9889-462a-86f2-8332f0ec92ab.0019.03/DOC_1",
+     "sha256": "71ffbaf0930fa010c4147db372c50473f99d25e062c4ed862ccdab57279883c0"
     }
    ]
   },
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-46-2010",
+   "path": "ue/directiva/2010/46",
+   "short": "Directiva 2010/46/UE",
+   "title": "Directiva 2010/46/UE a Comisiei din 2 iulie 2010 de modificare a Directivelor 2003/90/CE și 2003/91/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directivele 2002/53/CE și, respectiv, 2002/55/CE ale Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole și specii de legume (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0046",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da9f2a12-d74f-4b32-880f-152f42f10af1.0019.03/DOC_1",
+     "sha256": "2cfab289bce3c49ac8b6beb3fa6b7bb4e05a407f9e5182205adf702c06246d07"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-53-2010",
    "path": "ue/directiva/2010/53",
    "short": "Directiva CELEX 32010L0053",
@@ -149,6 +194,276 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f377fef4-4956-4125-bc35-b042842d64db.0012.03/DOC_1",
      "sha256": "80a4dc76dbcedff313b49edb2849d5500f6e5f55eb8cdd19728dddcff3e4f5cb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-59-2010",
+   "path": "ue/directiva/2010/59",
+   "short": "Directiva 2010/59/UE",
+   "title": "Directiva 2010/59/UE a Comisiei din 26 august 2010 de modificare a Directivei 2009/32/CE a Parlamentului European și a Consiliului de apropiere a legislațiilor statelor membre privind solvenții de extracție utilizați la fabricarea produselor alimentare și a ingredientelor alimentare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0059",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/70a75cce-dd30-4529-929b-25d6060a4f36.0004.02/DOC_1",
+     "sha256": "b865f9043f3f88529f8ea57af492bb57fbf356df3814a6bc6cd24792a5a5c477"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-6-2010",
+   "path": "ue/directiva/2010/6",
+   "short": "Directiva 2010/6/UE",
+   "title": "Directiva 2010/6/UE a Comisiei din 9 februarie 2010 de modificare a anexei I la Directiva 2002/32/CE a Parlamentului European și a Consiliului în ceea ce privește mercurul, gosipolul liber, nitriții și Mowrah, Bassia, Madhuca (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0006",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe61ede3-2b8a-4607-8071-614b8a859490.0019.03/DOC_1",
+     "sha256": "7f13343f68d86ff5679a347cb298dcd6430878e59fa779d4a47aa8a75660f677"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-60-2010",
+   "path": "ue/directiva/2010/60",
+   "short": "Directiva 2010/60/UE",
+   "title": "Directiva 2010/60/UE a Comisiei din 30 august 2010 de stabilire a anumitor derogări pentru comercializarea amestecurilor de semințe de plante furajere destinate a fi utilizate pentru protecția mediului natural Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0060",
+   "versions": [
+    {
+     "from": "2010-09-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1dd1ee5f-5ab1-41f4-9adf-bb3341d092d1.0004.02/DOC_1",
+     "sha256": "ef303dfa05e361c1c6a22f26219309d672126ea253953abae2c9b24a2cb7f990"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-61-2010",
+   "path": "ue/directiva/2010/61",
+   "short": "Directiva 2010/61/UE",
+   "title": "Directiva 2010/61/UE a Comisiei din 2 septembrie 2010 de adaptare, pentru prima dată, la progresul științific și tehnic a anexelor la Directiva 2008/68/CE a Parlamentului European și a Consiliului privind transportul interior de mărfuri periculoase Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0061",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/03adae2b-ebb4-4d85-a9a5-90d56f1d74c5.0012.02/DOC_1",
+     "sha256": "a4c3157cafd191a9a9433f00523f96b207ff8199e1c48beff1c23ff5faa4542c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-63-2010",
+   "path": "ue/directiva/2010/63",
+   "short": "Directiva 2010/63/UE",
+   "title": "Directiva 2010/63/UE a Parlamentului European și a Consiliului din 22 septembrie 2010 privind protecția animalelor utilizate în scopuri științifice Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0063",
+   "versions": [
+    {
+     "from": "2010-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/169b16db-cb47-46e3-aff5-caa8009ec295.0016.02/DOC_1",
+     "sha256": "d71ce7756cdc5100025ea3bb698f87c1757c243d78ba128ee459d317942dd829"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-64-2010",
+   "path": "ue/directiva/2010/64",
+   "short": "Directiva 2010/64/UE",
+   "title": "Directiva 2010/64/UE a Parlamentului European și a Consiliului din 20 octombrie 2010 privind dreptul la interpretare și traducere în cadrul procedurilor penale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0064",
+   "versions": [
+    {
+     "from": "2010-11-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a7a31525-44c6-45aa-ab03-bd56f3231a86.0011.03/DOC_1",
+     "sha256": "d234089793990d5d8321861caaf39c031e1b1eee21f9ef1e8403c3711c0828b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-66-2010",
+   "path": "ue/directiva/2010/66",
+   "short": "Directiva 2010/66/UE",
+   "title": "Directiva 2010/66/UE a Consiliului din 14 octombrie 2010 de modificare a Directivei 2008/9/CE de stabilire a normelor detaliate privind rambursarea taxei pe valoare adăugată, prevăzută în Directiva 2006/112/CE, către persoane impozabile stabilite în alt stat membru decât statul membru de rambursare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0066",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe936a98-4d44-498a-ae52-989042a36c64.0005.02/DOC_1",
+     "sha256": "5bdd1ba23fb1275d3342d4b7406cf7e46f1314d05779bb99b9d8186a7c269191"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-73-2010",
+   "path": "ue/directiva/2010/73",
+   "short": "Directiva 2010/73/UE",
+   "title": "Directiva 2010/73/UE a Parlamentului European și a Consiliului din 24 noiembrie 2010 de modificare a Directivei 2003/71/CE privind prospectul care trebuie publicat în cazul unei oferte publice de valori mobiliare sau pentru admiterea valorilor mobiliare la tranzacționare și a Directivei 2004/109/CE privind armonizarea obligațiilor de transparență în ceea ce privește informația referitoare la emitenții ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0073",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/427a4786-5fbc-449d-b411-1acc5c095004.0001.02/DOC_1",
+     "sha256": "3041b343dc3cfad8d93375106871d313073993de8e5b64437116f0eee0ee9bec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-75-2010",
+   "path": "ue/directiva/2010/75",
+   "short": "Directiva 2010/75/UE",
+   "title": "Directiva 2010/75/UE a Parlamentului European și a Consiliului din 24 noiembrie 2010 privind emisiile industriale (prevenirea și controlul integrat al poluării) (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0075",
+   "versions": [
+    {
+     "from": "2011-01-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c7191b72-4e07-4712-86d6-d3ae5e4f0082.0013.02/DOC_1",
+     "sha256": "4f6c054b1210394f6dfb5a8a4cbe246bf090dd2600fbaf5e60c49d43e7e14a58"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-78-2010",
+   "path": "ue/directiva/2010/78",
+   "short": "Directiva 2010/78/UE",
+   "title": "Directiva 2010/78/UE a Parlamentului European și a Consiliului din 24 noiembrie 2010 de modificare a Directivelor 98/26/CE, 2002/87/CE, 2003/6/CE, 2003/41/CE, 2003/71/CE, 2004/39/CE, 2004/109/CE, 2005/60/CE, 2006/48/CE, 2006/49/CE și 2009/65/CE cu privire la competențele Autorității europene de supraveghere (Autoritatea bancară europeană), ale Autorității europene de supraveghere (Autoritatea europeană pentru asigurări și pensii ocupaționale) și ale Autorității europene de supraveghere (Autoritatea europeană pentru valori mobiliare și piețe) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0078",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/798e3986-28a7-4271-ab95-8bdaa386e5db.0010.02/DOC_1",
+     "sha256": "8adc6db8c9c0fea88ec5f68e1da6f214ba646fb15be33dc56a04ff280bf4e3e6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-79-2010",
+   "path": "ue/directiva/2010/79",
+   "short": "Directiva 2010/79/UE",
+   "title": "Directiva 2010/79/UE a Comisiei din 19 noiembrie 2010 privind adaptarea la progresul tehnic a anexei III la Directiva 2004/42/CE a Parlamentului European și a Consiliului privind limitarea emisiilor de compuși organici volatili",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0079",
+   "versions": [
+    {
+     "from": "2010-12-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/13554257-7eda-46f0-8a5e-ec537877bbc6.0001.02/DOC_1",
+     "sha256": "9a0c5daccebc4742f1f50db4e8bfbb443331101be76fd3320b3bd03429580b59"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-80-2010",
+   "path": "ue/directiva/2010/80",
+   "short": "Directiva 2010/80/UE",
+   "title": "Directiva 2010/80/UE a Comisiei din 22 noiembrie 2010 de modificare a Directivei 2009/43/CE a Parlamentului European și a Consiliului în ceea ce privește lista produselor din domeniul apărării Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0080",
+   "versions": [
+    {
+     "from": "2010-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0b96461-6816-4452-b96c-cfa4ef0972c7.0006.02/DOC_1",
+     "sha256": "e8e1705b535feb14322e4870aea2d33490f9a8ddf26d00360f61fe28957b3880"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-84-2010",
+   "path": "ue/directiva/2010/84",
+   "short": "Directiva 2010/84/UE",
+   "title": "Directiva 2010/84/UE a Parlamentului European și a Consiliului din 15 decembrie 2010 de modificare, în ceea ce privește farmacovigilența, a Directivei 2001/83/CE de instituire a unui cod comunitar cu privire la medicamentele de uz uman Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0084",
+   "versions": [
+    {
+     "from": "2011-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80b9a78d-aeea-4977-8b4c-b56bcd4b3b0c.0009.03/DOC_1",
+     "sha256": "649e7028cf448a364b1f4e27d192c42483841da7f8c88eb853c50287d2b8eade"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-87-2010",
+   "path": "ue/directiva/2010/87",
+   "short": "Directiva 2010/87/UE",
+   "title": "Directiva 2010/87/UE a Comisiei din 3 decembrie 2010 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii fenbuconazolului ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0087",
+   "versions": [
+    {
+     "from": "2011-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80137050-0e3a-4b82-af5a-26f003d25c26.0018.02/DOC_1",
+     "sha256": "01f9cf87f5c868e224b7043b0270ca892c8b731358f76dbebb196c8045aca993"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-88-2010",
+   "path": "ue/directiva/2010/88",
+   "short": "Directiva 2010/88/UE",
+   "title": "Directiva 2010/88/UE a Consiliului din 7 decembrie 2010 de modificare a Directivei 2006/112/CE privind sistemul comun al taxei pe valoarea adăugată, în ceea ce privește durata obligației de respectare a cotei-standard minime",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0088",
+   "versions": [
+    {
+     "from": "2010-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d2da886d-cb80-4bd9-8840-d88d127df53c.0008.02/DOC_1",
+     "sha256": "c7ac268608ea3d4845981d2e548f6d1f6de714e68a1cd1e048851cb58be82112"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-89-2010",
+   "path": "ue/directiva/2010/89",
+   "short": "Directiva 2010/89/UE",
+   "title": "Directiva 2010/89/UE a Comisiei din 6 noiembrie 2010 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței chinmerac ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0089",
+   "versions": [
+    {
+     "from": "2011-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/23e9b9b7-ba35-4ad0-b100-e242df0f42f5.0001.02/DOC_1",
+     "sha256": "2d23e94634e881f58fbecf81f1f5d14cd92194d58e3b2ae327b379758854825b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-90-2010",
+   "path": "ue/directiva/2010/90",
+   "short": "Directiva 2010/90/UE",
+   "title": "Directiva 2010/90/UE a Comisiei din 7 decembrie 2010 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii piridabenului ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0090",
+   "versions": [
+    {
+     "from": "2011-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b83b8fc0-4e1e-447c-a9bf-1bb59ac680c5.0004.02/DOC_1",
+     "sha256": "32b8a639a45685187c47d07fcfaf6d39bbff602f0f2bf54fe4713ceefa79f247"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-91-2010",
+   "path": "ue/directiva/2010/91",
+   "short": "Directiva 2010/91/UE",
+   "title": "Directiva 2010/91/UE a Comisiei din 10 decembrie 2010 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii metosulamului ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0091",
+   "versions": [
+    {
+     "from": "2011-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5dbc1b8e-28c1-4810-ac30-f8d200916d4b.0002.02/DOC_1",
+     "sha256": "bd99e3e5ce50d98141f317a857278b16beaf55ab8c84d7f331a7fdc6e1cae6b1"
     }
    ]
   }

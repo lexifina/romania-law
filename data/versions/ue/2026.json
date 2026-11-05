@@ -121,6 +121,66 @@
      "sha256": "401c679da59ce14852162c1d4a884c8c6772cfe15f69f03c1b8583f72a1356fd"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-706-2026",
+   "path": "ue/directiva/2026/706",
+   "short": "Directiva (UE) 2026/706",
+   "title": "Directiva (UE) 2026/706 a Parlamentului European și a Consiliului din 11 martie 2026 de modificare a Directivei 2014/32/UE în ceea ce privește sistemele de măsurare pentru echipamentele de alimentare a vehiculelor electrice și pentru distribuitoarele de gaz comprimat și în ceea ce privește contoarele de energie electrică, de gaz și de energie termică (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026L0706",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/25de6387-23ff-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "62055934f5b6b253042bb94d6d06500ac3f5659ed7f467aa00ac030a6230167a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-799-2026",
+   "path": "ue/directiva/2026/799",
+   "short": "Directiva (UE) 2026/799",
+   "title": "Directiva (UE) 2026/799 a Parlamentului European și a Consiliului din 30 martie 2026 privind armonizarea anumitor aspecte ale normelor de drept în materie de insolvență (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026L0799",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/56b930bf-2d65-11f1-906d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ae8f3c3bcff5d5d4d2dce2f61f53518d0e48cab3a548bc746c209f31b479dc7c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-804-2026",
+   "path": "ue/directiva/2026/804",
+   "short": "Directiva (UE) 2026/804",
+   "title": "Directiva (UE) 2026/804 a Parlamentului European și a Consiliului din 30 martie 2026 de modificare a Directivei 2014/49/UE în ceea ce privește domeniul de aplicare al protecției depozitelor, utilizarea fondurilor schemelor de garantare a depozitelor, cooperarea transfrontalieră și transparența (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026L0804",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e5a715e-3c51-11f1-814f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "36f24eb795db84431b5f5f29b8506eb22e0995074698df3b59949e0d4d14d5a1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-805-2026",
+   "path": "ue/directiva/2026/805",
+   "short": "Directiva (UE) 2026/805",
+   "title": "Directiva (UE) 2026/805 a Parlamentului European și a Consiliului din 30 martie 2026 de modificare a Directivei 2000/60/CE de stabilire a unui cadru de politică comunitară în domeniul apei, a Directivei 2006/118/CE privind protecția apelor subterane împotriva poluării și a deteriorării și a Directivei 2008/105/CE privind standardele de calitate a mediului în domeniul apei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32026L0805",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d197a5b1-3c51-11f1-814f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9ecf528476f63b4a5eeb35a15f6edf100ce6a3727daef1a12ebde0dc98b05f8f"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,60 @@
+{
+"country": "RO",
+"shard": "ue/1995",
+"acts": [
+{
+"slug": "ue-directiva-6-1995",
+"path": "ue/directiva/1995/6",
+"kind": "ue",
+"year": "1995",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 95/6/CE a Comisiei din 20 martie 1995 de modificare a anexelor I și II la Directiva 66/402/CEE a Consiliului privind comercializarea semințelor de cereale",
+"short": "Directiva 95/6/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1995-04-14",
+"latest": "1995-04-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995L0006"
+},
+{
+"slug": "ue-directiva-32-1995",
+"path": "ue/directiva/1995/32",
+"kind": "ue",
+"year": "1995",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "A șasea Directivă 95/32/CE a Comisiei din 7 iulie 1995 privind metodele de analiză necesare pentru controlul compoziției produselor cosmeticeText cu relevanță pentru SEE.",
+"short": "Directiva CELEX 31995L0032",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1995-08-17",
+"latest": "1995-08-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995L0032",
+"flags": {
+"figures_missing": 8
+}
+},
+{
+"slug": "ue-directiva-60-1995",
+"path": "ue/directiva/1995/60",
+"kind": "ue",
+"year": "1995",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 95/60/CE a Consiliului din 27 noiembrie 1995 privind marcarea fiscală a motorinelor și a kerosenului",
+"short": "Directiva 95/60/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1995-12-26",
+"latest": "1995-12-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995L0060"
+}
+]
+}

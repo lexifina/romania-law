@@ -631,6 +631,81 @@
      "sha256": "c3a8370f2300c8b005c508233f5c46c00091a645ff900c71245f94d7772d8541"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-790-2024",
+   "path": "ue/directiva/2024/790",
+   "short": "Directiva (UE) 2024/790",
+   "title": "Directiva (UE) 2024/790 a Parlamentului European și a Consiliului din 28 februarie 2024 de modificare a Directivei 2014/65/UE privind piețele instrumentelor financiare (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0790",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7c7fb58f-dcf0-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "95f175eb7584c0d74e0e2d4e21d1d25f0602123e0d10dea19028d9e3251c26c4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-825-2024",
+   "path": "ue/directiva/2024/825",
+   "short": "Directiva (UE) 2024/825",
+   "title": "Directiva (UE) 2024/825 a Parlamentului European și a Consiliului din 28 februarie 2024 de modificare a Directivelor 2005/29/CE și 2011/83/UE în ceea ce privește consolidarea rolului consumatorilor în vederea tranziției verzi printr-o mai bună protecție împotriva practicilor neloiale și o mai bună informare (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0825",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1391c6b2-db63-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8dd3870bf74499cb5591cbdae811bd731b5e144e3b597fe324ad5d296e05db47"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-869-2024",
+   "path": "ue/directiva/2024/869",
+   "short": "Directiva (UE) 2024/869",
+   "title": "Directiva (UE) 2024/869 a Parlamentului European și a Consiliului din 13 martie 2024 de modificare a Directivei 2004/37/CE a Parlamentului European și a Consiliului și a Directivei 98/24/CE a Consiliului în ceea ce privește valorile-limită pentru plumb și compușii săi anorganici, precum și pentru diizocianați",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0869",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c1b2d956-e597-11ee-8b2b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1b6cea12fe83d194f6014aa5b2b153e795e7bd34391fac037ed6f3c04fb435bb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-884-2024",
+   "path": "ue/directiva/2024/884",
+   "short": "Directiva (UE) 2024/884",
+   "title": "Directiva (UE) 2024/884 a Parlamentului European și a Consiliului din 13 martie 2024 de modificare a Directivei 2012/19/UE privind deșeurile de echipamente electrice și electronice (DEEE) (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0884",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c2697f27-e597-11ee-8b2b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "4c4dc1b5e659909d6caf840e903d99092da31c0ce4cf95835d9771cf63cdcde4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-927-2024",
+   "path": "ue/directiva/2024/927",
+   "short": "Directiva (UE) 2024/927",
+   "title": "Directiva (UE) 2024/927 a Parlamentului European și a Consiliului din 13 martie 2024 de modificare a Directivelor 2011/61/UE și 2009/65/CE în ceea ce privește dispozițiile privind delegarea, administrarea riscului de lichiditate, raportarea în scopuri de supraveghere, furnizarea de servicii de depozitar și de custodie și acordarea de împrumuturi de către fondurile de investiții alternative (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0927",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5172bf4e-eb11-11ee-bf53-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "4149b3be7aa3c660be9b9ee0bb098c422bb819cbe991cf76fe6a0e70277b78b6"
+    }
+   ]
   }
  ]
 }

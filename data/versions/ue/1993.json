@@ -61,6 +61,201 @@
      "sha256": "0f8be0724e487eef309c859443d737d710d60bc970218c222848dba2d563d044"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-2-1993",
+   "path": "ue/directiva/1993/2",
+   "short": "Directiva 93/2/CE",
+   "title": "Directiva 93/2/CEE a Comisiei din 28 ianuarie 1993 de modificare a anexei II la Directiva 66/402/CEE a Consiliului privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0002",
+   "versions": [
+    {
+     "from": "1993-01-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ab2443a-8815-4f18-a4e6-b676c9a65e2e.0022.04/DOC_8",
+     "sha256": "ca44a9fb17bb1ed7366c1b34a9cc7692d9d62b27e9bc265ea27246eac7339640"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-41-1993",
+   "path": "ue/directiva/1993/41",
+   "short": "Directiva 93/41/CE",
+   "title": "Directiva 93/41/CEE a Consiliului din 14 iunie 1993 de abrogare a Directivei 87/22/CEE privind apropierea măsurilor naționale cu privire la introducerea pe piață a produselor medicamentoase de înaltă tehnologie, în special a celor obținute prin biotehnologie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0041",
+   "versions": [
+    {
+     "from": "1993-08-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf9b182f-ec34-4b38-a9b5-9927a2609468.0022.03/DOC_43",
+     "sha256": "3ba832c09ba0d54ef84884e8183da2c110f73d98d8ba9975e264eac9eb4e982a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-45-1993",
+   "path": "ue/directiva/1993/45",
+   "short": "Directiva 93/45/CE",
+   "title": "Directiva 93/45/CEE a Comisiei din 17 iunie 1993 privind fabricarea nectarurilor fără adaos de zaharuri sau miere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0045",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f9912a35-79bf-4e1a-8268-3b1f3b170bc8.0022.03/DOC_1",
+     "sha256": "4bca589c64f90ab280533a87719b56f0e35bb01d3ee2c0a7113e7ea9f38b6f6b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-49-1993",
+   "path": "ue/directiva/1993/49",
+   "short": "Directiva 93/49/CE",
+   "title": "Directiva 93/49/CEE a Comisiei din 23 iunie 1993 de stabilire a fișelor care indică condițiile pe care trebuie să le îndeplinească materialele de înmulțire ale plantelor ornamentale și plantele ornamentale în conformitate cu Directiva 91/682/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0049",
+   "versions": [
+    {
+     "from": "1993-07-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e915db41-6261-4438-a314-aa412796659e.0022.03/DOC_7",
+     "sha256": "4363c339737b147d309a04f21ef59f211dcf4e7c50e42949699a0ce00f783e78"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-50-1993",
+   "path": "ue/directiva/1993/50",
+   "short": "Directiva 93/50/CE",
+   "title": "Directiva 93/50/CEE a Comisiei din 24 iunie 1993 de precizare a anumitor plante care nu sunt incluse în anexa V, partea A la Directiva 77/93/CEE a Consiliului, ai căror producători sau ale căror antrepozite sau centre de expediere din zonele de producție se înscriu într-un registru oficial",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0050",
+   "versions": [
+    {
+     "from": "1993-07-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/421b42ab-ed4b-4ca2-bb4c-b05cc2ce3f03.0022.04/DOC_5",
+     "sha256": "372c1abca449afbc31f6280c7912b711278bf8e243b20ed2eaadfa71424ad42d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-51-1993",
+   "path": "ue/directiva/1993/51",
+   "short": "Directiva 93/51/CE",
+   "title": "Directiva 93/51/CEE a Comisiei din 24 iunie 1993 de stabilire a normelor de circulație a anumitor plante, produse vegetale sau a altor obiecte printr-o zonă protejată și de circulație a acestor plante, produse vegetale sau alte obiecte care își au originea sau care circulă în cadrul unei zone protejate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0051",
+   "versions": [
+    {
+     "from": "1993-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2d31647c-df45-4aef-a718-df48f68b5f1c.0022.03/DOC_7",
+     "sha256": "689b821a6d084d9e86b08a99c681134aed4ed3defb6ef6cbf8818b0138059391"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-61-1993",
+   "path": "ue/directiva/1993/61",
+   "short": "Directiva 93/61/CE",
+   "title": "Directiva 93/61/CEE a Comisiei din 2 iulie 1993 de stabilire a fișelor care indică condițiile pe care trebuie să le îndeplinească răsadurile de legume și materialele de înmulțire ale legumelor, altele decât semințele, în conformitate cu Directiva 92/33/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0061",
+   "versions": [
+    {
+     "from": "1993-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/12cf8749-3ccf-4f25-b040-83861526add3.0022.04/DOC_3",
+     "sha256": "69b6070487fcfe0b08132917b187b6933eb6d75616827751e373f2ee467bc1a6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-62-1993",
+   "path": "ue/directiva/1993/62",
+   "short": "Directiva 93/62/CE",
+   "title": "Directiva 93/62/CEE a Comisiei din 5 iulie 1993 de instituire a măsurilor de aplicare privind supravegherea și controlul furnizorilor și unităților în cadrul Directivei 92/33/CEE a Consiliului privind comercializarea răsadurilor de legume și a materialului săditor de legume altul decât semințele",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0062",
+   "versions": [
+    {
+     "from": "1993-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8a5b174a-c580-478d-81f1-678bd31a3b65.0022.03/DOC_2",
+     "sha256": "4bc7b85ff1c76714310b067485d5ca2e9e5837a0201d2ea77f0624b84089d727"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-68-1993",
+   "path": "ue/directiva/1993/68",
+   "short": "Directiva 93/68/CE",
+   "title": "Directiva 93/68/CEE a Consiliului din 22 iulie 1993 de modificare a Directivelor 87/404/CEE (recipiente simple sub presiune), 88/378/CEE (siguranța jucăriilor), 89/106/CEE (produse pentru construcții), 89/336/CEE (compatibilitate electromagnetică), 89/392/CEE (utilaje), 89/686/CEE (echipamente de protecție individuală), 90/384/CEE (instrumente neautomate de cântărire), 90/385/CEE (dispozitive medicale implantabile active), 90/396/CEE (arzătoare de combustibili gazoși), 91/263/CEE (echipamente terminale pentru telecomunicații), 92/42/CEE (boilere noi pentru apă caldă alimentate cu combustibili lichizi sau gazoși) și 73/23/CEE (echipament electric proiectat pentru a fi utilizat în anumite limite de tensiune)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0068",
+   "versions": [
+    {
+     "from": "1993-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/72b887b9-8a59-4f48-9922-4adac6ab5eef.0022.04/DOC_27",
+     "sha256": "fad511b58c00c2d9e4411fab974aaa4239f22d8a0e5016fb231649a8c3d90a2d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-73-1993",
+   "path": "ue/directiva/1993/73",
+   "short": "Directiva CELEX 31993L0073",
+   "title": "A cincea Directivă 93/73/CEE a Comisiei din 9 septembrie 1993 privind metodele de analiză necesare pentru controlul compoziției produselor cosmetice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0073",
+   "versions": [
+    {
+     "from": "1993-09-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c27580f5-33ea-413f-8ead-779aa83c62e8.0022.03/DOC_5",
+     "sha256": "723f4f738872a77b5864de0f35163e158e90d4c295126cbd8c41ca0dd487a4d5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-8-1993",
+   "path": "ue/directiva/1993/8",
+   "short": "Directiva 93/8/CE",
+   "title": "Directiva 93/8/CEE a Comisiei din 15 martie 1993 de modificare a Directivei 82/711/CEE a Consiliului de stabilire a normelor de bază privind verificarea migrării constituenților materialelor și ai obiectelor din material plastic care vin în contact cu produsele alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0008",
+   "versions": [
+    {
+     "from": "1993-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df6e0b47-7a03-4a97-a6fc-7388e423d4c4.0022.03/DOC_3",
+     "sha256": "e562a416e7116e60e6f235665b1b430ef77fba96e1d410fa5697d07e817820d8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-83-1993",
+   "path": "ue/directiva/1993/83",
+   "short": "Directiva 93/83/CE",
+   "title": "Directiva 93/83/CEE a Consiliului din 27 septembrie 1993 privind coordonarea anumitor norme referitoare la dreptul de autor și drepturile conexe aplicabile difuzării de programe prin satelit și retransmisiei prin cablu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0083",
+   "versions": [
+    {
+     "from": "1993-10-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/31dd7c9c-778a-458e-8224-2b8eace541fe.0022.03/DOC_1",
+     "sha256": "bdb8367b57dc3beb929aec93399b4a267cedecc0feee9a589fa1802616c604d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-91-1993",
+   "path": "ue/directiva/1993/91",
+   "short": "Directiva 93/91/CE",
+   "title": "Directiva 93/91/CEE a Comisiei din 29 octombrie 1993 de adaptare la progresul tehnic a Directivei 78/316/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la amenajarea interioară a autovehiculelor (identificarea comenzilor, a martorilor și a indicatoarelor)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0091",
+   "versions": [
+    {
+     "from": "1993-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d963a3d2-4394-4bd3-b454-7a125b645cf4.0022.03/DOC_4",
+     "sha256": "6e031a108689739ed06a47ec23f2843a873bb37dd5b11f8216b5ac283adbed7c"
+    }
+   ]
   }
  ]
 }

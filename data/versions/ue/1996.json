@@ -3,6 +3,51 @@
  "shard": "ue/1996",
  "acts": [
   {
+   "slug": "ue-directiva-18-1996",
+   "path": "ue/directiva/1996/18",
+   "short": "Directiva 96/18/CE",
+   "title": "Directiva 96/18/CE a Comisiei din 19 martie 1996 de modificare a mai multor directive ale Consiliului privind comercializarea semințelor și a materialelor săditoareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0018",
+   "versions": [
+    {
+     "from": "1996-03-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d88696c1-90ea-4181-b50f-ecd6bbaf0771.0022.03/DOC_1",
+     "sha256": "09304f8e11278ff1def2811931771f40a7738e1fdc0cd71864f869acb513ab3f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-20-1996",
+   "path": "ue/directiva/1996/20",
+   "short": "Directiva 96/20/CE",
+   "title": "Directiva 96/20/CE a Comisiei din 27 martie 1996 privind adaptarea la progresul tehnic a Directivei 70/157/CEE a Consiliului privind nivelul de zgomot admis și la sistemul de evacuare al autovehiculelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0020",
+   "versions": [
+    {
+     "from": "1996-05-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/402d7376-654e-4270-921f-50c400de740b.0022.04/DOC_13",
+     "sha256": "a543c481123c95e50dc1a414b721a08f211d0d8e4a24da91ffbf1e2166a02a39"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-22-1996",
+   "path": "ue/directiva/1996/22",
+   "short": "Directiva 96/22/CE",
+   "title": "Directiva 96/22/CE a Consiliului din 29 aprilie 1996 privind interzicerea utilizării anumitor substanțe cu efect hormonal sau tireostatic și a substanțelor β-agoniste în creșterea animalelor și de abrogare a Directivelor 81/602/CEE, 88/146/CEE și 88/299/CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0022",
+   "versions": [
+    {
+     "from": "1996-05-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10986ed1-2744-4cf7-8515-66b6284f6387.0022.03/DOC_1",
+     "sha256": "351b4a696b98cd2a33a6576af6d3154655fbc8a99a03c3fa22bde23377b77fff"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-30-1996",
    "path": "ue/directiva/1996/30",
    "short": "Directiva 96/30/CE",
@@ -33,6 +78,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-45-1996",
+   "path": "ue/directiva/1996/45",
+   "short": "Directiva CELEX 31996L0045",
+   "title": "Directiva a șaptea 96/45/CE a Comisiei din 2 iulie 1996 privind metodele de analiză necesare pentru controlul compoziției produselor cosmeticeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0045",
+   "versions": [
+    {
+     "from": "1996-09-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/db4c4a8f-3272-45ff-b39e-41f6e0fa454d.0022.04/DOC_10",
+     "sha256": "d4eecc9d5abf0a9cddfab73b17085c19b681732994fb1ffc2896677912915fc9"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-53-1996",
    "path": "ue/directiva/1996/53",
    "short": "Directiva 96/53/CE",
@@ -59,6 +119,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/55e57f8b-e936-4b5a-ad57-74f73c891c78.0022.04/DOC_1",
      "sha256": "b69eaeb50e87c5b0627aa20accb81cb224ce7d9fd7490bbca30a49569970e24e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-67-1996",
+   "path": "ue/directiva/1996/67",
+   "short": "Directiva 96/67/CE",
+   "title": "Directiva 96/67/CE a Consiliului din 15 octombrie 1996 privind accesul la piața serviciilor de handling la sol în aeroporturile Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0067",
+   "versions": [
+    {
+     "from": "1996-11-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14ae9263-70dd-479a-9f5c-c1a1f40c148f.0022.01/DOC_1",
+     "sha256": "047d36592bfe6d60e80f130b5dce8149a5f3af4cc584606646519a4b8cfa6838"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-71-1996",
+   "path": "ue/directiva/1996/71",
+   "short": "Directiva 96/71/CE",
+   "title": "Directiva 96/71/CE a Parlamentului European și a Consiliului din 16 decembrie 1996 privind detașarea lucrătorilor în cadrul prestării de servicii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0071",
+   "versions": [
+    {
+     "from": "1997-02-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/26316833-db0f-4a84-864d-8ca967a3a654.0022.03/DOC_1",
+     "sha256": "89c06c1be226b564103026fff0a3990aed99e4a8225a2ffaf65ff72241056430"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-72-1996",
+   "path": "ue/directiva/1996/72",
+   "short": "Directiva 96/72/CE",
+   "title": "Directiva 96/72/CE a Consiliului din 18 noiembrie 1996 de modificare a Directivelor 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE și 70/458/CEE privind comercializarea semințelor de sfeclă, semințelor de plante furajere, semințelor de cereale, cartofilor de sămânță, semințelor plantelor oleaginoase și de fibre și semințelor de legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0072",
+   "versions": [
+    {
+     "from": "1996-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/98bd4bb2-dfe3-4110-adfb-51a51c5bb796.0022.03/DOC_1",
+     "sha256": "e59a0cc1f964e4ef5297ab5dbd6f64661edd18ac1c44dc61a24268e9f7a86e6e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-75-1996",
+   "path": "ue/directiva/1996/75",
+   "short": "Directiva 96/75/CE",
+   "title": "Directiva 96/75/CE a Consiliului din 19 noiembrie 1996 privind sistemele de navlosire și de stabilire a prețurilor în transportul național și internațional pe căile navigabile interioare în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0075",
+   "versions": [
+    {
+     "from": "1996-11-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/53c3b8db-bf8a-4618-8148-20bf97f8827c.0022.01/DOC_1",
+     "sha256": "53bed48b5db5d03286b3a5b6d9ee4aa946af52943c6bf4ea4e8318d49250b6a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-8-1996",
+   "path": "ue/directiva/1996/8",
+   "short": "Directiva 96/8/CE",
+   "title": "Directiva 96/8/CE a Comisiei din 26 februarie 1996 privind produsele alimentare utilizate în dietele hipocalorice pentru scăderea în greutateText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0008",
+   "versions": [
+    {
+     "from": "1996-03-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9f6f0b54-5766-41a9-bdba-446d3f722bac.0022.04/DOC_6",
+     "sha256": "2ed8daac18785a7537cff7072baf74890b4fc20c690e7fa0f815b8cce48dbf0c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-9-1996",
+   "path": "ue/directiva/1996/9",
+   "short": "Directiva 96/9/CE",
+   "title": "Directiva 96/9/CE a Parlamentului European și a Consiliului din 11 martie 1996 privind protecția juridică a bazelor de date",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0009",
+   "versions": [
+    {
+     "from": "1996-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b48976b5-b31a-4dba-a052-87133e17d65e.0022.04/DOC_18",
+     "sha256": "0de8fa3464cad3cf2fc149ec0eef3d4f825920cd028e9d04732c023101fd95a0"
     }
    ]
   }

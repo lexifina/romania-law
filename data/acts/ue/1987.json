@@ -23,6 +23,23 @@
 }
 },
 {
+"slug": "ue-directiva-143-1987",
+"path": "ue/directiva/1987/143",
+"kind": "ue",
+"year": "1987",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Comisiei din 10 februarie 1987 de modificare a primei Directive 80/1335/CEE privind apropierea legislației statelor membre cu privire la metodele de analiză necesare pentru verificarea compoziției produselor cosmetice",
+"short": "Directiva 87/143/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1987-02-13",
+"latest": "1987-02-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0143"
+},
+{
 "slug": "ue-directiva-217-1987",
 "path": "ue/directiva/1987/217",
 "kind": "ue",
@@ -58,6 +75,23 @@
 "flags": {
 "end_of_validity": "2027-06-30"
 }
+},
+{
+"slug": "ue-directiva-372-1987",
+"path": "ue/directiva/1987/372",
+"kind": "ue",
+"year": "1987",
+"number": "372",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 25 iunie 1987 privind benzile de frecvență care urmează să fie rezervate pentru introducerea coordonată în Comunitate a telecomunicațiilor mobile terestre digitale celulare paneuropene publice",
+"short": "Directiva 87/372/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1987-06-30",
+"latest": "1987-06-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0372"
 },
 {
 "slug": "ue-directiva-540-1987",

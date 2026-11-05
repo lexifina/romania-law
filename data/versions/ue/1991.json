@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-287-1991",
+   "path": "ue/directiva/1991/287",
+   "short": "Directiva 91/287/CEE",
+   "title": "Directiva Consiliului din 3 iunie 1991 privind banda de frecvențe care trebuie stabilită pentru introducerea coordonată a standardelor europene de radiocomunicație digitală fără fir (DECT) în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0287",
+   "versions": [
+    {
+     "from": "1991-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c1c8ae9e-43cb-4512-815a-6af7325c0f8c.0022.03/DOC_54",
+     "sha256": "bd8b22a70cd1c08ce26743fded3cdd64a9af126d1ea1c501d127c8a97cf547bf"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-322-1991",
    "path": "ue/directiva/1991/322",
    "short": "Directiva 91/322/CEE",
@@ -33,6 +48,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-334-1991",
+   "path": "ue/directiva/1991/334",
+   "short": "Directiva 91/334/CEE",
+   "title": "Directiva Comisiei din 6 iunie 1991 de modificare a Directivei 82/475/CEE de stabilire a categoriilor de ingrediente care pot fi utilizate pentru etichetarea furajelor combinate pentru animale de companie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0334",
+   "versions": [
+    {
+     "from": "1991-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ddb9826-861f-48ba-abd6-02422e6776e4.0003.01/DOC_22",
+     "sha256": "ccc0ab2fa76158ca4420e73c8a0e612b1b8efbaa11dd939e94c16c6ae068d14d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-371-1991",
+   "path": "ue/directiva/1991/371",
+   "short": "Directiva 91/371/CEE",
+   "title": "Directiva Consiliului din 20 iunie 1991 privind aplicarea acordului între Comunitatea Economică Europeană și Confederația Elvețiană privind asigurarea generală directă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0371",
+   "versions": [
+    {
+     "from": "1991-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab83611d-3199-4977-811b-5b43d1e142c2.0022.04/DOC_1",
+     "sha256": "e5752a471d7068542361f59ce20b3d43f29660462314545f0cbaf15b602b466b"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-383-1991",
    "path": "ue/directiva/1991/383",
    "short": "Directiva 91/383/CEE",
@@ -44,6 +89,141 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/37acf4ba-bf12-4bcb-bc06-ead0767905be.0022.03/DOC_1",
      "sha256": "fd87185b967045784971923587f8971d4984fa1b51e6676180708d903f2a0846"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-498-1991",
+   "path": "ue/directiva/1991/498",
+   "short": "Directiva 91/498/CEE",
+   "title": "Directiva Consiliului din 29 iulie 1991 privind condițiile de acordare de derogări temporare și limitate de la normele sanitar-veterinare comunitare specifice pentru producția și comercializarea de carne proaspătă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0498",
+   "versions": [
+    {
+     "from": "1991-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/edda9e89-8047-44de-870a-1167889518ff.0022.04/DOC_27",
+     "sha256": "7cb64f6998ced492bd52d648ebe0784904b0cf1b0b4d9b95a82eab914e67d0d2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-662-1991",
+   "path": "ue/directiva/1991/662",
+   "short": "Directiva 91/662/CEE",
+   "title": "Directiva Comisiei din 6 decembrie 1991 de adaptare la progresul tehnic a Directivei 74/297/CEE a Consiliului privind comportamentul la impact al volanului și al coloanei volanului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0662",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/96e07215-eb2c-45bc-8b12-bda86d89877b.0022.04/DOC_65",
+     "sha256": "e3e907e458c27925096e3e049a9e9f52469a5e032313cdcfb1fc8714e2026a05"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-663-1991",
+   "path": "ue/directiva/1991/663",
+   "short": "Directiva 91/663/CEE",
+   "title": "Directiva Comisiei din 10 decembrie 1991 de adaptare la progresul tehnic a Directivei 76/756/CEE a Consiliului referitoare la instalarea dispozitivelor de iluminat și de semnalizare luminoasă ale autovehiculelor și ale remorcilor acestora",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0663",
+   "versions": [
+    {
+     "from": "1991-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4bc49b57-3b5f-42fc-8ebc-0fe41a4365b7.0022.03/DOC_59",
+     "sha256": "c345c69124935cfc3476d287277c3d1b6c850e22c1c449c94748949b1495e5ee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-671-1991",
+   "path": "ue/directiva/1991/671",
+   "short": "Directiva 91/671/CEE",
+   "title": "Directiva Consiliului din 16 decembrie 1991 de apropiere a legislațiilor statelor membre privind utilizarea obligatorie a centurii de siguranță în vehiculele cu o capacitate mai mică de 3,5 tone",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0671",
+   "versions": [
+    {
+     "from": "1992-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a8caecfa-a111-4233-a91c-c095ba986530.0022.03/DOC_2",
+     "sha256": "12e165a5afcffbea88066e089163a39d48cf820e83f51723c867946d6b95375e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-672-1991",
+   "path": "ue/directiva/1991/672",
+   "short": "Directiva 91/672/CEE",
+   "title": "Directiva Consiliului din 16 decembrie 1991 privind recunoașterea reciprocă a brevetelor naționale ale conducătorilor de navă pentru transportul de mărfuri și călători pe căile navigabile interioare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0672",
+   "versions": [
+    {
+     "from": "1991-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd50be3e-3b10-46ef-abdb-579bf795dc3b.0022.04/DOC_2",
+     "sha256": "0e677d357f8b2d803645dfe998dab559972b08b29e6e0464ec851dbb3e75680a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-674-1991",
+   "path": "ue/directiva/1991/674",
+   "short": "Directiva 91/674/CEE",
+   "title": "Directiva Consiliului din 19 decembrie 1991 privind situațiile financiare anuale și situațiile financiare consolidate ale întreprinderilor de asigurare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0674",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ed6616de-9223-45aa-b5ce-60a0151bdb98.0022.04/DOC_1",
+     "sha256": "4d68dffa999d2460863c8cade7cbbb133aa18e345d9934f5bf9426b7813047e6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-675-1991",
+   "path": "ue/directiva/1991/675",
+   "short": "Directiva 91/675/CEE",
+   "title": "Directiva Consiliului din 19 decembrie 1991 de instituire a unui comitet de asigurări",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0675",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf34f058-2cf2-4875-a529-c3882e15d3d6.0022.03/DOC_2",
+     "sha256": "319bc312a86a58fb547405b737657d6ba034afe5cdf06cd96aeaf40bf87e1fbe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-676-1991",
+   "path": "ue/directiva/1991/676",
+   "short": "Directiva 91/676/CEE",
+   "title": "Directiva Consiliului din 12 decembrie 1991 privind protecția apelor împotriva poluării cu nitrați proveniți din surse agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0676",
+   "versions": [
+    {
+     "from": "1991-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0fc6e4e0-9d76-458f-93cc-825a3ba8a76d.0022.03/DOC_5",
+     "sha256": "7d14e288c5aa073af8e605b68a7d1e85229acae371217e3dc65a29d225b7b294"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-680-1991",
+   "path": "ue/directiva/1991/680",
+   "short": "Directiva 91/680/CEE",
+   "title": "Directiva Consiliului din 16 decembrie 1991 de completare a sistemului comun privind taxa pe valoarea adăugată și de modificare a Directivei 77/388/CEE în vederea eliminării frontierelor fiscale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0680",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f6055a7-9b87-4cad-96c0-b66b6e6d1a57.0022.04/DOC_1",
+     "sha256": "ec240e8bc8d50fddce59967784a573d1b95721ed2948a6196126866d52642e37"
     }
    ]
   }

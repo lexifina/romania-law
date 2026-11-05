@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-100-2003",
+   "path": "ue/directiva/2003/100",
+   "short": "Directiva 2003/100/CE",
+   "title": "Directiva 2003/100/CE a Comisiei din 31 octombrie 2003 de modificare a anexei I la Directiva 2002/32/CE a Parlamentului European și a Consiliului privind substanțele nedorite din furajeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0100",
+   "versions": [
+    {
+     "from": "2003-11-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/483ca571-40bd-4458-b366-37d12b6464de.0022.04/DOC_1",
+     "sha256": "f4b87b3e2631f552579b310bba4cdf5fad8c3409a46836667c55f801f886ec5e"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-109-2003",
    "path": "ue/directiva/2003/109",
    "short": "Directiva 2003/109/CE",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-25-2003",
+   "path": "ue/directiva/2003/25",
+   "short": "Directiva 2003/25/CE",
+   "title": "Directiva 2003/25/CE a Parlamentului European și a Consiliului din 14 aprilie 2003 privind cerințele de stabilitate specifice pentru navele de pasageri ro-ro (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0025",
+   "versions": [
+    {
+     "from": "2003-05-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8c4ad05-6744-4a78-a253-5dc3db5776bf.0022.03/DOC_1",
+     "sha256": "69fb8d23aa74b768fd1cde4dcd6c786a4e6058ec4142ceab6e7c7992c9e9a2d1"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-33-2003",
    "path": "ue/directiva/2003/33",
    "short": "Directiva 2003/33/CE",
@@ -168,6 +198,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-45-2003",
+   "path": "ue/directiva/2003/45",
+   "short": "Directiva 2003/45/CE",
+   "title": "Directiva 2003/45/CE a Comisiei din 28 mai 2003 de modificare a Directivei 2002/57/CE a Consiliului privind comercializarea semințelor de plante oleaginoase și de plante pentru fibreText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0045",
+   "versions": [
+    {
+     "from": "2003-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/435ab665-20c6-4b2c-bc09-c111631a6694.0022.05/DOC_1",
+     "sha256": "dc42995e5e449664b3e1c09e8ff7c40ee0f0c9205b8fdc90f505e876521fcdae"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-49-2003",
    "path": "ue/directiva/2003/49",
    "short": "Directiva 2003/49/CE",
@@ -179,6 +224,246 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/08e483c8-4af3-431c-8963-9e6ebe5dab89.0022.04/DOC_1",
      "sha256": "6b0c0be1499657bb0aa1b303a08737e300cfa9bc70c2ea23e6ac0ec1cd4a68a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-51-2003",
+   "path": "ue/directiva/2003/51",
+   "short": "Directiva 2003/51/CE",
+   "title": "Directiva 2003/51/CE a Parlamentului European și a Consiliului din 18 iunie 2003 de modificare a Directivelor 78/660/CEE, 83/349/CEE, 86/635/CEE și 91/674/CEE ale Consiliului privind conturile anuale și conturile consolidate ale anumitor forme de societăți, ale băncilor și ale altor instituții financiare și ale întreprinderilor de asigurare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0051",
+   "versions": [
+    {
+     "from": "2003-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d8fc17a1-0bba-4628-b6f6-cf670b2f744b.0022.03/DOC_1",
+     "sha256": "f26a2ac69dca4d82df5813ea78c4b5e111a333d71948d74434570fe3181acffd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-57-2003",
+   "path": "ue/directiva/2003/57",
+   "short": "Directiva 2003/57/CE",
+   "title": "Directiva 2003/57/CE a Comisiei din 17 iunie 2003 de modificare a Directivei 2002/32/CE a Parlamentului European și a Consiliului privind substanțele nedorite în furajeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0057",
+   "versions": [
+    {
+     "from": "2003-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5de29759-3412-48de-8d09-7b77ff7f0577.0022.05/DOC_1",
+     "sha256": "9d752cecf8fa45ae70a47923a42d95a9d1a79ba1ae7d39a54c5701297e8f8cc4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-61-2003",
+   "path": "ue/directiva/2003/61",
+   "short": "Directiva 2003/61/CE",
+   "title": "Directiva 2003/61/CE a Consiliului din 18 iunie 2003 de modificare a Directivelor 66/401/CEE privind comercializarea semințelor de plante furajere, 66/402/CEE privind comercializarea semințelor de cereale, 68/193/CEE privind comercializarea materialelor de înmulțire vegetativă a viței de vie, 92/33/CEE privind comercializarea răsadurilor de legume și a materialelor de înmulțire a legumelor, altele decât semințele, 92/34/CEE privind comercializarea materialelor de înmulțire a plantelor fructifere și a plantelor fructifere destinate producției de fructe, 98/56/CE privind comercializarea materialelor de înmulțire a plantelor ornamentale, 2002/54/CE privind comercializarea semințelor de sfeclă, 2002/55/CE privind comercializarea semințelor de legume, 2002/56/CE privind comercializarea cartofilor de sămânță și 2002/57/CE privind comercializarea semințelor de plante oleaginoase și de plante pentru fibre, în ceea ce privește efectuarea testelor și verificărilor comparative comunitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0061",
+   "versions": [
+    {
+     "from": "2003-07-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b5148ee-d0c5-4297-a190-a465e60bf78b.0022.04/DOC_1",
+     "sha256": "2228503c84352c26e91842a67333d3d8a2edf0ba4dd0ee340b5eb51432b668e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-63-2003",
+   "path": "ue/directiva/2003/63",
+   "short": "Directiva 2003/63/CE",
+   "title": "Directiva 2003/63/CE a Comisiei din 25 iunie 2003 de modificare a Directivei 2001/83/CE a Parlamentului European și a Consiliului de instituire a unui cod comunitar cu privire la produsele medicamentoase de uz umanText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0063",
+   "versions": [
+    {
+     "from": "2003-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c7cff2a4-60fc-4321-bbe8-0b52091741d3.0022.04/DOC_1",
+     "sha256": "5c1d09b3266cd5f4453fec0de3fbce67a81dab59f47954c5d31490aefcb9653a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-7-2003",
+   "path": "ue/directiva/2003/7",
+   "short": "Directiva 2003/7/CE",
+   "title": "Directiva 2003/7/CE a Comisiei din 24 ianuarie 2003 de modificare a condițiilor de autorizare a cantaxantinei în hrana animalelor, în conformitate cu Directiva 70/524/CEE a ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0007",
+   "versions": [
+    {
+     "from": "2003-02-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/079366bb-a186-49d5-ad62-d3e101474a09.0022.03/DOC_1",
+     "sha256": "d4b2f11847c560dbedd878d84c56917e29e9603c4c76fb7ec9470380b5d42833"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-72-2003",
+   "path": "ue/directiva/2003/72",
+   "short": "Directiva 2003/72/CE",
+   "title": "Directiva 2003/72/CE a Consiliului din 22 iulie 2003 de completare a statutului societății cooperative europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0072",
+   "versions": [
+    {
+     "from": "2003-08-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/498790bc-39f8-4ce7-b278-6b6daa8df303.0022.04/DOC_7",
+     "sha256": "a709b190606ffa336a0659e2968387dd3a0e40e06e83ff8c10767be562320456"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-73-2003",
+   "path": "ue/directiva/2003/73",
+   "short": "Directiva 2003/73/CE",
+   "title": "Directiva 2003/73/CE a Comisiei din 24 iulie 2003 de modificare a anexei III la Directiva 1999/94/CE a Parlamentului European și a ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0073",
+   "versions": [
+    {
+     "from": "2003-07-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a96cf6d6-4124-4d35-bfda-bc31dbe297d6.0022.04/DOC_1",
+     "sha256": "6d373eb659de331d3d9e8cfd98549c73002f593f79446090031a1b831328204e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-74-2003",
+   "path": "ue/directiva/2003/74",
+   "short": "Directiva 2003/74/CE",
+   "title": "Directiva 2003/74/CE a Parlamentului European și a Consiliului din 22 septembrie 2003 de modificare a Directivei 96/22/CE a Consiliului privind interzicerea utilizării anumitor substanțe cu efect hormonal sau tireostatic și a substanțelor beta-agoniste în creșterea animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0074",
+   "versions": [
+    {
+     "from": "2003-10-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1e15a7d4-7dbd-468c-996f-7b0bab60deaf.0022.05/DOC_1",
+     "sha256": "1617315cfb8f76bceff848f0c83865b6a5577fbc3890d4f6567bcfb0cbcb856e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-8-2003",
+   "path": "ue/directiva/2003/8",
+   "short": "Directiva 2003/8/CE",
+   "title": "Directiva 2003/8/CE a Consiliului din 27 ianuarie 2003 de îmbunătățire a accesului la justiție în litigiile transfrontaliere prin stabilirea unor norme minime comune privind asistența judiciară acordată în astfel de litigii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0008",
+   "versions": [
+    {
+     "from": "2003-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dc265d5a-5432-4986-8b6e-174f31674d31.0022.04/DOC_1",
+     "sha256": "c87df06ff4b635566ea3c0e35595344974bfb6f102ebbde65bd2b5255be9c5f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-86-2003",
+   "path": "ue/directiva/2003/86",
+   "short": "Directiva 2003/86/CE",
+   "title": "Directiva 2003/86/CE a Consiliului din 22 septembrie 2003 privind dreptul la reîntregirea familiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0086",
+   "versions": [
+    {
+     "from": "2003-10-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b81af559-84bd-45b3-9d0e-c3f70a22516e.0022.05/DOC_1",
+     "sha256": "c1ad93c72294bff8b359ad5381660efbf5fedcdda79559d153fd3740df883ac2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-87-2003",
+   "path": "ue/directiva/2003/87",
+   "short": "Directiva 2003/87/CE",
+   "title": "Directiva 2003/87/CE a Parlamentului European și a Consiliului din 13 octombrie 2003 de stabilire a unui sistem de comercializare a cotelor de emisie de gaze cu efect de seră în cadrul Comunității și de modificare a Directivei 96/61/CE a ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0087",
+   "versions": [
+    {
+     "from": "2003-10-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/518d47fe-bb29-4eac-a25e-42d0499f4e19.0022.04/DOC_1",
+     "sha256": "23abb81b22b58dde5791b62ac161f6c2e9fc074e21efde148a4e3c369305a0b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-88-2003",
+   "path": "ue/directiva/2003/88",
+   "short": "Directiva 2003/88/CE",
+   "title": "Directiva 2003/88/CE a Parlamentului European și a Consiliului din 4 noiembrie 2003 privind anumite aspecte ale organizării timpului de lucru",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0088",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/050dd964-4f94-4c61-ab50-89217a0d90e2.0022.04/DOC_1",
+     "sha256": "e60f659a8d84b0570d0d8c58f00876a2742f26984b40806fdd74e8ac7f303a45"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-90-2003",
+   "path": "ue/directiva/2003/90",
+   "short": "Directiva 2003/90/CE",
+   "title": "Directiva 2003/90/CE a Comisiei din 6 octombrie 2003 de stabilire a măsurilor de punere în aplicare a articolului 7 din Directiva 2002/53/CE a Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricoleText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0090",
+   "versions": [
+    {
+     "from": "2003-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab4a6188-00b0-4874-bef3-3b77aae614bc.0022.05/DOC_1",
+     "sha256": "b93e544e417ee9c52e644c6ccd5cac38ce16c97e14bffae4c2b27025852a7407"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-91-2003",
+   "path": "ue/directiva/2003/91",
+   "short": "Directiva 2003/91/CE",
+   "title": "Directiva 2003/91/CE a Comisiei din 6 octombrie 2003 de stabilire a normelor de aplicare a dispozițiilor articolului 7 din Directiva 2002/55/CE a Consiliului privind numărul minim de caracteristici care trebuie examinate și condițiile minime necesare pentru examinarea anumitor soiuri de legumeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0091",
+   "versions": [
+    {
+     "from": "2003-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/96ad709c-768f-48cd-bb09-4bd470540773.0022.05/DOC_1",
+     "sha256": "15c92f8640fd1dc2719e5d668b507e84a99d376de2c927296567a8247cfb15ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-96-2003",
+   "path": "ue/directiva/2003/96",
+   "short": "Directiva 2003/96/CE",
+   "title": "Directiva 2003/96/CE a Consiliului din 27 octombrie 2003 privind restructurarea cadrului comunitar de impozitare a produselor energetice și a electricitățiiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0096",
+   "versions": [
+    {
+     "from": "2003-10-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/592e0011-a77d-4215-8ef9-f0e3d5237d32.0022.05/DOC_1",
+     "sha256": "e4febc72b10f6ad2f2425a697b6d422e23ebc69bdcbafa77905a6bac948651b3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-99-2003",
+   "path": "ue/directiva/2003/99",
+   "short": "Directiva 2003/99/CE",
+   "title": "Directiva 2003/99/CE a Parlamentului European și a Consiliului din 17 noiembrie 2003 privind monitorizarea zoonozelor și a agenților zoonotici, de modificare a Deciziei 90/424/CEE a Consiliului și de abrogare a Directivei 92/117/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0099",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/727c8948-9912-4ede-a52c-d2b2e78d16d7.0022.05/DOC_1",
+     "sha256": "e5e0692c543487b24ccbfcb79be0b7765291478a8bd654bddc906357f171272a"
     }
    ]
   }

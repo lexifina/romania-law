@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "ue/1988",
+ "acts": [
+  {
+   "slug": "ue-directiva-332-1988",
+   "path": "ue/directiva/1988/332",
+   "short": "Directiva 88/332/CEE",
+   "title": "Directiva Consiliului din 13 iunie 1988 de modificare a unor directive privind comercializarea semințelor și a materialului de înmulțire astfel încât să se prevadă norme de aplicare a dispozițiilor referitoare la semințele și materialul de înmulțire care satisfac cerințe mai puțin stringente",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988L0332",
+   "versions": [
+    {
+     "from": "1988-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5ec1b78a-ad91-4dec-93ae-1585832b6a1f.0022.04/DOC_5",
+     "sha256": "b42b4235bd3c768d3ea091862dccf2dcbfcc797405d07b7aed191159cbba9dbe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-361-1988",
+   "path": "ue/directiva/1988/361",
+   "short": "Directiva 88/361/CEE",
+   "title": "Directiva Consiliului din 24 iunie 1988 pentru punerea în aplicare a articolului 67 din tratat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988L0361",
+   "versions": [
+    {
+     "from": "1988-07-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b74d4520-6210-4ab6-95d7-e4bee82e71fa.0022.03/DOC_9",
+     "sha256": "b4e963ccffc8f7a4d48daf7a0cf561ab2dd913844d32050f9354b12815beec4f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-380-1988",
+   "path": "ue/directiva/1988/380",
+   "short": "Directiva 88/380/CEE",
+   "title": "Directiva Consiliului din 13 iunie 1988 de modificare a Directivelor 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE, 70/457/CEE și 70/458/CEE privind comercializarea semințelor de sfeclă, a semințelor de plante furajere, a semințelor de cereale, a cartofilor de sămânță, a semințelor de plante oleaginoase și pentru fibră și a semințelor de legume și catalogul comun al soiurilor de plante agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988L0380",
+   "versions": [
+    {
+     "from": "1988-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/39d55410-681f-47b0-a92e-676fffc2e530.0022.04/DOC_2",
+     "sha256": "a59eda58c25ea9edb4c0c2504985b380ee796f0e1fa4460bf5a7f564a8aa8bc1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-409-1988",
+   "path": "ue/directiva/1988/409",
+   "short": "Directiva 88/409/CEE",
+   "title": "Directiva Consiliului din 15 iunie 1988 de stabilire a normelor sanitare aplicabile cărnii destinate pieței naționale și a nivelurilor taxei care se percepe în conformitate cu Directiva 85/73/CEE pentru inspecția cărnii menționate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988L0409",
+   "versions": [
+    {
+     "from": "1988-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/840e04e0-fa05-478a-acc8-af35450e46d4.0022.04/DOC_3",
+     "sha256": "c35e83b9dbc465d1901ef4e9fbd218f2b890ecc7103daf16903dee21f45a1f82"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-506-1988",
+   "path": "ue/directiva/1988/506",
+   "short": "Directiva 88/506/CEE",
+   "title": "Directiva Comisiei din 13 septembrie 1988 de modificare a anexei II la Directiva 66/402/CEE a Consiliului privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31988L0506",
+   "versions": [
+    {
+     "from": "1988-09-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0a389a88-9e3d-470a-ba83-dc3791f92fe3.0022.04/DOC_1",
+     "sha256": "9d7fd9b9a9a068fb78f823ca56eabd144d19bb2702a79e6bdd8f34869a8e412a"
+    }
+   ]
+  }
+ ]
+}

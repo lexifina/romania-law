@@ -20,6 +20,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0004"
 },
 {
+"slug": "ue-directiva-7-2012",
+"path": "ue/directiva/2012/7",
+"kind": "ue",
+"year": "2012",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2012/7/UE a Comisiei din 2 martie 2012 de modificare, în scopul adaptării la progresele tehnice, a părții III din anexa II la Directiva 2009/48/CE a Parlamentului European și a Consiliului privind siguranța jucăriilor Text cu relevanță pentru SEE",
+"short": "Directiva 2012/7/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-03-23",
+"latest": "2012-03-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0007",
+"flags": {
+"end_of_validity": "2030-07-31"
+}
+},
+{
 "slug": "ue-directiva-10-2012",
 "path": "ue/directiva/2012/10",
 "kind": "ue",
@@ -35,6 +55,23 @@
 "from": "2012-04-13",
 "latest": "2012-04-13",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0010"
+},
+{
+"slug": "ue-directiva-12-2012",
+"path": "ue/directiva/2012/12",
+"kind": "ue",
+"year": "2012",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2012/12/UE a Parlamentului European și a Consiliului din 19 aprilie 2012 de modificare a Directivei 2001/112/CE a Consiliului privind sucurile de fructe și anumite produse similare destinate consumului uman",
+"short": "Directiva 2012/12/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-04-27",
+"latest": "2012-04-27",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0012"
 },
 {
 "slug": "ue-directiva-13-2012",
@@ -92,6 +129,23 @@
 "flags": {
 "figures_missing": 1
 }
+},
+{
+"slug": "ue-directiva-23-2012",
+"path": "ue/directiva/2012/23",
+"kind": "ue",
+"year": "2012",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2012/23/UE a Parlamentului European și a Consiliului din 12 septembrie 2012 de modificare a Directivei 2009/138/CE (Solvabilitate II) în ceea ce privește termenul de transpunere, data de aplicare a acesteia și data de abrogare a anumitor directive Text cu relevanță pentru SEE",
+"short": "Directiva 2012/23/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-09-15",
+"latest": "2012-09-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0023"
 },
 {
 "slug": "ue-directiva-26-2012",
@@ -160,6 +214,131 @@
 "from": "2012-12-15",
 "latest": "2012-12-15",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0034"
+},
+{
+"slug": "ue-directiva-36-2012",
+"path": "ue/directiva/2012/36",
+"kind": "ue",
+"year": "2012",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2012/36/UE a Comisiei din 19 noiembrie 2012 de modificare a Directivei 2006/126/CE a Parlamentului European și a Consiliului privind permisele de conducere Text cu relevanță pentru SEE",
+"short": "Directiva 2012/36/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-11-21",
+"latest": "2012-11-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0036",
+"flags": {
+"end_of_validity": "2029-11-25"
+}
+},
+{
+"slug": "ue-directiva-39-2012",
+"path": "ue/directiva/2012/39",
+"kind": "ue",
+"year": "2012",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2012/39/UE a Comisiei din 26 noiembrie 2012 de modificare a Directivei 2006/17/CE în ceea ce privește anumite cerințe tehnice pentru testarea țesuturilor și a celulelor umane Text cu relevanță pentru SEE",
+"short": "Directiva 2012/39/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-12-17",
+"latest": "2012-12-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0039"
+},
+{
+"slug": "ue-directiva-43-2012",
+"path": "ue/directiva/2012/43",
+"kind": "ue",
+"year": "2012",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2012/43/UE a Comisiei din 26 noiembrie 2012 de modificare a unor rubrici din anexa I la Directiva 98/8/CE a Parlamentului European și a Consiliului Text cu relevanță pentru SEE",
+"short": "Directiva 2012/43/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-12-17",
+"latest": "2012-12-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0043"
+},
+{
+"slug": "ue-directiva-44-2012",
+"path": "ue/directiva/2012/44",
+"kind": "ue",
+"year": "2012",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare 2012/44/UE a Comisiei din 26 noiembrie 2012 de modificare a Directivelor 2003/90/CE și 2003/91/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directivele 2002/53/CE și, respectiv, 2002/55/CE ale Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole și specii de legume Text cu relevanță pentru SEE",
+"short": "Directiva de punere în aplicare 2012/44/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-12-17",
+"latest": "2012-12-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0044"
+},
+{
+"slug": "ue-directiva-45-2012",
+"path": "ue/directiva/2012/45",
+"kind": "ue",
+"year": "2012",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2012/45/UE a Comisiei din 3 decembrie 2012 de adaptare, pentru a doua oară, la progresul științific și tehnic a anexelor la Directiva 2008/68/CE a Parlamentului European și a Consiliului privind transportul interior de mărfuri periculoase Text cu relevanță pentru SEE",
+"short": "Directiva 2012/45/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-12-24",
+"latest": "2012-12-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0045"
+},
+{
+"slug": "ue-directiva-47-2012",
+"path": "ue/directiva/2012/47",
+"kind": "ue",
+"year": "2012",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 2012/47/UE a Comisiei din 14 decembrie 2012 de modificare a Directivei 2009/43/CE a Parlamentului European și a Consiliului în ceea ce privește lista produselor din domeniul apărării Text cu relevanță pentru SEE",
+"short": "Directiva 2012/47/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-02-20",
+"latest": "2013-02-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0047"
+},
+{
+"slug": "ue-regulament-1215-2012",
+"path": "ue/regulament/2012/1215",
+"kind": "ue",
+"year": "2012",
+"number": "1215",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 1215/2012 al Parlamentului European și al Consiliului din 12 decembrie 2012 privind competența judiciară, recunoașterea și executarea hotărârilor în materie civilă și comercială (reformare)",
+"short": "Regulamentul (UE) nr. 1215/2012",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-01-09",
+"latest": "2013-01-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1215",
+"flags": {
+"figures_missing": 7
+}
 }
 ]
 }

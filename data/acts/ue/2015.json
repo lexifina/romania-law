@@ -20,6 +20,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0121"
 },
 {
+"slug": "ue-directiva-254-2015",
+"path": "ue/directiva/2015/254",
+"kind": "ue",
+"year": "2015",
+"number": "254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/254 a Parlamentului European și a Consiliului din 11 februarie 2015 de abrogare a Directivei 93/5/CEE a Consiliului privind asistența ce trebuie acordată Comisiei și colaborarea dintre statele membre în domeniul examinării științifice a problemelor legate de produsele alimentare Text cu relevanță pentru SEE",
+"short": "Directiva (UE) 2015/254",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-03-10",
+"latest": "2015-03-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0254"
+},
+{
 "slug": "ue-directiva-412-2015",
 "path": "ue/directiva/2015/412",
 "kind": "ue",
@@ -54,6 +71,137 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0413",
 "flags": {
 "figures_missing": 6
+}
+},
+{
+"slug": "ue-directiva-565-2015",
+"path": "ue/directiva/2015/565",
+"kind": "ue",
+"year": "2015",
+"number": "565",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/565 a Comisiei din 8 aprilie 2015 de modificare a Directivei 2006/86/CE în ceea ce privește anumite cerințe tehnice pentru codificarea țesuturilor și a celulelor umane Text cu relevanță pentru SEE",
+"short": "Directiva (UE) 2015/565",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-04-29",
+"latest": "2015-04-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0565"
+},
+{
+"slug": "ue-directiva-566-2015",
+"path": "ue/directiva/2015/566",
+"kind": "ue",
+"year": "2015",
+"number": "566",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/566 a Comisiei din 8 aprilie 2015 de punere în aplicare a Directivei 2004/23/CE în ceea ce privește procedurile de verificare a standardelor echivalente în materie de calitate și de siguranță ale țesuturilor și celulelor importate Text cu relevanță pentru SEE",
+"short": "Directiva (UE) 2015/566",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-04-29",
+"latest": "2015-04-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0566",
+"flags": {
+"figures_missing": 2
+}
+},
+{
+"slug": "ue-directiva-637-2015",
+"path": "ue/directiva/2015/637",
+"kind": "ue",
+"year": "2015",
+"number": "637",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/637 a Consiliului din 20 aprilie 2015 privind măsurile de coordonare și cooperare pentru facilitarea protecției consulare a cetățenilor nereprezentați ai Uniunii în țările terțe și de abrogare a Deciziei 95/553/CE",
+"short": "Directiva (UE) 2015/637",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-05-14",
+"latest": "2015-05-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0637"
+},
+{
+"slug": "ue-directiva-653-2015",
+"path": "ue/directiva/2015/653",
+"kind": "ue",
+"year": "2015",
+"number": "653",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/653 a Comisiei din 24 aprilie 2015 de modificare a Directivei 2006/126/CE a Parlamentului European și a Consiliului privind permisele de conducere (Text cu relevanță pentru SEE)",
+"short": "Directiva (UE) 2015/653",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-05-15",
+"latest": "2015-05-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0653",
+"flags": {
+"end_of_validity": "2029-11-25"
+}
+},
+{
+"slug": "ue-directiva-719-2015",
+"path": "ue/directiva/2015/719",
+"kind": "ue",
+"year": "2015",
+"number": "719",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/719 a Parlamentului European și a Consiliului din 29 aprilie 2015 de modificare a Directivei 96/53/CE a Consiliului de stabilire, pentru anumite vehicule rutiere care circulă în interiorul Comunității, a dimensiunilor maxime autorizate în traficul național și internațional și a greutății maxime autorizate în traficul internațional (Text cu relevanță pentru SEE)",
+"short": "Directiva (UE) 2015/719",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-05-26",
+"latest": "2015-05-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0719"
+},
+{
+"slug": "ue-directiva-849-2015",
+"path": "ue/directiva/2015/849",
+"kind": "ue",
+"year": "2015",
+"number": "849",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/849 a Parlamentului European și a Consiliului din 20 mai 2015 privind prevenirea utilizării sistemului financiar în scopul spălării banilor sau finanțării terorismului, de modificare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului și de abrogare a Directivei 2005/60/CE a Parlamentului European și a Consiliului și a Directivei 2006/70/CE a Comisiei (Text cu relevanță pentru SEE)",
+"short": "Directiva (UE) 2015/849",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-06-25",
+"latest": "2015-06-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0849",
+"flags": {
+"end_of_validity": "2027-07-09"
+}
+},
+{
+"slug": "ue-directiva-996-2015",
+"path": "ue/directiva/2015/996",
+"kind": "ue",
+"year": "2015",
+"number": "996",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/996 a Comisiei din 19 mai 2015 de stabilire a unor metode comune de evaluare a zgomotului, în conformitate cu Directiva 2002/49/CE a Parlamentului European și a Consiliului (Text cu relevanță pentru SEE)",
+"short": "Directiva (UE) 2015/996",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-07-02",
+"latest": "2015-07-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0996",
+"flags": {
+"figures_missing": 214
 }
 },
 {
@@ -165,6 +313,66 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2060"
 },
 {
+"slug": "ue-directiva-2115-2015",
+"path": "ue/directiva/2015/2115",
+"kind": "ue",
+"year": "2015",
+"number": "2115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/2115 a Comisiei din 23 noiembrie 2015 de modificare, în scopul adoptării unor valori limită specifice pentru substanțele chimice utilizate în jucării, a apendicelui C din anexa II la Directiva 2009/48/CE a Parlamentului European și a Consiliului privind siguranța jucăriilor, în ceea ce privește formamida (Text cu relevanță pentru SEE)",
+"short": "Directiva (UE) 2015/2115",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-12-14",
+"latest": "2015-12-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2115",
+"flags": {
+"end_of_validity": "2030-07-31"
+}
+},
+{
+"slug": "ue-directiva-2116-2015",
+"path": "ue/directiva/2015/2116",
+"kind": "ue",
+"year": "2015",
+"number": "2116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/2116 a Comisiei din 23 noiembrie 2015 de modificare, în scopul adoptării unor valori limită specifice pentru substanțele chimice utilizate în jucării, a apendicelui C din anexa II la Directiva 2009/48/CE a Parlamentului European și a Consiliului privind siguranța jucăriilor, în ceea ce privește benzizotiazolinona (Text cu relevanță pentru SEE)",
+"short": "Directiva (UE) 2015/2116",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-12-14",
+"latest": "2015-12-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2116",
+"flags": {
+"end_of_validity": "2030-07-31"
+}
+},
+{
+"slug": "ue-directiva-2117-2015",
+"path": "ue/directiva/2015/2117",
+"kind": "ue",
+"year": "2015",
+"number": "2117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/2117 a Comisiei din 23 noiembrie 2015 de modificare, în scopul adoptării unor valori-limită specifice pentru substanțele chimice utilizate în jucării, a apendicelui C din anexa II la Directiva 2009/48/CE a Parlamentului European și a Consiliului privind siguranța jucăriilor, în ceea ce privește clorometilizotiazolinona și metilizotiazolinona, ca atare sau amestecate în proporție de 3:1 (Text cu relevanță pentru SEE)",
+"short": "Directiva (UE) 2015/2117",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-12-14",
+"latest": "2015-12-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2117",
+"flags": {
+"end_of_validity": "2030-07-31"
+}
+},
+{
 "slug": "ue-directiva-2193-2015",
 "path": "ue/directiva/2015/2193",
 "kind": "ue",
@@ -180,6 +388,23 @@
 "from": "2015-12-18",
 "latest": "2015-12-18",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2193"
+},
+{
+"slug": "ue-directiva-2203-2015",
+"path": "ue/directiva/2015/2203",
+"kind": "ue",
+"year": "2015",
+"number": "2203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2015/2203 a Parlamentului European și a Consiliului din 25 noiembrie 2015 privind apropierea legislațiilor statelor membre cu privire la cazeinele și cazeinații destinați consumului uman și de abrogare a Directivei 83/417/CEE a Consiliului",
+"short": "Directiva (UE) 2015/2203",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2015-12-21",
+"latest": "2015-12-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2203"
 },
 {
 "slug": "ue-directiva-2302-2015",

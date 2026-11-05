@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-23-1998",
+   "path": "ue/directiva/1998/23",
+   "short": "Directiva 98/23/CE",
+   "title": "Directiva 98/23/CE a Consiliului din 7 aprilie 1998 privind extinderea la Regatul Unit al Marii Britanii și Irlandei de Nord a aplicării Directivei 97/81/CE privind acordul-cadru cu privire la munca pe fracțiune de normă, încheiat cu UNICE, CEEP și ETUC",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0023",
+   "versions": [
+    {
+     "from": "1998-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5338f5db-a98f-4f21-8aae-e79a0912c2da.0022.03/DOC_1",
+     "sha256": "b353790f7d640244b7264ff8cc4d650721622d57560b37dc75906420dd66c15e"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-24-1998",
    "path": "ue/directiva/1998/24",
    "short": "Directiva 98/24/CE",
@@ -78,6 +93,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-41-1998",
+   "path": "ue/directiva/1998/41",
+   "short": "Directiva 98/41/CE",
+   "title": "Directiva 98/41/CE a Consiliului din 18 iunie 1998 privind înregistrarea persoanelor care călătoresc la bordul navelor de pasageri care operează în porturile de destinație sau de plecare din statele membre ale Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0041",
+   "versions": [
+    {
+     "from": "1998-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/49eef820-7a0b-4455-b618-9a55e25c91f1.0022.04/DOC_2",
+     "sha256": "5a7d9f7734a78c4e1a42cdc918ab13fe3ac7bc2936e0c50cb4d0ab0c6324413e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-44-1998",
+   "path": "ue/directiva/1998/44",
+   "short": "Directiva 98/44/CE",
+   "title": "Directiva 98/44/CE a Parlamentului European și a Consiliului din 6 iulie 1998 privind protecția juridică a invențiilor biotehnologice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0044",
+   "versions": [
+    {
+     "from": "1998-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/celex/31998L0044",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-49-1998",
    "path": "ue/directiva/1998/49",
    "short": "Directiva 98/49/CE",
@@ -108,6 +153,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-56-1998",
+   "path": "ue/directiva/1998/56",
+   "short": "Directiva 98/56/CE",
+   "title": "Directiva 98/56/CE a Consiliului din 20 iulie 1998 privind comercializarea materialelor de înmulțire pentru plantele ornamentale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0056",
+   "versions": [
+    {
+     "from": "1998-09-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/664a64de-8ba6-4be5-baf0-67a0d19291ef.0022.04/DOC_27",
+     "sha256": "682ce45db91e1e1a3ef2c95788c533c361f614da745812da265336b65bb20aa6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-58-1998",
+   "path": "ue/directiva/1998/58",
+   "short": "Directiva 98/58/CE",
+   "title": "Directiva 98/58/CE a Consiliului din 20 iulie 1998 privind protecția animalelor de fermă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0058",
+   "versions": [
+    {
+     "from": "1998-08-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b04f403-0abf-4356-aa53-6dc867b07bcb.0022.03/DOC_27",
+     "sha256": "b5e1b636fc2cb6cb0504b29c8332eed569ff5da0262cf24b38add73af6d119f5"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-59-1998",
    "path": "ue/directiva/1998/59",
    "short": "Directiva 98/59/CE",
@@ -119,6 +194,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/705bf0ea-ae86-46bc-89d8-aca7cc797ed9.0022.03/DOC_1",
      "sha256": "ff239279098e1f34b767d2e0b1b89f7e0619c562015461d3c601380d7277c8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-6-1998",
+   "path": "ue/directiva/1998/6",
+   "short": "Directiva 98/6/CE",
+   "title": "Directiva 98/6/CE a Parlamentului European și a Consiliului din 16 februarie 1988 privind protecția consumatorului prin indicarea prețurilor produselor oferite consumatorilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0006",
+   "versions": [
+    {
+     "from": "1998-03-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b8fd669f-e013-4f8a-a9e1-2ff0dfee7de6.0022.03/DOC_12",
+     "sha256": "8780cfc9b26a52d047a0e1ae2c4e1ff8c10c9e18d005fefa731b8ca75df14225"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-67-1998",
+   "path": "ue/directiva/1998/67",
+   "short": "Directiva 98/67/CE",
+   "title": "Directiva 98/67/CE a Comisiei din 7 septembrie 1998 de modificare a Directivelor 80/511/CEE, 82/475/CEE, 91/357/CEE și a Directivei 96/25/CE a Consiliului și de abrogare a Directivei 92/87/CEEText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0067",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ebdb0407-7c43-4d00-963b-4242080297c1.0022.03/DOC_14",
+     "sha256": "0d4b193a3f204746fd36b261b380f7a827dcbfed284830127fe34c98bfe484c4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-70-1998",
+   "path": "ue/directiva/1998/70",
+   "short": "Directiva 98/70/CE",
+   "title": "Directiva 98/70/CE a Parlamentului European și a Consiliului din 13 octombrie 1998 privind calitatea benzinei și a motorinei și de modificare a Directivei 93/12/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0070",
+   "versions": [
+    {
+     "from": "1998-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9cdbfc9b-d814-4e9e-b05d-49dbb7c97ba1.0022.05/DOC_3",
+     "sha256": "341774c1acb2c5431d439bcc4c200810f7511e703f97ec89e41204e096551cc2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-71-1998",
+   "path": "ue/directiva/1998/71",
+   "short": "Directiva 98/71/CE",
+   "title": "Directiva 98/71/CE a Parlamentului European și a Consiliului din 13 octombrie 1998 privind protecția juridică a desenelor și modelelor industriale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0071",
+   "versions": [
+    {
+     "from": "1998-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/399f8f58-0b0e-4252-a0a8-8c8600f55c5e.0022.03/DOC_6",
+     "sha256": "e68ac9f2f05b6db41f3605c22887406a130f82b164e8fe77daf824ca678a88ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-84-1998",
+   "path": "ue/directiva/1998/84",
+   "short": "Directiva 98/84/CE",
+   "title": "Directiva 98/84/CE a Parlamentului European și a Consiliului din 20 noiembrie 1998 privind protecția juridică a serviciilor cu acces condiționat sau întemeiate pe aceste servicii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0084",
+   "versions": [
+    {
+     "from": "1998-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/celex/31998L0084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-95-1998",
+   "path": "ue/directiva/1998/95",
+   "short": "Directiva 98/95/CE",
+   "title": "Directiva 98/95/CE a Consiliului din 14 decembrie 1998 de modificare, cu privire la consolidarea pieței interne, a varietăților vegetale modificate genetic și a resurselor genetice ale plantelor, a Directivelor 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE, 70/457/CEE și 70/458/CEE privind comercializarea semințelor de sfeclă, semințelor de plante furajere, semințelor de cereale, cartofilor de sămânță, semințelor de plante oleaginoase și de fibră și a semințelor de legume, precum și catalogul comun al soiurilor de specii de plante agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0095",
+   "versions": [
+    {
+     "from": "1999-02-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3992cba-c0a9-11e4-bbe1-01aa75ed71a1.0022.04/DOC_3",
+     "sha256": "b4db3e2c22141bb6d1054e19b8497ed06979193864baf0b96ba0a08208ee5746"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-96-1998",
+   "path": "ue/directiva/1998/96",
+   "short": "Directiva 98/96/CE",
+   "title": "Directiva 98/96/CE a Consiliului din 14 decembrie 1998 de modificare, inter alia, cu privire la inspecțiile în câmp, a directivelor 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 69/208/CEE, 70/457/CEE și 70/458/CEE privind comercializarea semințelor de sfeclă, semințelor de plante furajere, semințelor de cereale, cartofilor de sămânță, semințelor de plante oleaginoase și pentru fibre și a semințelor de legume, precum și Catalogul comun al soiurilor de plante agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0096",
+   "versions": [
+    {
+     "from": "1999-02-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05accc86-875b-43f8-afa4-1afb0bbc4421.0022.04/DOC_1",
+     "sha256": "3f301e2520ad39a922ddad17e3aa8458b1870f581c1272a64ca2d28bb04166ad"
     }
    ]
   }

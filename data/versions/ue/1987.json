@@ -3,6 +3,21 @@
  "shard": "ue/1987",
  "acts": [
   {
+   "slug": "ue-directiva-143-1987",
+   "path": "ue/directiva/1987/143",
+   "short": "Directiva 87/143/CEE",
+   "title": "Directiva Comisiei din 10 februarie 1987 de modificare a primei Directive 80/1335/CEE privind apropierea legislației statelor membre cu privire la metodele de analiză necesare pentru verificarea compoziției produselor cosmetice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0143",
+   "versions": [
+    {
+     "from": "1987-02-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c608f243-79e4-40c8-b7b9-5ad6f927c3ed.0022.03/DOC_5",
+     "sha256": "d27ec655ea2363ed1c9b7f93ddad94f00796aaf375ddfbb4b1fdd25dc0adbcf2"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-217-1987",
    "path": "ue/directiva/1987/217",
    "short": "Directiva 87/217/CEE",
@@ -29,6 +44,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/2e428cb1-0776-40c0-91dc-2faeb9442fa1.0020.03/DOC_25",
      "sha256": "8e20d3434705c288b4806421a8b9ded36ea5c7fbbd8bf345148446ed6c4319b0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-372-1987",
+   "path": "ue/directiva/1987/372",
+   "short": "Directiva 87/372/CEE",
+   "title": "Directiva Consiliului din 25 iunie 1987 privind benzile de frecvență care urmează să fie rezervate pentru introducerea coordonată în Comunitate a telecomunicațiilor mobile terestre digitale celulare paneuropene publice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0372",
+   "versions": [
+    {
+     "from": "1987-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d9644fc4-8f35-4b08-868c-17b57772a096.0022.03/DOC_99",
+     "sha256": "32a255b7badef8e3798d72491ef1c9a30e53d54c33087e069a8fc68486e9fc81"
     }
    ]
   },

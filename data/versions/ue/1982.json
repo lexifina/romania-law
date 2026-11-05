@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "ue/1982",
+ "acts": [
+  {
+   "slug": "ue-directiva-711-1982",
+   "path": "ue/directiva/1982/711",
+   "short": "Directiva 82/711/CEE",
+   "title": "Directiva Consiliului din 18 octombrie 1982 de stabilire a normelor de bază privind verificarea migrării constituenților materialelor și ai obiectelor din material plastic care vin în contact cu produsele alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31982L0711",
+   "versions": [
+    {
+     "from": "1982-11-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9fe6cc7-e2f9-4038-b3d9-96db8d423710.0022.03/DOC_19",
+     "sha256": "ff4783753f12d5178af53eccd0a7d67696120e55e2d3a575a69d3f02718c82d8"
+    }
+   ]
+  }
+ ]
+}

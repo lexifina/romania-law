@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-12-2012",
+   "path": "ue/directiva/2012/12",
+   "short": "Directiva 2012/12/UE",
+   "title": "Directiva 2012/12/UE a Parlamentului European și a Consiliului din 19 aprilie 2012 de modificare a Directivei 2001/112/CE a Consiliului privind sucurile de fructe și anumite produse similare destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0012",
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7fcd07c6-cf45-4ebe-8562-b9259635d88c.0012.02/DOC_1",
+     "sha256": "738afc35d3af35e88a26a97b31c7d9a66446fe8f18daf5faa7c3e93a2ae0d91e"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-13-2012",
    "path": "ue/directiva/2012/13",
    "short": "Directiva 2012/13/UE",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/eeb081ca-d4cb-11e1-905c-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "f43f0a9b4abc3a9ffd31bf053ef942804b54499c5f480f352dc012759dd33911"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-23-2012",
+   "path": "ue/directiva/2012/23",
+   "short": "Directiva 2012/23/UE",
+   "title": "Directiva 2012/23/UE a Parlamentului European și a Consiliului din 12 septembrie 2012 de modificare a Directivei 2009/138/CE (Solvabilitate II) în ceea ce privește termenul de transpunere, data de aplicare a acesteia și data de abrogare a anumitor directive Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0023",
+   "versions": [
+    {
+     "from": "2012-09-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20cdff04-fe5d-11e1-8e28-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "52b2876c1773d8f15b0607d45ae6c0510d5eb1f7b3660c725926d88a8e71316d"
     }
    ]
   },
@@ -123,6 +153,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-36-2012",
+   "path": "ue/directiva/2012/36",
+   "short": "Directiva 2012/36/UE",
+   "title": "Directiva 2012/36/UE a Comisiei din 19 noiembrie 2012 de modificare a Directivei 2006/126/CE a Parlamentului European și a Consiliului privind permisele de conducere Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0036",
+   "versions": [
+    {
+     "from": "2012-11-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "18ab13dca8498e8522fac680556a654c13d3bf1642e95c485c119883bf2bfd3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-39-2012",
+   "path": "ue/directiva/2012/39",
+   "short": "Directiva 2012/39/UE",
+   "title": "Directiva 2012/39/UE a Comisiei din 26 noiembrie 2012 de modificare a Directivei 2006/17/CE în ceea ce privește anumite cerințe tehnice pentru testarea țesuturilor și a celulelor umane Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0039",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f23ce6a3-3a53-11e2-b7ce-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "869a2ae3ec17d21c495e31bf70a93a96836cc7d112ef838fc6f20da924da9589"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-4-2012",
    "path": "ue/directiva/2012/4",
    "short": "Directiva 2012/4/UE",
@@ -134,6 +194,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/37c3f033-5593-4dd9-aaac-1e11a10ca955.0005.02/DOC_1",
      "sha256": "cd12f79a08588f0a421e6aaa48b401a6efc7346357bc933882629f68ed069c82"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-43-2012",
+   "path": "ue/directiva/2012/43",
+   "short": "Directiva 2012/43/UE",
+   "title": "Directiva 2012/43/UE a Comisiei din 26 noiembrie 2012 de modificare a unor rubrici din anexa I la Directiva 98/8/CE a Parlamentului European și a Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0043",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/29180cf7-3a51-11e2-b7ce-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "e60d605fec503fb10c66d9d239b22875a9b7dfb053bace1fd1464ed6afe4ebe6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-44-2012",
+   "path": "ue/directiva/2012/44",
+   "short": "Directiva de punere în aplicare 2012/44/UE",
+   "title": "Directiva de punere în aplicare 2012/44/UE a Comisiei din 26 noiembrie 2012 de modificare a Directivelor 2003/90/CE și 2003/91/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directivele 2002/53/CE și, respectiv, 2002/55/CE ale Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole și specii de legume Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0044",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7610ee6e-c625-446e-8dec-7fb7ccd3b896.0007.03/DOC_1",
+     "sha256": "e02d5a4a5d35fb1cf267c4043e0fdd36ba728971bedcc44cc1d7848be410ec74"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-45-2012",
+   "path": "ue/directiva/2012/45",
+   "short": "Directiva 2012/45/UE",
+   "title": "Directiva 2012/45/UE a Comisiei din 3 decembrie 2012 de adaptare, pentru a doua oară, la progresul științific și tehnic a anexelor la Directiva 2008/68/CE a Parlamentului European și a Consiliului privind transportul interior de mărfuri periculoase Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0045",
+   "versions": [
+    {
+     "from": "2012-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a19ba9dc-3e08-11e2-b7ce-01aa75ed71a1.0019.04/DOC_2",
+     "sha256": "30692f288af94c9a334c170bcc56d8737295decbad5a5a7155ff0cac0a1dfccc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-47-2012",
+   "path": "ue/directiva/2012/47",
+   "short": "Directiva 2012/47/UE",
+   "title": "Directiva 2012/47/UE a Comisiei din 14 decembrie 2012 de modificare a Directivei 2009/43/CE a Parlamentului European și a Consiliului în ceea ce privește lista produselor din domeniul apărării Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0047",
+   "versions": [
+    {
+     "from": "2013-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e50fbbf-6bbb-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "7bcbe2de788c5777d7d3e12ea1e1b4072ff331dc04bbd5d023b42bc41e28406a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-7-2012",
+   "path": "ue/directiva/2012/7",
+   "short": "Directiva 2012/7/UE",
+   "title": "Directiva 2012/7/UE a Comisiei din 2 martie 2012 de modificare, în scopul adaptării la progresele tehnice, a părții III din anexa II la Directiva 2009/48/CE a Parlamentului European și a Consiliului privind siguranța jucăriilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0007",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e25df082-07ec-465e-bc89-485b3b9b2f8d.0011.02/DOC_1",
+     "sha256": "86b2392b5dbdbe462db846e678ba019efa9eb369674b0a76b2aff8fda68deb9f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1215-2012",
+   "path": "ue/regulament/2012/1215",
+   "short": "Regulamentul (UE) nr. 1215/2012",
+   "title": "Regulamentul (UE) nr. 1215/2012 al Parlamentului European și al Consiliului din 12 decembrie 2012 privind competența judiciară, recunoașterea și executarea hotărârilor în materie civilă și comercială (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1215",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/387e4da5-e292-496d-a9bc-c3ebface5413.0016.03/DOC_1",
+     "sha256": "93c3c937e19f788ace272ab3c9c1045a92996c2fbd5b9ce8f3afaedda5e768e7"
     }
    ]
   }

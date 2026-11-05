@@ -3,6 +3,21 @@
  "shard": "ue/1990",
  "acts": [
   {
+   "slug": "ue-directiva-207-1990",
+   "path": "ue/directiva/1990/207",
+   "short": "Directiva 90/207/CEE",
+   "title": "Directiva Comisiei din 4 aprilie 1990 de modificare a celei de a doua directive 82/434/CEE privind apropierea legislațiilor statelor membre cu privire la metodele de analiză necesare pentru verificarea compoziției produselor cosmetice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0207",
+   "versions": [
+    {
+     "from": "1990-04-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8092b9e3-df09-4131-a016-6844dded6e37.0022.03/DOC_4",
+     "sha256": "444fbde96a1347e8924253fd6ca74c679a7e2c73cc70a652fba7cbf0ab7b85af"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-269-1990",
    "path": "ue/directiva/1990/269",
    "short": "Directiva 90/269/CEE",
@@ -29,6 +44,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f8c253f5-83fb-4fb8-8787-4ee85101b737.0022.03/DOC_1",
      "sha256": "7d3cc6122650f0421176bbb1010b8fb7ce41696253653f3c0ada8b7772b9077e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-428-1990",
+   "path": "ue/directiva/1990/428",
+   "short": "Directiva 90/428/CEE",
+   "title": "Directiva Consiliului din 26 iunie 1990 privind schimburile de cai pentru concursuri și stabilirea condițiilor de participare la aceste concursuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0428",
+   "versions": [
+    {
+     "from": "1990-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bbc2c3cf-08d3-41c1-a20b-fe9a3dd94652.0022.03/DOC_51",
+     "sha256": "512245485dc4942b71a46db341c623b62211eb49a435ee7662fd2aedc6e5254d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-623-1990",
+   "path": "ue/directiva/1990/623",
+   "short": "Directiva 90/623/CEE",
+   "title": "Directiva Comisiei din 7 noiembrie 1990 de modificare a anexei II la Directiva 66/402/CEE a Consiliului privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0623",
+   "versions": [
+    {
+     "from": "1990-11-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eef5215d-4cca-4cb9-bc36-99ff89b7682e.0022.04/DOC_7",
+     "sha256": "a70af089f945818f47860953b5d9c5acc721bf93cce87acd00aa37d31bc4f9f3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-629-1990",
+   "path": "ue/directiva/1990/629",
+   "short": "Directiva 90/629/CEE",
+   "title": "Directiva Comisiei din 30 octombrie 1990 de adaptare la progresul tehnic a Directivei 76/115/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la ancorajele centurilor de siguranță ale autovehiculelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0629",
+   "versions": [
+    {
+     "from": "1990-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/999bf960-fd01-4133-a3c7-528229e9d48a.0022.03/DOC_74",
+     "sha256": "2d92a33ebedb4d0a80d2cf0f013090abc7dee817e243f25a941e49227688930c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-630-1990",
+   "path": "ue/directiva/1990/630",
+   "short": "Directiva 90/630/CEE",
+   "title": "Directiva Comisiei din 30 octombrie 1990 de adaptare la progresul tehnic a Directivei 77/649/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la câmpul de vizibilitate al conducătorului auto din interiorul unui autovehicul",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0630",
+   "versions": [
+    {
+     "from": "1990-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8d88608b-cc15-4364-9e50-b1ea7354727a.0022.03/DOC_60",
+     "sha256": "28b348122dffff75de7aeffbcf8156f089454be6d877bd0ed6a9b0414e66e2df"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-653-1990",
+   "path": "ue/directiva/1990/653",
+   "short": "Directiva 90/653/CEE",
+   "title": "Directiva Consiliului din 4 decembrie 1990 de stabilire a unor adaptări în scopul punerii în aplicare în Germania a anumitor directive comunitare privind statistica transportului de mărfuri și statistica prețurilor pentru gaze și electricitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31990L0653",
+   "versions": [
+    {
+     "from": "1990-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b9a52a2-3092-43bb-9eca-7cef9a662f68.0020.04/DOC_1",
+     "sha256": "8c8682ffd3bb45ad14f5533cb0a06933dcceabef75d4aaf56824605d193286b0"
     }
    ]
   }

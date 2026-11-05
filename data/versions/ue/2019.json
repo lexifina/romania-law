@@ -451,6 +451,246 @@
      "sha256": "4b716a32f9d1562ea55a2f1c8876bbca840fe1a776c291431cb7ffc009283ad3"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-633-2019",
+   "path": "ue/directiva/2019/633",
+   "short": "Directiva (UE) 2019/633",
+   "title": "Directiva (UE) 2019/633 a Parlamentului European și a Consiliului din 17 aprilie 2019 privind practicile comerciale neloiale dintre întreprinderi în cadrul lanțului de aprovizionare agricol și alimentar",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0633",
+   "versions": [
+    {
+     "from": "2019-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28a8a89e-675a-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8a79aea828d314d823c7bc9a1e150594707faf2dedfff68a65ad8b5db9d51e67"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-713-2019",
+   "path": "ue/directiva/2019/713",
+   "short": "Directiva (UE) 2019/713",
+   "title": "Directiva (UE) 2019/713 a Parlamentului European și a Consiliului din 17 aprilie 2019 privind combaterea fraudelor și a contrafacerii în legătură cu mijloacele de plată fără numerar și de înlocuire a Deciziei-cadru 2001/413/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0713",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/326b72c2-72f4-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d2903f83f63981f1c8e7b3aa841d6e351de9b6c0e4991ec16e3c4c0b453e600d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-770-2019",
+   "path": "ue/directiva/2019/770",
+   "short": "Directiva (UE) 2019/770",
+   "title": "Directiva (UE) 2019/770 a Parlamentului European și a Consiliului din 20 mai 2019 privind anumite aspecte referitoare la contractele de furnizare de conținut digital și de servicii digitale (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0770",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c426ed23-7c64-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "eb47dad597281b4b6f97a39cba4807457a98d46aa7ac105b2b57c524e9ef878c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-771-2019",
+   "path": "ue/directiva/2019/771",
+   "short": "Directiva (UE) 2019/771",
+   "title": "Directiva (UE) 2019/771 a Parlamentului European și a Consiliului din 20 mai 2019 privind anumite aspecte referitoare la contractele de vânzare de bunuri, de modificare a Regulamentului (UE) 2017/2394 și a Directivei 2009/22/CE și de abrogare a Directivei 1999/44/CE (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0771",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28907e25-7c65-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a5ff508ca88beb599e19cf088e233e86db4dcfdd21e378a1bf0c94373aa2d193"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-782-2019",
+   "path": "ue/directiva/2019/782",
+   "short": "Directiva (UE) 2019/782",
+   "title": "Directiva (UE) 2019/782 a Comisiei din 15 mai 2019 de modificare a Directivei 2009/128/CE a Parlamentului European și a Consiliului în ceea ce privește stabilirea indicatorilor de risc armonizați (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0782",
+   "versions": [
+    {
+     "from": "2019-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/263c5ccc-77a5-11e9-9f05-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "cad77a841437ebabeda1a5684e6a2ab438bcd4a93a6ae1448b7e12737974c4d5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-789-2019",
+   "path": "ue/directiva/2019/789",
+   "short": "Directiva (UE) 2019/789",
+   "title": "Directiva (UE) 2019/789 a Parlamentului European și a Consiliului din 17 aprilie 2019 de stabilire a normelor privind exercitarea dreptului de autor și a drepturilor conexe, aplicabile anumitor transmisii online ale organismelor de radiodifuziune și anumitor retransmisii ale programelor de televiziune și radio și de modificare a Directivei 93/83/CEE a Consiliului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0789",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8673e07b-786d-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e441a77627ed9384b7fdee846f3605d2db76342950ad119b346c25e4133e72a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-790-2019",
+   "path": "ue/directiva/2019/790",
+   "short": "Directiva (UE) 2019/790",
+   "title": "Directiva (UE) 2019/790 a Parlamentului European și a Consiliului din 17 aprilie 2019 privind dreptul de autor și drepturile conexe pe piața unică digitală și de modificare a Directivelor 96/9/CE și 2001/29/CE (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0790",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/214471fe-786e-11e9-9f05-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0f5884a095fcbc0a0b5e088600b70935fb2872a1512c33e55c93149bebf74d2a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-878-2019",
+   "path": "ue/directiva/2019/878",
+   "short": "Directiva (UE) 2019/878",
+   "title": "Directiva (UE) 2019/878 a Parlamentului European și a Consiliului din 20 mai 2019 de modificare a Directivei 2013/36/UE în ceea ce privește entitățile exceptate, societățile financiare holding, societățile financiare holding mixte, remunerarea, măsurile și competențele de supraveghere și măsurile de conservare a capitalului (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0878",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/23afbc10-8902-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2be29368d0a8a7ed42c07ca0ac9faa0d5bce2d438a8dfaf0b50cdd51cb3d791b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-879-2019",
+   "path": "ue/directiva/2019/879",
+   "short": "Directiva (UE) 2019/879",
+   "title": "Directiva (UE) 2019/879 a Parlamentului European și a Consiliului din 20 mai 2019 de modificare a Directivei 2014/59/UE în ceea ce privește capacitatea de absorbție a pierderilor și de recapitalizare a instituțiilor de credit și a firmelor de investiții și a Directivei 98/26/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0879",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5e580fc1-8902-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1283efaa9bf44963855890530f8225ea156df9362e272ba464c62c70caf15650"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-882-2019",
+   "path": "ue/directiva/2019/882",
+   "short": "Directiva (UE) 2019/882",
+   "title": "Directiva (UE) 2019/882 a Parlamentului European și a Consiliului din 17 aprilie 2019 privind cerințele de accesibilitate aplicabile produselor și serviciilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0882",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6eb3ceb5-8905-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b70c91da1fe96ad701941469de77c0f10bd3d2fcb0315a4f6b953c05b43d827e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-883-2019",
+   "path": "ue/directiva/2019/883",
+   "short": "Directiva (UE) 2019/883",
+   "title": "Directiva (UE) 2019/883 a Parlamentului European și a Consiliului din 17 aprilie 2019 privind instalațiile portuare de preluare pentru predarea deșeurilor provenite de la nave, de modificare a Directivei 2010/65/UE și de abrogare a Directivei 2000/59/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0883",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cdf57d16-8905-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fa6cf939c6d6abd60514a60cc25c673670c1bbe524568ccab8f51633b7b07c5d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-884-2019",
+   "path": "ue/directiva/2019/884",
+   "short": "Directiva (UE) 2019/884",
+   "title": "Directiva (UE) 2019/884 a Parlamentului European și a Consiliului din 17 aprilie 2019 de modificare a Deciziei-cadru 2009/315/JAI a Consiliului în ceea ce privește schimbul de informații privind resortisanții țărilor terțe și în ceea ce privește sistemul european de informații cu privire la cazierele judiciare (ECRIS) și de înlocuire a Deciziei 2009/316/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0884",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/107012e8-8906-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1afeee12e090bfc01c5618befbfa23ed40b7b739f12fad60ead4217c2bf5ed43"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-904-2019",
+   "path": "ue/directiva/2019/904",
+   "short": "Directiva (UE) 2019/904",
+   "title": "Directiva (UE) 2019/904 a Parlamentului European și a Consiliului din 5 iunie 2019 privind reducerea impactului anumitor produse din plastic asupra mediului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0904",
+   "versions": [
+    {
+     "from": "2019-07-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab83570c-8cc8-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fbf6977e29a33368aa45e0971733c8b1deb6b598f11f2f0a8c075c1413fadd65"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-944-2019",
+   "path": "ue/directiva/2019/944",
+   "short": "Directiva (UE) 2019/944",
+   "title": "Directiva (UE) 2019/944 a Parlamentului European și a Consiliului din 5 iunie 2019 privind normele comune pentru piața internă de energie electrică și de modificare a Directivei 2012/27/UE (reformare) (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0944",
+   "versions": [
+    {
+     "from": "2019-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8594f013-8e7c-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "40473ceb8eda2a2a90edab29e2084a42bab666dd24debe39bdcebcce7eac75c0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-983-2019",
+   "path": "ue/directiva/2019/983",
+   "short": "Directiva (UE) 2019/983",
+   "title": "Directiva (UE) 2019/983 a Parlamentului European și a Consiliului din 5 iunie 2019 de modificare a Directivei 2004/37/CE privind protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți cancerigeni sau mutageni la locul de muncă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0983",
+   "versions": [
+    {
+     "from": "2019-07-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e3d1d9f-9328-11e9-9369-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2936b6607265cb34633635056524d92aa2f851a53b89b8e57478ad8bc3b59e93"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-997-2019",
+   "path": "ue/directiva/2019/997",
+   "short": "Directiva (UE) 2019/997",
+   "title": "Directiva (UE) 2019/997 a Consiliului din 18 iunie 2019 de instituire a unui document de călătorie provizoriu al UE și de abrogare a Deciziei 96/409/PESC",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32019L0997",
+   "versions": [
+    {
+     "from": "2019-07-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "46ba8568c8405d33110dcfa9146f63ec12e96b938bab6b78951cfceb530175e0"
+    }
+   ]
   }
  ]
 }

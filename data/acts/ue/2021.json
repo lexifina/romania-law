@@ -54,6 +54,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0555"
 },
 {
+"slug": "ue-directiva-903-2021",
+"path": "ue/directiva/2021/903",
+"kind": "ue",
+"year": "2021",
+"number": "903",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva (UE) 2021/903 a Comisiei din 3 iunie 2021 de modificare a Directivei 2009/48/CE a Parlamentului European și a Consiliului în ceea ce privește valorile-limită specifice pentru anilină în anumite jucării (Text cu relevanță pentru SEE)",
+"short": "Directiva (UE) 2021/903",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2021-06-24",
+"latest": "2021-06-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0903",
+"flags": {
+"end_of_validity": "2030-07-31"
+}
+},
+{
 "slug": "ue-directiva-1159-2021",
 "path": "ue/directiva/2021/1159",
 "kind": "ue",

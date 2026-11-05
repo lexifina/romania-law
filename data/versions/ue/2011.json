@@ -33,6 +33,81 @@
    ]
   },
   {
+   "slug": "ue-directiva-17-2011",
+   "path": "ue/directiva/2011/17",
+   "short": "Directiva 2011/17/UE",
+   "title": "Directiva 2011/17/UE a Parlamentului European și a Consiliului din 9 martie 2011 de abrogare a Directivelor 71/317/CEE, 71/347/CEE, 71/349/CEE, 74/148/CEE, 75/33/CEE, 76/765/CEE, 76/766/CEE și 86/217/CEE ale Consiliului privind metrologia Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0017",
+   "versions": [
+    {
+     "from": "2011-04-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d02e481f-8821-4fa5-8cd7-2c9096352e9c.0009.03/DOC_1",
+     "sha256": "f56186ed34717cc01024001cb0dfa30016011d035307f29947a1be2dd7d4b034"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-19-2011",
+   "path": "ue/directiva/2011/19",
+   "short": "Directiva 2011/19/UE",
+   "title": "Directiva 2011/19/UE a Comisiei din 2 martie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței tau-fluvalinat ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0019",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20f413c3-0172-4f73-a5c7-a7ce61021e57.0008.03/DOC_1",
+     "sha256": "fcf3ec2876b4c984f2aa62b11f1092296da35b4ff521c7bc59f2528d7684e584"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2-2011",
+   "path": "ue/directiva/2011/2",
+   "short": "Directiva 2011/2/UE",
+   "title": "Directiva 2011/2/UE a Comisiei din 7 ianuarie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii miclobutanilului ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0002",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/31be91cd-14df-46b4-96db-dcfe42fa8632.0018.03/DOC_1",
+     "sha256": "62ca2744635b7d4ce2d7f637ce53a844703983a8ef30a86d5a57b321363745d6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-20-2011",
+   "path": "ue/directiva/2011/20",
+   "short": "Directiva 2011/20/UE",
+   "title": "Directiva 2011/20/UE a Comisiei din 2 martie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii fenoxicarbului ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0020",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/71815eca-33b6-4588-8a7d-ae7a69d01f26.0017.03/DOC_1",
+     "sha256": "c62e8945365e8c71e0c5011da965f5e89b2f7e4de2c1ab758df936187e60e644"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-21-2011",
+   "path": "ue/directiva/2011/21",
+   "short": "Directiva 2011/21/UE",
+   "title": "Directiva 2011/21/UE a Comisiei din 2 martie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței cletodim ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0021",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0f8e6a12-ce11-4835-8237-62075e577fcc.0011.03/DOC_1",
+     "sha256": "60dbb87f81fb73b2c4dfc7fcf9c82425b2d377cfc59a7ff40971d5501d6ace12"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-24-2011",
    "path": "ue/directiva/2011/24",
    "short": "Directiva 2011/24/UE",
@@ -44,6 +119,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/377ab800-836b-4fde-85ff-2e4aac7dee94.0022.03/DOC_1",
      "sha256": "f2b49aabc481c017620fcae9f3a196fe2777a38722795b65653f91c397fb5369"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-25-2011",
+   "path": "ue/directiva/2011/25",
+   "short": "Directiva 2011/25/UE",
+   "title": "Directiva 2011/25/UE a Comisiei din 3 martie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței bupirimat ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0025",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86aabc65-1032-44e0-bcec-56566f9edbc8.0015.03/DOC_1",
+     "sha256": "a5c2233de76252137f8c0970714d9da3afcdfd17f9d5748375311e7465043846"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-26-2011",
+   "path": "ue/directiva/2011/26",
+   "short": "Directiva 2011/26/UE",
+   "title": "Directiva 2011/26/UE a Comisiei din 3 martie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței active dietofencarb și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0026",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7db6ac93-e0d6-4be2-9f48-675d775986ac.0012.03/DOC_1",
+     "sha256": "92ace45c4e650527f500a5a7f8074ecfe747a097eec63c3bdab4f08221985a49"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-27-2011",
+   "path": "ue/directiva/2011/27",
+   "short": "Directiva 2011/27/UE",
+   "title": "Directiva 2011/27/UE a Comisiei din 4 martie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței orizalin ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0027",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/74a27903-971b-4657-9589-5948d700996e.0008.03/DOC_1",
+     "sha256": "9503e88391e533fb823f27c78d2e8383ae7af939ddcb075236dd1a52eacbf1fb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-29-2011",
+   "path": "ue/directiva/2011/29",
+   "short": "Directiva 2011/29/UE",
+   "title": "Directiva 2011/29/UE a Comisiei din 7 martie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței etridiazol ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0029",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4c81946a-b2d9-462e-b021-ad5815c3d85f.0020.03/DOC_1",
+     "sha256": "a7353264e029f4ba1b86624df10e5ddf7bb4e16563335bc778a026d6cb241de8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-32-2011",
+   "path": "ue/directiva/2011/32",
+   "short": "Directiva 2011/32/UE",
+   "title": "Directiva 2011/32/UE a Comisiei din 8 martie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței isoxaben ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0032",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/82f862f7-4181-483d-803e-66b3e5a36271.0005.03/DOC_1",
+     "sha256": "5694a969b53bf5ca7b4aded29c7bf419e0917be75af34bafe7e0df8e5a1b17f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-34-2011",
+   "path": "ue/directiva/2011/34",
+   "short": "Directiva 2011/34/UE",
+   "title": "Directiva 2011/34/UE a Comisiei din 8 martie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii flurocloridonei ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0034",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0b0c27d6-5ef6-4bfb-bf5b-00e43bfba8db.0015.03/DOC_1",
+     "sha256": "f4f54254eee4be47676a0bf41edd5d8007f21a6256f5601c7cd44a4c9de0a40a"
     }
    ]
   },
@@ -78,6 +243,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-4-2011",
+   "path": "ue/directiva/2011/4",
+   "short": "Directiva 2011/4/UE",
+   "title": "Directiva 2011/4/UE a Comisiei din 20 ianuarie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii cicloxidimului ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0004",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c3ea0db7-c9b5-479f-a745-680324978f3f.0019.03/DOC_1",
+     "sha256": "7e67db663f5a14b59a40afca7dca6eed0a9cf28830d95b12c6dd8d3551a1a46c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-5-2011",
+   "path": "ue/directiva/2011/5",
+   "short": "Directiva 2011/5/UE",
+   "title": "Directiva 2011/5/UE a Comisiei din 20 ianuarie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței himexazol ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0005",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/87e6344c-76b7-4da2-8e0a-d5b365596544.0015.03/DOC_1",
+     "sha256": "330cd529ab2745fc7b17f07924353613a67ec5aeade223b4214aa0ff86e42325"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-51-2011",
    "path": "ue/directiva/2011/51",
    "short": "Directiva 2011/51/UE",
@@ -89,6 +284,321 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/30405f11-a566-41e9-b3d7-9201626f27d2.0018.03/DOC_1",
      "sha256": "bb804ade1b8f6995376efb32aa76b64596b8df71e749eda09670cb7904f71f46"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-61-2011",
+   "path": "ue/directiva/2011/61",
+   "short": "Directiva 2011/61/UE",
+   "title": "Directiva 2011/61/UE a Parlamentului European și a Consiliului din 8 iunie 2011 privind administratorii fondurilor de investiții alternative și de modificare a Directivelor 2003/41/CE și 2009/65/CE și a Regulamentelor (CE) nr. 1060/2009 și (UE) nr. 1095/2010 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0061",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d75d4591-19f4-470f-a1ba-6833902d0d76.0021.03/DOC_1",
+     "sha256": "18c0d2aca45d1a90ee2c14f93c6adbf4bd62b0d7c3e40283b9ba9469092cd7ce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-62-2011",
+   "path": "ue/directiva/2011/62",
+   "short": "Directiva 2011/62/UE",
+   "title": "Directiva 2011/62/UE a Parlamentului European și a Consiliului din 8 iunie 2011 de modificare a Directivei 2001/83/CE de instituire a unui cod comunitar cu privire la medicamentele de uz uman în ceea ce privește prevenirea pătrunderii medicamentelor falsificate în lanțul legal de aprovizionare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0062",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ba995577-528f-44cc-8ac9-22b0449fd522.0010.03/DOC_1",
+     "sha256": "c1ee1ae722e43d164255f8a908e9c854e24f911e430216fb17d8aab903bd2ab0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-63-2011",
+   "path": "ue/directiva/2011/63",
+   "short": "Directiva 2011/63/UE",
+   "title": "Directiva 2011/63/UE a Comisiei din 1 iunie 2011 de modificare, în scopul adaptării la progresul tehnic, a Directivei 98/70/CE a Parlamentului European și a Consiliului privind calitatea benzinei și a motorinei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0063",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/433cb825-cc1b-433e-90b6-0ea8cda86411.0014.03/DOC_1",
+     "sha256": "98c851333eb2e397c409ad30b861c91640b4fee6bed07193d78a15c61108c1fc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-64-2011",
+   "path": "ue/directiva/2011/64",
+   "short": "Directiva 2011/64/UE",
+   "title": "Directiva 2011/64/UE a Consiliului din 21 iunie 2011 privind structura și ratele accizelor aplicate tutunului prelucrat (text codificat)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0064",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b86af20f-01f3-42c2-9a71-be12d5e0a2ef.0015.03/DOC_1",
+     "sha256": "66b32730d2ec0fa6672d07abaaf4cc6db682a0fdd16da75d43131e13459fdf93"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-65-2011",
+   "path": "ue/directiva/2011/65",
+   "short": "Directiva 2011/65/UE",
+   "title": "Directiva 2011/65/UE a Parlamentului European și a Consiliului din 8 iunie 2011 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0065",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6be9a15c-0644-4f7d-9911-462a649b5c0c.0020.03/DOC_1",
+     "sha256": "277679f62332ff5f4b875c0a2aec240549514494535a27d1cf417bfe077b4f1b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-7-2011",
+   "path": "ue/directiva/2011/7",
+   "short": "Directiva 2011/7/UE",
+   "title": "Directiva 2011/7/UE a Parlamentului European și a Consiliului din 16 februarie 2011 privind combaterea întârzierii în efectuarea plăților în tranzacțiile comerciale (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0007",
+   "versions": [
+    {
+     "from": "2011-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/07b9575f-efc1-492a-b529-a51dd5652762.0012.03/DOC_1",
+     "sha256": "8e331367ad2525fd3c093d76091ff701cb585c618605b2748c385e6813ac6274"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-70-2011",
+   "path": "ue/directiva/2011/70",
+   "short": "Directiva 2011/70/Euratom",
+   "title": "Directiva 2011/70/Euratom a Consiliului din 19 iulie 2011 de instituire a unui cadru comunitar pentru gestionarea responsabilă și în condiții de siguranță a combustibilului uzat și a deșeurilor radioactive",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0070",
+   "versions": [
+    {
+     "from": "2011-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6cdacaaf-e5d5-45ef-bc2c-5a2ba97116de.0014.03/DOC_1",
+     "sha256": "5a8bf3b065b5f61dc15f3981699ab4cdc3dee6746ce65473e394e68fc6262fbf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-76-2011",
+   "path": "ue/directiva/2011/76",
+   "short": "Directiva 2011/76/UE",
+   "title": "Directiva 2011/76/UE a Parlamentului European și a Consiliului din 27 septembrie 2011 de modificare a Directivei 1999/62/CE de aplicare a taxelor la vehiculele grele de marfă pentru utilizarea anumitor infrastructuri Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0076",
+   "versions": [
+    {
+     "from": "2011-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/398e673d-129e-42e8-bc4f-30af32f21ea5.0004.03/DOC_1",
+     "sha256": "359656d1acf99964e7d10fc181b38d2bb1ea0ae5e0910adafbc02a200bcff8b5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-77-2011",
+   "path": "ue/directiva/2011/77",
+   "short": "Directiva 2011/77/UE",
+   "title": "Directiva 2011/77/UE a Parlamentului European și a Consiliului din 27 septembrie 2011 de modificare a Directivei 2006/116/CE privind durata de protecție a dreptului de autor și a anumitor drepturi conexe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0077",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f06a3faf-2e9a-4f5a-bc7c-2e26982f7fc7.0019.03/DOC_1",
+     "sha256": "e27420aae6322d3ba9b6744e2b49f56abb61c121cc03654770b1c287989eeb1a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-83-2011",
+   "path": "ue/directiva/2011/83",
+   "short": "Directiva 2011/83/UE",
+   "title": "Directiva 2011/83/UE a Parlamentului European și a Consiliului din 25 octombrie 2011 privind drepturile consumatorilor, de modificare a Directivei 93/13/CEE a Consiliului și a Directivei 1999/44/CE a Parlamentului European și a Consiliului și de abrogare a Directivei 85/577/CEE a Consiliului și a Directivei 97/7/CE a Parlamentului European și a Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0083",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6c8e7593-7a75-4b58-b709-542f06ee7a28.0020.03/DOC_1",
+     "sha256": "50f9bb628e034a99b01f004916f322f4d3f87e6f248cda69d056a6c41abe5f22"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-85-2011",
+   "path": "ue/directiva/2011/85",
+   "short": "Directiva 2011/85/UE",
+   "title": "Directiva 2011/85/UE a Consiliului din 8 noiembrie 2011 privind cerințele referitoare la cadrele bugetare ale statelor membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0085",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/014853a2-4c93-44ee-8245-0a5d67214432.0018.03/DOC_1",
+     "sha256": "f7ae0a53fa275543253fcda362209942a6284cf38d3bcfc1be4c469b28647395"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-89-2011",
+   "path": "ue/directiva/2011/89",
+   "short": "Directiva 2011/89/UE",
+   "title": "Directiva 2011/89/UE a Parlamentului European și a Consiliului din 16 noiembrie 2011 de modificare a Directivelor 98/78/CE, 2002/87/CE, 2006/48/CE și 2009/138/CE în ceea ce privește supravegherea suplimentară a entităților financiare care aparțin unui conglomerat financiar Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0089",
+   "versions": [
+    {
+     "from": "2011-12-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9aacbf41-3043-4008-8894-46ea6c093479.0018.03/DOC_1",
+     "sha256": "974667019d13355be3d9b123980a9e31ad25ee5b4b87f59de82499e353a68b3a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-9-2011",
+   "path": "ue/directiva/2011/9",
+   "short": "Directiva 2011/9/UE",
+   "title": "Directiva 2011/9/UE a Comisiei din 1 februarie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii dodinei ca substanță activă și de modificare a Deciziei 2008/934/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0009",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ccb3670f-51ba-43e6-9422-517064a15c70.0014.03/DOC_1",
+     "sha256": "9982369205f4f435dfc5f10842d65d846cf44fe5fa23f33d8f7b89d591fc5f52"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-90-2011",
+   "path": "ue/directiva/2011/90",
+   "short": "Directiva 2011/90/UE",
+   "title": "Directiva 2011/90/UE a Comisiei din 14 noiembrie 2011 de modificare a anexei I partea II la Directiva 2008/48/CE a Parlamentului European și a Consiliului care prezintă ipotezele suplimentare pentru calculul dobânzii anuale efective Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0090",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15de82de-3b35-4784-acdd-79ba1508fc66.0010.03/DOC_1",
+     "sha256": "1f51076e0da232a7beeb034161847de1429d2e299b7f85b23f30ebf3293697e2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-91-2011",
+   "path": "ue/directiva/2011/91",
+   "short": "Directiva 2011/91/UE",
+   "title": "Directiva 2011/91/UE a Parlamentului European și a Consiliului din 13 decembrie 2011 privind indicarea sau marcarea care permite identificarea lotului din care face parte un produs alimentar (text codificat) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0091",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/91942f02-2c3f-48cc-af63-3d496b06976b.0012.03/DOC_1",
+     "sha256": "7b7ffdc9d782bd92f244257adafd5035c0efaf57aeba4b43ce1be9961530c2f6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-92-2011",
+   "path": "ue/directiva/2011/92",
+   "short": "Directiva 2011/92/UE",
+   "title": "Directiva 2011/92/UE a Parlamentului European și a Consiliului din 13 decembrie 2011 privind evaluarea efectelor anumitor proiecte publice și private asupra mediului (text codificat) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0092",
+   "versions": [
+    {
+     "from": "2012-02-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0014.02/DOC_1",
+     "sha256": "c24ac2c53eb87e34c60accaeab54556adf5b03cf6506b37195684d2810b30fc7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-93-2011",
+   "path": "ue/directiva/2011/93",
+   "short": "Directiva 2011/93/UE",
+   "title": "Directiva 2011/93/UE a Parlamentului European și a Consiliului din 13 decembrie 2011 privind combaterea abuzului sexual asupra copiilor, a exploatării sexuale a copiilor și a pornografiei infantile și de înlocuire a Deciziei-cadru 2004/68/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0093",
+   "versions": [
+    {
+     "from": "2011-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c6eb347a-16c8-4705-869f-d1b25ca3cb39.0014.03/DOC_1",
+     "sha256": "5488953d5013b80e391ca7dd6e9dd017b9c1dc030773262a4e00394cb57378a2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-94-2011",
+   "path": "ue/directiva/2011/94",
+   "short": "Directiva 2011/94/UE",
+   "title": "Directiva 2011/94/UE a Comisiei din 28 noiembrie 2011 de modificare a Directivei 2006/126/CE a Parlamentului European și a Consiliului privind permisele de conducere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0094",
+   "versions": [
+    {
+     "from": "2011-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/72855038-f9aa-4538-8dd4-37c0de029f2b.0015.03/DOC_1",
+     "sha256": "d5ceebe2880360c96f9da89b4ac75bb3e19edf30e5f14b272548196d9ed92911"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-96-2011",
+   "path": "ue/directiva/2011/96",
+   "short": "Directiva 2011/96/UE",
+   "title": "Directiva 2011/96/UE a Consiliului din 30 noiembrie 2011 privind regimul fiscal comun care se aplică societăților-mamă și filialelor acestora din diferite state membre (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0096",
+   "versions": [
+    {
+     "from": "2012-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c8791d2a-1fe4-43cc-a716-59c36d50e3f4.0013.03/DOC_1",
+     "sha256": "0b027dc51a4d0e7a86c01fc3e87a039315441c7dee73e30d12410e7e5e05d9f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-97-2011",
+   "path": "ue/directiva/2011/97",
+   "short": "Directiva 2011/97/UE",
+   "title": "Directiva 2011/97/UE a Consiliului din 5 decembrie 2011 de modificare a Directivei 1999/31/CE în ceea ce privește criteriile specifice de depozitare a mercurului metalic considerat deșeu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0097",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a4c92aa-969d-4e36-8c5f-92ad18494dd7.0001.03/DOC_1",
+     "sha256": "1453ccc5fe11667f00bf59e58466b3dd3d4d08461092505dd5c39e94311a3f1f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-99-2011",
+   "path": "ue/directiva/2011/99",
+   "short": "Directiva 2011/99/UE",
+   "title": "Directiva 2011/99/UE a Parlamentului European și a Consiliului din 13 decembrie 2011 privind ordinul european de protecție",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0099",
+   "versions": [
+    {
+     "from": "2012-01-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/889ad315-bb9b-42a8-9941-13a5c6a54fb3.0019.03/DOC_1",
+     "sha256": "5356b49f331ce46004a6260cfd8de4cc1c26a2217f49104e4e88c5e5f9e4a027"
     }
    ]
   }

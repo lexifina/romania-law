@@ -3,6 +3,21 @@
  "shard": "ue/2002",
  "acts": [
   {
+   "slug": "ue-directiva-11-2002",
+   "path": "ue/directiva/2002/11",
+   "short": "Directiva 2002/11/CE",
+   "title": "Directiva 2002/11/CE a Consiliului din 14 februarie 2002 de modificare a Directivei 68/193/CEE privind comercializarea materialului de înmulțire vegetativă a viței-de-vie și de abrogare a Directivei 74/649/CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0011",
+   "versions": [
+    {
+     "from": "2002-02-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e6e3beb8-33f6-4cd3-b6f9-ee502108f69d.0022.03/DOC_2",
+     "sha256": "37ca8dc6ab51820c50d174761bfdd2433d2f06b369781a10a777eba5b2ad7242"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-14-2002",
    "path": "ue/directiva/2002/14",
    "short": "Directiva 2002/14/CE",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-32-2002",
+   "path": "ue/directiva/2002/32",
+   "short": "Directiva 2002/32/CE",
+   "title": "Directiva 2002/32/CE a Parlamentului European și a Consiliului din 7 mai 2002 privind substanțele nedorite din furaje",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0032",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aca28b8c-bf9d-444f-b470-268f71df28fb.0022.03/DOC_1",
+     "sha256": "917d9eff44d4e503447f9df6714a88354f929e28446257eab9537a788438758d"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-35-2002",
    "path": "ue/directiva/2002/35",
    "short": "Directiva 2002/35/CE",
@@ -59,6 +89,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0269a5d2-3679-4e90-a122-60da5646a7f9.0022.03/DOC_1",
      "sha256": "1676821e66a7c2327653eb2ab1ddf4d2593d9fa3c7a247506ca122addf40c9c4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-4-2002",
+   "path": "ue/directiva/2002/4",
+   "short": "Directiva 2002/4/CE",
+   "title": "Directiva 2002/4/CE a Comisiei din 30 ianuarie 2002 de înregistrare a unităților de creștere a găinilor ouătoare, reglementată de Directiva 1999/74/CE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0004",
+   "versions": [
+    {
+     "from": "2002-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f95e7046-f46e-4e46-861c-ce5f41a20258.0022.03/DOC_1",
+     "sha256": "3aa867b681e74e5a0c7f46b25d58fd2ec3f11c406f7e5c11fbe24d81253c1807"
     }
    ]
   },
@@ -123,6 +168,81 @@
    ]
   },
   {
+   "slug": "ue-directiva-53-2002",
+   "path": "ue/directiva/2002/53",
+   "short": "Directiva 2002/53/CE",
+   "title": "Directiva 2002/53/CE a Consiliului din 13 iunie 2002 privind Catalogul comun al soiurilor de plante agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0053",
+   "versions": [
+    {
+     "from": "2002-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3b237693-9bb0-4d15-8203-f56d0d95c71f.0022.03/DOC_1",
+     "sha256": "d8e9fe7457543f801c81676e2cc4cac2cd27bc7b4d811804a3f4196619c7ea97"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-54-2002",
+   "path": "ue/directiva/2002/54",
+   "short": "Directiva 2002/54/CE",
+   "title": "Directiva 2002/54/CE a Consiliului din 13 iunie 2002 privind comercializarea semințelor de sfeclă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0054",
+   "versions": [
+    {
+     "from": "2002-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e82446c0-7474-457e-a462-a525944a3f7e.0022.03/DOC_1",
+     "sha256": "959f4e2d93e79c963e1e72c44a52d180798aa68dd06933124a93d8ae0f692aa9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-55-2002",
+   "path": "ue/directiva/2002/55",
+   "short": "Directiva 2002/55/CE",
+   "title": "Directiva 2002/55/CE a Consiliului din 13 iunie 2002 privind comercializarea semințelor de legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0055",
+   "versions": [
+    {
+     "from": "2002-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1364812d-2692-4cf9-9b03-3d79c9aeb7f1.0022.03/DOC_1",
+     "sha256": "1bdf0a9093b08e1bea0de3655c206d0d502515e2e8d89815fdb6e78250f9a8db"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-56-2002",
+   "path": "ue/directiva/2002/56",
+   "short": "Directiva 2002/56/CE",
+   "title": "Directiva 2002/56/CE a Consiliului din 13 iunie 2002 privind comercializarea cartofilor de sămânță",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0056",
+   "versions": [
+    {
+     "from": "2002-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a71d473c-ddf5-40e5-9d5b-22180132315d.0022.03/DOC_1",
+     "sha256": "5de6f6ef6c9e49171a85369c9148f96e12eab17c20f276ca46ebd719e519a0e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-57-2002",
+   "path": "ue/directiva/2002/57",
+   "short": "Directiva 2002/57/CE",
+   "title": "Directiva 2002/57/CE a Consiliului din 13 iunie 2002 privind comercializarea semințelor de plante oleaginoase și pentru fibre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0057",
+   "versions": [
+    {
+     "from": "2002-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bad9f2c5-3c17-4576-8fa5-7e56b6e605a9.0022.03/DOC_1",
+     "sha256": "115ce64160381abc174cfc141510ef4a6d39fe8207756b15c86a27881805f95d"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-58-2002",
    "path": "ue/directiva/2002/58",
    "short": "Directiva 2002/58/CE",
@@ -149,6 +269,141 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9150683a-2d91-414a-9c7f-e206ede0fa20.0022.04/DOC_2",
      "sha256": "e0419bc2a7a175b6aff60877f71d07d44c22a3422d2c3675cdc36042b7268feb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-63-2002",
+   "path": "ue/directiva/2002/63",
+   "short": "Directiva 2002/63/CE",
+   "title": "Directiva 2002/63/CE a Comisiei din 11 iulie 2002 de stabilire a metodelor comunitare de prelevare de probe pentru controlul oficial al reziduurilor de pesticide de pe și din produsele de origine vegetală și animală și de abrogare a Directivei 79/700/CEEText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0063",
+   "versions": [
+    {
+     "from": "2002-07-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b064b5e8-b601-4882-bf80-80452683e439.0022.03/DOC_1",
+     "sha256": "e9c8441b095c5bfe60e0db6ce0bbbc88173564e3047477a8529ff1b833935d6f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-68-2002",
+   "path": "ue/directiva/2002/68",
+   "short": "Directiva 2002/68/CE",
+   "title": "Directiva 2002/68/CE a Consiliului din 19 iulie 2002 de modificare a Directivei 2002/57/CE privind comercializarea semințelor de plante oleaginoase și pentru fibre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0068",
+   "versions": [
+    {
+     "from": "2002-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e720cb9-d827-41c5-ad7d-6e694fa7f07c.0022.03/DOC_1",
+     "sha256": "a30140dc414b7b072ce6dc88a93d46f200d030ce1c660ca6d13c765dc3a899a4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-7-2002",
+   "path": "ue/directiva/2002/7",
+   "short": "Directiva 2002/7/CE",
+   "title": "Directiva 2002/7/CE a Parlamentului European și a Consiliului din 18 februarie 2002 de modificare a Directivei 96/53/CE a Consiliului de stabilire a dimensiunilor maxime autorizate în trafic intern și internațional și a maselor maxime autorizate în trafic internațional pentru anumite vehicule rutiere care circulă în cadrul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0007",
+   "versions": [
+    {
+     "from": "2002-03-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8fc67611-f6fc-4577-bd6a-aea177b756e4.0022.03/DOC_1",
+     "sha256": "d6e5dc8f30d38f1740dee3d47e8250a80bd956630689c775f98e566d46d6e262"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-77-2002",
+   "path": "ue/directiva/2002/77",
+   "short": "Directiva 2002/77/CE",
+   "title": "Directiva 2002/77/CE a Comisiei din 16 septembrie 2002 privind concurența pe piețele de rețele și servicii de comunicații electroniceText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0077",
+   "versions": [
+    {
+     "from": "2002-10-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/48f0a629-22ff-45a6-a8e9-57f924a07a2a.0022.03/DOC_1",
+     "sha256": "97dcee36fb781fceac716061131adada6e486b48175e12ac76530e7e30136dc2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-84-2002",
+   "path": "ue/directiva/2002/84",
+   "short": "Directiva 2002/84/CE",
+   "title": "Directiva 2002/84/CE a Parlamentului European și a Consiliului din 5 noiembrie 2002 de modificare a directivelor privind siguranța maritimă și prevenirea poluării de către nave (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0084",
+   "versions": [
+    {
+     "from": "2002-11-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5e1937f2-7bf3-4dc9-b8b2-119b8f4840a3.0022.04/DOC_2",
+     "sha256": "9f5b762d5cb7953b19ffef4464598a02a20a49bf098976bf660da37771985d6c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-85-2002",
+   "path": "ue/directiva/2002/85",
+   "short": "Directiva 2002/85/CE",
+   "title": "Directiva 2002/85/CE a Parlamentului European și a Consiliului din 5 noiembrie 2002 de modificare a Directivei 92/6/CEE a Consiliului privind instalarea și utilizarea, în Comunitate, a dispozitivelor limitatoare de viteză pentru anumite categorii de autovehicule",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0085",
+   "versions": [
+    {
+     "from": "2002-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a7ff9386-97dc-4034-b8b7-56e0cfa3b64b.0022.03/DOC_1",
+     "sha256": "f3f5fdde8ce4e42e39c0cb4587d737e92fcbc1771a5a4464e56c4d66a0cfee16"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-87-2002",
+   "path": "ue/directiva/2002/87",
+   "short": "Directiva 2002/87/CE",
+   "title": "Directiva 2002/87/CE a Parlamentului European și a Consiliului din 16 decembrie 2002 privind supravegherea suplimentară a instituțiilor de credit, a întreprinderilor de asigurare și a întreprinderilor de investiții care aparțin unui conglomerat financiar și de modificare a Directivelor 73/239/CEE, 79/267/CEE, 92/49/CEE, 92/96/CEE, 93/6/CEE și 93/22/CEE ale Consiliului și a Directivelor 98/78/CE și 2000/12/CE ale Parlamentului European și ale Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0087",
+   "versions": [
+    {
+     "from": "2003-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a34193b-60ed-4106-8e2f-2e06386af029.0022.03/DOC_1",
+     "sha256": "100311f9fddbab83c1501f97691d5079068a534136b0619911a18a9fdf8fd6eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-90-2002",
+   "path": "ue/directiva/2002/90",
+   "short": "Directiva 2002/90/CE",
+   "title": "Directiva 2002/90/CE a Consiliului din 28 noiembrie 2002 de definire a facilitării intrării, tranzitului și șederii neautorizate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0090",
+   "versions": [
+    {
+     "from": "2002-12-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a078f38f-68ca-459e-a11c-f06f334e5eb3.0022.04/DOC_1",
+     "sha256": "f2355a1d9792609916ab540c0ed1d53cd7e33eed62bbd2cb6d3154548587e488"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-98-2002",
+   "path": "ue/directiva/2002/98",
+   "short": "Directiva 2002/98/CE",
+   "title": "Directiva 2002/98/CE a Parlamentului European și a Consiliului din 27 ianuarie 2003 privind stabilirea standardelor de calitate și securitate pentru recoltarea, controlul, prelucrarea, stocarea și distribuirea sângelui uman și a componentelor sanguine și de modificare a Directivei 2001/83/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002L0098",
+   "versions": [
+    {
+     "from": "2003-02-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/408e3121-2694-467b-905b-dfa95f554d4a.0022.03/DOC_1",
+     "sha256": "89ddc1b7c23d1a87760e06ddb4f31b47699a7d430b6cd8d0bd785b5c9876e7e0"
     }
    ]
   }

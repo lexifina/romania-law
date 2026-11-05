@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-119-2008",
+   "path": "ue/directiva/2008/119",
+   "short": "Directiva 2008/119/CE",
+   "title": "Directiva 2008/119/CE a Consiliului din 18 decembrie 2008 de stabilire a normelor minime privind protecția vițeilor (versiune codificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0119",
+   "versions": [
+    {
+     "from": "2009-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a41241b3-571e-4aba-849b-dcf7e12b4992.0019.02/DOC_1",
+     "sha256": "36b1204ba0ae86d28534d22ab2a93bf26cc9018d31506991e02d17f0afb3596a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-120-2008",
+   "path": "ue/directiva/2008/120",
+   "short": "Directiva 2008/120/CE",
+   "title": "Directiva 2008/120/CE a Consiliului din 18 decembrie 2008 de stabilire a normelor minime de protecție a porcilor (versiune codificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0120",
+   "versions": [
+    {
+     "from": "2009-03-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d6d1224d-0de3-4913-8ea0-8f6825b84275.0019.03/DOC_1",
+     "sha256": "04051d580010d2527c3e946eeab758a2db2f0345fbe18cf7f53cc0e4b3b5ad15"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-122-2008",
    "path": "ue/directiva/2008/122",
    "short": "Directiva 2008/122/CE",
@@ -119,6 +149,156 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/639a8b44-f0cc-4743-aef2-7d2857ee8d9c.0019.02/DOC_1",
      "sha256": "c695cac0d18caea766cf9be2edf53690023a1a6281874edf8c87670457c9bb44"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-124-2008",
+   "path": "ue/directiva/2008/124",
+   "short": "Directiva 2008/124/CE",
+   "title": "Directiva 2008/124/CE a Comisiei din 18 decembrie 2008 de limitare a comercializării semințelor din anumite specii de plante furajere și plante oleaginoase și pentru fibră la semințele care au fost certificate oficial ca semințe de bază sau semințe certificate (versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0124",
+   "versions": [
+    {
+     "from": "2009-01-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/de003aa5-efa7-410a-9a3f-b9e8995bca79.0019.03/DOC_1",
+     "sha256": "47ed33826d13e3011eefb72a281f24d962e05255b6ccc866355391345cd52c56"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-13-2008",
+   "path": "ue/directiva/2008/13",
+   "short": "Directiva 2008/13/CE",
+   "title": "Directiva 2008/13/CE a Parlamentului European și a Consiliului din 11 martie 2008 de abrogare a Directivei 84/539/CEE a Consiliului privind apropierea legislațiilor statelor membre în domeniul aparatelor electrice utilizate în medicina veterinară (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0013",
+   "versions": [
+    {
+     "from": "2008-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/97227233-1337-412b-a76b-d6123cd4d872.0019.02/DOC_1",
+     "sha256": "3276900720d7a776f24a89f59cdef3b09d5bb6ace00db74e6230616b73c58d97"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-21-2008",
+   "path": "ue/directiva/2008/21",
+   "short": "Directiva 2008/21/CE",
+   "title": "Directiva 2008/21/CE a Parlamentului European și a Consiliului din 11 martie 2008 de modificare a Directivei 91/675/CEE a Consiliului de instituire a unui comitet european de asigurări și pensii ocupaționale, în ceea ce privește competențele de executare conferite Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0021",
+   "versions": [
+    {
+     "from": "2008-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/63a570bf-162b-4035-a322-a851807676fb.0019.02/DOC_1",
+     "sha256": "b4dd458e5151eab907ca9b7a03a61ac4ada70739c77638ac1390d0ce7723e4b3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-22-2008",
+   "path": "ue/directiva/2008/22",
+   "short": "Directiva 2008/22/CE",
+   "title": "Directiva 2008/22/CE a Parlamentului European și a Consiliului din 11 martie 2008 de modificare a Directivei 2004/109/CE privind armonizarea obligațiilor de transparență în ceea ce privește informația referitoare la emitenții ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată, în ceea ce privește competențele de executare conferite Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0022",
+   "versions": [
+    {
+     "from": "2008-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c5707dc6-567c-4af7-bfcb-75496cdcd745.0019.02/DOC_1",
+     "sha256": "dc830cdb9b53ea9ab76c1535b4530548ca9a5617891ae39827d57d3d50adad39"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-25-2008",
+   "path": "ue/directiva/2008/25",
+   "short": "Directiva 2008/25/CE",
+   "title": "Directiva 2008/25/CE a Parlamentului European și a Consiliului din 11 martie 2008 de modificare a Directivei 2002/87/CE privind supravegherea suplimentară a instituțiilor de credit, a societăților de asigurări și a firmelor de investiții care aparțin unui conglomerat financiar, în ceea ce privește competențele de executare conferite Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0025",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7b7d9044-8dd8-4b78-bc7f-a4402feb2fa8.0019.02/DOC_1",
+     "sha256": "3d16487cdf3892e0e6b1a76994552abe9667078553b84ba91e57521d91660899"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-27-2008",
+   "path": "ue/directiva/2008/27",
+   "short": "Directiva 2008/27/CE",
+   "title": "Directiva 2008/27/CE a Parlamentului European și a Consiliului din 11 martie 2008 de modificare a Directivei 2001/18/CE privind diseminarea deliberată în mediu a organismelor modificate genetic, în ceea ce privește competențele de executare conferite Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0027",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/baadd1d5-9fae-4e00-96e5-85cd711a5d77.0019.02/DOC_1",
+     "sha256": "43b413f44bccd1952eb373771649fbbc9de49f556c89ccf7e256abd537a44a03"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-28-2008",
+   "path": "ue/directiva/2008/28",
+   "short": "Directiva 2008/28/CE",
+   "title": "Directiva 2008/28/CE a Parlamentului European și a Consiliului din 11 martie 2008 de modificare a Directivei 2005/32/CE de instituire a unui cadru pentru stabilirea cerințelor în materie de proiectare ecologică aplicabile produselor consumatoare de energie, precum și a Directivei 92/42/CEE a Consiliului și a Directivelor 96/57/CE și 2000/55/CE, în ceea ce privește competențele de executare conferite Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0028",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f665493-2c14-4b29-b0e4-d85f057add9d.0019.02/DOC_1",
+     "sha256": "319d8dde350d25fc478fe6184b34e51a324b5b3f34ccac7e05ac369ba9c9b3b4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-29-2008",
+   "path": "ue/directiva/2008/29",
+   "short": "Directiva 2008/29/CE",
+   "title": "Directiva 2008/29/CE a Parlamentului European și a Consiliului din 11 martie 2008 de modificare a Directivei 2001/83/CE de instituire a unui cod comunitar cu privire la medicamentele de uz uman, în ceea ce privește competențele de executare conferite Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0029",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d724feb9-884e-4038-a7b0-0501107d76d6.0019.03/DOC_1",
+     "sha256": "b7c87297f00d68f7524291e4986878a21270600b9cc50a128cc21a0d9a3ea611"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-30-2008",
+   "path": "ue/directiva/2008/30",
+   "short": "Directiva 2008/30/CE",
+   "title": "Directiva 2008/30/CE a Parlamentului European și a Consiliului din 11 martie 2008 de modificare a Directivei 2006/43/CE privind auditul legal al conturilor anuale și al conturilor consolidate, în ceea ce privește competențele de executare conferite Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0030",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c1373a86-952d-48b6-bfd3-f59ad7914ea4.0019.02/DOC_1",
+     "sha256": "f61e5e0e52d4bce7be4f433ff06659761ccec9a9e43a7e342b6cda81b172a4c1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-32-2008",
+   "path": "ue/directiva/2008/32",
+   "short": "Directiva 2008/32/CE",
+   "title": "Directiva 2008/32/CE a Parlamentului European și a Consiliului din 11 martie 2008 de modificare a Directivei 2000/60/CE de stabilire a unui cadru de politică comunitară în domeniul apei, în ceea ce privește competențele de executare conferite Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0032",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62fa4781-57fa-42f9-8bcf-854f7c7060cf.0019.02/DOC_1",
+     "sha256": "2e4f28832c5c560c2ed95a383d965c379ee280e2e9f05ac8199e43f4d6fa234e"
     }
    ]
   },
@@ -239,6 +419,261 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6a6b2a43-24c4-47b6-a602-40ca8c461a82.0019.02/DOC_1",
      "sha256": "4dee92b07e7bd6eee28cef75afbd006f3e1e57999ad99200022dbaab1217b2c6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-6-2008",
+   "path": "ue/directiva/2008/6",
+   "short": "Directiva 2008/6/CE",
+   "title": "Directiva 2008/6/CE a Parlamentului European și a Consiliului din 20 februarie 2008 de modificare a Directivei 97/67/CE cu privire la realizarea integrală a pieței interne a serviciilor poștale ale Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0006",
+   "versions": [
+    {
+     "from": "2008-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7c8f8da-ebb0-4cbc-9bdc-4d03a5b4c08b.0019.03/DOC_1",
+     "sha256": "5d8781acfb8c2aca8c6436aceb4dbb27f4ed449139df247735f98e1425527a7b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-62-2008",
+   "path": "ue/directiva/2008/62",
+   "short": "Directiva 2008/62/CE",
+   "title": "Directiva 2008/62/CE a Comisiei din 20 iunie 2008 de stabilire a anumitor derogări pentru acceptarea soiurilor locale și a varietăților agricole adaptate natural la condițiile locale și regionale și amenințate de eroziunea generică și pentru comercializarea semințelor și cartofilor de sămânță ale acestor soiuri locale și varietăți (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0062",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/102973bb-fd0f-4957-8ddb-09f805286a52.0019.03/DOC_1",
+     "sha256": "9e9a30e215a2376f2255303de0694af3278770b664555fc5c81a65074ca7211e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-63-2008",
+   "path": "ue/directiva/2008/63",
+   "short": "Directiva 2008/63/CE",
+   "title": "Directiva 2008/63/CE a Comisiei din 20 iunie 2008 privind concurența pe piețele echipamentelor terminale pentru telecomunicații (versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0063",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f92ebd4-8d22-4ddc-a055-861278bbba61.0019.02/DOC_1",
+     "sha256": "8a60c2e51eb7ee3590b053f554ce5fb8661b2307ac1d0b2325a08a0aa2023780"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-68-2008",
+   "path": "ue/directiva/2008/68",
+   "short": "Directiva 2008/68/CE",
+   "title": "Directiva 2008/68/CE a Parlamentului European și a Consiliului din 24 septembrie 2008 privind transportul interior de mărfuri periculoase (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0068",
+   "versions": [
+    {
+     "from": "2008-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c92b5ba4-8647-4bb4-8924-e7bbd440f1fc.0019.02/DOC_1",
+     "sha256": "44cc2730b2cd915cee891cae44cbdced6a940141989f0242362698e592513e5f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-7-2008",
+   "path": "ue/directiva/2008/7",
+   "short": "Directiva 2008/7/CE",
+   "title": "Directiva 2008/7/CE a Consiliului din 12 februarie 2008 privind impozitarea indirectă a majorării de capital",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0007",
+   "versions": [
+    {
+     "from": "2008-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99aeb253-b195-4075-ac4a-32eb4847c913.0019.02/DOC_1",
+     "sha256": "efbcdd38a1a5f36efcea4e557606c5f4936353998aeaaaaf98750950f0cf331a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-72-2008",
+   "path": "ue/directiva/2008/72",
+   "short": "Directiva 2008/72/CE",
+   "title": "Directiva 2008/72/CE a Consiliului din 15 iulie 2008 privind comercializarea răsadurilor de legume și a materialului săditor de legume, altul decât semințele (versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0072",
+   "versions": [
+    {
+     "from": "2008-08-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ec67ac0-cbbf-4fdb-a299-4e7387b6ff36.0019.03/DOC_1",
+     "sha256": "6d3d1fc02a4dca0d57f172bc1b534318b9bfa7139f0916d51f01e0ec56f0c001"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-73-2008",
+   "path": "ue/directiva/2008/73",
+   "short": "Directiva 2008/73/CE",
+   "title": "Directiva 2008/73/CE a Consiliului din 15 iulie 2008 de simplificare a procedurilor de întocmire a listelor și publicare a informațiilor în domeniul veterinar și zootehnic și de modificare a Directivelor 64/432/CEE, 77/504/CEE, 88/407/CEE, 88/661/CEE, 89/361/CEE, 89/556/CEE, 90/426/CEE, 90/427/CEE, 90/428/CEE, 90/429/CEE, 90/539/CEE, 91/68/CEE, 91/496/CEE, 92/35/CEE, 92/65/CEE, 92/66/CEE, 92/119/CEE, 94/28/CE, 2000/75/CE, a Deciziei 2000/258/CE și a Directivelor 2001/89/CE, 2002/60/CE și 2005/94/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0073",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/41f050af-2b59-44cd-95bf-c1515d650b6f.0019.03/DOC_1",
+     "sha256": "7cf6809e2a36b3d240e14f9b50e8693341fed71b59b2d1e357978cdffd1d9c38"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-76-2008",
+   "path": "ue/directiva/2008/76",
+   "short": "Directiva 2008/76/CE",
+   "title": "Directiva 2008/76/CE a Comisiei din 25 iulie 2008 de modificare a anexei I la Directiva 2002/32/CE a Parlamentului European și a Consiliului privind substanțele nedorite din furaje (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0076",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/657c308e-9732-4774-aaad-6aa428acf09c.0019.02/DOC_1",
+     "sha256": "e1c1f8679250be3430455a16e89f320d2f1603911234f207f95817d39c4a8a0c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-8-2008",
+   "path": "ue/directiva/2008/8",
+   "short": "Directiva 2008/8/CE",
+   "title": "Directiva 2008/8/CE a Consiliului din 12 februarie 2008 de modificare a Directivei 2006/112/CE în ceea ce privește locul de prestare a serviciilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0008",
+   "versions": [
+    {
+     "from": "2008-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/16cfcc19-2e67-479e-8fb6-ecdc9253e4a4.0019.02/DOC_1",
+     "sha256": "060abbc3cb65f3511bb44b6c54cf5075b6b669aa79edd1e9b8f3a412197c5613"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-83-2008",
+   "path": "ue/directiva/2008/83",
+   "short": "Directiva 2008/83/CE",
+   "title": "Directiva 2008/83/CE a Comisiei din 13 august 2008 de modificare a Directivei 2003/91/CE de stabilire a normelor de aplicare a dispozițiilor articolului 7 din Directiva 2002/55/CE a Consiliului privind numărul minim de caracteristici care trebuie examinate și condițiile minime necesare pentru examinarea anumitor soiuri de legume (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0083",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/712c8ada-a718-462a-9be8-3d60160f3b2a.0019.03/DOC_1",
+     "sha256": "ef13bd2242b43c13d24160d6155dfb7bc516db71f33d49c30c3d84195d0e3dda"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-9-2008",
+   "path": "ue/directiva/2008/9",
+   "short": "Directiva 2008/9/CE",
+   "title": "Directiva 2008/9/CE a Consiliului din 12 februarie 2008 de stabilire a normelor detaliate privind rambursarea taxei pe valoare adăugată, prevăzută în Directiva 2006/112/CE, către persoane impozabile stabilite în alt stat membru decât statul membru de rambursare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0009",
+   "versions": [
+    {
+     "from": "2008-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/43f0a70a-29a2-4461-8347-2ca6687e45c6.0019.02/DOC_1",
+     "sha256": "5b12680d93d7d8fd61b2e3e048f1c16999c7f1d844361b79d578c9993eaf7d0f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-90-2008",
+   "path": "ue/directiva/2008/90",
+   "short": "Directiva 2008/90/CE",
+   "title": "Directiva 2008/90/CE a Consiliului din 29 septembrie 2008 privind comercializarea materialului de înmulțire și plantare fructifer destinat producției de fructe (Versiune reformată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0090",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0019.03/DOC_1",
+     "sha256": "40013d8e2335771c8da01d20513c419c6f2f7f21b8532c985db71cd63584e3a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-94-2008",
+   "path": "ue/directiva/2008/94",
+   "short": "Directiva 2008/94/CE",
+   "title": "Directiva 2008/94/CE a Parlamentului European și a Consiliului din 22 octombrie 2008 privind protecția lucrătorilor salariați în cazul insolvenței angajatorului (versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0094",
+   "versions": [
+    {
+     "from": "2008-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c0f7945e-1bbd-4ad4-8e34-fb3294326a9d.0019.02/DOC_1",
+     "sha256": "061b4f966b78e685a49a499e2a55a26aa37a3abd66cce19b630c0d3b1f1d417f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-96-2008",
+   "path": "ue/directiva/2008/96",
+   "short": "Directiva 2008/96/CE",
+   "title": "Directiva 2008/96/CE a Parlamentului European și a Consiliului din 19 noiembrie 2008 privind gestionarea siguranței infrastructurii rutiere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0096",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d22cac93-b39b-4182-8ce6-2463bd975628.0019.02/DOC_1",
+     "sha256": "8a9b16cda1d29e7a482218e180a54be1c8f95933e77d5e2eb7d22a7f7d7276f1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-97-2008",
+   "path": "ue/directiva/2008/97",
+   "short": "Directiva 2008/97/CE",
+   "title": "Directiva 2008/97/CE a Parlamentului European și a Consiliului din 19 noiembrie 2008 de modificare a Directivei 96/22/CE a Consiliului privind interzicerea utilizării anumitor substanțe cu efect hormonal sau tireostatic și a substanțelor beta-agoniste în creșterea animalelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0097",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46ea004d-357a-4759-a5a9-aa296eed6d43.0019.03/DOC_1",
+     "sha256": "8146260d69f9108605387dc7ff9d3a4289cd8d3178bf0441fbc85abb7b0681cb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-98-2008",
+   "path": "ue/directiva/2008/98",
+   "short": "Directiva 2008/98/CE",
+   "title": "Directiva 2008/98/CE a Parlamentului European și a Consiliului din 19 noiembrie 2008 privind deșeurile și de abrogare a anumitor directive (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0098",
+   "versions": [
+    {
+     "from": "2008-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a32ddb30-1a98-4911-964a-e4f4f638f20d.0019.02/DOC_1",
+     "sha256": "f6f9dd790d0d6c6a7e7332ff532410d4feef7b374e983b99e82b242d4b47cf8f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-99-2008",
+   "path": "ue/directiva/2008/99",
+   "short": "Directiva 2008/99/CE",
+   "title": "Directiva 2008/99/CE a Parlamentului European și a Consiliului din 19 noiembrie 2008 privind protecția mediului prin intermediul dreptului penal (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0099",
+   "versions": [
+    {
+     "from": "2008-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/94cc97ca-e070-4bf2-9219-380079ba8ce3.0019.03/DOC_1",
+     "sha256": "84a49dfe4360a9bf13403e897d86a82f8ed819c02ccd5645c77d2c3e8454d6bf"
     }
    ]
   }

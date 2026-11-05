@@ -1,0 +1,97 @@
+{
+"country": "RO",
+"shard": "ue/1997",
+"acts": [
+{
+"slug": "ue-directiva-9-1997",
+"path": "ue/directiva/1997/9",
+"kind": "ue",
+"year": "1997",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 97/9/CE a Parlamentului European și a Consiliului din 3 martie 1997 privind sistemele de compensare pentru investitori",
+"short": "Directiva 97/9/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1997-03-26",
+"latest": "1997-03-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0009"
+},
+{
+"slug": "ue-directiva-63-1997",
+"path": "ue/directiva/1997/63",
+"kind": "ue",
+"year": "1997",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 97/63/CE a Parlamentului European și a Consiliului din 24 noiembrie 1997 de modificare a Directivelor 76/116/CEE, 80/876/CEE, 89/284/CEE și 89/530/CEE de apropiere a legislațiilor statelor membre referitoare la îngrășăminte",
+"short": "Directiva 97/63/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1997-12-26",
+"latest": "1997-12-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0063",
+"flags": {
+"end_of_validity": "2003-12-10"
+}
+},
+{
+"slug": "ue-directiva-67-1997",
+"path": "ue/directiva/1997/67",
+"kind": "ue",
+"year": "1997",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 97/67/CE a parlamentului European și a consiliului din 15 decembrie 1997 privind normele comune pentru dezvoltarea pieței interne a serviciilor poștale ale Comunității și îmbunătățirea calității serviciului",
+"short": "Directiva 97/67/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1998-02-10",
+"latest": "1998-02-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0067"
+},
+{
+"slug": "ue-directiva-70-1997",
+"path": "ue/directiva/1997/70",
+"kind": "ue",
+"year": "1997",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 97/70/CE a Consiliului din 11 decembrie 1997 de instituire a unui regim armonizat de siguranță pentru navele de pescuit cu lungimea de 24 metri sau mai mare",
+"short": "Directiva 97/70/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1998-03-01",
+"latest": "1998-03-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0070",
+"flags": {
+"figures_missing": 4
+}
+},
+{
+"slug": "ue-directiva-81-1997",
+"path": "ue/directiva/1997/81",
+"kind": "ue",
+"year": "1997",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 97/81/CE a Consiliului din 15 decembrie 1997 privind acordul-cadru cu privire la munca pe fracțiune de normă, încheiat de UCIPE, CEIP și CES",
+"short": "Directiva 97/81/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1998-01-20",
+"latest": "1998-01-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0081"
+}
+]
+}

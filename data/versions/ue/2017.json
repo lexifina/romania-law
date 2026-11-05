@@ -301,6 +301,96 @@
      "sha256": "b9a560740bef5b3ed8269b99026a175ba122ec162d2d055caedb1d0c7018f5cc"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-738-2017",
+   "path": "ue/directiva/2017/738",
+   "short": "Directiva (UE) 2017/738",
+   "title": "Directiva (UE) 2017/738 a Consiliului din 27 martie 2017 de modificare, în scopul adaptării la progresul tehnic, a anexei II la Directiva 2009/48/CE a Parlamentului European și a Consiliului privind siguranța jucăriilor, în ceea ce privește plumbul (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0738",
+   "versions": [
+    {
+     "from": "2017-05-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/45da762c-2b12-11e7-9412-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "97aa88805a4a83b747dc05fc244ccbe72f414a598c219cc111eac3b09494b0ee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-774-2017",
+   "path": "ue/directiva/2017/774",
+   "short": "Directiva (UE) 2017/774",
+   "title": "Directiva (UE) 2017/774 a Comisiei din 3 mai 2017 de modificare, în scopul adoptării unor valori limită specifice pentru substanțele chimice utilizate în jucării, a apendicelui C la anexa II la Directiva 2009/48/CE a Parlamentului European și a Consiliului privind siguranța jucăriilor, în ceea ce privește fenolul (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0774",
+   "versions": [
+    {
+     "from": "2017-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/443a8ea7-3098-11e7-9412-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "aac725dcdc79f816ba04d7a55723c766c2459fc56afde802827990453b5227cc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-828-2017",
+   "path": "ue/directiva/2017/828",
+   "short": "Directiva (UE) 2017/828",
+   "title": "Directiva (UE) 2017/828 a Parlamentului European și a Consiliului din 17 mai 2017 de modificare a Directivei 2007/36/CE în ceea ce privește încurajarea implicării pe termen lung a acționarilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0828",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b871b38-3d20-11e7-a08e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2ebd5cdf94bc7b0502c375862c51be69bf666946924b0ef02693ad6776ea26e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-845-2017",
+   "path": "ue/directiva/2017/845",
+   "short": "Directiva (UE) 2017/845",
+   "title": "Directiva (UE) 2017/845 a Comisiei din 17 mai 2017 de modificare a Directivei 2008/56/CE a Parlamentului European și a Consiliului în ceea ce privește listele orientative ale elementelor ce trebuie luate în considerare în vederea pregătirii strategiilor marine (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0845",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd3f4c61-3b91-11e7-a08e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "aa15827315f5b655ac8e15862a6e8e7bb41e0a1b7b9e68d4d0dee89ffc5a27d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-898-2017",
+   "path": "ue/directiva/2017/898",
+   "short": "Directiva (UE) 2017/898",
+   "title": "Directiva (UE) 2017/898 a Comisiei din 24 mai 2017 de modificare, în scopul adoptării unor valori limită specifice pentru substanțele chimice utilizate în jucării, a apendicelui C din anexa II la Directiva 2009/48/CE a Parlamentului European și a Consiliului privind siguranța jucăriilor, în ceea ce privește substanța bisfenol A (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0898",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8cbb39e4-410d-11e7-a9b0-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ad2e4255b87b67b0830ae731287c587511dc5ae3aa410cadd4d7b6edcc6db7e2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-952-2017",
+   "path": "ue/directiva/2017/952",
+   "short": "Directiva (UE) 2017/952",
+   "title": "Directiva (UE) 2017/952 a Consiliului din 29 mai 2017 de modificare a Directivei (UE) 2016/1164 în ceea ce privește tratamentul neuniform al elementelor hibride care implică țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0952",
+   "versions": [
+    {
+     "from": "2017-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/33036f5d-4b41-11e7-aea8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "16099605879de1e45c9e721d51daf1e36fa33d12ebcbcec1c8e61230fa4a61ce"
+    }
+   ]
   }
  ]
 }

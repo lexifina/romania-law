@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "ue/1997",
+ "acts": [
+  {
+   "slug": "ue-directiva-63-1997",
+   "path": "ue/directiva/1997/63",
+   "short": "Directiva 97/63/CE",
+   "title": "Directiva 97/63/CE a Parlamentului European și a Consiliului din 24 noiembrie 1997 de modificare a Directivelor 76/116/CEE, 80/876/CEE, 89/284/CEE și 89/530/CEE de apropiere a legislațiilor statelor membre referitoare la îngrășăminte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0063",
+   "versions": [
+    {
+     "from": "1997-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/58b2421f-85bd-4e7a-8dc6-2b583f00e930.0022.04/DOC_83",
+     "sha256": "2f68bbf5ebd1ac12ad87d96c472ce9feb182760efc4d5be76c6a96568ffc3a45"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-67-1997",
+   "path": "ue/directiva/1997/67",
+   "short": "Directiva 97/67/CE",
+   "title": "Directiva 97/67/CE a parlamentului European și a consiliului din 15 decembrie 1997 privind normele comune pentru dezvoltarea pieței interne a serviciilor poștale ale Comunității și îmbunătățirea calității serviciului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0067",
+   "versions": [
+    {
+     "from": "1998-02-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f9157b3-7b2f-4238-88d3-ca56b04adbca.0022.04/DOC_1",
+     "sha256": "c1d43f9414ff3a0ae6d94c24402e804020756d97d74e9318bb7910c687ffc121"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-70-1997",
+   "path": "ue/directiva/1997/70",
+   "short": "Directiva 97/70/CE",
+   "title": "Directiva 97/70/CE a Consiliului din 11 decembrie 1997 de instituire a unui regim armonizat de siguranță pentru navele de pescuit cu lungimea de 24 metri sau mai mare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0070",
+   "versions": [
+    {
+     "from": "1998-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99ce71f0-c7ad-4594-8fcd-d9800e8c9850.0022.03/DOC_7",
+     "sha256": "cec220642b720d7cdc76b10c9e5a783006ff95480e0fbbbc9c9bb81903035f4c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-81-1997",
+   "path": "ue/directiva/1997/81",
+   "short": "Directiva 97/81/CE",
+   "title": "Directiva 97/81/CE a Consiliului din 15 decembrie 1997 privind acordul-cadru cu privire la munca pe fracțiune de normă, încheiat de UCIPE, CEIP și CES",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0081",
+   "versions": [
+    {
+     "from": "1998-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c607b332-258a-48bb-b2aa-ca85757454ca.0022.03/DOC_1",
+     "sha256": "2e3726642857e243f3c7dfce8ae3cfa1d564711a575a1de2913f6da51d982f72"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-9-1997",
+   "path": "ue/directiva/1997/9",
+   "short": "Directiva 97/9/CE",
+   "title": "Directiva 97/9/CE a Parlamentului European și a Consiliului din 3 martie 1997 privind sistemele de compensare pentru investitori",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997L0009",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dc2790d5-96b0-4bc1-b1fb-15e776928929.0022.03/DOC_3",
+     "sha256": "33eb98e804fedf456747f4fd0a3abba0e29a3cb8501849ff898640342dae3194"
+    }
+   ]
+  }
+ ]
+}

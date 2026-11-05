@@ -3,6 +3,21 @@
  "shard": "ue/1989",
  "acts": [
   {
+   "slug": "ue-directiva-100-1989",
+   "path": "ue/directiva/1989/100",
+   "short": "Directiva 89/100/CEE",
+   "title": "Directiva Comisiei din 20 ianuarie 1989 de modificare a anexei II la Directiva 66/401/CEE a Consiliului privind comercializarea semințelor de plante furajere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0100",
+   "versions": [
+    {
+     "from": "1989-01-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ea3ba0c-599d-409c-a4e4-8911258afa31.0022.04/DOC_1",
+     "sha256": "dded59e319ac87d55b534d33a2600cfb453cbe5dd3f869714112de33e7c6b63c"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-105-1989",
    "path": "ue/directiva/1989/105",
    "short": "Directiva 89/105/CEE",
@@ -48,6 +63,66 @@
    ]
   },
   {
+   "slug": "ue-directiva-14-1989",
+   "path": "ue/directiva/1989/14",
+   "short": "Directiva 89/14/CEE",
+   "title": "Directiva Comisiei din 15 decembrie 1988 de stabilire a grupelor soiurilor de sfeclă pentru pețiol și frunze și sfeclă roșie care fac obiectul condițiilor de izolare a culturilor prevăzute în anexa I la Directiva 70/458/CEE a Consiliului privind comercializarea semințelor de legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0014",
+   "versions": [
+    {
+     "from": "1988-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/434a90fd-57d8-4d0f-ba51-1a5130c39ba3.0022.04/DOC_1",
+     "sha256": "01563a8d67989052ebaf5acb911517554afa10d1aec910596c4f99fa1ab3bba5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2-1989",
+   "path": "ue/directiva/1989/2",
+   "short": "Directiva 89/2/CEE",
+   "title": "Directiva Comisiei din 15 decembrie 1988 de modificare a Directivei 66/402/CEE a Consiliului privind comercializarea semințelor de cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0002",
+   "versions": [
+    {
+     "from": "1988-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1645f936-5816-46d8-8350-f5b415f17791.0022.04/DOC_1",
+     "sha256": "cdfc4bb27fe4fa3797f843b5c9eec454c10325f33ae5b6638e10a82fb022e15d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-370-1989",
+   "path": "ue/directiva/1989/370",
+   "short": "Directiva 89/370/CEE",
+   "title": "Directiva Consiliului din 8 iunie 1989 de modificare a Directivei 83/129/CEE privind importul în statele membre de piele de pui de focă și de produse derivate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0370",
+   "versions": [
+    {
+     "from": "1989-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/85db4344-1680-47c6-8cf2-13f365d94c9a.0020.01/DOC_1",
+     "sha256": "67988c7c014ffc6b42a548031cd9344f4840de4df432c87216af6d5add00cade"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-384-1989",
+   "path": "ue/directiva/1989/384",
+   "short": "Directiva 89/384/CEE",
+   "title": "Directiva Consiliului din 20 iunie 1989 privind stabilirea modalităților de control al respectării punctului de congelare a laptelui crud, prevăzut la anexa A din Directiva 85/397/CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0384",
+   "versions": [
+    {
+     "from": "1989-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0495f843-c722-44e0-af6d-6c0d1a72cd49.0022.03/DOC_1",
+     "sha256": "fc8907b8df4213a2df252428b6c9e79612cf42bcd75120adf6601247e3427959"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-391-1989",
    "path": "ue/directiva/1989/391",
    "short": "Directiva 89/391/CEE",
@@ -59,6 +134,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/3c966801-b944-46d2-9034-b8c9e37b86c3.0022.03/DOC_1",
      "sha256": "c422964f210b0a61b7bb499b6aa91d1a901a39e6908fd95e82c9766350fb2542"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-459-1989",
+   "path": "ue/directiva/1989/459",
+   "short": "Directiva 89/459/CEE",
+   "title": "Directiva Consiliului din 18 iulie 1989 privind apropierea legislațiilor statelor membre referitoare la adâncimea profilului pneurilor anumitor categorii de autovehicule și ale remorcilor acestora",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0459",
+   "versions": [
+    {
+     "from": "1989-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b475918-3eda-4de3-be20-8a1a36059c70.0022.03/DOC_4",
+     "sha256": "8904e47e30dff80d13b06293f4cfdf568afa61ccce402713baec6b8595a1ad8e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-491-1989",
+   "path": "ue/directiva/1989/491",
+   "short": "Directiva 89/491/CEE",
+   "title": "Directiva Comisiei din 17 iulie 1989 de adaptare la progresul tehnic a Directivelor 70/157/CEE, 70/220/CEE, 72/245/CEE, 72/306/CEE, 80/1268/CEE și 80/1269/CEE ale Consiliului privind autovehiculele",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0491",
+   "versions": [
+    {
+     "from": "1989-07-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/889c67bb-4174-4d55-b097-f4a57c82db83.0022.03/DOC_5",
+     "sha256": "6fc4e7beb238beb457bd4e8eb42ad2fe9055819b8c3372aa5a0b651251d88e74"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-530-1989",
+   "path": "ue/directiva/1989/530",
+   "short": "Directiva 89/530/CEE",
+   "title": "Directiva Consiliului din 18 septembrie 1989 de completare și modificare a Directivei 76/116/CEE în ceea ce privește oligoelementele bor, cobalt, cupru, fier, mangan, molibden și zinc conținute de îngrășăminte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0530",
+   "versions": [
+    {
+     "from": "1989-09-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c0ab6ae7-8995-44e0-b5e6-a0727bffecec.0022.03/DOC_16",
+     "sha256": "c0180b8a4e25aebd2cf20b101f01a0ce2001b24dd47b30c7b739233bde1dc290"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-617-1989",
+   "path": "ue/directiva/1989/617",
+   "short": "Directiva 89/617/CEE",
+   "title": "Directiva Consiliului din 27 noiembrie 1989 de modificare a Directivei 80/181/CEE privind apropierea legislațiilor statelor membre referitoare la unitățile de măsură",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0617",
+   "versions": [
+    {
+     "from": "1989-11-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/043c0ef8-88a5-4d58-afbd-85f6ca650536.0022.03/DOC_12",
+     "sha256": "e94d187bfcaad226df56fbf62a10509c9c5caeb785614a34bcb9b49302e7da2e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-654-1989",
+   "path": "ue/directiva/1989/654",
+   "short": "Directiva 89/654/CEE",
+   "title": "Directiva Consiliului din 30 noiembrie 1989 privind cerințele minime de securitate și sănătate la locul de muncă [prima directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0654",
+   "versions": [
+    {
+     "from": "1989-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1338a22e-5af5-4932-857f-a077025cf89a.0022.03/DOC_1",
+     "sha256": "35dbfa9bf8728ecfce0fde6e791cc049a1069b8ada8ced0ac219921e3dd3202f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-656-1989",
+   "path": "ue/directiva/1989/656",
+   "short": "Directiva 89/656/CEE",
+   "title": "Directiva Consiliului din 30 noiembrie 1989 privind cerințele minime de securitate și sănătate pentru utilizarea de către lucrători a echipamentelor individuale de protecție la locul de muncă [a treia directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0656",
+   "versions": [
+    {
+     "from": "1989-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3fa58c1-6199-479b-89fc-ce27ac7ee5b7.0022.04/DOC_1",
+     "sha256": "fc329ba8824cecd176c1c891a92df9e561ae87daa87f9546132afb1034d05d74"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-665-1989",
+   "path": "ue/directiva/1989/665",
+   "short": "Directiva 89/665/CEE",
+   "title": "Directiva Consiliului din 21 decembrie 1989 privind coordonarea actelor cu putere de lege și a actelor administrative privind aplicarea procedurilor care vizează căile de atac față de atribuirea contractelor de achiziții publice de produse și a contractelor publice de lucrări",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0665",
+   "versions": [
+    {
+     "from": "1990-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1fd21fd7-c17f-4d79-af35-319f77d1a459.0022.04/DOC_1",
+     "sha256": "ed7e0851a603a242329aaad329d81f9fc688b329a692dffb9ba6980978bd6131"
     }
    ]
   }

@@ -31,6 +31,21 @@
      "sha256": "e3e82f159e764c1d1f166e648b7431f62a4c62abf92027067a19f334e96a22b6"
     }
    ]
+  },
+  {
+   "slug": "ue-directiva-653-1986",
+   "path": "ue/directiva/1986/653",
+   "short": "Directiva 86/653/CEE",
+   "title": "Directiva Consiliului din 18 decembrie 1986 privind coordonarea legislației statelor membre referitoare la agenții comerciali independenți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31986L0653",
+   "versions": [
+    {
+     "from": "1986-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a4fa7338-bc35-4e95-b255-6216fcd4e1ff.0022.03/DOC_1",
+     "sha256": "20bcc08898dbe787998cb86a2e118474a8e5b73ae9ea78ef38c647be29da1101"
+    }
+   ]
   }
  ]
 }

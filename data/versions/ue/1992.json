@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-19-1992",
+   "path": "ue/directiva/1992/19",
+   "short": "Directiva 92/19/CE",
+   "title": "Directiva 92/19/CEE a Comisiei din 23 martie 1992 de modificare a Directivei 66/401/CEE privind comercializarea semințelor de plante furajere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0019",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d0841fe2-c0fd-42a4-bc7d-df8fe8e51eae.0022.04/DOC_24",
+     "sha256": "01667201ad92e967087c242c72e1988661044ca88071da264d8d76456eccd35b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2-1992",
+   "path": "ue/directiva/1992/2",
+   "short": "Directiva 92/2/CE",
+   "title": "Directiva 92/2/CEE a Comisiei din 13 ianuarie 1992 de stabilire a normelor de prelevare a eșantioanelor și a metodei de analiză comunitare utilizate la controlul temperaturilor alimentelor congelate rapid destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0002",
+   "versions": [
+    {
+     "from": "1992-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8b92cc7-b85c-4f62-820b-57eb9f04db83.0022.03/DOC_3",
+     "sha256": "a713bcf4f092c811a9c343007d703d7c2a947efaca91b252f11aa84df674ef9b"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-29-1992",
    "path": "ue/directiva/1992/29",
    "short": "Directiva 92/29/CE",
@@ -119,6 +149,141 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b8d3071d-249a-4740-81f6-6bad9a6bf509.0022.03/DOC_39",
      "sha256": "723a06971ca3b4384bffbb1314525a58626f69a395126d47cb673e86277afe69"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-6-1992",
+   "path": "ue/directiva/1992/6",
+   "short": "Directiva CELEX 31992L0006",
+   "title": "DIRECTIVA 92/6/CEE A CONSILIULUI din 10 februarie 1992 privind instalarea și utilizarea dispozitivelor limitatoare de viteză pentru anumite categorii de vehicule din cadrul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0006",
+   "versions": [
+    {
+     "from": "1992-02-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/57a88b88-0245-4cbc-9904-6ce1faaf5710.0021.04/DOC_1",
+     "sha256": "0aa538a0f27f056842fd52540a4a547968b9b82589bfb49943b19a26a735d40e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-62-1992",
+   "path": "ue/directiva/1992/62",
+   "short": "Directiva 92/62/CE",
+   "title": "Directiva 92/62/CEE a Comisiei din 2 iulie 1992 de adaptare la progresul tehnic a Directivei 70/311/CEE a Consiliului privind sistemul de direcție al autovehiculelor și al remorcilor acestora",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0062",
+   "versions": [
+    {
+     "from": "1992-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4f3a87dc-8c4b-429c-a244-8cb341c1000b.0022.03/DOC_5",
+     "sha256": "1171abe2322c2edd9b5d32be06911692d73e69cc95e94528058a2e9ac9bc10c6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-71-1992",
+   "path": "ue/directiva/1992/71",
+   "short": "Directiva 92/71/CE",
+   "title": "Directiva 92/71/CEE a Comisiei din 2 septembrie 1992 de stabilire a procentului de transporturi care, la trecerea dintr-un stat membru în altul, pot face obiectul unei inspecții fitosanitare și al unui control al documentelor și al identității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0071",
+   "versions": [
+    {
+     "from": "1992-09-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/906ac638-531f-4614-a401-fd10bfb13a2e.0022.04/DOC_7",
+     "sha256": "01048e9c33ab6e29a04190e348c8aff9c4a8071cac5be64d3014728ec9f75c3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-83-1992",
+   "path": "ue/directiva/1992/83",
+   "short": "Directiva 92/83/CE",
+   "title": "Directiva 92/83/CEE a Consiliului din 19 octombrie 1992 privind armonizarea structurilor accizelor la alcool și băuturi alcoolice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0083",
+   "versions": [
+    {
+     "from": "1992-11-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1439d7b5-e13b-4e30-bcd7-33335b8f7b8a.0021.01/DOC_1",
+     "sha256": "7521c4e1e12e1a19f39123419fb939c8bb94a9190db2158385e5e53afdb74435"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-84-1992",
+   "path": "ue/directiva/1992/84",
+   "short": "Directiva 92/84/CE",
+   "title": "Directiva 92/84/CEE a Consiliului din 19 octombrie 1992 privind apropierea ratelor accizelor la alcool și băuturi alcoolice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0084",
+   "versions": [
+    {
+     "from": "1992-11-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aec3cfd5-3986-4fe9-832c-c3b4291ec0e0.0020.01/DOC_1",
+     "sha256": "1d2de4f0017ddc141bed6e5283e8a54d2eb0484d282647a37dc8228acafee298"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-85-1992",
+   "path": "ue/directiva/1992/85",
+   "short": "Directiva 92/85/CE",
+   "title": "Directiva 92/85/CEE a Consiliului din 19 octombrie 1992 privind introducerea de măsuri pentru promovarea îmbunătățirii securității și a sănătății la locul de muncă în cazul lucrătoarelor gravide, care au născut de curând sau care alăptează [a zecea directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0085",
+   "versions": [
+    {
+     "from": "1992-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5ddbd18c-3bca-4809-8c1c-999b99aaede2.0022.03/DOC_14",
+     "sha256": "41b3256da244ea3433748d8f008776d7b18097a28499c03d501041cbc93eda97"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-90-1992",
+   "path": "ue/directiva/1992/90",
+   "short": "Directiva 92/90/CE",
+   "title": "Directiva 92/90/CEE a Comisiei din 3 noiembrie 1992 de stabilire a anumitor obligații pentru producătorii și importatorii de plante, de produse vegetale sau de alte obiecte, precum și a modalității de înregistrare a acestora",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0090",
+   "versions": [
+    {
+     "from": "1992-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/82922b5d-6970-4954-bd52-458719b51057.0022.04/DOC_6",
+     "sha256": "ca2e7bdeb30e60903296e7cba2b4b4ea16688f09390d19446a85479d47ae9b02"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-91-1992",
+   "path": "ue/directiva/1992/91",
+   "short": "Directiva 92/91/CE",
+   "title": "Directiva 92/91/CEE a Consiliului din 3 noiembrie 1992 privind cerințele minime de îmbunătățire a protecției securității și sănătății lucrătorilor din industria extractivă de foraj [a unsprezecea directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0091",
+   "versions": [
+    {
+     "from": "1992-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7fd02e7c-5e6c-4840-a975-75af08d50a96.0022.03/DOC_10",
+     "sha256": "0b508f23cd658e9eee2ea83aaa423265d8788a75ec0a645203c9aa374b4e0049"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-97-1992",
+   "path": "ue/directiva/1992/97",
+   "short": "Directiva 92/97/CE",
+   "title": "Directiva 92/97/CEE a Consiliului din 10 noiembrie 1992 de modificare a Directivei 70/157/CEE privind apropierea legislațiilor statelor membre referitoare la nivelul sonor admis și la sistemul de evacuare al autovehiculelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0097",
+   "versions": [
+    {
+     "from": "1992-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/440d0c44-3c0b-492f-aeca-820ca3d1f0ea.0022.03/DOC_67",
+     "sha256": "df851a24fec654f6449e5b05d54d23287bc0f7c4f12dd5035932b02d6993ffbe"
     }
    ]
   }

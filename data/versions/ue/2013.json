@@ -93,6 +93,66 @@
    ]
   },
   {
+   "slug": "ue-directiva-16-2013",
+   "path": "ue/directiva/2013/16",
+   "short": "Directiva 2013/16/UE",
+   "title": "Directiva 2013/16/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul achizițiilor publice, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0016",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/abad2da6-d1c2-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ca67436f5f1bd4b9e75c07474a837467ffcbb6106871526ec85d0834384211fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-17-2013",
+   "path": "ue/directiva/2013/17",
+   "short": "Directiva 2013/17/UE",
+   "title": "Directiva 2013/17/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul mediului, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0017",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/162d6e18-d1c3-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "158627d9ffebb0d2cfccb88568cf5f1fd53bacf82c5234beb794ad1713648faf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-19-2013",
+   "path": "ue/directiva/2013/19",
+   "short": "Directiva 2013/19/UE",
+   "title": "Directiva 2013/19/UE a Consiliului din 13 mai 2013 de adaptare a Directivei 94/80/CE de stabilire a normelor de exercitare a dreptului de a alege și de a fi ales la alegerile locale pentru cetățenii Uniunii care au reședința într-un stat membru a cărui cetățenie nu o dețin, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0019",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fbb754fc-d1c3-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "47ff49cf9e3363dafa1be01d9bb812f22447557cc98ab8a35444ef07e68c6dd6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-20-2013",
+   "path": "ue/directiva/2013/20",
+   "short": "Directiva 2013/20/UE",
+   "title": "Directiva 2013/20/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul siguranței alimentare și al politicii veterinare și fitosanitare, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0020",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6a380f0e-d1c4-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6a7964b68554fccc2eb59d3fd6c4b989bf5c25d80df0e90566483813205b465a"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-22-2013",
    "path": "ue/directiva/2013/22",
    "short": "Directiva 2013/22/UE",
@@ -104,6 +164,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/014c8d82-d1c6-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "b3e2772c7751bc1b4c262c8b66330426eeba987ec463d53da2bdffbf8a408e05"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-23-2013",
+   "path": "ue/directiva/2013/23",
+   "short": "Directiva 2013/23/UE",
+   "title": "Directiva 2013/23/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul serviciilor financiare, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0023",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65fe9934-d1c6-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9aebb09f7191aaff4f6c580c8b5ee74d3b54d07b264b8c7b47ee966b9d9ec764"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-24-2013",
+   "path": "ue/directiva/2013/24",
+   "short": "Directiva 2013/24/UE",
+   "title": "Directiva 2013/24/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul dreptului societăților comerciale, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0024",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d572db06-d1c6-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c7d3f64a3c77d51606c4f8e54772b84058df013c1599be387553a52627947fd7"
     }
    ]
   },
@@ -164,6 +254,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/31df3ef0-dff2-11e2-9165-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "4dd880ba906dd6dc127e656738d8adac61eba9f98ca426a095a2d241555da7a8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-34-2013",
+   "path": "ue/directiva/2013/34",
+   "short": "Directiva 2013/34/UE",
+   "title": "Directiva 2013/34/UE a Parlamentului European și a Consiliului din 26 iunie 2013 privind situațiile financiare anuale, situațiile financiare consolidate și rapoartele conexe ale anumitor tipuri de întreprinderi, de modificare a Directivei 2006/43/CE a Parlamentului European și a Consiliului și de abrogare a Directivelor 78/660/CEE și 83/349/CEE ale Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0034",
+   "versions": [
+    {
+     "from": "2013-07-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aef88894-e08d-11e2-9165-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "80eab44050e39d9a96c313b49e1f88f1463e3bc35c5b2c67b2b325ce08bfc7ab"
     }
    ]
   },
@@ -318,6 +423,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-54-2013",
+   "path": "ue/directiva/2013/54",
+   "short": "Directiva 2013/54/UE",
+   "title": "Directiva 2013/54/UE a Parlamentului European și a Consiliului din 20 noiembrie 2013 privind anumite responsabilități ale statului de pavilion referitoare la respectarea și asigurarea aplicării Convenției din 2006 privind munca în domeniul maritim Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0054",
+   "versions": [
+    {
+     "from": "2013-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9cf71069-6172-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ad4182db0d1f48561f9ca6d27a9bee18d84ad7ee0a1cab6c336d2a58ff12f319"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-55-2013",
    "path": "ue/directiva/2013/55",
    "short": "Directiva 2013/55/UE",
@@ -333,6 +453,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-58-2013",
+   "path": "ue/directiva/2013/58",
+   "short": "Directiva 2013/58/UE",
+   "title": "Directiva 2013/58/UE a Parlamentului European și a Consiliului din 11 decembrie 2013 de modificare a Directivei 2009/138/CE (Solvabilitate II) în ceea ce privește data pentru transpunerea acesteia și data de aplicare a acesteia, precum și data de abrogare a anumitor directive (Solvabilitate I) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0058",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/042592a8-67cb-11e3-a7e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "51df5c3b636a60aca04084e2c8930d355a038f69b84da97e43b77cd65b0e2e5b"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-59-2013",
    "path": "ue/directiva/2013/59",
    "short": "Directiva 2013/59/Euratom",
@@ -344,6 +479,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/65527fd1-7f55-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "480575748ee6d0385503a08fb3a450a7d3c3e2ca1e086b1b791508fac17206ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-61-2013",
+   "path": "ue/directiva/2013/61",
+   "short": "Directiva 2013/61/UE",
+   "title": "Directiva 2013/61/UE a Consiliului din 17 decembrie 2013 de modificare a Directivelor 2006/112/CE și 2008/118/CE în ceea ce privește regiunile ultraperiferice franceze și în special Mayotte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0061",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8761c01c-6f94-11e3-b589-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "df872ce45b48b2434fd99233e05457ead0e5a248e3b6d35f17d96352fba0c34d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-64-2013",
+   "path": "ue/directiva/2013/64",
+   "short": "Directiva 2013/64/UE",
+   "title": "Directiva 2013/64/UE a Consiliului din 17 decembrie 2013 de modificare a Directivelor 91/271/CEE și 1999/74/CE ale Consiliului și a Directivelor 2000/60/CE, 2006/7/CE, 2006/25/CE și 2011/24/UE ale Parlamentului European și ale Consiliului, ca urmare a schimbării statutului Mayotte în raport cu Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0064",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/341c4724-6f97-11e3-b589-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7846cc249072befea1996563775f2fb14d4ab54fa0f18c4a3472d6e84cce9bb8"
     }
    ]
   }
