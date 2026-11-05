@@ -10117,6 +10117,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18280"
 },
 {
+"slug": "legea-84-1999",
+"path": "lege/1999/84",
+"kind": "lege",
+"year": "1999",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 84/1999 privind respingerea Ordonanţei Guvernului nr. 7/1999 pentru ratificarea Acordului de împrumut dintre România şi Banca Europeană de Investiţii şi Administraţia Naţionala a Drumurilor (A.N.D.) pentru finanţarea Proiectului de reabilitare a drumurilor, etapa a III-a, semnat la Luxemburg la 21 iulie 1998 şi la Bucureşti la 24 iulie 1998",
+"short": "Legea nr. 84/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-06-01",
+"latest": "1999-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18282"
+},
+{
 "slug": "legea-86-1999",
 "path": "lege/1999/86",
 "kind": "lege",
@@ -10183,6 +10200,23 @@
 "from": "1999-06-01",
 "latest": "1999-06-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18303"
+},
+{
+"slug": "legea-91-1999",
+"path": "lege/1999/91",
+"kind": "lege",
+"year": "1999",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 91/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 57/1998 privind acordarea de către stat, prin intermediul Ministerului Finanţelor, de garanţii pentru emisiuni de obligaţiuni pe pieţele financiare externe",
+"short": "Legea nr. 91/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-06-01",
+"latest": "1999-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18307"
 },
 {
 "slug": "legea-97-1999",
@@ -143446,6 +143480,23 @@
 "from": "1999-05-21",
 "latest": "1999-05-21",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18231"
+},
+{
+"slug": "oug-69-1999",
+"path": "oug/1999/69",
+"kind": "oug",
+"year": "1999",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 69/1999 privind scutirea de la plata taxelor vamale, a suprataxei vamale şi a taxei pe valoarea adăugată a unor bunuri provenite din import",
+"short": "OUG nr. 69/1999",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-05-25",
+"latest": "1999-05-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18234"
 },
 {
 "slug": "oug-72-1999",

@@ -193670,6 +193670,21 @@
    ]
   },
   {
+   "slug": "legea-84-1999",
+   "path": "lege/1999/84",
+   "short": "Legea nr. 84/1999",
+   "title": "Legea nr. 84/1999 privind respingerea Ordonanţei Guvernului nr. 7/1999 pentru ratificarea Acordului de împrumut dintre România şi Banca Europeană de Investiţii şi Administraţia Naţionala a Drumurilor (A.N.D.) pentru finanţarea Proiectului de reabilitare a drumurilor, etapa a III-a, semnat la Luxemburg la 21 iulie 1998 şi la Bucureşti la 24 iulie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18282",
+   "versions": [
+    {
+     "from": "1999-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18282",
+     "sha256": "c3ea22a2956569e6e55bfd5f86e5b33fedf323834fd261aa682247eaf55aad8f"
+    }
+   ]
+  },
+  {
    "slug": "legea-84-2000",
    "path": "lege/2000/84",
    "short": "Legea nr. 84/2000",
@@ -196393,6 +196408,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11564",
      "sha256": "6935afba2229dd494e30991be5a1b454ea93fb148da2b0e8a6b168c0032c7cee"
+    }
+   ]
+  },
+  {
+   "slug": "legea-91-1999",
+   "path": "lege/1999/91",
+   "short": "Legea nr. 91/1999",
+   "title": "Legea nr. 91/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 57/1998 privind acordarea de către stat, prin intermediul Ministerului Finanţelor, de garanţii pentru emisiuni de obligaţiuni pe pieţele financiare externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18307",
+   "versions": [
+    {
+     "from": "1999-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18307",
+     "sha256": "515a6e320f56ca9ac6ee951aa12ecd85b43310e6c6d805510eb8ffd5d6afa0a8"
     }
    ]
   },
@@ -246409,6 +246439,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11443",
      "sha256": "67d31bec0db1990c9d6ab709d84559bf578b15fa090998f005df7943ad9386ac"
+    }
+   ]
+  },
+  {
+   "slug": "oug-69-1999",
+   "path": "oug/1999/69",
+   "short": "OUG nr. 69/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 69/1999 privind scutirea de la plata taxelor vamale, a suprataxei vamale şi a taxei pe valoarea adăugată a unor bunuri provenite din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18234",
+   "versions": [
+    {
+     "from": "1999-05-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18234",
+     "sha256": "b63a423efd64036b883037561bff2eded806887d477d5c82ac69f43f3186f663"
     }
    ]
   },

@@ -1437,6 +1437,111 @@
    ]
   },
   {
+   "slug": "hg-384-1999",
+   "path": "hg/1999/384",
+   "short": "HG nr. 384/1999",
+   "title": "Hotărârea Guvernului nr. 384/1999 pentru stabilirea tarifului mediu pentru energia electrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18211",
+   "versions": [
+    {
+     "from": "1999-05-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18211",
+     "sha256": "09340ab464e8c7f34fa3c83808371f6d9ab6e2dbf6a92b004c0e93ad83729464"
+    }
+   ]
+  },
+  {
+   "slug": "hg-386-1999",
+   "path": "hg/1999/386",
+   "short": "HG nr. 386/1999",
+   "title": "Hotărârea Guvernului nr. 386/1999 pentru modificarea alin. (1) al art. 1 din Hotărârea Guvernului nr. 239/1997 privind stabilirea nivelului maxim al preţului la care energia termica poate fi livrata populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18212",
+   "versions": [
+    {
+     "from": "1999-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18212",
+     "sha256": "6609a11dbb08590e355d4f020897eda5237b264bf645ca4de94c60a25ffa4f66"
+    }
+   ]
+  },
+  {
+   "slug": "hg-388-1999",
+   "path": "hg/1999/388",
+   "short": "HG nr. 388/1999",
+   "title": "Hotărârea Guvernului nr. 388/1999 pentru modificarea Hotărârii Guvernului nr. 843/1991 privind înfiinţarea, organizarea şi funcţionarea Comisiei Naţionale pentru Indexare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18219",
+   "versions": [
+    {
+     "from": "1999-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18219",
+     "sha256": "33105e21337a8b970c627ab40d1a864b06210104b79c842efc5a5b9fccd73f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-389-1999",
+   "path": "hg/1999/389",
+   "short": "HG nr. 389/1999",
+   "title": "Hotărârea Guvernului nr. 389/1999 pentru aprobarea Normelor metodologice privind modul de acordare a primei de 200 lei/kg la cumpărarea graului din recolta anului 1998 pentru panificaţie, destinat consumului intern, acordată producătorilor agricoli prin societăţile comerciale de morărit şi/sau de panificaţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18243",
+   "versions": [
+    {
+     "from": "1999-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18243",
+     "sha256": "eda0f55d104619304081decf2d322cf48f03175531ebdd7d418a4363189f5905"
+    }
+   ]
+  },
+  {
+   "slug": "hg-390-1999",
+   "path": "hg/1999/390",
+   "short": "HG nr. 390/1999",
+   "title": "Hotărârea Guvernului nr. 390/1999 privind aprobarea criteriilor de stabilire a salariilor de baza între limite şi a normelor de evaluare a performantelor profesionale individuale pentru diplomaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18256",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18256",
+     "sha256": "f10b038c1d85322dcf7b683caaa1575b94b588dc89cb1257cc0360b9a4763ee4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-391-1999",
+   "path": "hg/1999/391",
+   "short": "HG nr. 391/1999",
+   "title": "Hotărârea Guvernului nr. 391/1999 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18257",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18257",
+     "sha256": "03830dcaa5b83b019d08f45a9adb26338bcaccedd00cbcf5180986c3745bc9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-394-1999",
+   "path": "hg/1999/394",
+   "short": "HG nr. 394/1999",
+   "title": "Hotărârea Guvernului nr. 394/1999 pentru modificarea anexei la Hotărârea Guvernului nr. 274/1999 privind trecerea unor instituţii publice de cultura din subordinea Ministerului Culturii sub autoritatea Consiliului General al Municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18258",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18258",
+     "sha256": "8d23d02bb315f8418220c77b9a7d1f9f3d6687b9f93cdfd44796457a92e3d911"
+    }
+   ]
+  },
+  {
    "slug": "hg-395-1999",
    "path": "hg/1999/395",
    "short": "HG nr. 395/1999",
@@ -1448,6 +1553,171 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18259",
      "sha256": "991f4124047a10b426933ae375bf59c4a5ec925c818016174dcfd5cf4dc4208c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-396-1999",
+   "path": "hg/1999/396",
+   "short": "HG nr. 396/1999",
+   "title": "Hotărârea Guvernului nr. 396/1999 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 1999 al Regiei Autonome \"Multiproduct\", aflată sub autoritatea Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18260",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18260",
+     "sha256": "ab268f8a6eb8041cf1f622dd53bf0387645b4efc6d942324f24a94bd1576d642"
+    }
+   ]
+  },
+  {
+   "slug": "hg-397-1999",
+   "path": "hg/1999/397",
+   "short": "HG nr. 397/1999",
+   "title": "Hotărârea Guvernului nr. 397/1999 privind stabilirea datei pentru alegerea primarului comunei Mogoşani, judeţul Dâmboviţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18239",
+   "versions": [
+    {
+     "from": "1999-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18239",
+     "sha256": "6fb9360d185d5dae80808bfb47f41953a4a790da88a5c87f7adcd64291662026"
+    }
+   ]
+  },
+  {
+   "slug": "hg-398-1999",
+   "path": "hg/1999/398",
+   "short": "HG nr. 398/1999",
+   "title": "Hotărârea Guvernului nr. 398/1999 privind stabilirea datei pentru alegerea Consiliului local în Circumscripţia electorală Greci, judeţul Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18240",
+   "versions": [
+    {
+     "from": "1999-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18240",
+     "sha256": "8645fdb43eabbf43d7fd8d5d5f7d14326c26d1fd6ca8c6f354d37d0b1d978491"
+    }
+   ]
+  },
+  {
+   "slug": "hg-399-1999",
+   "path": "hg/1999/399",
+   "short": "HG nr. 399/1999",
+   "title": "Hotărârea Guvernului nr. 399/1999 privind stabilirea datei pentru alegerea primarului comunei Fildu de Jos, judeţul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18241",
+   "versions": [
+    {
+     "from": "1999-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18241",
+     "sha256": "b2d511504fe28b4576d1356dd1f63e3602025de6349d47202a2556bfcd87c65b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-400-1999",
+   "path": "hg/1999/400",
+   "short": "HG nr. 400/1999",
+   "title": "Hotărârea Guvernului nr. 400/1999 privind plata contribuţiei României pe anul 1999 la Fondul European pentru Tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18261",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18261",
+     "sha256": "c6535263c78bb9b924d6024832a779c58c817b90e92d03f29ffa0ef66a453e72"
+    }
+   ]
+  },
+  {
+   "slug": "hg-401-1999",
+   "path": "hg/1999/401",
+   "short": "HG nr. 401/1999",
+   "title": "Hotărârea Guvernului nr. 401/1999 privind alocarea unei sume de la bugetul de stat pe anul 1999 pentru refacerea reţelei de alimentare cu apa a comunei Năeni, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18270",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18270",
+     "sha256": "f4cd3d7e24c5ab7579dc1c7c1d8c0ab212829374489ec7bd7a2c913b2b2ba852"
+    }
+   ]
+  },
+  {
+   "slug": "hg-402-1999",
+   "path": "hg/1999/402",
+   "short": "HG nr. 402/1999",
+   "title": "Hotărârea Guvernului nr. 402/1999 privind alocarea unei sume de la bugetul de stat pe anul 1999 pentru refacerea şi consolidarea unor drumuri comunale de pe teritoriul comunei Năeni, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18271",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18271",
+     "sha256": "bbce30edd3a64e0ba32c4e21eabcf10baae69ba2614d991d5ac41a4c381814f6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-403-1999",
+   "path": "hg/1999/403",
+   "short": "HG nr. 403/1999",
+   "title": "Hotărârea Guvernului nr. 403/1999 privind plata contribuţiei României pe anul 1999 la programele Comunităţii Europene \"Leonardo da Vinci\" şi \"Socrates\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18272",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18272",
+     "sha256": "9c415dd2bcbf9b7a896955a9167adea3be5825a0dfa17bf35cc8782dc79fded3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-404-1999",
+   "path": "hg/1999/404",
+   "short": "HG nr. 404/1999",
+   "title": "Hotărârea Guvernului nr. 404/1999 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 1999 al Regiei Autonome \"Rasirom\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18274",
+   "versions": [
+    {
+     "from": "1999-05-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18274",
+     "sha256": "5f77dcdd0b1b56afd92709a0648f2a37bd6ed46dc44bb7d1d969fb8f99a02290"
+    }
+   ]
+  },
+  {
+   "slug": "hg-405-1999",
+   "path": "hg/1999/405",
+   "short": "HG nr. 405/1999",
+   "title": "Hotărârea Guvernului nr. 405/1999 privind transmiterea unui teren din domeniul public al statului, din administrarea Consiliului Local al Municipiului Oradea, judeţul Bihor, în administrarea Ministerului Apelor, Pădurilor şi Protecţiei Mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18275",
+   "versions": [
+    {
+     "from": "1999-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18275",
+     "sha256": "414f0ec7a23f6c4145bb85b1af9313bbee5ab5102c75c0d13ba4a1d5d40abc3c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-407-1999",
+   "path": "hg/1999/407",
+   "short": "HG nr. 407/1999",
+   "title": "Hotărârea Guvernului nr. 407/1999 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18318",
+   "versions": [
+    {
+     "from": "1999-05-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18318",
+     "sha256": "07955f0342d5c358130abe54e3edf0bc12a594ecef352f663edcf68fa1b67a17"
     }
    ]
   },
@@ -1469,6 +1739,126 @@
      "units": 8,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/18349",
      "sha256": "4a27e81c1ed472df7cb8c9e060470a6e459846f42f69332da7edfd0894d1e41a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-409-1999",
+   "path": "hg/1999/409",
+   "short": "HG nr. 409/1999",
+   "title": "Hotărârea Guvernului nr. 409/1999 privind înfiinţarea Institutului Naţional de Cercetare-Dezvoltare \"Delta Dunării\" - I.N.C.D.D.D. Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18385",
+   "versions": [
+    {
+     "from": "1999-06-04",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18385",
+     "sha256": "add23a6fcbbcd01115318ed43df4bf4f155fbe9230470f85863ef1ec594b09ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-410-1999",
+   "path": "hg/1999/410",
+   "short": "HG nr. 410/1999",
+   "title": "Hotărârea Guvernului nr. 410/1999 pentru abrogarea Hotărârii Guvernului nr. 574/1998 privind înfiinţarea unei comisii interdisciplinare pentru evaluarea unui sistem de monitorizare, teledetecţie şi comunicaţii de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18276",
+   "versions": [
+    {
+     "from": "1999-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18276",
+     "sha256": "7d22ce6aa70e1b150689650bd459ecb63f182d13efe7b90563c995d77ed24f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-411-1999",
+   "path": "hg/1999/411",
+   "short": "HG nr. 411/1999",
+   "title": "Hotărârea Guvernului nr. 411/1999 privind deschiderea temporară, în anul 1999, a unor puncte de control pentru trecerea frontierei în judeţul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18273",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18273",
+     "sha256": "2ccec12b19a120d7ff4388971c3fe358ac50d9ba6d61dcf6568fa28a0c219d51"
+    }
+   ]
+  },
+  {
+   "slug": "hg-412-1999",
+   "path": "hg/1999/412",
+   "short": "HG nr. 412/1999",
+   "title": "Hotărârea Guvernului nr. 412/1999 privind alocarea unei sume din bugetul de stat pe anul 1999 ca ajutor financiar acordat populaţiei din unele judeţe afectate de calamitaţi naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18293",
+   "versions": [
+    {
+     "from": "1999-06-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18293",
+     "sha256": "a5c5a0d5e5fb6dd04a433957d0f1625b36ea99e5a16d5a2bb9cba3eb48d5a512"
+    }
+   ]
+  },
+  {
+   "slug": "hg-414-1999",
+   "path": "hg/1999/414",
+   "short": "HG nr. 414/1999",
+   "title": "Hotărârea Guvernului nr. 414/1999 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"CET Brăila - Reabilitarea grupului nr. 1 de 210 MW\", judeţul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18295",
+   "versions": [
+    {
+     "from": "1999-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18295",
+     "sha256": "fb8488869abe9d99d16b9efd5dda9e7627c33aadf77d122656a24be3389beefb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-415-1999",
+   "path": "hg/1999/415",
+   "short": "HG nr. 415/1999",
+   "title": "Hotărârea Guvernului nr. 415/1999 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"CTE Işalniţa - Reabilitarea grupului nr. 7 de 315 MW\", judeţul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18296",
+   "versions": [
+    {
+     "from": "1999-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18296",
+     "sha256": "3ea61b29fb1f4f0e15b08867c32f200c5b983b5047615736e9cb3bb5b2e8bdf5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-416-1999",
+   "path": "hg/1999/416",
+   "short": "HG nr. 416/1999",
+   "title": "Hotărârea Guvernului nr. 416/1999 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"CET Bucureşti Sud - Reabilitarea grupurilor nr. 3 şi 4 de 100 MW\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18297",
+   "versions": [
+    {
+     "from": "1999-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18297",
+     "sha256": "aa711d1a6648b130015bc4aa86f7c77e10dceca154643de9d4bad24c4788cecf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-417-1999",
+   "path": "hg/1999/417",
+   "short": "HG nr. 417/1999",
+   "title": "Hotărârea Guvernului nr. 417/1999 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"CET Palas Constanţa - Reabilitarea grupurilor nr. 1 şi 2 de 50 MW\", judeţul Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18298",
+   "versions": [
+    {
+     "from": "1999-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18298",
+     "sha256": "40cc64215f43aba2e1af150882d9e0f6cdc66917c24c9c86ddf8637447ff30c2"
     }
    ]
   },
