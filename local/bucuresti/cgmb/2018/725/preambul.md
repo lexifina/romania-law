@@ -1,0 +1,6 @@
+Având în vedere expunerea de motive a Primarului General al Municipiului București și raportul de specialitate comun al Direcției Transporturi nr. 17750/09.10.2018 și al Autorității Municipale de Reglementare a Serviciilor Publice:
+Văzând raportul Comisiei juridice și de disciplină nr. 723/17.10.2018 din cadrul Consiliului General al Municipiului București;
+În conformitate cu prevederile: l- Ordonanței Guvernului nr. 71/2002 privind organizarea serviciilor publice de administrare a domeniului public și privat de interes local, cu modificările și completările ulterioare:
+- Hotărârii Consiliului General al Municipiului București nr. 455/2018, privind aprobarea Metodologiei de fundamentare și aprobare a nivelului prețurilor/tarifelor ce va fi aplicată de către Autoritatea Municipală de Reglementare a Serviciilor Publice, pentru serviciile publice de administrare a domeniului public și privat de interes local aflate în sfera de competentă a Consiliului General al Municipiului București;
+În temeiul prevederilor art. 36 alin. (2) lit. d), alin. (6), lit. (a) pct. 14 și art. 45 alin. (2) din Legea nr. 215/2001 privind administrația publicată, cu modificările și completările ulterioare;
+CONSILIUL GENERAL AL MUNICIPIULUI BUCUREȘTI HOTARASTE:
