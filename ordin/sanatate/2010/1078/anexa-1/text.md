@@ -1,2 +1,0 @@
-# Anexa 1
-REGULAMENT 27/07/2010
