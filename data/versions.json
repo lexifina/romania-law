@@ -106562,6 +106562,21 @@
    ]
   },
   {
+   "slug": "legea-169-1999",
+   "path": "lege/1999/169",
+   "short": "Legea nr. 169/1999",
+   "title": "Legea nr. 169/1999 pentru ratificarea Acordului comercial dintre Guvernul României şi Guvernul Republicii Populare Bangladesh, semnat la Bucureşti la 15 septembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20085",
+   "versions": [
+    {
+     "from": "1999-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20085",
+     "sha256": "52929486d3cb8ec0b667d3f56abea83da3eb4ce38187af26f09be17e8b22ddc5"
+    }
+   ]
+  },
+  {
    "slug": "legea-169-2000",
    "path": "lege/2000/169",
    "short": "Legea nr. 169/2000",
@@ -107473,6 +107488,21 @@
      "units": 8,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/11916",
      "sha256": "cbd5601c26f6dc5c63cc6ae44d1c9d687f4a5cbbae0bc47fb01a32a67cb2a088"
+    }
+   ]
+  },
+  {
+   "slug": "legea-171-1999",
+   "path": "lege/1999/171",
+   "short": "Legea nr. 171/1999",
+   "title": "Legea nr. 171/1999 privind dreptul senatelor universitare de a stabili cuantumul taxelor pentru susţinerea examenelor de finalizare a studiilor de către absolvenţii învăţământului superior particular",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20075",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20075",
+     "sha256": "ad296e36595f27701ebaefce46415be722c6419605745877445536bfdcea4813"
     }
    ]
   },
@@ -108503,6 +108533,21 @@
    ]
   },
   {
+   "slug": "legea-174-1999",
+   "path": "lege/1999/174",
+   "short": "Legea nr. 174/1999",
+   "title": "Legea nr. 174/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Danemarcei privind serviciile aeriene şi a Memorandumului de înţelegere dintre Guvernul României şi Guvernul Regatului Danemarcei asupra cooperării dintre ţările scandinave cu privire la Scandinavian Airlines System (SAS), semnate la Oslo la 26 octombrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20159",
+   "versions": [
+    {
+     "from": "1999-12-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20159",
+     "sha256": "9c14ce26fb678b9c9809f1eec8a9e5cb344ee171d3457cec548fd35285983cfa"
+    }
+   ]
+  },
+  {
    "slug": "legea-174-2000",
    "path": "lege/2000/174",
    "short": "Legea nr. 174/2000",
@@ -108836,6 +108881,21 @@
    ]
   },
   {
+   "slug": "legea-175-1999",
+   "path": "lege/1999/175",
+   "short": "Legea nr. 175/1999",
+   "title": "Legea nr. 175/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Suediei privind serviciile aeriene şi a Memorandumului de înţelegere dintre Guvernul României şi Guvernul Regatului Suediei asupra cooperării dintre ţările scandinave cu privire la Scandinavian Airlines System (SAS), semnate la Oslo la 26 octombrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20147",
+   "versions": [
+    {
+     "from": "1999-12-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20147",
+     "sha256": "dac5ca5a4f233123256c0117a0e75abf13b14941cfbaf5433c6016733e95bca6"
+    }
+   ]
+  },
+  {
    "slug": "legea-175-2000",
    "path": "lege/2000/175",
    "short": "Legea nr. 175/2000",
@@ -109132,6 +109192,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15876",
      "sha256": "cfc7c271ed23188b06f48d1eb0de443d3ee45f5bdfddf956705b15ebb559bbde"
+    }
+   ]
+  },
+  {
+   "slug": "legea-176-1999",
+   "path": "lege/1999/176",
+   "short": "Legea nr. 176/1999",
+   "title": "Legea nr. 176/1999 pentru ratificarea Acordului comercial dintre Guvernul României şi Guvernul Statelor Unite Mexicane, semnat la Ciudad de Mexico la 3 septembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20088",
+   "versions": [
+    {
+     "from": "1999-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20088",
+     "sha256": "e630d038c57e82967761123e222ed7904f0564dba6d8ce99a7a4dbbec0325410"
     }
    ]
   },
