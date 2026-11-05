@@ -193595,6 +193595,21 @@
    ]
   },
   {
+   "slug": "legea-81-1998",
+   "path": "lege/1998/81",
+   "short": "Legea nr. 81/1998",
+   "title": "Legea nr. 81/1998 pentru aprobarea Ordonanţei Guvernului nr. 34/1997 privind completarea şi modificarea unor reglementări referitoare la taxa pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14308",
+   "versions": [
+    {
+     "from": "1998-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14308",
+     "sha256": "7ef005502036df3b7f2478ad72a290e14f259b626588ed43be9e981813be9350"
+    }
+   ]
+  },
+  {
    "slug": "legea-81-2000",
    "path": "lege/2000/81",
    "short": "Legea nr. 81/2000",
@@ -194971,6 +194986,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11528",
      "sha256": "83f56eb4150ee1044563e36c12738401613766b63e12511951c99ae6580115a4"
+    }
+   ]
+  },
+  {
+   "slug": "legea-85-1998",
+   "path": "lege/1998/85",
+   "short": "Legea nr. 85/1998",
+   "title": "Legea nr. 85/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 76/1997 privind majorarea salariilor de baza pentru unele categorii de personal din învăţământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14544",
+   "versions": [
+    {
+     "from": "1998-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14544",
+     "sha256": "b9858eaec9e22e47d56d11763232b9197d4d1015f5e98c47e762e1ce73ac5697"
     }
    ]
   },
@@ -197387,6 +197417,21 @@
    ]
   },
   {
+   "slug": "legea-91-1998",
+   "path": "lege/1998/91",
+   "short": "Legea nr. 91/1998",
+   "title": "Legea nr. 91/1998 pentru aprobarea Ordonanţei Guvernului nr. 10/1997 privind acordarea unor drepturi sociale suplimentare elevilor şi studenţilor din învăţământul de stat, cursuri de zi, în anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14624",
+   "versions": [
+    {
+     "from": "1998-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14624",
+     "sha256": "7364fb650d415eaec2141b0ba4ce86f4537dac362bf3ee3928b3c1d7dbc857c2"
+    }
+   ]
+  },
+  {
    "slug": "legea-91-1999",
    "path": "lege/1999/91",
    "short": "Legea nr. 91/1999",
@@ -197749,6 +197794,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311291",
      "sha256": "a3eb9d37a5456c0d3c4b4b6fcb94009145f0e6de18333ff753f3bf69f8a7cf84"
+    }
+   ]
+  },
+  {
+   "slug": "legea-92-1998",
+   "path": "lege/1998/92",
+   "short": "Legea nr. 92/1998",
+   "title": "Legea nr. 92/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/1998 privind majorarea salariilor personalului din unele instituţii publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14606",
+   "versions": [
+    {
+     "from": "1998-04-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14606",
+     "sha256": "1e0b73b8b3a4e9a63474744ae09b7f4de462c1cdafd65f8b92fa6ccd9e85a735"
     }
    ]
   },

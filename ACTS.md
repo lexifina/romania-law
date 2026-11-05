@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12535 acts, 24,050 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12539 acts, 24,054 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8412, of which 3173 amending acts)
+## Laws (legi) (8416, of which 3177 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -517,11 +517,15 @@
 | Legea nr. 72/1998 privind aprobarea Ordonanţei Guvernului nr. 67/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 20/1994 privind punerea în siguranţa a fondului construit existent | [`lege/1998/72/`](lege/1998/72/) | amended, not consolidated | 1 | 1998-04-08 | 1998-04-08 |
 | Legea nr. 78/1998 pentru aderarea României la Convenţia pentru protejarea producătorilor de fonograme împotriva reproducerii neautorizate a fonogramelor lor, adoptată la Geneva la 29 octombrie 1971 | [`lege/1998/78/`](lege/1998/78/) | amended, not consolidated | 1 | 1998-04-17 | 1998-04-17 |
 | Legea nr. 80/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 73/1997 privind asigurarea şi creditarea stocurilor de aprovizionare pentru perioada de toamna-iarna, destinate localităţilor izolate din Delta Dunării | [`lege/1998/80/`](lege/1998/80/) | amended, not consolidated | 1 | 1998-04-15 | 1998-04-15 |
+| Legea nr. 81/1998 pentru aprobarea Ordonanţei Guvernului nr. 34/1997 privind completarea şi modificarea unor reglementări referitoare la taxa pe valoarea adăugată | [`lege/1998/81/`](lege/1998/81/) | amending act | 1 | 1998-04-15 | 1998-04-15 |
 | Legea nr. 84/1998 privind mărcile și indicațiile geografice | [`lege/1998/84/`](lege/1998/84/) | in force | 12 | 2005-12-28 | 2024-03-07 |
+| Legea nr. 85/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 76/1997 privind majorarea salariilor de baza pentru unele categorii de personal din învăţământ | [`lege/1998/85/`](lege/1998/85/) | amending act | 1 | 1998-04-27 | 1998-04-27 |
 | Legea nr. 86/1998 privind acordarea unui sprijin material pentru soţul supravieţuitor şi pentru urmaşii membrilor Academiei Române | [`lege/1998/86/`](lege/1998/86/) | amended, not consolidated | 1 | 1998-04-27 | 1998-04-27 |
 | Legea nr. 87/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 25/1997 cu privire la adopţie | [`lege/1998/87/`](lege/1998/87/) | amended, not consolidated | 1 | 1998-04-29 | 1998-04-29 |
 | Legea nr. 89/1998 a apiculturii | [`lege/1998/89/`](lege/1998/89/) | amended, not consolidated | 1 | 1998-04-30 | 1998-04-30 |
 | Legea nr. 90/1998 pentru aprobarea Ordonanţei Guvernului nr. 51/1997 privind operaţiunile de leasing şi societăţile de leasing | [`lege/1998/90/`](lege/1998/90/) | amended, not consolidated | 1 | 1998-04-30 | 1998-04-30 |
+| Legea nr. 91/1998 pentru aprobarea Ordonanţei Guvernului nr. 10/1997 privind acordarea unor drepturi sociale suplimentare elevilor şi studenţilor din învăţământul de stat, cursuri de zi, în anul 1997 | [`lege/1998/91/`](lege/1998/91/) | amending act | 1 | 1998-04-29 | 1998-04-29 |
+| Legea nr. 92/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/1998 privind majorarea salariilor personalului din unele instituţii publice | [`lege/1998/92/`](lege/1998/92/) | amending act | 1 | 1998-04-28 | 1998-04-28 |
 | Legea nr. 93/1998 privind protecţia tranzitorie a brevetelor de invenţie | [`lege/1998/93/`](lege/1998/93/) | amended, not consolidated | 1 | 1998-05-20 | 1998-05-20 |
 | Legea nr. 94/1998 privind afilierea Academiei Române la unele organizaţii internaţionale | [`lege/1998/94/`](lege/1998/94/) | amended, not consolidated | 1 | 1998-05-14 | 1998-05-14 |
 | Legea nr. 95/1998 pentru aprobarea Ordonanţei Guvernului nr. 8/1997 privind stimularea cercetării-dezvoltării şi inovării | [`lege/1998/95/`](lege/1998/95/) | amended, not consolidated | 1 | 1998-05-14 | 1998-05-14 |
@@ -12601,7 +12605,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28984 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29019 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

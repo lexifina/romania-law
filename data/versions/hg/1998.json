@@ -474,6 +474,111 @@
    ]
   },
   {
+   "slug": "hg-220-1998",
+   "path": "hg/1998/220",
+   "short": "HG nr. 220/1998",
+   "title": "Hotărârea Guvernului nr. 220/1998 pentru completarea Hotărârii Guvernului nr. 523/1997 privind asigurarea pazei obiectivelor, bunurilor şi valorilor cu efective de jandarmi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14495",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14495",
+     "sha256": "f12c7c0f02b1bb12787b30daf3076ecb6e39e22faebcf211337c298e3b8c3d90"
+    }
+   ]
+  },
+  {
+   "slug": "hg-221-1998",
+   "path": "hg/1998/221",
+   "short": "HG nr. 221/1998",
+   "title": "Hotărârea Guvernului nr. 221/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentare cu apa potabilă şi canalizare în comuna Popeşti-Leordeni, judeţul Ilfov\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14496",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14496",
+     "sha256": "aab0137079e65879029787fd530e9d00793ddc7ee08cac456992bea79fd1b31d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-222-1998",
+   "path": "hg/1998/222",
+   "short": "HG nr. 222/1998",
+   "title": "Hotărârea Guvernului nr. 222/1998 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14497",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14497",
+     "sha256": "98b7699064ffbb20419cac320579d0cb41291b24312ef9347d857cf289b7fa3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-224-1998",
+   "path": "hg/1998/224",
+   "short": "HG nr. 224/1998",
+   "title": "Hotărârea Guvernului nr. 224/1998 privind reducerea temporară a taxei vamale pentru importul de în meliţat sau bătut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14498",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14498",
+     "sha256": "616c6773f3dd3dcc5fa07c365a96ed192b071201fa62f9b8ff8dcb5e9562afe1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-225-1998",
+   "path": "hg/1998/225",
+   "short": "HG nr. 225/1998",
+   "title": "Hotărârea Guvernului nr. 225/1998 privind transmiterea unui imobil, proprietate publică a statului, situat în comuna Lieşti, judeţul Galaţi, în administrarea Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14499",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14499",
+     "sha256": "493becb446d2ea27a24c959a3fa2d26cbed877dac632ba6b9fc24c29733280a0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-226-1998",
+   "path": "hg/1998/226",
+   "short": "HG nr. 226/1998",
+   "title": "Hotărârea Guvernului nr. 226/1998 pentru completarea Hotărârii Guvernului nr. 37/1998 cu privire la importul de gaze naturale şi păcura, efectuat de Regia Autonomă de Electricitate \"Renel\" pentru anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14500",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14500",
+     "sha256": "da7fefa0da04dc974cd2f5d33feb3a3042ed5016527eb7704b3abcb94161e462"
+    }
+   ]
+  },
+  {
+   "slug": "hg-229-1998",
+   "path": "hg/1998/229",
+   "short": "HG nr. 229/1998",
+   "title": "Hotărârea Guvernului nr. 229/1998 privind suportarea din bugetul Secretariatului General al Guvernului a cheltuielilor aferente sărbătoririi a 150 de ani de la Revoluţia de la 1848",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14541",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14541",
+     "sha256": "0b780a6fa4652f213aca65f191e596ecfae2e66a50931bbd9111bc5bcc9368ee"
+    }
+   ]
+  },
+  {
    "slug": "hg-23-1998",
    "path": "hg/1998/23",
    "short": "HG nr. 23/1998",
@@ -485,6 +590,426 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14087",
      "sha256": "2391e9bc1de4bb9b71eb2b4c5f4d0ed0971e8e618be6554b1fcec3670d035175"
+    }
+   ]
+  },
+  {
+   "slug": "hg-230-1998",
+   "path": "hg/1998/230",
+   "short": "HG nr. 230/1998",
+   "title": "Hotărârea Guvernului nr. 230/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în satele Sarmizegetusa, Hobiţa-Grădişte, Breazova, Păucineşti şi Zeicani din comuna Sarmizegetusa, judeţul Hunedoara\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14542",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14542",
+     "sha256": "4c1246e3ad71faa0536294080eb224631d2f89221fb35a37881d24fa7549e039"
+    }
+   ]
+  },
+  {
+   "slug": "hg-231-1998",
+   "path": "hg/1998/231",
+   "short": "HG nr. 231/1998",
+   "title": "Hotărârea Guvernului nr. 231/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Optimizarea centralelor termice şi a distribuţiei energiei termice în municipiul Mediaş - cartierul Gura Câmpului, judeţul Sibiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14543",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14543",
+     "sha256": "c8da86e0379cd3261524736642c8b546bcacf8e0f7b91a98e44c0d367be9e351"
+    }
+   ]
+  },
+  {
+   "slug": "hg-232-1998",
+   "path": "hg/1998/232",
+   "short": "HG nr. 232/1998",
+   "title": "Hotărârea Guvernului nr. 232/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în oraşul Ineu, judeţul Arad\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14501",
+   "versions": [
+    {
+     "from": "1998-04-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14501",
+     "sha256": "5096873c94f6645fc5e8e5b57ed53b6f84fd60ba1a1623a7d0317d6f69238ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-233-1998",
+   "path": "hg/1998/233",
+   "short": "HG nr. 233/1998",
+   "title": "Hotărârea Guvernului nr. 233/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Extinderea şi modernizarea Căminului de bătrâni Răchitoasa, judeţul Bacău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14502",
+   "versions": [
+    {
+     "from": "1998-04-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14502",
+     "sha256": "866b3cbd7b8c46b89e4714233dc4352ddb232f2ab0a1ea13945c8198c91a4001"
+    }
+   ]
+  },
+  {
+   "slug": "hg-234-1998",
+   "path": "hg/1998/234",
+   "short": "HG nr. 234/1998",
+   "title": "Hotărârea Guvernului nr. 234/1998 privind acordarea de către Ministerul Apărării Naţionale a unor ajutoare umanitare populaţiei sinistrate din judeţele Buzău şi Vrancea, afectate de incendiile produse în luna aprilie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14597",
+   "versions": [
+    {
+     "from": "1998-04-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14597",
+     "sha256": "5327d0d489cd406a69c3b872b90bee905ff38226a2cbd374ed97a2c8392be4cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-235-1998",
+   "path": "hg/1998/235",
+   "short": "HG nr. 235/1998",
+   "title": "Hotărârea Guvernului nr. 235/1998 pentru extinderea prevederilor Hotărârii Guvernului nr. 521/1992 privind realizarea, administrarea şi repartizarea fondului de locuinţe pentru Ministerul Apărării Naţionale, Ministerul de Interne şi Serviciul Român de Informaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14503",
+   "versions": [
+    {
+     "from": "1998-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14503",
+     "sha256": "1b6893a2b1a27850683bd19c9db5bf0c3dc3b67d700fcc0e58c38080cabfeb00"
+    }
+   ]
+  },
+  {
+   "slug": "hg-236-1998",
+   "path": "hg/1998/236",
+   "short": "HG nr. 236/1998",
+   "title": "Hotărârea Guvernului nr. 236/1998 privind organizarea seminarului \"Securitatea în Europa de Sud-Est\" în perioada 27-28 aprilie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14504",
+   "versions": [
+    {
+     "from": "1998-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14504",
+     "sha256": "527c15621c9bab3632325ea45bc3ea6b3432d449cfd02d8ba908f4d6e0adec4f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-237-1998",
+   "path": "hg/1998/237",
+   "short": "HG nr. 237/1998",
+   "title": "Hotărârea Guvernului nr. 237/1998 privind reducerea temporară a taxelor vamale pentru unele produse provenite din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14505",
+   "versions": [
+    {
+     "from": "1998-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14505",
+     "sha256": "8d04e2c3adba541bab2c22360af8c33e7b88f8c04c210fab9fbfe0ce1e765e23"
+    }
+   ]
+  },
+  {
+   "slug": "hg-238-1998",
+   "path": "hg/1998/238",
+   "short": "HG nr. 238/1998",
+   "title": "Hotărârea Guvernului nr. 238/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"LEA 220 KV DC Cetate - Craiova Nord, judeţul Dolj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14506",
+   "versions": [
+    {
+     "from": "1998-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14506",
+     "sha256": "c6692afa0e8f710d1ed723c3cbf3b6f81812efb9ba7324fd81074dbab887df45"
+    }
+   ]
+  },
+  {
+   "slug": "hg-239-1998",
+   "path": "hg/1998/239",
+   "short": "HG nr. 239/1998",
+   "title": "Hotărârea Guvernului nr. 239/1998 privind transmiterea cu plată a activului \"Sectorul mecanic\", proprietate a Societăţii Comerciale \"Agroind Harghita\" - S.A., în proprietatea Episcopiei Ortodoxe a Covasnei şi Harghitei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14563",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14563",
+     "sha256": "52226d1f0c99c069bf678098939c3af54829280e792771d5bedb40e5da0ba1c0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-240-1998",
+   "path": "hg/1998/240",
+   "short": "HG nr. 240/1998",
+   "title": "Hotărârea Guvernului nr. 240/1998 privind acordarea unui ajutor de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14564",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14564",
+     "sha256": "df434ec3a4ee5212bd6016b321500b347c82b4f9cc484d44d27e1a54fb90d82d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-242-1998",
+   "path": "hg/1998/242",
+   "short": "HG nr. 242/1998",
+   "title": "Hotărârea Guvernului nr. 242/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitare reţele apa-canal în municipiul Sibiu, judeţul Sibiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14566",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14566",
+     "sha256": "876b40aa7e1d6cfa73ae13ad85b2e13ae68372060add95d30bf9749b3d5f972a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-243-1998",
+   "path": "hg/1998/243",
+   "short": "HG nr. 243/1998",
+   "title": "Hotărârea Guvernului nr. 243/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitarea reţelelor termice pentru locuinţe în comuna Mătăsari, judeţul Gorj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14567",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14567",
+     "sha256": "54e30f548270587677a80dc246de507f493e9102833d5377f74a5d9f7de26a12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-245-1998",
+   "path": "hg/1998/245",
+   "short": "HG nr. 245/1998",
+   "title": "Hotărârea Guvernului nr. 245/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Depozit deşeuri menajere în oraşul Întorsura Buzăului, judeţul Covasna\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14569",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14569",
+     "sha256": "84450bbaf269cbbd0168efeb1756bc138da326ec6bbcb76b1f8daed25b00f557"
+    }
+   ]
+  },
+  {
+   "slug": "hg-246-1998",
+   "path": "hg/1998/246",
+   "short": "HG nr. 246/1998",
+   "title": "Hotărârea Guvernului nr. 246/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea Centralei termice III, cu reţelele aferente cartierului Tudor Vladimirescu, Miercurea-Ciuc, judeţul Harghita\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14570",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14570",
+     "sha256": "2195c4272abce0f2ca08e451314a98ace100d0f27eb753371474d6f4b5282559"
+    }
+   ]
+  },
+  {
+   "slug": "hg-247-1998",
+   "path": "hg/1998/247",
+   "short": "HG nr. 247/1998",
+   "title": "Hotărârea Guvernului nr. 247/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Canalizare menajeră în comuna Sita Buzăului, judeţul Covasna\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14571",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14571",
+     "sha256": "ec9c51e25a27b76960f2573af770aa57337781f9fccda7ffc8ae65cb45753f4e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-248-1998",
+   "path": "hg/1998/248",
+   "short": "HG nr. 248/1998",
+   "title": "Hotărârea Guvernului nr. 248/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Introducere gaze naturale în comuna Corneţu, judeţul Ilfov\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14572",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14572",
+     "sha256": "a7f2bd38ae52ba0095364c8fd46f00f27ec6d832bf996ec528dbaeafa260c508"
+    }
+   ]
+  },
+  {
+   "slug": "hg-249-1998",
+   "path": "hg/1998/249",
+   "short": "HG nr. 249/1998",
+   "title": "Hotărârea Guvernului nr. 249/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţare distribuţie gaze naturale în satele Cicârlău, Bârgău, Ilba, Handalu Ilbei, comuna Cicârlău, judeţul Maramureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14573",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14573",
+     "sha256": "750cba9b3df130a900cfb3fca91ae51b56d9003ac0930157e45860e8922adc8a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-250-1998",
+   "path": "hg/1998/250",
+   "short": "HG nr. 250/1998",
+   "title": "Hotărârea Guvernului nr. 250/1998 privind acordarea unui ajutor umanitar populaţiei din judeţul Vrancea, afectată de incendiile de masa produse în perioada 6-8 aprilie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14574",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14574",
+     "sha256": "2c2e8424edd9a1517bd8ab50136b849d8276e5166934e2807993a47ebbde4b15"
+    }
+   ]
+  },
+  {
+   "slug": "hg-251-1998",
+   "path": "hg/1998/251",
+   "short": "HG nr. 251/1998",
+   "title": "Hotărârea Guvernului nr. 251/1998 privind transmiterea lucrării \"Refacere balastiera Verneşti şi Matesti\" din administrarea Regiei Autonome de Electricitate \"Renel\" în administrarea Regiei Autonome de Drumuri şi Poduri Buzău, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14596",
+   "versions": [
+    {
+     "from": "1998-04-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14596",
+     "sha256": "80b74821ffe1715d3a806d573acfceee3d8319039ca29bd09537f19e28bf8ad0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-254-1998",
+   "path": "hg/1998/254",
+   "short": "HG nr. 254/1998",
+   "title": "Hotărârea Guvernului nr. 254/1998 privind transmiterea unui imobil, proprietate publică a statului, situat în municipiul Bucureşti, din administrarea Ministerului de Interne în administrarea Academiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14644",
+   "versions": [
+    {
+     "from": "1998-05-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14644",
+     "sha256": "75bbbb8a4042daedf93a21c18599eb01701697aa573f337d68c11d7ad4925b84"
+    }
+   ]
+  },
+  {
+   "slug": "hg-256-1998",
+   "path": "hg/1998/256",
+   "short": "HG nr. 256/1998",
+   "title": "Hotărârea Guvernului nr. 256/1998 pentru aprobarea unor amendamente la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 19 ianuarie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14628",
+   "versions": [
+    {
+     "from": "1998-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14628",
+     "sha256": "545a3a8526dbe17fa03009a4999d55cca8126190704cd439471fa7c4f87d2695"
+    }
+   ]
+  },
+  {
+   "slug": "hg-257-1998",
+   "path": "hg/1998/257",
+   "short": "HG nr. 257/1998",
+   "title": "Hotărârea Guvernului nr. 257/1998 privind organizarea reuniunii Comitetului Director Politico-Militar al NATO, cu tema \"Aspecte practice ale controlului civil asupra forţelor armate\", în perioada 7-8 mai 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14618",
+   "versions": [
+    {
+     "from": "1998-04-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14618",
+     "sha256": "72a6bb61b00093b23db35890a0e1ca020e1cc687e19f9011a426ca64bdbdc4dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-258-1998",
+   "path": "hg/1998/258",
+   "short": "HG nr. 258/1998",
+   "title": "Hotărârea Guvernului nr. 258/1998 privind exceptarea temporară de la plata taxelor vamale a mărfurilor din import destinate aprovizionării la bordul aeronavelor care efectuează curse în traficul extern de pasageri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14676",
+   "versions": [
+    {
+     "from": "1998-05-13",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14676",
+     "sha256": "09d26778c4ff79293e59ae9eb7811cf1c1033d63a38c8770690cc4dbd81ba609"
+    }
+   ]
+  },
+  {
+   "slug": "hg-260-1998",
+   "path": "hg/1998/260",
+   "short": "HG nr. 260/1998",
+   "title": "Hotărârea Guvernului nr. 260/1998 privind renunţarea de către România la partea ce îi revine din soldul creditor al bugetului pe anul 1996 al Consiliului Europei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14677",
+   "versions": [
+    {
+     "from": "1998-05-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14677",
+     "sha256": "de8e8ad5bd853422fac3bff09c389af749537822053d8f61332ab6e02beb2799"
+    }
+   ]
+  },
+  {
+   "slug": "hg-262-1998",
+   "path": "hg/1998/262",
+   "short": "HG nr. 262/1998",
+   "title": "Hotărârea Guvernului nr. 262/1998 privind garantarea de către statul român a unui credit extern în favoarea Regiei Autonome \"Administraţia Fluviala a Dunării de Jos\" Galaţi, pentru achiziţionarea unei drage absorbant/refulante, autopropulsata, cu magazie proprie cu capacitate de 2000-3000 mc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14678",
+   "versions": [
+    {
+     "from": "1998-05-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14678",
+     "sha256": "661ffe5152dd29b07e874fa658e299687a9a55eda962190bb4ead39fa243968a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-264-1998",
+   "path": "hg/1998/264",
+   "short": "HG nr. 264/1998",
+   "title": "Hotărârea Guvernului nr. 264/1998 privind organizarea la Bucureşti, sub auspiciile Adunării Parlamentare de Cooperare Economică în Zona Marii Negre, a celei de-a III-a Mese Rotunde a Guvernatorilor şi Primarilor Capitalelor Zonei Marii Negre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14679",
+   "versions": [
+    {
+     "from": "1998-05-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14679",
+     "sha256": "9d5a72d5deb94f9839f77e2ef942ad138a1f6078ef9550d4aabe7f7285893425"
+    }
+   ]
+  },
+  {
+   "slug": "hg-266-1998",
+   "path": "hg/1998/266",
+   "short": "HG nr. 266/1998",
+   "title": "Hotărârea Guvernului nr. 266/1998 privind majorarea salariilor personalului din Administraţia Fluviala a Dunării de Jos Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14706",
+   "versions": [
+    {
+     "from": "1998-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14706",
+     "sha256": "65cb66b41443ba2e2e3ed4f02d0b295fbd207de20a77e82c8405a0bd1dab3504"
     }
    ]
   },

@@ -8179,6 +8179,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14304"
 },
 {
+"slug": "legea-81-1998",
+"path": "lege/1998/81",
+"kind": "lege",
+"year": "1998",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 81/1998 pentru aprobarea Ordonanţei Guvernului nr. 34/1997 privind completarea şi modificarea unor reglementări referitoare la taxa pe valoarea adăugată",
+"short": "Legea nr. 81/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-04-15",
+"latest": "1998-04-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14308"
+},
+{
 "slug": "legea-84-1998",
 "path": "lege/1998/84",
 "kind": "lege",
@@ -8194,6 +8211,23 @@
 "from": "2005-12-28",
 "latest": "2024-03-07",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/119052"
+},
+{
+"slug": "legea-85-1998",
+"path": "lege/1998/85",
+"kind": "lege",
+"year": "1998",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 85/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 76/1997 privind majorarea salariilor de baza pentru unele categorii de personal din învăţământ",
+"short": "Legea nr. 85/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-04-27",
+"latest": "1998-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14544"
 },
 {
 "slug": "legea-86-1998",
@@ -8262,6 +8296,40 @@
 "from": "1998-04-30",
 "latest": "1998-04-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14614"
+},
+{
+"slug": "legea-91-1998",
+"path": "lege/1998/91",
+"kind": "lege",
+"year": "1998",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 91/1998 pentru aprobarea Ordonanţei Guvernului nr. 10/1997 privind acordarea unor drepturi sociale suplimentare elevilor şi studenţilor din învăţământul de stat, cursuri de zi, în anul 1997",
+"short": "Legea nr. 91/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-04-29",
+"latest": "1998-04-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14624"
+},
+{
+"slug": "legea-92-1998",
+"path": "lege/1998/92",
+"kind": "lege",
+"year": "1998",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 92/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/1998 privind majorarea salariilor personalului din unele instituţii publice",
+"short": "Legea nr. 92/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-04-28",
+"latest": "1998-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14606"
 },
 {
 "slug": "legea-93-1998",
