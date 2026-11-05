@@ -1854,6 +1854,36 @@
    ]
   },
   {
+   "slug": "hg-664-1999",
+   "path": "hg/1999/664",
+   "short": "HG nr. 664/1999",
+   "title": "Hotărârea Guvernului nr. 664/1999 privind acordarea unui ajutor umanitar Republicii Turcia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19053",
+   "versions": [
+    {
+     "from": "1999-08-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19053",
+     "sha256": "c9c30770ee44ad4dd94f3c26d669a66f4d45f9f809a459753ea44dc7ff5d9e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-665-1999",
+   "path": "hg/1999/665",
+   "short": "HG nr. 665/1999",
+   "title": "Hotărârea Guvernului nr. 665/1999 privind autorizarea Ministerului Finanţelor de a garanta un credit extern pentru Ministerul Sănătăţii în vederea finanţării achiziţionării de aparatura şi echipamente de radioterapie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19054",
+   "versions": [
+    {
+     "from": "1999-08-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19054",
+     "sha256": "83800fd5a281aa6a84f8613c98a6ef3ca1721ff4c1d1107c759896d58f1a773b"
+    }
+   ]
+  },
+  {
    "slug": "hg-666-1999",
    "path": "hg/1999/666",
    "short": "HG nr. 666/1999",
@@ -1869,6 +1899,51 @@
    ]
   },
   {
+   "slug": "hg-667-1999",
+   "path": "hg/1999/667",
+   "short": "HG nr. 667/1999",
+   "title": "Hotărârea Guvernului nr. 667/1999 privind organizarea în România a Campaniei \"Europa, un patrimoniu comun\", în perioada 10-13 septembrie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19059",
+   "versions": [
+    {
+     "from": "1999-08-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19059",
+     "sha256": "2457fbbd5ce7645a398fa7d3e4aa6267165582ed5797c7b4f933548e18574cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-668-1999",
+   "path": "hg/1999/668",
+   "short": "HG nr. 668/1999",
+   "title": "Hotărârea Guvernului nr. 668/1999 pentru aprobarea Normelor metodologice privind modul de acordare a primei de export la grâu şi porumb boabe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19068",
+   "versions": [
+    {
+     "from": "1999-08-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19068",
+     "sha256": "7358b10656072f78f80bc663b06fd72f524a5e9d13e5f07743144c7f848f8984"
+    }
+   ]
+  },
+  {
+   "slug": "hg-669-1999",
+   "path": "hg/1999/669",
+   "short": "HG nr. 669/1999",
+   "title": "Hotărârea Guvernului nr. 669/1999 privind stabilirea patrimoniului aferent activităţilor serviciilor publice de protecţia plantelor judeţene şi al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19063",
+   "versions": [
+    {
+     "from": "1999-08-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19063",
+     "sha256": "edbc00d1179bfe9d5e1548be7af7e232815685b6505d44a492d650219908f4d2"
+    }
+   ]
+  },
+  {
    "slug": "hg-670-1999",
    "path": "hg/1999/670",
    "short": "HG nr. 670/1999",
@@ -1880,6 +1955,336 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19064",
      "sha256": "0e56d97d07e4a5b4576772d496d124a61c559ce4ea8a02b7abeaa3e379a74762"
+    }
+   ]
+  },
+  {
+   "slug": "hg-671-1999",
+   "path": "hg/1999/671",
+   "short": "HG nr. 671/1999",
+   "title": "Hotărârea Guvernului nr. 671/1999 privind aprobarea achitării, pe bază de reciprocitate, de către Ministerul Afacerilor Externe Regiei Autonome \"Locato\" a sumei aferente chiriei pentru apartamentul folosit de ataşatul cultural italian la Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19065",
+   "versions": [
+    {
+     "from": "1999-08-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19065",
+     "sha256": "3918915eaec418c8bcd6b0d65cf4376b0ef43225ce403f13489f5d76b62ebdbc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-674-1999",
+   "path": "hg/1999/674",
+   "short": "HG nr. 674/1999",
+   "title": "Hotărârea Guvernului nr. 674/1999 privind acordarea de către Ministerul Apărării Naţionale a unui ajutor umanitar pentru populaţia sinistrata din Republica Turcia, afectată de cutremurul din 17 august 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19115",
+   "versions": [
+    {
+     "from": "1999-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19115",
+     "sha256": "d28dafb853d0d969442e56819dbb95a7781303736381e90174a4f063ddea52e9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-675-1999",
+   "path": "hg/1999/675",
+   "short": "HG nr. 675/1999",
+   "title": "Hotărârea Guvernului nr. 675/1999 pentru aprobarea Normelor metodologice privind modul de acordare a primei de export la carnea de porc şi de pasare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19116",
+   "versions": [
+    {
+     "from": "1999-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19116",
+     "sha256": "272e7ccee4fa86161e21134b3fdb9cd5ea00a982a6dd6b9cf2e84b8a8396cfcf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-676-1999",
+   "path": "hg/1999/676",
+   "short": "HG nr. 676/1999",
+   "title": "Hotărârea Guvernului nr. 676/1999 pentru modificarea şi completarea Hotărârii Guvernului nr. 676/1998 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Consultanţa Agricolă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19086",
+   "versions": [
+    {
+     "from": "1999-08-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19086",
+     "sha256": "616585192cefd8c13c4a466d57f4e9dd4e4e3716ea5fe62b73718c09ff0e77fa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-677-1999",
+   "path": "hg/1999/677",
+   "short": "HG nr. 677/1999",
+   "title": "Hotărârea Guvernului nr. 677/1999 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19117",
+   "versions": [
+    {
+     "from": "1999-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19117",
+     "sha256": "aeb660f407df7ea74e4448d6cedb3b35d9e6cbbe817334de55bf008e1e8802f4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-680-1999",
+   "path": "hg/1999/680",
+   "short": "HG nr. 680/1999",
+   "title": "Hotărârea Guvernului nr. 680/1999 privind autorizarea Ministerului Finanţelor de a achiziţiona dintr-o singura sursa servicii de consultanţa juridică pentru realizarea unui plasament privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19119",
+   "versions": [
+    {
+     "from": "1999-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19119",
+     "sha256": "1a38e089988d82d7f1b792de852883dac4c4cf7991b5ff990e1e114e0c98e17a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-681-1999",
+   "path": "hg/1999/681",
+   "short": "HG nr. 681/1999",
+   "title": "Hotărârea Guvernului nr. 681/1999 privind autorizarea Ministerului Finanţelor de a achiziţiona dintr-o singura sursa servicii de consultanţa juridică pentru realizarea unei emisiuni de obligaţiuni Samurai în yeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19120",
+   "versions": [
+    {
+     "from": "1999-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19120",
+     "sha256": "ac0cc491fffbf11c8c7dd836c28e1111f4c6193301b902954540d30a3c5734c2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-682-1999",
+   "path": "hg/1999/682",
+   "short": "HG nr. 682/1999",
+   "title": "Hotărârea Guvernului nr. 682/1999 privind autorizarea Ministerului Finanţelor de a achiziţiona dintr-o singura sursa servicii de consultanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19121",
+   "versions": [
+    {
+     "from": "1999-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19121",
+     "sha256": "f953eb04acea81ca212156ee75127d21738aae347d41d3e1e87cfbe0ea9bd9cd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-683-1999",
+   "path": "hg/1999/683",
+   "short": "HG nr. 683/1999",
+   "title": "Hotărârea Guvernului nr. 683/1999 pentru modificarea anexei la Hotărârea Guvernului nr. 88/1999 privind transmiterea unui imobil, proprietate publică a statului, situat în municipiul Bucureşti, din administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" în administrarea Ministerului Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19122",
+   "versions": [
+    {
+     "from": "1999-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19122",
+     "sha256": "7ba5136cfd09e19ada153b3833fe2c72f13095a22dbd3c25fd2430e28eafb242"
+    }
+   ]
+  },
+  {
+   "slug": "hg-684-1999",
+   "path": "hg/1999/684",
+   "short": "HG nr. 684/1999",
+   "title": "Hotărârea Guvernului nr. 684/1999 pentru stabilirea cotei-părţi din sumele încasate de către unităţile sportive finanţate din venituri extrabugetare şi din alocaţii de la bugetul de stat din închirierea bunurilor proprietate publică a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19104",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19104",
+     "sha256": "7ff0d04addab8bd84c3af44aa98e1081841f56dd7a6269cbc2ad5b29762db790"
+    }
+   ]
+  },
+  {
+   "slug": "hg-686-1999",
+   "path": "hg/1999/686",
+   "short": "HG nr. 686/1999",
+   "title": "Hotărârea Guvernului nr. 686/1999 privind înfiinţarea Institutului Naţional de Cercetare-Dezvoltare Marina \"Grigore Antipa\" - I.N.C.D.M. Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19190",
+   "versions": [
+    {
+     "from": "1999-09-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19190",
+     "sha256": "7844efefb88be0b4df08ccd516e301ef875afff78fe107113984fb55f18a2056"
+    }
+   ]
+  },
+  {
+   "slug": "hg-687-1999",
+   "path": "hg/1999/687",
+   "short": "HG nr. 687/1999",
+   "title": "Hotărârea Guvernului nr. 687/1999 privind transmiterea unui imobil, proprietate publică a statului, din administrarea Regiei Autonome de Exploatare a Domeniului Public şi Privat Constanţa în administrarea Consiliului Judeţean Constanţa pentru Direcţia Judeţeana pentru Protecţia Drepturilor Copilului Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19105",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19105",
+     "sha256": "c709fa319cd926bd8bcf0306e25da385597e803412cefa361cf5643c2f107285"
+    }
+   ]
+  },
+  {
+   "slug": "hg-688-1999",
+   "path": "hg/1999/688",
+   "short": "HG nr. 688/1999",
+   "title": "Hotărârea Guvernului nr. 688/1999 pentru aprobarea atestării oraşului Băile Govora, judeţul Valcea, ca staţiune turistica de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19106",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19106",
+     "sha256": "6acae73644ff7fe0c70da3d926f7cfc7440b319b55da4b449f548b1c454699c9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-689-1999",
+   "path": "hg/1999/689",
+   "short": "HG nr. 689/1999",
+   "title": "Hotărârea Guvernului nr. 689/1999 pentru aprobarea atestării oraşului Slănic, judeţul Prahova, ca staţiune turistica de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19107",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19107",
+     "sha256": "d6229afae61f3c6aebe0280bc2aef234808a71e4f1558106ffdd8ee2ee7fc4f3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-690-1999",
+   "path": "hg/1999/690",
+   "short": "HG nr. 690/1999",
+   "title": "Hotărârea Guvernului nr. 690/1999 privind alocarea unor sume din bugetul de stat pe anul 1999 pentru redarea în folosinţa a blocului de locuinţe E 1, sc. A, din str. Făgăraş, cartier Nord, municipiul Piteşti, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19097",
+   "versions": [
+    {
+     "from": "1999-08-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19097",
+     "sha256": "d0f7aaf55cad86fc8c673a11805866b184ef902fa82b6a4e042b5e5055f091b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-691-1999",
+   "path": "hg/1999/691",
+   "short": "HG nr. 691/1999",
+   "title": "Hotărârea Guvernului nr. 691/1999 privind înlocuirea unui membru al Consiliului naţional de coordonare al Agenţiei Naţionale pentru locuinţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19165",
+   "versions": [
+    {
+     "from": "1999-09-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19165",
+     "sha256": "f72ddb142ee8d1ca0fbb3e31abb663e4b2153b7b6c695ddc632e629b99edfb75"
+    }
+   ]
+  },
+  {
+   "slug": "hg-692-1999",
+   "path": "hg/1999/692",
+   "short": "HG nr. 692/1999",
+   "title": "Hotărârea Guvernului nr. 692/1999 privind modificarea Hotărârii Guvernului nr. 660/1997 pentru constituirea comisiei de privatizare a Banc Post - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19110",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19110",
+     "sha256": "c9e6cbc7ea24418853f901c44fbf278336c61c333a8e6c4dece5870bbeff1fe2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-694-1999",
+   "path": "hg/1999/694",
+   "short": "HG nr. 694/1999",
+   "title": "Hotărârea Guvernului nr. 694/1999 privind constituirea comisiei de selecţie a administratorului Societăţii Comerciale \"Rafo\" - S.A. Oneşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19112",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19112",
+     "sha256": "e644eef43c1f87167f86b7b2d3d3b81788ccb20eb44b6a623158fe6e5ca0e4ec"
+    }
+   ]
+  },
+  {
+   "slug": "hg-695-1999",
+   "path": "hg/1999/695",
+   "short": "HG nr. 695/1999",
+   "title": "Hotărârea Guvernului nr. 695/1999 privind aprobarea unor licenţe de concesiune a activităţii de exploatare, încheiate între Agenţia Naţionala pentru Resurse Minerale şi Societatea Naţionala a Apelor Minerale - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19113",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19113",
+     "sha256": "6e6699323d2cbdaaf01005bb664a1464b09de303aa11c45fc192ab11fff15f84"
+    }
+   ]
+  },
+  {
+   "slug": "hg-696-1999",
+   "path": "hg/1999/696",
+   "short": "HG nr. 696/1999",
+   "title": "Hotărârea Guvernului nr. 696/1999 privind trecerea, cu plata, a unui imobil din patrimoniul Societăţii Comerciale \"Metalotex\" - S.A. Deva în proprietatea publică a statului şi în administrarea Ministerului Educaţiei Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19135",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19135",
+     "sha256": "b3ccfee4f3a24acdbca527ba17a808f88a361b25d5b6eee7dd277510cc60a8db"
+    }
+   ]
+  },
+  {
+   "slug": "hg-697-1999",
+   "path": "hg/1999/697",
+   "short": "HG nr. 697/1999",
+   "title": "Hotărârea Guvernului nr. 697/1999 privind transmiterea unui imobil, proprietate publică a statului, situat în comuna Peşceana, judeţul Valcea, din administrarea Ministerului Educaţiei Naţionale în administrarea Consiliului Local al Comunei Peşceana",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19114",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19114",
+     "sha256": "a4b944ecb340b0c5685ae70519457a86a62fca1fd82153f2f069c295569fde90"
+    }
+   ]
+  },
+  {
+   "slug": "hg-698-1999",
+   "path": "hg/1999/698",
+   "short": "HG nr. 698/1999",
+   "title": "Hotărârea Guvernului nr. 698/1999 privind aprobarea contractelor de activitate a Companiei Naţionale de Cai Ferate \"C.F.R.\" - S.A. şi a Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A. pentru perioada 1999-2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19236",
+   "versions": [
+    {
+     "from": "1999-09-14",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19236",
+     "sha256": "a9fb900cd79b9431e917eb99a610ac785c2018959c78ebcece2133aa0bd5d829"
     }
    ]
   },
