@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12498 acts, 24,013 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12504 acts, 24,019 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8386, of which 3163 amending acts)
+## Laws (legi) (8392, of which 3166 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -560,7 +560,13 @@
 | Legea nr. 160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar*) | [`lege/1998/160/`](lege/1998/160/) | in force | 1 | 2014-03-24 | 2014-03-24 |
 | Legea nr. 162/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 86/1997 privind aprobarea primei de export pentru cantitatea de un milion tone porumb boabe din recolta anului 1997 | [`lege/1998/162/`](lege/1998/162/) | amended, not consolidated | 1 | 1998-07-31 | 1998-07-31 |
 | Legea nr. 166/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 43/1997 pentru întocmirea bilanţului contabil special şi regularizarea unor credite şi dobânzi clasificate în categoria "pierdere" la Banca Agricolă - S.A., precum şi pentru abrogarea Ordonanţei de urgenţă a Guvernului nr. 48/1997 privind modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 43/1997 | [`lege/1998/166/`](lege/1998/166/) | amended, not consolidated | 1 | 1998-08-20 | 1998-08-20 |
+| Legea nr. 168/1998 privind valorificarea şi decontarea la intern a importului de cărbune cocsificabil din Republica Populară Chineză, în contul rambursării creditelor acordate de statul român prin livrări de echipamente şi utilaje energetice aferente Centralei termoelectrice de 3 x 12 MW de la CAO-CUN, finanţate la intern din fonduri alocate de la bugetul de stat | [`lege/1998/168/`](lege/1998/168/) | in force | 1 | 1998-10-06 | 1998-10-06 |
+| Legea nr. 169/1998 privind aprobarea Ordonanţei Guvernului nr. 1/1998 pentru acceptarea Protocolului 4 la Acordul general pentru comerţul cu servicii, adoptat la Geneva la 15 aprilie 1997 | [`lege/1998/169/`](lege/1998/169/) | amending act | 1 | 1998-10-06 | 1998-10-06 |
+| Legea nr. 170/1998 privind ratificarea Acordului comercial dintre Guvernul României şi Guvernul Regatului Thailandei, semnat la Bangkok la 29 aprilie 1997 | [`lege/1998/170/`](lege/1998/170/) | in force | 1 | 1998-10-06 | 1998-10-06 |
 | Legea nr. 172/1998 privind ratificarea Convenţiei cu privire la recunoaşterea atestatelor obţinute în învăţământul superior în statele din regiunea Europei, adoptată la Lisabona la 11 aprilie 1997 | [`lege/1998/172/`](lege/1998/172/) | amended, not consolidated | 1 | 1998-10-07 | 1998-10-07 |
+| Legea nr. 173/1998 pentru acceptarea Protocolului adiţional nr. 6 la Acordul central european de comerţ liber (CEFTA), semnat la Varşovia la 19 decembrie 1997 | [`lege/1998/173/`](lege/1998/173/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| Legea nr. 174/1998 pentru aprobarea Ordonanţei Guvernului nr. 5/1998 privind participarea României la iniţiativa europeană EUREKA, în condiţiile Declaraţiei de la Hanovra şi ale Memorandumului de înţelegere dintre membrii EUREKA, din 6 noiembrie 1985 | [`lege/1998/174/`](lege/1998/174/) | amending act | 1 | 1998-10-08 | 1998-10-08 |
+| Legea nr. 175/1998 pentru aprobarea Ordonanţei Guvernului nr. 9/1998 privind instituirea sistemului de cupoane pentru agricultori în anul 1998 | [`lege/1998/175/`](lege/1998/175/) | amending act | 1 | 1998-10-08 | 1998-10-08 |
 | Legea nr. 176/1998 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 87/1997 pentru modificarea art. 8 alin. 1 din Ordonanţa Guvernului nr. 59/1994 privind reglementarea operaţiunilor de import-export care se derulează prin cliring, barter şi cooperare economică internaţionala în baza acordurilor comerciale şi de plăti guvernamentale | [`lege/1998/176/`](lege/1998/176/) | amended, not consolidated | 1 | 1998-10-13 | 1998-10-13 |
 | Legea nr. 177/1998 pentru completarea art. 2 din Legea nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite | [`lege/1998/177/`](lege/1998/177/) | amended, not consolidated | 1 | 1998-10-13 | 1998-10-13 |
 | Legea nr. 178/1998 pentru modificarea art. 47 din Ordonanţa Guvernului nr. 21/1992 privind protecţia consumatorilor | [`lege/1998/178/`](lege/1998/178/) | amended, not consolidated | 1 | 1998-10-13 | 1998-10-13 |
@@ -12564,7 +12570,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28724 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28755 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
