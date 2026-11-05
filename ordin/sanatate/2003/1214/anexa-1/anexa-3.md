@@ -1,4 +1,0 @@
-# Anexa III
---------- la norme -------- DOZELE FIZIOLOGICE ZILNICE de vitamine și elemente minerale recomandate pentru o persoană adultă Vitamine: Vitamina A (retinol): 2.500-5.000 UI Vitamina D (colecalciferol, ergocalciferol): 400 UI Vitamina E (tocoferoli): 20-30 mg Vitamina K (fito- și fanochinonă, menadionă): 0,1 mg Vitamina B1 (tiamină): 1,6 mg Vitamina B2 (riboflavină): 1,7 mg Vitamina B6 (piridoxină): 2,0 mg Vitamina B12 (cobalamină): 2,0 micrograme Vitamina PP (nicotinamidă, acid nicotinic): 15-20 mg Acid pantotenic: 10,0 mg Acid folic: 0,4 mg Vitamina C (acid ascorbic): 60,0 mg Biotină (vitamina H): 0,2 mg Vitamina P (flavone, flavonoizi): 200 mg (total) Elemente minerale: Calciu: 1.000 mg Fosfor: 1.000 mg Magneziu: 350 mg Sodiu: 2,0 g Potasiu: 3,5 g Clor: 5,0 g Fier: 18,0 mg Zinc: 15,0 mg Cupru: 3,0 mg Iod: 0,2 mg Fluor: 4,0 mg Mangan: 3,0 mg Molibden: 0,25 mg Crom: 0,2 mg Seleniu: 0,1 mg Cobalt: 1,0 micrograme -------------
-Notă...
-------------

@@ -1,2 +1,0 @@
-# Anexa I
-------- la norme VITAMINE ȘI MINERALE care pot fi utilizate pentru fabricarea suplimentelor alimentare 1. Vitamine: Vitamina A (μg RE) Vitamina D (μg) Vitamina E (mg α - TE) Vitamina K (μg) Vitamina E1 (mg) Vitamina B2 (mg) Niacina (mg NE) Acid pantotenic (mg) Vitamina B6 (μg) Acid folic (μg) Vitamina B12 (μg) Biotina (μg) Vitamina C (mg) 2. Minerale Calciu (mg) Magneziu (mg) Fier (mg) Cupru (μg) Iod (μg) Zinc (mg) Mangan (mg) Sodiu (mg) Potasiu (mg) Seleniu (μg) Crom (μg) Molibden (μg) Fluor (mg) Clor (mg) Fosfor (mg)
