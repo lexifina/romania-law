@@ -1,0 +1,98 @@
+# Ordinul nr. 630/2001 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale spitalicești, îngrijirilor la domiciliu, serviciilor de urgență prespitalicești și altor tipuri de transport medical, precum și a serviciilor de recuperare-reabilitare a sănătății, în cadrul sistemului asigurărilor sociale de sănătate
+
+Ordin cnas nr. 630/2001 · 1 versions, from 2002-02-04 (latest in force: 2002-02-04) · <https://legislatie.just.ro/Public/DetaliiDocument/33909>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 LISTA cuprinzând serviciile medicale spitalicești de care beneficiază asigurații 1. Servicii cu spitalizare A. Servicii cu spitalizare continua ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4a) - lei - ┌─────────────────────────────────────────┐ │ tarif/zi spitalizare pe secții │ ...): it is a table that the official text holds only flattened; Anexa nr. 5 (4b TARIFUL PE ZI de spitalizare corespunzător secțiilor de spital și tipuri de specialități pentru anul 2002 - lei - ...): it is a table that the official text holds only flattened; Anexa nr. 6 (5 INDICELE DE COMPLEXITATE a cazurilor (indice de case mix, ICM) ale spitalelor din proiectul DRG pentru anul 2001 ...): it is a table that the official text holds only flattened; Anexa nr. 7 (6 COSTURILE ȘI TARIFELE pe pacient ponderat (în lei) ale spitalelor din proiectul național DRG, conform raportărilor din perioada ianuarie-noiembrie 2001 ...): it is a table that the official text holds only flattened; Anexa nr. 8 (7 LISTA categoriilor majore de diagnostic, tipurile de cazuri (grupele de diagnostice) și valorile relative ...): it is a table that the official text holds only flattened; Anexa nr. 9 (8 LISTA cuprinzând serviciile medicale de înalta performanta și alte servicii a căror contravaloare nu este suportată de casele de asigurări de sănătate 1. ...): it is a table that the official text holds only flattened; Anexa nr. 11 (10 UNITATEA SANITARĂ........... Tel: DEPARTAMENTUL............... Fax: Șef departament ┌──────────────┐ │URGENȚĂ: DA/NU│................... └──────────────┘ ...): it is a table that the official text holds only flattened; Anexa nr. 12 (11 UNITATEA SANITARĂ........... Tel: DEPARTAMENTUL............... Fax: Șef departament ┌──────────────┐ │URGENȚĂ: DA/NU│................... └──────────────┘ ...): it is a table that the official text holds only flattened; Anexa nr. 13 (12 UNITATEA SANITARĂ........... Tel: DEPARTAMENTUL............... Fax: Șef departament ┌──────────────┐ │URGENȚĂ: DA/NU│................... └──────────────┘ ...): it is a table that the official text holds only flattened; Anexa nr. 19 (18 LISTA cuprinzând serviciile medicale și tarifele acestora efectuate în unitățile de recuperare-reabilitare, altele decât cele organizate conform Ordonanței ...): it is a table that the official text holds only flattened; Anexa nr. 20 (19 LISTA serviciilor de îngrijiri la domiciliu și tarifele maximale - lei - ┌─────────┬─────────────────────────────────────────────────┬───────────┐ │ Nr. ...): it is a table that the official text holds only flattened; Anexa nr. 22 (21 CONTRACT de furnizare de servicii medicale spitalicești I. Părțile contractante Casa de asigurări de sănătate.................., cu sediul în ...): it is a table that the official text holds only flattened; Anexa nr. 24 (23 CONTRACT de furnizare de servicii medicale în asistența medicală de specialitate de reabilitare (pentru unitățile sanitare ambulatorii de ...): it is a table that the official text holds only flattened; Anexa nr. 25 (24 CONTRACT de furnizare de servicii medicale în asistența medicală de specialitate de recuperare-reabilitare (pentru sanatorii și preventorii) I. Părțile ...): it is a table that the official text holds only flattened; Anexa nr. 26 (25 Durata optimă de spitalizare/secții valabilă pentru toate categoriile de spitale stabilită de comisiile de specialitate ale Ministerului Sănătății și ...): it is a table that the official text holds only flattened.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1, Art. 1 | [anexa-1/art-001.md](anexa-1/art-001.md) | 0 |  |
+| Anexa nr. 1, Art. 2 | [anexa-1/art-002.md](anexa-1/art-002.md) | 0 |  |
+| Anexa nr. 1, Art. 3 | [anexa-1/art-003.md](anexa-1/art-003.md) | 0 |  |
+| Anexa nr. 1, Art. 4 | [anexa-1/art-004.md](anexa-1/art-004.md) | 0 |  |
+| Anexa nr. 1, Art. 5 | [anexa-1/art-005.md](anexa-1/art-005.md) | 0 |  |
+| Anexa nr. 1, Art. 6 | [anexa-1/art-006.md](anexa-1/art-006.md) | 0 |  |
+| Anexa nr. 1, Art. 7 | [anexa-1/art-007.md](anexa-1/art-007.md) | 0 |  |
+| Anexa nr. 1, Art. 8 | [anexa-1/art-008.md](anexa-1/art-008.md) | 0 |  |
+| Anexa nr. 1, Art. 9 | [anexa-1/art-009.md](anexa-1/art-009.md) | 0 |  |
+| Anexa nr. 1, Art. 10 | [anexa-1/art-010.md](anexa-1/art-010.md) | 0 |  |
+| Anexa nr. 1, Art. 11 | [anexa-1/art-011.md](anexa-1/art-011.md) | 0 |  |
+| Anexa nr. 1, Art. 12 | [anexa-1/art-012.md](anexa-1/art-012.md) | 0 |  |
+| Anexa nr. 1, Art. 13 | [anexa-1/art-013.md](anexa-1/art-013.md) | 0 |  |
+| Anexa nr. 1, Art. 14 | [anexa-1/art-014.md](anexa-1/art-014.md) | 0 |  |
+| Anexa nr. 1, Art. 15 | [anexa-1/art-015.md](anexa-1/art-015.md) | 0 |  |
+| Anexa nr. 1, Art. 16 | [anexa-1/art-016.md](anexa-1/art-016.md) | 0 |  |
+| Anexa nr. 1, Art. 17 | [anexa-1/art-017.md](anexa-1/art-017.md) | 0 |  |
+| Anexa nr. 10 (what it is) | [anexa-10/README.md](anexa-10/README.md) | 0 |  |
+| Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
+| Anexa nr. 14 (what it is) | [anexa-14/README.md](anexa-14/README.md) | 0 |  |
+| Anexa nr. 14 | [anexa-14/text.md](anexa-14/text.md) | 0 |  |
+| Anexa nr. 15 (what it is) | [anexa-15/README.md](anexa-15/README.md) | 0 |  |
+| Anexa nr. 15, Art. 1 | [anexa-15/art-001.md](anexa-15/art-001.md) | 0 |  |
+| Anexa nr. 15, Art. 2 | [anexa-15/art-002.md](anexa-15/art-002.md) | 0 |  |
+| Anexa nr. 15, Art. 3 | [anexa-15/art-003.md](anexa-15/art-003.md) | 0 |  |
+| Anexa nr. 15, Art. 4 | [anexa-15/art-004.md](anexa-15/art-004.md) | 0 |  |
+| Anexa nr. 15, Art. 5 | [anexa-15/art-005.md](anexa-15/art-005.md) | 0 |  |
+| Anexa nr. 15, Art. 6 | [anexa-15/art-006.md](anexa-15/art-006.md) | 0 |  |
+| Anexa nr. 15, Art. 7 | [anexa-15/art-007.md](anexa-15/art-007.md) | 0 |  |
+| Anexa nr. 15, Art. 8 | [anexa-15/art-008.md](anexa-15/art-008.md) | 0 |  |
+| Anexa nr. 15, Art. 9 | [anexa-15/art-009.md](anexa-15/art-009.md) | 0 |  |
+| Anexa nr. 15, Art. 10 | [anexa-15/art-010.md](anexa-15/art-010.md) | 0 |  |
+| Anexa nr. 15, Art. 11 | [anexa-15/art-011.md](anexa-15/art-011.md) | 0 |  |
+| Anexa nr. 16 (what it is) | [anexa-16/README.md](anexa-16/README.md) | 0 |  |
+| Anexa nr. 16 | [anexa-16/text.md](anexa-16/text.md) | 0 |  |
+| Anexa nr. 17 (what it is) | [anexa-17/README.md](anexa-17/README.md) | 0 |  |
+| Anexa nr. 17 | [anexa-17/text.md](anexa-17/text.md) | 0 |  |
+| Anexa nr. 18 (what it is) | [anexa-18/README.md](anexa-18/README.md) | 0 |  |
+| Anexa nr. 18, Art. 1 | [anexa-18/art-001.md](anexa-18/art-001.md) | 0 |  |
+| Anexa nr. 18, Art. 2 | [anexa-18/art-002.md](anexa-18/art-002.md) | 0 |  |
+| Anexa nr. 18, Art. 3 | [anexa-18/art-003.md](anexa-18/art-003.md) | 0 |  |
+| Anexa nr. 18, Art. 4 | [anexa-18/art-004.md](anexa-18/art-004.md) | 0 |  |
+| Anexa nr. 18, Art. 5 | [anexa-18/art-005.md](anexa-18/art-005.md) | 0 |  |
+| Anexa nr. 21 (what it is) | [anexa-21/README.md](anexa-21/README.md) | 0 |  |
+| Anexa nr. 21 | [anexa-21/text.md](anexa-21/text.md) | 0 |  |
+| Anexa nr. 23 (what it is) | [anexa-23/README.md](anexa-23/README.md) | 0 |  |
+| Anexa nr. 23 | [anexa-23/text.md](anexa-23/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+
+Act id: `ordin-cnas-630-2001` (tags `ordin-cnas-630-2001/<day>`; `python tools/on.py <day> ordin-cnas-630-2001`).
+
+## Decisions made by hand
+
+- Ordin cnas nr. 630/2001: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 33909, retrieved 2026-11-02). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Ordin cnas nr. 630/2001: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
+- Ordin cnas nr. 630/2001: the first version is the order as published in Monitorul Oficial nr. 98 of 4 February 2002 (document 33909 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin cnas nr. 630/2001: the signatures and the place and date line after its last article are not article text.
+- Ordin cnas nr. 630/2001: a joint order of Casa Națională de Asigurări de Sănătate nr. 630 din 28 December 2001; Colegiul Medicilor din România nr. 4234 din 28 December 2001. It is published once, here, under the issuer its EMITENT block lists first; `ordin-medici-4234-2001` name it too (data/paths.json aliases).
+- Ordin cnas nr. 630/2001: Anexa nr. 1 (1 Condițiile acordării serviciilor medicale spitalicești contractate cu casele de asigurări de sănătate și modalitățile de plată ale acestora) is part of the order and is published in its folder, anexa-1/ (17 articles), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 3 (3 Serviciile medicale spitalicești efectuate în centrele de diagnostic și tratament aparținând ministerelor cu rețele sanitare proprii și tarifele maximale ale acestora pe care le pot deconta casele d) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 10 (9 URGENTELE MEDICO-CHIRURGICALE MAJORE care beneficiază de explorări imagistice de înalta performanta decontate de casa de asigurări de sănătate Explorări computer-tomograf (CT): 1. politraumatisme cu) is part of the order and is published in its folder, anexa-10/ (paragraphs), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 14 (13 LISTA serviciilor medicale și a documentelor eliberate pentru aceste servicii care nu se decontează de casele de asigurări de sănătate 1. Servicii medicale și documente medicale solicitate de autor) is part of the order and is published in its folder, anexa-14/ (paragraphs), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 15 (14 Condițiile acordării serviciilor medicale de urgență prespitalicești și altor tipuri de transport contractate cu casele de asigurări de sănătate și modalitățile de plata ale acestora) is part of the order and is published in its folder, anexa-15/ (11 articles), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 16 (15 Tarifele maximale aferente mijloacelor de transport pentru serviciile medicale de urgență prespitalicești și altor tipuri de transport medical) is part of the order and is published in its folder, anexa-16/ (paragraphs), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 17 (16 LISTA serviciilor medicale de urgență prespitalicești și a altor tipuri de transport medical I. Lista cuprinzând urgentele medico-chirurgicale majore decontate de casele de asigurări de sănătate a)) is part of the order and is published in its folder, anexa-17/ (paragraphs), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 18 (17 Condițiile acordării serviciilor medicale de recuperare-reabilitare în sanatorii, preventorii și cabinete medicale de recuperare-reabilitare din stațiunile balneoclimatice, contractate cu casele de) is part of the order and is published in its folder, anexa-18/ (5 articles), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 21 (20 LISTA criteriilor de calitate pentru activitatea desfășurata la nivelul unităților spitalicești 1. Semnalizarea în zona 2. Autorizație sanitară de funcționare 3. Acreditarea personalului care oferă) is part of the order and is published in its folder, anexa-21/ (paragraphs), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 23 (22 CONTRACT de furnizare de servicii medicale de urgență prespitalicești I. Părțile contractante Casa de asigurări de sănătate....................., cu sediul în municipiul/orașul..............., str.) is part of the order and is published in its folder, anexa-23/ (paragraphs), from document 33909 of the official web service.
+- Ordin cnas nr. 630/2001: Anexa nr. 2 (2 LISTA cuprinzând serviciile medicale spitalicești de care beneficiază asigurații 1. Servicii cu spitalizare A. Servicii cu spitalizare continua ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 4 (4a) - lei - ┌─────────────────────────────────────────┐ │ tarif/zi spitalizare pe secții │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 5 (4b TARIFUL PE ZI de spitalizare corespunzător secțiilor de spital și tipuri de specialități pentru anul 2002 - lei - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 6 (5 INDICELE DE COMPLEXITATE a cazurilor (indice de case mix, ICM) ale spitalelor din proiectul DRG pentru anul 2001 ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 7 (6 COSTURILE ȘI TARIFELE pe pacient ponderat (în lei) ale spitalelor din proiectul național DRG, conform raportărilor din perioada ianuarie-noiembrie 2001 ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 8 (7 LISTA categoriilor majore de diagnostic, tipurile de cazuri (grupele de diagnostice) și valorile relative ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 9 (8 LISTA cuprinzând serviciile medicale de înalta performanta și alte servicii a căror contravaloare nu este suportată de casele de asigurări de sănătate 1. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 11 (10 UNITATEA SANITARĂ........... Tel: DEPARTAMENTUL............... Fax: Șef departament ┌──────────────┐ │URGENȚĂ: DA/NU│................... └──────────────┘ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 12 (11 UNITATEA SANITARĂ........... Tel: DEPARTAMENTUL............... Fax: Șef departament ┌──────────────┐ │URGENȚĂ: DA/NU│................... └──────────────┘ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 13 (12 UNITATEA SANITARĂ........... Tel: DEPARTAMENTUL............... Fax: Șef departament ┌──────────────┐ │URGENȚĂ: DA/NU│................... └──────────────┘ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 19 (18 LISTA cuprinzând serviciile medicale și tarifele acestora efectuate în unitățile de recuperare-reabilitare, altele decât cele organizate conform Ordonanței ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 20 (19 LISTA serviciilor de îngrijiri la domiciliu și tarifele maximale - lei - ┌─────────┬─────────────────────────────────────────────────┬───────────┐ │ Nr. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 22 (21 CONTRACT de furnizare de servicii medicale spitalicești I. Părțile contractante Casa de asigurări de sănătate.................., cu sediul în ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 24 (23 CONTRACT de furnizare de servicii medicale în asistența medicală de specialitate de reabilitare (pentru unitățile sanitare ambulatorii de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 25 (24 CONTRACT de furnizare de servicii medicale în asistența medicală de specialitate de recuperare-reabilitare (pentru sanatorii și preventorii) I. Părțile ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: Anexa nr. 26 (25 Durata optimă de spitalizare/secții valabilă pentru toate categoriile de spitale stabilită de comisiile de specialitate ale Ministerului Sănătății și ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cnas nr. 630/2001: the publisher's notes run into its text (*) Duratele de spitalizare mai mari de 21, respectiv 30 de zile se suporta în întregime de către asiguraţi. Casele de as; *) ICM pentru Spitalul Judeţean Botoşani "Mavromati" este media ICM ale spitalelor similare.; *) Indicele de case-mix este cel prevăzut în anexa nr. 5 la ordin. **) Tariful pe caz ponderat este cel prevăzut în anex; *) Numărul de km echivalenţi se stabileşte conform Normativului privind consumul de combustibil şi ulei pentru automobil; *) Tariful nu cuprinde medicamentele şi materialele specifice suportate prin programul naţional de sănătate şi este vala; *) Tariful pe zi de spitalizare/secţie luat în calcul pentru determinarea sumelor aferente fiecărei secţii este cel prev; *) Tariful/km echivalent negociat pe fiecare tip de autovehicul nu poate fi mai mare decât tariful/km echivalent prevăzu; *) În afară injecţiilor şi perfuziilor cu produse de origine umană. **) În tariful maximal al serviciului nu este inclus; NOTA *) Cheltuiala totală este cheltuiala efectivă realizată raportată conform adresei CNAS 4284/12.12.2001 Cheltuiala p) are not text.

@@ -1,0 +1,36 @@
+# Ordinul nr. 417/2009 pentru aprobarea Normelor tehnice de realizare a programelor naționale de sănătate în anul 2009
+
+Ordin sanatate nr. 417/2009 · 1 versions, from 2009-04-01 (latest in force: 2009-04-01) · <https://legislatie.just.ro/Public/DetaliiDocument/104186>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 CADRUL GENERAL de realizare a programelor naționale de sănătate): its text could not yet be split into provisions without losing or adding words; Anexa nr. 5 (3C Spitalul..................... Secția/Ambulatoriul................. Către:......................... În atenția Comisiei de aprobare a......... REFERAT DE ...): it is a table that the official text holds only flattened; a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+
+Act id: `ordin-sanatate-417-2009` (tags `ordin-sanatate-417-2009/<day>`; `python tools/on.py <day> ordin-sanatate-417-2009`).
+
+## Decisions made by hand
+
+- Ordin sanatate nr. 417/2009: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 104186, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Ordin sanatate nr. 417/2009: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
+- Ordin sanatate nr. 417/2009: the first version is the order as published in Monitorul Oficial nr. 211 of 1 April 2009 (document 104186 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin sanatate nr. 417/2009: the signatures and the place and date line after its last article are not article text.
+- Ordin sanatate nr. 417/2009: a joint order of Ministerul Sănătății nr. 417 din 31 March 2009; Casa Națională de Asigurări de Sănătate nr. 431 din 31 March 2009. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-431-2009` name it too (data/paths.json aliases).
+- Ordin sanatate nr. 417/2009: Anexa nr. 2 (2 STRUCTURA programelor naționale de sănătate - buget, obiective, activități, indicatori de evaluare, responsabilități și unități care derulează programele A. PROGRAME NAȚIONALE DE EVALUARE, PROFILAXI) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 104186 of the official web service.
+- Ordin sanatate nr. 417/2009: Anexa nr. 3 (3A CONTRACT pentru finanțarea programelor/subprogramelor din cadrul programului național cu scop curativ în anul 2009 I. Părțile contractante Casa de Asigurări de Sănătate..................., cu sediu) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 104186 of the official web service.
+- Ordin sanatate nr. 417/2009: Anexa nr. 4 (3B CONTRACT pentru furnizare de servicii de dializă în cadrul programului "Tratamentul de supleere a funcției renale la bolnavii cu insuficiență renală cronică" în anul 2009 I. Părțile contractante Ca) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 104186 of the official web service.
+- Ordin sanatate nr. 417/2009: Anexa nr. 1 (1 CADRUL GENERAL de realizare a programelor naționale de sănătate) is not included yet: its text could not yet be split into provisions without losing or adding words. It will be added when it can be published in full.
+- Ordin sanatate nr. 417/2009: Anexa nr. 5 (3C Spitalul..................... Secția/Ambulatoriul................. Către:......................... În atenția Comisiei de aprobare a......... REFERAT DE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 417/2009: the publisher's note "*) Anexele nr. 1, 2 şi 3 (3A - 3C) se publică ulterior în Monitorul Oficial al României, Partea I, nr. 211 bis în afara abonamentului, care se poate achiziţiona de la Centrul pentru relaţii cu publicu" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
+- Ordin sanatate nr. 417/2009: the publisher's notes run into its text (*) Contraceptivele se acordă fără plată prin cabinetele de planificare familială, prin cabinetele medicilor de familie i; *) După caz: Casa Naţională de Asigurări de Sănătate, casa de asigurări de sănătate, Agenţia Naţională de Transplant, ce; *) Laptele praf se distribuie în condiţiile prevăzute de Legea nr. 321/2001 privind acordarea gratuită de lapte praf pen; *) Suma de 255.000 mii lei care este aferentă compensării diferenţei între cuantumul de 90% şi 50% din preţul de referin; *) se vor exclude la calculul indicatorului IACRS, pneumoniile, varicelă, parotidită, scabia, pediculoza, dermatofitozel; *) în judeţele desemnate ca sentinelă) are not text.
