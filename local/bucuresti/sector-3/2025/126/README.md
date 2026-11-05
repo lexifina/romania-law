@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Sectorului 3 nr. 126/2025 privind aprobarea documentaţiei de avizare a lucrărilor de intervenţie, a indicatorilor tehnico-economici, a devizului general şi a categoriilor de cheltuieli finanţate de la bugetul local pentru obiectivul de investiţie: „Proiectarea şi execuţia lucrărilor de intervenţii integrate (consolidare şi creşterea performanţei energetice) pentru clădirile multietajate cu destinaţia principală de locuinţă - B-dul Nicolae Grigorescu nr.15, bl.L6, Sector 3, Bucureşti”
+
+HCLS3 nr. 126/2025 · 1 versions, from 2025-03-13 (latest in force: 2025-03-13) · <https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcls3-126-2025` (tags `hcls3-126-2025/<day>`; `python tools/on.py <day> hcls3-126-2025`).
+
+## Decisions made by hand
+
+- HCLS3 nr. 126/2025: listed from Consiliul Local al Sectorului 3 (www.primarie3.ro); an individual decision: metadata only.
+- HCLS3 nr. 126/2025: dated from 13 March 2025, the day it was adopted (the register gives no later day of publication).
+- HCLS3 nr. 126/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

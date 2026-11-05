@@ -3,6 +3,171 @@
  "shard": "local/bucuresti/sector-2/2017",
  "acts": [
   {
+   "slug": "hcls2-1-2017",
+   "path": "local/bucuresti/sector-2/2017/1",
+   "short": "HCLS2 nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 1/2017 pentru modificarea și completarea Hotărârii Consiliului Local Sector 2 nr. 233/2016",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/1",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/1/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-10-2017",
+   "path": "local/bucuresti/sector-2/2017/10",
+   "short": "HCLS2 nr. 10/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 10/2017 privind aprobarea schimbării denumirii unei unități de învățământ preuniversitar de stat care va funcționa la nivelul Sectorului 2 al Municipiului București începând cu anul școlar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/10",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/10/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-100-2017",
+   "path": "local/bucuresti/sector-2/2017/100",
+   "short": "HCLS2 nr. 100/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 100/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-100",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-100/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-101-2017",
+   "path": "local/bucuresti/sector-2/2017/101",
+   "short": "HCLS2 nr. 101/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 101/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-101",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-101/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-102-2017",
+   "path": "local/bucuresti/sector-2/2017/102",
+   "short": "HCLS2 nr. 102/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 102/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-102",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-102/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-103-2017",
+   "path": "local/bucuresti/sector-2/2017/103",
+   "short": "HCLS2 nr. 103/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 103/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-103",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-103/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-104-2017",
+   "path": "local/bucuresti/sector-2/2017/104",
+   "short": "HCLS2 nr. 104/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 104/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-104",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-104/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-105-2017",
+   "path": "local/bucuresti/sector-2/2017/105",
+   "short": "HCLS2 nr. 105/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 105/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-105",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-105/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-106-2017",
+   "path": "local/bucuresti/sector-2/2017/106",
+   "short": "HCLS2 nr. 106/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 106/2017 pentru modificarea şi completarea Hotărârii Consiliului Local Sector 2 nr. 191/21.11.2016 privind stabilirea unor normative proprii de cheltuieli la nivelul autorităților administrației publice ale Sectorului 2 pentru acțiuni de protocol Abrogată/Încetare aplicabilitate prin HCL S2 nr. 3/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/106",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/106/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-107-2017",
+   "path": "local/bucuresti/sector-2/2017/107",
+   "short": "HCLS2 nr. 107/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 107/2017 pentru modificarea Hotărârii Consiliului Local Sector 2 nr. 164/2016 privind constituirea la nivelul Consiliului Local Sector 2 a Comisiei de analiză privind oportunitatea încheierii unor parteneriate cu Patriarhia Română, Arhiepiscopia Bucureştilor şi alte instituţii de cult",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/107",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/107/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-108-2017",
+   "path": "local/bucuresti/sector-2/2017/108",
+   "short": "HCLS2 nr. 108/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 108/2017 pentru aprobarea Protocolului – cadru privind încheierea unui parteneriat cu Patriarhia Română, Arhiepiscopia Bucureştilor şi alte instituţii de cult",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/108",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/108/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls2-109-2017",
    "path": "local/bucuresti/sector-2/2017/109",
    "short": "HCLS2 nr. 109/2017",
@@ -13,6 +178,141 @@
      "from": "2018-07-10",
      "units": 1,
      "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/109/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-11-2017",
+   "path": "local/bucuresti/sector-2/2017/11",
+   "short": "HCLS2 nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 11/2017 privind reglementarea situației juridice a unui complex agroalimentar de pe raza Sectorului 2 al Municipiului București",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/11",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/11/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-110-2017",
+   "path": "local/bucuresti/sector-2/2017/110",
+   "short": "HCLS2 nr. 110/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 110/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/110",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/110/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-111-2017",
+   "path": "local/bucuresti/sector-2/2017/111",
+   "short": "HCLS2 nr. 111/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 111/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/111",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/111/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-112-2017",
+   "path": "local/bucuresti/sector-2/2017/112",
+   "short": "HCLS2 nr. 112/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 112/2017 privind stabilirea salariilor de bază aferente funcțiilor publice și contractuale din cadrul familiei ocupaționale “Administrație”, utilizate în cadrul aparatului de specialitate al Primarului Sectorului 2 și serviciilor publice din subordinea Consiliului Local Sector 2 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 160/2025 Modificată/completată prin HCL S2 nr. 71/2018 , HCL S2 nr. 141/2018 , HCL S2 nr. 211/2022",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/112",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/112/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-113-2017",
+   "path": "local/bucuresti/sector-2/2017/113",
+   "short": "HCLS2 nr. 113/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 113/2017 privind aprobarea denumirii unei unități de învățământ preuniversitar particular care va funcționa la nivelul Sectorului 2 al Municipiului București începând cu anul școlar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/113",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/113/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-114-2017",
+   "path": "local/bucuresti/sector-2/2017/114",
+   "short": "HCLS2 nr. 114/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 114/2017 pentru aprobarea Actului adiţional nr. 3 la Contractul de parteneriat public - privat pentru concesiunea de lucrări având ca obiect “Dezvoltarea infrastructurii de afaceri – Zona Piata Aghireş“",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/114",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/114/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-115-2017",
+   "path": "local/bucuresti/sector-2/2017/115",
+   "short": "HCLS2 nr. 115/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 115/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/115",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/115/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-116-2017",
+   "path": "local/bucuresti/sector-2/2017/116",
+   "short": "HCLS2 nr. 116/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 116/2017 privind aprobarea modificării şi completării Hotărârii Consiliului Local Sector 2 nr. 88/2009 privind transmiterea unor terenuri din administrarea Consiliului Local Sector 2 în administrarea Administraţiei Domeniului Public Sector 2, în vederea realizării unui drum de acces",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/116",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/116/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-117-2017",
+   "path": "local/bucuresti/sector-2/2017/117",
+   "short": "HCLS2 nr. 117/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 117/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/117",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/117/download",
      "sha256": null
     }
    ]
@@ -48,6 +348,201 @@
    ]
   },
   {
+   "slug": "hcls2-12-2017",
+   "path": "local/bucuresti/sector-2/2017/12",
+   "short": "HCLS2 nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 12/2017 pentru aprobarea Protocolului de colaborare între Administrația Domeniului Public Sector 2 și Direcția Generală pentru Administrarea Patrimoniului Imobiliar Sector 2",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/12",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/12/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-120-2017",
+   "path": "local/bucuresti/sector-2/2017/120",
+   "short": "HCLS2 nr. 120/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 120/2017 pentru modificarea şi completarea HCL Sector 2 nr. 16/2017 privind aprobarea reţelei unităţilor de învăţământ preuniversitar de stat şi particular care vor funcţiona la nivelul Sectorului 2 al Municipiului Bucureşti începând cu anul şcolar 2017 – 2018, astfel cum a fost modificată prin HCL Sector 2 nr. 50/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/120",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/120/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-121-2017",
+   "path": "local/bucuresti/sector-2/2017/121",
+   "short": "HCLS2 nr. 121/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 121/2017 pentru modificarea şi completarea Hotărârii Consiliului Local Sector 2 nr. 49/2005 privind aprobarea contractării unui împrumut intern pe termen lung de către Consiliul Local al Sectorului 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/121",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/121/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-122-2017",
+   "path": "local/bucuresti/sector-2/2017/122",
+   "short": "HCLS2 nr. 122/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 122/2017 privind rectificarea bugetului general al Sectorului 2 al Municipiului Bucureşti pe anul 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/122",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/122/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-123-2017",
+   "path": "local/bucuresti/sector-2/2017/123",
+   "short": "HCLS2 nr. 123/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 123/2017 pentru finanțarea programelor sportive ale Asociației ”Sport Club Juventus București” începând cu anul sportiv competițional 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/123",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/123/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-124-2017",
+   "path": "local/bucuresti/sector-2/2017/124",
+   "short": "HCLS2 nr. 124/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 124/2017 pentru alegerea preşedintelui de şedinţă pe o perioadă de 3 luni",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/124",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/124/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-125-2017",
+   "path": "local/bucuresti/sector-2/2017/125",
+   "short": "HCLS2 nr. 125/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 125/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/125",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/125/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-126-2017",
+   "path": "local/bucuresti/sector-2/2017/126",
+   "short": "HCLS2 nr. 126/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 126/2017 pentru modificarea şi completarea Hotărârii Consiliului Local Sector 2 nr. 199/2016 privind aprobarea documentaţiei de organizare şi desfăşurare a licitaţiei publice pentru închirierea spaţiilor/terenurilor temporar disponibile aflate în incinta unităţilor de învăţământ preuniversitar de stat de pe raza Sectorului 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/126",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/126/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-127-2017",
+   "path": "local/bucuresti/sector-2/2017/127",
+   "short": "HCLS2 nr. 127/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 127/2017 privind constituirea Echipei Intersectoriale Locale Sector 2",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/127",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/127/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-128-2017",
+   "path": "local/bucuresti/sector-2/2017/128",
+   "short": "HCLS2 nr. 128/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 128/2017 privind înființarea și componența Comisiei pentru Protecţia Copilului Sector 2 Modificată/completată prin HCL S2 nr. 123/2019 , HCL S2 nr. 152/2019 , HCL S2 nr. 177/2020 , HCL S2 nr. 11/2020 , HCL S2 nr. 301/2021 , HCL S2 nr. 31/2022 , HCL S2 nr. 287/2022 , HCL S2 nr. 9/2023 , HCL S2 nr. 368/2023 , HCL S2 nr. 184/2024 , HCL S2 nr. 258/2024 , HCL S2 nr. 361/2024 , HCL S2 nr. 312/2025",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/128",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/128/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-129-2017",
+   "path": "local/bucuresti/sector-2/2017/129",
+   "short": "HCLS2 nr. 129/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 129/2017 privind solicitarea c ătre Consiliul General al Municipiului Bucureşti pentru modificarea art. 1 din Hotărârea Consiliului General al Municipiului Bucureşti nr. 288/09.10.2003 privind atribuirea spa ţiului situat în B-dul Basarabia nr.96, sector 2, din administrarea Consiliului General al Municipiului București în administrarea Consiliului Local al Sectorului 2 al Municipiului București",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/129",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/129/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-13-2017",
+   "path": "local/bucuresti/sector-2/2017/13",
+   "short": "HCLS2 nr. 13/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 13/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/13",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/13/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-130-2017",
+   "path": "local/bucuresti/sector-2/2017/130",
+   "short": "HCLS2 nr. 130/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 130/2017 privind solicitarea către Consiliul General al Municipiului București pentru modificarea art. 1 din Hotărârea Consiliului General al Municipiului București nr. 146/13.04.2009 privind transmiterea unui teren aparținând domeniului privat al Municipiului București, în administrarea Consiliului Local al Sectorului 2, în scopul realizării de locuințe sociale",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/130",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/130/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls2-131-2017",
    "path": "local/bucuresti/sector-2/2017/131",
    "short": "HCLS2 nr. 131/2017",
@@ -63,6 +558,171 @@
    ]
   },
   {
+   "slug": "hcls2-132-2017",
+   "path": "local/bucuresti/sector-2/2017/132",
+   "short": "HCLS2 nr. 132/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 132/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/132",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/132/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-133-2017",
+   "path": "local/bucuresti/sector-2/2017/133",
+   "short": "HCLS2 nr. 133/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 133/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/133",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/133/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-134-2017",
+   "path": "local/bucuresti/sector-2/2017/134",
+   "short": "HCLS2 nr. 134/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 134/2017 pentru modificarea şi completarea Hotărârii Consiliului Local Sector 2 nr. 128/2017 privind înființarea și componența Comisiei pentru Protecţia Copilului Sector 2 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 123/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/134",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/134/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-135-2017",
+   "path": "local/bucuresti/sector-2/2017/135",
+   "short": "HCLS2 nr. 135/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 135/2017 privind aprobarea Programului de îmbunătățire a eficienței energetice-PIEE al Sectorului 2 al Municipiului București pentru perioada 2017-2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/135",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/135/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-136-2017",
+   "path": "local/bucuresti/sector-2/2017/136",
+   "short": "HCLS2 nr. 136/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 136/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/136",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/136/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-137-2017",
+   "path": "local/bucuresti/sector-2/2017/137",
+   "short": "HCLS2 nr. 137/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 137/2017 pentru aprobarea Protocolului de colaborare între Administrația Domeniului Public Sector 2 și Sectorul 2 al Municipiului Bucureşti - Direcţia Publică de Evidenţă Persoane şi Stare Civilă Sector 2",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/137",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/137/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-138-2017",
+   "path": "local/bucuresti/sector-2/2017/138",
+   "short": "HCLS2 nr. 138/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 138/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/138",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/138/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-139-2017",
+   "path": "local/bucuresti/sector-2/2017/139",
+   "short": "HCLS2 nr. 139/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 139/2017 privind aprobarea Strategiei de dezvoltare locală integratăși durabilă a Sectorului 2 pentru perioada 2016-2025 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 67/2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/139",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/139/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-14-2017",
+   "path": "local/bucuresti/sector-2/2017/14",
+   "short": "HCLS2 nr. 14/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 14/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/14",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/14/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-140-2017",
+   "path": "local/bucuresti/sector-2/2017/140",
+   "short": "HCLS2 nr. 140/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 140/2017 privind acordarea unui sprijin financiar pentru Parohia Parc Plumbuita",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/140",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/140/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-141-2017",
+   "path": "local/bucuresti/sector-2/2017/141",
+   "short": "HCLS2 nr. 141/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 141/2017 privind aprobarea dezmembrării unor suprafețe de teren situate în București, Sector 2",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/141",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/141/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls2-142-2017",
    "path": "local/bucuresti/sector-2/2017/142",
    "short": "HCLS2 nr. 142/2017",
@@ -73,6 +733,1581 @@
      "from": "2018-07-10",
      "units": 1,
      "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/142/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-143-2017",
+   "path": "local/bucuresti/sector-2/2017/143",
+   "short": "HCLS2 nr. 143/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 143/2017 privind aprobarea documentației tehnico – economice faza DALI și a indicatorilor tehnico – economici pentru proiectul ”Eficientizare energetică prin reabilitare/modernizare a Liceului Teoretic Lucian Blaga” Modificată/completată prin HCL S2 nr. 205/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/143",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/143/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-144-2017",
+   "path": "local/bucuresti/sector-2/2017/144",
+   "short": "HCLS2 nr. 144/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 144/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/144",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/144/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-145-2017",
+   "path": "local/bucuresti/sector-2/2017/145",
+   "short": "HCLS2 nr. 145/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 145/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/145",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/145/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-146-2017",
+   "path": "local/bucuresti/sector-2/2017/146",
+   "short": "HCLS2 nr. 146/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 146/2017 privind aprobarea documentației tehnico – economice faza DALI și a indicatorilor tehnico- economici pentru proiectul ”Eficientizare energetică prin reabilitare/modernizare a Școlii nr. 64 Ferdinand I” Modificată/completată prin HCL S2 nr. 32/2020 , HCL S2 nr. 140/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/146",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/146/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-147-2017",
+   "path": "local/bucuresti/sector-2/2017/147",
+   "short": "HCLS2 nr. 147/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 147/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/147",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/147/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-148-2017",
+   "path": "local/bucuresti/sector-2/2017/148",
+   "short": "HCLS2 nr. 148/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 148/2017 privind aprobarea proiectului <<Eficientizare energetică prin reabilitare/modernizare a Liceului Teoretic ,,Lucian Blaga”>>, Axa prioritară 3, Prioritatea de investiție 3.1, Operatiunea B – Cladiri publice , Apel de proiecte POR/2016/3/3.1/B/1/BI Modificată/completată prin HCL S2 nr. 204/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/148",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/148/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-149-2017",
+   "path": "local/bucuresti/sector-2/2017/149",
+   "short": "HCLS2 nr. 149/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 149/2017 privind aprobarea proiectului <<Eficientizare energetică prin reabilitare/modernizare a Școlii nr. 64 – „Ferdinand I”>>, Axa prioritară 3, Prioritatea de investiție 3.1, Operatiunea B – Cladiri publice, Apel de proiecte POR/2016/3/3.1/B/1/BI",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/149",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/149/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-15-2017",
+   "path": "local/bucuresti/sector-2/2017/15",
+   "short": "HCLS2 nr. 15/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 15/2017 privind desemnarea reprezentanților Consiliului Local al Sectorului 2 în comisiile de evaluare a propunerilor de proiecte depuse conform Regulamentului cadru privind regimul finanțărilor nerambursabile din fondurile bugetului local al Sectorului 2 al Municipiului București, alocate pentru activități nonprofit potrivit legii nr. 350/2005",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/15",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/15/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-150-2017",
+   "path": "local/bucuresti/sector-2/2017/150",
+   "short": "HCLS2 nr. 150/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 150/2017 privind aprobarea contului de execuție al bugetului general al Sectorului 2 al Municipiului București la 30.06.2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/150",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/150/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-151-2017",
+   "path": "local/bucuresti/sector-2/2017/151",
+   "short": "HCLS2 nr. 151/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 151/2017 privind rectificarea bugetului general al Sectorului 2 al Municipiului Bucureşti pe anul 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/151",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/151/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-152-2017",
+   "path": "local/bucuresti/sector-2/2017/152",
+   "short": "HCLS2 nr. 152/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 152/2017 privind respingerea documentaţiei de urbanism PUD nStrada Frederic Chopin nr. 15A, Sectorul 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/152",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/152/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-153-2017",
+   "path": "local/bucuresti/sector-2/2017/153",
+   "short": "HCLS2 nr. 153/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 153/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/153",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/153/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-154-2017",
+   "path": "local/bucuresti/sector-2/2017/154",
+   "short": "HCLS2 nr. 154/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 154/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/154",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/154/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-155-2017",
+   "path": "local/bucuresti/sector-2/2017/155",
+   "short": "HCLS2 nr. 155/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 155/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/155",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/155/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-156-2017",
+   "path": "local/bucuresti/sector-2/2017/156",
+   "short": "HCLS2 nr. 156/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 156/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/156",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/156/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-157-2017",
+   "path": "local/bucuresti/sector-2/2017/157",
+   "short": "HCLS2 nr. 157/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 157/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/157",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/157/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-158-2017",
+   "path": "local/bucuresti/sector-2/2017/158",
+   "short": "HCLS2 nr. 158/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 158/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/158",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/158/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-159-2017",
+   "path": "local/bucuresti/sector-2/2017/159",
+   "short": "HCLS2 nr. 159/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 159/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/159",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/159/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-16-2017",
+   "path": "local/bucuresti/sector-2/2017/16",
+   "short": "HCLS2 nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 16/2017 privind aprobarea reţelei unităţilor de învăţământ preuniversitar de stat şi particular care vor funcţiona la nivelul Sectorului 2 al Municipiului Bucureşti începând cu anul şcolar 2017 – 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/16",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/16/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-160-2017",
+   "path": "local/bucuresti/sector-2/2017/160",
+   "short": "HCLS2 nr. 160/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 160/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/160",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/160/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-161-2017",
+   "path": "local/bucuresti/sector-2/2017/161",
+   "short": "HCLS2 nr. 161/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 161/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/161",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/161/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-162-2017",
+   "path": "local/bucuresti/sector-2/2017/162",
+   "short": "HCLS2 nr. 162/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 162/2017 privind acordarea unui sprijin financiar pentru Mănăstirea Plumbuita",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/162",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/162/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-163-2017",
+   "path": "local/bucuresti/sector-2/2017/163",
+   "short": "HCLS2 nr. 163/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 163/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/163",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/163/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-164-2017",
+   "path": "local/bucuresti/sector-2/2017/164",
+   "short": "HCLS2 nr. 164/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 164/2017 privind acordarea unui sprijin financiar pentru Parohia Oborul Vechi",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/164",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/164/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-165-2017",
+   "path": "local/bucuresti/sector-2/2017/165",
+   "short": "HCLS2 nr. 165/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 165/2017 privind acordarea unui sprijin financiar pentru Parohia Sf. Voievozi Gherghiceanu",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/165",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/165/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-166-2017",
+   "path": "local/bucuresti/sector-2/2017/166",
+   "short": "HCLS2 nr. 166/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 166/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/166",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/166/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-167-2017",
+   "path": "local/bucuresti/sector-2/2017/167",
+   "short": "HCLS2 nr. 167/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 167/2017 privind acordarea unui sprijin financiar pentru Parohia Sfinţi",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/167",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/167/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-168-2017",
+   "path": "local/bucuresti/sector-2/2017/168",
+   "short": "HCLS2 nr. 168/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 168/2017 privind aprobarea denumirii unei unități de învățământ preuniversitar particular care va funcționa la nivelul Sectorului 2 al Municipiului București începând cu anul școlar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/168",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/168/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-169-2017",
+   "path": "local/bucuresti/sector-2/2017/169",
+   "short": "HCLS2 nr. 169/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 169/2017 privind aprobarea denumirii unei unităţi de învăţământ preuniversitar particular care va funcţiona la nivelul Sectorului 2 al Municipiului Bucureşti începând cu anul şcolar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/169",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/169/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-17-2017",
+   "path": "local/bucuresti/sector-2/2017/17",
+   "short": "HCLS2 nr. 17/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 17/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/17",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/17/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-170-2017",
+   "path": "local/bucuresti/sector-2/2017/170",
+   "short": "HCLS2 nr. 170/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 170/2017 privind aprobarea denumirii unei unităţi de învăţământ preuniversitar particular care va funcţiona la nivelul Sectorului 2 al Municipiului Bucureşti începând cu anul şcolar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/170",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/170/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-171-2017",
+   "path": "local/bucuresti/sector-2/2017/171",
+   "short": "HCLS2 nr. 171/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 171/2017 privind aprobarea denumirii unei unități de învățământ preuniversitar particular care va funcționa la nivelul Sectorului 2 al Municipiului București începând cu anul școlar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/171",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/171/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-172-2017",
+   "path": "local/bucuresti/sector-2/2017/172",
+   "short": "HCLS2 nr. 172/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 172/2017 privind aprobarea ordinii de prioritate pe anul 2017 a cererilor depuse conform Legii nr. 15/2003, republicată, cu modificările şi completările ulterioare",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/172",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/172/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-173-2017",
+   "path": "local/bucuresti/sector-2/2017/173",
+   "short": "HCLS2 nr. 173/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 173/2017 privind aprobarea Planului de ocupare a funcţiilor publice la nivelul aparatului de specialitate al Primarului Sectorului 2 şi serviciilor publice subordonate Consiliului Local Sector 2 pentru anul 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/173",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/173/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-174-2017",
+   "path": "local/bucuresti/sector-2/2017/174",
+   "short": "HCLS2 nr. 174/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 174/2017 privind aprobarea Organigramei, Statului de funcţii şi Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului Sectorului 2 și al Direcţiei Publice de Evidenţă Persoane şi Stare Civilă Sector 2 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 100/2022 Modificată/completată prin HCL S2 nr. 195/2017 , HCL S2 nr. 90/2018 , HCL S2 nr. 324/2018 , HCL S2 nr. 331/2018 , HCL S2 nr. 26/2019 , HCL S2 nr. 136/2019 , HCL S2 nr. 364/2019 , HCL S2 nr. 2/2020",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/174",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/174/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-175-2017",
+   "path": "local/bucuresti/sector-2/2017/175",
+   "short": "HCLS2 nr. 175/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 175/2017 privind aprobarea Organigramei, Statului de funcţii şi Regulamentului de Organizare şi Funcţionare ale Direcţiei Generale pentru Administrarea Patrimoniului Imobiliar Sector 2 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 346/2019 Modificată/completată prin HCL S2 nr. 47/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/175",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/175/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-176-2017",
+   "path": "local/bucuresti/sector-2/2017/176",
+   "short": "HCLS2 nr. 176/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 176/2017 privind aprobarea Organigramei, Statului de funcții şi Regulamentului de Organizare şi Funcționare ale Centrului Cultural „Mihai Eminescu” Abrogată/Încetare aplicabilitate prin HCL S2 nr. 201/2021 Modificată/completată prin HCL S2 nr. 73/2018 , HCL S2 nr. 343/2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/176",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/176/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-177-2017",
+   "path": "local/bucuresti/sector-2/2017/177",
+   "short": "HCLS2 nr. 177/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 177/2017 privind desemnarea reprezentanţilor Consiliului Local Sector 2 în Comisiile pentru evaluarea şi asigurarea calităţii în unităţile de învăţământ preuniversitar de stat şi unităţile de învăţământ particular care funcţionează pe raza Sectorului 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/177",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/177/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-178-2017",
+   "path": "local/bucuresti/sector-2/2017/178",
+   "short": "HCLS2 nr. 178/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 178/2017 privind desemnarea reprezentanţilor Consiliului Local al Sectorului 2 în consiliile de administraţie ale unităţilor de învăţământ preuniversitar de stat şi particular",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/178",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/178/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-179-2017",
+   "path": "local/bucuresti/sector-2/2017/179",
+   "short": "HCLS2 nr. 179/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 179/2017 privind aprobarea Studiului de oportunitate privind Serviciul public de salubrizare din Sectorul 2 al Municipiului București și a modalității de gestiune a serviciului de salubrizare Abrogată/Încetare aplicabilitate prin HCL S2 nr. 68/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/179",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/179/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-18-2017",
+   "path": "local/bucuresti/sector-2/2017/18",
+   "short": "HCLS2 nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 18/2017 privind aprobarea comunicării prin mijloace electronice de transmitere la distanță a actelor administrativ fiscale",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/18",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/18/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-180-2017",
+   "path": "local/bucuresti/sector-2/2017/180",
+   "short": "HCLS2 nr. 180/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 180/2017 privind solicitarea acordului Consiliului General al Municipiului Bucureşti pentru asocierea Sectorului 2 al Municipiului Bucureşti cu persoane juridice în vederea realizării unui proiect de interes public local – “Complex pentru managementul integrat al deşeurilor din Sectorul 2 Bucureşti”, din fonduri private, destinat reducerii cantităţilor de deşeuri eliminate prin depozitare şi îndeplinirii obiectivelor anuale stabilite prin actele normative incidente",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/180",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/180/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-181-2017",
+   "path": "local/bucuresti/sector-2/2017/181",
+   "short": "HCLS2 nr. 181/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 181/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/181",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/181/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-182-2017",
+   "path": "local/bucuresti/sector-2/2017/182",
+   "short": "HCLS2 nr. 182/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 182/2017 pentru modificarea unor acte administrative adoptate de Consiliul Local Sector 2 privind creşterea performanţei energetice a unor blocuri de locuinţe din Sectorul 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/182",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/182/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-183-2017",
+   "path": "local/bucuresti/sector-2/2017/183",
+   "short": "HCLS2 nr. 183/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 183/2017 privind aprobarea proiectului cultural ,,Colinde pentru suflet “ realizat de Centrul Cultural Mihai Eminescu în luna decembrie 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/183",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/183/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-184-2017",
+   "path": "local/bucuresti/sector-2/2017/184",
+   "short": "HCLS2 nr. 184/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 184/2017 privind transmiterea unui imobil din administrarea Consiliului Local Sector 2 în administrarea Direcţiei Generale de Asistenţă Socialăşi Protecţia Copilului Sector 2",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/184",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/184/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-185-2017",
+   "path": "local/bucuresti/sector-2/2017/185",
+   "short": "HCLS2 nr. 185/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 185/2017 privind transmiterea unui imobil din administrarea Direcției Generale de Asistență Socialăși Protecția Copilului Sector 2 în administrarea Centrului Cultural „Mihai Eminescu” Modificată/completată prin HCL S2 nr. 316/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/185",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/185/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-186-2017",
+   "path": "local/bucuresti/sector-2/2017/186",
+   "short": "HCLS2 nr. 186/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 186/2017 privind aprobarea contului de execuție al bugetului general al Sectorului 2 al Municipiului București la 30.09.2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/186",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/186/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-187-2017",
+   "path": "local/bucuresti/sector-2/2017/187",
+   "short": "HCLS2 nr. 187/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 187/2017 privind rectificarea bugetului general al Sectorului 2 al Municipiului Bucureşti pe anul 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/187",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/187/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-19-2017",
+   "path": "local/bucuresti/sector-2/2017/19",
+   "short": "HCLS2 nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 19/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/19",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/19/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-191-2017",
+   "path": "local/bucuresti/sector-2/2017/191",
+   "short": "HCLS2 nr. 191/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 191/2017 pentru alegerea preşedintelui de şedinţă pe o perioadă de 3 luni",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/191",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/191/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-192-2017",
+   "path": "local/bucuresti/sector-2/2017/192",
+   "short": "HCLS2 nr. 192/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 192/2017 privind aprobarea cofinanțării proiectului Cod apel: POCU/74/6/18, Cod proiect: 107007, Componenta 1 - Programul ȘCOALA PENTRU TOȚI, Axă prioritară - Educație și Competențe, denumire: FRIENDS - Facilitarea Revitalizării Integrate a Educației Necesare unei Dezvoltări Sustenabile",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/192",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/192/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-193-2017",
+   "path": "local/bucuresti/sector-2/2017/193",
+   "short": "HCLS2 nr. 193/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 193/2017 privind stabilirea ordinii de prioritate pentru acordarea de locuinţe, conform Legii nr. 114/1996, valabilă pentru anul 2018 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 391/2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/193",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/193/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-194-2017",
+   "path": "local/bucuresti/sector-2/2017/194",
+   "short": "HCLS2 nr. 194/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 194/2017 privind aprobarea componen ţei Colegiului Director al Direcţiei Generale de Asistenţă Socială si Protecţia Copilului Sector 2 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 85/2021 Modificată/completată prin HCL S2 nr. 122/2019 , HCL S2 nr. 337/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/194",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/194/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-195-2017",
+   "path": "local/bucuresti/sector-2/2017/195",
+   "short": "HCLS2 nr. 195/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 195/2017 pentru modificarea Anexei 3 la HCL Sector 2 nr. 174/13.11.2017 privind aprobarea Organigramei, Statului de Funcții si Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului Sectorului 2 și al Direcţiei Publice de Evidenţă Persoane şi Stare Civilă Sector 2 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 324/2018 Modifică/completează HCL S2 nr. 174/2017 Modificată/completată prin HCL S2 nr. 90/2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/195",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/195/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-196-2017",
+   "path": "local/bucuresti/sector-2/2017/196",
+   "short": "HCLS2 nr. 196/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 196/2017 privind rectificarea bugetului general al Sectorului 2 al Municipiului Bucureşti pe anul 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-196",
+   "versions": [
+    {
+     "from": "2018-07-19",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-196/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-197-2017",
+   "path": "local/bucuresti/sector-2/2017/197",
+   "short": "HCLS2 nr. 197/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 197/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/197",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/197/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-198-2017",
+   "path": "local/bucuresti/sector-2/2017/198",
+   "short": "HCLS2 nr. 198/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 198/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/198",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/198/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-199-2017",
+   "path": "local/bucuresti/sector-2/2017/199",
+   "short": "HCLS2 nr. 199/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 199/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/199",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/199/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-2-2017",
+   "path": "local/bucuresti/sector-2/2017/2",
+   "short": "HCLS2 nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 2/2017 privind acoperirea definitivă din excedentul bugetului local al Sectorului 2 pe anul 2016 a deficitului secţiunii de dezvoltare și stabilirea excedentului bugetului local al Sectorului 2 al Municipiului București pe anul 2016",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/2",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-20-2017",
+   "path": "local/bucuresti/sector-2/2017/20",
+   "short": "HCLS2 nr. 20/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 20/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/20",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/20/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-200-2017",
+   "path": "local/bucuresti/sector-2/2017/200",
+   "short": "HCLS2 nr. 200/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 200/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/200",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/200/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-201-2017",
+   "path": "local/bucuresti/sector-2/2017/201",
+   "short": "HCLS2 nr. 201/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 201/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/201",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/201/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-202-2017",
+   "path": "local/bucuresti/sector-2/2017/202",
+   "short": "HCLS2 nr. 202/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 202/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/202",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/202/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-203-2017",
+   "path": "local/bucuresti/sector-2/2017/203",
+   "short": "HCLS2 nr. 203/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 203/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/203",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/203/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-204-2017",
+   "path": "local/bucuresti/sector-2/2017/204",
+   "short": "HCLS2 nr. 204/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 204/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/204",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/204/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-205-2017",
+   "path": "local/bucuresti/sector-2/2017/205",
+   "short": "HCLS2 nr. 205/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 205/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/205",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/205/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-206-2017",
+   "path": "local/bucuresti/sector-2/2017/206",
+   "short": "HCLS2 nr. 206/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 206/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/206",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/206/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-207-2017",
+   "path": "local/bucuresti/sector-2/2017/207",
+   "short": "HCLS2 nr. 207/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 207/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/207",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/207/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-208-2017",
+   "path": "local/bucuresti/sector-2/2017/208",
+   "short": "HCLS2 nr. 208/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 208/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/208",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/208/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-209-2017",
+   "path": "local/bucuresti/sector-2/2017/209",
+   "short": "HCLS2 nr. 209/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 209/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/209",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/209/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-21-2017",
+   "path": "local/bucuresti/sector-2/2017/21",
+   "short": "HCLS2 nr. 21/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 21/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/21",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/21/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-210-2017",
+   "path": "local/bucuresti/sector-2/2017/210",
+   "short": "HCLS2 nr. 210/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 210/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/210",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/210/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-211-2017",
+   "path": "local/bucuresti/sector-2/2017/211",
+   "short": "HCLS2 nr. 211/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 211/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/211",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/211/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-212-2017",
+   "path": "local/bucuresti/sector-2/2017/212",
+   "short": "HCLS2 nr. 212/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 212/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/212",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/212/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-213-2017",
+   "path": "local/bucuresti/sector-2/2017/213",
+   "short": "HCLS2 nr. 213/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 213/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/213",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/213/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-214-2017",
+   "path": "local/bucuresti/sector-2/2017/214",
+   "short": "HCLS2 nr. 214/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 214/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/214",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/214/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-215-2017",
+   "path": "local/bucuresti/sector-2/2017/215",
+   "short": "HCLS2 nr. 215/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 215/2017 privind solicitarea Consiliului Local al Sectorului 2 adresată Consiliului General al Municipiului București de schimbare a denumirii Parcului Tolbuhin",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/215",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/215/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-216-2017",
+   "path": "local/bucuresti/sector-2/2017/216",
+   "short": "HCLS2 nr. 216/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 216/2017 privind solicitarea către Consiliul General al Municipiului București pentru împuternicirea Consiliului Local Sector 2 în vederea aderării Sectorului 2 la ,,Conv enţia Primarilor privind Clima şi Energia ”",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/216",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/216/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-217-2017",
+   "path": "local/bucuresti/sector-2/2017/217",
+   "short": "HCLS2 nr. 217/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 217/2017 privind aprobarea denumirii unei unități de învățământ preuniversitar particular care va funcționa la nivelul Sectorului 2 al Municipiului București începând cu anul școlar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/217",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/217/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-218-2017",
+   "path": "local/bucuresti/sector-2/2017/218",
+   "short": "HCLS2 nr. 218/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 218/2017 privind aprobarea denumirii unei unităţi de învăţământ preuniversitar particular care va funcţiona la nivelul Sectorului 2 al Municipiului Bucureşti începând cu anul şcolar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/218",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/218/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-219-2017",
+   "path": "local/bucuresti/sector-2/2017/219",
+   "short": "HCLS2 nr. 219/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 219/2017 privind aprobarea denumirii unei unităţi de învăţământ preuniversitar particular care va funcţiona la nivelul Sectorului 2 al Municipiului Bucureşti începând cu anul şcolar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/219",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/219/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-22-2017",
+   "path": "local/bucuresti/sector-2/2017/22",
+   "short": "HCLS2 nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 22/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/22",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/22/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-220-2017",
+   "path": "local/bucuresti/sector-2/2017/220",
+   "short": "HCLS2 nr. 220/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 220/2017 privind aprobarea denumirii unei unităţi de învăţământ preuniversitar particular care va funcţiona la nivelul Sectorului 2 al Municipiului Bucureşti începând cu anul şcolar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/220",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/220/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-221-2017",
+   "path": "local/bucuresti/sector-2/2017/221",
+   "short": "HCLS2 nr. 221/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 221/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/221",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/221/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-222-2017",
+   "path": "local/bucuresti/sector-2/2017/222",
+   "short": "HCLS2 nr. 222/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 222/2017 privind aprobarea Organigramei, Statului de funcţii şi a Regulamentului de Organizare şi Funcţionare ale Administraţiei Domeniului Public Sector 2 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 309/2019 Modificată/completată prin HCL S2 nr. 345/2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/222",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/222/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-223-2017",
+   "path": "local/bucuresti/sector-2/2017/223",
+   "short": "HCLS2 nr. 223/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 223/2017 pentru modificarea şi completarea HCL Sector 2 nr. 16/2017 privind aprobarea reţelei unităţilor de învăţământ preuniversitar de stat şi particular care vor funcţiona la nivelul Sectorului 2 al Municipiului Bucureşti începând cu anul şcolar 2017 – 2018, astfel cum a fost modificatăşi completată prin HCL Sector 2 nr. 50/2017 şi H.C.L.Sector 2 nr. 120/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/223",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/223/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-224-2017",
+   "path": "local/bucuresti/sector-2/2017/224",
+   "short": "HCLS2 nr. 224/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 224/2017 privind aprobarea asigurării finanțării de la bugetul local a cheltuielilor neeligibile care nu se finanțează de la bugetul de stat în cadrul Programului Național de Dezvoltare Locală 2017 - 2020 Modificată/completată prin HCL S2 nr. 99/2020 , HCL S2 nr. 111/2021 , HCL S2 nr. 330/2021 , HCL S2 nr. 359/2021 , HCL S2 nr. 118/2022 , HCL S2 nr. 229/2022 , HCL S2 nr. 271/2022 , HCL S2 nr. 365/2025",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/224",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/224/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-225-2017",
+   "path": "local/bucuresti/sector-2/2017/225",
+   "short": "HCLS2 nr. 225/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 225/2017 privind aprobarea normativului consumurilor anuale de echipament, cazarmament, produse de igienă personalăși rechizite pentru beneficiarii aflați în sistemul de protecție socială al Direcţiei Generale de Asistenţă Socialăşi Protecţia Copilului Sector 2, copii și persoane adulte Abrogată / Încetare aplicabilitate prin HCL S2 nr. 267/2025",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/225",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/225/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-226-2017",
+   "path": "local/bucuresti/sector-2/2017/226",
+   "short": "HCLS2 nr. 226/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 226/2017 privind modificarea şi completarea unor acte administrative emise de Consiliul Local Sector 2 Modificată/completată prin HCL S2 nr. 199/2019 Modifică/completează HCL S2 nr. 88/2002, HCL S2 nr. 120/2002",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/226",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/226/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-227-2017",
+   "path": "local/bucuresti/sector-2/2017/227",
+   "short": "HCLS2 nr. 227/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 227/2017 privind acordarea unui sprijin financiar pentru Parohia Sf. Pantelimon (situaţia nr. 1)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/227",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/227/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-228-2017",
+   "path": "local/bucuresti/sector-2/2017/228",
+   "short": "HCLS2 nr. 228/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 228/2017 privind acordarea unui sprijin financiar pentru Parohia Sfinţi (situaţia nr. 2)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/228",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/228/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-229-2017",
+   "path": "local/bucuresti/sector-2/2017/229",
+   "short": "HCLS2 nr. 229/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 229/2017 privind acordarea unui sprijin financiar pentru Parohia Sfinţi (situaţia nr. 3)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/229",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/229/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-23-2017",
+   "path": "local/bucuresti/sector-2/2017/23",
+   "short": "HCLS2 nr. 23/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 23/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/23",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/23/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-230-2017",
+   "path": "local/bucuresti/sector-2/2017/230",
+   "short": "HCLS2 nr. 230/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 230/2017 privind acordarea unui sprijin financiar pentru Mănăstirea Plumbuita (situaţia nr. 2)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/230",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/230/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-231-2017",
+   "path": "local/bucuresti/sector-2/2017/231",
+   "short": "HCLS2 nr. 231/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 231/2017 privind acordarea unui sprijin financiar pentru Parohia Oborul Vechi (situaţia nr. 2)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/231",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/231/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-232-2017",
+   "path": "local/bucuresti/sector-2/2017/232",
+   "short": "HCLS2 nr. 232/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 232/2017 privind acordarea unui sprijin financiar pentru Parohia Oborul Vechi (situaţia nr. 3)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/232",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/232/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-233-2017",
+   "path": "local/bucuresti/sector-2/2017/233",
+   "short": "HCLS2 nr. 233/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 233/2017 privind acordarea unui sprijin financiar pentru Parohia Popa Soare (situaţia nr. 1)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/233",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/233/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-234-2017",
+   "path": "local/bucuresti/sector-2/2017/234",
+   "short": "HCLS2 nr. 234/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 234/2017 privind acordarea unui sprijin financiar pentru Parohia Iancu Nou Bălăneanu ( situaţia nr.2)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/234",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/234/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-235-2017",
+   "path": "local/bucuresti/sector-2/2017/235",
+   "short": "HCLS2 nr. 235/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 235/2017 privind acordarea unui sprijin financiar pentru Parohia Iancu Nou Bălăneanu ( situaţia nr.3 )",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/235",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/235/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-236-2017",
+   "path": "local/bucuresti/sector-2/2017/236",
+   "short": "HCLS2 nr. 236/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 236/2017 privind acordarea unui sprijin financiar pentru Parohia Sf. Ioan Botezătorul ( situaţia nr.1)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/236",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/236/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-237-2017",
+   "path": "local/bucuresti/sector-2/2017/237",
+   "short": "HCLS2 nr. 237/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 237/2017 privind acordarea unui sprijin financiar pentru Parohia Icoanei (situaţia nr. 1)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/237",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/237/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-238-2017",
+   "path": "local/bucuresti/sector-2/2017/238",
+   "short": "HCLS2 nr. 238/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 238/2017 privind transmiterea în administrarea Administraţiei Domeniului Public Sector 2 a bunurilor rezultate din derularea contractului de finanţare nr. 4919/02.12.2014, încheiat între Sectorul 2 şi Ministerul Dezvoltării Regionale şi Administraţiei Publice, prin Agenţia de dezvoltare Regională Bucureşti-Ilfov",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/238",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/238/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-239-2017",
+   "path": "local/bucuresti/sector-2/2017/239",
+   "short": "HCLS2 nr. 239/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 239/2017 privind solicitarea acordului Consiliului General al Municipiului București de schimbare a denumirii Parcului 8 Mai în Parcul Tei",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/239",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/239/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-24-2017",
+   "path": "local/bucuresti/sector-2/2017/24",
+   "short": "HCLS2 nr. 24/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 24/2017 privind aprobarea documentaţiei de urbanism PUD Ștr. Ciobănaşului nr. 11, Sectorul 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/24",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/24/download",
      "sha256": null
     }
    ]
@@ -108,6 +2343,711 @@
    ]
   },
   {
+   "slug": "hcls2-242-2017",
+   "path": "local/bucuresti/sector-2/2017/242",
+   "short": "HCLS2 nr. 242/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 242/2017 vi zând campania de informare privind traficul transna ţional de organe, adresatăîn special persoanelor vulnerabile, la nivelul Sectorului 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/242",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/242/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-243-2017",
+   "path": "local/bucuresti/sector-2/2017/243",
+   "short": "HCLS2 nr. 243/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 243/2017 privind administrarea veniturilor bugetului local ale Sectorului 2 al Municipiului București",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/243",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/243/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-244-2017",
+   "path": "local/bucuresti/sector-2/2017/244",
+   "short": "HCLS2 nr. 244/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 244/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/244",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/244/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-246-2017",
+   "path": "local/bucuresti/sector-2/2017/246",
+   "short": "HCLS2 nr. 246/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 246/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/246",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/246/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-247-2017",
+   "path": "local/bucuresti/sector-2/2017/247",
+   "short": "HCLS2 nr. 247/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 247/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/247",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/247/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-248-2017",
+   "path": "local/bucuresti/sector-2/2017/248",
+   "short": "HCLS2 nr. 248/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 248/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/248",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/248/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-249-2017",
+   "path": "local/bucuresti/sector-2/2017/249",
+   "short": "HCLS2 nr. 249/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 249/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/249",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/249/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-25-2017",
+   "path": "local/bucuresti/sector-2/2017/25",
+   "short": "HCLS2 nr. 25/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 25/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/25",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/25/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-250-2017",
+   "path": "local/bucuresti/sector-2/2017/250",
+   "short": "HCLS2 nr. 250/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 250/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/250",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/250/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-251-2017",
+   "path": "local/bucuresti/sector-2/2017/251",
+   "short": "HCLS2 nr. 251/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 251/2017 privind aprobarea documentaţiei de urbanism PUD Şoseaua Colentina nr.332 – 332A, Sectorul 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/251",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/251/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-252-2017",
+   "path": "local/bucuresti/sector-2/2017/252",
+   "short": "HCLS2 nr. 252/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 252/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/252",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/252/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-253-2017",
+   "path": "local/bucuresti/sector-2/2017/253",
+   "short": "HCLS2 nr. 253/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 253/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/253",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/253/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-254-2017",
+   "path": "local/bucuresti/sector-2/2017/254",
+   "short": "HCLS2 nr. 254/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 254/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/254",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/254/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-255-2017",
+   "path": "local/bucuresti/sector-2/2017/255",
+   "short": "HCLS2 nr. 255/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 255/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/255",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/255/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-256-2017",
+   "path": "local/bucuresti/sector-2/2017/256",
+   "short": "HCLS2 nr. 256/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 256/2017 privind aprobarea documentaţiei de urbanism PUD Şos. Andronache nr.122, Sectorul 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/256",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/256/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-257-2017",
+   "path": "local/bucuresti/sector-2/2017/257",
+   "short": "HCLS2 nr. 257/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 257/2017 privind aprobarea documentaţiei de urbanism PUD Şos. Dobroeşti nr.106, Sectorul 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/257",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/257/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-258-2017",
+   "path": "local/bucuresti/sector-2/2017/258",
+   "short": "HCLS2 nr. 258/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 258/2017 privind clarificarea aplicării unor prevederi din H.C.L Sector 2 nr. 122/2017, H.C.L Sector 2 nr. 187/2017 şi H.C.L Sector 2 nr. 196/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/258",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/258/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-259-2017",
+   "path": "local/bucuresti/sector-2/2017/259",
+   "short": "HCLS2 nr. 259/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 259/2017 privind validarea mandatului unui consilier local",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/259",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/259/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-26-2017",
+   "path": "local/bucuresti/sector-2/2017/26",
+   "short": "HCLS2 nr. 26/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 26/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/26",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/26/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-27-2017",
+   "path": "local/bucuresti/sector-2/2017/27",
+   "short": "HCLS2 nr. 27/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 27/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/27",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/27/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-28-2017",
+   "path": "local/bucuresti/sector-2/2017/28",
+   "short": "HCLS2 nr. 28/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 28/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/28",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/28/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-29-2017",
+   "path": "local/bucuresti/sector-2/2017/29",
+   "short": "HCLS2 nr. 29/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 29/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/29",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/29/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-3-2017",
+   "path": "local/bucuresti/sector-2/2017/3",
+   "short": "HCLS2 nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 3/2017 privind aprobarea propunerii Consiliului Local al Sectorului 2 referitoare la evaluarea performanţelor profesionale individuale ale Secretarului Sectorului 2",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/3",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/3/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-30-2017",
+   "path": "local/bucuresti/sector-2/2017/30",
+   "short": "HCLS2 nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 30/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/30",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/30/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-31-2017",
+   "path": "local/bucuresti/sector-2/2017/31",
+   "short": "HCLS2 nr. 31/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 31/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/31",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/31/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-32-2017",
+   "path": "local/bucuresti/sector-2/2017/32",
+   "short": "HCLS2 nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 32/2017 pentru alegerea preşedintelui de şedinţă pe o perioadă de 3 luni",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/32",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/32/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-33-2017",
+   "path": "local/bucuresti/sector-2/2017/33",
+   "short": "HCLS2 nr. 33/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 33/2017 privind transmiterea în administrare Poliţiei Locale Sector 2 a echipamentului rezultat din derularea Contractului de finanţare nr. 4920/27.11.2014 privind Proiectul ,,Sistem de monitorizare privind creşterea siguranţei în zona Plumbuita - Steaua Roşie-Petricani” încheiat între Sectorul 2 al Municipiului Bucureşti şi Ministerul Dezvoltării Regionale şi Administraţiei Publice prin Agenţia de Dezvoltare Regională Bucureşti-Ilfov",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/33",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/33/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-34-2017",
+   "path": "local/bucuresti/sector-2/2017/34",
+   "short": "HCLS2 nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 34/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/34",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/34/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-35-2017",
+   "path": "local/bucuresti/sector-2/2017/35",
+   "short": "HCLS2 nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 35/2017 privind modalitatea de repartizare a locuințelor construite prin Agenția Națională pentru Locuințe, aflate în administrarea Direcției Generale pentru Administrarea Patrimoniului Imobiliar Sector 2 Abrogată / Încetare aplicabilitate prin HCL S2 nr. 265/2026",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/35",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/35/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-36-2017",
+   "path": "local/bucuresti/sector-2/2017/36",
+   "short": "HCLS2 nr. 36/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 36/2017 privind aprobarea criteriilor pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe şi în repartizarea locuințelor pentru tineri, destinate închirierii în Sectorul 2 al Municipiului București Abrogată / Încetare aplicabilitate prin HCL S2 nr. 265/2026",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/36",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/36/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-37-2017",
+   "path": "local/bucuresti/sector-2/2017/37",
+   "short": "HCLS2 nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 37/2017 privind stabilirea ordinii de prioritate valabilă pentru anul 2017 în repartizarea locuinţelor pentru tineri–medici rezidenţi destinate închirierii",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/37",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/37/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-38-2017",
+   "path": "local/bucuresti/sector-2/2017/38",
+   "short": "HCLS2 nr. 38/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 38/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/38",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/38/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-39-2017",
+   "path": "local/bucuresti/sector-2/2017/39",
+   "short": "HCLS2 nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 39/2017 privind aprobarea denumirii unei unități de învățământ preuniversitar particular care va funcționa la nivelul Sectorului 2 al Municipiului București începând cu anul școlar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/39",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/39/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-4-2017",
+   "path": "local/bucuresti/sector-2/2017/4",
+   "short": "HCLS2 nr. 4/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 4/2017 privind solicitarea către Consiliul General al Municipiului București pentru împuternicirea Consiliului Local Sector 2 de aprobare a Regulamentului privind stabilirea condițiilor de impunere a supraimpozitării pe clădirile neîntreținute de pe raza Sectorului 2 al Municipiului București",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/4",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/4/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-40-2017",
+   "path": "local/bucuresti/sector-2/2017/40",
+   "short": "HCLS2 nr. 40/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 40/2017 privind aprobarea denumirii unei unități de învățământ preuniversitar particular care va funcționa la nivelul Sectorului 2 al Municipiului București începând cu anul școlar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/40",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/40/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-41-2017",
+   "path": "local/bucuresti/sector-2/2017/41",
+   "short": "HCLS2 nr. 41/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 41/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/41",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/41/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-42-2017",
+   "path": "local/bucuresti/sector-2/2017/42",
+   "short": "HCLS2 nr. 42/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 42/2017 privind scutirea de la plata impozitului pe clădiri pentru Asociaţia RAP",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/42",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/42/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-43-2017",
+   "path": "local/bucuresti/sector-2/2017/43",
+   "short": "HCLS2 nr. 43/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 43/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/43",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/43/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-44-2017",
+   "path": "local/bucuresti/sector-2/2017/44",
+   "short": "HCLS2 nr. 44/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 44/2017 privind efectuarea în comun a unor achiziţii specifice la nivelul Sectorului 2 al Municipiului Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/44",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/44/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-45-2017",
+   "path": "local/bucuresti/sector-2/2017/45",
+   "short": "HCLS2 nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 45/2017 pentru modificarea Hotărârii Consiliului Local Sector 2 nr. 46/2004 privind înfiinţarea şi componenţa nominală a Comisiei pentru Protecţia Copilului Sector 2, cu modificările şi completările ulterioare",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/45",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/45/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-46-2017",
+   "path": "local/bucuresti/sector-2/2017/46",
+   "short": "HCLS2 nr. 46/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 46/2017 privind aprobarea bugetului general al Sectorului 2 al Municipiului Bucureşti pe anul 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/46",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/46/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-47-2017",
+   "path": "local/bucuresti/sector-2/2017/47",
+   "short": "HCLS2 nr. 47/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 47/2017 privind aprobarea Planului Unic de Ordine şi Siguranţă Publică al Sectorului 2 al Municipiului Bucureşti pe anul 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/47",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/47/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-48-2017",
+   "path": "local/bucuresti/sector-2/2017/48",
+   "short": "HCLS2 nr. 48/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 48/2017 privind aprobarea Programului anual al finanțărilor nerambursabile alocate de la bugetul local al Sectorului 2 al Municipiului București în anul 2017, pentru activități nonprofit din domeniile: cultură, tineret, sport, religie, educație civică, învățământ, sănătate publică, social, protecția mediului, în condițiile Legii nr. 350/2005",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/48",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/48/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-49-2017",
+   "path": "local/bucuresti/sector-2/2017/49",
+   "short": "HCLS2 nr. 49/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 49/2017 privind aprobarea denumirii unei unități de învățământ preuniversitar particular care va funcționa la nivelul Sectorului 2 al Municipiului București începând cu anul școlar 2017 - 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/49",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/49/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-5-2017",
+   "path": "local/bucuresti/sector-2/2017/5",
+   "short": "HCLS2 nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 5/2017 privind solicitarea către Consiliul General al Municipiului București pentru împuternicirea Consiliului Local Sector 2 de aprobare a criteriilor de încadrare a terenurilor de pe raza Sectorului 2 în categoria terenurilor neîngrijite și supraimpozitarea acestora",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/5",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/5/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-50-2017",
+   "path": "local/bucuresti/sector-2/2017/50",
+   "short": "HCLS2 nr. 50/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 50/2017 pentru modificarea şi completarea HCL Sector 2 nr. 16/2017 privind aprobarea reţelei unităţilor de învăţământ preuniversitar de stat şi particular care vor funcţiona la nivelul Sectorului 2 al Municipiului Bucureşti începând cu anul şcolar 2017 – 2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/50",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/50/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-51-2017",
+   "path": "local/bucuresti/sector-2/2017/51",
+   "short": "HCLS2 nr. 51/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 51/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/51",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/51/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls2-52-2017",
    "path": "local/bucuresti/sector-2/2017/52",
    "short": "HCLS2 nr. 52/2017",
@@ -118,6 +3058,321 @@
      "from": "2018-07-10",
      "units": 1,
      "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/52/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-53-2017",
+   "path": "local/bucuresti/sector-2/2017/53",
+   "short": "HCLS2 nr. 53/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 53/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/53",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/53/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-54-2017",
+   "path": "local/bucuresti/sector-2/2017/54",
+   "short": "HCLS2 nr. 54/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 54/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/54",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/54/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-55-2017",
+   "path": "local/bucuresti/sector-2/2017/55",
+   "short": "HCLS2 nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 55/2017 pentru modificarea Hotărârii Consiliului Local Sector 2 nr.46/2004 privind înfiinţarea şi componenţa nominală a Comisiei pentru Protecţia Copilului Sector 2, cu modificările şi completările ulterioare",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/55",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/55/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-56-2017",
+   "path": "local/bucuresti/sector-2/2017/56",
+   "short": "HCLS2 nr. 56/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 56/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/56",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/56/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-57-2017",
+   "path": "local/bucuresti/sector-2/2017/57",
+   "short": "HCLS2 nr. 57/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 57/2017 privind aprobarea Studiului de fezabilitate pentru obiectivul „Montare colectori solari la clădirea Halei Terminal – Piaţa Obor”",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/57",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/57/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-58-2017",
+   "path": "local/bucuresti/sector-2/2017/58",
+   "short": "HCLS2 nr. 58/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 58/2017 privind aprobarea Studiului de fezabilitate pentru obiectivul „Branșament apă canal la clădirea Halei Terminal – Piața Obor”",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/58",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/58/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-59-2017",
+   "path": "local/bucuresti/sector-2/2017/59",
+   "short": "HCLS2 nr. 59/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 59/2017 privind aprobarea Studiului de fezabilitate pentru obiectivul „Reparații interioare la clădirea Halei Terminal – Piața Obor”",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/59",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/59/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-6-2017",
+   "path": "local/bucuresti/sector-2/2017/6",
+   "short": "HCLS2 nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 6/2017 privind aprobarea Metodologiei de acordare a inlesnirilor la plată a obligatiilor fiscale si bugetare datorate bugetului local al Sectorului 2 Modificată/completată prin HCL S2 nr. 3/2020",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/6",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/6/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-60-2017",
+   "path": "local/bucuresti/sector-2/2017/60",
+   "short": "HCLS2 nr. 60/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 60/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/60",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/60/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-61-2017",
+   "path": "local/bucuresti/sector-2/2017/61",
+   "short": "HCLS2 nr. 61/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 61/2017 privind solicitarea către Consiliul General al Municipiului Bucureşti pentru transmiterea imobilului (lacului) situat în Parcul Naţional din administrarea Administraţiei Lacuri, Parcuri şi Agrement Bucureşti în administrarea Consiliului Local Sector 2 prin Administraţia Domeniului Public Sector 2 Abrogată/Încetare aplicabilitate prin HCL S2 nr. 261/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/61",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/61/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-62-2017",
+   "path": "local/bucuresti/sector-2/2017/62",
+   "short": "HCLS2 nr. 62/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 62/2017 privind aprobarea contului anual de execuție al bugetului general şi a situațiilor financiare anuale la 31.12.2016 ale Sectorului 2 al Municipiului București",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/62",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/62/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-63-2017",
+   "path": "local/bucuresti/sector-2/2017/63",
+   "short": "HCLS2 nr. 63/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 63/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/63",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/63/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-64-2017",
+   "path": "local/bucuresti/sector-2/2017/64",
+   "short": "HCLS2 nr. 64/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 64/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/64",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/64/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-65-2017",
+   "path": "local/bucuresti/sector-2/2017/65",
+   "short": "HCLS2 nr. 65/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 65/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/65",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/65/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-66-2017",
+   "path": "local/bucuresti/sector-2/2017/66",
+   "short": "HCLS2 nr. 66/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 66/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/66",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/66/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-67-2017",
+   "path": "local/bucuresti/sector-2/2017/67",
+   "short": "HCLS2 nr. 67/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 67/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/67",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/67/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-68-2017",
+   "path": "local/bucuresti/sector-2/2017/68",
+   "short": "HCLS2 nr. 68/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 68/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/68",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/68/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-69-2017",
+   "path": "local/bucuresti/sector-2/2017/69",
+   "short": "HCLS2 nr. 69/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 69/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/69",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/69/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-7-2017",
+   "path": "local/bucuresti/sector-2/2017/7",
+   "short": "HCLS2 nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 7/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/7",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/7/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-70-2017",
+   "path": "local/bucuresti/sector-2/2017/70",
+   "short": "HCLS2 nr. 70/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 70/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/70",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/70/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-71-2017",
+   "path": "local/bucuresti/sector-2/2017/71",
+   "short": "HCLS2 nr. 71/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 71/2017 pentru mandatarea Direcţiei Generale pentru Administrarea Patrimoniului Imobiliar Sector 2 săîntreprindă demersuri în vederea reglementării situaţiei terenului situat în Bucureşti, şos.Ştefan cel Mare nr. 21 Sector 2 Ansamblul de locuinţe pentru medici rezidenţi construite de Agenţia Naţională pentru Locuinţe",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/71",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/71/download",
      "sha256": null
     }
    ]
@@ -138,6 +3393,81 @@
    ]
   },
   {
+   "slug": "hcls2-73-2017",
+   "path": "local/bucuresti/sector-2/2017/73",
+   "short": "HCLS2 nr. 73/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 73/2017 pentru alegerea preşedintelui de şedinţă pe o perioadă de 3 luni",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-073",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-073/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-74-2017",
+   "path": "local/bucuresti/sector-2/2017/74",
+   "short": "HCLS2 nr. 74/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 74/2017 pentru modificarea şi completarea Hotărârii Consiliului Local Sector 2 nr. 219/2016 privind aprobarea Organigramei, Statului de Funcții și a Regulamentului de Organizare şi Funcţionare pentru Administraţia Domeniului Public Sector 2",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-074",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-074/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-75-2017",
+   "path": "local/bucuresti/sector-2/2017/75",
+   "short": "HCLS2 nr. 75/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 75/2017 privind aprobarea costului mediu lunar/persoană adultă protejatăîn centrele rezidențiale pentru adulţi cu handicap din subordinea Direcției Generale de Asistență Socialăşi Protecția Copilului Sector 2 pentru anul 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-075",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-075/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-76-2017",
+   "path": "local/bucuresti/sector-2/2017/76",
+   "short": "HCLS2 nr. 76/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 76/2017 privind stabilirea costului mediu anual/copil protejat în sistem rezidenţial, centru de zi, centru de îngrijire şi găzduire, centru de primire, complex de servicii de asistenţăşi sprijin pentru prevenirea situaţiilor ce pun în pericol securitatea şi dezvoltarea copilului şi la asistenţi maternali profesionişti pe anul 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-076",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-076/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-77-2017",
+   "path": "local/bucuresti/sector-2/2017/77",
+   "short": "HCLS2 nr. 77/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 77/2017 privind aprobarea Planului de ac ț iune pentru implementarea Strategiei Antidrog a Sectorului 2 al Municipiului București, în perioada 2017 - 2020",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-077",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-077/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls2-78-2017",
    "path": "local/bucuresti/sector-2/2017/78",
    "short": "HCLS2 nr. 78/2017",
@@ -148,6 +3478,51 @@
      "from": "2018-10-05",
      "units": 1,
      "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-078/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-79-2017",
+   "path": "local/bucuresti/sector-2/2017/79",
+   "short": "HCLS2 nr. 79/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 79/2017 privind aprobarea indicatorilor tehnico-economici şi a devizului general pentru obiectivul de investiții ”Prelungirea Şos. Electronicii - cale de acces între Str. Ziduri Moşi şi Şos. Electronicii, Sector 2”",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-079",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-079/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-8-2017",
+   "path": "local/bucuresti/sector-2/2017/8",
+   "short": "HCLS2 nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 8/2017 privind transmiterea imobilului situat în Bucureşti, şos. Morarilor nr. 6, sector 2 din administrarea Administraţiei Pieţelor Sector 2 şi a Direcţiei Generale de Asistenţă Socialăşi Protecţia Copilului Sector 2 în administrarea Direcţiei Venituri Buget Local Sector 2, servicii publice de interes local aflate sub autoritatea Consiliului Local Sector 2, cu destinaţia de sediu administrativ",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/8",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/8/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-80-2017",
+   "path": "local/bucuresti/sector-2/2017/80",
+   "short": "HCLS2 nr. 80/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 80/2017 privind aprobarea adeziunii Administrației Piețelor Sector 2 la Asociația \"Administratorilor de Piețe din România\"",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-080",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-080/download",
      "sha256": null
     }
    ]
@@ -183,6 +3558,81 @@
    ]
   },
   {
+   "slug": "hcls2-83-2017",
+   "path": "local/bucuresti/sector-2/2017/83",
+   "short": "HCLS2 nr. 83/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 83/2017 privind desemnarea reprezentanţilor Consiliului Local Sector 2 în calitate de observatori în Comisiile de concurs pentru ocuparea funcţiilor de director şi director adjunct din unităţile de învăţământ preuniversitar, în aplicarea Ordinului Ministrului Educaţiei Naţionale nr. 3969/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-083",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-083/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-84-2017",
+   "path": "local/bucuresti/sector-2/2017/84",
+   "short": "HCLS2 nr. 84/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 84/2017 pentru aprobarea încheierii unui Protocol de colaborare cu Clubul Sportiv Dinamo Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-084",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-084/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-85-2017",
+   "path": "local/bucuresti/sector-2/2017/85",
+   "short": "HCLS2 nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 85/2017 pentru aprobarea Protocolului de colaborare între Administrația Domeniului Public Sector 2 și Direcția Generală de Asistență Socialăși Protecția Copilului Sector 2",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-085",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-085/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-86-2017",
+   "path": "local/bucuresti/sector-2/2017/86",
+   "short": "HCLS2 nr. 86/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 86/2017 pentru aprobarea Protocolului de colaborare între Administrația Domeniului Public Sector 2 și Centrul Cultural „Mihai Eminescu”",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-086",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-086/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-87-2017",
+   "path": "local/bucuresti/sector-2/2017/87",
+   "short": "HCLS2 nr. 87/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 87/2017 privind aprobarea calendarului evenimentelor organizate de Centrul Cultural Mihai Eminescu în perioada iulie-august 2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-087",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-087/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls2-88-2017",
    "path": "local/bucuresti/sector-2/2017/88",
    "short": "HCLS2 nr. 88/2017",
@@ -193,6 +3643,186 @@
      "from": "2018-10-05",
      "units": 1,
      "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-088/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-89-2017",
+   "path": "local/bucuresti/sector-2/2017/89",
+   "short": "HCLS2 nr. 89/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 89/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-089",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-089/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-9-2017",
+   "path": "local/bucuresti/sector-2/2017/9",
+   "short": "HCLS2 nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 9/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/9",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/9/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-90-2017",
+   "path": "local/bucuresti/sector-2/2017/90",
+   "short": "HCLS2 nr. 90/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 90/2017 privind aprobarea contului de execuție al bugetului general al Sectorului 2 al Municipiului București la 31.03.2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-090",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-090/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-91-2017",
+   "path": "local/bucuresti/sector-2/2017/91",
+   "short": "HCLS2 nr. 91/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 91/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-091",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-091/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-92-2017",
+   "path": "local/bucuresti/sector-2/2017/92",
+   "short": "HCLS2 nr. 92/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 92/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-092",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-092/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-93-2017",
+   "path": "local/bucuresti/sector-2/2017/93",
+   "short": "HCLS2 nr. 93/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 93/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-093",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-093/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-94-2017",
+   "path": "local/bucuresti/sector-2/2017/94",
+   "short": "HCLS2 nr. 94/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 94/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-094",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-094/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-95-2017",
+   "path": "local/bucuresti/sector-2/2017/95",
+   "short": "HCLS2 nr. 95/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 95/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-095",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-095/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-96-2017",
+   "path": "local/bucuresti/sector-2/2017/96",
+   "short": "HCLS2 nr. 96/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 96/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-096",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-096/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-97-2017",
+   "path": "local/bucuresti/sector-2/2017/97",
+   "short": "HCLS2 nr. 97/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 97/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-097",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-097/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-98-2017",
+   "path": "local/bucuresti/sector-2/2017/98",
+   "short": "HCLS2 nr. 98/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 98/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-098",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-098/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-99-2017",
+   "path": "local/bucuresti/sector-2/2017/99",
+   "short": "HCLS2 nr. 99/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 99/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2017/hotarare-099",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-099/download",
      "sha256": null
     }
    ]

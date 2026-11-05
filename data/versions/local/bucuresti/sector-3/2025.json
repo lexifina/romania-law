@@ -3,6 +3,621 @@
  "shard": "local/bucuresti/sector-3/2025",
  "acts": [
   {
+   "slug": "hcls3-1-2025",
+   "path": "local/bucuresti/sector-3/2025/1",
+   "short": "HCLS3 nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 1/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.1_din_13_.01.2025.pdf",
+     "sha256": "8aebdad7d28465d8b09fb1a76a71ceee327a9fde25d8eac5678d06252fc0016c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-10-2025",
+   "path": "local/bucuresti/sector-3/2025/10",
+   "short": "HCLS3 nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 10/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._10_din_29_.01.2025.pdf",
+     "sha256": "35855903ade96fd36b193e06bfa30cb064f9ef9d397b561e899fe4be00385100"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-100-2025",
+   "path": "local/bucuresti/sector-3/2025/100",
+   "short": "HCLS3 nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 100/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.100_din_27_.02.2025.pdf",
+     "sha256": "21f54705a625ebdcffeea1c1867d6e7a2ecb0d6c34bc5bd5776e39cec60a15f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-101-2025",
+   "path": "local/bucuresti/sector-3/2025/101",
+   "short": "HCLS3 nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 101/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.101_din_27_.02.2025.pdf",
+     "sha256": "6ea89de4aba7f751af9da018f8a476b8cd746a7844034f014d2f157f1737e778"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-102-2025",
+   "path": "local/bucuresti/sector-3/2025/102",
+   "short": "HCLS3 nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 102/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.102_din_27_.02.2025.pdf",
+     "sha256": "a27116f557a1868f3d5c66bd4ebbb2db797c7ef4e9881e94a94cb4037b6bfbbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-103-2025",
+   "path": "local/bucuresti/sector-3/2025/103",
+   "short": "HCLS3 nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 103/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.103_din_27_.02.2025.pdf",
+     "sha256": "4cd4e9e924c256b9acc2cb5861fcd1650736f172a75347b4fcc3cd8ebbac350e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-104-2025",
+   "path": "local/bucuresti/sector-3/2025/104",
+   "short": "HCLS3 nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 104/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.104_din_27_.02.2025.pdf",
+     "sha256": "a850b5ad4b87f4ceb9971ada8f9fd0f46ede9862e8d5ebcb2dd379d8ebccb63c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-105-2025",
+   "path": "local/bucuresti/sector-3/2025/105",
+   "short": "HCLS3 nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 105/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.105_din_27_.02.2025.pdf",
+     "sha256": "62d4cec36bdd2c8b454d10ed4f19a3a7ed834b0a8eba4b035787c7adcd05b855"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-106-2025",
+   "path": "local/bucuresti/sector-3/2025/106",
+   "short": "HCLS3 nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 106/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.106_din_27_.02.2025.pdf",
+     "sha256": "4be359d643253352902e1cea4f807dab4b4c51827c4182fc777f1db47b3f53bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-107-2025",
+   "path": "local/bucuresti/sector-3/2025/107",
+   "short": "HCLS3 nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 107/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.107_din_27_.02.2025.pdf",
+     "sha256": "4d2d7e968370191465f0588e718d09a9a68c2b43e4588cc763eaa412ce24562c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-108-2025",
+   "path": "local/bucuresti/sector-3/2025/108",
+   "short": "HCLS3 nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 108/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.108_din_27_.02.2025.pdf",
+     "sha256": "9737e1a6543c0802c057c371300a450e7b5fee5f8561a1dc3598ae6d01f0166b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-109-2025",
+   "path": "local/bucuresti/sector-3/2025/109",
+   "short": "HCLS3 nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 109/2025 privind modificarea statului de funcţii al aparatului de specialitate al Primarului Sectorului 3, aprobat prin Anexa nr. 2 la HCL S3 nr. 4/22.01.2024, cu modificările şi completările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.109_din_13_.03.2025_1.pdf",
+     "sha256": "c08f34204acfe4acea42c911e41264fbf3873226667a1876c8a4af9d6f6f79af"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-11-2025",
+   "path": "local/bucuresti/sector-3/2025/11",
+   "short": "HCLS3 nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 11/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._11_din_29_.01.2025.pdf",
+     "sha256": "3fb9226592fd4879a624f454327acf0f6c88f0541f2c5e4b8c107f24bfc61177"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-110-2025",
+   "path": "local/bucuresti/sector-3/2025/110",
+   "short": "HCLS3 nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 110/2025 privind modificarea statului de funcţii al Direcţiei Generale Impozite şi Taxe Locale Sector 3, aprobat prin HCLS 3 nr. 254/30.05.2024",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.110_din_13_.03.2025_1.pdf",
+     "sha256": "aaba6f38acf8153be07e362ff9e314f94513622076a6f68168070eed747d3eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-111-2025",
+   "path": "local/bucuresti/sector-3/2025/111",
+   "short": "HCLS3 nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 111/2025 privind aprobarea listelor de priorităţi pentru locuinţele ce se vor repartiza în anul 2025, conform prevederilor Legii locuinţei nr. 114/1996, republicată, cu modificările şi com pletările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.111_din_13_.03.2025_1.pdf",
+     "sha256": "95a113c4737edde4d2bd51b1d4931ac431a7e2f652e505ab85d6e5dfdc6b6b3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-112-2025",
+   "path": "local/bucuresti/sector-3/2025/112",
+   "short": "HCLS3 nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 112/2025 privind aprobarea Listei de priorităţi precum şi a Listei de repartizare a locuinţelor ANL, pentru anul 2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.112_din_13_.03.2025_1.pdf",
+     "sha256": "c2d681421fc5e6983ce4118442992287c1827c430fc3ab2236b774751b7d1f08"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-113-2025",
+   "path": "local/bucuresti/sector-3/2025/113",
+   "short": "HCLS3 nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 113/2025 privind aprobarea cuantumului chiriei aferentă locuinţelor pentru tineri destinate închirierii, realizate de Sectorul 3 al Municipiului Bucureşti şi Agenţia Naţională pentru Locuinţe în Sectorul 3 şi respectiv a sumelor cu titlu de recuperare investiţie ce se vor vira Agenţiei Naţionale pentru Locuinţe",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.113_din_13_.03.2025_1.pdf",
+     "sha256": "2a91012f6e1dac2f28c9ddf264bd9dabfd10019623e1cc3a9a73fd94edb0e2ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-114-2025",
+   "path": "local/bucuresti/sector-3/2025/114",
+   "short": "HCLS3 nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 114/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.114_din_13_.03.2025_1.pdf",
+     "sha256": "eb7f25a71250fb202d1a94393f6bde19efd2a03829339b63607f63ee3f41ce7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-115-2025",
+   "path": "local/bucuresti/sector-3/2025/115",
+   "short": "HCLS3 nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 115/2025 privind modificarea duratei Contractului de lucrări nr. 251627/28.10.2022 ce are ca obiect „Lucrări de execuţie pentru optimizare suprastructură ” la obiectivul de investiţii * „Accesibilizareprin degajarea traficului a zonei comerciale Bd. Theodor Pallady” atribuit societăţii Algorithm Residenţial S3 SRL",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.115_din_13_.03.2025_1.pdf",
+     "sha256": "4968c3e3e554ae5f2bfa167f6ef48e9ec8daf23aeb63c5f00873b0735b206b37"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-116-2025",
+   "path": "local/bucuresti/sector-3/2025/116",
+   "short": "HCLS3 nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 116/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.116_din_13_.03.2025_1.pdf",
+     "sha256": "674cac4954d989c5a5f7f7404ee2edb9c806e496fe66cfa8476e41b26c01f7cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-117-2025",
+   "path": "local/bucuresti/sector-3/2025/117",
+   "short": "HCLS3 nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 117/2025 privind aprobarea documentaţiei de avizare a lucrărilor de intervenţie, a indicatorilor tehnico-economici, a devizului general şi a categoriilor de cheltuieli finanţate de la bugetul local pentru obiectivul de investiţie: „Proiectarea şi execuţia lucrărilor de intervenţii integrate (consolidare şi creşterea performanţei energetice) pentru clădirile multietajate cu destinaţia principală de locuinţă - Str. Ştefan Nicolau nr.5, bl. Ol, Sector 3, Bucureşti”",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.117_din_13_.03.2025_1.pdf",
+     "sha256": "4df43292c6df16db7a392933f596e11e37f132a540610789b3da159e8cbb7bc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-118-2025",
+   "path": "local/bucuresti/sector-3/2025/118",
+   "short": "HCLS3 nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 118/2025 privind aprobarea documentaţiei de avizare a lucrărilor de intervenţie, a indicatorilor tehnico-economici, a devizului general şi a categoriilor de cheltuieli finanţate de la bugetul local pentru obiectivul de investiţie: „Proiectarea şi execuţia lucrărilor de intervenţii integrate (consolidare şi creşterea performanţei energetice) pentru clădirile multietajate cu destinaţia principală de locuinţă - B-dul Camil Ressu nr.24, bl.A 7bis, Sector 3, Bucureşti”",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.118_din_13_.03.2025_1.pdf",
+     "sha256": "3a4b16a4088e85a311c03240465b1d3d2e93ac9d5bdaf698ad07e5981b569eda"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-119-2025",
+   "path": "local/bucuresti/sector-3/2025/119",
+   "short": "HCLS3 nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 119/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.119_din_13_.03.2025_1.pdf",
+     "sha256": "380b367c60e0ab450d4fe28469b35685e3ea2b571bf1b8264535fabb5ce52858"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-12-2025",
+   "path": "local/bucuresti/sector-3/2025/12",
+   "short": "HCLS3 nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 12/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._12_din_29_.01.2025.pdf",
+     "sha256": "2bfdbf1282640d45a8fad12a9bc1606f6fa9f08f583235c2c8fafdc330efd39a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-120-2025",
+   "path": "local/bucuresti/sector-3/2025/120",
+   "short": "HCLS3 nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 120/2025 privind aprobarea documentaţiei de avizare a lucrărilor de intervenţie, a indicatorilor tehnico-economici, a devizului general şi a categoriilor de cheltuieli finanţate de la bugetul local pentru obiectivul de investiţie: „Proiectarea şi execuţia lucrărilor de intervenţii integrate (consolidare şi creşterea performanţei energetice) pentru clădirile multietajate cu destinaţia principală de locuinţă - Strada Stelian Mihale nr.lA, bl.Gl, Sector 3, Bucureşti”",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.120_din_13_.03.2025_1.pdf",
+     "sha256": "1632619c70180aa6eb93b9383b34b3234e5ab25e925b18a6b2077c793956d381"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-121-2025",
+   "path": "local/bucuresti/sector-3/2025/121",
+   "short": "HCLS3 nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 121/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.121_din_13_.03.2025_1.pdf",
+     "sha256": "2162852a7262a31356a1e642a1a7df297649770e50c02b03dc7f1fd8b788a91b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-122-2025",
+   "path": "local/bucuresti/sector-3/2025/122",
+   "short": "HCLS3 nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 122/2025 privind aprobarea documentaţiei de avizare a lucrărilor de intervenţie, a indicatorilor tehnico-economici, a devizului general şi a categoriilor de cheltuieli finanţate de la bugetul local pentru obiectivul de investiţie: „Proiectarea şi execuţia lucrărilor de intervenţii integrate (consolidare şi creşterea performanţei energetice) pentru clădirile multietajate cu destinaţia principală de locuinţă - Aleea Sibiana nr.l, bl.Rl 7, Sector 3, Bucureşti”",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.122_din_13_.03.2025_1.pdf",
+     "sha256": "6cf66fd54840e65877613700c6405eae55a914554edb1bad28471ff09ecd4c3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-123-2025",
+   "path": "local/bucuresti/sector-3/2025/123",
+   "short": "HCLS3 nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 123/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.123_din_13_.03.2025_1.pdf",
+     "sha256": "4a1a1ebe9666622dc639ae36f70d9153f8640a3d9e9f11e8d291a3c859e80a36"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-124-2025",
+   "path": "local/bucuresti/sector-3/2025/124",
+   "short": "HCLS3 nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 124/2025 privind aprobarea documentaţiei de avizare a lucrărilor de intervenţie, a indicatorilor tehnico-economici, a devizului general şi a categoriilor de cheltuieli finanţate de la bugetul local pentru obiectivul de investiţie: „Proiectarea şi execuţia lucrărilor de intervenţii integrate (consolidare şi creşterea performanţei energetice) pentru clădirile multietajate cu destinaţia principală de locuinţă - Aleea Gruiul Argeşului nr.lA, bl.MC5, Sector 3, Bucureşti”",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.124_din_13_.03.2025_1.pdf",
+     "sha256": "119ccc31d201480323fe771ef992df8df6f3d8344a8627b0c05a774f17a6dfcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-125-2025",
+   "path": "local/bucuresti/sector-3/2025/125",
+   "short": "HCLS3 nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 125/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.125_din_13_.03.2025_1.pdf",
+     "sha256": "930620c92b56266f5f6fa9292c388e1a6b0c66403f074fe90614d4a06343f343"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-126-2025",
+   "path": "local/bucuresti/sector-3/2025/126",
+   "short": "HCLS3 nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 126/2025 privind aprobarea documentaţiei de avizare a lucrărilor de intervenţie, a indicatorilor tehnico-economici, a devizului general şi a categoriilor de cheltuieli finanţate de la bugetul local pentru obiectivul de investiţie: „Proiectarea şi execuţia lucrărilor de intervenţii integrate (consolidare şi creşterea performanţei energetice) pentru clădirile multietajate cu destinaţia principală de locuinţă - B-dul Nicolae Grigorescu nr.15, bl.L6, Sector 3, Bucureşti”",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.126_din_13_.03.2025_1.pdf",
+     "sha256": "274d1727e078eebeb87c28d54acd760d76efbd6c02bfc7695ae1d050a6ce63d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-127-2025",
+   "path": "local/bucuresti/sector-3/2025/127",
+   "short": "HCLS3 nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 127/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.127_din_13_.03.2025_1.pdf",
+     "sha256": "87776c013182a1a1df7f091a5b77f1a33b89d7604be8075203c0395edd751360"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-128-2025",
+   "path": "local/bucuresti/sector-3/2025/128",
+   "short": "HCLS3 nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 128/2025 privind completarea Anexei referitoare la „Programul anual de acţiuni pentru reabilitarea termică a blocurilor de locuinţe - condominii din Sectorul 3”, aprobat prin HCLS 3 nr. 14/26.02.2009, cu modificările şi completările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.128_din_13_.03.2025_1.pdf",
+     "sha256": "ae41ab5a0e7978e3dc02e0a8b3ff968d4572202168ce112df706a17e730206b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-129-2025",
+   "path": "local/bucuresti/sector-3/2025/129",
+   "short": "HCLS3 nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 129/2025 privind modificarea cantităţilor de lucrări Ia Acordul Cadru de lucrări nr. 186248/03.06.2024 având ca obiect „Lucrări reparaţii alei pe raza teritorial administrativă a Sectorului 3” încheiat între Sectorul 3 al Municipiului Bucureşti şi societatea Algorithm Construcţii S3 SRL, aprobat prin Hotărârea Consiliului Local Sector 3 nr. 277/30.05.2024",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.129_din_13_.03.2025_1.pdf",
+     "sha256": "038e3876f5e32e7bd7943db7cd83a004881e20cfa5258ccab0307bd171deafea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-13-2025",
+   "path": "local/bucuresti/sector-3/2025/13",
+   "short": "HCLS3 nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 13/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._13_din_29_.01.2025.pdf",
+     "sha256": "2ad001ed3402727ea4f9623b34b5ddb699d47346975ec02de2111c806b243682"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-130-2025",
+   "path": "local/bucuresti/sector-3/2025/130",
+   "short": "HCLS3 nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 130/2025 privind aprobarea asocierii dintre Sectorul 3 al M unicipiului Bucureşti si Sectorul 2 al M unicipiului Bucureşti, în vederea finanţării si realizării în comun a unor acţiuni, lucrări, servicii sau proiecte de interes public local, inclusiv realizarea unei asocieri de autorităţi contractante",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.130_din_13_.03.2025_1.pdf",
+     "sha256": "aeffc8494bb9b57c092b5082cdbdac69fa959c086bdb141ab9ac140839ba3d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-131-2025",
+   "path": "local/bucuresti/sector-3/2025/131",
+   "short": "HCLS3 nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 131/2025 privind modificarea şi completarea Contractului de mandat al reprezentantului Sectorului 3 în Adunarea Generală a Acţionarilor la societatea Administrarea Domeniului Public Bucureşti (ADPB) SA, aprobat prin HCL S3 nr. 67/27.02.2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.131_din_13_.03.2025_1.pdf",
+     "sha256": "53ee87db19f0f48cdcda818201073281f339c3b42dff61cfe34724973015f0d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-132-2025",
+   "path": "local/bucuresti/sector-3/2025/132",
+   "short": "HCLS3 nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 132/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.132_din_13_.03.2025.pdf",
+     "sha256": "cb4331551a0716f422f5e669f6c735b8de459f196feeaec4cdb30a7a1b5d5b1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-133-2025",
+   "path": "local/bucuresti/sector-3/2025/133",
+   "short": "HCLS3 nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 133/2025 pentru realizarea obiectivului de investiţii „Construire pasaj suprateran pentru fluidizarea traficului auto în zona Caţelu” şi Lot. 2 - Reabilitare/reamplasarea tuturor gurilor de scurgere ca urmarea modificării tramei stradale şi reabilitarea tuturor branşamentelor de apă industrială şi a racordurilor la canalizare existente în zona viitoarelor lucrări în vederea realizării obiectivului de investiţii „Creşterea capacităţii de circulaţie auto pe strada Drumul între Tarlale”, atribuit societăţii",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.133_din_13_.03.2025.pdf",
+     "sha256": "ba764609362d836aae01cf466c26380bdfc5d8aaa9f83e7a97469f1704db8b5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-134-2025",
+   "path": "local/bucuresti/sector-3/2025/134",
+   "short": "HCLS3 nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 134/2025 privind modificarea cantităţilor de lucrări la Acordul Cadru de lucrări nr. 342191/18.10.2024 având ca obiect “Lucrări de întreţinere şi reparaţii a împrejmuirilor exterioare aferente clădirilor aflate în administrarea Consiliului Local al Sectorului 3 al Municipiului Bucarestr încheiat între Sectorul 3 al Municipiului Bucureşti şi societatea Smart City Invest S3 SRL",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.134_din_13_.03.2025.pdf",
+     "sha256": "5e4c3331c0d3be234eaad02dd41f411028a91e32c0452e6bc87af98f885f9d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-135-2025",
+   "path": "local/bucuresti/sector-3/2025/135",
+   "short": "HCLS3 nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 135/2025 privind aprobarea bugetului Sectorului 3 pe anul 2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._135_din_26_.03.2025.pdf",
+     "sha256": "86828233d254ca9d9c92e4771c1ae1f5ae6a1c83c8876ddca193f6666604107c"
+    }
+   ]
+  },
+  {
    "slug": "hcls3-136-2025",
    "path": "local/bucuresti/sector-3/2025/136",
    "short": "HCLS3 nr. 136/2025",
@@ -18,6 +633,591 @@
    ]
   },
   {
+   "slug": "hcls3-137-2025",
+   "path": "local/bucuresti/sector-3/2025/137",
+   "short": "HCLS3 nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 137/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._137_din_26_.03.2025.pdf",
+     "sha256": "be8687a22b4a8c80bb659ea4c88bef5eeea583b73e53cd3eb935224ff9ce5318"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-138-2025",
+   "path": "local/bucuresti/sector-3/2025/138",
+   "short": "HCLS3 nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 138/2025 privind aprobarea documentaţiei de avizare a lucrărilor de intervenţie, a indicatorilor tehnico-economici, a devizului general şi a categoriilor de cheltuieli finanţate de la bugetul local pentru obiectivul de investiţie: „Proiectarea şi execuţia lucrărilor de intervenţii integrate (consolidare şi creşterea performanţei energetice) pentru clădirile multietajate cu destinaţia principală de locuinţă - A l Barajul Bistriţei nr. 8, bl. Y8, Sector 3, Bucureşti”",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._138_din_26_.03.2025.pdf",
+     "sha256": "da07dbb47a924cd12b16c352c7f2f5e7d83872de476e22c3095221d02dce3498"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-139-2025",
+   "path": "local/bucuresti/sector-3/2025/139",
+   "short": "HCLS3 nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 139/2025 privind modificarea cantităţilor de lucrări la Acordul Cadru de lucrări nr. 152389/07.05.2024 având ca obiect „Lucrări de întreţinere şi amenajare a curţilor aferente unităţilor de învăţământ de stat aflate în administrarea Consiliului Local al Sectorului 3 al Municipiului Bucureşti” încheiat între Sectorul 3 al Municipiului Bucureşti şi societatea Smart City Invest S3 SRL",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._139_din_26_.03.2025.pdf",
+     "sha256": "9703f4377073ef3a4e04a782664b0b0f167ca309fd7f8013d8286d7bfc9568e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-14-2025",
+   "path": "local/bucuresti/sector-3/2025/14",
+   "short": "HCLS3 nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 14/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._14_din_29_.01.2025.pdf",
+     "sha256": "db64a9521a29e02d953427ca9197283ca8dc9fce40a9377c2f3257fea420d1aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-140-2025",
+   "path": "local/bucuresti/sector-3/2025/140",
+   "short": "HCLS3 nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 140/2025 privind aprobarea Contractului de comodat încheiat între Primăria Sectorului 3 şi Inspectoratul pentru Situaţii de Urgenţă „Dealul - Spirii” Bucureşti - Ilfov, având ca obiect darea în folosinţă gratuită a unui număr de 3 autoutilitare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._140_din_26_.03.2025.pdf",
+     "sha256": "d399b6962d04e2fb2ec505e2924b9cd7ecf3901c2067bae161908cb41ba97c08"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-141-2025",
+   "path": "local/bucuresti/sector-3/2025/141",
+   "short": "HCLS3 nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 141/2025 privind reorganizarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 3 şi aprobarea organigramei, statului de funcţii şi Regulamentului de Organizare şi Funcţionare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._141_din_26_.03.2025.pdf",
+     "sha256": "602bd0400f297b966fe302cc81aa1d89e4c5a8e69b9013ce776020569e205383"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-142-2025",
+   "path": "local/bucuresti/sector-3/2025/142",
+   "short": "HCLS3 nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 142/2025 privind modificarea şi completarea indicatorilor financiari şi nefinanciari, Anexă la Contractul de mandat al membrilor Consiliului de Administraţie la societatea SD3 - Salubritate şi Deszăpezire S3 SRL., aprobaţi prin HCLS 3 nr. 646/19.12.2023",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._142_din_26_.03.2025.pdf",
+     "sha256": "0fb54cb4ffa4d19e9cbb51694114e9bb4125bc7e4bd7cc4e3457cad1dfe5dbd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-143-2025",
+   "path": "local/bucuresti/sector-3/2025/143",
+   "short": "HCLS3 nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 143/2025 privind modificarea şi completarea indicatorilor financiari şi nefinanciari, Anexă la Contractul de mandat al membrilor Consiliului de Administraţie la societatea Administrare Active Sector 3 SRL, aprobaţi prin HCLS3 nr. 644/19.12.2023",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._143_din_26_.03.2025.pdf",
+     "sha256": "468eceab2f746a6b8a19a0948e269f6449286ec604158b4f247267d26122c58a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-144-2025",
+   "path": "local/bucuresti/sector-3/2025/144",
+   "short": "HCLS3 nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 144/2025 privind modificarea şi completarea indicatorilor financiari şi nefinanciari, Anexă la Contractul de mandat al membrilor Consiliului de Administraţie la societatea Algorithm Construcţii S3 SRL, aprobaţi prin HCLS3 nr. 642/19.12.2023",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._144_din_26_.03.2025.pdf",
+     "sha256": "7dd5dc1ae20fe96bfa89d1fd5d5aae1eb1a2961c135abc1a74d6fd29e20493d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-145-2025",
+   "path": "local/bucuresti/sector-3/2025/145",
+   "short": "HCLS3 nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 145/2025 privind modificarea şi completarea indicatorilor financiari şi nefinanciari, Anexă la Contractul de mandat al membrilor Consiliului de Administraţie la societatea Algorithm Residential S3 SRL, aprobaţi prin HCLS3 nr. 645/19.12.2023",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._145_din_26_.03.2025.pdf",
+     "sha256": "161e796e5b0a22cdfaea23b7f6d1f388e3166e66a62d8cfd786201758422d366"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-146-2025",
+   "path": "local/bucuresti/sector-3/2025/146",
+   "short": "HCLS3 nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 146/2025 privind modificarea şi completarea indicatorilor financiari şi nefinanciari, Anexă la Contractul de mandat al membrilor Consiliului de Administraţie la societatea Internet şi Tehnologie S3 SRL, aprobaţi prin HCLS 3 nr. 643/19.12.2023",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._146_din_26_.03.2025.pdf",
+     "sha256": "3f6900469a8be29127fba5efffef48e6ac1e1ca12d25cece16ba088e481e76a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-147-2025",
+   "path": "local/bucuresti/sector-3/2025/147",
+   "short": "HCLS3 nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 147/2025 privind aprobarea Strategiei de Transformare Digitală a Sectorului 3 al Municipiului Bucureşti",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._147_din_26_.03.2025.pdf",
+     "sha256": "6c08a99ab777fcc2d337f502ebdd1adabc9afa8aec134dc5ff0cf550188677c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-148-2025",
+   "path": "local/bucuresti/sector-3/2025/148",
+   "short": "HCLS3 nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 148/2025 privind modificarea statului de funcţii al aparatului de specialitate al Primarului Sectorului 3, aprobat prin Anexa nr. 2 la HCL S3 nr. 4/22.01.2024, cu modificările şi completările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._148_din_24_.04.2025.pdf",
+     "sha256": "5ce1a6268af9bd01bcd44f7cc245e0d58ab00d390c8a2a4a73227de4f47f5f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-149-2025",
+   "path": "local/bucuresti/sector-3/2025/149",
+   "short": "HCLS3 nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 149/2025 privind aprobarea execuţiei bugetare pe trimestrul I al anului 2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._149_din_24_.04.2025.pdf",
+     "sha256": "98b1e5742062f47a0f5e8399dd9255ad467034f70215cc0cd7d95f30ea6f9fab"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-15-2025",
+   "path": "local/bucuresti/sector-3/2025/15",
+   "short": "HCLS3 nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 15/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._15_din_29_.01.2025.pdf",
+     "sha256": "811ba1563240db53b371220c70387ce22130b8ff5e455b5db847d2ec1d3fee42"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-150-2025",
+   "path": "local/bucuresti/sector-3/2025/150",
+   "short": "HCLS3 nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 150/2025 privind acordarea unui sprijin financiar Parohiei Sfânta Vineri - Herasca, cu sediul în Str. Olteni, nr. 12, Sector 3, Bucureşti",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._150_din_24_.04.2025.pdf",
+     "sha256": "0faaf9e4edf444a037cec4fb756f5f680a171fe48dd0650b0a7e2d353c96c8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-151-2025",
+   "path": "local/bucuresti/sector-3/2025/151",
+   "short": "HCLS3 nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 151/2025 privind majorarea cuantumului alocaţiei de hrană pentru copiii şi tinerii care beneficiază de măsuri de protecţie specială în servicii de tip rezidenţial aflate în cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 3",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._151_din_24_.04.2025.pdf",
+     "sha256": "4c736738ee19b7f1b53873a5b36e39b781764d4be4174d1a5ad6e12e6e34b4c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-152-2025",
+   "path": "local/bucuresti/sector-3/2025/152",
+   "short": "HCLS3 nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 152/2025 privind aprobarea Regulamentului de Organizare şi Funcţionare a Centrului de zi pentru consiliere şi sprijin pentru părinţi si copii „Lizuca” din subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 3",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._152_din_24_.04.2025.pdf",
+     "sha256": "c30251abc33438cd70166899dffc4ae1e6b45a34d0f09689a5cda704822a8179"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-153-2025",
+   "path": "local/bucuresti/sector-3/2025/153",
+   "short": "HCLS3 nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 153/2025 privind aprobarea Regulamentului de Organizare şi Funcţionare a Centrului de zi de prevenire a separării copilului de familie „Patrocle” din subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 3",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._153_din_24_.04.2025.pdf",
+     "sha256": "6540f62095165941e89caf1528b99dac5ea2321f6ea4308b70cec8ab505438f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-154-2025",
+   "path": "local/bucuresti/sector-3/2025/154",
+   "short": "HCLS3 nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 154/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._154_din_24_.04.2025.pdf",
+     "sha256": "0d460162144678486734b9e3f0ca8b9f960a66560dbae9c71b99245cbc98f695"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-155-2025",
+   "path": "local/bucuresti/sector-3/2025/155",
+   "short": "HCLS3 nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 155/2025 privind actualizarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii „ Extindere reţele publice de alimentare cu apă şi canalizare pe străzi din Sectorul 3”, pentru străzile Gura Solcii, Gura Vlădesei, Gura Călmăţui, Gura Bădicului, Gura Racului, aprobaţi prin HCLS3 nr. 460/28.09.2023, cu actualizările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._155_din_24_.04.2025.pdf",
+     "sha256": "468a060722d9e0abc34e5682c31a38bce4ac482d912641e2cbd255a8a45f4d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-156-2025",
+   "path": "local/bucuresti/sector-3/2025/156",
+   "short": "HCLS3 nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 156/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._156_din_24_.04.2025.pdf",
+     "sha256": "9bcd0ddc9cc6ddd75fe5842fe39dcd246a724f7e7e34c75a771ea398491f8bc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-157-2025",
+   "path": "local/bucuresti/sector-3/2025/157",
+   "short": "HCLS3 nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 157/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._157_din_24_.04.2025.pdf",
+     "sha256": "1d046cec7d892f3e3fd15cc28d7395ee6bbe2a203f0af652ac15003840a94760"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-158-2025",
+   "path": "local/bucuresti/sector-3/2025/158",
+   "short": "HCLS3 nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 158/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._158_din_24_.04.2025.pdf",
+     "sha256": "48f3f4619a2826dba77fbf26099a7b39b30ca4e5121fcbf0372c3a2665b78d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-159-2025",
+   "path": "local/bucuresti/sector-3/2025/159",
+   "short": "HCLS3 nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 159/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._159_din_24_.04.2025.pdf",
+     "sha256": "df74cabba5a0eb0f06b5e548178e04f6223b7b15f759197bc503f3a896422129"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-16-2025",
+   "path": "local/bucuresti/sector-3/2025/16",
+   "short": "HCLS3 nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 16/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._16_din_29_.01.2025.pdf",
+     "sha256": "122b5fd3febcc8876394aa5694b7fbfc089f5f997965fa237d4dd3e9fbb078a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-160-2025",
+   "path": "local/bucuresti/sector-3/2025/160",
+   "short": "HCLS3 nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 160/2025 privind actualizarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii „Demolare şi construire Şcoala Gimnazială Voievod Neagoe Basarab”, aprobaţi prin HCLS3 nr. 323/06.07.2023, cu modificările şi completările ulterioare, si modificarea denumirii obiectivului 5",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._160_din_24_.04.2025.pdf",
+     "sha256": "d117a079ae0e89227a5bf4116f4089efe483ae0a1c217a39dae04ac4096a0096"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-161-2025",
+   "path": "local/bucuresti/sector-3/2025/161",
+   "short": "HCLS3 nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 161/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._161_din_24_.04.2025.pdf",
+     "sha256": "a6d1c1d689b7f9ad522a9d82aedb0e0af249bdfbf50776644a6dc2ab34f5318b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-162-2025",
+   "path": "local/bucuresti/sector-3/2025/162",
+   "short": "HCLS3 nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 162/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._162_din_24_.04.2025.pdf",
+     "sha256": "579fe05ac3762e2b7059b5045d2693bd3e08b186eba8460f2bd20a9702d44404"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-163-2025",
+   "path": "local/bucuresti/sector-3/2025/163",
+   "short": "HCLS3 nr. 163/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 163/2025 privind actualizarea indicatorilor tehnico-economici aferenţi proiectului „Renovarea Liceului Teoretic Nichita Stănescu Corp CIO”, din cadrul Planului Naţional de Redresare şi Rezilienţă (PNRR), Axa 2 - Schema de granturi pentru eficienţă energetică şi rezilienţă în clădiri publice, Operaţiunea B.l - Renovarea integrată (consolidare seismică şi renovare energetică moderată) a clădirilor publice, aprobaţi prin HCLS 3 nr. 172/26.04.2023",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._163_din_24_.04.2025.pdf",
+     "sha256": "7ac075f3cfc1cc973a9bf37410d5d862fe2f937d5d01b7ae2f00a07e488dd546"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-164-2025",
+   "path": "local/bucuresti/sector-3/2025/164",
+   "short": "HCLS3 nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 164/2025 privind actualizarea indicatorilor tehnico-economici aferenţi proiectului Renovarea Şcolii Gimnaziale nr. 86”, din cadrul Planului Naţional de Redresare şi Rezilienţă (PNRR), Axa 2 - Schema de granturi pentru eficienţă energetică şi rezilienţă în clădiri publice, Operaţiunea B.2 - Renovarea energetică moderată sau aprofundată a clădirilor publice, aprobaţi prin HCLS3 nr. 496/19.10.2023",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._164_din_24_.04.2025.pdf",
+     "sha256": "6d59f77daff3ad408aa1a2e1354c331fcc4ba96d35bd13ffa2aca1e4ff5f23ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-165-2025",
+   "path": "local/bucuresti/sector-3/2025/165",
+   "short": "HCLS3 nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 165/2025 privind actualizarea indicatorilor tehnico-economici aferenţi proiectului „Renovarea Şcolii Gimnaziale nr. 92” din cadrul Planului Naţional de Redresare şi Rezilienţă (PNRR), Axa 2 - Schema de granturi pentru eficienţă energetică şi rezilienţă în clădiri publice, Operaţiunea B.2 - Renovarea energetică moderată sau aprofundată a clădirilor publice, aprobaţi prin HCLS3 nr. 497/19.10.2023",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._165_din_24_.04.2025.pdf",
+     "sha256": "e84eb7e7ba95a19fc5b529aad2ebcab8b3f015a67214419047be6170eebccbb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-166-2025",
+   "path": "local/bucuresti/sector-3/2025/166",
+   "short": "HCLS3 nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 166/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._166_din_24_.04.2025.pdf",
+     "sha256": "9d270c7deebe5633fcfb2c5924032c1775fc1066ad46238324de4d92c69c07e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-167-2025",
+   "path": "local/bucuresti/sector-3/2025/167",
+   "short": "HCLS3 nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 167/2025 privind modificarea Hotărârii Consiliului Local al Sectorului 3 nr. $7/31.03.2022 referitoare la aprobarea proiectului cu titlul „Renovarea SediuluiDGASPC (Parfumului 2-4)” şi a cheltuielilor legate de proiect, în vederea finanţării acestuia în cadrul Planului Naţional de Redresare şi Rezilienţă (PNRR), Axa 2 - Schema de granturi pentru eficienţă energetică şi rezilienţă în clădiri publice, Operaţiunea B.2 - Renovarea energetică moderată sau aprofundată a clădirilor publice",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._167_din_24_.04.2025.pdf",
+     "sha256": "2a8bcf501d0b7b111c20addcc78fa31cce4beb6367d42370aecd81c7a70235bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-168-2025",
+   "path": "local/bucuresti/sector-3/2025/168",
+   "short": "HCLS3 nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 168/2025 pentru eficienţă energetică şi rezilienţă în clădiri publice, Operaţiunea B.2 - Renovarea energetică moderată sau aprofundată a clădirilor publice Consiliu] Local al Sectorului 3 al Municipiului Bucureşti, ales în condiţiile stabilite de Legea nr. 115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice locale nr. 215/2001, precum şi pentru modificarea şi completarea Legii nr. 393/2004 privind Statutul aleşilor locali, întrunit în şedi",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._168_din_24_.04.2025.pdf",
+     "sha256": "a4370f2bfcff0582defacc6e2a8a83e15b7324a89d9e32aebbc7a1af698c7eb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-169-2025",
+   "path": "local/bucuresti/sector-3/2025/169",
+   "short": "HCLS3 nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 169/2025 privind modificarea Hotărârii Consiliului Local al Sectorului 3 nr. 101/31.03.2022 referitoare la aprobarea proiectului cu titlul „Renovarea Şcolii Gimnaziale nr. 92” şi a cheltuielilor legate de proiect, în vederea finanţării acestuia în cadrul Planului Naţional de Redresare şi Rezilienţă (PNRR), Axa 2 - Schema de granturi pentru eficienţă energetică şi rezilienţă în clădiri publice, Operaţiunea B.2 - Renovarea energetică moderată sau aprofundată a clădirilor publice",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._169_din_24_.04.2025.pdf",
+     "sha256": "97bea6bad73ef0f4665c89661fd434df29a3658d34062206af901374fe35390f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-17-2025",
+   "path": "local/bucuresti/sector-3/2025/17",
+   "short": "HCLS3 nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 17/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._17_din_29_.01.2025.pdf",
+     "sha256": "fa079f135d1aee1d80c3eae7e0b350374e54bd8fc7abc10312874bb9a2e017f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-170-2025",
+   "path": "local/bucuresti/sector-3/2025/170",
+   "short": "HCLS3 nr. 170/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 170/2025 privind modificarea Hotărârii Consiliului Local al Sectorului 3 nr. 365/30.08.2022 referitoare la aprobarea proiectului cu titlul „Renovarea Liceului Teoretic Nichita Stănescu Corp CIO” şi a cheltuielilor legate de proiect, în vederea finanţării acestuia în cadrul Planului Naţional de Redresare şi Rezilienţă (PNRR), Axa 2 - Schema de granturi pentru eficienţă energetică şi rezilienţă în clădiri publice, Operaţiunea B.l - Renovarea integrată (consolidare seismică şi renovare energetică moderată)",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._170_din_24_.04.2025.pdf",
+     "sha256": "d9b4a5e25eff708cff67129ca8e7b0e115b7683cbf50216783445ff82182082d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-171-2025",
+   "path": "local/bucuresti/sector-3/2025/171",
+   "short": "HCLS3 nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 171/2025 privind atribuirea către societatea Algorithm Construcţii S3 SRL a Contractului de lucrări având ca obiect „Lucrări de amenajare parc cu destinaţia activităţi sportive-pumptrack”",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._171_din_24_.04.2025.pdf",
+     "sha256": "4b65cc4665b606f9cdd4416fbbf4684737596b454c19ad2b3b01d8801e542fc9"
+    }
+   ]
+  },
+  {
    "slug": "hcls3-172-2025",
    "path": "local/bucuresti/sector-3/2025/172",
    "short": "HCLS3 nr. 172/2025",
@@ -29,6 +1229,516 @@
      "units": 1,
      "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._172_din_24_.04.2025.pdf",
      "sha256": "3c0dfd4fb0eb54077d0ddd2cfb530e99c802b1d746ccb3dd9f6b05066ec3a15b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-173-2025",
+   "path": "local/bucuresti/sector-3/2025/173",
+   "short": "HCLS3 nr. 173/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 173/2025 privind modificarea HCLS 3 nr. 578/28.11.2023 referitoare la contractarea şi garantarea unei finanţări rambursabile interne în valoare de maxim 700.000.000 lei, 9 7 cu modificările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._173_din_13_.05.2025_-_publicata_13_.05.2025.pdf",
+     "sha256": "15aacf3a1891335fce066acec722aea8e01aa57f1af42d4d52267349f6899921"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-174-2025",
+   "path": "local/bucuresti/sector-3/2025/174",
+   "short": "HCLS3 nr. 174/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 174/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._174_din_29_.05.2025.pdf",
+     "sha256": "eaa1eb968d496bd20171646c9b1020a202dd9e0efecc549cc7ea7f2f621794e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-175-2025",
+   "path": "local/bucuresti/sector-3/2025/175",
+   "short": "HCLS3 nr. 175/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 175/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._175_din_29_.05.2025.pdf",
+     "sha256": "1a0af049790467a3451224745133e6f528042a85bd99c45b142e936433008bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-176-2025",
+   "path": "local/bucuresti/sector-3/2025/176",
+   "short": "HCLS3 nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 176/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._176_din_29_.05.2025.pdf",
+     "sha256": "c1b284fb44d00d0595cf7c2f0415da58b194284aa6ca41612cea9646519254ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-177-2025",
+   "path": "local/bucuresti/sector-3/2025/177",
+   "short": "HCLS3 nr. 177/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 177/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._177_din_29_.05.2025.pdf",
+     "sha256": "adb8b2092f66a48779811da18cc896c9f1e411ec4e08c0a1c00f7b30ee83b756"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-178-2025",
+   "path": "local/bucuresti/sector-3/2025/178",
+   "short": "HCLS3 nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 178/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._178_din_29_.05.2025.pdf",
+     "sha256": "d185f8cb05a22083b007855c904e7e692c0b764883a03b9f2f77ffb23154af4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-179-2025",
+   "path": "local/bucuresti/sector-3/2025/179",
+   "short": "HCLS3 nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 179/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._179_din_29_.05.2025.pdf",
+     "sha256": "9dfbd52452a08e1827a67fb354be2d819c2fdf3eda0cb083fdadc67de4eebd17"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-18-2025",
+   "path": "local/bucuresti/sector-3/2025/18",
+   "short": "HCLS3 nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 18/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._18_din_29_.01.2025.pdf",
+     "sha256": "feb37b0a4bd6a4742545538c7be25f0816557233be01ca4a670acb0480e2dba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-180-2025",
+   "path": "local/bucuresti/sector-3/2025/180",
+   "short": "HCLS3 nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 180/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._180_din_29_.05.2025.pdf",
+     "sha256": "2b37f65fb4720b61da1bb14d570401424779596f2414f5d73cd5807d14b6fe12"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-181-2025",
+   "path": "local/bucuresti/sector-3/2025/181",
+   "short": "HCLS3 nr. 181/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 181/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._181_din_29_.05.2025.pdf",
+     "sha256": "c78708ab8ae659c032fc8d97d86cb46971500e2eb7cf2be630e2a4dc1472cf67"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-182-2025",
+   "path": "local/bucuresti/sector-3/2025/182",
+   "short": "HCLS3 nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 182/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._182_din_29_.05.2025.pdf",
+     "sha256": "0ae8b0f030a17a9b377974e29d6caf0dd4f147bf2eb000c8f20f2d50656cebfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-183-2025",
+   "path": "local/bucuresti/sector-3/2025/183",
+   "short": "HCLS3 nr. 183/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 183/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._183_din_29_.05.2025.pdf",
+     "sha256": "dde2931236f21568915934fc8f83de9222ff71d5492b7958eb262c52fa46f9dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-184-2025",
+   "path": "local/bucuresti/sector-3/2025/184",
+   "short": "HCLS3 nr. 184/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 184/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._184_din_29_.05.2025.pdf",
+     "sha256": "74f1f8413f98ab268e0ff3152c554e9c1b267f5903d2acb9f192170f6fb6aaaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-185-2025",
+   "path": "local/bucuresti/sector-3/2025/185",
+   "short": "HCLS3 nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 185/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._185_din_29_.05.2025.pdf",
+     "sha256": "2d1bf1510021260e2a0af47341fb1419d2105d68a81f191df8cbef73b2adbb2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-186-2025",
+   "path": "local/bucuresti/sector-3/2025/186",
+   "short": "HCLS3 nr. 186/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 186/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._186_din_29_.05.2025.pdf",
+     "sha256": "c3e4e0c46174b45c4a5e000c57d8a0117b346e65e6ca16aa7d85fadbeebdcef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-187-2025",
+   "path": "local/bucuresti/sector-3/2025/187",
+   "short": "HCLS3 nr. 187/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 187/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._187_din_29_.05.2025.pdf",
+     "sha256": "9f403c046aa9bf77cbb0241c8aeb06466d1c65e4080314692b04414d8e648d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-188-2025",
+   "path": "local/bucuresti/sector-3/2025/188",
+   "short": "HCLS3 nr. 188/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 188/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._188_din_29_.05.2025.pdf",
+     "sha256": "2e9b01c02cc9750246dddec0bf6676606a8201baf4b347b6a6bae6d8d1a9d809"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-189-2025",
+   "path": "local/bucuresti/sector-3/2025/189",
+   "short": "HCLS3 nr. 189/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 189/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._189_din_29_.05.2025.pdf",
+     "sha256": "57962b08956453f4e5c71dd7d8133b18ca3645505d780adb618cf37cc190db4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-19-2025",
+   "path": "local/bucuresti/sector-3/2025/19",
+   "short": "HCLS3 nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 19/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._19_din_29_.01.2025.pdf",
+     "sha256": "fdcc327c0e4029a73e689bffb185f96d28dffed880e098dc351c62375a2fb27f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-190-2025",
+   "path": "local/bucuresti/sector-3/2025/190",
+   "short": "HCLS3 nr. 190/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 190/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._190_din_29_.05.2025.pdf",
+     "sha256": "99ccc3ca7935f924003653c274316e01dd321db34f55daf4a202724c12119f7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-191-2025",
+   "path": "local/bucuresti/sector-3/2025/191",
+   "short": "HCLS3 nr. 191/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 191/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._191_din_29_.05.2025.pdf",
+     "sha256": "e2f55cc2434a9e03060e80951244ae2f5bc164174b57696bab6c48f98ef8359b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-192-2025",
+   "path": "local/bucuresti/sector-3/2025/192",
+   "short": "HCLS3 nr. 192/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 192/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._192_din_29_.05.2025.pdf",
+     "sha256": "e96e335c0080ed343df266cf88c6f1f2f82e8d616054756e7ef4a9e22774c5df"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-193-2025",
+   "path": "local/bucuresti/sector-3/2025/193",
+   "short": "HCLS3 nr. 193/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 193/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._193_din_29_.05.2025.pdf",
+     "sha256": "a6a5f2f40a7879239f8ed40dddcc061409a4632515574b53d19f81c9bf4902b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-194-2025",
+   "path": "local/bucuresti/sector-3/2025/194",
+   "short": "HCLS3 nr. 194/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 194/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._194_din_29_.05.2025.pdf",
+     "sha256": "208bd8130ad76763737d2a8108fd70a4ab748c38aa8b73500152f4cf88f5d9f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-195-2025",
+   "path": "local/bucuresti/sector-3/2025/195",
+   "short": "HCLS3 nr. 195/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 195/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._195_din_29_.05.2025.pdf",
+     "sha256": "c75d21993b5b340a128a46ba7af96fb3a2c051cf21361264383c71d8d43b0531"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-196-2025",
+   "path": "local/bucuresti/sector-3/2025/196",
+   "short": "HCLS3 nr. 196/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 196/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._196_din_29_.05.2025.pdf",
+     "sha256": "935816d66411baf52950100b47842e870d0dc571061b26ed748487ffa9ba6c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-197-2025",
+   "path": "local/bucuresti/sector-3/2025/197",
+   "short": "HCLS3 nr. 197/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 197/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._197_din_29_.05.2025.pdf",
+     "sha256": "a5079e1a8c945b29221bd4d86b5893f6355cc46980d845125399623fa2b4a794"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-198-2025",
+   "path": "local/bucuresti/sector-3/2025/198",
+   "short": "HCLS3 nr. 198/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 198/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._198_din_29_.05.2025.pdf",
+     "sha256": "f758ea4ac198788095fd012c56326facfa25f59cc66f7bc08e4b5e2de9543690"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-199-2025",
+   "path": "local/bucuresti/sector-3/2025/199",
+   "short": "HCLS3 nr. 199/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 199/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._199_din_29_.05.2025.pdf",
+     "sha256": "346f0814a77d45f2316a678e3a1396422ede81192ae0cd8da3c57389f7db7998"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-2-2025",
+   "path": "local/bucuresti/sector-3/2025/2",
+   "short": "HCLS3 nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 2/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._2_din_29_.01.2025.pdf",
+     "sha256": "00b76484c5d56de047bce2cce58186cf6f8dca4bd739efc189a2d5cc7c5c7f7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-20-2025",
+   "path": "local/bucuresti/sector-3/2025/20",
+   "short": "HCLS3 nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 20/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/01",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._20_din_29_.01.2025.pdf",
+     "sha256": "f06f9e3ecd49ded2b358cab77155312e4d576fe708389660c27fb120817376cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-200-2025",
+   "path": "local/bucuresti/sector-3/2025/200",
+   "short": "HCLS3 nr. 200/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 200/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/05",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._200_din_29_.05.2025.pdf",
+     "sha256": "7507350ba5014b62b5b8ae85a5fb29520732fae47e8bb5d1c842c812fd7976a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-201-2025",
+   "path": "local/bucuresti/sector-3/2025/201",
+   "short": "HCLS3 nr. 201/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 201/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/06",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._201_din_29_.05.2025.pdf",
+     "sha256": "f2fc7f46233a6c1ded3d8aa6e6fb46c57ff28b79cf086bf540ac7029283b6dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-202-2025",
+   "path": "local/bucuresti/sector-3/2025/202",
+   "short": "HCLS3 nr. 202/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 202/2025",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/06",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._202_din_29_.05.2025.pdf",
+     "sha256": "583a84071666bb55983c31d1d21d0eb11587f92c2bcb2f7425c95084f7af2dfa"
     }
    ]
   },

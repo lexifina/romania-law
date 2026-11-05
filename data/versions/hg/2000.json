@@ -2718,6 +2718,21 @@
    ]
   },
   {
+   "slug": "hg-12-2000",
+   "path": "hg/2000/12",
+   "short": "HG nr. 12/2000",
+   "title": "Hotărârea Guvernului nr. 12/2000 pentru deschiderea punctelor de control pentru trecerea frontierei de stat şi înfiinţarea unităţilor vamale pentru traficul internaţional de călători şi de mărfuri pe aeroporturile Iaşi, Suceava şi Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20635",
+   "versions": [
+    {
+     "from": "2000-01-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20635",
+     "sha256": "2918f26bf56494f022a4c51a6c7de9aa80834e95946df135cfae3a825be33cdb"
+    }
+   ]
+  },
+  {
    "slug": "hg-120-2000",
    "path": "hg/2000/120",
    "short": "HG nr. 120/2000",
@@ -5214,6 +5229,21 @@
    ]
   },
   {
+   "slug": "hg-18-2000",
+   "path": "hg/2000/18",
+   "short": "HG nr. 18/2000",
+   "title": "Hotărârea Guvernului nr. 18/2000 pentru modificarea şi completarea Hotărârii Guvernului nr. 260/1994 privind coordonarea asistenţei economice nerambursabile, acordată României de ţările membre ale Grupului celor 24",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21609",
+   "versions": [
+    {
+     "from": "2000-03-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21609",
+     "sha256": "21f11a0c6afa40cd3910f3963816ca46e37fe16176826533a23704b968bc74c8"
+    }
+   ]
+  },
+  {
    "slug": "hg-182-2000",
    "path": "hg/2000/182",
    "short": "HG nr. 182/2000",
@@ -5480,6 +5510,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21673",
      "sha256": "1803431f29075cc43971c5736da118b7774c4084ec8b7279cf0571d5630a25f8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-21-2000",
+   "path": "hg/2000/21",
+   "short": "HG nr. 21/2000",
+   "title": "Hotărârea Guvernului nr. 21/2000 privind aprobarea unei licenţe de concesiune a activităţilor de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială \"Calcita\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20592",
+   "versions": [
+    {
+     "from": "2000-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20592",
+     "sha256": "95cfb03d26c7b24b7757896ee0c5d00d2d90e9a67392f9e5550547039f66b97b"
     }
    ]
   },
@@ -6525,6 +6570,21 @@
    ]
   },
   {
+   "slug": "hg-30-2000",
+   "path": "hg/2000/30",
+   "short": "HG nr. 30/2000",
+   "title": "Hotărârea Guvernului nr. 30/2000 privind transmiterea unei subunităţi de producţie din administrarea Regiei Autonome \"Multiproduct\" în administrarea Direcţiei Generale a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20612",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20612",
+     "sha256": "c3493d9924b96bc8d2c4f78e7af12780290dde9fb13bfefa6ac2e487a76bf3d9"
+    }
+   ]
+  },
+  {
    "slug": "hg-300-2000",
    "path": "hg/2000/300",
    "short": "HG nr. 300/2000",
@@ -7322,6 +7382,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22225",
      "sha256": "856c71974a26ea5a3dac8260d01527870825a072ad58f9d93c4aa56afb1fbe69"
+    }
+   ]
+  },
+  {
+   "slug": "hg-36-2000",
+   "path": "hg/2000/36",
+   "short": "HG nr. 36/2000",
+   "title": "Hotărârea Guvernului nr. 36/2000 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 1999, rectificate, ale Regiei Autonome a Îmbunătăţirilor Funciare şi Societăţii Naţionale \"Cai de Rasa\" - S.A., aflate sub autoritatea Ministerului Agriculturii şi Alimentaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20623",
+   "versions": [
+    {
+     "from": "2000-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20623",
+     "sha256": "9d9fd08a92d86698ef973d739926ac0190baeeac410ce8b43da8891eadc0e628"
     }
    ]
   },

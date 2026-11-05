@@ -1,0 +1,5151 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-3/2026",
+ "acts": [
+  {
+   "slug": "hcls3-1-2026",
+   "path": "local/bucuresti/sector-3/2026/1",
+   "short": "HCLS3 nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 1/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.1_din_05_.01.2026_-publicat%C4%83_05_.01.2026.pdf",
+     "sha256": "eb1f521268df3c8345d77500de3a26dc762bad16181f127eeca709629a0019f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-10-2026",
+   "path": "local/bucuresti/sector-3/2026/10",
+   "short": "HCLS3 nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 10/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._10_din_28_.01.2026.pdf",
+     "sha256": "f9bda9582f8eb1a083dbe9d0a48fcba218bd5471ee137df92e0d4bb4668c4539"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-100-2026",
+   "path": "local/bucuresti/sector-3/2026/100",
+   "short": "HCLS3 nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 100/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._100_din_29_.04.2026.pdf",
+     "sha256": "9916589d6afddf8c2d356fa60b5b50b7ae05096550e463de96063fff233ec72f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-101-2026",
+   "path": "local/bucuresti/sector-3/2026/101",
+   "short": "HCLS3 nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 101/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._101_din_29_.04.2026.pdf",
+     "sha256": "803979a1a4c79bcb03533d8ef2b367f095434706929a793d37db0bd61eaaf0a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-102-2026",
+   "path": "local/bucuresti/sector-3/2026/102",
+   "short": "HCLS3 nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 102/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._102_din_29_.04.2026.pdf",
+     "sha256": "d87185fa0af6468add98aa93c0aa9871ba8236391fd5138ed4b897532ac0f29a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-103-2026",
+   "path": "local/bucuresti/sector-3/2026/103",
+   "short": "HCLS3 nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 103/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._103_din_29_.04.2026.pdf",
+     "sha256": "6f92addafd569f2906124a0a87bb4b014a2ea74d79c3c802cc333681a8df9f8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-104-2026",
+   "path": "local/bucuresti/sector-3/2026/104",
+   "short": "HCLS3 nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 104/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._104_din_29_.04.2026.pdf",
+     "sha256": "441364c6963583324cca946144b6ed38da79bc7b5024e70ebdf9928be99f7b2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-105-2026",
+   "path": "local/bucuresti/sector-3/2026/105",
+   "short": "HCLS3 nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 105/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._105_din_29_.04.2026.pdf",
+     "sha256": "5388043d70a598eedec94c19d452574b86a5ebc37839611adf62324aab948fa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-106-2026",
+   "path": "local/bucuresti/sector-3/2026/106",
+   "short": "HCLS3 nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 106/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._106_din_29_.04.2026.pdf",
+     "sha256": "800fb1309d47e74d41f89b8a5b361f78bdbbace5554976a3e694bff3b4bf9a0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-107-2026",
+   "path": "local/bucuresti/sector-3/2026/107",
+   "short": "HCLS3 nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 107/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._107_din_29_.04.2026.pdf",
+     "sha256": "ce3c49b100809e9979ee5c8fc1e7f3fa9288f77b09799a81edd63ec77d64cee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-108-2026",
+   "path": "local/bucuresti/sector-3/2026/108",
+   "short": "HCLS3 nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 108/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._108_din_29_.04.2026.pdf",
+     "sha256": "3e8ed11733b89fd82cb180b4edd4ed4cb950a5caeb347b66dbfb31e293b3aeb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-109-2026",
+   "path": "local/bucuresti/sector-3/2026/109",
+   "short": "HCLS3 nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 109/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._109_din_29_.04.2026.pdf",
+     "sha256": "474734d86be5fe6acdca9b0e3a6c8e73e36ee6af9c511fedd4f3fae734ab1e5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-11-2026",
+   "path": "local/bucuresti/sector-3/2026/11",
+   "short": "HCLS3 nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 11/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._11_din_28_.01.2026.pdf",
+     "sha256": "8971e1c236517a259bdd56d17c327fffc32ffa5058f6d71dcd666175d41e940e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-110-2026",
+   "path": "local/bucuresti/sector-3/2026/110",
+   "short": "HCLS3 nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 110/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._110_din_29_.04.2026.pdf",
+     "sha256": "da27e078d7dfd5dfd8c4afe6e32725e1d9cc5511be249845826363714936053b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-111-2026",
+   "path": "local/bucuresti/sector-3/2026/111",
+   "short": "HCLS3 nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 111/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._111_din_29_.04.2026.pdf",
+     "sha256": "5f309a49a8261260bbcf618b7f6d3d8b315d7875f303e4fe8c65e397bc8bcd86"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-112-2026",
+   "path": "local/bucuresti/sector-3/2026/112",
+   "short": "HCLS3 nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 112/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._112_din_29_.04.2026.pdf",
+     "sha256": "fc8cb9a94ac941f14ce1afc00266bbc4781426d5b1dc9a70538abaa84fd4384b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-113-2026",
+   "path": "local/bucuresti/sector-3/2026/113",
+   "short": "HCLS3 nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 113/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._113_din_29_.04.2026.pdf",
+     "sha256": "3714a2bac0d092f76536a77850b39168d9d259beceadb6157f6f3f5c5825cb43"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-114-2026",
+   "path": "local/bucuresti/sector-3/2026/114",
+   "short": "HCLS3 nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 114/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._114_din_29_.04.2026.pdf",
+     "sha256": "e648104a099ed003b5a525d74a1769545a193e314fe35a0744a22f152fbde165"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-115-2026",
+   "path": "local/bucuresti/sector-3/2026/115",
+   "short": "HCLS3 nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 115/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._115_din_29_.04.2026.pdf",
+     "sha256": "1004b6d30e1ae95f109ba56ab30e521138fcfb5b97b22df392c5ca3bff18d1d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-116-2026",
+   "path": "local/bucuresti/sector-3/2026/116",
+   "short": "HCLS3 nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 116/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._116_din_29_.04.2026.pdf",
+     "sha256": "87b7749cd68b69d2fc2e30ae638d2071d3a3eacc34411c1d4672bd484cecdc3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-117-2026",
+   "path": "local/bucuresti/sector-3/2026/117",
+   "short": "HCLS3 nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 117/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._117_din_29_.04.2026.pdf",
+     "sha256": "f72814efd866eda5525960895f153e6711e5b8cfde33abe99e9a456dfc3e9624"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-118-2026",
+   "path": "local/bucuresti/sector-3/2026/118",
+   "short": "HCLS3 nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 118/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._118_din_29_.04.2026.pdf",
+     "sha256": "59d673b25c7b43905140917d73b95720bff6fdc4d3dc0430d412028bb9b12628"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-119-2026",
+   "path": "local/bucuresti/sector-3/2026/119",
+   "short": "HCLS3 nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 119/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._119_din_29_.04.2026.pdf",
+     "sha256": "24a714ba5793a2b728795fc4d8283a6fdd50e6f53d36d55171b6603350d34a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-12-2026",
+   "path": "local/bucuresti/sector-3/2026/12",
+   "short": "HCLS3 nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 12/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._12_din_28_.01.2026.pdf",
+     "sha256": "e061662822de0ece116a7fe1391cc5de5c580e3f89314cd698083a6febd57988"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-120-2026",
+   "path": "local/bucuresti/sector-3/2026/120",
+   "short": "HCLS3 nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 120/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._120_din_29_.04.2026.pdf",
+     "sha256": "f714939e83e3b21d32b5ad55cac8fd90f53a43c8e4fc92e277f9a526451e1245"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-121-2026",
+   "path": "local/bucuresti/sector-3/2026/121",
+   "short": "HCLS3 nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 121/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._121_din_29_.04.2026.pdf",
+     "sha256": "3300257c441c0f4c49b59431bfe7cb7fe39279a90ab0e831a930f8c39cf4445a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-122-2026",
+   "path": "local/bucuresti/sector-3/2026/122",
+   "short": "HCLS3 nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 122/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._122_din_29_.04.2026.pdf",
+     "sha256": "c807a24758ec694bd5bfd602da91b6b7026dd58400f90875f4c205ca6aa9ebbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-123-2026",
+   "path": "local/bucuresti/sector-3/2026/123",
+   "short": "HCLS3 nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 123/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._123_din_29_.04.2026.pdf",
+     "sha256": "52cd3e001bc3cff4b18aff13793c786608238fc5f7b7807df552ca960bc09033"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-124-2026",
+   "path": "local/bucuresti/sector-3/2026/124",
+   "short": "HCLS3 nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 124/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._124_din_29_.04.2026.pdf",
+     "sha256": "831cb04219fbd033ea2ca597ad09664367e91cd2b26a4afeda0472b416ccd8c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-125-2026",
+   "path": "local/bucuresti/sector-3/2026/125",
+   "short": "HCLS3 nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 125/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._125_din_29_.04.2026.pdf",
+     "sha256": "e34c3e57302e277d7c15819737546248498c18a897d92960513e52dd1e27ebbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-126-2026",
+   "path": "local/bucuresti/sector-3/2026/126",
+   "short": "HCLS3 nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 126/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._126_din_29_.04.2026.pdf",
+     "sha256": "9f31cf1bedf2e865063f7191dfb2d3c00bace88d7acd2f7322c0c16ca7bcdf0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-127-2026",
+   "path": "local/bucuresti/sector-3/2026/127",
+   "short": "HCLS3 nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 127/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._127_din_29_.04.2026.pdf",
+     "sha256": "9353348c59279c8548e1252c0b4031be238e651ca3c1fb2fe493e26c5ac2dd66"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-128-2026",
+   "path": "local/bucuresti/sector-3/2026/128",
+   "short": "HCLS3 nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 128/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._128_din_14_.05.2026.pdf",
+     "sha256": "87c733ef98a04a47555d3ce649c224002d9c2cbbf6b7cafe07045353ede5faf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-129-2026",
+   "path": "local/bucuresti/sector-3/2026/129",
+   "short": "HCLS3 nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 129/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._129_din_14_.05.2026.pdf",
+     "sha256": "ef141d7db81b00daaaabb00814408d7a7e18aac03bd30b747c3a68af9a164353"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-13-2026",
+   "path": "local/bucuresti/sector-3/2026/13",
+   "short": "HCLS3 nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 13/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._13_din_28_.01.2026.pdf",
+     "sha256": "3f1ff13084504361e9095940097eb5cfac4670127bdad793e25be9c4971fe06b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-130-2026",
+   "path": "local/bucuresti/sector-3/2026/130",
+   "short": "HCLS3 nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 130/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._130_din_14_.05.2026.pdf",
+     "sha256": "5a3402026ed61a8b4d7ff62511fdb46fc473f6196f9a1f524af25df06fdacc41"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-131-2026",
+   "path": "local/bucuresti/sector-3/2026/131",
+   "short": "HCLS3 nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 131/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._131_din_14_.05.2026.pdf",
+     "sha256": "62e627333086bb677c036d03b564c70826b4244c9f8fea29eb5e1026cd120468"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-132-2026",
+   "path": "local/bucuresti/sector-3/2026/132",
+   "short": "HCLS3 nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 132/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._132_din_14_.05.2026.pdf",
+     "sha256": "089a19c39cd78a943ce47aa079d13e402520f4fd5b0319d7635c13bd2a8ae511"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-133-2026",
+   "path": "local/bucuresti/sector-3/2026/133",
+   "short": "HCLS3 nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 133/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._133_din_14_.05.2026.pdf",
+     "sha256": "e85370d314fc223639b9fecc0287125572606e83c6ca9a71f06d0a4975e43dfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-134-2026",
+   "path": "local/bucuresti/sector-3/2026/134",
+   "short": "HCLS3 nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 134/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._134_din_14_.05.2026.pdf",
+     "sha256": "df66c96ae8657324b216f66e356a792c7860369b2055d05ab180b8d0a2d57fef"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-135-2026",
+   "path": "local/bucuresti/sector-3/2026/135",
+   "short": "HCLS3 nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 135/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._135_din_14_.05.2026.pdf",
+     "sha256": "bc3009739f9c40e10a98dcd85b1d4777c3875fc2550151267621e93deea62dba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-136-2026",
+   "path": "local/bucuresti/sector-3/2026/136",
+   "short": "HCLS3 nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 136/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._136_din_14_.05.2026.pdf",
+     "sha256": "1da4f1b9096c6b36d70611ce7ea8124dec7b4dc45dda76839cd8cce429439e96"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-137-2026",
+   "path": "local/bucuresti/sector-3/2026/137",
+   "short": "HCLS3 nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 137/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._137_din_14_.05.2026.pdf",
+     "sha256": "759beac06200ff753b8e9ebf0217c5bc6e27f38bf733054c29f3f86219fd7541"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-138-2026",
+   "path": "local/bucuresti/sector-3/2026/138",
+   "short": "HCLS3 nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 138/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._138_din_14_.05.2026.pdf",
+     "sha256": "b3f975d7ac65b5e9f1b6ebbaa4baa7f4f0c19cab5f35aaa1c44351579a9af497"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-139-2026",
+   "path": "local/bucuresti/sector-3/2026/139",
+   "short": "HCLS3 nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 139/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._139_din_14_.05.2026.pdf",
+     "sha256": "fd838970ce90c83dd08e11b571fd2d7eaf5aa7e7c4e8e40a60cf04bac47efdf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-14-2026",
+   "path": "local/bucuresti/sector-3/2026/14",
+   "short": "HCLS3 nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 14/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._14_din_28_.01.2026.pdf",
+     "sha256": "935b7dba3eee32b32537a9794351efe98bb3afdf64a2092995645005c1a201fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-140-2026",
+   "path": "local/bucuresti/sector-3/2026/140",
+   "short": "HCLS3 nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 140/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._140_din_14_.05.2026.pdf",
+     "sha256": "2c289d692bb3ba5f8076a0b901d6626ef79a3b7d7bf0f2aa6ddf89dc9d07c419"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-141-2026",
+   "path": "local/bucuresti/sector-3/2026/141",
+   "short": "HCLS3 nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 141/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._141_din_14_.05.2026.pdf",
+     "sha256": "f0b47b469472f77abfbbd61dd7d396293623f4c4da796c19623585ea4c409105"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-142-2026",
+   "path": "local/bucuresti/sector-3/2026/142",
+   "short": "HCLS3 nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 142/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._142_din_14_.05.2026.pdf",
+     "sha256": "3e2f910d90890902562ca62a82f729c02facae0a648a8db3e582a796a03a6fe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-143-2026",
+   "path": "local/bucuresti/sector-3/2026/143",
+   "short": "HCLS3 nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 143/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._143_din_14_.05.2026.pdf",
+     "sha256": "43c8baadf236df74c29d3645bd9126550fe4887a0d68a8290dba99d059f28464"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-144-2026",
+   "path": "local/bucuresti/sector-3/2026/144",
+   "short": "HCLS3 nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 144/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._144_din_14_.05.2026.pdf",
+     "sha256": "00b7f8c8e33be4d12ae55ae9061aae5cb5f0439be47790dc585b7477ebe55ff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-145-2026",
+   "path": "local/bucuresti/sector-3/2026/145",
+   "short": "HCLS3 nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 145/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._145_din_14_.05.2026.pdf",
+     "sha256": "b8cb73c6297b34b3887d8154f97c58cdc5d3d20669bca5a078b3496f6e5b0775"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-146-2026",
+   "path": "local/bucuresti/sector-3/2026/146",
+   "short": "HCLS3 nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 146/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._146_din_14_.05.2026.pdf",
+     "sha256": "03dfa3d79416f95c353e7abdd259f917e1e1e887cabfbd23cb8badd1e91d3b56"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-147-2026",
+   "path": "local/bucuresti/sector-3/2026/147",
+   "short": "HCLS3 nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 147/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._147_din_14_.05.2026.pdf",
+     "sha256": "b894b5b23418d2925b1a6689f1e554266c4aa1bbe6634223096bb59f8d261e44"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-148-2026",
+   "path": "local/bucuresti/sector-3/2026/148",
+   "short": "HCLS3 nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 148/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._148_din_27_.05.2026.pdf",
+     "sha256": "d0554902b68c3e0db9d93a911bcddeba14ba7f67ead2453a3d5712042b3b8db4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-149-2026",
+   "path": "local/bucuresti/sector-3/2026/149",
+   "short": "HCLS3 nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 149/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._149_din_27_.05.2026.pdf",
+     "sha256": "e331d15a47a0d2d1139c95d7954c1378f8524d7e1771bf19c7c09f62e1fe3ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-15-2026",
+   "path": "local/bucuresti/sector-3/2026/15",
+   "short": "HCLS3 nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 15/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._15_din_28_.01.2026.pdf",
+     "sha256": "23ab30f1cddff0fa3e13542fc6226d837bf36ceb09271985272b019e47a1bb31"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-150-2026",
+   "path": "local/bucuresti/sector-3/2026/150",
+   "short": "HCLS3 nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 150/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._150_din_27_.05.2026.pdf",
+     "sha256": "1a8e3980f4c3f5ec2e64b3a6c9b8be35986e4cc1ef2596a3907f61dbc0df664f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-151-2026",
+   "path": "local/bucuresti/sector-3/2026/151",
+   "short": "HCLS3 nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 151/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._151_din_27_.05.2026.pdf",
+     "sha256": "3a1bb94291639dfc280cee96741147c8002ef0c632bb554f12d17b97cd22b5b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-152-2026",
+   "path": "local/bucuresti/sector-3/2026/152",
+   "short": "HCLS3 nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 152/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._152_din_27_.05.2026.pdf",
+     "sha256": "a56857439c8df50919b23da9920c9a77c70bc211d493c269f5cbe75af6c7e474"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-153-2026",
+   "path": "local/bucuresti/sector-3/2026/153",
+   "short": "HCLS3 nr. 153/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 153/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._153_din_27_.05.2026.pdf",
+     "sha256": "d0b75a855283ceb3351dc5bae83b584d797b44068ae3a5b3610e05fceb1ec96d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-154-2026",
+   "path": "local/bucuresti/sector-3/2026/154",
+   "short": "HCLS3 nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 154/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._154_din_27_.05.2026.pdf",
+     "sha256": "7f238529899ce69e93c9ed9b153ffa15852900ce6943c6a0d5e473953a61c61b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-155-2026",
+   "path": "local/bucuresti/sector-3/2026/155",
+   "short": "HCLS3 nr. 155/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 155/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._155_din_27_.05.2026.pdf",
+     "sha256": "b0ec8bdadc1d09ebd7452c6fa27c88a29aba5b50dffd76eefa6ce6dc98b79dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-156-2026",
+   "path": "local/bucuresti/sector-3/2026/156",
+   "short": "HCLS3 nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 156/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._156_din_27_.05.2026.pdf",
+     "sha256": "8c53f4f07d7af6e1a7654eb0883e264f27c45b0b2b3ee715270c6bb5b409e801"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-157-2026",
+   "path": "local/bucuresti/sector-3/2026/157",
+   "short": "HCLS3 nr. 157/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 157/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._157_din_27_.05.2026.pdf",
+     "sha256": "4477796c0de8dcaa1ede6e937b9ce588f30417f14c100b09240a92e75b3c4afa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-158-2026",
+   "path": "local/bucuresti/sector-3/2026/158",
+   "short": "HCLS3 nr. 158/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 158/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._158_din_27_.05.2026.pdf",
+     "sha256": "7b10f7826b0dbbd36508e5028b3e2864ee7f5e9a97d8485509cb539556389c2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-159-2026",
+   "path": "local/bucuresti/sector-3/2026/159",
+   "short": "HCLS3 nr. 159/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 159/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._159_din_27_.05.2026.pdf",
+     "sha256": "67a83ad8b45e3c9225458f32442afe9b5e68b9e935371cc2b5976c5efca16234"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-16-2026",
+   "path": "local/bucuresti/sector-3/2026/16",
+   "short": "HCLS3 nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 16/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._16_din_28_.01.2026.pdf",
+     "sha256": "7469b62926c64d4d9e7f8565a92d1ba4b434504bce16ccfe6a28da1618543b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-160-2026",
+   "path": "local/bucuresti/sector-3/2026/160",
+   "short": "HCLS3 nr. 160/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 160/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._160_din_27_.05.2026.pdf",
+     "sha256": "4854aa0d9fd697f8a2b28be93bbf3fffda80a82883a380d39cc1368d13964ab5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-161-2026",
+   "path": "local/bucuresti/sector-3/2026/161",
+   "short": "HCLS3 nr. 161/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 161/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._161_din_27_.05.2026.pdf",
+     "sha256": "b1baf15856975c3da211bfafadfeb5b4f472b306b440d6df86545edd8000b282"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-162-2026",
+   "path": "local/bucuresti/sector-3/2026/162",
+   "short": "HCLS3 nr. 162/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 162/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._162_din_27_.05.2026.pdf",
+     "sha256": "e0d4540950e9ddb859386440ea21daa845c1f8b49caf6f314ce3fa58720c66d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-163-2026",
+   "path": "local/bucuresti/sector-3/2026/163",
+   "short": "HCLS3 nr. 163/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 163/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._163_din_27_.05.2026.pdf",
+     "sha256": "271a6b870a9a1ca7b92e04869945f90aa596d43b888e11102a6f4ea593641d2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-164-2026",
+   "path": "local/bucuresti/sector-3/2026/164",
+   "short": "HCLS3 nr. 164/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 164/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._164_din_27_.05.2026.pdf",
+     "sha256": "f0c6b3f7233512914179b5b263eb7089f9fea7a17bfd2d0a603748857c56e6fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-165-2026",
+   "path": "local/bucuresti/sector-3/2026/165",
+   "short": "HCLS3 nr. 165/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 165/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._165_din_27_.05.2026.pdf",
+     "sha256": "0e023c2c399952cb5015369527c6f3de29558ddc72385ee7db17579de1791bc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-166-2026",
+   "path": "local/bucuresti/sector-3/2026/166",
+   "short": "HCLS3 nr. 166/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 166/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._166_din_27_.05.2026.pdf",
+     "sha256": "c227458fb3e88808987be601114d9e893e60eadf2c063003c99fd78ff1b188d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-167-2026",
+   "path": "local/bucuresti/sector-3/2026/167",
+   "short": "HCLS3 nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 167/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._167_din_27_.05.2026.pdf",
+     "sha256": "cbcee4de92cc3115f91a382b56a36cebe9a7bf266a497bfe643e0c21ef8c5ae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-168-2026",
+   "path": "local/bucuresti/sector-3/2026/168",
+   "short": "HCLS3 nr. 168/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 168/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._168_din_27_.05.2026.pdf",
+     "sha256": "bb5ed7c762a3167ec75528a503b983dea446f5069be67627e84ae738d833d202"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-169-2026",
+   "path": "local/bucuresti/sector-3/2026/169",
+   "short": "HCLS3 nr. 169/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 169/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._169_din_27_.05.2026.pdf",
+     "sha256": "d5bd9088961450aa83f953be4336d1ff74e383ee43f810494c7c8ed5218508bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-17-2026",
+   "path": "local/bucuresti/sector-3/2026/17",
+   "short": "HCLS3 nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 17/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._17_din_25_.02.2026.pdf",
+     "sha256": "8af6da15847d3cab2c01f25a644c528a103280ee44c3bd8406c089936a2e8af1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-170-2026",
+   "path": "local/bucuresti/sector-3/2026/170",
+   "short": "HCLS3 nr. 170/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 170/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._170_din_27_.05.2026_1.pdf",
+     "sha256": "0b79a488cecaccc51cc5394f0ee7ce534d06f08c6dfbeeea0242cd9dacc2126d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-171-2026",
+   "path": "local/bucuresti/sector-3/2026/171",
+   "short": "HCLS3 nr. 171/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 171/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._171_din_27_.05.2026_1.pdf",
+     "sha256": "ac3ea39423c0f8f2ec820bfab0906eb4c9e437f0a34afbfcb970f8855242aaf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-172-2026",
+   "path": "local/bucuresti/sector-3/2026/172",
+   "short": "HCLS3 nr. 172/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 172/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._172_din_27_.05.2026_1.pdf",
+     "sha256": "d2e1a23c7f56f589841e34988264edded282155ae5f33be8f653cd08b63450a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-173-2026",
+   "path": "local/bucuresti/sector-3/2026/173",
+   "short": "HCLS3 nr. 173/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 173/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._173_din_17_.06.2026.pdf",
+     "sha256": "4525c9608996c613bcfd4c5540be82bbd66f1825447d738281bf53711a4721f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-174-2026",
+   "path": "local/bucuresti/sector-3/2026/174",
+   "short": "HCLS3 nr. 174/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 174/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._174_din_17_.06.2026.pdf",
+     "sha256": "c8ba858e58dfbe5b7ce134e63f20a0e1306554a23e63bf79b4e6aafff5e525c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-175-2026",
+   "path": "local/bucuresti/sector-3/2026/175",
+   "short": "HCLS3 nr. 175/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 175/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._175_din_17_.06.2026.pdf",
+     "sha256": "b4ea625af115966b84faf6878f3a43dde89c660dc5158fd46adaf659ba87e34b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-176-2026",
+   "path": "local/bucuresti/sector-3/2026/176",
+   "short": "HCLS3 nr. 176/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 176/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._176_din_17_.06.2026.pdf",
+     "sha256": "1680d37cf33e96d2620d13cc70381c98eb99c9107a450498ec5b8ae9cc6f47e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-177-2026",
+   "path": "local/bucuresti/sector-3/2026/177",
+   "short": "HCLS3 nr. 177/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 177/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._177_din_17_.06.2026.pdf",
+     "sha256": "dc35e983a0906e56bfbdf75d850ff91296b774940a466fa8dd5a9f415cc626d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-178-2026",
+   "path": "local/bucuresti/sector-3/2026/178",
+   "short": "HCLS3 nr. 178/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 178/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._178_din_17_.06.2026.pdf",
+     "sha256": "dfa537a17d15c7d2bad9dda9b0f90c9476540d7d7ee593308057fe51ddaddfb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-179-2026",
+   "path": "local/bucuresti/sector-3/2026/179",
+   "short": "HCLS3 nr. 179/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 179/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._179_din_17_.06.2026.pdf",
+     "sha256": "2c6a009341fcf4c4ec32702488de7201bb6cd271954091a893336784af4b31ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-18-2026",
+   "path": "local/bucuresti/sector-3/2026/18",
+   "short": "HCLS3 nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 18/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._18_din_25_.02.2026.pdf",
+     "sha256": "71282281efbb1e2d236d2117c59a0a6869794f1ff686470ef31fd1956a947bda"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-180-2026",
+   "path": "local/bucuresti/sector-3/2026/180",
+   "short": "HCLS3 nr. 180/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 180/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._180_din_17_.06.2026.pdf",
+     "sha256": "77e96b937563332438e022ca9160d301b513c052112bbf5b9672a006d352c763"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-181-2026",
+   "path": "local/bucuresti/sector-3/2026/181",
+   "short": "HCLS3 nr. 181/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 181/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._181_din_17_.06.2026.pdf",
+     "sha256": "157856cebf17c9d4f33f99363ad9f5573384953f51cf7cb628a8e53218177037"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-182-2026",
+   "path": "local/bucuresti/sector-3/2026/182",
+   "short": "HCLS3 nr. 182/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 182/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._182_din_17_.06.2026.pdf",
+     "sha256": "27c04f9880822b2669b1c328dd00f5ae904bea5d000b8ffaee820b9e7eed027f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-183-2026",
+   "path": "local/bucuresti/sector-3/2026/183",
+   "short": "HCLS3 nr. 183/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 183/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._183_din_17_.06.2026.pdf",
+     "sha256": "f8a68911b27d77a28df83f0cb3da373b3efb5efa058e173f6327e7de88ee39b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-184-2026",
+   "path": "local/bucuresti/sector-3/2026/184",
+   "short": "HCLS3 nr. 184/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 184/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._184_din_17_.06.2026.pdf",
+     "sha256": "38e64b28850fef1ffaf42712a32496811007716b3230658ae05479b7762d7729"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-185-2026",
+   "path": "local/bucuresti/sector-3/2026/185",
+   "short": "HCLS3 nr. 185/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 185/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._185_din_17_.06.2026.pdf",
+     "sha256": "094a053d51985fa6b80c56966b27270b034624f6265fcf9c36dfe20782f1bcf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-186-2026",
+   "path": "local/bucuresti/sector-3/2026/186",
+   "short": "HCLS3 nr. 186/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 186/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._186_din_17_.06.2026.pdf",
+     "sha256": "f76de236a60cd51ff7c7c810ed888f7f41e5f72488ee9abf2ec509a984c8a23f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-187-2026",
+   "path": "local/bucuresti/sector-3/2026/187",
+   "short": "HCLS3 nr. 187/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 187/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._187_din_17_.06.2026.pdf",
+     "sha256": "02e36d61a5b2a9bb5611cb0f64b496ee090691aee9965b4df72c0960dc7a7f12"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-188-2026",
+   "path": "local/bucuresti/sector-3/2026/188",
+   "short": "HCLS3 nr. 188/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 188/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._188_din_17_.06.2026.pdf",
+     "sha256": "cb7d7944a5673ede3664d959d373e06445740caa5e9653dc11b64e6e324e5a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-189-2026",
+   "path": "local/bucuresti/sector-3/2026/189",
+   "short": "HCLS3 nr. 189/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 189/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._189_din_17_.06.2026.pdf",
+     "sha256": "5ce65fa987e6e92dddab80f7555842b2a99e597a43d3cc2122e8b0ec5a2be5e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-19-2026",
+   "path": "local/bucuresti/sector-3/2026/19",
+   "short": "HCLS3 nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 19/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._19_din_25_.02.2026.pdf",
+     "sha256": "b0f9a23f8d902b2027a0c23b73013b8afa0af0fccb404eed053175ea53eb3802"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-190-2026",
+   "path": "local/bucuresti/sector-3/2026/190",
+   "short": "HCLS3 nr. 190/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 190/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._190_din_17_.06.2026.pdf",
+     "sha256": "a909f5b78cb643c3288cd3fa70f4d87d5080310e9f40994791a9802669319fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-191-2026",
+   "path": "local/bucuresti/sector-3/2026/191",
+   "short": "HCLS3 nr. 191/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 191/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._191_din_17_.06.2026.pdf",
+     "sha256": "284cbf63f95bae9e49139639374d372fcf2ac2ed38bcf6aae6a4d7a8762a8754"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-192-2026",
+   "path": "local/bucuresti/sector-3/2026/192",
+   "short": "HCLS3 nr. 192/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 192/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._192_din_24_.06.2026.pdf",
+     "sha256": "15578c3e2735454a2265d487b535ef2caef1f7a4781d007f3c64a4eab46d0035"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-193-2026",
+   "path": "local/bucuresti/sector-3/2026/193",
+   "short": "HCLS3 nr. 193/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 193/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._193_din_24_.06.2026.pdf",
+     "sha256": "cd243f43c0e498d68fcaa7212265f106e69677e9de6cd4b27c919f7ebaa5e3b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-194-2026",
+   "path": "local/bucuresti/sector-3/2026/194",
+   "short": "HCLS3 nr. 194/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 194/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._194_din_24_.06.2026.pdf",
+     "sha256": "52e3f982fd2b5c8fc398e146893d36c3547152b91fd92310ba9f7494bff405ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-195-2026",
+   "path": "local/bucuresti/sector-3/2026/195",
+   "short": "HCLS3 nr. 195/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 195/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._195_din_24_.06.2026.pdf",
+     "sha256": "7cde48d25cdd1852b528487f03a8d689e342c7f065785ffce98951852b672706"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-196-2026",
+   "path": "local/bucuresti/sector-3/2026/196",
+   "short": "HCLS3 nr. 196/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 196/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._196_din_24_.06.2026.pdf",
+     "sha256": "d048db4d4e99e908c0e05edfa8884d9496a48fcfc935de2cdce15c76dc39719e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-197-2026",
+   "path": "local/bucuresti/sector-3/2026/197",
+   "short": "HCLS3 nr. 197/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 197/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._197_din_24_.06.2026.pdf",
+     "sha256": "8dcaf0b787cd244eddffd0afef0318ecc04236148cf04d8fb542b1abb4a19739"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-198-2026",
+   "path": "local/bucuresti/sector-3/2026/198",
+   "short": "HCLS3 nr. 198/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 198/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._198_din_24_.06.2026.pdf",
+     "sha256": "55d51444ee0d6bde0e2ae1f1a4fa87c223b7fcfafb61c9d510295dd5d565d808"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-199-2026",
+   "path": "local/bucuresti/sector-3/2026/199",
+   "short": "HCLS3 nr. 199/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 199/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._199_din_24_.06.2026.pdf",
+     "sha256": "2d1141ed7f9e20334d9d0fae12beea73911b94b1d757c62e17bd57885c41d48b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-2-2026",
+   "path": "local/bucuresti/sector-3/2026/2",
+   "short": "HCLS3 nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 2/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._2_din_28_.01.2026.pdf",
+     "sha256": "995bfbc020a3fc41cb9706645a0e3c24c4705e7429e602a1e47214546d73372c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-20-2026",
+   "path": "local/bucuresti/sector-3/2026/20",
+   "short": "HCLS3 nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 20/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._20_din_25_.02.2026.pdf",
+     "sha256": "51a880f144842a6c2d80f34f70b2eed13f0b47c9281c863369a198c5de5653a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-200-2026",
+   "path": "local/bucuresti/sector-3/2026/200",
+   "short": "HCLS3 nr. 200/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 200/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._200_din_24_.06.2026.pdf",
+     "sha256": "ce9a539e68464a60da0f198dbdb6b896ee5b68a9a868b98fa0a0e52f3aac920c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-201-2026",
+   "path": "local/bucuresti/sector-3/2026/201",
+   "short": "HCLS3 nr. 201/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 201/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._201_din_24_.06.2026.pdf",
+     "sha256": "2123bbddd41ea1a996ea00c0ddfb038fba80475bca4de4c071dc7e8b8287482f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-202-2026",
+   "path": "local/bucuresti/sector-3/2026/202",
+   "short": "HCLS3 nr. 202/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 202/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._202_din_24_.06.2026.pdf",
+     "sha256": "250fbd605b8410ff79fd42ad911c0d242f243c8823c8e3f73c67c26ea7292aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-203-2026",
+   "path": "local/bucuresti/sector-3/2026/203",
+   "short": "HCLS3 nr. 203/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 203/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._203_din_24_.06.2026.pdf",
+     "sha256": "dc079e0d5d09bdafee40f672fb2f3d88c085d79175bb0d66bf5e0967d1db9b7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-204-2026",
+   "path": "local/bucuresti/sector-3/2026/204",
+   "short": "HCLS3 nr. 204/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 204/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._204_din_24_.06.2026.pdf",
+     "sha256": "24c9995365ccf8ea0034d4949ff45fb33e5a9e501d141a7b006b66f35228bd26"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-205-2026",
+   "path": "local/bucuresti/sector-3/2026/205",
+   "short": "HCLS3 nr. 205/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 205/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._205_din_24_.06.2026.pdf",
+     "sha256": "7774f0a79b5d59361979c8de428fa6655a76d227691b1233d2e077db288950b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-206-2026",
+   "path": "local/bucuresti/sector-3/2026/206",
+   "short": "HCLS3 nr. 206/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 206/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._206_din_24_.06.2026.pdf",
+     "sha256": "ee3965e93ecde1fee0578b89c6e75237e930e745d21921f5f59a09125082c990"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-207-2026",
+   "path": "local/bucuresti/sector-3/2026/207",
+   "short": "HCLS3 nr. 207/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 207/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._207_din_24_.06.2026.pdf",
+     "sha256": "2ed2e1d6bd682beb4e2b63e3e9df607cc856d2bf7f0468ff1f4a62eea98b07b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-208-2026",
+   "path": "local/bucuresti/sector-3/2026/208",
+   "short": "HCLS3 nr. 208/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 208/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._208_din_24_.06.2026.pdf",
+     "sha256": "2c6500d196da551a6ce710cf73a07bac3eb638108e0d39ce2cfa4a60505af51c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-209-2026",
+   "path": "local/bucuresti/sector-3/2026/209",
+   "short": "HCLS3 nr. 209/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 209/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/06",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._209_din_24_.06.2026.pdf",
+     "sha256": "b0bc8e80fb526feecd2b0b695389bba4d3e057f812db8e1b16ce6aa1df9593c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-21-2026",
+   "path": "local/bucuresti/sector-3/2026/21",
+   "short": "HCLS3 nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 21/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._21_din_25_.02.2026.pdf",
+     "sha256": "7ce6f766a1b61200afe7e64dbce78c56b0e9e08dcf15e4120c324c264a220768"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-210-2026",
+   "path": "local/bucuresti/sector-3/2026/210",
+   "short": "HCLS3 nr. 210/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 210/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._210_din_15_.07.2026.pdf",
+     "sha256": "fa36d302248f5a3593ac21920c603d9638a72795c76b8328f71fd977deb07ecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-211-2026",
+   "path": "local/bucuresti/sector-3/2026/211",
+   "short": "HCLS3 nr. 211/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 211/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._211_din_15_.07.2026.pdf",
+     "sha256": "2616527a6ac1a8766d03a0b4c149328f568f44a94e07871ddf16fb8c2fae62fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-212-2026",
+   "path": "local/bucuresti/sector-3/2026/212",
+   "short": "HCLS3 nr. 212/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 212/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._212_din_15_.07.2026.pdf",
+     "sha256": "c59a25d6920cc25dc6382814aa44933e147db23c0ac5ef1845166acac0785a2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-213-2026",
+   "path": "local/bucuresti/sector-3/2026/213",
+   "short": "HCLS3 nr. 213/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 213/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._213_din_15_.07.2026.pdf",
+     "sha256": "582d6f230de9585b2b51a25b4e9d60b32e0bc77fcfebc646189a5091986b5fbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-214-2026",
+   "path": "local/bucuresti/sector-3/2026/214",
+   "short": "HCLS3 nr. 214/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 214/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._214_din_15_.07.2026.pdf",
+     "sha256": "622706558e60344ad878fac217f5d99db7986766b496724ef8695b28064955bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-215-2026",
+   "path": "local/bucuresti/sector-3/2026/215",
+   "short": "HCLS3 nr. 215/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 215/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._215_din_15_.07.2026.pdf",
+     "sha256": "dae7d23930d958673131fbf5d1b703d1c53cb4f5961cc1cd54b06a36a567c392"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-216-2026",
+   "path": "local/bucuresti/sector-3/2026/216",
+   "short": "HCLS3 nr. 216/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 216/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._216_din_15_.07.2026.pdf",
+     "sha256": "812e1c80fb1de39c519b3edef73060c9f57e2cc0120f234bea153d18471ed9b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-217-2026",
+   "path": "local/bucuresti/sector-3/2026/217",
+   "short": "HCLS3 nr. 217/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 217/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._217_din_15_.07.2026.pdf",
+     "sha256": "142a051a0186ab70b11cd85260b017d4668ce4a311227a957c04d8568237a050"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-218-2026",
+   "path": "local/bucuresti/sector-3/2026/218",
+   "short": "HCLS3 nr. 218/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 218/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._218_din_15_.07.2026.pdf",
+     "sha256": "4802f02d8fe8cca635e9b927d75dee96b72193905807929fcc37152080f97f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-219-2026",
+   "path": "local/bucuresti/sector-3/2026/219",
+   "short": "HCLS3 nr. 219/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 219/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._219_din_15_.07.2026.pdf",
+     "sha256": "a5b4e0a5e5835c3f2bfb1f6e27f32620386cd39b040228c4f994b8fa3e463245"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-22-2026",
+   "path": "local/bucuresti/sector-3/2026/22",
+   "short": "HCLS3 nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 22/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._22_din_25_.02.2026.pdf",
+     "sha256": "daf93214138b73b607faa880bfb6dd4f0b6268395253fac5170f90df228b33ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-220-2026",
+   "path": "local/bucuresti/sector-3/2026/220",
+   "short": "HCLS3 nr. 220/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 220/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._220_din_15_.07.2026.pdf",
+     "sha256": "f5e0bdb88c5e80a477f7055498d153e8d1402c092da7e7d080e87523c8df9ce6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-221-2026",
+   "path": "local/bucuresti/sector-3/2026/221",
+   "short": "HCLS3 nr. 221/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 221/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._221_din_15_.07.2026.pdf",
+     "sha256": "cab503941516c778ce7bcb3db501fdea0972ca77eb59bac7c6661fe86ae99ef0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-222-2026",
+   "path": "local/bucuresti/sector-3/2026/222",
+   "short": "HCLS3 nr. 222/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 222/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._222_din_15_.07.2026.pdf",
+     "sha256": "f596600649f7859e4d847ca87176ba7d2c75812ab0b8829a0877946330cc9cf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-223-2026",
+   "path": "local/bucuresti/sector-3/2026/223",
+   "short": "HCLS3 nr. 223/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 223/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._223_din_15_.07.2026.pdf",
+     "sha256": "0d39fdafa4586a581e5983151c434669a8db71bd44e85db459466b85608e1451"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-224-2026",
+   "path": "local/bucuresti/sector-3/2026/224",
+   "short": "HCLS3 nr. 224/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 224/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._224_din_15_.07.2026.pdf",
+     "sha256": "ff9f8a92682829172d10899399d2711d80f86575d4336d8c9d5d1cf2658bc278"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-225-2026",
+   "path": "local/bucuresti/sector-3/2026/225",
+   "short": "HCLS3 nr. 225/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 225/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._225_din_15_.07.2026.pdf",
+     "sha256": "aa1069b4140fdc37f94ebee6f197921b063eee8e70d938bfd0f4d828b6002ad7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-226-2026",
+   "path": "local/bucuresti/sector-3/2026/226",
+   "short": "HCLS3 nr. 226/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 226/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._226_din_15_.07.2026.pdf",
+     "sha256": "1471a9e2840afd142d17918ffebf93ebe340cbd904092df130b901a8d4572218"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-227-2026",
+   "path": "local/bucuresti/sector-3/2026/227",
+   "short": "HCLS3 nr. 227/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 227/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._227_din_15_.07.2026.pdf",
+     "sha256": "e1c2184da15f4eddc4d87d1e3c5d169fbb155c67f2166eaa099bbdeb1427ce08"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-228-2026",
+   "path": "local/bucuresti/sector-3/2026/228",
+   "short": "HCLS3 nr. 228/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 228/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._228_din_15_.07.2026.pdf",
+     "sha256": "37a311f1793e415c7783a19d8033b0edde50f8376dbcf5bf5d51997f50d14abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-229-2026",
+   "path": "local/bucuresti/sector-3/2026/229",
+   "short": "HCLS3 nr. 229/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 229/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._229_din_15_.07.2026.pdf",
+     "sha256": "f90646eb46d2a65c2c54723d2ac4556f4850dbf9391a8bd8eaa1cbdfb97a80f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-23-2026",
+   "path": "local/bucuresti/sector-3/2026/23",
+   "short": "HCLS3 nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 23/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._23_din_25_.02.2026.pdf",
+     "sha256": "35fafe383e02b4d626c3da7212464440f04afcc55faf456346c0bfdc45bd4dbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-230-2026",
+   "path": "local/bucuresti/sector-3/2026/230",
+   "short": "HCLS3 nr. 230/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 230/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._230_din_15_.07.2026.pdf",
+     "sha256": "7a23b1a92d2e4a1b839ceb43c42e08f725d644fb26331d25d89f7ec56a0d0fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-231-2026",
+   "path": "local/bucuresti/sector-3/2026/231",
+   "short": "HCLS3 nr. 231/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 231/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._231_din_29_.07.2026.pdf",
+     "sha256": "470ca912801bb187965c59ac4d59af0ca9c2ea2b42faf66a139ff087343681a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-232-2026",
+   "path": "local/bucuresti/sector-3/2026/232",
+   "short": "HCLS3 nr. 232/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 232/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._232_din_29_.07.2026.pdf",
+     "sha256": "3f3d524fc4789e328b4d9d59d5ad794f9d3c9db78ae565f3c243c6644aa6b55e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-233-2026",
+   "path": "local/bucuresti/sector-3/2026/233",
+   "short": "HCLS3 nr. 233/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 233/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._233_din_29_.07.2026.pdf",
+     "sha256": "39949771260d1a2ecebfa36a3dccbd5bfca419dafea5b4bd33d75cc6770a4423"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-234-2026",
+   "path": "local/bucuresti/sector-3/2026/234",
+   "short": "HCLS3 nr. 234/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 234/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._234_din_29_.07.2026.pdf",
+     "sha256": "5c68f30b0e18a52e7ff37ef65c4ae45eadf62f6ebcd5eb27cc35e4810b41f53c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-235-2026",
+   "path": "local/bucuresti/sector-3/2026/235",
+   "short": "HCLS3 nr. 235/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 235/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._235_din_29_.07.2026.pdf",
+     "sha256": "dd7b3dd23e1da5a67010c22b92b98be98b4a3f76f5a9d70100c2b051440a46e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-236-2026",
+   "path": "local/bucuresti/sector-3/2026/236",
+   "short": "HCLS3 nr. 236/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 236/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._236_din_29_.07.2026.pdf",
+     "sha256": "d56298944c6c73fcdfca4575a96505691cd8c0cec3b0da4df8e79202706c2419"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-237-2026",
+   "path": "local/bucuresti/sector-3/2026/237",
+   "short": "HCLS3 nr. 237/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 237/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._237_din_29_.07.2026.pdf",
+     "sha256": "d6cf40ab4b23e78cfb4a3adf50d4bed512e973e4be458d612717c4e73963cff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-238-2026",
+   "path": "local/bucuresti/sector-3/2026/238",
+   "short": "HCLS3 nr. 238/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 238/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._238_din_29_.07.2026.pdf",
+     "sha256": "24257782cff66bd29560e2b1a729366a26b1cd00d3d201cf8551124aec6d3856"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-239-2026",
+   "path": "local/bucuresti/sector-3/2026/239",
+   "short": "HCLS3 nr. 239/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 239/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._239_din_29_.07.2026.pdf",
+     "sha256": "d0b3957c6c25d73446992ef25dff80755761d36249bcae0b89025078f247fc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-24-2026",
+   "path": "local/bucuresti/sector-3/2026/24",
+   "short": "HCLS3 nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 24/2026 privind actualizarea indicatorilor tehnico-economici aferenţi unor obiective de investiţii privind renovarea energetică aprofundată a clădirilor rezidenţiale multifamiliale aprobaţi prin Anexele nr. 4-11,14,20-22,25-27,32,35,37,39,41,44,46,51,58,60-62,66, 69,78-81, 85,87,90-91,93-97, 100-101,104,106,110-112,118,130,131,139-140,143-145,147 la HCLS3 nr. 422/30.08.2023, cu actualizările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._24_din_25_.02.2026.pdf",
+     "sha256": "2de19d8020602bbf7d7802719007c21ab205ef8d623ada2072adc7a220897d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-240-2026",
+   "path": "local/bucuresti/sector-3/2026/240",
+   "short": "HCLS3 nr. 240/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 240/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._240_din_29_.07.2026.pdf",
+     "sha256": "75c87119986dc2b406cf97f1ac9775cc904deaee0b45af4ef8a1a2bce0cfac0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-241-2026",
+   "path": "local/bucuresti/sector-3/2026/241",
+   "short": "HCLS3 nr. 241/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 241/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._241_din_29_.07.2026.pdf",
+     "sha256": "bceb1b102a20422e619337ba2a7380e070e4f36b5c46713b2c1494e096da39ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-242-2026",
+   "path": "local/bucuresti/sector-3/2026/242",
+   "short": "HCLS3 nr. 242/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 242/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/07",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._242_din_29_.07.2026.pdf",
+     "sha256": "cb6c210bb2e29b22d01362bcf3abc8b65981dae6221f72f90574d49d73f1ef6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-243-2026",
+   "path": "local/bucuresti/sector-3/2026/243",
+   "short": "HCLS3 nr. 243/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 243/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._243_din_26_.08.2026.pdf",
+     "sha256": "320a48130f7336e10eb1c3107b9554769ed52ba6fb69fd99b175b7e793c2e725"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-244-2026",
+   "path": "local/bucuresti/sector-3/2026/244",
+   "short": "HCLS3 nr. 244/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 244/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._244_din_26_.08.2026.pdf",
+     "sha256": "56085aca7d08271cdad59ec8d24d0ac89fbc5836dcbf270e74c1c7a47920e9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-245-2026",
+   "path": "local/bucuresti/sector-3/2026/245",
+   "short": "HCLS3 nr. 245/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 245/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._245_din_26_.08.2026.pdf",
+     "sha256": "a9ba55724d16b07082fea1068e46874c6ad9322f62a53826cac413946c455886"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-246-2026",
+   "path": "local/bucuresti/sector-3/2026/246",
+   "short": "HCLS3 nr. 246/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 246/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._246_din_26_.08.2026.pdf",
+     "sha256": "f7fe98001400268bb984fee2236c1f64c55c3964a4ed3d03927b933a8fabdbc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-247-2026",
+   "path": "local/bucuresti/sector-3/2026/247",
+   "short": "HCLS3 nr. 247/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 247/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._247_din_26_.08.2026.pdf",
+     "sha256": "3a32b4c45eeeaa6d4bb19da5a83675e907a593221519e3452b93dca94cd56eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-248-2026",
+   "path": "local/bucuresti/sector-3/2026/248",
+   "short": "HCLS3 nr. 248/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 248/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._248_din_26_.08.2026.pdf",
+     "sha256": "c0d4ae2a722c3def890984bf2ec59c7d6bdcdb4e857a03e42bf07a317118b527"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-249-2026",
+   "path": "local/bucuresti/sector-3/2026/249",
+   "short": "HCLS3 nr. 249/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 249/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._249_din_26_.08.2026.pdf",
+     "sha256": "83f9274ebbddb22901dd49b05a9774f7b3397cd8eed74f9b8ea8cad9d4710dc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-25-2026",
+   "path": "local/bucuresti/sector-3/2026/25",
+   "short": "HCLS3 nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 25/2026 privind actualizarea indicatorilor tehnico-economici pentru creşterea performanţei energetice la unele blocuri de locuinţe din Sectorul 3, aprobaţi prin Anexele nr. 1 - 6 la HCLS3 nr. 438/14.09.2023, cu actualizările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._25_din_25_.02.2026.pdf",
+     "sha256": "cc70bb626a40193eb1589273c88bbcc5dc05dff8c82e042aeabf0b817b3bc793"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-250-2026",
+   "path": "local/bucuresti/sector-3/2026/250",
+   "short": "HCLS3 nr. 250/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 250/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._250_din_26_.08.2026.pdf",
+     "sha256": "79ab1c6d17d026f3f04708cb06057f105efd79e21933bce732fdce782cd53424"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-251-2026",
+   "path": "local/bucuresti/sector-3/2026/251",
+   "short": "HCLS3 nr. 251/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 251/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._251_din_26_.08.2026.pdf",
+     "sha256": "f2e548b2f7265345e5c3f458a0564dc24573292afe114d9bedb3f8531df26366"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-252-2026",
+   "path": "local/bucuresti/sector-3/2026/252",
+   "short": "HCLS3 nr. 252/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 252/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._252_din_26_.08.2026.pdf",
+     "sha256": "41b7b9a553ac787288a9063d2ef9316a21e5fa4a09041ac908f04e6b95ffd8e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-253-2026",
+   "path": "local/bucuresti/sector-3/2026/253",
+   "short": "HCLS3 nr. 253/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 253/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._253_din_26_.08.2026.pdf",
+     "sha256": "3455f1df61c16dc1f7cd18a22ff3f9e39d436d48f924daf14f922e206fcd32b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-254-2026",
+   "path": "local/bucuresti/sector-3/2026/254",
+   "short": "HCLS3 nr. 254/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 254/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._254_din_26_.08.2026.pdf",
+     "sha256": "c7ecca515443f0103790bf7d34b5789e2edf3340cc2a689039b2631c30b76ceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-255-2026",
+   "path": "local/bucuresti/sector-3/2026/255",
+   "short": "HCLS3 nr. 255/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 255/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._255_din_26_.08.2026.pdf",
+     "sha256": "baba5210e0635d4179a44c2c0264bb0ee3704201bdc637c0ab8f8f27ca8eeb4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-256-2026",
+   "path": "local/bucuresti/sector-3/2026/256",
+   "short": "HCLS3 nr. 256/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 256/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._256_din_26_.08.2026.pdf",
+     "sha256": "53aad89565ff299044e0da3bd3b21eea426bdd00a497730dd515bfe5f821fdcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-257-2026",
+   "path": "local/bucuresti/sector-3/2026/257",
+   "short": "HCLS3 nr. 257/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 257/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._257_din_26_.08.2026.pdf",
+     "sha256": "2508be4c2cc4fb27fecc7b84895772f225f8594b2af13628d2fc359aafa50eb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-258-2026",
+   "path": "local/bucuresti/sector-3/2026/258",
+   "short": "HCLS3 nr. 258/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 258/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._258_din_26_.08.2026.pdf",
+     "sha256": "397e46cebef17ad6a54f4e26758e34200d20f21b28d6ab0c50a3b09562e63326"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-259-2026",
+   "path": "local/bucuresti/sector-3/2026/259",
+   "short": "HCLS3 nr. 259/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 259/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._259_din_26_.08.2026.pdf",
+     "sha256": "c974051be7faa8937ceb5aa60324984797e0c8c23a8c9dcc5019a982c5a52412"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-26-2026",
+   "path": "local/bucuresti/sector-3/2026/26",
+   "short": "HCLS3 nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 26/2026 privind actualizarea indicatorilor tehnico-economici pentru creşterea performanţei energetice la unele blocuri de locuinţe din Sectorul 3, aprobaţi prin Anexele nr. 1-4, 6,8,11,13-14,18,21, 43, 50,58-59, 64, 68,75, 82,84,89,102,140 la HCL S3 nr. 461/28.09.2023, cu modificarea şi actualizările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._26_din_25_.02.2026.pdf",
+     "sha256": "a05bf21e330c3387754f37eae2ba19add1d6e98c6d99cd814368bc84cba10ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-260-2026",
+   "path": "local/bucuresti/sector-3/2026/260",
+   "short": "HCLS3 nr. 260/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 260/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._260_din_26_.08.2026.pdf",
+     "sha256": "8a8e929398c9540d359a5cd2c5ffc186dc1badf59f48513f52ef496f012a991e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-261-2026",
+   "path": "local/bucuresti/sector-3/2026/261",
+   "short": "HCLS3 nr. 261/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 261/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._261_din_26_.08.2026.pdf",
+     "sha256": "9c1bb8c10d09007435e2a273c9e0cdd9d22105313c90ab39cc0f6968ab4d9490"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-262-2026",
+   "path": "local/bucuresti/sector-3/2026/262",
+   "short": "HCLS3 nr. 262/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 262/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._262_din_26_.08.2026.pdf",
+     "sha256": "3193c2855fca12e7a458a5e565f1c727d655543cb9bfe39a167ed2e5f9eafd02"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-263-2026",
+   "path": "local/bucuresti/sector-3/2026/263",
+   "short": "HCLS3 nr. 263/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 263/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._263_din_26_.08.2026.pdf",
+     "sha256": "d458b1f0fdb022d5f5100746d073a25bf3a688a86d6f695a515bcf25c7c3c851"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-264-2026",
+   "path": "local/bucuresti/sector-3/2026/264",
+   "short": "HCLS3 nr. 264/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 264/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._264_din_26_.08.2026.pdf",
+     "sha256": "d32d7b87a43d023ecc6be6e289d58c7e75a6ec3f9312de0d445e38b189135712"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-265-2026",
+   "path": "local/bucuresti/sector-3/2026/265",
+   "short": "HCLS3 nr. 265/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 265/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._265_din_26_.08.2026.pdf",
+     "sha256": "d521eacb55e0960bb36de4b733a63c7794bc7c86c0c91320441ea48d10581bfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-266-2026",
+   "path": "local/bucuresti/sector-3/2026/266",
+   "short": "HCLS3 nr. 266/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 266/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._266_din_26_.08.2026.pdf",
+     "sha256": "5b92077f164f22ecb504407b22e50de56ee314bd853f51b95bb09d80d1234189"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-267-2026",
+   "path": "local/bucuresti/sector-3/2026/267",
+   "short": "HCLS3 nr. 267/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 267/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._267_din_26_.08.2026.pdf",
+     "sha256": "e27dd5143ffa3451b625bbe75a7e2f41f3e8e4b341daa0cce45b52cc605f4340"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-268-2026",
+   "path": "local/bucuresti/sector-3/2026/268",
+   "short": "HCLS3 nr. 268/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 268/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._268_din_26_.08.2026.pdf",
+     "sha256": "0e969ad197770f27b397db6018f9a049016d4f129c7a8c71604483289289f902"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-269-2026",
+   "path": "local/bucuresti/sector-3/2026/269",
+   "short": "HCLS3 nr. 269/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 269/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._269_din_26_.08.2026.pdf",
+     "sha256": "8a049dd643fe884eb2c3111e28b43f89a9e495678ba7e88bf7f3480b761f0f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-27-2026",
+   "path": "local/bucuresti/sector-3/2026/27",
+   "short": "HCLS3 nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 27/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._27_din_25_.02.2026.pdf",
+     "sha256": "a3312ebed0200b03ef2bd022662b46b4e3be60ca9e5d25cc266fcd52b5868134"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-270-2026",
+   "path": "local/bucuresti/sector-3/2026/270",
+   "short": "HCLS3 nr. 270/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 270/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._270_din_26_.08.2026.pdf",
+     "sha256": "a0cb97b16ed927dd03338798e8efccef513ed93a8f3dffb82299fe0b6d2311c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-271-2026",
+   "path": "local/bucuresti/sector-3/2026/271",
+   "short": "HCLS3 nr. 271/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 271/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._271_din_26_.08.2026.pdf",
+     "sha256": "9c18014a45ea94aa868c3f36dd169ba0ccecf3b85a7f41b1388ab04e29768b34"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-272-2026",
+   "path": "local/bucuresti/sector-3/2026/272",
+   "short": "HCLS3 nr. 272/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 272/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._272_din_26_.08.2026.pdf",
+     "sha256": "c3e6ba1257bec59dfb8fcbcca2d76d389e726c55a0e8d3b85c4b4c87aa637494"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-273-2026",
+   "path": "local/bucuresti/sector-3/2026/273",
+   "short": "HCLS3 nr. 273/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 273/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._273_din_26_.08.2026.pdf",
+     "sha256": "256cb8c30ebf843576e74f4930e0864321f92c70978ac7ef8005ed54343f62d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-28-2026",
+   "path": "local/bucuresti/sector-3/2026/28",
+   "short": "HCLS3 nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 28/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._28_din_25_.02.2026.pdf",
+     "sha256": "16b67d871f5c7cfbe8b76b5c8b6f7986380f950854b7ab3fb14cd6e855512937"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-29-2026",
+   "path": "local/bucuresti/sector-3/2026/29",
+   "short": "HCLS3 nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 29/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._29_din_25_.02.2026.pdf",
+     "sha256": "4365ec8300e9e2258e3e31e2b2a2fe3b821b0ec3874071d70713d0cd8018f223"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-3-2026",
+   "path": "local/bucuresti/sector-3/2026/3",
+   "short": "HCLS3 nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 3/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._3_din_28_.01.2026.pdf",
+     "sha256": "764f69c13ba82849bf4888b50549417b895e8eef1f013dbc11203ade4aeb778f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-30-2026",
+   "path": "local/bucuresti/sector-3/2026/30",
+   "short": "HCLS3 nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 30/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._30_din_25_.02.2026.pdf",
+     "sha256": "dc7f9e4e82a7f9bcb64abb98aa8378aea698cc8fdddf13db142b9af955061c6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-305-2026",
+   "path": "local/bucuresti/sector-3/2026/305",
+   "short": "HCLS3 nr. 305/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 305/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._305_din_26_.08.2026.pdf",
+     "sha256": "ffe84dc68d769c1483fffca89ba3ff8e28b3a7b83f1aae981316c487a4601340"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-306-2026",
+   "path": "local/bucuresti/sector-3/2026/306",
+   "short": "HCLS3 nr. 306/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 306/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._306_din_26_.08.2026.pdf",
+     "sha256": "12dd23a723c592e9fa248cdd1d0560a97945b2c20e42db552ef7a0c14180634d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-307-2026",
+   "path": "local/bucuresti/sector-3/2026/307",
+   "short": "HCLS3 nr. 307/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 307/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._307_din_26_.08.2026.pdf",
+     "sha256": "5c57760a414f5f9d08f187ea7c1e6129c3964a286dd660d43d811d7a66b10a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-308-2026",
+   "path": "local/bucuresti/sector-3/2026/308",
+   "short": "HCLS3 nr. 308/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 308/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._308_din_26_.08.2026.pdf",
+     "sha256": "dab8dcad16cfff19404af87ee76554e47a149a84e763421a0f9694b683ae8f4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-309-2026",
+   "path": "local/bucuresti/sector-3/2026/309",
+   "short": "HCLS3 nr. 309/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 309/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._309_din_26_.08.2026.pdf",
+     "sha256": "c89fb15443cfc218000340ad1860c842f6e79c538b4bab2ab0c3a5a3e5faedd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-31-2026",
+   "path": "local/bucuresti/sector-3/2026/31",
+   "short": "HCLS3 nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 31/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._31_din_25_.02.2026.pdf",
+     "sha256": "af45b8a61a860c7cf0ad86c792c2cfcbc51398c919f4c52ca2593f08f84560e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-310-2026",
+   "path": "local/bucuresti/sector-3/2026/310",
+   "short": "HCLS3 nr. 310/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 310/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._310_din_26_.08.2026.pdf",
+     "sha256": "8dc7dddd04acf4dab2c96a1140796d2e4c52511a6afb80b0bec180b6ad025d00"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-311-2026",
+   "path": "local/bucuresti/sector-3/2026/311",
+   "short": "HCLS3 nr. 311/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 311/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.311_din_16_.09.2026_1.pdf",
+     "sha256": "1c8d1ac1960caeb5b0754c95fcf16bacb1863e1f2903ba283b36b46d383c224e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-312-2026",
+   "path": "local/bucuresti/sector-3/2026/312",
+   "short": "HCLS3 nr. 312/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 312/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.312_din_16_.09.2026.pdf",
+     "sha256": "23a6c3afb40fa84f55a1bcf96e6dc90831d4e04056db4d88dd8d52a224bad661"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-313-2026",
+   "path": "local/bucuresti/sector-3/2026/313",
+   "short": "HCLS3 nr. 313/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 313/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.313_din_16_.09.2026_1.pdf",
+     "sha256": "9be0565146a85c0d9a94054d30119c8db81c2d3b8b4d236b1e56f42ae5f7208d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-314-2026",
+   "path": "local/bucuresti/sector-3/2026/314",
+   "short": "HCLS3 nr. 314/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 314/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.314_din_16_.09.2026_2.pdf",
+     "sha256": "9495fba11dac6428a6b9b9f3f1c18f79783a9269920e46b86632a60fcac28eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-315-2026",
+   "path": "local/bucuresti/sector-3/2026/315",
+   "short": "HCLS3 nr. 315/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 315/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.315_din_16_.09.2026_1.pdf",
+     "sha256": "76771ed6cb7eed4b80fdc4345c0eab6e5962142a7024ab4cad0066849cd0830a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-316-2026",
+   "path": "local/bucuresti/sector-3/2026/316",
+   "short": "HCLS3 nr. 316/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 316/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.316_din_16_.09.2026_1.pdf",
+     "sha256": "e69b97d6d096fa230f85edb715b3f91aa7404b487d2a3b44069557d4310b934b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-317-2026",
+   "path": "local/bucuresti/sector-3/2026/317",
+   "short": "HCLS3 nr. 317/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 317/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.317_din_16_.09.2026_2.pdf",
+     "sha256": "e1077e54b9d4bab4ae2fcb8fc6a65c1636c8fda046fff9a597f250b7920c9b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-318-2026",
+   "path": "local/bucuresti/sector-3/2026/318",
+   "short": "HCLS3 nr. 318/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 318/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.318_din_16_.09.2026.pdf",
+     "sha256": "c67a2af96229791d6646c49b4015efbd984a4ca2fe0415c3971e95b1e14527d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-319-2026",
+   "path": "local/bucuresti/sector-3/2026/319",
+   "short": "HCLS3 nr. 319/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 319/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.319_din_16_.09.2026.pdf",
+     "sha256": "67a3839dfa9c73fc00eafe1656a78e2cceadf92e1bcb50c33775b2ef73ed2e17"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-32-2026",
+   "path": "local/bucuresti/sector-3/2026/32",
+   "short": "HCLS3 nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 32/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/02",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._32_din_25_.02.2026.pdf",
+     "sha256": "8d2417d37291897e4c5fd01113572187fd396fd694dba0b3152554fb5553da06"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-320-2026",
+   "path": "local/bucuresti/sector-3/2026/320",
+   "short": "HCLS3 nr. 320/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 320/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.320_din_16_.09.2026.pdf",
+     "sha256": "877b41b12bd857b72c43c7eb0802194d3ebb3af7aae7a4879e27648d71e1d628"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-321-2026",
+   "path": "local/bucuresti/sector-3/2026/321",
+   "short": "HCLS3 nr. 321/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 321/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.321_din_16_.09.2026.pdf",
+     "sha256": "51d1d50c66afaa2404efb5205c6b4e7b02513c0bed3b508c909eaf3b21c15cec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-322-2026",
+   "path": "local/bucuresti/sector-3/2026/322",
+   "short": "HCLS3 nr. 322/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 322/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.322_din_16_.09.2026.pdf",
+     "sha256": "3f5f110474e776b4c42d7bd873bae0497d878ed5bb839f1de18286761475486f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-323-2026",
+   "path": "local/bucuresti/sector-3/2026/323",
+   "short": "HCLS3 nr. 323/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 323/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.323_din_16_.09.2026.pdf",
+     "sha256": "0cef9e870b71d8dc7feaff0bdcc0a4aaeb2c9a2ab9099a59afcf907e058a40da"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-324-2026",
+   "path": "local/bucuresti/sector-3/2026/324",
+   "short": "HCLS3 nr. 324/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 324/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.324_din_16_.09.2026.pdf",
+     "sha256": "8ced7173410ffa6941d76d813be3bc310f8fe7b5bfdb368e8feef39778c162ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-325-2026",
+   "path": "local/bucuresti/sector-3/2026/325",
+   "short": "HCLS3 nr. 325/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 325/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.325_din_16_.09.2026.pdf",
+     "sha256": "733b4dcc031f01549b32c32becb2625e53a86ed12960bb1a59c6f085cf081c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-326-2026",
+   "path": "local/bucuresti/sector-3/2026/326",
+   "short": "HCLS3 nr. 326/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 326/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.326_din_16_.09.2026_1.pdf",
+     "sha256": "41c012ddcff6ee03763f87e2f489484c6bb294f7c9afef908af68f5f361b81f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-327-2026",
+   "path": "local/bucuresti/sector-3/2026/327",
+   "short": "HCLS3 nr. 327/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 327/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.327_din_16_.09.2026.pdf",
+     "sha256": "e1b7358dfb35b447c38d087923900d689d2b280c12b71efe2c5e8ef92f6a33ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-328-2026",
+   "path": "local/bucuresti/sector-3/2026/328",
+   "short": "HCLS3 nr. 328/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 328/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.328_din_16_.09.2026_1.pdf",
+     "sha256": "ba577b4e42e5fc1afa1d8c0ad19b51c0b688b553e6d484b4716c03592dcd697a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-329-2026",
+   "path": "local/bucuresti/sector-3/2026/329",
+   "short": "HCLS3 nr. 329/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 329/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.329_din_16_.09.2026.pdf",
+     "sha256": "519d4ae9cf9217551accd9dec868c2bb071c6d85dc417f76734e4999db3d7808"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-33-2026",
+   "path": "local/bucuresti/sector-3/2026/33",
+   "short": "HCLS3 nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 33/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._33_din_11_.03.2026.pdf",
+     "sha256": "d3fd0f7bffdfbdd63e9bbd0555f5edc383093dcb73e20a0f79301665d1a75710"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-330-2026",
+   "path": "local/bucuresti/sector-3/2026/330",
+   "short": "HCLS3 nr. 330/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 330/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr.330_din_16_.09.2026.pdf",
+     "sha256": "b04d711352cabf45ddf7d91bdc28f2da26b8c2126a5d999f703988dece0dd6bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-331-2026",
+   "path": "local/bucuresti/sector-3/2026/331",
+   "short": "HCLS3 nr. 331/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 331/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._331_din_28_.09.2026.pdf",
+     "sha256": "4c2247af2e754bb578396e860d90f05dcdcb67597eb1db0b9e9ae4cdd58d03d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-332-2026",
+   "path": "local/bucuresti/sector-3/2026/332",
+   "short": "HCLS3 nr. 332/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 332/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._332_din_28_.09.2026.pdf",
+     "sha256": "646ae8ac3ee18c298353b76a27af4b0fb3f26ba4c0af4f523ae762f08a0e9e6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-333-2026",
+   "path": "local/bucuresti/sector-3/2026/333",
+   "short": "HCLS3 nr. 333/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 333/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._333_din_28_.09.2026.pdf",
+     "sha256": "919446424f9741ffcfd9f44cc8d362e22d23b3109c563aeb3afa9b86a333bd3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-334-2026",
+   "path": "local/bucuresti/sector-3/2026/334",
+   "short": "HCLS3 nr. 334/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 334/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/09",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._334_din_28_.09.2026.pdf",
+     "sha256": "2c60a4f59690f436633cbd390463f25977f49271ac25e17d5e06b5ea36adaa75"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-335-2026",
+   "path": "local/bucuresti/sector-3/2026/335",
+   "short": "HCLS3 nr. 335/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 335/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._335_din_30_.09.2026.pdf",
+     "sha256": "92dc0e5380c7c70715b5c090e0ac076c4953d097cd5de52362b590eae74e0d44"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-336-2026",
+   "path": "local/bucuresti/sector-3/2026/336",
+   "short": "HCLS3 nr. 336/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 336/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._336_din_30_.09.2026.pdf",
+     "sha256": "597edb1151b6655c1d2cbfb9f2b88b6627ee4635261e5a112f14e7187e9d82ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-337-2026",
+   "path": "local/bucuresti/sector-3/2026/337",
+   "short": "HCLS3 nr. 337/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 337/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._337_din_30_.09.2026.pdf",
+     "sha256": "f8114eab0c1aa02cea0b8b5490f282e2e1c799a251f67f030669a62a9dab57bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-338-2026",
+   "path": "local/bucuresti/sector-3/2026/338",
+   "short": "HCLS3 nr. 338/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 338/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._338_din_30_.09.2026.pdf",
+     "sha256": "5425eeaecf0c8ec440dfe9398b74b1fcb7a05ef88ecd3271d491eb9234dc2954"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-339-2026",
+   "path": "local/bucuresti/sector-3/2026/339",
+   "short": "HCLS3 nr. 339/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 339/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._339_din_30_.09.2026.pdf",
+     "sha256": "f03cf58adc5770760c3256e9fecc08942e015a47b5df0185ea8c1a52fb7a94db"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-34-2026",
+   "path": "local/bucuresti/sector-3/2026/34",
+   "short": "HCLS3 nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 34/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._34_din_11_.03.2026.pdf",
+     "sha256": "45d0e5edfba4c26d5d3496c6b13acc9c052c4f6cdc6354a4ff6c9e20f12031c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-340-2026",
+   "path": "local/bucuresti/sector-3/2026/340",
+   "short": "HCLS3 nr. 340/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 340/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._340_din_30_.09.2026.pdf",
+     "sha256": "ad3818950ff578c9baa4b7e28a8ff429a575f391d399b85720180e0aedfcbb5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-341-2026",
+   "path": "local/bucuresti/sector-3/2026/341",
+   "short": "HCLS3 nr. 341/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 341/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._341_din_30_.09.2026.pdf",
+     "sha256": "01d5e3b06bee0fff37769db0a0d77320822753a2077210af42afd13b02e32d5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-342-2026",
+   "path": "local/bucuresti/sector-3/2026/342",
+   "short": "HCLS3 nr. 342/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 342/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._342_din_30_.09.2026.pdf",
+     "sha256": "94f14c345f5bfc2c9255c06f78b4dbc35b9cada9b6a0b2a6bc83c1a756128c61"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-343-2026",
+   "path": "local/bucuresti/sector-3/2026/343",
+   "short": "HCLS3 nr. 343/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 343/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._343_din_30_.09.2026.pdf",
+     "sha256": "bf3fff1500eaf06d4a4558e45d97625cd15b7da8440dc0335eccd627301ba8c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-344-2026",
+   "path": "local/bucuresti/sector-3/2026/344",
+   "short": "HCLS3 nr. 344/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 344/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._344_din_30_.09.2026.pdf",
+     "sha256": "f903355d5dd309c1753346e516b3eb0ba9acf1c6a7eb513173ebf4846e878044"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-345-2026",
+   "path": "local/bucuresti/sector-3/2026/345",
+   "short": "HCLS3 nr. 345/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 345/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._345_din_12_.10.2026_-_publicata_12_.10.2026.pdf",
+     "sha256": "daee4c5d2382b0be7bf0891951ab37ced7f8d202527a2c7ccb4beaf1e6c33157"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-346-2026",
+   "path": "local/bucuresti/sector-3/2026/346",
+   "short": "HCLS3 nr. 346/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 346/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._346_din_12_.10.2026_-_publicata_12_.10.2026.pdf",
+     "sha256": "a909c4ef1abd51550bdcdcfe385d9d0fcbfa93aced2dd661abb1d41e4fe84778"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-347-2026",
+   "path": "local/bucuresti/sector-3/2026/347",
+   "short": "HCLS3 nr. 347/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 347/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._347_din_14_.10.2026.pdf",
+     "sha256": "7fafd7f49694de62f59fa78c5dfb3b859cb4dc3a3ae541bba842b1af806c84a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-348-2026",
+   "path": "local/bucuresti/sector-3/2026/348",
+   "short": "HCLS3 nr. 348/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 348/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._348_din_14_.10.2026.pdf",
+     "sha256": "d966f954abd7890dd9990c12e475ced9f9f57cffc0111a2b78bddb6079ac9c94"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-349-2026",
+   "path": "local/bucuresti/sector-3/2026/349",
+   "short": "HCLS3 nr. 349/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 349/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._349_din_14_.10.2026.pdf",
+     "sha256": "7a6c99bfd2cba6c833068c266b9719afc9054423b7fcdfb56bf5d2c0e66f8fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-35-2026",
+   "path": "local/bucuresti/sector-3/2026/35",
+   "short": "HCLS3 nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 35/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._35_din_11_.03.2026.pdf",
+     "sha256": "c4c983dea3353c11fa952d99a4e9641764bf8fcd1f157e087f43af8709dd9cba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-350-2026",
+   "path": "local/bucuresti/sector-3/2026/350",
+   "short": "HCLS3 nr. 350/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 350/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._350_din_14_.10.2026.pdf",
+     "sha256": "8e94567662b048025f13b1af46a8b438e57e522a475ed6a5442a7a2f670febfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-351-2026",
+   "path": "local/bucuresti/sector-3/2026/351",
+   "short": "HCLS3 nr. 351/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 351/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._351_din_14_.10.2026.pdf",
+     "sha256": "54c3b50d2dd13f720522bc7b441130cf85bd5614a4e5525313b478094bdd35e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-352-2026",
+   "path": "local/bucuresti/sector-3/2026/352",
+   "short": "HCLS3 nr. 352/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 352/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._352_din_14_.10.2026.pdf",
+     "sha256": "5e2bc78da0a4ff766f87fb05b79cd942c14ec35677f831af7625a496924b7598"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-353-2026",
+   "path": "local/bucuresti/sector-3/2026/353",
+   "short": "HCLS3 nr. 353/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 353/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._353_din_14_.10.2026.pdf",
+     "sha256": "f56ebaa10b2fcd4914650eac05893883e497c29284d080a2efb1dee4dbf63ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-354-2026",
+   "path": "local/bucuresti/sector-3/2026/354",
+   "short": "HCLS3 nr. 354/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 354/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._354_din_14_.10.2026.pdf",
+     "sha256": "6178d5d6361f927476e6da8277215ea8dcb2b237b1217198efca1f9080bc9b93"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-355-2026",
+   "path": "local/bucuresti/sector-3/2026/355",
+   "short": "HCLS3 nr. 355/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 355/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._355_din_14_.10.2026.pdf",
+     "sha256": "1e4488b9651184f3f120cfa5c60753b1e0c2231eec0428cdd98d3d1686a475f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-356-2026",
+   "path": "local/bucuresti/sector-3/2026/356",
+   "short": "HCLS3 nr. 356/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 356/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._356_din_14_.10.2026.pdf",
+     "sha256": "0730de517c8cd726d29b2b99e4aca63d89837d6434b8d510391c5fe51d97b2e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-357-2026",
+   "path": "local/bucuresti/sector-3/2026/357",
+   "short": "HCLS3 nr. 357/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 357/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._357_din_14_.10.2026.pdf",
+     "sha256": "eb76f1fb76e1eebb94d8b28f285768af1db9c690c42676100c74505cb7cc306f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-358-2026",
+   "path": "local/bucuresti/sector-3/2026/358",
+   "short": "HCLS3 nr. 358/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 358/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._358_din_14_.10.2026.pdf",
+     "sha256": "c76a2093015ef723cc0ab84096b062799b6b9d43f68b5f74de32637475fe6f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-359-2026",
+   "path": "local/bucuresti/sector-3/2026/359",
+   "short": "HCLS3 nr. 359/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 359/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.359_din_14_.10.2026.pdf",
+     "sha256": "687e91e73a8a80c0c27156c43bb3cfbfad22ca68cb522bae42af90345b0cc64e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-36-2026",
+   "path": "local/bucuresti/sector-3/2026/36",
+   "short": "HCLS3 nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 36/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._36_din_11_.03.2026.pdf",
+     "sha256": "fba49449d4f03346a87ae12149243a9a4121dddb70a55baf721ff91ca539a603"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-360-2026",
+   "path": "local/bucuresti/sector-3/2026/360",
+   "short": "HCLS3 nr. 360/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 360/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._360_din_14_.10.2026.pdf",
+     "sha256": "969af4c817b206f83a411fa19529c1d8014be4d295c7a23a0c946f40be7ef470"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-361-2026",
+   "path": "local/bucuresti/sector-3/2026/361",
+   "short": "HCLS3 nr. 361/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 361/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._361_din_28_.10.2026.pdf",
+     "sha256": "93733a09923c850d6f38564f0cf1ac6345c1a0f71824e1154d165a4c0a173cb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-362-2026",
+   "path": "local/bucuresti/sector-3/2026/362",
+   "short": "HCLS3 nr. 362/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 362/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._362_din_28_.10.2026.pdf",
+     "sha256": "55f6125a8eceb2036d835e0e253584bd51ec80ad03f356f80544427b9aa15e6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-363-2026",
+   "path": "local/bucuresti/sector-3/2026/363",
+   "short": "HCLS3 nr. 363/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 363/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._363_din_28_.10.2026.pdf",
+     "sha256": "74b726dbddbfc2a7f1bda12ae359af7dc31825a76e47d8c2a9d1a648aaba0528"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-364-2026",
+   "path": "local/bucuresti/sector-3/2026/364",
+   "short": "HCLS3 nr. 364/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 364/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._364_din_28_.10.2026.pdf",
+     "sha256": "dbaff8a6a392f926a8893c3fbc7e0b2541a4e7dc2da72871db1de9aae200411a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-365-2026",
+   "path": "local/bucuresti/sector-3/2026/365",
+   "short": "HCLS3 nr. 365/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 365/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._365_din_28_.10.2026.pdf",
+     "sha256": "5f28de2bc2d729f6f67049e1343859c5e37de49ed43f490edaacafab4032bddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-366-2026",
+   "path": "local/bucuresti/sector-3/2026/366",
+   "short": "HCLS3 nr. 366/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 366/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._366_din_28_.10.2026.pdf",
+     "sha256": "2eb126f2b3a4794fbb4d835ca20ffc4a728cc318a956ec4421389eb8d761aa88"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-367-2026",
+   "path": "local/bucuresti/sector-3/2026/367",
+   "short": "HCLS3 nr. 367/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 367/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._367_din_28_.10.2026.pdf",
+     "sha256": "ae0227ea4bed6909eef1e42a209f4eb48fd3c96f78eab11874b8124e705cb091"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-368-2026",
+   "path": "local/bucuresti/sector-3/2026/368",
+   "short": "HCLS3 nr. 368/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 368/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._368_din_28_.10.2026.pdf",
+     "sha256": "ccc66b5079020ce23dd3b54f144d3965649bb5e9bc8907381cd280d1c5ecbf36"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-369-2026",
+   "path": "local/bucuresti/sector-3/2026/369",
+   "short": "HCLS3 nr. 369/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 369/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._369_din_28_.10.2026.pdf",
+     "sha256": "57b4edc4ae54a9d6399f483420362c2ccafbbff324b678770a709e39b26cb78b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-37-2026",
+   "path": "local/bucuresti/sector-3/2026/37",
+   "short": "HCLS3 nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 37/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._37_din_11_.03.2026.pdf",
+     "sha256": "c62e4b1c71f9865f4c671e9657562efd62567b9b869d5748b3cdb82d5869ecbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-370-2026",
+   "path": "local/bucuresti/sector-3/2026/370",
+   "short": "HCLS3 nr. 370/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 370/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._370_din_28_.10.2026.pdf",
+     "sha256": "5dcd7bc2767d39ead525e02b0fcc589825c9ad85d1dfaab6c57b01135ec49faa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-371-2026",
+   "path": "local/bucuresti/sector-3/2026/371",
+   "short": "HCLS3 nr. 371/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 371/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._371_din_28_.10.2026.pdf",
+     "sha256": "40e8096d50fc86e332fd07b601a6b98554f26d3198da604714280282c6364329"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-372-2026",
+   "path": "local/bucuresti/sector-3/2026/372",
+   "short": "HCLS3 nr. 372/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 372/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._372_din_28_.10.2026.pdf",
+     "sha256": "4da0932ddb2856f1c0a9e620d7632d8b24ed5778fc73552f31f57461a2d477e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-373-2026",
+   "path": "local/bucuresti/sector-3/2026/373",
+   "short": "HCLS3 nr. 373/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 373/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._373_din_28_.10.2026.pdf",
+     "sha256": "7a232c10d78980c7a60ac80887230fd898811f84052ccd73af1d3f7cce469fa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-374-2026",
+   "path": "local/bucuresti/sector-3/2026/374",
+   "short": "HCLS3 nr. 374/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 374/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/10",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS_3_nr._374_din_28_.10.2026.pdf",
+     "sha256": "7bf9ee4313bdd413237716f5c74c7925851a5b231689622fc07b4224152bcc15"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-38-2026",
+   "path": "local/bucuresti/sector-3/2026/38",
+   "short": "HCLS3 nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 38/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._38_din_11_.03.2026.pdf",
+     "sha256": "b84cd042df0074c9337aad24ac43b3ff709ce105a6f8f1834f0b906b269092c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-39-2026",
+   "path": "local/bucuresti/sector-3/2026/39",
+   "short": "HCLS3 nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 39/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._39_din_11_.03.2026.pdf",
+     "sha256": "d550cc68a74a69e656a771ade77bad2dbc40aae062771d43c9ba61ba968f7d50"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-4-2026",
+   "path": "local/bucuresti/sector-3/2026/4",
+   "short": "HCLS3 nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 4/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._4_din_28_.01.2026.pdf",
+     "sha256": "2c907eb4d93257fb06c704585392967304a4c93c4e477251632b07a9320090b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-40-2026",
+   "path": "local/bucuresti/sector-3/2026/40",
+   "short": "HCLS3 nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 40/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._40_din_11_.03.2026.pdf",
+     "sha256": "298a0a42ed5a801eb0d86ea7164dc379e3f51ceac9f8a41b7cf13ec254099522"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-41-2026",
+   "path": "local/bucuresti/sector-3/2026/41",
+   "short": "HCLS3 nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 41/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._41_din_11_.03.2026.pdf",
+     "sha256": "c858d9b93a33403d4672433638a2191252e5ea14232a163d32297d4e07e7d75b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-42-2026",
+   "path": "local/bucuresti/sector-3/2026/42",
+   "short": "HCLS3 nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 42/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._42_din_11_.03.2026.pdf",
+     "sha256": "9644ab57c197f27401a5af0c9df88437d529a8fe4af3fd7d7d63fdc7f35744b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-43-2026",
+   "path": "local/bucuresti/sector-3/2026/43",
+   "short": "HCLS3 nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 43/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._43_din_11_.03.2026.pdf",
+     "sha256": "d595017f82383ee5cb256ad2a02f5e465e6ca373bdafd343a55ecdcb60e1ad77"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-44-2026",
+   "path": "local/bucuresti/sector-3/2026/44",
+   "short": "HCLS3 nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 44/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._44_din_11_.03.2026.pdf",
+     "sha256": "552228cd8730d2e42197f1bd79602e1356f81111e9930da4cff2d31dcab9bc32"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-45-2026",
+   "path": "local/bucuresti/sector-3/2026/45",
+   "short": "HCLS3 nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 45/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._45_din_11_.03.2026.pdf",
+     "sha256": "dc6b9167d1fdcc039858dcbe3233bbce126204ce7bce1a77edbd2a0c55034262"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-46-2026",
+   "path": "local/bucuresti/sector-3/2026/46",
+   "short": "HCLS3 nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 46/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._46_din_11_.03.2026.pdf",
+     "sha256": "917144c263bbf845028749309ea53afd2eb811b5950a7e8366d73b7b28adcd46"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-47-2026",
+   "path": "local/bucuresti/sector-3/2026/47",
+   "short": "HCLS3 nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 47/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._47_din_25_.03.2026.pdf",
+     "sha256": "d3e3c017212aeb6f89ac72313abc625ab7410c5c47ee305930eb54dd6078b2a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-48-2026",
+   "path": "local/bucuresti/sector-3/2026/48",
+   "short": "HCLS3 nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 48/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._48_din_25_.03.2026.pdf",
+     "sha256": "8ef61f473aa23177ceb3ecda4ad472ea4b2a07e77e2b3908013959195a75eb41"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-49-2026",
+   "path": "local/bucuresti/sector-3/2026/49",
+   "short": "HCLS3 nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 49/2026 privind reorganizarea aparatului de specialitate al Primarului Sectorului 3 şi aprobarea organigramei, statului de funcţii şi a Regulamentului de Organizare şi Funcţionare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._49_din_25_.03.2026.pdf",
+     "sha256": "740edaf964dbacc6311f5f1352579f73ab1ca4d0f2f4e43a446395169987e70a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-5-2026",
+   "path": "local/bucuresti/sector-3/2026/5",
+   "short": "HCLS3 nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 5/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._5_din_28_.01.2026.pdf",
+     "sha256": "99c566d3cbedadff5b235cf8188d7eae4d97d64893179f469022299044ff40fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-50-2026",
+   "path": "local/bucuresti/sector-3/2026/50",
+   "short": "HCLS3 nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 50/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._50_din_25_.03.2026.pdf",
+     "sha256": "925642449f5633399b6607e62136a0314d982721b89bee48d13e47265edc4766"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-51-2026",
+   "path": "local/bucuresti/sector-3/2026/51",
+   "short": "HCLS3 nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 51/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._51_din_25_.03.2026.pdf",
+     "sha256": "87f5deda9859d9df49be83e0d9cbab26d484b2ebc982e53330b970fdfe2c44e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-52-2026",
+   "path": "local/bucuresti/sector-3/2026/52",
+   "short": "HCLS3 nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 52/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._52_din_25_.03.2026.pdf",
+     "sha256": "7133b24cdc3ae34bc4ee16dc58a6dbf59bff976de57fc7e383d2849680a27fcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-53-2026",
+   "path": "local/bucuresti/sector-3/2026/53",
+   "short": "HCLS3 nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 53/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._53_din_25_.03.2026.pdf",
+     "sha256": "ce82b78d71d07108134aac013e35a62a6c22da8db559738981ce1c0ef2d37766"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-54-2026",
+   "path": "local/bucuresti/sector-3/2026/54",
+   "short": "HCLS3 nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 54/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._54_din_25_.03.2026.pdf",
+     "sha256": "acb2af57f157623696cc5804ebf2cd0b771759c7073c99a36f8e2449c9183988"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-55-2026",
+   "path": "local/bucuresti/sector-3/2026/55",
+   "short": "HCLS3 nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 55/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._55_din_25_.03.2026.pdf",
+     "sha256": "8f98d3e76fe07a5e5095a475ebba22f81a43ae20bf650e6d17e3dac71231269e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-56-2026",
+   "path": "local/bucuresti/sector-3/2026/56",
+   "short": "HCLS3 nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 56/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._56_din_25_.03.2026.pdf",
+     "sha256": "3f7370ca6026cc3d93e6ea3464f0b4ccb7c2bd4ef2ad8678dca424826ba2d72f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-57-2026",
+   "path": "local/bucuresti/sector-3/2026/57",
+   "short": "HCLS3 nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 57/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._57_din_25_.03.2026.pdf",
+     "sha256": "705b8c81b4576cae6c6dc06dbc6e0a7b6d625f85cdbf5db47e29839e33c9ebf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-58-2026",
+   "path": "local/bucuresti/sector-3/2026/58",
+   "short": "HCLS3 nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 58/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._58_din_25_.03.2026.pdf",
+     "sha256": "ea70de054dbf87c4b96ddc334ff579cbecad11fa15defd13be0585f43c6e82a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-59-2026",
+   "path": "local/bucuresti/sector-3/2026/59",
+   "short": "HCLS3 nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 59/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._59_din_25_.03.2026.pdf",
+     "sha256": "5a5cb846504e2ba0b373ee8b0977a8c55e1cafd47d083baccd9ec5362028e02b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-6-2026",
+   "path": "local/bucuresti/sector-3/2026/6",
+   "short": "HCLS3 nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 6/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._6_din_28_.01.2026.pdf",
+     "sha256": "711847e3531da736a35ab54b1ef4c91cc0e30f7dfd00b4a3239a2d6ac652b2f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-60-2026",
+   "path": "local/bucuresti/sector-3/2026/60",
+   "short": "HCLS3 nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 60/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._60_din_25_.03.2026.pdf",
+     "sha256": "d974b8cf98791e62f6d257c311811488c4918fa82fb220f5ad609faaac51f243"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-61-2026",
+   "path": "local/bucuresti/sector-3/2026/61",
+   "short": "HCLS3 nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 61/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._61_din_25_.03.2026.pdf",
+     "sha256": "40d1bfc9c324887e0eaa70999cd2b1d2fb96eb35fdf52dcde718af6656853b9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-62-2026",
+   "path": "local/bucuresti/sector-3/2026/62",
+   "short": "HCLS3 nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 62/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._62_din_25_.03.2026.pdf",
+     "sha256": "64ddf5ccecb31c97d479504c19993d0bec46a47ccc2bd83472212b5a80b1575f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-63-2026",
+   "path": "local/bucuresti/sector-3/2026/63",
+   "short": "HCLS3 nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 63/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._63_din_25_.03.2026.pdf",
+     "sha256": "99017f17fe87a1c8b0415eac38438aa024325cdeb431434748477281404a3d25"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-64-2026",
+   "path": "local/bucuresti/sector-3/2026/64",
+   "short": "HCLS3 nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 64/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._64_din_25_.03.2026.pdf",
+     "sha256": "2192c67a6d62be15cd552b18b456143ba9575137a5b5a8e9f8e0a1cd75caa601"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-65-2026",
+   "path": "local/bucuresti/sector-3/2026/65",
+   "short": "HCLS3 nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 65/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/03",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._65_din_31_.03.2026_-_publicata_31_.03.2026.pdf",
+     "sha256": "6d20f38883ca0cd8b0a68f04becb9908e6d13ec18811edfd7e070ac63f82353f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-66-2026",
+   "path": "local/bucuresti/sector-3/2026/66",
+   "short": "HCLS3 nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 66/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._66_din_15_.04.2026.pdf",
+     "sha256": "5e1516230f7e9a73e26c721f9d16b94227984704e8cf7fd69433d7c928f457f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-67-2026",
+   "path": "local/bucuresti/sector-3/2026/67",
+   "short": "HCLS3 nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 67/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._67_din_15_.04.2026.pdf",
+     "sha256": "ecaf2370491ebc8fd97df982c8aec8c0aa201f6ba0efc863207d66fa1c51e755"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-68-2026",
+   "path": "local/bucuresti/sector-3/2026/68",
+   "short": "HCLS3 nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 68/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._68_din_15_.04.2026.pdf",
+     "sha256": "0ab62f7617b612e10ac95c1fe51b367dd05eed432f91c3d809771d1d71ce6d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-69-2026",
+   "path": "local/bucuresti/sector-3/2026/69",
+   "short": "HCLS3 nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 69/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._69_din_15_.04.2026.pdf",
+     "sha256": "5eeba6e5866b588f5cfbe5505b5a42f66d304d42ef7c48c46838d6c4868887da"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-7-2026",
+   "path": "local/bucuresti/sector-3/2026/7",
+   "short": "HCLS3 nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 7/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._7_din_28_.01.2026.pdf",
+     "sha256": "c1a0de1b7b0d7e42c944ebc7c0602374564cfe737a75f04c7494f7dd0fa46766"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-70-2026",
+   "path": "local/bucuresti/sector-3/2026/70",
+   "short": "HCLS3 nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 70/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._70_din_15_.04.2026.pdf",
+     "sha256": "e6637a6b590557b64ce92fb884b02962f16b310325c70535f7a134abf9fe9cb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-71-2026",
+   "path": "local/bucuresti/sector-3/2026/71",
+   "short": "HCLS3 nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 71/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._71_din_15_.04.2026.pdf",
+     "sha256": "d696ffa0a7a15ce0380c179c7502227cb32c1712150abd80251099af717a250a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-72-2026",
+   "path": "local/bucuresti/sector-3/2026/72",
+   "short": "HCLS3 nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 72/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._72_din_15_.04.2026.pdf",
+     "sha256": "ddc1522facfa3117c7ff794c187efd057530efbd5c7f0369baccb136f22586c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-73-2026",
+   "path": "local/bucuresti/sector-3/2026/73",
+   "short": "HCLS3 nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 73/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._73_din_15_.04.2026.pdf",
+     "sha256": "e4ba078f1b6fe7bf7c68eeb60be6db3005fafff4538cbe9a91c502d381c804be"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-74-2026",
+   "path": "local/bucuresti/sector-3/2026/74",
+   "short": "HCLS3 nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 74/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._74_din_15_.04.2026.pdf",
+     "sha256": "c06ddfc4596ffd391d0476593f552c09d92149c34e50386072fc4455f1304fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-75-2026",
+   "path": "local/bucuresti/sector-3/2026/75",
+   "short": "HCLS3 nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 75/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._75_din_15_.04.2026.pdf",
+     "sha256": "fd35adfa6d8ee152e2de20d6e89fc056a5d93a4e71ca6ba9d5f11fd7cd0670cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-76-2026",
+   "path": "local/bucuresti/sector-3/2026/76",
+   "short": "HCLS3 nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 76/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._76_din_15_.04.2026.pdf",
+     "sha256": "980abe53c08440bb7bafeb5ba73f786403e87715a93704025102d87bb4beab7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-77-2026",
+   "path": "local/bucuresti/sector-3/2026/77",
+   "short": "HCLS3 nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 77/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._77_din_15_.04.2026.pdf",
+     "sha256": "b5d37be90427abec158819e514e3473e6cc11c53e5d4860d89cedc014ded9356"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-78-2026",
+   "path": "local/bucuresti/sector-3/2026/78",
+   "short": "HCLS3 nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 78/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._78_din_15_.04.2026.pdf",
+     "sha256": "a49991f65496d97897e0acdb376c9f6b79b5cfc537c40bbdba80ae080501dcbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-79-2026",
+   "path": "local/bucuresti/sector-3/2026/79",
+   "short": "HCLS3 nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 79/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._79_din_15_.04.2026.pdf",
+     "sha256": "444f103334dbd115f1d55bf9dacff1a05bda0b43c182911fdf0a825582dac3e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-8-2026",
+   "path": "local/bucuresti/sector-3/2026/8",
+   "short": "HCLS3 nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 8/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._8_din_28_.01.2026.pdf",
+     "sha256": "c5edc99494d1e92565149d3c13bea63df1f388ee822128b87331e5555a58191a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-80-2026",
+   "path": "local/bucuresti/sector-3/2026/80",
+   "short": "HCLS3 nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 80/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._80_din_15_.04.2026.pdf",
+     "sha256": "5b28c06dd94768b5b508e264ae421f68e5aa8f3704909bd41d6166e444c1d163"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-81-2026",
+   "path": "local/bucuresti/sector-3/2026/81",
+   "short": "HCLS3 nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 81/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._81_din_15_.04.2026.pdf",
+     "sha256": "5489c3419111665972a8fa1a9787ea5bb9aa58e4c2498c2be894d6d6e7a42431"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-82-2026",
+   "path": "local/bucuresti/sector-3/2026/82",
+   "short": "HCLS3 nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 82/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._82_din_15_.04.2026.pdf",
+     "sha256": "36009887e146bf61955a1d84e7de4d5f7503f17648e02da185e1c1c25f6eee1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-83-2026",
+   "path": "local/bucuresti/sector-3/2026/83",
+   "short": "HCLS3 nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 83/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._83_din_15_.04.2026.pdf",
+     "sha256": "99459b94500d936975ad95642e01ee2733683bb8a8800e1a237eb4722aa86b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-84-2026",
+   "path": "local/bucuresti/sector-3/2026/84",
+   "short": "HCLS3 nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 84/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._84_din_15_.04.2026.pdf",
+     "sha256": "8650f73d839090be45138f35acced5afb765be133d0124836b1163d388d04aa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-85-2026",
+   "path": "local/bucuresti/sector-3/2026/85",
+   "short": "HCLS3 nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 85/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._85_din_15_.04.2026.pdf",
+     "sha256": "65537ec320e2d9f1b383d9a4158e649909be2e997220ea0c8f51a3bd6d8f3671"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-86-2026",
+   "path": "local/bucuresti/sector-3/2026/86",
+   "short": "HCLS3 nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 86/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._86_din_15_.04.2026.pdf",
+     "sha256": "485901032083938a7ef7e6f3156d31161b683df76d937092b5c040d21694d522"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-87-2026",
+   "path": "local/bucuresti/sector-3/2026/87",
+   "short": "HCLS3 nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 87/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/04",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._87_din_15_.04.2026.pdf",
+     "sha256": "a6f7fa1c67a56adf8707d07e756d4ecb97a283f6f88ea1667bc142899d9286b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-88-2026",
+   "path": "local/bucuresti/sector-3/2026/88",
+   "short": "HCLS3 nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 88/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._88_din_29_.04.2026.pdf",
+     "sha256": "df8bff68ad48a14cde49d3a22f452bea6d8609cc2f52aa78c7daf61fb8dc6ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-89-2026",
+   "path": "local/bucuresti/sector-3/2026/89",
+   "short": "HCLS3 nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 89/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._89_din_29_.04.2026.pdf",
+     "sha256": "03d4644e47670230ffa3e32ba415d32602b1eb020b70e5a55316032fa91b741b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-9-2026",
+   "path": "local/bucuresti/sector-3/2026/9",
+   "short": "HCLS3 nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 9/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/01",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._9_din_28_.01.2026.pdf",
+     "sha256": "9f8105670afc48b2cb812c10e17b07d27b60f19e5ce842444f8c88709c4036a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-90-2026",
+   "path": "local/bucuresti/sector-3/2026/90",
+   "short": "HCLS3 nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 90/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._90_din_29_.04.2026.pdf",
+     "sha256": "2927ab373dec2d181ffebcdcc2d516ac3b406aa38c027e5a1ee899977bed0f93"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-91-2026",
+   "path": "local/bucuresti/sector-3/2026/91",
+   "short": "HCLS3 nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 91/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._91_din_29_.04.2026.pdf",
+     "sha256": "66f36c4b1d8e021cb94c4afea401b96f779950a827f72ee48808cf0458b69751"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-92-2026",
+   "path": "local/bucuresti/sector-3/2026/92",
+   "short": "HCLS3 nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 92/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._92_din_29_.04.2026.pdf",
+     "sha256": "16aeb9f382cb21d8bd0daab5e92ef0e8b810a98bfe81b6bb1ed75b600fdb5045"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-93-2026",
+   "path": "local/bucuresti/sector-3/2026/93",
+   "short": "HCLS3 nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 93/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._93_din_29_.04.2026.pdf",
+     "sha256": "667c836b556829751a6e13782d0ed39fca3b9b34e06faea71b8b4878a4354f3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-94-2026",
+   "path": "local/bucuresti/sector-3/2026/94",
+   "short": "HCLS3 nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 94/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._94_din_29_.04.2026.pdf",
+     "sha256": "cc9ebbdbafc6327f10d3abaf6a27d013103ffccb91ff75fba5e1395426b13411"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-95-2026",
+   "path": "local/bucuresti/sector-3/2026/95",
+   "short": "HCLS3 nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 95/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._95_din_29_.04.2026.pdf",
+     "sha256": "3d4941971add8d863bf19cc447129c4f87623ab9309a8aa78d89778cff496d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-96-2026",
+   "path": "local/bucuresti/sector-3/2026/96",
+   "short": "HCLS3 nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 96/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._96_din_29_.04.2026.pdf",
+     "sha256": "736c4030312a5d2038119a53984d7de37fbeccd8f711756d8ea5a75cdb99bc10"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-97-2026",
+   "path": "local/bucuresti/sector-3/2026/97",
+   "short": "HCLS3 nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 97/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._97_din_29_.04.2026.pdf",
+     "sha256": "84752aac6d89b6b5d2723c7299cb127740225ddedb96c9739bb48838daf26572"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-98-2026",
+   "path": "local/bucuresti/sector-3/2026/98",
+   "short": "HCLS3 nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 98/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._98_din_29_.04.2026.pdf",
+     "sha256": "44b2b93971dee66175260ef411c867533325e220e68ff304f0c44d4da71ffc12"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-99-2026",
+   "path": "local/bucuresti/sector-3/2026/99",
+   "short": "HCLS3 nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 99/2026",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2026/05",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._99_din_29_.04.2026.pdf",
+     "sha256": "1e3adf670498cf6a181595f3fc6e260e8391b56df57e15ea75050f40a490686b"
+    }
+   ]
+  }
+ ]
+}
