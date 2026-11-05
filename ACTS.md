@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12516 acts, 24,031 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12520 acts, 24,035 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8394, of which 3167 amending acts)
+## Laws (legi) (8397, of which 3168 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -551,12 +551,15 @@
 | Legea nr. 145/1998 | [`lege/1998/145/`](lege/1998/145/) | repealed 2006-07-24 | 3 | 1998-07-13 | 2006-07-24 |
 | Legea nr. 147/1998 privind impozitul pe spectacole | [`lege/1998/147/`](lege/1998/147/) | repealed 2002-02-02 | 2 | 1998-10-12 | 2002-02-02 |
 | Legea nr. 148/1998 privind abilitarea Guvernului de a emite ordonanţe | [`lege/1998/148/`](lege/1998/148/) | amended, not consolidated | 1 | 1998-07-15 | 1998-07-15 |
+| Legea nr. 149/1998 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 75/1997 pentru completarea Legii nr. 50/1996 privind salarizarea şi alte drepturi ale personalului din organele autorităţii judecătoreşti | [`lege/1998/149/`](lege/1998/149/) | amending act | 1 | 1998-07-16 | 1998-07-16 |
 | Legea nr. 151/1998 | [`lege/1998/151/`](lege/1998/151/) | in force | 3 | 1998-07-16 | 2003-07-16 |
 | Legea nr. 152/1998 privind înființarea Agenției Naționale pentru Locuințe | [`lege/1998/152/`](lege/1998/152/) | in force | 37 | 1998-07-16 | 2025-02-03 |
 | Legea nr. 153/1998 pentru modificarea şi completarea Legii Curţii Supreme de Justiţie nr. 56/1993 | [`lege/1998/153/`](lege/1998/153/) | amended, not consolidated | 1 | 1998-07-17 | 1998-07-17 |
 | Legea nr. 154/1998 privind sistemul de stabilire a salariilor de bază în sectorul bugetar și a indemnizațiilor pentru persoane care ocupă funcții de demnitate publică | [`lege/1998/154/`](lege/1998/154/) | in force | 2 | 1998-07-16 | 2008-12-05 |
+| Legea nr. 155/1998 privind organizarea sesiunii extraordinare a examenului de bacalaureat în anul 1998 | [`lege/1998/155/`](lege/1998/155/) | in force | 1 | 1998-07-17 | 1998-07-17 |
 | Legea nr. 156/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţională - Japonia privind Proiectul de reabilitare a drumurilor, semnat la Tokyo la 27 februarie 1998 | [`lege/1998/156/`](lege/1998/156/) | amended, not consolidated | 1 | 1998-08-14 | 1998-08-14 |
 | Legea nr. 157/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţionala - Japonia privind Proiectul de dezvoltare a Portului Constanţa-Sud, semnat la Tokyo la 27 februarie 1998 | [`lege/1998/157/`](lege/1998/157/) | amended, not consolidated | 1 | 1998-08-14 | 1998-08-14 |
+| Legea nr. 158/1998 privind ratificarea Acordului dintre Guvernul României şi Guvernul Republicii India pentru promovarea şi protejarea reciprocă a investiţiilor, semnat la New Delhi la 17 noiembrie 1997 | [`lege/1998/158/`](lege/1998/158/) | in force | 1 | 1998-07-31 | 1998-07-31 |
 | Legea nr. 160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar*) | [`lege/1998/160/`](lege/1998/160/) | in force | 1 | 2014-03-24 | 2014-03-24 |
 | Legea nr. 161/1998 pentru modificarea şi completarea unor dispoziţii ale Legii nr. 53/1991 privind indemnizaţiile şi celelalte drepturi ale senatorilor şi deputaţilor, precum şi salarizarea personalului din aparatul Parlamentului României | [`lege/1998/161/`](lege/1998/161/) | amending act | 1 | 1998-08-03 | 1998-08-03 |
 | Legea nr. 162/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 86/1997 privind aprobarea primei de export pentru cantitatea de un milion tone porumb boabe din recolta anului 1997 | [`lege/1998/162/`](lege/1998/162/) | amended, not consolidated | 1 | 1998-07-31 | 1998-07-31 |
@@ -11365,7 +11368,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1026, of which 121 amending acts)
+## Ordinances (OG) (1027, of which 121 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11516,6 +11519,7 @@
 | Ordonanța Guvernului nr. 37/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 47/1997 privind impunerea unor venituri, realizate din România, de persoanele fizice şi juridice nerezidente | [`og/1998/37/`](og/1998/37/) | amended, not consolidated | 1 | 1998-01-30 | 1998-01-30 |
 | Ordonanța Guvernului nr. 39/1998 | [`og/1998/39/`](og/1998/39/) | in force | 5 | 1998-01-30 | 2005-06-17 |
 | Ordonanța Guvernului nr. 41/1998 | [`og/1998/41/`](og/1998/41/) | in force | 7 | 1998-01-30 | 2011-11-20 |
+| Ordonanța Guvernului nr. 42/1998 privind majorarea soldelor personalului militar şi a salariilor de baza pentru unele categorii de personal civil din sectorul de apărare, ordine publică şi siguranţă naţionala | [`og/1998/42/`](og/1998/42/) | in force | 1 | 1998-07-27 | 1998-07-27 |
 | Ordonanța Guvernului nr. 43/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 8/1998 privind constituirea Fondului special pentru promovarea şi dezvoltarea turismului | [`og/1998/43/`](og/1998/43/) | amended, not consolidated | 1 | 1998-07-27 | 1998-07-27 |
 | Ordonanța Guvernului nr. 46/1998 | [`og/1998/46/`](og/1998/46/) | in force | 8 | 1998-07-31 | 2022-08-28 |
 | Ordonanța Guvernului nr. 47/1998 | [`og/1998/47/`](og/1998/47/) | in force | 2 | 1998-09-29 | 2001-04-26 |
@@ -12582,7 +12586,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28875 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28895 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

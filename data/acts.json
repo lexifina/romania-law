@@ -8757,6 +8757,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15208"
 },
 {
+"slug": "legea-149-1998",
+"path": "lege/1998/149",
+"kind": "lege",
+"year": "1998",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 149/1998 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 75/1997 pentru completarea Legii nr. 50/1996 privind salarizarea şi alte drepturi ale personalului din organele autorităţii judecătoreşti",
+"short": "Legea nr. 149/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-07-16",
+"latest": "1998-07-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15216"
+},
+{
 "slug": "legea-151-1998",
 "path": "lege/1998/151",
 "kind": "lege",
@@ -8825,6 +8842,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15249"
 },
 {
+"slug": "legea-155-1998",
+"path": "lege/1998/155",
+"kind": "lege",
+"year": "1998",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 155/1998 privind organizarea sesiunii extraordinare a examenului de bacalaureat în anul 1998",
+"short": "Legea nr. 155/1998",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1998-07-17",
+"latest": "1998-07-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15233"
+},
+{
 "slug": "legea-156-1998",
 "path": "lege/1998/156",
 "kind": "lege",
@@ -8857,6 +8891,23 @@
 "from": "1998-08-14",
 "latest": "1998-08-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15460"
+},
+{
+"slug": "legea-158-1998",
+"path": "lege/1998/158",
+"kind": "lege",
+"year": "1998",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 158/1998 privind ratificarea Acordului dintre Guvernul României şi Guvernul Republicii India pentru promovarea şi protejarea reciprocă a investiţiilor, semnat la New Delhi la 17 noiembrie 1997",
+"short": "Legea nr. 158/1998",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1998-07-31",
+"latest": "1998-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15348"
 },
 {
 "slug": "legea-160-1998",
@@ -194990,6 +195041,23 @@
 "from": "1998-01-30",
 "latest": "2011-11-20",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/14176"
+},
+{
+"slug": "og-42-1998",
+"path": "og/1998/42",
+"kind": "og",
+"year": "1998",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 42/1998 privind majorarea soldelor personalului militar şi a salariilor de baza pentru unele categorii de personal civil din sectorul de apărare, ordine publică şi siguranţă naţionala",
+"short": "OG nr. 42/1998",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1998-07-27",
+"latest": "1998-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/15304"
 },
 {
 "slug": "og-43-1998",
