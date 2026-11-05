@@ -7414,6 +7414,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12068"
 },
 {
+"slug": "legea-211-1997",
+"path": "lege/1997/211",
+"kind": "lege",
+"year": "1997",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 211/1997 pentru aprobarea Ordonanţei Guvernului nr. 20/1997 privind stabilirea orarului de vara şi a orei oficiale de vara pe teritoriul României",
+"short": "Legea nr. 211/1997",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1997-12-18",
+"latest": "1997-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/12082"
+},
+{
 "slug": "legea-212-1997",
 "path": "lege/1997/212",
 "kind": "lege",
@@ -7429,6 +7446,40 @@
 "from": "1997-12-18",
 "latest": "1997-12-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12087"
+},
+{
+"slug": "legea-213-1997",
+"path": "lege/1997/213",
+"kind": "lege",
+"year": "1997",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 213/1997 pentru aprobarea Ordonanţei Guvernului nr. 64/1997 privind ratificarea Acordului de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru reabilitarea Spitalului comunal Bălteşti, judeţul Prahova, în valoare de 219.765 USD, semnat la Paris la data de 27 iunie 1997",
+"short": "Legea nr. 213/1997",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1997-12-18",
+"latest": "1997-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/12092"
+},
+{
+"slug": "legea-214-1997",
+"path": "lege/1997/214",
+"kind": "lege",
+"year": "1997",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 214/1997 privind aprobarea Ordonanţei Guvernului nr. 49/1997 pentru modificarea şi completarea reglementărilor privind formarea şi utilizarea resurselor derulate prin trezoreria statului",
+"short": "Legea nr. 214/1997",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1997-12-18",
+"latest": "1997-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/12097"
 },
 {
 "slug": "legea-215-1997",
@@ -7463,6 +7514,23 @@
 "from": "1997-12-22",
 "latest": "1997-12-22",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/12105"
+},
+{
+"slug": "legea-219-1997",
+"path": "lege/1997/219",
+"kind": "lege",
+"year": "1997",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 219/1997 pentru aprobarea Ordonanţei Guvernului nr. 17/1997 cu privire la unele măsuri de protecţie pentru unele persoane ale căror contracte individuale de muncă au fost desfăcute ca urmare a concedierilor colective prin aplicarea programelor de restructurare, privatizare, lichidare",
+"short": "Legea nr. 219/1997",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1997-12-24",
+"latest": "1997-12-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/12118"
 },
 {
 "slug": "legea-221-1997",
@@ -143871,6 +143939,23 @@
 "from": "1997-12-24",
 "latest": "1998-10-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/207271"
+},
+{
+"slug": "oug-89-1997",
+"path": "oug/1997/89",
+"kind": "oug",
+"year": "1997",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 89/1997 pentru abrogarea punctului 3 al literei A din anexa nr. 1 la Legea nr. 41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
+"short": "OUG nr. 89/1997",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1997-12-29",
+"latest": "1997-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/11556"
 },
 {
 "slug": "oug-92-1997",

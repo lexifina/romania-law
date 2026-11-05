@@ -121985,6 +121985,21 @@
    ]
   },
   {
+   "slug": "legea-211-1997",
+   "path": "lege/1997/211",
+   "short": "Legea nr. 211/1997",
+   "title": "Legea nr. 211/1997 pentru aprobarea Ordonanţei Guvernului nr. 20/1997 privind stabilirea orarului de vara şi a orei oficiale de vara pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12082",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12082",
+     "sha256": "b3d4a3b3332552eafb7fc16d4931e0308285e32e59095b8ea49a28094748645e"
+    }
+   ]
+  },
+  {
    "slug": "legea-211-1998",
    "path": "lege/1998/211",
    "short": "Legea nr. 211/1998",
@@ -122609,6 +122624,21 @@
    ]
   },
   {
+   "slug": "legea-213-1997",
+   "path": "lege/1997/213",
+   "short": "Legea nr. 213/1997",
+   "title": "Legea nr. 213/1997 pentru aprobarea Ordonanţei Guvernului nr. 64/1997 privind ratificarea Acordului de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru reabilitarea Spitalului comunal Bălteşti, judeţul Prahova, în valoare de 219.765 USD, semnat la Paris la data de 27 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12092",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12092",
+     "sha256": "f1eeec8168f6e28f4ec721c7069ed7fd02b238e62deed34f155bee05ce0e2ad0"
+    }
+   ]
+  },
+  {
    "slug": "legea-213-2000",
    "path": "lege/2000/213",
    "short": "Legea nr. 213/2000",
@@ -122905,6 +122935,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285135",
      "sha256": "9bb70f803c6760a1aabd1fb76e7ee8fd02223c5b5c0ff3ccb9f32266d34e24a6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-214-1997",
+   "path": "lege/1997/214",
+   "short": "Legea nr. 214/1997",
+   "title": "Legea nr. 214/1997 privind aprobarea Ordonanţei Guvernului nr. 49/1997 pentru modificarea şi completarea reglementărilor privind formarea şi utilizarea resurselor derulate prin trezoreria statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12097",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12097",
+     "sha256": "da6f1d88cba86a2147a1fbbcf50494b21022ff6f99b790155b27dc8bb17d9785"
     }
    ]
   },
@@ -124315,6 +124360,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285225",
      "sha256": "b558c25118f3e9f3c13bb10b961bb1443f5842738f35eb91abf4b6f158cfaa9d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-219-1997",
+   "path": "lege/1997/219",
+   "short": "Legea nr. 219/1997",
+   "title": "Legea nr. 219/1997 pentru aprobarea Ordonanţei Guvernului nr. 17/1997 cu privire la unele măsuri de protecţie pentru unele persoane ale căror contracte individuale de muncă au fost desfăcute ca urmare a concedierilor colective prin aplicarea programelor de restructurare, privatizare, lichidare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12118",
+   "versions": [
+    {
+     "from": "1997-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12118",
+     "sha256": "b05b0742b11a5b6d7a51263993323ecdc7b9bdd7477aeced822c87af6e5839c7"
     }
    ]
   },
@@ -254176,6 +254236,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305794",
      "sha256": "89fd865e2a7cba3f46a8b58d0f240617ccaccf51c41d1f8e6127b97de9a745fa"
+    }
+   ]
+  },
+  {
+   "slug": "oug-89-1997",
+   "path": "oug/1997/89",
+   "short": "OUG nr. 89/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 89/1997 pentru abrogarea punctului 3 al literei A din anexa nr. 1 la Legea nr. 41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11556",
+   "versions": [
+    {
+     "from": "1997-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11556",
+     "sha256": "543b1432b47bfe768e79fe2322540ed4dce724f10e5f647d1794ef9ad36e0ef0"
     }
    ]
   },
