@@ -558,6 +558,156 @@
    ]
   },
   {
+   "slug": "hg-1478-1996",
+   "path": "hg/1996/1478",
+   "short": "HG nr. 1478/1996",
+   "title": "Hotărârea Guvernului nr. 1478/1996 privind numirea în funcţia de subprefect al judeţului Bistriţa-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10554",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10554",
+     "sha256": "572e47613d0980559fc829a68a753f2cffebc2197c506a768415deed6dc08e12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1479-1996",
+   "path": "hg/1996/1479",
+   "short": "HG nr. 1479/1996",
+   "title": "Hotărârea Guvernului nr. 1479/1996 privind numirea în funcţia de subprefect al judeţului Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10555",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10555",
+     "sha256": "69b49058b9bb99147fcf0c7c34910d552d013320bf1d23d0b18dfcbd5f6fb53d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1481-1996",
+   "path": "hg/1996/1481",
+   "short": "HG nr. 1481/1996",
+   "title": "Hotărârea Guvernului nr. 1481/1996 privind numirea în funcţia de prefect al judeţului Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10557",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10557",
+     "sha256": "dfb7dce5915ba72993aab9a14d72ec54b787d3db0484601c2011ffa151c3fb08"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1482-1996",
+   "path": "hg/1996/1482",
+   "short": "HG nr. 1482/1996",
+   "title": "Hotărârea Guvernului nr. 1482/1996 privind eliberarea din funcţia de subprefect al judeţului Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10558",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10558",
+     "sha256": "12a9913928220f32643d2c42928421b8085a3aee59b8025961aa052c3d235de4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1483-1996",
+   "path": "hg/1996/1483",
+   "short": "HG nr. 1483/1996",
+   "title": "Hotărârea Guvernului nr. 1483/1996 privind numirea în funcţia de subprefect al judeţului Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10559",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10559",
+     "sha256": "7217cce2a7b86c120fb896c6379b90f557ea01a080867af64f44f6f8a0d2b3ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1484-1996",
+   "path": "hg/1996/1484",
+   "short": "HG nr. 1484/1996",
+   "title": "Hotărârea Guvernului nr. 1484/1996 privind eliberarea din funcţia de subprefect al judeţului Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10560",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10560",
+     "sha256": "39ac70bb3874111b1043d188e54c1ec9d16638baf49b1afb6b30ad5261bfae31"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1485-1996",
+   "path": "hg/1996/1485",
+   "short": "HG nr. 1485/1996",
+   "title": "Hotărârea Guvernului nr. 1485/1996 privind numirea în funcţia de subprefect al judeţului Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10561",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10561",
+     "sha256": "59e2e2d0660b157ee4e16f60d40f44d2f8045f45be4ea7ede4f08afdebe4bde0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1487-1996",
+   "path": "hg/1996/1487",
+   "short": "HG nr. 1487/1996",
+   "title": "Hotărârea Guvernului nr. 1487/1996 privind numirea în funcţia de subprefect al judeţului Caraş-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10563",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10563",
+     "sha256": "add32ddefa4e031ad596b787168cd35dc8e4400109ad8070e5e3a712c422e2d2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1488-1996",
+   "path": "hg/1996/1488",
+   "short": "HG nr. 1488/1996",
+   "title": "Hotărârea Guvernului nr. 1488/1996 privind eliberarea din funcţia de prefect al judeţului Dîmboviţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10564",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10564",
+     "sha256": "01add7ed6395ccfb2ddf4dd9c2800d5424110e2fb2098e674d113d3d01d7d1a8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1489-1996",
+   "path": "hg/1996/1489",
+   "short": "HG nr. 1489/1996",
+   "title": "Hotărârea Guvernului nr. 1489/1996 privind numirea în funcţia de prefect al judeţului Dîmboviţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10565",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10565",
+     "sha256": "81fbcbb1aae6df4425e248b38914c2ab6c3177bad57306bdb87e3b834e564c1d"
+    }
+   ]
+  },
+  {
    "slug": "hg-149-1996",
    "path": "hg/1996/149",
    "short": "HG nr. 149/1996",
@@ -575,6 +725,96 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13288",
      "sha256": "b8b3390fe4b7c2a1561368de4969487c69ae1c1397a239c8b8a87ba8763a061d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1490-1996",
+   "path": "hg/1996/1490",
+   "short": "HG nr. 1490/1996",
+   "title": "Hotărârea Guvernului nr. 1490/1996 privind eliberarea din funcţia de subprefect al judeţului Dîmboviţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10566",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10566",
+     "sha256": "72561533d7b92cf1ea99ed255ddb1ac1d8866ed7b75b084e6215e8fea2c5c69a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1493-1996",
+   "path": "hg/1996/1493",
+   "short": "HG nr. 1493/1996",
+   "title": "Hotărârea Guvernului nr. 1493/1996 privind numirea în funcţia de prefect al judeţului Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10570",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10570",
+     "sha256": "c91fb9bd4c0bb4966aa00cfe4385108b2d98f70fde3ed6f31aa2a5ab5a5f4886"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1494-1996",
+   "path": "hg/1996/1494",
+   "short": "HG nr. 1494/1996",
+   "title": "Hotărârea Guvernului nr. 1494/1996 privind eliberarea din funcţia de subprefect al judeţului Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10571",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10571",
+     "sha256": "656ada2c72100d340f8bde095c4002bd821c67f9c96c633c911f1ea53c8d9323"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1495-1996",
+   "path": "hg/1996/1495",
+   "short": "HG nr. 1495/1996",
+   "title": "Hotărârea Guvernului nr. 1495/1996 privind numirea în funcţia de subprefect al judeţului Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10572",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10572",
+     "sha256": "496414000f5137b0ec3a905d004c7f98bcc27e86fa62049084b04e6bba5cf23d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1497-1996",
+   "path": "hg/1996/1497",
+   "short": "HG nr. 1497/1996",
+   "title": "Hotărârea Guvernului nr. 1497/1996 privind eliberarea din funcţia de subprefect al judeţului Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10575",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10575",
+     "sha256": "b9883000d95c0754b89ffad936e7d56174c1496877e21bdae75c8e7f9e776d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1498-1996",
+   "path": "hg/1996/1498",
+   "short": "HG nr. 1498/1996",
+   "title": "Hotărârea Guvernului nr. 1498/1996 privind numirea în funcţia de subprefect al judeţului Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10576",
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10576",
+     "sha256": "68a454a785fcacced524f5656be610f5c8e9a8230db2f67f522a1d758a70f758"
     }
    ]
   },
