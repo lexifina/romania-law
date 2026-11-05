@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12563 acts, 24,078 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12565 acts, 24,080 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8438, of which 3196 amending acts)
+## Laws (legi) (8440, of which 3196 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -464,6 +464,8 @@
 | Legea nr. 169/1997 | [`lege/1997/169/`](lege/1997/169/) | in force | 2 | 1997-11-04 | 2005-07-25 |
 | Legea nr. 171/1997 | [`lege/1997/171/`](lege/1997/171/) | in force | 1 | 1997-11-24 | 1997-11-24 |
 | Legea nr. 178/1997 | [`lege/1997/178/`](lege/1997/178/) | in force | 9 | 1997-11-10 | 2016-05-02 |
+| Legea nr. 182/1997 pentru ratificarea actelor adoptate de Congresul Uniunii Poştale Universale de la Seul (1994) | [`lege/1997/182/`](lege/1997/182/) | in force | 1 | 1997-11-26 | 1997-11-26 |
+| Legea nr. 183/1997 privind ratificarea Convenţiei europene pentru reprimarea infracţiunilor rutiere, adoptată la Strasbourg la 30 noiembrie 1964 | [`lege/1997/183/`](lege/1997/183/) | in force | 1 | 1997-11-18 | 1997-11-18 |
 | Legea nr. 187/1997 privind aprobarea Ordonanţei Guvernului nr. 12/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind ajustarea sectorului de protecţie socială, în suma de 50 milioane dolari S.U.A | [`lege/1997/187/`](lege/1997/187/) | amending act | 1 | 1997-11-24 | 1997-11-24 |
 | Legea nr. 188/1997 privind aprobarea Ordonanţei Guvernului nr. 36/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca de Export-Import a Japoniei, în suma de 50 milioane dolari S.U.A., semnat la Tokyo la 14 iulie 1997 | [`lege/1997/188/`](lege/1997/188/) | amending act | 1 | 1997-11-24 | 1997-11-24 |
 | Legea nr. 189/1997 privind aprobarea Ordonanţei Guvernului nr. 33/1997 pentru ratificarea Acordului-cadru de cooperare financiară dintre România şi Banca Europeană de Investiţii, semnat la Luxembourg şi Bucureşti la 4 şi, respectiv, 5 iunie 1997 | [`lege/1997/189/`](lege/1997/189/) | amending act | 1 | 1997-11-24 | 1997-11-24 |
@@ -12629,7 +12631,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29240 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29244 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

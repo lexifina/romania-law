@@ -1110,6 +1110,72 @@
    ]
   },
   {
+   "slug": "hg-738-1997",
+   "path": "hg/1997/738",
+   "short": "HG nr. 738/1997",
+   "title": "Hotărârea Guvernului nr. 738/1997 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 1997 al Regiei Autonome de Exploatare a Metroului \"Metrorex\" Bucureşti de sub autoritatea Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13552",
+   "versions": [
+    {
+     "from": "1997-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13552",
+     "sha256": "46e0f21c547c6fcc7e7f835ab2825a5791b8280dc760da3b966520c315e7bf44"
+    }
+   ]
+  },
+  {
+   "slug": "hg-739-1997",
+   "path": "hg/1997/739",
+   "short": "HG nr. 739/1997",
+   "title": "Hotărârea Guvernului nr. 739/1997 privind acordarea unor ajutoare de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13553",
+   "versions": [
+    {
+     "from": "1997-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13553",
+     "sha256": "c06958a6d7a64f85b1c94197e732ccf2bb91b10694248a7eff5a02b0767f4c77"
+    }
+   ]
+  },
+  {
+   "slug": "hg-740-1997",
+   "path": "hg/1997/740",
+   "short": "HG nr. 740/1997",
+   "title": "Hotărârea Guvernului nr. 740/1997 cu privire la organizarea învăţământului postuniversitar medical şi farmaceutic uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13554",
+   "versions": [
+    {
+     "from": "1997-11-20",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13554",
+     "sha256": "281ca733c539feb39bc9bb702258c24eac7cad3900048606a6eb76019a9914c4"
+    },
+    {
+     "from": "2001-01-10",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/25963",
+     "sha256": "57c8474197c8551866d333420f6337544733cf78985acd7b5348044e6ba4f7dc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-741-1997",
+   "path": "hg/1997/741",
+   "short": "HG nr. 741/1997",
+   "title": "Hotărârea Guvernului nr. 741/1997 privind înfiinţarea unor facultăţi la Universitatea de Nord din Baia Mare, Universitatea \"Valachia\" din Târgovişte şi la Universitatea \"Constantin Brâncuşi\" din Târgu Jiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13555",
+   "versions": [
+    {
+     "from": "1997-11-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13555",
+     "sha256": "ccda3fb8697b1b6768752338dec9ea4e430befba403fef192ef438b4905b177f"
+    }
+   ]
+  },
+  {
    "slug": "hg-742-1997",
    "path": "hg/1997/742",
    "short": "HG nr. 742/1997",
