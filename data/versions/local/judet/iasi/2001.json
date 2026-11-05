@@ -3,6 +3,81 @@
  "shard": "local/judet/iasi/2001",
  "acts": [
   {
+   "slug": "hcj-iasi-1-2001",
+   "path": "local/judet/iasi/2001/1",
+   "short": "HCJ Iași nr. 1/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 1/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-01-29/hot%C4%83r%C3%A2rea-nr-1",
+   "versions": [
+    {
+     "from": "2001-01-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-01-29/hot%C4%83r%C3%A2rea-nr-1",
+     "sha256": "1b71e5cd062666f67e159102b0d0c83575f98a334908767b728857f9b5b8f7f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-100-2001",
+   "path": "local/judet/iasi/2001/100",
+   "short": "HCJ Iași nr. 100/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 100/2001 privind Protectia Copilului pentru anii 2001-2004\". Art.2 Cu data prezentei, se abroga Hotarirea nr. 48 a Consiliului Judetean Iasi din data de 24.05.2000. Tags:",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-100",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-100",
+     "sha256": "4e2c817b800fbb3fe201e837af100f074eb3e2a5676630cedadcd8f4e250124c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-101-2001",
+   "path": "local/judet/iasi/2001/101",
+   "short": "HCJ Iași nr. 101/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 101/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-101",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-101",
+     "sha256": "037c4e4d94d9854291cefedd3598792b53a6d484a570706f77a941ffc53d0862"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-102-2001",
+   "path": "local/judet/iasi/2001/102",
+   "short": "HCJ Iași nr. 102/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 102/2001 pentru SC LDP SA Iasi, in conformitate cu prevederile OUG nr. 79/2001. Tags: hotărâre hotărâri hotărâri 2001 Creat de icc la Mar, 21/05/",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-102",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-102",
+     "sha256": "ab1a219a7b92d694bca0b3a659ee7aff6492e9ad56c323abf1956104f3be465e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-103-2001",
+   "path": "local/judet/iasi/2001/103",
+   "short": "HCJ Iași nr. 103/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 103/2001 pentru RA AEROPORTUL Iasi, completat cu anexele 1, 1A, 2, 3 si 4, intocmite in conformitate cu prevederile OUG nr. 79/2001. Art.2 Anexel",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-103",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-103",
+     "sha256": "2827cd348306cfcf295e13621315dfcf06baab1af32182775ea33d15544e6964"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-106-2001",
    "path": "local/judet/iasi/2001/106",
    "short": "HCJ Iași nr. 106/2001",
@@ -18,6 +93,681 @@
    ]
   },
   {
+   "slug": "hcj-iasi-107-2001",
+   "path": "local/judet/iasi/2001/107",
+   "short": "HCJ Iași nr. 107/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 107/2001 pentru a participa la lucrarile Adunarii Generale a Adunarii Regiunilor Europei, care se va desfasura la Sopron, Ungaria, in perioada 29-30 noiembrie 2001. Art.2 Aproba efectuarea cheltuielilor aferente acestei deplasari, conform HG 518/1995 potrivit modificarilor si completarilor HG 420/1998. Tags: hotărâre hotărâri hotărâri 2001 Creat de icc la Mar, 21/05/2013 - 09:55 Ultima actualizare: 21/05/2",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-107",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-107",
+     "sha256": "1bac37fb3f3c0798ca4fa7cd73964ac00d93d05dbdae032f4e699438a9d63f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-108-2001",
+   "path": "local/judet/iasi/2001/108",
+   "short": "HCJ Iași nr. 108/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 108/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-108",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-108",
+     "sha256": "5866577c58c6136ce9e0ad4d84b3f0298b094a5a965bfc20533ca13c610f93eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-109-2001",
+   "path": "local/judet/iasi/2001/109",
+   "short": "HCJ Iași nr. 109/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 109/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-109",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-109",
+     "sha256": "75e21eec8f9892677e95805ca597835a75f964a0ebf983da0b296f541f6c195b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-110-2001",
+   "path": "local/judet/iasi/2001/110",
+   "short": "HCJ Iași nr. 110/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 110/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-110",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-110",
+     "sha256": "f6c17b26be318650247e64270f2199141fc304f4d38e930277f3948f7d74c7d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-111-2001",
+   "path": "local/judet/iasi/2001/111",
+   "short": "HCJ Iași nr. 111/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 111/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-111",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-111",
+     "sha256": "aa5ffa12b7223c8c2dec06e5e1f4b495c9cb1739ab70ae5d8531a043b7e39c39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-112-2001",
+   "path": "local/judet/iasi/2001/112",
+   "short": "HCJ Iași nr. 112/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 112/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-112",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-112",
+     "sha256": "b4953e3ff3f9d340b42726bb0cec13962c9624406d3a455cd725396c8510f0cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-113-2001",
+   "path": "local/judet/iasi/2001/113",
+   "short": "HCJ Iași nr. 113/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 113/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-113",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-113",
+     "sha256": "ba188a4c4f79cde7c4c0235e369aed74f183ca2097a0bf7f8c9ba388d7e32432"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-114-2001",
+   "path": "local/judet/iasi/2001/114",
+   "short": "HCJ Iași nr. 114/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 114/2001 pentru dezinfectia mijloacelor de transport auto la Punctul de Control Trecere Frontiera Sculeni, astfel: autoturisme - 100000 lei microbuze - 150000 lei autobuze - 200000 l",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-114",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-114",
+     "sha256": "a6d00bd1bfd91c5b554bf09343cebf8b7e149f916c7713222c3b0ce0503915fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-115-2001",
+   "path": "local/judet/iasi/2001/115",
+   "short": "HCJ Iași nr. 115/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 115/2001 pentru fiecare centru, functie de realizari",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-115",
+   "versions": [
+    {
+     "from": "2001-09-24",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-09-24/hot%C4%83r%C3%A2rea-nr-115",
+     "sha256": "d4e971351a1b989f4edd768677a0441cba5654106ad648cf6a77a2f63ebff192"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-130-2001",
+   "path": "local/judet/iasi/2001/130",
+   "short": "HCJ Iași nr. 130/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 130/2001 pentru Biblioteca \"Gh. Asachi\" Iasi valabil cu data de 1 noiembrie 2001, conform anexei care face parte integranta din prezenta hotarire. Art.2 Directia Orga",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-10-31/hot%C4%83r%C3%A2rea-nr-130",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-10-31/hot%C4%83r%C3%A2rea-nr-130",
+     "sha256": "d3b6ee00d5c1e94cc0fb9a9c6b0d7fe644abedf57d18a3199658205c3dae51b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-132-2001",
+   "path": "local/judet/iasi/2001/132",
+   "short": "HCJ Iași nr. 132/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 132/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-10-31/hot%C4%83r%C3%A2rea-nr-132",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-10-31/hot%C4%83r%C3%A2rea-nr-132",
+     "sha256": "6508bca5c1dd7555ea9360ec1453f47dd636e46186b37ac5b27d9c06f8ab2dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-136-2001",
+   "path": "local/judet/iasi/2001/136",
+   "short": "HCJ Iași nr. 136/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 136/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-10-31/hot%C4%83r%C3%A2rea-nr-136",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-10-31/hot%C4%83r%C3%A2rea-nr-136",
+     "sha256": "067f05bf6f6077a0fc8853c2c23d50cae45cab624b122ec01af36156dccd68b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-139-2001",
+   "path": "local/judet/iasi/2001/139",
+   "short": "HCJ Iași nr. 139/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 139/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-10-31/hot%C4%83r%C3%A2rea-nr-139",
+   "versions": [
+    {
+     "from": "2001-10-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-10-31/hot%C4%83r%C3%A2rea-nr-139",
+     "sha256": "2765653374b8ac098f02bc58bfc37c596ce1047a0a6a3a44dc7e84adbd438ea2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-14-2001",
+   "path": "local/judet/iasi/2001/14",
+   "short": "HCJ Iași nr. 14/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 14/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-01-29/hot%C4%83r%C3%A2rea-nr-14",
+   "versions": [
+    {
+     "from": "2001-01-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-01-29/hot%C4%83r%C3%A2rea-nr-14",
+     "sha256": "de834ea536aa088c1dfea84071d7206259a82e8a6bbf58b6a9af1d13c30afcdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-145-2001",
+   "path": "local/judet/iasi/2001/145",
+   "short": "HCJ Iași nr. 145/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 145/2001 pentru SC LDP SA Iasi, in conformitate cu prevederile OUG 79/2001. Tags: hotărâre hotărâri hotărâri 2001 Creat de icc la Mar, 21/05/2013",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-145",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-145",
+     "sha256": "40eb867ae105242176a8c2fda0d6f1c0cada16595b59a8292f2916322e236807"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-146-2001",
+   "path": "local/judet/iasi/2001/146",
+   "short": "HCJ Iași nr. 146/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 146/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-146",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-146",
+     "sha256": "cdbff4d92333e32cb18e9add84100cc0968648b9464215fee216424d2c1eeb7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-147-2001",
+   "path": "local/judet/iasi/2001/147",
+   "short": "HCJ Iași nr. 147/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 147/2001 pentru contribuabilii din judetul Iasi care isi desfasoara activitatea singuri, intr-un punct fix sau ambulant, conform Anexei care face parte integranta din prezenta hot",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-147",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-147",
+     "sha256": "f52a17782d75de5f3fe5672874a699ef7758b01842c714627b58c6f0b44e3d0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-148-2001",
+   "path": "local/judet/iasi/2001/148",
+   "short": "HCJ Iași nr. 148/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 148/2001 pentru acelasi obiectiv. Tags: hotărâre hotărâri hotărâri 2001 Creat de icc la Mar, 21/05/2013 - 10:53 Ultima actualizare: 21/05/2013 - 10:53",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-148",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-148",
+     "sha256": "a89b9a5ee37bb602d52e6db1fd3db94a04d373d4907de341bb40e075181f711f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-149-2001",
+   "path": "local/judet/iasi/2001/149",
+   "short": "HCJ Iași nr. 149/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 149/2001 pentru cultura si sport, incepind cu data de 01.01.2002 in cuantum de 120.000 lei/luna/agent economic",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-149",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-149",
+     "sha256": "9a2ed4d0270c9f20860bdf1adf8a5c3cfeed1fb6bbb07604bb6415887fbe7b11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-150-2001",
+   "path": "local/judet/iasi/2001/150",
+   "short": "HCJ Iași nr. 150/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 150/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-150",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-150",
+     "sha256": "a10b50a741dba57ded6eef1e7d8f340f8d5da15dee474b47f3da22eb7afa321b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-151-2001",
+   "path": "local/judet/iasi/2001/151",
+   "short": "HCJ Iași nr. 151/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 151/2001 pentru spatiile si terenurile inchiriate de catre acestia. Art.2 Incasa",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-151",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-151",
+     "sha256": "d16bdc8a27267dea52a1e4db01edc6d1e9e875f3247e8c21783f25762248301f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-152-2001",
+   "path": "local/judet/iasi/2001/152",
+   "short": "HCJ Iași nr. 152/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 152/2001 pentru spatiile cu alta destinatie decit aceea de locuinta si terenurile aflate in domeniul public si privat de interes judetean, conf",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-152",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-152",
+     "sha256": "27d7f2d18bc7df98af9c7805a3e1463b61003766da74e9aa9619af497384c296"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-153-2001",
+   "path": "local/judet/iasi/2001/153",
+   "short": "HCJ Iași nr. 153/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 153/2001 privind infiintarea SC \"Agentia de Dezvoltare si Promovare\" SRL Iasi. Art.2 Cu data prezentei se aproba desfiintarea SC \"Agentia de D",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-153",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-153",
+     "sha256": "52b8cf21258ffb9f7cb8df9222ec93fa3bb17bd5f3ea0c45f4e6ca7690dabf8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-154-2001",
+   "path": "local/judet/iasi/2001/154",
+   "short": "HCJ Iași nr. 154/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 154/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-154",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-154",
+     "sha256": "4581ef70b9cadef86933d91553aba17e55ca9b519825a20d293f5ce3f3437127"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-155-2001",
+   "path": "local/judet/iasi/2001/155",
+   "short": "HCJ Iași nr. 155/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 155/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-155",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-155",
+     "sha256": "34952d55376b57c9463a374d6945acc7e989c66cdb334e4776bdf074862698e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-156-2001",
+   "path": "local/judet/iasi/2001/156",
+   "short": "HCJ Iași nr. 156/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 156/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-156",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-12-20/hot%C4%83r%C3%A2rea-nr-156",
+     "sha256": "f6e8fa95bd289aa889e4000f042de66658630bd9034e0885933e5413f9134358"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-26-2001",
+   "path": "local/judet/iasi/2001/26",
+   "short": "HCJ Iași nr. 26/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 26/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-01-29/hot%C4%83r%C3%A2rea-nr-26",
+   "versions": [
+    {
+     "from": "2001-01-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-01-29/hot%C4%83r%C3%A2rea-nr-26",
+     "sha256": "a1fffa80930abbda6809cf544f3c1cd9ced3ec8ed925890ecc04db5e806f64a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-38-2001",
+   "path": "local/judet/iasi/2001/38",
+   "short": "HCJ Iași nr. 38/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 38/2001 referitoare la constituirea Comisiei judetene de aplicare a H.G",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-38",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-38",
+     "sha256": "4dc184b68e48785c4c50c44919f0ecfe2c6e36baccb0eaf9642852cc363d9eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-41-2001",
+   "path": "local/judet/iasi/2001/41",
+   "short": "HCJ Iași nr. 41/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 41/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-41",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-41",
+     "sha256": "f86ae5bf1000c681ffb40efc5113a7e526cbdf94aa63f65eae14de9078f78402"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-44-2001",
+   "path": "local/judet/iasi/2001/44",
+   "short": "HCJ Iași nr. 44/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 44/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-44",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-44",
+     "sha256": "29b91fdaaac2efaa5fc654dfc96a990e193e960d9c1670e7b0821d8218b2b408"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-47-2001",
+   "path": "local/judet/iasi/2001/47",
+   "short": "HCJ Iași nr. 47/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 47/2001 referitoare la numirea in functia de director general i",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-47",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-47",
+     "sha256": "171559f3f12df7fc7d2a62c6a0c26eb55687c4fca0be7635df36c0b1e67b6bdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-48-2001",
+   "path": "local/judet/iasi/2001/48",
+   "short": "HCJ Iași nr. 48/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 48/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-48",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-48",
+     "sha256": "9038a21760e16a15faaf9295eea872468443adfd3fc78f5377288426cae92395"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-49-2001",
+   "path": "local/judet/iasi/2001/49",
+   "short": "HCJ Iași nr. 49/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 49/2001 pentru trecerea frontierei de pe teritoriul judetului Iasi. Art.2 Activitatile prevazute la art.1 vor completa obiectul de activitate al Serviciului public din cadrul Consiliului Judetean Iasi, infiintat prin Hotarirea nr. 67/1999. Art.3 Taxele pentru prestarea activitatilor de dezinsectie, dezinfectie, deratizare si a altor activitati din domeniul sanitar-veterinar la punctele de control pentru t",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-49",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-49",
+     "sha256": "99f35fb4b2a11f192ae2d4b12441ffb8a75743f35f5bf839546dfaf6c0f77890"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-50-2001",
+   "path": "local/judet/iasi/2001/50",
+   "short": "HCJ Iași nr. 50/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 50/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-50",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-04-04/hot%C4%83r%C3%A2rea-nr-50",
+     "sha256": "7346de9caf01fbc820bf5793be5a831d3abcc3b4807b9f7faa9f927f3a42b227"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-51-2001",
+   "path": "local/judet/iasi/2001/51",
+   "short": "HCJ Iași nr. 51/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 51/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-51",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-51",
+     "sha256": "ec9b540a6855650ec3a894283859012512251e3382d6e4a3a918cfb39d6263bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-52-2001",
+   "path": "local/judet/iasi/2001/52",
+   "short": "HCJ Iași nr. 52/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 52/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-52",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-52",
+     "sha256": "331edc392e508c81aa316b7d036a8d50d14039bb846519bfcbbdde618b9b586d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-53-2001",
+   "path": "local/judet/iasi/2001/53",
+   "short": "HCJ Iași nr. 53/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 53/2001 pentru RA AEROPORTUL Iasi. Tags: hotărâre hotărâri hotărâri 2001 Creat de icc la Lun, 20/05/2013 - 17:09 Ultima actualizare: 20/05/2013 - 17:09",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-53",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-53",
+     "sha256": "9da197ff5176074f9c7f9726b9306f55196bc47530d0cf0beb9b80465a5e6c53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-54-2001",
+   "path": "local/judet/iasi/2001/54",
+   "short": "HCJ Iași nr. 54/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 54/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-54",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-54",
+     "sha256": "1a2e02f09a2cc2596d33f1591da108ea1f52f00831a7ef2454bf9fedee1ef974"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-55-2001",
+   "path": "local/judet/iasi/2001/55",
+   "short": "HCJ Iași nr. 55/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 55/2001 pentru lucrari de investitii reprezentind tronsoane de drumuri, noi dotari tehnice, lucrari de reparatii si modernizari, studii si lucrari de proiectare privind extinderea si modernizarea retelei de drumuri locale. Art.5 Directia de Administrare a Drumurilor Judetene Iasi, Directia Economica si Serviciul Financiar-Contabilitate vor duce la indeplinire prevederile prezentei hotariri. Tags: hotărâre",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-55",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-55",
+     "sha256": "700528ee5833650f40c17a1ecb2d23b4fffaed19375c208ef751c640a57b4beb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-56-2001",
+   "path": "local/judet/iasi/2001/56",
+   "short": "HCJ Iași nr. 56/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 56/2001 pentru Protectia Copilului si Adoptie si Directia Generala pentru Protectia Copilului Iasi privind implementarea sub-proiectului CS tr IS - \"Adapost",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-56",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-56",
+     "sha256": "d25e872f8ea32d3d54d82dffb7a9ae65e9aa12a6a019024b489b708c64ed332e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-57-2001",
+   "path": "local/judet/iasi/2001/57",
+   "short": "HCJ Iași nr. 57/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 57/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-57",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-57",
+     "sha256": "983c70d2f0e2d2067b28f37fc3f6c98b00d39285af2b51a84939f567d1cd5b51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-59-2001",
+   "path": "local/judet/iasi/2001/59",
+   "short": "HCJ Iași nr. 59/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 59/2001 pentru obiectivele enumerate in anexa nr.1, parte integranta din prezenta hotarire. Art.2 Cu aceeasi data isi",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-59",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-59",
+     "sha256": "1223c8757295b9a36ed1c7836f8cdd2eecc56494fff99e6f54d4b76b07bc8227"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-60-2001",
+   "path": "local/judet/iasi/2001/60",
+   "short": "HCJ Iași nr. 60/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 60/2001 pentru Protectia Drepturilor Copilului. Tags: hotărâre hotărâri hotărâri 2001 Creat de icc la Lun, 20/05/2013 - 17:25 Ultima actualizare: 20/05/2013 - 17:25",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-60",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-60",
+     "sha256": "e1bf7b01b79cb63348b395dcacdda68efe07e5d5fd4fe62f5dd953ddf44b970b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-61-2001",
+   "path": "local/judet/iasi/2001/61",
+   "short": "HCJ Iași nr. 61/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 61/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-61",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-61",
+     "sha256": "2e36726d5950f8a0027d908fd49fa2ba4a98b0e10f74c566621830e455d16c66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-72-2001",
+   "path": "local/judet/iasi/2001/72",
+   "short": "HCJ Iași nr. 72/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 72/2001 privind achizitiile publice. Tags: hotărâre hotărâri hotărâri 2001 Creat de icc la Lun, 20/05/2013 - 17:40 Ultima actualizare: 20/05/2013 - 17:40",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-72",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-72",
+     "sha256": "42e78f59bca78cd97ba3c3b02a1ee496ba9ee1a0b44aa66caf3037a97b940b43"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-73-2001",
    "path": "local/judet/iasi/2001/73",
    "short": "HCJ Iași nr. 73/2001",
@@ -29,6 +779,186 @@
      "units": 1,
      "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-73",
      "sha256": "5f9b28fb7f0639e0a1d579774c1a54a9bd7f100efaf124671d9f9f66e028ce7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-74-2001",
+   "path": "local/judet/iasi/2001/74",
+   "short": "HCJ Iași nr. 74/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 74/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-74",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-74",
+     "sha256": "71bde7f3b61373a78216da77fdc1fb134581e14af7c4335f0ac24c9fb0949ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-76-2001",
+   "path": "local/judet/iasi/2001/76",
+   "short": "HCJ Iași nr. 76/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 76/2001",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-76",
+   "versions": [
+    {
+     "from": "2001-05-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-05-26/hot%C4%83r%C3%A2rea-nr-76",
+     "sha256": "d76d36f63296d34ee76f768276456b03b9de236d73b926cee00de2fccec370c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-82-2001",
+   "path": "local/judet/iasi/2001/82",
+   "short": "HCJ Iași nr. 82/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 82/2001 pentru R.A.J.A.C",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-82b",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-82b",
+     "sha256": "937ae31ec6014dc262e8ec1820ff87f315c8fe9fbeb456228576506986f30971"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-84-2001",
+   "path": "local/judet/iasi/2001/84",
+   "short": "HCJ Iași nr. 84/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 84/2001 privind rectificarea sumelor defalcate din taxa pe valoarea adaugata repartizate in vederea finantarii cheltuielilor aferente centrelor locale de consultanta agricola din judetul Iasi pe",
+   "url": "http://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-84",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-84",
+     "sha256": "c026cc81aa5a9b13144a8576d6bba1dec6a653678a038b6481ff9f0a26efdfb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-92-2001",
+   "path": "local/judet/iasi/2001/92",
+   "short": "HCJ Iași nr. 92/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 92/2001 pentru Protectia Copilului Iasi se stabileste in urmatoarea componenta: dl",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-92",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-92",
+     "sha256": "d7f1382eca98a14dcdc68ff1349f983ff90d2574281fbb632acdf9a150afea53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-93-2001",
+   "path": "local/judet/iasi/2001/93",
+   "short": "HCJ Iași nr. 93/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 93/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-93",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-93",
+     "sha256": "3cccd864d840a761910eb445b7c43d5daf6733b40f2b016be8fa176fc29296ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-94-2001",
+   "path": "local/judet/iasi/2001/94",
+   "short": "HCJ Iași nr. 94/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 94/2001 Pentru constructiile exceptate nu se va solicita studiu de stabilitate punctiforma",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-94",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-94",
+     "sha256": "0dd56939c9b3ea4f59716904c0e90b4e9ab65875edb63d34c4156452b9ec33f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-95-2001",
+   "path": "local/judet/iasi/2001/95",
+   "short": "HCJ Iași nr. 95/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 95/2001 privind Acordul de Colaborare intre",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-95",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-95",
+     "sha256": "bf63d9dfe1f91f8b0bd0785e8bc09378315662aa62132a76239d241570f91168"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-96-2001",
+   "path": "local/judet/iasi/2001/96",
+   "short": "HCJ Iași nr. 96/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 96/2001",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-96",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-96",
+     "sha256": "628a9526e6a534d50313da6904d2040873cc1fc0eff11b0846ec96dc235b08f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-97-2001",
+   "path": "local/judet/iasi/2001/97",
+   "short": "HCJ Iași nr. 97/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 97/2001 pentru Protectia Drepturilor Copilului Iasi. Art.2 Transmiterea in administrare se face in scopul implementarii proiectului \"Adapost de zi si de noapte pentru copiii strazii\", pe durata mentinerii acestei destinatii. Art.3 Prezenta hotarire modifica Hotarirea Consiliului Judetean Iasi nr. 56/2001. Tags: hotărâre hotărâri hotărâri 2001 Creat de icc la Mar, 21/05/2013 - 09:34 Ultima actualizare: 05/",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-97",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-97",
+     "sha256": "3ee8406e367b66dc1f7423e431c09b7b1b3eb216f3737ca8e3a227ca3cc5128a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-98-2001",
+   "path": "local/judet/iasi/2001/98",
+   "short": "HCJ Iași nr. 98/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 98/2001 pentru anul 2002, in perioada 30 septembrie 2001 - aprilie 2002 autoritatilr administratiei publice locale nu vor mai efectua schimbari de denu",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-98",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-98",
+     "sha256": "2c715b81e2ead5c723df0f86be88695f04d8b7829f53cd4a55ace0bba645acb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-99-2001",
+   "path": "local/judet/iasi/2001/99",
+   "short": "HCJ Iași nr. 99/2001",
+   "title": "Hotărârea Consiliului Județean Iași nr. 99/2001 pentru cultura si sport in suma de 30 milioane lei si venituri de la bugetul propriu al Consiliului Judetean in suma de 70 milioane lei in limita incasarilor din chirii si concesiuni. Tags: hotărâre hotărâri hotărâri 2001 Creat de icc la Mar, 21/05/2013 - 09:37 Ultima actualizare: 21/05/2013 - 09:37",
+   "url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-99",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2001/2001-08-09/hot%C4%83r%C3%A2rea-nr-99",
+     "sha256": "80f53326509c139bdea45dabf95baf0c54fbc75c2740410656c4e1cc2c2cd3ca"
     }
    ]
   }

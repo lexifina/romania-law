@@ -3,6 +3,28 @@
 "shard": "local/judet/prahova/2025",
 "acts": [
 {
+"slug": "hcj-prahova-349-2025",
+"path": "local/judet/prahova/2025/349",
+"kind": "local",
+"year": "2025",
+"number": "349",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 349/2025 privind rectificarea bugetului propriu al judeţului şi a bugetelor unor instituții de sub autoritatea Consiliului Județean Prahova pe anul 2025",
+"short": "HCJ Prahova nr. 349/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2025/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-prahova-351-2025",
 "path": "local/judet/prahova/2025/351",
 "kind": "local",
@@ -22,6 +44,117 @@
 "council_name": "Consiliul Județean Prahova",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-353-2025",
+"path": "local/judet/prahova/2025/353",
+"kind": "local",
+"year": "2025",
+"number": "353",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 353/2025 privind prelungirea termenelor contractelor de dare în folosinţă gratuită a unor spaţii în imobilul proprietate privată a judeţului Prahova, situat în municipiul Ploieşti, str",
+"short": "HCJ Prahova nr. 353/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2025/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-354-2025",
+"path": "local/judet/prahova/2025/354",
+"kind": "local",
+"year": "2025",
+"number": "354",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 354/2025",
+"short": "HCJ Prahova nr. 354/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": null,
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-355-2025",
+"path": "local/judet/prahova/2025/355",
+"kind": "local",
+"year": "2025",
+"number": "355",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 355/2025 privind aprobarea majorării aportului Județului Prahova la capitalul social al Societății Hidro Prahova S.A",
+"short": "HCJ Prahova nr. 355/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2025/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-356-2025",
+"path": "local/judet/prahova/2025/356",
+"kind": "local",
+"year": "2025",
+"number": "356",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 356/2025 privind schimbarea denumirii din „Club Sportiv Județean Prahova” în „Club Sportiv alPHa Prahova” și aprobarea Regulamentului de Organizare și Funcționare",
+"short": "HCJ Prahova nr. 356/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2025/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-357-2025",
+"path": "local/judet/prahova/2025/357",
+"kind": "local",
+"year": "2025",
+"number": "357",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 357/2025 privind prelungirea termenelor contractelor de închiriere a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+"short": "HCJ Prahova nr. 357/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2025/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,81 @@
  "shard": "local/judet/prahova/2023",
  "acts": [
   {
+   "slug": "hcj-prahova-361-2023",
+   "path": "local/judet/prahova/2023/361",
+   "short": "HCJ Prahova nr. 361/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 361/2023 privind aprobarea organigramei, a statului de funcții și a regulamentului de organizare și funcționare pentru aparatul propriu al Direcţiei Generale de Asistență Socială și Protecția Copilului Prahova ca urmare a reorganizării activității",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-361-din-data-20-12-2023.pdf",
+     "sha256": "d040d1fb72507fb89f6e35fdd1831aeb0f1561c1801d45c4b282c85c92921eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-362-2023",
+   "path": "local/judet/prahova/2023/362",
+   "short": "HCJ Prahova nr. 362/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 362/2023 privind aprobarea structurii organizatorice și a numărului de posturi pentru Direcţia Judeţeană de Evidenţă a Persoanelor Prahova ca urmare a reorganizării activității",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-362-din-data-20-12-2023.pdf",
+     "sha256": "afa8cf369d092ffda467ea124bbb023a3cec997dd6ece1b8fa7905db27c0946f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-363-2023",
+   "path": "local/judet/prahova/2023/363",
+   "short": "HCJ Prahova nr. 363/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 363/2023 privind modificarea organigramei și a statului de funcţii pentru Serviciul Public Județean Salvamont Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-363-din-data-20-12-2023.pdf",
+     "sha256": "da447fc79a8da37e9399b90fdaf557f92f9e854acc1c39b1b06de220db3b92dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-364-2023",
+   "path": "local/judet/prahova/2023/364",
+   "short": "HCJ Prahova nr. 364/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 364/2023 privind aprobarea grilelor de salarizare pentru întreg personalul care deservește activitatea sportivă la Clubul Sportiv „ ACTIV PRAHOVA – PLOIEȘTI”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-364-din-data-20-12-2023.pdf",
+     "sha256": "823da0333fa43ee2cb16f6816d447e5894101d551f8c800a8178bea792093940"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-365-2023",
+   "path": "local/judet/prahova/2023/365",
+   "short": "HCJ Prahova nr. 365/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 365/2023 privind modificarea articolului 1 al Hotărârii Consiliului Județean Prahova nr. 314 din 27 noiembrie 2023",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-365-din-data-20-12-2023.pdf",
+     "sha256": "1e117ba1f2ac3da37d4f46d4598a1a99f133b223750f61595ff10d1665011d22"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-366-2023",
    "path": "local/judet/prahova/2023/366",
    "short": "HCJ Prahova nr. 366/2023",
@@ -18,6 +93,81 @@
    ]
   },
   {
+   "slug": "hcj-prahova-367-2023",
+   "path": "local/judet/prahova/2023/367",
+   "short": "HCJ Prahova nr. 367/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 367/2023 privind modificarea Hotărârii Consiliului Județean Prahova nr. 132/2023 referitoare la înfiinţarea serviciului social CENTRUL MATERNAL în cadrul Complexului de Servicii Comunitare ”Rază de Soare” Băicoi , instituţie fără personalitate juridică a Direcţiei Genera",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-367-din-data-20-12-2023.pdf",
+     "sha256": "cf7a70ba205f4e3258f6cb4df8be903e59ef43a40e6c818d2297d70589c10598"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-375-2023",
+   "path": "local/judet/prahova/2023/375",
+   "short": "HCJ Prahova nr. 375/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 375/2023 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii în imobilul proprietate privată a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-375-din-data-20-12-2023.pdf",
+     "sha256": "53922fff4301cbd051a1f000b99c45ca8093537cec408dd36b2333dccd27ba66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-377-2023",
+   "path": "local/judet/prahova/2023/377",
+   "short": "HCJ Prahova nr. 377/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 377/2023 privind prelungirea termenelor contractelor de închiriere a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-377-din-data-20-12-2023.pdf",
+     "sha256": "a3e98eeb2e5604e710ac44811dd34f1841805763ba848f6130ec1e0af1fa72e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-378-2023",
+   "path": "local/judet/prahova/2023/378",
+   "short": "HCJ Prahova nr. 378/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 378/2023 privind înfiinţarea serviciului social Centrul de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități „ALLEGRIA” în cadrul Complexului de Servicii Comunitare Liliești Băicoi, instituţie fără personalitate juridică a Direcţiei Generale de Asistenţă Soci",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-378-din-data-20-12-2023.pdf",
+     "sha256": "60283c3890d93c5b1ebadf9a11efc33942f198fbd2a9432af545187214a86d82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-379-2023",
+   "path": "local/judet/prahova/2023/379",
+   "short": "HCJ Prahova nr. 379/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 379/2023 privind înfiinţarea serviciului social Centrul de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități “AMBRA,, în cadrul Complexului de Servicii Comunitare Liliești Băicoi, instituţie fără personalitate juridică a Direcţiei Generale de Asistenţă Social",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-379-din-data-20-12-2023.pdf",
+     "sha256": "06692e78d312dbb0b38132840f62e3a8fae37c9e9f5b18c3ec5c0326ca8596de"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-381-2023",
    "path": "local/judet/prahova/2023/381",
    "short": "HCJ Prahova nr. 381/2023",
@@ -29,6 +179,111 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-381-din-data-20-12-2023.pdf",
      "sha256": "2ea0d231215a03f248586beb8e7f25217de3876e261d1e584e817d9bd355e7d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-382-2023",
+   "path": "local/judet/prahova/2023/382",
+   "short": "HCJ Prahova nr. 382/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 382/2023 privind stabilirea salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale “ Administrație ” utilizate pentru funcționarii publici și personalul contractual din aparatul de specialitate al Consiliului Județean Prahova, din instituțiile și servici",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-382-din-data-20-12-2023.pdf",
+     "sha256": "4864abd59ff602dd7e503477f096d3e7a8ab1d189d4c3d665f8fb141be441f45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-383-2023",
+   "path": "local/judet/prahova/2023/383",
+   "short": "HCJ Prahova nr. 383/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 383/2023 privind modificarea Hotărârii Consiliului Judetean Prahova nr.46/06.03.2023 privind aprobarea principalilor indicatori tehnico – economici, a devizului general actualizat si a cheltuielilor finanțate de la bugetul local pentru realizarea obiectivului de investiții",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-383-din-data-20-12-2023.pdf",
+     "sha256": "7bf5100c7fb3dd2fffb6927662d1711f4f43af6423a2651ddcfd51e088a7d41b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-384-2023",
+   "path": "local/judet/prahova/2023/384",
+   "short": "HCJ Prahova nr. 384/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 384/2023 privind aprobarea Documentației tehnico economice pentru obiectivul de investiție ”Descărcare drum expres Găești – Ploiești – Bănești – Câmpina – Șotrile – Valea Doftanei”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-384-din-data-20-12-2023.pdf",
+     "sha256": "be85f5e17b263ec182142aaa1f9790aa58e29ec1c52961c402a02b4d3bd22b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-386-2023",
+   "path": "local/judet/prahova/2023/386",
+   "short": "HCJ Prahova nr. 386/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 386/2023 privind majorarea nivelului alocației de hrană pentru consumurile colective din cadrul Spitalului Județean de Urgență Dr",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-386-din-data-20-12-2023.pdf",
+     "sha256": "b730508b6ae888a801ed96fc25eb18445719ccc8bbb4da43bd2bf1c082949d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-388-2023",
+   "path": "local/judet/prahova/2023/388",
+   "short": "HCJ Prahova nr. 388/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 388/2023 privind modificarea statului de funcții pentru aparatul de specialitate al Consiliului Județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-388-din-data-20-12-2023.pdf",
+     "sha256": "f296c18b239203bf5da428a2b0eb02e58ba44ad271c1828cd11eeb591e6dd9a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-389-2023",
+   "path": "local/judet/prahova/2023/389",
+   "short": "HCJ Prahova nr. 389/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 389/2023 pentru modificarea unor prevederi ale Hotărârii Consiliului Județean Prahova nr. 161/2023 privind stabilirea unor măsuri în vederea asigurării continuității serviciului public de transport județean de persoane prin curse regulate în județul Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2023/12/Hotararea-nr.-389-din-data-20-12-2023.pdf",
+     "sha256": "e22b2af4160655f6a567d065dbdf3ed5bf8b05c478485cf12644a35c9504b582"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-390-2023",
+   "path": "local/judet/prahova/2023/390",
+   "short": "HCJ Prahova nr. 390/2023",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 390/2023 privind aprobarea documentației aferente lucrării de investiție ”Conectare -Rețea inteligentă de distribuție gaze naturale în județul Prahova- comunele Cocorăștii Mislii, Vâlcănești, Cosminele, Dumbrăvești, Vărbilău, Aluniș, Ștefești, Bertea și Orașul Slănic la",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/01/Hotararea-nr.-390-din-data-29-12-2023.pdf",
+     "sha256": "069fda2c056649c8b6869c5050ff613f9779d69ca526d63fa22f1afdbf3fecb5"
     }
    ]
   }

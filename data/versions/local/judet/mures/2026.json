@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/judet/mures/2026",
+ "acts": [
+  {
+   "slug": "hcj-mures-106-2026",
+   "path": "local/judet/mures/2026/106",
+   "short": "HCJ Mureș nr. 106/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 106/2026 privind stabilirea valorii unitare lei/kilometru aferentă sumei forfetare lunare și a sumei forfetare pe zi, acordată elevilor din județul Mureș, care nu sunt școlarizați în localitatea de domiciliu și nu beneficiază de existența serviciilor de transport public",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-106-din-27-august-2026-privind-stabilirea-valorii-unitare-lei-kilometru-aferenta-sumei-forfetare-lunare-si-a-sumei-forfetare-pe-zi-acordata-elevilor-din-judetul-mures-care-nu-sunt-scol",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/08/hot-106.pdf",
+     "sha256": "fe749ee7cc5ed9809ab5c9c2aa583fcaba3bb1bf1852d93b22ad81ab2aae40bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-109-2026",
+   "path": "local/judet/mures/2026/109",
+   "short": "HCJ Mureș nr. 109/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 109/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/08/hot-109.pdf",
+     "sha256": "a3a1df8a4a296b4a717329889580b2f488e0669bd20ab701cb8d9e1766615d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-110-2026",
+   "path": "local/judet/mures/2026/110",
+   "short": "HCJ Mureș nr. 110/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 110/2026 pentru modificarea Hotărârii Consiliului Județean Mureș nr.117/27.07.2017 privind stabilirea unor măsuri de punere în aplicare a prevederilor Legii nr.153/2017 privind salarizarea personalului plătit din fonduri publice la nivelul aparatului de specialitate al Co",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-110-din-27-august-2026-pentru-modificarea-hotararii-consiliului-judetean-mures-nr-117-27-07-2017-privind-stabilirea-unor-masuri-de-punere-in-aplicare-a-prevederilor-legii-nr-153-2017-pri",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/08/hot-110.pdf",
+     "sha256": "a48d43316dbc25940173ad7632f74dbda0082a400cdfae83eeab3bba303e0c94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-111-2026",
+   "path": "local/judet/mures/2026/111",
+   "short": "HCJ Mureș nr. 111/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 111/2026 pentru modificarea Hotărârii Consiliului Județean Mureș nr.117/28.06.2024 privind reorganizarea Direcției Generale de Evidență a Persoanelor Mureș, cu modificările ulterioare",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-111-din-27-august-2026-pentru-modificarea-hotararii-consiliului-judetean-mures-nr-117-28-06-2024-privind-reorganizarea-directiei-generale-de-evidenta-a-persoanelor-mures-cu-modificarile",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/08/hot-111.pdf",
+     "sha256": "cceca5476cec6509b2a87696d6f5cc999a00bed2a7db1d007030a86435ce3f68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-112-2026",
+   "path": "local/judet/mures/2026/112",
+   "short": "HCJ Mureș nr. 112/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 112/2026 pentru modificarea Hotărârii Consiliului Județean Mureș nr.15/19.02.2026 privind reorganizarea Regiei Autonome „Aeroportul Transilvania – Târgu Mureș”",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-112-din-27-august-2026-pentru-modificarea-hotararii-consiliului-judetean-mures-nr-15-19-02-2026-privind-reorganizarea-regiei-autonome-aeroportul-transilvania-targu-mur",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/08/hot-112.pdf",
+     "sha256": "c41d933b8d7899d3480a1e5f76a242022c9c986de17781b6e959859bb258db38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-114-2026",
+   "path": "local/judet/mures/2026/114",
+   "short": "HCJ Mureș nr. 114/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 114/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-114.pdf",
+     "sha256": "40f0c17a8ae49a0c4515fdfc8585ec31fdab7387e8f2f4a381a5af40ea8fc06b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-115-2026",
+   "path": "local/judet/mures/2026/115",
+   "short": "HCJ Mureș nr. 115/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 115/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-115.pdf",
+     "sha256": "3a58fe4c71c4ff924d44a9ceaa0bae2e5b743d959e590abf548ceb0441bb5244"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-116-2026",
+   "path": "local/judet/mures/2026/116",
+   "short": "HCJ Mureș nr. 116/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 116/2026 privind rectificarea bugetului general al Județului Mureș pentru anul 2026",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-116-din-24-septembrie-2026-privind-rectificarea-bugetului-general-al-judetului-mures-pentru-anul-2026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-116.pdf",
+     "sha256": "d4f8c21439f5824c7316b01b01b2d825d0d16492b27037749b6ae7e6bfc9e8aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-117-2026",
+   "path": "local/judet/mures/2026/117",
+   "short": "HCJ Mureș nr. 117/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 117/2026 pentru modificarea Hotărârii Consiliului Judeţean Mureş nr.190/2016 privind transmiterea unui imobil din domeniul public al Judeţului Mureş şi din administrarea Consiliului Judeţean Mureş în domeniul public al statului, cu modificările ulterioare",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-117-din-24-septembrie-2026-pentru-modificarea-hotararii-consiliului-judetean-mures-nr-190-2016-privind-transmiterea-unui-imobil-din-domeniul-public-al-judetului-mures-si-din-administrare",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-117.pdf",
+     "sha256": "183c828bf6e46a0fc26b6131022f2fb162a5dec54cd0854f936259c02668ac1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-118-2026",
+   "path": "local/judet/mures/2026/118",
+   "short": "HCJ Mureș nr. 118/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 118/2026 privind aprobarea unor măsuri asupra imobilului înscris în CF nr.54814/Râciu",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-118-din-24-septembrie-2026-privind-aprobarea-unor-masuri-asupra-imobilului-inscris-in-cf-nr-54814-raciu",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-118.pdf",
+     "sha256": "f43f2c06f89133767d60bd54f903689b27afef795e9422f2ff6ea2b5df178d7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-119-2026",
+   "path": "local/judet/mures/2026/119",
+   "short": "HCJ Mureș nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 119/2026 privind aprobarea unor măsuri în vederea înregistrării în sistemul integrat de cadastru şi publicitate imobiliară a unui tronson din drumului judeţean DJ154 A Reghin-Ruşii Munţi-Deda neafectat de suprapuneri cu alte imobile",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-119-din-24-septembrie-2026-privind-aprobarea-unor-masuri-in-vederea-inregistrarii-in-sistemul-integrat-de-cadastru-si-publicitate-imobiliara-a-unui-tronson-din-drumului-judetean-dj154-a",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-119.pdf",
+     "sha256": "166243ea9631277c65b5c6a9b0c684e7442e933d6e7c4122559b0ed42116b654"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-121-2026",
+   "path": "local/judet/mures/2026/121",
+   "short": "HCJ Mureș nr. 121/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 121/2026 privind aprobarea asigurării cadrului necesar în vederea organizării de către Asociația Internațională a Polițiștilor - Secția Română, Regiunea 1 Mureș, a unui atelier de lucru, în data de 22 octombrie 2026, cu participarea unor instructori din afara țării, d",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-121-din-24-septembrie-2026-privind-aprobarea-asigurarii-cadrului-necesar-in-vederea-organizarii-de-catre-asociatia-internationala-a-politistilor-sectia-romana-regiunea-1-mures-a-unui",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-121.pdf",
+     "sha256": "ecff5d87fbde5fb7b49283948512fcd816606a17764f2a48b2c234ca0d660b8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-123-2026",
+   "path": "local/judet/mures/2026/123",
+   "short": "HCJ Mureș nr. 123/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 123/2026 privind modificarea Hotărârii Consiliului Județean Mureș nr.193/21.11.2024 pentru aprobarea structurii organizatorice, organigramei și statului de funcții ale Spitalului Municipal „Dr",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-123-din-24-septembrie-2026-privind-modificarea-hotararii-consiliului-judetean-mures-nr-193-21-11-2024-pentru-aprobarea-structurii-organizatorice-organigramei-si-statului-de-functii-ale",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-123.pdf",
+     "sha256": "559945056fa977ad1331f047a15fbb5d33ffe0905704dcf742dffe072ee8a875"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-124-2026",
+   "path": "local/judet/mures/2026/124",
+   "short": "HCJ Mureș nr. 124/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 124/2026 pentru modificarea Hotărârii Consiliului Județean Mureș nr.189/2023 privind desemnarea reprezentanților Consiliului Județean Mureș în consiliile de administrație ale instituțiilor de învățământ special din județul Mureș",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-124-din-24-septembrie-2026-pentru-modificarea-hotararii-consiliului-judetean-mures-nr-189-2023-privind-desemnarea-reprezentantilor-consiliului-judetean-mures-in-consiliile-de-administrat",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-124.pdf",
+     "sha256": "9acc7c5a7a9184423e89456f0f9767f56ef1fdd4f5b566cd57a31a42b3608cdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-125-2026",
+   "path": "local/judet/mures/2026/125",
+   "short": "HCJ Mureș nr. 125/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 125/2026 privind desemnarea reprezentanților Consiliului Judeţean Mureş în comisiile de evaluare a probei de interviu pentru ocuparea funcțiilor de director și director adjunct la unitățile de învăţământ special preuniversitar de stat din judeţul Mureş",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-125-din-24-septembrie-2026-privind-desemnarea-reprezentantilor-consiliului-judetean-mures-in-comisiile-de-evaluare-a-probei-de-interviu-pentru-ocuparea-functiilor-de-director-si-director",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-125.pdf",
+     "sha256": "fab0359e940f09122e2e54dc02db65da632377b8082007340888d69e598d7f88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-127-2026",
+   "path": "local/judet/mures/2026/127",
+   "short": "HCJ Mureș nr. 127/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 127/2026 privind modificarea componenței Autorității Teritoriale de Ordine Publică Mureș",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-127-din-24-septembrie-2026-privind-modificarea-componentei-autoritatii-teritoriale-de-ordine-publica-mures",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-127.pdf",
+     "sha256": "f48ba43eec5c8fb33d8599c1a9dc46d9b751393c818b817a2bf64f1eb12a886b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-128-2026",
+   "path": "local/judet/mures/2026/128",
+   "short": "HCJ Mureș nr. 128/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 128/2026 privind stabilirea unor măsuri în vederea realizării investiției ”Construire parc Fotovoltaic 2.1MW la Aeroportul Transilvania – Târgu Mureş”",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-128-din-24-septembrie-2026-privind-stabilirea-unor-masuri-in-vederea-realizarii-investitiei-construire-parc-fotovoltaic-2-1mw-la-aeroportul-transilvania-targu-mures",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/09/hot-128.pdf",
+     "sha256": "2f9a519e3a606c1656f402a3745ae0bec4c766362cef612ddc62bd6da97fc8e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-129-2026",
+   "path": "local/judet/mures/2026/129",
+   "short": "HCJ Mureș nr. 129/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 129/2026 pentru modificarea Hotărârii Consiliului Județean Mureș nr. 187 din 12 noiembrie 2024 privind organizarea comisiilor de specialitate ale Consiliului Județean Mureș, cu modificările ulterioare",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-129-din-22-octombrie-2026-pentru-modificarea-hotararii-consiliului-judetean-mures-nr-187-din-12-noiembrie-2024-privind-organizarea-comisiilor-de-specialitate-ale-consiliului-judetean-mu",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-129.pdf",
+     "sha256": "a97b9a61fa94a6f77b0ea0cb0beae5d9d31cfbc170f8767e2bacc6952d6fbb5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-130-2026",
+   "path": "local/judet/mures/2026/130",
+   "short": "HCJ Mureș nr. 130/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 130/2026 privind rectificarea bugetului general al Județului Mureș pentru anul 2026",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-130-din-22-octombrie-2026-privind-rectificarea-bugetului-general-al-judetului-mures-pentru-anul-2026",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-130.pdf",
+     "sha256": "aaec835368e8936808268254ae319add541196eec51521f189138a69212da0df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-131-2026",
+   "path": "local/judet/mures/2026/131",
+   "short": "HCJ Mureș nr. 131/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 131/2026 pentru aprobarea Raportului privind execuția bugetului general consolidat al Județului Mureș la 30 septembrie 2026",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-131-din-22-octombrie-2026-pentru-aprobarea-raportului-privind-executia-bugetului-general-consolidat-al-judetului-mures-la-30-septembrie-2026",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-131.pdf",
+     "sha256": "8bca29b267931581b85393764bd06dcbcf0eb642ce6514953314a94240f7f401"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-132-2026",
+   "path": "local/judet/mures/2026/132",
+   "short": "HCJ Mureș nr. 132/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 132/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-132.pdf",
+     "sha256": "ff01a5a24b4002863eb7d37062edc370bcbcb6ec073e53c6f3475bfc0752e8cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-134-2026",
+   "path": "local/judet/mures/2026/134",
+   "short": "HCJ Mureș nr. 134/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 134/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-134.pdf",
+     "sha256": "a50b23efd0a947b0d73d6bb64e95c253054eb9c8bab305555edc57940a08431c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-135-2026",
+   "path": "local/judet/mures/2026/135",
+   "short": "HCJ Mureș nr. 135/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 135/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-135.pdf",
+     "sha256": "d53166e91919854155b413c9d6ab386ad181fb875cc14b9705474a08784093c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-139-2026",
+   "path": "local/judet/mures/2026/139",
+   "short": "HCJ Mureș nr. 139/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 139/2026 privind aprobarea indicatorilor de performanță pentru membrii Consiliului de administrație al Regiei Autonome „Aeroportul Transilvania - Târgu Mureș”",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-139-din-22-octombrie-2026-privind-aprobarea-indicatorilor-de-performanta-pentru-membrii-consiliului-de-administratie-al-regiei-autonome-aeroportul-transilvania-targu-mures",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-139.pdf",
+     "sha256": "cc85f73249af8d9ab2643893fc452fb936a48e3caab092790416eb314cd5d897"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-140-2026",
+   "path": "local/judet/mures/2026/140",
+   "short": "HCJ Mureș nr. 140/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 140/2026 pentru stabilirea unor măsuri în vederea realizării investiției ”Energie regenerabilă pentru Județul Mureș”",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-140-din-22-octombrie-2026-pentru-stabilirea-unor-masuri-in-vederea-realizarii-investitiei-energie-regenerabila-pentru-judetul-mures",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-140.pdf",
+     "sha256": "e9d0e1b073d3035d70ad65c4511fb5e1dbdb5f0d232ec2197f0c8e7582c46213"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-141-2026",
+   "path": "local/judet/mures/2026/141",
+   "short": "HCJ Mureș nr. 141/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 141/2026 pentru modificarea Hotărârii Consiliului Județean Mureș nr.116/28.06.2024 privind reorganizarea aparatului de specialitate al Consiliului Județean Mureș, cu modificările și completările ulterioare",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-141-din-22-octombrie-2026-pentru-modificarea-hotararii-consiliului-judetean-mures-nr-116-28-06-2024-privind-reorganizarea-aparatului-de-specialitate-al-consiliului-judetean-mures-cu-mod",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-141.pdf",
+     "sha256": "e48398fa858280d4f5d26c8cbb24f7f8c9faa7a8b34ad4e51dfed08e265db5dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-142-2026",
+   "path": "local/judet/mures/2026/142",
+   "short": "HCJ Mureș nr. 142/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 142/2026 privind desemnarea reprezentanților Consiliului Județean Mureș în comisiile de concurs/examen și comisiile de soluționare a contestațiilor la concursurile/examenele organizate pentru ocuparea unor funcții din cadrul comitetului director al Institutului de Urge",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-142-din-22-octombrie-2026-privind-desemnarea-reprezentantilor-consiliului-judetean-mures-in-comisiile-de-concurs-examen-si-comisiile-de-solutionare-a-contestatiilor-la-concursurile-exame",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/10/hot-142.pdf",
+     "sha256": "d748d4b5d00cc4a0433da341d9f4a36818fcdf317ef9a6e7504baeec3c606d19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-mures-144-2026",
+   "path": "local/judet/mures/2026/144",
+   "short": "HCJ Mureș nr. 144/2026",
+   "title": "Hotărârea Consiliului Județean Mureș nr. 144/2026 pentru modificarea Hotărârii Consiliului Județean Mureș nr.187 din 12 noiembrie 2024 privind organizarea comisiilor de specialitate ale Consiliului Județean Mureș, cu modificările ulterioare",
+   "url": "https://ro.cjmures.ro/consiliul-judetean/hotarari/hotararea-nr-144-din-3-noiembrie-2026-pentru-modificarea-hotararii-consiliului-judetean-mures-nr-187-din-12-noiembrie-2024-privind-organizarea-comisiilor-de-specialitate-ale-consiliului-judetean-mure",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://ro.cjmures.ro/wp-content/uploads/2026/11/hot-144.pdf",
+     "sha256": "06079cc5ff0882fcb6fb5d459dc8774dbce2d68fcce50d47d17154a8cbbba50f"
+    }
+   ]
+  }
+ ]
+}

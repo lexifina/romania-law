@@ -1,0 +1,786 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2004",
+ "acts": [
+  {
+   "slug": "hcj-iasi-10-2004",
+   "path": "local/judet/iasi/2004/10",
+   "short": "HCJ Iași nr. 10/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 10/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-10",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-10",
+     "sha256": "65a9c618dae55ac16e98e21eca0bd8177ac418ab1fba5fcf10cba9775cf9a483"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-100-2004",
+   "path": "local/judet/iasi/2004/100",
+   "short": "HCJ Iași nr. 100/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 100/2004 pentru Adulti, care va functiona pe langa Directia de Asistenta Sociala Iasi si in coordonarea Comisiei Superioare de Expertiza Medicala",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-100",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-100",
+     "sha256": "3a864e4bb49aa55e85c2c0e18668f24606881ed642028c5d5c0a0d0dfcc19f2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-101-2004",
+   "path": "local/judet/iasi/2004/101",
+   "short": "HCJ Iași nr. 101/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 101/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-101",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-101",
+     "sha256": "335d1aeb2a4bad96a576037e46d24ce6efb6d1963832048ab7f8ef7b141ab4ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-107-2004",
+   "path": "local/judet/iasi/2004/107",
+   "short": "HCJ Iași nr. 107/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 107/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-06-22/hot%C4%83r%C3%A2rea-nr-107",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-06-22/hot%C4%83r%C3%A2rea-nr-107",
+     "sha256": "1e6148565616cdf08c90266988e31a8bcc9e307f4bb29e120782aa3ba7cc1e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-114-2004",
+   "path": "local/judet/iasi/2004/114",
+   "short": "HCJ Iași nr. 114/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 114/2004 pentru participarea Consiliului Judetean Iasi la programul Centurio al Adunarii Regiunilor Europei in perioada septembrie 2004-decembrie 2006, potrivit prog",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-114",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-114",
+     "sha256": "017a31c81f27c1c707fd89159595520cbcc8e7daf75e947bdfee82363734acfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-116-2004",
+   "path": "local/judet/iasi/2004/116",
+   "short": "HCJ Iași nr. 116/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 116/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-116",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-116",
+     "sha256": "848a2e13e8953e8eaf1ca1214593880bd3f3fda603dd7fd35ec26b883ddf482e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-118-2004",
+   "path": "local/judet/iasi/2004/118",
+   "short": "HCJ Iași nr. 118/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 118/2004 pentru Corpul Gardienilor Publici, conform anexelor 1 si 2 care fac parte integranta din prezenta hotarare. Art.2 Directia Organizare, Resurse Umane, Informa",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-118",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-118",
+     "sha256": "385c3b56da3352b4baae03b241290ebaf751e031a634461cfea987b24f7b877a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-121-2004",
+   "path": "local/judet/iasi/2004/121",
+   "short": "HCJ Iași nr. 121/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 121/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-121",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-121",
+     "sha256": "83f670bc62e7a6a29c8e50610caba78a95533d1399c4c7020e25a833b038e556"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-130-2004",
+   "path": "local/judet/iasi/2004/130",
+   "short": "HCJ Iași nr. 130/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 130/2004 pentru spitalele care isi desfasoara activitatea in imobilele transmise in proprietatea publica a judetului Iasi c",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-130",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-130",
+     "sha256": "56227fd336e7e35580e989ee0edf377e9060985a7fce05806b37fb77e1876c0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-131-2004",
+   "path": "local/judet/iasi/2004/131",
+   "short": "HCJ Iași nr. 131/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 131/2004 privind privind renuntarea la optiunea exprimata pentru coordonarea consiliilor locale Comarna si Costuleni si aproba repartizarea sa",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-131",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-08-25/hot%C4%83r%C3%A2rea-nr-131",
+     "sha256": "7b45d8b7326423eb099a36c00773b39e460d948ebabd6686eb0a279e3a2cfe82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-132-2004",
+   "path": "local/judet/iasi/2004/132",
+   "short": "HCJ Iași nr. 132/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 132/2004 pentru serviciu privat. Art.2 In perioada 1 septembrie - 1 noiembrie 2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-132",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-132",
+     "sha256": "e2dc7814c1d51eb8c85b4af4980746174be4695c437be3fcc5dd9b35c50ae767"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-134-2004",
+   "path": "local/judet/iasi/2004/134",
+   "short": "HCJ Iași nr. 134/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 134/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-134",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-134",
+     "sha256": "1285cb976f76a88a66308986cca2b40804e2ace86e1d7eebfb8a9d90f7c3c2ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-136-2004",
+   "path": "local/judet/iasi/2004/136",
+   "short": "HCJ Iași nr. 136/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 136/2004 pentru Pavilionul VI din cadrul Spital",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-136",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-136",
+     "sha256": "c9ce177397fc3674082ddcd2077ba59a53dd91191788a1c2913e548b742ccfa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-143-2004",
+   "path": "local/judet/iasi/2004/143",
+   "short": "HCJ Iași nr. 143/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 143/2004 pentru \"Instalatie de gaze naturale, instalare si amenajarare centrale termice la Centrul de Zi - Alexandru ce Bun, str",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-143",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-143",
+     "sha256": "63862ea8b781d7c4e03606718205f67b0ade5635886b64f39c2c3ccbc036d6e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-144-2004",
+   "path": "local/judet/iasi/2004/144",
+   "short": "HCJ Iași nr. 144/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 144/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-144",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-144",
+     "sha256": "1597111966182ca7ee895a7a9c987f3d16a37cca27380c2b6c882fadf34e8c65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-146-2004",
+   "path": "local/judet/iasi/2004/146",
+   "short": "HCJ Iași nr. 146/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 146/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-146",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-146",
+     "sha256": "bf182d6963442fc100bf84297e3381ef2520fca2c66689d1c1606cc906247aa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-151-2004",
+   "path": "local/judet/iasi/2004/151",
+   "short": "HCJ Iași nr. 151/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 151/2004 pentru concesionarea, prin licitatie publica deschisa, a serviciilor de producere, furnizare si distributie a ag",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-151",
+   "versions": [
+    {
+     "from": "2004-09-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-09-17/hot%C4%83r%C3%A2rea-nr-151",
+     "sha256": "ad19d4081022a64a737f7d1214662aff2289c52a31863220cd2d029c36c8b39d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-162-2004",
+   "path": "local/judet/iasi/2004/162",
+   "short": "HCJ Iași nr. 162/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 162/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-162",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-162",
+     "sha256": "1d55dd8e25cdd78e4ff3178ce4a48d47cf66a8d04a440bc60dbd0febfb6e4290"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-165-2004",
+   "path": "local/judet/iasi/2004/165",
+   "short": "HCJ Iași nr. 165/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 165/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-165",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-165",
+     "sha256": "5de1b6af69d2b3a83ce0b26ee6d39dd3d58447f95b54727cf8d0f926d237cab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-169-2004",
+   "path": "local/judet/iasi/2004/169",
+   "short": "HCJ Iași nr. 169/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 169/2004 pentru Clubul Sportiv Iasi. Art.2 Aproba alocarea din bugetul propriu al Consiliului Ju",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-169",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-169",
+     "sha256": "037438aebe05844457d5eef4b5300f152970b656615f6dc4adf588126efe2b2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-175-2004",
+   "path": "local/judet/iasi/2004/175",
+   "short": "HCJ Iași nr. 175/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 175/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-175",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-175",
+     "sha256": "dfa599ec35a92d1b8e502df09f719fa21546f3ea2b3d26a158fc5e482694abdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-176-2004",
+   "path": "local/judet/iasi/2004/176",
+   "short": "HCJ Iași nr. 176/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 176/2004 pentru anul 2004, al SC Lucrari Drumuri si Poduri SA Iasi. Tags: hotărâre hotărâri hotărâri 2004 Creat de icc la Joi, 23/05/2013 - 10:44 U",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-176",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-176",
+     "sha256": "19604d6164b972699737261d28f7a78ee3919c14d555df6e933212b67da841f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-183-2004",
+   "path": "local/judet/iasi/2004/183",
+   "short": "HCJ Iași nr. 183/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 183/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-183",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-183",
+     "sha256": "77f8edf44dbf1c42ebdd37ff8bc171b13984669f230e12cf82b5df099e2b7cb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-188-2004",
+   "path": "local/judet/iasi/2004/188",
+   "short": "HCJ Iași nr. 188/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 188/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-188",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-188",
+     "sha256": "14cbc02702d6c56fcf57688548992babd79c36e122b926d843560af6056a6f4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-189-2004",
+   "path": "local/judet/iasi/2004/189",
+   "short": "HCJ Iași nr. 189/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 189/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-189",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-189",
+     "sha256": "95f94fc14ed9a89b849703a5a6c31b5351fd8ef5c7388615d47305c638a61a21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-19-2004",
+   "path": "local/judet/iasi/2004/19",
+   "short": "HCJ Iași nr. 19/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 19/2004 pentru Corpul Gardienilor Publici Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Organizare, Resur",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-19",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-19",
+     "sha256": "0197d3420b2ad86c79ea6b077b4d7ba092fd02f9953a8ad1cb5ab6b43b719aa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-191-2004",
+   "path": "local/judet/iasi/2004/191",
+   "short": "HCJ Iași nr. 191/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 191/2004 pentru un copil sau persoana majora in suma de 30.501.517 lei. Art.2 Consiliile locale vor contribui in mod obligatoriu cu cel putin 25% din costul anual pentru fiecare copil",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-191",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-191",
+     "sha256": "9a3f84cc54bcfe9bd537a1d959ae6d262d379aef57fcae1ee08a7b21b8b84f86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-192-2004",
+   "path": "local/judet/iasi/2004/192",
+   "short": "HCJ Iași nr. 192/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 192/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-192",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-192",
+     "sha256": "a096409dbb912581f61b53b6351ae5cb76b0c3b8b58e9f243dd9aeea2de0405d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-193-2004",
+   "path": "local/judet/iasi/2004/193",
+   "short": "HCJ Iași nr. 193/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 193/2004 privind infiintarea Directiei de Asistenta Sociala Iasi. Art.9 Anexele 1, 2 si 3 fac parte integranta din prezenta hotarare. Tags: hotărâre hotărâri hotărâri 2004 Creat de icc la Joi, 23/05/2013 - 11:19 Ultima actualizare: 23/05/2013 - 11:19",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-193",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-193",
+     "sha256": "a2c5987230dc4c6d1a4aff81d39b8fedc46a0211d9693f8aaeae8e0414dd741b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-194-2004",
+   "path": "local/judet/iasi/2004/194",
+   "short": "HCJ Iași nr. 194/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 194/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-194",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-194",
+     "sha256": "8457bd4692f1ec80de4f8c2a048209f8b4ca54b84fb40d0afbaf9f961e2858d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-195-2004",
+   "path": "local/judet/iasi/2004/195",
+   "short": "HCJ Iași nr. 195/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 195/2004 pentru Directia Judeteana de Evidenta a Persoanelor potrivit anexelor 2 si 3, care fac parte integranta din prezenta hotarare. Art.4 Pana la data de 29 decembrie 2004 o comisie dispusa prin Dispozitia Consiliului Judetean Iasi va proceda la primirea - predarea patrimoniului de orice fel a actualelor entitati de evidenta informatizata a persoanei detinute de Ministerul Administratiei si Internelor",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-195",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-195",
+     "sha256": "31e18dfc7890df7c0cff540da2f3f1fbb99a04ef60be99819f4165e8b0ee41f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-196-2004",
+   "path": "local/judet/iasi/2004/196",
+   "short": "HCJ Iași nr. 196/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 196/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-196",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-196",
+     "sha256": "65e44d5d9ee158b573b4b63244eb184ce59e7c41d89ea9c9bd7252606e31dd0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-197-2004",
+   "path": "local/judet/iasi/2004/197",
+   "short": "HCJ Iași nr. 197/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 197/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-197",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-197",
+     "sha256": "8a27071797ed0bd96e29737de87e22c8848f151871be9229139181a684317a60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-198-2004",
+   "path": "local/judet/iasi/2004/198",
+   "short": "HCJ Iași nr. 198/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 198/2004 pentru Asociatia \"Spune-Salveaza Oamenii Saraci\". Art.2 Directia Economica va duce la",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-198",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-198",
+     "sha256": "2e41240a509649e14c3c03ea1b4d5ae55001064d5f8cef1594b723b54b292168"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-199-2004",
+   "path": "local/judet/iasi/2004/199",
+   "short": "HCJ Iași nr. 199/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 199/2004 pentru anul 2005, catre Adunarea Regiunilor Europene Viticole, in valoare de 2000 Euro, suma ce se va achita din contributia egala a urmatoarelo",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-199",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-199",
+     "sha256": "65536b78a5a45872c5283429672293e6eee14f7d2b6d51776937ab794d8caf9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-200-2004",
+   "path": "local/judet/iasi/2004/200",
+   "short": "HCJ Iași nr. 200/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 200/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-200",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-12-21/hot%C4%83r%C3%A2rea-nr-200",
+     "sha256": "9c4acc6fdb6f970b5b7e0eef384e226648eec7d5eb7b3719a29daeb3b58043c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-26-2004",
+   "path": "local/judet/iasi/2004/26",
+   "short": "HCJ Iași nr. 26/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 26/2004 pentru proiectul Crearea unui centru de urgenta pentru copiii aflati in situatii de risc, suma reprezentand cofinantar",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-26",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-26",
+     "sha256": "33b63c91d18c2b37f83ec91a4cb25d48f6fd844dccebaf0ef964e2fdcb523035"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-36-2004",
+   "path": "local/judet/iasi/2004/36",
+   "short": "HCJ Iași nr. 36/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 36/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-36",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-36",
+     "sha256": "266884bbfd9a08b746b8a09a90e08a59b4381ba78653be50b2a51314eb755a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-38-2004",
+   "path": "local/judet/iasi/2004/38",
+   "short": "HCJ Iași nr. 38/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 38/2004 privind demisia din functia de consilier judetean a d-lui",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-38",
+   "versions": [
+    {
+     "from": "2004-04-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-38",
+     "sha256": "e1780839c0e9ba5e179ca5807a33e8035d0b0e6dafec66dc3fb627c616d01805"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-5-2004",
+   "path": "local/judet/iasi/2004/5",
+   "short": "HCJ Iași nr. 5/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 5/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-5",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-5",
+     "sha256": "3f24210ac79827cfc8832303e0824c70132b4ab5f0446646b98c678ff0adee9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-50-2004",
+   "path": "local/judet/iasi/2004/50",
+   "short": "HCJ Iași nr. 50/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 50/2004 pentru anul 2003 ale RAJAC Iasi. Tags: hotărâre hotărâri hotărâri 2004 Creat de icc la Mie, 22/05/2013 - 16:04 Ultima actualizare: 22/05/2013 - 16:04",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-50",
+   "versions": [
+    {
+     "from": "2004-04-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-50",
+     "sha256": "0833d151d108abb6febdfdab25dd575ded893c2b8c770978884eda1584a29e22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-53-2004",
+   "path": "local/judet/iasi/2004/53",
+   "short": "HCJ Iași nr. 53/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 53/2004 pentru SPAPP Iasi intocmit conform Legii 53/2003, cuprins in anexa 2. Art.3 Aproba organigrama si statul de functii conform anexelor 3 si 4. Art.4 DJPP Iasi isi va ordona cheltuielile si functie de art.1 alin.4 din OG 80/2003 pentru stabilirea unor normative de cheltuieli la activitatilr specifice autoritatilor administratiei publice. Art.5 Directia Organizare, Resurse Umane si Informatizare, Dire",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-53",
+   "versions": [
+    {
+     "from": "2004-04-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-53",
+     "sha256": "5fc79d93ba3839f37dd137abb9eaa28b455bb996c8fa678a45d0c4bf1c521764"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-55-2004",
+   "path": "local/judet/iasi/2004/55",
+   "short": "HCJ Iași nr. 55/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 55/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-55",
+   "versions": [
+    {
+     "from": "2004-04-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-55",
+     "sha256": "3c60e366656e558873b5e60b89f50840329107ea975c45ef17c3aee00f633aca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-62-2004",
+   "path": "local/judet/iasi/2004/62",
+   "short": "HCJ Iași nr. 62/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 62/2004 pentru realizarea Centrului Expozitional - Moldova - Iasi si, in consecinta, aproba modificarea amplasamentului din te",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-62",
+   "versions": [
+    {
+     "from": "2004-04-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-04-22/hot%C4%83r%C3%A2rea-nr-62",
+     "sha256": "a74ff05922f27ebb4e3b3eade99cc008b0a32a0bfedd6fdb3412c95878371fbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-7-2004",
+   "path": "local/judet/iasi/2004/7",
+   "short": "HCJ Iași nr. 7/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 7/2004 pentru agentul de privatizare, si a evaluarii terenurilor enumerate in anexa. Art.3 In conditiile nerespectarii masurilor dispuse de",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-7",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-03-04/hot%C4%83r%C3%A2rea-nr-7",
+     "sha256": "a3777cf010fd8c8638d156b47de0a6ce78068c6bf8195e38fb86e85fd87f3031"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-71-2004",
+   "path": "local/judet/iasi/2004/71",
+   "short": "HCJ Iași nr. 71/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 71/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-71",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-71",
+     "sha256": "fae643f85e05cac3d5d57d2aaefe773469aab25ddc21cfaac56479d7f594c222"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-77-2004",
+   "path": "local/judet/iasi/2004/77",
+   "short": "HCJ Iași nr. 77/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 77/2004 pentru persoanele aflate in nevoie sau suferinta- cu suma de 315.000.000 lei. Art.2 Directia Economica, Directia de Asistenta Sociala vor duce la indeplinire prevederile prezentei hotarari. Tags: hotărâre hotărâri hotărâri 2004 Creat de icc la Mie, 22/05/2013 - 16:42 Ultima actualizare: 22/05/2013 - 16:42",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-77",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-77",
+     "sha256": "5a5ecccd34d008147d9bbe02bbbc666b4fc7cd5a8b7ba874206b06d45b357b9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-78-2004",
+   "path": "local/judet/iasi/2004/78",
+   "short": "HCJ Iași nr. 78/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 78/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-78",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-78",
+     "sha256": "42173a42f8d7c0b80e0963ab2089f35ad15a843566fdac985be36639d2a7e6df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-82-2004",
+   "path": "local/judet/iasi/2004/82",
+   "short": "HCJ Iași nr. 82/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 82/2004 pentru activitatile Centrului Judetean de Conservarea si Promovarea Culturii Traditionale Iasi conform anexei 1, parte integranta din prezenta Art.2 Biroul Relatii cu publicu",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-82",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-82",
+     "sha256": "d7d77810198b81657a21f64f3d8d3ceed677509c26cb87f5bdec0cea8912a55c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-83-2004",
+   "path": "local/judet/iasi/2004/83",
+   "short": "HCJ Iași nr. 83/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 83/2004",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-83",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-83",
+     "sha256": "0303ec7ad1d7cc32b3f2f16c9b7c8aacb10468112d1733386a642d8565450332"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-90-2004",
+   "path": "local/judet/iasi/2004/90",
+   "short": "HCJ Iași nr. 90/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 90/2004 privind deplasarea la cea de-a XII-a Sesiune Plenara si la cel de-al XVII-lea Consiliu International ale AREV, care s-a desfasura",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-90",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-90",
+     "sha256": "50d1b117ea693b093a36b06912046464165d468bfb750dfa674b9017926130ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-94-2004",
+   "path": "local/judet/iasi/2004/94",
+   "short": "HCJ Iași nr. 94/2004",
+   "title": "Hotărârea Consiliului Județean Iași nr. 94/2004 pentru sporuri si alte drepturi care se acorda in raport cu salariul de baza. - spor de vechime - 2.045.400 lei, reprezentand 20% din salariul de baza. TOTAL DREPTURI - 12.272.400 lei. Art.2 Directia Organizare, Resurse Umane, Informatizare si Directia de Asistenta Sociala Iasi vor aduce la indeplinire prevederile prezentei hotarari. Tags: hotărâre hotărâri hotărâri 2004 Creat de icc la Mie, 22/05",
+   "url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-94",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2004/2004-05-27/hot%C4%83r%C3%A2rea-nr-94",
+     "sha256": "5c8713d3179a0acf104bc42c6e763a93aa60fdb1f2d340c58fa12cdf30d4ae8e"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,141 @@
  "shard": "local/judet/prahova/2024",
  "acts": [
   {
+   "slug": "hcj-prahova-256-2024",
+   "path": "local/judet/prahova/2024/256",
+   "short": "HCJ Prahova nr. 256/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 256/2024 pentru modificarea Hotărârii Consiliului Județean Prahova nr. 236/2024 privind organizarea comisiilor de specialitate ale Consiliului județean Prahova, pentru mandatul 2024-2028",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-256-din-data-10-12-2024.pdf",
+     "sha256": "e752a25b6892b274cc8a89cd15999c7a7255cf49ef52423fc1f0b7db3fced42a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-257-2024",
+   "path": "local/judet/prahova/2024/257",
+   "short": "HCJ Prahova nr. 257/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 257/2024 privind aprobarea Rețelei școlare a unităților de învățământ preuniversitar de stat pentru învățământul special din județul Prahova, în anul școlar 2025-2026",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-257-din-data-10-12-2024.pdf",
+     "sha256": "49e4c29734a8932716923a9449312db50c7e0a5d7873e4303b60802e3290ac84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-258-2024",
+   "path": "local/judet/prahova/2024/258",
+   "short": "HCJ Prahova nr. 258/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 258/2024 privind modificarea Regulamentului de organizare și funcționare pentru Direcţia Județeană de Pază Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-258-din-data-10-12-2024.pdf",
+     "sha256": "afddb74f91e8622fa3b6ab067307528f3b23921aabb6e663f7ce14c8969b3b10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-259-2024",
+   "path": "local/judet/prahova/2024/259",
+   "short": "HCJ Prahova nr. 259/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 259/2024 privind aprobarea Studiului de fezabilitate revizuit, a indicatorilor tehnicoeconomici revizuiți și a devizului general revizuit, pentru obiectivul de investiție ”ACCES RUTIER COMPLEMENTAR DESCĂRCARE A3 - COMARNIC”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-259-din-data-10-12-2024.pdf",
+     "sha256": "52fb80012a2f52d54ab7eb8bf45528fa50c26e468cf48974fd1136c8cbda06e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-260-2024",
+   "path": "local/judet/prahova/2024/260",
+   "short": "HCJ Prahova nr. 260/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 260/2024 privind alegerea vicepreședintelui Consiliului Județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-260-din-data-10-12-2024.pdf",
+     "sha256": "83050ed6a140047b8d84d985add6ae9e476044f3a95d65d7f0614fc5c4dd9c3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-261-2024",
+   "path": "local/judet/prahova/2024/261",
+   "short": "HCJ Prahova nr. 261/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 261/2024 privind alegerea vicepreședintelui Consiliului Județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-261-din-data-10-12-2024.pdf",
+     "sha256": "bb6e83898d30868a742a9970a4605b53e0fae25f11be2f939f0d2254102c260c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-263-2024",
+   "path": "local/judet/prahova/2024/263",
+   "short": "HCJ Prahova nr. 263/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 263/2024 privind aprobarea asocierii judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2024 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-263-din-data-18-12-2024.pdf",
+     "sha256": "6c3e932fa614d57ab9d36a9c80d4da51687d1446f68197837f461ed81b829165"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-265-2024",
+   "path": "local/judet/prahova/2024/265",
+   "short": "HCJ Prahova nr. 265/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 265/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-265-din-data-23-12-2024.pdf",
+     "sha256": "87fb55820db0dd5627727b54bc93324af3e9b06444e1234b1445591fccc69362"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-266-2024",
+   "path": "local/judet/prahova/2024/266",
+   "short": "HCJ Prahova nr. 266/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 266/2024 privind aprobarea execuţiei bugetului propriu al judeţului precum şi a bugetelor instituţiilor de sub autoritatea Consiliului Judeţean Prahova la 30 noiembrie 2024",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-266-din-data-23-12-2024.pdf",
+     "sha256": "3390ca55eacd847ce3ff997ead618b3c1b3a0a375173c964588bd2cc47babaff"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-268-2024",
    "path": "local/judet/prahova/2024/268",
    "short": "HCJ Prahova nr. 268/2024",
@@ -14,6 +149,246 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-268-din-data-23-12-2024.pdf",
      "sha256": "b618f15cf2318c2eb76caaea6f0f7d54288512a7d5699621817819299c23a1ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-270-2024",
+   "path": "local/judet/prahova/2024/270",
+   "short": "HCJ Prahova nr. 270/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 270/2024 privind completarea inventarului bunurilor care aparțin domeniului privat al Judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-270-din-data-23-12-2024.pdf",
+     "sha256": "f6e43ec0cebf1159e1b37a90bfd25d799488c742d2bd0f38e751619ef909a817"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-271-2024",
+   "path": "local/judet/prahova/2024/271",
+   "short": "HCJ Prahova nr. 271/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 271/2024 privind prelungirea termenelor contractelor de dare în folosinţă gratuită și modificarea suprafețelor unor spaţii atribuite în folosință gratuită în imobilele proprietate publică a judeţului Prahova, situate în municipiul Ploieşti, B-dul Republicii nr. 2 – 4 și",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-271-din-data-23-12-2024.pdf",
+     "sha256": "e67391f787d01220060a8661c6f899279e4257fd7f339babc84d4c0db473239c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-272-2024",
+   "path": "local/judet/prahova/2024/272",
+   "short": "HCJ Prahova nr. 272/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 272/2024 privind prelungirea termenelor contractelor de închiriere a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-272-din-data-23-12-2024.pdf",
+     "sha256": "cf44b849f5c0e6a3e9be8ad9177f64c8fa44053a782b780a9d62cac8dae771e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-273-2024",
+   "path": "local/judet/prahova/2024/273",
+   "short": "HCJ Prahova nr. 273/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 273/2024 privind prelungirea termenelor contractelor de dare în folosinţă gratuită a unor spaţii în imobilul proprietate privată a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-273-din-data-23-12-2024.pdf",
+     "sha256": "cb439e131ff2d0583d50b79b67290a86ed3371c06927038bef4c97d7d26e29a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-274-2024",
+   "path": "local/judet/prahova/2024/274",
+   "short": "HCJ Prahova nr. 274/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 274/2024 privind prelungirea termenelor contractelor de dare în folosinţă gratuită a unor spaţii în imobilul Palatul Culturii proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-274-din-data-23-12-2024.pdf",
+     "sha256": "4b3af638b49de1ee23a2e1ebbda9fb28a2af010e4141d47ddf3452937c95d272"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-275-2024",
+   "path": "local/judet/prahova/2024/275",
+   "short": "HCJ Prahova nr. 275/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 275/2024 privind achiziționarea, în condițiile legii, pentru anul 2025, a unor servicii juridice de consultanță, asistență și reprezentare pentru Județul Prahova și",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-275-din-data-23-12-2024.pdf",
+     "sha256": "b1e59dd318ce2f273b50c6adad19418b492a07cf87d5df72760e0991bfbd1758"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-276-2024",
+   "path": "local/judet/prahova/2024/276",
+   "short": "HCJ Prahova nr. 276/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 276/2024 privind modificarea și completarea Regulamentului de organizare și funcționare a Comitetului pentru accelerarea procesului de dezinstituționalizare și de prevenire a instituționalizării persoanelor adulte cu dizabilități, constituit la nivelul județului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-276-din-data-23-12-2024.pdf",
+     "sha256": "8878a70f2210ecaba2cf09b707f11fde3b7df82d4d52d8fe1aa2fb7fd89fcaca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-277-2024",
+   "path": "local/judet/prahova/2024/277",
+   "short": "HCJ Prahova nr. 277/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 277/2024 privind modificarea și completarea regulamentului de organizare şi funcţionare al serviciului social Centrul de zi pentru persoane adulte cu dizabilități “APOLLO” din cadrul Complexului de Servicii Comunitare Călinești, instituție fără personalitate juridică a D",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-277-din-data-23-12-2024.pdf",
+     "sha256": "56b228f14fc13574bd6077c4ae4b396750789cebdf51400bdd0472b38128ee5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-278-2024",
+   "path": "local/judet/prahova/2024/278",
+   "short": "HCJ Prahova nr. 278/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 278/2024 privind modificarea și completarea regulamentului de organizare şi funcţionare al serviciului social Centrul de zi pentru persoane adulte cu dizabilități “DIANA” din cadrul Complexului de Servicii Comunitare Călinești, instituție fără personalitate juridică a Di",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-278-din-data-23-12-2024.pdf",
+     "sha256": "6b63cc238526fa3f2d2765bb25723236019d9cf34c2388dda6c0da05aa1e4535"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-279-2024",
+   "path": "local/judet/prahova/2024/279",
+   "short": "HCJ Prahova nr. 279/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 279/2024 privind modificarea și completarea regulamentului de organizare şi funcţionare al serviciului social Locuință Maxim Protejată nr. 1 “CASA SOARELUI” din cadrul Complexului de Servicii Comunitare Călinești, instituție fără personalitate juridică a Direcţiei Genera",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-279-din-data-23-12-2024.pdf",
+     "sha256": "cf827e5ccfa8546b762f567ac1b916aa97e3a984811125832e4b71fe5e121140"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-280-2024",
+   "path": "local/judet/prahova/2024/280",
+   "short": "HCJ Prahova nr. 280/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 280/2024 privind modificarea și completarea regulamentului de organizare şi funcţionare al serviciului social Locuință Maxim Protejată nr. 2 “CASA MĂRII” din cadrul Complexului de Servicii Comunitare Călinești, instituție fără personalitate juridică a Direcţiei Generale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-280-din-data-23-12-2024.pdf",
+     "sha256": "d1ce93440468f452efa855ad4f87532aaaacbdd544765a3c0b36f25d1ac0754d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-281-2024",
+   "path": "local/judet/prahova/2024/281",
+   "short": "HCJ Prahova nr. 281/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 281/2024 privind modificarea și completarea regulamentului de organizare şi funcţionare al serviciului social Locuință Maxim Protejată nr. 3 “CASA TEI” din cadrul Complexului de Servicii Comunitare Călinești, instituție fără personalitate juridică a Direcţiei Generale de",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-281-din-data-23-12-2024.pdf",
+     "sha256": "461ae9a44c709d93ab9ae9b31be7d88409892d883abff7c93bf3ba1a2e953e5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-282-2024",
+   "path": "local/judet/prahova/2024/282",
+   "short": "HCJ Prahova nr. 282/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 282/2024 privind modificarea și completarea regulamentului de organizare şi funcţionare al serviciului social Locuință Maxim Protejată nr. 4 “CASA GENȚIANA” din cadrul Complexului de Servicii Comunitare Călinești, instituție fără personalitate juridică a Direcţiei Genera",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-282-din-data-23-12-2024.pdf",
+     "sha256": "e6f9e9fa1d0fb61d7ca8f29adceff493ee2f46bc68eddb7502ef3dc015bc9bca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-283-2024",
+   "path": "local/judet/prahova/2024/283",
+   "short": "HCJ Prahova nr. 283/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 283/2024 privind modificarea și completarea regulamentului de organizare şi funcţionare al serviciului social Locuință Maxim Protejată nr. 5 “CASA BUSUIOC” din cadrul Complexului de Servicii Comunitare Călinești, instituție fără personalitate juridică a Direcţiei General",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-283-din-data-23-12-2024.pdf",
+     "sha256": "1b4fb422fff54962086e350e8473961be5722c3e351b8b13b95028cd63edb1b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-284-2024",
+   "path": "local/judet/prahova/2024/284",
+   "short": "HCJ Prahova nr. 284/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 284/2024 privind modificarea Hotărârii Consiliului Județean Prahova nr.383/20.12.2023 privind aprobarea principalilor indicatori tehnico-economici, a devizului general actualizat și a cheltuielilor finanțate de la bugetul local pentru realizarea obiectivului de investiții “VARIANTĂ OCOLITOARE MIZIL”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-284-din-data-23-12-2024.pdf",
+     "sha256": "9690edb8fd5a5540d44b1fcd6da96bccceb17510fdcb176db60bbb58640201a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-285-2024",
+   "path": "local/judet/prahova/2024/285",
+   "short": "HCJ Prahova nr. 285/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 285/2024 privind aprobarea Planului de investiții pe anul 2025 aferent activelor date în administrare/concesiune pentru Sistemul de Management Integrat al Deșeurilor din județul Prahova din Fondul de întreținere, înlocuire și dezvoltare",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/12/Hotararea-nr.-285-din-data-23-12-2024.pdf",
+     "sha256": "db8a1a7127e81d1d43c7ac294127e0f7d89728a330996cc6bdf18bf76592a7d4"
     }
    ]
   }

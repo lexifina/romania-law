@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/ilfov/2026",
+ "acts": [
+  {
+   "slug": "hcj-ilfov-144-2026",
+   "path": "local/judet/ilfov/2026/144",
+   "short": "HCJ Ilfov nr. 144/2026",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 144/2026",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/01.10.2026-Expropiere_H144-2026/HCJILFOV-nr.-144-30.09.2026-decizie-exp-dr-leg-DN1A-Buftea-DJ101-anonimizata.pdf",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/01.10.2026-Expropiere_H144-2026/HCJILFOV-nr.-144-30.09.2026-decizie-exp-dr-leg-DN1A-Buftea-DJ101-anonimizata.pdf",
+     "sha256": "f338c400ced958fd3a7c615d13bc8691520ccf05f77b10424905d1592fd02ef7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ilfov-146-2026",
+   "path": "local/judet/ilfov/2026/146",
+   "short": "HCJ Ilfov nr. 146/2026",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 146/2026",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/01.10.2026-Expropiere_H146-2026/HCJILFOV-nr.-146-30.09.2026-declansare-exp.-Buftea-Tamasi-anonimizata.pdf",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/01.10.2026-Expropiere_H146-2026/HCJILFOV-nr.-146-30.09.2026-declansare-exp.-Buftea-Tamasi-anonimizata.pdf",
+     "sha256": "bc69f26c4f92bb48070e394b4bfd9ca5cd54a36a7dae2dcfefd5494f3cf81f84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-ilfov-2-2026",
+   "path": "local/judet/ilfov/2026/2",
+   "short": "HCJ Ilfov nr. 2/2026",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 2/2026",
+   "url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/15.10.2026-Finantari_nerambursabile/2.-HCJ110-metodologie.pdf",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/15.10.2026-Finantari_nerambursabile/2.-HCJ110-metodologie.pdf",
+     "sha256": "579d85f048cdd89f04f455f43b0f8c30139322533cb38b83d8ed67d4ea6fcfa8"
+    }
+   ]
+  }
+ ]
+}

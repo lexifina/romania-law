@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/judet/neamt/2022",
+ "acts": [
+  {
+   "slug": "hcj-neamt-128-2022",
+   "path": "local/judet/neamt/2022/128",
+   "short": "HCJ Neamț nr. 128/2022",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 128/2022 privind aprobarea Statutului Județului Neamț",
+   "url": "https://cjneamt.ro/ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2022/05/Consiliul-Judetean-Neamt-HCJ-nr.-128-din-09-mai-2022-1.pdf",
+     "sha256": "e2664ed1ec2ea9e3c2a2760e8d349b9e752174cb4dc8504d0548b9bd60755b4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-170-2022",
+   "path": "local/judet/neamt/2022/170",
+   "short": "HCJ Neamț nr. 170/2022",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 170/2022 privind declanșarea procedurii de expropriere a unor terenuri necesare realizării unei investiții de interes public județean",
+   "url": "https://cjneamt.ro/ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2022/07/Consiliul-Judetean-Neamt-HCJ-nr.-170-din-14-iulie-2022-scrol.pdf",
+     "sha256": "30f9a80236f7f93d25ad207dfcdd106ec15bffda7fc8064a10ce3fe1a6f42d68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-303-2022",
+   "path": "local/judet/neamt/2022/303",
+   "short": "HCJ Neamț nr. 303/2022",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 303/2022 pentru modificarea Hotărârii Consiliului Județean Neamț nr.170/14.07.2022 privind declanșarea procedurii de expropriere a unor terenuri necesare realizării unei investiții de interes public județean",
+   "url": "https://cjneamt.ro/ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2022/12/Consiliul-Judetean-Neamt-HCJ-nr.-303-din-21-decembrie-2022.pdf",
+     "sha256": "6e15a943749cde625d716c6fa9f492ed96311d1dd4619e9ff2cec589ec2474aa"
+    }
+   ]
+  }
+ ]
+}

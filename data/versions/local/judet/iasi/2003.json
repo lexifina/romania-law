@@ -3,6 +3,231 @@
  "shard": "local/judet/iasi/2003",
  "acts": [
   {
+   "slug": "hcj-iasi-101-2003",
+   "path": "local/judet/iasi/2003/101",
+   "short": "HCJ Iași nr. 101/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 101/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-101",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-101",
+     "sha256": "a0cc68ce44edcf71e66496b528d0de7d63b7fff8c1b6f8a58d616cf4148cd7b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-103-2003",
+   "path": "local/judet/iasi/2003/103",
+   "short": "HCJ Iași nr. 103/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 103/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-103",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-103",
+     "sha256": "ef4da40fe1f545c58ac0a2f92e2e1bd49a9fd1a3922c1f9beb5daccc3910750c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-104-2003",
+   "path": "local/judet/iasi/2003/104",
+   "short": "HCJ Iași nr. 104/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 104/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-104",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-104",
+     "sha256": "0bd8b6e4a22627f8d4b2b5aba3e86d28b0e082c0eab0580f392ece9dac4f5771"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-105-2003",
+   "path": "local/judet/iasi/2003/105",
+   "short": "HCJ Iași nr. 105/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 105/2003 pentru anul 2004, conform Anexei nr.1. Art.2 (1) Majorarea anuala prevazuta la art.72 din Ordonanta Guvernului nr. 36/2002, republicata, cu modificarile si compl",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-105",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-105",
+     "sha256": "220f9db564808fc13196a7cf9a8344a3fb38940d82c2a20435a815a67f572239"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-106-2003",
+   "path": "local/judet/iasi/2003/106",
+   "short": "HCJ Iași nr. 106/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 106/2003 pentru aparatul propriu al Consiliului Judetean Iasi, conform Anexei 1. Art.2 Ap",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-106",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-106",
+     "sha256": "6e1eb15e9e171d67f914090c4e8f726966300a266fb691da6554415476491752"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-107-2003",
+   "path": "local/judet/iasi/2003/107",
+   "short": "HCJ Iași nr. 107/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 107/2003 pentru Directia Generala pentru Protectia Drepturilor Copilului Iasi - Serviciul P",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-107",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-107",
+     "sha256": "bf5621f495053e9af13b68fb0ab9bbf7bf9dd13d9b203fda636f7b94193849a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-108-2003",
+   "path": "local/judet/iasi/2003/108",
+   "short": "HCJ Iași nr. 108/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 108/2003 pentru Serviciul Public de Administrare a Drumurilor Judetene Iasi - Serviciul Pub",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-108",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-108",
+     "sha256": "1e7ed366d8521511826aae52434d4ffe7703d6f966b32a21f8bb8ae702a024b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-109-2003",
+   "path": "local/judet/iasi/2003/109",
+   "short": "HCJ Iași nr. 109/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 109/2003 pentru Directia Generala pentru Directia de Asistenta Sociala - Serviciul Public a",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-109",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-109",
+     "sha256": "027beae38f9a8f7b12b39f1a47b09cac8ccb8b107176fee094caa117efa15cea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-110-2003",
+   "path": "local/judet/iasi/2003/110",
+   "short": "HCJ Iași nr. 110/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 110/2003 pentru Oficiul Judetean de Consultanta Agricola Iasi - Serviciul Public al Consili",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-110",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-110",
+     "sha256": "bbd230708cdc76e4b22e8eee9a8e13aa176a20b69dd86a18d85116f2e842c1b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-111-2003",
+   "path": "local/judet/iasi/2003/111",
+   "short": "HCJ Iași nr. 111/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 111/2003 pentru Biblioteca \" Gh. Asachi\" Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Organizare, Resur",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-111",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-111",
+     "sha256": "12cf4709334ace3daff5697e25913e84da3a35c74d47c1244186b1c277bb9aed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-112-2003",
+   "path": "local/judet/iasi/2003/112",
+   "short": "HCJ Iași nr. 112/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 112/2003 pentru Muzeul Literaturii Romane Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Organizare, Resu",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-112",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-112",
+     "sha256": "0d438f173326125348482f23b1fd085ebb7956a9ca70169b12f1681a295af3f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-114-2003",
+   "path": "local/judet/iasi/2003/114",
+   "short": "HCJ Iași nr. 114/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 114/2003 pentru Filarmonica \"Moldova\" Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Organizare, Resurse",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-114",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-114",
+     "sha256": "7dd1aad4e829fc1e801d1736982b2dbc1d30204c2d47e1ffc95ec3b8d71ca9ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-119-2003",
+   "path": "local/judet/iasi/2003/119",
+   "short": "HCJ Iași nr. 119/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 119/2003 pentru Corpul Gardienilor Publici, conform anexelor 1 si 2 care fac parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Organizare, Resurse",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-119",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-119",
+     "sha256": "f5190a305facb927741d6d0cb12aca54ef7f63040ddc815c39cb03a1f5fbbc96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-127-2003",
+   "path": "local/judet/iasi/2003/127",
+   "short": "HCJ Iași nr. 127/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 127/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-127",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-127",
+     "sha256": "1e6ab5e3217427b336a8f6bbabca9fa33e5549b071f72b563f5268137193f5ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-138-2003",
+   "path": "local/judet/iasi/2003/138",
+   "short": "HCJ Iași nr. 138/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 138/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-09-03/hot%C4%83r%C3%A2rea-nr-138",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-09-03/hot%C4%83r%C3%A2rea-nr-138",
+     "sha256": "c2280d709b490931bbfb029d362bec5e337bd2fae241f2724bda72c9df1ceb52"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-141-2003",
    "path": "local/judet/iasi/2003/141",
    "short": "HCJ Iași nr. 141/2003",
@@ -18,6 +243,621 @@
    ]
   },
   {
+   "slug": "hcj-iasi-142-2003",
+   "path": "local/judet/iasi/2003/142",
+   "short": "HCJ Iași nr. 142/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 142/2003 pentru localitatile prevazute in Anexa 1, parte integranta din prezenta hotarare, de catre RAJAC Iasi. Art.2 RAJAC Iasi va duce la indeplinire prevederile",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-09-03/hot%C4%83r%C3%A2rea-nr-142",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-09-03/hot%C4%83r%C3%A2rea-nr-142",
+     "sha256": "0a4837848962fcbf4946090f6c18467acd1f1c159738bde2e0aa57d8c2ce1cb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-148-2003",
+   "path": "local/judet/iasi/2003/148",
+   "short": "HCJ Iași nr. 148/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 148/2003 pentru a participa la intilnirea Grupului de Lucru \"Parteneriate Regionale\" - Comisia Afaceri Institutionale a Adunarii Regiunilor Europei, care se va desfasura pe 22 septembrie 2003; Nancy, perioada 23-24 septembrie 2003, pentru a participa la discutiile pregatitoare privind colaborarea dintre judetul Iasi si Departamentul Meurthe-et-Moselle in domeniile indicate. Art.2 Cheltuielile privind depla",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-09-03/hot%C4%83r%C3%A2rea-nr-148",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-09-03/hot%C4%83r%C3%A2rea-nr-148",
+     "sha256": "dd978cdd1cd7b269d82e354b2a24d9287ce967fe160a262c934547d28a9c8c75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-157-2003",
+   "path": "local/judet/iasi/2003/157",
+   "short": "HCJ Iași nr. 157/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 157/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-09-25/hot%C4%83r%C3%A2rea-nr-157",
+   "versions": [
+    {
+     "from": "2003-09-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-09-25/hot%C4%83r%C3%A2rea-nr-157",
+     "sha256": "57d4da7f7a45192c338a4eded4704fddacc5b0f64b0be0efe8ff4f85304f329a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-16-2003",
+   "path": "local/judet/iasi/2003/16",
+   "short": "HCJ Iași nr. 16/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 16/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-16",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-16",
+     "sha256": "0c193bd974f932cacb9b3623daca868f4ca9b3ebcc9e084555718b1baef7f718"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-168-2003",
+   "path": "local/judet/iasi/2003/168",
+   "short": "HCJ Iași nr. 168/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 168/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-09-25/hot%C4%83r%C3%A2rea-nr-168",
+   "versions": [
+    {
+     "from": "2003-09-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-09-25/hot%C4%83r%C3%A2rea-nr-168",
+     "sha256": "a2a815183bc7987a3848e500bc1760948077ea2916428f3721d058aa150a4aa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-17-2003",
+   "path": "local/judet/iasi/2003/17",
+   "short": "HCJ Iași nr. 17/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 17/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-17",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-17",
+     "sha256": "41c0950dbd2647530300203fbb6a81dee4046f534b7fb109d8d8b10a23f82206"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-172-2003",
+   "path": "local/judet/iasi/2003/172",
+   "short": "HCJ Iași nr. 172/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 172/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-11-13/hot%C4%83r%C3%A2rea-nr-172",
+   "versions": [
+    {
+     "from": "2003-11-13",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-11-13/hot%C4%83r%C3%A2rea-nr-172",
+     "sha256": "ae3ad4f73677f7b5b88ef6d9c31bcb334e128ae0334a4204f1633ae8b798f756"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-18-2003",
+   "path": "local/judet/iasi/2003/18",
+   "short": "HCJ Iași nr. 18/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 18/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-18",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-18",
+     "sha256": "a534dd022b9b7b8042654f4965061e062bc891f312e155e70682f414e95476f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-188-2003",
+   "path": "local/judet/iasi/2003/188",
+   "short": "HCJ Iași nr. 188/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 188/2003 pentru Protectia Drepturilor Copilului Iasi, conform anexei 1, care face parte integranta din prezenta hotarare. Art.2 Aproba Re",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-11-13/hot%C4%83r%C3%A2rea-nr-188",
+   "versions": [
+    {
+     "from": "2003-11-13",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-11-13/hot%C4%83r%C3%A2rea-nr-188",
+     "sha256": "93720502720b3e4f73d3e3450b62a04d35ee0b3dae8324db09dc3737ccb289bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-19-2003",
+   "path": "local/judet/iasi/2003/19",
+   "short": "HCJ Iași nr. 19/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 19/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-19",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-19",
+     "sha256": "fac6ea3aaf15dd8e42f0738991d7e5b9dd3a6b2bf858cd5457a8be7b52839bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-196-2003",
+   "path": "local/judet/iasi/2003/196",
+   "short": "HCJ Iași nr. 196/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 196/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-11-13/hot%C4%83r%C3%A2rea-nr-196",
+   "versions": [
+    {
+     "from": "2003-11-13",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-11-13/hot%C4%83r%C3%A2rea-nr-196",
+     "sha256": "3a64c11e008e0918e6b6547c18f1d6cdf748b044f40c24626fa4d85dbd3e455d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-20-2003",
+   "path": "local/judet/iasi/2003/20",
+   "short": "HCJ Iași nr. 20/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 20/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-20",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-20",
+     "sha256": "a5134852637d0e5976a744a37cf9c66cb23aadd94a835d02ef98c0d2d0129fad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-208-2003",
+   "path": "local/judet/iasi/2003/208",
+   "short": "HCJ Iași nr. 208/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 208/2003 pentru care inceteaza activitatea in conditiile art.1, respectiv activul si pasivul acestora, segmentul de sarcini care le-au revenit vor fi preluate de serviciul public nou infiintat Directia de Asistenta Sociala Iasi. Art.6 Prin dispozitia Presedintelui Consiliului Judetean Iasi se va stabili comisia de efectuare a operatiunilor de preluare enuntate la articolul precedent. Art.7 Conducerea Direc",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-208",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-208",
+     "sha256": "2772ea87e5a3c6006843aa3fc90e72935b16823c8f55d69a13d32cdc46d7301a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-21-2003",
+   "path": "local/judet/iasi/2003/21",
+   "short": "HCJ Iași nr. 21/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 21/2003 privind intensificarea activitatilor specifice pentru cresterea sigurantei civice in zona si incinta unitatilor de invatamint urmatoarele fapte, daca, potrivit legii p",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-21",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-21",
+     "sha256": "91919c6f62fd08f6dc0c6176c839dbe684a270d3a22a169895c02341dbf1f957"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-212-2003",
+   "path": "local/judet/iasi/2003/212",
+   "short": "HCJ Iași nr. 212/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 212/2003 pentru spatiile cu alta destinatie decat aceea de locuinta si terenurile aflate in domeniul public de interes judetean, conform Anexei",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-212",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-212",
+     "sha256": "d62a34b0b3784ddd05b2d067ef2170d794d2bce4af8710de03b071a832689db0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-215-2003",
+   "path": "local/judet/iasi/2003/215",
+   "short": "HCJ Iași nr. 215/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 215/2003 pentru S.C",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-215",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-215",
+     "sha256": "7e6e182b5b9ef701c313046d3b988975bffb3383c69fb49ffa6efb2440e9ccf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-216-2003",
+   "path": "local/judet/iasi/2003/216",
+   "short": "HCJ Iași nr. 216/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 216/2003 pentru S.C",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-216",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-216",
+     "sha256": "e621b246f16fed3e26a916e6a2c0d9f021e60dd98b475e1357461e92bbfaf03f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-217-2003",
+   "path": "local/judet/iasi/2003/217",
+   "short": "HCJ Iași nr. 217/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 217/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-217",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-217",
+     "sha256": "32843db168800701f77a7c1a093ce78dc9fdad6bb62d57324c1fbb3957355ce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-218-2003",
+   "path": "local/judet/iasi/2003/218",
+   "short": "HCJ Iași nr. 218/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 218/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-218",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-218",
+     "sha256": "dd1e9ead10c882f6f1cc903a0cde0ef4f271e49b73b57fa2af11d9169c828087"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-219-2003",
+   "path": "local/judet/iasi/2003/219",
+   "short": "HCJ Iași nr. 219/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 219/2003 pentru aparatul propriu al Centrului Judetean de Conservare si Valorificare a Traditiei si Creatiei Populare Iasi, conform anexei nr.1, care face parte integranta din prezen",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-219",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-219",
+     "sha256": "53f9b39ce58c9f75ed8fc022479b7d28dfd69d34407f10fc5b47ce1f2ba5e173"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-22-2003",
+   "path": "local/judet/iasi/2003/22",
+   "short": "HCJ Iași nr. 22/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 22/2003 pentru Parteneriate Regionale care se vor desfasura in data de 7 februarie 2003 la Caen - Franta, cu extinder",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-22",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-22",
+     "sha256": "3a136788c412591ea8a3a51cd5117200ee754fe4266a4acfabd091511e3a53c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-220-2003",
+   "path": "local/judet/iasi/2003/220",
+   "short": "HCJ Iași nr. 220/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 220/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-220",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-220",
+     "sha256": "cda4b0ee3a274485538b0bfbac464a91a72ff50c30a70a3447d2e09e1f44e9ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-221-2003",
+   "path": "local/judet/iasi/2003/221",
+   "short": "HCJ Iași nr. 221/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 221/2003 pentru un copil sau persoana majora in suma de 28.680.054 lei. Art.2 Consiliile locale vor contribui in mod obligatoriu cu cel putin 25% din costul anual pentru fiecare copil s",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-221",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-221",
+     "sha256": "f88865d9bed7241bf353601016bb29a40cd634bbc182b98c2cf43ee6c3822b9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-222-2003",
+   "path": "local/judet/iasi/2003/222",
+   "short": "HCJ Iași nr. 222/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 222/2003 pentru cazarmament, echipament, transport, jucarii, materiale igienico-sanitare, rechizite, materiale cultural- sportive acordate copiilor si tinerilor ocro",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-222",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-222",
+     "sha256": "b7832f7c1d07c295fcfd2ba930954c627911a041d86cd03de8e76d03a1099721"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-223-2003",
+   "path": "local/judet/iasi/2003/223",
+   "short": "HCJ Iași nr. 223/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 223/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-223",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-223",
+     "sha256": "0e06eed67653a4c27625034b5f71b48552a883c297e31b673a31d61276a9cfe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-224-2003",
+   "path": "local/judet/iasi/2003/224",
+   "short": "HCJ Iași nr. 224/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 224/2003 pentru Protectia Drepturilor Copilului Iasi in administrarea Consiliului local al comunei Miroslovesti. -Transmiterea in administrare ce face obiectul alin.1 va afecta si instalatiile si utilajele aferente centralei termice. Art.2 Transmiterea in administrare se face pe o durata de 5 ani si se va consemna prin proces verbal de predare-primire. Art.3 Titularul dreptului de administrare poate sa dis",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-224",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-224",
+     "sha256": "93622e6272e3a8c2ad5116eadaf0485c6285a74ed94505ec1967dc5ed952efaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-225-2003",
+   "path": "local/judet/iasi/2003/225",
+   "short": "HCJ Iași nr. 225/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 225/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-225",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-12-18/hot%C4%83r%C3%A2rea-nr-225",
+     "sha256": "d1d16062c8e3d9fb069d5ffe12dfbd085f0bdb575793b22040fa06926739da26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-23-2003",
+   "path": "local/judet/iasi/2003/23",
+   "short": "HCJ Iași nr. 23/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 23/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-23",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-23",
+     "sha256": "20b026b8de77e8535816dfedb85824ae2dab3c81fb01608d7da0dab6924f7619"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-24-2003",
+   "path": "local/judet/iasi/2003/24",
+   "short": "HCJ Iași nr. 24/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 24/2003 pentru un copil institutionalizat in suma de 26.345.365 lei. Art.2 Consiliile locale vor contribui in mod obligatoriu ce cel putin 25% din costul anual pentru fiecare copil prot",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-24",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-24",
+     "sha256": "fbbe449e0022e0729210e09bd9e6b356113ce6fd06b7afba415e55fcbe67f145"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-25-2003",
+   "path": "local/judet/iasi/2003/25",
+   "short": "HCJ Iași nr. 25/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 25/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-25",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-25",
+     "sha256": "891823a4613d6f7bf4898332be9e11e697e95005a1d5d72907d6f32c6aa177c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-28-2003",
+   "path": "local/judet/iasi/2003/28",
+   "short": "HCJ Iași nr. 28/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 28/2003 Pentru definitivarea amplasamentelor vor fi alocate fonduri de la bugetul judetean si de la bugetele locale, in vederea elaborarii studiilor de fundamentare, iar pentru finalizarea obiectivelor vor fi atrase surse de finantare externe. Tags: hotărâre hotărâri hotărâri 2003 Creat de icc la Mie, 22/05/2013 - 09:50 Ultima actualizare: 22/05/2013 - 09:50",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-28",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-28",
+     "sha256": "91d3a1408c2851c01b908ca830bea764bdf547534824e32f9818c3e524ca7ffb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-29-2003",
+   "path": "local/judet/iasi/2003/29",
+   "short": "HCJ Iași nr. 29/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 29/2003 PENTRU ANUL 2003\". Tags: hotărâre hotărâri hotărâri 2003 Creat de icc la Mie",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-29",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-29",
+     "sha256": "30850e5b44fdc147eb1751ac76b5aabba44aaf5822f471a26868f888d58529af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-4-2003",
+   "path": "local/judet/iasi/2003/4",
+   "short": "HCJ Iași nr. 4/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 4/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-4",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-02-27/hot%C4%83r%C3%A2rea-nr-4",
+     "sha256": "5ff90f5e8a5e9f5cad12a0dfef84c5dd08c426d0338c860d6dc549182704b3b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-41-2003",
+   "path": "local/judet/iasi/2003/41",
+   "short": "HCJ Iași nr. 41/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 41/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-41",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-41",
+     "sha256": "c0b2e58fa2fb1029a36ced8c6f3ba2b02bffacfaf73b5bed819020d4c801edba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-48-2003",
+   "path": "local/judet/iasi/2003/48",
+   "short": "HCJ Iași nr. 48/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 48/2003 referitoare la dreptul de proprietate asupra bunului, titularul dreptului de administrare are obligatia sa arate instantei titularul dreptului de proprietate. Art.3 Inchirierea sau concesionarea bunului imobil ce face obiectul art.1 se aproba numai prin hotarire a Consiliului Judetean Iasi, cu acordul Ministerului Sanatatii si Familiei si al Ministerului Administratiei Publice",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-48",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-48",
+     "sha256": "4b8bc010154783ea530a96ae4efc4a50ead1d479c3ce579475853503ec801d96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-51-2003",
+   "path": "local/judet/iasi/2003/51",
+   "short": "HCJ Iași nr. 51/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 51/2003 referitoare la dreptul de proprietate asupra bunului, titularul dreptului de administrare are obligatia sa arate instantei titularul dreptului de proprietate. Art.3 Inchirierea sau concesionarea bunului imobil ce face obiectul art.1 se aproba numai prin hotarare a Consiliului Judetean Iasi, cu acordul Ministerului Sanatatii si Familiei si al Ministerului Administratiei Publice",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-51",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-51",
+     "sha256": "a887649deced2366d1500d700e518eab58312847973f56d0027f782e6a7c175d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-56-2003",
+   "path": "local/judet/iasi/2003/56",
+   "short": "HCJ Iași nr. 56/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 56/2003 pentru Dezvoltare Regionala pe anul 2003, in suma de 500 milioane lei. Art.2 Consiliile locale vor adopta hotariri privind contribut",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-56",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-56",
+     "sha256": "60ba9a90170f8d17b6dfeeabfb528b9cc162b9e67b1da64bf1419ece8953e1cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-58-2003",
+   "path": "local/judet/iasi/2003/58",
+   "short": "HCJ Iași nr. 58/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 58/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-58",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-58",
+     "sha256": "f91fffdbd4a91ef56c528b261a46624561a1c24714a5ffbe5e9463001a06992d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-59-2003",
+   "path": "local/judet/iasi/2003/59",
+   "short": "HCJ Iași nr. 59/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 59/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-59",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-59",
+     "sha256": "c7ecd7de9380b5cb5d66ed63062bd47bcdd2b4cb5264bb7bc3c6278653d71931"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-60-2003",
+   "path": "local/judet/iasi/2003/60",
+   "short": "HCJ Iași nr. 60/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 60/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-60",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-60",
+     "sha256": "9a80d8f86812f78140d1f3c2dc5125482c83b29df88cfde04fbb702660d45bbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-61-2003",
+   "path": "local/judet/iasi/2003/61",
+   "short": "HCJ Iași nr. 61/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 61/2003 pentru eliberare de acorduri si autorizatii, inchirieri de suprafete din ampriza si zona de siguranta a drumurilor judetene conform anexei 1 si mentinerea tarifelor pentru",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-61",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-61",
+     "sha256": "f08321a33d657af458bf49bd24621aae5d0337bc14dd2aadbf58f2cae1c032ac"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-62-2003",
    "path": "local/judet/iasi/2003/62",
    "short": "HCJ Iași nr. 62/2003",
@@ -29,6 +869,96 @@
      "units": 1,
      "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-62",
      "sha256": "d709fb1681c82165bbba8f106bc1d149eae44ca2bb213b9f25eff86e13c217e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-63-2003",
+   "path": "local/judet/iasi/2003/63",
+   "short": "HCJ Iași nr. 63/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 63/2003 pentru obiectivele: 1",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-63",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-63",
+     "sha256": "566e113491f48f0c7e6e4c418cc5055cb6a7557024a6df5a5e0498aedc8f4316"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-64-2003",
+   "path": "local/judet/iasi/2003/64",
+   "short": "HCJ Iași nr. 64/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 64/2003 pentru organizarea si desfasurarea concursului intre unitatile administrativ-teritoriale din judetul Iasi in vederea realizarii obiectivelor de buna gospodarire a localitatilor urbane si rurale in anul 2003, conform anexei care face parte integranta din prezenta hotarare. Tags: hotărâre hotărâri hotărâri 2003 Creat de icc la Mie, 22/05/2013 - 10:49 Ultima actualizare: 22/05/2013 - 10:49",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-64",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-64",
+     "sha256": "b050227031763abc7bddfd1dba723ed106b4bd31d5a6f3dbc096abc5a66b376f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-65-2003",
+   "path": "local/judet/iasi/2003/65",
+   "short": "HCJ Iași nr. 65/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 65/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-65",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-65",
+     "sha256": "382d7b97255e1a303c96b004eb119ec50c60c70cc8c74763cab1c856530e0d16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-69-2003",
+   "path": "local/judet/iasi/2003/69",
+   "short": "HCJ Iași nr. 69/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 69/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-69",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-69",
+     "sha256": "b24e95735b727fb3f54958be45a8a7cf8a7aa3a635b3b8f6372687b7f92c2441"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-70-2003",
+   "path": "local/judet/iasi/2003/70",
+   "short": "HCJ Iași nr. 70/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 70/2003 pentru cheltuieli de capital la RA Aeroportul Iasi. Art.2 Directia Economica",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-70",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-70",
+     "sha256": "9cb32cb000297acf28715d09da38cf913fbe9fc4e5211c71911c6d814e05f7fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-71-2003",
+   "path": "local/judet/iasi/2003/71",
+   "short": "HCJ Iași nr. 71/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 71/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-71",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-71",
+     "sha256": "671d17e4ebe44e6893942b210ce21297e25bfcdcab031c419575c35498f04d52"
     }
    ]
   },
@@ -59,6 +989,306 @@
      "units": 1,
      "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-73",
      "sha256": "6a59ad29ffb6e28bc0e00198f88423dd6a3768c8c386d352849eac5303d29c6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-74-2003",
+   "path": "local/judet/iasi/2003/74",
+   "short": "HCJ Iași nr. 74/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 74/2003 pentru exercitiul financiar 2002 al RAJAC IASI. Tags: hotărâre hotărâri hotărâri 2003 Creat de icc la Mie, 22/05/2013 - 10:58 Ultima actualizare: 05/06/2013",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-74",
+   "versions": [
+    {
+     "from": "2003-03-31",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-03-31/hot%C4%83r%C3%A2rea-nr-74",
+     "sha256": "90df1bd88b5b77c52417f27476f811cbfc7dc30c158e1c994141685e088049bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-75-2003",
+   "path": "local/judet/iasi/2003/75",
+   "short": "HCJ Iași nr. 75/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 75/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-75",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-75",
+     "sha256": "9a8a29dc3f5780391d5c3bb551149ccaf19aa0a908832a4121f34a7d1ed0e8ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-76-2003",
+   "path": "local/judet/iasi/2003/76",
+   "short": "HCJ Iași nr. 76/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 76/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-76",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-76",
+     "sha256": "6efb17ae5913f9f50aa3d125e3c52983d3424933ecda33fdff904cc93b2713d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-77-2003",
+   "path": "local/judet/iasi/2003/77",
+   "short": "HCJ Iași nr. 77/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 77/2003 pentru valoarea de 7.351.715.960 lei a unor mijloace fixe aflate in Patrimoniul Consiliului Art.2 Aprob",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-77",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-77",
+     "sha256": "04628cf3e478a07bbad948c1773ec1db4c62085acc71616cb07c2f707f378df7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-78-2003",
+   "path": "local/judet/iasi/2003/78",
+   "short": "HCJ Iași nr. 78/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 78/2003 pentru domeniul public si privat al judetului Iasi, conform anexelor. Art.2 Anexele 1-7 fac parte integranta din prezenta hotarire",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-78",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-78",
+     "sha256": "9a50b0e45b431d02ad89345c0d4f9190baa07f195e1d8b48c52ddb291b0d4b25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-79-2003",
+   "path": "local/judet/iasi/2003/79",
+   "short": "HCJ Iași nr. 79/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 79/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-79",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-79",
+     "sha256": "4fa0479d099b63492948321d358bbe41b82c234ebf6213050034725442c39fd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-80-2003",
+   "path": "local/judet/iasi/2003/80",
+   "short": "HCJ Iași nr. 80/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 80/2003 pentru proiectul \"Modernizarea Complexului de Servicii Comunitare Bucium\", suma reprezentind cofinantarea in valoar",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-80",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-80",
+     "sha256": "7b5a42710ca363d1873edf9ccc0673df8933d673f8b04d91022d48a89d3c2d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-81-2003",
+   "path": "local/judet/iasi/2003/81",
+   "short": "HCJ Iași nr. 81/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 81/2003 pentru proiectul \"Crearea unui centru de urgenta pentru gazduirea pe perioada temporara (maxim 30 zile) a copiilor",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-81",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-81",
+     "sha256": "2df07fb9ff5d1964c374d01ab4823a567ed3c18ca3f18870d5703f19340da38d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-82-2003",
+   "path": "local/judet/iasi/2003/82",
+   "short": "HCJ Iași nr. 82/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 82/2003 pentru proiectul \"Crearea unui centru de integrare sociala pentru tinerii aflati in situatie de risc - 20 de copii",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-82",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-82",
+     "sha256": "a0f38b0a6d9e52e0bb80d3e64b2396d69b4eec444ad191db6173066ac80431ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-83-2003",
+   "path": "local/judet/iasi/2003/83",
+   "short": "HCJ Iași nr. 83/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 83/2003 pentru proiectul \"Crearea unui centru educativ pentru copiii din municipiul Iasi care nu pot urma o forma de scolar",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-83",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-83",
+     "sha256": "835bed4b202d961a89cfad7e2ec13aded3d21e9587798ef528dbe04c7d71a127"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-84-2003",
+   "path": "local/judet/iasi/2003/84",
+   "short": "HCJ Iași nr. 84/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 84/2003 pentru proiectul \"Crearea unui centru saptaminal pentru copii supradotati din mediul rural care nu isi pot valorifi",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-84",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-84",
+     "sha256": "b0663daf694109f6189ca9a030f43e1679cec569433997c9c62a9ce76c86a8c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-85-2003",
+   "path": "local/judet/iasi/2003/85",
+   "short": "HCJ Iași nr. 85/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 85/2003 pentru crearea unui \"Centru de ingrijire de zi pentru 25 de copii provenind din familiile in dificultate din localit",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-85",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-85",
+     "sha256": "627cc69823d3597ec59700a88480085156b2c78ef477bea22c3cc931bb716dd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-86-2003",
+   "path": "local/judet/iasi/2003/86",
+   "short": "HCJ Iași nr. 86/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 86/2003 pentru proiectul \"Crearea unui centru de ingrijire de zi pentru 25 de copii provenind din familii in dificultate di",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-86",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-86",
+     "sha256": "9a1afc2b4f43b4db54046666bca80bc7b4518d42204cfcf2c9e1230d85c0b623"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-87-2003",
+   "path": "local/judet/iasi/2003/87",
+   "short": "HCJ Iași nr. 87/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 87/2003 pentru proiectul \"Crearea unui centru de ingrijire de zi pentru 25 de copii provenind din familii in dificultate di",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-87",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-87",
+     "sha256": "a39138c85880f211534e5b70e487c8d051d3a8320d35888adb58eec5b7541ede"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-88-2003",
+   "path": "local/judet/iasi/2003/88",
+   "short": "HCJ Iași nr. 88/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 88/2003 pentru proiectul \"Crearea unui centru de ingrijire de zi pentru 25 de copii provenind din familii in dificultate di",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-88",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-88",
+     "sha256": "e1cd7ca9b2ef2f837928078b84359817b0a4e6e1f72fe427e5badeed91f29789"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-89-2003",
+   "path": "local/judet/iasi/2003/89",
+   "short": "HCJ Iași nr. 89/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 89/2003 pentru proiectul \"Crearea unui centru de ingrijire de zi pentru 25 de copii provenind din familii in dificultate di",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-89",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-89",
+     "sha256": "22d85572638ae5e2354d01926d305bdfe5642efce372345a80bd058ed2dbad5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-90-2003",
+   "path": "local/judet/iasi/2003/90",
+   "short": "HCJ Iași nr. 90/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 90/2003 pentru proiectul \"Crearea unui centru de ingrijire de zi pentru 25 de copii provenind din familii in dificultate di",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-90",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-06-10/hot%C4%83r%C3%A2rea-nr-90",
+     "sha256": "48445f94d847e43bc69ab27503d7b0e5fc63b5296cae9a2580991085453f3a45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-91-2003",
+   "path": "local/judet/iasi/2003/91",
+   "short": "HCJ Iași nr. 91/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 91/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-91",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-91",
+     "sha256": "e2c039f03e16398e5b9f46b7e3273a5f03e0dbbac73943dddfea7762c6acb17e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-92-2003",
+   "path": "local/judet/iasi/2003/92",
+   "short": "HCJ Iași nr. 92/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 92/2003",
+   "url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-92",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-92",
+     "sha256": "66e19f7b1d7deb7a295999b150607071f99f335142a9a13a1ac1c9a3542dea1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-96-2003",
+   "path": "local/judet/iasi/2003/96",
+   "short": "HCJ Iași nr. 96/2003",
+   "title": "Hotărârea Consiliului Județean Iași nr. 96/2003",
+   "url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-96",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2003/2003-07-01/hot%C4%83r%C3%A2rea-nr-96",
+     "sha256": "7c72335a274987adfe00e60e784178b444e7d067380c7f9d6678af9bb022d64d"
     }
    ]
   }

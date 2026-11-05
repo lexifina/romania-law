@@ -3,6 +3,861 @@
  "shard": "local/judet/iasi/2002",
  "acts": [
   {
+   "slug": "hcj-iasi-100-2002",
+   "path": "local/judet/iasi/2002/100",
+   "short": "HCJ Iași nr. 100/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 100/2002 pentru cauza de utilitate publica a unei suprafete de teren proprietate privata situat in com. Lespezi, judetul Iasi. Pres",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-100",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-100",
+     "sha256": "f53961fcb1b3d7ebd09fedaeafe0e1045c25b4862e14b57e8c474bddc879a69a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-101-2002",
+   "path": "local/judet/iasi/2002/101",
+   "short": "HCJ Iași nr. 101/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 101/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-101",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-101",
+     "sha256": "1cdc7c4212dd520b0d5d76a208a9ff5b0acd1f3ccf8fcb482ab98853408d8fb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-102-2002",
+   "path": "local/judet/iasi/2002/102",
+   "short": "HCJ Iași nr. 102/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 102/2002 privind deplasarea vor fi realizate conform HG 518/1995 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-102",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-102",
+     "sha256": "73336a059a114597ac0116bb1e5e07ab1bb89e1b38a06940177f631384da5875"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-103-2002",
+   "path": "local/judet/iasi/2002/103",
+   "short": "HCJ Iași nr. 103/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 103/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-103",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-103",
+     "sha256": "d822d93f7acb7f6d7d1a2b5c406fa2e838b12242d95f0e0155d1c352baafc5d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-104-2002",
+   "path": "local/judet/iasi/2002/104",
+   "short": "HCJ Iași nr. 104/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 104/2002 privind deplasarea vor fi realizate conform HG 518/1995 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 15:19 Ultima actualizare: 21/05/2013 - 15:19",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-104",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-104",
+     "sha256": "da5f0b75f8b700b0029468ddd2bca9c1d7a73f1d336c5379a240f95227c90f72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-107-2002",
+   "path": "local/judet/iasi/2002/107",
+   "short": "HCJ Iași nr. 107/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 107/2002 privind Parcul Tehnologic, managementul deseurilor si alt",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-107",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-107",
+     "sha256": "932b19d31d6a9c11421515ebf4c931cce3ec1ce54b4a58da12e31f9a64e1c75f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-108-2002",
+   "path": "local/judet/iasi/2002/108",
+   "short": "HCJ Iași nr. 108/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 108/2002 Pentru activitatea desfasurata in plen si in comisii de lucru membrii ATOP au dreptul la o indemnizatie de sedinta in cuantum de 200.000 lei prin raportare la art.13 alin.2 si art.11 din HG 787/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-108",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-108",
+     "sha256": "2eeaabc58667de32fe572680983e55371d5b1a642d91f72d073ceb0eb1d6e190"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-109-2002",
+   "path": "local/judet/iasi/2002/109",
+   "short": "HCJ Iași nr. 109/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 109/2002 pentru aparatul propriu al Consiliului Judetean Iasi, conform anexelor 1 si 2, care fac parte integranta din prezenta hotarire, cu apl",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-109",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-109",
+     "sha256": "5e9e44f6ec5b5eed75d9e3e68b13f11a848da076303cd77271b0216d3a9375b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-110-2002",
+   "path": "local/judet/iasi/2002/110",
+   "short": "HCJ Iași nr. 110/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 110/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-110",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-110",
+     "sha256": "5b7301ba29626d96c0f4e94eb95457c0e401cc1bdf7b6fe1e138f1791d271d12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-111-2002",
+   "path": "local/judet/iasi/2002/111",
+   "short": "HCJ Iași nr. 111/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 111/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-111",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-111",
+     "sha256": "99a0b9ccdc136dc75872e318c5e2f10622d7647d817dd53cffb18de566b8cbd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-112-2002",
+   "path": "local/judet/iasi/2002/112",
+   "short": "HCJ Iași nr. 112/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 112/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-112",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-112",
+     "sha256": "c84109139ffadaf8bac78618853c68cdcc2dcee060c2f16c6b727d154b7bafa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-113-2002",
+   "path": "local/judet/iasi/2002/113",
+   "short": "HCJ Iași nr. 113/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 113/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-113",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-113",
+     "sha256": "97341c7e13b63be38aa8f5780e2dd935d510a6b044d2ab11bbf77eefe1b0f613"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-114-2002",
+   "path": "local/judet/iasi/2002/114",
+   "short": "HCJ Iași nr. 114/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 114/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-114",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-114",
+     "sha256": "e019d00e1d476ad7dc856e457bb5fb80e0ddac66ef8f7c0db82bc1c935e42f84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-115-2002",
+   "path": "local/judet/iasi/2002/115",
+   "short": "HCJ Iași nr. 115/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 115/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-115",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-115",
+     "sha256": "72910f2d8ae71afdf9dfd72d0748eea29114dfa67fe424f4aad67e68a67dd334"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-116-2002",
+   "path": "local/judet/iasi/2002/116",
+   "short": "HCJ Iași nr. 116/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 116/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-116",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-116",
+     "sha256": "ea5462c9eb9b84fd83150b13affd0a114d88f79bdb878dee927e77d2e589cdcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-117-2002",
+   "path": "local/judet/iasi/2002/117",
+   "short": "HCJ Iași nr. 117/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 117/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-117",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-117",
+     "sha256": "b6cba1a145dfb8d47f5a4053ee5f0f9e3c2325b5329eacdaf2f85da9030c8084"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-118-2002",
+   "path": "local/judet/iasi/2002/118",
+   "short": "HCJ Iași nr. 118/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 118/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-118",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-118",
+     "sha256": "915333eeb84c2c6d743b5dcae575355ff5159e8c4c51b41a1eb693d714e7194d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-119-2002",
+   "path": "local/judet/iasi/2002/119",
+   "short": "HCJ Iași nr. 119/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 119/2002 privind infiintarea Institutului de Gastroenterologie Iasi, Directia Juridica, Stare Civila si Cancelarie va asigura indeplinirea procedurilor necesare emiterii actelor normative de interes general. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 15:45 Ultima actualizare: 21/05/2013 - 15:45",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-119",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-119",
+     "sha256": "3f67e5756df1af60bd045fec80510735c171029af7b828371e5b8a2f980ae62a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-12-2002",
+   "path": "local/judet/iasi/2002/12",
+   "short": "HCJ Iași nr. 12/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 12/2002 pentru ducerea la indeplinire a atributiilor privind evidenta, operarea si com",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-12",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-12",
+     "sha256": "04981a0c9326745f056458dad2645710274d17fd757f28e64574b06328d3a6cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-120-2002",
+   "path": "local/judet/iasi/2002/120",
+   "short": "HCJ Iași nr. 120/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 120/2002 pentru Ocuparea Fortei de Munca Iasi a bunurilor imobile, proprietate publica a Judetului Iasi",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-120",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-120",
+     "sha256": "14505dbaaec1e58c827bcfca0b513ad160f2909a50e7a8703e53182eb51c7d19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-121-2002",
+   "path": "local/judet/iasi/2002/121",
+   "short": "HCJ Iași nr. 121/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 121/2002 pentru IMM si Investitori Privati\" - Iasi - Parc Tehnologic TEHNOPOLIS in valoare de 414596 Euro (echivalent 13.515.829.600 lei) si a tuturor cheltuielilor suplimentare ce se vor ivi pe perioada implementarii proiectului (conform Anexei 2 parte integranta din prezenta hotarire). Art.3 Directia Economica, Serviciul Programe si Integrare Regionala si Directia Tehnica vor duce la indeplinire preveder",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-121",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-121",
+     "sha256": "cba76638ccc047a291f8ac1de535a3c3d0abb74024ed08b2a98705572312875b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-122-2002",
+   "path": "local/judet/iasi/2002/122",
+   "short": "HCJ Iași nr. 122/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 122/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-122",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-122",
+     "sha256": "382757ab2311dc442d9dc1ec22aede9e13bb247a5c21648b8298ba3098a98c79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-123-2002",
+   "path": "local/judet/iasi/2002/123",
+   "short": "HCJ Iași nr. 123/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 123/2002 pentru completari/modificari partilor implicate. Art.3 Anexele 1 si 2 fac parte integranta din prezenta hotarare. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 15:52 Ultima actualizare: 21/05/2013 - 15:52",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-123",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-123",
+     "sha256": "cdedf8d6b1724928d74197bcfa199c7aecf8d8f228139ad245be439c4666bd21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-124-2002",
+   "path": "local/judet/iasi/2002/124",
+   "short": "HCJ Iași nr. 124/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 124/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-124",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-124",
+     "sha256": "f00ae5d82d8700533552606abf6b822c4a4980c791d3693fc46d1b6cd3345413"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-125-2002",
+   "path": "local/judet/iasi/2002/125",
+   "short": "HCJ Iași nr. 125/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 125/2002",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-125",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-125",
+     "sha256": "2aa771164a3a6a10952c64567e6df587d5a842cf811ce58c5e25bc3069da1879"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-128-2002",
+   "path": "local/judet/iasi/2002/128",
+   "short": "HCJ Iași nr. 128/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 128/2002",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-128",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-10-11/hot%C4%83r%C3%A2rea-nr-128",
+     "sha256": "8d4c5f7dc7d775ecc1ed9dc91efed5d6d6815a4f27bde6229df67820b9a7180f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-14-2002",
+   "path": "local/judet/iasi/2002/14",
+   "short": "HCJ Iași nr. 14/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 14/2002 pentru Teatrul \"Luceafarul\" Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarire. Art.2 Directia Economica, Directia Organizare, Resurse",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-14",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-14",
+     "sha256": "9436a938c67313b833e24b1960b966614e20c18b5c2736e9eed7d2a98744a77d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-146-2002",
+   "path": "local/judet/iasi/2002/146",
+   "short": "HCJ Iași nr. 146/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 146/2002 pentru ocuparea functiei publice de conducere vacante de \"Sef serviciu\" la Serviciul Juridic, conform anexei care face parte integranta din prezenta hotarire. Art.2 D",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-11-20/hot%C4%83r%C3%A2rea-nr-146",
+   "versions": [
+    {
+     "from": "2002-11-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-11-20/hot%C4%83r%C3%A2rea-nr-146",
+     "sha256": "a8c97500f8a513f787ebc95d21362c5e44cd82b7abfb902aa7e7dfd6d9fa370b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-147-2002",
+   "path": "local/judet/iasi/2002/147",
+   "short": "HCJ Iași nr. 147/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 147/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-11-20/hot%C4%83r%C3%A2rea-nr-147",
+   "versions": [
+    {
+     "from": "2002-11-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-11-20/hot%C4%83r%C3%A2rea-nr-147",
+     "sha256": "ab086c1068344f68cfd951a1b0f9b805ce3f82136df4b4af2927d87e5e35f5e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-148-2002",
+   "path": "local/judet/iasi/2002/148",
+   "short": "HCJ Iași nr. 148/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 148/2002 pentru Agricultura si Industrie Alimentara. Art.3 Prevederile prezentei hotariri vor fi aduse la indeplinire pe teritoriul comunelor judetului Iasi. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 16:54 Ultima actualizare: 21/05/2013 - 16:54",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-11-20/hot%C4%83r%C3%A2rea-nr-148",
+   "versions": [
+    {
+     "from": "2002-11-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-11-20/hot%C4%83r%C3%A2rea-nr-148",
+     "sha256": "39eb10554de9260c62f591cb752604f5e1a18a2ab6eb46311897005dad984293"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-149-2002",
+   "path": "local/judet/iasi/2002/149",
+   "short": "HCJ Iași nr. 149/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 149/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-11-20/hot%C4%83r%C3%A2rea-nr-149",
+   "versions": [
+    {
+     "from": "2002-11-20",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-11-20/hot%C4%83r%C3%A2rea-nr-149",
+     "sha256": "f36474377d5e93c7cefd6c914be79f41e48d79b87c5f432a46ec6c6d8784e25b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-15-2002",
+   "path": "local/judet/iasi/2002/15",
+   "short": "HCJ Iași nr. 15/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 15/2002 pentru Muzeul Literaturii Romane Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarire. Art.2 Directia Economica, Directia Organizare, Res",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-15",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-15",
+     "sha256": "5d091b1ee790773a620b6cdb522c40d427a0aebb3ae20c8e0a7c634f0cb02c96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-153-2002",
+   "path": "local/judet/iasi/2002/153",
+   "short": "HCJ Iași nr. 153/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 153/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-153",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-153",
+     "sha256": "d64989ad65a66809549e14e1c29f19f7faba5478e48b84244351285138ac622e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-154-2002",
+   "path": "local/judet/iasi/2002/154",
+   "short": "HCJ Iași nr. 154/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 154/2002 privind fundamentarea bugetului propriu al Consiliului Judetean Iasi si repartizarea sumelor defalcate din unele venituri ale bugetului de stat alocate judetului Iasi pe anul 2003",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-154",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-154",
+     "sha256": "5a83b27701f903e7adc74c6cc4d4a0b2dff1b3fa6ca338c1cbbfdf09f6c82a78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-155-2002",
+   "path": "local/judet/iasi/2002/155",
+   "short": "HCJ Iași nr. 155/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 155/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-155",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-155",
+     "sha256": "796c2b9b08a746862face7120e6bee5718fe0ce1b3648378d4b223b11b46bcf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-156-2002",
+   "path": "local/judet/iasi/2002/156",
+   "short": "HCJ Iași nr. 156/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 156/2002 privind criteriile specifice pentru repartizarea sumelor defalcate din impozitul pe venit pentru echilibrarea bugetelor locale si a celor aflate la dispozitia Consiliului Judetean",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-156",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-156",
+     "sha256": "9c36e52f031270ee20935f4f9c5aebc955bb35ed92df72fd853f7da272c74c38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-157-2002",
+   "path": "local/judet/iasi/2002/157",
+   "short": "HCJ Iași nr. 157/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 157/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-157",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-157",
+     "sha256": "474fb2e5e75c28576254a9d8328602740b2f8034aa391e563d6187ba54dca9d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-158-2002",
+   "path": "local/judet/iasi/2002/158",
+   "short": "HCJ Iași nr. 158/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 158/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-158",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-158",
+     "sha256": "e76d55149187995c0350506f05feb0be1b3d87fdb7cdf8dcbf48f2dc13749ef7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-16-2002",
+   "path": "local/judet/iasi/2002/16",
+   "short": "HCJ Iași nr. 16/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 16/2002 pentru Filarmonica Moldova Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarire. Art.2 Directia Economica, Directia Organizare, Resurse U",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-16",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-16",
+     "sha256": "5ded983f31c4473995088c045fceb12ac8cad375c181e1f38444f519d5bd428a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-160-2002",
+   "path": "local/judet/iasi/2002/160",
+   "short": "HCJ Iași nr. 160/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 160/2002 pentru S.C",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-160",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-160",
+     "sha256": "f4c51d8b7f0c8e99cbcd19cbb6d3b99888bcb9c6efe3b45aec228a43a6fda418"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-165-2002",
+   "path": "local/judet/iasi/2002/165",
+   "short": "HCJ Iași nr. 165/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 165/2002",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-165",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-165",
+     "sha256": "d779b7f99d3ff05519782d38f71f5e629df2a6c105d20a94de086cdb377a255f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-17-2002",
+   "path": "local/judet/iasi/2002/17",
+   "short": "HCJ Iași nr. 17/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 17/2002 pentru Scoala de Arte Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarire. Art.2 Directia Economica, Directia Organizare, Resurse Umane",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-17",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-17",
+     "sha256": "c0b8aa384f7bc084f02a29324abdad2bf6019b196709a12b4e7e3d502105c485"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-173-2002",
+   "path": "local/judet/iasi/2002/173",
+   "short": "HCJ Iași nr. 173/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 173/2002 privind deplasarea vor fi realizate conform HG 518/1995 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 17:31 Ultima actualizare: 21/05/2013 - 17:31",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-173",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-12-17/hot%C4%83r%C3%A2rea-nr-173",
+     "sha256": "5da1d16c1ae3a22458619a739b46e10fa5c1e26d53793292df4955cf852462f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-18-2002",
+   "path": "local/judet/iasi/2002/18",
+   "short": "HCJ Iași nr. 18/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 18/2002 pentru Centrul Judetean al Creatiei Populare Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarire. Art.2 Directia Economica, Directia Org",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-18",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-18",
+     "sha256": "cacacc69ae98463dc5fae69af2c1d6721631faa3c4884d97ebae8f115b43f390"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-19-2002",
+   "path": "local/judet/iasi/2002/19",
+   "short": "HCJ Iași nr. 19/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 19/2002 pentru personalul Consiliului Judetean Iasi si Casa de Oaspeti Bucium conform anexelor 1, 2, 3 si 4 care fa",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-19",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-19",
+     "sha256": "04c7352e9c39882cb18b3be5c30464bf7fc8b8df2c862c9c3526aa91ca66fdc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-20-2002",
+   "path": "local/judet/iasi/2002/20",
+   "short": "HCJ Iași nr. 20/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 20/2002 pentru personalul RA AEROPORTUL Iasi, conform anexei 1 care face parte integranta din prezenta hotarire. Art.2 Salariile de baza si indemnizatiile de conducere se vor calcula c",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-20",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-20",
+     "sha256": "b54476e69554f35463992e1ce3e6e593d531e65460a66eb23dc6f43dce3709fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-21-2002",
+   "path": "local/judet/iasi/2002/21",
+   "short": "HCJ Iași nr. 21/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 21/2002 pentru personalul Serviciului Public de Administrare a Drumurilor Judetene Iasi conform anexelor 1, 2 si 3",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-21",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-21",
+     "sha256": "73e90b8dd3087d4be4f0b9b7ba02224734466dcbf35a2c468724a7dede2f0915"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-22-2002",
+   "path": "local/judet/iasi/2002/22",
+   "short": "HCJ Iași nr. 22/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 22/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-22",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-22",
+     "sha256": "97eb18a08ec5367bf1d1a4b1d93c0f9e9168a08ce5b6d7fb7c1b2d96e60f0d4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-23-2002",
+   "path": "local/judet/iasi/2002/23",
+   "short": "HCJ Iași nr. 23/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 23/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-23",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-23",
+     "sha256": "4f038a7b59d41243e60f2fce7c1add8ba558d00227c4ed31fc28731becdc5ed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-29-2002",
+   "path": "local/judet/iasi/2002/29",
+   "short": "HCJ Iași nr. 29/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 29/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-29",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-29",
+     "sha256": "8f67b48fdda7163229c344808ebe4a98e0a1536922e288a153efc9478407bd64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-30-2002",
+   "path": "local/judet/iasi/2002/30",
+   "short": "HCJ Iași nr. 30/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 30/2002 privind a doua cerere de finantare a componentelor MAO si MAS precum si componenta IMM din cadrul Programului RICOP pentru atenuarea impactului social, ce constituie an",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-30",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-30",
+     "sha256": "88a6dcfb71fc0e2487f5cd21708de67940f8636b627b3406e238cd592953df3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-31-2002",
+   "path": "local/judet/iasi/2002/31",
+   "short": "HCJ Iași nr. 31/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 31/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-31",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-31",
+     "sha256": "1fd0036978e9eb15b1fb28c426045b8daa40c346a5f66777d2e13b9df0b4abea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-32-2002",
+   "path": "local/judet/iasi/2002/32",
+   "short": "HCJ Iași nr. 32/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 32/2002 pentru judetul Iasi\", cuprins in anexa parte integranta la prezenta hotarire. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-32",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-32",
+     "sha256": "91ca4278cb8fdd32f6dc85fa787f57ce8d818d2a77cda5373c51ad7c7b2718a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-33-2002",
+   "path": "local/judet/iasi/2002/33",
+   "short": "HCJ Iași nr. 33/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 33/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-33",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-33",
+     "sha256": "7faf652ebdfc4a3fb784dee730ac2ddfa67c971e44c3a263223c6045b37123a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-34-2002",
+   "path": "local/judet/iasi/2002/34",
+   "short": "HCJ Iași nr. 34/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 34/2002 privind deplasarea vor fi realizate conform HG 518/1995 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 12:11 Ultima actualizare: 21/05/2013 - 12:11",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-34",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-34",
+     "sha256": "1244ccf6eb9a954d91f58b2f9edfde5aa1d12b642d64763e917e209d567e5ab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-35-2002",
+   "path": "local/judet/iasi/2002/35",
+   "short": "HCJ Iași nr. 35/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 35/2002 pentru locuinta de serviciu. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 12:12 Ultima actualizare: 21/05/2013 - 14:16",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-35",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-35",
+     "sha256": "583b3edb4a51406acab60a9c07e61016c73ba2e032b873366596249db22b9298"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-36-2002",
+   "path": "local/judet/iasi/2002/36",
+   "short": "HCJ Iași nr. 36/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 36/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-36",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-36",
+     "sha256": "a14908d305bbf3f52c4b476313b57115e5f8635d8fb0b5d4932a861dc1322de4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-37-2002",
    "path": "local/judet/iasi/2002/37",
    "short": "HCJ Iași nr. 37/2002",
@@ -14,6 +869,111 @@
      "units": 1,
      "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-37",
      "sha256": "2c848ca90d842362dccb5681e8e4bc52d8291b7cbdc490ea3cca7a71695c7b0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-38-2002",
+   "path": "local/judet/iasi/2002/38",
+   "short": "HCJ Iași nr. 38/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 38/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-38",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-38",
+     "sha256": "6962cc524509ea35fe293db1956b8ade9422e724081bdeabe0d48eb51f170c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-39-2002",
+   "path": "local/judet/iasi/2002/39",
+   "short": "HCJ Iași nr. 39/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 39/2002 pentru contractul \"Reabilitarea si modernizarea Statiei de tratare Chirita Iasi\", proiect component al masurii \"Imbunatatirea sistemului de apa potab",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-39",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-39",
+     "sha256": "0a8d4a50ee79b90a9a9d92e9d59417f76970de29c57fc27695490936b4b5e44f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-40-2002",
+   "path": "local/judet/iasi/2002/40",
+   "short": "HCJ Iași nr. 40/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 40/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-40",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-40",
+     "sha256": "ed36248558d07fd11afe0be8015fd99e6670ffbf66ff145f59079e41b80b9170"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-41-2002",
+   "path": "local/judet/iasi/2002/41",
+   "short": "HCJ Iași nr. 41/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 41/2002",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-41",
+   "versions": [
+    {
+     "from": "2002-03-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-03-26/hot%C4%83r%C3%A2rea-nr-41",
+     "sha256": "b1b9e6c57af2c44664ffb0490c58e38f9c4ebe64dde0b4a703f3898e17b76dd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-42-2002",
+   "path": "local/judet/iasi/2002/42",
+   "short": "HCJ Iași nr. 42/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 42/2002 privind deplasarea vor fi realizate conform HG nr. 518/1995 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 12:25 Ultima actualizare: 21/05/2013 - 14:19",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-42",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-42",
+     "sha256": "9421a95538be4256e43c3725e5aadf2759e78db06979d27ed5434b92ca6471ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-43-2002",
+   "path": "local/judet/iasi/2002/43",
+   "short": "HCJ Iași nr. 43/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 43/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-43",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-43",
+     "sha256": "ff1c8a05e4c2b7b113f8e3da4634bb1ad6210b1466714f351fa97a827b2ad0c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-44-2002",
+   "path": "local/judet/iasi/2002/44",
+   "short": "HCJ Iași nr. 44/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 44/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-44",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-44",
+     "sha256": "18c70910a3018761e893eb90c95efc712d30b158acb82f93061b1e38459f81f1"
     }
    ]
   },
@@ -33,6 +993,336 @@
    ]
   },
   {
+   "slug": "hcj-iasi-46-2002",
+   "path": "local/judet/iasi/2002/46",
+   "short": "HCJ Iași nr. 46/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 46/2002 pentru Dezvoltare Regionala Nord-Est. Tags: hotărâre hotărâri hotărâri 200",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-46",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-46",
+     "sha256": "d01927d3fa819d51a16d47be7a08acacd3cd2df5ad4449f3b357bdbf67485022"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-47-2002",
+   "path": "local/judet/iasi/2002/47",
+   "short": "HCJ Iași nr. 47/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 47/2002 pentru eliberare de acorduri si autorizatii, inchirieri de suprafete din ampriza si zona de siguranta a drumurilor judetene conform anexei 1 si mentinerea taxei pe",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-47",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-47",
+     "sha256": "2ab0e32d338c30916fb99dfb4e2f6ba10c6ced9d4ad79c4eb84e8ec88e713032"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-48-2002",
+   "path": "local/judet/iasi/2002/48",
+   "short": "HCJ Iași nr. 48/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 48/2002 pentru eliberarea avizelor si autorizatiilor in domeniul constructiilor si pentru desfasurarea de activitati economice pe baza liberei initiative, pentru anul fiscal 20",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-48",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-48",
+     "sha256": "cc102740f4cc4644ef192992572b0f73e964bcee80d308a6d5d228a82a0ad934"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-53-2002",
+   "path": "local/judet/iasi/2002/53",
+   "short": "HCJ Iași nr. 53/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 53/2002",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-53",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-53",
+     "sha256": "de2c9dceb27721f34d83d0a04c86bc9dc9d95140b38e48ba8aded34dbc436fee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-58-2002",
+   "path": "local/judet/iasi/2002/58",
+   "short": "HCJ Iași nr. 58/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 58/2002",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-58",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-58",
+     "sha256": "c711d02100f01bb11d6dcc928106b9dbde9060b551458856c964460ef8a7b889"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-64-2002",
+   "path": "local/judet/iasi/2002/64",
+   "short": "HCJ Iași nr. 64/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 64/2002",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-64",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-64",
+     "sha256": "55edaaeeb234c1b882f9e8b4c5ffee8a9642518b8259dd271d0def4ae10cb720"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-69-2002",
+   "path": "local/judet/iasi/2002/69",
+   "short": "HCJ Iași nr. 69/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 69/2002 pentru judetul Iasi in cadrul Programului PHARE RICOP al Uniunii Europene, cu suma de 439160,8 Euro (13261.78 mil lei la un curs valutar de 301",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-69",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-05-29/hot%C4%83r%C3%A2rea-nr-69",
+     "sha256": "60df044c1e595e817576f98e3ec65d7f8db1df4057fe9a65e7fde537c6782c2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-70-2002",
+   "path": "local/judet/iasi/2002/70",
+   "short": "HCJ Iași nr. 70/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 70/2002 pentru personalul cu contract individual de munca din aparatul propriu al Consiliului Judetean Iasi, conform anexei nr.1 care face parte integranta din prezenta hotarire, cu aplic",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-70",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-70",
+     "sha256": "c22ad2d9ba6e78e7e74a3134fb754fcb0f18d22b1229a60eb9bdaf87b7f71f30"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-71-2002",
+   "path": "local/judet/iasi/2002/71",
+   "short": "HCJ Iași nr. 71/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 71/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-71",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-71",
+     "sha256": "2a8b7fa0e7f607d5eeabcee31228e658dd9441e8558387369ed95f253f49c1ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-72-2002",
+   "path": "local/judet/iasi/2002/72",
+   "short": "HCJ Iași nr. 72/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 72/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-72",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-72",
+     "sha256": "29a0ef90478328f1afc0c4164016439653497102c9cfa44f0b03147a7f1c0241"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-73-2002",
+   "path": "local/judet/iasi/2002/73",
+   "short": "HCJ Iași nr. 73/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 73/2002 pentru imprumutul contractat de RAJAC Iasi cu BERD pentru 13,2 mil. EURO si prevederile Amendamentului din 12.1",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-73",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-73",
+     "sha256": "0c608c6f712bd3182a927367fcc674749d4d8769ce3fc97dc4be35aaf2b4fd61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-74-2002",
+   "path": "local/judet/iasi/2002/74",
+   "short": "HCJ Iași nr. 74/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 74/2002 pentru eliberarea unor copii (tip xerox) privind informatii de interes public si certificarea exactitatii acestora, dupa cum urmeaza: pentru fiecare pagina format A4 - 1.500 l",
+   "url": "http://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-74",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-74",
+     "sha256": "7a5dab80734a67cccfdb92fccfcfc73640e9600b4bd93f912a155b2910226068"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-75-2002",
+   "path": "local/judet/iasi/2002/75",
+   "short": "HCJ Iași nr. 75/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 75/2002 pentru cele cinci societati comerciale de mai jos, debitoare Consiliului Judetean Iasi: SC IOPEMATI SRL CF 7978955; SC ENERGOTEC SRL CF 1963378; SC TAMI POPA",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-75",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-75",
+     "sha256": "3a6ad97552557fa58003d879cfb54ce204afa989f4d9cc1df5817ddb68269e7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-76-2002",
+   "path": "local/judet/iasi/2002/76",
+   "short": "HCJ Iași nr. 76/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 76/2002 pentru transportul aerian 633 Activitati ale agentiilor de turism 6330 Activitati ale agentiilor de turism si asistenta turistica 634 Activitati ale altor agentii de transport 6340 Activitati ale altor agentii de transport Cod CAEN: 744 Publicitate 7440 Activitatea agentiilor de publicitate care se ocupa cu vinzarea sau inchirierea mijloacelor pentru reclama; de planificarea, crearea si amplasarea",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-76",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-76",
+     "sha256": "02d9840ce28af4a873cb4b4fb9fd3378bb054288198496dc2341217e79577246"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-77-2002",
+   "path": "local/judet/iasi/2002/77",
+   "short": "HCJ Iași nr. 77/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 77/2002 pentru studiu geotehnic, ridicarea topo, Brief Design, studiu impact si a documentatiilor de analiza economica. Art.2 Directia Tehnica, Directia Economica, Serviciul Prognoze si Integrare Regionala si RA Aeroportul Iasi vor duce la indeplinire prevederile prezentei hotariri. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 14:38 Ultima actualizare: 21/05/2013 - 14:38",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-77",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-77",
+     "sha256": "94a3d2aa5c2735e763d44c5ed66b73288ec28b446dd9d389ede4df95c7f216e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-79-2002",
+   "path": "local/judet/iasi/2002/79",
+   "short": "HCJ Iași nr. 79/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 79/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-79",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-79",
+     "sha256": "13d8c4e9104d14f8eda7e6ebba6cc8c61c81a1d73ef71c2caf7cce219455db87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-80-2002",
+   "path": "local/judet/iasi/2002/80",
+   "short": "HCJ Iași nr. 80/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 80/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-80",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-80",
+     "sha256": "89ebc7ff94065d1f66c811f0c2d16113a9b9ca3e104c79a16211b1c2c4e134cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-81-2002",
+   "path": "local/judet/iasi/2002/81",
+   "short": "HCJ Iași nr. 81/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 81/2002 pentru luare la cunostinta sub semnatura de catre toti salariatii. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 14:45 Ultima actualizare: 21/05/2013 - 14:45",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-81",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-81",
+     "sha256": "c0851ef47f46c2ef161f1b7f010a5fb95709f8e956c93217bb958fd4131967e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-82-2002",
+   "path": "local/judet/iasi/2002/82",
+   "short": "HCJ Iași nr. 82/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 82/2002 pentru cauza de utilitate publica a suprafetei de teren de 1050 mp situat in satul Dolhesti, comuna Dolhesti, judetul Iasi",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-82",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-82",
+     "sha256": "2d9086dc8c8e04501d7dd5eec8b24b9649613da9c57920256202f8204834e245"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-83-2002",
+   "path": "local/judet/iasi/2002/83",
+   "short": "HCJ Iași nr. 83/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 83/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-83",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-83",
+     "sha256": "bfb8b6dcd8929bb8550fd81c800ce4dbc9566fcc9b23ee60c016fe529e9db3d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-84-2002",
+   "path": "local/judet/iasi/2002/84",
+   "short": "HCJ Iași nr. 84/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 84/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-84",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-84",
+     "sha256": "b447027ebc21e94c18b8c4043e539639beab5f2853b5095697262748de0a4b44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-85-2002",
+   "path": "local/judet/iasi/2002/85",
+   "short": "HCJ Iași nr. 85/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 85/2002 pentru reflectarea activitatii Consiliului Judetean Iasi. Direc",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-85",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-85",
+     "sha256": "51bb4da30df30f628d32d39735b7b9f57d891b9ff1ac74fe3f14e0a9adbf8265"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-86-2002",
    "path": "local/judet/iasi/2002/86",
    "short": "HCJ Iași nr. 86/2002",
@@ -44,6 +1334,201 @@
      "units": 1,
      "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-86",
      "sha256": "5c20e1a9163424d5095f24df866a4f981321aa4819ae1b29fa068b3466263a50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-87-2002",
+   "path": "local/judet/iasi/2002/87",
+   "short": "HCJ Iași nr. 87/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 87/2002 pentru SC Lucrari Drumuri si Poduri SA Iasi. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 14:52 Ulti",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-87",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-87",
+     "sha256": "cbe6a00765a28bfcc9673c0d9a73ce78783329578ede85acdf3a914da48a0740"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-88-2002",
+   "path": "local/judet/iasi/2002/88",
+   "short": "HCJ Iași nr. 88/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 88/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-88",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-88",
+     "sha256": "410f6cb6bca70c3585f628994e4de455d1462f1180de9f8fcfbfba39960599af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-89-2002",
+   "path": "local/judet/iasi/2002/89",
+   "short": "HCJ Iași nr. 89/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 89/2002 privind Protectia Copilului pentru anii 2002-2007\". Art.2 Cu data prezentei se abroga Hotarirea nr. 100 a Consiliului Judetean Iasi din data de 09.08.2001. Tags",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-89",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-89",
+     "sha256": "06adb5806c144bedcad9036baf9cba80c820231ccb03df03911e787ba479bd2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-90-2002",
+   "path": "local/judet/iasi/2002/90",
+   "short": "HCJ Iași nr. 90/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 90/2002 pentru ocuparea posturilor vacante in aparatul propriu, conform anexei care face parte integranta din prezenta hotarire. Art.2 Directia Organi",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-90",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-07-16/hot%C4%83r%C3%A2rea-nr-90",
+     "sha256": "0ec51a93608100d703c5b048ed24f1e7d94ff379f073ed57ab0d6f509802f3a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-91-2002",
+   "path": "local/judet/iasi/2002/91",
+   "short": "HCJ Iași nr. 91/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 91/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-91",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-91",
+     "sha256": "862a793c7611e22b33f73055e331985eb7bb98a36e987aee30ce56a9153eec85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-92-2002",
+   "path": "local/judet/iasi/2002/92",
+   "short": "HCJ Iași nr. 92/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 92/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-92",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-92",
+     "sha256": "828e794be2cd40da607a97daa8a904c71a1203807d5b8e3c59fa5edde15307a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-93-2002",
+   "path": "local/judet/iasi/2002/93",
+   "short": "HCJ Iași nr. 93/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 93/2002 pentru Politici Inovatoare de Dezvoltare Regionala\", care se va desfasura in localitatea Opatija (regiunea Pimorsko-Goransca, Croatia)",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-93",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-93",
+     "sha256": "9859f5c361f86911c37f9a196936789df1d619fcf62beea887249ad3d7a58d53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-94-2002",
+   "path": "local/judet/iasi/2002/94",
+   "short": "HCJ Iași nr. 94/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 94/2002 privind deplasarea vor fi realizate conform HG 518/1995 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 15:04 Ultima actualizare: 21/05/2013 - 15:04",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-94",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-94",
+     "sha256": "a15c7011a01250359be5bdb324e94964c31d90bfb5b782c1bf9fe6aacc8cf800"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-95-2002",
+   "path": "local/judet/iasi/2002/95",
+   "short": "HCJ Iași nr. 95/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 95/2002 pentru perioada august-decem",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-95",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-95",
+     "sha256": "5c96a65cfd67f4ae8a07989c373ab6b0154670305e4f76746f907b49160579c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-96-2002",
+   "path": "local/judet/iasi/2002/96",
+   "short": "HCJ Iași nr. 96/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 96/2002 pentru stabilirea si evaluarea terenurilor aflate in patrimoniul SA ALIMENTARA SA Iasi, stabilita prin Decizia Consiliului Judetean Iasi nr.8/25.01.1994, se modifica urmind a functiona in urmatoare",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-96",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-96",
+     "sha256": "e34695ebdda7e9403f582962e8ff54e77f235e54a361c8680c6de4f62e78abcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-97-2002",
+   "path": "local/judet/iasi/2002/97",
+   "short": "HCJ Iași nr. 97/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 97/2002 privind deplasarea vor fi realizate conform HG 518/1995 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 15:10 Ultima actualizare: 21/05/2013 - 15:10",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-97",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-97",
+     "sha256": "f3a2603c1bc409e0e537e02dd619df558a963c02b871606886d887cb6c5982a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-98-2002",
+   "path": "local/judet/iasi/2002/98",
+   "short": "HCJ Iași nr. 98/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 98/2002",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-98",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-98",
+     "sha256": "891f4a43fe6142b7522090cff7db0abd8c22572e0b2c67bc0c26c0977f065d9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-99-2002",
+   "path": "local/judet/iasi/2002/99",
+   "short": "HCJ Iași nr. 99/2002",
+   "title": "Hotărârea Consiliului Județean Iași nr. 99/2002 pentru accesul a trei gospodarii. Art.2 Expropriatorul este Consiliul Local al comunei Dolhesti. Art.3 Prezentul act de declarare a utilitatii publice va fi adus la cunostinta publica prin afisare la sediul Consiliului Local al comunei Dolhesti si prin mass-media. Tags: hotărâre hotărâri hotărâri 2002 Creat de icc la Mar, 21/05/2013 - 15:12 Ultima actualizare: 21/05/2013 - 15:12",
+   "url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-99",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2002/2002-08-29/hot%C4%83r%C3%A2rea-nr-99",
+     "sha256": "3321359a4ab827f67be1855561386515f56828bb83e00f1a75171a9446010e82"
     }
    ]
   }

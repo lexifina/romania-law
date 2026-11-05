@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2021",
+ "acts": [
+  {
+   "slug": "hcj-prahova-304-2021",
+   "path": "local/judet/prahova/2021/304",
+   "short": "HCJ Prahova nr. 304/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 304/2021 privind aprobarea Planului de restructurare a Centrului de Integrare prin Terapie Ocupaţională pentru Persoane Adulte cu Handicap Urlaţi",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-304-din-data-23-12-2021.pdf",
+     "sha256": "8a89e93a9b8f42eae6aaccf82614761aa02f5ebc7b1f750d5b1a9f472bbbd6b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-305-2021",
+   "path": "local/judet/prahova/2021/305",
+   "short": "HCJ Prahova nr. 305/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 305/2021 privind aprobarea Planului de restructurare a Centrului de Recuperare şi Reabilitare Neuropsihiatrică pentru Persoane Adulte cu Handicap Călinești",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-305-din-data-23-12-2021.pdf",
+     "sha256": "02938dc7c3f72ebbf3bc42f69b8f6a2f8118b1c8982fad630e2a550a5a4387ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-306-2021",
+   "path": "local/judet/prahova/2021/306",
+   "short": "HCJ Prahova nr. 306/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 306/2021 privind aprobarea Planului de restructurare a Centrului de Recuperare şi Reabilitare Neuropsihiatrică pentru Persoane Adulte cu Handicap Nedelea",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-306-din-data-23-12-2021.pdf",
+     "sha256": "3703ff2f8c1e5785cccb5f6469e9019aa10e820fa3cb87d66d1789d7fb702c15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-307-2021",
+   "path": "local/judet/prahova/2021/307",
+   "short": "HCJ Prahova nr. 307/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 307/2021 privind aprobarea Planului de restructurare a Centrului de Recuperare şi Reabilitare Neuropsihiatrică pentru Persoane Adulte cu Handicap Urlați",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-307-din-data-23-12-2021.pdf",
+     "sha256": "6c7b74fb6fd7280902b2721a69062c2dcaeb30326d1fd6c2888f7e29f82c21cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-308-2021",
+   "path": "local/judet/prahova/2021/308",
+   "short": "HCJ Prahova nr. 308/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 308/2021 privind aprobarea Planului de restructurare a Centrului de Îngrijire și Asistență pentru Persoane Adulte cu Handicap Mislea",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-308-din-data-23-12-2021.pdf",
+     "sha256": "ad3d240c580cc53388bc31cb8e77448d7b8cf9e50c103950c88a315a973c6dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-309-2021",
+   "path": "local/judet/prahova/2021/309",
+   "short": "HCJ Prahova nr. 309/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 309/2021 privind înființarea Centrului de Abilitare și Reabilitare pentru Persoane Adulte cu Dizabilități Tătărăi, ca serviciu social rezidențial fără personalitate juridică, în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahova, prin reorga",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-309-din-data-23-12-2021.pdf",
+     "sha256": "05bbc2434f8d516998f0951f39ba2ed0b46d8127687ce1af16f962e33be73bda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-310-2021",
+   "path": "local/judet/prahova/2021/310",
+   "short": "HCJ Prahova nr. 310/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 310/2021 privind înființarea Centrului de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități al Complexului de Servicii Comunitare Puchenii Mari ca serviciu social rezidențial fără personalitate juridică, în structura Direcției Generale de Asistență Socială și",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-310-din-data-23-12-2021.pdf",
+     "sha256": "78459b25022e2adc26372b4c3603a785b8ce626aeedc621c66624f009f98a3b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-311-2021",
+   "path": "local/judet/prahova/2021/311",
+   "short": "HCJ Prahova nr. 311/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 311/2021 privind înființarea Centrului Rezidențial de Asistență și Reintegrare Socială pentru Persoane fără Adăpost al Complexului de Servicii Comunitare Puchenii Mari ca serviciu social fără personalitate juridică, în structura Direcției Generale de Asistență Socială și",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-311-din-data-23-12-2021.pdf",
+     "sha256": "829fb8b44af37ce90e8b4532716f8b14fd9beb035ac572b621f44064a318eb0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-313-2021",
+   "path": "local/judet/prahova/2021/313",
+   "short": "HCJ Prahova nr. 313/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 313/2021 privind înființarea Centrului Rezidențial pentru Persoane -Vârstnice Pensionari Fîntînele al Complexului de Servicii Comunitare Fîntînele ca serviciu social rezidențial fără personalitate juridică, în structura Direcției Generale de Asistență Socială și Protecți",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-313-din-data-23-12-2021.pdf",
+     "sha256": "3f731928d0c9e4649405865c79d504bb357d2632a2824d2897c297d7625a8007"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-314-2021",
+   "path": "local/judet/prahova/2021/314",
+   "short": "HCJ Prahova nr. 314/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 314/2021 privind înființarea Centrului de Abilitare și Reabilitare pentru Persoane Adulte cu Dizabilități ”Casa Rozei” Urlați, ca serviciu social rezidențial fără personalitate juridică, în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-314-din-data-23-12-2021.pdf",
+     "sha256": "2543f63466a171cc3f45092e54299a91a48c5cef4dab1389990faf2b7c7bb598"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-315-2021",
+   "path": "local/judet/prahova/2021/315",
+   "short": "HCJ Prahova nr. 315/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 315/2021 privind înfiinţarea Centrului de Abilitare și Reabilitare pentru Persoane Adulte cu Dizabilități Câmpina ca serviciu social rezidenţial fără personalitate juridică în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahova, prin reorgani",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-315-din-data-23-12-2021.pdf",
+     "sha256": "2bdf93b0e8a4bd566f84fada3eaf11cf313a8147fd504e4e4593bf2420baf986"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-316-2021",
+   "path": "local/judet/prahova/2021/316",
+   "short": "HCJ Prahova nr. 316/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 316/2021 privind înfiinţarea Centrului de Îngrijire şi Asistenţă pentru Persoane Adulte cu Handicap Lilieşti-Băicoi ca serviciu social rezidențial fără personalitate juridică, în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahova, prin reorg",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-316-din-data-23-12-2021.pdf",
+     "sha256": "58874936419af59d8671a5fa874cbc7faec4c9b3c81324615d6236f478d5165f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-317-2021",
+   "path": "local/judet/prahova/2021/317",
+   "short": "HCJ Prahova nr. 317/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 317/2021 privind înfiinţarea Centrului de Îngrijire și Asistență pentru Persoane Adulte cu Handicap Mislea ca serviciu social rezidenţial fără personalitate juridică în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahova, prin reorganizarea a",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-317-din-data-23-12-2021.pdf",
+     "sha256": "c6fc007417c622dd5611ec0704c4ff8467f88d5be2eb73b77a8a8baf50950f6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-318-2021",
+   "path": "local/judet/prahova/2021/318",
+   "short": "HCJ Prahova nr. 318/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 318/2021 privind înfiinţarea Centrului de Integrare prin Terapie Ocupaţională pentru Persoane Adulte cu Handicap Urlaţi ca serviciu social rezidenţial fără personalitate juridical în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahova, prin r",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-318-din-data-23-12-2021.pdf",
+     "sha256": "4ed56e3946ff20ad419910ec9c76921938d19e0463448c9abcfd44c0646252f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-319-2021",
+   "path": "local/judet/prahova/2021/319",
+   "short": "HCJ Prahova nr. 319/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 319/2021 privind înfiinţarea Centrului de Recuperare şi Reabilitare Neuropsihiatrică pentru Persoane Adulte cu Handicap Călinești ca serviciu social rezidenţial fără personalitate juridică în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahov",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-319-din-data-23-12-2021.pdf",
+     "sha256": "70209e568e378c2e51cd32a9b8548d90c5206aca708df4d56f35fd216bcbef45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-320-2021",
+   "path": "local/judet/prahova/2021/320",
+   "short": "HCJ Prahova nr. 320/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 320/2021 privind înfiinţarea Centrului de Recuperare și Reabilitare Neuropsihiatrică pentru Persoane Adulte cu Handicap Nedelea ca serviciu social rezidenţial fără personalitate juridică în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-320-din-data-23-12-2021.pdf",
+     "sha256": "0c0ceedd37c63221ff1d5ccc82c784d60491e7cea62d720d672589ebfc8b8046"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-321-2021",
+   "path": "local/judet/prahova/2021/321",
+   "short": "HCJ Prahova nr. 321/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 321/2021 privind înfiinţarea Centrului de Recuperare și Reabilitare Neuropsihiatrică pentru Persoane Adulte cu Handicap Urlați ca serviciu social rezidenţial fără personalitate juridică în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-321-din-data-23-12-2021.pdf",
+     "sha256": "bce80dfa1dd5372624711a0b8404260159db9e49b6f3eefeda35ef1d28cd38c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-322-2021",
+   "path": "local/judet/prahova/2021/322",
+   "short": "HCJ Prahova nr. 322/2021",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 322/2021 privind înfiinţarea Centrului de Îngrijire şi Asistență pentru Persoane Adulte cu Dizabilități Urlați ca serviciu social rezidenţial fără personalitate juridică în structura Direcției Generale de Asistență Socială și Protecția Copilului Prahova, prin reorganizar",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/01/Hotararea-nr.-322-din-data-23-12-2021.pdf",
+     "sha256": "d41e96fb820ed0638fc7469fa71aae088cd5a4f6e192190fad9282ce886a8e2c"
+    }
+   ]
+  }
+ ]
+}

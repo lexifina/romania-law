@@ -3,6 +3,50 @@
 "shard": "local/judet/prahova/2026",
 "acts": [
 {
+"slug": "hcj-prahova-262-2026",
+"path": "local/judet/prahova/2026/262",
+"kind": "local",
+"year": "2026",
+"number": "262",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 262/2026 pentru completarea Hotărârii Consiliului Județean Prahova nr. 27/2025 privind aprobarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Prahova",
+"short": "HCJ Prahova nr. 262/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2026/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-263-2026",
+"path": "local/judet/prahova/2026/263",
+"kind": "local",
+"year": "2026",
+"number": "263",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 263/2026 pentru modificarea și completarea Hotărârii Consiliului Județean Prahova nr. 321/2025 privind darea în folosinţă gratuită a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+"short": "HCJ Prahova nr. 263/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2026/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-prahova-264-2026",
 "path": "local/judet/prahova/2026/264",
 "kind": "local",
@@ -22,6 +66,28 @@
 "council_name": "Consiliul Județean Prahova",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-266-2026",
+"path": "local/judet/prahova/2026/266",
+"kind": "local",
+"year": "2026",
+"number": "266",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 266/2026 privind aprobarea contractării și garantării unei finanțări rambursabile interne în valoare de 300.000.000 lei, destinată refinanțării datoriei publice locale și finanțării unor obiective de investiții de interes public județean",
+"short": "HCJ Prahova nr. 266/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2026/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

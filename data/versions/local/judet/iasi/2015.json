@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2015",
+ "acts": [
+  {
+   "slug": "hcj-iasi-112-2015",
+   "path": "local/judet/iasi/2015/112",
+   "short": "HCJ Iași nr. 112/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 112/2015 privind aprobarea procesului - verbal al ședinței ordinare a Consiliului Județean Iași din data de 29 aprilie 2015 Creat de icc la Vin, 12/06/2015 - 09:25 Ultima actualiz",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-112",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-112",
+     "sha256": "54018cd993c6feb635095d33f3179aca631213a20eac1b8917aaceaa1a7526cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-113-2015",
+   "path": "local/judet/iasi/2015/113",
+   "short": "HCJ Iași nr. 113/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 113/2015 privind aprobarea situațiilor financiare încheiate la data de 31.12.2014 de către Regia Autonomă Aeroportul Iași Creat de icc la Vin, 12/06/2015 - 09:34 Ultima actualizar",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-113",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-113",
+     "sha256": "39de610e64c1d4c98d93009ccfdf3f0463f328e257cc120d4f66144078890bf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-114-2015",
+   "path": "local/judet/iasi/2015/114",
+   "short": "HCJ Iași nr. 114/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 114/2015 privind aprobarea Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare a Filarmonicii de Stat ”Moldova” Iași Creat de icc la Vin, 12/06/2015",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-114",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-114",
+     "sha256": "8c075eff44f981d0fca61b31da7edad127b8f1f637c09e3f5bda5a9769b929c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-115-2015",
+   "path": "local/judet/iasi/2015/115",
+   "short": "HCJ Iași nr. 115/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 115/2015 privind demararea procedurii în vederea concesionării, prin licitație publică, a imobilului Club Pogor, situat în Iași, str",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-115",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-115",
+     "sha256": "5cf39181607256a00cfb862455dbbf351def58b543475d0ffed4dcfb1cf7bfbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-116-2015",
+   "path": "local/judet/iasi/2015/116",
+   "short": "HCJ Iași nr. 116/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 116/2015 privind modificarea componenței Consiliului de administrație al Spitalului Clinic de Urgență pentru Copii ”Sf. Maria” Iași Creat de icc la Vin, 12/06/2015 - 10:52 Ultima",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-116",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-116",
+     "sha256": "d2fe2320bcd8b14bfff0fe0ffbfd3f60f0d3db0c2fedec829c21f4a95387851a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-117-2015",
+   "path": "local/judet/iasi/2015/117",
+   "short": "HCJ Iași nr. 117/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 117/2015",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-117",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-117",
+     "sha256": "4d3a2b0fd11ce53df796d05ec32350f4145bdbfe54a0f33a8bc7b82e402fb4b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-118-2015",
+   "path": "local/judet/iasi/2015/118",
+   "short": "HCJ Iași nr. 118/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 118/2015 privind modificarea Hotărârii Consiliului Județean lași nr. 64 din 27.02.2014 modificată și completată prin Hotărârea Consiliului Județean lași nr.132 din 24.04.2014 Creat",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-118",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-118",
+     "sha256": "b6313a803f1785e16d1a46404f2f3a3120c3a56feeaa1af68ab8924a088fa07d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-119-2015",
+   "path": "local/judet/iasi/2015/119",
+   "short": "HCJ Iași nr. 119/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 119/2015 privind rectificarea Hotărârii Consiliului Județean Iași nr.102 din 29.04.2015 privind aprobarea încheierii Acordului de cooperare între Județul lași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-119",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-119",
+     "sha256": "fa39904fb2a95a5b19c08a3c01b2f911436398ca7baccf825d4212a8f8ffeb8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-120-2015",
+   "path": "local/judet/iasi/2015/120",
+   "short": "HCJ Iași nr. 120/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 120/2015 privind atribuirea în folosință gratuită a imobilului, proprietate publică a Județului Iași, în suprafață de 1385 mp, situat în Iași, str",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-120",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-120",
+     "sha256": "b14b8b9c7c174aef98b7c5cc3f65770c4621e8d0cbd87725afb560cb70e6671e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-121-2015",
+   "path": "local/judet/iasi/2015/121",
+   "short": "HCJ Iași nr. 121/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 121/2015 privind aprobarea solicitării de prelungire a folosinței gratuite în favoarea Agenției Județene pentru Ocuparea Forței de Munca a pavilioanelor K și L cu terenul aferent în",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-121",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-121",
+     "sha256": "d71cd9deb1fd3826032dd826ab3a4d08679bd9fc9a819050f571a6bc4ff49cf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-122-2015",
+   "path": "local/judet/iasi/2015/122",
+   "short": "HCJ Iași nr. 122/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 122/2015",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-122",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-122",
+     "sha256": "f4d7da3d6eac02de7034398a5155dfdfb25307776f44f38cddbb4b90c4cda051"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-123-2015",
+   "path": "local/judet/iasi/2015/123",
+   "short": "HCJ Iași nr. 123/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 123/2015 privind rectificarea bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-123",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-123",
+     "sha256": "d698107f30b159b6216ee8d52d97128b5d810692f3ff41be12d2dd3ae3b2b94b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-124-2015",
+   "path": "local/judet/iasi/2015/124",
+   "short": "HCJ Iași nr. 124/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 124/2015 privind aprobarea contului de execuție al bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-124",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-124",
+     "sha256": "f667acb5fc68bc71c890b058a6f04f16929c9bf25c74ed70a3e4ce02c850396f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-125-2015",
+   "path": "local/judet/iasi/2015/125",
+   "short": "HCJ Iași nr. 125/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 125/2015 privind aprobarea execuției bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-125",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-125",
+     "sha256": "56383c3730d38420aad86d3c57cbf9acaa23280349d3d6cd38273d01476bcb25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-126-2015",
+   "path": "local/judet/iasi/2015/126",
+   "short": "HCJ Iași nr. 126/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 126/2015 privind desemnarea persoanelor care pot înlocui reprezentantul Județului Iași în Adunarea Generală a Asociației Regionale a Serviciilor de Apă Canal Creat de icc la Lun, 1",
+   "url": "https://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-126",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "https://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-126",
+     "sha256": "58fca692e1c55432a1645381893fcb4a028f06e20a9f966c8d4d149e0b529b64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-127-2015",
+   "path": "local/judet/iasi/2015/127",
+   "short": "HCJ Iași nr. 127/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 127/2015 privind aprobarea modificărilor la Contractul de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare Creat de icc la Lun, 15/06/2015 - 09:15 Ultim",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-127",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-127",
+     "sha256": "95eda581ba37fb57b1ec1366ae011e9892cdf49198632e0c3b6304098ae74da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-128-2015",
+   "path": "local/judet/iasi/2015/128",
+   "short": "HCJ Iași nr. 128/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 128/2015 privind aprobarea Studiului de fezabilitate și indicatorii tehnico-economici la proiectul „Investiții pentru exploatarea și întreținerea sistemelor de apă la nivelul ariei d",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-128",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-128",
+     "sha256": "f339ce699c3736f475ca1c07d806d61c32be84cc09c0143c01027593982a69f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-129-2015",
+   "path": "local/judet/iasi/2015/129",
+   "short": "HCJ Iași nr. 129/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 129/2015 privind aprobarea modificării componenței Autorității Teritoriale de Ordine Publică Iași Creat de icc la Lun, 15/06/2015 - 09:19 Ultima actualizare: 16/06/2015 - 06:39",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-129",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-129",
+     "sha256": "b3413ffa1394328a17e5af93b81a8cbe2738a4a048debc0540552f8505b39b26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-130-2015",
+   "path": "local/judet/iasi/2015/130",
+   "short": "HCJ Iași nr. 130/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 130/2015 privind aprobarea componenței nominale a Comisiei de evaluare pentru persoanele adulte cu handicap Iași Creat de icc la Lun, 15/06/2015 - 09:34 Ultima actualizare: 16/06/",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-130",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-130",
+     "sha256": "ea3c20b07db82ffcded405dc0e718ebe5db56ec14ab376cbfb59508ef48a9415"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-131-2015",
+   "path": "local/judet/iasi/2015/131",
+   "short": "HCJ Iași nr. 131/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 131/2015 privind înlocuirea unui membru al Comisiei pentru Protecția Copilului Iași Creat de icc la Lun, 15/06/2015 - 09:36 Ultima actualizare: 16/06/2015 - 06:40",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-131",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-131",
+     "sha256": "201c65f5eb29e093c9d6933cc67ff86b47844362d322a440ada7563318f9dc3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-132-2015",
+   "path": "local/judet/iasi/2015/132",
+   "short": "HCJ Iași nr. 132/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 132/2015 privind aprobarea încheierii Protocolului între Agenția de Plăți și Intervenție pentru Agricultură și Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-132",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-132",
+     "sha256": "571423aeed2293dce7d4e5e935c588e3c01afbf3e9c1856796bae36c6611f88b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-133-2015",
+   "path": "local/judet/iasi/2015/133",
+   "short": "HCJ Iași nr. 133/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 133/2015 privind aprobarea încheierii Protocolului între Oficiul Național al Registrului Comerțului și Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-133",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-133",
+     "sha256": "fbecb0d6191dd04c80a5fd4a821862cfb1b1bd3d98fe3fda02bc52feda963932"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-134-2015",
+   "path": "local/judet/iasi/2015/134",
+   "short": "HCJ Iași nr. 134/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 134/2015 privind aprobarea încheierii Acordului de cooperare între Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-134",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-134",
+     "sha256": "806c50a4f8f2f11c8950fb928e0ca182d8b3af4ff548c989311db85ed0bee125"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-135-2015",
+   "path": "local/judet/iasi/2015/135",
+   "short": "HCJ Iași nr. 135/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 135/2015 privind aprobarea încheierii Acordului de cooperare între Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-135",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-135",
+     "sha256": "765383f6c88818e39f41c0500e64e5b24741d2e3f59638d9bf70fe7d766fd4d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-136-2015",
+   "path": "local/judet/iasi/2015/136",
+   "short": "HCJ Iași nr. 136/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 136/2015 privind aprobarea încheierii Acordului de cooperare între Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-136",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-136",
+     "sha256": "89e24d42a725648edd70b0c50611c1988a3fc6998fc4df8c7cc1c1e329ad6b41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-137-2015",
+   "path": "local/judet/iasi/2015/137",
+   "short": "HCJ Iași nr. 137/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 137/2015 privind aprobarea încheierii Acordului de cooperare între Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-137",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-137",
+     "sha256": "38bff3358161589f3fb970657df4369bf208421ef37565f169ddb08ba76ea89a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-138-2015",
+   "path": "local/judet/iasi/2015/138",
+   "short": "HCJ Iași nr. 138/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 138/2015 privind aprobarea încheierii Acordului de cooperare între Județul Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-138",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-138",
+     "sha256": "57832d57d3aa3f6493a739f43f982dee0c1f4d6a95c12f2e2dd0021b2eebf187"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-139-2015",
+   "path": "local/judet/iasi/2015/139",
+   "short": "HCJ Iași nr. 139/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 139/2015 privind mandatarea unui consilier județean ca reprezentant al Consiliului Județean Iași în Asocierea în Participațiune a Parcului Științific și Tehnologic Tehnopolis Iași T",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-139",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-139",
+     "sha256": "67c76c6449206f66d676053b7d72beaf9bd4b67bcfd50a8915d832cdfd44b21b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-140-2015",
+   "path": "local/judet/iasi/2015/140",
+   "short": "HCJ Iași nr. 140/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 140/2015",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-140",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-05-27/hot%C4%83r%C3%A2rea-nr-140",
+     "sha256": "da197c57ea0440438e36eed26f84939a37601fb6baf269853d792a080e21d462"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-19-2015",
+   "path": "local/judet/iasi/2015/19",
+   "short": "HCJ Iași nr. 19/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 19/2015 privind aprobarea valorii cotizației Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-01-27/hot%C4%83r%C3%A2rea-nr-19",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-01-27/hot%C4%83r%C3%A2rea-nr-19",
+     "sha256": "0fbf53912f0d7c32fe7812303b68e639900beea002ac85bdcf1664f29f2a1570"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-248-2015",
+   "path": "local/judet/iasi/2015/248",
+   "short": "HCJ Iași nr. 248/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 248/2015 pentru modificarea Hotărârii Consiliului Judeţean Iaşi nr. 248/29.09.2015 privind aprobarea organigramei, statului de funcţii şi a Regulamentului de organizare şi funcţionare ale Spitalului Clinic de Urgenţă pentru Copii „Sf. Maria” Iaşi",
+   "url": "http://www.icc.ro/ro/%C8%99edin%C8%9B%C4%83-de-plen-cu-num%C4%83r-record-de-proiecte-de-hot%C4%83r%C3%A2re-aprobate-13281",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/online/L248-2015/Rap_evaluare_L248.pdf",
+     "sha256": "49db8aa33f57507a356e98beb530972f9cfa816d958f30215bbe1ed87b11050b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-316-2015",
+   "path": "local/judet/iasi/2015/316",
+   "short": "HCJ Iași nr. 316/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 316/2015 privind inițierea de către",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-10-29/hot%C4%83r%C3%A2rea-nr-316",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-10-29/hot%C4%83r%C3%A2rea-nr-316",
+     "sha256": "c57ef0e29c8748c332f5105603d276412a853fcdb442a91fef77b3ec7e76e199"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-384-2015",
+   "path": "local/judet/iasi/2015/384",
+   "short": "HCJ Iași nr. 384/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 384/2015 privind însușirea în domeniul public/privat al județului Iași imobilului – teren în suprafață de 167 mp situat în municipiul Iași, str",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-384",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-384",
+     "sha256": "a6d7792b6e5469b3d4fb0480503918295f48aa5b70a3dcb03eb2d5baed16b74d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-385-2015",
+   "path": "local/judet/iasi/2015/385",
+   "short": "HCJ Iași nr. 385/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 385/2015 privind însușirea în domeniul public al județului Iași a imobilului – teren în suprafață de 3561 mp situat în municipiul Iași, bld",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-385",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-385",
+     "sha256": "bf19d59b5cbce0c22e7ba3089128df94e2d42928cb729000d60937e2544adbee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-386-2015",
+   "path": "local/judet/iasi/2015/386",
+   "short": "HCJ Iași nr. 386/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 386/2015 privind rectificarea bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-386",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-386",
+     "sha256": "b98402840e7e10758f9264873e33189f514309b0cd56a2e03d8d1413bf1ab6e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-387-2015",
+   "path": "local/judet/iasi/2015/387",
+   "short": "HCJ Iași nr. 387/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 387/2015 privind aprobarea execuției preliminate a bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-387",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-387",
+     "sha256": "37570d1b3822cff05abd8e6b2c8c9c2bfcdf4686af29a31aef9f740dcd1670fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-388-2015",
+   "path": "local/judet/iasi/2015/388",
+   "short": "HCJ Iași nr. 388/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 388/2015 privind modificarea componenței A.T.O.P",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-388",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-12-15/hot%C4%83r%C3%A2rea-nr-388",
+     "sha256": "2b208d1e9b52fbddf4da459e5faab950520914ecb59c0c068de3cca75fe5403a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-389-2015",
+   "path": "local/judet/iasi/2015/389",
+   "short": "HCJ Iași nr. 389/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 389/2015 privind aprobarea procesului – verbal al ședinței ordinare a Consiliului Județean Iași din data de 15 decembrie 2015 Tags: hotărâre hotărâri hotărâri 2015 30.12.2015",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-12-30/hot%C4%83r%C3%A2rea-nr-389",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-12-30/hot%C4%83r%C3%A2rea-nr-389",
+     "sha256": "9821c9cfc659831312c23ac1841546af76c3a4812988764bea19670f3068de78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-390-2015",
+   "path": "local/judet/iasi/2015/390",
+   "short": "HCJ Iași nr. 390/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 390/2015 privind propunerile de repartizare pe unitățile administrativ - teritoriale din județul Iași a procentului de 20% din cotele și sumele defalcate din unele venituri ale",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-12-30/hot%C4%83r%C3%A2rea-nr-390",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-12-30/hot%C4%83r%C3%A2rea-nr-390",
+     "sha256": "a13e83fa1c045c3326cb57f3753d91e38f84dc112c9c3d72a2ed242f051da135"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-391-2015",
+   "path": "local/judet/iasi/2015/391",
+   "short": "HCJ Iași nr. 391/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 391/2015 privind acordarea drepturilor aferente copiilor/elevilor/tinerilor cu cerințe educaționale speciale integrați în învățământul de masă din județul Iași, pe anul 2016 și",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-12-30/hot%C4%83r%C3%A2rea-nr-391",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-12-30/hot%C4%83r%C3%A2rea-nr-391",
+     "sha256": "c473e5ef0822e794025965878c0ac1f03224540cdf6e28c47fd5859091c5a0f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-392-2015",
+   "path": "local/judet/iasi/2015/392",
+   "short": "HCJ Iași nr. 392/2015",
+   "title": "Hotărârea Consiliului Județean Iași nr. 392/2015",
+   "url": "http://www.icc.ro/ro/hotarari/2015/2015-12-30/hot%C4%83r%C3%A2rea-nr-392",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2015/2015-12-30/hot%C4%83r%C3%A2rea-nr-392",
+     "sha256": "19b77239c6641105cae693c2945fb235ecfab7d27f2a2d3fd8b792f38198e3aa"
+    }
+   ]
+  }
+ ]
+}

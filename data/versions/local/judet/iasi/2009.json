@@ -3,6 +3,456 @@
  "shard": "local/judet/iasi/2009",
  "acts": [
   {
+   "slug": "hcj-iasi-101-2009",
+   "path": "local/judet/iasi/2009/101",
+   "short": "HCJ Iași nr. 101/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 101/2009 privind modificarea componentei ATOP Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 10:44 Ultima actualizare: 27/05/2013 - 10:44",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-101",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-101",
+     "sha256": "62b6cc193ec459c6f7d5da1d90ea89b7901075c7b172a8077ac3089e8f8c15ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-105-2009",
+   "path": "local/judet/iasi/2009/105",
+   "short": "HCJ Iași nr. 105/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 105/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-30/hot%C4%83r%C3%A2rea-nr-105",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-30/hot%C4%83r%C3%A2rea-nr-105",
+     "sha256": "4ec8c131501b112d39d87ef9039317b6b03a4b1666d79ec64ba3006a019adb83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-107-2009",
+   "path": "local/judet/iasi/2009/107",
+   "short": "HCJ Iași nr. 107/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 107/2009 privind prelungirea detasarii d-lui D",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-30/hot%C4%83r%C3%A2rea-nr-107",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-30/hot%C4%83r%C3%A2rea-nr-107",
+     "sha256": "d7c9f5f1f23cbf6fb8b2fd6b5bf85195f199acb04fae40c1d9c687a05d7485af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-114-2009",
+   "path": "local/judet/iasi/2009/114",
+   "short": "HCJ Iași nr. 114/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 114/2009 privind aprobarea proiectului \"Retehnologizare Statie de Epurare ape uzate Vladeni\" si abrogarea HCJ 36/02.02.2007 si 335/20.12.2007 Tags: hotărâre hotărâri hotărâri 200",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-30/hot%C4%83r%C3%A2rea-nr-114",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-30/hot%C4%83r%C3%A2rea-nr-114",
+     "sha256": "66b145a8f4c2a67a1f81b0278071fd9960bff498c7f8b9e2b4590c73fe3c8f42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-116-2009",
+   "path": "local/judet/iasi/2009/116",
+   "short": "HCJ Iași nr. 116/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 116/2009 privind aprobarea bilantului contabil - SC APAVITAL SA Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 11:04 Ultima actualizare: 27/05/20",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-30/hot%C4%83r%C3%A2rea-nr-116",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-30/hot%C4%83r%C3%A2rea-nr-116",
+     "sha256": "6bec8bff26d6f6ce3fdf3515ebbeb79b2db4b63976f08b2972b16f95c92ffecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-124-2009",
+   "path": "local/judet/iasi/2009/124",
+   "short": "HCJ Iași nr. 124/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 124/2009 privind taxele locale pentru anul fiscal 2010 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 11:11 Ultima actualizare: 27/05/2013 - 11:11",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-05-27/hot%C4%83r%C3%A2rea-nr-124",
+   "versions": [
+    {
+     "from": "2009-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-05-27/hot%C4%83r%C3%A2rea-nr-124",
+     "sha256": "b0f0a1d91b3d45bceeb178b65cdb9f759b5d6179d0e295af9467239d7e0d1541"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-127-2009",
+   "path": "local/judet/iasi/2009/127",
+   "short": "HCJ Iași nr. 127/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 127/2009 privind aprobarea MASTER PLANULUI - Sectorul Apa/Apa uzata - finantare din Fondurile de coeziune Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-05-27/hot%C4%83r%C3%A2rea-nr-127",
+   "versions": [
+    {
+     "from": "2009-05-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-05-27/hot%C4%83r%C3%A2rea-nr-127",
+     "sha256": "7b3770dffd4793f5d068befe0657f604f4e10bc1f212c9f26d54e528e4c522ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-141-2009",
+   "path": "local/judet/iasi/2009/141",
+   "short": "HCJ Iași nr. 141/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 141/2009 privind rectificarea bugetului de venituri si cheltuieli pentru anul 2009 - SCLDP Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 11:36",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-141",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-141",
+     "sha256": "954b69929ce6d6b7dcef0c526bff5dd92530e43f4dcf8477ceb1bbc08356b81b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-142-2009",
+   "path": "local/judet/iasi/2009/142",
+   "short": "HCJ Iași nr. 142/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 142/2009 privind inscrierea in evidentele Cartii Funciare - imobil Complex T",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-142",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-142",
+     "sha256": "e9dd04bad254e432aea4fa46436562ce6a25b8c19fd02b8b7b9c23d03495d687"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-147-2009",
+   "path": "local/judet/iasi/2009/147",
+   "short": "HCJ Iași nr. 147/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 147/2009 privind modificarea art.3 din HCJ 129/2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 11:47 Ultima actualizare: 27/05/2013 - 11:47",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-147",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-147",
+     "sha256": "b1bb0825bb86a96a963c85711c48b71df6b2fe5ead47530e1fc6063fa9e56418"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-148-2009",
+   "path": "local/judet/iasi/2009/148",
+   "short": "HCJ Iași nr. 148/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 148/2009 privind aprobarea documentatiei - managementul integrat al deseurilor in jud",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-148",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-148",
+     "sha256": "e2308f6dcbd9562e4e2431738238fce5cc59745d8e44921ca91e87b63d77cd74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-149-2009",
+   "path": "local/judet/iasi/2009/149",
+   "short": "HCJ Iași nr. 149/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 149/2009 privind necesitatea aprobarii documentului Modificarea nr. 01 - SC INOCSA INGENIERIA SL - Manastirea Golia - Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-149",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-149",
+     "sha256": "652f2ea062bc3bcded6a3388b04f001d8e398c164c1fa1b192b157e858f72f6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-15-2009",
+   "path": "local/judet/iasi/2009/15",
+   "short": "HCJ Iași nr. 15/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 15/2009 privind aprobarea Ordinului de Modificare nr.1 inaintat de catre firma SC Eptisa Internacional Grupo EP - \"Centrul Expozitional Moldova Iasi\" Tags: hotărâre hotărâri hotă",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-01-22/hot%C4%83r%C3%A2rea-nr-15",
+   "versions": [
+    {
+     "from": "2009-01-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-01-22/hot%C4%83r%C3%A2rea-nr-15",
+     "sha256": "f219a9c38a9a369e85378dd364b38921703b2536c512d9d8cd6b7697c580d163"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-150-2009",
+   "path": "local/judet/iasi/2009/150",
+   "short": "HCJ Iași nr. 150/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 150/2009 privind alocarea sumei de 560.000 mii lei - \"Dezvoltarea si modernizarea Aeroportului International Iasi\" Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-150",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-150",
+     "sha256": "944300c0d887978e6688090e39ef1b4a3a5f7fb348a8b65b3fe95382bc23f8ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-151-2009",
+   "path": "local/judet/iasi/2009/151",
+   "short": "HCJ Iași nr. 151/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 151/2009 privind aprobarea documentatiei de avizare a lucrarilor de interventii - DC 127: valea Seaca - Topile Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-151",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-151",
+     "sha256": "02e6cef3286268a650ba5e270d76324368f131e31417f33d340d1f60f00a6fb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-161-2009",
+   "path": "local/judet/iasi/2009/161",
+   "short": "HCJ Iași nr. 161/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 161/2009 privind aprobarea Organigramei si Statului de functii - UMS Bivolari Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:04 Ultima actualiza",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-161",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-161",
+     "sha256": "97feb6144881dcecdc50ba87c9a8ddbdceef285e81817c597b4faa7b2638bb86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-162-2009",
+   "path": "local/judet/iasi/2009/162",
+   "short": "HCJ Iași nr. 162/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 162/2009 privind coparticiparea CJ Iasi Targul de ceramica traditionala \"Cucuteni 5000\" Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:05 Ultima",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-162",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-06-24/hot%C4%83r%C3%A2rea-nr-162",
+     "sha256": "833c7243a8f4e4f40fe685f3f27aed5b66b61312828a7ffed916bcb4a6f1854b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-163-2009",
+   "path": "local/judet/iasi/2009/163",
+   "short": "HCJ Iași nr. 163/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 163/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-163",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-163",
+     "sha256": "6c6d7d936300d4e9a21ea8c86205799dae0bf1fc0c2da9128404902aeb43fcf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-164-2009",
+   "path": "local/judet/iasi/2009/164",
+   "short": "HCJ Iași nr. 164/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 164/2009 privind aprobarea p.v. al sedintei din data de 24.06.2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:08 Ultima actualizare: 27/05/2",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-164",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-164",
+     "sha256": "f96b0090d6752acb0498b231bcd0d9c2582ec9b3cac2f25614c068975b7bc09a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-165-2009",
+   "path": "local/judet/iasi/2009/165",
+   "short": "HCJ Iași nr. 165/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 165/2009 privind modificarea componentei Comisiei pentru Protectia Copilului Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:10 Ultima actua",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-165",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-165",
+     "sha256": "92383e5e6ada49266cd624390055de934020b29e2ec1f1dc08627b003ee87cec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-166-2009",
+   "path": "local/judet/iasi/2009/166",
+   "short": "HCJ Iași nr. 166/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 166/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-166",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-166",
+     "sha256": "e022902c30a80d246914031b953d95bc4b6ef89740533e49f0bc2295710715b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-167-2009",
+   "path": "local/judet/iasi/2009/167",
+   "short": "HCJ Iași nr. 167/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 167/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-167",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-167",
+     "sha256": "ea1bf080e35aab544d9f72769a30b32be546506cb0696434385110efc7eb217f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-168-2009",
+   "path": "local/judet/iasi/2009/168",
+   "short": "HCJ Iași nr. 168/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 168/2009 privind modificarea componentei Consiliului de Administratie al R.A",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-168",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-168",
+     "sha256": "229004cf1359240b7bf61c1f11bd85d71b151a3412d1fa301c37373bb3c9745e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-169-2009",
+   "path": "local/judet/iasi/2009/169",
+   "short": "HCJ Iași nr. 169/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 169/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-169",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-169",
+     "sha256": "c9bb62b6cffa5b017219c8eae1a0eef3eb54e9a9c807668eafe88c6cdeecee57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-170-2009",
+   "path": "local/judet/iasi/2009/170",
+   "short": "HCJ Iași nr. 170/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 170/2009 privind suplimentarea listei proiectelor prioritare pentru finantare in cadrul programului \"Electrificare 2007-2009\" Tags: hotărâre hotărâri hotărâri 2009 Creat de",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-170",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-170",
+     "sha256": "388f16acf8b1d1b1a1c03635d06798a5faee53da9fb3090994b0b4760c2423a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-171-2009",
+   "path": "local/judet/iasi/2009/171",
+   "short": "HCJ Iași nr. 171/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 171/2009 privind aprobarea masurilor necesare ducerii la indeplinire a prevederilor Dispozitiei nr. 552/03.08.2006 a Presedintelui Consiliului Judetean Iasi Tags: hotărâre hot",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-171",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-171",
+     "sha256": "a7ad0610525d2dbe14c1786af62c71d63b251d2000e9e53f140225ccc399a29c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-172-2009",
+   "path": "local/judet/iasi/2009/172",
+   "short": "HCJ Iași nr. 172/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 172/2009 privind insusirea Dispozitiei Presedintelui Consiliului Judetean Iasi nr. 465/26.06.2009, completata prin Dispozitia Presedintelui Consiliului Judetean Iasi nr. 491/07",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-172",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-172",
+     "sha256": "04afcca3fb31ae875047e46afacdd311ef27ada68ac460faf71de38ca99213c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-173-2009",
+   "path": "local/judet/iasi/2009/173",
+   "short": "HCJ Iași nr. 173/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 173/2009 privind inscrierea in evidentele Cartii Funciare a imobilului din Iasi, str. dr",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-173",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-173",
+     "sha256": "995e39b4becd2f32dd247780dd7ee8103d235db1868134d26d8f05e459f2532b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-174-2009",
+   "path": "local/judet/iasi/2009/174",
+   "short": "HCJ Iași nr. 174/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 174/2009 privind aprobarea situatiilor financiare pe anul 2008 ale Societatii Comerciale Lucrari Drumuri si Poduri S.A",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-174",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-174",
+     "sha256": "23b499dd814406ae79da14f4dd8c1b574fea1860250eca3098cbc5d785c25f35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-175-2009",
+   "path": "local/judet/iasi/2009/175",
+   "short": "HCJ Iași nr. 175/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 175/2009 privind rectificarea bugetului de venituri si cheltuieli al R.A",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-175",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-175",
+     "sha256": "cc66785dfee8458cff6aa2fb3a1e195bb1f2f3cdb3862967e7b585e592a6e6e6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-176-2009",
    "path": "local/judet/iasi/2009/176",
    "short": "HCJ Iași nr. 176/2009",
@@ -18,6 +468,1536 @@
    ]
   },
   {
+   "slug": "hcj-iasi-177-2009",
+   "path": "local/judet/iasi/2009/177",
+   "short": "HCJ Iași nr. 177/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 177/2009 privind acordarea unor burse pentru elevii din mediul rural cu coeficient de inteligenta superior provenind din medii defavorizate Tags: hotărâre hotărâri hotărâri 20",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-177",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-177",
+     "sha256": "f39c80bd05786a1491fbc5ec7df7a0f903a8d9714b6931931f255f535944b75b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-178-2009",
+   "path": "local/judet/iasi/2009/178",
+   "short": "HCJ Iași nr. 178/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 178/2009 privind inlocuirea reprezentantului Consiliului Judetean Iasi in Comitetul Judetean Iasi de Coordonare a Centrelor de Permanenta (CCCP Iasi) Tags: hotărâre hotărâri h",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-178",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-178",
+     "sha256": "1157cae962e1534f1280896528f5708559c24f43a8cffc109af001fee8005311"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-179-2009",
+   "path": "local/judet/iasi/2009/179",
+   "short": "HCJ Iași nr. 179/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 179/2009 privind aprobarea proiectului \"Achizitionare echipamente specifice pentru imbunatatirea capacitatii si calitatii sistemului de interventie in situatii de urgenta, acord",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-179",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-179",
+     "sha256": "40ed8b82083d821e6a9a4ba408c2328cf62e3c5ff0b8a9ab220e0128ab180713"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-180-2009",
+   "path": "local/judet/iasi/2009/180",
+   "short": "HCJ Iași nr. 180/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 180/2009 privind prelungirea duratei contractului de lucrari RO2005/017-553.04.01.01.01.02.06 pentru realizarea obiectivului de investitii \"Centrul Expozitional Moldova Iasi\" T",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-180",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-180",
+     "sha256": "07eea386925c27306414624b98ec4d7e2dc6dae52b939a3c55cf826e64fda59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-181-2009",
+   "path": "local/judet/iasi/2009/181",
+   "short": "HCJ Iași nr. 181/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 181/2009 privind organizarea vizitei la Iasi, in perioada 22-25.09.2009, a delegatiei landului Sachsen-Anhalt (Republica Federala Germania) condusa de Ministrul Agriculturii si",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-181",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-181",
+     "sha256": "031a089a1924ce8d634dde7617bf75ab830dc0205a6d02ab878b7842ecfd43eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-182-2009",
+   "path": "local/judet/iasi/2009/182",
+   "short": "HCJ Iași nr. 182/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 182/2009 privind modificarea si completarea anexei la Hotararea nr. 130/27.05.2009 privind aprobarea planului de actiune comun ce va fi derulat intre",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-182",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-182",
+     "sha256": "830f02565daa36c6e86644c7c6ebcd8e1069059b4ea1d30a03134d7bc9d24e83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-183-2009",
+   "path": "local/judet/iasi/2009/183",
+   "short": "HCJ Iași nr. 183/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 183/2009 privind aprobarea alocarii de fonduri pentru lucrarile de reparatii terasa Palat Administrativ Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-183",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-183",
+     "sha256": "271e3c57fdf4bda352fc38ee09c0fcfab2d412e44ffbcba9caa9ac287efbdc78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-184-2009",
+   "path": "local/judet/iasi/2009/184",
+   "short": "HCJ Iași nr. 184/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 184/2009 privind aprobarea Studiului de pre-fezabilitate pentru proiectul \"Parc Industrial in judetul Iasi\" Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-184",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-184",
+     "sha256": "875fd49b6b98c0ed18725d7c18f4109d8297cbb7a6ba100605bd486028a84d05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-185-2009",
+   "path": "local/judet/iasi/2009/185",
+   "short": "HCJ Iași nr. 185/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 185/2009 privind trecerea bunurilor aferente Unitatii Medico-Sociale Sculeni din domeniul public al Judetului Iasi si din administrarea Unitatii Medico-Sociale Sculeni in domeni",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-185",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-185",
+     "sha256": "d5c9ba8403593b919c01f69d49fc0a93fd0da2117ac22313247b56b36428c4cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-186-2009",
+   "path": "local/judet/iasi/2009/186",
+   "short": "HCJ Iași nr. 186/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 186/2009 privind aprobarea documentatiei de avizare a lucrarilor de interventii pentru obiectivul \"Modernizare prin asfaltare DS 1661 Butea, KM 1+000-1+380\" Tags: hotărâre hot",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-186",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-186",
+     "sha256": "c0605f8349d6d00fdb5176185b80136511dc743e8681b7a78b2d0f409b699920"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-187-2009",
+   "path": "local/judet/iasi/2009/187",
+   "short": "HCJ Iași nr. 187/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 187/2009 privind aprobarea Studiului de Fezabilitate cu indicatori tehnico-economici pentru: Statie meteo si functiuni anexe din cadrul obiectivului de investitie: \"Proiectare s",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-187",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-187",
+     "sha256": "a94e5921ce4b527fef7bb0f36b6f0617f905c7037237eee197e33c333e136c11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-188-2009",
+   "path": "local/judet/iasi/2009/188",
+   "short": "HCJ Iași nr. 188/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 188/2009 privind rectificarea bugetului general al Consiliului Judetean Iasi 2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:31 Ultima actua",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-188",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-188",
+     "sha256": "4d0e0ea5ba1754defa00322a3c0019f25e4d58d5be3e55369e9098cecffb7747"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-189-2009",
+   "path": "local/judet/iasi/2009/189",
+   "short": "HCJ Iași nr. 189/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 189/2009 privind validarea mandatului de consilier judetean in",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-189",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-189",
+     "sha256": "3a3180cdebcb400cd985bc196afd809b7d6568ebee053eb433d2a957f1f3014e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-19-2009",
+   "path": "local/judet/iasi/2009/19",
+   "short": "HCJ Iași nr. 19/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 19/2009 privind Raportul de activitate al C.J",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-01-22/hot%C4%83r%C3%A2rea-nr-19",
+   "versions": [
+    {
+     "from": "2009-01-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-01-22/hot%C4%83r%C3%A2rea-nr-19",
+     "sha256": "48dca20da158d53ddd94c8be1d9d584286814a9a9b666413d520c44147634f15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-190-2009",
+   "path": "local/judet/iasi/2009/190",
+   "short": "HCJ Iași nr. 190/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 190/2009 privind modificarea componentei comisiilor de specialitate ale Consiliului Judetean Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-190",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-07-29/hot%C4%83r%C3%A2rea-nr-190",
+     "sha256": "a056ccd133984bd58baeffd2ab2750f6d3556ebd569328e0b545e6f290784f5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-193-2009",
+   "path": "local/judet/iasi/2009/193",
+   "short": "HCJ Iași nr. 193/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 193/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-193",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-193",
+     "sha256": "1122a998c32b0c94dfbe516b1af97053b25ae1b3d960614e68bad22bce8d7d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-194-2009",
+   "path": "local/judet/iasi/2009/194",
+   "short": "HCJ Iași nr. 194/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 194/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-194",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-194",
+     "sha256": "8e95eb460ad88df9d6be5d688ee2e40469ceb713259e5c7345431fca0a44e248"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-195-2009",
+   "path": "local/judet/iasi/2009/195",
+   "short": "HCJ Iași nr. 195/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 195/2009 privind aprobarea p.v. al sedintei din 29.07.2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:38 Ultima actualizare: 27/05/2013 - 1",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-195",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-195",
+     "sha256": "6f9c62c32ba3fbbbb88cdfce19639f0970cf7ada8a51c7bce499d7a6a4db368c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-196-2009",
+   "path": "local/judet/iasi/2009/196",
+   "short": "HCJ Iași nr. 196/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 196/2009 privind privind aprobarea p.v. al sedintei din 11.08.2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:39 Ultima actualizare: 27/05/",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-196",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-196",
+     "sha256": "e20be971ce818fcced1c717b2f677749cb0ccc5ab2813d3f022bd94fa8f0450b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-197-2009",
+   "path": "local/judet/iasi/2009/197",
+   "short": "HCJ Iași nr. 197/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 197/2009 privind respingerea reclamatiei formulata de dl",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-197",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-197",
+     "sha256": "e08d962ecd1afe47c84f9fc7e2f99c7b7712063fb0753366dfc45abfebf6d1d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-198-2009",
+   "path": "local/judet/iasi/2009/198",
+   "short": "HCJ Iași nr. 198/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 198/2009 privind rectificarea bugetului si a listei de investitii pentru anul 2009 - RA Aeroportul Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/201",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-198",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-198",
+     "sha256": "21bcce30b4df6ac393049a7770f367d59bdb410f3ec4cdf3997a058a23f01f2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-199-2009",
+   "path": "local/judet/iasi/2009/199",
+   "short": "HCJ Iași nr. 199/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 199/2009 privind acordarea avizului de functionare pentru scolile speciale din judetul Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:41 U",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-199",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-199",
+     "sha256": "fa9e9569c6e823bffd0244d46900597477479552e08d5866fd650feffc42e038"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-200-2009",
+   "path": "local/judet/iasi/2009/200",
+   "short": "HCJ Iași nr. 200/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 200/2009 privind prelungirea Protocolului incheiat intre CJ Iasi, Ra Aeroportul Iasi si MIRA - Inspectoratul General de Aviatie Completată prin HCJ nr. 290 din 24.09.2010, HCJ",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-200",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-200",
+     "sha256": "19c23c8503cc880b77ffd9d9a4336f8e6de91e4e30df8733fdb5e789a7f34a1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-201-2009",
+   "path": "local/judet/iasi/2009/201",
+   "short": "HCJ Iași nr. 201/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 201/2009 privind respingerea Proiectului de Hotarare - Consolidare, refunctionalizare si mansardare cladire monument istoric\" - str. V",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-201",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-201",
+     "sha256": "749d2e20ccff2be7c516075312056c2e62f380fc2ba5ae47d6c53b06d41a806c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-202-2009",
+   "path": "local/judet/iasi/2009/202",
+   "short": "HCJ Iași nr. 202/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 202/2009 privind privind respingerea Proiectului de Hotarare - Consolidare, refunctionalizare si mansardare cladire monument istoric\" - str. V",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-202",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-202",
+     "sha256": "510e042a715edc19639b5abd75c748c67842dd876f700f0ff5f015100f3e361f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-203-2009",
+   "path": "local/judet/iasi/2009/203",
+   "short": "HCJ Iași nr. 203/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 203/2009 privind modificarea arondarii comunelor Tibanesti, Tibana, Tansa, Dagata si Ipatele Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:46",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-203",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-203",
+     "sha256": "fdf3b7528fa20e84965c45fae31134653488906707e7143c41a19d193d8a44b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-204-2009",
+   "path": "local/judet/iasi/2009/204",
+   "short": "HCJ Iași nr. 204/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 204/2009 privind alocarea unei sume necesare executarii lucrarilor - DJ 246 Scanteia-Scheia Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:47 U",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-204",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-204",
+     "sha256": "c1ef4e6b1dee3594d16806f1469cf2599b9d739b65e6484baf6cc207fde79734"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-205-2009",
+   "path": "local/judet/iasi/2009/205",
+   "short": "HCJ Iași nr. 205/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 205/2009 privind alocarea 282F Vladeni-Andrieseni Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:48 Ultima actualizare: 27/05/2013 - 12:48",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-205",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-205",
+     "sha256": "8216fc514073291bdac87d96ccd355f7f2680ea603b265b825192842aae5952c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-206-2009",
+   "path": "local/judet/iasi/2009/206",
+   "short": "HCJ Iași nr. 206/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 206/2009 privind redistribuirea unei sume necesare executarii lucrarilor - DJ 282F Vladeni-Andrieseni Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-206",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-206",
+     "sha256": "ccf1d80e9f00a336b84bd02a7b51578511fef499aa0eb8fb684aee5e7fd484f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-207-2009",
+   "path": "local/judet/iasi/2009/207",
+   "short": "HCJ Iași nr. 207/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 207/2009 privind alocarea unei sume necesare executarii lucrarilor - DJ Bosia-Ungheni Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:49 Ultima",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-207",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-207",
+     "sha256": "53b346d5def51b5eb99eb2f6cc1c8b0c6dac9fb84f0dae7744ff791b47ebe2f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-208-2009",
+   "path": "local/judet/iasi/2009/208",
+   "short": "HCJ Iași nr. 208/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 208/2009 privind actualizarea anuala - Program de transport public judetean Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:50 Ultima actualizar",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-208",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-208",
+     "sha256": "f7da00b98b1ff1b9f72fa9d1da262320ea843d95b13fd7b80dd302fd61955b47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-209-2009",
+   "path": "local/judet/iasi/2009/209",
+   "short": "HCJ Iași nr. 209/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 209/2009 privind propunerile de rectificare a bugetului general al CJ Iasi pe anul 2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:51 Ultim",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-209",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-209",
+     "sha256": "df1b326f64bb8688754b11b471f7f7aebd750bc8815d0c096d966ca292695cca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-210-2009",
+   "path": "local/judet/iasi/2009/210",
+   "short": "HCJ Iași nr. 210/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 210/2009 privind amanarea dezbaterii proiectului de hotarare - DJ 248B Vanatori-Horlesti Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:52 Ulti",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-210",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-210",
+     "sha256": "b8f46972197512d271d32eeab927e7268fd0b80706a5be9337cf6a056a0ec70e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-211-2009",
+   "path": "local/judet/iasi/2009/211",
+   "short": "HCJ Iași nr. 211/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 211/2009 privind modificarea si completarea HCJ 88/2009 - programul de lucrari pe surse de finantare Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-211",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-211",
+     "sha256": "fb6a1be8b504596c768fa4b6c2455a64f2049d77ff76b43df4c0dd17eb21ca0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-212-2009",
+   "path": "local/judet/iasi/2009/212",
+   "short": "HCJ Iași nr. 212/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 212/2009 privind ratificarea Dispozitiei Presedintelui CJ iasi nr. 466/2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:54 Ultima actualizar",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-212",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-212",
+     "sha256": "5a222089b87fa4d6e6535e573758545de006434d7b8a5fe1e4c19d494abe9c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-213-2009",
+   "path": "local/judet/iasi/2009/213",
+   "short": "HCJ Iași nr. 213/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 213/2009 privind atribuirea provizorie a traseului T 071 - Pascani-Iorcani Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 12:55 Ultima actualizare",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-213",
+   "versions": [
+    {
+     "from": "2009-08-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-08-26/hot%C4%83r%C3%A2rea-nr-213",
+     "sha256": "971a6540278bacbe1d7e035d5262752f3becfee00331e5edc228170b7cd3a908"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-225-2009",
+   "path": "local/judet/iasi/2009/225",
+   "short": "HCJ Iași nr. 225/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 225/2009 privind aprobarea p.v. al sedintelor de plen din 26.08.2009, 31.08.2009, 14.09.2009, 29.09.2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/201",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-10-12/hot%C4%83r%C3%A2rea-nr-225",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-10-12/hot%C4%83r%C3%A2rea-nr-225",
+     "sha256": "442f842abeb427bd367eeff7a6aeedb0072d08383b92d1bfaf6faa1d0ada8728"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-229-2009",
+   "path": "local/judet/iasi/2009/229",
+   "short": "HCJ Iași nr. 229/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 229/2009 privind incetarea de drept a calitatii de consilier judetean - Haraga I. Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 13:56 Ultima actua",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-10-12/hot%C4%83r%C3%A2rea-nr-229",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-10-12/hot%C4%83r%C3%A2rea-nr-229",
+     "sha256": "e1136f24a50fa6c67d22e523bca1087f7ef595142f6d8ff0d63630326d0fc6df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-237-2009",
+   "path": "local/judet/iasi/2009/237",
+   "short": "HCJ Iași nr. 237/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 237/2009 privind aprobarea valorii proiectului \"Sistem informatic integrat al CJ Iasi pentru implementarea de solutii e-guvernare si e-administratie - SINFO IS\" si a cheltuielil",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-10-26/hot%C4%83r%C3%A2rea-nr-237",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-10-26/hot%C4%83r%C3%A2rea-nr-237",
+     "sha256": "5eff3fadeda41e5c6d001964e6d4f2e8f55f007719321d350b3797ece0b32419"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-239-2009",
+   "path": "local/judet/iasi/2009/239",
+   "short": "HCJ Iași nr. 239/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 239/2009 privind aprobarea noii valori a proiectului \"Reabilitarea, modernizarea si dotarea scolilor speciale din judetul Iasi\" si a contributiei CJ Iasi la finantarea proiectul",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-10-26/hot%C4%83r%C3%A2rea-nr-239",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-10-26/hot%C4%83r%C3%A2rea-nr-239",
+     "sha256": "72fcc5e5952633398000c89aeeb4c6fe6bac6be2ea33250f465eb9c790dfe4fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-246-2009",
+   "path": "local/judet/iasi/2009/246",
+   "short": "HCJ Iași nr. 246/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 246/2009 privind aprobarea acordului de parteneriat dintre Judetul Iasi- CJ Iasi, Comuna Letcani - CL al comunei Letcani, Directia pentru agricultura si dezvoltare rurala, Unive",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-10-26/hot%C4%83r%C3%A2rea-nr-246",
+   "versions": [
+    {
+     "from": "2009-10-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-10-26/hot%C4%83r%C3%A2rea-nr-246",
+     "sha256": "977003d99e4126719c6b5c3564d865804703b893fa1ad2c467624c7051d087a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-257-2009",
+   "path": "local/judet/iasi/2009/257",
+   "short": "HCJ Iași nr. 257/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 257/2009 privind suplimentarea cu suma de 351,5 mii lei a contractului de lucrari pentru obiectivul: Reabilitare drum si constructie pod pe DC 57 Dobrovat-Manastirea Dobrova",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-10-28/hot%C4%83r%C3%A2rea-nr-257",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-10-28/hot%C4%83r%C3%A2rea-nr-257",
+     "sha256": "ba9e4cb2aa8d070e5ad07137be194bd04803343caf95af9ac9374bd33f6b6bd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-26-2009",
+   "path": "local/judet/iasi/2009/26",
+   "short": "HCJ Iași nr. 26/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 26/2009 privind abrogarea Hotararii Consiliului Judetean Iasi nr. 305/30.09.2008 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 09:20 Ultima actua",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-26",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-26",
+     "sha256": "e53bccdfee2d48dfaa95f0df7bf58f0ffc82a1567d9adbf00fe109ebda9ca6ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-262-2009",
+   "path": "local/judet/iasi/2009/262",
+   "short": "HCJ Iași nr. 262/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 262/2009 pentru modificarea si completarea HCJI nr. 260/10.11.2009 privind aprobarea programelor de lucrari de drumuri judetene si comunale pe surse de finantare pentru anul 200",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-262",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-262",
+     "sha256": "d6a81265c7fa1cb58f10db102a4129b88f087ccb812841704cde7fb444ec12f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-263-2009",
+   "path": "local/judet/iasi/2009/263",
+   "short": "HCJ Iași nr. 263/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 263/2009 privind aprobarea participarii Consiliului Judetean în calitate de partener în cadrul Proiectului „Îmbunatatirea calitatii si eficientei furnizarii serviciilor publice",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-263",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-263",
+     "sha256": "e72779f87ffab22e572c298b54464c3aec2858471a9c57056acbc72359751f25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-264-2009",
+   "path": "local/judet/iasi/2009/264",
+   "short": "HCJ Iași nr. 264/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 264/2009 privind aprobarea procesului verbal al ședinței de plen din data de 12.10.2009, al procesului verbal al ședinței extraordinare de plen din data de 19.10.2009, al proces",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-264",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-264",
+     "sha256": "670d2b4e59c910e483760cd55f208459c6077b076e344538c5db4b8916f5ff3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-265-2009",
+   "path": "local/judet/iasi/2009/265",
+   "short": "HCJ Iași nr. 265/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 265/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-265",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-265",
+     "sha256": "4f4a63537cbe26744939d0815a45ae670bb678849b1b0faab5998f271d7c4fd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-266-2009",
+   "path": "local/judet/iasi/2009/266",
+   "short": "HCJ Iași nr. 266/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 266/2009 privind validarea mandatului de consilier judetean in",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-266",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-266",
+     "sha256": "b08fb19835f6c9171954a57cef61a7b50684ef61678986afbc2824fb48c0c016"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-267-2009",
+   "path": "local/judet/iasi/2009/267",
+   "short": "HCJ Iași nr. 267/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 267/2009 privind modificarea componentei comisiilor de specialitate ale Consiliului Judetean Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 14:",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-267",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-267",
+     "sha256": "19d6a68d90e5b34cb15d6c541842f37eb0b40510718f822c66330134421cbad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-268-2009",
+   "path": "local/judet/iasi/2009/268",
+   "short": "HCJ Iași nr. 268/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 268/2009 privind modificarea componentei Comisiei pentru Protectia Copilului Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 14:55 Ultima actua",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-268",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-268",
+     "sha256": "82e3658be82641544e33c67f7281c957964e346b9bf4444727fd87131a3479c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-269-2009",
+   "path": "local/judet/iasi/2009/269",
+   "short": "HCJ Iași nr. 269/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 269/2009 privind aprobarea Planului de ocupare a functiilor publice din aparatul de specialitate al Consiliului Judetean Iasi pentru anul 2010 Tags: hotărâre hotărâri hotărâri",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-269",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-269",
+     "sha256": "76fb93d12905f85fb6b81bfa7f7786e6fcca8c6789324aafdbd7acd998065783"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-270-2009",
+   "path": "local/judet/iasi/2009/270",
+   "short": "HCJ Iași nr. 270/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 270/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-270",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-270",
+     "sha256": "f492e587b537679513be9e65166eda15ac55712c0f0e2565f310d4fa239f13b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-271-2009",
+   "path": "local/judet/iasi/2009/271",
+   "short": "HCJ Iași nr. 271/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 271/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-271",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-271",
+     "sha256": "42129a591d5398fccae7a51d66919c20c458af698d3c9617fd178e0658e5a456"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-272-2009",
+   "path": "local/judet/iasi/2009/272",
+   "short": "HCJ Iași nr. 272/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 272/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-272",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-272",
+     "sha256": "23732d4773a9394de6f032f4a3c9ae15c4e396853a35903b74ca28bd0f8307e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-273-2009",
+   "path": "local/judet/iasi/2009/273",
+   "short": "HCJ Iași nr. 273/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 273/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-273",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-273",
+     "sha256": "5f277802ecdb63a919cce59885fc9c404a170d1095f9eff5308b3b23f3392530"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-274-2009",
+   "path": "local/judet/iasi/2009/274",
+   "short": "HCJ Iași nr. 274/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 274/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-274",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-274",
+     "sha256": "dcb5db14fe98050dbfbe35745db8fb59cc09a1d07a153758393227b23899a2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-275-2009",
+   "path": "local/judet/iasi/2009/275",
+   "short": "HCJ Iași nr. 275/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 275/2009 privind desfiintarea postului vacant de consilier din cadrul Compartimentului Cabinet Presedinte si aprobarea structurii organizatorice a aparatului de specialitate al",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-275",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-275",
+     "sha256": "f26b81e8499d10e1b39491ee18a491f8616acacdfa4b3c58f73b1610bafdf2d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-276-2009",
+   "path": "local/judet/iasi/2009/276",
+   "short": "HCJ Iași nr. 276/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 276/2009 privind aprobarea initiativei Filarmonicii de stat „Moldova” Iasi privind demararea procedurilor în vederea obtinerii titlului de „filarmonica de importanta nationala”",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-276",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-276",
+     "sha256": "8bda3c402c0a2c56467a6bfc8aa548062d168b440a0c13b2e1b64a874485f031"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-277-2009",
+   "path": "local/judet/iasi/2009/277",
+   "short": "HCJ Iași nr. 277/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 277/2009 privind aprobarea unui nivel zilnic majorat al alocatiei de hrana pentru copiii care servesc masa la cantinele unitatilor scolare Tags: hotărâre hotărâri hotărâri 200",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-277",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-277",
+     "sha256": "050f049ed605a61e81ac65e324c153bd88627c920b5b0185a7adf8105a5d9e39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-278-2009",
+   "path": "local/judet/iasi/2009/278",
+   "short": "HCJ Iași nr. 278/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 278/2009 privind functionarea Centrului rezidential pentru persoane vârstnice, Mircesti, costul mediu lunar de întretinere, pentru o persoana vârstnica, în Centrul rezidential M",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-278",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-278",
+     "sha256": "2925fd2aae9631f92409b12ec4522c27b418140c8f900cf2423dc08a09feba0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-279-2009",
+   "path": "local/judet/iasi/2009/279",
+   "short": "HCJ Iași nr. 279/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 279/2009 privind aprobarea noii valori a proiectului „Centrul social de tip rezidențial Iași, Galata” și a contribuției Consiliului Județean Iași la finanțarea proiectului, proi",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-279",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-279",
+     "sha256": "e410729f3c24f88a31a30beacea2a501f2b974299da9f5b75c00cba6c00e2fc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-280-2009",
+   "path": "local/judet/iasi/2009/280",
+   "short": "HCJ Iași nr. 280/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 280/2009 privind însusirea de catre",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-280",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-280",
+     "sha256": "4f2cba418393076810b7b659cb9d6da0d5eadcfcde179a6b6a82ddbc81890bd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-281-2009",
+   "path": "local/judet/iasi/2009/281",
+   "short": "HCJ Iași nr. 281/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 281/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-281",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-281",
+     "sha256": "93e6e155da1b36793ff57610768a462cc7ab962f372519ba7c2e3a395faf45ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-282-2009",
+   "path": "local/judet/iasi/2009/282",
+   "short": "HCJ Iași nr. 282/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 282/2009 privind aprobarea Documentatiei de Avizare a Lucrarilor de Interventii cu indicatorii tehnico-economici pentru obiectivul de investitie: „Lucrari de interventie la Muze",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-282",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-282",
+     "sha256": "141dcd9fe2b68e0e3a8a7e4654cf685310e473175479466a7c454ae8e6d0f376"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-283-2009",
+   "path": "local/judet/iasi/2009/283",
+   "short": "HCJ Iași nr. 283/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 283/2009 privind aprobarea Studiului de fezabilitate elaborat de catre consultantul ILF Austria/Hydro Ingineria Germani în cadrul proiectului „Asistenta tehnica pentru pregatire",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-283",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-283",
+     "sha256": "54c8b6349548f3d54bc0d368f35b6139ae6790f5e35f3f4e90c4b7f8e4d94c5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-284-2009",
+   "path": "local/judet/iasi/2009/284",
+   "short": "HCJ Iași nr. 284/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 284/2009 privind aprobarea Planului Integrat de Dezvoltare pentru Polul de Crestere Iasi (PIDPC Iasi), pentru perioada 2009-2015 Planul Integrat de Dezvoltare pentru Polul de",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-284",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-284",
+     "sha256": "9490cc6169e2f552b4d2fd6f4f2c82d7b8115f3fe1c9bf9865cc9914f830e8b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-285-2009",
+   "path": "local/judet/iasi/2009/285",
+   "short": "HCJ Iași nr. 285/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 285/2009 privind modificarea HCJI nr. 78/1999 privind însusirea inventarului bunurilor care fac parte din domeniul public al judetului Iasi Tags: hotărâre hotărâri hotărâri 20",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-285",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-285",
+     "sha256": "033f71543a64fb83a3dbfcf995e8d65757688c00043b5be8d6897629abb50f1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-286-2009",
+   "path": "local/judet/iasi/2009/286",
+   "short": "HCJ Iași nr. 286/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 286/2009 privind aprobarea preturilor medii la produsele agricole din judetul Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 15:24 Ultima actu",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-286",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-286",
+     "sha256": "71607772164f7858d67fa99b3e38675adfd78bb81e62eb651f77576d7af29dbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-287-2009",
+   "path": "local/judet/iasi/2009/287",
+   "short": "HCJ Iași nr. 287/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 287/2009 privind aprobarea costului mediul lunar de întretinere si contributia lunara în sarcina beneficiarilor serviciilor asigurate de unitatile medico-sociale si/sau a sustin",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-287",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-287",
+     "sha256": "9d1fba209541a41855e6a986258be7621fe77eed856d02d3a6de496ee12a2678"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-288-2009",
+   "path": "local/judet/iasi/2009/288",
+   "short": "HCJ Iași nr. 288/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 288/2009 privind alocarea sumelor încasate cu titlu de cota parte din chirii catre spitalele care administreaza spatii si terenuri din domeniul public de interes judetean Tags:",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-288",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-288",
+     "sha256": "6970f60c32363ba55df6a9931b906ecb525a01212b22d5a1ea5a518f3980e145"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-289-2009",
+   "path": "local/judet/iasi/2009/289",
+   "short": "HCJ Iași nr. 289/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 289/2009 privind clasificarea drumurilor satesti DS 1661 si DS 21/82 respectiv DS 2813 de pe raza comunei Butea, judetul Iasi si trecerea acestora în categoria drumurilor comuna",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-289",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-289",
+     "sha256": "6306dfdc57b7ef3aacaacbf95ad0d0a0c049d8e2095327d9ff16fc147d7103df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-290-2009",
+   "path": "local/judet/iasi/2009/290",
+   "short": "HCJ Iași nr. 290/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 290/2009 privind modificarea art.3 din HCJI nr. 129/2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 15:29 Ultima actualizare: 27/05/2013 - 15:2",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-290",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-290",
+     "sha256": "00fd448e75e89af4ec7eddc5c3197da213d1da12be55cf21a1d3184f4215b446"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-291-2009",
+   "path": "local/judet/iasi/2009/291",
+   "short": "HCJ Iași nr. 291/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 291/2009 privind atribuirea în folosinta gratuita a imobilului din comuna Tibanesti catre Serviciul de Ambulanta Judetean Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-291",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-291",
+     "sha256": "cdb57e6df3268279429084a224a1270d8fe80c1d6f4c64cb4382d5875e9126ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-292-2009",
+   "path": "local/judet/iasi/2009/292",
+   "short": "HCJ Iași nr. 292/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 292/2009 privind trecerea din domeniul public al judetului Iasi si din administrarea SPADJ în domeniul privat al judetului Iasi si administrarea Consiliului Judetean a unor clad",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-292",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-292",
+     "sha256": "ead2905839cea2034723bb0ab10c39e93ac429505ae8f8d7b7f1868aea869514"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-293-2009",
+   "path": "local/judet/iasi/2009/293",
+   "short": "HCJ Iași nr. 293/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 293/2009 privind aprobarea Acordului de Parteneriat dintre Judetul Iasi",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-293",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-293",
+     "sha256": "dfe44f00de4933b40f7f4c715448e37d6e8d4cc13ea2432eaac6320d89c0f85d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-294-2009",
+   "path": "local/judet/iasi/2009/294",
+   "short": "HCJ Iași nr. 294/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 294/2009 privind continuarea parteneriatului cu Biroul de Consiliere pentru Cetateni Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 15:34 Ultima ac",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-294",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-294",
+     "sha256": "d8593e16f8838ed3f245430cf73edef3e892dc4a070aa97df8dbb85c87cdcc9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-295-2009",
+   "path": "local/judet/iasi/2009/295",
+   "short": "HCJ Iași nr. 295/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 295/2009 privind constituirea Comitetului de Coordonare si a Grupului de Lucru pentru monitorizarea Planului Judetean de Gestionare a Deseurilor Iasi Tags: hotărâre hotărâri h",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-295",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-295",
+     "sha256": "e9a2856e6c7e68b5c424d845d283a28fc2fdf829f448d52e4ec3c638736aaa6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-296-2009",
+   "path": "local/judet/iasi/2009/296",
+   "short": "HCJ Iași nr. 296/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 296/2009 privind completarea anexei nr.1 la HCJI 220/31.08.2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 15:36 Ultima actualizare: 27/05/2013",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-296",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-296",
+     "sha256": "83947bd3185f3d64a1340b37f458f4ff37b7515de6a356f39b18f832eb78a5b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-297-2009",
+   "path": "local/judet/iasi/2009/297",
+   "short": "HCJ Iași nr. 297/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 297/2009 privind aprobarea valorii proiectului „Sistem informatic integrat al Consiliului Judetean Iasi pentru implementarea de solutii e-guvernare si e-administratie – SINFO IS",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-297",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-297",
+     "sha256": "99f163c619c4e18f4db1837a286418b8787e2dc9e932f4443b071e6d7e920394"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-298-2009",
+   "path": "local/judet/iasi/2009/298",
+   "short": "HCJ Iași nr. 298/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 298/2009 privind propunerile de rectificare a bugetului general al Consiliului Judetean Iasi pe anul 2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/20",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-298",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-298",
+     "sha256": "4618733145dc7c70671a1496dd8e8164bdfe20dae5716ad1a1d91d3a317a4d4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-299-2009",
+   "path": "local/judet/iasi/2009/299",
+   "short": "HCJ Iași nr. 299/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 299/2009 privind propunerile de repartizare a unor sume defalcate din taxa pe valoare adaugata pentru finantarea cheltuielilor descentralizate la nivelul judetelor pe unitati ad",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-299",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-299",
+     "sha256": "31b0ce959b777d1991ad2427fb51852c3c107708b893633fb57da5edf08d534e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-300-2009",
+   "path": "local/judet/iasi/2009/300",
+   "short": "HCJ Iași nr. 300/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 300/2009 privind repartizarea influentelor la sumele defalcate din unele venituri ale bugetului de stat pentru sustinerea programelor de dezvoltare locala s pentru sustinerea pr",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-300",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-300",
+     "sha256": "57c7bd9c685b199463a983a6b4789f6bd3efad711feffbd5654ad7aff7649fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-301-2009",
+   "path": "local/judet/iasi/2009/301",
+   "short": "HCJ Iași nr. 301/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 301/2009 privind aprobarea Planului de ocupare a funcțiilor publice din aparatul de specialitate al Direcției Județene de Evidență a Persoanelor Iași pentru anul 2010 Tags: ho",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-301",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-301",
+     "sha256": "7b0cc0db5addb44e39a85b55524fc47bd512c0a0040672096707acc02169fe07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-302-2009",
+   "path": "local/judet/iasi/2009/302",
+   "short": "HCJ Iași nr. 302/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 302/2009 privind tarifele de închiriere pe metru pătrat pentru spațiile cu altă destinație decât cea de locuință și terenurile aflate în domeniul public al Consiliului Județean",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-302",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-302",
+     "sha256": "3fb182cbfce6e0bb898d7115b9c0956012012e96f697385d4cdfc76a07350751"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-303-2009",
+   "path": "local/judet/iasi/2009/303",
+   "short": "HCJ Iași nr. 303/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 303/2009 privind rectificarea Bugetului de venituri și cheltuieli al Regiei Autonome Aeroportul Iași și a Listei de investiții din venituri proprii, pentru anul 2009 Tags: hot",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-303",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-303",
+     "sha256": "7faf29f1012e4d08c2592c6557f42dc1da00c00a90a19d0821f7801716e76b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-304-2009",
+   "path": "local/judet/iasi/2009/304",
+   "short": "HCJ Iași nr. 304/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 304/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-304",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-304",
+     "sha256": "aa82217ce7432e3affea339116daa61e7591e1ae397f9bbbf0bf6705d79540d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-305-2009",
+   "path": "local/judet/iasi/2009/305",
+   "short": "HCJ Iași nr. 305/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 305/2009 privind respingerea plângerii prealabile formulată de SC PRODAN IMPEX SRL prin care solicită revocarea HCJI nr. 212/26.08.2009 de ratificare a Dispoziției Președintelui",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-305",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-305",
+     "sha256": "f8274cfaff9fc026b91fb46ce76e85f938151e02efbc5494e16a0c784ec8c5d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-306-2009",
+   "path": "local/judet/iasi/2009/306",
+   "short": "HCJ Iași nr. 306/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 306/2009 privind respingerea plângerii prealabile formulată de SC PRODAN IMPEX SRL împotriva măsurii de retragere a licenței pentru traseul județean nr. 098 Iași-Lunca Cetățuii",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-306",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-306",
+     "sha256": "8cd4533c8520cdd5ee2f863a01bd8d4bc69bd2e2809f0f3e7bf1f43e4ace364b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-307-2009",
+   "path": "local/judet/iasi/2009/307",
+   "short": "HCJ Iași nr. 307/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 307/2009 privind aprobarea Organigramei și Statului de funcții ale Teatrului pentru Copii și Tineret „Luceafărul” Iași, începând cu 01.01.2010 Tags: hotărâre hotărâri hotărâri",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-307",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-307",
+     "sha256": "b32465318b60919f236a1ad360619df57769b1e828bded84e8e9d9889f4c78bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-308-2009",
+   "path": "local/judet/iasi/2009/308",
+   "short": "HCJ Iași nr. 308/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 308/2009 privind asocierea județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-308",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-308",
+     "sha256": "49f0be79f632f65c2949a8e3bf32d25fb0015e9b2a22c188f79f2dc3dc4d8318"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-309-2009",
+   "path": "local/judet/iasi/2009/309",
+   "short": "HCJ Iași nr. 309/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 309/2009 privind alocarea unor fonduri necesare pentru Sărbătorile de Iarnă și Anul Nou Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 15:55 Ultima",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-309",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-08/hot%C4%83r%C3%A2rea-nr-309",
+     "sha256": "3fc923bb051f732f44a21faffe3f04d1c82198af34cff52dbf9c71836842b4ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-31-2009",
+   "path": "local/judet/iasi/2009/31",
+   "short": "HCJ Iași nr. 31/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 31/2009 privind aprobarea costului anual pentru o persoana adulta cu handicap institutionalizata in centre de ingrijire si asistenta - DGASPC Iasi Tags: hotărâre hotărâri hot",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-31",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-31",
+     "sha256": "378ad64dee6a76954301ef397991d7096305d1422a460e4634aad01bf4eb7ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-310-2009",
+   "path": "local/judet/iasi/2009/310",
+   "short": "HCJ Iași nr. 310/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 310/2009 privind realizarea obiectivului de investiții \"Reabilitare DC49 Hadambu - Schitu Hadambu km. 0+000 - 2+850\" Tags: hotărâre hotărâri hotărâri 2009 Creat de icc l",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-16/hot%C4%83r%C3%A2rea-nr-310",
+   "versions": [
+    {
+     "from": "2009-12-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-16/hot%C4%83r%C3%A2rea-nr-310",
+     "sha256": "b3c34b7f0686b3d89e095be35fc936a488f7f9c9a3f1dacb9a612ad3e0c17a92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-311-2009",
+   "path": "local/judet/iasi/2009/311",
+   "short": "HCJ Iași nr. 311/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 311/2009 privind modificarea și completarea Hotararii Consiliului Județean Iași nr. 262/08.12.2009, prin care s-a aprobat \"Programul de lucrari drumuri județene și comunale",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-16/hot%C4%83r%C3%A2rea-nr-311",
+   "versions": [
+    {
+     "from": "2009-12-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-16/hot%C4%83r%C3%A2rea-nr-311",
+     "sha256": "21888e412249d6862688cd455cb24b22734edba47d4044e00410a97e01fd185d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-312-2009",
+   "path": "local/judet/iasi/2009/312",
+   "short": "HCJ Iași nr. 312/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 312/2009 privind propunerile de rectificare a bugetului general al Consiliului Județean Iași pe anul 2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/0",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-12-16/hot%C4%83r%C3%A2rea-nr-312",
+   "versions": [
+    {
+     "from": "2009-12-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-12-16/hot%C4%83r%C3%A2rea-nr-312",
+     "sha256": "cf61779e290c9eca94e4f3d101a8721a5f47901e5107a876269f59351ff0c0b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-32-2009",
+   "path": "local/judet/iasi/2009/32",
+   "short": "HCJ Iași nr. 32/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 32/2009 privind referatul intocmit de Secretarul Judetului Iasi prin care se propune modificarea Comisiei pentru Protectia Copilului Iasi Tags: hotărâre hotărâri hotărâri 200",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-32",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-32",
+     "sha256": "e2e378b57764bd99647c83d9a961c09381beec27a34fcc4e614f086b45effa52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-45-2009",
+   "path": "local/judet/iasi/2009/45",
+   "short": "HCJ Iași nr. 45/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 45/2009 privind modificarea si completarea HCJ Iasi 287/2008 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 09:37 Ultima actualizare: 27/05/2013",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-45",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-45",
+     "sha256": "9565e4acd2b54e03a908a4d2ca6cdf830fdbdd0d6b4deb253f5fbfd9af6e0c62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-46-2009",
+   "path": "local/judet/iasi/2009/46",
+   "short": "HCJ Iași nr. 46/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 46/2009 privind aprobarea Planului de Analiza si Acoperire a Riscurilor pentru anul 2009 Anexa la Hotararea nr.46 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lu",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-46",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-02-27/hot%C4%83r%C3%A2rea-nr-46",
+     "sha256": "a3576826d6dd9d744038a85c33cb3b35d1643a6ded16b75ae60bf755c9dbf68d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-49-2009",
+   "path": "local/judet/iasi/2009/49",
+   "short": "HCJ Iași nr. 49/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 49/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-49",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-49",
+     "sha256": "c58eed803b58517dc7b93350d24e7d46c632620ee47ee6c5bf5cd6d6a48b97eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-50-2009",
+   "path": "local/judet/iasi/2009/50",
+   "short": "HCJ Iași nr. 50/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 50/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-50",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-50",
+     "sha256": "8d65b117be55c593d918eff2a7fd17d64853c4f52b93c41a626bc9503130390a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-55-2009",
+   "path": "local/judet/iasi/2009/55",
+   "short": "HCJ Iași nr. 55/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 55/2009 privind aprobarea Nomenclatorului arhivistic al documentelor create si detinute de CJ Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 09",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-55",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-55",
+     "sha256": "e896dd2123e031e056a113c380460d406f5a77967982edd708ff2b842458ca21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-57-2009",
+   "path": "local/judet/iasi/2009/57",
+   "short": "HCJ Iași nr. 57/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 57/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-57",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-57",
+     "sha256": "b1a9defd238cc8b8974728eb510551ca8d5027724ec09042aec73b7c968c6e48"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-62-2009",
    "path": "local/judet/iasi/2009/62",
    "short": "HCJ Iași nr. 62/2009",
@@ -29,6 +2009,156 @@
      "units": 1,
      "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-62",
      "sha256": "bb9e1b1a28a671095645c053796a22f6e20347f98ca14fa37a50afb77f60b0b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-64-2009",
+   "path": "local/judet/iasi/2009/64",
+   "short": "HCJ Iași nr. 64/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 64/2009 privind aprobarea Organigramei si Statului de Functii - RA \"Aeroportul\" Iasi incepand cu 01.04.2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-64",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-64",
+     "sha256": "7da04df788f20b3c1093d4f7e01880f521dd72c27441a2be0b35c5b992a112db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-75-2009",
+   "path": "local/judet/iasi/2009/75",
+   "short": "HCJ Iași nr. 75/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 75/2009 privind aprobarea Actului Constitutiv si Statutului Asociatiei de Dezvoltare Intercomunitara pentru Salubritate ADIS Iasi Tags: hotărâre hotărâri hotărâri 2009 Creat",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-75",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-75",
+     "sha256": "eea31b032f9b067063aab0f5b7e566d2cf5580aaeac2705eddf14bb9a7d86696"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-76-2009",
+   "path": "local/judet/iasi/2009/76",
+   "short": "HCJ Iași nr. 76/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 76/2009 privind aprobarea promovarii si organizarii ceremoniei de lansare - ruta aeriana Budapesta-Iasi-Budapesta de catre compania \"Malev Hungarian Airlines\" si a cheltuielilor",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-76",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-76",
+     "sha256": "9d2de6856511c972276c167daf1e1f18a3524b3c2ae9c196f2910b7ef83b4d33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-79-2009",
+   "path": "local/judet/iasi/2009/79",
+   "short": "HCJ Iași nr. 79/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 79/2009 privind aprobarea costurilor conexe - sume in completarea fondurilor asigurate de la bugetul de stat prin HG 1338/2007 Tags: hotărâre hotărâri hotărâri 2009 Creat de",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-79",
+   "versions": [
+    {
+     "from": "2009-03-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-03-25/hot%C4%83r%C3%A2rea-nr-79",
+     "sha256": "360cc7831f0c60ed9644f81ed3735da027eebc29bffc6890b3cdc93369b55f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-87-2009",
+   "path": "local/judet/iasi/2009/87",
+   "short": "HCJ Iași nr. 87/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 87/2009 privind aprobarea situatiilor financiare - RA AEROPORTUL IASI Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 10:23 Ultima actualizare: 27/05/201",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-87",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-87",
+     "sha256": "cfee913b5d6fe4d447bd708d6409efaffad0bc0c085f8c7506b27f900443063f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-88-2009",
+   "path": "local/judet/iasi/2009/88",
+   "short": "HCJ Iași nr. 88/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 88/2009 privind aprobarea programelor de lucrari pe surse de finantare pentru anul 2009 Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 10:24 Ultima actu",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-88",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-88",
+     "sha256": "20bb6d27bb9d6e4269b505e1496b499009987b3a9ea3f3e11ce6e397e3e79c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-90-2009",
+   "path": "local/judet/iasi/2009/90",
+   "short": "HCJ Iași nr. 90/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 90/2009 privind aprobarea documentatiei de avizare lucrari de interventii - Schitu Hadambului Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 10:26 Ultim",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-90",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-90",
+     "sha256": "3f5a71d795f55d429be3b0b77dfb82792a8075130752f18f100bc1b1d92dd6a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-93-2009",
+   "path": "local/judet/iasi/2009/93",
+   "short": "HCJ Iași nr. 93/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 93/2009 privind aprobarea documentatiei de avizare lucrari de interventii - Barnova - Pietrarie Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 10:32 Ult",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-93",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-93",
+     "sha256": "2a00a43ab926988ac92432190d1686f2010ccff4a7cec4abdd6ddb0d441ba12a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-94-2009",
+   "path": "local/judet/iasi/2009/94",
+   "short": "HCJ Iași nr. 94/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 94/2009 privind aprobarea documentatiei de avizare lucrari de interventii - Hermeziu - Vladomira Tags: hotărâre hotărâri hotărâri 2009 Creat de icc la Lun, 27/05/2013 - 10:33 Ul",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-94",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-94",
+     "sha256": "f76f7d2588a591799dd80a81ab6b2c26de91fb049b8779cd5770ea17377708ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-97-2009",
+   "path": "local/judet/iasi/2009/97",
+   "short": "HCJ Iași nr. 97/2009",
+   "title": "Hotărârea Consiliului Județean Iași nr. 97/2009",
+   "url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-97",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2009/2009-04-09/hot%C4%83r%C3%A2rea-nr-97",
+     "sha256": "aa054592e46da06cd796b75a9931106cd37411db29529f6127e9e963250657cf"
     }
    ]
   }

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/maramures/2007",
+ "acts": [
+  {
+   "slug": "hcj-maramures-29-2007",
+   "path": "local/judet/maramures/2007/29",
+   "short": "HCJ Maramureș nr. 29/2007",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 29/2007",
+   "url": "https://www.cjmaramures.ro/component/k2/9608",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/3240_3bf762ae6b29cca03c8aa4d346d5dbe3",
+     "sha256": "497b0779595a27e908e9ca5e8277ff2c99f74761d4c97492ac2c8200a994d151"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-49-2007",
+   "path": "local/judet/maramures/2007/49",
+   "short": "HCJ Maramureș nr. 49/2007",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 49/2007",
+   "url": "https://www.cjmaramures.ro/component/k2/9628",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/3247_e8fa9b8f49e770265db23d5b4b7c7d2b",
+     "sha256": "9579c285a9d95749605466af08be5fbd153f0dce7df63f8f6e4065f2877b02ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-71-2007",
+   "path": "local/judet/maramures/2007/71",
+   "short": "HCJ Maramureș nr. 71/2007",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 71/2007",
+   "url": "https://www.cjmaramures.ro/component/k2/9652",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/3265_b1bfea8e49dd1fb8dc588ca71a5edf20",
+     "sha256": "e22cfb5243604158b0d748834c46183667b5741fe63eda9a93cb693b1cdf164a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-maramures-88-2007",
+   "path": "local/judet/maramures/2007/88",
+   "short": "HCJ Maramureș nr. 88/2007",
+   "title": "Hotărârea Consiliului Județean Maramureș nr. 88/2007",
+   "url": "https://www.cjmaramures.ro/component/k2/9669",
+   "versions": [
+    {
+     "from": "2007-05-21",
+     "units": 1,
+     "source_url": "https://www.cjmaramures.ro/component/k2/download/3271_a2f0e88c9ea2fe395cf9b57d8f47861a",
+     "sha256": "9349edb0c2543fcf4b95a19af1c8c5b76a64d30395497fe79cbb01fc7993ea11"
+    }
+   ]
+  }
+ ]
+}

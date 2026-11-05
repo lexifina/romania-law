@@ -3,6 +3,36 @@
  "shard": "local/judet/neamt/2024",
  "acts": [
   {
+   "slug": "hcj-neamt-1-2024",
+   "path": "local/judet/neamt/2024/1",
+   "short": "HCJ Neamț nr. 1/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 1/2024 privind organizarea rețelei școlare pentru învăţământul special din județul Neamț în anul școlar 2024-2025 - -Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/01/Consiliul-Judetean-Neamt-HCJ-nr.-1-din-09-ianuarie-2024.pdf",
+     "sha256": "0d68e129351adfd13a292b191f37cff540d55345b98e890f8f9000ced1236b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-10-2024",
+   "path": "local/judet/neamt/2024/10",
+   "short": "HCJ Neamț nr. 10/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 10/2024 privind acordarea unui mandat special reprezentanților Județului Neamț în Adunarea Generală a Acționarilor Societății Comerciale DRUPO NEAMȚ S.A, în vederea exercitării drepturilor de acționar - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-10-din-31-ianuarie-2024.pdf",
+     "sha256": "d9e69efcea7a91a442247ed8cf63cf59fa3421ce1b4c8af21a4b00202ee9490e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-neamt-11-2024",
    "path": "local/judet/neamt/2024/11",
    "short": "HCJ Neamț nr. 11/2024",
@@ -29,6 +59,306 @@
      "units": 1,
      "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-12-din-31-ianuarie-2024.pdf",
      "sha256": "b53452b879cb71ba4f6e05769b95654217f4972835f123b3936e0b5cc6a3e8d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-13-2024",
+   "path": "local/judet/neamt/2024/13",
+   "short": "HCJ Neamț nr. 13/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 13/2024 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Borca pentru anul 2024 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-13-din-31-ianuarie-2024.pdf",
+     "sha256": "bc75e2c4e61ca2e7a0b86ea4bab898d7221be713f45ea8dfdaedd11298ab9171"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-14-2024",
+   "path": "local/judet/neamt/2024/14",
+   "short": "HCJ Neamț nr. 14/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 14/2024 privind aprobarea temelor de proiectare aferente unor obiective de investiții de interes județean - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-14-din-31-ianuarie-2024.pdf",
+     "sha256": "624260809b879db7fc4a243dea001dee791075e5e8cd7107f213256eb804ab51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-15-2024",
+   "path": "local/judet/neamt/2024/15",
+   "short": "HCJ Neamț nr. 15/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 15/2024 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Orașului Roznov pentru anul 2024 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-15-din-31-ianuarie-2024.pdf",
+     "sha256": "a36a151f1825e880e705298d31ab06117365d4d912355c76d296ec86d006da7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-16-2024",
+   "path": "local/judet/neamt/2024/16",
+   "short": "HCJ Neamț nr. 16/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 16/2024 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Cordun pentru anul 2024 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-16-din-31-ianuarie-2024.pdf",
+     "sha256": "2a1b651e726b2ab76c41c8e07a07bbe2833d17addffe75363e3d21ce69585256"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-17-2024",
+   "path": "local/judet/neamt/2024/17",
+   "short": "HCJ Neamț nr. 17/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 17/2024 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Borlești pentru anul 2024 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-17-din-31-ianuarie-2024.pdf",
+     "sha256": "45f4b9c052762fe64a61d728316ea0d472b7802e5c101f8f534f106da8b5fc7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-18-2024",
+   "path": "local/judet/neamt/2024/18",
+   "short": "HCJ Neamț nr. 18/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 18/2024 privind aprobarea unui acord de parteneriat pentru implementarea proiectului de interes județean „BiblioTech – Modernizarea și digitalizarea bibliotecilor din județul Neamț” și a cheltuielilor legate de acest proiect - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-18-din-31-ianuarie-2024.pdf",
+     "sha256": "fa8bd8271f10f972c0407c1b8b70090754fd4316f215d54bd7a2bc018f7d30e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-19-2024",
+   "path": "local/judet/neamt/2024/19",
+   "short": "HCJ Neamț nr. 19/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 19/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1766a85b3e3ed6229609646d72d7c9dd543c104eae92b3e15c9bf7d4ae429c4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-2-2024",
+   "path": "local/judet/neamt/2024/2",
+   "short": "HCJ Neamț nr. 2/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 2/2024 privind utilizarea unor sume din excedentul anual al bugetului Judeţului Neamţ - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/01/Consiliul-Judetean-Neamt-HCJ-nr.-2-din-09-ianuarie-2024.pdf",
+     "sha256": "bbfe0131ad2ce30dd3ee4433077f2fff42456e5bf9419a45b65b73b3313c6f2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-20-2024",
+   "path": "local/judet/neamt/2024/20",
+   "short": "HCJ Neamț nr. 20/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 20/2024 privind prelungirea termenului de transmitere în folosință gratuită, către Municipiul Piatra Neamț, a unor bunuri aflate în proprietatea Județului Neamț - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-20-din-31-ianuarie-2024.pdf",
+     "sha256": "d26bdf30429ecd47f2b410a71d6b2d94806886f1de19147163a07e3c1a9118ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-21-2024",
+   "path": "local/judet/neamt/2024/21",
+   "short": "HCJ Neamț nr. 21/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 21/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "950d8fac7d140ebd2beb90482a628034d19f8a3aa68b976901698cee62c22156"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-23-2024",
+   "path": "local/judet/neamt/2024/23",
+   "short": "HCJ Neamț nr. 23/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 23/2024 privind aprobarea devizului general actualizat pentru un obiectiv de investiții de interes județean - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-23-din-12-februarie-2024.pdf",
+     "sha256": "0171a0331dbe53ac580a39f2d32d570f0346994589d40c7fc58e3a244cce8425"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-24-2024",
+   "path": "local/judet/neamt/2024/24",
+   "short": "HCJ Neamț nr. 24/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 24/2024 privind aprobarea unei documentații tehnico-economice pentru un obiectiv de investiții de interes județean - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-24-din-12-februarie-2024.pdf",
+     "sha256": "4e9e5973e9e3241836c3daa9828593bd17eb999a99032633ef68fcb703780678"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-25-2024",
+   "path": "local/judet/neamt/2024/25",
+   "short": "HCJ Neamț nr. 25/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 25/2024 privind acordarea unui ajutor individual de minimis în favoarea Companiei Județene APA SERV S.A - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-25-din-12-februarie-2024.pdf",
+     "sha256": "2e965b50c70c82a6f7390cd3e5b08bb7689d267fe5d786cbdbd270a6f452e2e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-3-2024",
+   "path": "local/judet/neamt/2024/3",
+   "short": "HCJ Neamț nr. 3/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 3/2024 privind repartizarea pe unități administrativ-teritoriale a sumelor defalcate din unele venituri ale bugetului de stat, estimări pentru anii 2025-2027 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/01/Consiliul-Judetean-Neamt-HCJ-nr.-3-din-22-ianuarie-2024.pdf",
+     "sha256": "71ffb89124a09efdf731d47d34f9c20762f0d0a5681bf075093c55974ebb8ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-4-2024",
+   "path": "local/judet/neamt/2024/4",
+   "short": "HCJ Neamț nr. 4/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 4/2024 privind luarea unor măsuri de stabilire a valorii unitare în lei/kilometru aferentă sumei forfetare de care beneficiază fiecare elev din județul Neamț, pentru localitățile la care nu este asigurat serviciul public de transport județean de persoane prin curse regulate - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/01/Consiliul-Judetean-Neamt-HCJ-nr.-4-din-22-ianuarie-2024.pdf",
+     "sha256": "7ed4c15704397a2c2bb37dfdec23897e6d18a74fa55fdc4ebffe3a12c0b38a46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-5-2024",
+   "path": "local/judet/neamt/2024/5",
+   "short": "HCJ Neamț nr. 5/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 5/2024 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Pângărați pentru anul 2024 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-5-din-31-ianuarie-2024.pdf",
+     "sha256": "e5487ed8bc8645c236f50e4f7214402af32e0314b5d7f7e412da151d1dc9f89c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-6-2024",
+   "path": "local/judet/neamt/2024/6",
+   "short": "HCJ Neamț nr. 6/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 6/2024 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Gherăești pentru anul 2024 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-6-din-31-ianuarie-2024.pdf",
+     "sha256": "95ce11b004d5c0d143bd12278623b0a0a340a37353db2bc278a704757d6b7a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-7-2024",
+   "path": "local/judet/neamt/2024/7",
+   "short": "HCJ Neamț nr. 7/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 7/2024 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Farcașa pentru anul 2024 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-7-din-31-ianuarie-2024.pdf",
+     "sha256": "9504d34cec043604f800f593a8f7383400b3581909bf0b7aa6bcb1f8cf37d5d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-8-2024",
+   "path": "local/judet/neamt/2024/8",
+   "short": "HCJ Neamț nr. 8/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 8/2024 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Hangu pentru anul 2024 - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-8-din-31-ianuarie-2024.pdf",
+     "sha256": "9315de389062212f7e6d69be4174fa108e9da5798ad6a82b0710f4461d5d5540"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-9-2024",
+   "path": "local/judet/neamt/2024/9",
+   "short": "HCJ Neamț nr. 9/2024",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 9/2024 privind atestarea Inventarului bunurilor care alcătuiesc domeniul public al Județului Neamț - Instituția Prefectului Persoanelor/autorităților interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2024/02/Consiliul-Judetean-Neamt-HCJ-nr.-9-din-31-ianuarie-2024.pdf",
+     "sha256": "33f800214bee41b031e2232bcc8f37ebe8b773d9a50d7a90d3aff14e785081c5"
     }
    ]
   }

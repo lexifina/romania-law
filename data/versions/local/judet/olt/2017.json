@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/olt/2017",
+ "acts": [
+  {
+   "slug": "hcj-olt-1-2017",
+   "path": "local/judet/olt/2017/1",
+   "short": "HCJ Olt nr. 1/2017",
+   "title": "Hotărârea Consiliului Județean Olt nr. 1/2017 pentru o persoană cu handicap îngrijită și protejată în centrele rezidențiale 8",
+   "url": "https://cjolt.ro/mol/arhiva-monitorul-oficial-al-judetului-olt/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/8038.pdf",
+     "sha256": "9b6bebcbfea5d716352081cbf96fbba1624ec177dffa0a97e1afd2ef531edaba"
+    }
+   ]
+  }
+ ]
+}

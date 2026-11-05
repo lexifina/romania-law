@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/neamt/2022",
+"acts": [
+{
+"slug": "hcj-neamt-128-2022",
+"path": "local/judet/neamt/2022/128",
+"kind": "local",
+"year": "2022",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 128/2022 privind aprobarea Statutului Județului Neamț",
+"short": "HCJ Neamț nr. 128/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-09",
+"latest": "2022-05-09",
+"portal": "https://cjneamt.ro/ro/monitorul-oficial-local/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-neamt-170-2022",
+"path": "local/judet/neamt/2022/170",
+"kind": "local",
+"year": "2022",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 170/2022 privind declanșarea procedurii de expropriere a unor terenuri necesare realizării unei investiții de interes public județean",
+"short": "HCJ Neamț nr. 170/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-14",
+"latest": "2022-07-14",
+"portal": "https://cjneamt.ro/ro/monitorul-oficial-local/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-neamt-303-2022",
+"path": "local/judet/neamt/2022/303",
+"kind": "local",
+"year": "2022",
+"number": "303",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 303/2022 pentru modificarea Hotărârii Consiliului Județean Neamț nr.170/14.07.2022 privind declanșarea procedurii de expropriere a unor terenuri necesare realizării unei investiții de interes public județean",
+"short": "HCJ Neamț nr. 303/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://cjneamt.ro/ro/monitorul-oficial-local/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

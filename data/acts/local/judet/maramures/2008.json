@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/maramures/2008",
+"acts": [
+{
+"slug": "hcj-maramures-1-2008",
+"path": "local/judet/maramures/2008/1",
+"kind": "local",
+"year": "2008",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 1/2008",
+"short": "HCJ Maramureș nr. 1/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-01-16",
+"latest": "2008-01-16",
+"portal": "https://www.cjmaramures.ro/component/k2/9805",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

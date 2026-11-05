@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/neamt/2023",
+"acts": [
+{
+"slug": "hcj-neamt-60-2023",
+"path": "local/judet/neamt/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 60/2023 pentru desemnarea unei persoane care să conducă lucrările şedinţei extraordinare a Consiliului Judeţean Neamţ din data de 17 martie 2023 Vezi HCJ",
+"short": "HCJ Neamț nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-17",
+"latest": "2023-03-17",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

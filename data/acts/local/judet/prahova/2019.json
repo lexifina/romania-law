@@ -3,6 +3,50 @@
 "shard": "local/judet/prahova/2019",
 "acts": [
 {
+"slug": "hcj-prahova-175-2019",
+"path": "local/judet/prahova/2019/175",
+"kind": "local",
+"year": "2019",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 175/2019 privind modificarea statului de funcţii pentru Muzeul Judeţean de Istorie și Arheologie Prahova",
+"short": "HCJ Prahova nr. 175/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-16",
+"latest": "2019-12-16",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-176-2019",
+"path": "local/judet/prahova/2019/176",
+"kind": "local",
+"year": "2019",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 176/2019 privind aprobarea ” Planului Județean de Gestionare a Deșeurilor pentru Județul Prahova”",
+"short": "HCJ Prahova nr. 176/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-16",
+"latest": "2019-12-16",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-prahova-177-2019",
 "path": "local/judet/prahova/2019/177",
 "kind": "local",
@@ -22,6 +66,72 @@
 "council_name": "Consiliul Județean Prahova",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-178-2019",
+"path": "local/judet/prahova/2019/178",
+"kind": "local",
+"year": "2019",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 178/2019 privind aprobarea execuţiei bugetului propriu al judeţului precum şi a bugetelor instituţiilor de sub autoritatea Consiliului Judeţean Prahova la 30 noiembrie 2019",
+"short": "HCJ Prahova nr. 178/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-16",
+"latest": "2019-12-16",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-179-2019",
+"path": "local/judet/prahova/2019/179",
+"kind": "local",
+"year": "2019",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 179/2019 pentru modificarea unor prevederi ale Hotărârii Consiliului Județean Prahova nr.84/2019 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2019 în vederea realizării unor obiective de i",
+"short": "HCJ Prahova nr. 179/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-16",
+"latest": "2019-12-16",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-180-2019",
+"path": "local/judet/prahova/2019/180",
+"kind": "local",
+"year": "2019",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 180/2019 privind aprobarea achiziţionării de servicii juridice de consultanţă, de asistenţă şi de reprezentare de către Compania de Servicii Publice și Energii Regenerabile Prahova S.A",
+"short": "HCJ Prahova nr. 180/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-16",
+"latest": "2019-12-16",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

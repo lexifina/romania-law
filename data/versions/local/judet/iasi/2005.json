@@ -1,0 +1,666 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2005",
+ "acts": [
+  {
+   "slug": "hcj-iasi-10-2005",
+   "path": "local/judet/iasi/2005/10",
+   "short": "HCJ Iași nr. 10/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 10/2005 privind organizarea si functionarea cabinetelor medicale, aprobata cu modificari si completari prin Legea nr. 629/2001, republicata. Tags: hotărâre hotărâri hotărâri 2005 Creat de icc la Joi, 23/05/2013 - 11:34 Ultima actualizare: 23/05/2013 - 11:34",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-01-25/hot%C4%83r%C3%A2rea-nr-10",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-01-25/hot%C4%83r%C3%A2rea-nr-10",
+     "sha256": "605ad4a0baed9a103e0e36026f073cfc2f59cec187159e8cf2c060bb57a5f12a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-103-2005",
+   "path": "local/judet/iasi/2005/103",
+   "short": "HCJ Iași nr. 103/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 103/2005 pentru proiecte si investitii pe anul 2005, conform Anexei 2 la prezenta hotarare. Art.3Directia Economica si Tehnica vor duce la indeplinire prevederile prezentei hotarari. Tags: hotărâre hotărâri hotărâri 2005 Creat de icc la Joi, 23/05/2013 - 14:42 Ultima actualizare: 23/05/2013 - 14:42",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-103",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-103",
+     "sha256": "cc651875b1982a96485fba528461758d107c16ae52640679401c63fe356da4ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-111-2005",
+   "path": "local/judet/iasi/2005/111",
+   "short": "HCJ Iași nr. 111/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 111/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-111",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-111",
+     "sha256": "2330a3bd0233b32630041e2ba073fcd0b4760a3719396cba81723c81bd5220b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-114-2005",
+   "path": "local/judet/iasi/2005/114",
+   "short": "HCJ Iași nr. 114/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 114/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-114",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-114",
+     "sha256": "207487325d5066062ad6ef4025292c4bdae94138c682617ce68ae056f25c6457"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-126-2005",
+   "path": "local/judet/iasi/2005/126",
+   "short": "HCJ Iași nr. 126/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 126/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-126",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-126",
+     "sha256": "fcf469226f2cad95f636a7dfe14a6845207e25edf3bbb4e760830703da5fb4d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-131-2005",
+   "path": "local/judet/iasi/2005/131",
+   "short": "HCJ Iași nr. 131/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 131/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-131",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-131",
+     "sha256": "fb9ed7d06ef9040e1bd62e5a67580bd447614b6e768239d0acb83ff7a1e1a33f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-133-2005",
+   "path": "local/judet/iasi/2005/133",
+   "short": "HCJ Iași nr. 133/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 133/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-08-29/hot%C4%83r%C3%A2rea-nr-133",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-08-29/hot%C4%83r%C3%A2rea-nr-133",
+     "sha256": "bc44846c51d70a00d7f5983fb084302a937635c8db2f0508b3f7b2ed04fca080"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-15-2005",
+   "path": "local/judet/iasi/2005/15",
+   "short": "HCJ Iași nr. 15/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 15/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-01-25/hot%C4%83r%C3%A2rea-nr-15",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-01-25/hot%C4%83r%C3%A2rea-nr-15",
+     "sha256": "640bc8d57939a45bcbca2a0b2477d1c33738c499a2b0da4de249c18db6f6b3a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-155-2005",
+   "path": "local/judet/iasi/2005/155",
+   "short": "HCJ Iași nr. 155/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 155/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-155",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-155",
+     "sha256": "79b54dce3af026e35f14183796a0507f478b5f596f8be910cd129b43e5cfcc39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-158-2005",
+   "path": "local/judet/iasi/2005/158",
+   "short": "HCJ Iași nr. 158/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 158/2005 pentru organizarea si functionarea Parcului stiintific si tehnologic TEHNO",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-158",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-158",
+     "sha256": "d79ffee4347a13ea4824e1f7e26607a210c9b93a33e36c1169d007db63e36ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-170-2005",
+   "path": "local/judet/iasi/2005/170",
+   "short": "HCJ Iași nr. 170/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 170/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-170",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-170",
+     "sha256": "284b23a471b047842725991f03aacbd7a8da3d63264eddc93390acc5bd6cf0a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-177-2005",
+   "path": "local/judet/iasi/2005/177",
+   "short": "HCJ Iași nr. 177/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 177/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-177",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-177",
+     "sha256": "26188a9956a13ad5320310901e030ae6a271aee32f1d5dda7888b4b808cd99cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-179-2005",
+   "path": "local/judet/iasi/2005/179",
+   "short": "HCJ Iași nr. 179/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 179/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-179",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-179",
+     "sha256": "18fe6a1e1182a619fe109593ab6534c159dcd9301ac17c9e0d21a86a2efdb229"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-180-2005",
+   "path": "local/judet/iasi/2005/180",
+   "short": "HCJ Iași nr. 180/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 180/2005 privind functionarea in conditii optime a SMURD Iasi si a elicopterului sanitar, prevazut in Anexa alin.2, parte integranta din prezenta hotarare. Art.3 Directia Economica, Directia Juridica si Cancelarie, Directia Financiar Contabila si Administrativ vor duce la indeplinire prevederile prezentei hotarari. Tags: hotărâre hotărâri hotărâri 2005 Creat de icc la Joi, 23/05/2013 - 16:38 Ultima actuali",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-180",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-180",
+     "sha256": "36acff7d9ef8c314362320777bf49ae85ce719683af0859fec27fcc56d08db4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-187-2005",
+   "path": "local/judet/iasi/2005/187",
+   "short": "HCJ Iași nr. 187/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 187/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-1871",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-09-23/hot%C4%83r%C3%A2rea-nr-1871",
+     "sha256": "a1dc15bd03dc34d8ac7ca91635365b712e6b4818ba371a52718fa366ca2af268"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-2-2005",
+   "path": "local/judet/iasi/2005/2",
+   "short": "HCJ Iași nr. 2/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 2/2005 pentru proiectul \"Centrul Expozitional Moldova Iasi\" - anexe parte integranta din prezenta hotarar",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-01-25/hot%C4%83r%C3%A2rea-nr-2",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-01-25/hot%C4%83r%C3%A2rea-nr-2",
+     "sha256": "e32c9adfd3835559f8ac0e68f7b6146880b40d5436a2409e4a553afa818e037b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-202-2005",
+   "path": "local/judet/iasi/2005/202",
+   "short": "HCJ Iași nr. 202/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 202/2005 pentru inchirierea spatiilor si terenurilor aflate in proprietatea",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-202",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-202",
+     "sha256": "2c8e79b3406a89a3e59aafeac0d037ad72280e943258d23d579be475ec5bc8a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-207-2005",
+   "path": "local/judet/iasi/2005/207",
+   "short": "HCJ Iași nr. 207/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 207/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-207",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-207",
+     "sha256": "48d2aeb2fecced8cd0c53605c5ecf1913d6dcef263a0ff2a6ec3648b11d494ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-209-2005",
+   "path": "local/judet/iasi/2005/209",
+   "short": "HCJ Iași nr. 209/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 209/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-209",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-209",
+     "sha256": "364a386686aaaba6929dd07e77e289315410c35ee7585b5b967bdd405838fd9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-211-2005",
+   "path": "local/judet/iasi/2005/211",
+   "short": "HCJ Iași nr. 211/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 211/2005 pentru desfasurarea activitatii de \"duty free\" pe o durata de 5 ani. (2) Inchirierea spatiului mentionat la art.1 se va face prin licitatie publica organizata de R.A",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-211",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-211",
+     "sha256": "f2d975f4bb10bd6d9213b647046afc8b7bd0ebcbd26216a548b6bc35d3ae58ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-212-2005",
+   "path": "local/judet/iasi/2005/212",
+   "short": "HCJ Iași nr. 212/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 212/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-212",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-212",
+     "sha256": "c559f639e25fd9b3e9bb7245308d40a99668b398c1b443209a3c7bc45a2ac326"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-213-2005",
+   "path": "local/judet/iasi/2005/213",
+   "short": "HCJ Iași nr. 213/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 213/2005 pentru Centrul de integrare prin terapie ocupationala - Popricani si Centrul de ingrijire si asistenta pentru persoanele lipsite de autonomie - Hirlau",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-213",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-213",
+     "sha256": "bdc48c7b9206196eddce2015e6a07a26d5588e92a7704e78d6e0787ad47d7c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-214-2005",
+   "path": "local/judet/iasi/2005/214",
+   "short": "HCJ Iași nr. 214/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 214/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-214",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-214",
+     "sha256": "81b75f048896e5ae0f33a4611a60945d4b66027a348c749b0206a19caab3306f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-215-2005",
+   "path": "local/judet/iasi/2005/215",
+   "short": "HCJ Iași nr. 215/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 215/2005 pentru desfasurarea urmatoarelor activitati: -str. Dr.I",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-215",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-215",
+     "sha256": "6cc4eb33dca6d705d761a73b069d14d5b3e64ee7361ddfa5c3ae252b43d2524a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-216-2005",
+   "path": "local/judet/iasi/2005/216",
+   "short": "HCJ Iași nr. 216/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 216/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-216",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-12-15/hot%C4%83r%C3%A2rea-nr-216",
+     "sha256": "1332b9879a81b3fbb7a7fd842976ddfdb06cec5cd1c3936454ae1785a9e7b0d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-23-2005",
+   "path": "local/judet/iasi/2005/23",
+   "short": "HCJ Iași nr. 23/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 23/2005 pentru Serviciul de Administarare a Drumurilor Judetene Iasi conform anexei, parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Organizare,Resurse Umane,I",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-23",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-23",
+     "sha256": "93f20ec4fafb1da8533bb2dcc4fbff69ce0e101b2bcdceb4646b0bf0e6b1544f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-25-2005",
+   "path": "local/judet/iasi/2005/25",
+   "short": "HCJ Iași nr. 25/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 25/2005 pentru Biblioteca Judeteana \"GH. Asachi\" Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Organizar",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-25",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-25",
+     "sha256": "2369ebd1e254029a6fcaafc38a500415ff294bd93f126228c1ab349b1d737e9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-28-2005",
+   "path": "local/judet/iasi/2005/28",
+   "short": "HCJ Iași nr. 28/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 28/2005 pentru Teatrul \"Luceafarul\" Iasi conform anexei care face parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Organizare,Resurse Umane,Informatizare si Tea",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-28",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-28",
+     "sha256": "34a03109836c108428d29457707df0e65d1ab0a8d2687714c1bfd7c0ebf661e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-34-2005",
+   "path": "local/judet/iasi/2005/34",
+   "short": "HCJ Iași nr. 34/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 34/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-34",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-34",
+     "sha256": "c45bad88ffa256dcfc90505c0ffc160fd6b16bf95229bc29e543be9f7c56f5bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-37-2005",
+   "path": "local/judet/iasi/2005/37",
+   "short": "HCJ Iași nr. 37/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 37/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-37",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-37",
+     "sha256": "5f8b918691840a7e4576883419351a819417c77022138cc59667c6124a5ab5a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-39-2005",
+   "path": "local/judet/iasi/2005/39",
+   "short": "HCJ Iași nr. 39/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 39/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-39",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-39",
+     "sha256": "89473e79527412e246f0f71c72ea1d2c03fa940dcdbb65836b8ac220a1802862"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-40-2005",
+   "path": "local/judet/iasi/2005/40",
+   "short": "HCJ Iași nr. 40/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 40/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-40",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-40",
+     "sha256": "e3ae1e6dcd72cd8351564cad695bf2b8fc26e5931be4a70893dcce719b13a09d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-47-2005",
+   "path": "local/judet/iasi/2005/47",
+   "short": "HCJ Iași nr. 47/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 47/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-47",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-47",
+     "sha256": "daa005f5e68795c0dcc59f0fcaf2ea8207f1f93ffce797c539605e3dc77560a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-5-2005",
+   "path": "local/judet/iasi/2005/5",
+   "short": "HCJ Iași nr. 5/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 5/2005 privind transferul de competente si responsabilitati de la nivel central la nivel local, se constituie Comitetul Tehnic Judetean in urmatoarea",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-01-25/hot%C4%83r%C3%A2rea-nr-5",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-01-25/hot%C4%83r%C3%A2rea-nr-5",
+     "sha256": "1e67c125eabe79a59f7e59ed8b058e605f859d540121e386d10cbaa7f81ef31c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-54-2005",
+   "path": "local/judet/iasi/2005/54",
+   "short": "HCJ Iași nr. 54/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 54/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-54",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-03-10/hot%C4%83r%C3%A2rea-nr-54",
+     "sha256": "e7b1ebfadc7ce906fd1f637dc04b5cfa049457fc599c8b34ca74ddeed31d3b9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-56-2005",
+   "path": "local/judet/iasi/2005/56",
+   "short": "HCJ Iași nr. 56/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 56/2005 pentru 2005, din bugetul Consiliului Judetean Iasi. Art.2 Directia Econom",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-56",
+   "versions": [
+    {
+     "from": "2005-05-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-56",
+     "sha256": "7498d24c4f3e172b7c1c6117976ee8ee2b1f41445f5cc34ce6efdf7e0f4d32dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-59-2005",
+   "path": "local/judet/iasi/2005/59",
+   "short": "HCJ Iași nr. 59/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 59/2005 pentru studiul de fezabilitate intocmit la Centrul Expozitional Moldova. Art.2 Apr",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-59",
+   "versions": [
+    {
+     "from": "2005-05-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-59",
+     "sha256": "45119f0f6047b8e2779fd2a16e942fdfefc89b07e535e14402a90c8f18a729ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-63-2005",
+   "path": "local/judet/iasi/2005/63",
+   "short": "HCJ Iași nr. 63/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 63/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-63",
+   "versions": [
+    {
+     "from": "2005-05-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-63",
+     "sha256": "c20daa42535cdb86a8aab520e30444140033a95691325c7d7de64b783f15956a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-70-2005",
+   "path": "local/judet/iasi/2005/70",
+   "short": "HCJ Iași nr. 70/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 70/2005 pentru realizarea proiectului din cadrul Programului PHARE RO/2003/005-551-01.20 cu componenta . Art.2 Se a",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-70",
+   "versions": [
+    {
+     "from": "2005-05-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-70",
+     "sha256": "539a5c391edba697e4d8e0738be361f05a5c9c160f88cceeeaa908d1cf5c73ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-80-2005",
+   "path": "local/judet/iasi/2005/80",
+   "short": "HCJ Iași nr. 80/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 80/2005 privind deplasarea vor fi realizate conform HG 518/1995 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare. Tags: hotărâre hotărâri hotărâri 2005 Creat de icc la Joi, 23/05/2013 - 13:08 Ultima actualizare: 23/05/2013 - 13:08",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-80",
+   "versions": [
+    {
+     "from": "2005-05-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-80",
+     "sha256": "bf0b01230184650779accadc33ad4319c4c90f0d55e7c90ab1154618977d9042"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-87-2005",
+   "path": "local/judet/iasi/2005/87",
+   "short": "HCJ Iași nr. 87/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 87/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-87",
+   "versions": [
+    {
+     "from": "2005-05-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-87",
+     "sha256": "2bf9bff26445d11adf0ddb4db4665d86e1c8f485d37a543cf73ad9889992de8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-91-2005",
+   "path": "local/judet/iasi/2005/91",
+   "short": "HCJ Iași nr. 91/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 91/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-91",
+   "versions": [
+    {
+     "from": "2005-05-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-05-10/hot%C4%83r%C3%A2rea-nr-91",
+     "sha256": "f384a8af2673dd1dc1a36eb593774f7c176d64daca39c87abc20fcf85a65f8f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-93-2005",
+   "path": "local/judet/iasi/2005/93",
+   "short": "HCJ Iași nr. 93/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 93/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-06-06/hot%C4%83r%C3%A2rea-nr-93",
+   "versions": [
+    {
+     "from": "2005-06-06",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-06-06/hot%C4%83r%C3%A2rea-nr-93",
+     "sha256": "0e6ecfafdc831fa89d0fdfc71948a7734fff4fc64d51c1fdb0f1b9b554bf0ba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-98-2005",
+   "path": "local/judet/iasi/2005/98",
+   "short": "HCJ Iași nr. 98/2005",
+   "title": "Hotărârea Consiliului Județean Iași nr. 98/2005",
+   "url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-98",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2005/2005-07-15/hot%C4%83r%C3%A2rea-nr-98",
+     "sha256": "1e3a602f8fd95be8885f4b895c2bd460aaa838f26c83b83f5c565ba343ec9980"
+    }
+   ]
+  }
+ ]
+}

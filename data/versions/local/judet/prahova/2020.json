@@ -3,6 +3,111 @@
  "shard": "local/judet/prahova/2020",
  "acts": [
   {
+   "slug": "hcj-prahova-189-2020",
+   "path": "local/judet/prahova/2020/189",
+   "short": "HCJ Prahova nr. 189/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 189/2020 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii în imobilele proprietate publică a judeţului Prahova, situate în municipiul Ploieşti, B-dul Republicii nr. 2 – 4, Şoseaua Vestului nr. 14 – 16 şi str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-189-din-data-23-12-2020.pdf",
+     "sha256": "f07a8f4aa6cbb707c28c3051136b57749f3c7cb30cdcd2be4c3df36dfd48cfe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-190-2020",
+   "path": "local/judet/prahova/2020/190",
+   "short": "HCJ Prahova nr. 190/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 190/2020 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii în imobilul Palatul Culturii proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-190-din-data-23-12-2020.pdf",
+     "sha256": "5f56b04fda76e73d57f1387ca8f94899acb69b8282bd6aafeb3b1fea499935da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-191-2020",
+   "path": "local/judet/prahova/2020/191",
+   "short": "HCJ Prahova nr. 191/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 191/2020 privind prelungirea termenelor contractelor de închiriere a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-191-din-data-23-12-2020.pdf",
+     "sha256": "f92be2280d71ec9941b48447b2fd2d31c6a85caa0c5b7f7ae0fda4f30c62f7a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-192-2020",
+   "path": "local/judet/prahova/2020/192",
+   "short": "HCJ Prahova nr. 192/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 192/2020 privind prelungirea duratei contractului de închiriere a unui spaţiu în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-192-din-data-23-12-2020.pdf",
+     "sha256": "e104d431564abb0733e698d59b606d1fa35d194fb71be7281267a961f90a2be3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-193-2020",
+   "path": "local/judet/prahova/2020/193",
+   "short": "HCJ Prahova nr. 193/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 193/2020 privind desemnarea reprezentanților Consiliului Județean Prahova în Consiliile de administrație ale spitalelor de interes județean",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-193-din-data-23-12-2020.pdf",
+     "sha256": "75350ccbe4afd9216f0e9d319b9bb30781a3105d2de7cdc1d5b8d9bca425dba7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-194-2020",
+   "path": "local/judet/prahova/2020/194",
+   "short": "HCJ Prahova nr. 194/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 194/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-194-din-data-23-12-2020.pdf",
+     "sha256": "640edd746f1b40ee2a56aebb5fd6d9558bb7576717cd6ce2ced57d75e5908c3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-195-2020",
+   "path": "local/judet/prahova/2020/195",
+   "short": "HCJ Prahova nr. 195/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 195/2020 pentru modificarea și completarea Hotărârii nr. 20/2020 a Consiliului Județean Prahova privind aprobarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-195-din-data-23-12-2020.pdf",
+     "sha256": "8c4361db7d01ebe1efd44f94c594cead57be35021d1cf7ff8747832e20289eb9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-196-2020",
    "path": "local/judet/prahova/2020/196",
    "short": "HCJ Prahova nr. 196/2020",
@@ -14,6 +119,51 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-196-din-data-23-12-2020.pdf",
      "sha256": "66e977605c32b07559b9aba893031ea124eb253aeada1331d82560aa0288d1c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-198-2020",
+   "path": "local/judet/prahova/2020/198",
+   "short": "HCJ Prahova nr. 198/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 198/2020 privind modificarea unor prevederi din Hotărârea nr. 54/2020 a Consiliului Județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-198-din-data-23-12-2020.pdf",
+     "sha256": "e5a6616adcc6f804d22613ca52015ea396a04db96b042f5570af97bfe90df2c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-199-2020",
+   "path": "local/judet/prahova/2020/199",
+   "short": "HCJ Prahova nr. 199/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 199/2020 pentru modificarea unor prevederi ale Hotărârii Consiliului Județean Prahova nr.110/2020 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2020 în vederea realizării unor obiective de",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-199-din-data-23-12-2020.pdf",
+     "sha256": "1032265094a0846ce3b944ed5371e635f6b7051a13f3ade1d8e7bd2a855ee807"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-200-2020",
+   "path": "local/judet/prahova/2020/200",
+   "short": "HCJ Prahova nr. 200/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 200/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-200-din-data-30-12-2020.pdf",
+     "sha256": "ca0245b8f4c55741d8b57ad2779c8192c81783828935824177c51ae12a7793f2"
     }
    ]
   }

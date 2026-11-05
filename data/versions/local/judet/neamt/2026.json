@@ -3,6 +3,336 @@
  "shard": "local/judet/neamt/2026",
  "acts": [
   {
+   "slug": "hcj-neamt-1-2026",
+   "path": "local/judet/neamt/2026/1",
+   "short": "HCJ Neamț nr. 1/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 1/2026 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții „Amenajare drum acces la sediul nou pentru Spitalul Județean de Urgență Piatra Neamț, județul Neamț” - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Anexa 1 nu poate fi scanata datorita formatului",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-1-din-13-ianuarie-2026.pdf",
+     "sha256": "8c023a6b5e1cb61cb149b9afeb4390c3d0fa455d12b1c7f48a61e3328cfcdae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-10-2026",
+   "path": "local/judet/neamt/2026/10",
+   "short": "HCJ Neamț nr. 10/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 10/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Gherăești pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-10-din-28-ianuarie-2026.pdf",
+     "sha256": "7b26836c520e7c05f28a4024c8d392774906aacf83ec1fc227f2be1352a1e0f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-100-2026",
+   "path": "local/judet/neamt/2026/100",
+   "short": "HCJ Neamț nr. 100/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 100/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Bîra pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-100-din-29-aprilie-2026.pdf",
+     "sha256": "1711bf8d9d8538ce252d8c47704f355a4014eb406965ed92f2245bf2c62a5938"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-101-2026",
+   "path": "local/judet/neamt/2026/101",
+   "short": "HCJ Neamț nr. 101/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 101/2026 privind neexercitarea dreptului de preempțiune la cumpărarea unor imobile - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-101-din-29-aprilie-2026.pdf",
+     "sha256": "18c6dea058c830b42716d7cc140d63f93820b982cb2bed1b69d527a8e17affcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-102-2026",
+   "path": "local/judet/neamt/2026/102",
+   "short": "HCJ Neamț nr. 102/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 102/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Grințieș pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-102-din-29-aprilie-2026.pdf",
+     "sha256": "5d603f1c3e64cfc43cf3da95650f4b9a84cce9cd6749bb66dc0d3c554428d828"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-105-2026",
+   "path": "local/judet/neamt/2026/105",
+   "short": "HCJ Neamț nr. 105/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 105/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Sagna pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-105-din-29-aprilie-2026.pdf",
+     "sha256": "8ece7094822ddab1681557c1711cbd126431bbba2c19efbff2fc91c7b4f433be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-106-2026",
+   "path": "local/judet/neamt/2026/106",
+   "short": "HCJ Neamț nr. 106/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 106/2026 pentru modificarea și completarea Hotărârii Consiliului Județean Neamț nr.236/2018 Modifică și completează HCJ nr. 236/2018 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-106-din-29-aprilie-2026.pdf",
+     "sha256": "eaf72bba8bf7153fdf3f15f0ae6620940330a85d060f667313c8d67b18c560d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-108-2026",
+   "path": "local/judet/neamt/2026/108",
+   "short": "HCJ Neamț nr. 108/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 108/2026 privind modificarea organigramei și a statului de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Neamț Modifică HCJ nr. 318/2025 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-108-din-29-aprilie-2026.pdf",
+     "sha256": "ae68f9fe9b70f830e08008c2161140d37e85fffb37df27e1b66cbbf7fa8d97d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-109-2026",
+   "path": "local/judet/neamt/2026/109",
+   "short": "HCJ Neamț nr. 109/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 109/2026 privind închiderea circulației pentru traficul greu pe Pod pe DJ 208G, km 34+306, peste râul Moldova - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-109-din-29-aprilie-2026.pdf",
+     "sha256": "47f11373687c40ef663df5635a83645394f61de2de2bd118ed2add6791201640"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-110-2026",
+   "path": "local/judet/neamt/2026/110",
+   "short": "HCJ Neamț nr. 110/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 110/2026 privind atestarea Inventarului bunurilor care alcătuiesc domeniul public al Județului Neamț - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-110-din-29-aprilie-2026.pdf",
+     "sha256": "ebb6f4d27dc6f85d520004f69d90ba33b48047831600ab79603469a7c3da85cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-111-2026",
+   "path": "local/judet/neamt/2026/111",
+   "short": "HCJ Neamț nr. 111/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 111/2026 privind actualizarea devizului general pentru obiectivul de investiții „Stație de pompieri și SMURD Târgu-Neamț” - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-111-din-29-aprilie-2026.pdf",
+     "sha256": "2a583a9fb298e3db463f70335c961fc7f4de222a9453e7eec9eab82238b230f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-112-2026",
+   "path": "local/judet/neamt/2026/112",
+   "short": "HCJ Neamț nr. 112/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 112/2026 privind aprobarea execuţiei bugetare la data de 31 martie 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-112-din-29-aprilie-2026.pdf",
+     "sha256": "110c7435b9ed286b528ae1df59d5f64c24f5c3aafc90bfc57558438621121f96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-113-2026",
+   "path": "local/judet/neamt/2026/113",
+   "short": "HCJ Neamț nr. 113/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 113/2026 privind aprobarea unei asocieri în vederea realizării unui proiect de interes public județean - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-113-din-29-aprilie-2026.pdf",
+     "sha256": "7ca2df9f210dfbade637e941f2ec223d11be0b41013d14120bcfcccac6d58906"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-115-2026",
+   "path": "local/judet/neamt/2026/115",
+   "short": "HCJ Neamț nr. 115/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 115/2026 privind aprobarea unui acord de asociere - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-115-din-29-aprilie-2026.pdf",
+     "sha256": "e48b1f8053d8350ff27e88d6b02a4faa20d123e332c6e226faae8d0389f43406"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-117-2026",
+   "path": "local/judet/neamt/2026/117",
+   "short": "HCJ Neamț nr. 117/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 117/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "58983835d8403e79f831af4a824fb3b1b610990e022aa862ee0aa75b51d8150b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-118-2026",
+   "path": "local/judet/neamt/2026/118",
+   "short": "HCJ Neamț nr. 118/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 118/2026 privind modificarea Hotărârii Consiliului Județean Neamț nr.346/22.12.2025 Modifică HCJ nr. 346/2025 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-118-din-29-aprilie-2026.pdf",
+     "sha256": "be14e56f9a33c4922dd7b8ed2fc8dd4a744088f8764955488b77885964d65046"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-119-2026",
+   "path": "local/judet/neamt/2026/119",
+   "short": "HCJ Neamț nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 119/2026 privind modificarea Hotărârii Consiliului Județean Neamț nr.223/21.08.2025 Modifică HCJ nr. 223/2025 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-119-din-29-aprilie-2026.pdf",
+     "sha256": "13ed0b4d579fe5c7c6d4612b6c55efb76c5386edb4b92865c50402eaba3de694"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-12-2026",
+   "path": "local/judet/neamt/2026/12",
+   "short": "HCJ Neamț nr. 12/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 12/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Orașului Roznov pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-12-din-28-ianuarie-2026.pdf",
+     "sha256": "235bcade0c5b36c6ad56c932c6c2d962ada0cebe8afd956fab56fa0adcbca5db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-123-2026",
+   "path": "local/judet/neamt/2026/123",
+   "short": "HCJ Neamț nr. 123/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 123/2026 privind modificarea statului de funcții al aparatului de specialitate al Consiliului Județean Neamț - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/05/Consiliul-Judetean-Neamt-HCJ-nr.-123-din-11-mai-2026.pdf",
+     "sha256": "55520978aad4043c19e49da695039a745fa734c68f8029ed0c95eb8d0cdae8ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-124-2026",
+   "path": "local/judet/neamt/2026/124",
+   "short": "HCJ Neamț nr. 124/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 124/2026 privind aprobarea bugetului Judeţului Neamţ pe anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/05/Consiliul-Judetean-Neamt-HCJ-nr.-124-din-11-mai-2026.pdf",
+     "sha256": "d5cedd92f2c8d03c8ca8048cef2cb91a412061fb4e8d6ce64e1e519af0125ca9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-13-2026",
+   "path": "local/judet/neamt/2026/13",
+   "short": "HCJ Neamț nr. 13/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 13/2026 privind luarea unor măsuri referitoare la unele bunuri aflate în proprietatea Județului Neamț - Modifica 281/2016 - Modifica 18/2017 - Modifica 96/2025 (anexa nr. 3) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-13-din-28-ianuarie-2026.pdf",
+     "sha256": "a5753d1da0c36cec192e95aa5f33aa8183e81d6332b1c4b2dabe0dbc20e7f450"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-14-2026",
+   "path": "local/judet/neamt/2026/14",
+   "short": "HCJ Neamț nr. 14/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 14/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Doljești pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-14-din-28-ianuarie-2026.pdf",
+     "sha256": "906bb2d0bcf13e79099732cde665add4cc386fbfa282d00955811b4c67e52396"
+    }
+   ]
+  },
+  {
    "slug": "hcj-neamt-15-2026",
    "path": "local/judet/neamt/2026/15",
    "short": "HCJ Neamț nr. 15/2026",
@@ -14,6 +344,936 @@
      "units": 1,
      "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-15-din-28-ianuarie-2026.pdf",
      "sha256": "2e65585e71de9c88c01f9b8252655a4001a68e057b20fbbf5b5f862a3a8316f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-16-2026",
+   "path": "local/judet/neamt/2026/16",
+   "short": "HCJ Neamț nr. 16/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 16/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Borlești pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-16-din-28-ianuarie-2026.pdf",
+     "sha256": "d099a6c3b2d6a96ba4d2a73dd1ac6fe865c3fc6324c27c8bc54796bdf660cb8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-17-2026",
+   "path": "local/judet/neamt/2026/17",
+   "short": "HCJ Neamț nr. 17/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 17/2026 privind aprobarea majorării cuantumului alocației de hrană/bolnav internat/zi în cadrul Spitalului de Psihiatrie „Sf. Nicolae” Roman - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-17-din-28-ianuarie-2026.pdf",
+     "sha256": "ea1597625e3c4ed291ff89dea1ab379e0ee2b726c8ce1d9d356d0ea6992380eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-18-2026",
+   "path": "local/judet/neamt/2026/18",
+   "short": "HCJ Neamț nr. 18/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 18/2026 pentru modificarea Hotărârii Consiliului Județean Neamț nr.185/30.06.2025 privind aprobarea unui protocol de colaborare în domeniul protecției animalelor - Completeaza 185/2025 (art.4) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-18-din-28-ianuarie-2026.pdf",
+     "sha256": "5d7d66a706d74d9a1de12efea088f0edb4318480a63a7a300210fcd21693cce6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-19-2026",
+   "path": "local/judet/neamt/2026/19",
+   "short": "HCJ Neamț nr. 19/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 19/2026 privind aprobarea închirierii unor spații aparținând domeniului public județean, precum și a măsurilor conexe necesare - Modifica 96/2025 (anexa nr.1) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-19-din-28-ianuarie-2026.pdf",
+     "sha256": "6b92233aa3b1a852d7b7ffa2c0b6558d35b14eed925ee365a70e6e12fb0f1fe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-2-2026",
+   "path": "local/judet/neamt/2026/2",
+   "short": "HCJ Neamț nr. 2/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 2/2026 privind încheierea unui acord de asociere în vederea promovării Județului Neamț la Târgul de Turism al României, ediția a 53-a (12-15 februarie 2026) - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-2-din-13-ianuarie-2026.pdf",
+     "sha256": "9fd970b51649511364a23790bef892fe043592f953970e3adb8a3d690c4d81b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-20-2026",
+   "path": "local/judet/neamt/2026/20",
+   "short": "HCJ Neamț nr. 20/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 20/2026 privind aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Neamț la implementarea proiectului „Pe cont propriu – sprijin pentru o viață independentă” și aprobarea cheltuielilor legate de acesta - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-20-din-28-ianuarie-2026.pdf",
+     "sha256": "967ddfc3ca63f877492002ba7cbd9bd119f23a14a13072a56664523a53218eb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-21-2026",
+   "path": "local/judet/neamt/2026/21",
+   "short": "HCJ Neamț nr. 21/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 21/2026 privind desemnarea unor reprezentanți în cadrul Consiliilor de Administrație ale Spitalului Județean de Urgență Piatra-Neamț și Spitalului de Psihiatrie „Sf.Nicolae” Roman - Modifica 30/2025 (alin.(1) al art. 1) - Modifica 31/2025 (alin.(1) al art. 1) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-21-din-28-ianuarie-2026.pdf",
+     "sha256": "32b317df84fd725fb330a5d22d73016a341d7bc1514ea22c478a9d7e37c59c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-24-2026",
+   "path": "local/judet/neamt/2026/24",
+   "short": "HCJ Neamț nr. 24/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 24/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a6a3afb57f3ecf04f539100e86c500d593904e55ca5c5a1b4cb5921c1fcdc679"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-25-2026",
+   "path": "local/judet/neamt/2026/25",
+   "short": "HCJ Neamț nr. 25/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 25/2026 privind desemnarea reprezentanţilor Consiliului Judeţean Neamţ în cadrul Consiliului de Administraţie al Centrului Şcolar pentru Educaţie Incluzivă Târgu-Neamţ, pentru anul școlar 2025-2026 - Abroga 284/2025 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-25-din-28-ianuarie-2026.pdf",
+     "sha256": "a0c86946748464e6ee702f7abc10c37c7a5ba9897019031f995bff89106ccfb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-26-2026",
+   "path": "local/judet/neamt/2026/26",
+   "short": "HCJ Neamț nr. 26/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 26/2026 privind repartizarea pe unități administrativ-teritoriale a sumelor defalcate din unele venituri ale bugetului de stat, proiect 2026 și estimări pentru anii 2027-2029 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-26-din-06-februarie-2026.pdf",
+     "sha256": "325126ee1d8caf93fccf8583f7386096ab5dd8580fd6877fcc83b62531633f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-27-2026",
+   "path": "local/judet/neamt/2026/27",
+   "short": "HCJ Neamț nr. 27/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 27/2026 privind modificarea Hotărârii Consiliului Județean Neamț nr.261/2025 - Modifica 261/2025 (anexa nr.1 si anexa nr.2) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-27-din-06-februarie-2026.pdf",
+     "sha256": "7f7e245a1a1b335d61453f4d98166ba397567067bd066470768945e459b4cc83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-279-2026",
+   "path": "local/judet/neamt/2026/279",
+   "short": "HCJ Neamț nr. 279/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 279/2026 privind rectificarea bugetului Județului Neamț pe anul 2026",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/HCJ-nr.-279-din-01-octombrie-2026-privind-rectificarea-bugetului-Judetului-Neamt-pe-anul-2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/HCJ-nr.-279-din-01-octombrie-2026-privind-rectificarea-bugetului-Judetului-Neamt-pe-anul-2026-1.pdf",
+     "sha256": "76f3e18282b36811f3aa9c3d6c73907d13f84ae3836e5a87aec55f3271f72831"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-28-2026",
+   "path": "local/judet/neamt/2026/28",
+   "short": "HCJ Neamț nr. 28/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 28/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Botești pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-28-din-26-februarie-2026.pdf",
+     "sha256": "2f5e402015174fc440dc69c5e373e9ff19c6aeb492ae020524a159ac53f8a88c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-282-2026",
+   "path": "local/judet/neamt/2026/282",
+   "short": "HCJ Neamț nr. 282/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 282/2026 privind modificarea Hotărârii Consiliului Județean Neamț nr.206/2025 - Modifica 206/2025 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-282-din-15-octombrie-2026.pdf",
+     "sha256": "8607ce94afd0270dc5a02f580acb2d3da5650462406c858032d776694ac7505e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-283-2026",
+   "path": "local/judet/neamt/2026/283",
+   "short": "HCJ Neamț nr. 283/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 283/2026 privind schimbarea denumirii Școlii Profesionale Speciale Comuna Ștefan cel Mare - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-283-din-15-octombrie-2026.pdf",
+     "sha256": "71aa081010751aefacdc1b526bc6d6e9f1d61b3e7f51f8688383e16a1ae3bd5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-284-2026",
+   "path": "local/judet/neamt/2026/284",
+   "short": "HCJ Neamț nr. 284/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 284/2026 privind desemnarea și validarea unor persoane ca membri ai Autorității Teritoriale de Ordine Publică Neamț - Modifica 113/2025 - Modifica 162/2025 (art.1) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-284-din-15-octombrie-2026.pdf",
+     "sha256": "4fe5a67dbec4b9a22ce21a5139018078be0a7e0e5d678b9022fdd5377016a66a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-285-2026",
+   "path": "local/judet/neamt/2026/285",
+   "short": "HCJ Neamț nr. 285/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 285/2026 privind desemnarea reprezentanţilor Consiliului Judeţean Neamţ în cadrul Consiliului de Administraţie al Liceului Tehnologic Special, Comuna Ștefan cel Mare, pentru anul școlar 2026-2027 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-285-din-15-octombrie-2026.pdf",
+     "sha256": "6fa0e9d6e275093b1d01cc1f3cf3d408b57d3482a0ae7cf160be98a14e695e55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-286-2026",
+   "path": "local/judet/neamt/2026/286",
+   "short": "HCJ Neamț nr. 286/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 286/2026 privind desemnarea reprezentanţilor Consiliului Judeţean Neamţ în cadrul Consiliului de Administraţie al Centrului Şcolar pentru Educaţie Incluzivă Târgu-Neamţ, pentru anul școlar 2026-2027 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-286-din-15-octombrie-2026.pdf",
+     "sha256": "99069c61c5ef927db9d5449d07d4a605f66e0b2ca32791204fd41e44c456f937"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-287-2026",
+   "path": "local/judet/neamt/2026/287",
+   "short": "HCJ Neamț nr. 287/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 287/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ce8c22cb39843235ea8a3a2f3f613902d42a4870b9ccdf1d09c3047673a4b291"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-288-2026",
+   "path": "local/judet/neamt/2026/288",
+   "short": "HCJ Neamț nr. 288/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 288/2026 privind desemnarea reprezentanţilor Consiliului Judeţean Neamţ în cadrul Consiliului de Administraţie al Centrului Școlar pentru Educație Incluzivă Roman, pentru anul școlar 2026-2027 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-288-din-15-octombrie-2026.pdf",
+     "sha256": "0f8a3540fdc68b21584dc2213aafa1f671be27600288d2ff73972aea65365f0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-289-2026",
+   "path": "local/judet/neamt/2026/289",
+   "short": "HCJ Neamț nr. 289/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 289/2026 privind modificarea Hotărârii Consiliului Județean Neamț nr.185/2026 - Modifica 185/2026 (anexa nr.2) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-289-din-15-octombrie-2026.pdf",
+     "sha256": "e6af60a611c652a13863c86a5ed66e5942c5227a820dfca1dbf55f4a182c6a27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-29-2026",
+   "path": "local/judet/neamt/2026/29",
+   "short": "HCJ Neamț nr. 29/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 29/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Municipiului Roman pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-29-din-26-februarie-2026.pdf",
+     "sha256": "45e4c0944ac18a26e0145f9d308d61391a51a9bdca7383bba5765bdec57a3bc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-290-2026",
+   "path": "local/judet/neamt/2026/290",
+   "short": "HCJ Neamț nr. 290/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 290/2026 privind desemnarea reprezentanților Consiliului Județean Neamț în cadrul comisiilor pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității, constituite la nivelul unităților de învățământ special din județul Neamț - Abroga 32/2025 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiil",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-290-din-15-octombrie-2026.pdf",
+     "sha256": "d6d0ec415c6766c77e7cd9f0503ae6f0fb35bceb4e0cb11e94883f9c2e65ba03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-293-2026",
+   "path": "local/judet/neamt/2026/293",
+   "short": "HCJ Neamț nr. 293/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 293/2026 privind încheierea unui acord de cooperare cu Administrația Regională de Stat Cernăuți /Administrația Militară de Stat Cernăuți din Ucraina",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-293-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-293-din-29-octombrie-2026.pdf",
+     "sha256": "326128d7634b33db77059ad08066a8476a976f06912272209c2c4183ffc2d9d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-294-2026",
+   "path": "local/judet/neamt/2026/294",
+   "short": "HCJ Neamț nr. 294/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 294/2026 privind aprobarea documentației tehnico-economice (faza SF) „Deviere rețea apă potabilă, rețea hidranți, rețea canalizare și branșamente/racord Spitalul Județean de Urgență Piatra-Neamț”",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-294-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-294-din-29-octombrie-2026.pdf",
+     "sha256": "ca0fbb0a6688fb811d3c8c5870d4be9f805ed2572ee62fca056993a5bcc4b1bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-295-2026",
+   "path": "local/judet/neamt/2026/295",
+   "short": "HCJ Neamț nr. 295/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 295/2026 privind aprobarea execuției bugetare la data de 30 septembrie 2026",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-295-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-295-din-29-octombrie-2026.pdf",
+     "sha256": "6097ffd84b1f449459064211776cc3184e3ca143dea2d39952285af83c225cb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-296-2026",
+   "path": "local/judet/neamt/2026/296",
+   "short": "HCJ Neamț nr. 296/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 296/2026 privind luarea unor măsuri referitoare la unele bunuri aflate în proprietatea Județului Neamț",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-296-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-296-din-29-octombrie-2026.pdf",
+     "sha256": "87d0ac0cba26996f6762739961a25bcd7c2eec9d8c61bb19bb6a41f94d2b871f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-297-2026",
+   "path": "local/judet/neamt/2026/297",
+   "short": "HCJ Neamț nr. 297/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 297/2026 privind luarea unor măsuri referitoare la unele bunuri aflate în proprietatea publică a Județului Neamț",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-297-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-297-din-29-octombrie-2026.pdf",
+     "sha256": "798e729ba7eaa536609c61aade757ece0daff0da50707af6d6f26c03d6e05aba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-298-2026",
+   "path": "local/judet/neamt/2026/298",
+   "short": "HCJ Neamț nr. 298/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 298/2026 privind darea în administrare a unui spațiu ce aparține domeniului public județean",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-298-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-298-din-29-octombrie-2026.pdf",
+     "sha256": "400dea56a9594d2b4c034191b871f0fc43788cbe3a9ce08fd78f9265db98082a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-299-2026",
+   "path": "local/judet/neamt/2026/299",
+   "short": "HCJ Neamț nr. 299/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 299/2026 privind modificarea statului de funcții al Complexului Muzeal Național Neamț",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-299-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-299-din-29-octombrie-2026.pdf",
+     "sha256": "46aac30fa9bf970d5c04d11dfdc2c78a6b60ad944e2a70e256fdb055b73d16c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-3-2026",
+   "path": "local/judet/neamt/2026/3",
+   "short": "HCJ Neamț nr. 3/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 3/2026 privind luarea unor măsuri în ceea ce privește unele bunuri din proprietatea Județului Neamț - Completeaza 96/2025 (anexa nr.4) - Modifica 140/2019 (anexa nr.2) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-3-din-13-ianuarie-2026.pdf",
+     "sha256": "8374f32e198542c94454368d709babbcff15238865e18bcde3b56796cfb87169"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-30-2026",
+   "path": "local/judet/neamt/2026/30",
+   "short": "HCJ Neamț nr. 30/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 30/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Borca pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-30-din-26-februarie-2026.pdf",
+     "sha256": "901fa0eb4eed05c7c15269222c98428c9a553184751af398674cb4ca6bfc04be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-300-2026",
+   "path": "local/judet/neamt/2026/300",
+   "short": "HCJ Neamț nr. 300/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 300/2026 privind aprobarea organigramei și a statului de funcții ale Bibliotecii Județene ”G.T.Kirileanu” Neamț",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-300-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-300-din-29-octombrie-2026.pdf",
+     "sha256": "a7ad81b910c4a567a8acd9ed4ec167467b39544cb3627ed818e0f2ea8d9ab18c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-301-2026",
+   "path": "local/judet/neamt/2026/301",
+   "short": "HCJ Neamț nr. 301/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 301/2026 privind aprobarea organigramei și a statului de funcții ale Teatrului Tineretului Piatra-Neamț",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-301-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-301-din-29-octombrie-2026.pdf",
+     "sha256": "e581b0114a341214cba2da26dab1425bebe65fd3d7278012a13edf3b06dc78fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-302-2026",
+   "path": "local/judet/neamt/2026/302",
+   "short": "HCJ Neamț nr. 302/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 302/2026 privind declanșarea procedurii de expropriere a unor terenuri, pentru cauză de utilitate publică, necesare realizării unui obiectiv de interes județean",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-302-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-302-din-29-octombrie-2026.pdf",
+     "sha256": "58f0c1f3526131bb5426ab2a0549146f1431a46e2f1c5840cec5ce3bd1456357"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-303-2026",
+   "path": "local/judet/neamt/2026/303",
+   "short": "HCJ Neamț nr. 303/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 303/2026 privind modificarea Hotărârii Consiliului Județean Neamț nr.185/2026",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-303-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-303-din-29-octombrie-2026.pdf",
+     "sha256": "54c05a9d9108e5d66295fbb7dfbf58eb911b0b40d05ce42f3cee759a7247603f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-304-2026",
+   "path": "local/judet/neamt/2026/304",
+   "short": "HCJ Neamț nr. 304/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 304/2026 privind declanșarea procedurii de expropriere a unor terenuri necesare realizării unei investiții de interes public județean",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-304-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-304-din-29-octombrie-2026.pdf",
+     "sha256": "01bbe3f8be815c9f0e78ba9058a7efd213993b28043d5c2caf20c36918ddf88e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-305-2026",
+   "path": "local/judet/neamt/2026/305",
+   "short": "HCJ Neamț nr. 305/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 305/2026 privind acordarea unui mandat special",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-305-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-305-din-29-octombrie-2026.pdf",
+     "sha256": "e9fed3825093ff150a825f850f68fcf23c69b08e478ec4f6254feaf8373c7c50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-306-2026",
+   "path": "local/judet/neamt/2026/306",
+   "short": "HCJ Neamț nr. 306/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 306/2026 pentru modificarea Hotărârii Consiliului Județean Neamț nr.129/2026 privind aprobarea valorii și plății cotizației datorată de Județul Neamț în calitate de membru al Asociației Cluster „PRODUS ÎN NEAMȚ”",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-306-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-306-din-29-octombrie-2026.pdf",
+     "sha256": "82ae518754b0a3fa7a9f5c53ac64afd4b976cc41c596d8d00b40fea9715e4a6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-307-2026",
+   "path": "local/judet/neamt/2026/307",
+   "short": "HCJ Neamț nr. 307/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 307/2026 privind rectificarea bugetului Județului Neamț pe anul 2026",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/11/HCJ-nr.-307-din-29-octombrie-2026-privind-rectificarea-bugetului-Judetului-Neamt-pe-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/11/HCJ-nr.-307-din-29-octombrie-2026-privind-rectificarea-bugetului-Judetului-Neamt-pe-anul-2026.pdf",
+     "sha256": "a5a62949767f91472554f710dd4514fe2eaf93814ffa60ff5322e88747b331ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-308-2026",
+   "path": "local/judet/neamt/2026/308",
+   "short": "HCJ Neamț nr. 308/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 308/2026 privind aprobarea documentației tehnico-economice – faza Studiu de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții de interes județean Sat de vacanță „ Ținutul lui Creangă” din cadrul Complexului de agrement Ținutul lui Creangă – Târgu-Neamț",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-308-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-308-din-29-octombrie-2026.pdf",
+     "sha256": "15543d35381619ef9089504bac7d6b24ea1c78131d12e0e9ea40fa8af621c3aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-309-2026",
+   "path": "local/judet/neamt/2026/309",
+   "short": "HCJ Neamț nr. 309/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 309/2026 privind aprobarea declarării proiectului „ Investiții complementare Sistemului de management integrat al deșeurilor în județul Neamț” de interes județean și de utilitate publică",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-309-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-309-din-29-octombrie-2026.pdf",
+     "sha256": "c8fde53bcfa7b0cd7a7e811880d6131c29e731f14b080203a062c834ffc2f6eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-31-2026",
+   "path": "local/judet/neamt/2026/31",
+   "short": "HCJ Neamț nr. 31/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 31/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Săbăoani pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-31-din-26-februarie-2026.pdf",
+     "sha256": "49cb6a8944bffd855d641a6a23385970f222bbf5a5f1d00c488130fdab764692"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-310-2026",
+   "path": "local/judet/neamt/2026/310",
+   "short": "HCJ Neamț nr. 310/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 310/2026 pentru modificarea Hotărârii Consiliului Județean Neamț nr.207/2026 privind luarea unor măsuri pentru continuarea procedurii de atribuire a contractului de delegare a gestiunii serviciului public de transport persoane în aria teritorială de competență a județului Neamț, aferent Lotului 3",
+   "url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-310-din-29-octombrie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/10/Consiliul-Judetean-Neamt-HCJ-nr.-310-din-29-octombrie-2026.pdf",
+     "sha256": "3e2412d94c90d8d5dbf3cef03bcae1a392ed2859022e9a8346746ffcaf4ef31e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-32-2026",
+   "path": "local/judet/neamt/2026/32",
+   "short": "HCJ Neamț nr. 32/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 32/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Cordun pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-32-din-26-februarie-2026.pdf",
+     "sha256": "d45e4aa2e79c1fdede757e8e64fb6fcb378950b54c1538971ca49b3dd9e27cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-33-2026",
+   "path": "local/judet/neamt/2026/33",
+   "short": "HCJ Neamț nr. 33/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 33/2026 privind atestarea Inventarului bunurilor care alcătuiesc domeniul public al Județului Neamț - Modifica 25/1999 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-33-din-26-februarie-2026.pdf",
+     "sha256": "e06ee70b35e986739adda6e978a1afdea1380323328b19959994e65f9c798536"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-34-2026",
+   "path": "local/judet/neamt/2026/34",
+   "short": "HCJ Neamț nr. 34/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 34/2026 privind darea în administrare a unor bunuri aflate în proprietatea publică a Județului Neamț - Completeaza 96/2025 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-34-din-26-februarie-2026.pdf",
+     "sha256": "412bf3a21d64f686c298445e00204ffcdad6d858077fe3689cad1c1232b51025"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-36-2026",
+   "path": "local/judet/neamt/2026/36",
+   "short": "HCJ Neamț nr. 36/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 36/2026 privind validarea unui membru al Autorităţii Teritoriale de Ordine Publică Neamţ - Modifica 162/2025 (art.1) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-36-din-26-februarie-2026.pdf",
+     "sha256": "840c53ea44f318932d1f7b00bafe493f1b9eb18c3b3d340b03f5837f63cf1b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-38-2026",
+   "path": "local/judet/neamt/2026/38",
+   "short": "HCJ Neamț nr. 38/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 38/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Gârcina pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-38-din-26-februarie-2026.pdf",
+     "sha256": "5eabfb716572447ee55a53abe29f3400cc4106f9aa346f891839629790ddc2f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-39-2026",
+   "path": "local/judet/neamt/2026/39",
+   "short": "HCJ Neamț nr. 39/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 39/2026 privind aprobarea unui acord de asociere - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-39-din-26-februarie-2026.pdf",
+     "sha256": "fee57529b1209b5d3ebae44139dfc14296bfd2c49e4d11c092262fa599d10aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-4-2026",
+   "path": "local/judet/neamt/2026/4",
+   "short": "HCJ Neamț nr. 4/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 4/2026 privind utilizarea unor sume din excedentul anual al bugetului Judeţului Neamţ - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-4-din-13-ianuarie-2026.pdf",
+     "sha256": "e3529b5d4f730887703232a5bb1ceb7d23c621331403c4f781ffe4125e244551"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-40-2026",
+   "path": "local/judet/neamt/2026/40",
+   "short": "HCJ Neamț nr. 40/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 40/2026 privind modificarea statului de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Neamț - Modifica 318/2025 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-40-din-26-februarie-2026.pdf",
+     "sha256": "a1b93b062059dd8cb7edbc078ef7c87739160819f97dd8d72022cf53ebca0a21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-41-2026",
+   "path": "local/judet/neamt/2026/41",
+   "short": "HCJ Neamț nr. 41/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 41/2026 privind aprobarea temei de proiectare pentru obiectivul de investiții „Lucrări în vederea obținerii Autorizației ISU pentru Complexul de servicii rezidențiale pentru copii și tineri cu dizabilități (CSRCTD) și Centrul de recuperare de zi a copilului cu dizabilități cu echipa mobilă (CRZCDEM), str",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-41-din-26-februarie-2026.pdf",
+     "sha256": "864b3b828f8db3d57c2bea8cea88b210fc248913c1edea41b5424e940fbbaef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-42-2026",
+   "path": "local/judet/neamt/2026/42",
+   "short": "HCJ Neamț nr. 42/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 42/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Grumăzești pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-42-din-26-februarie-2026.pdf",
+     "sha256": "b8609e831ccfbcac7ea2e6dd87a336446ad225e5149a43664ed59d3552f4c244"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-43-2026",
+   "path": "local/judet/neamt/2026/43",
+   "short": "HCJ Neamț nr. 43/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 43/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Moldoveni pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-43-din-26-februarie-2026.pdf",
+     "sha256": "64e0bcb03b5f71efe42a11f5705506d5ce2f6f8acb1acb453a74306ea6cee13d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-44-2026",
+   "path": "local/judet/neamt/2026/44",
+   "short": "HCJ Neamț nr. 44/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 44/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Girov pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-44-din-26-februarie-2026.pdf",
+     "sha256": "94347cd600c1fef2a000bdc09dd2819dfc491bb6e56e7ce532f0de4913700eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-45-2026",
+   "path": "local/judet/neamt/2026/45",
+   "short": "HCJ Neamț nr. 45/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 45/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Dămuc pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-45-din-26-februarie-2026.pdf",
+     "sha256": "75cd28ed96be307081c1722f074b6f7a08e60b5e5ebc3b34e6f5da3f347915b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-46-2026",
+   "path": "local/judet/neamt/2026/46",
+   "short": "HCJ Neamț nr. 46/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 46/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Ștefan cel Mare pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-46-din-26-februarie-2026.pdf",
+     "sha256": "13b32c60269353fb0915154d8b60060ef3b0a159d7e49c57aaaf8c37222964e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-47-2026",
+   "path": "local/judet/neamt/2026/47",
+   "short": "HCJ Neamț nr. 47/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 47/2026 privind aprobarea devizelor generale actualizate pentru unele obiective de investiții de interes public județean - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-47-din-26-februarie-2026.pdf",
+     "sha256": "a3f654fc16ed8aa2d2af03d163a487b795de5c136a8d37f394dfd6e51dccf912"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-48-2026",
+   "path": "local/judet/neamt/2026/48",
+   "short": "HCJ Neamț nr. 48/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 48/2026 privind actualizarea devizului general pentru obiectivul de investiții „Reabilitare subsol și acoperiș” la Teatrul Tineretului Piatra-Neamț - Modifica 183/2024 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-48-din-26-februarie-2026.pdf",
+     "sha256": "ba5f70a1cf753057865f9a5683f5a16df120122297a86d884247b9d256135a54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-49-2026",
+   "path": "local/judet/neamt/2026/49",
+   "short": "HCJ Neamț nr. 49/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 49/2026 privind aprobarea achiziționării unor servicii juridice de către Direcția Generală de Asistență Socială și Protecția Copilului Neamț - Abroga 169/2023 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-49-din-26-februarie-2026.pdf",
+     "sha256": "b11cc6c290dbcbdbca1b0406d5b327de3e2791804830ef5f9acd7d27b5fe825f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-5-2026",
+   "path": "local/judet/neamt/2026/5",
+   "short": "HCJ Neamț nr. 5/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 5/2026 pentru modificarea și completarea Hotărârii Consiliului Județean Neamț nr.236/2018 - Modifica 236/2018 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-5-din-28-ianuarie-2026.pdf",
+     "sha256": "1c5730409ad3aa5c8dcde44ea3c0971508044074002f22cdf9d2f67931c8b11f"
     }
    ]
   },
@@ -33,6 +1293,111 @@
    ]
   },
   {
+   "slug": "hcj-neamt-51-2026",
+   "path": "local/judet/neamt/2026/51",
+   "short": "HCJ Neamț nr. 51/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 51/2026 privind emiterea acordului de realizare a unor lucrări, precum și luarea unor măsuri conexe - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-51-din-26-februarie-2026.pdf",
+     "sha256": "8d411987c21fd8c601a8dbbd6baf962f611e5133c05f82fa8ac903505d757658"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-52-2026",
+   "path": "local/judet/neamt/2026/52",
+   "short": "HCJ Neamț nr. 52/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 52/2026 privind aprobarea unei documentații de atribuire și acordarea unui mandat special - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-52-din-26-februarie-2026.pdf",
+     "sha256": "b1b4d6f41ea6bccc9320c81058572dc4d3a229078604566e9367940414870ae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-53-2026",
+   "path": "local/judet/neamt/2026/53",
+   "short": "HCJ Neamț nr. 53/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 53/2026 privind aprobarea solicitării de transmitere a unor bunuri imobile din domeniul public al Municipiului Roman în domeniul public al Județului Neamț - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-53-din-26-februarie-2026.pdf",
+     "sha256": "b1194806e0b6bbfec8f82c0e0e441ca54ef589308998b86ad7e3438a0511021c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-54-2026",
+   "path": "local/judet/neamt/2026/54",
+   "short": "HCJ Neamț nr. 54/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 54/2026 privind aprobarea solicitării de transmitere a unui bun din domeniul privat al Comunei Girov în domeniul privat al Județului Neamț - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-54-din-26-februarie-2026.pdf",
+     "sha256": "2de633a039ea34bdb0a94d39b5e3c21f8da5499dae4ca58a3f964fee7d319b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-55-2026",
+   "path": "local/judet/neamt/2026/55",
+   "short": "HCJ Neamț nr. 55/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 55/2026 privind aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Neamț la implementarea proiectului „Întărirea capacității profesioniștilor în lucrul cu persoanele cu dizabilități” și aprobarea cheltuielilor legate de acesta - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-55-din-26-februarie-2026.pdf",
+     "sha256": "cf08cd5c274b437a53c83d662587a76776d287ff50dfeaccd3ad44008f3f60cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-56-2026",
+   "path": "local/judet/neamt/2026/56",
+   "short": "HCJ Neamț nr. 56/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 56/2026 privind luarea unor măsuri pentru transferul dreptului de proprietate a bunurilor mobile – mijloace fixe (23 microbuze electrice tip 17+1 locuri destinate transportului elevilor), achiziționate în cadrul proiectului „Microbuze electrice pentru elevi la nivelul Județului Neamț” - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-56-din-26-februarie-2026.pdf",
+     "sha256": "bd286d54f9b9a5e4777c96de6bf93e08e19e435d92eaffe9854030816052902a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-57-2026",
+   "path": "local/judet/neamt/2026/57",
+   "short": "HCJ Neamț nr. 57/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 57/2026 privind transmiterea unui teren din domeniul public al Județului Neamț în domeniul public al Municipiului Roman - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/02/Consiliul-Judetean-Neamt-HCJ-nr.-57-din-26-februarie-2026.pdf",
+     "sha256": "006e99e750b8a5153ade708f74b10ab4d255bad11ec0c6c6942fa4f942eea54b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-neamt-58-2026",
    "path": "local/judet/neamt/2026/58",
    "short": "HCJ Neamț nr. 58/2026",
@@ -44,6 +1409,636 @@
      "units": 1,
      "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-58-din-26-martie-2026.pdf",
      "sha256": "a4d7cca127d8350c3eedb1fe6da4c1b774da1a1f9f2d57a501e3b71314918c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-59-2026",
+   "path": "local/judet/neamt/2026/59",
+   "short": "HCJ Neamț nr. 59/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 59/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Ceahlău pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-59-din-26-martie-2026.pdf",
+     "sha256": "bfe78b0cc2b845e2557c343b9e1511e4e00c329f73b98f518a79322968d3b76a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-6-2026",
+   "path": "local/judet/neamt/2026/6",
+   "short": "HCJ Neamț nr. 6/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 6/2026 privind aprobarea temei de proiectare aferentă obiectivului de investiții de interes județean „Înființare capacitate de stocare a energiei electrice produsă din surse regenerabile de energie, pentru autoconsum” - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-6-din-28-ianuarie-2026.pdf",
+     "sha256": "8c509f2f64b50105b1e65d7897a0c308ca9aae1090693cd0784c81dcd8ab08b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-61-2026",
+   "path": "local/judet/neamt/2026/61",
+   "short": "HCJ Neamț nr. 61/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 61/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Timișești pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-61-din-26-martie-2026.pdf",
+     "sha256": "9e92cca2106271094fe7ff82834195b6e81224bc59e02a9c74db014e1b28abd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-62-2026",
+   "path": "local/judet/neamt/2026/62",
+   "short": "HCJ Neamț nr. 62/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 62/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Hangu pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-62-din-26-martie-2026.pdf",
+     "sha256": "87c41406d3026ee3b5ad92d4d4cec6f57a8e0f6328d6ff8acf07af1baa6adeba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-63-2026",
+   "path": "local/judet/neamt/2026/63",
+   "short": "HCJ Neamț nr. 63/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 63/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Boghicea pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-63-din-26-martie-2026.pdf",
+     "sha256": "be89cec876cf9eeb139e5a2abef535ca63430a4c29c90c695f9e2558f8405566"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-64-2026",
+   "path": "local/judet/neamt/2026/64",
+   "short": "HCJ Neamț nr. 64/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 64/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Tarcău pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-64-din-26-martie-2026.pdf",
+     "sha256": "e06ce2aad920782e2064060d4bce267070ab85c989818f0fa8efab14dc276a2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-65-2026",
+   "path": "local/judet/neamt/2026/65",
+   "short": "HCJ Neamț nr. 65/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 65/2026 privind aprobarea Regulamentelor de organizare și funcționare a serviciilor sociale destinate protecției persoanelor adulte din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Neamț - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-65-din-26-martie-2026.pdf",
+     "sha256": "a42a8ceeebc6e218f002968cb9dbbe5bd9211a53f5d5bef08550a27b8c85e85c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-66-2026",
+   "path": "local/judet/neamt/2026/66",
+   "short": "HCJ Neamț nr. 66/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 66/2026 privind aprobarea valorii și plății cotizației datorată de Județul Neamț în calitate de membru al Asociației de Dezvoltare Intercomunitară „METROPOLITAN GAZ” NEAMȚ - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-66-din-26-martie-2026.pdf",
+     "sha256": "757ce6f76d684d169445f1b63f406376c46b61a88c26b6f5508f045b3107b86e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-67-2026",
+   "path": "local/judet/neamt/2026/67",
+   "short": "HCJ Neamț nr. 67/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 67/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Icușești pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-67-din-26-martie-2026.pdf",
+     "sha256": "944a1a894b82f13e91b0c583b9ebf0e1d37339bee14e55aada067ac7d662bf24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-68-2026",
+   "path": "local/judet/neamt/2026/68",
+   "short": "HCJ Neamț nr. 68/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 68/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Tazlău pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-68-din-26-martie-2026.pdf",
+     "sha256": "4bac25b174473f9773bcddfe995d1253c6b4993ae18fc6ad53d7484d00f4ea25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-69-2026",
+   "path": "local/judet/neamt/2026/69",
+   "short": "HCJ Neamț nr. 69/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 69/2026 privind aprobarea majorării cuantumului alocației de hrană/bolnav internat/zi în cadrul Spitalului de Psihiatrie „Sf. Nicolae” Roman - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-69-din-26-martie-2026.pdf",
+     "sha256": "ca75dbb308aab1bdeef7af45546c9b91ef8a4500073c60d8722cb55c4f062bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-7-2026",
+   "path": "local/judet/neamt/2026/7",
+   "short": "HCJ Neamț nr. 7/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 7/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Farcașa pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-7-din-28-ianuarie-2026.pdf",
+     "sha256": "2c4428b56a7efbaa7dcf3bdb365f4130072b39aeee3a2b01af079438d5447eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-71-2026",
+   "path": "local/judet/neamt/2026/71",
+   "short": "HCJ Neamț nr. 71/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 71/2026 privind aprobarea valorii și plății contribuției financiare datorată de Județul Neamț la Fondul de Dezvoltare Regională - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-71-din-26-martie-2026.pdf",
+     "sha256": "d1b6666b3ca197a5f5f8c25008f2288c5cf0851e1d6eaee0df6d2a4d7ab3e94e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-72-2026",
+   "path": "local/judet/neamt/2026/72",
+   "short": "HCJ Neamț nr. 72/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 72/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Horia pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-72-din-26-martie-2026.pdf",
+     "sha256": "468d145c4ba056882ea6b71b414427ffbd7a808147e38947c3dc24230e7a772d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-73-2026",
+   "path": "local/judet/neamt/2026/73",
+   "short": "HCJ Neamț nr. 73/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 73/2026 privind aprobarea valorii și plății cotizației datorată de Județul Neamț în calitate de membru al Uniunii Naționale a Consiliilor Județene din România - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-73-din-26-martie-2026.pdf",
+     "sha256": "e03a0ac583c9570305667ebbcc7a45e5787253881c26349f8b4ac85f9d4cce64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-74-2026",
+   "path": "local/judet/neamt/2026/74",
+   "short": "HCJ Neamț nr. 74/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 74/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Pipirig pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-74-din-26-martie-2026.pdf",
+     "sha256": "c40659d22bdf1001358c819023f5c080284b55af4e323decb4ef11b897f7f353"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-76-2026",
+   "path": "local/judet/neamt/2026/76",
+   "short": "HCJ Neamț nr. 76/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 76/2026 privind aprobarea inventarelor bunurilor din domeniul public și privat al Judeţului Neamţ - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe Vezi anexe Vezi anexe Vezi anexe Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-76-din-26-martie-2026.pdf",
+     "sha256": "d8a97f4552cb28ede6e224a2d746604652f0ec0c17d029cb3de28c022305ae52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-77-2026",
+   "path": "local/judet/neamt/2026/77",
+   "short": "HCJ Neamț nr. 77/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 77/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ab693a4977535c329e2d763f7dc6a1ebb0fa87cfbb3c4739e8a28c3dc7016497"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-78-2026",
+   "path": "local/judet/neamt/2026/78",
+   "short": "HCJ Neamț nr. 78/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 78/2026 privind aprobarea temei de proiectare pentru obiectivul de investiții „RACORDAREA CIAPAD BOZIENI LA REȚEAUA DE DISTRIBUȚIE GAZE NATURALE DIN COMUNA RUGINOASA” sat Bozienii de Sus, comuna Ruginoasa, județul Neamț - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-78-din-26-martie-2026.pdf",
+     "sha256": "ae13c2aab02c142130759b4501eb17402560c77b5790c5bf9aa6eebb16901f1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-79-2026",
+   "path": "local/judet/neamt/2026/79",
+   "short": "HCJ Neamț nr. 79/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 79/2026 privind aprobarea temei de proiectare pentru obiectivul de investiții „RACORDAREA CIAPAD BOZIENI LA REȚEAUA DE DISTRIBUȚIE A APEI POTABILE DIN COMUNA RUGINOASA” sat Bozienii de Sus, comuna Ruginoasa, județul Neamț - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-79-din-26-martie-2026.pdf",
+     "sha256": "14653b8e1b827e65ff390339c896994cbf5321e596a81337f5ca9f1d079c0f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-8-2026",
+   "path": "local/judet/neamt/2026/8",
+   "short": "HCJ Neamț nr. 8/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 8/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Gâdinți pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-8-din-28-ianuarie-2026.pdf",
+     "sha256": "498683a44eb134325888ab6d8dbb754d7e5ff61de5ea36044cf81a475ecf57c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-80-2026",
+   "path": "local/judet/neamt/2026/80",
+   "short": "HCJ Neamț nr. 80/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 80/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Văleni pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-80-din-26-martie-2026.pdf",
+     "sha256": "9b4cbc75c8bccbe567b2ac0f3eb5ab85437465b1b5597ddd0e7eb96344220bc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-81-2026",
+   "path": "local/judet/neamt/2026/81",
+   "short": "HCJ Neamț nr. 81/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 81/2026 privind atestarea Inventarului bunurilor care alcătuiesc domeniul public al Județului Neamț - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-81-din-26-martie-2026.pdf",
+     "sha256": "0550e528c7169f42cc6122ec73010e7c5bf12225322d1ff56aad7d95049ace72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-82-2026",
+   "path": "local/judet/neamt/2026/82",
+   "short": "HCJ Neamț nr. 82/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 82/2026 privind luarea unor măsuri referitoare la unele bunuri ce aparțin domeniului public al Județului Neamț - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-82-din-26-martie-2026.pdf",
+     "sha256": "b75cc592a79a8b24551ebedd9eacfa71adb0c44c6cee1a96365a1b0b37bb7446"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-83-2026",
+   "path": "local/judet/neamt/2026/83",
+   "short": "HCJ Neamț nr. 83/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 83/2026 privind aprobarea solicitării de transmitere în folosință gratuită pe perioadă determinată a unor imobile ce aparțin domeniului public al Comunei Ceahlău - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-83-din-26-martie-2026.pdf",
+     "sha256": "f744f9d9b53135f065c0d40114aa644838ccd6e02754c4d831cc4d3cc4af5853"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-84-2026",
+   "path": "local/judet/neamt/2026/84",
+   "short": "HCJ Neamț nr. 84/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 84/2026 privind aprobarea temei de proiectare aferentă obiectivului de investiții de interes județean „Construire Centru de vizitare, informare, educație și conservare al Parcului Național Ceahlău” - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-84-din-26-martie-2026.pdf",
+     "sha256": "e5d8422fa53078689641d0962e0c44907514b9f9cf425173951a90df8790fd78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-85-2026",
+   "path": "local/judet/neamt/2026/85",
+   "short": "HCJ Neamț nr. 85/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 85/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4c40f8464a7526c59f90f348b7272855e4e3fff9d25866dd7d24c6196db488e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-86-2026",
+   "path": "local/judet/neamt/2026/86",
+   "short": "HCJ Neamț nr. 86/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 86/2026 privind aprobarea unui acord de asociere - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-86-din-26-martie-2026.pdf",
+     "sha256": "433567f25debda9a4cfcfd007107bff49d81281648ccff0f40c3999885b9918c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-87-2026",
+   "path": "local/judet/neamt/2026/87",
+   "short": "HCJ Neamț nr. 87/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 87/2026 privind aprobarea unei asocieri în vederea organizării unui eveniment dedicat Zilei Mondiale a Sănătății - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/03/Consiliul-Judetean-Neamt-HCJ-nr.-87-din-26-martie-2026.pdf",
+     "sha256": "8580b56f4b584fd6b6b5f31c0098692da930bb7e28740c46ebb4bc3b7e8bdeb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-88-2026",
+   "path": "local/judet/neamt/2026/88",
+   "short": "HCJ Neamț nr. 88/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 88/2026 privind stabilirea numărului maxim de posturi pentru aparatul de specialitate al Consiliului Județean Neamț și pentru unele instituții publice de interes județean - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-88-din-07-aprilie-2026.pdf",
+     "sha256": "d80a315d75b7c9a1f077c96152aa9fe66eaa3f79d5f4105912f76ffb6fd96044"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-89-2026",
+   "path": "local/judet/neamt/2026/89",
+   "short": "HCJ Neamț nr. 89/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 89/2026 pentru aprobarea temei de proiectare aferentă obiectivului de investiții de interes județean „Reconstruire pod acces din DN 17B către DC 198 din comuna Borca, județul Neamț, afectat în urma dezastrelor naturale din luna iulie 2025” Anexa nu poate fi scanata datorita formatului",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-89-din-07-aprilie-2026.pdf",
+     "sha256": "59cb08fe90f71246963f3b33c7a2b88ad62469521415f71a85f0c10c166c296e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-9-2026",
+   "path": "local/judet/neamt/2026/9",
+   "short": "HCJ Neamț nr. 9/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 9/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Pângărați pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/01/Consiliul-Judetean-Neamt-HCJ-nr.-9-din-28-ianuarie-2026.pdf",
+     "sha256": "26449a23538ad9de1d2364a0b2c0459698eb0a0bd96d92f0862b0c7c4751e766"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-90-2026",
+   "path": "local/judet/neamt/2026/90",
+   "short": "HCJ Neamț nr. 90/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 90/2026 privind repartizarea pe unități administrativ-teritoriale a sumelor defalcate din unele venituri ale bugetului de stat, estimări pentru anii 2027-2029 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-90-din-07-aprilie-2026.pdf",
+     "sha256": "0f789465fdfeda2a0145975f6ef4701b88463f896a98532c7bbda03ae6fd77aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-91-2026",
+   "path": "local/judet/neamt/2026/91",
+   "short": "HCJ Neamț nr. 91/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 91/2026 privind aprobarea suportării din bugetul județului a unui procent de 20% din valoarea aferentă contribuției de la bugetul de stat din sumele estimate a fi decontate în anul 2026 pe Programul Național de Investiții Anghel Saligny - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-91-din-07-aprilie-2026.pdf",
+     "sha256": "0675f4f2497c1c41ffbafb43c05f0a287708d71eee51e3621cabe18f2fb11f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-92-2026",
+   "path": "local/judet/neamt/2026/92",
+   "short": "HCJ Neamț nr. 92/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 92/2026 privind desemnarea unui reprezentant al Consiliului Județean Neamț în cadrul Consiliului de Administrație al Spitalului de Psihiatrie „Sf.Nicolae” Roman - Modifica 31/2025 (alin.(1) al art. 1) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-92-din-07-aprilie-2026.pdf",
+     "sha256": "03b1e6398748bbeb661d1ccaa746c77a79ea78d0d00cf20aa2be8659b6d028dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-93-2026",
+   "path": "local/judet/neamt/2026/93",
+   "short": "HCJ Neamț nr. 93/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 93/2026 privind desemnarea unui membru în Comisia Județeană privind Incluziunea Socială - Abroga 322/2022 Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-93-din-07-aprilie-2026.pdf",
+     "sha256": "3dfbbc393c285434038af7b4bcec60585497e599350136fc4111eb3bf6434eca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-94-2026",
+   "path": "local/judet/neamt/2026/94",
+   "short": "HCJ Neamț nr. 94/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 94/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": "93133c4db904683bbfda84bcef8bee251ea4eccc1e4e73b26e72e634d2ecf2b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-95-2026",
+   "path": "local/judet/neamt/2026/95",
+   "short": "HCJ Neamț nr. 95/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 95/2026 privind desemnarea unui reprezentant al Consiliului Județean Neamț în cadrul Consiliului de Administrație al Spitalului Județean de Urgență Piatra-Neamț - Modifica 30/2025 (alin.(1) al art. 1) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-95-din-07-aprilie-2026.pdf",
+     "sha256": "0dcb7f01d6398967f083372f22a73fb998d5bff4a75d2e43eb85c9302a4e858f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-96-2026",
+   "path": "local/judet/neamt/2026/96",
+   "short": "HCJ Neamț nr. 96/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 96/2026 privind luarea unor măsuri de organizare a comisiilor pentru ocuparea funcției de director financiar-contabil din cadrul Spitalului Judeţean de Urgenţă Piatra-Neamţ - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-96-din-07-aprilie-2026.pdf",
+     "sha256": "f3cf71b442547ad34e2ce537a5fb7d11e3a563d65309e259bbbcefa52625a564"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-97-2026",
+   "path": "local/judet/neamt/2026/97",
+   "short": "HCJ Neamț nr. 97/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 97/2026 privind luarea unor măsuri de organizare a comisiilor pentru ocuparea funcției de director financiar-contabil al Spitalului de Psihiatrie „Sf. Nicolae” Roman - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-97-din-07-aprilie-2026.pdf",
+     "sha256": "c3e6983e37bbb3a4c2ba9b82b118eee7dac864cafc045da30c32c512213feede"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-98-2026",
+   "path": "local/judet/neamt/2026/98",
+   "short": "HCJ Neamț nr. 98/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 98/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Mărgineni pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-98-din-29-aprilie-2026.pdf",
+     "sha256": "61a2c0cf31821c9a53c305457ac053189f822e393e88a9641df1103094cde910"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-neamt-99-2026",
+   "path": "local/judet/neamt/2026/99",
+   "short": "HCJ Neamț nr. 99/2026",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 99/2026 cu privire la emiterea avizului consultativ pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Rediu pentru anul 2026 - Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ Vezi anexe",
+   "url": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2026/04/Consiliul-Judetean-Neamt-HCJ-nr.-99-din-29-aprilie-2026.pdf",
+     "sha256": "25a1b5d4878cd817a95ba61fab0d7a5f619a3455e4744e32c20755fc36382089"
     }
    ]
   }

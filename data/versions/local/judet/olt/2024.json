@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/olt/2024",
+ "acts": [
+  {
+   "slug": "hcj-olt-11-2024",
+   "path": "local/judet/olt/2024/11",
+   "short": "HCJ Olt nr. 11/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 11/2024 cu privire la aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitarea și modernizarea drumului județean DJ 679” PROIECT: Reabilitarea și modernizarea drumului județean DJ 679 PROGRAMUL REGIONAL SUD-VEST OLTENIA 2021-2027 PRIORITATEA 5 – ACCESIBILITATE ȘI CONECTIVITATE LA NIVEL REGIONAL OBIECTIV SPECIFIC 3.2 – DEZVOLTA",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19077-1.pdf",
+     "sha256": "e9ddb71da96b3a729f69ece3d8ee12918879b01e886c3aba73e5e34d4a22afa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-12-2024",
+   "path": "local/judet/olt/2024/12",
+   "short": "HCJ Olt nr. 12/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 12/2024 cu privire la aprobarea documentației tehnico-economice pentru obiectivul de investiții „Modernizare drum județean DJ 544, km 4+309 – km 8+026, L = 3,717 km, BrastavățuVădastra” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19078-1.pdf",
+     "sha256": "572263fb0ba43d18f6914691c85ed0f21f0de76a25f72150bf2c696dd0fa3ced"
+    }
+   ]
+  }
+ ]
+}

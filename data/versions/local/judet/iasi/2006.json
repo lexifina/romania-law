@@ -3,6 +3,696 @@
  "shard": "local/judet/iasi/2006",
  "acts": [
   {
+   "slug": "hcj-iasi-1-2006",
+   "path": "local/judet/iasi/2006/1",
+   "short": "HCJ Iași nr. 1/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 1/2006 pentru echilibrare si subventiilor de la bugetul de stat alocate judetului Iasi pe anul 2006, potrivit anexelor 2, 3, 3A , 4, 5 la prezenta. Art.3 Directia Economica va duce la indeplinire prevederile prezentei hotarari. Tags: hotărâre hotărâri hotărâri 2006 Creat de icc la Vin, 24/05/2013 - 08:49 Ultima actualizare: 24/05/2013 - 08:49",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-1",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-1",
+     "sha256": "1ea7d4f6814054d5f76b071b8cfbe0ab7fb42ebb2c1f3cd16d750e1b64b8ab95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-10-2006",
+   "path": "local/judet/iasi/2006/10",
+   "short": "HCJ Iași nr. 10/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 10/2006 pentru cofinantarea proiectului \"Retehnologizarea si modernizarea statiilor, de epurare din vi",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-10",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-10",
+     "sha256": "8ec39b8811ae929275107d7457eb84dc535dd0aad043dbc055c244e62c539085"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-109-2006",
+   "path": "local/judet/iasi/2006/109",
+   "short": "HCJ Iași nr. 109/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 109/2006 pentru anul 2005 al SC TEHNOPOLIS SRL Iasi. Art.2 Biroul Cancelarie va comunica copie de pe prezenta hotarâre catre SC TEHNOPOLIS SRL Iasi, Directia Economica, Directia Orga",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-109",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-109",
+     "sha256": "a868c2d099827782407cd812e5cade5a9899ccf83df90dd33ecdf495e5908eb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-117-2006",
+   "path": "local/judet/iasi/2006/117",
+   "short": "HCJ Iași nr. 117/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 117/2006 pentru aparatul propriu de specialitate al Consiliului Judetean Iasi, cu aplicare de la 01 mai 2006, conform anexelor nr. 1, 2, 3, 4 si respectiv 5, care fac parte integranta din prezenta hotarare. Art.2 Directia Organizare, Resurse Umane, Informatizare, Directia Economica si Directia Financiar Contabila si Administrativ vor duce la indeplinire prevederile prezentei hotarari",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-117",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-117",
+     "sha256": "8e0549b4cab6f1f7e7ca6a41fdfaf59b09372c46e730be8a193175e6582da806"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-118-2006",
+   "path": "local/judet/iasi/2006/118",
+   "short": "HCJ Iași nr. 118/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 118/2006 pentru Filarmonica \"Moldova\" lasi conform anexei 1 care face parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Organizare, Resurse Umane, Informatizare s",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-118",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-118",
+     "sha256": "7512d4a44608fffe6ddf072e396a25757cfb5c4f7a98e8c0c09438cd1a506319"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-123-2006",
+   "path": "local/judet/iasi/2006/123",
+   "short": "HCJ Iași nr. 123/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 123/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-123",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-123",
+     "sha256": "6cc4c78aab04ff7652f95cc94986b7d120e87fb2d61884ad38d232fce38ebfec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-127-2006",
+   "path": "local/judet/iasi/2006/127",
+   "short": "HCJ Iași nr. 127/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 127/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-127",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-127",
+     "sha256": "94e59c58bec53a90f1349f6af3402f192bcffa5296f1c8594edcb9a9f835d8c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-13-2006",
+   "path": "local/judet/iasi/2006/13",
+   "short": "HCJ Iași nr. 13/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 13/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-13",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-13",
+     "sha256": "6439b929d97cf60da2ebf34738490eaac807654f3bc1e12fdf25fb00c3a5b6c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-132-2006",
+   "path": "local/judet/iasi/2006/132",
+   "short": "HCJ Iași nr. 132/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 132/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-132",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-132",
+     "sha256": "2c2be3aa57007423f04073286023ed5591e455076ec72dafeba115e49c6814db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-137-2006",
+   "path": "local/judet/iasi/2006/137",
+   "short": "HCJ Iași nr. 137/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 137/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-137",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-137",
+     "sha256": "b390461e725b50597db1a14fe42babd15bdbaa6701c084123026787164e88887"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-138-2006",
+   "path": "local/judet/iasi/2006/138",
+   "short": "HCJ Iași nr. 138/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 138/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-138",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-138",
+     "sha256": "a72a757753e1f29f1e9c3147ef398f7ccdb65e80c6db7e09566a4b05add62df0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-14-2006",
+   "path": "local/judet/iasi/2006/14",
+   "short": "HCJ Iași nr. 14/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 14/2006 pentru bugetul Iasi din Fondul de rezerva bugetara la dispozitia Guvernului, prevazut in bugetul de stat pe anul 2005 prin Hotararea Guvernului. nr.1.735/2005 se va face de catre ordonatorul principal de credite, potrivit dispoztiilor legale. Tags: hotărâre hotărâri hotărâri 2006 Creat de icc la Vin, 24/05/2013 - 09:01 Ultima actualizare: 24/05/2013 - 09:01",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-14",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-14",
+     "sha256": "6fbfaec1f7b716b0d02b4636f7321adeaf9840dd3f09d96ed976172c040fc803"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-142-2006",
+   "path": "local/judet/iasi/2006/142",
+   "short": "HCJ Iași nr. 142/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 142/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-142",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-142",
+     "sha256": "21c8662e89a49d323824e32ebf4ba16543c49dd30b057d94ab71bca626aa494b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-143-2006",
+   "path": "local/judet/iasi/2006/143",
+   "short": "HCJ Iași nr. 143/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 143/2006 pentru servicii de co",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-06-28/hot%C4%83r%C3%A2rea-nr-143",
+   "versions": [
+    {
+     "from": "2006-06-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-06-28/hot%C4%83r%C3%A2rea-nr-143",
+     "sha256": "cf8e47c0244bffdba2e83241af5259b479f200085d13bec305db0f1dd4c728cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-154-2006",
+   "path": "local/judet/iasi/2006/154",
+   "short": "HCJ Iași nr. 154/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 154/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-06-28/hot%C4%83r%C3%A2rea-nr-154",
+   "versions": [
+    {
+     "from": "2006-06-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-06-28/hot%C4%83r%C3%A2rea-nr-154",
+     "sha256": "0967e3e173237e5e1b0614201c56c01a5c7b2fff1e4430398c8bf27ad3086a55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-159-2006",
+   "path": "local/judet/iasi/2006/159",
+   "short": "HCJ Iași nr. 159/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 159/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-06-28/hot%C4%83r%C3%A2rea-nr-159",
+   "versions": [
+    {
+     "from": "2006-06-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-06-28/hot%C4%83r%C3%A2rea-nr-159",
+     "sha256": "308a9f01984f2bc59fb0c57245f2a1865968fd7b10fb58b10dea2952594fe6be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-16-2006",
+   "path": "local/judet/iasi/2006/16",
+   "short": "HCJ Iași nr. 16/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 16/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-16",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-16",
+     "sha256": "2cb2ea06a978713061a951e65a5597a7cd9c7d9d81262246d1ef761354acd29a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-163-2006",
+   "path": "local/judet/iasi/2006/163",
+   "short": "HCJ Iași nr. 163/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 163/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-163",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-163",
+     "sha256": "f9b259aaa8cd767f8a65245b5b0dbbd9ddded831c634fdee9a52557c62abcc2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-164-2006",
+   "path": "local/judet/iasi/2006/164",
+   "short": "HCJ Iași nr. 164/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 164/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-164",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-164",
+     "sha256": "d05102f647b28dde22fab1b09175ac128815c9ff84bffa44a141941151a258b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-166-2006",
+   "path": "local/judet/iasi/2006/166",
+   "short": "HCJ Iași nr. 166/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 166/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-166",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-166",
+     "sha256": "482b47509b5a085736d07147828fd5fba40d7dd65bb71b46eda38d6b7edd7cbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-174-2006",
+   "path": "local/judet/iasi/2006/174",
+   "short": "HCJ Iași nr. 174/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 174/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-174",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-174",
+     "sha256": "424f56d845886778f9ec73c0469c0fa4be7b28b463e7949e083c96690d0600b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-175-2006",
+   "path": "local/judet/iasi/2006/175",
+   "short": "HCJ Iași nr. 175/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 175/2006 privind respingerea solicitarilor societatilor comerciale IMRAM SRL Iasi, SC ELIT CONF SRL Iasi, SC MIHA EXPO SRL Iasi, SC AGROPREST SRL Iasi",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-175",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-175",
+     "sha256": "9d1134facbd4c8f2ffa69fa6f0b33992d5c44b3cc187c5f4c07d2a19498f04ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-178-2006",
+   "path": "local/judet/iasi/2006/178",
+   "short": "HCJ Iași nr. 178/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 178/2006 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare. Art.3 Biroul Cancelarie va comunica copie a prezentei hotarari persoanelor nominalizate la art.1, Directiei de Integrare Europeana, Dezvoltare si Comunicare, Serviciului Integrare Europeana, Politica Regionala si Coopera",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-178",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-178",
+     "sha256": "1b21e4e228e7702f8ac9903cef0519e9cd15cfba76d4503bb8eb9457afbdb0d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-180-2006",
+   "path": "local/judet/iasi/2006/180",
+   "short": "HCJ Iași nr. 180/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 180/2006 pentru functionarii publici in cadrul Biroului de reprezentare al Uniunii Nationale a Consilii",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-180",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-180",
+     "sha256": "e2a09a21aaf3ae7a4595692c22fa8fb08d2472a5a9e48e1693331eee20b4a6c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-181-2006",
+   "path": "local/judet/iasi/2006/181",
+   "short": "HCJ Iași nr. 181/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 181/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-181",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-181",
+     "sha256": "96aa28de03f8470849b909a5009ea5919aa909c7eac4a2ff6fabb3aa76a15d52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-188-2006",
+   "path": "local/judet/iasi/2006/188",
+   "short": "HCJ Iași nr. 188/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 188/2006 pentru Directia Generala de Asistenta Sociala s",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-188",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-188",
+     "sha256": "09dc114cb3dd9bdcd32ba060a4c58f82c960b3ad2b9271ff90dc549aa95a5ab9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-189-2006",
+   "path": "local/judet/iasi/2006/189",
+   "short": "HCJ Iași nr. 189/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 189/2006 privind achizitia contractului de prestari servicii pentru realizarea \"Documentatiei de Întabulare Teren si Cladiri - Înscriere in Cartea Funciara \", si va asigura fondurile necesare acoperirii cheltuielilor acestei operatiuni; Art.4 Presedintele Consiliului Judetean lasi va desemna, prin dispozitie, componenta Comisiei pentru vânzarea spatiilor medicale, conform dispozitiilor art.6, alin.1, din L",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-189",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-189",
+     "sha256": "d26c93a48306672e9aa373688b58749ec13c1c8c9300088d0d6b3ef2c7d376bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-195-2006",
+   "path": "local/judet/iasi/2006/195",
+   "short": "HCJ Iași nr. 195/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 195/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-195",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-195",
+     "sha256": "778629dbdee958bceb1116fac1ce815da5ea223ab8167ac1710abf19c2c0e89c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-196-2006",
+   "path": "local/judet/iasi/2006/196",
+   "short": "HCJ Iași nr. 196/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 196/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-196",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-07-25/hot%C4%83r%C3%A2rea-nr-196",
+     "sha256": "a09284e80d87e70df1ce96b729a2d5e74430410ee10df0b407e19aba50bb183b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-199-2006",
+   "path": "local/judet/iasi/2006/199",
+   "short": "HCJ Iași nr. 199/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 199/2006 pentru Centrul Judetean pentru Conservarea si Promovarea Culturii Traditionale Iasi conform anexelor 1 si 2 care fac parte integranta din prezenta hotarare. Ar",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-199",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-199",
+     "sha256": "2b3a47747d271fa858af4d27c6e1e6777698c9e95ec471fbaebc0bba0b6b92dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-2-2006",
+   "path": "local/judet/iasi/2006/2",
+   "short": "HCJ Iași nr. 2/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 2/2006 privind criteriile specifice pentru repartizarea sumelor defalcate din taxa pe valoare adaugata pentru echilibrare si a sumelor alocate de consiliul judetean din cotele defalcate pe im",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-2",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-2",
+     "sha256": "a3b03f1977d063cb2af968ae805e1b00738a5642daa1854be8fd7095d5b3f09e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-207-2006",
+   "path": "local/judet/iasi/2006/207",
+   "short": "HCJ Iași nr. 207/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 207/2006 pentru obiectivul Scoala Speciala Pascani (61.000 RON), aflat in domeniul public al Consiliului Judetean Iasi (taxe avize, acorduri, comisioane bancare, comisioane Inspectia Judeteana in constructii, Casa de Asigurare a Constructorilor, TVA (daca nu se aproba recuperarea acestuia), studiu de fezabilitate, alte cheltuieli neeligibile care pot aparea pe parcursul derularii programului de finantare p",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-207",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-207",
+     "sha256": "8f6ce03c597ffe7c936c07a9c70c6cf1faf62c81e9d3b3366c934e2ef093f53e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-209-2006",
+   "path": "local/judet/iasi/2006/209",
+   "short": "HCJ Iași nr. 209/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 209/2006 pentru Serviciul Public de Administrare a Drumurilor Judetene Iasi, conform anexelor 1, 2 si 3, parte integranta din p",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-209",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-209",
+     "sha256": "b34ef835a73f831609d4e4735662230a951e2a5f9f0b54f8c2e17f445c5b9a35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-21-2006",
+   "path": "local/judet/iasi/2006/21",
+   "short": "HCJ Iași nr. 21/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 21/2006 pentru Situatii de",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-21",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-21",
+     "sha256": "ab7cf4d3d23d8212ccaa5b2207310acaa84e77725391237295a15e179a72abea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-210-2006",
+   "path": "local/judet/iasi/2006/210",
+   "short": "HCJ Iași nr. 210/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 210/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-210",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-210",
+     "sha256": "48e9215f21edb7f76084f064cf4fa301987b2fc25bacf9fbd71077d39212916e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-213-2006",
+   "path": "local/judet/iasi/2006/213",
+   "short": "HCJ Iași nr. 213/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 213/2006 pentru Spitalul Clinic de Urgenta pentru Copii \"Sf.Maria\" Iasi in vederea efectuarii reparatiilor",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-213",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-09-07/hot%C4%83r%C3%A2rea-nr-213",
+     "sha256": "7d6e0b8f85ef79647a2a9b21d59ea15361608284245a2c93d23b3616cd348a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-228-2006",
+   "path": "local/judet/iasi/2006/228",
+   "short": "HCJ Iași nr. 228/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 228/2006 pentru Studiu de fezabilitate si Proiect tehnic pentru obiectivul \"Dezvoltare si modernizare Aeroport International Iasi\". Tags: hotărâre hotărâ",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-10-04/hot%C4%83r%C3%A2rea-nr-228",
+   "versions": [
+    {
+     "from": "2006-10-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-10-04/hot%C4%83r%C3%A2rea-nr-228",
+     "sha256": "b8b06b961019354d6af2fe5149d1161b5e2e039d0acf6ebeaae0355711dcff8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-235-2006",
+   "path": "local/judet/iasi/2006/235",
+   "short": "HCJ Iași nr. 235/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 235/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-10-04/hot%C4%83r%C3%A2rea-nr-235",
+   "versions": [
+    {
+     "from": "2006-10-04",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-10-04/hot%C4%83r%C3%A2rea-nr-235",
+     "sha256": "064bfd8933f2f0351aaea976c5acb826a1b170aad1127dc4de3186616a2cb0fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-244-2006",
+   "path": "local/judet/iasi/2006/244",
+   "short": "HCJ Iași nr. 244/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 244/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-244",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-244",
+     "sha256": "5a2681a6a80610f92cb6197e01795c71d4cdb36c996c4400fd40dc3419b6a7e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-250-2006",
+   "path": "local/judet/iasi/2006/250",
+   "short": "HCJ Iași nr. 250/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 250/2006 pentru realizarea proiectului \"Reabilitarea si modernizarea infrastructurii rutiere interjudetene DJ 282C, DJ282, DJ 282B Iasi - Botosani\", conform proiectului ce constituie anexa, parte integranta a prezentei hotarari. Art.3 Se mandateaza Presedintele Consiliului Judetean Iasi in vederea semnarii in numele autoritatii judetene a Acordului de asociere si exercitarii functiei de ordonator de credit",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-250",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-250",
+     "sha256": "f19efeea964e20d8b1e469c287650a637d281a29a0c651f060de61424919f237"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-254-2006",
+   "path": "local/judet/iasi/2006/254",
+   "short": "HCJ Iași nr. 254/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 254/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-254",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-254",
+     "sha256": "a858e65d0d12bdffc4778049922c4402a565dbe36db73597806182e021bbf4b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-26-2006",
+   "path": "local/judet/iasi/2006/26",
+   "short": "HCJ Iași nr. 26/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 26/2006 pentru Serviciul Public de Administrare a Drumurilor Judetene Iasi confonn anexei, parte integranta din prezenta hotarare. Art.2 Directia Economica, Directia Or",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-26",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-26",
+     "sha256": "08a5df70f733b82b22f81d4bf370031f77bceee9b8c1bfcf3d4a5cd10f706944"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-260-2006",
+   "path": "local/judet/iasi/2006/260",
+   "short": "HCJ Iași nr. 260/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 260/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-260",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-260",
+     "sha256": "70aeae02c9bc03309896d5f10f3cf7947c9568d01daf469b359c76a9e5914676"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-262-2006",
+   "path": "local/judet/iasi/2006/262",
+   "short": "HCJ Iași nr. 262/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 262/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-262",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-11-07/hot%C4%83r%C3%A2rea-nr-262",
+     "sha256": "c43ac04840aa24171772651f37e42eda0c7674336a7d9c58eb6cec4274391e72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-263-2006",
+   "path": "local/judet/iasi/2006/263",
+   "short": "HCJ Iași nr. 263/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 263/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-263",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-263",
+     "sha256": "070b73a6a1cc8b8454638a2bf9e52e8941609457b52d89cc0d1bd900c17218ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-264-2006",
+   "path": "local/judet/iasi/2006/264",
+   "short": "HCJ Iași nr. 264/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 264/2006 privind criteriile specifice pentru repartizarea sumelor defalcate din taxa pe valoarea adaugata pentru echilibrare si a sumelor alocate de consiliul judetean din cotele defalcate",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-264",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-264",
+     "sha256": "248e41fdbf8429967376a8d50b96b448ea1040335b2727b50e4af3250764d7de"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-266-2006",
    "path": "local/judet/iasi/2006/266",
    "short": "HCJ Iași nr. 266/2006",
@@ -18,6 +708,51 @@
    ]
   },
   {
+   "slug": "hcj-iasi-269-2006",
+   "path": "local/judet/iasi/2006/269",
+   "short": "HCJ Iași nr. 269/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 269/2006 pentru Biblioteca Judeteana \"Gh. Asachi\"pe anul 2007, conform anexelor 1, 2 si 3, care fac parte integranta din prez",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-269",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-269",
+     "sha256": "9903f9472eea05777a0d80fd18939591a8cdac1980f1d5f7a66432d8cc063337"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-27-2006",
+   "path": "local/judet/iasi/2006/27",
+   "short": "HCJ Iași nr. 27/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 27/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-27",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-27",
+     "sha256": "b947068d0e6a17ff35d3b693689fc05d473bb8609f70ffadf1cc88c9fc3a61fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-275-2006",
+   "path": "local/judet/iasi/2006/275",
+   "short": "HCJ Iași nr. 275/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 275/2006 pentru anul 2006, al S. C",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-275",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-275",
+     "sha256": "14680b2945f756c8f38d1740c9b0300a5e48ff87047b589690dbacd4efe89178"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-289-2006",
    "path": "local/judet/iasi/2006/289",
    "short": "HCJ Iași nr. 289/2006",
@@ -29,6 +764,411 @@
      "units": 1,
      "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-12-08/hot%C4%83r%C3%A2rea-nr-289",
      "sha256": "0f951948040532a85ab744b5fc6e972301edaa3f4dcfc5377b4749ab6c9fa780"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-29-2006",
+   "path": "local/judet/iasi/2006/29",
+   "short": "HCJ Iași nr. 29/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 29/2006 Pentru serviciile prestate Bursa de Marfuri nu va percepe comisioane. Tags: hotărâre hotărâri hotărâri 2006 Creat de icc la Vin, 24/05/2013 - 09:19 Ultima actualizare: 24/05/2013 - 09:19",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-29",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-29",
+     "sha256": "393db420fc5cb2ab0d0b5c376fcf046ef7bad4a3fbfdccac46272ecaa8a00a72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-30-2006",
+   "path": "local/judet/iasi/2006/30",
+   "short": "HCJ Iași nr. 30/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 30/2006 pentru anul 2006 al Regiei Autonome Aeroportul Iasi, conform anexei, parte integranta din prezenta hotarare; Art.2 Directia Economica din cadrul Consiliului",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-30",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-01-23/hot%C4%83r%C3%A2rea-nr-30",
+     "sha256": "37e07bced18d29da20e9db5c106d5097a11662a89633bfcb1da4ec16bd0a2436"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-48-2006",
+   "path": "local/judet/iasi/2006/48",
+   "short": "HCJ Iași nr. 48/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 48/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-48",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-48",
+     "sha256": "45ca1fc04b3ea9240fa33b4a0dce060ae1c47be68fe51c7809f47cd4c54203cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-54-2006",
+   "path": "local/judet/iasi/2006/54",
+   "short": "HCJ Iași nr. 54/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 54/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-54",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-54",
+     "sha256": "bc2230dd671e584015a385300231b6c88531db0f7091498d4c77b643d6b6cf09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-57-2006",
+   "path": "local/judet/iasi/2006/57",
+   "short": "HCJ Iași nr. 57/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 57/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-57",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-57",
+     "sha256": "9e821d39bebcae780eae63a82d0b5bd62fcdad1bbfff84d0cc5736ade80f78d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-61-2006",
+   "path": "local/judet/iasi/2006/61",
+   "short": "HCJ Iași nr. 61/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 61/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-61",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-61",
+     "sha256": "48afdedbc8ef7c0d27452e0154378678160dc50eda8c5fa16ca9b6b0b5451501"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-63-2006",
+   "path": "local/judet/iasi/2006/63",
+   "short": "HCJ Iași nr. 63/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 63/2006 pentru Serviciul de Protectie Civila din",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-63",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-63",
+     "sha256": "1d37a5001c3beb7cd56bb2c699829cbd010f2df22ccc7793d62d30034ca92d91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-64-2006",
+   "path": "local/judet/iasi/2006/64",
+   "short": "HCJ Iași nr. 64/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 64/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-64",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-64",
+     "sha256": "eb5b25dc1b89aaf98d37b454caa39c2f1509717236c7f0479e8fd12844e97611"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-66-2006",
+   "path": "local/judet/iasi/2006/66",
+   "short": "HCJ Iași nr. 66/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 66/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-66",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-66",
+     "sha256": "b58c01e2f2ac86332ebd59ca37d12985c6ad70dc51385024390f1f386ba3f3bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-68-2006",
+   "path": "local/judet/iasi/2006/68",
+   "short": "HCJ Iași nr. 68/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 68/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-68",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-68",
+     "sha256": "a066062fcf7455def3ac77754e4a56eb8c19b59f6d7e8bf9944fb637547ed1fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-74-2006",
+   "path": "local/judet/iasi/2006/74",
+   "short": "HCJ Iași nr. 74/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 74/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-74",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-74",
+     "sha256": "6eaa43b0b3f4644de3cdfb85a783611c414602e61a14b207f9d63e17ef293ee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-75-2006",
+   "path": "local/judet/iasi/2006/75",
+   "short": "HCJ Iași nr. 75/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 75/2006 pentru Spitalul Clinic de Urgenta « SF. TREIME» I",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-75",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-75",
+     "sha256": "19db69628446509bb22cda49ff2f4324b80590f61b8ebb26795ad7932256121d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-77-2006",
+   "path": "local/judet/iasi/2006/77",
+   "short": "HCJ Iași nr. 77/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 77/2006 pentru Agricultura - Sucursala Iasi, in vederea amenajarii Centrului Local Harlau - APIA - Sucursala Iasi. Art.2 Transmiterea in folosinta gratuita a imobilului se realizeaza pe durata mandatului actualului Consiliu Judetean Iasi. Art.3 Serviciul Public de Administrarea Drumurilor Judetene Iasi, Directia Tehnica, Ministerul Agriculturii, Padurilor si Dezvoltarii Rurale - Agentia de Plati si Interv",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-77",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-77",
+     "sha256": "b209f4d3b9f69acedc8b5961d2b6f25f4ad75c76ca8994f31024adf534831f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-78-2006",
+   "path": "local/judet/iasi/2006/78",
+   "short": "HCJ Iași nr. 78/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 78/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-78",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-78",
+     "sha256": "ce2655da7b2f9db38108e4c9825fdb01a66021bd62c185daff63c9e1c190fef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-80-2006",
+   "path": "local/judet/iasi/2006/80",
+   "short": "HCJ Iași nr. 80/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 80/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-80",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-80",
+     "sha256": "fc4753a62a6e76dda5fa9f2ed2ea2a1e27ea6100f2df26467cfc1bfa61d18267"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-82-2006",
+   "path": "local/judet/iasi/2006/82",
+   "short": "HCJ Iași nr. 82/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 82/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-82",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-82",
+     "sha256": "5c19fdef2cdb6decbe8010ee75f1b3e4aee2cc264f7df5d54aae962e76e697a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-84-2006",
+   "path": "local/judet/iasi/2006/84",
+   "short": "HCJ Iași nr. 84/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 84/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-84",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-84",
+     "sha256": "a0b111db89add7cb295bd8a721064226c1e771e27a4d42a1403fb246e47bfb60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-87-2006",
+   "path": "local/judet/iasi/2006/87",
+   "short": "HCJ Iași nr. 87/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 87/2006 pentru investitiile efectuate cu acordul prealabil al Consiliului Judetean Iasi, in tem",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-87",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-03-23/hot%C4%83r%C3%A2rea-nr-87",
+     "sha256": "2a816f5dbe60802c4b96a7e89cafb75355572ff7e4e31723076b8571d646d2b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-88-2006",
+   "path": "local/judet/iasi/2006/88",
+   "short": "HCJ Iași nr. 88/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 88/2006 pentru acordarea punctajului privind prioritizarea lucrarilor de reabilitari drumuri judetene, confom anexei 2 parte integranta din prezenta hotarare. Art.3 Se aproba efectuarea expertizelor tehnice si a studiilor fezabilitate pentru obiectivele prevazute in anexa 3 parte integranta prezenta hotarare. Art.4 Se aproba repartizarea sumei de 965.065,50lei din Fondul de rulment al Consiliului Judetean",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-88",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-88",
+     "sha256": "a0df42f6b6f3df44e1d9d814ed6a7310fc7044c2db51fbd6b649543e24cb4ef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-89-2006",
+   "path": "local/judet/iasi/2006/89",
+   "short": "HCJ Iași nr. 89/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 89/2006 pentru finantarea unor lucrari sau obiective de interes judetean. Art.2 Contractarea impr",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-89",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-89",
+     "sha256": "734ed1f545ddd077b93c572e9fa6fd7b89289ef3b7df02d11fc9c88a46d25335"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-90-2006",
+   "path": "local/judet/iasi/2006/90",
+   "short": "HCJ Iași nr. 90/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 90/2006 pentru lucrari de drumuri judetene si comunlale pe anul 2006, conform anexelor 1, 2.1, 2.2, 3, anexele facand parte integranta din prezenta hotarare. Art.2 Directi",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-90",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-90",
+     "sha256": "3a4705c50b804c073b58224b706b0afeb123f07e19f79fd39ab2e2a80b2ed063"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-91-2006",
+   "path": "local/judet/iasi/2006/91",
+   "short": "HCJ Iași nr. 91/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 91/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-91",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-91",
+     "sha256": "32abd8b5f6554e3be657f0b9bfacbb3c17b5b06a1afd9d7134a02439a10abc08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-92-2006",
+   "path": "local/judet/iasi/2006/92",
+   "short": "HCJ Iași nr. 92/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 92/2006 pentru anul 2006 in suma de 5.160.400 lei RON pentru completa",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-92",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-92",
+     "sha256": "c786a18a9e06a7ac265ab449ecef372d38c7b13a033229fe556f5d9b616d11f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-93-2006",
+   "path": "local/judet/iasi/2006/93",
+   "short": "HCJ Iași nr. 93/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 93/2006 pentru Programul PHARE CBC 2004, individualizata in referatul - anexa ce constituie parte integranta a prezentei hotarari. Art.2 Directia Integrare Europeana, De",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-93",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-93",
+     "sha256": "433b35b704f0576ca7df5377204c4b52cb6cc7a2f60dad917181642774aecb14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-94-2006",
+   "path": "local/judet/iasi/2006/94",
+   "short": "HCJ Iași nr. 94/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 94/2006 privind evaluarea terenurilor pentru care s-au emis certificatele de atestare a dreptului de proprietate, aflate in propietatea S.C LUCRARI DRUMURI SI PODURI S.A Iasi. Art.2 Se apr",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-94",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-94",
+     "sha256": "a7a2b3e897fa75aa708bbb0f1cdaf7ba2095f230fae194d566d3576cb7b5b13e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-95-2006",
+   "path": "local/judet/iasi/2006/95",
+   "short": "HCJ Iași nr. 95/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 95/2006 pentru organizarea intalnirii zonale privind \" Dezvoltarea Coridorului de Transport Vest-Es",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-95",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-04-27/hot%C4%83r%C3%A2rea-nr-95",
+     "sha256": "f0ad411591b0eed566a4a3252c7cd7d246337d67a867de2342abba58bca8d460"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-97-2006",
+   "path": "local/judet/iasi/2006/97",
+   "short": "HCJ Iași nr. 97/2006",
+   "title": "Hotărârea Consiliului Județean Iași nr. 97/2006",
+   "url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-97",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2006/2006-05-23/hot%C4%83r%C3%A2rea-nr-97",
+     "sha256": "c971d5f27a1cfaf4e14f99127343cd405bbe360d43140522a1e2ad7937aa8621"
     }
    ]
   }

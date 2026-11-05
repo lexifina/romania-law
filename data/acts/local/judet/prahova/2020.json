@@ -3,6 +3,161 @@
 "shard": "local/judet/prahova/2020",
 "acts": [
 {
+"slug": "hcj-prahova-189-2020",
+"path": "local/judet/prahova/2020/189",
+"kind": "local",
+"year": "2020",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 189/2020 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii în imobilele proprietate publică a judeţului Prahova, situate în municipiul Ploieşti, B-dul Republicii nr. 2 – 4, Şoseaua Vestului nr. 14 – 16 şi str",
+"short": "HCJ Prahova nr. 189/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-190-2020",
+"path": "local/judet/prahova/2020/190",
+"kind": "local",
+"year": "2020",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 190/2020 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii în imobilul Palatul Culturii proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, str",
+"short": "HCJ Prahova nr. 190/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-191-2020",
+"path": "local/judet/prahova/2020/191",
+"kind": "local",
+"year": "2020",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 191/2020 privind prelungirea termenelor contractelor de închiriere a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+"short": "HCJ Prahova nr. 191/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-192-2020",
+"path": "local/judet/prahova/2020/192",
+"kind": "local",
+"year": "2020",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 192/2020 privind prelungirea duratei contractului de închiriere a unui spaţiu în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, str",
+"short": "HCJ Prahova nr. 192/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-193-2020",
+"path": "local/judet/prahova/2020/193",
+"kind": "local",
+"year": "2020",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 193/2020 privind desemnarea reprezentanților Consiliului Județean Prahova în Consiliile de administrație ale spitalelor de interes județean",
+"short": "HCJ Prahova nr. 193/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-194-2020",
+"path": "local/judet/prahova/2020/194",
+"kind": "local",
+"year": "2020",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 194/2020",
+"short": "HCJ Prahova nr. 194/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": null,
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-195-2020",
+"path": "local/judet/prahova/2020/195",
+"kind": "local",
+"year": "2020",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 195/2020 pentru modificarea și completarea Hotărârii nr. 20/2020 a Consiliului Județean Prahova privind aprobarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Prahova",
+"short": "HCJ Prahova nr. 195/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-prahova-196-2020",
 "path": "local/judet/prahova/2020/196",
 "kind": "local",
@@ -22,6 +177,73 @@
 "council_name": "Consiliul Județean Prahova",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-198-2020",
+"path": "local/judet/prahova/2020/198",
+"kind": "local",
+"year": "2020",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 198/2020 privind modificarea unor prevederi din Hotărârea nr. 54/2020 a Consiliului Județean Prahova",
+"short": "HCJ Prahova nr. 198/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-199-2020",
+"path": "local/judet/prahova/2020/199",
+"kind": "local",
+"year": "2020",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 199/2020 pentru modificarea unor prevederi ale Hotărârii Consiliului Județean Prahova nr.110/2020 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2020 în vederea realizării unor obiective de",
+"short": "HCJ Prahova nr. 199/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-200-2020",
+"path": "local/judet/prahova/2020/200",
+"kind": "local",
+"year": "2020",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 200/2020",
+"short": "HCJ Prahova nr. 200/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-30",
+"latest": "2020-12-30",
+"portal": null,
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

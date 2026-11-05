@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/maramures/2006",
+"acts": [
+{
+"slug": "hcj-maramures-3-2006",
+"path": "local/judet/maramures/2006/3",
+"kind": "local",
+"year": "2006",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Maramureș nr. 3/2006",
+"short": "HCJ Maramureș nr. 3/2006",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2006-02-23",
+"latest": "2006-02-23",
+"portal": "https://www.cjmaramures.ro/component/k2/40",
+"council": "judet/maramures",
+"council_name": "Consiliul Județean Maramureș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

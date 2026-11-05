@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/neamt/2025",
+ "acts": [
+  {
+   "slug": "hcj-neamt-324-2025",
+   "path": "local/judet/neamt/2025/324",
+   "short": "HCJ Neamț nr. 324/2025",
+   "title": "Hotărârea Consiliului Județean Neamț nr. 324/2025 pentru rectificarea Hotărârii Consiliului Județean Neamț nr.170/2022 privind declanșarea procedurii de expropriere a unor terenuri necesare realizării unei investiții de interes public județean, cu modificările și completările ulterioare",
+   "url": "https://cjneamt.ro/ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://cjneamt.ro/wp-content/uploads/2025/12/Hotararea-Consiliului-Judetean-nr.-324-din-22.12.2025.pdf",
+     "sha256": "7d3f609d57a606ac5186949f381bfa277737059ad5210ea9a66c72acae1f4060"
+    }
+   ]
+  }
+ ]
+}

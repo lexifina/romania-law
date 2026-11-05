@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/judet/iasi/2016",
+ "acts": [
+  {
+   "slug": "hcj-iasi-142-2016",
+   "path": "local/judet/iasi/2016/142",
+   "short": "HCJ Iași nr. 142/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 142/2016",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-05-26/hot%C4%83r%C3%A2rea-nr-142",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-05-26/hot%C4%83r%C3%A2rea-nr-142",
+     "sha256": "335c28cc4b89b5ce1f63ce3954b52554928b74452f48f9a06c7e30a567efced3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-155-2016",
+   "path": "local/judet/iasi/2016/155",
+   "short": "HCJ Iași nr. 155/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 155/2016 privind alegerea Comisiei de Validare a Consiliului Județean Iași Tags: hotărâre hotărâri hotărâri 2016 24.06.2016 Creat de icc la Vin, 08/07/2016 - 10:51 Ultima actual",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-06-24/hot%C4%83r%C3%A2rea-nr-155",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-06-24/hot%C4%83r%C3%A2rea-nr-155",
+     "sha256": "18bc59d27afccf499ea67351583db901d0383c40a8465b3ab53d80b2464cefbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-156-2016",
+   "path": "local/judet/iasi/2016/156",
+   "short": "HCJ Iași nr. 156/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 156/2016 privind validarea mandatelor consilierilor județeni în",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-06-24",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2016/24-06-2016/156.pdf",
+     "sha256": "2081161d94435328af8dbbdffab0c9fec2b486018de3bb1b9301187d5a4919c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-157-2016",
+   "path": "local/judet/iasi/2016/157",
+   "short": "HCJ Iași nr. 157/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 157/2016 privind constituirea Consiliului Județean Iași Tags: hotărâre hotărâri hotărâri 2016 24.06.2016 Creat de icc la Vin, 08/07/2016 - 10:59 Ultima actualizare: 08/07/2016",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-06-24/hot%C4%83r%C3%A2rea-nr-157",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-06-24/hot%C4%83r%C3%A2rea-nr-157",
+     "sha256": "ea5c1e6bce2adeef7891756e3066ba1a4b593f201133ba4d2a0bfd4675e1eb9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-160-2016",
+   "path": "local/judet/iasi/2016/160",
+   "short": "HCJ Iași nr. 160/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 160/2016 privind stabilirea numărului și denumirii comisiilor de specialitate ale Consiliului Județean Iași pentru mandatul 2016-2020, precum și numărul de membri pe fiecare comisie",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-06-24/hot%C4%83r%C3%A2rea-nr-160",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-06-24/hot%C4%83r%C3%A2rea-nr-160",
+     "sha256": "80b2934a206fe16392391e20c5fe43ac83a8a6d43b300d884684fd6eba386f5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-237-2016",
+   "path": "local/judet/iasi/2016/237",
+   "short": "HCJ Iași nr. 237/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 237/2016 privind aprobarea procesului — verbal al ședinței ordinare a Consiliului Județean Iași din data de 28 septembrie 2016 Tags: hotărâre hotărâri hotărâri 2016 07.10.2016",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-10-07/hot%C4%83r%C3%A2rea-nr-237",
+   "versions": [
+    {
+     "from": "2016-10-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-10-07/hot%C4%83r%C3%A2rea-nr-237",
+     "sha256": "5ac2bf1dffc4b2b6331a91d29ddac3f0ee0cc92622d230a015abe4af1c68ec8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-238-2016",
+   "path": "local/judet/iasi/2016/238",
+   "short": "HCJ Iași nr. 238/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 238/2016 privind rectificarea bugetului general al Judeţului Iaşi",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-10-07",
+   "versions": [
+    {
+     "from": "2016-10-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2016/07-10/238.pdf",
+     "sha256": "c49b9befa3578c8c9177633dee6bb22377770d0b1f7f9aeb2ca60ffa58adbc70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-269-2016",
+   "path": "local/judet/iasi/2016/269",
+   "short": "HCJ Iași nr. 269/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 269/2016 privind aprobarea procesului - verbal al ședinței ordinare de plen a Consiliului Județean Iași din data de 26 octombrie 2016 Tags: hotărâre hotărâri hotărâri 2016 11.1",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-269",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-269",
+     "sha256": "98cafdc13a719fa6a262130c84e4f38c9d88a547a3dc92a28fb2835ddb781d8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-270-2016",
+   "path": "local/judet/iasi/2016/270",
+   "short": "HCJ Iași nr. 270/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 270/2016",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-270",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-270",
+     "sha256": "103b5d6717dfa1b67389e1a2b7606e2275d750dc3ddc6e912e9ca9aec9715401"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-271-2016",
+   "path": "local/judet/iasi/2016/271",
+   "short": "HCJ Iași nr. 271/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 271/2016 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici aferenți proiectului “REGIUNEA NORD-EST-AXA RUTIERĂ STRATEGICĂ 1: IAȘI-SUCEAVA” în veder",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-271",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-271",
+     "sha256": "3d62515b1a35348f27d70ab1df3e86509489384df66c66d2c15d581fb5e28940"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-272-2016",
+   "path": "local/judet/iasi/2016/272",
+   "short": "HCJ Iași nr. 272/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 272/2016 privind aprobarea acordurilor de parteneriat încheiate în cadrul proiectului “REGIUNEA NORD-EST- AXA RUTIERĂ STRATEGICĂ 1: IAȘI-SUCEAVA” în vederea finanțării acestuia î",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-272",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-272",
+     "sha256": "aa33228e63a2dbbd6e7d2211c57af3f9cf5bfab805b1ea6d0e3beed74cdf042a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-273-2016",
+   "path": "local/judet/iasi/2016/273",
+   "short": "HCJ Iași nr. 273/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 273/2016 privind aprobarea proiectului “REGIUNEA NORD-EST - AXA RUTIERĂ STRATEGICĂ 1: IAȘI-SUCEAVA” și a cheltuielilor legate de proiect în vederea finanțării acestuia în cadrul",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-273",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-273",
+     "sha256": "e19e48709ee27b04e5a1944b50f7991d61b9a8e2dcaf2dec467100ad44cfe677"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-274-2016",
+   "path": "local/judet/iasi/2016/274",
+   "short": "HCJ Iași nr. 274/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 274/2016 privind preluarea, din domeniul public al comunei Gropnița și administrarea comunei Gropnița în domeniul public al Județului lași și administrarea Consiliului Județean l",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-274",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-274",
+     "sha256": "b84fceaecd43bd1c35add687c8ace7d8f434e571a05fc2b136ccb70238cbe8d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-275-2016",
+   "path": "local/judet/iasi/2016/275",
+   "short": "HCJ Iași nr. 275/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 275/2016 privind aprobarea modificării Anexei 1 - Reparații curente în Programul de lucrări Drumuri și Poduri al Direcției județene de Administrare a Drumurilor și Podurilor Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-275",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-275",
+     "sha256": "f33b3f279293923a8764b1a949deacda35c2b8744b7b8f314c17d24b64c3b38e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-276-2016",
+   "path": "local/judet/iasi/2016/276",
+   "short": "HCJ Iași nr. 276/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 276/2016 privind rectificarea bugetului general al Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-276",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-11-11/hot%C4%83r%C3%A2rea-nr-276",
+     "sha256": "6b4d72035129801f93751fa5e55e80c1541fe63b0ef65fbb8cd364567b985053"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-277-2016",
+   "path": "local/judet/iasi/2016/277",
+   "short": "HCJ Iași nr. 277/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 277/2016 privind modificarea Anexei nr.1 la Hotărârea Consiliului Județean nr.273/11.11.2016 privind aprobarea proiectului “REGIUNEA NORD-EST - AXA RUTIERĂ STRATEGICĂ 1: IAȘI-SUCE",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-11-15/hot%C4%83r%C3%A2rea-nr-277",
+   "versions": [
+    {
+     "from": "2016-11-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-11-15/hot%C4%83r%C3%A2rea-nr-277",
+     "sha256": "44314856a733fbed77482ceeed540094b79643a5a9da59c92e3a092fb56827fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-336-2016",
+   "path": "local/judet/iasi/2016/336",
+   "short": "HCJ Iași nr. 336/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 336/2016 privind tarifele de închiriere lei/oră/400mp a spaţiilor extramuzeale, tarifele de închiriere lei/oră/zi a spaţiilor expoziţionale ale obiectiv elor (muzee, case memoriale, monumente istorice) aflate în administrarea Muzeului Naţional al Literaturii Române laşi, a aparaturii audio - video şi a echipamentelor aflate în dotarea Muzeului Naţional al Literaturii Române Iaşi, pentru anul 2017",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-12-22",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2016/22-12/336.pdf",
+     "sha256": "2a83e20bd7beef5d76093658fb4d36351c24317f78b3628f6b448633c6c8791b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-46-2016",
+   "path": "local/judet/iasi/2016/46",
+   "short": "HCJ Iași nr. 46/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 46/2016 privind aprobarea Programului pentru acordarea de finanțări nerambursabile în anul 2016 din bugetul Județului Iași",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-02-26/hot%C4%83r%C3%A2rea-nr-46",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2016/2016-02-26/hot%C4%83r%C3%A2rea-nr-46",
+     "sha256": "fcdfbd70efef48ffb86679d11461605cd61eb55f082e3cf68041a7bf6ea8723d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-77-2016",
+   "path": "local/judet/iasi/2016/77",
+   "short": "HCJ Iași nr. 77/2016",
+   "title": "Hotărârea Consiliului Județean Iași nr. 77/2016 privind actualizarea Programului de transport public judeţean de persoane prin curse regulate valabil în perioada 01.01.2014 - 30.06.2019 aprobat prin HCJ nr.391/2012, modificată prin HCJ nr. 60/2013, HCJ nr.432/2013 şi HCJ nr.218/2014",
+   "url": "http://www.icc.ro/ro/hotarari/2016/2016-03-29",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2016/29-03/77.pdf",
+     "sha256": "c3b7d19073c0450339199f7ec5b95acc7bf9c30d20a4e6ba8069e89911d6a888"
+    }
+   ]
+  }
+ ]
+}

@@ -1182,6 +1182,36 @@
    ]
   },
   {
+   "slug": "hg-191-1999",
+   "path": "hg/1999/191",
+   "short": "HG nr. 191/1999",
+   "title": "Hotărârea Guvernului nr. 191/1999 privind declararea zonei miniere Albeni, judeţul Gorj, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17518",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17518",
+     "sha256": "894968f90e3d76f615a356315ae5506f328dfba5c1ee06aa2b12c83ea8113ba1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-193-1999",
+   "path": "hg/1999/193",
+   "short": "HG nr. 193/1999",
+   "title": "Hotărârea Guvernului nr. 193/1999 privind declararea zonei miniere Motru-Rovinari, judeţul Gorj, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17520",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17520",
+     "sha256": "d306a68cfa26fc8d896206e56eadc1abde356ff55eaa196b45fb4054456853cf"
+    }
+   ]
+  },
+  {
    "slug": "hg-194-1999",
    "path": "hg/1999/194",
    "short": "HG nr. 194/1999",
@@ -1193,6 +1223,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17521",
      "sha256": "9c68e7a73dbe432c5e138a04a3a8c84cf5521ec1cb8e1a58f19a24e085399517"
+    }
+   ]
+  },
+  {
+   "slug": "hg-195-1999",
+   "path": "hg/1999/195",
+   "short": "HG nr. 195/1999",
+   "title": "Hotărârea Guvernului nr. 195/1999 privind declararea zonei miniere Borod-Şuncuiuş-Dobreşti-Vadu Crişului, judeţul Bihor, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17522",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17522",
+     "sha256": "02c3fd12d44a573d06bc1e0de469a531165c163145ce1c706527d3b5bdceaa25"
+    }
+   ]
+  },
+  {
+   "slug": "hg-197-1999",
+   "path": "hg/1999/197",
+   "short": "HG nr. 197/1999",
+   "title": "Hotărârea Guvernului nr. 197/1999 privind declararea zonei miniere Rusca Montană, judeţul Caraş-Severin, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17524",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17524",
+     "sha256": "39bcdfd5c95b2bb22b1084ab1a49bcfcb0a1aee8f499d79b365f17087e94f369"
     }
    ]
   },

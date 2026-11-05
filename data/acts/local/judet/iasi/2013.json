@@ -3,6 +3,204 @@
 "shard": "local/judet/iasi/2013",
 "acts": [
 {
+"slug": "hcj-iasi-1-2013",
+"path": "local/judet/iasi/2013/1",
+"kind": "local",
+"year": "2013",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 1/2013 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Județean Iași din data de 18.12.2012 Tags: hotărâre hotărâri hotărâri 2013 Creat de icc la Joi, 3",
+"short": "HCJ Iași nr. 1/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-01-23/hot%C4%83r%C3%A2rea-nr-1",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-5-2013",
+"path": "local/judet/iasi/2013/5",
+"kind": "local",
+"year": "2013",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 5/2013 privind structura organizatorică a D.G.A.S.P.C",
+"short": "HCJ Iași nr. 5/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-01-23/hot%C4%83r%C3%A2rea-nr-5",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-8-2013",
+"path": "local/judet/iasi/2013/8",
+"kind": "local",
+"year": "2013",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 8/2013 privind aprobarea transformării a trei posturi din durată nedeterminată în durată determinată pentru Liceul Special „Moldova” Târgu Frumos Tags: hotărâre hotărâri hotărâr",
+"short": "HCJ Iași nr. 8/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-01-23/hot%C4%83r%C3%A2rea-nr-8",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-11-2013",
+"path": "local/judet/iasi/2013/11",
+"kind": "local",
+"year": "2013",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 11/2013 privind aprobarea rezultatului final al concursului de proiecte de management pentru ocuparea postului de Director al Muzeului Literaturii Române Iași Tags: hotărâre ho",
+"short": "HCJ Iași nr. 11/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-01-23/hot%C4%83r%C3%A2rea-nr-11",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-13-2013",
+"path": "local/judet/iasi/2013/13",
+"kind": "local",
+"year": "2013",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 13/2013 privind validarea mandatului de consilier județean în",
+"short": "HCJ Iași nr. 13/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-01-23/hot%C4%83r%C3%A2rea-nr-13",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-14-2013",
+"path": "local/judet/iasi/2013/14",
+"kind": "local",
+"year": "2013",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 14/2013 privind modificarea componenței comisiilor de specialitate ale Consiliului Județean Iași Tags: hotărâre hotărâri hotărâri 2013 Creat de icc la Joi, 30/05/2013 - 11:53",
+"short": "HCJ Iași nr. 14/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-01-23/hot%C4%83r%C3%A2rea-nr-14",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-15-2013",
+"path": "local/judet/iasi/2013/15",
+"kind": "local",
+"year": "2013",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 15/2013 pentru anul 2013 Tags",
+"short": "HCJ Iași nr. 15/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-01-23/hot%C4%83r%C3%A2rea-nr-15",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-18-2013",
+"path": "local/judet/iasi/2013/18",
+"kind": "local",
+"year": "2013",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 18/2013 privind aprobarea contribuției financiare a Județului Iași - Consiliului Județean Iași, la Asociația „Centrul de Promovare Turistică”, înființată prin proiectul \"Reabilit",
+"short": "HCJ Iași nr. 18/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-01-23/hot%C4%83r%C3%A2rea-nr-18",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-19-2013",
+"path": "local/judet/iasi/2013/19",
+"kind": "local",
+"year": "2013",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 19/2013 privind alocarea sumei de 106.824,40 lei din excedentul bugetului local al Consiliului Județean Iași rezultat la încheierea exercițiului bugetar al anului 2012 pentru fin",
+"short": "HCJ Iași nr. 19/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-23",
+"latest": "2013-01-23",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-01-23/hot%C4%83r%C3%A2rea-nr-19",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-iasi-86-2013",
 "path": "local/judet/iasi/2013/86",
 "kind": "local",
@@ -49,6 +247,28 @@
 }
 },
 {
+"slug": "hcj-iasi-131-2013",
+"path": "local/judet/iasi/2013/131",
+"kind": "local",
+"year": "2013",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 131/2013 privind constituirea Consiliului de Administrație al Regiei Autonome “Aeroportul” Iași Tags: hotărâre hotărâri hotărâri 2013 Creat de icc la Joi, 30/05/2013 - 15:08 Ulti",
+"short": "HCJ Iași nr. 131/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-04-25",
+"latest": "2013-04-25",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-04-25/hot%C4%83r%C3%A2rea-nr-131",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-iasi-221-2013",
 "path": "local/judet/iasi/2013/221",
 "kind": "local",
@@ -68,6 +288,96 @@
 "council_name": "Consiliul Județean Iași",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-iasi-230-2013",
+"path": "local/judet/iasi/2013/230",
+"kind": "local",
+"year": "2013",
+"number": "230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 230/2013 privind aprobarea Planului de Administrare 2013 – 2017 a Consiliului de Administrație al R.A",
+"short": "HCJ Iași nr. 230/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-06-28",
+"latest": "2013-06-28",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-06-28/hot%C4%83r%C3%A2rea-nr-230",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-247-2013",
+"path": "local/judet/iasi/2013/247",
+"kind": "local",
+"year": "2013",
+"number": "247",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 247/2013",
+"short": "HCJ Iași nr. 247/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-07-26",
+"latest": "2013-07-26",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-07-26/hot%C4%83r%C3%A2rea-nr-247",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-iasi-275-2013",
+"path": "local/judet/iasi/2013/275",
+"kind": "local",
+"year": "2013",
+"number": "275",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 275/2013",
+"short": "HCJ Iași nr. 275/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-07-26",
+"latest": "2013-07-26",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-08-30",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-iasi-296-2013",
+"path": "local/judet/iasi/2013/296",
+"kind": "local",
+"year": "2013",
+"number": "296",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 296/2013 privind aprobarea organigramei, statului de funcții și a Regulamentului de Organizare și Funcționare ale R.A.”Aeroportul” Iași Modificată prin HCJ nr. 416 din 02.12.2013 Ta",
+"short": "HCJ Iași nr. 296/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-08-26",
+"latest": "2013-08-26",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-08-26/hot%C4%83r%C3%A2rea-nr-296",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

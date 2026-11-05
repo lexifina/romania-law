@@ -3,6 +3,21 @@
  "shard": "local/judet/iasi/2008",
  "acts": [
   {
+   "slug": "hcj-iasi-1-2008",
+   "path": "local/judet/iasi/2008/1",
+   "short": "HCJ Iași nr. 1/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 1/2008 pentru echilibrarea bugetelor consiliilor locale pe anul 2008, potrivit anexei nr.1. Art.2 Aproba propunerile",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-1",
+   "versions": [
+    {
+     "from": "2008-01-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-1",
+     "sha256": "cccd16287b3925a977cbdd45e6c9fab0e1a066887ab883bd1d808270383e2146"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-13-2008",
    "path": "local/judet/iasi/2008/13",
    "short": "HCJ Iași nr. 13/2008",
@@ -14,6 +29,411 @@
      "units": 1,
      "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-13",
      "sha256": "4ba10cb362c96683d05124201fadcf4fdfd8dd687a22fd6c8fdc0210a60bc32a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-157-2008",
+   "path": "local/judet/iasi/2008/157",
+   "short": "HCJ Iași nr. 157/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 157/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-04-10/hot%C4%83r%C3%A2rea-nr-157",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-04-10/hot%C4%83r%C3%A2rea-nr-157",
+     "sha256": "9c2f98f1a777eb4dfdeb3b49ebd21cd9ffba23c852fd32d050abab2cecaf3381"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-158-2008",
+   "path": "local/judet/iasi/2008/158",
+   "short": "HCJ Iași nr. 158/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 158/2008 pentru proiectul \"Reabilitarea si dezvolt",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-04-10/hot%C4%83r%C3%A2rea-nr-158",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-04-10/hot%C4%83r%C3%A2rea-nr-158",
+     "sha256": "e88763ef8759c68aaaa79f8442537ce4414e4b45ff21638f7cc6af5f58d089ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-159-2008",
+   "path": "local/judet/iasi/2008/159",
+   "short": "HCJ Iași nr. 159/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 159/2008 pentru vanzarea constructiilor din Iasi, sos",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-04-10/hot%C4%83r%C3%A2rea-nr-159",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-04-10/hot%C4%83r%C3%A2rea-nr-159",
+     "sha256": "e57d0347a71946f328ae57151c235dda2c4731f0198608835fba4a4e09ca3803"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-16-2008",
+   "path": "local/judet/iasi/2008/16",
+   "short": "HCJ Iași nr. 16/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 16/2008 privind bugetul local propriu al Consiliului Judetean Iasi, potrivit anexelor nr. I, I.1-I.5, parte integranta din prezenta hotarare , astfel: I. VENITURI 254.112,0 mii",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-16",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-16",
+     "sha256": "e1e235a6ee8a669d887c88a3555e3cae6d2e19a2f0d0d8b5484fd30470e142b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-160-2008",
+   "path": "local/judet/iasi/2008/160",
+   "short": "HCJ Iași nr. 160/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 160/2008 privind efectuarea concediului de odihna pe anul 2008, incepand cu data de 11.04.2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-04-10/hot%C4%83r%C3%A2rea-nr-160",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-04-10/hot%C4%83r%C3%A2rea-nr-160",
+     "sha256": "ff49c6e98b388c25868534acf6874208d24337ec020c5f875edc9b0e340c9452"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-23-2008",
+   "path": "local/judet/iasi/2008/23",
+   "short": "HCJ Iași nr. 23/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 23/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-23",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-23",
+     "sha256": "99cae57464ea376244eb2c80645116e3ae72661c0466e6ba6a1656a083e756ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-30-2008",
+   "path": "local/judet/iasi/2008/30",
+   "short": "HCJ Iași nr. 30/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 30/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-30",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-30",
+     "sha256": "83d2704933baa3aa7ae642fe93edf67a2c3d72e4bc9fbc5ddef98e83ee2f9273"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-314-2008",
+   "path": "local/judet/iasi/2008/314",
+   "short": "HCJ Iași nr. 314/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 314/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-10-13/hot%C4%83r%C3%A2rea-nr-314",
+   "versions": [
+    {
+     "from": "2008-10-13",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-10-13/hot%C4%83r%C3%A2rea-nr-314",
+     "sha256": "92794b00535ececa6ea6a33a0ae6d31c946cf21a0d54103ece466f2caa0c6ce0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-33-2008",
+   "path": "local/judet/iasi/2008/33",
+   "short": "HCJ Iași nr. 33/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 33/2008 pentru personalul nedidactic la SCOALA SPECIALA PASCANI, conform anexelor 1 si 2, parte integranta a prezentei hotarari. Art.2 Directia Economica, Directia",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-33",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-33",
+     "sha256": "8b0ffcb8bf03c4b01a5cf6d263c08afcc2e279d9c976eb22f4b3bd684d0f46de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-36-2008",
+   "path": "local/judet/iasi/2008/36",
+   "short": "HCJ Iași nr. 36/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 36/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-36",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-36",
+     "sha256": "92bf8331edd80054c205e43d4eca30393ee3aec17873da6ae82f074c635a7dc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-37-2008",
+   "path": "local/judet/iasi/2008/37",
+   "short": "HCJ Iași nr. 37/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 37/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-37",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-37",
+     "sha256": "76fb32c11e68e197147ec23ab893bfdf5081d47655d8f8d2f23f4bb338e3133b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-39-2008",
+   "path": "local/judet/iasi/2008/39",
+   "short": "HCJ Iași nr. 39/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 39/2008 pentru o persoana adulta cu handicap institutionalizata in centre de ingrijire si asistenta in suma 17.096,59 lei. Art.2 Serviciul Cancelarie va comunica copie de pe prezen",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-39",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-39",
+     "sha256": "7c3e4794051501cce329c4ab45b655c3e9895ac43dbb264c2a19a15140a0edd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-4-2008",
+   "path": "local/judet/iasi/2008/4",
+   "short": "HCJ Iași nr. 4/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 4/2008 pentru anul 2008, a Consiliului Judetean Iasi, in calitate de membru al Adunarii Regiunilor Europei, in suma de 6.732,02 Euro. Art.2 Directia Integrare Eu",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-4",
+   "versions": [
+    {
+     "from": "2008-01-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-4",
+     "sha256": "b565822be1103bea7831731683f26f0a2e092cc9d531139d01b461b4d9efd9ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-42-2008",
+   "path": "local/judet/iasi/2008/42",
+   "short": "HCJ Iași nr. 42/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 42/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-42",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-42",
+     "sha256": "4f80cace2f552680f8288cad02492a4581fd745e2d92214a59ef0cb1816c3182"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-50-2008",
+   "path": "local/judet/iasi/2008/50",
+   "short": "HCJ Iași nr. 50/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 50/2008 pentru a se asigura compensarea terenului in suprafata de 1,47 ha detinut de Ministerul Mediului si Dezvoltarii Durabile in imediata vecinatate a Aeroportului Iasi. Art.2 Se aproba transmiterea terenului identificat potrivit art. 1 din domeniul public al judetului Iasi si din administrarea Consiliului Judetean Iasi in domeniul public al statului si in administrarea Ministerului Mediului si Dezvolt",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-50",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-50",
+     "sha256": "15b49913496677f72befbf28274e9fa09bfdca92765bae8848534e6cf60106b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-52-2008",
+   "path": "local/judet/iasi/2008/52",
+   "short": "HCJ Iași nr. 52/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 52/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-52",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-52",
+     "sha256": "040fb27794b7e2f5305136e174c4be1df81b72833a3e2f7cba97579d8ff90f1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-63-2008",
+   "path": "local/judet/iasi/2008/63",
+   "short": "HCJ Iași nr. 63/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 63/2008 pentru obiectivul REABILITARE PRIN ASFALTARE DJ207A SINESTI-BOCNITA-POPESTI, KM 39+345 - 46+200\", avand indicatorii tehnico-economici prevazuti",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-63",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-63",
+     "sha256": "010949d83c64cde1999f074815d8fef47e07443fe68599d470558c4eaf5c6aa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-67-2008",
+   "path": "local/judet/iasi/2008/67",
+   "short": "HCJ Iași nr. 67/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 67/2008 pentru \"bunuri mobile aflate la Casa de Oaspeti Bucium Iasi\". Art.3 Biroul Cancelarie va comunica copie dupa prezenta hotarare Presedintelui CJ Iasi, Directiei Tehnice, Biroul Patrimoniu-Licitatii, Directiei Juridice, Bursei Romande de Marfuri - Terminalul Iasi si Institutiei Prefectului Judetului Iasi. Tags: hotărâre hotărâri hotărâri 2008 Creat de icc la Mar, 28/05/2013 - 23:20 Ultima actualizar",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-67",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-67",
+     "sha256": "5f04a35ca47343458fc09d0c3985cb3ecde6439d99912c6325c397178d292a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-7-2008",
+   "path": "local/judet/iasi/2008/7",
+   "short": "HCJ Iași nr. 7/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 7/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-7",
+   "versions": [
+    {
+     "from": "2008-01-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-7",
+     "sha256": "bd84193add536bf70c05a3a15cc681826b33e1f20c277a14370317b81bd77997"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-70-2008",
+   "path": "local/judet/iasi/2008/70",
+   "short": "HCJ Iași nr. 70/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 70/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-70",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-70",
+     "sha256": "e2ff48522f77c1b9a7e21e0c8cc2ba0b700801af82e0e6f0406cb6e9a4b37da2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-8-2008",
+   "path": "local/judet/iasi/2008/8",
+   "short": "HCJ Iași nr. 8/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 8/2008 privind activitatea RAJAC Iasi pe anul 2007, conform anexei, parte integranta din prezenta hotarare. Tags: hotărâre hotărâri hotărâri 2008 Creat de icc la Mar, 28/05/2013 - 09:",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-8",
+   "versions": [
+    {
+     "from": "2008-01-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-01-16/hot%C4%83r%C3%A2rea-nr-8",
+     "sha256": "481c16da7f65296b5978a09a3ac248c4ab621a651c173e5d053e904c0211d0d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-81-2008",
+   "path": "local/judet/iasi/2008/81",
+   "short": "HCJ Iași nr. 81/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 81/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-81",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-81",
+     "sha256": "290f3e51108ef3277af16c29e0ac444b80b36fef666dddae23b5490fd0d0a9d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-83-2008",
+   "path": "local/judet/iasi/2008/83",
+   "short": "HCJ Iași nr. 83/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 83/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-83",
+   "versions": [
+    {
+     "from": "2008-02-12",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-02-12/hot%C4%83r%C3%A2rea-nr-83",
+     "sha256": "e5990bc86df413e2927015c1660ead56bb50bc67d3da0b0118176246e38a98f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-87-2008",
+   "path": "local/judet/iasi/2008/87",
+   "short": "HCJ Iași nr. 87/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 87/2008 pentru judetul Iasi, actul aditional mentionat in cuprinsul art.1, sa indeplineasca formalitatile pentru autentificarea inscrisului susmentionat si pentru inregistrarea acestuia in Registrul special al asociatiilor si fundatiilor, pastrat la grefa Judecatoriei Iasi. Tags: hotărâre hotărâri hotărâri 2008 Creat de icc la Mar, 28/05/2013 - 23:40 Ultima actualizare: 28/05/2013 - 23:40",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-03-21/hot%C4%83r%C3%A2rea-nr-87",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-03-21/hot%C4%83r%C3%A2rea-nr-87",
+     "sha256": "6c1896b23cdb1724bb83e4646bcb142cb22a77612c85bacf8bdc20e24eec9680"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-92-2008",
+   "path": "local/judet/iasi/2008/92",
+   "short": "HCJ Iași nr. 92/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 92/2008 privind reducerea tarifului lunar de inchiriere pe mp pentru spati",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-03-21/hot%C4%83r%C3%A2rea-nr-92",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-03-21/hot%C4%83r%C3%A2rea-nr-92",
+     "sha256": "8c6e98c0b5673c38f39e91259e6a00b65f37698fd2e800a75f4477badc4196d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-96-2008",
+   "path": "local/judet/iasi/2008/96",
+   "short": "HCJ Iași nr. 96/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 96/2008 pentru \"Reabilitarea si modernizarea infrastructurii de transport in",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-03-31/hot%C4%83r%C3%A2rea-nr-96",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-03-31/hot%C4%83r%C3%A2rea-nr-96",
+     "sha256": "279ea7733adaeb80903057e189e2893b09cdcb92007d8908d33577e939c2e322"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-98-2008",
+   "path": "local/judet/iasi/2008/98",
+   "short": "HCJ Iași nr. 98/2008",
+   "title": "Hotărârea Consiliului Județean Iași nr. 98/2008",
+   "url": "http://www.icc.ro/ro/hotarari/2008/2008-03-31/hot%C4%83r%C3%A2rea-nr-98",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2008/2008-03-31/hot%C4%83r%C3%A2rea-nr-98",
+     "sha256": "9bf3e65ca2ad7303e2fef5be4ee59203fe59cbd23fe0771f6dd43c03575c5534"
     }
    ]
   }

@@ -3,6 +3,666 @@
  "shard": "local/judet/iasi/2007",
  "acts": [
   {
+   "slug": "hcj-iasi-103-2007",
+   "path": "local/judet/iasi/2007/103",
+   "short": "HCJ Iași nr. 103/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 103/2007 pentru anul 2006. Art.2 Biroul Cancelarie va comunica copie de pe prezenta hotarare catre SC TEHNOPOLIS SRL Iasi, Directia Economi",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-04-27/hot%C4%83r%C3%A2rea-nr-103",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-04-27/hot%C4%83r%C3%A2rea-nr-103",
+     "sha256": "4dc75db534fd8d298f7b5df099f884ec9a300adb45937afabd2fb7f0200658ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-110-2007",
+   "path": "local/judet/iasi/2007/110",
+   "short": "HCJ Iași nr. 110/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 110/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-04-27/hot%C4%83r%C3%A2rea-nr-110",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-04-27/hot%C4%83r%C3%A2rea-nr-110",
+     "sha256": "cada425ae4b6d36f01eb899cd7b5b92b6ee10922c2a8bd2a11fcc1b00bf41645"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-121-2007",
+   "path": "local/judet/iasi/2007/121",
+   "short": "HCJ Iași nr. 121/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 121/2007 pentru care art. 3 din Hotararea Consiliului Judetean nr. 193/2006 va avea urmatorul cuprins: \"Art.3Se aproba cofinantarea Proiectului \"RETEHNOLOGIZARE STATIE DE EPURARE A APELOR UZATE IN LOCALITATEA RADUCANENI, JUDETUL IASI\", in suma de 361.782 RON ce reprezinta procentul de 40% din valoarea totala a cheltuielilor eligibile ale proiectului in suma de 904.455 lei RON\". Art.3 Se aproba modificarea",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-04-27/hot%C4%83r%C3%A2rea-nr-121",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-04-27/hot%C4%83r%C3%A2rea-nr-121",
+     "sha256": "d3e31f8a9ff596ce7caba18c05ed3659fa7ccf89b8ac956520546f78731ae21d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-124-2007",
+   "path": "local/judet/iasi/2007/124",
+   "short": "HCJ Iași nr. 124/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 124/2007 pentru promovarea proiectului de hotarare de Guvern privind alocarea unor fonduri neces",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-04-27/hot%C4%83r%C3%A2rea-nr-124",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-04-27/hot%C4%83r%C3%A2rea-nr-124",
+     "sha256": "d6f74b515835c3ea5f08d6dff622a264bb1b18c1f47c7fe4378be8fab0234036"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-126-2007",
+   "path": "local/judet/iasi/2007/126",
+   "short": "HCJ Iași nr. 126/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 126/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-126",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-126",
+     "sha256": "fdbc95ddf3991ab87ac1636c0b18abbd74b3c7d307aa3af9d326163302dd3655"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-13-2007",
+   "path": "local/judet/iasi/2007/13",
+   "short": "HCJ Iași nr. 13/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 13/2007 pentru anul 2007 al Regiei Autonome Aeroportul Iasi, conform anexei, parte integranta din prezenta hotarare. Art.2 Se aproba lista de investitii din surse",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-13",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-13",
+     "sha256": "dd29ea04a3d2e4b107716a5937ce792a50f8511a6b99137044edf96818a2edd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-136-2007",
+   "path": "local/judet/iasi/2007/136",
+   "short": "HCJ Iași nr. 136/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 136/2007 pentru obiectivul imbracaminti bituminoase usoare pe DC 94 Prigoreni - (DN 28) Albesti-Rediu-Braesti km 0+000-2+400, avand indicatorii tehnico-economi",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-136",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-136",
+     "sha256": "b2c43a186e1f9b480eb1047b615105867e1e334b0cec68e903ea1c62df13939d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-138-2007",
+   "path": "local/judet/iasi/2007/138",
+   "short": "HCJ Iași nr. 138/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 138/2007 pentru obiectivul imbracaminti bituminoase usoare pe DC 29 Iasi-Hlincea-Ciurea km 0+500-1+500, avand indicatorii tehnico-economici prevazuti in anexa",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-138",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-138",
+     "sha256": "cbab5887134c9be4008a81edd981c0d909bbc5f3cdd4a2e118f193a9910963ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-143-2007",
+   "path": "local/judet/iasi/2007/143",
+   "short": "HCJ Iași nr. 143/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 143/2007 pentru obiectivul reabilitare a drumului cu imbracaminti bituminoase pe DJ 244G Podu Hagiului-Cozmesti km 6+000-8+950,avand indicatorii tehnico-econom",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-143",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-143",
+     "sha256": "39d80dbb4ff884a73e2d500c359cf1376f78e93c803b6c8ad8df6b257040a9db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-145-2007",
+   "path": "local/judet/iasi/2007/145",
+   "short": "HCJ Iași nr. 145/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 145/2007 pentru obiectivul covor asfaltic pe DJ 281 DN 28B - Scobinti km 38+990-39+660, avand indicatorii tehnico-economici prevazuti in anexa, parte integrant",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-145",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-145",
+     "sha256": "7148eebd36fe6a7c76e666cf3c6a5f6cbfe59b98af72f5536965ce806fd7a07c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-155-2007",
+   "path": "local/judet/iasi/2007/155",
+   "short": "HCJ Iași nr. 155/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 155/2007 pentru aparatul de specialitate al Consiliului",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-155",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-155",
+     "sha256": "454d11b349c28ef66fa90defb2e43940b6be417debe896d2a42c27ef0f0f3285"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-156-2007",
+   "path": "local/judet/iasi/2007/156",
+   "short": "HCJ Iași nr. 156/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 156/2007 privind unele drepturi si obligatii ale personalului roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, cu modificarile si completarile ulterioare. Tags: hotărâre hotărâri hotărâri 2007 Creat de icc la Lun, 27/05/2013 - 22:53 Ultima actualizare: 27/05/2013 - 22:53",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-156",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-156",
+     "sha256": "b326e8dc11c7bb9ac625c290ac9aa2dfce9644d9f5ebcca0ebacc2aa48438afd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-160-2007",
+   "path": "local/judet/iasi/2007/160",
+   "short": "HCJ Iași nr. 160/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 160/2007 pentru proiectele PHARE conform anexei. Art.2 Sumele reprezentand contravaloarea TVA-ului recuperat de la bugetul",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-160",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-28/hot%C4%83r%C3%A2rea-nr-160",
+     "sha256": "726960be4dab58711ba9edc68910d4665b4b9929d158f77c621f3f97ec9616fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-167-2007",
+   "path": "local/judet/iasi/2007/167",
+   "short": "HCJ Iași nr. 167/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 167/2007 pentru obiectivul \"Consolidare si refunctionalizare la Spitalul Clinic de Boli Infectioase - Pavilionul 2 Sfanta Parascheva, Iasi\",rezultand o valoare finala necesara asigurarii cofinantarii, dupa cum urmeaza: valoare totala: 934.413,32 lei din care C+M: 848.457,31 lei 501.500 lei, reprezentand contributia Consiliului Judetean Iasi la Programul guvernamental de alimentare cu apa la sate, etapa a I",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-06-26/hot%C4%83r%C3%A2rea-nr-167",
+   "versions": [
+    {
+     "from": "2007-06-26",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-06-26/hot%C4%83r%C3%A2rea-nr-167",
+     "sha256": "6a50325e8f84263aa35c38fe9563da276bc320181b2bbbf65e991f72368f2f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-197-2007",
+   "path": "local/judet/iasi/2007/197",
+   "short": "HCJ Iași nr. 197/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 197/2007 privind activitatea de solutionare a petitiilor in semestrul I al anului 2007, conform anexei, parte integranta din prezenta hotarare. Art.1 Biroul Cancelarie va comunica copie d",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-197",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-197",
+     "sha256": "1fa5c9849dde77eda9a50d5a3c6706ab58e08c1360f4edf3bdb2ba5c685d5d41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-20-2007",
+   "path": "local/judet/iasi/2007/20",
+   "short": "HCJ Iași nr. 20/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 20/2007 pentru Studiu de fezabilitate privind CREAREA UNUI CENTRU DE REABILITARE PENTRU PERSOANE CU HANDICAP MENTAL,sat Budai, oras Podu l",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-20",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-20",
+     "sha256": "3d29c7c39f13362bced9e511c6ce31face11786a8710ed1dd00ec8d3c6d8f3f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-201-2007",
+   "path": "local/judet/iasi/2007/201",
+   "short": "HCJ Iași nr. 201/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 201/2007 pentru determinarea aportului in natura a judetului Iasi la capitalul social al viitoarei societati",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-201",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-201",
+     "sha256": "555c6ea7fa915706c872cc1e531cea1b9fc8a080739ce826288e30af1d79e9ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-202-2007",
+   "path": "local/judet/iasi/2007/202",
+   "short": "HCJ Iași nr. 202/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 202/2007 privind Raportul Comisie",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-202",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-202",
+     "sha256": "a94d7ff548f1818874282bfdf7d2e51cc24cb9c6be38e8f6c60f42736fa39969"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-205-2007",
+   "path": "local/judet/iasi/2007/205",
+   "short": "HCJ Iași nr. 205/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 205/2007 pentru cultura a Judetului Iasi (F.C.I.), in baza actelor constitutive cuprinse in anexa",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-205",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-205",
+     "sha256": "eb4367af28c20b1474968962e517b459061603cc8574e630347d2eea455d9e91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-207-2007",
+   "path": "local/judet/iasi/2007/207",
+   "short": "HCJ Iași nr. 207/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 207/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-207",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-207",
+     "sha256": "3376281a0be0b2a841f91a716bddd01f4e1696fefae20899218722c8b96fbead"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-209-2007",
+   "path": "local/judet/iasi/2007/209",
+   "short": "HCJ Iași nr. 209/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 209/2007 pentru trecerea unui cablu subteran la data efectuarii lucrarilor efectuate de",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-209",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-209",
+     "sha256": "1fe7968f0835e52cba8ee5e2b7e0691c8d29a297229620d7154f89c789ac95e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-216-2007",
+   "path": "local/judet/iasi/2007/216",
+   "short": "HCJ Iași nr. 216/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 216/2007 pentru perioada 22-24 august 2007; Art.2 Cheltuielile de deplasare si diurna vor fi suportate de catre",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-216",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-216",
+     "sha256": "ed6763d0953d6294db79d8826ff4a6e115c1c4348317358fc2f54c3e5e30fa5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-217-2007",
+   "path": "local/judet/iasi/2007/217",
+   "short": "HCJ Iași nr. 217/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 217/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-217",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-217",
+     "sha256": "049666f34ad33252650647c47743d93c4a4c17154d3ebdab1f067fac36ca8255"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-218-2007",
+   "path": "local/judet/iasi/2007/218",
+   "short": "HCJ Iași nr. 218/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 218/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-218",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-218",
+     "sha256": "31deeb1475fbafc42441cd810a57053c11d5ad0c00688de273df3cee1870afd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-22-2007",
+   "path": "local/judet/iasi/2007/22",
+   "short": "HCJ Iași nr. 22/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 22/2007 privind AMENAJARE STATIE DE EPURARE APE UZATE MENAJERE LA CENTRUL DE PLASAMENT SF. MARIA,sat C",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-22",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-22",
+     "sha256": "131684bc565f85395d7027f9a80a7e8aa9fa333730c620e6c631b2fcf36ebf2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-221-2007",
+   "path": "local/judet/iasi/2007/221",
+   "short": "HCJ Iași nr. 221/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 221/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-221",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-07-30/hot%C4%83r%C3%A2rea-nr-221",
+     "sha256": "ddd853ff98229961af376a3faee73740a472530e9ed7d8bc86a46ec9a8cbafd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-232-2007",
+   "path": "local/judet/iasi/2007/232",
+   "short": "HCJ Iași nr. 232/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 232/2007 pentru aprobarea Programului de transport rutier de persoane prin servicii regulate in trafic judetean 2005-2008\", prin i",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-232",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-232",
+     "sha256": "6e4287051ab203b7c3b5ac9a768f9a815ce0b9a78483fed372657315db0417d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-234-2007",
+   "path": "local/judet/iasi/2007/234",
+   "short": "HCJ Iași nr. 234/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 234/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-234",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-234",
+     "sha256": "ca3c861deabd68fbc6fe8a3c65c7c13398c549287e1af165ca56fdab16bc7451"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-236-2007",
+   "path": "local/judet/iasi/2007/236",
+   "short": "HCJ Iași nr. 236/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 236/2007 pentru Proiectul de reabilitare/renovare a unitatiior de invatamant din judetul Iasi afectate de inundatiile din perioada aprilie - august 2005. Art.3 Prevederile prezentei hotarari vor fi duse la indeplinire de Directia Tehnica, Directia Economica si Directia Financiar - Contabila si Administrativ. Art.4 Serviciul cancelarie va comunica copie dupa prezenta hotarare Directiei Juridice si Cancelari",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-236",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-236",
+     "sha256": "53feb527640c07bdba43aa1e4e189ba75ea492ceee63d55addb3d8752492e290"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-238-2007",
+   "path": "local/judet/iasi/2007/238",
+   "short": "HCJ Iași nr. 238/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 238/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-238",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-238",
+     "sha256": "e959ce26aebeaa4d9f922bc69286d4ba7959dbe1868e6b67f6bc9158e0db71ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-244-2007",
+   "path": "local/judet/iasi/2007/244",
+   "short": "HCJ Iași nr. 244/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 244/2007 privind REABILITARE RETELE EXTERIOARE DE APA SI CANALIZARE LA CENTRUL DE PLASAMENT SF. SPIRIDO",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-244",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-09-25/hot%C4%83r%C3%A2rea-nr-244",
+     "sha256": "a9a2a58d20a32e517015c099a5ea3c5e4214eaae7e335adf27102e1cae04af56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-245-2007",
+   "path": "local/judet/iasi/2007/245",
+   "short": "HCJ Iași nr. 245/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 245/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-245",
+   "versions": [
+    {
+     "from": "2007-10-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-245",
+     "sha256": "bda6fc39b9c8bbdacc01e2389d5b14de3bfb013724edf02b8b661bca6c9b1ba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-250-2007",
+   "path": "local/judet/iasi/2007/250",
+   "short": "HCJ Iași nr. 250/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 250/2007 pentru care s-a acordat finantare, pe o perioada de cel putin 5 ani dupa finalizare/dare in exploatarea si intretinerea in aceasta perioada. Art.5",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-250",
+   "versions": [
+    {
+     "from": "2007-10-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-250",
+     "sha256": "f077fe80d997490febb4f314c3f3b58dc2a2fa73ece5fa5ec76bde0ac6e3a40b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-251-2007",
+   "path": "local/judet/iasi/2007/251",
+   "short": "HCJ Iași nr. 251/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 251/2007 pentru care s-a acordat finantare, pe o perioada de cel putin 5 ani dupa finalizare/dare in exploatarea si intretinerea in aceasta perioada. Art.5",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-251",
+   "versions": [
+    {
+     "from": "2007-10-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-251",
+     "sha256": "9641bbe729ecf511f5c07700bab2b5e1e004fb554639f092faf0ddd0741cec78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-253-2007",
+   "path": "local/judet/iasi/2007/253",
+   "short": "HCJ Iași nr. 253/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 253/2007 privind aprobarea deplasarii unei delegatii Consiliului Judetean Iasi la Magdeburg, landul german Sachsen-Anhalt, in perio",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-253",
+   "versions": [
+    {
+     "from": "2007-10-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-253",
+     "sha256": "d9b6c8a2179d2c0d4acb98aa68ea943eea45d95c188ddb47df4f021776a97437"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-256-2007",
+   "path": "local/judet/iasi/2007/256",
+   "short": "HCJ Iași nr. 256/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 256/2007 pentru determinarea costurilor necesare schimbarii locatiilor pentru Serviciul Rom",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-256",
+   "versions": [
+    {
+     "from": "2007-10-15",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-15/hot%C4%83r%C3%A2rea-nr-256",
+     "sha256": "f418f9f9dec6c7a4a89080bd03e5a92fc5f40bfebed0baf319e90015270e3f4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-257-2007",
+   "path": "local/judet/iasi/2007/257",
+   "short": "HCJ Iași nr. 257/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 257/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-257",
+   "versions": [
+    {
+     "from": "2007-10-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-257",
+     "sha256": "8d529ccbd2ed47d8efd7f2aaef1c05808e1c539bf59b9b967ad855f9230e5cf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-26-2007",
+   "path": "local/judet/iasi/2007/26",
+   "short": "HCJ Iași nr. 26/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 26/2007 pentru Studiu de fezabilitate privind MODULARE PARTIALA, REPARATIE CAPITALA SI REABILITARE TERMICA LA CENTRUL DE PLASAMENT COPII CU",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-26",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-26",
+     "sha256": "aa54c8cc77a90f246025107dc9351119e86a7e6587a7d991144db97b34d38bc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-269-2007",
+   "path": "local/judet/iasi/2007/269",
+   "short": "HCJ Iași nr. 269/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 269/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-269",
+   "versions": [
+    {
+     "from": "2007-10-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-269",
+     "sha256": "6fafd5d44dccfa89bdee21e58dae2666773965c3b8ee121f8bfa8586721f632d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-27-2007",
+   "path": "local/judet/iasi/2007/27",
+   "short": "HCJ Iași nr. 27/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 27/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-27",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-27",
+     "sha256": "1ba0177aeab1ce78980fade2c92983c51207dcc414736bb61852a8bb1cda6c98"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-271-2007",
+   "path": "local/judet/iasi/2007/271",
+   "short": "HCJ Iași nr. 271/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 271/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-271",
+   "versions": [
+    {
+     "from": "2007-10-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-271",
+     "sha256": "18b8bc408fbfef5de62ef7982143a1d9201bdffd98cf04050dd3100a0862c254"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-273-2007",
+   "path": "local/judet/iasi/2007/273",
+   "short": "HCJ Iași nr. 273/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 273/2007 Pentru monitorizarea procesului de privatizare se constituie Comisia alcatuita din: P",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-273",
+   "versions": [
+    {
+     "from": "2007-10-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-273",
+     "sha256": "a725f1d90bee442c32d78971dd2a033e54cafb8b5b3219eebd3210795cad7019"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-278-2007",
+   "path": "local/judet/iasi/2007/278",
+   "short": "HCJ Iași nr. 278/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 278/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-278",
+   "versions": [
+    {
+     "from": "2007-10-29",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-10-29/hot%C4%83r%C3%A2rea-nr-278",
+     "sha256": "7f3f345a822627bb201114c352dde1b1ffb0928a29e6299373172a82b4d00c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-28-2007",
+   "path": "local/judet/iasi/2007/28",
+   "short": "HCJ Iași nr. 28/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 28/2007 pentru cheltuieli de locuit in valoare de 600 lei timp de 9 luni, cu posibilitatea prelungirii perioadei de acordare pentru inca 3 luni, dar fara a depasi 12 luni. Art.2 Biroul Cancelarie va comunica copie de pe prezenta Directiei Generale de Asistenta Sociala si Protectie a Copilului Iasi, Directiei Economice din cadrul C.J",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-28",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-28",
+     "sha256": "bb106ec7da58bd085c016ac2319ac5806b22b375d7c2815c2014ca18cdb73880"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-281-2007",
    "path": "local/judet/iasi/2007/281",
    "short": "HCJ Iași nr. 281/2007",
@@ -18,6 +678,396 @@
    ]
   },
   {
+   "slug": "hcj-iasi-283-2007",
+   "path": "local/judet/iasi/2007/283",
+   "short": "HCJ Iași nr. 283/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 283/2007 pentru spatiile cu alta destinatie decat aceea de locuinta si terenurile aflate in domeniul public de interes judetean, conform Ane",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-283",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-283",
+     "sha256": "67bfed33ee4a63d92a0d70d73e8a067db8963a75d31784f8ae28dafcd6b44ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-285-2007",
+   "path": "local/judet/iasi/2007/285",
+   "short": "HCJ Iași nr. 285/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 285/2007 privind acordarea, de catre Comisia speciala de retrocedare a unor bunuri imobile care au ap",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-285",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-285",
+     "sha256": "dca67b858333a19c35a37c6c0a8956d02e32a54cfecd499beea933386af640e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-286-2007",
+   "path": "local/judet/iasi/2007/286",
+   "short": "HCJ Iași nr. 286/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 286/2007 pentru Unitatea Medico-Sociala Bivolari, conform anexelor 1, 2 si 3, parte integranta din pezenta hotarare. Art.2 Directia Economica, Directia Organizar",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-286",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-286",
+     "sha256": "bca9754a968c88745d65ddf7e152e2b30fbfa35f3ea2a8bcad442364c07d68a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-288-2007",
+   "path": "local/judet/iasi/2007/288",
+   "short": "HCJ Iași nr. 288/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 288/2007 pentru Unitatea Medico-Sociala Sculeni, conform anexelor 1, 2 si 3, parte integranta din pezenta hotarare. Art.2 Directia Economica, Directia Organizare",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-288",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-288",
+     "sha256": "fa4e4a6da6d87ac187111b2de6dc12093fe3bc8f4c7fd439fc248f0aa7ee3357"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-293-2007",
+   "path": "local/judet/iasi/2007/293",
+   "short": "HCJ Iași nr. 293/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 293/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-293",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-293",
+     "sha256": "4525414153b61f8f5b871e1591f45ee7b4a278e54d42a87d3dd3483f35fb197f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-3-2007",
+   "path": "local/judet/iasi/2007/3",
+   "short": "HCJ Iași nr. 3/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 3/2007 privind activitatea comisiilor de specialitate din Cadrul Consiliului Judetean Iasi pentru perioada ianuarie - decembrie 2006, conform anexei, parte integranta din prezenta hot",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-01-16/hot%C4%83r%C3%A2rea-nr-3",
+   "versions": [
+    {
+     "from": "2007-01-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-01-16/hot%C4%83r%C3%A2rea-nr-3",
+     "sha256": "e4d53181dc0625476bebdcf53b205a4447db9ae781d5036b67ad0ed5bc8cc785"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-301-2007",
+   "path": "local/judet/iasi/2007/301",
+   "short": "HCJ Iași nr. 301/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 301/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-301",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-301",
+     "sha256": "ebe074b6c7b4e50199b5fbc07f8dd8d9448cb8df60952507a800a720b03f1c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-304-2007",
+   "path": "local/judet/iasi/2007/304",
+   "short": "HCJ Iași nr. 304/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 304/2007 pentru salariatii din aparatul de specialitate al Consiliului Judetean Iasi, conform Anexei, parte integranta din prezenta hotarare. Art.2 Se imputernice",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-304",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-304",
+     "sha256": "86098af8dd8d0be60ebb4525615b340ec60bf9fd674bd67bdad65d1dfa1a37bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-314-2007",
+   "path": "local/judet/iasi/2007/314",
+   "short": "HCJ Iași nr. 314/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 314/2007 pentru Dezvoltare Regionala Nord-Est",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-314",
+   "versions": [
+    {
+     "from": "2007-11-27",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-11-27/hot%C4%83r%C3%A2rea-nr-314",
+     "sha256": "0c9141c58ee8f3bef3f9e6b527c6fff8343755cde5b83253d043bff1d9121bff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-318-2007",
+   "path": "local/judet/iasi/2007/318",
+   "short": "HCJ Iași nr. 318/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 318/2007 pentru Copii \"Sfanta Maria\" Iasi, * studiu de",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-318",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-318",
+     "sha256": "900e6e26effaaa883eb40919732add4e96d37311ff1ec689035032824cc487dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-321-2007",
+   "path": "local/judet/iasi/2007/321",
+   "short": "HCJ Iași nr. 321/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 321/2007 pentru personalul nedidactic la SCOALA DE ARTE SI MESERII SPECIALA \"TRINITAS\" Targu Frumos, conform anexelor 1 si 2 parte integranta a prezentei hotarari. Ar",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-321",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-321",
+     "sha256": "4186aee209a2ce18c6ded29ab8fb86162149f7792303e6953c1c7e9bd7800b36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-330-2007",
+   "path": "local/judet/iasi/2007/330",
+   "short": "HCJ Iași nr. 330/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 330/2007 privind achizitiile publice. Art.2 Conducerea Spitalului",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-330",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-330",
+     "sha256": "9d0a8cc5c2a6ddb21713d602110319ab60d042de5956c17e9fe350b8df6c5674"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-333-2007",
+   "path": "local/judet/iasi/2007/333",
+   "short": "HCJ Iași nr. 333/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 333/2007 pentru Salubrizare in judetul Iasi\", finantat din fonduri alocate prin Programul PHARE RO 2006/018- FONDUL",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-333",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-333",
+     "sha256": "054ca041c77105a4fdbcd9dc48ca770bc4b327ba65e3bf523ba63310d275a9b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-338-2007",
+   "path": "local/judet/iasi/2007/338",
+   "short": "HCJ Iași nr. 338/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 338/2007 pentru avize inclusiv Autorizatia de organizare a executiei lucrarilor, alte elemente care vor fi solicitate pe parcursul evaluarii de catre Organismul Intermediar) pentru Proiectul \"Reabilitarea si modernizarea infrastructurii rutiere interjudetene DJ 282C, DJ 282, DJ 282B, Iasi- Botosani\". Art.2(1) Suma prevazuta la art. 1 se va suporta din bugetul propriu al Consiliului Judetean Iasi, pe anul 2",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-338",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-338",
+     "sha256": "23cc14303ba2dc6eb53bd112a38567b0fa88a775d548ba33667997c102430f04"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-34-2007",
+   "path": "local/judet/iasi/2007/34",
+   "short": "HCJ Iași nr. 34/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 34/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-34",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-34",
+     "sha256": "185b337e92b12aa842e65d435082d91b723f20f5a4c8e9451e5442644b90836a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-340-2007",
+   "path": "local/judet/iasi/2007/340",
+   "short": "HCJ Iași nr. 340/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 340/2007 pentru avize, inclusiv Autorizatia de organizare a executiei lucrarilor, alte elemente care vor fi solicitate pe parcursul evaluarii de catre Organismul Intermediar) pentru Proiectul \"Reabilitarea si modernizarea drumului interjudetean DJ 248 Iasi - Vaslui\". Art.2 (1) Suma prevazuta la art. 1 ) se va suporta din bugetul propriu al Consiliului Judetean Iasi, pe anul 2008. (2) Presedintele Consiliul",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-340",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-340",
+     "sha256": "c32d12c255a0b136c737c01e0b04b399358b735ac34e291ff48439c3ad208374"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-343-2007",
+   "path": "local/judet/iasi/2007/343",
+   "short": "HCJ Iași nr. 343/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 343/2007 privind Programul pentru lucrari de drumuri judetene si comunale pe anul 2007, conform anexele 1, 2.1, 2.2, 3 si 4, la prezent",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-343",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-343",
+     "sha256": "511c8f3dec09e8a11c1b371a8a5d921f7328e13f1449fb84a7fb400cb206993c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-349-2007",
+   "path": "local/judet/iasi/2007/349",
+   "short": "HCJ Iași nr. 349/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 349/2007 pentru tronsonul de drum situa",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-349",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-12-20/hot%C4%83r%C3%A2rea-nr-349",
+     "sha256": "03c293b5e41b13d66400dc9e280b63f62de1ccac4ff61620ffc6cf788e7b46aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-36-2007",
+   "path": "local/judet/iasi/2007/36",
+   "short": "HCJ Iași nr. 36/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 36/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-36",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-36",
+     "sha256": "5eade95cb7b0a5c5fbebf522f59bf95f217020b55cfc7f63600ad1ea6e75fdc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-46-2007",
+   "path": "local/judet/iasi/2007/46",
+   "short": "HCJ Iași nr. 46/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 46/2007 pentru obiectivul reabilitare DJ 246 Scanteia-Scheia-Draguseni-Ipatele km. 20+450-42+154 intocmite de SC SEARCH CORPORA TION SRL Bucuresti, avand",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-46",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-46",
+     "sha256": "5f47361af0510121087c1fcecb61a9d995d7241a4427435f299d92648e816d74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-5-2007",
+   "path": "local/judet/iasi/2007/5",
+   "short": "HCJ Iași nr. 5/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 5/2007 pentru organizarea zilei de 24 ianuarie 1859 \"Ziua Unirii\", co",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-01-16/hot%C4%83r%C3%A2rea-nr-5",
+   "versions": [
+    {
+     "from": "2007-01-16",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-01-16/hot%C4%83r%C3%A2rea-nr-5",
+     "sha256": "4d60121d1a3485820c34b0d69c931171f32aa6874e43a30cac4733e68ac1a2e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-6-2007",
+   "path": "local/judet/iasi/2007/6",
+   "short": "HCJ Iași nr. 6/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 6/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-6",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-6",
+     "sha256": "b166161efe095f8893ad0ce4735e71abd499bd30d5ddd0d4687b1fca0b956de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-60-2007",
+   "path": "local/judet/iasi/2007/60",
+   "short": "HCJ Iași nr. 60/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 60/2007 privind activitatea de solutionare a petitiilor pe anul 2006 , conform Raportului anexa la prezenta hotarare",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-60",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-60",
+     "sha256": "97e135bb7ca3a48818128c7edf2d2e9f98a260b6a5676fce2adf5ead22da20cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-70-2007",
+   "path": "local/judet/iasi/2007/70",
+   "short": "HCJ Iași nr. 70/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 70/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-03-07/hot%C4%83r%C3%A2rea-nr-70",
+   "versions": [
+    {
+     "from": "2007-03-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-03-07/hot%C4%83r%C3%A2rea-nr-70",
+     "sha256": "34768a7fd387cf8a526a0d5870e067f062e1020bc437e1c04fafadb4bdb84d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-71-2007",
+   "path": "local/judet/iasi/2007/71",
+   "short": "HCJ Iași nr. 71/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 71/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-03-07/hot%C4%83r%C3%A2rea-nr-71",
+   "versions": [
+    {
+     "from": "2007-03-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-03-07/hot%C4%83r%C3%A2rea-nr-71",
+     "sha256": "faee6457da6f5799e0f12f8bb6575d36e7dee1c6d4f7123e8cde25c48eb84ffb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-73-2007",
+   "path": "local/judet/iasi/2007/73",
+   "short": "HCJ Iași nr. 73/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 73/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-73",
+   "versions": [
+    {
+     "from": "2007-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-73",
+     "sha256": "43ff240ae50d4332fd5f0a80fa4132ab0f60f91a80b2cd17dc7a94189ce7d332"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-75-2007",
    "path": "local/judet/iasi/2007/75",
    "short": "HCJ Iași nr. 75/2007",
@@ -29,6 +1079,96 @@
      "units": 1,
      "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-75",
      "sha256": "40bc78e589e0876fdb91580e56d8d8cd0bd44e711b30883cd4d94301684b5d4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-77-2007",
+   "path": "local/judet/iasi/2007/77",
+   "short": "HCJ Iași nr. 77/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 77/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-77",
+   "versions": [
+    {
+     "from": "2007-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-77",
+     "sha256": "d9d571156d2e4b4e7f17f5ad12b2d1f5ea685517f67e0fe5c7852ad17ca7c066"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-8-2007",
+   "path": "local/judet/iasi/2007/8",
+   "short": "HCJ Iași nr. 8/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 8/2007 pentru Copii \"Sf. Maria\" - Iasi, scolii Speciale Pascani, R.A",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-8",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-02-02/hot%C4%83r%C3%A2rea-nr-8",
+     "sha256": "bf0e126c806facc55d94eaa9cdb224b6adddf60132afaeb75f416ccdb57f42d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-88-2007",
+   "path": "local/judet/iasi/2007/88",
+   "short": "HCJ Iași nr. 88/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 88/2007",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-88",
+   "versions": [
+    {
+     "from": "2007-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-88",
+     "sha256": "13b9ffae68bee44b2cbb20c88fa8ecbf9a576ad4231193fc992e1aa6fe3c1b1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-89-2007",
+   "path": "local/judet/iasi/2007/89",
+   "short": "HCJ Iași nr. 89/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 89/2007 privind constituirea comisiei pentru stabilirea conditiilor optime de transformare a RAJAC Iasi in societate comerc",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-89",
+   "versions": [
+    {
+     "from": "2007-03-22",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-03-22/hot%C4%83r%C3%A2rea-nr-89",
+     "sha256": "b0ff12a1ec262f1f1f10f27e9d1a3250887f92207b59911a8e1cd64fc463f952"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-94-2007",
+   "path": "local/judet/iasi/2007/94",
+   "short": "HCJ Iași nr. 94/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 94/2007 privind trecerea din domeniul public al judetului Iasi si din administrarea Spitalului Clinic de Pneumoftiziologie Iasi, in domeniul privat al judetului Iasi si in",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-07/hot%C4%83r%C3%A2rea-nr-94",
+   "versions": [
+    {
+     "from": "2007-05-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-07/hot%C4%83r%C3%A2rea-nr-94",
+     "sha256": "e736522d1e05c19cc361042d925133c679918a23980ed64426db2ee5a353faf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-95-2007",
+   "path": "local/judet/iasi/2007/95",
+   "short": "HCJ Iași nr. 95/2007",
+   "title": "Hotărârea Consiliului Județean Iași nr. 95/2007 privind trecerea din domeniul public al judetului Iasi din administrarea Spitalului Clinic de Urgente \"Sf.Treime\" Iasi, in domeniul privat al judetului Iasi si in",
+   "url": "http://www.icc.ro/ro/hotarari/2007/2007-05-07/hot%C4%83r%C3%A2rea-nr-95",
+   "versions": [
+    {
+     "from": "2007-05-07",
+     "units": 1,
+     "source_url": "http://www.icc.ro/ro/hotarari/2007/2007-05-07/hot%C4%83r%C3%A2rea-nr-95",
+     "sha256": "f5b17b38189ce55ba16303fc7b3aca6ae2368ae71ecb764b8f88917b609122b1"
     }
    ]
   }

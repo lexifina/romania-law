@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/ilfov/2026",
+"acts": [
+{
+"slug": "hcj-ilfov-2-2026",
+"path": "local/judet/ilfov/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 2/2026",
+"short": "HCJ Ilfov nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/15.10.2026-Finantari_nerambursabile/2.-HCJ110-metodologie.pdf",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-144-2026",
+"path": "local/judet/ilfov/2026/144",
+"kind": "local",
+"year": "2026",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 144/2026",
+"short": "HCJ Ilfov nr. 144/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/01.10.2026-Expropiere_H144-2026/HCJILFOV-nr.-144-30.09.2026-decizie-exp-dr-leg-DN1A-Buftea-DJ101-anonimizata.pdf",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-146-2026",
+"path": "local/judet/ilfov/2026/146",
+"kind": "local",
+"year": "2026",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 146/2026",
+"short": "HCJ Ilfov nr. 146/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://cjilfov.ro/wp-content/uploads/Anunturi_Informare_Publica/01.10.2026-Expropiere_H146-2026/HCJILFOV-nr.-146-30.09.2026-declansare-exp.-Buftea-Tamasi-anonimizata.pdf",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
