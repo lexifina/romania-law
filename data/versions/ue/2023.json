@@ -258,6 +258,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1029-2023",
+   "path": "ue/regulament/2023/1029",
+   "short": "Regulamentul (UE) 2023/1029",
+   "title": "Regulamentul (UE) 2023/1029 al Comisiei din 25 mai 2023 de modificare a anexelor III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru fosmet din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1029",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17e3ae7a-fb61-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f98c58d358e7ead194e0f1151de9c3545e83fd09c72645c6e728047d3711d4aa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1030-2023",
+   "path": "ue/regulament/2023/1030",
+   "short": "Regulamentul (UE) 2023/1030",
+   "title": "Regulamentul (UE) 2023/1030 al Comisiei din 25 mai 2023 de modificare a anexei IV la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește Bacillus amyloliquefaciens tulpina AH2, Bacillus amyloliquefaciens tulpina IT-45 și Purpureocillium lilacinum tulpina PL11 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1030",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/886345cd-fb61-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6e850cb3a9dba1c04099ba6ad724b203a945f187d555a298267b42f27f8a9810"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1042-2023",
    "path": "ue/regulament/2023/1042",
    "short": "Regulamentul (UE) 2023/1042",
@@ -299,6 +329,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b45e501c-0113-11ee-87ec-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "04f10caa3473218adbb24d017d98afacb3d5b30831e99a1a17be895cff09c2bf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1066-2023",
+   "path": "ue/regulament/2023/1066",
+   "short": "Regulamentul (UE) 2023/1066",
+   "title": "Regulamentul (UE) 2023/1066 al Comisiei din 1 iunie 2023 privind aplicarea articolului 101 alineatul (3) din Tratatul privind funcționarea Uniunii Europene anumitor categorii de acorduri de cercetare și dezvoltare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1066",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8e744ed1-0112-11ee-87ec-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "65152adfca7ea320668367f6ddb5abb813f8c5de8bd55315183a7db543d864b5"
     }
    ]
   },
@@ -483,6 +528,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1190-2023",
+   "path": "ue/regulament/2023/1190",
+   "short": "Regulamentul (UE) 2023/1190",
+   "title": "Regulamentul (UE) 2023/1190 al Consiliului din 16 iunie 2023 de modificare a Regulamentului (UE) 2021/2278 de suspendare a taxelor vamale prevăzute în Tariful vamal comun menționate la articolul 56 alineatul (2) litera (c) din Regulamentul (UE) nr. 952/2013 privind anumite produse agricole și industriale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1190",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/39f03920-0fd1-11ee-b12e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e059ebc978042f1dcd4463d34115b2bb58bf2f14c5018b2ac4c5ee0b2ae9982a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1191-2023",
    "path": "ue/regulament/2023/1191",
    "short": "Regulamentul (UE) 2023/1191",
@@ -588,6 +648,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-128-2023",
+   "path": "ue/regulament/2023/128",
+   "short": "Regulamentul (UE) 2023/128",
+   "title": "Regulamentul (UE) 2023/128 al Comisiei din 18 ianuarie 2023 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru benalaxil, bromoxinil, clorsulfuron, epoxiconazol și fenamifos din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0128",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/32f29129-97d1-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9e17d9149724fc28573d0c663f48dbff787174dbf8131cf1363537867e11220c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-129-2023",
    "path": "ue/regulament/2023/129",
    "short": "Regulamentul (UE) 2023/129",
@@ -674,6 +749,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/731c168f-16e0-11ee-806b-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "f2a4837504f370733f48594a7902f7628b2e6870f49a8e2e8b2d0f8e6cab2b13"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1428-2023",
+   "path": "ue/regulament/2023/1428",
+   "short": "Regulamentul (UE) 2023/1428",
+   "title": "Regulamentul (UE) 2023/1428 al Comisiei din 7 iulie 2023 de modificare a Regulamentului (UE) nr. 231/2012 în ceea ce privește mono- și digliceridele acizilor grași (E 471) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1428",
+   "versions": [
+    {
+     "from": "2023-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9551613c-1ebb-11ee-806b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ddf551fca85df42e3f00a97e1799c2c8b5a942e781a2c6032372eeb2c80842d6"
     }
    ]
   },
@@ -918,6 +1008,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-155-2023",
+   "path": "ue/regulament/2023/155",
+   "short": "Regulamentul (UE) 2023/155",
+   "title": "Regulamentul (UE) 2023/155 al Consiliului din 23 ianuarie 2023 de modificare a Regulamentului (UE) nr. 356/2010 de impunere a anumitor măsuri restrictive specifice îndreptate împotriva unor persoane fizice sau juridice, entități sau organisme, având în vedere situația din Somalia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0155",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/44040995-9b8e-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c47999700583fb2f26ef21921bedfb6f19e07560ef2fa16452b098622a914b28"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1565-2023",
+   "path": "ue/regulament/2023/1565",
+   "short": "Regulamentul (UE) 2023/1565",
+   "title": "Regulamentul (UE) 2023/1565 al Consiliului din 28 iulie 2023 de modificare a Regulamentului (CE) nr. 1183/2005 privind măsuri restrictive având în vedere situația din Republica Democratică Congo",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1565",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d05cea0-2d50-11ee-95a2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5e5cb596d123532b3f4aacd007b20014c1429701c77feb79248c3ab7d52585e4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1569-2023",
    "path": "ue/regulament/2023/1569",
    "short": "Regulamentul (UE) 2023/1569",
@@ -929,6 +1049,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/574177f9-2f3e-11ee-9e98-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "64a92c03e06089e1e286228c79fd04fee483a96bbc82d77a556e8cd78b4e3b59"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1593-2023",
+   "path": "ue/regulament/2023/1593",
+   "short": "Regulamentul (UE) 2023/1593",
+   "title": "Regulamentul (UE) 2023/1593 al Consiliului din 3 august 2023 de modificare a Regulamentului (UE) nr. 377/2012 privind măsuri restrictive având în vedere situația din Guineea-Bissau",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R1593",
+   "versions": [
+    {
+     "from": "2023-08-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4d4ea4f5-3261-11ee-83b8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c5e00b25636b9d319984cb87b3965a3892e922417767d405fe188c23e88e2397"
     }
    ]
   },
@@ -959,6 +1094,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/52ab20dc-37e1-11ee-b173-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "d588241874941d58617087313e74bbcafd97fbb125e5ad4084041c24e3092cf5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-163-2023",
+   "path": "ue/regulament/2023/163",
+   "short": "Regulamentul (UE) 2023/163",
+   "title": "Regulamentul (UE) 2023/163 al Comisiei din 18 ianuarie 2023 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri aplicabile substanțelor DDT și oxatiapiprolin din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0163",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c8a92a1-9c53-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f5b4f42c8483c3c731b66aad40c2b553082ccf324f636df815cc62c438cd62d3"
     }
    ]
   },
@@ -1158,6 +1308,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-198-2023",
+   "path": "ue/regulament/2023/198",
+   "short": "Regulamentul (UE) 2023/198",
+   "title": "Regulamentul (UE) 2023/198 al Comisiei din 30 ianuarie 2023 de modificare a anexei II la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de abamectin din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0198",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f6e755d7-a143-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b570ff2edb856893647214ce424e67cc9448ff2504c40bc102649fbf81025c6c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2053-2023",
    "path": "ue/regulament/2023/2053",
    "short": "Regulamentul (UE) 2023/2053",
@@ -1203,6 +1368,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2086-2023",
+   "path": "ue/regulament/2023/2086",
+   "short": "Regulamentul (UE) 2023/2086",
+   "title": "Regulamentul (UE) 2023/2086 al Comisiei din 28 septembrie 2023 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește utilizarea oțetului tamponat ca agent de conservare și corector de aciditate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2086",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd7ae621-5e67-11ee-9220-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bab1e89e453e2a16aaf7acb343441ab95b3855c96e86f47c793d636f6043148c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2108-2023",
    "path": "ue/regulament/2023/2108",
    "short": "Regulamentul (UE) 2023/2108",
@@ -1244,6 +1424,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5aed5b39-67cf-11ee-9220-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "e5cede9f09b748b425a48faab7c8b4ded7238b70e8dccbfacc59e6d3f72b351f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2147-2023",
+   "path": "ue/regulament/2023/2147",
+   "short": "Regulamentul (UE) 2023/2147",
+   "title": "Regulamentul (UE) 2023/2147 din 9 octombrie 2023",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2147",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/61b3f9bd-67cf-11ee-9220-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c87fb8b6e4f242d258f11bb187c755e1b5e865fb88e851d48d073f70c312d964"
     }
    ]
   },
@@ -1443,6 +1638,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-250-2023",
+   "path": "ue/regulament/2023/250",
+   "short": "Regulamentul (UE) 2023/250",
+   "title": "Regulamentul (UE) 2023/250 al Consiliului din 4 februarie 2023 de modificare a Regulamentului (UE) nr. 833/2014 privind măsuri restrictive având în vedere acțiunile Rusiei de destabilizare a situației în Ucraina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0250",
+   "versions": [
+    {
+     "from": "2023-02-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/38cd25ff-a49e-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8f45f39e08ce302ac6882d1569483bacd367b8ef0fa4f28d806ffbd7b2b3a783"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2506-2023",
    "path": "ue/regulament/2023/2506",
    "short": "Regulamentul (UE) 2023/2506",
@@ -1469,6 +1679,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/8d9738ef-7f6b-11ee-99ba-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "efe75ee5f3d16b9a242e7321dca47bb147c4d9a1a5e6bdf8ca2e900177b0998b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2533-2023",
+   "path": "ue/regulament/2023/2533",
+   "short": "Regulamentul (UE) 2023/2533",
+   "title": "Regulamentul (UE) 2023/2533 al Comisiei din 17 noiembrie 2023 de punere în aplicare a Directivei 2009/125/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele în materie de proiectare ecologică aplicabile uscătoarelor de rufe de uz casnic cu tambur, de modificare a Regulamentului (UE) 2023/826 al Comisiei și de abrogare a Regulamentului (UE) nr. 932/2012 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2533",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fb6bf0a2-88d9-11ee-99ba-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9ac8f66e7fcd415e8c6435e66060bfdef9b582468d5d9972de44732c815863cf"
     }
    ]
   },
@@ -1743,6 +1968,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2844-2023",
+   "path": "ue/regulament/2023/2844",
+   "short": "Regulamentul (UE) 2023/2844",
+   "title": "Regulamentul (UE) 2023/2844 al Parlamentului European și al Consiliului din 13 decembrie 2023 privind digitalizarea cooperării judiciare și a accesului la justiție în cadrul procedurilor transfrontaliere în materie civilă, comercială și penală și de modificare a anumitor acte din domeniul cooperării judiciare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2844",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d1ca88af-a459-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "d1e5abada4dec5f4a3b69ff404e216079f464114e1894d7e12c67c153815f7ff"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2845-2023",
    "path": "ue/regulament/2023/2845",
    "short": "Regulamentul (UE) 2023/2845",
@@ -1788,6 +2028,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2859-2023",
+   "path": "ue/regulament/2023/2859",
+   "short": "Regulamentul (UE) 2023/2859",
+   "title": "Regulamentul (UE) 2023/2859 al Parlamentului European și al Consiliului din 13 decembrie 2023 de înființare a unui punct unic de acces european care oferă acces centralizat la informațiile puse la dispoziția publicului relevante pentru serviciile financiare, pentru piețele de capital și pentru durabilitate (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2859",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3cb73db-9ed8-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8a3bf97b0cc793c1bb48fca2a790b7f9e318800b2096c7a832d09b6dac2999d5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2869-2023",
    "path": "ue/regulament/2023/2869",
    "short": "Regulamentul (UE) 2023/2869",
@@ -1829,6 +2084,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0ac82c9e-9e10-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "0e164440fb8279737804183497d63de0cdf44dd7264599fff924bf895f8e6185"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2878-2023",
+   "path": "ue/regulament/2023/2878",
+   "short": "Regulamentul (UE) 2023/2878",
+   "title": "Regulamentul (UE) 2023/2878 al Consiliului din 18 decembrie 2023 de modificare a Regulamentului (UE) nr. 833/2014 privind măsuri restrictive având în vedere acțiunile Rusiei de destabilizare a situației în Ucraina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2878",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/028aae7e-9dd2-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "08029eee763af147b4f7437bd61d96e411a8b286e7ae0c8177317a014dde4a30"
     }
    ]
   },
@@ -1968,6 +2238,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-427-2023",
+   "path": "ue/regulament/2023/427",
+   "short": "Regulamentul (UE) 2023/427",
+   "title": "Regulamentul (UE) 2023/427 din 25 februarie 2023",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0427",
+   "versions": [
+    {
+     "from": "2023-02-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e7fe9434-b52d-11ed-8912-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6f8c105d91950a5ce79778c1ce4f0221bf58b96327a01a8885a2c49d9bf33cf7"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-435-2023",
    "path": "ue/regulament/2023/435",
    "short": "Regulamentul (UE) 2023/435",
@@ -2024,6 +2309,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/1c0c12c7-b89e-11ed-8912-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "519eb1a282bd7a979c2aa46d74d85671086cfd7d1232108f54964e490c926114"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-447-2023",
+   "path": "ue/regulament/2023/447",
+   "short": "Regulamentul (UE) 2023/447",
+   "title": "Regulamentul (UE) 2023/447 al Comisiei din 1 martie 2023 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește utilizarea glicozidelor steviolice glucozilate ca îndulcitor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0447",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/56eb4795-b8b3-11ed-8912-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a59e774ffe79eafb24e2791193727ac40f0b8365f87be34afe7aeb7a36c443ea"
     }
    ]
   },
@@ -2148,6 +2448,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-679-2023",
+   "path": "ue/regulament/2023/679",
+   "short": "Regulamentul (UE) 2023/679",
+   "title": "Regulamentul (UE) 2023/679 al Comisiei din 23 martie 2023 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru piridaben, piridat, piriproxifen și triclopir din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0679",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e980d9b4-c9e6-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3685d1283ed7eab5489a6e6c9d8fc152970b22d87aadcdfa82f5116781519bb5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-706-2023",
    "path": "ue/regulament/2023/706",
    "short": "Regulamentul (UE) 2023/706",
@@ -2159,6 +2474,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/02de688a-cf65-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "af07e17aab4056e50a0228fa78962828f57a012be4bedf7713f4dca7c0805dbf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-710-2023",
+   "path": "ue/regulament/2023/710",
+   "short": "Regulamentul (UE) 2023/710",
+   "title": "Regulamentul (UE) 2023/710 al Comisiei din 30 martie 2023 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru bromopropilat, cloridazon, fenpropimorf, imazaquin și tralkoxidim din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0710",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c68c592b-cf60-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "05a87b795cfa2c5813a2f23ad94a48015e98547bc6afe50ef75a14af447478e5"
     }
    ]
   },
@@ -2343,6 +2673,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-923-2023",
+   "path": "ue/regulament/2023/923",
+   "short": "Regulamentul (UE) 2023/923",
+   "title": "Regulamentul (UE) 2023/923 al Comisiei din 3 mai 2023 de modificare a anexei XVII la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului în ceea ce privește plumbul și compușii săi din PVC (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0923",
+   "versions": [
+    {
+     "from": "2023-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8c5ef48d-ed3b-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2359b2b14b53b6e2da79b1009fddafa398dc8238c305bbb32760d84ab0bc4af2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-955-2023",
+   "path": "ue/regulament/2023/955",
+   "short": "Regulamentul (UE) 2023/955",
+   "title": "Regulamentul (UE) 2023/955 al Parlamentului European și al Consiliului din 10 mai 2023 de instituire a Fondului social pentru climă și de modificare a Regulamentului (UE) 2021/1060",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0955",
+   "versions": [
+    {
+     "from": "2023-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9dd87fa1-f383-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "885c4913bf5bfa23605df579a64260010205d41a75608fe7c089787a47298c42"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-956-2023",
    "path": "ue/regulament/2023/956",
    "short": "Regulamentul (UE) 2023/956",
@@ -2354,6 +2714,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e5587bf5-f383-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "aaae946c3fc9e1efa31f2e1564c1487c76743bde8f9656f4aece4dcbe4daa30e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-957-2023",
+   "path": "ue/regulament/2023/957",
+   "short": "Regulamentul (UE) 2023/957",
+   "title": "Regulamentul (UE) 2023/957 al Parlamentului European și al Consiliului din 10 mai 2023 de modificare a Regulamentului (UE) 2015/757 pentru includerea activităților de transport maritim în schema UE de comercializare a certificatelor de emisii și pentru monitorizarea, raportarea și verificarea emisiilor de gaze cu efect de seră suplimentare și a emisiilor de la alte tipuri de nave (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R0957",
+   "versions": [
+    {
+     "from": "2023-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55fad2ee-f383-11ed-a05c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2b28bd8c076f8e37a962ae1950075f3eda887913d157e670d6be3d1556a46e25"
     }
    ]
   },

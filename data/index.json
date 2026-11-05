@@ -8746,23 +8746,23 @@
   {
    "shard": "ue/2022",
    "kind": "ue",
-   "count": 23,
+   "count": 107,
    "acts": "data/acts/ue/2022.json",
    "list": "data/acts/ue/2022.md",
    "versions": "data/versions/ue/2022.json",
    "laws": "data/laws/ue/2022.csv",
-   "laws_count": 23,
+   "laws_count": 107,
    "sources": "data/sources/ue/2022.csv"
   },
   {
    "shard": "ue/2023",
    "kind": "ue",
-   "count": 160,
+   "count": 185,
    "acts": "data/acts/ue/2023.json",
    "list": "data/acts/ue/2023.md",
    "versions": "data/versions/ue/2023.json",
    "laws": "data/laws/ue/2023.csv",
-   "laws_count": 160,
+   "laws_count": 185,
    "sources": "data/sources/ue/2023.csv"
   },
   {
