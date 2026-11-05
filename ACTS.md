@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12585 acts, 24,100 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12588 acts, 24,103 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8457, of which 3202 amending acts)
+## Laws (legi) (8460, of which 3203 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -446,6 +446,8 @@
 | Legea nr. 129/1997 | [`lege/1997/129/`](lege/1997/129/) | in force | 1 | 1997-07-16 | 1997-07-16 |
 | Legea nr. 133/1997 privind aprobarea Ordonanţei de urgenta a Guvernului nr. 17/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru ţigarete, produse din tutun şi băuturi alcoolice | [`lege/1997/133/`](lege/1997/133/) | amended, not consolidated | 1 | 1997-07-18 | 1997-07-18 |
 | Legea nr. 134/1997 pentru abilitarea Guvernului de a emite ordonanţe | [`lege/1997/134/`](lege/1997/134/) | amended, not consolidated | 1 | 1997-07-24 | 1997-07-24 |
+| Legea nr. 135/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 23/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 26/1994 privind drepturile de hrana, în timp de pace, ale personalului din sectorul de apărare naţionala, ordine publică şi siguranţă naţionala | [`lege/1997/135/`](lege/1997/135/) | amending act | 1 | 1997-07-28 | 1997-07-28 |
+| Legea nr. 136/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord referitor la reţinerea şi confiscarea bunurilor provenite şi a instrumentelor folosite la comiterea infracţiunilor, semnat la Bucureşti la 14 noiembrie 1995 | [`lege/1997/136/`](lege/1997/136/) | in force | 1 | 1997-07-29 | 1997-07-29 |
 | Legea nr. 137/1997 | [`lege/1997/137/`](lege/1997/137/) | in force | 1 | 1997-07-25 | 1997-07-25 |
 | Legea nr. 138/1997 pentru modificarea şi completarea Legii nr. 47/1992 privind organizarea şi funcţionarea Curţii Constituţionale | [`lege/1997/138/`](lege/1997/138/) | amended, not consolidated | 1 | 1997-07-25 | 1997-07-25 |
 | Legea nr. 139/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/1997 privind transferul, cu titlu gratuit, al unui imobil în proprietatea Republicii Federale Germania | [`lege/1997/139/`](lege/1997/139/) | amended, not consolidated | 1 | 1997-07-28 | 1997-07-28 |
@@ -454,6 +456,7 @@
 | Legea nr. 144/1997 pentru modificarea şi completarea Legii nr. 33/1996 privind repunerea în unele drepturi economice a locuitorilor Munţilor Apuseni | [`lege/1997/144/`](lege/1997/144/) | amended, not consolidated | 1 | 1997-07-28 | 1997-07-28 |
 | Legea nr. 146/1997 | [`lege/1997/146/`](lege/1997/146/) | repealed 2013-06-29 | 21 | 1997-10-27 | 2013-06-29 |
 | Legea nr. 147/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Franceze privind cooperarea în domeniul afacerilor interne, semnat la Bucureşti la 21 februarie 1997 | [`lege/1997/147/`](lege/1997/147/) | amended, not consolidated | 1 | 1997-07-29 | 1997-07-29 |
+| Legea nr. 148/1997 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord cu privire la colaborarea în lupta împotriva crimei organizate şi traficului ilicit de droguri şi substanţe psihotrope, semnat la Bucureşti la 14 noiembrie 1995 | [`lege/1997/148/`](lege/1997/148/) | in force | 1 | 1997-07-29 | 1997-07-29 |
 | Legea nr. 149/1997 | [`lege/1997/149/`](lege/1997/149/) | in force | 1 | 1997-07-30 | 1997-07-30 |
 | Legea nr. 150/1997 | [`lege/1997/150/`](lege/1997/150/) | in force | 1 | 1997-07-29 | 1997-07-29 |
 | Legea nr. 151/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/1997 cu privire la diminuarea blocajului financiar şi a pierderilor din economie | [`lege/1997/151/`](lege/1997/151/) | amended, not consolidated | 1 | 1997-07-28 | 1997-07-28 |
@@ -12651,7 +12654,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29469 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29479 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

@@ -94856,6 +94856,21 @@
    ]
   },
   {
+   "slug": "legea-135-1997",
+   "path": "lege/1997/135",
+   "short": "Legea nr. 135/1997",
+   "title": "Legea nr. 135/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 23/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 26/1994 privind drepturile de hrana, în timp de pace, ale personalului din sectorul de apărare naţionala, ordine publică şi siguranţă naţionala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11758",
+   "versions": [
+    {
+     "from": "1997-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11758",
+     "sha256": "011a45c72fcc6f4dbae33cb3989ce61b250547f0dc48037ee1547b57626211c3"
+    }
+   ]
+  },
+  {
    "slug": "legea-135-1998",
    "path": "lege/1998/135",
    "short": "Legea nr. 135/1998",
@@ -95224,6 +95239,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8690",
      "sha256": "828419c1430c1c5156094ea938600945433e22a96d7a8efcfe35069981aa64e4"
+    }
+   ]
+  },
+  {
+   "slug": "legea-136-1997",
+   "path": "lege/1997/136",
+   "short": "Legea nr. 136/1997",
+   "title": "Legea nr. 136/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord referitor la reţinerea şi confiscarea bunurilor provenite şi a instrumentelor folosite la comiterea infracţiunilor, semnat la Bucureşti la 14 noiembrie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11762",
+   "versions": [
+    {
+     "from": "1997-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11762",
+     "sha256": "f3f8e5cb42097ec458a80ec21515850d7eb06ed672e5a8a4249a3c89943a143b"
     }
    ]
   },
@@ -99784,6 +99814,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283321",
      "sha256": "32febec66912e3cbc9286768bc3cb42484bed02bd600b6f45488e4b593a991f7"
+    }
+   ]
+  },
+  {
+   "slug": "legea-148-1997",
+   "path": "lege/1997/148",
+   "short": "Legea nr. 148/1997",
+   "title": "Legea nr. 148/1997 pentru ratificarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord cu privire la colaborarea în lupta împotriva crimei organizate şi traficului ilicit de droguri şi substanţe psihotrope, semnat la Bucureşti la 14 noiembrie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11817",
+   "versions": [
+    {
+     "from": "1997-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11817",
+     "sha256": "7e22b91740e7889f364872bdca242cc1755d810bd20cb18d26a788eb43a122a8"
     }
    ]
   },
