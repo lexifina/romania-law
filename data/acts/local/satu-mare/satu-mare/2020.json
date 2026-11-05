@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/satu-mare/2020",
+"acts": [
+{
+"slug": "hcl-satu-mare--satu-mare-239-2020",
+"path": "local/satu-mare/satu-mare/2020/239",
+"kind": "local",
+"year": "2020",
+"number": "239",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 239/2020 privind însușirea documentațiilor cadastrale de primă înscriere a unor imobile teren din municipiul Satu Mare, cu destinația drum de exploatare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 22.12.2020, Analizând: proiectul de hotărâre înregistrat sub nr. 54204/16.12.2020, referatul de aprobare al Primarului municipiului Satu Mare înregistrat sub nr. 54205/16.12",
+"short": "HCL Satu Mare nr. 239/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://www.primariasm.ro/hotararea-nr-23922122020",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-240-2020",
+"path": "local/satu-mare/satu-mare/2020/240",
+"kind": "local",
+"year": "2020",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 240/2020 privind însușirea documentațiilor cadastrale de primă înscriere a unor imobile teren din municipiul Satu Mare, cu destinația drum Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 22.12.2020, Analizând: proiectul de hotărâre înregistrat sub nr. 54063/16.12.2020, referatul de aprobare al Primarului municipiului Satu Mare înregistrat sub nr. 54066/16.12.2020, în cali",
+"short": "HCL Satu Mare nr. 240/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://www.primariasm.ro/hotararea-nr-24022122020",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/satu-mare/2024",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--satu-mare-109-2024",
+   "path": "local/satu-mare/satu-mare/2024/109",
+   "short": "HCL Satu Mare nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 109/2024",
+   "url": "https://www.primariasm.ro/hotararea-nr-10925042024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/109/hcl-109.doc",
+     "sha256": "1a2c568d0ba79c218b83e532260e498c83d51ad65de446108813bbef3e124d93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-148-2024",
+   "path": "local/satu-mare/satu-mare/2024/148",
+   "short": "HCL Satu Mare nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 148/2024 privind aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici la obiectivul de investiție: ”Reconversia și refuncționalizarea terenurilor degradate și neutilizate de pe malurile Someșului din Municipiul Satu Mare” Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre, înregistrat sub nr. 29519/13.05.2024, referatul de aprobare al Primarului Municipiului Satu",
+   "url": "https://primariasm.ro/hotararea-nr-14815052024",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2024/148/hcl-148.docx",
+     "sha256": "baf869c21c352ce70d9fbead320817eefa10c5f5fcfa5f27c8a417f47280b4bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-212-2024",
+   "path": "local/satu-mare/satu-mare/2024/212",
+   "short": "HCL Satu Mare nr. 212/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 212/2024 privind modificarea și completarea HCL nr. 148/15.05.2024 pentru aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici la obiectivul de investiție ” Reconversia și refuncționalizarea terenurilor degradate și neutilizate de pe malurile Someșului din Municipiul Satu Mare” Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 37725/21.06.202",
+   "url": "https://www.primariasm.ro/hotararea-nr-21227062024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/212/hcl-212.docx",
+     "sha256": "2429dafec63071911433893684a11fa2349898c8b60bf585a0abc1239fbaddf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-235-2024",
+   "path": "local/satu-mare/satu-mare/2024/235",
+   "short": "HCL Satu Mare nr. 235/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 235/2024",
+   "url": "https://primariasm.ro/hotararea-nr-23530062024",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2024/235/hcl-235.doc",
+     "sha256": "7dfe01b4f2fea0972079eef1e5bceee8c19dd17029feb459d75d2825161a3458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-238-2024",
+   "path": "local/satu-mare/satu-mare/2024/238",
+   "short": "HCL Satu Mare nr. 238/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 238/2024",
+   "url": "https://primariasm.ro/hotararea-nr-23811072024",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2024/238/hcl-238.doc",
+     "sha256": "05466d4c52064200d9f46bc5e83d249f86ab0feeba0bde0be1eb8bbf7e3c5fee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-330-2024",
+   "path": "local/satu-mare/satu-mare/2024/330",
+   "short": "HCL Satu Mare nr. 330/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 330/2024",
+   "url": "https://www.primariasm.ro/hotararea-nr-33024102024",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/330/hcl-330.doc",
+     "sha256": "f2661032c30d89273f5607a59d705c743129677d85ccc01cfba9a31717316444"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-335-2024",
+   "path": "local/satu-mare/satu-mare/2024/335",
+   "short": "HCL Satu Mare nr. 335/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 335/2024",
+   "url": "https://primariasm.ro/hotararea-nr-33524102024",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2024/335/hcl-335.doc",
+     "sha256": "41557f89aeb4b3b81c42068d35f249c4dd2654d3cdde164fc84b5515fd6dd768"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-51-2024",
+   "path": "local/satu-mare/satu-mare/2024/51",
+   "short": "HCL Satu Mare nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 51/2024 privind aprobarea cooperării Municipiului Satu Mare cu Agenția de Dezvoltare Regională Nord-Vest pentru susținerea proiectului de interes public regional „Platforma Online de Investiții și Inovare Nord-Vest INNO și atragerea investitorilor pentru perioada 2024-2028”, a contribuțiilor financiare anuale, a categoriilor de activități și cheltuieli prevăzute, precum și a bugetului multianual pentru pe",
+   "url": "https://www.primariasm.ro/hotararea-nr-5129022024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/51/hcl-51-1.docx",
+     "sha256": "2e9c28b77e355880399ca666269e4242c298c973b4b8398373aacaaca166da80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-6-2024",
+   "path": "local/satu-mare/satu-mare/2024/6",
+   "short": "HCL Satu Mare nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 6/2024",
+   "url": "https://www.primariasm.ro/hotararea-nr-625012024",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/6/hcl-6.doc",
+     "sha256": "60b819a9dd7ed1cccd22ecb2a2d1823acbb3e3fdfe556912e433dfba69177900"
+    }
+   ]
+  }
+ ]
+}

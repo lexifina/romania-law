@@ -3,6 +3,306 @@
  "shard": "local/judet/vaslui/2024",
  "acts": [
   {
+   "slug": "hcj-vaslui-10-2024",
+   "path": "local/judet/vaslui/2024/10",
+   "short": "HCJ Vaslui nr. 10/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 10/2024 privind trecerea din domeniul public al Județului Vaslui în domeniul privat al acestuia a unui mijloc fix aflat în administrarea Școlii Profesionale Speciale „Sfânta Ecaterina” Huși, în vederea scoaterii din funcțiune, casării sau demolării acestuia 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr10_2024.pdf",
+     "sha256": "6497a35c80d1c7d4d6701ba3ab4ddaa5e81e5769d8fe62b287150d097c6955b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-101-2024",
+   "path": "local/judet/vaslui/2024/101",
+   "short": "HCJ Vaslui nr. 101/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 101/2024 privind aprobarea documentației tehnico-economice (faza D.A.L.I.) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Creșterea calității serviciilor Centrului de Servicii de Recuperare Neuromotorie de tip Ambulatoriu Bârlad” 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr101_2024.pdf",
+     "sha256": "5568a3359ee2ef6b2366fd7653be81e653446d929753369987f4fc234edee58b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-102-2024",
+   "path": "local/judet/vaslui/2024/102",
+   "short": "HCJ Vaslui nr. 102/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 102/2024 privind aprobarea documentației tehnico-economice (faza D.A.L.I.) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Creșterea calității serviciilor Centrului de Servicii de Recuperare Neuromotorie de tip Ambulatoriu Huși” 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr102_2024.pdf",
+     "sha256": "e83ee4cc6dd7aea358a5ad36ffb880a787769264aff33ddbc2f6108fbf37f823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-103-2024",
+   "path": "local/judet/vaslui/2024/103",
+   "short": "HCJ Vaslui nr. 103/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 103/2024 privind rectificarea a III-a a bugetului local al Județului Vaslui pe anul 2024 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr103_2024.pdf",
+     "sha256": "7ebae6022738a0636b4662b439dde0ae3afb991d45df29da668b529366c743c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-105-2024",
+   "path": "local/judet/vaslui/2024/105",
+   "short": "HCJ Vaslui nr. 105/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 105/2024 privind aprobarea contului de execuţie al bugetului local al Judeţului Vaslui, al bugetului instituţiilor publice și activităţilor finanţate integral sau parţial din venituri proprii, al bugetului fondurilor externe nerambursabile și al bugetului împrumutului intern pentru perioada 01.01.2024 – 31.03.2024 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr105_2024.pdf",
+     "sha256": "c39b8f9c62dcb0f5f48540214ecb9476cc2bf4e68c1defa02dd03291ec30d25f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-106-2024",
+   "path": "local/judet/vaslui/2024/106",
+   "short": "HCJ Vaslui nr. 106/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 106/2024 privind însușirea și actualizarea unor documentații cadastrale aferente drumului județean DJ 244K 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr106_2024.pdf",
+     "sha256": "de2b0da304bfaaacf53d750e5080e30d6049c20da44bd2a005e81d8d283d97b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-107-2024",
+   "path": "local/judet/vaslui/2024/107",
+   "short": "HCJ Vaslui nr. 107/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 107/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr107_2024.pdf",
+     "sha256": "eddb481e71b3a0f4621401c74cb90013e9fcc9b86ccf0923ed1abe1302edefd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-109-2024",
+   "path": "local/judet/vaslui/2024/109",
+   "short": "HCJ Vaslui nr. 109/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 109/2024 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 09 iulie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr109_2024.pdf",
+     "sha256": "4e6b1af81ab60d19cbb363b6f21cd816f3217e732546fe4e3f46c95222a739a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-11-2024",
+   "path": "local/judet/vaslui/2024/11",
+   "short": "HCJ Vaslui nr. 11/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 11/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr11_2024.pdf",
+     "sha256": "c47e4a702b744e363d7ad35d5892f0771eb6d163c1fb1abdb4de04d50befe808"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-111-2024",
+   "path": "local/judet/vaslui/2024/111",
+   "short": "HCJ Vaslui nr. 111/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 111/2024 privind aprobarea depunerii și gestionării proiectului „Sistem de panouri fotovoltaice la DGASPC Vaslui, cu puterea maximă de 200 KW” de către Direcția Generală de Asistență Socială și Protecție a Copilului Vaslui în cadrul ”Programului privind instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică, în vederea acoperirii necesarului de consum şi livrării surplusului î",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr111_2024.pdf",
+     "sha256": "4e7841b5ae39e4726e2c310a2104c05353386a1422f3c271ab32a66723fb3788"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-112-2024",
+   "path": "local/judet/vaslui/2024/112",
+   "short": "HCJ Vaslui nr. 112/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 112/2024 pentru aprobarea încheierii unui acord de parteneriat în vederea depunerii spre finanțare și gestionării de către Asociația “Iubire și Încredere”, în parteneriat cu Direcția Generală de Asistență Socială și Protecție a Copilului Vaslui, a proiectului ”Împreună pentru viitor: prevenirea separării și reintegrarea copiilor din județul Vaslui”, cod proiect 328165 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr112_2024.pdf",
+     "sha256": "a4703a6322561e958807c6d9925bfb5370ddd61609994b5ca8c4e7dc71206651"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-113-2024",
+   "path": "local/judet/vaslui/2024/113",
+   "short": "HCJ Vaslui nr. 113/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 113/2024 pentru aprobarea încheierii unui acord de parteneriat în vederea depunerii spre finanțare și gestionării de către Asociația “Iubire și Încredere”, în parteneriat cu Direcția Generală de Asistență Socială și Protecție a Copilului Vaslui, a proiectului ”S.P.E.R.A.N.T.A - Sprijin Psihologic, Educațional și Reintegrare prin Asigurarea Nevoilor și Transformarea Adaptivă”, cod proiect 328200 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr113_2024.pdf",
+     "sha256": "66b3a4b3ad50e1e6c9292178968fc47a24d9660ec1b5b716753a5c6cf7e94ab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-114-2024",
+   "path": "local/judet/vaslui/2024/114",
+   "short": "HCJ Vaslui nr. 114/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 114/2024 pentru modificarea și completarea art.4 din Hotărârea Consiliului Județean Vaslui nr.201/2022 privind aprobarea încheierii unui acord de parteneriat, a proiectului “Construire laborator de microbiologie în cadrul Spitalului Județean de Urgență Vaslui”, precum și a cheltuielilor legate de proiect 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr114_2024.pdf",
+     "sha256": "c2ba626744b8f56c325398586e5d7718fe714c7140017e0175f80f4dbde92dd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-116-2024",
+   "path": "local/judet/vaslui/2024/116",
+   "short": "HCJ Vaslui nr. 116/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 116/2024 pentru modificarea poziției nr.15 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.5/2024 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Centrului de Asistență Medico-Socială Băcești 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr116_2024.pdf",
+     "sha256": "245b14fa43b4509e30c66c455d5951dc1fbb7bd47f4e6d7f5f72c72137a48ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-117-2024",
+   "path": "local/judet/vaslui/2024/117",
+   "short": "HCJ Vaslui nr. 117/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 117/2024 privind rectificarea a IV-a a bugetului local al Județului Vaslui pe anul 2024 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr117_2024.pdf",
+     "sha256": "020e69fd15961cb9ff21351c8176f270fb6ed183c8a892b5646431397409ecef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-119-2024",
+   "path": "local/judet/vaslui/2024/119",
+   "short": "HCJ Vaslui nr. 119/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 119/2024 privind acordarea unui sprijin financiar unor unități de cult din județul Vaslui 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr119_2024.pdf",
+     "sha256": "cd5f59ae6860dcd36264a5b9ba85eef743a37fa9c5bfd18b186c67f76f420f51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-12-2024",
+   "path": "local/judet/vaslui/2024/12",
+   "short": "HCJ Vaslui nr. 12/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 12/2024 privind aprobarea solicitării trecerii unui imobil din domeniul public al Comunei Șuletea în domeniul public al Judeţului Vaslui 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr12_2024.pdf",
+     "sha256": "e1c548747d29b0882ad6743f2710ca02ce234c4254ae8e27d3267b045d49e0af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-120-2024",
+   "path": "local/judet/vaslui/2024/120",
+   "short": "HCJ Vaslui nr. 120/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 120/2024 privind însușirea unor documentații cadastrale aferente drumului județean DJ 159F 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr120_2024.pdf",
+     "sha256": "22dd5cc5aab95e4b0a509323505010650fce993a13a81a70461b890bf5f2ef15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-121-2024",
+   "path": "local/judet/vaslui/2024/121",
+   "short": "HCJ Vaslui nr. 121/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 121/2024 privind transmiterea unor spații și a dotărilor aferente acestora, din incinta imobilului Casa Armatei Vaslui - Centrul cultural județean multifuncțional, din administrarea Consiliului Județean Vaslui în administrarea Centrului Cultural Județean Vaslui 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr121_2024.pdf",
+     "sha256": "9215927648969dd93617cf23b8bd93654b7a6fea8519be321c9855e627f52c86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-122-2024",
+   "path": "local/judet/vaslui/2024/122",
+   "short": "HCJ Vaslui nr. 122/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 122/2024 pentru aprobarea încheierii unui act adițional la Contractul de delegare a gestiunii serviciului de salubrizare a județului Vaslui nr.16452/19.12.2017 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr122_2024.pdf",
+     "sha256": "ee86ae97c4f336217292a40a04a3d43185e10440e3e58272b11a17a1cd098226"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-123-2024",
    "path": "local/judet/vaslui/2024/123",
    "short": "HCJ Vaslui nr. 123/2024",
@@ -14,6 +314,231 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr123_2024.pdf",
      "sha256": "c84a70729cd98e64b7e332cbd8df8d24847fa4879c847f4d5f67e0bb725893ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-124-2024",
+   "path": "local/judet/vaslui/2024/124",
+   "short": "HCJ Vaslui nr. 124/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 124/2024 privind reorganizarea aparatului de specialitate al Consiliului Județean Vaslui și aprobarea organigramei și a statului de funcții al personalului din cadrul acestuia 01 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr124_2024.pdf",
+     "sha256": "9a7b6a9f0d9be6f20859e54c6cafc417edcab50fd3b39bed545f30a02ef05ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-125-2024",
+   "path": "local/judet/vaslui/2024/125",
+   "short": "HCJ Vaslui nr. 125/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 125/2024 pentru aprobarea proiectului „Axa rutieră strategică Sud - Vest a județului Vaslui” și a cheltuielilor legate de proiect 28 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr125_2024.pdf",
+     "sha256": "58d23b47707426a2265a27566723a667e40f088c7a56017b0103763828b6b4dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-126-2024",
+   "path": "local/judet/vaslui/2024/126",
+   "short": "HCJ Vaslui nr. 126/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 126/2024 privind aprobarea încheierii unor contracte de asociere cu zece unități administrativ-teritoriale din județul Vaslui în vederea realizării investiției „Axa rutieră strategică Sud - Vest a județului Vaslui” 28 august",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr126_2024.pdf",
+     "sha256": "cc623fed9e38e4efb4c1d796b58a4574a6117e81f02735acb474c55d5cf44481"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-127-2024",
+   "path": "local/judet/vaslui/2024/127",
+   "short": "HCJ Vaslui nr. 127/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 127/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr127_2024.pdf",
+     "sha256": "46268d8f20d58f566d15fb170f2e85425e388de68617d54a61ce991e8f10937a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-128-2024",
+   "path": "local/judet/vaslui/2024/128",
+   "short": "HCJ Vaslui nr. 128/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 128/2024 privind schimbarea denumirii Spitalului Județean de Urgență Vaslui în Spitalul Județean de Urgență “Sfânta Chiriachi” Vaslui 02 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr128_2024.pdf",
+     "sha256": "501fb5f0340ce283c9d6b6e232d5a1ae3224fb9801824a3d2855b098f3e07983"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-129-2024",
+   "path": "local/judet/vaslui/2024/129",
+   "short": "HCJ Vaslui nr. 129/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 129/2024 pentru modificarea pozițiilor nr.44 și nr.45 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.6/2024 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului ”Vasile Pârvan” Bârlad 02 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr129_2024.pdf",
+     "sha256": "668057b06f982b78ff8fc5f424f77c09aa6b56b417f2c817175e660f1cdf294e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-13-2024",
+   "path": "local/judet/vaslui/2024/13",
+   "short": "HCJ Vaslui nr. 13/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 13/2024 privind trecerea unor imobile din domeniul privat al Județului Vaslui în domeniul public al acestuia, aprobarea încadrării în categoria funcțională a drumurilor de interes județean a unui imobil și declararea de interes public județean a acestuia 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr13_2024.pdf",
+     "sha256": "2e8fb4be916d6536b059aef95277604b96f243fd69c766f8459bc32df3ea9395"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-130-2024",
+   "path": "local/judet/vaslui/2024/130",
+   "short": "HCJ Vaslui nr. 130/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 130/2024 pentru modificarea pozițiilor nr.6 și nr.10 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.137/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului Județean “Ștefan cel Mare” Vaslui, cu modificările ulterioare 02 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr130_2024.pdf",
+     "sha256": "5c118d34469a5387c54873efea1d23cb07def029c5915041736b922db3410711"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-132-2024",
+   "path": "local/judet/vaslui/2024/132",
+   "short": "HCJ Vaslui nr. 132/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 132/2024 privind înființarea unei linii de gardă continuă, în specialitatea chirurgie pediatrică, la nivelul Spitalului Județean de Urgență Vaslui 02 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr132_2024.pdf",
+     "sha256": "3d074fbf1f33071cf9ee907d132bd7de405f73d7d25610b3023aa8c73cda0a21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-133-2024",
+   "path": "local/judet/vaslui/2024/133",
+   "short": "HCJ Vaslui nr. 133/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 133/2024 privind stabilirea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 02 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr133_2024.pdf",
+     "sha256": "f81ae66044c6fe6c9ed9b6460f86f2601f0d4ed68314bf24eed24b944244d04f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-136-2024",
+   "path": "local/judet/vaslui/2024/136",
+   "short": "HCJ Vaslui nr. 136/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 136/2024 privind aprobarea contului de execuţie al bugetului local al Judeţului Vaslui, al bugetului instituţiilor publice și activităţilor finanţate integral sau parţial din venituri proprii, al bugetului fondurilor externe nerambursabile și al bugetului împrumutului intern pentru perioada 01.01.2024 – 30.06.2024 02 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr136_2024.pdf",
+     "sha256": "5434fb1759831d145d520c035c935696e80d9480e389a318f4994e006059ca0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-137-2024",
+   "path": "local/judet/vaslui/2024/137",
+   "short": "HCJ Vaslui nr. 137/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 137/2024 pentru modificarea și completarea Hotărârii Consiliului Județean Vaslui nr. 83/2023 privind aprobarea taxelor și tarifelor locale pentru anul fiscal 2024, care constituie venituri la bugetul local al județului și la bugetul instituțiilor subordonate, cu modificările și completările ulterioare 02 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr137_2024.pdf",
+     "sha256": "06051e1ac6963d4830a2e9cdd971bc0ebbfb1f308fe67cb1a9702c47339195cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-138-2024",
+   "path": "local/judet/vaslui/2024/138",
+   "short": "HCJ Vaslui nr. 138/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 138/2024 pentru avizarea înființării și desființării unor puncte de lucru ale Societății „Lucrări Drumuri şi Poduri” S.A",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr138_2024.pdf",
+     "sha256": "1a6e93e0bdcf09c973ebe7599bc84fef29a2cb090a1015c2b9d65329bbcd7e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-139-2024",
+   "path": "local/judet/vaslui/2024/139",
+   "short": "HCJ Vaslui nr. 139/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 139/2024 privind stabilirea valorii unitare lei/kilometru aferentă sumei forfetare lunare și a sumei forfetare pe zi, acordate elevilor din județul Vaslui care sunt şcolarizaţi în altă localitate decât cea de domiciliu și care nu beneficiază de existența serviciilor de transport public, în anul școlar 2024-2025 02 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr139_2024.pdf",
+     "sha256": "db50c34d62d6e932205f37a7a894fe63bd9524326d53f632e4e45f2de70d759b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-14-2024",
+   "path": "local/judet/vaslui/2024/14",
+   "short": "HCJ Vaslui nr. 14/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 14/2024 privind stabilirea valorii unitare lei/kilometru aferentă sumei forfetare lunare și a sumei forfetare pe zi, acordate elevilor din județul Vaslui care sunt şcolarizaţi în altă localitate decât cea de domiciliu și care nu beneficiază de existența serviciilor de transport public 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr14_2024.pdf",
+     "sha256": "ab16481e5689ba51a61bbe9080a4187a0a87c2acc8ddea54cb8a24d2283d8489"
     }
    ]
   },
@@ -33,6 +558,66 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-141-2024",
+   "path": "local/judet/vaslui/2024/141",
+   "short": "HCJ Vaslui nr. 141/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 141/2024 privind aprobarea documentației tehnico-economice (faza D.A.L.I.) și a indicatorilor tehnico-economici pentru obiectivul de investiții < < Reabilitarea monumentului istoric ”Podul Doamnei”, comuna Costești, județul Vaslui > > 20 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr141_2024.pdf",
+     "sha256": "e2e58f0e09fba5fa7ce3a01d8bb946d82d1706226a9e605ef388e6be8fe3e608"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-142-2024",
+   "path": "local/judet/vaslui/2024/142",
+   "short": "HCJ Vaslui nr. 142/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 142/2024 privind aprobarea depunerii proiectului << Reabilitarea monumentului istoric ”Podul Doamnei”, comuna Costești, județul Vaslui > >, a cheltuielilor legate de proiect și a încheierii unui acord de parteneriat 20 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr142_2024.pdf",
+     "sha256": "0589ffb20506e5fe01749703f39efb8034936d2499d8f5102906333ab5d5111e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-143-2024",
+   "path": "local/judet/vaslui/2024/143",
+   "short": "HCJ Vaslui nr. 143/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 143/2024 privind aprobarea extinderii suprafeței construite aferente obiectivului de investiție ,,Modernizare, extindere bloc operator și lucrări de completare a măsurilor de securitate la incendiu în corpul C al Spitalului Județean de Urgență Vaslui” 20 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr143_2024.pdf",
+     "sha256": "c12fed2bbcbf7ef40e85fba85dc584599f03e552569f6b86b1c962fab3d5f278"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-144-2024",
+   "path": "local/judet/vaslui/2024/144",
+   "short": "HCJ Vaslui nr. 144/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 144/2024 pentru modificarea, pe perioadă determinată, a Programului de transport public judeţean de persoane prin curse regulate, în Județul Vaslui, pentru perioada 2022-2032, aferent traseului 2401 BÂRLAD - BRĂDEȘTI 20 septembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr144_2024.pdf",
+     "sha256": "2acf49f9fc8678db21af1831c9f756523c3e929918639bfccdfdf67fa77194c8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-147-2024",
    "path": "local/judet/vaslui/2024/147",
    "short": "HCJ Vaslui nr. 147/2024",
@@ -48,6 +633,51 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-148-2024",
+   "path": "local/judet/vaslui/2024/148",
+   "short": "HCJ Vaslui nr. 148/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 148/2024 privind aprobarea Regulamentului de organizare și funcționare a Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 01 octombrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr148_2024.pdf",
+     "sha256": "4ccdbc5bac37a37f4721b3297efde177a12dd39a06d2d717ff0426da96420240"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-15-2024",
+   "path": "local/judet/vaslui/2024/15",
+   "short": "HCJ Vaslui nr. 15/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 15/2024 privind aprobarea valorii cotizației Județului Vaslui, în calitate de membru al Asociației pentru Dezvoltare Intercomunitară a județului Vaslui (A.D.I.V.), pentru anul 2024 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr15_2024.pdf",
+     "sha256": "35a0804be745c7d848fc8cd8588f9e56fdc1857aad8eff49365dd52110d3b367"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-150-2024",
+   "path": "local/judet/vaslui/2024/150",
+   "short": "HCJ Vaslui nr. 150/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 150/2024 privind aprobarea majorării cuantumului alocației de hrană pentru elevii Școlii Profesionale Speciale „Sfânta Ecaterina” Huși 01 octombrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr150_2024.pdf",
+     "sha256": "34b4d591dee8a5895000cc1499425b75b9db0a5e1aaf105a9227bef69ad6bd77"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-152-2024",
    "path": "local/judet/vaslui/2024/152",
    "short": "HCJ Vaslui nr. 152/2024",
@@ -59,6 +689,621 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr152_2024.pdf",
      "sha256": "abf4b88eb4aec9f871807617c0c3f9d5d9675dfeec9b535438cda3594d802916"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-153-2024",
+   "path": "local/judet/vaslui/2024/153",
+   "short": "HCJ Vaslui nr. 153/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 153/2024 privind modificarea alineatelor (1) și (2) ale art.2 din Hotărârea Consiliului Județean Vaslui nr.125/2024 pentru aprobarea proiectului „Axa rutieră strategică Sud - Vest a județului Vaslui” și a cheltuielilor legate de proiect 01 octombrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr153_2024.pdf",
+     "sha256": "be8cf8ae67dfe42042f2cd2635b7c676277ca5c8aaad7b3beedf5b054e97881b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-154-2024",
+   "path": "local/judet/vaslui/2024/154",
+   "short": "HCJ Vaslui nr. 154/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 154/2024 privind aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare a Centrului Cultural Județean Vaslui 09 octombrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr154_2024.pdf",
+     "sha256": "8ce799ea7ff069c2baaa6315d541ee311638315e372ec1a60ab701191133777a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-155-2024",
+   "path": "local/judet/vaslui/2024/155",
+   "short": "HCJ Vaslui nr. 155/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 155/2024 privind aprobarea înființării Centrului Respiro pentru Persoane Adulte cu Dizabilități (CRes) Mărășeni și a Centrului de Criză pentru Persoane Adulte cu dizabilități (CCdz) Bălești în structuraDirecţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui, precum și aRegulamentelor de organizare și funcționare ale acestora 09 octombrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr155_2024.pdf",
+     "sha256": "ebcdd9eae40072790a8b64147dcce7a34940087fd75bb8e3ec068b4b3326b70f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-156-2024",
+   "path": "local/judet/vaslui/2024/156",
+   "short": "HCJ Vaslui nr. 156/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 156/2024 pentru modificarea unor anexe la Hotărârea Consiliului Județean Vaslui nr.109/2024 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Vaslui, cu modificările și completările ulterioare 09 octombrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr156_2024.pdf",
+     "sha256": "a0a54625e28da3621780350349128d743fdbed0510afe0f7bf8eead47d3d3f5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-157-2024",
+   "path": "local/judet/vaslui/2024/157",
+   "short": "HCJ Vaslui nr. 157/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 157/2024 privind rectificarea a VIa a bugetului local al Județului Vaslui pe anul 2024 09 octombrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr157_2024.pdf",
+     "sha256": "282c93ffd6edcc6ad0c7ee210a2001372e254209fe96da75bf21912ea37199cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-159-2024",
+   "path": "local/judet/vaslui/2024/159",
+   "short": "HCJ Vaslui nr. 159/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 159/2024 privind aprobarea încheierii unui act adițional la Acordul de parteneriat nr.4379/17.03.2023, încheiat înscopul realizării proiectului „BiblioHub Vaslui” 09 octombrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr159_2024.pdf",
+     "sha256": "1391ecae4f9847a100d4c53bba4d092eef5abfe8bd99c6766370b668d434554a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-16-2024",
+   "path": "local/judet/vaslui/2024/16",
+   "short": "HCJ Vaslui nr. 16/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 16/2024 privind aprobarea contribuției financiare a Județului Vaslui",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr16_2024.pdf",
+     "sha256": "6bd60d6ed2b8ed3cc95c027a0ccad34f718a3bf425890a358ec37d2af697d844"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-160-2024",
+   "path": "local/judet/vaslui/2024/160",
+   "short": "HCJ Vaslui nr. 160/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 160/2024 privind aprobarea Studiului de fezabilitate pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui”, a indicatorilor tehnico-economici ai proiectului și a părții din cota de cofinanțare a cheltuielilor eligibile ale proiectului, aferenți Etapei I Conținutul anexei nr.1 poate fi studiat la sediul Consiliului Județean Vaslui, cam 418. 29 octombrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr160_2024.pdf",
+     "sha256": "f592a9c727452e78b945d22fe0893ea19a06bbcb5732ee6a61d77f4181b33d33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-161-2024",
+   "path": "local/judet/vaslui/2024/161",
+   "short": "HCJ Vaslui nr. 161/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 161/2024 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui 22 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr161_2024.pdf",
+     "sha256": "05916de7fa521581aa627ad67af5997f8096d2abd2175aa642f450797b55c256"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-164-2024",
+   "path": "local/judet/vaslui/2024/164",
+   "short": "HCJ Vaslui nr. 164/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 164/2024 privind aprobarea majorării cuantumului alocației zilnice de hrană pentru toate categoriile de beneficiari din sistemul rezidențial și din centrele de zi aparținând Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 27 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr164_2024.pdf",
+     "sha256": "9f42eaaeb746dc16f463d6eaa15c0e63a2bb3dbc28b3b6f3b171fcc08005797c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-165-2024",
+   "path": "local/judet/vaslui/2024/165",
+   "short": "HCJ Vaslui nr. 165/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 165/2024 privind rectificarea a VII-a a bugetului local al Județului Vaslui pe anul 2024 27 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr165_2024.pdf",
+     "sha256": "dce7350a72f17e80f99bf47d9078396c6d49f9e56a00bc93636b5b31978aa156"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-167-2024",
+   "path": "local/judet/vaslui/2024/167",
+   "short": "HCJ Vaslui nr. 167/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 167/2024 pentru completarea Anexei nr.11 la Hotărârea Consiliului Județean Vaslui nr.83/2023 privind aprobarea taxelor și tarifelor locale pentru anul fiscal 2024, care constituie venituri la bugetul local al județului și la bugetul instituțiilor subordonate, cu modificările și completările ulterioare 27 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr167_2024.pdf",
+     "sha256": "8f20d815de71091942628b9cab6ede20702b9bab65d37342a6ec4fdefe9e8f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-168-2024",
+   "path": "local/judet/vaslui/2024/168",
+   "short": "HCJ Vaslui nr. 168/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 168/2024 privind modificarea Hotărârii Consiliului Județean Vaslui nr.223/2023 pentru aprobarea prelungirii perioadei de implementare a proiectului ”Extindere Unitate de Primiri Urgențe și Realizare Heliport” și a cheltuielilor estimate legate de finalizarea acestuia 27 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr168_2024.pdf",
+     "sha256": "0d6e8386eb809e8ff090130e07b1208cc7de0a6b7850b0fb856601c0c05aff7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-169-2024",
+   "path": "local/judet/vaslui/2024/169",
+   "short": "HCJ Vaslui nr. 169/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 169/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr169_2024.pdf",
+     "sha256": "4f14e620472d58510e8d44c902478bd4c886cf4792bf9f97db350a29caf7e38c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-17-2024",
+   "path": "local/judet/vaslui/2024/17",
+   "short": "HCJ Vaslui nr. 17/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 17/2024 privind aprobarea contribuției financiare a Județului Vaslui, în calitate de membru al Adunării Regiunilor Europene, pentru anul 2024 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr17_2024.pdf",
+     "sha256": "dd9d1ebbf19a3021ce3eea10eefae7628d49a327a8bce6f80c104ae960672c2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-170-2024",
+   "path": "local/judet/vaslui/2024/170",
+   "short": "HCJ Vaslui nr. 170/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 170/2024 pentru modificarea anexelor nr.2 și nr.3 la Hotărârea Consiliului Județean Vaslui nr.179/2022 privind aprobarea documentației tehnico-economice (faza SF/DALI), a indicatorilor tehnico-economici, a devizului general pentru obiectivul de investiții \"Reabilitare și modernizare DJ 245L: DN 24 (Costești) – Puntișeni – Chițcani – Pârvești – Mănăstirea Pârvești\", aprobat pentru finanțare prin Programul n",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr170_2024.pdf",
+     "sha256": "3ec945aed1703df0b06f321ea62c02dc6d370338c2981d011b11249a0bb29c02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-171-2024",
+   "path": "local/judet/vaslui/2024/171",
+   "short": "HCJ Vaslui nr. 171/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 171/2024 pentru modificarea anexelor la Hotărârea Consiliului Județean Vaslui nr.164/2022 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"Reabilitare și modernizare drum județean DJ 242C: Limită județ Galați (Gara Docăneasa) - Limită județ Galați (Gara Tălășmani)\", aprobat pentru finanțare prin Programul național de investiții \"",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr171_2024.pdf",
+     "sha256": "7233ba0111c21c4d19152e19e3b8e9174240546837147b1d821dd55e30691d05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-172-2024",
+   "path": "local/judet/vaslui/2024/172",
+   "short": "HCJ Vaslui nr. 172/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 172/2024 privind aprobarea încheierii unui act adițional la Contractul de delegare a gestiunii Serviciului de administrare a domeniului public și privat - drumuri județene și rețele rutiere către Societatea ”Lucrări Drumuri și Poduri” S.A Vaslui nr. 29467/10.12.2023 27 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr172_2024.pdf",
+     "sha256": "8578d472a3569d61555935006d7169cb7b5157064800acd5bd1dc37762a1b7b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-173-2024",
+   "path": "local/judet/vaslui/2024/173",
+   "short": "HCJ Vaslui nr. 173/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 173/2024 pentru completarea Hotărârii Consiliului Județean Vaslui nr.161/2024 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui 09 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr173_2024.pdf",
+     "sha256": "7c4bd2f574155af958c8e38aaeb18a2a2e93b769379e3c7af5d9cfe726155045"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-175-2024",
+   "path": "local/judet/vaslui/2024/175",
+   "short": "HCJ Vaslui nr. 175/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 175/2024 privind modificarea Hotărârii Consiliului Județean Vaslui nr.232/2023 pentru aprobarea prelungirii perioadei de implementare a proiectului „Servicii sociale destinate persoanelor adulte cu dizabilități” cod SMIS 121847 - contract de finanțare nr.3553/13.12.2018 și a cheltuielilor estimate legate de finalizarea acestuia 09 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr175_2024.pdf",
+     "sha256": "975cf906617608b5b98ed88abf2d152f55dc7eb98902077bc8178fb638e3712d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-176-2024",
+   "path": "local/judet/vaslui/2024/176",
+   "short": "HCJ Vaslui nr. 176/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 176/2024 privind modificarea Hotărârii Consiliului Județean Vaslui nr.233/2023 pentru aprobarea prelungirii perioadei de implementare a proiectului „Servicii sociale integrate pentru persoane adulte cu dizabilități” cod SMIS 121848 - contract de finanțare nr. 3324/17.10.2018 și a cheltuielilor estimate legate de finalizarea acestuia 09 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr176_2024.pdf",
+     "sha256": "d7ab0edc576505858d6aba96aab4210ee093f35f36e46ced6a75f9e8e2a160ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-177-2024",
+   "path": "local/judet/vaslui/2024/177",
+   "short": "HCJ Vaslui nr. 177/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 177/2024 pentru aprobarea proiectului „Modernizare, extindere bloc operator și lucrări de completare a măsurilor de securitate la incendiu în corpul C (C1 conform C.F.) al Spitalului Județean de Urgență Vaslui” și a cheltuielilor legate de proiect 09 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr177_2024.pdf",
+     "sha256": "d6167e8114096103f8230b5ea1025ef840a79f71c8f8c6e191f51bed58c63629"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-178-2024",
+   "path": "local/judet/vaslui/2024/178",
+   "short": "HCJ Vaslui nr. 178/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 178/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr178_2024.pdf",
+     "sha256": "57c787c2d03f75c413a02fec75a4a5695e726de01485d643c29711f948b59af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-179-2024",
+   "path": "local/judet/vaslui/2024/179",
+   "short": "HCJ Vaslui nr. 179/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 179/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr179_2024.pdf",
+     "sha256": "82fca1bd7545cb13370feb91fdbebc636b2c39623f648400d3fb22d097dc9d9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-18-2024",
+   "path": "local/judet/vaslui/2024/18",
+   "short": "HCJ Vaslui nr. 18/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 18/2024 privind aprobarea contribuției financiare a Județului Vaslui",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr18_2024.pdf",
+     "sha256": "7ac3b2faa611a2641c92f11062595d0b6f9be97a1f67e0b5fb3f62fd3a4ef6ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-180-2024",
+   "path": "local/judet/vaslui/2024/180",
+   "short": "HCJ Vaslui nr. 180/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 180/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr180_2024.pdf",
+     "sha256": "15bfd68dff989291e9662fb19dafac7c7ac8f3af081999504a24075851742a1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-181-2024",
+   "path": "local/judet/vaslui/2024/181",
+   "short": "HCJ Vaslui nr. 181/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 181/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr181_2024.pdf",
+     "sha256": "cfce091155f100fc12a4cfcd460e4576b467f227145d2d1c6cf009076f60b4cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-182-2024",
+   "path": "local/judet/vaslui/2024/182",
+   "short": "HCJ Vaslui nr. 182/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 182/2024 pentru modificarea poziției nr.25 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.6/2024 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului ”Vasile Pârvan” Bârlad, cu modificările ulterioare 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr182_2024.pdf",
+     "sha256": "50d384a4b08cfdc2250177f90994cb45a60515abb73bf00fa27e275b7fb1433d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-183-2024",
+   "path": "local/judet/vaslui/2024/183",
+   "short": "HCJ Vaslui nr. 183/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 183/2024 pentru modificarea poziției nr.4 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.137/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului Județean “Ștefan cel Mare” Vaslui, cu modificările ulterioare 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr183_2024.pdf",
+     "sha256": "0d807cbd85283b3c0b235b4f0f766af9647c33b660e46b88d686950351ceaad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-184-2024",
+   "path": "local/judet/vaslui/2024/184",
+   "short": "HCJ Vaslui nr. 184/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 184/2024 pentru modificarea poziției nr.7 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.154/2024 privind aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare al Centrului Cultural Județean Vaslui 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr184_2024.pdf",
+     "sha256": "6c65eafd4544de9e204b1ac91ba85ca10cc4bb486e280b290063f95f18aee939"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-186-2024",
+   "path": "local/judet/vaslui/2024/186",
+   "short": "HCJ Vaslui nr. 186/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 186/2024 pentru modificarea anexei nr.2 la Hotărârea Consiliului Județean Vaslui nr.91/2023 privind stabilirea salariilor de bază pentru funcționarii publici și pentru personalul contractual din familia ocupațională ”Administrație” din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr186_2024.pdf",
+     "sha256": "ce7614e3ec490dd9b8ec4d8e5ad2acdd6521f68a0cfe47b2cdd945c7df6185ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-187-2024",
+   "path": "local/judet/vaslui/2024/187",
+   "short": "HCJ Vaslui nr. 187/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 187/2024 pentru modificarea anexei nr.2 la Hotărârea Consiliului Județean Vaslui nr.92/2023 privind stabilirea salariilor de bază pentru funcționarii publici și pentru personalul contractual din familia ocupațională ”Administrație” din cadrul Direcției Județene de Evidență a Persoanelor Vaslui, cu modificările ulterioare 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr187_2024.pdf",
+     "sha256": "c148289ca88f638ab7367588b3d3f323c74327127d16b63a9fc742488baf9435"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-188-2024",
+   "path": "local/judet/vaslui/2024/188",
+   "short": "HCJ Vaslui nr. 188/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 188/2024 pentru modificarea anexei nr.2 la Hotărârea Consiliului Județean Vaslui nr.93/2023 privind stabilirea salariilor de bază pentru funcționarii publici și pentru personalul contractual din cadrul aparatului de specialitate al Consiliului Județean Vaslui 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr188_2024.pdf",
+     "sha256": "a893bfc897ffe42ed4b4da107e5d86c51078fb79b5f7dc4a1d4afb328c1e4409"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-19-2024",
+   "path": "local/judet/vaslui/2024/19",
+   "short": "HCJ Vaslui nr. 19/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 19/2024 privind aprobarea cuantumului și a plății cotizației către Uniunea Națională a Consiliilor Județene din România, pentru anul 2024 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr19_2024.pdf",
+     "sha256": "3909afebe5b7ceb0a547edff042eaa868aa7bcabc48810e0e623658d646c4ef7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-190-2024",
+   "path": "local/judet/vaslui/2024/190",
+   "short": "HCJ Vaslui nr. 190/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 190/2024 privind aprobarea contului de execuţie al bugetului local al Judeţului Vaslui, al bugetului instituţiilor publice și activităţilor finanţate integral sau parţial din venituri proprii, al bugetului fondurilor externe nerambursabile și al bugetului împrumutului intern pentru perioada 01.01.2024 – 30.09.2024 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr190_2024.pdf",
+     "sha256": "2d8a18c25c6d43f6dac84b1fb69f6cbf6eb489eee65692a2a2596f291b96f0e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-191-2024",
+   "path": "local/judet/vaslui/2024/191",
+   "short": "HCJ Vaslui nr. 191/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 191/2024 privind aprobarea taxelor și tarifelor locale pentru anul fiscal 2025, care constituie venituri la bugetul local al județului și la bugetul instituțiilor subordonate 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr191_2024.pdf",
+     "sha256": "d2251e963f8cc6bc39810ea62a945a36d1a32360ebe0b8e4fe48b2cd563a3b22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-192-2024",
+   "path": "local/judet/vaslui/2024/192",
+   "short": "HCJ Vaslui nr. 192/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 192/2024 privind acordarea unui sprijin financiar pentru zece unități de cult din județul Vaslui 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr192_2024.pdf",
+     "sha256": "eb4314bea8bc8ae5c8668a11bd66c3225c6f505505eec02576f7627d261492ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-193-2024",
+   "path": "local/judet/vaslui/2024/193",
+   "short": "HCJ Vaslui nr. 193/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 193/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr193_2024.pdf",
+     "sha256": "1037cade85c8d3d7e36a0cc67e0b4e44278a77732d8505f599df71b06f1a6ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-194-2024",
+   "path": "local/judet/vaslui/2024/194",
+   "short": "HCJ Vaslui nr. 194/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 194/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr194_2024.pdf",
+     "sha256": "ea36ccbcfe07cb64f46f3c97c1640a1fe6893bf1b74eb8b34979b93f770af084"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-195-2024",
+   "path": "local/judet/vaslui/2024/195",
+   "short": "HCJ Vaslui nr. 195/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 195/2024 privind aprobarea transmiterii în folosință gratuită pe termen limitat a bunurilor mobile achiziționate în cadrul proiectului ”Reabilitare, modernizare și dotare Școala Profesională Specială „Sfânta Ecaterina” Huși” către Școala Profesională Specială \"Sfânta Ecaterina\" Huși 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr195_2024.pdf",
+     "sha256": "00aeb9c9aee2a8fe47a8790a92bf83481de46ce029d82e2c60c2cba0c4220d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-196-2024",
+   "path": "local/judet/vaslui/2024/196",
+   "short": "HCJ Vaslui nr. 196/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 196/2024 privind aprobarea concesionării, prin licitație publică, a unui imobil cu destinația de cabinet medical stomatologic, aflat în domeniul public al Județului Vaslui și în administrarea Centrului de Asistență Medico-Socială (CAMS) Codăești 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr196_2024.pdf",
+     "sha256": "314cd3aa1e46c8443acbd05db95b4390fa1cbe6f718aebffb707a0d12a40d5b8"
     }
    ]
   },
@@ -93,6 +1338,576 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-199-2024",
+   "path": "local/judet/vaslui/2024/199",
+   "short": "HCJ Vaslui nr. 199/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 199/2024 privind retragerea dreptului de administrare al Direcției Generale de Asistență Socială și Protecția Copilului Vaslui asupra a două locuințe de serviciu și transmiterea acestora în administrarea Muzeului „Vasile Pârvan” Bârlad 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr199_2024.pdf",
+     "sha256": "32abc572866cff1fcec212ee5d89c4c349fc35daf4e10e455451af49ae650814"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-20-2024",
+   "path": "local/judet/vaslui/2024/20",
+   "short": "HCJ Vaslui nr. 20/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 20/2024 privind aprobarea organizării rețelei școlare de învățământ special din Județul Vaslui pentru anul școlar 2024 - 2025 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr20_2024.pdf",
+     "sha256": "09ae0195fd5f7d82580ab1cc7e18be388407f9b43cc26e342113d13af69ca0f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-200-2024",
+   "path": "local/judet/vaslui/2024/200",
+   "short": "HCJ Vaslui nr. 200/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 200/2024 privind aprobarea organizării rețelei școlare de învățământ special din Județul Vaslui pentru anul școlar 2025 - 2026 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr200_2024.pdf",
+     "sha256": "1ce29adf0ab42c2cfa4671056f7d3aa9ea08478e97e139b88e21043c461de32c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-201-2024",
+   "path": "local/judet/vaslui/2024/201",
+   "short": "HCJ Vaslui nr. 201/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 201/2024 pentru aprobarea încheierii Protocolului de colaborare între Ministerul Apărării Naționale și",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr201_2024.pdf",
+     "sha256": "276709d97999ce004a8aaf3b80faa228d8966bf53e7f3c7d64c313ec8b7934b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-203-2024",
+   "path": "local/judet/vaslui/2024/203",
+   "short": "HCJ Vaslui nr. 203/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 203/2024 pentru aprobarea proiectului „Dezvoltarea unei platforme standardizate pentru interacțiunea digitală cu beneficiarii Consiliului Județean Vaslui” și a cheltuielilor legate de proiect 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr203_2024.pdf",
+     "sha256": "5f044bdb6aa60ae0bc70afad9891bdbf559a8e4d6d2d172cd55bf7e8996585af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-204-2024",
+   "path": "local/judet/vaslui/2024/204",
+   "short": "HCJ Vaslui nr. 204/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 204/2024 pentru aprobarea încheierii unui protocol între Administrația Națională „Apele Române” și Județul Vaslui 19 decembrie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr204_2024.pdf",
+     "sha256": "318e3394fdbc46ff91cdba4c1cab8e752d6e741d37607c162d812d6745c5ae37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-21-2024",
+   "path": "local/judet/vaslui/2024/21",
+   "short": "HCJ Vaslui nr. 21/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 21/2024 privind desemnarea reprezentantului Consiliului Județean Vaslui în Consiliul de administrație al Centrului Județean de Resurse și Asistență Educațională Vaslui 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr21_2024.pdf",
+     "sha256": "76a70b7523c557d0a74d02aa13ff3eeb769465872b09b8994d1615b10aa63fff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-22-2024",
+   "path": "local/judet/vaslui/2024/22",
+   "short": "HCJ Vaslui nr. 22/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 22/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr22_2024.pdf",
+     "sha256": "89442dd3fe5ac1625d31c13335f7a2fab7b3264804364358d5b441d686cd96ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-23-2024",
+   "path": "local/judet/vaslui/2024/23",
+   "short": "HCJ Vaslui nr. 23/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 23/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr23_2024.pdf",
+     "sha256": "983f401c739e99c32973412e22a110697bcb245b81e44abec56fe231daafc900"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-24-2024",
+   "path": "local/judet/vaslui/2024/24",
+   "short": "HCJ Vaslui nr. 24/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 24/2024 privind desemnarea reprezentanților Consiliului Județean Vaslui în Consiliul de administrație al Școlii Profesionale Speciale ”Sfânta Ecaterina” Huși 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr24_2024.pdf",
+     "sha256": "ee15b6c27fc163fd5867f3791163def4bfbb9cddfc2d55a2e77ec1a3966bf159"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-25-2024",
+   "path": "local/judet/vaslui/2024/25",
+   "short": "HCJ Vaslui nr. 25/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 25/2024 privind desemnarea reprezentanților Consiliului Județean Vaslui în Consiliul de administrație al Muzeului ”Vasile Pârvan” Bârlad 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr25_2024.pdf",
+     "sha256": "9df0ffebc2fe0d29d3711ca13c38d413d5c99857931cd310789a2480eaeded0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-26-2024",
+   "path": "local/judet/vaslui/2024/26",
+   "short": "HCJ Vaslui nr. 26/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 26/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr26_2024.pdf",
+     "sha256": "06cf26fe9462ccaf3ea44fddd1dc9c10d58a834d8777abb08b756eea17d8f909"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-27-2024",
+   "path": "local/judet/vaslui/2024/27",
+   "short": "HCJ Vaslui nr. 27/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 27/2024 privind desemnarea reprezentantului Consiliului Județean Vaslui în Consiliul consultativ al Centrului de Asistență Medico-Socială Băcești 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr27_2024.pdf",
+     "sha256": "914b98fa7aacd7d653b575cebc109d65c13ad24f41ce5e446d73e4c494820b98"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-28-2024",
+   "path": "local/judet/vaslui/2024/28",
+   "short": "HCJ Vaslui nr. 28/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 28/2024 privind desemnarea reprezentantului Consiliului Județean Vaslui în Comisia de Orientare Școlară și Profesională din cadrul Centrului Județean de Resurse și Asistență Educațională Vaslui 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr28_2024.pdf",
+     "sha256": "20c3dc85641df44a1cc1f00523303ed44eef9a8674aed2bcff2ed9921d7613b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-29-2024",
+   "path": "local/judet/vaslui/2024/29",
+   "short": "HCJ Vaslui nr. 29/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 29/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr29_2024.pdf",
+     "sha256": "ad4ea35735e34585488cee0e233f4782daabc955bbb657efb92f45bd595fe382"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-30-2024",
+   "path": "local/judet/vaslui/2024/30",
+   "short": "HCJ Vaslui nr. 30/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 30/2024 privind desemnarea unui consilier județean ca membru al Autorității Teritoriale de Ordine Publică Vaslui 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr30_2024.pdf",
+     "sha256": "5513a04a3de0f2a0971fd538383985de0ddc19ca3f1ff28a202154ea3a26bcec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-31-2024",
+   "path": "local/judet/vaslui/2024/31",
+   "short": "HCJ Vaslui nr. 31/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 31/2024 privind actualizarea componenței nominale a membrilor Autorității Teritoriale de Ordine Publică Vaslui 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr31_2024.pdf",
+     "sha256": "4ee92deea307cc3a9304a0cd6d5533888632f8ba7640af501da543cdb9253241"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-32-2024",
+   "path": "local/judet/vaslui/2024/32",
+   "short": "HCJ Vaslui nr. 32/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 32/2024 pentru modificarea poziției nr.25 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.243/2023 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Direcției Județene de Evidență a Persoanelor Vaslui 09 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr32_2024.pdf",
+     "sha256": "5b9ef3e5c6ac6ec1de01438cf9a2e3f57880162bba77ed701ed0e64cb010eb26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-33-2024",
+   "path": "local/judet/vaslui/2024/33",
+   "short": "HCJ Vaslui nr. 33/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 33/2024 privind aprobarea valorii cotizației Județului Vaslui, în calitate de membru al Asociației pentru Dezvoltare Intercomunitară de Utilități Publice pentru Serviciul de Alimentare cu Apă și de Canalizare din Municipiile Vaslui, Bârlad, Huși și Orașul Negrești-județul Vaslui (APC VASLUI), pentru anul 2024 09 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr33_2024.pdf",
+     "sha256": "ffd34b1d1c1aeaf5159fa740d9e09e6512e7e1cbf6f5c3615b13263a43c6f744"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-35-2024",
+   "path": "local/judet/vaslui/2024/35",
+   "short": "HCJ Vaslui nr. 35/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 35/2024 privind aprobarea bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii pe anul 2024 și a estimărilor pe anii 2025-2027 09 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr35_2024.pdf",
+     "sha256": "3abe1d75148a26b14cab2f5a5b541d7695d504eea2718d90dffc675ef84078c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-36-2024",
+   "path": "local/judet/vaslui/2024/36",
+   "short": "HCJ Vaslui nr. 36/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 36/2024 privind aprobarea bugetului creditului intern pe anul 2024 și a estimărilor pe anii 2025 - 2027 09 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr36_2024.pdf",
+     "sha256": "c2b116d9fdcdabcc15848fa66caf682e6db1dcfc9b9781bb1b148535a75ea82e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-37-2024",
+   "path": "local/judet/vaslui/2024/37",
+   "short": "HCJ Vaslui nr. 37/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 37/2024 privind aprobarea bugetului fondurilor externe nerambursabile pe anul 2024 și a estimărilor pe anii 2025 - 2027 09 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr37_2024.pdf",
+     "sha256": "55fd81b86c9bf7eee809cb73c1a57e38680d6583a1f9668875890546045dd6ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-38-2024",
+   "path": "local/judet/vaslui/2024/38",
+   "short": "HCJ Vaslui nr. 38/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 38/2024 privind aprobarea bugetului de venituri şi cheltuieli al Societăţii \"Lucrări Drumuri şi Poduri\" S.A",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr38_2024.pdf",
+     "sha256": "906dbef1ab1f4c87b2ac055c5020863e55d85cd787af4c21983fb0ca957555db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-39-2024",
+   "path": "local/judet/vaslui/2024/39",
+   "short": "HCJ Vaslui nr. 39/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 39/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr39_2024.pdf",
+     "sha256": "d45b3993564cd018d2e2f462d481b2ee0890939961d1556bebcf83a974ff62ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-40-2024",
+   "path": "local/judet/vaslui/2024/40",
+   "short": "HCJ Vaslui nr. 40/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 40/2024 privind exploatarea și distribuirea gratuită a 45,49 mc masă lemnoasă 09 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr40_2024.pdf",
+     "sha256": "86fb3179084aef2257ad81eb98780f4bb34e2dcba043430def628df415838524"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-41-2024",
+   "path": "local/judet/vaslui/2024/41",
+   "short": "HCJ Vaslui nr. 41/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 41/2024 pentru modificarea unor anexe la Hotărârea Consiliului Județean Vaslui nr.130/2019 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Vaslui, cu modificările și completările ulterioare 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr41_2024.pdf",
+     "sha256": "a9fcf80396190a7b4e3bd4d45bce37a04ce8ee01c7ead6d3f717dfadeb50ea6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-42-2024",
+   "path": "local/judet/vaslui/2024/42",
+   "short": "HCJ Vaslui nr. 42/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 42/2024 pentru modificarea anexei nr. 4 la Hotărârea Consiliului Județean Vaslui nr.90/2023 privind aprobarea reorganizării unor complexuri de servicii comunitare din structura Direcției Generale de Asistență Socială și Protecția Copilului Vaslui și a regulamentelor de organizare și funcționare a acestora 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr42_2024.pdf",
+     "sha256": "04a53e20e73971cb1997e4524ea16cc4340da05a37c408940c409103ddd9b6e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-43-2024",
+   "path": "local/judet/vaslui/2024/43",
+   "short": "HCJ Vaslui nr. 43/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 43/2024 pentru modificarea anexei nr. 2 la Hotărârea Consiliului Județean Vaslui nr.149/2023 privind aprobarea înființării unui centru de zi pentru persoane adulte cu dizabilități și a trei complexuri de locuințe protejate pentru persoane adulte cu dizabilități în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor de organizare și funcționare a aces",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr43_2024.pdf",
+     "sha256": "3ea3c893b0d9d981a1130b3d1338c7a0ce134c4503d39823a7563d3ee6050018"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-44-2024",
+   "path": "local/judet/vaslui/2024/44",
+   "short": "HCJ Vaslui nr. 44/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 44/2024 pentru aprobarea Planului de acțiune pentru anul 2024 privind serviciile sociale administrate și finanțate din bugetul Județului Vaslui 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr44_2024.pdf",
+     "sha256": "3a93ed43d9fcb6d31104913c2708bde1fb7819c3c44f44872c4561fac0343349"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-45-2024",
+   "path": "local/judet/vaslui/2024/45",
+   "short": "HCJ Vaslui nr. 45/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 45/2024 pentru modificarea a cinci poziții din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.137/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului Județean “Ștefan cel Mare” Vaslui, cu modificările ulterioare 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr45_2024.pdf",
+     "sha256": "b46151bb2069d465cc73fb77cce4f6e2c04ba8a2e7b2972e9b5bf875aca772b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-46-2024",
+   "path": "local/judet/vaslui/2024/46",
+   "short": "HCJ Vaslui nr. 46/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 46/2024 pentru modificarea anexei nr.1 la Hotărârea Consiliului Județean Vaslui nr.92/2023 privind stabilirea salariilor de bază pentru funcționarii publici și pentru personalul contractual din familia ocupațională ”Administrație” din cadrul Direcției Județene de Evidență a Persoanelor Vaslui 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr46_2024.pdf",
+     "sha256": "7a4615aa43f0c944f176367a1a4614f1922ef000811eec7d00f8f0b949e34715"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-47-2024",
+   "path": "local/judet/vaslui/2024/47",
+   "short": "HCJ Vaslui nr. 47/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 47/2024 privind aprobarea Acordului colectiv și a Contractului colectiv de muncă negociate cu salariații din cadrul aparatului de specialitate al Consiliului Județean Vaslui 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr47_2024.pdf",
+     "sha256": "497d16719b1166742730b85a6da37befc7c17f9e092837f4b8be3be1683d4d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-48-2024",
+   "path": "local/judet/vaslui/2024/48",
+   "short": "HCJ Vaslui nr. 48/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 48/2024 pentru modificarea Hotărârii Consiliului Județean Vaslui nr.162/2023 privind aprobarea documentației tehnico-economice (faza DALI) pentru obiectivul de investiții \"REABILITARE ŞI MODERNIZARE DJ 244 K: DN 24 (MUNTENII DE SUS) – TANACU – BĂLŢAŢI –CRĂSNĂŞENI – LEOŞTI – VINEŢEŞTI – OLTENEŞTI – ZGURA, L = 19,000 KM”, a devizului general și a indicatorilor tehnico-economici pentru Loturile nr.2 și nr.3",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr48_2024.pdf",
+     "sha256": "617fa7ebb9ee507d8b5126d3e5c3182b73eff0dd1f046587a19746c2f556152c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-49-2024",
+   "path": "local/judet/vaslui/2024/49",
+   "short": "HCJ Vaslui nr. 49/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 49/2024 privind aprobarea Notei Conceptuale și a Temei de Proiectare aferente obiectivului de investiție „Sistem de panouri fotovoltaice la Spitalul Județean de Urgentă Vaslui” 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr49_2024.pdf",
+     "sha256": "8127a9e68a80da04237cb643307b5a6c79a642b102e64ec47e58fd716ffc9296"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-50-2024",
+   "path": "local/judet/vaslui/2024/50",
+   "short": "HCJ Vaslui nr. 50/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 50/2024 privind aprobarea documentației tehnico-economice (faza Studiu de fezabilitate) și a indicatorilor tehnico-economici aferenți obiectivului de investiții „Sistem de panouri fotovoltaice la Spitalul Județean de Urgență Vaslui” 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr50_2024.pdf",
+     "sha256": "50b65d3ad61e2e4bed0519f0d6917e15aebe736440672cbc55b5ec84c0e5dccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-51-2024",
+   "path": "local/judet/vaslui/2024/51",
+   "short": "HCJ Vaslui nr. 51/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 51/2024 pentru aprobarea proiectului „Sistem de panouri fotovoltaice la Spitalul Județean de Urgență Vaslui” și a cheltuielilor legate de proiect 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr51_2024.pdf",
+     "sha256": "525f04c184e59f7ec130f1c7097a05a95740e05c7c0a2ae7ab49435a92282da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-52-2024",
+   "path": "local/judet/vaslui/2024/52",
+   "short": "HCJ Vaslui nr. 52/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 52/2024 pentru aprobarea implementării proiectului „SMART PENTRU MESERIILE VIITORULUI”, cod F-PNRR-SmartLabs-2023-2634, în cadrul apelului „Dotarea cu laboratoare inteligente a unităților de învățământ secundar superior, a palatelor și a cluburilor copiilor”, finanțat din PNRR/Pilonul VI: Politici pentru noua generație/Componenta C15: Educație/Reforma 5",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr52_2024.pdf",
+     "sha256": "0de9d8585e30a9d2db74053afdff41df0ab6da17ccc5f305327d8b84f2077752"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-53-2024",
+   "path": "local/judet/vaslui/2024/53",
+   "short": "HCJ Vaslui nr. 53/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 53/2024 privind acordarea unui mandat special reprezentantului Județului Vaslui în Adunarea Generală a Asociației pentru Dezvoltare Intercomunitară a județului Vaslui (ADIV) 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr53_2024.pdf",
+     "sha256": "e4841ff527386f9b4be7f024a761ff222fa749753806e1f0549a71fa1ad3ff0c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-54-2024",
    "path": "local/judet/vaslui/2024/54",
    "short": "HCJ Vaslui nr. 54/2024",
@@ -119,6 +1934,111 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr55_2024.pdf",
      "sha256": "4be9e02030bec450235259151bf0feb44167451376dec72f4745dd32587c2235"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-56-2024",
+   "path": "local/judet/vaslui/2024/56",
+   "short": "HCJ Vaslui nr. 56/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 56/2024 privind aprobarea alocării sumei de 120.000 lei din bugetul local al Județului Vaslui pentru finanțarea olimpiadelor școlare pe discipline, faza județeană, pentru anul școlar 2023-2024 01 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr56_2024.pdf",
+     "sha256": "8ed358d9176e035dd1e7afca1fd47f3ce9b95e80d5ff094403250ae557afac2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-57-2024",
+   "path": "local/judet/vaslui/2024/57",
+   "short": "HCJ Vaslui nr. 57/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 57/2024 pentru modificarea și completarea Hotărârii Consiliului Județean Vaslui nr.13/2014 privind solicitarea transmiterii unei părți din imobilul 1563, situat în localitatea Muntenii de Jos, județul Vaslui, din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al județului Vaslui și în administrarea Consiliului Județean Vaslui, cu modificările și complet",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr57_2024.pdf",
+     "sha256": "fc3400c9256c3f42907e168f19f8b65b3bc4153968bd5efa3f3e0ae620c25c57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-58-2024",
+   "path": "local/judet/vaslui/2024/58",
+   "short": "HCJ Vaslui nr. 58/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 58/2024 privind repartizarea unei sume către Comuna Coroiești pentru implementarea Programului pentru Școli al României în anul școlar 2023-2024 18 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr58_2024.pdf",
+     "sha256": "dc4f2f31800eaff6b345393b1de73af8c2afb84cbfb10f38889cdbfee45264b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-59-2024",
+   "path": "local/judet/vaslui/2024/59",
+   "short": "HCJ Vaslui nr. 59/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 59/2024 privind rectificarea bugetului local al Județului Vaslui pe anul 2024 18 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr59_2024.pdf",
+     "sha256": "8002fa33f3c051b2e0e38ee27f664a024533720f2e19848897d7491bc0d86db4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-61-2024",
+   "path": "local/judet/vaslui/2024/61",
+   "short": "HCJ Vaslui nr. 61/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 61/2024 privind repartizarea fondului rămas la dispoziția Consiliului Județean Vaslui din impozitul pe venit pentru anul 2024 către unitatea administrativ-teritorială Municipiul Huși 25 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr61_2024.pdf",
+     "sha256": "613f9560672d1658cb5dcd7c0fc7425730107c32481563dd88446dfa8a7ab74e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-62-2024",
+   "path": "local/judet/vaslui/2024/62",
+   "short": "HCJ Vaslui nr. 62/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 62/2024 pentru modificarea anexei nr.3 la Hotărârea Consiliului Județean Vaslui nr. 83/2023 privind aprobarea taxelor și tarifelor locale pentru anul fiscal 2024, care constituie venituri la bugetul local al Județului și la bugetul instituțiilor subordonate 25 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr62_2024.pdf",
+     "sha256": "67d913570d47a9d2efba9d6b914382f87c83348207526ecd3cde50b8f40e6164"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-63-2024",
+   "path": "local/judet/vaslui/2024/63",
+   "short": "HCJ Vaslui nr. 63/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 63/2024 privind trecerea din domeniul public al Județului Vaslui în domeniul privat al acestuia a unor mijloace fixe aflate în administrarea Spitalului Județean de Urgență Vaslui, în vederea scoaterii din funcţiune, casării sau demolării 25 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr63_2024.pdf",
+     "sha256": "1d0319b6ed6990d2f396fa16d5123fa55670a980bd602f01aaf4085d680d8cbb"
     }
    ]
   },
@@ -168,6 +2088,246 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-67-2024",
+   "path": "local/judet/vaslui/2024/67",
+   "short": "HCJ Vaslui nr. 67/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 67/2024 pentru modificarea și completarea anexei nr.5 la Hotărârea Consiliului Județean Vaslui nr.83/2023 privind aprobarea taxelor și tarifelor locale pentru anul fiscal 2024, care constituie venituri la bugetul local al județului și la bugetul instituțiilor subordonate 25 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr67_2024.pdf",
+     "sha256": "b0d63c1e45175f96a0cba23efcd85d01460a2dc7b18bcb5480263d30ecde6b22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-68-2024",
+   "path": "local/judet/vaslui/2024/68",
+   "short": "HCJ Vaslui nr. 68/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 68/2024 privind rectificarea a II-a a bugetului local al Județului Vaslui pe anul 2024 25 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr68_2024.pdf",
+     "sha256": "7aaa02bf21d7fe1d81a4013c5489f2d463bcfe23215fbf45eb7f657ba7d2e893"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-69-2024",
+   "path": "local/judet/vaslui/2024/69",
+   "short": "HCJ Vaslui nr. 69/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 69/2024 privind desemnarea reprezentanților Consiliului Județean Vaslui în Consiliul de administrație al Muzeului Județean ”Ștefan cel Mare” Vaslui 25 martie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr69_2024.pdf",
+     "sha256": "e4e0e75807225329ddb9520933e1a7bc5a204c62f0167dd7ec5852f7282f0c44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-70-2024",
+   "path": "local/judet/vaslui/2024/70",
+   "short": "HCJ Vaslui nr. 70/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 70/2024 privind aprobarea încheierii unui Acord de parteneriat între Județul Vaslui și Centrul Județean de Excelență Vaslui în vederea desfășurării în parteneriat a activităților propuse pentru finanțare în anul 2024 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr70_2024.pdf",
+     "sha256": "78bca8a66ab79000a08a8ac195a2887d93902a8974131324e168c75218fdd13a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-72-2024",
+   "path": "local/judet/vaslui/2024/72",
+   "short": "HCJ Vaslui nr. 72/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 72/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr72_2024.pdf",
+     "sha256": "f0c2dede0879003c48c0aa20cffeadd6d903d0977ecc0898654dbe14c9c65cea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-73-2024",
+   "path": "local/judet/vaslui/2024/73",
+   "short": "HCJ Vaslui nr. 73/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 73/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr73_2024.pdf",
+     "sha256": "362e21d6a5deda79fa63c818c6f603f5a0523d00e5b67f624b5c467439f75090"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-74-2024",
+   "path": "local/judet/vaslui/2024/74",
+   "short": "HCJ Vaslui nr. 74/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 74/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități Gârceni și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Gârceni-Armășoaia-Bleșca în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor de organizare și funcționare ale acestora 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr74_2024.pdf",
+     "sha256": "9930b07a1195e9125d07351648d4e0f693bb42dae6f88405aa00485ae45d3128"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-75-2024",
+   "path": "local/judet/vaslui/2024/75",
+   "short": "HCJ Vaslui nr. 75/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 75/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități Tomșa și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Hoceni în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și Regulamentelor de organizare și funcționare ale acestora 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr75_2024.pdf",
+     "sha256": "66358f7ad8e3a2031ea870c92f15280f0a66f7a99fde5dd2ebf61bbb58f02fc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-76-2024",
+   "path": "local/judet/vaslui/2024/76",
+   "short": "HCJ Vaslui nr. 76/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 76/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități Zorleni și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Zorleni în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor de organizare și funcționare ale acestora 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr76_2024.pdf",
+     "sha256": "4b42931f3ce529f14d2b4b41fc5963bb9e7ffb0fdd17c025c25e97516b8c06f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-77-2024",
+   "path": "local/judet/vaslui/2024/77",
+   "short": "HCJ Vaslui nr. 77/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 77/2024 pentru aprobarea Planului de restructurare a Centrului de Recuperare și Reabilitare pentru persoane cu handicap Huși pentru perioada 2023-2024 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr77_2024.pdf",
+     "sha256": "bd02282661f4e84c1c3cffc27af17a8efe45bbe9ed66069a39e9848b4d84385c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-78-2024",
+   "path": "local/judet/vaslui/2024/78",
+   "short": "HCJ Vaslui nr. 78/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 78/2024 privind aprobarea contului de execuţie al bugetului local al Judeţului Vaslui, al bugetuluiinstituţiilor publice și activităţilor finanţate integral sau parţial din venituri proprii, al bugetului fondurilor externe nerambursabile și al bugetului împrumutului intern pentruperioada 01.01.2023 – 31.12.2023 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr78_2024.pdf",
+     "sha256": "6adc6c7e0b1a9c9b1005717d6bfaa9d1426cb511c70817253df6286dc65f4c4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-79-2024",
+   "path": "local/judet/vaslui/2024/79",
+   "short": "HCJ Vaslui nr. 79/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 79/2024 pentru modificarea anexei la Hotărârea Consiliului Judeţean Vaslui nr.23/2016 privind stabilirea consumului de carburanţi pentru mijloacele de transport din dotarea Consiliului judeţean Vaslui, instituțiile și serviciile publice de interes județean, precum și pentru instituțiile publice finanțate de la bugetul local al județului Vaslui, cu modificările si completările ulterioare 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr79_2024.pdf",
+     "sha256": "04066e7175a629ff0492e232f775610e94d67aad2173d3a2faaa57d1fc9d8320"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-80-2024",
+   "path": "local/judet/vaslui/2024/80",
+   "short": "HCJ Vaslui nr. 80/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 80/2024 privind declararea de interes public județean a unui bun imobil și transmiterea acestuia în administrarea Muzeului „Vasile Pârvan” Bârlad 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr80_2024.pdf",
+     "sha256": "84f15f078f62a8598089fdd8ac3a21405675bfbf5071b76cf109d54e842ca59c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-81-2024",
+   "path": "local/judet/vaslui/2024/81",
+   "short": "HCJ Vaslui nr. 81/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 81/2024 privind aprobarea valorii cotizației Județului Vaslui, în calitate de membru fondator al Asociației de Dezvoltare Intercomunitară EURONEST, pentru anul 2024 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr81_2024.pdf",
+     "sha256": "3fa8106c5edc6b08179a874519424609b95499dd2e5779f98cfecf9868b4aa06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-82-2024",
+   "path": "local/judet/vaslui/2024/82",
+   "short": "HCJ Vaslui nr. 82/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 82/2024 pentru modificarea Hotărârii Consiliului Județean Vaslui nr.205/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții ”Pod pe DJ 245E, km. 2+705\" aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru re",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr82_2024.pdf",
+     "sha256": "aaf70fda59361bb1d8ff004908ab08a01fc0362b88db3004d51c6584f3fa8646"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-83-2024",
+   "path": "local/judet/vaslui/2024/83",
+   "short": "HCJ Vaslui nr. 83/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 83/2024 privind aprobarea Programului judeţean pentru finanţarea nerambursabilă a activităţilor nonprofit de interes public județean pentru anul 2024 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr83_2024.pdf",
+     "sha256": "f4ebd05523f709ca3f6ae6d7bf3de8a4ad43c3655aa6f539f97205a7f02fb13e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-84-2024",
    "path": "local/judet/vaslui/2024/84",
    "short": "HCJ Vaslui nr. 84/2024",
@@ -183,6 +2343,111 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-85-2024",
+   "path": "local/judet/vaslui/2024/85",
+   "short": "HCJ Vaslui nr. 85/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 85/2024 privind modificarea componenței nominale a Autorității Teritoriale de Ordine Publică Vaslui 30 aprilie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr85_2024.pdf",
+     "sha256": "acc63038d4d7b9e2bc8517920616c890d732f043a8aa432bfce977022833b71d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-86-2024",
+   "path": "local/judet/vaslui/2024/86",
+   "short": "HCJ Vaslui nr. 86/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 86/2024 privind aprobarea încheierii unui Acord de parteneriat între Județul Vaslui și Palatul Copiilor Vaslui în vederea desfășurării în parteneriat a activităților propuse pentru finanțare în anul 2024 31 mai",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr86_2024.pdf",
+     "sha256": "2bfddfbe9380d3df6fde84fb28b4831cb7dfd75e2e3b8866a1f85fae38ebf9e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-88-2024",
+   "path": "local/judet/vaslui/2024/88",
+   "short": "HCJ Vaslui nr. 88/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 88/2024 privind aprobarea transmiterii în folosință gratuită pe termen limitat a bunurilor mobile achiziționate în cadrul proiectului ”Extindere Unitate de Primiri Urgențe și Realizare Heliport” către Spitalul Județean de Urgență Vaslui 31 mai",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr88_2024.pdf",
+     "sha256": "ab128b9625f9d579ffbba27989d8b74f9178cdddef5b8fcccb33485419ee0b95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-89-2024",
+   "path": "local/judet/vaslui/2024/89",
+   "short": "HCJ Vaslui nr. 89/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 89/2024 privind aprobarea înființării Centrului de Zi pentru persoane adulte cu dizabilități Roșiești și a Complexului de Locuințe Maxim Protejate pentru persoane adulte cu dizabilități Corni Albești -Albești – Roșiești în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor de organizare și funcționare ale acestora 31 mai",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr89_2024.pdf",
+     "sha256": "4c9a974efd00b6939915b97c2083ade409253a0e75fffc622348d833e183cc90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-9-2024",
+   "path": "local/judet/vaslui/2024/9",
+   "short": "HCJ Vaslui nr. 9/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 9/2024 privind aprobarea efectuării în anul 2024 a concediului de odihnă neefectuat în anul 2023, de către vicepreședinții Consiliului Județean Vaslui 02 februarie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr9_2024.pdf",
+     "sha256": "deb0b98fb45a0e3182bbcb007da177d7d43bc99644881f04fa5d8c10fc6b22f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-90-2024",
+   "path": "local/judet/vaslui/2024/90",
+   "short": "HCJ Vaslui nr. 90/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 90/2024 privind aprobarea înființării Centrului de Zi pentru persoane adu privind aprobarea înființării Centrului Respiro pentru Persoane Adulte cu Dizabilități (CRes) Banca în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentului de organizare și funcționare a acestuia 31 mai",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr90_2024.pdf",
+     "sha256": "3716f17ef15dba7fccb061357b2b7b3db31bfa078602573069e2f464b6f26cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-91-2024",
+   "path": "local/judet/vaslui/2024/91",
+   "short": "HCJ Vaslui nr. 91/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 91/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr91_2024.pdf",
+     "sha256": "2f892c2fdf3af984e4011486596880900827214d24fb597ed0488d1ee0b4ef0f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-92-2024",
    "path": "local/judet/vaslui/2024/92",
    "short": "HCJ Vaslui nr. 92/2024",
@@ -194,6 +2459,111 @@
      "units": 4,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr92_2024.pdf",
      "sha256": "db401963804dc6e64f6e5d5149324bc5bc045da250f4a55161b752fb3aa5fd5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-93-2024",
+   "path": "local/judet/vaslui/2024/93",
+   "short": "HCJ Vaslui nr. 93/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 93/2024",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr93_2024.pdf",
+     "sha256": "57cff7249a5ea29dab27a8d10378897e002179c13e5841e41c90484076245908"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-94-2024",
+   "path": "local/judet/vaslui/2024/94",
+   "short": "HCJ Vaslui nr. 94/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 94/2024 privind aprobarea închirierii, prin licitație publică, a unui spațiu în suprafață totală de 17,50 mp, aflat în domeniul public al Județului Vaslui și în administrarea Centrului de Asistență Medico-Socială Băcești 31 mai",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr94_2024.pdf",
+     "sha256": "4855fdbfcde65f9fcbfd2e959eebb48d507a7cd4140a4d024e247576865f4125"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-95-2024",
+   "path": "local/judet/vaslui/2024/95",
+   "short": "HCJ Vaslui nr. 95/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 95/2024 privind însușirea și actualizarea unor documentații cadastrale aferente drumurilor județene DJ 242C și DJ 242G 31 mai",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr95_2024.pdf",
+     "sha256": "fe076c57fbdffddd66f0b2d3e359944d78ee2a731913f35b5ba53d778e41ea44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-96-2024",
+   "path": "local/judet/vaslui/2024/96",
+   "short": "HCJ Vaslui nr. 96/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 96/2024 pentru modificarea și completarea Hotărârii onsiliului Județean Vaslui nr.193/2022 privind aprobarea documentației tehnico-economice (faza DALI/SF), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Axa rutieră strategică Sud - Vest a județului Vaslui” 7 iunie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr96_2024.pdf",
+     "sha256": "ba12691ad5166f3b85602a6ae616437467f9444606a15e3fd8f09c21c352cbac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-97-2024",
+   "path": "local/judet/vaslui/2024/97",
+   "short": "HCJ Vaslui nr. 97/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 97/2024 pentru aprobarea proiectului „Axa rutieră strategică Sud - Vest a județului Vaslui”, a cheltuielilor legate de proiect și a încheierii unui acord de parteneriat 7 iunie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr97_2024.pdf",
+     "sha256": "3d847fb60898b0737e6f101c7c500197b1111e41f764c827ccc6a7e7518d4a64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-98-2024",
+   "path": "local/judet/vaslui/2024/98",
+   "short": "HCJ Vaslui nr. 98/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 98/2024 privind aprobarea Planului de analiză și acoperire a riscurilor pe teritoriul județului Vaslui 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr98_2024.pdf",
+     "sha256": "782a3b23b448f1c9a58521a836015743633ad8eda00a03cfcf9230bf5f0119ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-99-2024",
+   "path": "local/judet/vaslui/2024/99",
+   "short": "HCJ Vaslui nr. 99/2024",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 99/2024 privind aprobarea Monografiei economico-militare a Judeţului Vaslui, ediția 2024 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2024/HotarareaNr99_2024.pdf",
+     "sha256": "941bc1a5768af128067b050debe93113a33793bbaf34e853bcc996aea590dd87"
     }
    ]
   }

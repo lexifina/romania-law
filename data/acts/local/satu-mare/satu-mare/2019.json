@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/satu-mare/2019",
+"acts": [
+{
+"slug": "hcl-satu-mare--satu-mare-101-2019",
+"path": "local/satu-mare/satu-mare/2019/101",
+"kind": "local",
+"year": "2019",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 101/2019",
+"short": "HCL Satu Mare nr. 101/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-25",
+"latest": "2019-04-25",
+"portal": "https://primariasm.ro/hotararea-nr-10125042019",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-259-2019",
+"path": "local/satu-mare/satu-mare/2019/259",
+"kind": "local",
+"year": "2019",
+"number": "259",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 259/2019",
+"short": "HCL Satu Mare nr. 259/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-11-28",
+"latest": "2019-11-28",
+"portal": "https://primariasm.ro/hotararea-nr-25928112019",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

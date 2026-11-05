@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/olt/caracal/2017",
+ "acts": [
+  {
+   "slug": "hcl-olt--caracal-10-2017",
+   "path": "local/olt/caracal/2017/10",
+   "short": "HCL Caracal nr. 10/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 10/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.10din31.01.2017.pdf",
+     "sha256": "39f14d9c4e6a2073f8b8a4633647cf38a26d73b858407459ebb33d8b6d824fcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-122-2017",
+   "path": "local/olt/caracal/2017/122",
+   "short": "HCL Caracal nr. 122/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 122/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.122din27.11.2017.pdf",
+     "sha256": "dab66df9e94f6460cba287fae257ba8054b9bab1743d8746823960ad6e7a6de5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-139-2017",
+   "path": "local/olt/caracal/2017/139",
+   "short": "HCL Caracal nr. 139/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 139/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.139din21.12.2017.pdf",
+     "sha256": "ff0119b44c94ae788d0f2af17ce777ecd79ac0ec005dc4910fa5079cfd614f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-76-2017",
+   "path": "local/olt/caracal/2017/76",
+   "short": "HCL Caracal nr. 76/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 76/2017",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2017/HCLnr.76din31.07.2017.pdf",
+     "sha256": "6715ecd7d2585bb5855c96fa300d54507045093f41791b09ee8aa2ef464265d8"
+    }
+   ]
+  }
+ ]
+}

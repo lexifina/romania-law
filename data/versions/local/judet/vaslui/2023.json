@@ -3,6 +3,51 @@
  "shard": "local/judet/vaslui/2023",
  "acts": [
   {
+   "slug": "hcj-vaslui-174-2023",
+   "path": "local/judet/vaslui/2023/174",
+   "short": "HCJ Vaslui nr. 174/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 174/2023 privind aprobarea închirierii, prin licitație publică, a unui spațiu în suprafață totală de 128 mp, aflat în domeniul public al Județului Vaslui și în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 18 septembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr174_2023.pdf",
+     "sha256": "d21910c8f3450353581f0bcf5d29823aa14d74254c401bc59b30b6a067ce2d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-175-2023",
+   "path": "local/judet/vaslui/2023/175",
+   "short": "HCJ Vaslui nr. 175/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 175/2023 privind aprobarea închirierii, prin licitație publică, a două spații în suprafață totală de 83,93 mp, aflate în domeniul public al Județului Vaslui și în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 18 septembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr175_2023.pdf",
+     "sha256": "8268e1ee758cee098f3152f529f6b5a733465ed2f2e8ca4e123a860572222c9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-176-2023",
+   "path": "local/judet/vaslui/2023/176",
+   "short": "HCJ Vaslui nr. 176/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 176/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați aferenți obiectivului de investiție „CONSTRUIREA A 3 LOCUINȚE PROTEJATE PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN COMUNELE ROȘIEȘTI ȘI ALBEȘTI, JUDEŢUL VASLUI ȘI REABILITARE, MODERNIZARE CLĂDIRE EXISTENTĂ PENTRU ÎNFIINȚAREA UNUI CENTRU DE ZI PENTRU PERSOANE ADULTE CU DIZABILITĂȚI ÎN COMUNA ROȘIEȘTI, JUD",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr176_2023.pdf",
+     "sha256": "793058b9b0fedcdd332383622369c513b14a3f69d0d8d035fcbd007ed1b23fac"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-177-2023",
    "path": "local/judet/vaslui/2023/177",
    "short": "HCJ Vaslui nr. 177/2023",
@@ -14,6 +59,231 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr177_2023.pdf",
      "sha256": "a68462a226c70ae17cf4d9b456fca46b72b26f737fa8063bb340c8cbbb1de97c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-178-2023",
+   "path": "local/judet/vaslui/2023/178",
+   "short": "HCJ Vaslui nr. 178/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 178/2023 privind aprobarea studiului de oportunitate și a documentației de delegare a gestiunii serviciului de administrare a domeniului public și privat al județului Vaslui – drumuri județene și rețele rutiere 18 septembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr178_2023.pdf",
+     "sha256": "eb08aeaec120ccbab53d623ffb35f15dcd5c459c83c9b880b99149eac75858a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-179-2023",
+   "path": "local/judet/vaslui/2023/179",
+   "short": "HCJ Vaslui nr. 179/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 179/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr179_2023.pdf",
+     "sha256": "8d01a4699a16113828198227f3f7b1c954a89011e08cac5c7e343c7454cbd29a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-180-2023",
+   "path": "local/judet/vaslui/2023/180",
+   "short": "HCJ Vaslui nr. 180/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 180/2023 pentru modificarea pozițiilor nr.113 și nr.117 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.170/2022 privind aprobarea organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al Consiliului Județean Vaslui, cu modificările ulterioare 18 septembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr180_2023.pdf",
+     "sha256": "6cb76142446991f6107065aa02634c0f0aa54a9dee1508c957880e356901350a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-181-2023",
+   "path": "local/judet/vaslui/2023/181",
+   "short": "HCJ Vaslui nr. 181/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 181/2023 pentru completarea Hotărârii Consiliului Județean Vaslui nr. 51/2023 privind aprobarea proiectului „BiblioHub Vaslui”, a cheltuielilor legate de proiect și a încheierii unui acord de parteneriat pentru realizarea proiectului 06 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr181_2023.pdf",
+     "sha256": "467c97d9e8624e9f42b3b5c96ff270e4c1e3611f515961afe1c69417082ea1b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-182-2023",
+   "path": "local/judet/vaslui/2023/182",
+   "short": "HCJ Vaslui nr. 182/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 182/2023 pentru modificarea și completarea Hotărârii Consiliului Județean Vaslui nr.168/2020 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui, cu modificările și completările ulterioare 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr182_2023.pdf",
+     "sha256": "bd709d974a4dc7d5c750172f047ac3af74823189d83dadc43ff8fe9432e3da4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-185-2023",
+   "path": "local/judet/vaslui/2023/185",
+   "short": "HCJ Vaslui nr. 185/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 185/2023 privind aprobarea Regulamentului de organizare și funcționare a Centrului de Servicii de Recuperare Neuromotorie de tip Ambulatoriu Huşi, componentă funcțională din structura Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr185_2023.pdf",
+     "sha256": "38eb79c119135f1243f70dde864887b8dc7718362fc4ea8e9571754d07a52ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-186-2023",
+   "path": "local/judet/vaslui/2023/186",
+   "short": "HCJ Vaslui nr. 186/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 186/2023 pentru modificarea și completarea Hotărârii Consiliului Județean Vaslui nr. 219/2021 privind aprobarea înființării prin reorganizare a unor centre/complexe rezidențiale pentru persoanele adulte cu dizabilități din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui, cu modificările și completările ulterioare 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr186_2023.pdf",
+     "sha256": "fe2dc282c20e9f35ebe4722554e39509743182657caf407e573dc7a3c868c588"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-187-2023",
+   "path": "local/judet/vaslui/2023/187",
+   "short": "HCJ Vaslui nr. 187/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 187/2023 pentru modificarea și completarea anexei la Hotărârea Consiliului Județean Vaslui nr. 7/2018 privind stabilirea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Vaslui, cu modificările și completările ulterioare 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr187_2023.pdf",
+     "sha256": "8d80e03201c308dc731b7c67dceb1f09b4f5ca9197eaa58189e94d5428276e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-189-2023",
+   "path": "local/judet/vaslui/2023/189",
+   "short": "HCJ Vaslui nr. 189/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 189/2023 privind rectificarea a II-a a bugetului fondurilor externe nerambursabile pe anul 2023 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr189_2023.pdf",
+     "sha256": "ebafb8658b6404db8180aeca6fd706e8602aaf9e8114651269a371757e9076c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-190-2023",
+   "path": "local/judet/vaslui/2023/190",
+   "short": "HCJ Vaslui nr. 190/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 190/2023 privind aprobarea majorării cuantumului alocației de hrană pentru elevii Școlii Profesionale Speciale „Sfânta Ecaterina” Huși 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr190_2023.pdf",
+     "sha256": "dd46829b5d7432b67ef28b12a5a32a6fa322975a3b8a01e5aacfdb61ba582513"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-191-2023",
+   "path": "local/judet/vaslui/2023/191",
+   "short": "HCJ Vaslui nr. 191/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 191/2023 privind aprobarea solicitării trecerii unor imobile din domeniul public al Comunei Tătărăni în domeniul public al Județului Vaslui 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr191_2023.pdf",
+     "sha256": "13fce2d39c8e019f62b448d28afac002d5819229326b833cc8e79a992af72893"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-192-2023",
+   "path": "local/judet/vaslui/2023/192",
+   "short": "HCJ Vaslui nr. 192/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 192/2023 privind aprobarea solicitării trecerii unor imobile din domeniul public al unor unități administrativ-teritoriale în domeniul public al Județului Vaslui 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr192_2023.pdf",
+     "sha256": "d8622583f50283d057cc0452e232f946777ecb86b1c868e957d4a31801ffea46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-193-2023",
+   "path": "local/judet/vaslui/2023/193",
+   "short": "HCJ Vaslui nr. 193/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 193/2023 pentru modificarea Hotărârii Consiliului Județean Vaslui nr. 28/2020 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții realizat de Județul Vaslui în cadrul proiectului „Pe urmele lui Ștefan cel Mare”, cu modificările ulterioare 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr193_2023.pdf",
+     "sha256": "9573eb1089aa65fdcbfd06970e036df77a1070f10503475ad64c9424a4786cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-194-2023",
+   "path": "local/judet/vaslui/2023/194",
+   "short": "HCJ Vaslui nr. 194/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 194/2023 privind aprobarea Acordului de Cooperare între Județul Vaslui din România și Raionul Cahul din Republica Moldova 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr194_2023.pdf",
+     "sha256": "378d6701988ed73f4b48a09773702ddc018322d61181620cc9698def4e5cabcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-195-2023",
+   "path": "local/judet/vaslui/2023/195",
+   "short": "HCJ Vaslui nr. 195/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 195/2023 privind modificarea componenței nominale a Autorității Teritoriale de Ordine Publică Vaslui 18 octombrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr195_2023.pdf",
+     "sha256": "0bbc3491cf67b724e72227b4b414c65e941bd28a2f414412dc7a84173cb60d1a"
     }
    ]
   },
@@ -33,6 +303,681 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-197-2023",
+   "path": "local/judet/vaslui/2023/197",
+   "short": "HCJ Vaslui nr. 197/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 197/2023 pentru completarea Hotărârii Consiliului Județean Vaslui nr.168/2020 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui, cu modificările și completările ulterioare 16 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr197_2023.pdf",
+     "sha256": "9bc682a32dbe5fa90d639ec9f9c7dac37676934d96854797b61b4d20d95c0d11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-198-2023",
+   "path": "local/judet/vaslui/2023/198",
+   "short": "HCJ Vaslui nr. 198/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 198/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr198_2023.pdf",
+     "sha256": "bb365ee01903cac113388e2abff2b6a40ffee6e71f256e14b61ee21eb73dcc4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-200-2023",
+   "path": "local/judet/vaslui/2023/200",
+   "short": "HCJ Vaslui nr. 200/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 200/2023 privind desemnarea reprezentanților Consiliului Județean Vaslui în Consiliul de administrație al Centrului Școlar de Educație Incluzivă, oraș Negrești 16 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr200_2023.pdf",
+     "sha256": "64eed9fc3acf312b90b9f4e14862238c8137eefc3710a96b4e9a3b6965727499"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-201-2023",
+   "path": "local/judet/vaslui/2023/201",
+   "short": "HCJ Vaslui nr. 201/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 201/2023 privind desemnarea reprezentantului Consiliului Județean Vaslui în Comisia pentru evaluarea și asigurarea calității în educație la nivelul Centrului Școlar de Educație Incluzivă, oraș Negrești 16 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr201_2023.pdf",
+     "sha256": "a0b393926705636fa92d862a00acb743fb4ec3663b1d5353755519f26bff9a8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-202-2023",
+   "path": "local/judet/vaslui/2023/202",
+   "short": "HCJ Vaslui nr. 202/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 202/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr202_2023.pdf",
+     "sha256": "d52d198956667f317e3136d17f1db911bc879ead460654307926ec1653b6100e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-203-2023",
+   "path": "local/judet/vaslui/2023/203",
+   "short": "HCJ Vaslui nr. 203/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 203/2023 privind desemnarea reprezentantului Consiliului Județean Vaslui în Comisia pentru evaluarea și asigurarea calității educației de la nivelul Școlii Profesionale Speciale ”Sfânta Ecaterina” Huși 16 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr203_2023.pdf",
+     "sha256": "7469e1b923ff071a27398d07773f81992bb6c51bbf5a81a61601e5e3cd4dde57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-204-2023",
+   "path": "local/judet/vaslui/2023/204",
+   "short": "HCJ Vaslui nr. 204/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 204/2023 privind aprobarea încadrării în categoria funcțională a drumurilor de interes județean a drumului comunal DC 68 și declararea de interes public județean a unor imobile aparținând domeniului public al Comunei Tătărăni 16 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr204_2023.pdf",
+     "sha256": "8760a3b0536fd21f92467b62a7fc208e519e4cc850cb424646f8e1768e50bd56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-205-2023",
+   "path": "local/judet/vaslui/2023/205",
+   "short": "HCJ Vaslui nr. 205/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 205/2023 privind aprobarea devizului general actualizat, a devizului general pentru lucrările rest de executat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții ”Pod pe DJ 245E, km. 2+705\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr205_2023.pdf",
+     "sha256": "3d6ca657b7d31585e3238e6dbd0a56035de3b57047fecf1be4db4b2147a655da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-206-2023",
+   "path": "local/judet/vaslui/2023/206",
+   "short": "HCJ Vaslui nr. 206/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 206/2023 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru obiectivul de investiţii „Sistematizare pe verticală, parcare, accese rutiere și pietonale Casa Armatei Vaslui – Centru Cultural Județean Multifuncțional” 16 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr206_2023.pdf",
+     "sha256": "de7530a055961ddcaa9bd3d1a05325e49b6c694e1ac194c61d4a3cd492dce8da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-207-2023",
+   "path": "local/judet/vaslui/2023/207",
+   "short": "HCJ Vaslui nr. 207/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 207/2023 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții „CONSTRUIREA UNUI CENTRU DE CRIZĂ PENTRU PERSOANELE CU DIZABILITĂȚI BĂLEȘTI, COMUNA COZMEȘTI, JUDEȚUL VASLUI” ÎN CADRUL PROIECTULUI “CENTRUL DE CRIZĂ PENTRU PERSOANE CU DIZABILITĂȚI BĂLEȘTI” 16 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr207_2023.pdf",
+     "sha256": "305064239a160e04d027c916c7f29ffea528c5e1fc2b29ffcba0ebe81a239b17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-208-2023",
+   "path": "local/judet/vaslui/2023/208",
+   "short": "HCJ Vaslui nr. 208/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 208/2023 pentru aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții „Construirea a 3 locuințe protejate pentru persoanele adulte cu dizabilități în comunele Gîrceni, Pungești, Ivănești, Județul Vaslui și reabilitare, modernizare clădire existentă pentru înființarea unui centru de zi pentru persoane adulte cu dizabilități în comuna Gîrceni, J",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr208_2023.pdf",
+     "sha256": "dd0932d4277ee79deb6ef9a9f55042b82f51b45a56e2effe02b5e4a99f875087"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-209-2023",
+   "path": "local/judet/vaslui/2023/209",
+   "short": "HCJ Vaslui nr. 209/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 209/2023 pentru modificarea anexelor nr.1b, nr.3 și nr.8 la Hotărârea Consiliului Județean Vaslui nr.219/2021 privind aprobarea înființării prin reorganizare a unor centre/complexe rezidențiale pentru persoanele adulte cu dizabilități din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui, cu modificările și completările ulterioare 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr209_2023.pdf",
+     "sha256": "632ed62d3308e56ee7940b0dea582cdeb799c87217fdfbcc7550ba18b10a997e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-210-2023",
+   "path": "local/judet/vaslui/2023/210",
+   "short": "HCJ Vaslui nr. 210/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 210/2023 pentru modificarea Hotărârii Consiliului Județean Vaslui nr.87/2022 privind aprobarea regulamentelor de organizare și funcționare a unor centre/complexe rezidențiale pentru persoane adulte cu dizabilități din structura Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr210_2023.pdf",
+     "sha256": "72317fcbb6b8d3eb96c25e257dafc592a2f353a1cd50dcbec7ac6232ffebbc7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-211-2023",
+   "path": "local/judet/vaslui/2023/211",
+   "short": "HCJ Vaslui nr. 211/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 211/2023 pentru modificarea Hotărârii Consiliului Județean Vaslui nr.149/2023 privind aprobarea înființării unui centru de zi pentru persoane adulte cu dizabilități și a trei complexuri de locuințe protejate pentru persoane adulte cu dizabilități în structura Direcției Generale de Asistență Socială şi Protecția Copilului Vaslui, precum și a Regulamentelor de organizare și funcționare a acestora, cu modific",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr211_2023.pdf",
+     "sha256": "85f12d5310ab2d9e997377f1ec0882d7a138a726ab8543bb0da3c0906b50fc18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-212-2023",
+   "path": "local/judet/vaslui/2023/212",
+   "short": "HCJ Vaslui nr. 212/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 212/2023 pentru modificarea Hotărârii Consiliului Județean Vaslui nr.150/2023 privind aprobarea capacității și a Regulamentului de organizare și funcționare ale Echipei mobile - componentă funcțională în cadrul Ansamblului de Locuințe Protejate pentru Persoane Adulte cu Dizabilități din structura Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr212_2023.pdf",
+     "sha256": "ad0355dbd65c055758c32b139bcec5931d650a282fbeed02b0efbc634d4bcb5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-213-2023",
+   "path": "local/judet/vaslui/2023/213",
+   "short": "HCJ Vaslui nr. 213/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 213/2023 privind acordarea unui mandat special reprezentantului Județului Vaslui în Adunarea Generală a Asociației pentru dezvoltare intercomunitară de utilități publice pentru serviciul de alimentare cu apă și de canalizare din municipiile Vaslui, Bârlad, Huși și orașul Negrești - județul Vaslui 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr213_2023.pdf",
+     "sha256": "220618411d52f7d78df271700364c958217e874a253d1eb371eeab3420eade4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-214-2023",
+   "path": "local/judet/vaslui/2023/214",
+   "short": "HCJ Vaslui nr. 214/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 214/2023 privind acordarea unui mandat special reprezentantului Județului Vaslui în Adunarea Generală a Asociației pentru Dezvoltare Intercomunitară a județului Vaslui (ADIV) 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr214_2023.pdf",
+     "sha256": "0c45bce8ac24bca5ded177c0d9ab40394ed8c852c7079cdd0d8aa5757b7cd0f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-217-2023",
+   "path": "local/judet/vaslui/2023/217",
+   "short": "HCJ Vaslui nr. 217/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 217/2023 privind aprobarea contului de execuţie al bugetului local al Judeţului Vaslui, al bugetului instituţiilor publice și activităţilor finanţate integral sau parţial din venituri proprii, al bugetului fondurilor externe nerambursabile și al bugetului împrumutului intern pentru perioada 01.01.2023 – 30.09.2023 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr217_2023.pdf",
+     "sha256": "717d70aa0784cb3aaedb3505ea54b836b7fdea94bb8271c7ef9ca5d615b749fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-218-2023",
+   "path": "local/judet/vaslui/2023/218",
+   "short": "HCJ Vaslui nr. 218/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 218/2023 privind trecerea din domeniul public al Județului Vaslui în domeniul privat al acestuia a unor mijloace fixe aflate în administrarea Spitalului Județean de Urgență Vaslui, în vederea scoaterii din funcţiune, casării sau demolării 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr218_2023.pdf",
+     "sha256": "182f4fcc5a7c395c381f6e274e29c575ef1beba56f9ac2b310c6eebb9ce2031f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-219-2023",
+   "path": "local/judet/vaslui/2023/219",
+   "short": "HCJ Vaslui nr. 219/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 219/2023 pentru modificarea Hotărârii Consiliului Județean Vaslui nr. 141/14.09.2018 privind aprobarea proiectului „Extindere Unitate de Primiri Urgențe și Realizare Heliport” și a cheltuielilor legate de proiect, cu modificările ulterioare 29 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr219_2023.pdf",
+     "sha256": "4c69dfaa659bdb9ea4695c90fc35a38a61412ff216838ae976393500992e741b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-220-2023",
+   "path": "local/judet/vaslui/2023/220",
+   "short": "HCJ Vaslui nr. 220/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 220/2023 privind aprobarea încheierii actului adițional nr.3 la Acordul de parteneriat nr.846/28.01.2021 dintre Agenția pentru Dezvoltare Regională Nord-Est și UAT Județul Vaslui, pentru realizarea proiectului „Sprijin la nivelul Regiunii Nord-Est pentru pregătirea de proiecte finanțate din perioada de programare 2021-2027 pe domeniile mobilitate urbană, regenerare urbană, centre de agrement/baze turistice",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr220_2023.pdf",
+     "sha256": "1aa36eab83cbd590980f8dc7439b4eef79e0cc10fa01aa6e61cf72baecdc8862"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-221-2023",
+   "path": "local/judet/vaslui/2023/221",
+   "short": "HCJ Vaslui nr. 221/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 221/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr221_2023.pdf",
+     "sha256": "cc7f7bb05b43a9737b5924e78666f64b6e7e9f14fa5dd69db79ebfb4ba6800f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-223-2023",
+   "path": "local/judet/vaslui/2023/223",
+   "short": "HCJ Vaslui nr. 223/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 223/2023 pentru aprobarea prelungirii perioadei de implementare a proiectului ”Extindere Unitate de Primiri Urgențe și Realizare Heliport” și a cheltuielilor estimate legate de finalizarea acestuia 11 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr223_2023.pdf",
+     "sha256": "f7315ef3fd145f2a8275dc7b0479401958562c481852b656047a1d6baae15a41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-224-2023",
+   "path": "local/judet/vaslui/2023/224",
+   "short": "HCJ Vaslui nr. 224/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 224/2023 privind aprobarea depunerii proiectului ”Intervenție de urgență la monumentul istoric Podul Doamnei, comuna Costești, județul Vaslui” și a cheltuielilor legate de proiect 11 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr224_2023.pdf",
+     "sha256": "a0c4afd49e136866751514f3010ca23a21c4b8924db83e3a321fcb058d5bf8f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-225-2023",
+   "path": "local/judet/vaslui/2023/225",
+   "short": "HCJ Vaslui nr. 225/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 225/2023 privind aprobarea încheierii unui acord de parteneriat între Județul Vaslui și Muzeul „Vasile Pârvan” Bârlad pentru realizarea proiectului ”Intervenție de urgență la monumentul istoric Podul Doamnei, comuna Costești, județul Vaslui” 11 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr225_2023.pdf",
+     "sha256": "3d9ab5560b207df1794bec8b7a5681c59eea67aefda18b7c2e80c58d8359b586"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-226-2023",
+   "path": "local/judet/vaslui/2023/226",
+   "short": "HCJ Vaslui nr. 226/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 226/2023 privind aprobarea participării Județului Vaslui la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice”, prin depunerea proiectului “Creșterea eficienței energetice a imobilelor C.S.E.I",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr226_2023.pdf",
+     "sha256": "802cecd5bd5c0b77405453b71f428bba257f752ad9fc9364f9b9364d0f58b102"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-227-2023",
+   "path": "local/judet/vaslui/2023/227",
+   "short": "HCJ Vaslui nr. 227/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 227/2023 privind aprobarea participării Județului Vaslui la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice”, prin depunerea proiectului ”Creșterea eficienței energetice a imobilelor C.S.E.I",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr227_2023.pdf",
+     "sha256": "fe2eaf07b24fc01e833ed6b392b642c0110b6877f19a0311b755c3fae04beb34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-228-2023",
+   "path": "local/judet/vaslui/2023/228",
+   "short": "HCJ Vaslui nr. 228/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 228/2023 privind aprobarea participării Județului Vaslui la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice”, prin depunerea proiectului ”Creșterea eficienței energetice a imobilelor C.S.E.I",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr228_2023.pdf",
+     "sha256": "5e5216bafab3ec1491cbd7f0a69e9f8accc496294f6af618c8593de7b101f867"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-229-2023",
+   "path": "local/judet/vaslui/2023/229",
+   "short": "HCJ Vaslui nr. 229/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 229/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr229_2023.pdf",
+     "sha256": "3b7e476d0ef0f9be41fc1af032abab22e336b0194ca9bebb4fb1a2db46157176"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-230-2023",
+   "path": "local/judet/vaslui/2023/230",
+   "short": "HCJ Vaslui nr. 230/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 230/2023 pentru aprobarea prelungirii perioadei de implementare a proiectului „Regiunea Nord - Est Axa rutieră strategică 4: Vaslui reabilitare și modernizare drum strategic județean Bârlad – Laza – Codăești (DJ 245, DJ 245M, DJ 247, DJ 246)” și a cheltuielilor estimate legate de finalizarea acestuia 11 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr230_2023.pdf",
+     "sha256": "f506625a9c6c93b7fff85f8c4f960baa10a4b4de251ebc5822805823605c7ef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-231-2023",
+   "path": "local/judet/vaslui/2023/231",
+   "short": "HCJ Vaslui nr. 231/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 231/2023 pentru modificarea Hotărârii Consiliului Județean Vaslui nr.60/2023 privind aprobarea proiectului „Dotare cu echipamente medicale adecvate pentru îmbunătățirea programului de screening în cadrul Spitalului de Urgență Vaslui”, a cheltuielilor legate de proiect și a încheierii unui acord de parteneriat pentru realizarea proiectului 11 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr231_2023.pdf",
+     "sha256": "e70d4d708377ef7de2e450f29e6d034ec2cee8e846740ef97752d1da6cf74b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-232-2023",
+   "path": "local/judet/vaslui/2023/232",
+   "short": "HCJ Vaslui nr. 232/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 232/2023 pentru aprobarea prelungirii perioadei de implementare a proiectului „Servicii sociale destinate persoanelor adulte cu dizabilități” cod SMIS 121847 - contract de finanțare nr. 3553/13.12.2018 și a cheltuielilor estimate legate de finalizarea acestuia 11 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr232_2023.pdf",
+     "sha256": "6c4ad911ef608a292d31b33408bc42645ba319a04305b8c13f370fee3c55df9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-233-2023",
+   "path": "local/judet/vaslui/2023/233",
+   "short": "HCJ Vaslui nr. 233/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 233/2023 pentru aprobarea prelungirii perioadei de implementare a proiectului „Servicii sociale integrate pentru persoane adulte cu dizabilități” cod SMIS 121848 - contract de finanțare nr. 3324/17.10.2018 și a cheltuielilor estimate legate de finalizarea acestuia 11 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr233_2023.pdf",
+     "sha256": "2f37d40884d5d58effba013ce372388e8076aef08954994596cb910374d999d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-234-2023",
+   "path": "local/judet/vaslui/2023/234",
+   "short": "HCJ Vaslui nr. 234/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 234/2023 privind rectificarea a VIII-a a bugetului local al județului Vaslui, pe anul 2023 11 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr234_2023.pdf",
+     "sha256": "c95f53fdc892e1d81f9cc4038f5a049c5203b58387e8cdd60b2a5ec2bd315526"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-235-2023",
+   "path": "local/judet/vaslui/2023/235",
+   "short": "HCJ Vaslui nr. 235/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 235/2023 privind repartizarea fondului aflat la dispoziția Consiliului Județean Vaslui din impozitul pe venit încasat suplimentar în anul 2023 la bugetul de stat 15 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr235_2023.pdf",
+     "sha256": "e73b566ddcf4b77b3089f971dd3f937e0927675e78ff654a52b9c6e9c1bf9a80"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-236-2023",
+   "path": "local/judet/vaslui/2023/236",
+   "short": "HCJ Vaslui nr. 236/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 236/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr236_2023.pdf",
+     "sha256": "2d55c99ac1b172fe59275eae2c3783e4e6bd13ff18e9debbcc8abec01dcc7b78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-238-2023",
+   "path": "local/judet/vaslui/2023/238",
+   "short": "HCJ Vaslui nr. 238/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 238/2023 privind aprobarea Regulamentului de organizare și funcționare a Spitalului Județean de Urgență Vaslui 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr238_2023.pdf",
+     "sha256": "4b8ba882491ee8d39e530c8ab21a8182dec71778093e18428d7668f257e420a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-239-2023",
+   "path": "local/judet/vaslui/2023/239",
+   "short": "HCJ Vaslui nr. 239/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 239/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr239_2023.pdf",
+     "sha256": "bba3e452dffb330e18762784107e0098408ea2e4b044b19bb9a5e5dc10549f62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-240-2023",
+   "path": "local/judet/vaslui/2023/240",
+   "short": "HCJ Vaslui nr. 240/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 240/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr240_2023.pdf",
+     "sha256": "65f76b745112705fb893de848a1c4e92073b3ef235aa2e3828abf0c1bfe2c0e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-241-2023",
+   "path": "local/judet/vaslui/2023/241",
+   "short": "HCJ Vaslui nr. 241/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 241/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr241_2023.pdf",
+     "sha256": "a8779c37c232689d4666c51d7aef576e8e3c03681374a0926c82b01763067594"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-242-2023",
+   "path": "local/judet/vaslui/2023/242",
+   "short": "HCJ Vaslui nr. 242/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 242/2023",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr242_2023.pdf",
+     "sha256": "35dd15bdd45a41ffae6eecc8ffc1f28b3effe7202159ca9cf186bc9bea136637"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-243-2023",
+   "path": "local/judet/vaslui/2023/243",
+   "short": "HCJ Vaslui nr. 243/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 243/2023 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Direcției Județene de Evidență a Persoanelor Vaslui 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr243_2023.pdf",
+     "sha256": "9e7dea3f48b94cecb3bc5618ae2fbdeee856455b30db0250daf46819d187900f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-244-2023",
+   "path": "local/judet/vaslui/2023/244",
+   "short": "HCJ Vaslui nr. 244/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 244/2023 privind aprobarea Regulamentului de organizare și funcționare a Direcției Județene de Evidență a Persoanelor Vaslui 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr244_2023.pdf",
+     "sha256": "5f806f01d835d199b3e234abcd044bdd2a2e09824b34aa4fd7b8f7e046c42557"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-245-2023",
+   "path": "local/judet/vaslui/2023/245",
+   "short": "HCJ Vaslui nr. 245/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 245/2023 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Centrului Cultural Județean Vaslui 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr245_2023.pdf",
+     "sha256": "3d670344523902236895ebb5ebf568eb188dddcd22f2cca849b3c36cb433bb65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-246-2023",
+   "path": "local/judet/vaslui/2023/246",
+   "short": "HCJ Vaslui nr. 246/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 246/2023 privind aprobarea Regulamentului de organizare și funcționare a Centrului Cultural Județean Vaslui 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr246_2023.pdf",
+     "sha256": "1773a796ec3d0aa03a1765efbc39502318a0ddd7f28a86e6f3831d2acce7c0c0"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-247-2023",
    "path": "local/judet/vaslui/2023/247",
    "short": "HCJ Vaslui nr. 247/2023",
@@ -48,6 +993,126 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-248-2023",
+   "path": "local/judet/vaslui/2023/248",
+   "short": "HCJ Vaslui nr. 248/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 248/2023 privind stabilirea costului mediu lunar al cheltuielilor pentru îngrijirea şi protejarea persoanelor cu handicap în centrele rezidenţiale din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui, pentru perioada noiembrie 2022 – octombrie 2023 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr248_2023.pdf",
+     "sha256": "6b364c1edd3bc626de9c328feb900511b25c18533dce64a1f4b5dd7f0d9f4d5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-249-2023",
+   "path": "local/judet/vaslui/2023/249",
+   "short": "HCJ Vaslui nr. 249/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 249/2023 privind stabilirea costurilor medii lunare de întreţinere în Centrele de îngrijire şi asistenţă pentru persoane vârstnice Huşi şi Giurcani din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vaslui, pentru anul 2024 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr249_2023.pdf",
+     "sha256": "9d0abdd548a19763fabb2940df7f10b31983142af56f4cbad969a6124022e587"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-250-2023",
+   "path": "local/judet/vaslui/2023/250",
+   "short": "HCJ Vaslui nr. 250/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 250/2023 privind stabilirea costului mediu lunar de întreținere a beneficiarilor de servicii prestate de Centrele de Asistență Medico-Sociale Băcești și Codăești, pe anul 2024 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr250_2023.pdf",
+     "sha256": "ad50f873e54340f2883aaf2a100591acfaa355f4cd5665b100d1fa2944c0bcad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-251-2023",
+   "path": "local/judet/vaslui/2023/251",
+   "short": "HCJ Vaslui nr. 251/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 251/2023 privind aprobarea plății contravalorii unor bunuri imobile și a includerii acestora în domeniul privat al Județului Vaslui 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr251_2023.pdf",
+     "sha256": "8995c413130535fd6afa60c5a2958a7eb89bdad331fc5245d33033da0da1d8cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-252-2023",
+   "path": "local/judet/vaslui/2023/252",
+   "short": "HCJ Vaslui nr. 252/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 252/2023 privind aprobarea modificării formei geometrice a documentației cadastrale având numărul cadastral 72277 UAT Vaslui și însușirea documentației cadastrale de primă înscriere pentru imobilul teren aferent Palatului Administrativ 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr252_2023.pdf",
+     "sha256": "70c3000c8c38e6345551c74004828814a4fbe0f4b023d739c80152a9530b25b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-253-2023",
+   "path": "local/judet/vaslui/2023/253",
+   "short": "HCJ Vaslui nr. 253/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 253/2023 privind aprobarea încadrării în categoria funcțională a drumurilor de interes județean a unor imobile aparținând domeniului public al Comunelor Gherghești și Poienești și declararea de interes public județean a acestora 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr253_2023.pdf",
+     "sha256": "c44c946215bc3ddb2b044bde173b769d765a5f62b2744bac89965b6e1f4eb597"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-255-2023",
+   "path": "local/judet/vaslui/2023/255",
+   "short": "HCJ Vaslui nr. 255/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 255/2023 pentru modificarea anexei nr.2 la Hotărârea Consiliului Județean Vaslui nr.165/2022 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici actualizați ai obiectivului de investiții \"REABILITARE ȘI MODERNIZARE DJ 242G: VINDEREI (DJ 242 C KM 0 + 000) - BRĂDEȘTI\", aprobat pentru finanțare prin Programul național de investiții \"Anghel Saligny\", precum și a sumei reprezentâ",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr255_2023.pdf",
+     "sha256": "3f858f6422fd78804900c02940c54978c466c624e06c6d5d3100eea8575cfdc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-256-2023",
+   "path": "local/judet/vaslui/2023/256",
+   "short": "HCJ Vaslui nr. 256/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 256/2023 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici aferenți obiectivului de investiție „Sistematizare pe verticală, parcare, accese rutiere și pietonale Casa Armatei Vaslui – Centru Cultural Județean Multifuncțional” 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr256_2023.pdf",
+     "sha256": "b0913a34aed5b6bd87f8e697c7dbce8ec950badc2ec4a01ad197aee773c35dfe"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-257-2023",
    "path": "local/judet/vaslui/2023/257",
    "short": "HCJ Vaslui nr. 257/2023",
@@ -59,6 +1124,51 @@
      "units": 1,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr257_2023.pdf",
      "sha256": "5e9e4b5917ad82adba1203d35e4e41527acfa36378de8f3d099afe06161d5e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-258-2023",
+   "path": "local/judet/vaslui/2023/258",
+   "short": "HCJ Vaslui nr. 258/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 258/2023 privind aprobarea cuantumului și a plății cotizației către Uniunea Națională a Consiliilor Județene din România, pentru anul 2023 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr258_2023.pdf",
+     "sha256": "a65d7bdf4d255e28b58465a259765e1d7326c8bf49a7d949ef45814c6505be7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-259-2023",
+   "path": "local/judet/vaslui/2023/259",
+   "short": "HCJ Vaslui nr. 259/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 259/2023 pentru modificarea poziției nr.127 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.170/2022 privind aprobarea organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al Consiliului Județean Vaslui, cu modificările ulterioare 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr259_2023.pdf",
+     "sha256": "63882450da187a73a43e65bc5141e81b4396ef53ef3d208b6e930fc97c11834a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-260-2023",
+   "path": "local/judet/vaslui/2023/260",
+   "short": "HCJ Vaslui nr. 260/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 260/2023 privind rectificarea a IX-a a bugetului local al județului Vaslui, pe anul 2023 22 decembrie",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr260_2023.pdf",
+     "sha256": "480517e120e8fd603b35fb3d0b3bed70871d79c173a06287a6cba5c7aaaec9d6"
     }
    ]
   }

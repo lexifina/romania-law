@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/olt/slatina/2018",
+"acts": [
+{
+"slug": "hcl-olt--slatina-1-2018",
+"path": "local/olt/slatina/2018/1",
+"kind": "local",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 1/2018",
+"short": "HCL Slatina nr. 1/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-01",
+"latest": "2018-03-01",
+"portal": "http://www.primariaslatina.ro/hotarari_fond_funciar.html",
+"council": "olt/slatina",
+"council_name": "Consiliul Local al Municipiului Slatina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--slatina-2-2018",
+"path": "local/olt/slatina/2018/2",
+"kind": "local",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 2/2018",
+"short": "HCL Slatina nr. 2/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-01",
+"latest": "2018-03-01",
+"portal": "http://www.primariaslatina.ro/hotarari_fond_funciar.html",
+"council": "olt/slatina",
+"council_name": "Consiliul Local al Municipiului Slatina",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

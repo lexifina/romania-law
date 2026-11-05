@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/teleorman/2026",
+"acts": [
+{
+"slug": "hcj-teleorman-4-2026",
+"path": "local/judet/teleorman/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 4/2026 privind infiintarea Clubului Sportiv Judetean Teleorman, institufie publica aflata in subordinea Consiliului Judetean Teleorman",
+"short": "HCJ Teleorman nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-28",
+"latest": "2026-01-28",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari+.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-teleorman-6-2026",
+"path": "local/judet/teleorman/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 6/2026 privind aprobarea organigramei si a statului de functii ale Spitalului Judetean de Urgenta Alexandria, cu modificarile si completarile ulterioare",
+"short": "HCJ Teleorman nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-28",
+"latest": "2026-01-28",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari+.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

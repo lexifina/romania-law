@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/satu-mare/2021",
+"acts": [
+{
+"slug": "hcl-satu-mare--satu-mare-14-2021",
+"path": "local/satu-mare/satu-mare/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 14/2021",
+"short": "HCL Satu Mare nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://primariasm.ro/hotararea-nr-1428012021",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-37-2021",
+"path": "local/satu-mare/satu-mare/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 37/2021",
+"short": "HCL Satu Mare nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://primariasm.ro/hotararea-nr-3725022021",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-53-2021",
+"path": "local/satu-mare/satu-mare/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 53/2021",
+"short": "HCL Satu Mare nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://primariasm.ro/hotararea-nr-5",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-75-2021",
+"path": "local/satu-mare/satu-mare/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 75/2021",
+"short": "HCL Satu Mare nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://primariasm.ro/hotararea-nr-32",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-84-2021",
+"path": "local/satu-mare/satu-mare/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 84/2021 pentru modificarea anexei 1 la HCL nr. 228/28.09.2017 privind aprobarea contractului de comodat încheiat între Municipiul Satu Mare și S. C",
+"short": "HCL Satu Mare nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://primariasm.ro/hotararea-nr-8425032021",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-85-2021",
+"path": "local/satu-mare/satu-mare/2021/85",
+"kind": "local",
+"year": "2021",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 85/2021",
+"short": "HCL Satu Mare nr. 85/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://primariasm.ro/hotararea-nr-36",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-117-2021",
+"path": "local/satu-mare/satu-mare/2021/117",
+"kind": "local",
+"year": "2021",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 117/2021",
+"short": "HCL Satu Mare nr. 117/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://primariasm.ro/hotararea-nr-11729042021",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-132-2021",
+"path": "local/satu-mare/satu-mare/2021/132",
+"kind": "local",
+"year": "2021",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 132/2021",
+"short": "HCL Satu Mare nr. 132/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://primariasm.ro/hotararea-nr-13227052021",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-218-2021",
+"path": "local/satu-mare/satu-mare/2021/218",
+"kind": "local",
+"year": "2021",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 218/2021",
+"short": "HCL Satu Mare nr. 218/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://primariasm.ro/hotararea-nr-21826082021",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-222-2021",
+"path": "local/satu-mare/satu-mare/2021/222",
+"kind": "local",
+"year": "2021",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 222/2021 privind însușirea documentației cadastrale de primă înscriere a unui imobil teren din Municipiul Satu Mare, cu destinația de drum, str",
+"short": "HCL Satu Mare nr. 222/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://primariasm.ro/hotararea-nr-22226082021",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-235-2021",
+"path": "local/satu-mare/satu-mare/2021/235",
+"kind": "local",
+"year": "2021",
+"number": "235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 235/2021 privind transmiterea în administrare către Serviciul Public Poliția Locală Satu Mare a unei autoutilitare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 26.08.2021, Analizând: - proiectul de hotărâre înregistrat sub nr. 45433/25.08.2021, - referatul de aprobare al inițiatorului înregistrat sub nr. 45434/25.08.2021, - raportul de specialitate al Serviciului Patri",
+"short": "HCL Satu Mare nr. 235/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://primariasm.ro/hotararea-nr-23526082021",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-281-2021",
+"path": "local/satu-mare/satu-mare/2021/281",
+"kind": "local",
+"year": "2021",
+"number": "281",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 281/2021",
+"short": "HCL Satu Mare nr. 281/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://www.primariasm.ro/hotararea-nr-28128102021",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

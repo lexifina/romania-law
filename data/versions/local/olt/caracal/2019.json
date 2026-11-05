@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/olt/caracal/2019",
+ "acts": [
+  {
+   "slug": "hcl-olt--caracal-14-2019",
+   "path": "local/olt/caracal/2019/14",
+   "short": "HCL Caracal nr. 14/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 14/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.14din31.01.2019.pdf",
+     "sha256": "fd4129b7d79cf143802507fef2d50d55ae5133ba869d010d9dce0113171c4453"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-144-2019",
+   "path": "local/olt/caracal/2019/144",
+   "short": "HCL Caracal nr. 144/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 144/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.144din30.09.2019.pdf",
+     "sha256": "c165f4820dc8828ce2449f25acde61456e052fda82ff9f6754bed72985c7ff3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-148-2019",
+   "path": "local/olt/caracal/2019/148",
+   "short": "HCL Caracal nr. 148/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 148/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.148din31.10.2019.pdf",
+     "sha256": "a398c47764d306fdb9ac3eda31c8eba9e86ab3e788f257f71612391845e126b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-15-2019",
+   "path": "local/olt/caracal/2019/15",
+   "short": "HCL Caracal nr. 15/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 15/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.15din31.01.2019.pdf",
+     "sha256": "3ce62838d910ce9c9c2e9fb56e02c53eb38cad4a739b81f86d56da99ef59784c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-188-2019",
+   "path": "local/olt/caracal/2019/188",
+   "short": "HCL Caracal nr. 188/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 188/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.188din23.12.2019.pdf",
+     "sha256": "ba3476f895dfbb50c16ee6c8d0fc1c7ff373fec2112e89c6afc5515ed96b4160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-189-2019",
+   "path": "local/olt/caracal/2019/189",
+   "short": "HCL Caracal nr. 189/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 189/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.189din23.12.2019.pdf",
+     "sha256": "bd5d3b367030e22428fdab2b335658e697e76be865e7aa2abd63c122fa7b124d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-191-2019",
+   "path": "local/olt/caracal/2019/191",
+   "short": "HCL Caracal nr. 191/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 191/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.191din23.12.2019.pdf",
+     "sha256": "d40eeb09fdec29d56cae15326047b774485a2f6e548e46a827da6538420c17e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-39-2019",
+   "path": "local/olt/caracal/2019/39",
+   "short": "HCL Caracal nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 39/2019 pentru staÈiile taxi Ã®n municipiul Caracal Èi a numÄrului locurilor de aÈteptare a clienÈilor",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.39din29.03.2019.pdf",
+     "sha256": "5de3ce0bd34319cd4fc608d940f55bd59510d6f79d5e6093ef367470d9026b05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-47-2019",
+   "path": "local/olt/caracal/2019/47",
+   "short": "HCL Caracal nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 47/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.47din23.04.2019.pdf",
+     "sha256": "d991fe8d79292d549eed0710ac05cb0e4c69b782c3ae4dabdf832c986c2c7f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-64-2019",
+   "path": "local/olt/caracal/2019/64",
+   "short": "HCL Caracal nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 64/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.64din31.05.2019.pdf",
+     "sha256": "fad20be025d9016cc6e5044d99efd41e9c87559152e8dc2af4bd73db79cef869"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-78-2019",
+   "path": "local/olt/caracal/2019/78",
+   "short": "HCL Caracal nr. 78/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 78/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.78din28.06.2019.pdf",
+     "sha256": "280ee38e3364d97ea7002b6050e5d2936bc26b6fc5fc46b74fd0f5996c901e87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-82-2019",
+   "path": "local/olt/caracal/2019/82",
+   "short": "HCL Caracal nr. 82/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 82/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.82din28.06.2019.pdf",
+     "sha256": "29ca3d2e83e11138e17cefd5602d82c708c9440d28de32c4e5f5ca0a07c4e7a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-85-2019",
+   "path": "local/olt/caracal/2019/85",
+   "short": "HCL Caracal nr. 85/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 85/2019",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2019/HCLnr.85din28.06.2019.pdf",
+     "sha256": "d8f1650d45305b25c15bc3c59a9074889f9c32b54c02f342ef6760a578a41659"
+    }
+   ]
+  }
+ ]
+}

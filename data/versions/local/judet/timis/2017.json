@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/timis/2017",
+ "acts": [
+  {
+   "slug": "hcj-timis-306-2017",
+   "path": "local/judet/timis/2017/306",
+   "short": "HCJ Timiș nr. 306/2017",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 306/2017",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/306_HCJT_2025-3-17.pdf",
+   "versions": [
+    {
+     "from": "2017-03-25",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/306_HCJT_2025-3-17.pdf",
+     "sha256": "fe3f682567dfb1376dec973a17b0694f47a5625358133a21222d6d35b611ad1c"
+    }
+   ]
+  }
+ ]
+}

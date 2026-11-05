@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/timis/2020",
+"acts": [
+{
+"slug": "hcj-timis-201-2020",
+"path": "local/judet/timis/2020/201",
+"kind": "local",
+"year": "2020",
+"number": "201",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 201/2020",
+"short": "HCJ Timiș nr. 201/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-20",
+"latest": "2020-07-20",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/201_HCJT_2026.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

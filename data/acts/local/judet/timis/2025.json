@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/judet/timis/2025",
+"acts": [
+{
+"slug": "hcj-timis-57-2025",
+"path": "local/judet/timis/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 57/2025",
+"short": "HCJ Timiș nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/HCJT-ATOP-2025.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-timis-262-2025",
+"path": "local/judet/timis/2025/262",
+"kind": "local",
+"year": "2025",
+"number": "262",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 262/2025 privind aprobarea Statutului Județului Timiș",
+"short": "HCJ Timiș nr. 262/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/HCJT_262_2025.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

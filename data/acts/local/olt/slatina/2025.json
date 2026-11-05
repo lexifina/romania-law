@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/olt/slatina/2025",
+"acts": [
+{
+"slug": "hcl-olt--slatina-443-2025",
+"path": "local/olt/slatina/2025/443",
+"kind": "local",
+"year": "2025",
+"number": "443",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 443/2025",
+"short": "HCL Slatina nr. 443/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "http://www.primariaslatina.ro/proiecte_hotarari.html",
+"council": "olt/slatina",
+"council_name": "Consiliul Local al Municipiului Slatina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

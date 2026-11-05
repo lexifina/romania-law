@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/satu-mare/2022",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--satu-mare-154-2022",
+   "path": "local/satu-mare/satu-mare/2022/154",
+   "short": "HCL Satu Mare nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 154/2022",
+   "url": "https://primariasm.ro/hotararea-nr-15428042022",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2022/154/hcl-154.doc",
+     "sha256": "39b87dcfcb8159f88311a203ccf0a6a2c65fe6e9d92cd07ea1876c4a65b19841"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-155-2022",
+   "path": "local/satu-mare/satu-mare/2022/155",
+   "short": "HCL Satu Mare nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 155/2022",
+   "url": "https://primariasm.ro/hotararea-nr-15528042022",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2022/155/hcl-155.doc",
+     "sha256": "7087a33adfa6548b7fc5bc0e56844df0d401ff23b239a43244e4acbdd228148a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-20-2022",
+   "path": "local/satu-mare/satu-mare/2022/20",
+   "short": "HCL Satu Mare nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 20/2022",
+   "url": "https://primariasm.ro/hotararea-nr-2027012022",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2022/20/hcl-20.doc",
+     "sha256": "cc5cabfeddbc206b3016b3fa1af2d05d1c2caf3fa6bcb73dbf24858328c2c0fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-200-2022",
+   "path": "local/satu-mare/satu-mare/2022/200",
+   "short": "HCL Satu Mare nr. 200/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 200/2022",
+   "url": "https://www.primariasm.ro/hotararea-nr-20030062022",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2022/200/hcl-200-1.doc",
+     "sha256": "99ae0dbfabb487fb1f9c52b4f16f9941cf80fd3f548536953190e2ed3eed9dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-227-2022",
+   "path": "local/satu-mare/satu-mare/2022/227",
+   "short": "HCL Satu Mare nr. 227/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 227/2022",
+   "url": "https://www.primariasm.ro/hotararea-nr-22726072022",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2022/227/hcl-227.doc",
+     "sha256": "754971d89053840131bb600a8920a50befde87d2875945b04a2b324df522c509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-263-2022",
+   "path": "local/satu-mare/satu-mare/2022/263",
+   "short": "HCL Satu Mare nr. 263/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 263/2022",
+   "url": "https://www.primariasm.ro/hotararea-nr-26325082022",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2022/263/hcl-263.doc",
+     "sha256": "2e8a9cf2116e54c88a9adc0372a30e7989a16d7a330ff990f5e33a745ddaa9a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-49-2022",
+   "path": "local/satu-mare/satu-mare/2022/49",
+   "short": "HCL Satu Mare nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 49/2022",
+   "url": "https://primariasm.ro/hotararea-nr-4924022022",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2022/49/hcl-49.doc",
+     "sha256": "e16b4cb49fb0b05c11beaa335975cedb8a1810e44c2f61daab43fa3a613560ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-66-2022",
+   "path": "local/satu-mare/satu-mare/2022/66",
+   "short": "HCL Satu Mare nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 66/2022",
+   "url": "https://primariasm.ro/hotararea-nr-6624022022",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2022/66/hcl-66.docx",
+     "sha256": "e5e91066c70aa7a50a23d9e26259074002cebf3108c1d0956ac307cc02caac6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-80-2022",
+   "path": "local/satu-mare/satu-mare/2022/80",
+   "short": "HCL Satu Mare nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 80/2022",
+   "url": "https://primariasm.ro/hotararea-nr-8031032022",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2022/80/hcl-80.doc",
+     "sha256": "50e8b9d5536b4d0349d1e4f179ce81df49b4f937c51a27b827ce98fb32a0aacc"
+    }
+   ]
+  }
+ ]
+}

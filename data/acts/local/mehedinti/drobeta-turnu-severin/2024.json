@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/drobeta-turnu-severin/2024",
+"acts": [
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-131-2024",
+"path": "local/mehedinti/drobeta-turnu-severin/2024/131",
+"kind": "local",
+"year": "2024",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 131/2024",
+"short": "HCL Drobeta-Turnu Severin nr. 131/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-28",
+"latest": "2024-05-28",
+"portal": "https://primariadrobeta.ro/wp-content/uploads/2026/01/2.-HCL-nr.-131-28.05.2024-actualizare-SIDU-decizie-APM.pdf",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-132-2024",
+"path": "local/mehedinti/drobeta-turnu-severin/2024/132",
+"kind": "local",
+"year": "2024",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 132/2024",
+"short": "HCL Drobeta-Turnu Severin nr. 132/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-28",
+"latest": "2024-05-28",
+"portal": "https://primariadrobeta.ro/wp-content/uploads/2026/01/3.-HCL-nr.-132-28.05.2024-actualizare-PMUDdecizie-APM.pdf",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

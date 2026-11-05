@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2024",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-158-2024",
+   "path": "local/prahova/campina/2024/158",
+   "short": "HCL Câmpina nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 158/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/12/Hotararea-nr158-presedinte-de-sedinta-CL-13-dec-2024.pdf",
+     "sha256": "68d13a70a443923add035ba5e9769615ff71854604bf811ca58ea8eba86fc371"
+    }
+   ]
+  }
+ ]
+}

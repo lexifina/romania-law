@@ -3,6 +3,141 @@
  "shard": "local/judet/valcea/2025",
  "acts": [
   {
+   "slug": "hcj-valcea-41-2025",
+   "path": "local/judet/valcea/2025/41",
+   "short": "HCJ Vâlcea nr. 41/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 41/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot41.pdf",
+     "sha256": "0fa0fa8caed6628f821463824ad01651538c0af0076827a742c1cff039a268f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-42-2025",
+   "path": "local/judet/valcea/2025/42",
+   "short": "HCJ Vâlcea nr. 42/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 42/2025 privind rectificarea Anexei nr.1 și nr.2 la Hotărârea Consiliului Județean Vâlcea nr. 2 din 30 ianuarie 2025, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot42.pdf",
+     "sha256": "c2092679f73c4e920e781002a071d0c0049a6ec83bda8d38e393f7c534f5d82b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-43-2025",
+   "path": "local/judet/valcea/2025/43",
+   "short": "HCJ Vâlcea nr. 43/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 43/2025 privind repartizarea pe unități administrativ – teritoriale a sumelor defalcate din taxa pe valoare adăugată destinate finanțării cheltuielilor privind drumurile județene și comunale, pentru anul 2025 și estimări pe anii 2026-2028 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot43.pdf",
+     "sha256": "0bd88dadbe68d1420e89d3cbe3113f36add559efbe9ea42987fa137d46004910"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-44-2025",
+   "path": "local/judet/valcea/2025/44",
+   "short": "HCJ Vâlcea nr. 44/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 44/2025 privind aprobarea Bugetului propriu al judeţului Vâlcea, a Listei obiectivelor de investiţii ale Consiliului Judeţean Vâlcea, finanţate parţial sau integral de la buget, a numărului de personal şi a fondului aferent salariilor de bază din aparatul de specialitate şi din instituţiile şi serviciile publice finanţate din bugetul local, pe anul 2025 şi estimări pe anii 2026-2028, aprobarea Programului",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot44.pdf",
+     "sha256": "c1cdacde65a028e5b44263e5770fe0803f900445edc400c401d63fbc3cfb83d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-47-2025",
+   "path": "local/judet/valcea/2025/47",
+   "short": "HCJ Vâlcea nr. 47/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 47/2025 privind mandatarea reprezentantului Judeţului Vâlcea în Adunarea Generală a Acționarilor la Societatea APAVIL S.A",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot47.pdf",
+     "sha256": "14d2b48575c887cb9f5ad08c8161300ef93cba6853cdfd91b1462cef026c21b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-48-2025",
+   "path": "local/judet/valcea/2025/48",
+   "short": "HCJ Vâlcea nr. 48/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 48/2025 privind atribuirea acordului cadru și a contractelor subsecvente de lucrări anuale către Regia Autonomă Județeană de Drumuri și Poduri Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot48.pdf",
+     "sha256": "1817895b731fbe71207dea88f70ead405a0d609c78d3341372ef6f84d297a6c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-49-2025",
+   "path": "local/judet/valcea/2025/49",
+   "short": "HCJ Vâlcea nr. 49/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 49/2025 privind modificarea Hotărârii Consiliului Județean Vâlcea nr. 200 din 25 august 2023, referitoare la aprobarea proiectului “Investiții în sistemul informatic și în infrastructura digitală a Spitalului Județean de Urgență Vâlcea” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot49.pdf",
+     "sha256": "ff530aa120b54019b71322cc0387c600de370c1f72c8de4087286a31542abc89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-50-2025",
+   "path": "local/judet/valcea/2025/50",
+   "short": "HCJ Vâlcea nr. 50/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 50/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot50.pdf",
+     "sha256": "2cb6ebe2d27f6f70016d86d256a7b8dfe3e0ff3afdc1c4b504c72b87aa7f1995"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-51-2025",
+   "path": "local/judet/valcea/2025/51",
+   "short": "HCJ Vâlcea nr. 51/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 51/2025 privind modificarea Anexei nr.2 la Hotărârea Consiliului Județean Vâlcea nr.276 din 28 noiembrie 2023 privind stabilirea normativelor proprii de cheltuieli care privesc acțiunile de protocol, dotarea cu autoturisme și consumul de carburanți, aferente Consiliului Județean Vâlcea, precum și instituțiilor și serviciilor publice de interes județean, cu modificările și completările ulterioare Vizualiza",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot51.pdf",
+     "sha256": "da56fa81e03c41e5396c31e63d4c13f415f3efab8741e3e560bd5961b06d8e09"
+    }
+   ]
+  },
+  {
    "slug": "hcj-valcea-52-2025",
    "path": "local/judet/valcea/2025/52",
    "short": "HCJ Vâlcea nr. 52/2025",
@@ -29,6 +164,141 @@
      "units": 1,
      "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot53.pdf",
      "sha256": "064bb910ef763690f8bcdd7ec092f82db92d73b7f61fbd86676fd851a8e50b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-54-2025",
+   "path": "local/judet/valcea/2025/54",
+   "short": "HCJ Vâlcea nr. 54/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 54/2025 privind aprobarea asocierii Judeţului Vâlcea, prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot54.pdf",
+     "sha256": "5359880f035e26b263749ba13383e82089aade002e5e87cad97dac8b92ba4ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-55-2025",
+   "path": "local/judet/valcea/2025/55",
+   "short": "HCJ Vâlcea nr. 55/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 55/2025 privind aprobarea Protocolului de cooperare încheiat între Județul Vâlcea, prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot55.pdf",
+     "sha256": "53297eabfeac43bc18497159672c0c164282ff80278d485d640cdd0d4fb655d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-56-2025",
+   "path": "local/judet/valcea/2025/56",
+   "short": "HCJ Vâlcea nr. 56/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 56/2025 privind aprobarea prelungirii prin Act adiţional, a duratei Protocolului de colaborare pentru realizarea în comun de activităţi, servicii, proiecte, care să conducă la asigurarea de servicii de tehnologia informaţiei şi de comunicaţii, încheiat între Județul Vâlcea prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot56.pdf",
+     "sha256": "48d3ec989c2e5f4d5096a67fe9a98a45d9e227682832545cc51629db108fed76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-57-2025",
+   "path": "local/judet/valcea/2025/57",
+   "short": "HCJ Vâlcea nr. 57/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 57/2025 privind încheierea unui Protocol de colaborare între Județul Vâlcea prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot57.pdf",
+     "sha256": "e6cf72e4be27aaab69301e2a403ce7929c4fe3390a142ae64ccb2e5a419ec320"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-58-2025",
+   "path": "local/judet/valcea/2025/58",
+   "short": "HCJ Vâlcea nr. 58/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 58/2025 privind aprobarea proiectului ”Dezvoltarea serviciilor integrate destinate copiilor cu cerințe educaționale speciale din județul Vâlcea” și a cheltuielilor legate de implementarea și sustenabilitatea acestuia Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot58.pdf",
+     "sha256": "d486c52adf50d0ad69c339a2569fe19d74e2127614f230c7053c97eb6d857e8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-59-2025",
+   "path": "local/judet/valcea/2025/59",
+   "short": "HCJ Vâlcea nr. 59/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 59/2025 privind aprobarea asocierii Judeţului Vâlcea prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot59.pdf",
+     "sha256": "f12b2e803b9e156801434dc668166e8048fbf101ff7c8b057f74ed23c803d711"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-60-2025",
+   "path": "local/judet/valcea/2025/60",
+   "short": "HCJ Vâlcea nr. 60/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 60/2025 privind aprobarea majorării valorii de inventar a unor bunuri imobile aflate în domeniul public al judeţului Vâlcea și în administrarea Muzeului Memorial ”Nicolae Bălcescu” Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot60.pdf",
+     "sha256": "dee51abd93296cb81d05cc560a219c0683560b201b76cd53ec25aeb080b88328"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-61-2025",
+   "path": "local/judet/valcea/2025/61",
+   "short": "HCJ Vâlcea nr. 61/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 61/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot61.pdf",
+     "sha256": "83f201614b65f0c8317ad9f9cc1476265167686c3f8662ad09a0311f77aa93d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-62-2025",
+   "path": "local/judet/valcea/2025/62",
+   "short": "HCJ Vâlcea nr. 62/2025",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 62/2025 privind numirea membrilor în Consiliul de Administrație al Regiei Autonome Județene de Drumuri și Poduri Vâlcea, la propunerea comisiei de selecţie şi nominalizare, în urma finalizării procedurii de selecție și aprobarea modelului cadru al contractului de mandat Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2025/03-25/hotarari/hot62.pdf",
+     "sha256": "be4f20e01e8361f1eaba11dd6c4b586c5e7ca8f53c6b24ddf4c32bebf1e04e2c"
     }
    ]
   }

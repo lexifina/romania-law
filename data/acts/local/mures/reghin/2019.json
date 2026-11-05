@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mures/reghin/2019",
+"acts": [
+{
+"slug": "hcl-mures--reghin-32-2019",
+"path": "local/mures/reghin/2019/32",
+"kind": "local",
+"year": "2019",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Reghin nr. 32/2019",
+"short": "HCL Reghin nr. 32/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-28",
+"latest": "2019-02-28",
+"portal": "https://www.primariareghin.ro/ro/monitorul-oficial-local/statutul-unitatii-administrativ-teritoriale/",
+"council": "mures/reghin",
+"council_name": "Consiliul Local al Municipiului Reghin",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

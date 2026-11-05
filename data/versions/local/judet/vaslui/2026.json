@@ -3,6 +3,411 @@
  "shard": "local/judet/vaslui/2026",
  "acts": [
   {
+   "slug": "hcj-vaslui-10-2026",
+   "path": "local/judet/vaslui/2026/10",
+   "short": "HCJ Vaslui nr. 10/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 10/2026 privind aprobarea contribuției financiare a Județului Vaslui",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr10_2026.pdf",
+     "sha256": "f7760e941157332d94dd44e3bc7fa0353a7dd69c6574c681b9da4adae38802f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-100-2026",
+   "path": "local/judet/vaslui/2026/100",
+   "short": "HCJ Vaslui nr. 100/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 100/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr100_2026.pdf",
+     "sha256": "55dadec2eb0d07638870f0c8e5241df969b22702556fbbeea08ab8b223d14623"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-101-2026",
+   "path": "local/judet/vaslui/2026/101",
+   "short": "HCJ Vaslui nr. 101/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 101/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr101_2026.pdf",
+     "sha256": "def88eaf1e2e956133b13e8e487981f272ae7a1cb3ad82d7f384a63dc851a099"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-102-2026",
+   "path": "local/judet/vaslui/2026/102",
+   "short": "HCJ Vaslui nr. 102/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 102/2026 pentru modificarea poziției nr.28 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.78/2026 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului ”Vasile Pârvan” Bârlad 22 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr102_2026.pdf",
+     "sha256": "81111c884ec183b68418822d28135f0e70689fda79a182b6dda66345c06a49b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-104-2026",
+   "path": "local/judet/vaslui/2026/104",
+   "short": "HCJ Vaslui nr. 104/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 104/2026 pentru modificarea Hotărârii Consiliului Județean Vaslui nr.134/2023 privind aprobarea proiectului „Guvernanță digitală eHealth și interoperabilitate în cadrul Spitalului Județean de Urgență Vaslui”, a cheltuielilor legate de proiect și a încheierii unui acord de parteneriat pentru realizarea proiectului 22 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr104_2026.pdf",
+     "sha256": "907de77553048c8d6307ebd8ac3efdb76802ecb357b20d7e785f7fdeb9948665"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-105-2026",
+   "path": "local/judet/vaslui/2026/105",
+   "short": "HCJ Vaslui nr. 105/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 105/2026 privind rectificarea a II-a a bugetului general centralizat al Județului Vaslui pe anul 2026 22 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr105_2026.pdf",
+     "sha256": "a1a55f9f6cd4a663d1e3e3c6e72a70c7103f0955a90ca0121c046b6f4c517bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-106-2026",
+   "path": "local/judet/vaslui/2026/106",
+   "short": "HCJ Vaslui nr. 106/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 106/2026 privind aprobarea Notei conceptuale și a Temei de proiectare pentru obiectivul de investiție Construire sistem de stocare a energiei electrice la Spitalul Județean de Urgență ”Sfânta Chiriachi” Vaslui 22 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr106_2026.pdf",
+     "sha256": "d1c8b76353ef781d3ccd94885b9b546da8787f49c530171a51e5beccf2996fdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-107-2026",
+   "path": "local/judet/vaslui/2026/107",
+   "short": "HCJ Vaslui nr. 107/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 107/2026 privind aprobarea documentației tehnico-economice, faza Studiu de fezabilitate și a indicatorilor tehnico-economici aferenți obiectivului de investiție Construire sistem de stocare a energiei electrice la Spitalul Județean de Urgență ”Sfânta Chiriachi” Vaslui 22 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr107_2026.pdf",
+     "sha256": "69b03d5358d6d6ac96d886387fd210846df21819a4bdded76f5a7cb152dff743"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-108-2026",
+   "path": "local/judet/vaslui/2026/108",
+   "short": "HCJ Vaslui nr. 108/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 108/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr108_2026.pdf",
+     "sha256": "93025e4decfd0913cc07a0e6f37a4759ec715cdae28ae9ffadf12b89ee75fe7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-109-2026",
+   "path": "local/judet/vaslui/2026/109",
+   "short": "HCJ Vaslui nr. 109/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 109/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr109_2026.pdf",
+     "sha256": "58ad80f69a8eb9ab098ec29eafa4a9cde17dc7608125e20a4c0d25b1bc1ea60d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-11-2026",
+   "path": "local/judet/vaslui/2026/11",
+   "short": "HCJ Vaslui nr. 11/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 11/2026 privind aprobarea proiectului „Centrul de Informare Europe Direct Vaslui” pentru perioada 2026-2030 03 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr11_2026.pdf",
+     "sha256": "e8fc5751e6a95497812fcb065332fa87f2abae6571c6e210b82d995137f4594b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-110-2026",
+   "path": "local/judet/vaslui/2026/110",
+   "short": "HCJ Vaslui nr. 110/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 110/2026 privind aprobarea alipirii a două imobile ce aparțin domeniului public al Județului Vaslui 22 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr110_2026.pdf",
+     "sha256": "aff9d4db11e6a598ac10a2b4eb2ead8dbe570477f9c264491900671c38e3c5e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-111-2026",
+   "path": "local/judet/vaslui/2026/111",
+   "short": "HCJ Vaslui nr. 111/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 111/2026 privind aprobarea închirierii, prin licitație publică, a unui spațiu în suprafață totală de 69,92 mp, aflat în domeniul privat al Județului Vaslui și în administrarea Consiliului Județean Vaslui 22 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr111_2026.pdf",
+     "sha256": "d8179cd4c024eb2b5c17c47457c736b7aaecca116ab9866809916e1a85fa9939"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-112-2026",
+   "path": "local/judet/vaslui/2026/112",
+   "short": "HCJ Vaslui nr. 112/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 112/2026 privind actualizarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 22 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr112_2026.pdf",
+     "sha256": "d33bd3e5fde2edbd8eedcafcd4a29e3a4fb300fe88974b73328b675f66a3f86a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-113-2026",
+   "path": "local/judet/vaslui/2026/113",
+   "short": "HCJ Vaslui nr. 113/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 113/2026 privind validarea desemnării nominale a membrilor Autorităţii Teritoriale de Ordine Publică Vaslui pentru mandatul 2024-2028 22 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr113_2026.pdf",
+     "sha256": "f134ed077f218e52d2195d7f3ec84f51b4432f268df0dc29641938a6d1344bb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-114-2026",
+   "path": "local/judet/vaslui/2026/114",
+   "short": "HCJ Vaslui nr. 114/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 114/2026 pentru modificarea literei i) a punctului 3 al articolului 3 din Hotărârea Consiliului Județean Vaslui nr.161/2024 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui, cu modificările și completările ulterioare 11 august",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr114_2026.pdf",
+     "sha256": "09f7b07d4813abaa6c05733217d9b1c1938ea9a9a2d5e1dceebe1726485971fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-116-2026",
+   "path": "local/judet/vaslui/2026/116",
+   "short": "HCJ Vaslui nr. 116/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 116/2026 privind suplimentarea numărului de posturi și aprobarea organigramei și a statului de funcții al personalului din cadrul Spitalului Județean de Urgență “Sfânta Chiriachi” Vaslui 1 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr116_2026.pdf",
+     "sha256": "3ea8c95eac105a2401e80f689c7ada1907177c9e8512535ff57840962b4b17c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-118-2026",
+   "path": "local/judet/vaslui/2026/118",
+   "short": "HCJ Vaslui nr. 118/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 118/2026 privind propunerea de numire a unui administrator provizoriu în Consiliul de administrație al Societății ”Lucrări Drumuri și Poduri” S.A",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr118_2026.pdf",
+     "sha256": "ba7303148c9edfedf8c5d489839b8368ce001e6980f42598970e0ea75766f627"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-119-2026",
+   "path": "local/judet/vaslui/2026/119",
+   "short": "HCJ Vaslui nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 119/2026 privind stabilirea valorii unitare lei/kilometru aferentă sumei forfetare lunare și a sumei forfetare pe zi, acordate elevilor din județul Vaslui care sunt școlarizați în altă localitate decât cea de domiciliu și care nu beneficiază de existența serviciilor de transport public Având în vedere: - referatul de aprobare nr.32561/04.08.2026 al președintelui Consiliului Județean Vaslui; - referatul Dir",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr119_2026.pdf",
+     "sha256": "ff7964bfcfc6fc139bc773e3ebc0cf843bff021a0ba5322f541a7b40fb14636f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-12-2026",
+   "path": "local/judet/vaslui/2026/12",
+   "short": "HCJ Vaslui nr. 12/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 12/2026 privind aprobarea încheierii unui Protocol de colaborare între Județul Vaslui și Inspectoratul Școlar Județean Vaslui pentru derularea acțiunilor prevăzute în cadrul proiectului „Centrul de Informare Europe Direct Vaslui” 03 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr12_2026.pdf",
+     "sha256": "fde516c423526f383b2a6050bf6317195dabbb63311a951cdcead05b66d1931e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-120-2026",
+   "path": "local/judet/vaslui/2026/120",
+   "short": "HCJ Vaslui nr. 120/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 120/2026 privind aprobarea transmiterii în folosință gratuită pe termen limitat a bunurilor mobile achiziționate în cadrul proiectului ”Extindere Unitate de Primiri Urgențe și Realizare Heliport” către Spitalul Județean de Urgență Vaslui 1 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr120_2026.pdf",
+     "sha256": "a1c11aa75881cd8842f021d8335b63c3bd3392a0f94865392d5f50b3d8148566"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-122-2026",
+   "path": "local/judet/vaslui/2026/122",
+   "short": "HCJ Vaslui nr. 122/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 122/2026 pentru cetățenii europeni din zona transfrontalieră”), a cheltuielilor legate de proiect și a încheierii unui acord de parteneriat 1 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr122_2026.pdf",
+     "sha256": "dfc2e10055e24d7c00d85f1fd3f75f138d60819be16c3fdaa0cc7d1040e1e7b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-123-2026",
+   "path": "local/judet/vaslui/2026/123",
+   "short": "HCJ Vaslui nr. 123/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 123/2026 privind modificarea componenței nominale a Autorității Teritoriale de Ordine Publică Vaslui Având în vedere: - referatul de aprobare nr.34571/18.08.2026 al președintelui Consiliului Județean Vaslui; - adresa Serviciului Teritorial al Poliției de Frontieră Vaslui nr.2.651.223/03.08.2026, înregistrată la",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr123_2026.pdf",
+     "sha256": "cbc9c768083829be0199d90f454b548eafdab863a0cb8c90885db6fba84665f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-124-2026",
+   "path": "local/judet/vaslui/2026/124",
+   "short": "HCJ Vaslui nr. 124/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 124/2026 privind aprobarea participării Județului Vaslui în calitate de membru fondator al Grupării Europene de Cooperare Teritorială „EAST GATE” Având în vedere: - referatul de aprobare nr.35581/26.08.2026 al președintelui Consiliului Județean Vaslui; - invitația de aderare la inițiativa de constituire a Grupării Europene de Cooperare Teritorială „EAST GATE” (GECT), înregistrată la",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr124_2026.pdf",
+     "sha256": "5300ee62e053a161dae57ab321a1b36dc095492ec6cdca14b8cc138199b65c2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-125-2026",
+   "path": "local/judet/vaslui/2026/125",
+   "short": "HCJ Vaslui nr. 125/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 125/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr125_2026.pdf",
+     "sha256": "60572843a706933e8aade86cb0e022ff9f41c3156697958c83e64cfde522545b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-126-2026",
+   "path": "local/judet/vaslui/2026/126",
+   "short": "HCJ Vaslui nr. 126/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 126/2026 privind declararea de interes public județean a unor bunuri imobile Având în vedere: - referatul de aprobare nr.36002/31.08.2026 al președintelui Consiliului Județean Vaslui; - adresele Spitalului Județean de Urgență “Sfânta Chiriachi” Vaslui nr.14886/06.07.2026, înregistrată la",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr126_2026.pdf",
+     "sha256": "6dfc01ecc2969e2f7713ed515576f9dc37ce1d5b67c6f099211cb366ed65df95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-129-2026",
+   "path": "local/judet/vaslui/2026/129",
+   "short": "HCJ Vaslui nr. 129/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 129/2026 privind aprobarea contului de execuţie al bugetului general centralizat al Județului Vaslui la data de 30 iunie 2026 21 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr129_2026.pdf",
+     "sha256": "ea41b28924053c0deb71871976994d52a4ce400edfad21f92bc4bdd5ab85eccc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-13-2026",
    "path": "local/judet/vaslui/2026/13",
    "short": "HCJ Vaslui nr. 13/2026",
@@ -18,6 +423,966 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-130-2026",
+   "path": "local/judet/vaslui/2026/130",
+   "short": "HCJ Vaslui nr. 130/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 130/2026 privind aprobarea solicitării trecerii unui imobil din domeniul public al Comunei Tanacu în domeniul public al Judeţului Vaslui, precum și a constituirii unui drept de servitute de trecere pentru asigurarea accesului la imobilul solicitat 21 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr130_2026.pdf",
+     "sha256": "07ac00307c7114849ef675908507f1691d46cc08ef69992360b85f3988e14467"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-132-2026",
+   "path": "local/judet/vaslui/2026/132",
+   "short": "HCJ Vaslui nr. 132/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 132/2026 privind participarea Unității Administrativ-Teritoriale Județul Vaslui la înființarea Organizației de Management al Destinației (O.M.D.) la nivel regional, pentru regiunea Moldova 21 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr132_2026.pdf",
+     "sha256": "1e8af07c475448323e23b33008c4a3c943f94c7f2f4e6b3e6a4a3076277f8bb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-134-2026",
+   "path": "local/judet/vaslui/2026/134",
+   "short": "HCJ Vaslui nr. 134/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 134/2026 privind aprobarea documentației tehnico-economice, faza Studiu de fezabilitate, și a indicatorilor tehnico-economici aferenți obiectivului de investiție „Construire sistem de stocare a energiei electrice la Spitalul Județean de Urgență Sfânta Chiriachi Vaslui” 21 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr134_2026.pdf",
+     "sha256": "c30e86ac0220d52d2fc946664af24f53ae95308ef83fe449652cd21d2a0e93b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-135-2026",
+   "path": "local/judet/vaslui/2026/135",
+   "short": "HCJ Vaslui nr. 135/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 135/2026 privind aprobarea depunerii proiectului „Construire sistem de stocare a energiei electrice la Spitalul Județean de Urgență Sfânta Chiriachi Vaslui” în cadrul Fondului pentru Modernizare, apelul de proiecte ”Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice” și a cheltuielilor legate de proiec",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr135_2026.pdf",
+     "sha256": "5dd1afcd00a2dba22419122311b13a42bca7a1e5058711d708dd3da69b25b2e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-136-2026",
+   "path": "local/judet/vaslui/2026/136",
+   "short": "HCJ Vaslui nr. 136/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 136/2026 pentru modificarea anexelor nr.2 și nr.3 la Hotărârea Consiliului Județean Vaslui nr.179/2022 privind aprobarea documentației tehnico-economice (faza SF/DALI), a indicatorilor tehnico-economici, a devizului general pentru obiectivul de investiții \"Reabilitare și modernizare DJ 245L: DN 24 (Costești) – Puntișeni – Chițcani – Pârvești – Mănăstirea Pârvești\", aprobat pentru finanțare prin Programul n",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr136_2026.pdf",
+     "sha256": "df83b04654439d79880eedc0aead61c97688975176e9b96f0060703fc2626cf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-137-2026",
+   "path": "local/judet/vaslui/2026/137",
+   "short": "HCJ Vaslui nr. 137/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 137/2026 privind desemnarea reprezentantului Consiliului Județean Vaslui în Consiliul consultativ al Centrului de Asistență Medico-Socială Băcești 21 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr137_2026.pdf",
+     "sha256": "e3e90834e0a5eb4e536574c7a491aaf6bf469c9a7785e596e123b0ff64d056d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-138-2026",
+   "path": "local/judet/vaslui/2026/138",
+   "short": "HCJ Vaslui nr. 138/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 138/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr138_2026.pdf",
+     "sha256": "f7b8cf8bb9cf76eaf49edaa86b7af628e6f6d0dce7725cd7db64d466f7bb8492"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-139-2026",
+   "path": "local/judet/vaslui/2026/139",
+   "short": "HCJ Vaslui nr. 139/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 139/2026 pentru modificarea literei h) a punctului 4 al articolului 3 din Hotărârea Consiliului Județean Vaslui nr.161/2024 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui, cu modificările și completările ulterioare 28 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr139_2026.pdf",
+     "sha256": "737e9397932510a05069989ed44913911becbd7fa4702f9a74c5b6b5a5156934"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-14-2026",
+   "path": "local/judet/vaslui/2026/14",
+   "short": "HCJ Vaslui nr. 14/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 14/2026 privind exploatarea și distribuirea gratuită a 73,78 mc masă lemnoasă 03 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr14_2026.pdf",
+     "sha256": "1929f25e2389fdc875aa457ce15882a8e8f5a8f1f62884e690d34cf899879312"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-140-2026",
+   "path": "local/judet/vaslui/2026/140",
+   "short": "HCJ Vaslui nr. 140/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 140/2026 pentru aprobarea contractării și garantării unei finanțari rambursabile interne în valoare de 90.000.000 lei, în vederea asigurării cofinanțării și prefinanțării proiectelor de interes județean finanțate din fonduri nerambursabile de la Uniunea Europeană 28 septembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr140_2026.pdf",
+     "sha256": "71859cfe651cd393e369f1b18cc61c815439b26d36423885b8f70fde4a84ba45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-142-2026",
+   "path": "local/judet/vaslui/2026/142",
+   "short": "HCJ Vaslui nr. 142/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 142/2026 privind înființarea unei linii de gardă în specialitatea microbiologie medicală, la nivelul Spitalului Județean de Urgență “Sfânta Chiriachi” Vaslui 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr142_2026.pdf",
+     "sha256": "234c2b27e6300d5b9f168b1d698ffce736b801e424533b8530c60fb9d7148a29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-143-2026",
+   "path": "local/judet/vaslui/2026/143",
+   "short": "HCJ Vaslui nr. 143/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 143/2026 privind reorganizarea a șase Locuințe Maxim Protejate și aprobarea regulamentelor de organizare și funcționare a noilor servicii sociale, precum și modificarea unor anexe la Hotărârea Consiliului Județean Vaslui nr.97/2026 privind aprobarea reorganizării unor servicii sociale destinate persoanelor adulte cu dizabilităţi, aflate în structura Direcţiei Generale de Asistență Socială și Protecţia Copi",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr143_2026.pdf",
+     "sha256": "8fdd2cca871eee5a43a2208235b1361c7f4b58a048188ed3ae29f96841422af7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-144-2026",
+   "path": "local/judet/vaslui/2026/144",
+   "short": "HCJ Vaslui nr. 144/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 144/2026 privind aprobarea Regulamentelor de organizare și funcționare a unor servicii sociale, componente funcționale în structura Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr144_2026.pdf",
+     "sha256": "c240898e58c0246a872ab198129591e1aa3628a4dc38429ba6152d56ba365aed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-145-2026",
+   "path": "local/judet/vaslui/2026/145",
+   "short": "HCJ Vaslui nr. 145/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 145/2026 pentru modificarea anexei la Hotărârea Consiliului Județean Vaslui nr.133/2024 privind stabilirea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Vaslui, cu modificările și completările ulterioare 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr145_2026.pdf",
+     "sha256": "f6611fd97ada44c9a0b708850d8b0b33ceb7c272fd17aff3199ede56dea59664"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-147-2026",
+   "path": "local/judet/vaslui/2026/147",
+   "short": "HCJ Vaslui nr. 147/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 147/2026 pentru aprobarea încheierii unui acord de parteneriat între Asociația Salvați Copiii Iași și Direcția Generală de Asistență Socială și Protecția Copilului Vaslui, în vederea depunerii proiectului „SAFE PATHS” 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr147_2026.pdf",
+     "sha256": "819106c4b6a16e23c1fc94176706e23d85aa27c3ff4ae0c07a9ded7f58644a1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-148-2026",
+   "path": "local/judet/vaslui/2026/148",
+   "short": "HCJ Vaslui nr. 148/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 148/2026 pentru modificarea poziției nr.11 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.137/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului Județean “Ștefan cel Mare” Vaslui, cu modificările ulterioare 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr148_2026.pdf",
+     "sha256": "1a0609e17c090d4508867c91f1d4f4261426de6a812d271f97c093a442e7cdbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-15-2026",
+   "path": "local/judet/vaslui/2026/15",
+   "short": "HCJ Vaslui nr. 15/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 15/2026 pentru modificarea anexelor nr. 1 și nr. 2 la Hotărârea Consiliului Județean Vaslui nr.122/2025 pentru aprobarea încheierii unui acord de parteneriat între Asociația Salvați Copiii Iași și Direcția Generală de Asistență Socială și Protecția Copilului Vaslui, în vederea depunerii proiectului „Servicii integrate în vederea dezinstituționalizării pentru tinerii din județul Vaslui”, și a cheltuielilor",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr15_2026.pdf",
+     "sha256": "566a5fe18411a68b629b53bf25e66206b1f019b1cabb805d5102b90c11d282be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-151-2026",
+   "path": "local/judet/vaslui/2026/151",
+   "short": "HCJ Vaslui nr. 151/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 151/2026 pentru modificarea și completarea anexei la Hotărârea Consiliului Judeţean Vaslui nr.23/2016 privind stabilirea consumului de carburanţi pentru mijloacele de transport din dotarea Consiliului judeţean Vaslui, instituțiile și serviciile publice de interes județean, precum și pentru instituțiile publice finanțate de la bugetul local al județului Vaslui, cu modificările și completările ulterioare 02",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr151_2026.pdf",
+     "sha256": "84fc3edcbae1c38b905a9a6473947862172390bdad56a2840f9e972374dd01ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-152-2026",
+   "path": "local/judet/vaslui/2026/152",
+   "short": "HCJ Vaslui nr. 152/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 152/2026 privind transferul cheltuielilor înregistrate la obiectivele de investiții realizate în cadrul proiectului „Reabilitarea sistemului de alimentare cu apa, a sistemului de canalizare și a stațiilor de epurare a apelor uzate din municipiile Vaslui, Bârlad, Huși și orașul Negrești, județul Vaslui, etapa II” către 2 unități administrativ-teritoriale din județul Vaslui 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr152_2026.pdf",
+     "sha256": "6dfe63e17c21e8fad7e1aa0e2a80317d8e092ab4eb05840d7493ecdf4a0f0dde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-153-2026",
+   "path": "local/judet/vaslui/2026/153",
+   "short": "HCJ Vaslui nr. 153/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 153/2026 privind trecerea unui imobil din domeniul public al Județului Vaslui în domeniul public al Comunei Pogana, județul Vaslui 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr153_2026.pdf",
+     "sha256": "aed807d244be3bcbf32683833233cfc8ef82406615e1b05b8b52dcdd5bfa241c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-154-2026",
+   "path": "local/judet/vaslui/2026/154",
+   "short": "HCJ Vaslui nr. 154/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 154/2026 privind declararea unor bunuri imobile de interes public județean 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr154_2026.pdf",
+     "sha256": "11b7958a5daeb8ff2c3b0ddb4c5f391358ea52a5bd0e25d93929808492d55b51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-155-2026",
+   "path": "local/judet/vaslui/2026/155",
+   "short": "HCJ Vaslui nr. 155/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 155/2026 privind desemnarea reprezentanților Consiliului Județean Vaslui în Consiliul de Administrație al Spitalului Județean de Urgență “Sfânta Chiriachi” Vaslui 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr155_2026.pdf",
+     "sha256": "1d0351cebca282e8716c7219d5c18fcb23db291759f98a7e7627ceca0d142543"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-156-2026",
+   "path": "local/judet/vaslui/2026/156",
+   "short": "HCJ Vaslui nr. 156/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 156/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr156_2026.pdf",
+     "sha256": "e4a671f79f940a7d61a37b21c07f6701f94609372a641be0f3684236b382d9a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-157-2026",
+   "path": "local/judet/vaslui/2026/157",
+   "short": "HCJ Vaslui nr. 157/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 157/2026 privind desemnarea unui consilier județean ca membru al Autorității Teritoriale de Ordine Publică Vaslui pentru mandatul 2024-2028 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr157_2026.pdf",
+     "sha256": "94838329382a93ddcc0842597549792579a04a072a014e6caf0917ee3d54fd54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-158-2026",
+   "path": "local/judet/vaslui/2026/158",
+   "short": "HCJ Vaslui nr. 158/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 158/2026 privind actualizarea componenței nominale a membrilor Autorității Teritoriale de Ordine Publică Vaslui 02 noiembrie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr158_2026.pdf",
+     "sha256": "0a8a17257d8bca9857a359bb5a08243b05596ddc71217406a23ac1af91a17ce0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-16-2026",
+   "path": "local/judet/vaslui/2026/16",
+   "short": "HCJ Vaslui nr. 16/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 16/2026 privind aprobarea modificării și completării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr.1727/2010, încheiat între Asociaţia de Dezvoltare Intercomunitară de Utilităţi Publice pentru serviciul de alimentare cu apă şi de canalizare din municipiile Vaslui, Bârlad, Huşi şi oraşul Negreşti – judeţul Vaslui (APC Vaslui) şi operatorul regional Societ",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr16_2026.pdf",
+     "sha256": "d076a65d48c4c609d4211104102fa7d0bb9f8ff989663d462f89e7eac7e3ee73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-17-2026",
+   "path": "local/judet/vaslui/2026/17",
+   "short": "HCJ Vaslui nr. 17/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 17/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr17_2026.pdf",
+     "sha256": "345d9734af56a5061decd1feb50e7fdff216d9ab7078dfcc6f6e93ee00ab0d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-18-2026",
+   "path": "local/judet/vaslui/2026/18",
+   "short": "HCJ Vaslui nr. 18/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 18/2026 pentru modificarea poziției nr.9 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.243/2023 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Direcției Județene de Evidență a Persoanelor Vaslui, cu modificările ulterioare 27 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr18_2026.pdf",
+     "sha256": "ee8e78f1325678b46b992ee20fb1ee4139f0ac547b5f35a92b22134eb1d880de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-19-2026",
+   "path": "local/judet/vaslui/2026/19",
+   "short": "HCJ Vaslui nr. 19/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 19/2026 privind aprobarea regulamentelor de organizare și funcționare a componentelor funcționale din structura Direcției Generale de Asistență Socială și Protecția Copilului Vaslui, înființate prin Hotărârea Consiliului Județean Vaslui nr.185/2025 27 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr19_2026.pdf",
+     "sha256": "d5c58efd447f4c2b3620ab0371b5fccf84c2a67eb3c79b48a6f38336489645f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-2-2026",
+   "path": "local/judet/vaslui/2026/2",
+   "short": "HCJ Vaslui nr. 2/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 2/2026 privind aprobarea Regulamentului de organizare și funcționare a Centrului de Asistență Medico-Socială Băcești 03 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr2_2026.pdf",
+     "sha256": "d323184a03de75d79cc4f0af7e7b5cfc8c3eb43ef6ec3471e50b09d0ef107a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-22-2026",
+   "path": "local/judet/vaslui/2026/22",
+   "short": "HCJ Vaslui nr. 22/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 22/2026 privind aprobarea valorii cotizației Județului Vaslui, în calitate de membru al Asociației pentru Dezvoltare Intercomunitară a județului Vaslui (A.D.I.V.), pentru anul 2026 27 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr22_2026.pdf",
+     "sha256": "237f788aafe47c9767222889983cff0eea47eaae2c537e2d85491f60e3e57fb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-24-2026",
+   "path": "local/judet/vaslui/2026/24",
+   "short": "HCJ Vaslui nr. 24/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 24/2026 pentru modificarea anexelor nr.2 și nr.3 la Hotărârea Consiliului Județean Vaslui nr.179/2022 privind aprobarea documentației tehnico-economice (faza SF/DALI), a indicatorilor tehnico-economici, a devizului general pentru obiectivul de investiții \"Reabilitare și modernizare DJ 245L: DN 24 (Costești) – Puntișeni – Chițcani – Pârvești – Mănăstirea Pârvești\", aprobat pentru finanțare prin Programul n",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr24_2026.pdf",
+     "sha256": "65704a1992d009a4845557f2f736bdba5e06fbefded8c748b5e1e22cde077c66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-25-2026",
+   "path": "local/judet/vaslui/2026/25",
+   "short": "HCJ Vaslui nr. 25/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 25/2026 privind aprobarea încheierii unui Protocol de colaborare între Județul Vaslui și Agenția Națională pentru Mediu și Arii Protejate – Direcția Județeană de Mediu Vaslui pentru derularea acțiunilor prevăzute în cadrul proiectului „Centrul de Informare Europe Direct Vaslui” 27 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr25_2026.pdf",
+     "sha256": "cd3a821ae78abb912c4892af2a5b6bb10d1e19b3864b8d5027e8331dbdefb0bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-26-2026",
+   "path": "local/judet/vaslui/2026/26",
+   "short": "HCJ Vaslui nr. 26/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 26/2026 privind aprobarea încheierii unui Protocol de colaborare între Județul Vaslui și Centrul Judeţean de Resurse şi Asistenţă Educaţională Vaslui pentru derularea activităților comune prevăzute în cadrul proiectelor „Centrul de Informare Europe Direct Vaslui” și „Building Together European Inclusive Education across borders” (BE.IN.ED „Construim împreună o educație europeană favorabilă incluziunii la",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr26_2026.pdf",
+     "sha256": "8b79a18408709748b53d1a685f5b6ea7b3e20c28942478ae060ed0b0d412fac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-28-2026",
+   "path": "local/judet/vaslui/2026/28",
+   "short": "HCJ Vaslui nr. 28/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 28/2026 pentru modificarea literei c) a punctului 2 al articolului 3 din Hotărârea Consiliului Județean Vaslui nr.161/2024 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui, cu modificările și completările ulterioare 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr28_2026.pdf",
+     "sha256": "e6993dd965fc756159c72d53007ba91239c7eadf916aab5e4e66c44d9f542586"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-3-2026",
+   "path": "local/judet/vaslui/2026/3",
+   "short": "HCJ Vaslui nr. 3/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 3/2026 pentru modificarea poziției nr.7 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.154/2024 privind aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare al Centrului Cultural Județean Vaslui, cu modificările și completările ulterioare 03 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr3_2026.pdf",
+     "sha256": "5bdc2736108499099438e1bd06ac89aee6fc65c27c5919911550bc1c1a2f05a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-30-2026",
+   "path": "local/judet/vaslui/2026/30",
+   "short": "HCJ Vaslui nr. 30/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 30/2026 pentru aprobarea Planului de acțiune pentru anul 2026 privind serviciile sociale administrate și finanțate din bugetul Județului Vaslui 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr30_2026.pdf",
+     "sha256": "e8fb826631e4b26c696258e8c4b315ba970a1c1ccf9b87b8ed19f2e4513d3fd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-31-2026",
+   "path": "local/judet/vaslui/2026/31",
+   "short": "HCJ Vaslui nr. 31/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 31/2026 privind desființarea Complexului de Servicii Comunitare pentru Persoane Adulte cu Dizabilități Mălăești-Vutcani, înființarea, prin reorganizare, a Locuinței Maxim Protejate pentru Persoane Adulte cu Dizabilități (LMP) Vutcani și aprobarea Regulamentului de organizare și funcționare al acesteia, precum și pentru modificarea unor anexe la Hotărârile Consiliului Județean Vaslui nr.109/2024 și nr.155/",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr31_2026.pdf",
+     "sha256": "f349a6223dc5a7501f6d5ccc15e2be5018441ce56792e164c416967d3d91cf43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-32-2026",
+   "path": "local/judet/vaslui/2026/32",
+   "short": "HCJ Vaslui nr. 32/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 32/2026 pentru modificarea a trei poziții din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.124/2024 privind reorganizarea aparatului de specialitate al Consiliului Județean Vaslui și aprobarea organigramei și a statului de funcții al personalului din cadrul acestuia, cu modificările ulterioare 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr32_2026.pdf",
+     "sha256": "f36f6f96ff4d347eed5840b013e1e30d30208146f5a58da968ff371e737fb87b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-33-2026",
+   "path": "local/judet/vaslui/2026/33",
+   "short": "HCJ Vaslui nr. 33/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 33/2026 privind stabilirea numărului maxim de posturi corespunzător Județului Vaslui 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr33_2026.pdf",
+     "sha256": "27a03aa06b5e350057e34fc835cc93177eacfef1cc3755ad44866d0fbf481e63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-34-2026",
+   "path": "local/judet/vaslui/2026/34",
+   "short": "HCJ Vaslui nr. 34/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 34/2026 privind utilizarea excedentului bugetului local al Județului Vaslui rezultat la încheierea exercițiului bugetar 2025 ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare a bugetului local al județului pe anul 2026 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr34_2026.pdf",
+     "sha256": "68481e240055982a26b3a078cf3fada030b04c710206ecb505e3fdfa7ad9b73b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-35-2026",
+   "path": "local/judet/vaslui/2026/35",
+   "short": "HCJ Vaslui nr. 35/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 35/2026 privind aprobarea contului de execuţie al bugetului general centralizat al Județului Vaslui la data de 31 decembrie 2025 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr35_2026.pdf",
+     "sha256": "a53b1b08afc3bcda2f7f285fe8ebc533ce2143ea12cc0488f4761846f6622da5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-36-2026",
+   "path": "local/judet/vaslui/2026/36",
+   "short": "HCJ Vaslui nr. 36/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 36/2026 privind stabilirea nivelului alocației zilnice de hrană pentru beneficiarii serviciilor furnizate de către Centrul de Asistență Medico-Socială Băcești 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr36_2026.pdf",
+     "sha256": "d252155dd25594db54b9e9af0af91c7303b4a5a192b2c5242e923331137d490e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-37-2026",
+   "path": "local/judet/vaslui/2026/37",
+   "short": "HCJ Vaslui nr. 37/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 37/2026 privind aprobarea valorii cotizației Județului Vaslui, în calitate de membru al Asociației pentru Dezvoltare Intercomunitară de Utilități Publice pentru Serviciul de Alimentare cu Apă și de Canalizare din Municipiile Vaslui, Bârlad, Huși și Orașul Negrești - județul Vaslui (APC VASLUI), pentru anul 2026 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr37_2026.pdf",
+     "sha256": "6b777eadfe75bc61ba7163a6e1ccc1c7f02fb0f333f971c95845741975c1300d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-38-2026",
+   "path": "local/judet/vaslui/2026/38",
+   "short": "HCJ Vaslui nr. 38/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 38/2026 privind aprobarea Acordului de cooperare între Județul Vaslui din România și Raionul Fălești din Republica Moldova 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr38_2026.pdf",
+     "sha256": "e3dd02997fab350c93d71e005e5403797c8a8c209335a24d037c0e3bf662dc50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-39-2026",
+   "path": "local/judet/vaslui/2026/39",
+   "short": "HCJ Vaslui nr. 39/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 39/2026 pentru aprobarea proiectului „Asistență medicală de urgență prespitalicească salvează vieți-PreMED” implementat de Asociația de Dezvoltare Intercomunitară EURONEST și a contribuției financiare aferente Județului Vaslui 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr39_2026.pdf",
+     "sha256": "2f8bc8601131afa830844d7f6f4663fa8fc01783d85a8659be1a6bf4ebf64cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-4-2026",
+   "path": "local/judet/vaslui/2026/4",
+   "short": "HCJ Vaslui nr. 4/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 4/2026 pentru modificarea pozițiilor nr.48 și nr.54 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.124/2024 privind reorganizarea aparatului de specialitate al Consiliului Județean Vaslui și aprobarea organigramei și a statului de funcții al personalului din cadrul acestuia, cu modificările ulterioare 03 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr4_2026.pdf",
+     "sha256": "ed6498a879bf64877609990c17b3fe56b2c331cb994c4632bfa6c329ad7ca9ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-40-2026",
+   "path": "local/judet/vaslui/2026/40",
+   "short": "HCJ Vaslui nr. 40/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 40/2026 privind exploatarea și distribuirea gratuită a 77,68 mc masă lemnoasă 25 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr40_2026.pdf",
+     "sha256": "df29ca89312880b4d9d053ac0fbd870580586f726aff6ed627e00820384dd491"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-41-2026",
+   "path": "local/judet/vaslui/2026/41",
+   "short": "HCJ Vaslui nr. 41/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 41/2026 pentru modificarea anexelor nr.2 și nr.3 la Hotărârea Consiliului Județean Vaslui nr.197/2022 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici aferenți obiectivului de investiții ”Construire secții Spitalul nr.2 Vaslui” 31 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr41_2026.pdf",
+     "sha256": "7733ca0fdbd0852e8859d2a09b065ed152ed3f18f0210286d6329d6ead5deb94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-42-2026",
+   "path": "local/judet/vaslui/2026/42",
+   "short": "HCJ Vaslui nr. 42/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 42/2026 privind aprobarea depunerii proiectului „Construire secții la Spitalul nr.2 Vaslui” în cadrul Programului Sănătate 2021-2027 și a cheltuielilor legate de proiect 31 martie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr42_2026.pdf",
+     "sha256": "0d0a90700b7752b5cb4619484242163a7cf6738c6bbfdb004e87dc5b6af04e7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-43-2026",
+   "path": "local/judet/vaslui/2026/43",
+   "short": "HCJ Vaslui nr. 43/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 43/2026 privind repartizarea pe unităţi administrativ-teritoriale ale judeţului Vaslui a unor sume defalcate din unele venituri ale bugetului de stat pentru anul 2026 și estimările sumelor defalcate ce urmează a fi repartizate pentru anii 2027-2029 20 aprilie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr43_2026.pdf",
+     "sha256": "4b7cae848ea243f91e392ddc6baf04ec24f4591273ee1cad33cfa3fc716ec4da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-44-2026",
+   "path": "local/judet/vaslui/2026/44",
+   "short": "HCJ Vaslui nr. 44/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 44/2026 privind suportarea din bugetul local al Județului Vaslui a procentului de 20% din suma estimată a se deconta în anul 2026 de la bugetul de stat pentru 4 (patru) obiective de investiții finanțate prin Programul național de investiții „Anghel Saligny” 20 aprilie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr44_2026.pdf",
+     "sha256": "515a92a9c5e7971537b05a85e79985ccba2c255db0697cde7574fdf3ebf85358"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-46-2026",
+   "path": "local/judet/vaslui/2026/46",
+   "short": "HCJ Vaslui nr. 46/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 46/2026 pentru modificarea poziției nr.47 din anexa nr.2 la Hotărârea Consiliului Județean Vaslui nr.137/2021 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului Județean “Ștefan cel Mare” Vaslui, cu modificările ulterioare 06 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr46_2026.pdf",
+     "sha256": "e3a0f09d1a90ea98c841d80e9646709a96b2ae83853276a2aff5cf619e22e6a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-47-2026",
+   "path": "local/judet/vaslui/2026/47",
+   "short": "HCJ Vaslui nr. 47/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 47/2026 privind aprobarea bugetului general centralizat al Județului Vaslui pe anul 2026 și a estimărilor pentru anii 2027-2029 06 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr47_2026.pdf",
+     "sha256": "98161e6f07bbd48e0b4bbe858c19f055a4752e939435a002add83e2f21dc8612"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-48-2026",
+   "path": "local/judet/vaslui/2026/48",
+   "short": "HCJ Vaslui nr. 48/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 48/2026 privind aprobarea bugetului de venituri şi cheltuieli al Societăţii \"Lucrări Drumuri şi Poduri\" S.A",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr48_2026.pdf",
+     "sha256": "b2bb912a5514f0fd0e9e4956d4dad1fc40d4c236909fbd9e403f553756935691"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-49-2026",
+   "path": "local/judet/vaslui/2026/49",
+   "short": "HCJ Vaslui nr. 49/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 49/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr49_2026.pdf",
+     "sha256": "df1448772775b51b271e030090832d1180fa5e41171718d4d8e0200afc3a24ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-5-2026",
+   "path": "local/judet/vaslui/2026/5",
+   "short": "HCJ Vaslui nr. 5/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 5/2026 privind aprobarea efectuării în anul 2026 a concediului de odihnă neefectuat în anul 2025 de către persoanele cu funcții de demnitate publică din conducerea Consiliului Județean Vaslui 03 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr5_2026.pdf",
+     "sha256": "3db0390403db01f3ccf4867ca6f7b9795875506dbda41ad447d6ea6aa0f61f8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-50-2026",
+   "path": "local/judet/vaslui/2026/50",
+   "short": "HCJ Vaslui nr. 50/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 50/2026 privind aprobarea alocării sumei de 217.496 lei din bugetul local al Județului Vaslui pentru finanțarea olimpiadelor școlare pe discipline, faza județeană, și a unor concursuri școlare, etapa județeană/națională, desfășurate în anul școlar 2025-2026 06 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr50_2026.pdf",
+     "sha256": "acc7880e975c4e1ed7ea74cb8a140995c2da28adc8a3769c5ab58c94101ac2f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-51-2026",
+   "path": "local/judet/vaslui/2026/51",
+   "short": "HCJ Vaslui nr. 51/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 51/2026 privind implementarea unui sistem de management pentru flota de transport rutier deținută de",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr51_2026.pdf",
+     "sha256": "cfba5cbe3fe438c76757571b9b09c68201151babb366a0ced60cbf5ae6b74fab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-52-2026",
+   "path": "local/judet/vaslui/2026/52",
+   "short": "HCJ Vaslui nr. 52/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 52/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr52_2026.pdf",
+     "sha256": "a9a9cee5a13b0e70d6f633c24be75ec363938feaf7f0df6a6995d5fcd1f87196"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-53-2026",
+   "path": "local/judet/vaslui/2026/53",
+   "short": "HCJ Vaslui nr. 53/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 53/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr53_2026.pdf",
+     "sha256": "516ba9ff52b2e06dc6533cb48d50513813649c4db16905fd07db21a2d366fb53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-54-2026",
+   "path": "local/judet/vaslui/2026/54",
+   "short": "HCJ Vaslui nr. 54/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 54/2026 privind declararea de interes public județean a unor bunuri imobile 06 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr54_2026.pdf",
+     "sha256": "65b0d3a5a81675c91a5dc3268788d1e5776da2803f783a56bce1ed7d9b72ab40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-55-2026",
+   "path": "local/judet/vaslui/2026/55",
+   "short": "HCJ Vaslui nr. 55/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 55/2026 privind aprobarea concesionării, prin licitație publică, a unui spațiu cu destinația de laborator (cabinet) tehnică dentară, aflat în domeniul privat al Județului Vaslui și în administrarea Consiliului Județean Vaslui 06 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr55_2026.pdf",
+     "sha256": "8535bc866a018102f4f81a0aef8a0e0bf70f9da28027835503a0bed94ad46526"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-56-2026",
+   "path": "local/judet/vaslui/2026/56",
+   "short": "HCJ Vaslui nr. 56/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 56/2026 privind aprobarea Programului județean pentru finanțarea nerambursabilă a activităților nonprofit de interes public județean pentru anul 2026 06 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr56_2026.pdf",
+     "sha256": "8827ed0d565a156fcd4663f59339f5b137fa4507cb415e710122e79e6ee24c39"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-57-2026",
    "path": "local/judet/vaslui/2026/57",
    "short": "HCJ Vaslui nr. 57/2026",
@@ -29,6 +1394,591 @@
      "units": 8,
      "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr57_2026.pdf",
      "sha256": "e8e9e9fe9cc2634c9e81823e4d7d01e5f0f8cc7ce3d7235a07eacb870a72c42a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-58-2026",
+   "path": "local/judet/vaslui/2026/58",
+   "short": "HCJ Vaslui nr. 58/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 58/2026 pentru aprobarea încheierii unui protocol între Biserica Adventistă de Ziua a Șaptea - Conferința Moldova, Județul Vaslui și Centrul Cultural Județean Vaslui 06 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr58_2026.pdf",
+     "sha256": "cbfa6916801b6240f06150afb84431ec67d664217e1ef603cb1e7dc944865189"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-59-2026",
+   "path": "local/judet/vaslui/2026/59",
+   "short": "HCJ Vaslui nr. 59/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 59/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr59_2026.pdf",
+     "sha256": "6aa43ead2036b1ef90c39ec84b845df6f852a4934413bbdbfffb17273eec1ffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-6-2026",
+   "path": "local/judet/vaslui/2026/6",
+   "short": "HCJ Vaslui nr. 6/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 6/2026 privind aprobarea constituirii Comisiei de selecție și nominalizare pentru realizarea procedurii de selecție a 3 (trei) membri în Consiliul de administrație al Societății „Lucrări Drumuri și Poduri” S.A",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr6_2026.pdf",
+     "sha256": "b020ffd1d1a25ccc7800ddcf215a81ddddb7eb89e553013a4bce6e04afec229e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-60-2026",
+   "path": "local/judet/vaslui/2026/60",
+   "short": "HCJ Vaslui nr. 60/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 60/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr60_2026.pdf",
+     "sha256": "75a3f1230abf20acc4747843bff34036c601f314a35809717d075c8db42caf38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-61-2026",
+   "path": "local/judet/vaslui/2026/61",
+   "short": "HCJ Vaslui nr. 61/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 61/2026 privind aprobarea Planului de analiză și acoperire a riscurilor pe teritoriul județului Vaslui 25 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr61_2026.pdf",
+     "sha256": "492af54e37665a2029a17be10cfbee12141bb4dcc3b2dc72d34482d5b7c3dc02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-62-2026",
+   "path": "local/judet/vaslui/2026/62",
+   "short": "HCJ Vaslui nr. 62/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 62/2026 privind aprobarea încheierii unui Acord de parteneriat între Județul Vaslui și Clubul Copiilor ”Spiru Haret” Bârlad în vederea desfășurării în parteneriat a activităților propuse pentru finanțare în anul 2026 25 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr62_2026.pdf",
+     "sha256": "6c8ebe2147310f8b1a496f1b0606f6c0ee8b74c4bcd02028a9f10c274f117dd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-63-2026",
+   "path": "local/judet/vaslui/2026/63",
+   "short": "HCJ Vaslui nr. 63/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 63/2026 privind aprobarea încheierii unui Acord de parteneriat între Județul Vaslui și Palatul Copiilor Vaslui în vederea desfășurării în parteneriat a activităților propuse pentru finanțare în anul 2026 25 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr63_2026.pdf",
+     "sha256": "109412fc6f1f1f4879628336333b45ef15db36fc51989681b540c9975928ec94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-64-2026",
+   "path": "local/judet/vaslui/2026/64",
+   "short": "HCJ Vaslui nr. 64/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 64/2026 privind aprobarea încheierii unui Acord de parteneriat între Județul Vaslui și Centrul Județean de Excelență Vaslui în vederea desfășurării în parteneriat a activităților propuse pentru finanțare în anul 2026 25 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr64_2026.pdf",
+     "sha256": "8c2755dfafd95534e9659552aee20a155d23a0b304462c282716d9b927b27d8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-67-2026",
+   "path": "local/judet/vaslui/2026/67",
+   "short": "HCJ Vaslui nr. 67/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 67/2026 privind aprobarea majorării cuantumului cotizației Județului Vaslui",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr67_2026.pdf",
+     "sha256": "b3517448892fadf9cbb1a0c27ceac5f796ffe00e78d3c609b0385eee289dbf34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-68-2026",
+   "path": "local/judet/vaslui/2026/68",
+   "short": "HCJ Vaslui nr. 68/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 68/2026 privind aprobarea solicitării trecerii unui imobil din domeniul public al Comunei Costești în domeniul public al Judeţului Vaslui 25 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr68_2026.pdf",
+     "sha256": "d88746527952648b242bc93a5839362d685a9c766a4d07b785ec54f9af070b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-69-2026",
+   "path": "local/judet/vaslui/2026/69",
+   "short": "HCJ Vaslui nr. 69/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 69/2026 privind transmiterea fără plată a unor bunuri din domeniul privat al Județului Vaslui, achiziționate în cadrul proiectului „Dotarea cu echipamente electronice a unităților de învățământ special din subordinea UAT Județul Vaslui” 25 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr69_2026.pdf",
+     "sha256": "dd6f30e94bc471a2d72f3200e615becabf8359a7a0a3a3584d575f93e58db0be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-7-2026",
+   "path": "local/judet/vaslui/2026/7",
+   "short": "HCJ Vaslui nr. 7/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 7/2026 privind aprobarea componentei inițiale a planului de selecție și a scrisorii de așteptări pentru realizarea procedurii de selecție a 3 (trei) membri în Consiliul de administrație al Societății „Lucrări Drumuri și Poduri” S.A",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr7_2026.pdf",
+     "sha256": "915a52d5d5355596dd4c701dfb58bc5219e917f9fdec746a1047375eedfeffed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-70-2026",
+   "path": "local/judet/vaslui/2026/70",
+   "short": "HCJ Vaslui nr. 70/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 70/2026 pentru completarea articolului 3 din anexa la Hotărârea Consiliului Județean Vaslui nr.64/2023 pentru înființarea Comitetului pentru accelerarea procesului de dezinstituționalizare și de prevenire a instituționalizării la nivelul județului Vaslui și pentru aprobarea regulamentului de organizare și funcționare a acestuia, cu modificările și completările ulterioare 25 mai",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr70_2026.pdf",
+     "sha256": "b849bcf9d71607509acb933c2e02c5e5765896898337112c8edbd89ea0f0f314"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-72-2026",
+   "path": "local/judet/vaslui/2026/72",
+   "short": "HCJ Vaslui nr. 72/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 72/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr72_2026.pdf",
+     "sha256": "bffbfd49b3c8c9414b9266642d2d6ae0d19f0789b16366bdaf2ee4ce47b1d636"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-73-2026",
+   "path": "local/judet/vaslui/2026/73",
+   "short": "HCJ Vaslui nr. 73/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 73/2026 privind aprobarea modificării articolului 2 la Hotărârea Consiliului Județean Vaslui nr.126/2025 privind aprobarea proiectului „Creșterea eficienței energetice a C.S.E.I",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr73_2026.pdf",
+     "sha256": "9a09e69daaab78e006697160b04fcd7f2837916d1f0178f47a78f2108fd7934b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-74-2026",
+   "path": "local/judet/vaslui/2026/74",
+   "short": "HCJ Vaslui nr. 74/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 74/2026 privind rectificarea bugetului general centralizat al Județului Vaslui pe anul 2026 08 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr74_2026.pdf",
+     "sha256": "f9ee2a86da20f029fa00bc721187ec715c1b45acd7934f82b332a6b16aa27c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-75-2026",
+   "path": "local/judet/vaslui/2026/75",
+   "short": "HCJ Vaslui nr. 75/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 75/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr75_2026.pdf",
+     "sha256": "280d3eafee63e1799d00984c0dc97427ef23501a55c220734f9597d1033d49a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-76-2026",
+   "path": "local/judet/vaslui/2026/76",
+   "short": "HCJ Vaslui nr. 76/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 76/2026 pentru modificarea articolului 3 din Hotărârea Consiliului Județean Vaslui nr.161/2024 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui, cu modificările și completările ulterioare 18 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr76_2026.pdf",
+     "sha256": "7d4fc2ecee73fabf3611c2c6e89762d952d25c121c1e3db5ab18055abe81c3db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-77-2026",
+   "path": "local/judet/vaslui/2026/77",
+   "short": "HCJ Vaslui nr. 77/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 77/2026 privind aprobarea actualizării Monografiei economico-militare a Judeţului Vaslui, ediția 2026 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr77_2026.pdf",
+     "sha256": "12caae0db94e8f9765faf8b514327a4898906bd6f6dfbc302e5a330f76f46bc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-78-2026",
+   "path": "local/judet/vaslui/2026/78",
+   "short": "HCJ Vaslui nr. 78/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 78/2026 privind aprobarea organigramei și a statului de funcții al personalului din cadrul Muzeului ”Vasile Pârvan” Bârlad 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr78_2026.pdf",
+     "sha256": "b22a84ab701e0aa508bc74cb967a29999f79b07bbeb71aaac10d587812128238"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-79-2026",
+   "path": "local/judet/vaslui/2026/79",
+   "short": "HCJ Vaslui nr. 79/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 79/2026 privind aprobarea Regulamentului de organizare și funcționare a Muzeului ”Vasile Pârvan” Bârlad 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr79_2026.pdf",
+     "sha256": "bd9b11238a5ba18c263130ea92dd17c2de9e9440136f9c7b44120d1ed9907bfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-8-2026",
+   "path": "local/judet/vaslui/2026/8",
+   "short": "HCJ Vaslui nr. 8/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 8/2026 privind aprobarea cuantumului cotizației Consiliului Județean Vaslui la Uniunea Națională a Consiliilor Județene din România, pentru anul 2026 03 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr8_2026.pdf",
+     "sha256": "ba8931d6a20432c0e789741a1954efd7aed1f54f806f3367ca334eb9c41badea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-80-2026",
+   "path": "local/judet/vaslui/2026/80",
+   "short": "HCJ Vaslui nr. 80/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 80/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr80_2026.pdf",
+     "sha256": "1047f82f128755af62f0c91d53c9a2c1e84cd81458204c02c712544360d53496"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-81-2026",
+   "path": "local/judet/vaslui/2026/81",
+   "short": "HCJ Vaslui nr. 81/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 81/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr81_2026.pdf",
+     "sha256": "4b3a082d29995844265ff56425aef5ea41ef270d77ec47eead0017c53c083083"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-83-2026",
+   "path": "local/judet/vaslui/2026/83",
+   "short": "HCJ Vaslui nr. 83/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 83/2026 pentru modificarea anexelor nr.1 și nr.2 la Hotărârea Consiliului Județean Vaslui nr.92/2023 privind stabilirea salariilor de bază pentru funcționarii publici și pentru personalul contractual din familia ocupațională ”Administrație” din cadrul Direcției Județene de Evidență a Persoanelor Vaslui, cu modificările ulterioare 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr83_2026.pdf",
+     "sha256": "16045895a3a5fa97b065181ff4b933702b5049e545bd37af8c5e369141e66c03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-84-2026",
+   "path": "local/judet/vaslui/2026/84",
+   "short": "HCJ Vaslui nr. 84/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 84/2026 pentru modificarea anexei nr.2 la Hotărârea Consiliului Județean Vaslui nr.91/2023 privind stabilirea salariilor de bază pentru funcționarii publici și pentru personalul contractual din familia ocupațională ”Administrație” din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Vaslui, cu modificările ulterioare 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr84_2026.pdf",
+     "sha256": "e41892280e4aca8cc54fc3113ddb572b50ecb29a1b65bd3d06296b6a90013e0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-85-2026",
+   "path": "local/judet/vaslui/2026/85",
+   "short": "HCJ Vaslui nr. 85/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 85/2026 pentru modificarea anexei nr.2 la Hotărârea Consiliului Județean Vaslui nr.93/2023 privind stabilirea salariilor de bază pentru funcționarii publici și pentru personalul contractual din cadrul aparatului de specialitate al Consiliului Județean Vaslui, cu modificările ulterioare 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr85_2026.pdf",
+     "sha256": "483535c94dad77ab1833b10bb62198957d14043629b03fe9a4b60d0c4fccc5ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-86-2026",
+   "path": "local/judet/vaslui/2026/86",
+   "short": "HCJ Vaslui nr. 86/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 86/2026 privind aprobarea contului de execuţie al bugetului general centralizat al Județului Vaslui la data de 31 martie 2026 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr86_2026.pdf",
+     "sha256": "11579fc19e3285365691bcdb57ee9846e4bae4a1caec11865882d90ac0e14540"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-87-2026",
+   "path": "local/judet/vaslui/2026/87",
+   "short": "HCJ Vaslui nr. 87/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 87/2026 privind aprobarea taxelor și tarifelor locale pentru anul fiscal 2027, care constituie venituri la bugetul local al județului și la bugetul instituțiilor subordonate 26 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr87_2026.pdf",
+     "sha256": "de8a83a48ddd66bcc7879ddd900e2f4864be7b8b2a6c80098ef77f8dea131397"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-88-2026",
+   "path": "local/judet/vaslui/2026/88",
+   "short": "HCJ Vaslui nr. 88/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 88/2026 privind modificarea și completarea Actului constitutiv al Societății „Lucrări Drumuri şi Poduri” S.A",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr88_2026.pdf",
+     "sha256": "3fdcb2ad991b42caa59d89fa001b4d4bc1c09915530a4ef7048dc67a818480fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-89-2026",
+   "path": "local/judet/vaslui/2026/89",
+   "short": "HCJ Vaslui nr. 89/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 89/2026 privind propunerea de numire a unui administrator provizoriu în Consiliul de administrație al Societății ”Lucrări Drumuri și Poduri” S.A",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr89_2026.pdf",
+     "sha256": "7450096f0d9e162bfda0e61d586fbd013ae63000092df9f85da464acdf23a404"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-9-2026",
+   "path": "local/judet/vaslui/2026/9",
+   "short": "HCJ Vaslui nr. 9/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 9/2026 privind aprobarea contribuției financiare a Județului Vaslui, în calitate de membru al Adunării Regiunilor Europene, pentru anul 2026 03 februarie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr9_2026.pdf",
+     "sha256": "225a726860dc3b2cf3b00f54b5a81f2385a30773370561dcac271f73123e85e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-90-2026",
+   "path": "local/judet/vaslui/2026/90",
+   "short": "HCJ Vaslui nr. 90/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 90/2026 pentru completarea Hotărârii Consiliului Județean Vaslui nr.13/2014 privind solicitarea transmiterii unei părți din imobilul 1563, situat în localitatea Muntenii de Jos, județul Vaslui, din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al județului Vaslui și în administrarea Consiliului Județean Vaslui, cu modificările și completările ulterioar",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr90_2026.pdf",
+     "sha256": "0434496aa7037454301c4d2d9c996bdcc0b47615294a64ea71ee86a9311dcde7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-93-2026",
+   "path": "local/judet/vaslui/2026/93",
+   "short": "HCJ Vaslui nr. 93/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 93/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr93_2026.pdf",
+     "sha256": "515979adc03dccfda9b0a3d5b2b46b0af5711709aed5fb349effaa1b34b1c192"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-94-2026",
+   "path": "local/judet/vaslui/2026/94",
+   "short": "HCJ Vaslui nr. 94/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 94/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr94_2026.pdf",
+     "sha256": "395608d9df65703bab349366329acb8549d444bc458a624e42af1cd4082ea50c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-95-2026",
+   "path": "local/judet/vaslui/2026/95",
+   "short": "HCJ Vaslui nr. 95/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 95/2026",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr95_2026.pdf",
+     "sha256": "b5e297d6f03324f483625204af78476180a1e6f30fdfede066f806738b1c936d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-97-2026",
+   "path": "local/judet/vaslui/2026/97",
+   "short": "HCJ Vaslui nr. 97/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 97/2026 privind aprobarea reorganizării unor servicii sociale destinate persoanelor adulte cu dizabilităţi, aflate în structura Direcţiei Generate de Asistență Socială și Protecţia Copilului Vaslui 30 iunie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr97_2026.pdf",
+     "sha256": "a9805a133cdb8a0582025df16a30bf9cb5175c25108a5ee9e3012ce6c067fb5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-98-2026",
+   "path": "local/judet/vaslui/2026/98",
+   "short": "HCJ Vaslui nr. 98/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 98/2026 pentru modificarea literei b) a punctului 1 al articolului 3 din Hotărârea Consiliului Județean Vaslui nr.161/2024 privind organizarea comisiilor de specialitate ale Consiliului Județean Vaslui, cu modificările și completările ulterioare 13 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr98_2026.pdf",
+     "sha256": "9af4931de8528d25d54b4814299d8ff5a4ecbd18fc46aeb257568d6854c9de8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vaslui-99-2026",
+   "path": "local/judet/vaslui/2026/99",
+   "short": "HCJ Vaslui nr. 99/2026",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 99/2026 privind aprobarea regulamentelor de organizare și funcționare a unor Locuințe Asistate în Comunitate pentru Viață Independentă, componente funcționale în structura Direcției Generale de Asistență Socială și Protecția Copilului Vaslui 13 iulie",
+   "url": "https://cjvs.eu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2026/HotarareaNr99_2026.pdf",
+     "sha256": "5381f0dcd43f418697254c3f043508609c5ec5a59d19b722a840b677db275ed3"
     }
    ]
   }

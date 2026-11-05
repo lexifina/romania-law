@@ -1,0 +1,141 @@
+{
+"country": "RO",
+"shard": "local/olt/caracal/2015",
+"acts": [
+{
+"slug": "hcl-olt--caracal-8-2015",
+"path": "local/olt/caracal/2015/8",
+"kind": "local",
+"year": "2015",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 8/2015 privind numirea reprezentanÅ£ilor Consiliului local al municipiului Caracal Ã®n consiliile de administraÅ£ie ale unitÄÅ£ilor de Ã®nvÄÅ£ÄmÃ¢nt preuniversitar din municipiul Caracal",
+"short": "HCL Caracal nr. 8/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-02-27",
+"latest": "2015-02-27",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-25-2015",
+"path": "local/olt/caracal/2015/25",
+"kind": "local",
+"year": "2015",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 25/2015",
+"short": "HCL Caracal nr. 25/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-03-31",
+"latest": "2015-03-31",
+"portal": null,
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--caracal-42-2015",
+"path": "local/olt/caracal/2015/42",
+"kind": "local",
+"year": "2015",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 42/2015",
+"short": "HCL Caracal nr. 42/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-04-30",
+"latest": "2015-04-30",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-43-2015",
+"path": "local/olt/caracal/2015/43",
+"kind": "local",
+"year": "2015",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 43/2015",
+"short": "HCL Caracal nr. 43/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-04-30",
+"latest": "2015-04-30",
+"portal": null,
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--caracal-57-2015",
+"path": "local/olt/caracal/2015/57",
+"kind": "local",
+"year": "2015",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 57/2015 privind numirea reprezentanÅ£ilor Consiliului local al municipiului Caracal Ã®n consiliile de administraÅ£ie ale unitÄÅ£ilor de Ã®nvÄÅ£ÄmÃ¢nt preuniversitar din municipiul Caracal",
+"short": "HCL Caracal nr. 57/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-05-28",
+"latest": "2015-05-28",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-62-2015",
+"path": "local/olt/caracal/2015/62",
+"kind": "local",
+"year": "2015",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 62/2015",
+"short": "HCL Caracal nr. 62/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-06-29",
+"latest": "2015-06-29",
+"portal": null,
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

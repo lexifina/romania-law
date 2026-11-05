@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/satu-mare/2018",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--satu-mare-100-2018",
+   "path": "local/satu-mare/satu-mare/2018/100",
+   "short": "HCL Satu Mare nr. 100/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 100/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-10026042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-100.doc",
+     "sha256": "9942266ef7b6e2d8a9ecf7509b11214bef54587f18685ad342d62c745ed80994"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-101-2018",
+   "path": "local/satu-mare/satu-mare/2018/101",
+   "short": "HCL Satu Mare nr. 101/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 101/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-10126042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-101.doc",
+     "sha256": "9cec73a52f5869dc56d9fa2c126e571ca48ba5254f60642e1d48e6578c07150b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-102-2018",
+   "path": "local/satu-mare/satu-mare/2018/102",
+   "short": "HCL Satu Mare nr. 102/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 102/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-10226042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-102.doc",
+     "sha256": "767ed24ccab1de34c9ad3bd5aa2e5acd93606ef35b17216bbbd55701f8fe5711"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-103-2018",
+   "path": "local/satu-mare/satu-mare/2018/103",
+   "short": "HCL Satu Mare nr. 103/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 103/2018",
+   "url": "https://www.primariasm.ro/hotararea-ner-10326042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-103.doc",
+     "sha256": "e1e5964c1e7a951207ac8b6a40f67ebc11ce136eda3e37ab173e03a64b8c03ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-104-2018",
+   "path": "local/satu-mare/satu-mare/2018/104",
+   "short": "HCL Satu Mare nr. 104/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 104/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-104-1",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-104.doc",
+     "sha256": "5ab0349b47d8b237f9598d373f854140bb8351712f338b62e97e01183f856f8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-105-2018",
+   "path": "local/satu-mare/satu-mare/2018/105",
+   "short": "HCL Satu Mare nr. 105/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 105/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-10526042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-105.doc",
+     "sha256": "5a6fdd99f2f05f18b12aa2dbe3e6e253173c1147dc3c6dfd21855f7c01bdd0e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-106-2018",
+   "path": "local/satu-mare/satu-mare/2018/106",
+   "short": "HCL Satu Mare nr. 106/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 106/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-106",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-106.doc",
+     "sha256": "43d61d6b7e708272de5e7c991ebda68daa32a3037df42207b22516d0f236e8d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-107-2018",
+   "path": "local/satu-mare/satu-mare/2018/107",
+   "short": "HCL Satu Mare nr. 107/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 107/2018 privind aprobarea trecerii din domeniul public în domeniul privat a pășunilor proprietatea municipiului Satu Mare precum și a aprobării închirierii pajiștilor Consiliul local al municipiului Satu Mare, întrunit în ședință ordinară în data de 26.04.2018, Luând act de raportul Serviciului Agricol și Fond Funciar din cadrul aparatului de specialitate al primarului, înregistrat sub nr. 20.621 din data",
+   "url": "https://www.primariasm.ro/hotararea-nr-10726042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-107.docx",
+     "sha256": "8b1d02c0660bed37e1e8122e464bf489b3004397b7c245525462211fc25e0590"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-108-2018",
+   "path": "local/satu-mare/satu-mare/2018/108",
+   "short": "HCL Satu Mare nr. 108/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 108/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-10826042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-108.doc",
+     "sha256": "d0ee467d9af9736bd8c44a9cf444744e744b09bd9933e09b2e08bc33627d90dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-109-2018",
+   "path": "local/satu-mare/satu-mare/2018/109",
+   "short": "HCL Satu Mare nr. 109/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 109/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-109",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-109.doc",
+     "sha256": "c923efefdaef5d1e9f30802920777bf6c93b0d359466a34d2ea114b8c37d1912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-110-2018",
+   "path": "local/satu-mare/satu-mare/2018/110",
+   "short": "HCL Satu Mare nr. 110/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 110/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-11026042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-110.doc",
+     "sha256": "a51b0325179b2e0361b06989563928ea1ce7c97d158a96dde2f9ddb36a6ce07a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-111-2018",
+   "path": "local/satu-mare/satu-mare/2018/111",
+   "short": "HCL Satu Mare nr. 111/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 111/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-11126042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-111.doc",
+     "sha256": "ff763141b6438de7dbfbdde2fb9f6e0fc4bd08fc4a265565cb590d4048c2c1dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-112-2018",
+   "path": "local/satu-mare/satu-mare/2018/112",
+   "short": "HCL Satu Mare nr. 112/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 112/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-11226042018",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-112.doc",
+     "sha256": "5a79272b08f77ad827b1394d7d7b36430b1614514c229b2526a6cce72fb3af2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-113-2018",
+   "path": "local/satu-mare/satu-mare/2018/113",
+   "short": "HCL Satu Mare nr. 113/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 113/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-113",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/aprilie-2018/hcl-113.doc",
+     "sha256": "8e164f5b79ad17a452b48adbbe51502b685b74bdbb66882a5d4395ce6a7e2f23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-114-2018",
+   "path": "local/satu-mare/satu-mare/2018/114",
+   "short": "HCL Satu Mare nr. 114/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 114/2018 privind societățile comercile , republicată, cu modificările și completările ulterioare;- art.17, art.19 lit. f) din Actul Constitutiv al S.C",
+   "url": "https://www.primariasm.ro/hotararea-nr-11424052018-1",
+   "versions": [
+    {
+     "from": "2018-05-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/mai-2018/hcl-nr-114.docx",
+     "sha256": "31ac4bace268e3836f61212301ba2cbe6a3ef77ff096e1f827dde023d2cf3a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-115-2018",
+   "path": "local/satu-mare/satu-mare/2018/115",
+   "short": "HCL Satu Mare nr. 115/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 115/2018 privind societățile comerciale, republicată, cu modificările și completările ulterioare;- art.17, art.18 lit. a) din Actul Constitutiv al S.C",
+   "url": "https://www.primariasm.ro/hotararea-nr-11424052018",
+   "versions": [
+    {
+     "from": "2018-05-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/mai-2018/hcl-nr-115.docx",
+     "sha256": "c1617a7b6621c682f1a22d6b95b22af24fbaa9a5cf1d73a9c7923d6d231aad72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-116-2018",
+   "path": "local/satu-mare/satu-mare/2018/116",
+   "short": "HCL Satu Mare nr. 116/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 116/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-74",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/mai-2018/hcl-116.doc",
+     "sha256": "75a89ee77155818195c915b76e5549334d8f12512ca65b9d8ccb1b23e7904639"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-117-2018",
+   "path": "local/satu-mare/satu-mare/2018/117",
+   "short": "HCL Satu Mare nr. 117/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 117/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-11731052018",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/mai-2018/hcl-117.doc",
+     "sha256": "b565d9d14522a464a9bf417020f2dad8810861ca9aa5d4d72c80654b7885e14f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-118-2018",
+   "path": "local/satu-mare/satu-mare/2018/118",
+   "short": "HCL Satu Mare nr. 118/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 118/2018",
+   "url": "https://www.primariasm.ro/hotararea-nr-11831052018",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/mai-2018/hcl-118.doc",
+     "sha256": "abef8b80dd1f2f261dc4e48ac6686683e0b552d1bd45b8277e6c0a83ce6c07b7"
+    }
+   ]
+  }
+ ]
+}

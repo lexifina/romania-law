@@ -3,6 +3,51 @@
  "shard": "local/mures/targu-mures/2026",
  "acts": [
   {
+   "slug": "hcl-mures--targu-mures-1-2026",
+   "path": "local/mures/targu-mures/2026/1",
+   "short": "HCL Târgu Mureș nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 1/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4780CFA1244518AEC2258D8F003AE6D5/$FILE/HCL%201.pdf",
+     "sha256": "8ab6679ce5cf2826827d91149fbe16db5b6968833bcf52ae561425675a28895a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-10-2026",
+   "path": "local/mures/targu-mures/2026/10",
+   "short": "HCL Târgu Mureș nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 10/2026 privind atestarea apartenenÈei la domeniul public a terenului Ã®n suprafaÈÄ de 1326 mp ,situat Ã®n Municipiul TÃ¢rgu MureÈ Ã®n apropierea Ècolii Friedrich Schiller Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C25926792A6BED69C2258D8F003D3F72/$FILE/HCL%2010.pdf",
+     "sha256": "08491a66b76e79bf81552feb79f76dc58cd3c238e555ac4a1e03e461524da518"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-100-2026",
+   "path": "local/mures/targu-mures/2026/100",
+   "short": "HCL Târgu Mureș nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 100/2026 privind aprobarea participÄrii la Proiectul âProgram de AsistenÈÄ Èi Sprijin pentru ocupare,educaÈie Èi incluziune socialÄ Ã®n teritoriul SDL GAL TÃ¢rgu MureÈ (PAS)â,cod SMIS 2021: 356176,proiect cofinanÈat din Fondul Social European prin Programul Incluziune Èi Demnitate SocialÄ 2021-2027,P01",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/D21AC864EF5979BBC2258DEE002E00A8/$FILE/HCL%20100.pdf",
+     "sha256": "8fb8c2a566699676d81fd91ccffa9883cc96a16c05c5ca98392dd2c39bfd5290"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--targu-mures-101-2026",
    "path": "local/mures/targu-mures/2026/101",
    "short": "HCL Târgu Mureș nr. 101/2026",
@@ -14,6 +59,81 @@
      "units": 1,
      "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/6CACC30F3C440A32C2258DEE002E243B/$FILE/HCL%20101.pdf",
      "sha256": "13e997e8f644f8a525308167989e2e089982eb91210196453aaf79597d57e753"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-103-2026",
+   "path": "local/mures/targu-mures/2026/103",
+   "short": "HCL Târgu Mureș nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 103/2026 privind aprobarea derulÄrii procedurii de delegare a serviciilor de salubrizare pentru activitÄÈile de mÄturat,spÄlat,stropire Èi Ã®ntreÈinerea cÄilor publice,precum Èi colectarea cadavrelor animalelor de pe domeniul public Èi predarea acestora cÄtre unitÄÈile de ecarisaj,sau cÄtre instalaÈiile de neutralizare si pentru activitÄÈile de curÄÈarea Èi transportul zÄpezii,de pe cÄ",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4F388C9E365E768EC2258DEE002E5B33/$FILE/HCL%20103.pdf",
+     "sha256": "e3e6dd56bfaa0b978918aa1eec3d399b4911150fa419529e52065f8e53e204e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-104-2026",
+   "path": "local/mures/targu-mures/2026/104",
+   "short": "HCL Târgu Mureș nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 104/2026 privind aprobarea preluÄrii Èi Ã®nscrierea Ã®n domeniul privat al Municipiului TÃ¢rgu MureÈ,a terenului Ã®n suprafaÈÄ de 19 mp din TÃ¢rgu MureÈ,situat Ã®n str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/2DC64A4805EE8168C2258DEE002E7789/$FILE/HCL%20104.pdf",
+     "sha256": "65679a48fa28158b9ff16181b541c9766b92e6c1e0e7c37dac0d6aed72e1a81f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-105-2026",
+   "path": "local/mures/targu-mures/2026/105",
+   "short": "HCL Târgu Mureș nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 105/2026 privind atestarea apartenenÈei la domeniul public al Municipiului TÃ¢rgu MureÈ,a drumului Ã®n suprafaÈÄ totalÄ de 899 mp situat Ã®n str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/1008BD3292E6E118C2258DEE002E8F76/$FILE/HCL%20105.pdf",
+     "sha256": "8ad7023d6ea04cc4f1e2ae52dea5cd5af981e81d4a9791b45595371b33909209"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-106-2026",
+   "path": "local/mures/targu-mures/2026/106",
+   "short": "HCL Târgu Mureș nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 106/2026 privind alegerea preÈedintelui de ÈedinÈÄ a Consiliului Local,al Municipiului TÃ¢rgu MureÈ,pentru perioada mai â iulie 2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C2A99306FFA54D02C2258DEE002E9C32/$FILE/HCL%20106.pdf",
+     "sha256": "fd11e0bbc45f0933a4264fc36c02c23093e17d74a0ab9b2bf309e10797330f13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-107-2026",
+   "path": "local/mures/targu-mures/2026/107",
+   "short": "HCL Târgu Mureș nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 107/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/003DD329D35FF002C2258DEE002EB024/$FILE/HCL%20107.pdf",
+     "sha256": "91cd7e368d55fd0624316d036d7bb92aef5b11f3881a4e1b70c6ca40744008c4"
     }
    ]
   },
@@ -33,6 +153,111 @@
    ]
   },
   {
+   "slug": "hcl-mures--targu-mures-111-2026",
+   "path": "local/mures/targu-mures/2026/111",
+   "short": "HCL Târgu Mureș nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 111/2026 privind atestarea apartenenÈei la domeniul public al Municipiului TÃ¢rgu MureÈ a cotei de,7469/43400 parte din terenul identificat Ã®n CF nr. 143286 TÃ¢rgu MureÈ Èi a spaÈiului I,identificat Ã®n CF nr. 143286-C1-U4 TÃ¢rgu MureÈ Èi a cotei de 5166/30000 parte aferentÄ,unitÄÈii individuale pod identificat Ã®n CF nr. 143286-C1-U7 TÃ¢rgu MureÈ,din imobilul,situat Ã®n str. PiaÈa Trandafiril",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A221D9D4FBE1D01CC2258DEE002EE0AF/$FILE/HCL%20111.pdf",
+     "sha256": "199691b646a449fb71bb46526a9f01d12110a49e17dbd5ec4c7a18fa41dccdf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-112-2026",
+   "path": "local/mures/targu-mures/2026/112",
+   "short": "HCL Târgu Mureș nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 112/2026 privind darea Ã®n administrare cÄtre AdministraÈia Sere Èi Parcuri a unor spaÈii de joacÄ Èi,agrement aflate pe raza municipiului TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C8A9631C2F624379C2258DEE002EEC43/$FILE/HCL%20112.pdf",
+     "sha256": "ebbbd7c8b5646833fce375cfc453c3d173bea6461c985a16717abe302ec3d342"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-113-2026",
+   "path": "local/mures/targu-mures/2026/113",
+   "short": "HCL Târgu Mureș nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 113/2026 privind aprobarea dezlipirii imobilului Ã®n suprafaÈa de 1587 mp situat Ã®n,str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/1C0FDA3D17D3049FC2258DEE002EF827/$FILE/HCL%20113.pdf",
+     "sha256": "fa92db7f35fe552e9863db89c58c31a05a7bcab53d7cd4b37cf76990e2e248da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-114-2026",
+   "path": "local/mures/targu-mures/2026/114",
+   "short": "HCL Târgu Mureș nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 114/2026 privind aprobarea documentaÈiei tehnico-economice faza DALI/SF Èi a indicatorilor,tehnico-economici,pentru obiectivul de investiÈii amenajare pistÄ de,biciclete strada Victor BabeÈ â Bdul. CetÄÈii Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Desch",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4DE0E52ED1B82E01C2258DEE002F5BC6/$FILE/HCL%20114.pdf",
+     "sha256": "f7023579331a657f735d4f95de2706063748279682ae5a2feaf44d5176a65840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-115-2026",
+   "path": "local/mures/targu-mures/2026/115",
+   "short": "HCL Târgu Mureș nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 115/2026 privind utilizarea documentaÈiei tehnico-economice Ã®ntocmitÄ de municipiul TÃ¢rgu MureÈ pentru obiectivul de investiÈii âPod de legÄturÄ peste rÃ¢ul MureÈ,zona Aleea CarpaÈiâ sub denumirea,âConstruire pod peste rÃ¢ul MureÈâ Ã®n vederea asigurÄrii conformitÄÈii acestuia cu denumirea cererii de finanÈare aprobata la finanÈare prin Programul NaÈional de InvestiÈii âAnghel S",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/5411F0F15BD2E978C2258DEE002F941F/$FILE/HCL%20115.pdf",
+     "sha256": "f64387b7aa7f7aa62efa3d45a7f699b679f68916ebfa882a32bc3e1cdb817c35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-116-2026",
+   "path": "local/mures/targu-mures/2026/116",
+   "short": "HCL Târgu Mureș nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 116/2026 privind aprobarea actualizÄrii indicatorilor tehnico-economici Èi a devizului general pentru obiectivul de investiÈii âCONSTRUIRE POD PESTE RÃUL MUREÈâ,aprobat pentru finanÈare prin Programul NaÈional de InvestiÈii âAnghel Salignyâ,precum Èi a sumei reprezentÃ¢nd categoriile de cheltuieli finanÈate de la bugetul local pentru realizarea obiectivului Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0018A02408CC08E7C2258DEE002FAC22/$FILE/HCL%20116.pdf",
+     "sha256": "43891265e96dd0ad37c66447b1bf0a5126d80343ea62e907a3143d6ac666cebe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-117-2026",
+   "path": "local/mures/targu-mures/2026/117",
+   "short": "HCL Târgu Mureș nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 117/2026 privind aprobarea unei colaborÄri Ã®ntre Municipiul TÃ¢rgu MureÈ Èi AdministraÈia BazinalÄ de ApÄ MureÈ Ã®n vederea implementÄrii proiectului implementÄrii proiectului,âConstruire pod peste rÃ¢ul MureÈâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B1FF77D42E3A2C19C2258DEE002FBCEC/$FILE/HCL%20117.pdf",
+     "sha256": "ff5756bb4aadf5aeb16084cf6dded519399e5c2f3a43886d3718c3a7e0cbff64"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--targu-mures-118-2026",
    "path": "local/mures/targu-mures/2026/118",
    "short": "HCL Târgu Mureș nr. 118/2026",
@@ -44,6 +269,501 @@
      "units": 1,
      "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/996BF1939FDB5067C2258DEE002FCC5D/$FILE/HCL%20118.pdf",
      "sha256": "ad92cec0280e2cfa872de30348c5e60d265e1b0c6f94f9b14f8cf1b5c02a652b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-119-2026",
+   "path": "local/mures/targu-mures/2026/119",
+   "short": "HCL Târgu Mureș nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 119/2026 privind utilizarea excedentului anilor precedenÈi al bugetului local al,UnitÄÈii Administrativ Teritoriale â Municipiul TÃ¢rgu MureÈ,rezultat la Ã®ncheierea exerciÈiului bugetar 2025,ca sursÄ de finanÈare a cheltuielilor secÈiunii de dezvoltare Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/EA45DAB68F2CE837C2258DF7002F57DB/$FILE/HCL%20119.pdf",
+     "sha256": "75ba22df376adac1271efa50ec625686d4620470dd606cc22060554099b009ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-12-2026",
+   "path": "local/mures/targu-mures/2026/12",
+   "short": "HCL Târgu Mureș nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 12/2026 privind actualizarea indicatorilor tehnico-economici,inclusiv anexa privind descrierea investiÈiei pentru proiectul âModernizarea transportului public de cÄlÄtori al ,Municipiului TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/22085CA2524742DBC2258D8F003D6F4A/$FILE/HCL%2012.pdf",
+     "sha256": "d7542b0cd50fbd09f35d7642ba056357c477c3cd4742986d3ecb55a4c86c4e91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-120-2026",
+   "path": "local/mures/targu-mures/2026/120",
+   "short": "HCL Târgu Mureș nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 120/2026 privind aprobarea bugetului,UnitÄÅ£ii Administrativ Teritoriale - Municipiul TÃ¢rgu MureÅ pe anul 2026 Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/99C6AAC9B4BC316AC2258DF7002F6FF8/$FILE/HCL%20120.pdf",
+     "sha256": "df8ae037219de801a3d54885c33dd4a274f4fca7f35055498d857ed39597e728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-121-2026",
+   "path": "local/mures/targu-mures/2026/121",
+   "short": "HCL Târgu Mureș nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 121/2026 pentru acÈiuni ale instituÈiilor de Ã®nvÄÈÄmÃ¢nt,Ã®n baza concursului de proiecte pe semestrul I al anului 2026 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0B256094FCCFAF1CC2258DF70030676B/$FILE/HCL%20121.pdf",
+     "sha256": "1bc4f77556a65dffe24397f35be2f264cd0ae7c68b4cced722e2ac2ab13fbf19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-122-2026",
+   "path": "local/mures/targu-mures/2026/122",
+   "short": "HCL Târgu Mureș nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 122/2026 privind delegarea serviciului public de salubrizare pentru activitÄÈile de mÄturat,spÄlat Èi,stropitul cÄilor publice din localitate,inclusiv colectarea Èi transportul deÈeurilor de,pÄmÃ¢nt Èi pietre provenite de pe cÄile publice la depozitele de deÈeuri,precum Èi a,deÈeurilor provenite din coÈurile stradale la depozitele de deÈeuri Èi/sau la instalaÈiile de,tratare,precum Èi co",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/BA583332D72B275FC2258DFF002EEE2B/$FILE/HCL%20122.pdf",
+     "sha256": "627ae01798fdeb8eed4a984fe59bf7ba2d4e14b86ff0b89e890a6f362fa47425"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-123-2026",
+   "path": "local/mures/targu-mures/2026/123",
+   "short": "HCL Târgu Mureș nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 123/2026 privind acordarea unui sprijin financiar pentru nou-nÄscuÈii din TÃ¢rgu MureÈ,sub formÄ de tichete pe suport electronic Ã®n valoare de 1.500 lei/nou-nÄscut Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B63B95743ECB6B43C2258E0B0024FCC4/$FILE/HCL%20123.pdf",
+     "sha256": "09295ad46448b8bc63afa9fa6e116faced01dedb18531d2e8c8b5c74eb5d2d03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-124-2026",
+   "path": "local/mures/targu-mures/2026/124",
+   "short": "HCL Târgu Mureș nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 124/2026 privind aprobarea documentaÈiei de urbanism âPlan Urbanistic de Detaliu- studiu de amplasament pentru construire casÄ de locuit,reglementare accese Èi utilitÄÈiâ,str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C2539F3B22114040C2258E0B00250909/$FILE/HCL%20124.pdf",
+     "sha256": "af5a161664fe85d7177ba37225ecb6334155fc7e7dd17bc03ebca3cd212116a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-125-2026",
+   "path": "local/mures/targu-mures/2026/125",
+   "short": "HCL Târgu Mureș nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 125/2026 privind aprobarea preluÄrii Èi Ã®nscrierea Ã®n domeniul privat al Municipiului TÃ¢rgu MureÈ a,terenului Ã®n suprafaÈÄ de 6 mp din TÃ¢rgu MureÈ,situat Ã®n str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/17140D6775AC4426C2258E0B00251B77/$FILE/HCL%20125.pdf",
+     "sha256": "71eed0b70a0d3b3869d65f6b1d44dd7a03a89c12bec4bd3d8ba873e495f6acbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-126-2026",
+   "path": "local/mures/targu-mures/2026/126",
+   "short": "HCL Târgu Mureș nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 126/2026 privind aprobarea preluÄrii Èi Ã®nscrierea Ã®n domeniul privat al Municipiului TÃ¢rgu MureÈ a,terenului Ã®n suprafaÈÄ de 64 mp din TÃ¢rgu MureÈ Ã®nscris in CF 146802 TÃ¢rgu MureÈ,situat Ã®n,str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/37CCE13445ADDC5BC2258E0B00252776/$FILE/HCL%20126.pdf",
+     "sha256": "446fc888ebd53099fa4c22bc1ae5369e7cd16208cf5b5fa8a2d411ffb6acc0bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-127-2026",
+   "path": "local/mures/targu-mures/2026/127",
+   "short": "HCL Târgu Mureș nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 127/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B5FF6169358EABAFC2258E0B0025343E/$FILE/HCL%20127.pdf",
+     "sha256": "6f50541df3903364a8325871f5eec1f9e2eedeec80cd13c3fdc9e5a6f7875f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-128-2026",
+   "path": "local/mures/targu-mures/2026/128",
+   "short": "HCL Târgu Mureș nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 128/2026 privind aprobarea Bugetului de Venituri Èi Cheltuieli pentru,anul 2026 al S.C",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/687A5B21F27235ABC2258E0B00254B6D/$FILE/HCL%20128.pdf",
+     "sha256": "eba08afdfbc41eab037533d969ec8d16d909fbefcccef5706c56014e2a0f7799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-129-2026",
+   "path": "local/mures/targu-mures/2026/129",
+   "short": "HCL Târgu Mureș nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 129/2026 privind aprobarea Bugetului de venituri Èi cheltuieli pentru,anul 2026 al SC Administrator Imobile si PieÈe SRL TÃ¢rgu MureÈ Deschide Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F2669492F04FB4E3C2258E0B00257E0B/$FILE/HCL%20129.pdf",
+     "sha256": "eb71600e7e84fa74b854fdcf0fb9a6017551d952afb4ffa02fec9e743f5aa94c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-13-2026",
+   "path": "local/mures/targu-mures/2026/13",
+   "short": "HCL Târgu Mureș nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 13/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0B720999C12780BEC2258D8F003DABD9/$FILE/HCL%2013.pdf",
+     "sha256": "5bc77e0817743eeda7001005d7b38d0529232dc6af790392c0183480dd9f552c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-130-2026",
+   "path": "local/mures/targu-mures/2026/130",
+   "short": "HCL Târgu Mureș nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 130/2026 privind aprobarea Bugetului de Venituri Èi Cheltuieli al,SC âTransport Localâ SA TÃ¢rgu MureÈâ pe anul 2026 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E0BC1693A4D39EB8C2258E0B00258F19/$FILE/HCL%20130.pdf",
+     "sha256": "a2165084d0368ec0e1ea7c5b655ccf15f823b4019f94ed1e35435cb858e042a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-131-2026",
+   "path": "local/mures/targu-mures/2026/131",
+   "short": "HCL Târgu Mureș nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 131/2026 privind aprobarea termenului de depunere a solicitÄrilor de finanÈare nerambursabilÄ pentru proiecte culturale Èi aprobarea bugetului defalcat pe domenii Èi a sumelor maxime acordabile pe domeniu pentru anul 2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/69F891043D7D516BC2258E0600314242/$FILE/HCL%20131.pdf",
+     "sha256": "4694a95bc8429262722ba01224bcbe1ede3d6d380eb84e22171a8d07dcd5d550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-132-2026",
+   "path": "local/mures/targu-mures/2026/132",
+   "short": "HCL Târgu Mureș nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 132/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/680C1F0F9B495FEEC2258E0B0025A329/$FILE/HCL%20132.pdf",
+     "sha256": "d288eb4d9650885cac2d8d6fac7ddc8fcec55b6f0bcae55b1362d2ecd3ba9c48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-133-2026",
+   "path": "local/mures/targu-mures/2026/133",
+   "short": "HCL Târgu Mureș nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 133/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B27A30BB2D3123FCC2258E0B0025B69D/$FILE/HCL%20133.pdf",
+     "sha256": "cd16422e31561c1cb40067a1bb6d6e599ff7ce03061f91b2a651c60a25e0449a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-134-2026",
+   "path": "local/mures/targu-mures/2026/134",
+   "short": "HCL Târgu Mureș nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 134/2026 privind aprobarea Ã®nfiinÈÄrii serviciului social âCentrul de zi Rozmarinâ Ã®n,Municipiul TÃ¢rgu MureÈ,str. Dealului,nr. 22 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/DD069A14F7FD7268C2258E0B0025C38C/$FILE/HCL%20134.pdf",
+     "sha256": "5ec34f62a4cc17992326c950e7b0f32dead559204ebe78d38c0e0c53057971d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-135-2026",
+   "path": "local/mures/targu-mures/2026/135",
+   "short": "HCL Târgu Mureș nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 135/2026 privind aprobarea Ã®nfiinÈÄrii serviciului social âCentrul de zi Curcubeuâ Ã®n Municipiul TÃ¢rgu MureÈ,str. LuduÈului,nr. 29,fÄrÄ personalitate juridicÄ,Ã®n cadrul DirecÈiei de AsistenÈÄ SocialÄ TÃ¢rgu MureÈ,prevÄzut Ã®n cadrul proiectului âProgram de AsistenÈÄ Èi Sprijin pentru ocupare,educaÈie Èi incluziune socialÄ Ã®n teritoriul SDL GAL TÃ¢rgu MureÈ (PAS)â,cod SMIS 2",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/7347E20DA5504D11C2258E0B0025D413/$FILE/HCL%20135.pdf",
+     "sha256": "6474f5902e22f7fa06cf9978d0e8f4866d1726c8fb2ddc8be01db199b3ac5263"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-136-2026",
+   "path": "local/mures/targu-mures/2026/136",
+   "short": "HCL Târgu Mureș nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 136/2026 privind aprobarea preÈului maxim de pornire a licitaÈiei Ã®n vederea exploatÄrii Èi transportul,de masÄ lemnoasÄ ce urmeazÄ a fi recoltatÄ Ã®n anul 2026 din fondul forestier proprietate a,Municipiului TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/58DFC6F4E5E0C8DCC2258E0B0025F148/$FILE/HCL%20136.pdf",
+     "sha256": "59b7779b9b0fe96844a4b9a1e171a02e7b8d196077a586006f26e2b2ccf28f2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-137-2026",
+   "path": "local/mures/targu-mures/2026/137",
+   "short": "HCL Târgu Mureș nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 137/2026 privind stabilirea volumului de masÄ lemnoasÄ ce urmeazÄ a fi recoltatÄ din fondul forestier,proprietate a Municipiului TÃ¢rgu MureÈ Ã®n anul 2026 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/EFA8CCC29EDC7B91C2258E0B002603F6/$FILE/HCL%20137.pdf",
+     "sha256": "622949ffbab98b040e0cbc3c8ac2d670205c16c83c121b5c479be695a9c48f6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-138-2026",
+   "path": "local/mures/targu-mures/2026/138",
+   "short": "HCL Târgu Mureș nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 138/2026 privind aprobarea preÈului de pornire a licitaÈiei Ã®n vederea vÃ¢nzÄrii masei lemnoase pe,picior ce urmeazÄ a fi recoltatÄ Ã®n anul 2026 din fondul forestier proprietate,a Municipiului TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C748D8C58A7F6384C2258E0B002617F0/$FILE/HCL%20138.pdf",
+     "sha256": "e7f5731dbb95a3b5782a51d37c2015683f3c5a502cf910a9131b17202b3609b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-139-2026",
+   "path": "local/mures/targu-mures/2026/139",
+   "short": "HCL Târgu Mureș nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 139/2026 privind aprobarea Bugetului de venituri Èi cheltuieli referitor la volumul masei lemnoase ce,urmeazÄ a fi recoltatÄ/valorificatÄ Ã®n anul 2026,precum Èi lucrÄrile necesare ce ar fi executate,Ã®n fondul forestier proprietate a Municipiului TÃ¢rgu MureÈ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/DD9519DD026626ADC2258E0B00264C30/$FILE/HCL%20139.pdf",
+     "sha256": "79ead24434284e0bc6b7b660bab202b7594582ae67897145edb5b7ccc2c693c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-14-2026",
+   "path": "local/mures/targu-mures/2026/14",
+   "short": "HCL Târgu Mureș nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 14/2026 privind aprobarea documentaÈiei tehnico-economice â Studiul de fezabilitate Èi a indicatorilor tehnico-economici pentru ,Asigurarea infrastructurii pentru transport verde - Puncte de reÃ®ncÄrcare vehicule electrice 10 staÈiiâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C2E7936ACBE31F4DC2258D8F003DE480/$FILE/HCL%2014.pdf",
+     "sha256": "955a61dfa69c180a322ed3e596e49143c4b664362746d0bf3faf22c7c580c288"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-141-2026",
+   "path": "local/mures/targu-mures/2026/141",
+   "short": "HCL Târgu Mureș nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 141/2026 privind aprobarea emiterii autorizaÈiei de funcÈionare pentru desfÄÈurarea activitÄÈii,de jocuri de noroc de cÄtre THE JACK SRL pentru locaÈia fizicÄ situatÄ Ã®n,Municipiul TÃ¢rgu MureÈ,Str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/326366FD0809EDBEC2258E0B0027C2D3/$FILE/HCL%20141.pdf",
+     "sha256": "c6140f5d645743e39900b26cc592f215cb4245cca6a36e17c6e71cb1fb55d31b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-143-2026",
+   "path": "local/mures/targu-mures/2026/143",
+   "short": "HCL Târgu Mureș nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 143/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/804B3818180DD7C8C2258E0B0027E707/$FILE/HCL%20143.pdf",
+     "sha256": "d9d70d5941c001e62d3f7c35b0690d0b823140f26e55f1aca313e81cbb5a0fe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-145-2026",
+   "path": "local/mures/targu-mures/2026/145",
+   "short": "HCL Târgu Mureș nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 145/2026 privind aprobarea termenului limitÄ pentru depunerea solicitÄrilor de sprijin financiar,de cÄtre unitÄÈile de cult din Municipiul TÃ¢rgu MureÈ care aparÈin cultelor religioase recunoscute din RomÃ¢nia 2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E43D800D9008E734C2258E0B002807AD/$FILE/HCL%20145.pdf",
+     "sha256": "b32ff06996c4b3d841cf8ccce51263a33baeb8a1125536c31e7f9a315974e17b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-147-2026",
+   "path": "local/mures/targu-mures/2026/147",
+   "short": "HCL Târgu Mureș nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 147/2026 privind aprobarea contractÄrii Èi garantÄrii unei finanÈÄri rambursabile interne Ã®n,valoare de maximum 88.000.000 lei Ã®n vederea asigurÄrii finanÈÄrii obiectivelor de,investiÈii de interes public local Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C063A725A962E247C2258E0B00282124/$FILE/HCL%20147.pdf",
+     "sha256": "93f5c99c91224607f884fbd2a20cd7cef1e00da47e9672c23aea348cbd6b20a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-148-2026",
+   "path": "local/mures/targu-mures/2026/148",
+   "short": "HCL Târgu Mureș nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 148/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E7EA370A0E8D12C4C2258E0B00283595/$FILE/HCL%20148.pdf",
+     "sha256": "b7db8d392ac28f18cfc756c0db7c2447a131097e6a0f159e809005fcc45b6946"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-149-2026",
+   "path": "local/mures/targu-mures/2026/149",
+   "short": "HCL Târgu Mureș nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 149/2026 privind aprobarea studiului de fezabilitate,a indicatorilor tehnico-economici actualizaÈi Èi a devizului general actualizat pentru obiectivul de investiÈii,âCONSTRUIRE POD PESTE RÃUL MUREÈâ,aprobat pentru finanÈare prin Programul naÈional de investiÈii âAnghel Salignyâ,precum Èi a sumei reprezentÃ¢nd categoriile de cheltuieli finanÈate de la bugetul local pentru realizarea obiect",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E3053E9E13AB5EF5C2258E06003175A6/$FILE/HCL%20149.pdf",
+     "sha256": "2bef5dcf7781d29993d201142755ac48b376c58a628a87de2d538190f5672277"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-15-2026",
+   "path": "local/mures/targu-mures/2026/15",
+   "short": "HCL Târgu Mureș nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 15/2026 privind aprobarea indicatorilor valorici actualizaÈi pentru obiectivul de investiÈii âLucrÄri de creÈtere a performantelor energetice la blocuri de locuinÈe din Municipiul TÃ¢rgu MureÈ - B-dul 1 Decembrie 235,Str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/1DFF7AB920ABBF57C2258D8F003E0BB5/$FILE/HCL%2015.pdf",
+     "sha256": "aaeff66d482cd58a9063564d5fde40f12a97a90fda1e0593dbbcd4dbf166cfd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-150-2026",
+   "path": "local/mures/targu-mures/2026/150",
+   "short": "HCL Târgu Mureș nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 150/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C2BD5CDC7CF4E599C2258E0B002875E8/$FILE/HCL%20150.pdf",
+     "sha256": "807bccc4c60589872bae6ba218f844e68b5203fddaf206f359ac45288ad4e947"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-151-2026",
+   "path": "local/mures/targu-mures/2026/151",
+   "short": "HCL Târgu Mureș nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 151/2026 privind modificarea Èi completarea Anexei nr. 3 la HotÄrÃ¢rea Consiliului Local nr. 66 din 28,martie 2024 privind aprobarea Ã®nfiinÈÄrii de activitÄÈi finanÈate integral din venituri proprii,pentru unitÄÈile de Ã®nvÄÈÄmÃ¢nt preuniversitar de stat din Municipiul,TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/DDD5A15AF85C6361C2258E0B002890F9/$FILE/HCL%20151.pdf",
+     "sha256": "f0ada69c18f7a520443bd071e238494f1ec122ccb87646b3738221cf56b3f4d3"
     }
    ]
   },
@@ -63,6 +783,501 @@
    ]
   },
   {
+   "slug": "hcl-mures--targu-mures-153-2026",
+   "path": "local/mures/targu-mures/2026/153",
+   "short": "HCL Târgu Mureș nr. 153/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 153/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/607139E385710CB0C2258E0B0028D049/$FILE/HCL%20153.pdf",
+     "sha256": "8a5ee2cd2733ce731250112206370720e7f74f6b4dc130c4fe38b7c3e73af8fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-154-2026",
+   "path": "local/mures/targu-mures/2026/154",
+   "short": "HCL Târgu Mureș nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 154/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A7EF4A605EB314A8C2258E0B0028E6BF/$FILE/HCL%20154.pdf",
+     "sha256": "86faf52427ed15ce26417ca271b0ebb840a804408607b05425df31e3e0f3c5f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-155-2026",
+   "path": "local/mures/targu-mures/2026/155",
+   "short": "HCL Târgu Mureș nr. 155/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 155/2026 privind aprobarea unui acord de colaborare Ã®n vederea realizÄrii unor lucrÄri de reparaÈii,reabilitare Èi amenajare Ã®n zona digului situat Ã®n Municipiul TÃ¢rgu MureÈ,str. Aleea,CarpaÈi,identificatÄ prin CF nr. 144255 TÃ¢rgu MureÈ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4D86EF9004B0210DC2258E0B00291257/$FILE/HCL%20155.pdf",
+     "sha256": "e67b0423c10c0368c5ea4fb9d30f4af0ddcab2a18cc8c741fa915f133c5b9157"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-156-2026",
+   "path": "local/mures/targu-mures/2026/156",
+   "short": "HCL Târgu Mureș nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 156/2026 privind aprobarea indicatorilor tehnico-economici,pe baza documentaÈiilor tehnico-economice,pentru obiectivul de investiÈii âTren Metropolitan MureÈâ Èi acordarea unui mandat,special reprezentantului unitÄÈii administrativ-teritoriale Ã®n Adunarea GeneralÄ a,AsociaÈilor AsociaÈiei de Dezvoltare IntercomunitarÄ de Transport Public Feroviar,âTren Metropolitan MureÈâ Deschide Desch",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/915EA31833AAC175C2258E17004237D0/$FILE/HCL%20156.pdf",
+     "sha256": "0f343d9af076b799d72579503c1717969d0a3e8bbfaa856990a5f0e98b7c2cf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-157-2026",
+   "path": "local/mures/targu-mures/2026/157",
+   "short": "HCL Târgu Mureș nr. 157/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 157/2026 privind aprobarea participÄrii AsociaÈiei de Dezvoltare Intercomunitara de Transport Public,Feroviar âTren Metropolitan MureÈâ Ã®n cadrul proiectului âTren Metropolitan MureÈâ si,aprobarea contribuÈiei Municipiul TÃ¢rgu MureÈ la bugetul acestuia Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/077A1C385B7C57F4C2258E170042D107/$FILE/HCL%20157.pdf",
+     "sha256": "8afa3daf55ed5b94a8f82b20cf408e6d131b525c211e66f374dc32a36cc350b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-160-2026",
+   "path": "local/mures/targu-mures/2026/160",
+   "short": "HCL Târgu Mureș nr. 160/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 160/2026 privind Ã®ncheierea unui act adiÈional la Contractul de Ã®nchiriere nr. 36820 din 30.05.2023,avÃ¢nd ca obiect prelungirea duratei contractului de Ã®nchiriere a unor spaÈii din incinta Parohiei Reformate VIII TÃ¢rgu MureÈ,situate Ã®n TÃ¢rgu MureÈ,str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/6A5221470D89F8AEC2258E17004315C0/$FILE/HCL%20160.pdf",
+     "sha256": "ba0d59450c523a8bd86f00c116e5a45d4798778b9b7ec3658acc1fcedc58bb42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-162-2026",
+   "path": "local/mures/targu-mures/2026/162",
+   "short": "HCL Târgu Mureș nr. 162/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 162/2026 privind aprobarea sprijinului financiar pentru acÈiuni ale instituÈiilor de Ã®nvÄÈÄmÃ¢nt,Ã®n baza concursului de proiecte pe semestrul II al anului 2026 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E73FB73A419770CEC2258E22003AF08D/$FILE/HCL%20162.pdf",
+     "sha256": "17ed6238ad1c2a0cfa96db7fc49040d4e3e910bae56fef9c979819c1cbb9d68c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-163-2026",
+   "path": "local/mures/targu-mures/2026/163",
+   "short": "HCL Târgu Mureș nr. 163/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 163/2026 privind concesionarea directÄ a terenului Ã®n suprafaÈÄ de 4,70 mp situat Ã®n raza teritorialÄ ,a Municipiului TÃ¢rgu MureÈ,Calea SighiÈoarei,nr.1,ap.3,cÄtre d-nul Ravasz DÃ©nes Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/28E740492C0194EAC2258E27002B8085/$FILE/HCL%20163.pdf",
+     "sha256": "af293485a1658a166fc553a9b386781a3ca2e02f28fd0f71feba2f005372b478"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-164-2026",
+   "path": "local/mures/targu-mures/2026/164",
+   "short": "HCL Târgu Mureș nr. 164/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 164/2026 privind concesionarea directÄ a terenului Ã®n suprafaÈÄ,de 3,195 mp situat Ã®n raza teritorialÄ a Municipiului TÃ¢rgu MureÈ,str. Progresului,nr. 4,ap.3 cÄtre NegurÄ Dumitrica Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/08DBCE72A37A897CC2258E27002BC7C9/$FILE/HCL%20164.pdf",
+     "sha256": "1bbd1957d480b180284ae08d78262f43a5716daf2805db96a86a2e077dfd3c90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-167-2026",
+   "path": "local/mures/targu-mures/2026/167",
+   "short": "HCL Târgu Mureș nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 167/2026 privind aprobarea trecerii din domeniul public al municipiului TÃ¢rgu MureÈ Ã®n domeniul privat al municipiului TÃ¢rgu MureÈ a terenului situat pe str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/CBE38BC2F4249B23C2258E27002C94E4/$FILE/HCL%20167.pdf",
+     "sha256": "e1c4a785e4b15beeeaf6754fffa194cfc862159882c988a48f8bbdc3dabe7f3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-168-2026",
+   "path": "local/mures/targu-mures/2026/168",
+   "short": "HCL Târgu Mureș nr. 168/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 168/2026 privind atestarea apartenenÈei la domeniul public a terenului Ã®n suprafaÈÄ de 33041 mp ,situat Ã®n Municipiul TÃ¢rgu MureÈ aferent Cimitirului din str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E602079B60E29510C2258E27002CB18A/$FILE/HCL%20168.pdf",
+     "sha256": "3a48399a6da3ba2d00cf93eab62ccade7597bdb4895ad1f8a225b6aec92cc4c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-169-2026",
+   "path": "local/mures/targu-mures/2026/169",
+   "short": "HCL Târgu Mureș nr. 169/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 169/2026 privind atestarea apartenenÈei la domeniul public a terenului Ã®n suprafaÈÄ de 19645 mp ,situat Ã®n Municipiul TÃ¢rgu MureÈ aferent Cimitirului Remetea situat Ã®n str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/3FCEC0797E0A101DC2258E27002CD1E1/$FILE/HCL%20169.pdf",
+     "sha256": "7166bd7762ca2b2a7d0949dc9bd621322c6cfbcf9b405353e95c15555dcaeb80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-170-2026",
+   "path": "local/mures/targu-mures/2026/170",
+   "short": "HCL Târgu Mureș nr. 170/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 170/2026 privind atestarea apartenenÈei la domeniul privat al Municipiului TÃ¢rgu MureÈ a,terenului Ã®n suprafaÈÄ de 776 mp,situat Ã®n str. TuÈnad,identificat Ã®n,CF nr. 137787 TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E343B5AA688414E2C2258E27002D3D78/$FILE/HCL%20170.pdf",
+     "sha256": "49faf78b64ab1340cca38030738026b09ea6b688949d590f479f32d40efefee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-172-2026",
+   "path": "local/mures/targu-mures/2026/172",
+   "short": "HCL Târgu Mureș nr. 172/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 172/2026 privind concesionarea directÄ a suprafeÈelor de teren aflate Ã®n proprietatea ,Municipiului TÃ¢rgu MureÈ din incinta Complexului de agrement ,Weekendââ (str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/FA16B7F652A2A1FEC2258E27002F19CA/$FILE/HCL%20172.pdf",
+     "sha256": "273204c76f8eb2891ec9e51d498ce2620397e4e0d14dce69563d30b077bd5536"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-174-2026",
+   "path": "local/mures/targu-mures/2026/174",
+   "short": "HCL Târgu Mureș nr. 174/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 174/2026 privind acordarea titlului de âCetÄÈean de Onoare al Municipiului TÃ¢rgu MureÈâ,pentru personalitÄÈi cu merite deosebite,ediÈia 2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/CDBC9B6078BFAF08C2258E22003AFD8C/$FILE/HCL%20174.pdf",
+     "sha256": "7486ffb8876e42cc2f3bb030a7c463ca21cf6a1dd9339d9b17f6d5c926daa4d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-175-2026",
+   "path": "local/mures/targu-mures/2026/175",
+   "short": "HCL Târgu Mureș nr. 175/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 175/2026 privind modificarea Organigramei,a Statului de funcÈii Èi a Regulamentului de organizare Èi funcÈionare al DirecÈiei Fiscale Locale TÃ¢rgu MureÈ Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/8582C7A1A6F37F5CC2258E22003B3555/$FILE/HCL%20175.pdf",
+     "sha256": "21c14605b7967d754e37fbc7cfcc1fc1cd625717c322cb5fa17388383efd5e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-176-2026",
+   "path": "local/mures/targu-mures/2026/176",
+   "short": "HCL Târgu Mureș nr. 176/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 176/2026 privind aprobarea Protocolului de colaborare Ã®ncheiat Ã®ntre Municipiul TÃ¢rgu MureÈ ,Èi AsociaÈia âVisit MureÈâ pentru implementarea programului âPromovarea destinaÈiei turistice MureÈ pe pieÈele internaÈionale cheieâ Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/15D08CF0C6205D7AC2258E27003055BD/$FILE/HCL%20176.pdf",
+     "sha256": "91a82ed43a2c453609c0cf5d31324f0756d596858dca80d9413f5bce14264729"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-178-2026",
+   "path": "local/mures/targu-mures/2026/178",
+   "short": "HCL Târgu Mureș nr. 178/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 178/2026 privind aprobarea Proiectului Tehnic (PT) Èi a detaliilor de execuÈie pentru obiectivul de investiÈii âPadoc savanÄ africanÄ,aferent clÄdirii C11â Èi Ã®ncredinÈarea gestionÄrii execuÈiei lucrÄrilor cÄtre AdministraÈia GrÄdinii Zoologice Èi a Platoului CorneÈti Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/D3DF27A538EEF259C2258E270031FA2D/$FILE/HCL%20178.pdf",
+     "sha256": "a0025adcf1dabddbef0e095a385c0958aebf94c3d1ca450819e455b8e5dc0b86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-179-2026",
+   "path": "local/mures/targu-mures/2026/179",
+   "short": "HCL Târgu Mureș nr. 179/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 179/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/96470C0D35005BFEC2258E2700324B40/$FILE/HCL%20179.pdf",
+     "sha256": "9b9a9f86e0e236fe151931fa7aa63a3b7e4ee640de229a4274005a2650d48015"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-18-2026",
+   "path": "local/mures/targu-mures/2026/18",
+   "short": "HCL Târgu Mureș nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 18/2026 pentru aprobarea indicatorilor valorici actualizaÈi,la obiectivul de investiÈii: âLucrÄri de,intervenÈie privind creÈterea performanÈei energetice la 14 blocuri de locuinÈe din,municipiul TÃ¢rgu MureÈâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F0461B4389A0D4B7C2258DAF003D58C5/$FILE/HCL%2018.pdf",
+     "sha256": "3be38865bac324500bd58cb5cc4e193527c490ab32cb1fffb3f922ff91013dbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-180-2026",
+   "path": "local/mures/targu-mures/2026/180",
+   "short": "HCL Târgu Mureș nr. 180/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 180/2026 privind aprobarea conturilor anuale de execuÈie a bugetelor Èi a situaÈiilor ,financiare anuale,aferente anului 2025,pentru Unitatea Administrativ TeritorialÄ - Municipiul TÃ¢rgu MureÈ Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F624C72768BF8046C2258E2700327337/$FILE/HCL%20180.pdf",
+     "sha256": "2fd97009a8636218b3b412309b9bd2afc4b2a8fbe06752e4875e1a76ce8ecfc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-181-2026",
+   "path": "local/mures/targu-mures/2026/181",
+   "short": "HCL Târgu Mureș nr. 181/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 181/2026 privind aprobarea contului de execuÈie pe trimestrul I anul 2026,pentru Unitatea Administrativ TeritorialÄ - Municipiul TÃ¢rgu MureÈ Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0D9F93F144000B0AC2258E270032C62F/$FILE/HCL%20181.pdf",
+     "sha256": "7925ae22305a53bb4265c5920222aa651fb2b506e8085aea62b49f5df605e42a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-182-2026",
+   "path": "local/mures/targu-mures/2026/182",
+   "short": "HCL Târgu Mureș nr. 182/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 182/2026 privind reorganizarea Centrului de CulturÄ,ArtÄ Èi Agrement TÃ¢rgu MureÈ din subordinea,Consiliului Local,instituÈie publicÄ de culturÄ,de interes local cu personalitate juridicÄ,aprobarea organigramei,a numÄrului de personal,Èi a statului de funcÈii Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/2EC27269F2139085C2258E22003B54B9/$FILE/HCL%20182.pdf",
+     "sha256": "ee2fb7584c96cc32d1e0842eaf5eafc4ec9ffc663d392d5ccdd0d629d048ed4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-183-2026",
+   "path": "local/mures/targu-mures/2026/183",
+   "short": "HCL Târgu Mureș nr. 183/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 183/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F3D226A105931279C2258E22003B6339/$FILE/HCL%20183.pdf",
+     "sha256": "d19cbb1c5e1d591f2e8624dd8ecaf52f8100473dd6c63f2aed3a22f0d286f175"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-184-2026",
+   "path": "local/mures/targu-mures/2026/184",
+   "short": "HCL Târgu Mureș nr. 184/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 184/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E13E8B7E57503992C2258E22003B6ECC/$FILE/HCL%20184.pdf",
+     "sha256": "a6ced231e65243012b41a2a14484af289ad2cef7f396ec4a706ec2ed7c87be2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-185-2026",
+   "path": "local/mures/targu-mures/2026/185",
+   "short": "HCL Târgu Mureș nr. 185/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 185/2026 privind reorganizarea Aparatului de specialitate al Primarului Municipiului TÃ¢rgu MureÈ Èi Serviciului public comunitar local de evidenÈÄ a Persoanelor TÃ¢rgu MureÈ,precum Èi aprobarea Organigramelor,Statelor de funcÈii Èi Regulamentelor de organizare Èi funcÈionare ---Modificat prin HCL 202/30.07.2026 Deschide Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C3BF3361C0DEFEF7C2258E22003B855B/$FILE/HCL%20185.pdf",
+     "sha256": "fb702e6e97a8c6b62a86467b2b0899e3cffcefb96b6117f23f035eeffa2ea74e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-186-2026",
+   "path": "local/mures/targu-mures/2026/186",
+   "short": "HCL Târgu Mureș nr. 186/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 186/2026 privind aprobarea Organigramei a Statului de funcÈii,Èi a Regulamentului de Organizare Èi FuncÈionare,ale Clubului Sportiv Municipal TÃ¢rgu MureÈ - MarosvÃ¡sÃ¡rhelyi VÃ¡rosi Sportklub Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C59F38499083041CC2258E22003B9A79/$FILE/HCL%20186.pdf",
+     "sha256": "ee9c1958fd4b1954138b6d4be8ccf8acd3805091ba4f764f6cd1a86d84989e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-187-2026",
+   "path": "local/mures/targu-mures/2026/187",
+   "short": "HCL Târgu Mureș nr. 187/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 187/2026 privind aprobarea Organigramei,Statului de funcÈii Èi Regulamentului de Organizare,Èi FuncÈionare ale DirecÈiei PoliÈia LocalÄ TÃ¢rgu MureÈ,instituÈie publicÄ de interes local cu personalitate juridicÄ,ca urmare a reorganizÄrii,pentru punerea Ã®n aplicare,a OrdonanÈei de UrgenÈÄ a Guvernului nr. 7/2026 pentru modificarea Èi completarea,unor acte normative,precum Èi pentru adoptare",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/ED4F14788A9029F1C2258E22003BB3CD/$FILE/HCL%20187.pdf",
+     "sha256": "460739933058daacf8defe2abdf58b3c2ea81bf7040e6922e817f592756f3706"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-189-2026",
+   "path": "local/mures/targu-mures/2026/189",
+   "short": "HCL Târgu Mureș nr. 189/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 189/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/677EC2886AB1A2C6C2258E2700330FFF/$FILE/HCL%20189.pdf",
+     "sha256": "c5855b87cd89c44bc8af825e72838758ddc8fb7f4a91699197aba895f1d21eb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-19-2026",
+   "path": "local/mures/targu-mures/2026/19",
+   "short": "HCL Târgu Mureș nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 19/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/5B18D198D625AEDCC2258DAF003D7536/$FILE/HCL%2019.pdf",
+     "sha256": "2349ac6f26cc17d3028f84e461d93b255c5a8ab57ddcdea8cbe4026b50bd39d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-190-2026",
+   "path": "local/mures/targu-mures/2026/190",
+   "short": "HCL Târgu Mureș nr. 190/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 190/2026 privind aprobarea validÄrii DispoziÈiei de Primar nr. 1.244/22.07.2026 referitoare la modificarea bugetului UnitÄÅ£ii Administrativ Teritoriale - Municipiul TÃ¢rgu MureÅ pe anul 2026 Èi rectificarea bugetului UnitÄÅ£ii Administrativ Teritoriale - Municipiul TÃ¢rgu MureÅ pentru anul 2026 Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A9792B642EA6E734C2258E48003B5E07/$FILE/HCL%20190.pdf",
+     "sha256": "aa1d9b44b229d0add21ad3161d7b3331aa288b304a1e08677473370abde57d0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-191-2026",
+   "path": "local/mures/targu-mures/2026/191",
+   "short": "HCL Târgu Mureș nr. 191/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 191/2026 privind aprobarea implementÄrii,Ã®n anul Ècolar 2026â2027,a Programului âPrimul Ghiozdanâ,destinat elevilor Ã®nscriÈi Ã®n clasa pregÄtitoare Ã®n unitÄÈile de Ã®nvÄÈÄmÃ¢nt preuniversitar de stat din reÈeaua ÈcolarÄ a Municipiului TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/ADBC1FE157E5B911C2258E48003BA282/$FILE/HCL%20191.pdf",
+     "sha256": "023431ea04d6de302d1a086416d231c535d9dca11bb7845326d3486148ceadfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-192-2026",
+   "path": "local/mures/targu-mures/2026/192",
+   "short": "HCL Târgu Mureș nr. 192/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 192/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/AB2FDF73F3605C96C2258E48003BB6C5/$FILE/HCL%20192.pdf",
+     "sha256": "530b520b674b06446c02cefffca5848ab8f115777ca40f13593f963c802f154e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--targu-mures-193-2026",
    "path": "local/mures/targu-mures/2026/193",
    "short": "HCL Târgu Mureș nr. 193/2026",
@@ -74,6 +1289,81 @@
      "units": 1,
      "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/2ECE2D1A1050255AC2258E48003BE7E3/$FILE/HCL%20193.pdf",
      "sha256": "2b0e6784cd7128ede5b450fffad8639a179cc24b24f415daf6694d818c04dd4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-195-2026",
+   "path": "local/mures/targu-mures/2026/195",
+   "short": "HCL Târgu Mureș nr. 195/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 195/2026 privind alegerea preÈedintelui de ÈedinÈÄ a Consiliului Local,al Municipiului TÃ¢rgu MureÈ,pentru perioada august â octombrie 2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A291B5A05AC9260FC2258E48003C1946/$FILE/HCL%20195.pdf",
+     "sha256": "f90f9964fd7819e04dfc5435e33e3090be0f912d8cef08a099a58f0b02e998ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-196-2026",
+   "path": "local/mures/targu-mures/2026/196",
+   "short": "HCL Târgu Mureș nr. 196/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 196/2026 privind concesionarea directÄ a terenului Ã®n suprafaÈÄ de 4,35 mp situat Ã®n raza teritorialÄ a Municipiului TÃ¢rgu MureÈ,str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/09F2013C3AAAC7D5C2258E48003C4D4E/$FILE/HCL%20196.pdf",
+     "sha256": "3480b0a6ae9b806f6ff861be8eec8a827cfa538b9b9abc4cb87ba4783f67f2f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-197-2026",
+   "path": "local/mures/targu-mures/2026/197",
+   "short": "HCL Târgu Mureș nr. 197/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 197/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/EE92B5F79E909E10C2258E48003C62CC/$FILE/HCL%20197.pdf",
+     "sha256": "fadff29243b1407b2aa24aec3931cfe4b4d6f4c02e27879c828b735c4b115d75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-198-2026",
+   "path": "local/mures/targu-mures/2026/198",
+   "short": "HCL Târgu Mureș nr. 198/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 198/2026 privind aprobarea cuantumului redevenÈei datorate de S.C",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/5946DC7F01D0AC96C2258E48003CEFE9/$FILE/HCL%20198.pdf",
+     "sha256": "63a02363a557f9e71c5ac1664fe710c53d626adeba034f2ba27187d677de746f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-199-2026",
+   "path": "local/mures/targu-mures/2026/199",
+   "short": "HCL Târgu Mureș nr. 199/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 199/2026 privind Ã®ncheierea unui act adiÈional la contractul de Ã®nchiriere nr. 478/46825 din 03.09.2024,avÃ¢nd ca obiect prelungirea duratei contractului de Ã®nchiriere pentru spaÈiile situate Ã®n incinta Parohiei Romano-Catolice TÃ¢rgu MureÈ nr. 1,utilizate de,cÄtre Liceul Romano-Catolic TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/BFF3F7244A22C018C2258E48003CFDC6/$FILE/HCL%20199.pdf",
+     "sha256": "36ad5f3915c02f505fb92557d01fc72f918ccc5d516a252dc81cb3be151b6d6a"
     }
    ]
   },
@@ -108,6 +1398,141 @@
    ]
   },
   {
+   "slug": "hcl-mures--targu-mures-200-2026",
+   "path": "local/mures/targu-mures/2026/200",
+   "short": "HCL Târgu Mureș nr. 200/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 200/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F463613EB0492C6BC2258E48003D1A63/$FILE/HCL%20200.pdf",
+     "sha256": "b090cca923c240a3e4fe3f127019931c1e7499b26171b29852ded0f560f1f00b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-202-2026",
+   "path": "local/mures/targu-mures/2026/202",
+   "short": "HCL Târgu Mureș nr. 202/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 202/2026 privind punerea Ã®n executare a Deciziei nr. 636/R/16.06.2026 pronunÈatÄ de ,Curtea de Apel TÃ¢rgu MureÈ,Ã®n dosar nr. 4411/102/2025,definitivÄ,pentru transformarea unor posturi de naturÄ contractualÄ Ã®n funcÈii publice Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A7012BF7DBF34C54C2258E48003D988A/$FILE/HCL%20202.pdf",
+     "sha256": "cf00b9e4a196d6fb4f4a4d667e85f078034e9040bd56a31430e30495999869a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-203-2026",
+   "path": "local/mures/targu-mures/2026/203",
+   "short": "HCL Târgu Mureș nr. 203/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 203/2026 privind aprobarea emiterii autorizaÈiei de funcÈionare pentru desfÄÈurarea activitÄÈii,de jocuri de noroc de cÄtre THE JACK SRL pentru locaÈia fizicÄ situatÄ Ã®n,Municipiul TÃ¢rgu MureÈ,B-dul 1 Decembrie 1918,Nr. 242,Unitatea E10 - Centrul Comercial Shopping City TÃ¢rgu MureÈ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A5956E6A2DA15269C2258E48003DC152/$FILE/HCL%20203.pdf",
+     "sha256": "e7bee88806cc6c17a680faa0d65c61d56e04a48374f3167289f3616bb0390900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-204-2026",
+   "path": "local/mures/targu-mures/2026/204",
+   "short": "HCL Târgu Mureș nr. 204/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 204/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÅ£i obiectivului de investiÅ£ii âDALI pentru reabilitare conducta de apÄ strada Caraiman,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/91EC5149CF4CA149C2258E48003DD5AB/$FILE/HCL%20204.pdf",
+     "sha256": "f2b15f76ba5252f8015a6c7768fd773f55df9d542d902cbbeee24e6fb44369e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-205-2026",
+   "path": "local/mures/targu-mures/2026/205",
+   "short": "HCL Târgu Mureș nr. 205/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 205/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada Branului,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/60078361D0A7B189C2258E48003E380F/$FILE/HCL%20205.pdf",
+     "sha256": "3dbb8c2410dfabe3dc65fa1e4cb9c782e6d094e3a5bef8f595b35d569e7eee67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-206-2026",
+   "path": "local/mures/targu-mures/2026/206",
+   "short": "HCL Târgu Mureș nr. 206/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 206/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada Ciocanului,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/628276DE84F2A206C2258E48003E517B/$FILE/HCL%20206.pdf",
+     "sha256": "67a4775a954e70e254db6fcbf4e17486ead2c34330bcc1a64ffd61637df1fb74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-207-2026",
+   "path": "local/mures/targu-mures/2026/207",
+   "short": "HCL Târgu Mureș nr. 207/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 207/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada Iernutului,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/2D402F9AB7DDC0C7C2258E48003E5C91/$FILE/HCL%20207.pdf",
+     "sha256": "3df47ca2cd977b2219e9228fd345e154728de9ce401093a2683cffbcaeaf7270"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-208-2026",
+   "path": "local/mures/targu-mures/2026/208",
+   "short": "HCL Târgu Mureș nr. 208/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 208/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada LuduÈului,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/D1D45292FFD46B1DC2258E48003E6FE5/$FILE/HCL%20208.pdf",
+     "sha256": "6680d2995a22cd7b7e1dd17de88652296bb667d305c31efd2f1cb29e9cde2a75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-209-2026",
+   "path": "local/mures/targu-mures/2026/209",
+   "short": "HCL Târgu Mureș nr. 209/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 209/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada Alba Iulia,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/25B473C3DE1024EAC2258E48003E8E25/$FILE/HCL%20209.pdf",
+     "sha256": "278aa9a4d3d7e6f4c50e8543e81d25d0b7a28406322c1a48a47463cf8be6d5ca"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--targu-mures-21-2026",
    "path": "local/mures/targu-mures/2026/21",
    "short": "HCL Târgu Mureș nr. 21/2026",
@@ -119,6 +1544,441 @@
      "units": 1,
      "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0071F26686674F05C2258DAF003D9E10/$FILE/HCL%2021.pdf",
      "sha256": "1ec7d55022673b1f10c504bf4d5806b89a520e7d78455cac5ef1a1129f951df9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-210-2026",
+   "path": "local/mures/targu-mures/2026/210",
+   "short": "HCL Târgu Mureș nr. 210/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 210/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada Trebely,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B826CE4FF089821FC2258E48003EA4CE/$FILE/HCL%20210.pdf",
+     "sha256": "222794abb9d674c672abc63f42eaf0e7ab25354818dfba2e7eab3ba978601f8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-211-2026",
+   "path": "local/mures/targu-mures/2026/211",
+   "short": "HCL Târgu Mureș nr. 211/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 211/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada CriÈan,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/79CD3AF947D652B8C2258E48003EB29D/$FILE/HCL%20211.pdf",
+     "sha256": "92a35bb44ee8e12f15a2a25b27ff4c9226a47440d76049ec72ddecfc418726d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-212-2026",
+   "path": "local/mures/targu-mures/2026/212",
+   "short": "HCL Târgu Mureș nr. 212/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 212/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada Varga Ecaterina,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B08717A96CC46085C2258E48003EFEDE/$FILE/HCL%20212.pdf",
+     "sha256": "0b69c483db73f2022d18bb8b78f645efde5a38e27bbbf62900910dad566ad2a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-213-2026",
+   "path": "local/mures/targu-mures/2026/213",
+   "short": "HCL Târgu Mureș nr. 213/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 213/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada ÈesÄtorilor,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/87192352B454C628C2258E48003F10EB/$FILE/HCL%20213.pdf",
+     "sha256": "13baae1878b1266447c3b8510596fcef4545333140002e42d365e74fe2a6b7fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-214-2026",
+   "path": "local/mures/targu-mures/2026/214",
+   "short": "HCL Târgu Mureș nr. 214/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 214/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada Azuga,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/CC2EBC149DBAB695C2258E48003F257B/$FILE/HCL%20214.pdf",
+     "sha256": "b4d3ec38f3a5ff863f79c8aa17aa3ffa2dea077d473e3f177e9856a0af071711"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-215-2026",
+   "path": "local/mures/targu-mures/2026/215",
+   "short": "HCL Târgu Mureș nr. 215/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 215/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4013E62377E64C80C2258E48003F559D/$FILE/HCL%20215.pdf",
+     "sha256": "8fd01055a19ca58fa98a89e67afdb1b6817d6aa7474fe8ee3197797e356ae6c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-216-2026",
+   "path": "local/mures/targu-mures/2026/216",
+   "short": "HCL Târgu Mureș nr. 216/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 216/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-,economici aferenÈi obiectivului de investiÈii,âDALI pentru reabilitare conducta de apÄ strada Somnului,Municipiul TÃ¢rgu MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/FBE01B238825F2DAC2258E48003F6611/$FILE/HCL%20216.pdf",
+     "sha256": "e5d637e549eeb0ee00b6e18a037495d6f2940ce3f65034072d69d8f57a1eb3e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-217-2026",
+   "path": "local/mures/targu-mures/2026/217",
+   "short": "HCL Târgu Mureș nr. 217/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 217/2026 privind Ã®nfiinÈarea societÄÈii cu rÄspundere limitatÄ âCLEANSERV MURES S.R.L.â Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4902E7C5251D3681C2258E48003F76E7/$FILE/HCL%20217.pdf",
+     "sha256": "403a4d127ea324c43f5041baca4141c3213c4d658ecbf1d161720ef26a4014a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-218-2026",
+   "path": "local/mures/targu-mures/2026/218",
+   "short": "HCL Târgu Mureș nr. 218/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 218/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/8CDCC4F7C7724A37C2258E48003F8F89/$FILE/HCL%20218.pdf",
+     "sha256": "9ba0f6847a7639d20dfffce2f0faaa8f18eb976cfa274ecf5abfc333c147e4b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-219-2026",
+   "path": "local/mures/targu-mures/2026/219",
+   "short": "HCL Târgu Mureș nr. 219/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 219/2026 privind concesionarea directÄ a suprafeÈelor de teren aflate Ã®n proprietatea,Municipiului TÃ¢rgu MureÈ din incinta Complexului de agrement ,Weekendââ,(str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/55A2DB919AFFF030C2258E48003FC408/$FILE/HCL%20219.pdf",
+     "sha256": "3da5df73718c2782d108ae8b2c7c27f15309fa27a56884ebf88ffaba78937030"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-22-2026",
+   "path": "local/mures/targu-mures/2026/22",
+   "short": "HCL Târgu Mureș nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 22/2026 privind aprobarea ordinii de prioritate Ã®n vederea atribuirii de locuinÅ£e din fondul locativ de stat,locuinÅ£e sociale,locuinÅ£e pentru chiriaÅi evacuabili din locuinÈele retrocedate,locuinÅ£e pentru pensionari Èi locuinÈe pentru tineri (ANL),destinate Ã®nchirierii,Ã®n municipiul TÃ¢rgu MureÈ pentru anul 2026 Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C0926AD349328604C2258DAF003DB0C1/$FILE/HCL%2022.pdf",
+     "sha256": "78e845594986a55a59213c28f2a9e2cf34e6a91966bd767fc46abcf25903b37d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-220-2026",
+   "path": "local/mures/targu-mures/2026/220",
+   "short": "HCL Târgu Mureș nr. 220/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 220/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/BA25A62B28542C58C2258E4800402F3F/$FILE/HCL%20220.pdf",
+     "sha256": "a870793ca4db65613cb39a6343afe7c65d6833420d68b432125eb69619e1efdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-221-2026",
+   "path": "local/mures/targu-mures/2026/221",
+   "short": "HCL Târgu Mureș nr. 221/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 221/2026 privind aprobarea Programului Local Multianual,pentru creÈterea performanÈei energetice a blocurilor de locuinÈe din municipiul TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B6E9F86708FFEF12C2258E480040514D/$FILE/HCL%20221.pdf",
+     "sha256": "d711ffdff1c0bdf176353ad5fdaf95fd464d0d869522461521ec6bcb8d19d0c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-222-2026",
+   "path": "local/mures/targu-mures/2026/222",
+   "short": "HCL Târgu Mureș nr. 222/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 222/2026 privind aprobarea indicatorilor tehnico-economici actualizaÈi la obiectivul de investiÈii: LucrÄri de creÈtere a performanÈei energetice la blocurile de locuinÈe din B-dul 1 Decembrie 1918 nr. 86 B Èi nr. 86 D,municipiul TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/34DEC36CF64F0945C2258E4800405F6E/$FILE/HCL%20222.pdf",
+     "sha256": "95114aedbda03c0212a9233a514168a3acfc952799ed92a86abd5ffc71c6c6ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-223-2026",
+   "path": "local/mures/targu-mures/2026/223",
+   "short": "HCL Târgu Mureș nr. 223/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 223/2026 privind aprobarea sumelor pentru finanÈarea nerambursabilÄ din fondurile bugetului local al Municipiului TÃ¢rgu MureÈ pentru proiecte sportive pe anul 2026 Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E8B0A4A585FCF57AC2258E48004079C5/$FILE/HCL%20223.pdf",
+     "sha256": "96f40792f86be01c989ad29dcfd3f90865c1599b7e5bfafcb5c368ace4c6ca5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-224-2026",
+   "path": "local/mures/targu-mures/2026/224",
+   "short": "HCL Târgu Mureș nr. 224/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 224/2026 privind aprobarea sumelor pentru finanÈarea nermbursabilÄ a proiectelor de Èi pentru tineret pentru anul 2026 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/5E42512154E97B34C2258E480040885B/$FILE/HCL%20224.pdf",
+     "sha256": "50ca34444d68fbd81dd78c1aef0df641616096ebc5569d093c5b5312ff562739"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-225-2026",
+   "path": "local/mures/targu-mures/2026/225",
+   "short": "HCL Târgu Mureș nr. 225/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 225/2026 privind atestarea apartenenÈei la domeniul privat al Municipiului TÃ¢rgu MureÅ a cotei de teren de 370/1865 parte din suprafaÈa totalÄ a terenului de 1865 mp,situat Ã®n str. PiaÈa Dr",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A2A8817DCD53B40BC2258E4800409549/$FILE/HCL%20225.pdf",
+     "sha256": "b5a7a77359e32b763883c21b80861120fed475eaf50d881b4a6082d3cd74375c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-226-2026",
+   "path": "local/mures/targu-mures/2026/226",
+   "short": "HCL Târgu Mureș nr. 226/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 226/2026 privind Ã®ncheierea unui act adiÈional la Contractul de Ã®nchiriere nr. 449/66544/11.10.2023,avÃ¢nd ca obiect prelungirea duratei contractului de Ã®nchiriere Èi actualizarea cuantumului chiriei potrivit prevederilor contractuale Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/32BF9257F4A2B30AC2258E480042DED8/$FILE/HCL%20226.pdf",
+     "sha256": "06fccedf8858d77f1747d9b08216269917358f5909a9a7aeb31b38da8bf37557"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-227-2026",
+   "path": "local/mures/targu-mures/2026/227",
+   "short": "HCL Târgu Mureș nr. 227/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 227/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/8A26216475C14953C2258E480042F0A2/$FILE/HCL%20227.pdf",
+     "sha256": "7569823cd0e274f78df87ff4d6876d3aeb62a2bf80cfac094ae695d45f8f5934"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-228-2026",
+   "path": "local/mures/targu-mures/2026/228",
+   "short": "HCL Târgu Mureș nr. 228/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 228/2026 privind actualizarea indicatorilor tehnico-economici,inclusiv anexa privind descrierea investiÈiei,pentru proiectul: âSistem de management al traficului Ã®n Municipiul TÃ¢rgu MureÈ â Etapa 2â Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F3E83E488582E096C2258E4800432B13/$FILE/HCL%20228.pdf",
+     "sha256": "995e717661e390e5b820106ae162cfe957ded9b32ab14196af9173156675ae2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-229-2026",
+   "path": "local/mures/targu-mures/2026/229",
+   "short": "HCL Târgu Mureș nr. 229/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 229/2026 privind aprobarea sumelor pentru finanÈarea nerambursabilÄ (de la bugetul local) a proiectelor culturale depuse Ã®n luna iulie 2026 pe domeniul âevenimente de interes public general cu impact direct asupra comunitÄÈii localeâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/86E5137CBD4B1427C2258E4800433966/$FILE/HCL%20229.pdf",
+     "sha256": "c5b96b98297860912a5ea09103257e13dacc1da0c0e383168f1768cd800eda0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-23-2026",
+   "path": "local/mures/targu-mures/2026/23",
+   "short": "HCL Târgu Mureș nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 23/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4A5B08E8B0C776D6C2258DAF003DC12E/$FILE/HCL%2023.pdf",
+     "sha256": "1e54e2d785b029b3d430647708eaf4e35c5fd224f19363b8520a9481a2d5fb62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-234-2026",
+   "path": "local/mures/targu-mures/2026/234",
+   "short": "HCL Târgu Mureș nr. 234/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 234/2026 privind aprobarea sumelor pentru finanÈarea nerambursabilÄ (de la bugetul local) a proiectelor culturale aferente sesiunii pentru domeniile conform Cap.I pct.10 lit. a-h din Ghidul Solicitantului,pentru anul 2026 Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0A1C49E3E5766709C2258E610029CB90/$FILE/HCL%20234.pdf",
+     "sha256": "1e22ab650e07197519369aff434871a746ae73208e5f43a0e66dd9b1b7bbe74a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-235-2026",
+   "path": "local/mures/targu-mures/2026/235",
+   "short": "HCL Târgu Mureș nr. 235/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 235/2026 privind aprobarea sumelor pentru finanÈarea nerambursabilÄ (de la bugetul local) a proiectelor culturale depuse Ã®n luna August 2026 pe domeniul âevenimente de interes public general cu impact direct asupra comunitÄÈii localeâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/25AE8AC9FAEB2B8FC2258E610029E39B/$FILE/HCL%20235.pdf",
+     "sha256": "d957fe11b4096d9aa7ca0ec2d85adcafaf0b5f48be46d3dc0f8a330e519bbaee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-236-2026",
+   "path": "local/mures/targu-mures/2026/236",
+   "short": "HCL Târgu Mureș nr. 236/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 236/2026 privind aprobarea proiectului Èi a cheltuielilor legate de proiectul,âLucrÄri de creÈtere a performantelor energetice la blocuri de locuinÈe,din Municipiul TÃ¢rgu MureÈ - Str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/1C5A7E8431E9FB26C2258E72003425CA/$FILE/HCL%20236.pdf",
+     "sha256": "5bc138508895d0cef28fb7ea5503f02f70f06b8d47c44dd6e26d715dba06e1a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-237-2026",
+   "path": "local/mures/targu-mures/2026/237",
+   "short": "HCL Târgu Mureș nr. 237/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 237/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0A5D93BE2479E2FFC2258E7D003F8A04/$FILE/HCL%20237.pdf",
+     "sha256": "59a101b03b426ae2e9a713a3855c2a541921afbeea4c4479996cfaadf9e49bf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-238-2026",
+   "path": "local/mures/targu-mures/2026/238",
+   "short": "HCL Târgu Mureș nr. 238/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 238/2026 privind aprobarea Studiului de fezabilitate Èi a indicatorilor tehnico-economici aferenÈi proiectului ,Realizarea de capacitÄÈi noi de producere a energiei electrice din surse regenerabile,cu capacitÄÈi de stocare integrate,pentru autoconsumÂ¨ Deschide Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B8E4C5B261A401E6C2258E7D003F9DC8/$FILE/HCL%20238.pdf",
+     "sha256": "1a072a7250a643285e1daaf050288f2f3a816b888436c1656983d8b70171455b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-239-2026",
+   "path": "local/mures/targu-mures/2026/239",
+   "short": "HCL Târgu Mureș nr. 239/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 239/2026 privind aprobarea depunerii proiectului âRealizarea de capacitÄÈi noi de producere a energiei electrice din surse regenerabile,cu capacitÄÈi de stocare integrate,pentru autoconsumâ la nivelul Municipiului TÃ¢rgu MureÈ,Ã®n cadrul Fondului pentru modernizare,aprobarea valorii totale a proiectului,a cheltuielilor eligibile Èi neeligibile,a finanÈÄrii nerambursabile solicitate Èi a asigur",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/9D358020CC073BE5C2258E7D003FC03F/$FILE/HCL%20239.pdf",
+     "sha256": "0698e33b31374105dca8cbe2a7f8c4611b7a79ddb7a58a74c92e20340a48112d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-24-2026",
+   "path": "local/mures/targu-mures/2026/24",
+   "short": "HCL Târgu Mureș nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 24/2026 privind atestarea apartenenÈei la domeniul privat al Municipiului TÃ¢rgu MureÈ a cotei de,teren de 206020/315200 ( reprezentÃ¢nd 515 mp) din terenul Ã®n suprafaÈÄ totalÄ de 788 mp,situat pe B-dul 1 Decembrie 1918,nr. 59 identificat Ã®n CF nr. 123936 TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F4123C06670972B3C2258DAF003DCDDA/$FILE/HCL%2024.pdf",
+     "sha256": "59823f564c6575af9400b3b1b2d1a469fea0ba246931a5ab92d6894aec6b3926"
     }
    ]
   },
@@ -153,6 +2013,186 @@
    ]
   },
   {
+   "slug": "hcl-mures--targu-mures-243-2026",
+   "path": "local/mures/targu-mures/2026/243",
+   "short": "HCL Târgu Mureș nr. 243/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 243/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F9A4CF29AA2F9E25C2258E810035B9E3/$FILE/HCL%20243.pdf",
+     "sha256": "07960188002eb11db2fc35dea5c5c873f3c52d3494939d5a77cf821885a21177"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-244-2026",
+   "path": "local/mures/targu-mures/2026/244",
+   "short": "HCL Târgu Mureș nr. 244/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 244/2026 privind aprobarea majorÄrii capitalului social la S.C",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/651DE6493362820DC2258E810035C74C/$FILE/HCL%20244.pdf",
+     "sha256": "2ed9ecc0b81c05359df980121e1a2700aebf996bb224d7798020cd7d461a815b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-245-2026",
+   "path": "local/mures/targu-mures/2026/245",
+   "short": "HCL Târgu Mureș nr. 245/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 245/2026 privind aprobarea participÄrii la proiectul âImplementarea serviciilor comunitare integrate Ã®n zonele urbane marginalizate din TÃ¢rgu MureÈ,locuite de comunitÄÈi vulnerabile,cu o prezenÈÄ ridicatÄ a cetÄÈenilor defavorizaÈi de etnie romÄâ,finanÈat prin Programul de Cooperare ElveÈiano-RomÃ¢n,Programul de Incluziune SocialÄ,Componenta 1 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/3EA2F5A0C464A5C7C2258E810035D75C/$FILE/HCL%20245.pdf",
+     "sha256": "3497f89365d764f016e3f411a78dbe3cf0b812e912a8c360faf1c9957d780663"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-246-2026",
+   "path": "local/mures/targu-mures/2026/246",
+   "short": "HCL Târgu Mureș nr. 246/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 246/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/D99C31CF6CE99F69C2258E810035E783/$FILE/HCL%20246.pdf",
+     "sha256": "e9b47c9e5da5825b9af00c64f74f7d8f1bb32205e48ad5ba6823be42c577844f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-248-2026",
+   "path": "local/mures/targu-mures/2026/248",
+   "short": "HCL Târgu Mureș nr. 248/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 248/2026 privind aprobarea modificÄrii Statutului AsociaÈiei âZona MetropolitanÄ TÃ¢rgu MureÈâ Èi,mandatarea reprezentantului legal pentru alegerea noilor membri Ã®n Consiliul Director Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/FD96C255AC7AA7A2C2258E8100360A65/$FILE/HCL%20248.pdf",
+     "sha256": "20a6d8a759eea7af57ae71771d519663544fc92d0e1896bbe709f2e3d3803519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-249-2026",
+   "path": "local/mures/targu-mures/2026/249",
+   "short": "HCL Târgu Mureș nr. 249/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 249/2026 privind concesionarea directÄ a suprafeÈelor de teren aflate Ã®n,proprietatea Municipiului TÃ¢rgu MureÈ din incinta Complexului de agrement âWeekendâ,(str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/71E9C9666EE60BB1C2258E8100362EC0/$FILE/HCL%20249.pdf",
+     "sha256": "b025694f3a990c1caccdb6d140ff2589d30c94ac52c38ccb68a1567903b04b3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-25-2026",
+   "path": "local/mures/targu-mures/2026/25",
+   "short": "HCL Târgu Mureș nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 25/2026 privind aprobarea duratei contractelor de Ã®nchiriere pentru spaÈiile cu altÄ destinaÅ£ie decÃ¢t aceea de locuinÅ£e,aflate Ã®n proprietatea municipalitÄÈii,Ã®n favoarea fundaÈiilor,asociaÈiilor Èi organizaÈiilor neguvernamentale Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/D3271AA849E6292EC2258DAF003DD9CE/$FILE/HCL%2025.pdf",
+     "sha256": "cc6dc0e2138c0311fb9043529613a26ffd1c46839f05e8030752f9e6f3dada0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-250-2026",
+   "path": "local/mures/targu-mures/2026/250",
+   "short": "HCL Târgu Mureș nr. 250/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 250/2026 privind desemnarea unui membru titular Èi a unui membru supleant Ã®n comisiile,de evaluare a probei de interviu a concursului pentru ocuparea funcÈiilor vacante,de director Èi director adjunct din unitÄÈile de Ã®nvÄÈÄmÃ¢nt preuniversitar de stat,din judeÈul MureÈ,sesiunea august-decembrie 2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C4308F6D67CA37C9C2258E81003640B8/$FILE/HCL%20250.pdf",
+     "sha256": "29df33805318955bbce47f50a5bdb062e31a4dbaede2d87fb948a2f9f437c94c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-251-2026",
+   "path": "local/mures/targu-mures/2026/251",
+   "short": "HCL Târgu Mureș nr. 251/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 251/2026 privind aprobarea contului de execuÈie pe trimestrul II anul 2026,pentru Unitatea Administrativ TeritorialÄ - Municipiul TÃ¢rgu MureÈ Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/95BC49913080AFF5C2258E8100365557/$FILE/HCL%20251.pdf",
+     "sha256": "a4b7d1400301c8801ce052e3c12ae8b52c8644fcbce076bf306ed59e7c01dec2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-252-2026",
+   "path": "local/mures/targu-mures/2026/252",
+   "short": "HCL Târgu Mureș nr. 252/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 252/2026 privind aprobarea schimbÄrii destinaÈiei spaÈiilor cu altÄ destinaÈie decÃ¢t aceea,de locuinÈe situate Ã®n Pasajul subteran PiaÈa Victoriei Èi stabilirea modalitÄÈii,de valorificare a acestora prin Ã®nchiriere Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/1B204A13EDC46860C2258E81003669CA/$FILE/HCL%20252.pdf",
+     "sha256": "d2b4cd06af710865904c3c4fbdecd84cd1cee67831185f3661dc8c6cd08cc17d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-253-2026",
+   "path": "local/mures/targu-mures/2026/253",
+   "short": "HCL Târgu Mureș nr. 253/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 253/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/84823567D73F42E3C2258E81003678B1/$FILE/HCL%20253.pdf",
+     "sha256": "a056b927f324a0bb3b07f457ee1c774c055b3fdb7ae99bad5269f54a2ab7515b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-254-2026",
+   "path": "local/mures/targu-mures/2026/254",
+   "short": "HCL Târgu Mureș nr. 254/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 254/2026 privind finanÈarea din bugetul local a indemnizaÈiei Ã®n valutÄ,pentru o delegaÈie formatÄ din 5 persoane din partea Municipiului TÃ¢rgu MureÈ Ã®n vederea deplasÄrii la Tashir/Armenia,Ã®n perioada 8-11 octombrie 2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/CEE1508952A7336CC2258E8100368667/$FILE/HCL%20254.pdf",
+     "sha256": "b2b07cb90ec08cbe6bb91c48cf9e16597d16249034ea4082f0d34a84d4caf36b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--targu-mures-255-2026",
    "path": "local/mures/targu-mures/2026/255",
    "short": "HCL Târgu Mureș nr. 255/2026",
@@ -164,6 +2204,306 @@
      "units": 1,
      "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/9514803F88CF2F2EC2258E81003696AA/$FILE/HCL%20255.pdf",
      "sha256": "92a158ecf491e368a4e4bf8ec77c28f3f1e500fbcb466c0ba0afb4930657e55e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-256-2026",
+   "path": "local/mures/targu-mures/2026/256",
+   "short": "HCL Târgu Mureș nr. 256/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 256/2026 privind reorganizarea unor unitÄÈi de Ã®nvÄÈÄmÃ¢nt preuniversitar de stat,includerea,Ã®n reÈeaua ÈcolarÄ a unei unitÄÈi de Ã®nvÄÈÄmÃ¢nt preuniversitar particular,precum,Èi aprobarea reÈelei Ècolare pentru unitÄÈile de Ã®nvÄÈÄmÃ¢nt preuniversitar,din U.A.T.- Municipiul TÃ¢rgu MureÈ,pentru anul Ècolar 2026-2027 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A1EB484FF6E557A6C2258E810036A856/$FILE/HCL%20256%20retea%20scolara%202026-2027.pdf",
+     "sha256": "dbd2744fd0e4e78e5cd16bab510246402672fa42269eeb17a84d358716fe3d34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-257-2026",
+   "path": "local/mures/targu-mures/2026/257",
+   "short": "HCL Târgu Mureș nr. 257/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 257/2026 privind desemnarea reprezentanÈilor Consiliului local al municipiului TÃ¢rgu MureÈ,Ã®n consiliile de administraÈie ale unitÄÈilor de Ã®nvÄÈÄmÃ¢nt preuniversitar de stat,Èi particular din municipiul TÃ¢rgu MureÈ Ã®n anul Ècolar 2026-2027 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/512D304BA84E40E8C2258E810036BCCB/$FILE/HCL%20%20257.pdf",
+     "sha256": "19db66da294e3ce22a20f5395b369596edd71b452beed7ccff5befc122ce587e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-258-2026",
+   "path": "local/mures/targu-mures/2026/258",
+   "short": "HCL Târgu Mureș nr. 258/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 258/2026 privind desemnarea a doi reprezentanÈi ai Consiliului Local al Municipiului TÃ¢rgu MureÈ,Ã®n Consiliul de administraÈie al Clubului Sportiv Ècolar TÃ¢rgu MureÈ,Ã®n anul Ècolar 2026â2027 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/9BEF12E59C1711A7C2258E810036E4D9/$FILE/HCL%20258.pdf",
+     "sha256": "a901d6f1dd302fdc2c756e239f188c39a3191bc206047acb9c8c3f0a61239a71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-26-2026",
+   "path": "local/mures/targu-mures/2026/26",
+   "short": "HCL Târgu Mureș nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 26/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/5BABFF965CFECAFDC2258DAF003DE640/$FILE/HCL%2026.pdf",
+     "sha256": "411c920c99f1ac44321ed050bb186009058c67975ae716cf48f5980797f4dc5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-260-2026",
+   "path": "local/mures/targu-mures/2026/260",
+   "short": "HCL Târgu Mureș nr. 260/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 260/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0D47F6E3CE320D8FC2258E8100372F53/$FILE/HCL%20260.pdf",
+     "sha256": "d044c7fd649d27c0c65501ad9e81ccbd66f1c093b6834d08d070a2d714e7cfb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-261-2026",
+   "path": "local/mures/targu-mures/2026/261",
+   "short": "HCL Târgu Mureș nr. 261/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 261/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C718691BE984942AC2258E8100375361/$FILE/HCL%20261.pdf",
+     "sha256": "48f5735361518eadf88134f47093009ecbd520efcd3748bba795ce9e2692b9e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-262-2026",
+   "path": "local/mures/targu-mures/2026/262",
+   "short": "HCL Târgu Mureș nr. 262/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 262/2026 privind aprobarea documentaÈiei tehnico-economice faza SF,indicatorilor tehnico-economici,inclusiv anexa privind descrierea investiÈiei,pentru proiectul:,âRE-ECOLOGIZAREA TERENURILOR DEGRADATE ALE FOSTEI,FABRICI DE CÄRÄMIDÄ MUREÈENIâ Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/BBB124C0E4ED4FE2C2258E8100378763/$FILE/HCL%20262.pdf",
+     "sha256": "2ae7504081cca437d3d49af6b5d2332aa2e049429d29d218a08b6ed9c6240037"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-264-2026",
+   "path": "local/mures/targu-mures/2026/264",
+   "short": "HCL Târgu Mureș nr. 264/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 264/2026 privind aprobarea documentaÈiei de urbanism âPlan Urbanistic de Detaliu- studiu de amplasament pentru construire casÄ de locuit unifamililalÄ,amenajare Èi Ã®mprejmuire teren,branÈamente la utilitÄÈiâ str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/868C82415CD38E80C2258E810037DE60/$FILE/HCL%20264.pdf",
+     "sha256": "063f9625afb8a83eacf11576f74a83157d7f65197a3b1766f4d85cbf8ae320ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-268-2026",
+   "path": "local/mures/targu-mures/2026/268",
+   "short": "HCL Târgu Mureș nr. 268/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 268/2026 privind aprobarea validÄrii DispoziÈiilor de Primar nr. 1.368/21.08.2026 Èi nr. 1.479/23.09.2026 referitoare,la modificarea bugetului UnitÄÈii Administrativ Teritoriale - Municipiul TÃ¢rgu MureÈ pe anul 2026 Èi,rectificarea bugetului UnitÄÈii Administrativ Teritoriale - Municipiul TÃ¢rgu MureÈ pentru anul 2026 Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschi",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/09FFB7B8B0ACCA8BC2258E90003610C8/$FILE/HCL%20268.pdf",
+     "sha256": "e8ea5c2d842efec7eca7408c3bfb372fe9a05a6f9f186ce44575c0bc4380c2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-269-2026",
+   "path": "local/mures/targu-mures/2026/269",
+   "short": "HCL Târgu Mureș nr. 269/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 269/2026 privind aprobarea sumelor pentru finanÈarea nerambursabilÄ din fondurile bugetului local al Municipiului TÃ¢rgu MureÈ pentru proiecte sportive,sesiunea a II-a pe anul 2026 Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C49A253D14F44F3BC2258E9000364CDE/$FILE/HCL%20269.pdf",
+     "sha256": "ffa5f0d1946dff685e815a3017b939e5b711c1458da89ea9581f3c96bd77c7be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-270-2026",
+   "path": "local/mures/targu-mures/2026/270",
+   "short": "HCL Târgu Mureș nr. 270/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 270/2026 privind aprobarea Ã®nfiinÈÄrii,COMISIEI LOCALE DE AVIZARE INTEGRATÄ,a DocumentaÈiilor de Amenajare a Teritoriului Èi a DocumentaÈiilor de Urbanism,la nivelul Zonei Metropolitane TÃ¢rgu MureÈ (CLAI-ZM Tg. MureÈ) Deschide Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/7B4504C35EC32881C2258E9000365BE2/$FILE/HCL%20270.pdf",
+     "sha256": "ba2377df35b801d171e7c6b99b1355e68c1abaece172d8ba63302e3a26aa413f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-271-2026",
+   "path": "local/mures/targu-mures/2026/271",
+   "short": "HCL Târgu Mureș nr. 271/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 271/2026 privind aprobarea Ã®nfiinÈÄrii,COMISIEI DE ACORD UNIC,la nivelul Zonei Metropolitane TÃ¢rgu MureÈ (CAU-ZM Tg. MureÈ) Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0CEE1C11CBA83429C2258E9000366CC7/$FILE/HCL%20271.pdf",
+     "sha256": "cc7d4110d0b891360f2f126213a3f4dd72bab395d7723449db92a97a03194187"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-272-2026",
+   "path": "local/mures/targu-mures/2026/272",
+   "short": "HCL Târgu Mureș nr. 272/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 272/2026 privind aprobarea Ã®nfiinÈÄrii,COMISIEI TEHNICE DE AMENAJARE A TERITORIULUI ÅI URBANISM,la nivelul Zonei Metropolitane TÃ¢rgu MureÈ (CTATU-ZM TG. MUREÈ-) Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B2582CED788507E1C2258E9000367B7B/$FILE/HCL%20272.pdf",
+     "sha256": "0aad0c6f19aba13741ff6be986e2935061b755fd1c6f0b7da306ac23340debb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-274-2026",
+   "path": "local/mures/targu-mures/2026/274",
+   "short": "HCL Târgu Mureș nr. 274/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 274/2026 privind aprobarea Studiului de fezabilitate Èi a indicatorilor tehnico-economici,pentru investiÈia âSF cu elemente DALI pentru acces,Poarta de Nord Èi food court Bulevardul CetÄÈiiâ Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/34BB8A9D79678161C2258E90003753F9/$FILE/HCL%20274.pdf",
+     "sha256": "02095ca747579f3d77b0ecb67b5843cbac5a7ba04312cc5ad175ee87fee0d8e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-275-2026",
+   "path": "local/mures/targu-mures/2026/275",
+   "short": "HCL Târgu Mureș nr. 275/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 275/2026 privind aprobarea Ã®nfiinÈÄrii,COMISIEI DE NEGOCIERE,privind urbanizarea Èi restructurarea urbanÄ la nivelul municipiului TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0253E83E92BEA96EC2258E900037D3EC/$FILE/HCL%20275.pdf",
+     "sha256": "089ebec6b2b4ab9422af6cab5a256ece3d3f50386634f239cb2b78da892bde7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-277-2026",
+   "path": "local/mures/targu-mures/2026/277",
+   "short": "HCL Târgu Mureș nr. 277/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 277/2026 privind alegerea preÈedintelui de ÈedinÈÄ a Consiliului Local,al Municipiului Targu Mures,pentru perioada noiembrie 2026 - ianuarie 2027 Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/8BF6CA518570E835C2258EA0002E297D/$FILE/HCL%20277.pdf",
+     "sha256": "5131620762d75cbdb520dbe8b86bafb43e4b3c6a300ef00041ab286395a53ed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-278-2026",
+   "path": "local/mures/targu-mures/2026/278",
+   "short": "HCL Târgu Mureș nr. 278/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 278/2026 privind aprobarea constituirii Consiliului Comunitar Consultativ la nivelul,Municipiului TÃ¢rgu MureÈ pentru perioada 2026-2028 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/1FFCFB0B1C8CE2EAC2258EA0002E39FE/$FILE/HCL%20278.pdf",
+     "sha256": "9ac894718e333987093f9250c1edb1891701c249fbe5cf82637d9ec7c0908e99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-279-2026",
+   "path": "local/mures/targu-mures/2026/279",
+   "short": "HCL Târgu Mureș nr. 279/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 279/2026 privind acordarea ajutorului de urgenÈÄ sub formÄ de lemne de foc,din fondul forestier proprietate a UAT TÃ¢rgu Mures pentru persoanele/familiile,din zonele defavorizate de pe raza municipiului TÃ¢rgu MureÈ,Ã®n cantitate de 36 MC,pentru perioada sezonului rece 2026-2027 Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/3A5B9F174FF1A4EBC2258EA0002E51EE/$FILE/HCL%20279.pdf",
+     "sha256": "694010aececf9865478adfdd2dcf2892c7f12c2fb704aff4ddc9d29ff6a59de7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-28-2026",
+   "path": "local/mures/targu-mures/2026/28",
+   "short": "HCL Târgu Mureș nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 28/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4064157BE42247B2C2258DAF003E036F/$FILE/HCL%2028.pdf",
+     "sha256": "46147dd2438eab224d4fb52cc486685c2b22e5d2ea9fce827972a26ec9ec9a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-280-2026",
+   "path": "local/mures/targu-mures/2026/280",
+   "short": "HCL Târgu Mureș nr. 280/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 280/2026 privind reorganizarea Èi aprobarea Organigramei,Statului de funcÈii Èi a Regulamentului de,Organizare Èi FuncÈionare ale DirecÈiei de AsistenÈÄ SocialÄ Targu MureÈ Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E2DDDD81258D1D72C2258EA0002E709D/$FILE/HCL%20280.pdf",
+     "sha256": "16ee02d5fb141d7872aa3327b6cc7c79bb44f7cdc3e3d44934f1242ee541f602"
     }
    ]
   },
@@ -198,6 +2538,291 @@
    ]
   },
   {
+   "slug": "hcl-mures--targu-mures-283-2026",
+   "path": "local/mures/targu-mures/2026/283",
+   "short": "HCL Târgu Mureș nr. 283/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 283/2026 privind concesionarea directÄ a terenului Ã®n suprafaÈÄ de 6,92 mp,situat Ã®n raza teritorialÄ a,Municipiului TÃ¢rgu MureÈ,str",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/3D7D6F1E5BB02EEBC2258EA0002EDD03/$FILE/HCL%20283.pdf",
+     "sha256": "1214d9e96ba506ce771e927f133495fb9470677b250be71a25bb059ca150cf6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-284-2026",
+   "path": "local/mures/targu-mures/2026/284",
+   "short": "HCL Târgu Mureș nr. 284/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 284/2026 privind desemnarea unui reprezentant al Consiliului Local al Municipiului TÃ¢rgu MureÈ,Ã®n consiliul de administraÈie la Palatul Copiilor TÃ¢rgu MureÈ,Ã®n anul Ècolar 2026-2027 Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/2ABDDBED824FBCDBC2258EA0002EF54E/$FILE/HCL%20284.pdf",
+     "sha256": "4dc820f2512e43001ec82b89240d38b32064b2118c3483a3d9fcfc3c87141e73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-285-2026",
+   "path": "local/mures/targu-mures/2026/285",
+   "short": "HCL Târgu Mureș nr. 285/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 285/2026 privind reorganizarea unor unitÄÈi de Ã®nvÄÈÄmÃ¢nt preuniversitar de stat,precum Èi,includerea Ã®n reÈeaua ÈcolarÄ din U.A.T .- Municipiul Targu MureÈ a unitaÈii de Ã®nvÄÈÄmÃ¢nt,preuniversitar particular Gradinita cu Program Prelungit ,Emanuel\"-Targu MureÈ,pentru anul scolar 2026-2027 Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/16E6A8A56365D79EC2258EA0002F0CF4/$FILE/HCL%20285.pdf",
+     "sha256": "7d60c8c5d727c6bd1b169f1838a01d16d7cfce8327c097db536fa279c0d61e5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-286-2026",
+   "path": "local/mures/targu-mures/2026/286",
+   "short": "HCL Târgu Mureș nr. 286/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 286/2026 privind aprobarea indicatorilor tehnico-economici actualizaÈi la obiectivele de investiÈii: LucrÄri,de creÈtere a performanÈei energetice la blocuri de locuinÈe din municipiul TÃ¢rgu Mures Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/8838530632975885C2258EA0002F1F92/$FILE/HCL%20286.pdf",
+     "sha256": "78e2a519e4e01c059cc892a57528547e7005cc561b727ed88afae0653e596826"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-287-2026",
+   "path": "local/mures/targu-mures/2026/287",
+   "short": "HCL Târgu Mureș nr. 287/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 287/2026 privind concesionarea directÄ a suprafeÈelor de teren aflate Ã®n proprietatea Municipiului,TÃ¢rgu MureÅ din incinta Complexului de Agrement âWeekendâ (str",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/27CEEEB488134DF5C2258EA0002F377A/$FILE/HCL%20287.pdf",
+     "sha256": "58796dbedc7faaa84bfb2a2b9916eaf2ef2ec932373246b768c1cde9120504eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-289-2026",
+   "path": "local/mures/targu-mures/2026/289",
+   "short": "HCL Târgu Mureș nr. 289/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 289/2026 privind aprobarea prelungirii unor contracte de Ã®nchiriere pentru spaÈiile cu altÄ,destinaÈie decÃ¢t aceea de locuinÈe Èi repatizarea unor spaÈii aflate Ã®n proprietatea,municipalitÄÈii Èi administrate de LOCATIV S.A Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A9F244A1666A7441C2258EA0002F59B3/$FILE/HCL%20289.pdf",
+     "sha256": "5fc2e348562393d13b09a1899abcdf6a087cef30d1fb9e1e4452c13ef9ec4531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-29-2026",
+   "path": "local/mures/targu-mures/2026/29",
+   "short": "HCL Târgu Mureș nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 29/2026 privind aprobarea sumelor individuale aferente despÄgubirilor pentru imobilele proprietate privatÄ afectate de coridorul de expropriere al obiectivului de investiÈii,âBretea de legÄturÄ Ã®ntre strada DÃ¢mbu Pietros Èi B-dul 1848â Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/681C2EBE2F311879C2258DAF003E673F/$FILE/HCL%2029.pdf",
+     "sha256": "1cf77c49ac2c21d93d2cf7a41b3897211ba28c764ab0d6c819cb14f3520f64c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-290-2026",
+   "path": "local/mures/targu-mures/2026/290",
+   "short": "HCL Târgu Mureș nr. 290/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 290/2026 privind aprobarea demararii procedurii de achiziÈionare a douÄ imobile situate Ã®n,TÃ¢rgu Mures,str",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/775BBAAD0F48BE3FC2258EA0002F7B41/$FILE/HCL%20290.pdf",
+     "sha256": "117fe0fe816d2c7874cf0573f97586ddf1123a687831a2c43038b8000eacf7e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-291-2026",
+   "path": "local/mures/targu-mures/2026/291",
+   "short": "HCL Târgu Mureș nr. 291/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 291/2026 privind aprobarea rectificarii bugetului UnitaÈii Administrativ Teritoriale - Municipiul Targu,Mures pentru anul 2026 Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/0B14A08EBC2A6A3BC2258EA0002F9A40/$FILE/HCL%20291.pdf",
+     "sha256": "cdcac8c61c0e23006db507389372a7d9c7e2e2ebdc5a499586f172835243fb95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-292-2026",
+   "path": "local/mures/targu-mures/2026/292",
+   "short": "HCL Târgu Mureș nr. 292/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 292/2026 privind conferirea distincÈiei âPRO URBE\",pentru personalitÄÈi cu merite deosebite,ediÈia 2026 Deschide",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/639D86B1F1C2D1E2C2258EA0002FB656/$FILE/HCL%20292.pdf",
+     "sha256": "baf06cd54c974ece18072b3e062d8ca6cd3cd170880e1b3112629020b7ec271e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-30-2026",
+   "path": "local/mures/targu-mures/2026/30",
+   "short": "HCL Târgu Mureș nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 30/2026 privind aprobarea preluÄrii Èi Ã®nscrierea Ã®n domeniul privat al Municipiului TÃ¢rgu MureÈ a,terenurilor Ã®n suprafaÈÄ de 73 mp Èi 112 mp din TÃ¢rgu MureÈ,situate Ã®n,str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/759E5B1E47A3164DC2258DAF003E7449/$FILE/HCL%2030.pdf",
+     "sha256": "45da9d286fc04cb07e9e749f8b1655df52c9c66ad093d87f141b0bc8c4d53e90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-31-2026",
+   "path": "local/mures/targu-mures/2026/31",
+   "short": "HCL Târgu Mureș nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 31/2026 privind concesionarea directÄ a terenurilor pentru cabane de odihnÄ Èi cÄsuÈe de vacanÈÄ din incinta Complexului de Agrement ,Weekendââ,proprietate a Municipiului TÃ¢rgu MureÅ -----modificat prin HCL 171/25.06.2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/FF035A7C07C749C7C2258DAF003E8324/$FILE/HCL%2031.pdf",
+     "sha256": "df737e61924a9d22ffb6f429b6da11c55c46728ad450454aac3c84aec13cc14b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-32-2026",
+   "path": "local/mures/targu-mures/2026/32",
+   "short": "HCL Târgu Mureș nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 32/2026 privind concesionarea directÄ a terenurilor pentru servicii culturale,sportive Èi de agrement din incinta Complexului de Agrement ,Weekendââ,proprietate a Municipiului TÃ¢rgu MureÅ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/89D82A1DDCE226DCC2258DAF003E925A/$FILE/HCL%2032.pdf",
+     "sha256": "963990c95a9ab2633031e21f227200e8582e6f98319920d6358d6371fa9f8672"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-33-2026",
+   "path": "local/mures/targu-mures/2026/33",
+   "short": "HCL Târgu Mureș nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 33/2026 privind concesionarea directÄ a terenurilor pentru activitÄÈi de comerÈ Èi alimentaÈie publicÄ din incinta Complexului de Agrement ,Weekendââ,terenuri aflate Ã®n proprietatea Municipiului TÃ¢rgu MureÅ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/ED3B26A975E47F9DC2258DAF003E9EEB/$FILE/HCL%2033.pdf",
+     "sha256": "80ba2e1dd4889b3156eb46884c78c7e4d6a9587ec6b1e9f06953941e49576309"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-34-2026",
+   "path": "local/mures/targu-mures/2026/34",
+   "short": "HCL Târgu Mureș nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 34/2026 privind aprobarea Ã®ncheierii unui act adiÈional la contractul de delegare a gestiunii,activitÄÈilor de sortare a deÈeurilor reciclabile,compostare a biodeÈeurilor Èi transfer a,deÈeurilor prin exploatarea SSCT CristeÈti,STZ 5 â TÃ¢rnÄveni,STZ 6 â BÄlÄuÈeri Èi STZ 7 â,RÃ¢ciu,din judeÈul MureÈ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/9643C3F61ACCC6FBC2258DAF003EBBB7/$FILE/HCL%2034.pdf",
+     "sha256": "1a4f5011915eaf87d01bc3d92f81788a5f452b407b5b4687b679fc1cd3d8e71a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-35-2026",
+   "path": "local/mures/targu-mures/2026/35",
+   "short": "HCL Târgu Mureș nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 35/2026 privind atestarea apartenenÈei la domeniul public a terenului Ã®n suprafaÈÄ de 2.484 mp,situat Ã®n Municipiul TÃ¢rgu MureÈ str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/2C7ED13BC010CE4FC2258DAF003EC891/$FILE/HCL%2035.pdf",
+     "sha256": "4ae7c750985bdd4db57b0edfec0bbd436d53c88e13a1051d2e61e5f5bbde0967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-37-2026",
+   "path": "local/mures/targu-mures/2026/37",
+   "short": "HCL Târgu Mureș nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 37/2026 privind aprobarea Studiului de oportunitate Ã®n vederea concesionÄrii prin licitaÈie publicÄ ,a terenului Ã®n suprafaÈÄ de 12.513 mp,teren liber de construcÈii,aparÈinÃ¢nd domeniului privat al municipiului TÃ¢rgu MureÈ,situat pe str. Barajului,a documentaÈiei de atribuire,a preÈului de pornire la licitaÈie Èi a comisiei de evaluare Deschide Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/12B0B9CC0E01C350C2258DD400241A4B/$FILE/HCL%2037.pdf",
+     "sha256": "c1ede5c2256391894c4b6851e2ec7e69cf94701c4836eb2391bab6cd24ab3f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-38-2026",
+   "path": "local/mures/targu-mures/2026/38",
+   "short": "HCL Târgu Mureș nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 38/2026 privind aprobarea vÃ¢nzÄrii directe a terenului aflat sub construcÈie Ã®n suprafaÈÄ de 374 mp din suprafaÈa totalÄ de 1.552 mp,situat pe str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/8B8F2FA8FB6BC3FDC2258DD400246EDF/$FILE/HCL%2038.pdf",
+     "sha256": "76aef6b86745e4bc7c76c0eba1b7f18f19dc9a4e78714c1276952aadbbc7e242"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-39-2026",
+   "path": "local/mures/targu-mures/2026/39",
+   "short": "HCL Târgu Mureș nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 39/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/84643D2360634403C2258DD400248B96/$FILE/HCL%2039.pdf",
+     "sha256": "f05cb04f78c7c381ad73d58820bd59a7d9f76a295fd5648d98885dfb025af5e3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--targu-mures-4-2026",
    "path": "local/mures/targu-mures/2026/4",
    "short": "HCL Târgu Mureș nr. 4/2026",
@@ -209,6 +2834,96 @@
      "units": 1,
      "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/FA9A3F4BB5BBB885C2258D8F003B8CCD/$FILE/HCL%204.pdf",
      "sha256": "25ba6555be692f027bdb54ffc684a8e8a2187a4f5ffd77ca5017a86bcf90bf9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-41-2026",
+   "path": "local/mures/targu-mures/2026/41",
+   "short": "HCL Târgu Mureș nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 41/2026 pentru Ã®nchirierea prin licitaÈie publicÄ a proprietÄÈii imobiliare din cadrul CetÄÈii Medievale TÃ¢rgu MureÈ,denumitÄ Corp C-Restaurant,amplasat la parterul clÄdirii tip P+M,Ã®n suprafaÈÄ utilÄ de 150,63 mp situatÄ pe str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/370F4D8633C3B397C2258DD40024C30E/$FILE/HCL%2041.pdf",
+     "sha256": "4c1780fbd5249ecdc3299030a84d9ea16981ccde3061b3244a47c2b8f4ef0072"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-42-2026",
+   "path": "local/mures/targu-mures/2026/42",
+   "short": "HCL Târgu Mureș nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 42/2026 pentru Ã®nchirierea prin licitaÈie publicÄ,a proprietÄÈii imobiliare tip comercial (alimentaÈie publicÄ) din cadrul CetÄÈii Medievale TÃ¢rgu MureÈ,denumitÄ âCorp D - vinotecÄâ,amplasatÄ la subsolul clÄdirii tip S+P+1E+M,constÃ¢nd Ã®n spaÈii cu funcÈiune de vinotecÄ,cu suprafaÈÄ utilÄ de 59,36 mp Èi a terasei aferente de 18 mp,identificat Ã®n Cartea FunciarÄ nr. 136935 a lo",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/34F0D1B044CDA0E8C2258DD40025149E/$FILE/HCL%2042.pdf",
+     "sha256": "823be3a3380ed0548ae40e84012b129688a0ffebaac5054e54ad5217ab485f00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-43-2026",
+   "path": "local/mures/targu-mures/2026/43",
+   "short": "HCL Târgu Mureș nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 43/2026 pentru Ã®nchirierea prin licitaÈie publicÄ,a proprietÄÈii imobiliare din cadrul CetÄÈii Medievale TÃ¢rgu MureÈ,denumitÄ Corp E-Restaurant,amplasat la parterul clÄdirii tip P+E+M,Ã®n suprafaÈÄ utilÄ de 164,57 mp situatÄ pe str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/34E21E619187F6CEC2258DD4002532F5/$FILE/HCL%2043.pdf",
+     "sha256": "8a312c44862f70142f1cec72060fcd1c61ad0089426c7fb4cd52480d3aa40f3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-44-2026",
+   "path": "local/mures/targu-mures/2026/44",
+   "short": "HCL Târgu Mureș nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 44/2026 privind concesionarea directÄ a suprafeÈelor de teren aflate Ã®n proprietatea Municipiului TÃ¢rgu MureÈ din incinta Complexului de agrement ,Weekendââ(str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/1B77B080C8192D07C2258DD400255F46/$FILE/HCL%2044.pdf",
+     "sha256": "27ad4867639c8e11aebd028c2ff764658c48c3436926cf8b7b8e8311321ef942"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-45-2026",
+   "path": "local/mures/targu-mures/2026/45",
+   "short": "HCL Târgu Mureș nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 45/2026 privind concesionarea directÄ a suprafeÈelor de teren aflate Ã®n proprietatea Municipiului TÃ¢rgu MureÈ din incinta Complexului de Agrement ,Weekendââ (str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/80C46555D619EF55C2258DD4002572E3/$FILE/HCL%2045.pdf",
+     "sha256": "e952812ab2b1b6cc9f04c0e04fd352b031068c3145a554a7d884fef3445ea1f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-46-2026",
+   "path": "local/mures/targu-mures/2026/46",
+   "short": "HCL Târgu Mureș nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 46/2026 privind concesionarea directÄ a suprafeÈelor de teren aflate Ã®n proprietatea Municipiului TÃ¢rgu MureÈ din incinta Complexului de Agrement âWeekendâ (str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A72DDC4AC8C052C6C2258DD40025879B/$FILE/HCL%2046.pdf",
+     "sha256": "e925fd8c5cf14246bd54f3dfe975d14f52e39f23fdc513641b1f28b5ce493742"
     }
    ]
   },
@@ -228,6 +2943,96 @@
    ]
   },
   {
+   "slug": "hcl-mures--targu-mures-5-2026",
+   "path": "local/mures/targu-mures/2026/5",
+   "short": "HCL Târgu Mureș nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 5/2026 privind darea Ã®n folosinÈÄ gratuitÄ a unei semiremorci cisternÄ pentru apÄ potabilÄ cÄtre Inspectoratul pentru SituaÈii de UrgenÈÄ âHoreaâ al JudeÈului MureÈ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/8AAD5D2E980D7B98C2258D8F003BCD5E/$FILE/HCL%205.pdf",
+     "sha256": "5d892978a3b76969abe6c981cca213ed63b73718318dbe3b74444a22e68ec6d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-50-2026",
+   "path": "local/mures/targu-mures/2026/50",
+   "short": "HCL Târgu Mureș nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 50/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/7514402418EDA229C2258DD400261602/$FILE/HCL%2050.pdf",
+     "sha256": "d1f92cda54de6ec63cc107d4b3f4e47c00cc1592427475ec11894436abe013bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-51-2026",
+   "path": "local/mures/targu-mures/2026/51",
+   "short": "HCL Târgu Mureș nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 51/2026 privind aprobarea preluÄrii Èi Ã®nscrierea Ã®n domeniul privat al Municipiului TÃ¢rgu MureÈ a terenului Ã®n suprafaÈÄ de 46 mp din TÃ¢rgu MureÈ,situat Ã®n str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/723C92FE361265F8C2258DD400262C31/$FILE/HCL%2051.pdf",
+     "sha256": "67016df7851da93686cbdbbea7d02566503fc6f6d90b72a44165ad1aef95bb08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-52-2026",
+   "path": "local/mures/targu-mures/2026/52",
+   "short": "HCL Târgu Mureș nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 52/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/D034B27DC4758932C2258DD400264D12/$FILE/HCL%2052.pdf",
+     "sha256": "a901899728bb34b2ca2742344e7ef17802a21ddb841777de9df864e65b017be2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-53-2026",
+   "path": "local/mures/targu-mures/2026/53",
+   "short": "HCL Târgu Mureș nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 53/2026 privind aprobarea Studiului de oportunitate aferent proiectului ,âIntroducerea Èi,ulterior,dezvoltarea serviciilor de Tren Metropolitan MureÈâ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/7CB345459CC52D87C2258DD400266A2D/$FILE/HCL%2053.pdf",
+     "sha256": "7c2c866b8ac7edc9b9fec884450b4deed33f146d502427dfad5e2016deb06c95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-54-2026",
+   "path": "local/mures/targu-mures/2026/54",
+   "short": "HCL Târgu Mureș nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 54/2026 privind aprobarea Ã®ncheierii de cÄtre AdministraÈia Sere Èi Parcuri TÃ¢rgu MureÈ a unui contract de prestÄri servicii cu",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4FA1F264E70FFE2AC2258DD400296802/$FILE/HCL%2054.pdf",
+     "sha256": "781ccd443a12a5fff4d8fb4f06f2ce9213f2b733d78b467907bae7b68d0d7add"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--targu-mures-56-2026",
    "path": "local/mures/targu-mures/2026/56",
    "short": "HCL Târgu Mureș nr. 56/2026",
@@ -239,6 +3044,201 @@
      "units": 1,
      "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A1B1449989932026C2258DD4002D739A/$FILE/HCL%2056.pdf",
      "sha256": "bb4a66f5e9729d0af7f8e97820052acd62ae1925d970514ef8fd04d0b37ffd86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-58-2026",
+   "path": "local/mures/targu-mures/2026/58",
+   "short": "HCL Târgu Mureș nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 58/2026 privind desemnarea a doi reprezentanÈi ai Consiliului Local al Municipiului TÃ¢rgu MureÈ,Ã®n Consiliul de administraÈie al Clubului Sportiv Ècolar TÃ¢rgu MureÈ,Ã®n anul Ècolar 2025-2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B4080B2F9158D398C2258DD4002BBF61/$FILE/HCL%2058.pdf",
+     "sha256": "8c5d07409d244aea55875b0a8c589960d700278839324786b5e838b89adee5ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-59-2026",
+   "path": "local/mures/targu-mures/2026/59",
+   "short": "HCL Târgu Mureș nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 59/2026 privind aprobarea Costului mediu lunar de Ã®ntreÈinere Èi a ContribuÈiei lunare de Ã®ntreÈinere,pentru anul 2026,datorate de persoanele vÃ¢rstnice beneficiare ale CÄminului pentru Persoane,VÃ¢rstnice TÃ¢rgu-MureÈ Åi a Categoriilor de venituri luate Ã®n calcul la stabilirea venitului lunar,pe membru de familie Ã®n baza cÄruia se stabileÈte contribuÈia lunarÄ de Ã®ntreÈinere datoratÄ de",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/83796F76914912E0C2258DD4002BCFAB/$FILE/HCL%2059.pdf",
+     "sha256": "b07e104e5adafe6cc82e7f75a12f4f09dc15c67ee48debefbc8b55abb9458992"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-6-2026",
+   "path": "local/mures/targu-mures/2026/6",
+   "short": "HCL Târgu Mureș nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 6/2026 privind alegerea preÈedintelui de ÈedinÈÄ a Consiliului Local,al Municipiului TÃ¢rgu MureÈ,pentru perioada februarie â aprilie 2026 Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/EF4329DF5E07F2EBC2258D8F003C1593/$FILE/HCL%206.pdf",
+     "sha256": "656ae3042f158dece94ab70f14f806937beff841311128d729720871f9c2e3c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-60-2026",
+   "path": "local/mures/targu-mures/2026/60",
+   "short": "HCL Târgu Mureș nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 60/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/70543FA4B8E0DA44C2258DD4002BE438/$FILE/HCL%2060.pdf",
+     "sha256": "fc46a912d9915a03919ae942b4c90f53293dd0a3cf1dc838e729312850065124"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-61-2026",
+   "path": "local/mures/targu-mures/2026/61",
+   "short": "HCL Târgu Mureș nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 61/2026 privind aprobarea indicatorilor tehnico-economici la obiectivele de investiÈii: LucrÄri de,creÈtere a performanÈei energetice la blocuri de locuinÈe din municipiul TÃ¢rgu MureÈ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E0E84504106553A4C2258DD4002BF26A/$FILE/HCL%2061.pdf",
+     "sha256": "b605f19892f693c3320891724b8eca3834fc4720807ee80cbad6d02161a60957"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-62-2026",
+   "path": "local/mures/targu-mures/2026/62",
+   "short": "HCL Târgu Mureș nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 62/2026 privind aprobarea categoriilor de cheltuieli finanÈate de la bugetul local Ã®n proiectul integrat,de consolidare la risc seismic Èi eficientizare energeticÄ pentru obiectivul de investiÈii:,âLucrÄri de consolidare seismicÄ pentru clÄdirile rezidenÈiale multifamiliale din municipiul,TÃ¢rgu MureÈ â Str. 22 Decembrie 1989,nr. 18 A Bâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/035C8CBFD453490BC2258DD4002C01DF/$FILE/HCL%2062.pdf",
+     "sha256": "93b83af8bb17a1164504932c051fb859f5d56a5191a699375f28830e1a4a7542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-63-2026",
+   "path": "local/mures/targu-mures/2026/63",
+   "short": "HCL Târgu Mureș nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 63/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii,a indicatorilor tehnicoeconomici,Èi a devizului general,pentru proiectul integrat de consolidare la risc seismic,Èi eficientizare energeticÄ,al obiectivului de investiÈii: âLucrÄri de consolidare seismicÄ,pentru clÄdirile rezidenÈiale multifamiliale din,municipiul TÃ¢rgu MureÈ â Str. 22 Decembrie 1989,nr. 18 A B",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/FEF97C350C1284A0C2258DD4002C1092/$FILE/HCL%2063..pdf",
+     "sha256": "3a834192c1e1a9ccb5718d0a85899a586bd2e2d6c3666ebad5db9b06021bfee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-64-2026",
+   "path": "local/mures/targu-mures/2026/64",
+   "short": "HCL Târgu Mureș nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 64/2026 privind aprobarea categoriilor de cheltuieli finanÈate de la bugetul local Ã®n proiectul integrat,de consolidare la risc seismic Èi eficientizare energeticÄ pentru obiectivul de investiÈii:,âLucrÄri de consolidare seismicÄ pentru clÄdirile rezidenÈiale multifamiliale din municipiul,TÃ¢rgu MureÈ â B-dul 1848,nr. 51 - 53â Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/EB78D84AC6F26FB2C2258DD4002C1E4C/$FILE/HCL%2064.pdf",
+     "sha256": "1c645e390a218605ba91a84f0e944011ae60b464be94af78e59234c2096a88d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-65-2026",
+   "path": "local/mures/targu-mures/2026/65",
+   "short": "HCL Târgu Mureș nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 65/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii,a indicatorilor tehnicoeconomici,Èi a devizului general,pentru proiectul integrat de consolidare la risc seismic Èi,eficientizare energeticÄ,al obiectivului de investiÈii: âLucrÄri de consolidare seismicÄ pentru,clÄdirile rezidenÈiale multifamiliale din municipiul TÃ¢rgu MureÈ â B-dul 1848,nr. 51 - 53â Deschid",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/323FAEFF1F8B598BC2258DD4002C2C2F/$FILE/HCL%2065.pdf",
+     "sha256": "b7c883cf4f2548f72708559f7a5300fc78a688c2907d46662b947d039709cb16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-66-2026",
+   "path": "local/mures/targu-mures/2026/66",
+   "short": "HCL Târgu Mureș nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 66/2026 privind aprobarea categoriilor de cheltuieli finanÈate de la bugetul local Ã®n proiectul integrat de,consolidare la risc seismic Èi eficientizare energeticÄ pentru obiectivul de investiÈii: âLucrÄri de,consolidare seismicÄ pentru clÄdirile rezidenÈiale multifamiliale din municipiul TÃ¢rgu MureÈ â,str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/1B322C53E3C2B52AC2258DD4002C3BCF/$FILE/HCL%2066.pdf",
+     "sha256": "592639ff43c6adfdd73b439a65d49210d41ea4a6022dd83c6361ce53605e8a72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-67-2026",
+   "path": "local/mures/targu-mures/2026/67",
+   "short": "HCL Târgu Mureș nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 67/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii,a indicatorilor,tehnico-economici Èi a devizului general,pentru proiectul integrat de consolidare la risc,seismic Èi eficientizare energeticÄ,al obiectivului de investiÈii:,âLucrÄri de consolidare seismicÄ pentru clÄdirile rezidenÈiale multifamiliale din,municipiul TÃ¢rgu MureÈ â str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4595084B22D0AC8BC2258DD4002C494C/$FILE/HCL%2067.pdf",
+     "sha256": "7063756beec2e0606d801e8269b981350e4fb514be1421b848dbaac9c1353318"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-68-2026",
+   "path": "local/mures/targu-mures/2026/68",
+   "short": "HCL Târgu Mureș nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 68/2026 privind aprobarea categoriilor de cheltuieli finanÈate de la bugetul local Ã®n proiectul integrat de,consolidare la risc seismic Èi eficientizare energeticÄ pentru obiectivul de investiÈii: âLucrÄri de,consolidare seismicÄ pentru clÄdirile rezidenÈiale multifamiliale din municipiul TÃ¢rgu MureÈ â,str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4A8255D8B6C009BAC2258DD4002C5839/$FILE/HCL%2068.pdf",
+     "sha256": "e8c9ae419c6fa44fe5e50f400f9b834814947b899a7738aa0d94e205333637cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-69-2026",
+   "path": "local/mures/targu-mures/2026/69",
+   "short": "HCL Târgu Mureș nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 69/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii,a indicatorilor,tehnico-economici Èi a devizului general,pentru proiectul integrat de consolidare la risc,seismic Èi eficientizare energeticÄ,al obiectivului de investiÈii: âLucrÄri de consolidare,seismicÄ pentru clÄdirile rezidenÈiale multifamiliale din,municipiul TÃ¢rgu MureÈ â str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F7EE6A7F8A4C1812C2258DD4002C6C4C/$FILE/HCL%2069.pdf",
+     "sha256": "7842ed98109a068ea099ea1b8433f1c26105da72a0d9f54f113a8c4e3d5507d5"
     }
    ]
   },
@@ -258,6 +3258,156 @@
    ]
   },
   {
+   "slug": "hcl-mures--targu-mures-70-2026",
+   "path": "local/mures/targu-mures/2026/70",
+   "short": "HCL Târgu Mureș nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 70/2026 privind aprobarea categoriilor de cheltuieli finanÈate de la bugetul local Ã®n proiectul integrat de,consolidare la risc seismic Èi eficientizare energeticÄ pentru obiectivul de investiÈii: âLucrÄri de,consolidare seismicÄ pentru clÄdirile rezidenÈiale multifamiliale din municipiul TÃ¢rgu MureÈ â,Str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F1FB9E42A755DE5CC2258DD4002C794D/$FILE/HCL%2070.pdf",
+     "sha256": "bfe04b9bbbc6d79cadaba64665fd05cd8dad4940af1f8dd5db07776e6af4d170"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-71-2026",
+   "path": "local/mures/targu-mures/2026/71",
+   "short": "HCL Târgu Mureș nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 71/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii,a indicatorilor tehnicoeconomici,Èi a devizului general,pentru proiectul integrat de consolidare la risc seismic Èi,eficientizare energeticÄ,al obiectivului de investiÈii: âLucrÄri de consolidare seismicÄ pentru,clÄdirile rezidenÈiale multifamiliale din municipiul TÃ¢rgu MureÈ â Str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/3BAA5A94E6F520E3C2258DD4002C8789/$FILE/HCL%2071.pdf",
+     "sha256": "b13adb45a9854e4db9132b33a57c592874fafc969b8987d5d9d10324d4010069"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-72-2026",
+   "path": "local/mures/targu-mures/2026/72",
+   "short": "HCL Târgu Mureș nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 72/2026 privind aprobarea categoriilor de cheltuieli finanÈate de la bugetul local Ã®n proiectul integrat de,consolidare la risc seismic Èi eficientizare energeticÄ pentru obiectivul de investiÈii: âLucrÄri de,consolidare seismicÄ pentru clÄdirile rezidenÈiale multifamiliale din municipiul TÃ¢rgu MureÈ â,Str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/1EA743487BF6ADECC2258DD4002C941F/$FILE/HCL%2072.pdf",
+     "sha256": "689f10eda0a3a302faf57a4ce60d6e541c8e90980fff0e5dea2b0bc4c7c9c7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-73-2026",
+   "path": "local/mures/targu-mures/2026/73",
+   "short": "HCL Târgu Mureș nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 73/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii,a indicatorilor tehnicoeconomici,Èi a devizului general,pentru proiectul integrat de consolidare la risc seismic Èi eficientizare,energeticÄ,al obiectivului de investiÈii: âLucrÄri de consolidare seismicÄ pentru clÄdirile rezidenÈiale,multifamiliale din municipiul TÃ¢rgu MureÈ â Str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/6F890417304ADBA7C2258DD4002CA0A1/$FILE/HCL%2073.pdf",
+     "sha256": "d2d44cbe574280af7b2938b21030b1c306cffa20943e1f4bdcacede55ad1c2d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-74-2026",
+   "path": "local/mures/targu-mures/2026/74",
+   "short": "HCL Târgu Mureș nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 74/2026 privind aprobarea categoriilor de cheltuieli finanÈate de la bugetul local Ã®n proiectul integrat de,consolidare la risc seismic Èi eficientizare energeticÄ pentru obiectivul de investiÈii: âLucrÄri de,consolidare seismicÄ pentru clÄdirile rezidenÈiale multifamiliale din municipiul TÃ¢rgu MureÈ â,Str. ReÈiÈa,nr. 8 A Bâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F54354783234EAADC2258DD4002CAD3C/$FILE/HCL%2074.pdf",
+     "sha256": "b3cd5696cc4cee32fb56d5a03fa93643f89f092b92e1700fe7edbad7c0f1db4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-75-2026",
+   "path": "local/mures/targu-mures/2026/75",
+   "short": "HCL Târgu Mureș nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 75/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii,a indicatorilor tehnicoeconomici,Èi a devizului general,pentru proiectul integrat de consolidare la risc seismic Èi,eficientizare energeticÄ,al obiectivului de investiÈii: âLucrÄri de consolidare seismicÄ pentru,clÄdirile rezidenÈiale multifamiliale din municipiul TÃ¢rgu MureÈ â Str. ReÈiÈa,nr. 8 A Bâ Deschi",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/D49133DA65426DC7C2258DD4002CB95F/$FILE/HCL%2075.pdf",
+     "sha256": "0d209e4ebcc73bd14e83c3a9558188d8771a74c920c6ca4f9429e636f74bf99e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-76-2026",
+   "path": "local/mures/targu-mures/2026/76",
+   "short": "HCL Târgu Mureș nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 76/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-economici aferenÅ£i obiectivului de investiÅ£ii,âDALI pentru Modernizare str. SomeÈuluiâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/67BBDE23CF3B7AECC2258DD40025FC04/$FILE/HCL%2076.pdf",
+     "sha256": "2ec32644a0dadaf2c433033d43b876722102cc4905fc9a21829877ecf2357224"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-77-2026",
+   "path": "local/mures/targu-mures/2026/77",
+   "short": "HCL Târgu Mureș nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 77/2026 privind aprobarea DocumentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico-economici aferenÅ£i obiectivului de investiÅ£ii,âDALI pentru reabilitare conducta de apÄ strada SÄvineÈti,Municipiul TÃ¢rgu-MureÈâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/C94E2B9D1001615CC2258DD40026124F/$FILE/HCL%2077.pdf",
+     "sha256": "27964c9136b009f39f4748dd542909290f62f947fcabeb50e8416217001f19b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-78-2026",
+   "path": "local/mures/targu-mures/2026/78",
+   "short": "HCL Târgu Mureș nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 78/2026 privind aprobarea DocumentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici aferenÅ£i obiectivului de investiÅ£ii,âDALI pentru reabilitare conducta de apÄ strada Predeal,Municipiul TÃ¢rgu-MureÈâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/69A31E4FB9B2FE55C2258DD400262AA7/$FILE/HCL%2078.pdf",
+     "sha256": "68702635edf4da8eadda8edcea42e06ce5aba7c57c349017e564a561c5064886"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-79-2026",
+   "path": "local/mures/targu-mures/2026/79",
+   "short": "HCL Târgu Mureș nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 79/2026 privind aprobarea DocumentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici ETAPA 1 aferenÅ£i obiectivului de investiÅ£ii,âModernizare str. MÄrului tronson 3â Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/6A4A4C3896FAB097C2258DD400266A1F/$FILE/HCL%2079.pdf",
+     "sha256": "bd82bc396a0ef8b81cdcf200eea441fdf94e90a657696565b6736a65cb58d4fc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--targu-mures-8-2026",
    "path": "local/mures/targu-mures/2026/8",
    "short": "HCL Târgu Mureș nr. 8/2026",
@@ -269,6 +3419,291 @@
      "units": 1,
      "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/F503C5669976E263C2258D8F003D13A0/$FILE/HCL%208.pdf",
      "sha256": "92f31a6bf3074aea9ce1074fbb3b740192eee13c9da5fe054238409682346a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-80-2026",
+   "path": "local/mures/targu-mures/2026/80",
+   "short": "HCL Târgu Mureș nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 80/2026 privind aprobarea DocumentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici aferenÅ£i obiectivului de investiÅ£ii âSF/DALI strÄzi Ã®n Cartierul Uniriiâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B942656BFBE40CADC2258DD40026B525/$FILE/HCL%2080.pdf",
+     "sha256": "a80ea6783404d77561979d2d7123236622fca11f428d7f54aff1077545ebdd0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-81-2026",
+   "path": "local/mures/targu-mures/2026/81",
+   "short": "HCL Târgu Mureș nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 81/2026 privind aprobarea studiului de fezabilitate Èi a indicatorilor tehnico- ,economici aferenÅ£i obiectivului de investiÅ£ii âServicii pentru actualizare studiu de fezabilitate pentru StradÄ de legÄturÄ Ã®ntre strada Viile Dealul Mic Èi strada Budiului â Tronson 4â Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/8D5A39E60E79C550C2258DD4002713ED/$FILE/HCL%2081.pdf",
+     "sha256": "de376a7f9a3fdaf03c589c0235e8ca501150d1e46562d8f43c4c170248c8bc8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-82-2026",
+   "path": "local/mures/targu-mures/2026/82",
+   "short": "HCL Târgu Mureș nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 82/2026 privind aprobarea DocumentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici ETAPA 1,aferenÅ£i obiectivului de investiÅ£ii âModernizare str",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/599764BA5F25AD03C2258DD400279EEC/$FILE/HCL%2082.pdf",
+     "sha256": "1278931601033d5557c906139b12a5468366c026bd904a62b35dce7d15112ec2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-83-2026",
+   "path": "local/mures/targu-mures/2026/83",
+   "short": "HCL Târgu Mureș nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 83/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici â Etapa I,aferenÅ£i obiectivului de investiÅ£ii- ,â Modernizare str",
+   "url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/HotarariPortal?OpenView&Count=-1",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/90455F3BF1CA6102C2258DD40027BA4E/$FILE/HCL%20%2083.pdf",
+     "sha256": "aadc869b909a46cdb5a2d16d23f1c52a234454a36959dd5eea8e9f6e3839cc3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-84-2026",
+   "path": "local/mures/targu-mures/2026/84",
+   "short": "HCL Târgu Mureș nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 84/2026 privind aprobarea DocumentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici ETAPA 1,aferenÅ£i obiectivului de investiÅ£ii âModernizare str. MÄrului (duplex)â Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/AD38ECB3066B5ABCC2258DD40027F134/$FILE/HCL%2084.pdf",
+     "sha256": "ba9d0aee996d37aad80a04d78eb9fe9544cc4fdf2ef14e3ce64ba479dd69a3d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-85-2026",
+   "path": "local/mures/targu-mures/2026/85",
+   "short": "HCL Târgu Mureș nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 85/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici ETAPA 1 aferenÅ£i obiectivului de investiÅ£ii âModernizare strada PÄduriiâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A95264AE17982F5FC2258DD40028510A/$FILE/HCL%2085.pdf",
+     "sha256": "86ce10edff80deb76a70ba9ea62c21936c5d70fc9abde52086877055e0896b7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-86-2026",
+   "path": "local/mures/targu-mures/2026/86",
+   "short": "HCL Târgu Mureș nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 86/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici ETAPA 1 aferenÅ£i obiectivului de investiÅ£ii,âModernizare strada Hints Ottoâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/BE80B6C93BEBF7E0C2258DD400288805/$FILE/HCL%2086.pdf",
+     "sha256": "72f100d72a5471a9f85b3ff9c2fb7b07beff2efc831803a649f0613b0f2e9e0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-87-2026",
+   "path": "local/mures/targu-mures/2026/87",
+   "short": "HCL Târgu Mureș nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 87/2026 privind aprobarea DocumentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici ETAPA 1,aferenÅ£i obiectivului de investiÅ£ii âModernizare str. Gurghiuluiâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/5578386482711D17C2258DD40028A232/$FILE/HCL%2087.pdf",
+     "sha256": "dcd8ce6591d59340f03b61f0b6a482da8d29f3c377d77fcb8bb39fbc9de1a430"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-88-2026",
+   "path": "local/mures/targu-mures/2026/88",
+   "short": "HCL Târgu Mureș nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 88/2026 privind aprobarea DocumentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici aferenÅ£i obiectivului de investiÅ£ii âDALI pentru Modernizare strada Pomilor â Etapa 1 â Blocuriâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/B322FE675267C838C2258DD40028BED3/$FILE/HCL%2088.pdf",
+     "sha256": "d28fa811e04c90f16f7b418ae5fa7d222bbbe650107b7c68006143f95b87f029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-89-2026",
+   "path": "local/mures/targu-mures/2026/89",
+   "short": "HCL Târgu Mureș nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 89/2026 privind aprobarea documentaÈiei de avizare a lucrÄrilor de intervenÈii Èi a indicatorilor tehnico- economici aferenÅ£i obiectivului de investiÅ£ii â Modernizare strada Pomilor â Etapa 1â Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/CC8220F498202EE0C2258DD40028D316/$FILE/HCL%2089.pdf",
+     "sha256": "b3dc9939b39ef48a54b81c03f014d118d6f5908411b27371ec70c5b43537bd72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-9-2026",
+   "path": "local/mures/targu-mures/2026/9",
+   "short": "HCL Târgu Mureș nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 9/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/65E1441232A97F03C2258D8F003D2C1E/$FILE/HCL%209.pdf",
+     "sha256": "bbb4e1dacb5e0640939c9853cc656e8886a365a1e46f3025b282d61fa0a852a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-90-2026",
+   "path": "local/mures/targu-mures/2026/90",
+   "short": "HCL Târgu Mureș nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 90/2026 privind aprobarea Studiului de fezabilitate Èi a indicatorilor tehnico-economici aferenÅ£i obiectivului de investiÅ£ii âSTRADA DE LEGATURA INTRE AUTOSTRADA TRANSILVANIA (NOD RUTIER CU STRADA GHEORGHE DOJA SI STRADA INSULEI) â TRONSON 2 INEL OCOLITORâ Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/11A7DBD298E2E32BC2258DD400290785/$FILE/HCL%2090.pdf",
+     "sha256": "2f3d4f2d8c5b9a0a4b5ee00943bae52a08a03ca0a4bb652a4513801cdd6ed6c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-91-2026",
+   "path": "local/mures/targu-mures/2026/91",
+   "short": "HCL Târgu Mureș nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 91/2026 cu privire la aprobarea numÄrului maxim de posturi la nivelul U.A.T",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/6ACB4A19A94448EEC2258DD4002CCFDE/$FILE/HCL%2091.pdf",
+     "sha256": "08a821928fd013ebef59be363b04dee772b54fc69447d18351e27c37494dd8e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-92-2026",
+   "path": "local/mures/targu-mures/2026/92",
+   "short": "HCL Târgu Mureș nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 92/2026 privind reglementarea desfÄÈurÄrii activitÄÈilor de jocuri de noroc,Ã®n locaÈii fizice,pe raza unitÄÈii administrativ teritoriale a Municipiului TÃ¢rgu MureÈ Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/E04F10B8073722F5C2258DE60027A909/$FILE/HCL%2092.pdf",
+     "sha256": "ae7aab86163d91da9a8c1a8375d5cdf3a26bb55ac2718e5e69747b7cf9c3e570"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-93-2026",
+   "path": "local/mures/targu-mures/2026/93",
+   "short": "HCL Târgu Mureș nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 93/2026 privind procedura de eliberare a autorizaÈiei de funcÈionare pentru desfÄÈurarea activitÄÈii de jocuri de noroc pe raza administrativ-teritorialÄ a Municipiului TÃ¢rgu MureÈ Deschide Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/99D65613176DD70EC2258DE60027C180/$FILE/HCL%2093.pdf",
+     "sha256": "758223775081541886594637982cc68936a58b4a318bddbf9b4ed59b63a1a4ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-94-2026",
+   "path": "local/mures/targu-mures/2026/94",
+   "short": "HCL Târgu Mureș nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 94/2026 privind aprobarea âListei de prioritÄÈiâ pentru anul 2026 Ã®n vederea repartizÄrii spaÈiilor cu altÄ destinaÈie decÃ¢t aceea de locuinÈe aflate Ã®n proprietatea municipalitÄÈii Èi administrate de SC LOCATIV SA Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/4B92BA6CA156F5ECC2258DEE002C9C51/$FILE/HCL%2094.pdf",
+     "sha256": "2093650825a2b436ca8017d08102ee28908a0f41dce1e6316719bf6dd45b8d24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-95-2026",
+   "path": "local/mures/targu-mures/2026/95",
+   "short": "HCL Târgu Mureș nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 95/2026 privind concesionarea directÄ a terenului Ã®n suprafaÈÄ de 14 mp situat Ã®n raza teritorialÄ,a Municipiului TÃ¢rgu MureÈ,B-dul 1848,nr.15,cÄtre SC DIKO AGRO SRL Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/167002AEEE9A1A8DC2258DEE002CAD8C/$FILE/HCL%2095.pdf",
+     "sha256": "7f96d4c5aaaa921337b20b6aea6f566825ddf08b6b75c5f69555b8f3ecf2428f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-97-2026",
+   "path": "local/mures/targu-mures/2026/97",
+   "short": "HCL Târgu Mureș nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 97/2026",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/D90EA3386FEFF0F0C2258DEE002D444D/$FILE/HCL%2097.pdf",
+     "sha256": "53694cdeb1891561e970a4d94870805900edda2ae22043061b1a857de78e76a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--targu-mures-99-2026",
+   "path": "local/mures/targu-mures/2026/99",
+   "short": "HCL Târgu Mureș nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Târgu Mureș nr. 99/2026 privind aprobarea Planului anual de acÈiune privind serviciile sociale administrate Èi,finanÈate din bugetul Consiliului Local TÃ¢rgu MureÈ pentru anul 2026 Deschide Deschide",
+   "url": "https://www.tirgumures.ro/registru/afisare_registru.php",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.tirgumures.ro/portal/servicii/2026/hotarari.nsf/all/A37DE4D89D093B34C2258DEE002D861B/$FILE/HCL%2099.pdf",
+     "sha256": "64c770e0532b53b0d5079c6b6145d228eba6a33f4f3af4dd63c8dd34a3980f11"
     }
    ]
   }

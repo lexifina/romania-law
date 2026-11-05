@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/satu-mare/2025",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--satu-mare-157-2025",
+   "path": "local/satu-mare/satu-mare/2025/157",
+   "short": "HCL Satu Mare nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 157/2025",
+   "url": "https://www.primariasm.ro/hotararea-nr-15726062025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/157/hcl-157.doc",
+     "sha256": "387b2d9625e988d84d39d50bfd69fc25144b1abf4db72718eaf32a2b9a2a1c48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-290-2025",
+   "path": "local/satu-mare/satu-mare/2025/290",
+   "short": "HCL Satu Mare nr. 290/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 290/2025",
+   "url": "https://primariasm.ro/hotararea-nr-29027112025",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/290/hcl-290.doc",
+     "sha256": "21227f85ab992e52467bf2744b7819689c4ec5ceb5c1f2e1ae31ef2c87fb1f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-346-2025",
+   "path": "local/satu-mare/satu-mare/2025/346",
+   "short": "HCL Satu Mare nr. 346/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 346/2025",
+   "url": "https://primariasm.ro/hotararea-nr-34622122025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/346/hcl-346.doc",
+     "sha256": "9d35a51c9c85253825aa26875d0a8f5326199ad384fa43ea92931a7217f12bdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-8-2025",
+   "path": "local/satu-mare/satu-mare/2025/8",
+   "short": "HCL Satu Mare nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 8/2025",
+   "url": "https://www.primariasm.ro/hotararea-nr-830012025",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/8/hcl-8.doc",
+     "sha256": "9588209be65e4b74885d375302dbb85aae7aea312e80821eb786ffbbb9623e93"
+    }
+   ]
+  }
+ ]
+}

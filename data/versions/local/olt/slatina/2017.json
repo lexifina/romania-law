@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/olt/slatina/2017",
+ "acts": [
+  {
+   "slug": "hcl-olt--slatina-16-2017",
+   "path": "local/olt/slatina/2017/16",
+   "short": "HCL Slatina nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 16/2017",
+   "url": "http://www.primariaslatina.ro/hotarari_fond_funciar.html",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://www.primariaslatina.ro/images/fond_funciar/h_16_121217.pdf",
+     "sha256": "eec67a9f5fab432b486bcbf6d4c4e5d2b276f42ec5ad4bc18db056ea54587b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--slatina-17-2017",
+   "path": "local/olt/slatina/2017/17",
+   "short": "HCL Slatina nr. 17/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 17/2017",
+   "url": "http://www.primariaslatina.ro/hotarari_fond_funciar.html",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://www.primariaslatina.ro/images/fond_funciar/h_17_121217.pdf",
+     "sha256": "d1ba91bcc5895e3c55ac44da293ff4edf2760c0cfd50d28f919aa1eecc417462"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--slatina-18-2017",
+   "path": "local/olt/slatina/2017/18",
+   "short": "HCL Slatina nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 18/2017",
+   "url": "http://www.primariaslatina.ro/hotarari_fond_funciar.html",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://www.primariaslatina.ro/images/fond_funciar/h_18_121217.pdf",
+     "sha256": "941c9b4dbb02434dfef86c13068471b73fb41d1804184fe539f68c647b21cb61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--slatina-19-2017",
+   "path": "local/olt/slatina/2017/19",
+   "short": "HCL Slatina nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 19/2017",
+   "url": "http://www.primariaslatina.ro/hotarari_fond_funciar.html",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://www.primariaslatina.ro/images/fond_funciar/h_19_121217.pdf",
+     "sha256": "13f99d5246eb6125842dd21a355bede2fa27b41bb5c78f0c64c30b16ca44d34c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--slatina-20-2017",
+   "path": "local/olt/slatina/2017/20",
+   "short": "HCL Slatina nr. 20/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 20/2017",
+   "url": "http://www.primariaslatina.ro/hotarari_fond_funciar.html",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://www.primariaslatina.ro/images/fond_funciar/h_20_121217.pdf",
+     "sha256": "4f128502a8cb817598c6042e7db27c181f314ca15f4891864adf3f852601a42c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--slatina-21-2017",
+   "path": "local/olt/slatina/2017/21",
+   "short": "HCL Slatina nr. 21/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 21/2017",
+   "url": "http://www.primariaslatina.ro/hotarari_fond_funciar.html",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://www.primariaslatina.ro/images/fond_funciar/h_21_121217.pdf",
+     "sha256": "fc57cc513b5433de1501e83c94e8ca422086b94d5b937c6f850ef7e472ec7544"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--slatina-22-2017",
+   "path": "local/olt/slatina/2017/22",
+   "short": "HCL Slatina nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Slatina nr. 22/2017",
+   "url": "http://www.primariaslatina.ro/hotarari_fond_funciar.html",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 1,
+     "source_url": "http://www.primariaslatina.ro/images/fond_funciar/h_22_121217.pdf",
+     "sha256": "7dccd3e2de9a474be5dc954123334e8a6646a044ad108b4df33d1695c89c3cdc"
+    }
+   ]
+  }
+ ]
+}

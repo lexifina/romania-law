@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/orsova/2026",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--orsova-24-2026",
+   "path": "local/mehedinti/orsova/2026/24",
+   "short": "HCL Orșova nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 24/2026 privind modificarea Hotararii Consiliului Local al municipiului Orsova nr. 50(2) privind alegera comisiilor de specialitate ale Consiliului Local al municipiului Orsova pe principalele domenii de activitate, in mandatul; 2024-2028, adoptata la data de 15.11.2024, cu modificarile ulterioare Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-nr.24-adoptata-la-data-de-31.03.2026.pdf",
+     "sha256": "c391b27604d0f27195346494ffa3cde32fa788cccafcb1bf587c9b0e31df0e84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-49-2026",
+   "path": "local/mehedinti/orsova/2026/49",
+   "short": "HCL Orșova nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 49/2026 privind rectificarea bugetului de venituri si cheltuieli pe anul 2026, prin virari de credite bugetare si suplimentari de credite bugetare si completarea Programului de investitii pe anul 2026 Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-49-din-24.09.2026.pdf",
+     "sha256": "a2374783a96a44833655b6eaa8c0d0103497537297100f860680764da734e657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-50-2026",
+   "path": "local/mehedinti/orsova/2026/50",
+   "short": "HCL Orșova nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 50/2026 privind aprobarea documentatiei de apartamentare a imobilului apartinand domeniului public al municipiului Orsova, inscris in CF 55046-C1, str",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-50-din-24.09.2026.pdf",
+     "sha256": "5119c037b04252acdb645a7d09ede179f7539055142cdbc7418f2f4572db2090"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-51-2026",
+   "path": "local/mehedinti/orsova/2026/51",
+   "short": "HCL Orșova nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 51/2026 privind modificarea Hotararii Consiliului Local al municipiului Orsova nr. 37 privind aprobarea oportunitatii realizarii investitiei ,, LOCUINTE DE SERVICIU” prin ANL, revocarea partiala a dreptului de administrare al Spitalului Municipal Orsova si aprobarea dezmembrarii imobilului teren proprietate publica a municipiului Orsova , inscris in CF nr. 50484 in vederea asigurarii amplasamentului, adop",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-51-din-24.09.2026.pdf",
+     "sha256": "409f34ed2df82ff00026d76b4e08838a9c8f92ecc17303e5de1ec604fdd89c2b"
+    }
+   ]
+  }
+ ]
+}

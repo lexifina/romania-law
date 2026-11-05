@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/satu-mare/2023",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--satu-mare-106-2023",
+   "path": "local/satu-mare/satu-mare/2023/106",
+   "short": "HCL Satu Mare nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 106/2023",
+   "url": "https://www.primariasm.ro/hotararea-nr-10630032023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2023/106/hcl-106.doc",
+     "sha256": "24c274582c875c3ab60c61116f2882434d4824866939d2cef39fcee26fe2b8b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-172-2023",
+   "path": "local/satu-mare/satu-mare/2023/172",
+   "short": "HCL Satu Mare nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 172/2023",
+   "url": "https://www.primariasm.ro/hotararea-nr-17225052023",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2023/172/hcl-172.doc",
+     "sha256": "3e6cf87c2a5c6294528d28dc28dfc8d601689728a8d6cbc8768499f1ff075c90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-24-2023",
+   "path": "local/satu-mare/satu-mare/2023/24",
+   "short": "HCL Satu Mare nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 24/2023",
+   "url": "https://www.primariasm.ro/hotararea-nr-2426012023",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2023/24/hcl-24.doc",
+     "sha256": "fe09532635d5cd7322e325515c6e01032f28fe7b21d6e5e3a57bb23a1ca68116"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-27-2023",
+   "path": "local/satu-mare/satu-mare/2023/27",
+   "short": "HCL Satu Mare nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 27/2023",
+   "url": "https://www.primariasm.ro/hotararea-nr-2726012023",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2023/27/hcl-27.doc",
+     "sha256": "4b88c5fcd9142db45d47571c59d123010d724ac9a70b9b080db34f783d9694f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-320-2023",
+   "path": "local/satu-mare/satu-mare/2023/320",
+   "short": "HCL Satu Mare nr. 320/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 320/2023",
+   "url": "https://www.primariasm.ro/hotararea-nr-32026102023",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2023/320/hcl-320.doc",
+     "sha256": "7829fd0c97e7baf0c4bad0b8bf4cef625cbd2b92b619660231d136b82dd0a3f4"
+    }
+   ]
+  }
+ ]
+}

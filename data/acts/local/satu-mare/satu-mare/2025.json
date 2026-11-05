@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/satu-mare/2025",
+"acts": [
+{
+"slug": "hcl-satu-mare--satu-mare-8-2025",
+"path": "local/satu-mare/satu-mare/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 8/2025",
+"short": "HCL Satu Mare nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://www.primariasm.ro/hotararea-nr-830012025",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-157-2025",
+"path": "local/satu-mare/satu-mare/2025/157",
+"kind": "local",
+"year": "2025",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 157/2025",
+"short": "HCL Satu Mare nr. 157/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://www.primariasm.ro/hotararea-nr-15726062025",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-290-2025",
+"path": "local/satu-mare/satu-mare/2025/290",
+"kind": "local",
+"year": "2025",
+"number": "290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 290/2025",
+"short": "HCL Satu Mare nr. 290/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://primariasm.ro/hotararea-nr-29027112025",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-346-2025",
+"path": "local/satu-mare/satu-mare/2025/346",
+"kind": "local",
+"year": "2025",
+"number": "346",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 346/2025",
+"short": "HCL Satu Mare nr. 346/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://primariasm.ro/hotararea-nr-34622122025",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

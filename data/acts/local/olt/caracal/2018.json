@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/olt/caracal/2018",
+"acts": [
+{
+"slug": "hcl-olt--caracal-21-2018",
+"path": "local/olt/caracal/2018/21",
+"kind": "local",
+"year": "2018",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 21/2018",
+"short": "HCL Caracal nr. 21/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-31",
+"latest": "2018-01-31",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-32-2018",
+"path": "local/olt/caracal/2018/32",
+"kind": "local",
+"year": "2018",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 32/2018",
+"short": "HCL Caracal nr. 32/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-28",
+"latest": "2018-02-28",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-38-2018",
+"path": "local/olt/caracal/2018/38",
+"kind": "local",
+"year": "2018",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 38/2018",
+"short": "HCL Caracal nr. 38/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-30",
+"latest": "2018-03-30",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-50-2018",
+"path": "local/olt/caracal/2018/50",
+"kind": "local",
+"year": "2018",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 50/2018",
+"short": "HCL Caracal nr. 50/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-04-27",
+"latest": "2018-04-27",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-89-2018",
+"path": "local/olt/caracal/2018/89",
+"kind": "local",
+"year": "2018",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 89/2018",
+"short": "HCL Caracal nr. 89/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-07-23",
+"latest": "2018-07-23",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-102-2018",
+"path": "local/olt/caracal/2018/102",
+"kind": "local",
+"year": "2018",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 102/2018",
+"short": "HCL Caracal nr. 102/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-08-31",
+"latest": "2018-08-31",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-139-2018",
+"path": "local/olt/caracal/2018/139",
+"kind": "local",
+"year": "2018",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 139/2018",
+"short": "HCL Caracal nr. 139/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-31",
+"latest": "2018-10-31",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-146-2018",
+"path": "local/olt/caracal/2018/146",
+"kind": "local",
+"year": "2018",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 146/2018",
+"short": "HCL Caracal nr. 146/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-05",
+"latest": "2018-11-05",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-180-2018",
+"path": "local/olt/caracal/2018/180",
+"kind": "local",
+"year": "2018",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 180/2018",
+"short": "HCL Caracal nr. 180/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-06",
+"latest": "2018-12-06",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-188-2018",
+"path": "local/olt/caracal/2018/188",
+"kind": "local",
+"year": "2018",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 188/2018",
+"short": "HCL Caracal nr. 188/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-21",
+"latest": "2018-12-21",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-194-2018",
+"path": "local/olt/caracal/2018/194",
+"kind": "local",
+"year": "2018",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 194/2018",
+"short": "HCL Caracal nr. 194/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-21",
+"latest": "2018-12-21",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

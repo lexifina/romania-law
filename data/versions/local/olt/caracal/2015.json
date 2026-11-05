@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/olt/caracal/2015",
+ "acts": [
+  {
+   "slug": "hcl-olt--caracal-25-2015",
+   "path": "local/olt/caracal/2015/25",
+   "short": "HCL Caracal nr. 25/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 25/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2015/HCLnr_25din31_03_2015.pdf",
+     "sha256": "148e7d1a50f529acef324837f1be1f942afec2a2ae8e871d198292b08f1964bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-42-2015",
+   "path": "local/olt/caracal/2015/42",
+   "short": "HCL Caracal nr. 42/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 42/2015",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2015/HCL_nr_42din30_04_2015.pdf",
+     "sha256": "d0d7e7476d3ffbb02c27742391079c3c763d2b26f06b0cc9f9b3df2977a1f2b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-43-2015",
+   "path": "local/olt/caracal/2015/43",
+   "short": "HCL Caracal nr. 43/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 43/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2015/HCL_nr_43din30_04_2015.pdf",
+     "sha256": "64babfa3662e9dee0d84e1f82e6c3a97c092fe21fd4a9ed2fe70061f27352b1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-57-2015",
+   "path": "local/olt/caracal/2015/57",
+   "short": "HCL Caracal nr. 57/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 57/2015 privind numirea reprezentanÅ£ilor Consiliului local al municipiului Caracal Ã®n consiliile de administraÅ£ie ale unitÄÅ£ilor de Ã®nvÄÅ£ÄmÃ¢nt preuniversitar din municipiul Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2015/HCL_nr_57din28_05_2015.pdf",
+     "sha256": "17a3c1cdf4ea00ec0de840211658c8d38dd4608954822b7b850f2eba3c66e544"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-62-2015",
+   "path": "local/olt/caracal/2015/62",
+   "short": "HCL Caracal nr. 62/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 62/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2015/HCL_nr_62din29_06_2015.pdf",
+     "sha256": "281a1452cdefeff21269eee0d401dae66c6b1d12485216f8b5d628d1e69f2f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-8-2015",
+   "path": "local/olt/caracal/2015/8",
+   "short": "HCL Caracal nr. 8/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 8/2015 privind numirea reprezentanÅ£ilor Consiliului local al municipiului Caracal Ã®n consiliile de administraÅ£ie ale unitÄÅ£ilor de Ã®nvÄÅ£ÄmÃ¢nt preuniversitar din municipiul Caracal",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2015/HCLnr_08din27_02_2015.pdf",
+     "sha256": "07138b7e38a1f8dd599369e11e5165e7a106c9cea2fd2f9fd8873f406d4e17eb"
+    }
+   ]
+  }
+ ]
+}

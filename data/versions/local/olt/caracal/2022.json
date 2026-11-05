@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/olt/caracal/2022",
+ "acts": [
+  {
+   "slug": "hcl-olt--caracal-1-2022",
+   "path": "local/olt/caracal/2022/1",
+   "short": "HCL Caracal nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 1/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-1-10-01-2022/",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "http://dev.primariacaracal.ro/wp-content/uploads/2022/03/HCLnr.1din10.01.2022.pdf",
+     "sha256": "5a3cb9b756281e831db7f46f8c027f197f22d13e242a9edfe6ef77cd69cad96c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-19-2022",
+   "path": "local/olt/caracal/2022/19",
+   "short": "HCL Caracal nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 19/2022",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2022/HCLnr.19din31.01.2022.pdf",
+     "sha256": "ca5471c111cffb56cfa629380a18ec560f8aef0d7884d7f48bfb8adac7c13c35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-4-2022",
+   "path": "local/olt/caracal/2022/4",
+   "short": "HCL Caracal nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 4/2022",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2022/HCLnr.4din10.01.2022.pdf",
+     "sha256": "e40e77dce8fffb137b8f587577116387815cd700c2f352e4a2508c8480779048"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-46-2022",
+   "path": "local/olt/caracal/2022/46",
+   "short": "HCL Caracal nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 46/2022",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2022/HCLnr.46din28.03.2022.pdf",
+     "sha256": "a65c7f0e2a60fe2bdaa8fdcdb71589b545a4f98ab2777db2935545404416dbf6"
+    }
+   ]
+  }
+ ]
+}

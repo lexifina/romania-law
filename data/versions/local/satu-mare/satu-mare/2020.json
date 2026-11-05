@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/satu-mare/2020",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--satu-mare-239-2020",
+   "path": "local/satu-mare/satu-mare/2020/239",
+   "short": "HCL Satu Mare nr. 239/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 239/2020 privind însușirea documentațiilor cadastrale de primă înscriere a unor imobile teren din municipiul Satu Mare, cu destinația drum de exploatare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 22.12.2020, Analizând: proiectul de hotărâre înregistrat sub nr. 54204/16.12.2020, referatul de aprobare al Primarului municipiului Satu Mare înregistrat sub nr. 54205/16.12",
+   "url": "https://www.primariasm.ro/hotararea-nr-23922122020",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/decembrie-2020/hcl-239.docx",
+     "sha256": "474afa48a566dca44a4f800b1621537dad6839b060be48b4b6c0d8ebfee9e307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-240-2020",
+   "path": "local/satu-mare/satu-mare/2020/240",
+   "short": "HCL Satu Mare nr. 240/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 240/2020 privind însușirea documentațiilor cadastrale de primă înscriere a unor imobile teren din municipiul Satu Mare, cu destinația drum Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 22.12.2020, Analizând: proiectul de hotărâre înregistrat sub nr. 54063/16.12.2020, referatul de aprobare al Primarului municipiului Satu Mare înregistrat sub nr. 54066/16.12.2020, în cali",
+   "url": "https://www.primariasm.ro/hotararea-nr-24022122020",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/decembrie-2020/hcl-240.docx",
+     "sha256": "2dd965f5e5df19a5be0409788e6ef4b0e3ec9c92e58cc2f848fa948dbbc9d158"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2046 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/satu-mare/2026",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--satu-mare-115-2026",
+   "path": "local/satu-mare/satu-mare/2026/115",
+   "short": "HCL Satu Mare nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 115/2026",
+   "url": "https://primariasm.ro/hotararea-nr-11528052026",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2026/115/hcl-115.doc",
+     "sha256": "c2b59d03393ce512a482bda0ccef3b0209dae783d6278b7213930ec4ecd7cb71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-130-2026",
+   "path": "local/satu-mare/satu-mare/2026/130",
+   "short": "HCL Satu Mare nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 130/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-13028052026",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/130/hcl-130.doc",
+     "sha256": "5da24e23ef8f32e9f873b82ff960c41aec758b7b12d980e78a71eebd7548c09e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-131-2026",
+   "path": "local/satu-mare/satu-mare/2026/131",
+   "short": "HCL Satu Mare nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 131/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-13128052026",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/131/hcl-131.doc",
+     "sha256": "9346d779b6020a8d7df7e951e61e75bb0045a504c30e3d2e5f37110dd985a11a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-132-2026",
+   "path": "local/satu-mare/satu-mare/2026/132",
+   "short": "HCL Satu Mare nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 132/2026 privind aprobarea proiectului „Sistem integrat de monitorizare a traficului și mobilitate inteligentă în Municipiul Satu Mare” și a cheltuielilor legate de proiect Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 32994/26.05.2026, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat sub nr. 32995/26.05.2026 în calitate de inițiator",
+   "url": "https://www.primariasm.ro/hotararea-nr-13228052026",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/132/hcl-132.docx",
+     "sha256": "6938db2357e0490cba2995afbb3b6dcd4a05ebbff8b4afdcfe1c8f9a2641b620"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-133-2026",
+   "path": "local/satu-mare/satu-mare/2026/133",
+   "short": "HCL Satu Mare nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 133/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-13322062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/133/hcl-133.doc",
+     "sha256": "c1d96a57fa0ef7611db1d7b08b752b8fd67957bc921fb41b9ba5d016e2052e57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-134-2026",
+   "path": "local/satu-mare/satu-mare/2026/134",
+   "short": "HCL Satu Mare nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 134/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-13422062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/134/hcl-134.doc",
+     "sha256": "3f6fd5f6dc490e50ae5d898c8ad1957e3782e8636157a205e1e5bf66870092ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-135-2026",
+   "path": "local/satu-mare/satu-mare/2026/135",
+   "short": "HCL Satu Mare nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 135/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-13522062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/135/hcl-135.doc",
+     "sha256": "75b709f8bdb3ffe2b46946c3be50fc938e322a053d6e0d8c7f67fe78e3971f01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-136-2026",
+   "path": "local/satu-mare/satu-mare/2026/136",
+   "short": "HCL Satu Mare nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 136/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-13622062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/136/hcl-136.doc",
+     "sha256": "cd3efc0a1dd25ad694cb4bfad321ec03c16a48b17b74d58d47ed5c7d9ad6eecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-137-2026",
+   "path": "local/satu-mare/satu-mare/2026/137",
+   "short": "HCL Satu Mare nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 137/2026 privind procedura de publicare a listei contribuabililor persoane juridice care au declarat și au achitat la scadență obligațiile fiscale de plată și care nu au obligații restante Consiliul Local al municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub numărul 198243/11.06.2026 conexat cu nr. 189214/08.05.2026, referatul de aprobare al Primarului municipiului Satu Mare, în calita",
+   "url": "https://www.primariasm.ro/hotararea-nr-13722062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/137/hcl-137.docx",
+     "sha256": "e858a3d11f51291bf7f51ace91963bda6f1dd1936f1f7652af07c6207c490d3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-138-2026",
+   "path": "local/satu-mare/satu-mare/2026/138",
+   "short": "HCL Satu Mare nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 138/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-13822062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/138/hcl-138.doc",
+     "sha256": "ef13a8595b41a8a63bb7edc2a2f36271afefe24e14a1a9149359dd64d7e82e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-139-2026",
+   "path": "local/satu-mare/satu-mare/2026/139",
+   "short": "HCL Satu Mare nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 139/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-13922062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/139/hcl-139.doc",
+     "sha256": "3a5d80302f0de4fcf2efed343b23575d6d5aadf369c1adc6ce4c7266228e5234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-140-2026",
+   "path": "local/satu-mare/satu-mare/2026/140",
+   "short": "HCL Satu Mare nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 140/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-14022062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/140/hcl-140.doc",
+     "sha256": "4a19d4924706d6a862da65ed4ae9b4a3f095df726781ef2c42928ca17ed62ccb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-141-2026",
+   "path": "local/satu-mare/satu-mare/2026/141",
+   "short": "HCL Satu Mare nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 141/2026 privind aprobarea proiectului „Implementarea Programului EEA România pentru monitorizarea și certificarea managementului energetic al Municipiului Satu Mare” Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 36658/15.06.2026, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat sub nr. 36660/15.06.2026 în calitate de inițiator, raport",
+   "url": "https://www.primariasm.ro/hotararea-nr-14122062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/141/hcl-141-1.docx",
+     "sha256": "f3d7891cdfc89b7db967c8c6f00a41a06d557c4802b254cebc050ee927922079"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-142-2026",
+   "path": "local/satu-mare/satu-mare/2026/142",
+   "short": "HCL Satu Mare nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 142/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-14222062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/142/hcl-142.doc",
+     "sha256": "6d19f1bbb90a327b5c8b860b912bc06d097273322da4c82f39961258d965ceff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-143-2026",
+   "path": "local/satu-mare/satu-mare/2026/143",
+   "short": "HCL Satu Mare nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 143/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-14322062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/143/hcl-143.doc",
+     "sha256": "6451a4a4b3917eff591cad9abcf75201dd3e672fba5bf4dbf8dc53a335127ef0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-144-2026",
+   "path": "local/satu-mare/satu-mare/2026/144",
+   "short": "HCL Satu Mare nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 144/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-14422062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/144/hcl-144.doc",
+     "sha256": "c4de5ae279562b8ea54c09a08f34d5988eb3ef9bba271cd696295ec6088fe2e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-145-2026",
+   "path": "local/satu-mare/satu-mare/2026/145",
+   "short": "HCL Satu Mare nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 145/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-14522062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/145/hcl-145.doc",
+     "sha256": "c30314d3dbc0120a03555f4e85d4e5d93f23c13c857a33a80ef09e79ca939038"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-146-2026",
+   "path": "local/satu-mare/satu-mare/2026/146",
+   "short": "HCL Satu Mare nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 146/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-14622062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/146/hcl-146.doc",
+     "sha256": "57d2d808b5d54586c1745aba9bf1ba1dd1cdb163952a1aea6c6fdfda44dfc388"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-147-2026",
+   "path": "local/satu-mare/satu-mare/2026/147",
+   "short": "HCL Satu Mare nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 147/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-14722062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/147/hcl-147.doc",
+     "sha256": "3d82fba50f9572b218a233b44ea11633f00d9e211f3fa0f0465f05e23f17505d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-148-2026",
+   "path": "local/satu-mare/satu-mare/2026/148",
+   "short": "HCL Satu Mare nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 148/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-14822062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/148/hcl-148.doc",
+     "sha256": "195e0b66e9d98125c6cf63424ef4e7df67ac10d1978483b4f05e2830aa5a9d01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-149-2026",
+   "path": "local/satu-mare/satu-mare/2026/149",
+   "short": "HCL Satu Mare nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 149/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-14922062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/149/hcl-149.doc",
+     "sha256": "3e67fa48bc10d801aabc13743cbb477684b36c54844bb1321a8c7e2ad26c4075"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-150-2026",
+   "path": "local/satu-mare/satu-mare/2026/150",
+   "short": "HCL Satu Mare nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 150/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-15022062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/150/hcl-150.doc",
+     "sha256": "61b564d4e479a0f156f314b64fc3611bc1c56532e5e56f218c402c5c66c1f8e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-151-2026",
+   "path": "local/satu-mare/satu-mare/2026/151",
+   "short": "HCL Satu Mare nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 151/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-15122062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/151/hcl-151.doc",
+     "sha256": "a2714307c6381fd9cd715c82c6bdcc66f12c5aa2ca5985942dbd82ad1bf4c77f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-152-2026",
+   "path": "local/satu-mare/satu-mare/2026/152",
+   "short": "HCL Satu Mare nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 152/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-15222062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/152/hcl-152.doc",
+     "sha256": "5ac80da73b609539acad314de182c6b12627ae322cea12cab2729dfadacb2591"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-153-2026",
+   "path": "local/satu-mare/satu-mare/2026/153",
+   "short": "HCL Satu Mare nr. 153/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 153/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-15322062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/153/hcl-153.doc",
+     "sha256": "afd084cc95117d2e2ce614a2c2c2c0a188675997e133e1c7d4c10c5c0d368560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-154-2026",
+   "path": "local/satu-mare/satu-mare/2026/154",
+   "short": "HCL Satu Mare nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 154/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-15422062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/154/hcl-154.doc",
+     "sha256": "1c40fb2c7b691437c156da08d4ef21284e878dbbe11f6a95e8f19e25507f7e37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-156-2026",
+   "path": "local/satu-mare/satu-mare/2026/156",
+   "short": "HCL Satu Mare nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 156/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-15622062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/156/hcl-156.doc",
+     "sha256": "62c6274e249798cfa685a047d2068af31d9d00b154509898b6b745f62311892a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-157-2026",
+   "path": "local/satu-mare/satu-mare/2026/157",
+   "short": "HCL Satu Mare nr. 157/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 157/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-15722062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/157/hcl-157.doc",
+     "sha256": "918eb0bab613a07db4ff494e4b477a262d57581f816855e5024dabce7cb50d01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-158-2026",
+   "path": "local/satu-mare/satu-mare/2026/158",
+   "short": "HCL Satu Mare nr. 158/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 158/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-15822062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/158/hcl-158.doc",
+     "sha256": "ed360a14889b380305f64f5e084620534b8737d66eb279f2420127355f793a1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-159-2026",
+   "path": "local/satu-mare/satu-mare/2026/159",
+   "short": "HCL Satu Mare nr. 159/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 159/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-15922062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/159/hcl-159.doc",
+     "sha256": "9ddf753665c3542b12d70f124ef9fc32c4a35b069b3d69639d7735bdb3015816"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-160-2026",
+   "path": "local/satu-mare/satu-mare/2026/160",
+   "short": "HCL Satu Mare nr. 160/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 160/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-16022062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/160/hcl-160.doc",
+     "sha256": "198652cc01af437b82edbb3a9dba01c18d81b038411db3786b8b1014bd0dfcb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-161-2026",
+   "path": "local/satu-mare/satu-mare/2026/161",
+   "short": "HCL Satu Mare nr. 161/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 161/2026 privind darea în administrare a imobilului situat în Municipiul Satu Mare, Str",
+   "url": "https://www.primariasm.ro/hotararea-nr-16122062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/161/hcl-161.docx",
+     "sha256": "f3897c2f5df2099af402a7950e4842379455abd60054047d572663520eaa4132"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-162-2026",
+   "path": "local/satu-mare/satu-mare/2026/162",
+   "short": "HCL Satu Mare nr. 162/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 162/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-16222062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/162/hcl-162.docx",
+     "sha256": "83969c451a0b01efa0d4a0e17c859c9cef41d9c4962640ec393a786d056f472d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-163-2026",
+   "path": "local/satu-mare/satu-mare/2026/163",
+   "short": "HCL Satu Mare nr. 163/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 163/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-16322062026",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/163/hcl-163.doc",
+     "sha256": "ce9e02550d9b35a9e7f6246ca55f5aeb17c75313aca3c45cdd0a5209e7659907"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-164-2026",
+   "path": "local/satu-mare/satu-mare/2026/164",
+   "short": "HCL Satu Mare nr. 164/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 164/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-16430072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/164/hcl-164.doc",
+     "sha256": "635bca7df43c00b584c0e1892e3665057e38c5231112fc7e20c90234dd91f94d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-165-2026",
+   "path": "local/satu-mare/satu-mare/2026/165",
+   "short": "HCL Satu Mare nr. 165/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 165/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-16530072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/165/hcl-165.docx",
+     "sha256": "73a45566bbbbedd799926a9a6b5ca78cab28f35a27cd83583b66415142812f72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-166-2026",
+   "path": "local/satu-mare/satu-mare/2026/166",
+   "short": "HCL Satu Mare nr. 166/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 166/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-16630072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/166/hcl-166.docx",
+     "sha256": "0d5178fc31141a757b7cb8486d0376b5073f8309b1cb2e471a81bee2b55cef57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-167-2026",
+   "path": "local/satu-mare/satu-mare/2026/167",
+   "short": "HCL Satu Mare nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 167/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-16730072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/167/hcl-167-2.doc",
+     "sha256": "9f44547dd253975d2f876f5e526ade73c42fc7a762c7563dfdfd5ad4b817d37e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-168-2026",
+   "path": "local/satu-mare/satu-mare/2026/168",
+   "short": "HCL Satu Mare nr. 168/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 168/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-16830072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/168/hcl-168.doc",
+     "sha256": "774b2f5b83c0c2cc7b88cf4c3f0897e239650cbd73f021104f6d50a3b0e89d25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-169-2026",
+   "path": "local/satu-mare/satu-mare/2026/169",
+   "short": "HCL Satu Mare nr. 169/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 169/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-16930072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/169/hcl-169.doc",
+     "sha256": "412a556b83e01a5b12030e51f6beb805df76bdc3a7af74cc7862844c36c2ff19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-170-2026",
+   "path": "local/satu-mare/satu-mare/2026/170",
+   "short": "HCL Satu Mare nr. 170/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 170/2026 privind modificarea Hotărârii Consiliului Local al Municipiului Satu Mare nr. 51/29.02.2024 Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 43635/22.07.2026, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat sub 43636/22.07.2026, în calitate de inițiator, raportul de specialitate comun al Serviciului Managementul Proiectelor și a",
+   "url": "https://www.primariasm.ro/hotararea-nr-17030072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/170/hcl-170.docx",
+     "sha256": "7e999d411374f75c6edebd593e54a34e2d9adab40b4438bc707e5f5939a2e9a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-171-2026",
+   "path": "local/satu-mare/satu-mare/2026/171",
+   "short": "HCL Satu Mare nr. 171/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 171/2026 privind aprobarea proiectului „Reconversia și refuncționalizarea terenurilor degradate și neutilizate de pe malurile Someșului- Mal drept” și a cheltuielilor legate de proiect Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 43639/22.07.2026, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat sub 43641/22.07.2026 în calitate de ini",
+   "url": "https://www.primariasm.ro/hotararea-nr-17130072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/171/hcl-171.docx",
+     "sha256": "ae117735989c298bc96a04a2dd0b458cc962b3af0a55c460dbdab86c67c410b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-172-2026",
+   "path": "local/satu-mare/satu-mare/2026/172",
+   "short": "HCL Satu Mare nr. 172/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 172/2026 privind aprobarea devizului general final aferent obiectivului de investiții ”Modernizare străzi în municipiul Satu Mare Lot 2” Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre nr. 43336/21.07.2026, referatul de aprobare al inițiatorului, înregistrat sub nr. 43337/21.07.2026, raportul de specialitate comun al directorului executiv al Direcției Economice și al Serviciului",
+   "url": "https://www.primariasm.ro/hotararea-nr-17230072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/172/hcl-172.docx",
+     "sha256": "f47a8a216e04813001aff80eedbf1d58a421c5eefbfd49a34e44d9aa4ff79828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-173-2026",
+   "path": "local/satu-mare/satu-mare/2026/173",
+   "short": "HCL Satu Mare nr. 173/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 173/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-17330072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/173/hcl-173.doc",
+     "sha256": "1499b7d07dfb96e96e3daa795cb5522603f95566c69deb3819d765a4fee69a01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-174-2026",
+   "path": "local/satu-mare/satu-mare/2026/174",
+   "short": "HCL Satu Mare nr. 174/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 174/2026 privind reînnoirea atestatului persoanei fizice care a obținut certificat de calificare, în vederea dobândirii calității de administrator de condominii Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 42753/16.07.2026, referatul de aprobare al Primarului municipiului Satu Mare înregistrat sub nr. 42754/16.07.2026, în calitate de inițiator, raportul de",
+   "url": "https://www.primariasm.ro/hotararea-nr-17430072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/174/hcl-174.docx",
+     "sha256": "34053a008a437f943f01543f99ab145b12eda123bf488ec51cf22d5a49652152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-175-2026",
+   "path": "local/satu-mare/satu-mare/2026/175",
+   "short": "HCL Satu Mare nr. 175/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 175/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-17530072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/175/hcl-175-3.doc",
+     "sha256": "25f02bace61c94a9d96d4b898cfad96d5f10f0adf13c61ce5ff8403a75cd61e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-176-2026",
+   "path": "local/satu-mare/satu-mare/2026/176",
+   "short": "HCL Satu Mare nr. 176/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 176/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-17630072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/176/hcl-176-2.doc",
+     "sha256": "dd88de69a3eccc0716b3fcaf5e8f262d3fd89f20ce36eb395fc57104fe2f7ead"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-177-2026",
+   "path": "local/satu-mare/satu-mare/2026/177",
+   "short": "HCL Satu Mare nr. 177/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 177/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-17730072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/177/hcl-177.doc",
+     "sha256": "09b7b8f371035b82562e2e6615793e758a8084bd8852fcfa6e40ec1a20e3d4e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-178-2026",
+   "path": "local/satu-mare/satu-mare/2026/178",
+   "short": "HCL Satu Mare nr. 178/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 178/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-17830072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/178/hcl-178.doc",
+     "sha256": "3341f48232b835fd571955c9d857991340cdc3fcaaacc3f228df32fd1e917260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-179-2026",
+   "path": "local/satu-mare/satu-mare/2026/179",
+   "short": "HCL Satu Mare nr. 179/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 179/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-17930072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/179/hcl-179.doc",
+     "sha256": "db9f48fc060fa1a6c774a7f4d90509a81f4bf7d37199ce85802c4be9aa6fc1fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-180-2026",
+   "path": "local/satu-mare/satu-mare/2026/180",
+   "short": "HCL Satu Mare nr. 180/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 180/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-18030072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/180/hcl-180.doc",
+     "sha256": "fab78721758c37201293072c752ad0291c5bf50eb8e0c72af722a90b42fd2c15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-181-2026",
+   "path": "local/satu-mare/satu-mare/2026/181",
+   "short": "HCL Satu Mare nr. 181/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 181/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-18130072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/181/hcl-181.doc",
+     "sha256": "9662029b653619a069d7e021d58f15496654217e85ed548eb06e733234c06031"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-182-2026",
+   "path": "local/satu-mare/satu-mare/2026/182",
+   "short": "HCL Satu Mare nr. 182/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 182/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-18230072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/182/hcl-182.doc",
+     "sha256": "9d58ca29686e9ebf8d17ff438a7bbd81e8a4530c10b068a960b8d8c9e434c97c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-183-2026",
+   "path": "local/satu-mare/satu-mare/2026/183",
+   "short": "HCL Satu Mare nr. 183/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 183/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-18330072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/183/hcl-183.docx",
+     "sha256": "d2ae12e1b6943a653091d81d4c2cc2036a7bfb74efdcf2ffe982c3e7cecb5862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-184-2026",
+   "path": "local/satu-mare/satu-mare/2026/184",
+   "short": "HCL Satu Mare nr. 184/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 184/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-18430072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/184/hcl-184.docx",
+     "sha256": "c70c3a50aaf28953d2744a279530061591bfb8605227498cd581f5cb697c46c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-185-2026",
+   "path": "local/satu-mare/satu-mare/2026/185",
+   "short": "HCL Satu Mare nr. 185/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 185/2026 privind trecerea unui imobil din proprietatea privată a Statului Român, în proprietatea privată a Municipiului Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre, înregistrat sub nr. 41961/13.07.2026, referatul de aprobare al inițiatorului, înregistrat sub nr. 41963/13.07.2026, raportul de specialitate comun al directorului executiv al Direcției Patrimoniu și al S",
+   "url": "https://www.primariasm.ro/hotararea-nr-18530072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/185/hcl-185.docx",
+     "sha256": "e30d683b5212c662b519b003a2be00e4c1ff1de1171abae9413aa70859afd2e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-186-2026",
+   "path": "local/satu-mare/satu-mare/2026/186",
+   "short": "HCL Satu Mare nr. 186/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 186/2026 privind însușirea și aprobarea documentațiilor cadastrale de primă înregistrare a pajiștilor, proprietatea privată a municipiului Satu Mare Consiliul Local al Municipiului Satu Mare, Având în vedere documentațiile cadastrale de primă înregistrare, denumite ”Plan de amplasament și delimitare a imobilului”, întocmite de ing",
+   "url": "https://www.primariasm.ro/hotararea-nr-18630072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/186/hcl-186.docx",
+     "sha256": "75420369b9866ca1be2c844349f0e03de71a18591309d75172b38f928cdee095"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-187-2026",
+   "path": "local/satu-mare/satu-mare/2026/187",
+   "short": "HCL Satu Mare nr. 187/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 187/2026 privind însușirea documentației cadastrale de primă înregistrare a unui imobil teren în suprafață de 11 346, cu destinația de drum Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 42774/16.07.2026, referatul de aprobare al inițiatorului înregistrat sub nr. 42779/16.07.2026, raportul de specialitate al Direcției Patrimoniu - Serviciul Patrimoniu Concesi",
+   "url": "https://www.primariasm.ro/hotararea-nr-18730072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/187/hcl-187.docx",
+     "sha256": "1aee738f0fb598d99a908aa5be1b5c3e119a701206378ca8d1cd3be3ec9fc124"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-188-2026",
+   "path": "local/satu-mare/satu-mare/2026/188",
+   "short": "HCL Satu Mare nr. 188/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 188/2026 privind însușirea documentației tehnice de actualizare a datelor cadastrale pentru imobilul teren identificat prin CF nr. 160386 Satu Mare, situat în Municipiul Satu Mare, Str",
+   "url": "https://www.primariasm.ro/hotararea-nr-18830072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/188/hcl-188.docx",
+     "sha256": "6dfee8da6975716370e6b65f1919b0276748c2e5286e7224e8919459db3a745b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-189-2026",
+   "path": "local/satu-mare/satu-mare/2026/189",
+   "short": "HCL Satu Mare nr. 189/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 189/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-18930072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/189/hcl-189.doc",
+     "sha256": "54163fb18d9ba721570962d84d6993b9959c401d7c881b5b6ddcf389afcaafc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-190-2026",
+   "path": "local/satu-mare/satu-mare/2026/190",
+   "short": "HCL Satu Mare nr. 190/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 190/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-19030072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/190/hcl-190.doc",
+     "sha256": "08e5785ae34216c307958e12de07d7c43817cb0d54b36fe308aee4847e477ac3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-191-2026",
+   "path": "local/satu-mare/satu-mare/2026/191",
+   "short": "HCL Satu Mare nr. 191/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 191/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-19130072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/191/hcl-191.doc",
+     "sha256": "2de09b193653e4af0e50471185704d5ce86deba145b777cbfe3cce2376b87629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-192-2026",
+   "path": "local/satu-mare/satu-mare/2026/192",
+   "short": "HCL Satu Mare nr. 192/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 192/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-19230072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/192/hcl-192.doc",
+     "sha256": "c1eb05ed4a746dd4ef7518d8a87dece426d0a48c8c6f2184372d066c7fb5ef2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-193-2026",
+   "path": "local/satu-mare/satu-mare/2026/193",
+   "short": "HCL Satu Mare nr. 193/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 193/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-19330072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/193/hcl-193.doc",
+     "sha256": "6d266a2917613a480fee5103372f983f4da276f91941bdfa8916f5af8a760a49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-194-2026",
+   "path": "local/satu-mare/satu-mare/2026/194",
+   "short": "HCL Satu Mare nr. 194/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 194/2026 privind însușirea documentațiilor cadastrale de primă înregistrare a unor imobile teren cu destinația de drum Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 44776/29.07.2026, referatul de aprobare al inițiatorului, înregistrat sub nr. 44777/29.07.2026, raportul de specialitate al Direcției Patrimoniu - Serviciul Patrimoniu, Concesionări, Închirieri î",
+   "url": "https://www.primariasm.ro/hotararea-nr-19430072026",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/194/hcl-194.docx",
+     "sha256": "309d5e9a0b60f7fa9214a95833b6e2362e0fb795f4ede28cd154e5d2a24d2cec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-195-2026",
+   "path": "local/satu-mare/satu-mare/2026/195",
+   "short": "HCL Satu Mare nr. 195/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 195/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-19524082026",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/195/hcl-195.doc",
+     "sha256": "47367a1d4982f8c4e70bec1a6db989d16e5b8e64d449f69b5a28bf93c350cf7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-196-2026",
+   "path": "local/satu-mare/satu-mare/2026/196",
+   "short": "HCL Satu Mare nr. 196/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 196/2026 privind însușirea și aprobarea documentației cadastrale de alipire a unor imobile-teren situate în Municipiul Satu Mare, Piața Romană Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 48507/20.08.2026, referatul de aprobare al inițiatorului, înregistrat sub nr. 48508/20.08.2026, raportul de specialitate al Direcției Patrimoniu - Serviciul Patrimoniu, Co",
+   "url": "https://www.primariasm.ro/hotararea-nr-19624082026",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/196/hcl-196.docx",
+     "sha256": "c132df71f35eb3fb1ef0c96e602601d1c2f9b0649545525f2a2d1b8d32baa726"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-197-2026",
+   "path": "local/satu-mare/satu-mare/2026/197",
+   "short": "HCL Satu Mare nr. 197/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 197/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-19727082026",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/197/hcl-197.doc",
+     "sha256": "760b0c52b5e0b487b950d79a06fe1f4e62cb0a680921c017cc38d7da05160140"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-198-2026",
+   "path": "local/satu-mare/satu-mare/2026/198",
+   "short": "HCL Satu Mare nr. 198/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 198/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-19828082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/198/hcl-198.doc",
+     "sha256": "bcf95508701275bd4edcc8787fab511670fb51cbcd1dd53c159d94024f9bed59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-199-2026",
+   "path": "local/satu-mare/satu-mare/2026/199",
+   "short": "HCL Satu Mare nr. 199/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 199/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-19928082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/199/hcl-199.doc",
+     "sha256": "bed000bb63614601112b751805793bc141a3329aa7bea878617b6fff876f3a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-20-2026",
+   "path": "local/satu-mare/satu-mare/2026/20",
+   "short": "HCL Satu Mare nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 20/2026 privind însușirea și aprobarea documentațiilor cadastrale de primă înregistrare a pajiștilor, proprietatea privată a municipiului Satu Mare Consiliul Local al Municipiului Satu Mare, Având în vedere documentațiile cadastrale de primă înregistrare, denumite ”Plan de amplasament și delimitare a imobilului”, întocmite de ing",
+   "url": "https://www.primariasm.ro/hotararea-nr-2029012026",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/20/hcl-20.docx",
+     "sha256": "3ac508868a9272b934fe90adce0bb9ae5047461de473ccfa01990dee61cea5f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-200-2026",
+   "path": "local/satu-mare/satu-mare/2026/200",
+   "short": "HCL Satu Mare nr. 200/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 200/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-20028082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/200/hcl-200.doc",
+     "sha256": "ba1349347e0e5185a24309a2a12f7e27c68436707671ce8e76219b1a27219085"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-201-2026",
+   "path": "local/satu-mare/satu-mare/2026/201",
+   "short": "HCL Satu Mare nr. 201/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 201/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-20128082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/201/hcl-201.doc",
+     "sha256": "3f04f5af048fa4cf007ef3274d2ae18d4272da85fa1e93f7e44192000048df50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-202-2026",
+   "path": "local/satu-mare/satu-mare/2026/202",
+   "short": "HCL Satu Mare nr. 202/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 202/2026 privind aprobarea încheierii de către Transurban SA Satu Mare a unui contract de asistență juridică Consiliul Local al Municipiului Satu Mare, Având în vedere adresa Transurban S.A",
+   "url": "https://www.primariasm.ro/hotararea-nr-20228082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/202/hcl-202.docx",
+     "sha256": "2a84a8ac2eae385fafeb5564c193ba81658a9d62a27b2fe0a8a1a0e7d8577741"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-203-2026",
+   "path": "local/satu-mare/satu-mare/2026/203",
+   "short": "HCL Satu Mare nr. 203/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 203/2026 privind aprobarea localizării și specificului Piețelor aflate în administrarea Serviciului Public Administrația Domeniului Public Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 47.574 din 17.08.2026, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat sub nr. 47.575 din 17.08.2026, în calitate de inițiator, raportul de s",
+   "url": "https://www.primariasm.ro/hotararea-nr-20328082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/203/hcl-203.docx",
+     "sha256": "73ba8da78ac5d2a0d2ce3dcf74608e9d3f9818b89a7fc9e1f92c6bca8a3ac0cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-204-2026",
+   "path": "local/satu-mare/satu-mare/2026/204",
+   "short": "HCL Satu Mare nr. 204/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 204/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-20428082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/204/hcl-204.doc",
+     "sha256": "d5409fe6c60d1eafd91adbf72d34ec957f52fc2c5b01c7be91169344ddd1bb0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-205-2026",
+   "path": "local/satu-mare/satu-mare/2026/205",
+   "short": "HCL Satu Mare nr. 205/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 205/2026",
+   "url": "https://primariasm.ro/hotararea-nr-20528082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2026/205/hcl-205.doc",
+     "sha256": "b5f8df5161d252368d6609e672e7ca9ece9f77bd8692257b8cb7e0aa9d922bdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-206-2026",
+   "path": "local/satu-mare/satu-mare/2026/206",
+   "short": "HCL Satu Mare nr. 206/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 206/2026 privind îndreptarea erorii materiale strecurate în Anexa nr. 2 la Hotărârea Consiliului Local Satu Mare nr. 30/16.02.2026 Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre nr. 48229/20.08.2026, referatul de aprobare al inițiatorului, înregistrat sub nr. 48230/20.08.2026, raportul de specialitate comun al Direcției Economice și al Serviciului Investiții, Gospodărire-Întreți",
+   "url": "https://www.primariasm.ro/hotararea-nr-20628082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/206/hcl-206.docx",
+     "sha256": "e625127bb6f6e183ea9f2702c6488512835c2b67fd0c802f4daf47bc1f52a04d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-207-2026",
+   "path": "local/satu-mare/satu-mare/2026/207",
+   "short": "HCL Satu Mare nr. 207/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 207/2026 privind aprobarea devizului general final aferent obiectivului de investiții ”Modernizare străzi în municipiul Satu Mare Lot 2” Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre nr. 48316/20.08.2026, referatul de aprobare al inițiatorului, înregistrat sub nr. 48318/20.08.2026, raportul de specialitate comun al directorului executiv al Direcției Economice și al Serviciului",
+   "url": "https://www.primariasm.ro/hotararea-nr-20728082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/207/hcl-207.docx",
+     "sha256": "29070daa4aef7a641a2a1cef94124a29c0f84cca90d4a2357bacb6ef29f0915e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-208-2026",
+   "path": "local/satu-mare/satu-mare/2026/208",
+   "short": "HCL Satu Mare nr. 208/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 208/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-20828082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/208/hcl-208.doc",
+     "sha256": "015f51b524457d3a79d50a2fe9179694a624d42317a56ebbdd06a39de0214b90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-209-2026",
+   "path": "local/satu-mare/satu-mare/2026/209",
+   "short": "HCL Satu Mare nr. 209/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 209/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-20928082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/209/hcl-209.doc",
+     "sha256": "4008b6366f8e446f4062a23a84f2aed995a41a37cd366e7290a425b572edb85f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-210-2026",
+   "path": "local/satu-mare/satu-mare/2026/210",
+   "short": "HCL Satu Mare nr. 210/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 210/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-21028082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/210/hcl-210.doc",
+     "sha256": "d56b2d13008dadaa6b0db7a43c8f79545b8062ebc1a4355de67c70f61751c10b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-211-2026",
+   "path": "local/satu-mare/satu-mare/2026/211",
+   "short": "HCL Satu Mare nr. 211/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 211/2026 privind darea în administrare către Creșa Satu Mare a imobilului situat în Satu Mare str",
+   "url": "https://www.primariasm.ro/hotararea-nr-21128082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/211/hcl-211.docx",
+     "sha256": "2ba106ae07d919e6ac9e8da3c8a4a258641c406478582ed85262472882d798ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-212-2026",
+   "path": "local/satu-mare/satu-mare/2026/212",
+   "short": "HCL Satu Mare nr. 212/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 212/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-21228082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/212/hcl-212.doc",
+     "sha256": "b6e1746ce77ee93335a5fe2b531b62dd690181af5d31fa2782daa93c864c80f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-213-2026",
+   "path": "local/satu-mare/satu-mare/2026/213",
+   "short": "HCL Satu Mare nr. 213/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 213/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-21328082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/213/hcl-213.doc",
+     "sha256": "fea4afaa58a49f2376f21c66aff7e301a051403a153a862f5a44dd562f3c4984"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-214-2026",
+   "path": "local/satu-mare/satu-mare/2026/214",
+   "short": "HCL Satu Mare nr. 214/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 214/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-21428082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/214/hcl-214.doc",
+     "sha256": "43c9a5e90547fc23c570f7b8147fe94f417ba5966ba65edb4fe131b5b58a10fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-215-2026",
+   "path": "local/satu-mare/satu-mare/2026/215",
+   "short": "HCL Satu Mare nr. 215/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 215/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-21528082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/215/hcl-215.doc",
+     "sha256": "8376746676de6153df6c03d6d145efad54dfc738c809a2e156b3ca5624709830"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-216-2026",
+   "path": "local/satu-mare/satu-mare/2026/216",
+   "short": "HCL Satu Mare nr. 216/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 216/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-21628082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/216/hcl-216.doc",
+     "sha256": "ad43284241a131b5a59bc4b1d77cda4fdc5bd7f260b42a8aa977c350801e94ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-217-2026",
+   "path": "local/satu-mare/satu-mare/2026/217",
+   "short": "HCL Satu Mare nr. 217/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 217/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-21728082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/217/hcl-217.doc",
+     "sha256": "f433ddc21630dae2e77d436730b005508eb914c9ea1b8f008cd834c936980e24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-218-2026",
+   "path": "local/satu-mare/satu-mare/2026/218",
+   "short": "HCL Satu Mare nr. 218/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 218/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-21828082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/218/hcl-218.doc",
+     "sha256": "0210ee7d6238aa5c56415be62cd14631e007108cf6b4065011e49c583d729184"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-219-2026",
+   "path": "local/satu-mare/satu-mare/2026/219",
+   "short": "HCL Satu Mare nr. 219/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 219/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-21928082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/219/hcl-219.doc",
+     "sha256": "f4eeb3382d143c07766c849fc0bf677ef33af8b2256461942d865ce41d237f8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-220-2026",
+   "path": "local/satu-mare/satu-mare/2026/220",
+   "short": "HCL Satu Mare nr. 220/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 220/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-22028082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/220/hcl-220.doc",
+     "sha256": "d43b116dd9e1492173a6f0f1c3a09d26e09cbc162978cf0b413ce38ea418de17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-221-2026",
+   "path": "local/satu-mare/satu-mare/2026/221",
+   "short": "HCL Satu Mare nr. 221/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 221/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-22128082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/221/hcl-221.doc",
+     "sha256": "82db57c43e6708256fa9d4448a06709ea67075f90f9c9d252b1119e52064a665"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-222-2026",
+   "path": "local/satu-mare/satu-mare/2026/222",
+   "short": "HCL Satu Mare nr. 222/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 222/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-22228082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/222/hcl-222.doc",
+     "sha256": "ef74d0149625f52d4297d00cf8011bbf7ff88064ab734b539e4c88c3bf18e9d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-223-2026",
+   "path": "local/satu-mare/satu-mare/2026/223",
+   "short": "HCL Satu Mare nr. 223/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 223/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-22328082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/223/hcl-223.doc",
+     "sha256": "e66e1cd206d4d9385495b9fcf83b143f98d10f86c4e7216b3511efd0c937c097"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-224-2026",
+   "path": "local/satu-mare/satu-mare/2026/224",
+   "short": "HCL Satu Mare nr. 224/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 224/2026 pentru modificarea și completarea listei bunurilor din domeniul public al municipiului Satu Mare, aferente sistemului public de alimentare cu apă și canalizare, puse la dispoziția Apaserv Satu Mare S.A, prin contractul de delegare nr. 12313/19.11.2009 Consiliul local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 47717/18.08.2026 referatul de aprobare al Primarului",
+   "url": "https://www.primariasm.ro/hotararea-nr-22428082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/224/hcl-224.docx",
+     "sha256": "cca51e1ac999902cfaa472e9956f367385e7cb7ac405122fbce167846cd9b846"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-225-2026",
+   "path": "local/satu-mare/satu-mare/2026/225",
+   "short": "HCL Satu Mare nr. 225/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 225/2026 privind însușirea documentației cadastrale de primă înregistrare a unui imobil teren cu destinația de drum Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 47565/17.08.2026, referatul de aprobare al inițiatorului, înregistrat sub nr. 47566/17.08.2026, raportul de specialitate al Direcției Patrimoniu - Serviciul Patrimoniu Concesionări Închirieri înregi",
+   "url": "https://www.primariasm.ro/hotararea-nr-22528082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/225/hcl-225.docx",
+     "sha256": "ad8d0dfa9e8c0f4d5032fbf906f8524b7c8a538ccb1c823bd4bf94c06c3c0ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-226-2026",
+   "path": "local/satu-mare/satu-mare/2026/226",
+   "short": "HCL Satu Mare nr. 226/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 226/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-22628082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/226/hcl-226.docx",
+     "sha256": "80b06d7adfd56a01dbc94c025c03dc05eae95a793ab126e80452939194c9bf04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-227-2026",
+   "path": "local/satu-mare/satu-mare/2026/227",
+   "short": "HCL Satu Mare nr. 227/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 227/2026 privind însușirea documentației tehnice de actualizare a datelor cadastrale pentru imobilul teren identificat prin CF nr. 180103 Satu Mare, situat în Municipiul Satu Mare, Str",
+   "url": "https://www.primariasm.ro/hotararea-nr-22728082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/227/hcl-227.docx",
+     "sha256": "9a5c2f0e548abeaab1b950e70c655bcfc123be2a6fcd7b1911bd3905f1f298a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-228-2026",
+   "path": "local/satu-mare/satu-mare/2026/228",
+   "short": "HCL Satu Mare nr. 228/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 228/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-22828082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/228/hcl-228.doc",
+     "sha256": "07551d3ad55c00a7ee6a63e69f93ae288307ebea73067ce0cd7255f422b1e163"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-229-2026",
+   "path": "local/satu-mare/satu-mare/2026/229",
+   "short": "HCL Satu Mare nr. 229/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 229/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-22928082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/229/hcl-229.doc",
+     "sha256": "a3695f3687ebd650e2499e79a4d43fe26fbaf921731edbf813a0e6923216a23b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-230-2026",
+   "path": "local/satu-mare/satu-mare/2026/230",
+   "short": "HCL Satu Mare nr. 230/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 230/2026 privind aprobarea vânzării unui imobil - teren situat în Municipiul Satu Mare, str",
+   "url": "https://www.primariasm.ro/hotararea-nr-23028082026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/230/hcl-230.docx",
+     "sha256": "8fd9a7abe8ab304da5c80485f536fd7bca09a548e916d07b9412e340be7dd675"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-231-2026",
+   "path": "local/satu-mare/satu-mare/2026/231",
+   "short": "HCL Satu Mare nr. 231/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 231/2026 privind modificarea Anexei nr. 2 la Hotărârea Consiliului Local Satu Mare nr. 148/15.05.2024 Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 52150/10.09.2026, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat sub nr. 52152/10.09.2026 în calitate de inițiator, de raportul de specialitate al Serviciului managementul proiectelor, al",
+   "url": "https://www.primariasm.ro/hotararea-nr-23111092026",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/231/hcl-231.docx",
+     "sha256": "a0ed46b93e5d096b61ce20ffd7c4b347eec85dbe4d6aa4e57bc0783cb6481b3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-232-2026",
+   "path": "local/satu-mare/satu-mare/2026/232",
+   "short": "HCL Satu Mare nr. 232/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 232/2026",
+   "url": "https://primariasm.ro/hotararea-nr-23211092026",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2026/232/hcl-232.doc",
+     "sha256": "5b1096f48403330e1e47571dc16d47f44a36f734ab6f0c23f5077a6576fd71e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-233-2026",
+   "path": "local/satu-mare/satu-mare/2026/233",
+   "short": "HCL Satu Mare nr. 233/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 233/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-23324092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/233/hcl-233.doc",
+     "sha256": "b3f9a4bc16f05300f5199e77669c3c2493235af825bb0e1773d0dd6cdf4faaf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-234-2026",
+   "path": "local/satu-mare/satu-mare/2026/234",
+   "short": "HCL Satu Mare nr. 234/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 234/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-23424092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/234/92-hcl-234.xlsx",
+     "sha256": "298702ace6e41519655c176af1cf882b96dbb199213cb9aecbe68bb0a7d58445"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-235-2026",
+   "path": "local/satu-mare/satu-mare/2026/235",
+   "short": "HCL Satu Mare nr. 235/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 235/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-23524092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/235/hcl-235.doc",
+     "sha256": "152fdba2bbaccd010722416ca04b2b258c45270600783e22495828195a24ab89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-236-2026",
+   "path": "local/satu-mare/satu-mare/2026/236",
+   "short": "HCL Satu Mare nr. 236/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 236/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-23624092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/236/hcl-236.doc",
+     "sha256": "8da90a60a9a178bfc457cce13c6da8546e46fcf97c7b42d8af21fa3ec5ee645d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-237-2026",
+   "path": "local/satu-mare/satu-mare/2026/237",
+   "short": "HCL Satu Mare nr. 237/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 237/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-23724092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/237/hcl-237.doc",
+     "sha256": "963c66643e42c82ee3fb68fcb1c65fbeab1c9afbe98283977ab961fb9238da5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-238-2026",
+   "path": "local/satu-mare/satu-mare/2026/238",
+   "short": "HCL Satu Mare nr. 238/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 238/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-23824092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/238/hcl-238.doc",
+     "sha256": "0b7ec1a3c5a824bb3da5e5a2f9a235988367cb03d57af63422a82c4317d93bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-239-2026",
+   "path": "local/satu-mare/satu-mare/2026/239",
+   "short": "HCL Satu Mare nr. 239/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 239/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-23924092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/239/hcl-239.doc",
+     "sha256": "468c886f93d0ef81bc5dc46e1f4ab1c55c11f375ceadac3bba2a9cef468897fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-240-2026",
+   "path": "local/satu-mare/satu-mare/2026/240",
+   "short": "HCL Satu Mare nr. 240/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 240/2026 privind aprobarea proiectului „Noi capacități de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate pentru autoconsum pentru unități școlare” Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 54954/23.09.2026, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat sub nr",
+   "url": "https://www.primariasm.ro/hotararea-nr-24024092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/240/hcl-240.docx",
+     "sha256": "7d3d321764ccd31d7bfec4a3e0b0380e86b1454a6ac2263cb1193bc1f359bcc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-241-2026",
+   "path": "local/satu-mare/satu-mare/2026/241",
+   "short": "HCL Satu Mare nr. 241/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 241/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-24124092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/241/hcl-241.doc",
+     "sha256": "4333b64c7d22e184ed67e527ff886dbe2fa0e6811f98bf95b9189d83952e9407"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-242-2026",
+   "path": "local/satu-mare/satu-mare/2026/242",
+   "short": "HCL Satu Mare nr. 242/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 242/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-24224092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/242/hcl-242.doc",
+     "sha256": "70d95871976d0cd665a4abe16c5dfa5cfabda67219b29e288a9b60b9cf73fe56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-243-2026",
+   "path": "local/satu-mare/satu-mare/2026/243",
+   "short": "HCL Satu Mare nr. 243/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 243/2026 privind aprobarea înființării \"Muzeului industrializării forțate și al dezrădăcinării - Satu Mare\", în cadrul aparatului de specialitate al Primarului Municipiului Satu Mare Consiliul Local al municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 43806/23.07.2026, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat cu nr. 43807/23.07.2026, în calitate de i",
+   "url": "https://www.primariasm.ro/hotararea-nr-24324092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/243/hcl-243.docx",
+     "sha256": "e4eb1bbb9fc04f14cdff1685fdfbf7e01bc4776bab9d5ae189c84c4ee7ba2347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-244-2026",
+   "path": "local/satu-mare/satu-mare/2026/244",
+   "short": "HCL Satu Mare nr. 244/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 244/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-24424092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/244/hcl-244.doc",
+     "sha256": "86a51dbf6c21bac5225895e424039c88bf454e408ea6b6b0f2de2bd73757e9fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-245-2026",
+   "path": "local/satu-mare/satu-mare/2026/245",
+   "short": "HCL Satu Mare nr. 245/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 245/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-24524092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/245/hcl-245.doc",
+     "sha256": "396e9c75601b0c8b589a34db59116e92966107c474e1f3672c99b4137a8b3b0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-246-2026",
+   "path": "local/satu-mare/satu-mare/2026/246",
+   "short": "HCL Satu Mare nr. 246/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 246/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-24624092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/246/hcl-246.doc",
+     "sha256": "24d86dc7934ab997fd90c9c5f9c33126c90b663efc6a839db53606e7c6390251"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-247-2026",
+   "path": "local/satu-mare/satu-mare/2026/247",
+   "short": "HCL Satu Mare nr. 247/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 247/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-24724092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/247/hcl-247.doc",
+     "sha256": "08d09a986a84ada47ae4488ce3133382d2bfb84851ece6bf4664e930ac7536a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-248-2026",
+   "path": "local/satu-mare/satu-mare/2026/248",
+   "short": "HCL Satu Mare nr. 248/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 248/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-24824092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/248/hcl-248.docx",
+     "sha256": "26c8abe3aa1e3b3f71a75f03d679aecab258ac7cc593015e1d313dac34eda0c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-249-2026",
+   "path": "local/satu-mare/satu-mare/2026/249",
+   "short": "HCL Satu Mare nr. 249/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 249/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-24924092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/249/hcl-249.doc",
+     "sha256": "1be809abc7ce52e1bac2423f0e02d153bca42d190775f2a76c9c9fdb748e3e04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-250-2026",
+   "path": "local/satu-mare/satu-mare/2026/250",
+   "short": "HCL Satu Mare nr. 250/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 250/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-25024092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/250/hcl-250.doc",
+     "sha256": "998833ee0481773e82a838eefec21502844831d8a4f7ff366d3e6ce62c328110"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-251-2026",
+   "path": "local/satu-mare/satu-mare/2026/251",
+   "short": "HCL Satu Mare nr. 251/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 251/2026 privind acordarea cu titlu gratuit a dreptului de uz către Atlantis R.PW SRL, asupra unor suprafețe de teren situate în municipiul Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând adresa înaintată de către Atlantis R.PW SRL înregistrată la Primăria municipiului Satu Mare sub nr. 51270/04.09.2026, proiectul de hotărâre înregistrat sub nr. 53431/16.09.2026, referatul de aprobare al ini",
+   "url": "https://www.primariasm.ro/hotararea-nr-25124092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/251/hcl-251.docx",
+     "sha256": "0cc2a4881455a2aa06c755180299e950e969dcad2b227f5145989f624ac272cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-252-2026",
+   "path": "local/satu-mare/satu-mare/2026/252",
+   "short": "HCL Satu Mare nr. 252/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 252/2026 privind acordul Municipiului Satu Mare, solicitat prin Certificatul de Urbanism nr. 84/06.02.2026 Consiliul Local al Municipiului Satu Mare, Analizând adresa înaintată de societatea FFNEV ROU SPV EPSILON SRL, înregistrată la Primăria municipiului Satu Mare sub nr. 52322/10.09.2026, proiectul de hotărâre, înregistrat sub nr. 53683/17.09.2026, referatul de aprobare al inițiatorului, înregistrat sub",
+   "url": "https://www.primariasm.ro/hotararea-nr-25224092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/252/hcl-252.docx",
+     "sha256": "898fd0630c7fc0a631e17964a6117f3aa0cab9f0b106f38d1ce3998434c3e93f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-253-2026",
+   "path": "local/satu-mare/satu-mare/2026/253",
+   "short": "HCL Satu Mare nr. 253/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 253/2026 privind însușirea documentației cadastrale de primă înregistrare a unui imobil teren cu destinația de drum Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 52613/14.09.2026, referatul de aprobare al inițiatorului, înregistrat sub nr. 52615/14.09.2026, raportul de specialitate al Direcției Patrimoniu - Serviciul Patrimoniu, Concesionări, Închirieri, înr",
+   "url": "https://www.primariasm.ro/hotararea-nr-25324092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/253/hcl-253.docx",
+     "sha256": "7d892f5fb0d3d50815721ea114eaef10e1e069d3ce788e44db92e49284c2f385"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-254-2026",
+   "path": "local/satu-mare/satu-mare/2026/254",
+   "short": "HCL Satu Mare nr. 254/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 254/2026 privind însușirea documentației tehnice de actualizare a datelor cadastrale pentru imobilul teren identificat prin CF nr. 189351 Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 53847/17.09.2026, referatul de aprobare al inițiatorului, înregistrat sub nr. 53850/17.09.2026, raportul de specialitate al Direcției Patrimoniu - Serviciul Patrimoni",
+   "url": "https://www.primariasm.ro/hotararea-nr-25424092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/254/hcl-254.docx",
+     "sha256": "d94d2872957b3bf3cb6d7318784f8754bd8c4ec4682001434556267a21291b9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-255-2026",
+   "path": "local/satu-mare/satu-mare/2026/255",
+   "short": "HCL Satu Mare nr. 255/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 255/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-25524092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/255/hcl-255.doc",
+     "sha256": "f8e1c0097d0731375c67d73e616d43134fafb8b080a4440554faa56cb1eed238"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-256-2026",
+   "path": "local/satu-mare/satu-mare/2026/256",
+   "short": "HCL Satu Mare nr. 256/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 256/2026 privind darea în administrare a cotei de ½ parte din imobilul identificat prin CF nr. 171503 Satu Mare către Direcția de Asistență Socială Satu Mare Consiliul Local al Municipiului Satu Mare, Urmare a solicitării Direcției de Asistență Socială Satu Mare nr.15829/21.09.2026, înregistrată la Primăria Municipiului Satu Mare sub nr.54222/21.09.2026, Analizând proiectul de hotărâre înregistrat sub nr",
+   "url": "https://www.primariasm.ro/hotararea-nr-25624092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/256/hcl-256.docx",
+     "sha256": "8f0ef9b9c228cff5465fa067890eeaddbbdb57a07f9725ad6f8d2dd6aba26859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-257-2026",
+   "path": "local/satu-mare/satu-mare/2026/257",
+   "short": "HCL Satu Mare nr. 257/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 257/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-25724092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/257/hcl-257.doc",
+     "sha256": "b295a18452b636184bd6cd0131051d07ef4f642a56d6d314934049c6de0031f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-258-2026",
+   "path": "local/satu-mare/satu-mare/2026/258",
+   "short": "HCL Satu Mare nr. 258/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 258/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-25824092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/258/hcl-258.doc",
+     "sha256": "d794edb49ecc9108d450e5468837265963ca12f96e9314b398b02e85cc9d6ffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-259-2026",
+   "path": "local/satu-mare/satu-mare/2026/259",
+   "short": "HCL Satu Mare nr. 259/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 259/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-25924092026",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/259/hcl-259.doc",
+     "sha256": "5a0800cc7fae5dc3eed7e934d6446aebb713d151d4655cbc257e5864e65ed8b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-72-2026",
+   "path": "local/satu-mare/satu-mare/2026/72",
+   "short": "HCL Satu Mare nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 72/2026 privind însușirea documentației cadastrale de primă înregistrare a unui teren în suprafață de 743 mp",
+   "url": "https://primariasm.ro/hotararea-nr-7226032026",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2026/72/hcl-72.docx",
+     "sha256": "8b793e013415c63faad9bb6b006457d32b800e623df21c3d4b00be053ebff9cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-76-2026",
+   "path": "local/satu-mare/satu-mare/2026/76",
+   "short": "HCL Satu Mare nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 76/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-7608042026",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/76/hcl-76.doc",
+     "sha256": "4eac9dc01c9c8def29f1af0e76ddec252d689750ccd2e6f0978e48ea00b0b125"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-77-2026",
+   "path": "local/satu-mare/satu-mare/2026/77",
+   "short": "HCL Satu Mare nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 77/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-7708042026",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/77/hcl-77.doc",
+     "sha256": "92cb9db9315d502fbc9c1a30e0ff0f52caaa14774ff7aa210b0060e9edab9d65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-88-2026",
+   "path": "local/satu-mare/satu-mare/2026/88",
+   "short": "HCL Satu Mare nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 88/2026 privind aprobarea proiectului „Reconversia și refuncționalizarea terenurilor degradate și neutilizate de pe malurile Someșului - Mal drept” și a cheltuielilor legate de proiect Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 24214/15.04.2026, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat sub 24220/15.04.2026 în calitate de in",
+   "url": "https://www.primariasm.ro/hotararea-nr-8822042026",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/88/hcl-88.docx",
+     "sha256": "c2ecd8985cce5748eb8b57355bfa2b9ca0525783ccd7e7205cadcb3201fcaeee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-93-2026",
+   "path": "local/satu-mare/satu-mare/2026/93",
+   "short": "HCL Satu Mare nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 93/2026",
+   "url": "https://www.primariasm.ro/hotararea-nr-9322042026",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2026/93/hcl-93.doc",
+     "sha256": "2d26413a04ca44bee56df9692f60684ec5db36bb6cf988e835d09004b1707b3e"
+    }
+   ]
+  }
+ ]
+}

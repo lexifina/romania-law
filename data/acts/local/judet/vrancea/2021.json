@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/judet/vrancea/2021",
+"acts": [
+{
+"slug": "hcj-vrancea-2-2021",
+"path": "local/judet/vrancea/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 2/2021",
+"short": "HCJ Vrancea nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-14",
+"latest": "2021-01-14",
+"portal": "https://cjvrancea.ro/hotarari/page/13/?an=2021",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

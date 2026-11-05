@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/olt/caracal/2016",
+"acts": [
+{
+"slug": "hcl-olt--caracal-18-2016",
+"path": "local/olt/caracal/2016/18",
+"kind": "local",
+"year": "2016",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 18/2016 pentru obiectivul de investiÅ£ii âModernizare Åi reabilitare strÄzi Ã®n municipiul Caracal, judeÅ£ul Olt”",
+"short": "HCL Caracal nr. 18/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-02-26",
+"latest": "2016-02-26",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-28-2016",
+"path": "local/olt/caracal/2016/28",
+"kind": "local",
+"year": "2016",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 28/2016",
+"short": "HCL Caracal nr. 28/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-08-31",
+"latest": "2016-08-31",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

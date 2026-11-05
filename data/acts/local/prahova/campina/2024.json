@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/campina/2024",
+"acts": [
+{
+"slug": "hcl-prahova--campina-158-2024",
+"path": "local/prahova/campina/2024/158",
+"kind": "local",
+"year": "2024",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 158/2024",
+"short": "HCL Câmpina nr. 158/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
