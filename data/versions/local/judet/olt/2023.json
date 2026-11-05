@@ -3,6 +3,141 @@
  "shard": "local/judet/olt/2023",
  "acts": [
   {
+   "slug": "hcj-olt-100-2023",
+   "path": "local/judet/olt/2023/100",
+   "short": "HCJ Olt nr. 100/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 100/2023 cu privire la transformarea unor posturi în statul de funcții al Direcţiei Judeţene de Evidenţă a Persoanelor Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18080.pdf",
+     "sha256": "511f18206928ad6c5e3f90917d6a7cf2186392f2995a8c688eee80a7cab7ae14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-102-2023",
+   "path": "local/judet/olt/2023/102",
+   "short": "HCJ Olt nr. 102/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 102/2023 cu privire la înlocuirea reprezentantului Consiliului Județean Olt in cadrul Consiliului de Administrație al Bibliotecii Județene Olt „Ion Minulescu” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18082.pdf",
+     "sha256": "37718314fa575602843a5fbfb1e3ce9244df55df1337460cb60756b5983d4660"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-104-2023",
+   "path": "local/judet/olt/2023/104",
+   "short": "HCJ Olt nr. 104/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 104/2023 cu privire la încheierea Actului adițional nr.1 la Acordul de parteneriat nr.13158/38158/24.11.2022 încheiat între Județul Olt și Spitalul Județean de Urgență Slatina în vederea depunerii, respectiv implementării proiectului „Reabilitarea, modernizarea și dotarea ambulatoriului din cadrul Spitalului Județean de Urgență Slatina” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18084.pdf",
+     "sha256": "06c898722130caad5e0761177c89164b36aae4767fa5df3e14488071e9f9febb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-105-2023",
+   "path": "local/judet/olt/2023/105",
+   "short": "HCJ Olt nr. 105/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 105/2023 pentru modificarea Regulamentului de Organizare și Funcționare al Comisiei de Evaluare a Persoanelor Adulte cu Handicap Olt, aprobat prin Hotărârea Consiliului Județean Olt nr.109/29.07.2013",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18085.pdf",
+     "sha256": "07a28a24d84bd80ce361e25163a0bc497751b53ad622cd3cfbe04e61f4f9381e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-107-2023",
+   "path": "local/judet/olt/2023/107",
+   "short": "HCJ Olt nr. 107/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 107/2023 cu privire la organizarea și desfășurarea evaluării finale pentru perioada 14.10.2019-14.10.2023 a managementului pentru Biblioteca Județeană Olt „Ion Minulescu” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18087.pdf",
+     "sha256": "7b31c16fc0abc211513bb9ffba2c5e4363c3adbc3ae33f1c9229d37d81e69b5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-110-2023",
+   "path": "local/judet/olt/2023/110",
+   "short": "HCJ Olt nr. 110/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 110/2023 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Slătioara, a unor părți din zona drumului județean DJ 677 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18090.pdf",
+     "sha256": "e234670cb1cc47538246c49919171717c74b0646baaa003dbaf1977a50b66c65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-111-2023",
+   "path": "local/judet/olt/2023/111",
+   "short": "HCJ Olt nr. 111/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 111/2023 pentru modificarea și completarea Hotărârii Consiliului Județean Olt nr. 198/29.12.2022 privind reglementarea unor măsuri în domeniul transportului public județean de persoane prin curse regulate, în județul Olt",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18091.pdf",
+     "sha256": "521b28d7358cae0c2233a534bcd0ee7fdbb29e3546ae86cb9a6d7b6a55bb329c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-112-2023",
+   "path": "local/judet/olt/2023/112",
+   "short": "HCJ Olt nr. 112/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 112/2023",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18092.pdf",
+     "sha256": "e74ce656f3b7b84364eaa917ddbc66d227e2b84edebd4c30c907c5f9b963c74a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-113-2023",
+   "path": "local/judet/olt/2023/113",
+   "short": "HCJ Olt nr. 113/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 113/2023 cu privire la: modificarea prețului mediu la grâu pentru anul 2023, stabilit prin Hotărârea Consiliului Județean Olt nr.183/22.12.2022",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18115.pdf",
+     "sha256": "87a18c04c8c238bd0aa96c9c481533ef8f137e673f44a1f02e97408078d4c4b9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-114-2023",
    "path": "local/judet/olt/2023/114",
    "short": "HCJ Olt nr. 114/2023",
@@ -14,6 +149,201 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18116.pdf",
      "sha256": "9005f26c72424fbbe6f61569a71a63cd8852e21deb94b36c189153c201f479ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-115-2023",
+   "path": "local/judet/olt/2023/115",
+   "short": "HCJ Olt nr. 115/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 115/2023 pentru Studii Economico-Sociale, Buget- Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr. 8316/07.07.2023 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Avizul nr. 8310/07.07.2023 al Comisiei pentru Organizarea și Dezvoltarea Urbanistică, Realizarea Lucrărilor Publice, Ecolo",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18117.pdf",
+     "sha256": "51c6cf8b2168f26014a6e33d565a17c5bba6a957e3314f6a33b33b6bdfece5a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-116-2023",
+   "path": "local/judet/olt/2023/116",
+   "short": "HCJ Olt nr. 116/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 116/2023 pentru dotarea cu echipamente a Centrului de Îngrijire și Asistență Fălcoiu, în vederea finanțării din bugetul de stat, prin bugetul Ministerului Muncii și Solidarității Sociale Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18118.pdf",
+     "sha256": "97297c128484391402c2e175d670998c7649f7eebb9499190f1ac9c31b81a1d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-119-2023",
+   "path": "local/judet/olt/2023/119",
+   "short": "HCJ Olt nr. 119/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 119/2023 cu privire la aprobarea rezultatului final la evaluarea finală a managementului Bibliotecii Județene Olt „Ion Minulescu”, pentru perioada 14.10.2019 – 14.10.2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18181.pdf",
+     "sha256": "d5b916342284e66d6c7e39cf232ea4c6b7b0086974b4b48e29e8078ced7ef4d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-120-2023",
+   "path": "local/judet/olt/2023/120",
+   "short": "HCJ Olt nr. 120/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 120/2023 pentru modificarea și completarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18182.pdf",
+     "sha256": "4b9e1d2c6fc9c2f325f00f5a40e9a5e5f2903e7b571e5da14597e392ac0db302"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-121-2023",
+   "path": "local/judet/olt/2023/121",
+   "short": "HCJ Olt nr. 121/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 121/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18183.pdf",
+     "sha256": "34fb631ccd1d87147c2ebeb42488851e9dfd8f1046d1dc980fb742ad2b1dddf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-122-2023",
+   "path": "local/judet/olt/2023/122",
+   "short": "HCJ Olt nr. 122/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 122/2023 cu privire la aprobarea încheierii protocoalelor de colaborare între Ministerul Muncii și Solidarității Sociale și",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18184.pdf",
+     "sha256": "6c980a59739494ab6fb8472c9ab3917526326a7445648f91c45fec57294bce2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-123-2023",
+   "path": "local/judet/olt/2023/123",
+   "short": "HCJ Olt nr. 123/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 123/2023 pentru studii economico-sociale, buget-finanțe, integrare europeană, administrarea domeniului public și privat; ➢ Avizul nr. 9005/26.07.2023 al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor omului și relații cu cetățenii; ➢ Avizul nr. 9008/26.07.2023 al Comisiei pentru organizarea și dezvoltarea urbanistică, realizarea lucrărilor publice",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18185.pdf",
+     "sha256": "85b2205149d6af0b9f284e00dcd70931243ee4808841674c95b02c6a457f86f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-124-2023",
+   "path": "local/judet/olt/2023/124",
+   "short": "HCJ Olt nr. 124/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 124/2023 pentru modificarea Hotărârii Consiliului Județean Olt nr. 3/28.01.2022 cu privire la aprobarea documentației tehnico-economice pentru obiectivul de investiții: ”Construire stație de preepurare cu tratarea apelor reziduale rezultate din activitatea Secției de Boli Infecțioase” din cadrul Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18186.pdf",
+     "sha256": "95916c9aec2d6f92912ab9f83d54770db9eab3c92d7126762067aa5940673bb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-127-2023",
+   "path": "local/judet/olt/2023/127",
+   "short": "HCJ Olt nr. 127/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 127/2023 cu privire la alocarea unei sume din Fondul de Rezervă bugetară la dispoziția Consiliului Județean Olt, prevăzut în bugetul Județului Olt pe anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18189.pdf",
+     "sha256": "124f05b0397938039a1b105aaea19a23a2eb88f43c060fcef081aa27e08f9768"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-128-2023",
+   "path": "local/judet/olt/2023/128",
+   "short": "HCJ Olt nr. 128/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 128/2023 cu privire la aprobarea proiectului „Digitalizarea activității Spitalului Județean de Urgență Slatina” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18190.pdf",
+     "sha256": "0f0ef3fe50227952f8b61b076fa4ec27522c392050ef9acbde2857cffeb5c0fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-129-2023",
+   "path": "local/judet/olt/2023/129",
+   "short": "HCJ Olt nr. 129/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 129/2023 cu privire la: aprobare propuneri nominale privind componența actualizată a Comisiei Județene Olt de aplicare a Legii nr. 112/1995 pentru reglementarea situației juridice a unor imobile cu destinația de locuințe trecute în proprietatea statului",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18191.pdf",
+     "sha256": "cafd8a9235025f95bb5c5c144a4b1582a11ff2b231f8ff3ec8ef5711cf91e3ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-13-2023",
+   "path": "local/judet/olt/2023/13",
+   "short": "HCJ Olt nr. 13/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 13/2023 privind aprobarea documentaţiei de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiţii “Modernizare drum județean DJ 643, KM 0+000-KM 25+240, Bobu-Voineasa-Balș, Județul Olt” aprobat pentru finanțare prin Programul național de investiții ,,Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli f",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16908.pdf",
+     "sha256": "5123d1b8c1d0896a65bc319f5e7968a9dbf1b0fa13aced5900ce36b6f78abae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-130-2023",
+   "path": "local/judet/olt/2023/130",
+   "short": "HCJ Olt nr. 130/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 130/2023 pentru modificarea și completarea organigramei și a statului de funcții ale aparatului de specialitate al Consiliului Județean Olt, precum și ale Cabinetelor Președintelui și Vicepreședinților Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18279.pdf",
+     "sha256": "f7551cba69f44dba2e6ff9775dd07fb00211ee387997bd05aff0e987e2dd18d4"
     }
    ]
   },
@@ -33,6 +363,96 @@
    ]
   },
   {
+   "slug": "hcj-olt-132-2023",
+   "path": "local/judet/olt/2023/132",
+   "short": "HCJ Olt nr. 132/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 132/2023 cu privire la transformarea unor posturi în statul de funcții al Spitalului de Psihiatrie Cronici Schitu Greci, ca urmare a promovării în grade/trepte profesionale imediat superioare celor deținute Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18312.pdf",
+     "sha256": "a44efe77f6c85ac79ac7cf7e92e3a1b12c73e29124cf92434753d308095663c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-136-2023",
+   "path": "local/judet/olt/2023/136",
+   "short": "HCJ Olt nr. 136/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 136/2023 pentru modificarea Anexei la Hotărârea Consiliului Județean Olt nr.9/26.01.2023 cu privire la aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitare termică pentru creșterea eficienței energetice la clădirea sediului Direcției Generale de Asistență Socială si Protecția Copilului Olt” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18316.pdf",
+     "sha256": "e14a0938f1a4b247c42d831cb16c9d45ee60a3ba0d0fb1992c1fa4678c3e7650"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-137-2023",
+   "path": "local/judet/olt/2023/137",
+   "short": "HCJ Olt nr. 137/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 137/2023 pentru modificarea Anexei la Hotărârea Consiliului Județean Olt nr.10/26.01.2023 cu privire la aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitare termică pentru creșterea eficienței energetice la clădirea sediului Centrului Militar Județean Olt” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18317.pdf",
+     "sha256": "b0e404693f8d04973d3daca29682c8bd873f7d9a2df62d572da9224cc49724b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-138-2023",
+   "path": "local/judet/olt/2023/138",
+   "short": "HCJ Olt nr. 138/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 138/2023 pentru modificarea Anexei la Hotărârea Consiliului Județean Olt nr.35/24.02.2023 cu privire la aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitare termică pentru creșterea eficienței energetice la clădirea Complexului de Servicii Persoane Adulte Slatina” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18318.pdf",
+     "sha256": "922f7cbc91631e155355163d902c32d90cd86f29e15d2f6d77d16d96784fbe13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-139-2023",
+   "path": "local/judet/olt/2023/139",
+   "short": "HCJ Olt nr. 139/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 139/2023 cu privire la desemnarea secretarului executiv al Comisiei județene în domeniul egalității de șanse între femei și bărbați Olt (COJES) Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18319.pdf",
+     "sha256": "b01e91a5ec3d07e5b2a3558a8391561b13ce8a5f19909cc43b5a41fd9794831f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-14-2023",
+   "path": "local/judet/olt/2023/14",
+   "short": "HCJ Olt nr. 14/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 14/2023 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiţii: ,,Modernizare drum județean DJ 546C, km 0+000-6+011, L = 6,011 km, Potcoava-Perieți”, aprobat pentru finanțare prin Programul național de investiții ,,Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16909.pdf",
+     "sha256": "2d0eaa1335717605d683bcc0825f69c975cebdbf00cb02181c414ac8cd88e76e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-140-2023",
    "path": "local/judet/olt/2023/140",
    "short": "HCJ Olt nr. 140/2023",
@@ -44,6 +464,261 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18320.pdf",
      "sha256": "ee314854925777be1a1bcc1498f6affae5874f5a58b6e6168d98fad85683b356"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-142-2023",
+   "path": "local/judet/olt/2023/142",
+   "short": "HCJ Olt nr. 142/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 142/2023 cu privire la transformarea unor posturi în statul de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Olt – aparatul propriu și în statele de funcții ale unor servicii sociale din structura direcției, ca urmare a promovării în grade/trepte profesionale imediat superioare celor deținute Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18322.pdf",
+     "sha256": "90a90f7c490ff7737ea038691c87c0072f18573dcee7be51f670ac35e476d9d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-143-2023",
+   "path": "local/judet/olt/2023/143",
+   "short": "HCJ Olt nr. 143/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 143/2023 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Colonești, a unor părți din zona drumului județean DJ 657 B Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18323.pdf",
+     "sha256": "c2d35e886a2524cc6ea3289d3623cf291bc981adb1f3cc0f5f02fd1529906fe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-144-2023",
+   "path": "local/judet/olt/2023/144",
+   "short": "HCJ Olt nr. 144/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 144/2023 cu privire la trecerea unei construcții aflate în administrarea Serviciului de Ambulanță Județean Olt din domeniul public al Județului Olt în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi a demolării Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18324.pdf",
+     "sha256": "8cafc68c34f62ce220e588d207914ac12c1af5b266aadc869eb36399dd0d5b83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-146-2023",
+   "path": "local/judet/olt/2023/146",
+   "short": "HCJ Olt nr. 146/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 146/2023 cu privire la aprobarea proiectului „Digitalizarea activității Spitalului de Psihiatrie Cronici Schitu Greci” și a cheltuielilor legate de proiect PROIECT: „Digitalizarea activității Spitalului de Psihiatrie Cronici Schitu Greci” PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ COMPONENTA: 7 – Transformare digitală Investiția: I3. – Realizarea sistemului de eHealth și telemedicină Investiția specifică:",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18326.pdf",
+     "sha256": "9c395878615067eeccba2ff8edfbbdb8a3ac6ce61ff2b93629c8314c2424c325"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-148-2023",
+   "path": "local/judet/olt/2023/148",
+   "short": "HCJ Olt nr. 148/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 148/2023 privind îmbunătățirea calității aerului și reducerea cantității de emisii de gaze cu efect de seră, prin utilizarea pentru transportul elevilor a autovehiculelor mai puțin poluante de tipul microbuzelor electrice, hibride și alimentate cu gaz natural comprimat prin depunerea proiectului „Achiziție microbuze hibride pentru transportul elevilor din județul Olt” în vederea fin",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18330.pdf",
+     "sha256": "bcf96479e260be0c94e8c6b7450d7eb4a256521d2fb6c4fec24e0f02941e6110"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-149-2023",
+   "path": "local/judet/olt/2023/149",
+   "short": "HCJ Olt nr. 149/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 149/2023 cu privire la aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiții ”Restaurare și modernizare Corp C1 – Centrul de Abilitare și Reabilitare Cezieni”, comuna Cezieni, sat Cezieni, str. Zambilei, nr.12, județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18390.pdf",
+     "sha256": "11e782bde09115a8bec6c7716b855c29ad2a9243cf2f9bb9371e3017f4ffa038"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-15-2023",
+   "path": "local/judet/olt/2023/15",
+   "short": "HCJ Olt nr. 15/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 15/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții: “Modernizare drum județean DJ 703C, km 45+623-km 57+223, L=11,600 km, comuna Cungrea (intersecție DJ 703D)-comuna Verguleasa (sat Poganu), județul Olt”, aprobat pentru finanțare prin Programul național de investiții ,,Anghel Sa",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16910.pdf",
+     "sha256": "5ca71acd4a3eadfdbcb8b9d396de9989b4650d29dc7d727dc71d6646e2168ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-152-2023",
+   "path": "local/judet/olt/2023/152",
+   "short": "HCJ Olt nr. 152/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 152/2023 pentru completarea structurii organizatorice a Spitalului Județean de Urgență Slatina, aprobate prin Hotărârea Consiliului Județean Olt nr.227/15.12.2016 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18393.pdf",
+     "sha256": "fca124ebf87980a4fb765738dd88cc3646874f176c325961231caf4b18562788"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-155-2023",
+   "path": "local/judet/olt/2023/155",
+   "short": "HCJ Olt nr. 155/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 155/2023 pentru efectuarea cercetării prealabile în vederea declarării de utilitate publică a proiectului ”Creșterea eficienței energetice și a accesibilităților medicale prin extinderea Spitalului Municipal Caracal cu o construcție nouă având regimul de înălțime S+P+E+spațiu tehnic, deasupra ultimului nivel, conectată cu corpul existent C1, printr-o pasarelă desfășurată la toate",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18396.pdf",
+     "sha256": "1f0feb51eded7b486a5e216d45cf6d1639014c69c031a911aa281fc4109ae614"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-156-2023",
+   "path": "local/judet/olt/2023/156",
+   "short": "HCJ Olt nr. 156/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 156/2023 privind aprobarea cererii de transmitere a unui imobil teren în suprafață de 300.000 mp din domeniul public al comunei Bălteni, județul Olt, în domeniul public al Județului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18397.pdf",
+     "sha256": "9bcc3f2ddda26e78f4251b4970450e54dddd8fcd9aeaf6ed425dbff025541428"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-157-2023",
+   "path": "local/judet/olt/2023/157",
+   "short": "HCJ Olt nr. 157/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 157/2023 privind aprobarea actului adițional nr. 1 la Acordul de Parteneriat nr. 34729/09.12.2022 încheiat între Unitatea Administrativ-Teritorială Județul Dolj, în calitate de lider de parteneriat, și unitățile administrativteritorialedin județele Dolj, Olt și Mehedinți, în vederea implementării proiectului ”Traseu Eurovelo 6 Mehedinți – Dolj – Olt” în cadrul apelului de proiecte PNRR/2022/C11/I.4, Compon",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18398.pdf",
+     "sha256": "f5ad2cc3beb9992526d47a0d4fd51868717b5958a7204c215e9b5cfc49cc84df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-160-2023",
+   "path": "local/judet/olt/2023/160",
+   "short": "HCJ Olt nr. 160/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 160/2023 cu privire la aprobarea înființării centrelor rezidențiale pentru persoane adulte cu handicap ”Centrul de Îngrijire și Asistență” și ”Centrul de Abilitare și Reabilitare”, ca servicii sociale cu cazare fără personalitate juridică în cadrul Complexului Servicii Persoane Adulte Spineni, în structura Direcției Generale de Asistență Socială și Protecția Copilului Olt, prin reorganizarea Centrului de Î",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18401.pdf",
+     "sha256": "1ac1293e90f0e568c8107c5ffa8d21bf7b006b325aae075c85ab692238f979d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-162-2023",
+   "path": "local/judet/olt/2023/162",
+   "short": "HCJ Olt nr. 162/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 162/2023 cu privire la aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18403.pdf",
+     "sha256": "b9fbd9d347b8fcc8cf8462450214e621030ce8fda5f9c3b50d053726ae8010b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-163-2023",
+   "path": "local/judet/olt/2023/163",
+   "short": "HCJ Olt nr. 163/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 163/2023 pentru elevii școlilor din județul Olt ” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18404.pdf",
+     "sha256": "e9233477a7473477f0ab98588ff15fff542fc30e53f0b69ed5f0baacdb9f610d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-165-2023",
+   "path": "local/judet/olt/2023/165",
+   "short": "HCJ Olt nr. 165/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 165/2023 cu privire la desființarea a două servicii sociale din cadrul Complexului servicii de tip rezidențial pentru copii ”Sf. Mihail” Caracal aflat în structura Direcției Generale de Asistență Socială și Protecția Copilului Olt, aprobarea Organigramei și Statului de Funcții pentru Complexul servicii de tip rezidențial pentru copii ”Sf. Mihail” Caracal, precum și cu privire la modificarea Regulamentelor",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18406.pdf",
+     "sha256": "148378d3f90cf3d494f493672aa41e64fee7ad5527b1b81f317d53995e9a9004"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-166-2023",
+   "path": "local/judet/olt/2023/166",
+   "short": "HCJ Olt nr. 166/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 166/2023 cu privire la aprobarea efectuării inventarierii anuale a bunurilor care alcătuiesc domeniul public și privat al Unității Administrativ-Teritoriale Județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18407.pdf",
+     "sha256": "ac75573cc906e4b0a85567df1a822356cc4ba2431082ca04b268df53f9df5c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-167-2023",
+   "path": "local/judet/olt/2023/167",
+   "short": "HCJ Olt nr. 167/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 167/2023 privind componența actualizată a Comisiei Județene Olt de aplicare a Legii nr. 112/1995 pentru reglementarea situației juridice a unor imobile cu destinația de locuințe trecute în proprietatea statului Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18408.pdf",
+     "sha256": "cbaa24ea6f2552ecddabe359e593fbebc6018294993d6fbac5c7687f046d5977"
     }
    ]
   },
@@ -63,6 +738,261 @@
    ]
   },
   {
+   "slug": "hcj-olt-17-2023",
+   "path": "local/judet/olt/2023/17",
+   "short": "HCJ Olt nr. 17/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 17/2023 cu privire la aprobarea documentației tehnico-economice pentru obiectivul de investiții „Stație de epurare Spitalul de Psihiatrie Cronici Schitu Greci, sat Greci, comuna Schitu, județul Olt“ Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16912.pdf",
+     "sha256": "2b39560014bb1319a8d4db0608c3d8578ef8ab00ad55230360d7adfe882b1649"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-170-2023",
+   "path": "local/judet/olt/2023/170",
+   "short": "HCJ Olt nr. 170/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 170/2023 cu privire la alocarea unei sume din Fondul de Rezervă bugetară la dispoziția Consiliului Județean Olt, prevăzut în bugetul Județului Olt pe anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18411.pdf",
+     "sha256": "23755483aff337d062b34d7035ad4cd1dffa5e5df709d380b49e98e931cd42be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-173-2023",
+   "path": "local/judet/olt/2023/173",
+   "short": "HCJ Olt nr. 173/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 173/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18414.pdf",
+     "sha256": "42289caaa5723c235086891e60d0c3094553e87ee21ff05d14eeb750722ee746"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-177-2023",
+   "path": "local/judet/olt/2023/177",
+   "short": "HCJ Olt nr. 177/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 177/2023 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18547.pdf",
+     "sha256": "8d3a6fecc74bce847efdb141be99f62e585a7b9394aad6553b5df0094a3aa7ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-178-2023",
+   "path": "local/judet/olt/2023/178",
+   "short": "HCJ Olt nr. 178/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 178/2023 pentru studii economico-sociale, buget- finanțe, integrare europeană, administrarea domeniului public și privat ; ➢ Avizul nr. 12437/24.10.2023 al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor omului și relații cu cetățenii; ➢ Avizul nr. 12429/24.10.2023 al Comisiei pentru organizarea si dezvoltarea urbanistica, realizarea lucrarilor publ",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18548.pdf",
+     "sha256": "9737f5ea61c93667bad781c4bda429b31d12f8edc80f993a89947e5236536d1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-18-2023",
+   "path": "local/judet/olt/2023/18",
+   "short": "HCJ Olt nr. 18/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 18/2023 cu privire la aprobarea documentației tehnico-economice pentru obiectivul de investiții ”Implementarea pompelor de căldură în sistem de încălzire alternativ” la Spitalul de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16913.pdf",
+     "sha256": "75b9954c56b272039524169c9da9a3d08605a72eee6e109bcd6822848fd0055f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-181-2023",
+   "path": "local/judet/olt/2023/181",
+   "short": "HCJ Olt nr. 181/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 181/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18551.pdf",
+     "sha256": "b7f0e991aad423a82fa2ba9183fa460fbb10e3f7150aa2af98e3185bc2063fa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-184-2023",
+   "path": "local/judet/olt/2023/184",
+   "short": "HCJ Olt nr. 184/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 184/2023 pentru modificarea anexei la Hotărârea Consiliului Județean Olt nr. 25/26.01.2023 pentru stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul Direcției Județene de Evidență a Persoanelor Olt, începând cu data de 01.01.2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18554.pdf",
+     "sha256": "1f01807617351c7d99d63f3a7d1c08c28ad67034b41471764b75f02a7e93b083"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-187-2023",
+   "path": "local/judet/olt/2023/187",
+   "short": "HCJ Olt nr. 187/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 187/2023 cu privire la aprobarea documentației tehnico-economice pentru obiectivul de investiții „Modernizare drum județean DJ 642, km 11+837,6 – 13+306,6, L = 1,469 km, FărcașeleStoenești” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18557.pdf",
+     "sha256": "c883c9fdf00a62e7f9027f72d61292ddf6ab6fc00684fcff9550888723c740d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-188-2023",
+   "path": "local/judet/olt/2023/188",
+   "short": "HCJ Olt nr. 188/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 188/2023 pentru Sistemul Integrat de Management al Deşeurilor în Judetul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18558.pdf",
+     "sha256": "ae03029e972366af36ce762f8e948a12ae5d9e428002e53d4071dc9a0932e3dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-189-2023",
+   "path": "local/judet/olt/2023/189",
+   "short": "HCJ Olt nr. 189/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 189/2023",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18559.pdf",
+     "sha256": "11e36f7bf0863c1c1834939ce5792699c728eb810653da8c197024210a59ec0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-19-2023",
+   "path": "local/judet/olt/2023/19",
+   "short": "HCJ Olt nr. 19/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 19/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16914.pdf",
+     "sha256": "bc28d670af6e16e88f2c3afa7b94257a9b1ad520cc53ecd3f424b85c34587ac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-190-2023",
+   "path": "local/judet/olt/2023/190",
+   "short": "HCJ Olt nr. 190/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 190/2023 pentru modificarea anexelor la Hotărârea Consiliului Județean Olt nr. 13/26.01.2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții “Modernizare drum județean DJ 643, KM 0+000-KM 25+240, Bobu-Voineasa-Balș, Județul Olt”, aprobat pentru finanțare prin Programul național de inv",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18560.pdf",
+     "sha256": "ecc001340b7b5c758eefed803b5c1c438bcab707d2920cddb9442ccbb72a6121"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-191-2023",
+   "path": "local/judet/olt/2023/191",
+   "short": "HCJ Olt nr. 191/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 191/2023 pentru modificarea anexelor la Hotărârea Consiliului Județean Olt nr. 15/26.01.2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții: “Modernizare drum județean DJ 703C, km 45+623-km 57+223, L=11,600 km, comuna Cungrea (intersecție DJ 703D)-comuna Verguleasa (sat Poganu), jude",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18561.pdf",
+     "sha256": "8994359a081a341d6c8708439c4a6e2c02792298a5d782c8e21e9b669d9a7576"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-196-2023",
+   "path": "local/judet/olt/2023/196",
+   "short": "HCJ Olt nr. 196/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 196/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18716.pdf",
+     "sha256": "244f4def98f556031255076e4fdfa255d3394d1f78f995b81885773512e497a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-197-2023",
+   "path": "local/judet/olt/2023/197",
+   "short": "HCJ Olt nr. 197/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 197/2023 pentru modificarea Hotărârii Consiliului Județean Olt nr. 13/26.01.2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnicoeconomici și a devizului general actualizat pentru obiectivul de investiții “Modernizare drum județean DJ 643, KM 0+000-KM 25+240, Bobu-Voineasa-Balș, Județul Olt”, aprobat pentru finanțare prin Programul național de investiții ,,Ang",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18717.pdf",
+     "sha256": "54aa966c9148fced4a23ff2b7098b0055825bdad4f90246029e73321544bbbfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-198-2023",
+   "path": "local/judet/olt/2023/198",
+   "short": "HCJ Olt nr. 198/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 198/2023 pentru modificarea anexelor la Hotărârea Consiliului Județean Olt nr. 15/26.01.2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții: “Modernizare drum județean DJ 703C, km 45+623-km 57+223, L=11,600 km, comuna Cungrea (intersecție DJ 703D)-comuna Verguleasa (sat Poganu), jude",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18718.pdf",
+     "sha256": "42c79f2a1bf814a98dce700c018b7f7be748e262dc7de29cb7e7486d43d36da8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-199-2023",
    "path": "local/judet/olt/2023/199",
    "short": "HCJ Olt nr. 199/2023",
@@ -74,6 +1004,201 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18719.pdf",
      "sha256": "2410e1f638328c9d3a12cd74ebbaf1bae9769bad345ed5e58c0c98a8d81f8b99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-200-2023",
+   "path": "local/judet/olt/2023/200",
+   "short": "HCJ Olt nr. 200/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 200/2023 pentru Cultură, Învățământ, Activitate Științifică, Sănătate, Familie, Protecție Copii și Culte; ➢ Avizul nr.13545/20.11.2023 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Avizul nr.13538/20.11.2023 al Comisiei pentru Muncă, Protecție Socială, Activități Sportive și de Agrement; ➢ adresa Spitalului Județean d",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18720.pdf",
+     "sha256": "f18efa20eafaf87d36ab4d9ba5c2ebfe35eae70a898d298626a023d3aeba5ee7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-204-2023",
+   "path": "local/judet/olt/2023/204",
+   "short": "HCJ Olt nr. 204/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 204/2023",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18742.pdf",
+     "sha256": "844b11fbccb445a19ef569554d8d474a65cc5379c772396a42c11c7477f7a941"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-205-2023",
+   "path": "local/judet/olt/2023/205",
+   "short": "HCJ Olt nr. 205/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 205/2023 privind regiunea Dunării, AP 1b-Legături rutiere, feroviare și aeriene Apel de proiecte nr. POR 2017/6/6.1/SUERD/1 Având în vedere: ➢ Referatul de aprobare nr. 13564/20.11.2023 al Președintelui Consiliului Județean Olt; ➢ Raportul nr. 13567/20.11.2023 al Serviciului Dezvoltare Regională; ➢ Avizul nr. 14034/28.11.2023 al Comisiei pentru Studii Economico-Sociale, Buget - Finanțe, Integrare Europeană",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18743.pdf",
+     "sha256": "23dd3d42385cc332bf0ded1be97c5fc723ceff481fff23c34fa8b2c6d6468fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-208-2023",
+   "path": "local/judet/olt/2023/208",
+   "short": "HCJ Olt nr. 208/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 208/2023 cu privire la desemnare reprezentant al Consiliului Județean Olt în Consiliul Consultativ al Inspectoratului Școlar Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18746.pdf",
+     "sha256": "a18b454e48385ed7b6eb62a6aba7dd49ae64366420cc7b097140477e68ca78a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-209-2023",
+   "path": "local/judet/olt/2023/209",
+   "short": "HCJ Olt nr. 209/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 209/2023 cu privire la aprobarea documentației tehnico-economice pentru obiectivul de investiții ”Demolare corp C1 Spălătorie și construire internat și împrejmuire la Centrul Școlar pentru Educație Incluzivă Balș” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18747.pdf",
+     "sha256": "ff1e4b5c9117c43dcd8469a13145776185ec73bc7408162dd5341669dc14aa74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-21-2023",
+   "path": "local/judet/olt/2023/21",
+   "short": "HCJ Olt nr. 21/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 21/2023 pentru obiectivul de investiții „Instalații de detecție, semnalizare și avertizare pentru pavilioanele 2,3 și 5 în vederea obținerii autorizației ISU” pentru Spitalul de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16916.pdf",
+     "sha256": "b600252564017738730f8211fb24ff2b117adb8336d4c82b0dbe5f020ff4be80"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-211-2023",
+   "path": "local/judet/olt/2023/211",
+   "short": "HCJ Olt nr. 211/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 211/2023 cu privire la rectificarea bugetului Județului Olt pe anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18749.pdf",
+     "sha256": "fa211354a1c7329c54ad9fec036a2dd436e1c89b53c19c4677b6d2d49f0c0490"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-214-2023",
+   "path": "local/judet/olt/2023/214",
+   "short": "HCJ Olt nr. 214/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 214/2023 PENTRU MODERNIZAREMăsura: Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publiceProgramul-cheie 1: Surse regenerabile de energie și stocarea energiei Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18752.pdf",
+     "sha256": "165341833a1ec0fa265035eca762f33bab86ae57b907b9cdc11cda8e67df7ea8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-217-2023",
+   "path": "local/judet/olt/2023/217",
+   "short": "HCJ Olt nr. 217/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 217/2023 cu privire la aprobarea reorganizării Spitalului Judeţean de Urgenţă Slatina, aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare ale Spitalului Judeţean de Urgenţă Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18755.pdf",
+     "sha256": "6a9c9bffa74c40966c8f43b72dd1582cbfa0b267ee4615c4512bf4db7a8f299c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-218-2023",
+   "path": "local/judet/olt/2023/218",
+   "short": "HCJ Olt nr. 218/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 218/2023 cu privire la aprobarea reorganizării Bibliotecii Județene Olt „Ion Minulescu”, aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare ale Bibliotecii Județene Olt „Ion Minulescu” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18756.pdf",
+     "sha256": "2c0c0bc91967295364fa3f7124c578d4e91b59f01ac67b0688c5ec1c48b448d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-22-2023",
+   "path": "local/judet/olt/2023/22",
+   "short": "HCJ Olt nr. 22/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 22/2023 pentru investiția „Lucrări în vederea obținerii autorizației de securitate la incendiu pentru obiectivul Clădiri ale fostului Centru de Plasament Zorile Slatina”,str",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16917.pdf",
+     "sha256": "88d7113311012bd3b25f69fe51e826c646b5345e01592da90f90d7dbf16325cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-220-2023",
+   "path": "local/judet/olt/2023/220",
+   "short": "HCJ Olt nr. 220/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 220/2023 cu privire la aprobarea reorganizării Spitalului de Psihiatrie Cronici Schitu Greci, aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare ale Spitalului de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18758.pdf",
+     "sha256": "5b33676a852cb16b048ca9187c599e6d6b6ac753ea257861a8d664c1cd47a1bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-221-2023",
+   "path": "local/judet/olt/2023/221",
+   "short": "HCJ Olt nr. 221/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 221/2023 cu privire la aprobarea reorganizarii aparatului de specialitate al Consiliului Județean Olt, aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare ale aparatului de specialitate al Consiliului Județean Olt, precum și ale Cabinetelor Președintelui și Vicepreședinților Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18759.pdf",
+     "sha256": "90ef104f3e60bac879ef96d7fa4645287a2a46ca5d0b617676211dd85737af87"
     }
    ]
   },
@@ -93,6 +1218,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-226-2023",
+   "path": "local/judet/olt/2023/226",
+   "short": "HCJ Olt nr. 226/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 226/2023 pentru anul 2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18805.pdf",
+     "sha256": "207e33069bd1e6a44887d59dcf35c8c2cf8135be21f0c06bc427f01eaffc3272"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-227-2023",
    "path": "local/judet/olt/2023/227",
    "short": "HCJ Olt nr. 227/2023",
@@ -104,6 +1244,51 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18806.pdf",
      "sha256": "85554c1c1523c9f4ad0a01878790af41308490afdb9d16a76bcb7b6e5e5a48ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-231-2023",
+   "path": "local/judet/olt/2023/231",
+   "short": "HCJ Olt nr. 231/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 231/2023 cu privire la aprobarea „Calendarului manifestărilor culturale în anul 2024” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18810.pdf",
+     "sha256": "613dc270b6a125682b599e64656b6d7a103591f8ae7fd349faf04ec2028aa2b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-232-2023",
+   "path": "local/judet/olt/2023/232",
+   "short": "HCJ Olt nr. 232/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 232/2023 cu privire la aprobarea documentației tehnico-economice pentru obiectivul de investiții „Înființarea sistemelor de panouri fotovoltaice” la Spitalul de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18811.pdf",
+     "sha256": "38addaeef9349dddf8d399d438c322b1ba3eb7ac497b5d1f5bd84980ce4cfec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-233-2023",
+   "path": "local/judet/olt/2023/233",
+   "short": "HCJ Olt nr. 233/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 233/2023 cu privire la aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Județean Olt pentru anul 2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18812.pdf",
+     "sha256": "2dd20928f2cb985bee4e966a38a7be7448b5b725872136d6a4a8285ff36acf0b"
     }
    ]
   },
@@ -123,6 +1308,81 @@
    ]
   },
   {
+   "slug": "hcj-olt-236-2023",
+   "path": "local/judet/olt/2023/236",
+   "short": "HCJ Olt nr. 236/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 236/2023 pentru Cultură, Învățământ, Activitate Științifică, Sănătate, Familie, Protecție Copii și Culte; ➢ Avizul nr.14939/19.12.2023 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Avizul nr.15002/20.12.2023 al Comisiei pentru Muncă, Protecție Socială, Activități Sportive și de Agrement; ➢ adresele Spitalului Județean",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18815.pdf",
+     "sha256": "995cd4279b2ea8a563f9a815ee8030c42daf955725be14ba2ff430de7c3457e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-239-2023",
+   "path": "local/judet/olt/2023/239",
+   "short": "HCJ Olt nr. 239/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 239/2023 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Rusănești, a unor părți din zona drumului județean DJ 642 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18818.pdf",
+     "sha256": "c322147a2f57f401ac4c9826f09abd5c68d8a0dbf0670c7504e661af81a84201"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-24-2023",
+   "path": "local/judet/olt/2023/24",
+   "short": "HCJ Olt nr. 24/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 24/2023 cu privire la transformarea unui post în statul de funcții al Direcţiei Judeţene de Evidenţă a Persoanelor Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16919.pdf",
+     "sha256": "24e075fee4cb3404c663ec744353704203ca98a5a65ef72fbcf0ec7a992ad88f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-240-2023",
+   "path": "local/judet/olt/2023/240",
+   "short": "HCJ Olt nr. 240/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 240/2023 cu privire la aprobarea reorganizării Serviciului Județean de Pază Olt, aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare ale Serviciului Județean de Pază Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18819.pdf",
+     "sha256": "38290faac65966a4ed51788b0942cd656a02bfc858f1c084eff607844140d5bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-244-2023",
+   "path": "local/judet/olt/2023/244",
+   "short": "HCJ Olt nr. 244/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 244/2023 cu privire la aprobarea reorganizării Direcţiei Județene de Evidență a Persoanelor Olt, aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare ale Direcţiei Județene de Evidență a Persoanelor Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18823.pdf",
+     "sha256": "4ac355f73d218b1a9855fe2ea77baea249948e4c2f8133b81baab64afdcc2c21"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-245-2023",
    "path": "local/judet/olt/2023/245",
    "short": "HCJ Olt nr. 245/2023",
@@ -138,6 +1398,531 @@
    ]
   },
   {
+   "slug": "hcj-olt-246-2023",
+   "path": "local/judet/olt/2023/246",
+   "short": "HCJ Olt nr. 246/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 246/2023 pentru revocarea Hotărârii Consiliului Județean Olt nr.219/29.11.2023 cu privire la aprobarea reorganizării Muzeului Județean Olt, aprobarea organigramei, statului de funcții și Regulamentului de Organizare și Funcționare ale Muzeului județean Olt",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/18825.pdf",
+     "sha256": "92c17d2662d7230962eac5025bf1c4efb3994e19ea76bfd141b1b9fbb289bc12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-25-2023",
+   "path": "local/judet/olt/2023/25",
+   "short": "HCJ Olt nr. 25/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 25/2023 pentru stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul Direcției Județene de Evidență a Persoanelor Olt, începând cu data de 01.01.2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16920.pdf",
+     "sha256": "68d05a9baed2f764487320d7ed94598fb9e1fd8189c8495cb4112731b0540427"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-26-2023",
+   "path": "local/judet/olt/2023/26",
+   "short": "HCJ Olt nr. 26/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 26/2023 pentru stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al Consiliului Județean Olt, precum și din cadrul CabinetelorPreședintelui și Vicepreședinților Consiliului Județean Olt, începând cu data de 1 ianuarie 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16921.pdf",
+     "sha256": "faf7b2ecead8cb5dcffb973085191fd087f42737498a5e81a85aa801204e5221"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-28-2023",
+   "path": "local/judet/olt/2023/28",
+   "short": "HCJ Olt nr. 28/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 28/2023 pentru modificarea și completarea structurii organizatorice a Spitalului Județean de Urgență Slatina, aprobate prin Hotărârea Consiliului Județean Olt nr.227/15.12.2016",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/17297.pdf",
+     "sha256": "2bffc5c3277a65ce7e4b526590b162c14859d494df27332d22469c47f5c9d3c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-30-2023",
+   "path": "local/judet/olt/2023/30",
+   "short": "HCJ Olt nr. 30/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 30/2023 cu privire la organizarea și desfășurarea evaluării anuale pentru perioada 01.01.2022 – 31.12.2022 a managementului pentru Biblioteca Județeană Olt „Ion Minulescuˮ Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17299.pdf",
+     "sha256": "ab32169b0d6f0163a209c596bf42297db144d70236d17216554e2fcf05ff7bd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-31-2023",
+   "path": "local/judet/olt/2023/31",
+   "short": "HCJ Olt nr. 31/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 31/2023 cu privire la transformarea unor posturi vacante în statul de funcții al Spitalului de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17300.pdf",
+     "sha256": "be3965200a893a52c6bd184ec15783b0d94699b25aa44814bd201437c923ef14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-32-2023",
+   "path": "local/judet/olt/2023/32",
+   "short": "HCJ Olt nr. 32/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 32/2023 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Bârza, a unor părți din zona drumului județean DJ 644 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17301.pdf",
+     "sha256": "bc27e2b44830bb72edae5161d65ec39de85b3b2623e4228789f87e84cd347321"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-33-2023",
+   "path": "local/judet/olt/2023/33",
+   "short": "HCJ Olt nr. 33/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 33/2023 pentru sportivii și antrenorii din județul Olt, care au obținut performanțe deosebite la competițiile sportive interne și internaționale, in anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17302.pdf",
+     "sha256": "5ded744dd92e92f171d27806f5624384dc2ada7257e38aaa79ba599a758f60b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-34-2023",
+   "path": "local/judet/olt/2023/34",
+   "short": "HCJ Olt nr. 34/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 34/2023 pentru anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17303.pdf",
+     "sha256": "b83d0348595c222c56c6a99e92040098306ed7d126f6be38e5b588e032e33430"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-37-2023",
+   "path": "local/judet/olt/2023/37",
+   "short": "HCJ Olt nr. 37/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 37/2023 cu privire la aprobarea Ghidului solicitantului pentru acordarea în anul 2023 a sprijinului financiar din bugetul Consiliului Județean Olt pentru unitățile de cult aparținând cultelor religioase din județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17306.pdf",
+     "sha256": "8269a1074280bbb1802450bd374e741de095d0f7eeb70fefdbdfc1b6f9d3f826"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-38-2023",
+   "path": "local/judet/olt/2023/38",
+   "short": "HCJ Olt nr. 38/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 38/2023",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/17307.pdf",
+     "sha256": "093195700ab3ba7445291938654758c0d7471b2040713d2bb87eabd81e77093a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-39-2023",
+   "path": "local/judet/olt/2023/39",
+   "short": "HCJ Olt nr. 39/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 39/2023",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/rhcj-2023/17308.pdf",
+     "sha256": "508e5c531268ca6edb09f3db82a0fe1e1effcf5a1e03ca11236d300910601887"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-41-2023",
+   "path": "local/judet/olt/2023/41",
+   "short": "HCJ Olt nr. 41/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 41/2023 cu privire la aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17310.pdf",
+     "sha256": "7a98cf947bda8e25686e2db8c8574eff9e6df458f80d6e41ccef58456ed8ef84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-44-2023",
+   "path": "local/judet/olt/2023/44",
+   "short": "HCJ Olt nr. 44/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 44/2023 pentru aprobarea Planului strategic de dezvoltare a Spitalului Judeţean de Urgență Slatina, pentru perioada 2023 – 2027 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17313.pdf",
+     "sha256": "e0eb487f0ae69e73bc5e3d7a2375811222186f2faa2f9f8f7fc2398188fc55fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-45-2023",
+   "path": "local/judet/olt/2023/45",
+   "short": "HCJ Olt nr. 45/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 45/2023 cu privire la aprobarea documentației tehnico-economice pentru obiectivul de investiții „Demolare pavilion infecțioase și construire clădire corp nou S+P+6E cu destinația de spital și activități medicale, amenajări exterioare adiacente, dotări, utilități“ la Spitalul Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17314.pdf",
+     "sha256": "3107089caa2697eea6d8f16e7b24422e4f25525b4998e607dc6a1500bc776035"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-49-2023",
+   "path": "local/judet/olt/2023/49",
+   "short": "HCJ Olt nr. 49/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 49/2023 cu privire la aprobarea plății cotizației Județului Olt pentru susținerea activității Asociației de Dezvoltare Intercomunitară de Utilități Publice pentru Serviciul de Alimentare cu Apă și de Canalizare „Oltul” pe anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17435.pdf",
+     "sha256": "1a2eb98ffafd8b630b8fe2f1302a7ae4b23dd71d68c209308989d67b007fbf04"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-50-2023",
+   "path": "local/judet/olt/2023/50",
+   "short": "HCJ Olt nr. 50/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 50/2023 cu privire la aprobarea primirii unui nou membru în cadrul Asociației de Dezvoltare Intercomunitară de Utilități Publice pentru Serviciul de Alimentare cu Apă și de Canalizare “Oltul”, respectiv comuna Redea Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17436.pdf",
+     "sha256": "530adf893a41b74c7b7839e7e275e7e6f59c750175bbb9ff394ec645620402f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-52-2023",
+   "path": "local/judet/olt/2023/52",
+   "short": "HCJ Olt nr. 52/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 52/2023 pentru Dezvoltare Regională Sud-Vest Oltenia și Biroului Regional de Cooperare Transfrontalieră Călărași pentru anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17438.pdf",
+     "sha256": "ed3a2c2bf7d4f87f17d4773ecd4f2954ba8081491909014dc5311c1b26b2d9ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-54-2023",
+   "path": "local/judet/olt/2023/54",
+   "short": "HCJ Olt nr. 54/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 54/2023 pentru anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17440.pdf",
+     "sha256": "4e7bc782db48344866bbc39726c4630d41b2e63f875bc26b336b0355a69852d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-55-2023",
+   "path": "local/judet/olt/2023/55",
+   "short": "HCJ Olt nr. 55/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 55/2023 pentru obiectivul de investiție „Reabilitarea, modernizarea și dotarea ambulatoriului din cadrul Spitalului Județean de Urgență Slatina” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17441.pdf",
+     "sha256": "8d748a8c4302ac9c729bb16085e3e8cc9d880967b32ac87ef00a027441a151bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-56-2023",
+   "path": "local/judet/olt/2023/56",
+   "short": "HCJ Olt nr. 56/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 56/2023 cu privire la transformarea unui post vacant în statul de funcții al Spitalului de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17442.pdf",
+     "sha256": "6802d129fa89d761166eb5b1266ac1933f42710063845456b9c83272c8a229f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-58-2023",
+   "path": "local/judet/olt/2023/58",
+   "short": "HCJ Olt nr. 58/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 58/2023 pentru aprobarea rezultatului final la evaluarea anuală a managementului Bibliotecii Județene Olt ,,Ion Minulescuˮ pentru perioada 01.01.2022 – 31.12.2022, precum și pentru aprobarea continuării exercitării contractului de management de către managerul Bibliotecii Județene Olt ,,Ion Minulescuˮ Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17444.pdf",
+     "sha256": "42d1430391f3ce4fc5a1ef04b994b9f9b0b3015b50bf082f7b172d7804ec7f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-60-2023",
+   "path": "local/judet/olt/2023/60",
+   "short": "HCJ Olt nr. 60/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 60/2023 cu privire la aprobarea reorganizării Muzeului Județean Olt,aprobarea numărului de posturi, a organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Muzeului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17446.pdf",
+     "sha256": "71f7c26e27c43554392743b905a42eb6d0c3043f0cc268264f737b3b8daa28ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-61-2023",
+   "path": "local/judet/olt/2023/61",
+   "short": "HCJ Olt nr. 61/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 61/2023 cu privire la transformarea unor posturi vacante în statul de funcții al aparatului de specialitate al Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17447.pdf",
+     "sha256": "7a8c33dbe73c70ceca684c571021d4f9fac5cc7d0e18abff11a1b015928733bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-62-2023",
+   "path": "local/judet/olt/2023/62",
+   "short": "HCJ Olt nr. 62/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 62/2023 cu privire la transformarea unor posturi vacante în statul de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Olt – aparatul propriu, precum și în statele de funcții ale unor servicii sociale din structura direcției Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17448.pdf",
+     "sha256": "4cecaf25da4d4d4a7d05b58f0e29b734898f0d3aee435dbdb0c2bfd077598ceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-63-2023",
+   "path": "local/judet/olt/2023/63",
+   "short": "HCJ Olt nr. 63/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 63/2023 cu privire la trecerea unei construcții aflate în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Olt din domeniul public al Județului Olt în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi a demolării Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17449.pdf",
+     "sha256": "a68e33859b8fe34dedfee27c3bd586def29f763bcf394853cde41e18a468062f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-64-2023",
+   "path": "local/judet/olt/2023/64",
+   "short": "HCJ Olt nr. 64/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 64/2023 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17450.pdf",
+     "sha256": "addc3822d4462e114f02d83c1f287bf5740a622ac5b02e017c9ca0472e6fc3f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-69-2023",
+   "path": "local/judet/olt/2023/69",
+   "short": "HCJ Olt nr. 69/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 69/2023 cu privire la acordarea în anul 2023 a sprijinului financiar din bugetul Consiliului Judeţean Olt, pentru unităţile de cult aparţinând cultelor religioase din Judeţul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17564.pdf",
+     "sha256": "c16b48ce3d71995fe9aeb32360656eee3052c91115a841a60272dc4883a24f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-7-2023",
+   "path": "local/judet/olt/2023/7",
+   "short": "HCJ Olt nr. 7/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 7/2023 pentru obiectivul de investiție “ Modernizare drum județean DJ 546, Dăneasa (intersecție DN6) – Slatina (intersecție DN65) – Verguleasa (intersecție DN67B)” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16902.pdf",
+     "sha256": "dbf31ebfd347098a4a5c2cfd5005421f36f5338ac0e0c6a6c0905fe93d35c1ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-70-2023",
+   "path": "local/judet/olt/2023/70",
+   "short": "HCJ Olt nr. 70/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 70/2023 pentru anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17565.pdf",
+     "sha256": "d384824318ab4814099b8badd9217ba4742261b408f1a6c929ce819c0741bdab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-71-2023",
+   "path": "local/judet/olt/2023/71",
+   "short": "HCJ Olt nr. 71/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 71/2023 cu privire la aprobarea plăţii cotizaţiei Judeţului Olt pentru susţinerea activităţii Asociaţiei de Dezvoltare Intercomunitară „OLT-ECO” pe anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17566.pdf",
+     "sha256": "bdcf68727afdd3396f9619162cebee4a3f0d6ae21f57b9e420ad115bfe2792dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-74-2023",
+   "path": "local/judet/olt/2023/74",
+   "short": "HCJ Olt nr. 74/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 74/2023 cu privire la înlocuirea unui reprezentant al Consiliului Județean Olt în calitate de membru supleant în cadrul Consiliului de administrație al Spitalului de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17569.pdf",
+     "sha256": "68453d907e825a4bc3fb412f5caa6a8a37fa9ed52901b3505d97507d4c31123f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-77-2023",
+   "path": "local/judet/olt/2023/77",
+   "short": "HCJ Olt nr. 77/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 77/2023 pentru modificarea statului de funcții al Spitalului Județean de Urgență Slatina precum și pentru modificarea si completarea Regulamentului de organizare și funcționare al Spitalului Județean de Urgență Slatina, aprobate prin Hotărârea Consiliului Județean Olt nr.41/28.02.2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17572.pdf",
+     "sha256": "46cf429b93aed82db9cfb90820dcf078ca89cc7909f10e30ba61a2f804163269"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-78-2023",
+   "path": "local/judet/olt/2023/78",
+   "short": "HCJ Olt nr. 78/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 78/2023 privind declararea de interes public județean a unor construcții situate în comuna Dobroteasa, str. Principală, nr. 39, județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17573.pdf",
+     "sha256": "3ebdc6c51c964c738eff5b39d799594cf76572a38bf78ae8f00f5f480cf9edb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-84-2023",
+   "path": "local/judet/olt/2023/84",
+   "short": "HCJ Olt nr. 84/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 84/2023 pentru anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17712.pdf",
+     "sha256": "4a87525bc4a5321a6db4f13f1e32991c351fc5926bce5d8e7b1bdff40418d5d2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-85-2023",
    "path": "local/judet/olt/2023/85",
    "short": "HCJ Olt nr. 85/2023",
@@ -149,6 +1934,156 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17713.pdf",
      "sha256": "b243b1b038c3a165f53ba72848449732f40a99ecf905deae6925efe64e11da7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-86-2023",
+   "path": "local/judet/olt/2023/86",
+   "short": "HCJ Olt nr. 86/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 86/2023 pentru Studii Economico - Sociale, Buget-Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr. 6500/23.05.2023 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Avizul nr. 6495/23.05.2023 al Comisiei pentru Muncă, Protecție Socială, Activități Sportive și de Agrement; - Adresa comu",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17714.pdf",
+     "sha256": "920e61eacbbf4d831b023bf6680c8cc2b74401aa8afdc86bcdaa3b476d47fbb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-87-2023",
+   "path": "local/judet/olt/2023/87",
+   "short": "HCJ Olt nr. 87/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 87/2023 cu privire la transformarea unor posturi în statul de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Olt – aparatul propriu și în statele de funcții ale unor servicii sociale din structura direcției Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17715.pdf",
+     "sha256": "08d050036583fb3fab8bfb40aa9175141eae40d156219da790f2548c4a784682"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-88-2023",
+   "path": "local/judet/olt/2023/88",
+   "short": "HCJ Olt nr. 88/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 88/2023 cu privire la desființarea unui post contractual vacant în statul de funcții al Serviciului Județean de Pază Olt, precum și cu privire la modificarea organigramei și a statului de funcții ale Serviciului Județean de Pază Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17716.pdf",
+     "sha256": "1af2bb964caf5b72cd259df64d5baa031a1d61e3277c0106cafbe68d52e0bbd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-89-2023",
+   "path": "local/judet/olt/2023/89",
+   "short": "HCJ Olt nr. 89/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 89/2023 pentru obiectivul de investiții „Construire variantă de circulație peste contracanal pe DJ 648A” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17717.pdf",
+     "sha256": "9fb5278eeb686d683a7db9c84ab434d63cf853e0325d34613f74cd6ab44ecbc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-92-2023",
+   "path": "local/judet/olt/2023/92",
+   "short": "HCJ Olt nr. 92/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 92/2023 pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Avizul nr.6644/24.05.2023 al Comisiei pentru Studii Economico- Sociale, Buget-Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Adresa nr.545/OT din 17.05.2023 a Administrației Naționale a Rezervelor de Stat și Probleme Speciale - Structura Teritorial",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17720.pdf",
+     "sha256": "ca619c98cecf620c54392c8327c81520ac4492de24d9732351f0a9ef97e51227"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-94-2023",
+   "path": "local/judet/olt/2023/94",
+   "short": "HCJ Olt nr. 94/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 94/2023 cu privire la aprobarea participării Consiliului Județean Olt la Campania ”Ia ATITUDINE, spune STOP VIOLENȚEI și CONSUMULUI ILICIT DE DROGURI ȘI ALTE SUBSTANȚE PSIHOACTIVE!”, precum și aprobarea în acest sens a încheierii unui Protocol de colaborare cu Inspectoratul de Poliție Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17722.pdf",
+     "sha256": "d42b90cd7235451bffab17869733da1d0745b41084451f45e361d0ca108d706a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-95-2023",
+   "path": "local/judet/olt/2023/95",
+   "short": "HCJ Olt nr. 95/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 95/2023 cu privire la aprobarea documentației tehnico-economice pentru obiectivul de investiții „Restaurare și modernizare Corp C1 – Centrul de Abilitare și Reabilitare Cezieni”, comuna Cezieni, sat Cezieni, str. Zambilei, nr.12, județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17723.pdf",
+     "sha256": "8fd3c81ee059a3355b79c8da66727089dc325d2d0e6d9fbe4927f85af9e3f367"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-97-2023",
+   "path": "local/judet/olt/2023/97",
+   "short": "HCJ Olt nr. 97/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 97/2023 cu privire la alocarea unei sume din Fondul de Rezervă bugetară la dispoziția Consiliului Județean Olt, prevăzut în bugetul Județului Olt pe anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17725.pdf",
+     "sha256": "a858d193d36f6364a55b4a10eb8cf273e7ecb21e5940a585bb175e1f12cc3065"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-98-2023",
+   "path": "local/judet/olt/2023/98",
+   "short": "HCJ Olt nr. 98/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 98/2023 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18078.pdf",
+     "sha256": "37eab9ce1e60729f0e6a52b74216855a8758433179d6ed1d1faddb2b4a1cbb68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-99-2023",
+   "path": "local/judet/olt/2023/99",
+   "short": "HCJ Olt nr. 99/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 99/2023 cu privire la înlocuirea unui membru și actualizarea componenței nominale a Consiliului de administrație al Serviciului Județean de Pază Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18079.pdf",
+     "sha256": "675f940a7b140be2d3d4698399b60d8058a48dd80e2f8e7e2a7c9b69b39586d5"
     }
    ]
   }

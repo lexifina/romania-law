@@ -3,6 +3,261 @@
  "shard": "local/judet/olt/2022",
  "acts": [
   {
+   "slug": "hcj-olt-10-2022",
+   "path": "local/judet/olt/2022/10",
+   "short": "HCJ Olt nr. 10/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 10/2022 cu privire la trecerea unor suprafețe de teren aferente zonei drumurilor județene DJ 657 și DJ 703C din domeniul public al Județului Olt în domeniul public al Statului, pentru realizarea lucrării de utilitate publică de interes național „Drumul expres Craiova – Pitești și legăturile cu drumurile existente” lot 2 județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15152.pdf",
+     "sha256": "44f2871f284b7bc431a8de44a2ff47999b2fb77e118a52d9fc61829aa845c8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-100-2022",
+   "path": "local/judet/olt/2022/100",
+   "short": "HCJ Olt nr. 100/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 100/2022 pentru stabilirea salariilor de bază pentru unele funcții publice și contractuale din cadrul Direcției Județene de Evidență a Persoanelor Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16087.pdf",
+     "sha256": "42eacc66c1822f8dcb7568c96862f25acc6084bae45c1a214e1a76396be13504"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-104-2022",
+   "path": "local/judet/olt/2022/104",
+   "short": "HCJ Olt nr. 104/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 104/2022 cu privire la aprobare liniilor de gardă organizate la nivelul Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16091.pdf",
+     "sha256": "bcf114929d76356c3ab1f731b2e33893863cf7e3a308756f2e91f6c0b8dae2c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-107-2022",
+   "path": "local/judet/olt/2022/107",
+   "short": "HCJ Olt nr. 107/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 107/2022 cu privire la transformarea unor posturi în statul de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Olt – aparatul propriu, precum și în statele de funcții ale unor servicii sociale din structura direcției Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16177.pdf",
+     "sha256": "af0d26d7d55e1d07a9d17a3ab41c2d5383a861a4c20c6ba6bf6f576540063a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-109-2022",
+   "path": "local/judet/olt/2022/109",
+   "short": "HCJ Olt nr. 109/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 109/2022 pentru Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16179.pdf",
+     "sha256": "cc0c3babf5c55888818deb2a9baf117ab9859fda99e2f2ece074b288800d7bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-110-2022",
+   "path": "local/judet/olt/2022/110",
+   "short": "HCJ Olt nr. 110/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 110/2022 pentru investiția „Lucrări în vederea obținerii autorizației de securitate la incendiu pentru obiectivul Clădiri ale fostului Centru de Plasament Zorile Slatina”, str",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16180.pdf",
+     "sha256": "05e01686595412170c277ba6c9bbfdb5a8390f06da432ceffa92c5f57716f9e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-111-2022",
+   "path": "local/judet/olt/2022/111",
+   "short": "HCJ Olt nr. 111/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 111/2022 pentru muncă, protecție socială, activități sportive și de agrement; - Avizul nr. 8321/27.07.2022 al Comisiei pentru administrație publică, juridică, apărarea ordinii publice, respectarea drepturilor omului și relații cu cetățenii; - Avizul nr. 8323/27.07.2022 al Comisiei pentru cultură, învățământ, activitate științifică, sănătate, familie, protecție copii și culte; - Avizul nr. 8325/27.07.2022 a",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16181.pdf",
+     "sha256": "79a0893381ac56569ac102cab3b351ea011b52647cd7f20055f09bd3824192bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-113-2022",
+   "path": "local/judet/olt/2022/113",
+   "short": "HCJ Olt nr. 113/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 113/2022 cu privire la modificarea statului de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16183.pdf",
+     "sha256": "4082e29976233ad2478aa683c0505e967fc53057926786fde96d036d74c25b26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-114-2022",
+   "path": "local/judet/olt/2022/114",
+   "short": "HCJ Olt nr. 114/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 114/2022 cu privire la alocarea unei sume din Fondul de Rezervă bugetară la dispoziția Consiliului Județean Olt, prevăzut în bugetul Județului Olt pe anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16184.pdf",
+     "sha256": "77bc4c806aa59d783b0be1cf9ac4bcef67f9cf94ea179748e918b7a1d33aee2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-115-2022",
+   "path": "local/judet/olt/2022/115",
+   "short": "HCJ Olt nr. 115/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 115/2022 privind declararea de interes public județean a imobilului situat în municipiul Slatina, strada Drăgănești, nr. 13, județul Olt și darea acestuia în administrarea Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16185.pdf",
+     "sha256": "347156c24cef36a7d00e7022b3481e114c631d4b45363682042e8d07deba2df4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-116-2022",
+   "path": "local/judet/olt/2022/116",
+   "short": "HCJ Olt nr. 116/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 116/2022 pentru Studii Economico - Sociale, Buget- Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Prevederile Hotărârii Consiliului Județean Olt nr. 21/28.01.2022 cu privire la aprobarea bugetului Județului Olt pe anul 2022 și estimări pe anii 2023-2025, cu rectificările ulterioare; - Prevederile art. 19 alin. (2) din Legea privind finanțele publice locale nr. 273/2006, cu modif",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16270.pdf",
+     "sha256": "acd6d349ab1aa748b1f557c88c69acf1e904be149d3cf1ae2257c70c84a87714"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-119-2022",
+   "path": "local/judet/olt/2022/119",
+   "short": "HCJ Olt nr. 119/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 119/2022 pentru modificarea, completarea și actualizarea componenței nominale a Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16273.pdf",
+     "sha256": "e3705b341879434d9d98ca3a50c20c12afe9a0ad280499a23d0e33f2f2a01ac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-121-2022",
+   "path": "local/judet/olt/2022/121",
+   "short": "HCJ Olt nr. 121/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 121/2022 pentru obiectivul de investiții “Instalații de detecție, semnalizare și avertizare pentru pavilioanele 2,3 și 5 în vederea obținerii autorizației ISU” pentru Spitalul de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16275.pdf",
+     "sha256": "547d97a191f809977cace31286b4daaa8e21c726f46f15cfa9835ef6d7472160"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-122-2022",
+   "path": "local/judet/olt/2022/122",
+   "short": "HCJ Olt nr. 122/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 122/2022 cu privire la transformarea unor posturi în statul de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Olt – aparatul propriu, precum și în statele de funcții ale unor servicii sociale din structura direcției Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16276.pdf",
+     "sha256": "0cf6a1765f7575280d1cfd6933e2eb53847c628867673ba0ffaff7645fe879c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-125-2022",
+   "path": "local/judet/olt/2022/125",
+   "short": "HCJ Olt nr. 125/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 125/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16279.pdf",
+     "sha256": "96c856ab1a73f5c5e1eb5b7114bc767be592ac021967372a6b6111e119855e56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-126-2022",
+   "path": "local/judet/olt/2022/126",
+   "short": "HCJ Olt nr. 126/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 126/2022 cu privire la transformarea unor posturi vacante în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16280.pdf",
+     "sha256": "bd90ec48401ad6f5aa4dc049363732b98cd2aff141edd2ff3da1f98065221849"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-127-2022",
+   "path": "local/judet/olt/2022/127",
+   "short": "HCJ Olt nr. 127/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 127/2022 pentru modificarea Regulamentelor de Organizare și Funcționare ale unor servicii sociale din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16281.pdf",
+     "sha256": "58b2e616fe576e1984aed7afef734c227adc592a230b280dbbea7b8e2fdb0822"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-129-2022",
    "path": "local/judet/olt/2022/129",
    "short": "HCJ Olt nr. 129/2022",
@@ -14,6 +269,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/16283.pdf",
      "sha256": "de16a3f9bb30eff07bbcc25caf16f2169471995c9e5cf4e531a163599d2fed0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-13-2022",
+   "path": "local/judet/olt/2022/13",
+   "short": "HCJ Olt nr. 13/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 13/2022 pentru modificarea și completarea structurii organizatorice a Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15155.pdf",
+     "sha256": "647f979422790f9f94197f052c1b595136afb9f47ab0263a4a31e6697390c8a3"
     }
    ]
   },
@@ -33,6 +303,261 @@
    ]
   },
   {
+   "slug": "hcj-olt-134-2022",
+   "path": "local/judet/olt/2022/134",
+   "short": "HCJ Olt nr. 134/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 134/2022 cu privire la înlocuirea unor reprezentanți ai Consiliului Județean Olt în calitate de membru și respectiv, membru supleant în cadrul Consiliului de administrație al Spitalul de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16381.pdf",
+     "sha256": "65c9e9f3cab570652995b6e1ff5bb0385abf1160bbdb4ceaf12271683c34e205"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-135-2022",
+   "path": "local/judet/olt/2022/135",
+   "short": "HCJ Olt nr. 135/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 135/2022 cu privire la desemnarea reprezentanților Consiliului Județean Olt în calitate de membri în Consiliile de Administrație ale unităților de învățământ preuniversitar de stat din subordinea Consiliului Județean Olt, pentru anul școlar 2022 – 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16382.pdf",
+     "sha256": "342e0f5daeea39bd3cb83f292fb885d5f2ed65e21df1583d9df52784b2bdc1fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-136-2022",
+   "path": "local/judet/olt/2022/136",
+   "short": "HCJ Olt nr. 136/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 136/2022 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16383.pdf",
+     "sha256": "7925a9bc4477e7b45a355ca8e6fbadb72828d84940624641baf0febbb700a461"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-137-2022",
+   "path": "local/judet/olt/2022/137",
+   "short": "HCJ Olt nr. 137/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 137/2022 pentru studii economico-sociale, buget- finanțe, integrare europeană, administrarea domeniului public și privat; ➢ Avizul nr. 10694/27.09.2022 al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor omului și relații cu cetățenii; ➢ Avizul nr. 10706/27.09.2022 al Comisiei pentru organizarea și dezvoltarea urbanistică, realizarea lucrărilor publi",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16384.pdf",
+     "sha256": "b534372c90aa9125e9703e4816cb7786757a1d8acd39484a201f006046c9310d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-138-2022",
+   "path": "local/judet/olt/2022/138",
+   "short": "HCJ Olt nr. 138/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 138/2022 pentru modificarea articolului 3.1 din Hotărârea Consiliului Județean Olt nr. 95/31.05.2018 cu privire la aprobarea proiectului „Investiții comune în domeniul situațiilor de urgență în cadrul Consiliului Județean Olt și Municipalității Dolna Mitropolia, Bulgaria” și a cheltuielilor aferente proiectului Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16385.pdf",
+     "sha256": "cf3d7fb8d467fbbe838a7297c72337ef6393bcfc995168290bea8074fe384ba2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-14-2022",
+   "path": "local/judet/olt/2022/14",
+   "short": "HCJ Olt nr. 14/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 14/2022 pentru stabilirea salariilor de bază pentru unele funcții publice și contractuale de execuție din cadrul aparatului propriu al Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15156.pdf",
+     "sha256": "ac7685b128e8419a9e71d116dec80f82842c2e33dd9d2142e93713f75976f24b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-142-2022",
+   "path": "local/judet/olt/2022/142",
+   "short": "HCJ Olt nr. 142/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 142/2022 cu privire la aprobarea efectuării inventarierii anuale a bunurilor care alcătuiesc domeniul public și privat al unității administrativ-teritoriale Județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16389.pdf",
+     "sha256": "5ce107e33c94296584f9e99058748ae4e42bbfacdc342e3db34afc2a4aeecc20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-146-2022",
+   "path": "local/judet/olt/2022/146",
+   "short": "HCJ Olt nr. 146/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 146/2022 pentru obiectivul de investiții ”Reabilitare și modernizare imobil Psihiatrie – Dermatologie, municipiul Slatina, str. Drăgănești, nr. 13, județul Olt” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16393.pdf",
+     "sha256": "ae50d3269b1391f4f0566b1a3d6ad4bee39093553ab92fd77b6c6530eac8757f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-147-2022",
+   "path": "local/judet/olt/2022/147",
+   "short": "HCJ Olt nr. 147/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 147/2022 pentru studii economico- sociale, buget-finanțe, integrare europeană, administrarea domeniului public și privat; ➢ Avizul nr. 10791/28.09.2022 al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor omului și relații cu cetățenii; ➢ Avizul nr. 10782/28.09.2022 al Comisiei pentru munca, protectie sociala, activitati sportive si de agrement; ➢ Avi",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16394.pdf",
+     "sha256": "fbe7101c6991cea4496521feb6a40a39f249148fd606a4784e95fa35a19205e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-152-2022",
+   "path": "local/judet/olt/2022/152",
+   "short": "HCJ Olt nr. 152/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 152/2022 cu privire la transformarea unor posturi în statul de funcții al Spitalului de Psihiatrie Cronici Schitu Greci, ca urmare a promovării în grade/trepte profesionale imediat superioare celor deținute Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16471.pdf",
+     "sha256": "af3c8e0047aa49d70fd0a4f463361d224914c8cd64b08bff3fb603de841333f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-153-2022",
+   "path": "local/judet/olt/2022/153",
+   "short": "HCJ Olt nr. 153/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 153/2022 cu privire la înlocuirea unui membru și actualizarea componenței nominale a Consiliului de Administrație al Muzeului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16472.pdf",
+     "sha256": "853d2da69afaea47bae296271656c4900869de86122275dda80096218138b2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-154-2022",
+   "path": "local/judet/olt/2022/154",
+   "short": "HCJ Olt nr. 154/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 154/2022 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16473.pdf",
+     "sha256": "6165398d5f2b89e711602d61b6e7ba865918afc55088137144ed829b20a346c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-157-2022",
+   "path": "local/judet/olt/2022/157",
+   "short": "HCJ Olt nr. 157/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 157/2022 privind utilizarea fondului de întreținere, înlocuire și dezvoltare de către operatorul S.C",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16476.pdf",
+     "sha256": "12b3de05e0e54fabfd4b5e9c35de7a1759698839388d9e3812dc8cedcaf0de24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-158-2022",
+   "path": "local/judet/olt/2022/158",
+   "short": "HCJ Olt nr. 158/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 158/2022 pentru persoane adulte cu dizabilități Slatina” în vederea finanțării prin Planul Național de Redresare și Reziliență Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16477.pdf",
+     "sha256": "f756fa6c78d52309763c1185af8960e76f5c61120a804f8bbe71f8832de69548"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-159-2022",
+   "path": "local/judet/olt/2022/159",
+   "short": "HCJ Olt nr. 159/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 159/2022 pentru persoanele cu dizabilități din cadrul punctului I2.Reabilitarea/renovarea și dezvoltarea infrastructurii sociale pentru persoanele cu dizabilități al Pilonului V Sănătate, precum și reziliență economică, socială și instituțională al Planului Național de Redresare și Reziliență, Componenta 13 Reforme sociale, ținta nr. 395 Servicii comunitare modernizate pentru persoanele cu dizabilități Avâ",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16478.pdf",
+     "sha256": "6ddbceadd86ddbd5075749588a20e513d2774c985d1a2749efbe2c20021d29a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-160-2022",
+   "path": "local/judet/olt/2022/160",
+   "short": "HCJ Olt nr. 160/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 160/2022 pentru persoanele cu dizabilități din cadrul punctului I2.Reabilitarea/renovarea și dezvoltarea infrastructurii sociale pentru persoanele cu dizabilități al Pilonului V Sănătate, precum și reziliență economică, socială și instituțională al Planului Național de Redresare și Reziliență, Componenta 13 Reforme sociale, ținta nr. 395 Servicii comunitare modernizate pentru persoanele cu dizabilități Avâ",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16479.pdf",
+     "sha256": "1cdef0b3d0437632d88db039bfa5330c3e0b93c5a1a906b620cdb6c37e745af4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-161-2022",
+   "path": "local/judet/olt/2022/161",
+   "short": "HCJ Olt nr. 161/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 161/2022 cu privire la alocarea unei sume din Fondul de Rezervă bugetară la dispoziția Consiliului Județean Olt, prevăzut în bugetul Județului Olt pe anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16480.pdf",
+     "sha256": "43d50cc0361084f8b5f6cb524055c5d10cd68efdf01cae6879c29ede2eaaf14e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-163-2022",
    "path": "local/judet/olt/2022/163",
    "short": "HCJ Olt nr. 163/2022",
@@ -44,6 +569,201 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/16482.pdf",
      "sha256": "cae0f823c5774770a22aa494e8e66b8e28f44c137ef9bd06763ffe86d2dedb9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-164-2022",
+   "path": "local/judet/olt/2022/164",
+   "short": "HCJ Olt nr. 164/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 164/2022 pentru acordarea de daruri cu ocazia sărbătorilor de iarnă Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16569.pdf",
+     "sha256": "3975c8c24089cfd23999531a9174225992233db46fc4ac83fb92f70f6a19f663"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-166-2022",
+   "path": "local/judet/olt/2022/166",
+   "short": "HCJ Olt nr. 166/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 166/2022 cu privire la stabilirea costului mediu lunar de întreținere pentru o persoană cu handicap îngrijită și protejată în centrele rezidențiale publice din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Olt, pentru persoane cu handicap, pentru luna OCTOMBRIE 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16571.pdf",
+     "sha256": "c254bda6b8fcfdf5242c1530cc29c821073bc2320faf73929fdd9ac82dfcbfc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-167-2022",
+   "path": "local/judet/olt/2022/167",
+   "short": "HCJ Olt nr. 167/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 167/2022 pentru obiectivul de investiții ”Construire subunitate de intervenție în situații de urgență și substație de ambulanță în comuna Dobroteasa”, strada Principală, nr. 39, comuna Dobroteasa, județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16572.pdf",
+     "sha256": "9f2660f5fb4fe475fba663645802d84e648ce13083a2c84df630f4d4aa97cffa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-168-2022",
+   "path": "local/judet/olt/2022/168",
+   "short": "HCJ Olt nr. 168/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 168/2022 cu privire la transformarea unui post în statul de funcții al Muzeului Județean Olt, ca urmare a promovării în grad profesional imediat superior celui deținut Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16573.pdf",
+     "sha256": "31d913a78b5bc3caf7920838c2d5860b091d89d577f3582c7c2fdb38d78e5758"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-169-2022",
+   "path": "local/judet/olt/2022/169",
+   "short": "HCJ Olt nr. 169/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 169/2022 cu privire la transformarea unui post în statul de funcții al Bibliotecii Județene Olt ,,Ion Minulescuˮ, ca urmare a promovării în grad profesional imediat superior celui deținut Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16574.pdf",
+     "sha256": "a194dbb48c8ff995fdfd7dc09ddd9c6c4b7aa7a7ebc774e112838d2fc3dabebf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-17-2022",
+   "path": "local/judet/olt/2022/17",
+   "short": "HCJ Olt nr. 17/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 17/2022 pentru completarea componenței nominale a Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15159.pdf",
+     "sha256": "755d0e2308e44b57132ca354cb7729f1a181e54a613024de53798ad26f458eed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-171-2022",
+   "path": "local/judet/olt/2022/171",
+   "short": "HCJ Olt nr. 171/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 171/2022 pentru modificarea și completarea Hotărârii Consiliului Județean Olt nr. 137/29.09.2022 cu privire la aprobarea proiectului „Reabilitarea, modernizarea și dotarea ambulatoriului din cadrul Spitalului Județean de Urgență Slatina” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16576.pdf",
+     "sha256": "8f9d09df9f73e27899afcc9522066a169b879fd99c9b4cbb91c8217bed010153"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-172-2022",
+   "path": "local/judet/olt/2022/172",
+   "short": "HCJ Olt nr. 172/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 172/2022 pentru Spitalul Județean de Urgență Slatina” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16577.pdf",
+     "sha256": "e922cb5c858aa7162f2def17aee3a3f86ad556887a5596b086788617c0787283"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-174-2022",
+   "path": "local/judet/olt/2022/174",
+   "short": "HCJ Olt nr. 174/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 174/2022 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16579.pdf",
+     "sha256": "96d388ce8676e440b23da0d6be9123f831311e2b68554c735c13e8e686de6aab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-175-2022",
+   "path": "local/judet/olt/2022/175",
+   "short": "HCJ Olt nr. 175/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 175/2022 privind declararea de interes public județean a unor părți din imobilul situat în municipiul Slatina, strada Zmeurei, nr. 9B, județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16580.pdf",
+     "sha256": "f8c625eca8814efe143b1da4e445b0126ef46dec1517d0dba033ac6e01794a80"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-176-2022",
+   "path": "local/judet/olt/2022/176",
+   "short": "HCJ Olt nr. 176/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 176/2022 cu privire la actualizarea componenței nominale a Comisiei Tehnice de Amenajare a Teritoriului și Urbanism, precum și a secretariatului comisiei Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16581.pdf",
+     "sha256": "078da8451d2edbc5fb538492aa9ae5c9e764b3a280aba4fb9057debe301a1061"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-177-2022",
+   "path": "local/judet/olt/2022/177",
+   "short": "HCJ Olt nr. 177/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 177/2022 privind exprimarea acordului Consiliului Județean Olt pentru participarea la implementarea proiectului din Investiția I.4 ”Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11 – Turism și cultură Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16590.pdf",
+     "sha256": "1697a140d7564cfca3e0361ff34cf7cf962f5c7b76ef454bc30998a23f6b6f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-18-2022",
+   "path": "local/judet/olt/2022/18",
+   "short": "HCJ Olt nr. 18/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 18/2022 cu privire la transformare post vacant în statul de funcții al aparatului de specialitate al Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15160.pdf",
+     "sha256": "a7cb7627761d16914e49cb9193c2c08ac4c98a22a71d9e80f69f47f8f4da65e1"
     }
    ]
   },
@@ -63,6 +783,621 @@
    ]
   },
   {
+   "slug": "hcj-olt-184-2022",
+   "path": "local/judet/olt/2022/184",
+   "short": "HCJ Olt nr. 184/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 184/2022 cu privire la aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitare termică pentru creșterea eficienței energetice la Spitalul Județean de Urgență Slatina – Pavilion Materno-Infantil” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16729.pdf",
+     "sha256": "4990f47c538c407733a676691b677ffa84666773e5cd18d2e65ec4d883a5806b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-186-2022",
+   "path": "local/judet/olt/2022/186",
+   "short": "HCJ Olt nr. 186/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 186/2022 cu privire la desemnarea reprezentanților Consiliului Județean Olt în calitate de membri și membri supleanți în cadrul Consiliilor de administrație ale unităților sanitare publice cu paturi aflate în subordinea Consiliului Judeţean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16731.pdf",
+     "sha256": "297e24a16ccff5ac59da03364c88f44183385ebc5d8722745225deba3e6e5340"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-187-2022",
+   "path": "local/judet/olt/2022/187",
+   "short": "HCJ Olt nr. 187/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 187/2022 cu privire la transformarea unor posturi în statele de funcții ale unor servicii sociale din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16732.pdf",
+     "sha256": "d3868e77181e04bd856763ddcbdd478aef48f3309fb34f5791b9c9de7fad2797"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-188-2022",
+   "path": "local/judet/olt/2022/188",
+   "short": "HCJ Olt nr. 188/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 188/2022 cu privire la stabilirea costului mediu lunar de întreținere pentru o persoană cu handicap îngrijită și protejată în centrele rezidențiale publice din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Olt, pentru persoane cu handicap, pentru luna NOIEMBRIE 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16733.pdf",
+     "sha256": "c0a7785cb57d8015d42fe284500fde83f842e8a167f156468c826bd56186fc7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-190-2022",
+   "path": "local/judet/olt/2022/190",
+   "short": "HCJ Olt nr. 190/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 190/2022 cu privire la aprobarea „Calendarului manifestărilor culturale în anul 2023” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16735.pdf",
+     "sha256": "274dfe318b9873372c7e3cc838f54477caf3d2f63e28d8bfafe9aa9fdfd6d303"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-191-2022",
+   "path": "local/judet/olt/2022/191",
+   "short": "HCJ Olt nr. 191/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 191/2022 cu privire la aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Județean Olt pentru anul 2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16736.pdf",
+     "sha256": "85fc63094752d6786459c5b782216ac5016301f5857e89c608498d2d692c866d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-192-2022",
+   "path": "local/judet/olt/2022/192",
+   "short": "HCJ Olt nr. 192/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 192/2022 cu privire la aprobarea Strategiei județene de dezvoltare a serviciilor sociale pe termen mediu și lung (2022 – 2031) Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16737.pdf",
+     "sha256": "48f21115badcfbed497bd304445d957eaeecba1e659affe735697b1c9e86a199"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-194-2022",
+   "path": "local/judet/olt/2022/194",
+   "short": "HCJ Olt nr. 194/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 194/2022 pentru Sistemul Integratde Management al Deşeurilor în Judetul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16739.pdf",
+     "sha256": "842a534461a660f83b3b09dcb3e7f9fee73582652e1cfcb0552df1e69809ac2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-195-2022",
+   "path": "local/judet/olt/2022/195",
+   "short": "HCJ Olt nr. 195/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 195/2022 cu privire la rectificarea bugetului Județului Olt pe anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16740.pdf",
+     "sha256": "2dbf7cad8144ff90b6e2f7727ab0c6c5128298eb1927e793566b66c2414c5d73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-196-2022",
+   "path": "local/judet/olt/2022/196",
+   "short": "HCJ Olt nr. 196/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 196/2022 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16741.pdf",
+     "sha256": "b2b64d41ed3cd420d753e62653fa234d52cd77db0f939a7ecebb6c88f872edbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-197-2022",
+   "path": "local/judet/olt/2022/197",
+   "short": "HCJ Olt nr. 197/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 197/2022 pentru completarea și modificarea Anexei la Hotărârea Consiliului Judeţean Olt nr.104/30.06.2022 cu privire la aprobarea liniilor de gardă organizate la nivelul Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16742.pdf",
+     "sha256": "b38d9fede43593fa708a99d0d1eb6fb7af5f835c37a97f1fbd3fdd9752165667"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-22-2022",
+   "path": "local/judet/olt/2022/22",
+   "short": "HCJ Olt nr. 22/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 22/2022 cu privire la actualizarea componenței Comisiei pentru Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15164.pdf",
+     "sha256": "7d0f7ee67231c98f09c36ec377c6e67b780f571436fa986a01761299dbb5822f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-23-2022",
+   "path": "local/judet/olt/2022/23",
+   "short": "HCJ Olt nr. 23/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 23/2022 privind aprobarea încheierii unui Acord de parteneriat între",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15260.pdf",
+     "sha256": "f13f044310c16e263bef79bbc7cf6d569b20f9a3c6b708dc811854e633d9a30b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-24-2022",
+   "path": "local/judet/olt/2022/24",
+   "short": "HCJ Olt nr. 24/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 24/2022 pentru modificarea Hotărârii Consiliului Județean Olt nr. 167/28.10.2021 cu privire la aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul investiții nou “Modernizare drum județean DJ 703C, km 38+323-km 57+223, L = 18,900 km, comuna Poboru (sat Cornățelu)-comuna Cungrea-comuna Verguleasa (sat Poganu), județul Olt” în vederea depunerii pentru finanțare în cadrul Progra",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15261.pdf",
+     "sha256": "49a28fb32c6d64ecab88700fd7ffb48ad23ba4a08ef5b7a2b2cdf300cbcd1e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-26-2022",
+   "path": "local/judet/olt/2022/26",
+   "short": "HCJ Olt nr. 26/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 26/2022 pentru susţinerea activităţii Asociaţiei de Dezvoltare Intercomunitară „OLT-ECO” pe anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15292.pdf",
+     "sha256": "bf274ce1fe79846b6641d0e39c9865475499148eeb11a062ffa095435280990e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-27-2022",
+   "path": "local/judet/olt/2022/27",
+   "short": "HCJ Olt nr. 27/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 27/2022 pentru susţinerea activităţii Asociaţiei de Dezvoltare Intercomunitară de Utilităţi Publice pentru Serviciul de Alimentare cu Apă şi de Canalizare „Oltul” pe anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15293.pdf",
+     "sha256": "384cb3b00072fea6fa7d3d4de442a8ba9520c2d0532384adbcf96618d9835525"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-28-2022",
+   "path": "local/judet/olt/2022/28",
+   "short": "HCJ Olt nr. 28/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 28/2022 pentru anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15294.pdf",
+     "sha256": "8147b6cf2c5314ec15d75747db5aa76147c51f2a8d839a7391feb2a0136f9d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-29-2022",
+   "path": "local/judet/olt/2022/29",
+   "short": "HCJ Olt nr. 29/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 29/2022 pentru acordarea în anul 2022 a sprijinului financiar din bugetul Consiliului Județean Olt pentru unitățile de cult aparținând cultelor religioase din județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15295.pdf",
+     "sha256": "e26371e3ec9ae2118a38e2fb6c0005b19d15af805700dfec6aeaa41790574330"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-31-2022",
+   "path": "local/judet/olt/2022/31",
+   "short": "HCJ Olt nr. 31/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 31/2022 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Priseaca, a unor părți din zona drumului județean DJ 657 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15297.pdf",
+     "sha256": "74b2001bf263ded40fdfb3809e3080b3f0be7d6784ef5dedca8f9871521d926f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-32-2022",
+   "path": "local/judet/olt/2022/32",
+   "short": "HCJ Olt nr. 32/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 32/2022 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Valea Mare, a unei părți din zona drumului județean DJ 657 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15298.pdf",
+     "sha256": "b75b8fa2bc8cabcdeb9a4a6344bcace05de14872f0915e121d535824a18b30ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-33-2022",
+   "path": "local/judet/olt/2022/33",
+   "short": "HCJ Olt nr. 33/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 33/2022 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Nicolae Titulescu, a unor părți din zona drumului județean DJ 546A Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15299.pdf",
+     "sha256": "8c13902ae49c5ac55aaffdbb3dbee5a18bf91836cfe64da6e9bc85257b215a6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-35-2022",
+   "path": "local/judet/olt/2022/35",
+   "short": "HCJ Olt nr. 35/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 35/2022 cu privire la organizarea și desfășurarea evaluării anuale pentru perioada 01.01.2021 – 31.12.2021 a managementului pentru Biblioteca Județeană Olt „Ion Minulescuˮ Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15301.pdf",
+     "sha256": "1662907f2a8742dbc3aec63832ce5fb3cc7cfb6335807ddb6aec0965cd0a3c1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-36-2022",
+   "path": "local/judet/olt/2022/36",
+   "short": "HCJ Olt nr. 36/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 36/2022 cu privire la transformarea unor posturi în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15302.pdf",
+     "sha256": "e9ed70ec8f60d668771f707f8796ef66545503615e14a0e19b844e1ad73eb0b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-38-2022",
+   "path": "local/judet/olt/2022/38",
+   "short": "HCJ Olt nr. 38/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 38/2022 cu privire la constatarea încetării contractului de management al managerului (directorului) interimar al Muzeului Județean Olt, precum și cu privire la desemnarea managerului (directorului) interimar al Muzeului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15304.pdf",
+     "sha256": "d3d5a6f2a202eb006175a57c9fe29bb5d20d46117c0b63a9fe86a955bf654cac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-40-2022",
+   "path": "local/judet/olt/2022/40",
+   "short": "HCJ Olt nr. 40/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 40/2022 pentru Studii Economico - Sociale, Buget-Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr. 2613/10.03.2022 al Comisiei pentru Organizarea și Dezvoltarea Urbanistică, Realizarea Lucrărilor Publice, Ecologie și Protecția Mediului, Conservarea Monumentelor Istorice și de Arhitectură; - Avizul nr. 2614/10.03.2022 al Comisiei pentru Administrație Publică, Juridică, A",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15320.pdf",
+     "sha256": "9864351df4e68aae10375232e490182950ce90a33442ad52a84b9c4e3a0842b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-42-2022",
+   "path": "local/judet/olt/2022/42",
+   "short": "HCJ Olt nr. 42/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 42/2022 pentru aprobarea rezultatului final la evaluarea anuală a managementului Bibliotecii Județene Olt ,,Ion Minulescuˮ pentru perioada 01.01.2021 – 31.12.2021, precum și pentru aprobarea continuării exercitării contractului de management de către managerul Bibliotecii Județene Olt ,,Ion Minulescuˮ Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15435.pdf",
+     "sha256": "4c0cc9c840a94f5cc175b8a7e35d6c8b1719e8b0cfc08c25889dff4b53524a25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-43-2022",
+   "path": "local/judet/olt/2022/43",
+   "short": "HCJ Olt nr. 43/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 43/2022 cu privire la transformarea unui post vacant în statul de funcții al Bibliotecii Județene Olt ,,Ion Minulescuˮ Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15436.pdf",
+     "sha256": "fea648cacb807e4121828f734ff310e4feac3e980e9a72f5c8caef8b2de016c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-44-2022",
+   "path": "local/judet/olt/2022/44",
+   "short": "HCJ Olt nr. 44/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 44/2022 cu privire la aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Județean Olt pentru anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15437.pdf",
+     "sha256": "c9641e333e328e0e8fbf75cf3fa426e29138fcb982d10c50e0fc67d797153f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-48-2022",
+   "path": "local/judet/olt/2022/48",
+   "short": "HCJ Olt nr. 48/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 48/2022 cu privire la trecerea unei suprafețe de teren aferentă zonei drumului județean DJ 653 din domeniul public al Județului Olt în domeniul public al Statului, pentru realizarea lucrării de utilitate publică de interes național „Drumul expres Craiova – Pitești și legăturile cu drumurile existente” lot 2 județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15441.pdf",
+     "sha256": "9b8ce12afc9a821c318802b29a49bec872454ba9732e8c49bb5affc221e28221"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-50-2022",
+   "path": "local/judet/olt/2022/50",
+   "short": "HCJ Olt nr. 50/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 50/2022 pentru modificarea organigramei, statului de funcții și Regulamentului de organizare și funcționare ale Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15443.pdf",
+     "sha256": "60186c84574a0bde604188863eb0ebaa25024e54a73285ecfafda0d374bfc44c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-51-2022",
+   "path": "local/judet/olt/2022/51",
+   "short": "HCJ Olt nr. 51/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 51/2022 cu privire la darea în folosință gratuită Asociației de Dezvoltare Intercomunitară „Olt-Eco” a unui spațiu dintr-un imobil aflat în domeniul public al Județului Olt și în administrarea Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15444.pdf",
+     "sha256": "c5aaf13d6d4b30995de95059ad00c09e05123d872b9aec75dce1bca7980ff1b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-52-2022",
+   "path": "local/judet/olt/2022/52",
+   "short": "HCJ Olt nr. 52/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 52/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15445.pdf",
+     "sha256": "9d9b88919a89cb739e1673d902521de754b4fb87a578981196d8dd98a6299a76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-54-2022",
+   "path": "local/judet/olt/2022/54",
+   "short": "HCJ Olt nr. 54/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 54/2022 pentru creșterea eficienței energetice la clădirea sediului Direcției Generale de Asistență Socială și Protecția Copilului Olt” în vederea finanțării prin Planul Național de Redresare și Reziliență Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15534.pdf",
+     "sha256": "fc8125f22bead1a51e973e6af790c4fe33ccb41339dc67d14af07dbf165580d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-58-2022",
+   "path": "local/judet/olt/2022/58",
+   "short": "HCJ Olt nr. 58/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 58/2022 cu privire la acordarea în anul 2022 a sprijinului financiar din bugetul Consiliului Judeţean Olt, pentru unităţile de cult aparţinând cultelor religioase din Judeţul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15564.pdf",
+     "sha256": "6e361ad8016bf5df7719411c893c6e0b351be64e8184e86619d530a25d5cb933"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-60-2022",
+   "path": "local/judet/olt/2022/60",
+   "short": "HCJ Olt nr. 60/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 60/2022 cu privire la transformarea unui post vacant în statul de funcții al Direcţiei Judeţene de Evidenţă a Persoanelor Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15566.pdf",
+     "sha256": "873f18ebc02fbf2d0c2ef58cf97f73db58ceb69c9ab1b74ecc36c8600559fdb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-61-2022",
+   "path": "local/judet/olt/2022/61",
+   "short": "HCJ Olt nr. 61/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 61/2022 pentru anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15567.pdf",
+     "sha256": "b826a4196f05cea91752e7f055e02852cd7939d5df88fafe4827c5196c6bb673"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-63-2022",
+   "path": "local/judet/olt/2022/63",
+   "short": "HCJ Olt nr. 63/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 63/2022 pentru Mediu al Județului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15569.pdf",
+     "sha256": "d0c8161654ccbd34287656367a3b46e1194797a1bd0e1f76e8c5194d243d13ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-69-2022",
+   "path": "local/judet/olt/2022/69",
+   "short": "HCJ Olt nr. 69/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 69/2022 pentru Studii Economico-Sociale, Buget- Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr. 4665/27.04.2022 al Comisiei pentru Organizarea și Dezvoltarea Urbanistică, Realizarea Lucrărilor Publice, Ecologie și Protecția Mediului, Conservarea Monumentelor Istorice și de Arhitectură; - Avizul nr. 4670/27.04.2022 al Comisiei pentru Administrație Publică, Juridică, Ap",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15575.pdf",
+     "sha256": "0c989d1d256487d8a30df8009ecc1430261ef97c58f5b9d98d0f687a4d46b60d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-70-2022",
+   "path": "local/judet/olt/2022/70",
+   "short": "HCJ Olt nr. 70/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 70/2022 pentru creșterea eficienței energetice la Spitalul Județean de Urgență Slatina – Pavilion Materno-Infantil” în vederea finanțării prin Planul Național de Redresare și Reziliență Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15576.pdf",
+     "sha256": "bd3dbe3cd92c27f4d428f9e1778c1c20d0b4aeaf52e4745bb39a09a09d183032"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-74-2022",
+   "path": "local/judet/olt/2022/74",
+   "short": "HCJ Olt nr. 74/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 74/2022 cu privire la desființarea unui post contractual vacant în statul de funcții al Serviciului Județean de Pază Olt, precum și cu privire la modificarea organigramei și a statului de funcții ale Serviciului Județean de Pază Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15664.pdf",
+     "sha256": "5803593fe7ac087dc0cab8c870ac3d7e4c3082556ea23cf8c7e6850e1c59023f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-75-2022",
+   "path": "local/judet/olt/2022/75",
+   "short": "HCJ Olt nr. 75/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 75/2022 pentru îndreptarea unei erori materiale din cuprinsul Hotărârii Consiliului Județean Olt nr.60/28.04.2022 cu privire la transformarea unui post vacant în statul de funcții al Direcţiei Judeţene de Evidenţă a Persoanelor Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15665.pdf",
+     "sha256": "2b7699bc6ac019427f9c95005754aff715762787ab83f8a088c97b070c27386b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-76-2022",
    "path": "local/judet/olt/2022/76",
    "short": "HCJ Olt nr. 76/2022",
@@ -74,6 +1409,156 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/15666.pdf",
      "sha256": "7dc7c4954963d2d8be1ec9623963c4aafb6c93af3e6a47edb6dd5df2087f79e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-81-2022",
+   "path": "local/judet/olt/2022/81",
+   "short": "HCJ Olt nr. 81/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 81/2022 pentru Dezvoltare Regională SudVest Oltenia și Biroului Regional de Cooperare Transfrontalieră Călărași pentru anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15671.pdf",
+     "sha256": "aa00cc7430f048620973272357f517b30bf8997a12f326193d85a923656c628f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-82-2022",
+   "path": "local/judet/olt/2022/82",
+   "short": "HCJ Olt nr. 82/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 82/2022 pentru creșterea eficienței energetice la clădirea Complexului de Servicii Persoane Adulte Slatina” în vederea finanțării prin Planul Național de Redresare și Reziliență Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15672.pdf",
+     "sha256": "02f156ffd947605a6c2440a49abd7707c86fde4acee5df4a64d98c181e1ad380"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-83-2022",
+   "path": "local/judet/olt/2022/83",
+   "short": "HCJ Olt nr. 83/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 83/2022 pentru creșterea eficienței energetice la Spitalul Județean de Urgență Slatina – Pavilion Medicală” în vederea finanțării prin Planul Național de Redresare și Reziliență Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15673.pdf",
+     "sha256": "919562afaa4bb9590ce39f8e691eafc92c8b7c799e3a57b42829d6e8de8f9b81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-84-2022",
+   "path": "local/judet/olt/2022/84",
+   "short": "HCJ Olt nr. 84/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 84/2022 pentru creșterea eficienței energetice la clădirea sediului Centrului Militar Județean Olt” în vederea finanțării prin Planul Național de Redresare și Reziliență Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15674.pdf",
+     "sha256": "b5cc6889aecd971e1336c5501d8249f805f6570e44087d02ebb7f432e36e0c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-85-2022",
+   "path": "local/judet/olt/2022/85",
+   "short": "HCJ Olt nr. 85/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 85/2022 pentru Studii Economico-Sociale, Buget- Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr.6003/24.05.2022 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Adresa nr.574/OT din 13.05.2022 a Administrației Naționale a Rezervelor de Stat și Probleme Speciale - Structura Teritorial",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15675.pdf",
+     "sha256": "3d7202e6337ddda3ca382e8cbd6c40e029e30a599951f12d342237b81fb7446d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-86-2022",
+   "path": "local/judet/olt/2022/86",
+   "short": "HCJ Olt nr. 86/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 86/2022 cu privire la transformarea unor posturi vacante în statul de funcții al Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15676.pdf",
+     "sha256": "3a78251a4d59b4af30becbc61363a1c801543aeb4c43ea59db21ac3915666f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-87-2022",
+   "path": "local/judet/olt/2022/87",
+   "short": "HCJ Olt nr. 87/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 87/2022 pentru îndreptarea erorii materiale din cuprinsul datei de înregistrare a Hotărârii Consiliului Judetean Olt nr.65 cu privire la aprobarea Caietului de obiective pentru concursul de proiecte de management organizat de",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15677.pdf",
+     "sha256": "a6cf5827b1969d95c0cd81ff4345b17dd1c3ce8050be1262d1e4c248ea8e868e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-88-2022",
+   "path": "local/judet/olt/2022/88",
+   "short": "HCJ Olt nr. 88/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 88/2022 pentru pregătirea aplicației de finanțare și a documentațiilor de atribuire pentru proiectul Investiții Complementare Sistemului Integrat de Management al Deșeurilor în Județul Olt’ în vederea finanțării prin Programul Operațional Infrastructură Mare 2014-2020 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15678.pdf",
+     "sha256": "9320b53cfcf803a939613dd81fb60da654b6179115e6e4e3f0ef053506af4c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-89-2022",
+   "path": "local/judet/olt/2022/89",
+   "short": "HCJ Olt nr. 89/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 89/2022 cu privire la aprobarea Planului de selecție pentru desemnarea a 3 membri în Consiliul de Administrație al S.C",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15679.pdf",
+     "sha256": "0d8c09e56a53189bcbd559b5d973488b1237795ce2efd5464093452d40561200"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-92-2022",
+   "path": "local/judet/olt/2022/92",
+   "short": "HCJ Olt nr. 92/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 92/2022 cu privire la încetarea contractului de management al managerului (directorului) interimar al Muzeului Județean Olt, precum și cu privire la desemnarea managerului (directorului) interimar al Muzeului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15968.pdf",
+     "sha256": "cff256964e4a916f0bd01f2c311604f9bc14c4b37248bded64f21801e352d500"
     }
    ]
   },
@@ -93,6 +1578,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-97-2022",
+   "path": "local/judet/olt/2022/97",
+   "short": "HCJ Olt nr. 97/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 97/2022 cu privire la transformarea unor posturi vacante în statul de funcții al Spitalului de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16084.pdf",
+     "sha256": "08835981489be17c94586e1b979e8001ae48f4b979f6fb96dd1c4cfaac64c6e9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-98-2022",
    "path": "local/judet/olt/2022/98",
    "short": "HCJ Olt nr. 98/2022",
@@ -104,6 +1604,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/16085.pdf",
      "sha256": "512cfc51c76f1ac7e280c299bb5f4662961e4386a9fc2c92af862aa16dc605fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-99-2022",
+   "path": "local/judet/olt/2022/99",
+   "short": "HCJ Olt nr. 99/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 99/2022 cu privire la transformarea unor posturi vacante în statele de funcții ale unor servicii sociale din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt, precum și pentru modificarea Regulamentului de organizare și funcționare a serviciului social cu cazare: ”Centrul de îngrijire și asistență Spineni” din structura Direcției Generale de Asistență Socială și Protecția Copil",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16086.pdf",
+     "sha256": "50cc49d83520c51afb439053de9fc20285b1b993159bb067f0d40dd104b08343"
     }
    ]
   }

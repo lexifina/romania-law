@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Județean Olt nr. 42/2022 pentru aprobarea rezultatului final la evaluarea anuală a managementului Bibliotecii Județene Olt ,,Ion Minulescuˮ pentru perioada 01.01.2021 – 31.12.2021, precum și pentru aprobarea continuării exercitării contractului de management de către managerul Bibliotecii Județene Olt ,,Ion Minulescuˮ Vizualizare
+
+HCJ Olt nr. 42/2022 · 1 versions, from 2022-03-30 (latest in force: 2022-03-30) · <https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcj-olt-42-2022` (tags `hcj-olt-42-2022/<day>`; `python tools/on.py <day> hcj-olt-42-2022`).
+
+## Decisions made by hand
+
+- HCJ Olt nr. 42/2022: listed from Consiliul Județean Olt (cjolt.ro); an individual decision: metadata only.
+- HCJ Olt nr. 42/2022: dated from 30 March 2022, the day it was adopted (the register gives no later day of publication).
+- HCJ Olt nr. 42/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

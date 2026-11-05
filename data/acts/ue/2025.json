@@ -2880,6 +2880,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0303"
 },
 {
+"slug": "ue-regulament-304-2025",
+"path": "ue/regulament/2025/304",
+"kind": "ue",
+"year": "2025",
+"number": "304",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul de punere în aplicare (UE) 2025/304 al Comisiei din 31 octombrie 2024 de stabilire a unor standarde tehnice de punere în aplicare pentru aplicarea Regulamentului (UE) 2023/1114 al Parlamentului European și al Consiliului în ceea ce privește formularele, modelele și procedurile standard pentru notificarea transmisă de anumite entități financiare cu privire la intenția lor de a furniza servicii de criptoactive",
+"short": "Regulamentul de punere în aplicare (UE) 2025/304",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0304"
+},
+{
 "slug": "ue-regulament-305-2025",
 "path": "ue/regulament/2025/305",
 "kind": "ue",

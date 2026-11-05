@@ -3,6 +3,171 @@
  "shard": "local/judet/olt/2021",
  "acts": [
   {
+   "slug": "hcj-olt-1-2021",
+   "path": "local/judet/olt/2021/1",
+   "short": "HCJ Olt nr. 1/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 1/2021 cu privire la înființarea centrului rezidențial pentru persoane adulte cu handicap ”Centrul deÎngrijire și Asistență Șopârlița” ca serviciu social cu cazare fără personalitatejuridică în structura Direcției Generale de Asistență Socială și Protecția CopiluluiOlt, prin restructurarea ”Centrului de Îngrijire și Asistență Șopârlița” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/12884.pdf",
+     "sha256": "e3a520b924a30a9485b1f73bf078871f156e87534feec1157a66579bf595c77d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-100-2021",
+   "path": "local/judet/olt/2021/100",
+   "short": "HCJ Olt nr. 100/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 100/2021 cu privire la acordarea în anul 2021 a sprijinului financiar din bugetul Consiliului Judeţean Olt, pentru unităţile de cult aparţinând cultelor religioase din Judeţul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14117.pdf",
+     "sha256": "4e568047bda129c3d31522b2d4e01edba20e4372bbb1eb45c7abd5dff5191452"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-103-2021",
+   "path": "local/judet/olt/2021/103",
+   "short": "HCJ Olt nr. 103/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 103/2021 pentru Studii Economico - Sociale, Buget Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat al Județului; - Prevederile Hotărârii Consiliului Județean Olt nr. 54/09.04.2021 cu privire la aprobarea bugetului județului Olt pe anul 2021 și estimări pe anii 2022-2024, rectificată prin Hotărârea Consiliului Județean Olt nr.86/27.05.2021; - Prevederile art. 19 alin. (2) din Legea pr",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14120.pdf",
+     "sha256": "d0c1fbc8580cbec4bc8d162863a68085d79c72ba5744f6bfc953c39250017737"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-107-2021",
+   "path": "local/judet/olt/2021/107",
+   "short": "HCJ Olt nr. 107/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 107/2021 pentru studii economico-sociale, buget- finanțe, integrare europeană, administrarea domeniului public și privat; ➢ Avizul nr. 7455/12.07.2021 al Comisiei pentru cultură , învățământ activitate știintifică, sănătate, familie, protectie copii și culte; ➢ Avizul nr. 7454/12.07.2021 al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor omului și r",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14219.pdf",
+     "sha256": "ad2b546dcaaf37a7c9b191b71a98b1ef03518fe902e066f274f4ee196edcef9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-109-2021",
+   "path": "local/judet/olt/2021/109",
+   "short": "HCJ Olt nr. 109/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 109/2021 cu privire la înființarea centrului rezidențial pentru persoane adulte cu handicap ”Centrul de Abilitare și Reabilitare Slatina”, ca serviciu social cu cazare fără personalitate juridică, în structura Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14266.pdf",
+     "sha256": "fd8c0c6391e3eaeab3774bca4f56cfe3d734b664c1014614a6852d8df836abda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-118-2021",
+   "path": "local/judet/olt/2021/118",
+   "short": "HCJ Olt nr. 118/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 118/2021 pentru planificarea, fundamentarea și consolidarea procesului decizional la nivelul Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14275.pdf",
+     "sha256": "f7f6cd12987ccf746f62b6422a74a6bdefa500452c0e760b43b77b74999166a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-119-2021",
+   "path": "local/judet/olt/2021/119",
+   "short": "HCJ Olt nr. 119/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 119/2021 pentru modificarea anexei la Hotărârea Consiliului Județean Olt nr.107/12.07.2021 cu privire la: aprobarea proiectului „Îmbunătățirea capacității de gestionare a COVID-19 la Spitalul Județean de Urgență Slatina” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14276.pdf",
+     "sha256": "c4833f9cf1031eec41bb1beb803ec5a0de745bed43fc2928bdf23cb6c81b18a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-12-2021",
+   "path": "local/judet/olt/2021/12",
+   "short": "HCJ Olt nr. 12/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 12/2021 pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Avizul nr. 863/26.01.2021 al Comisiei pentru Agricultură, Silvicultură, Industrie, Servicii Publice și Comerț; - Ordinul Prefectului Județului Olt nr.447/27.10.2020 privind constatarea îndeplinirii condițiilor legale de constituire a Consiliului Județean Olt, înregistrat la C",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/12895.pdf",
+     "sha256": "ab9e81905abb923c866980953cb4c64b6872f63760afe673e050fc8d4cb79930"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-123-2021",
+   "path": "local/judet/olt/2021/123",
+   "short": "HCJ Olt nr. 123/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 123/2021 pentru modificarea Statului de funcții al Complexului Servicii Persoane AdulteCorabia și Regulamentului de organizare și funcționare a serviciului socialcu cazare: ”Centrul de Îngrijire și Asistență Corabia” din structura DirecțieiGenerale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14356.pdf",
+     "sha256": "89e7faa8b61d218dfb43208c68e9fb16018bb7f3adc99b1b56773685df2d8307"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-125-2021",
+   "path": "local/judet/olt/2021/125",
+   "short": "HCJ Olt nr. 125/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 125/2021 pentru modificarea și completarea componenței nominale a Colegiului Director alDirecției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14358.pdf",
+     "sha256": "6812a33a0c7dfdec19ce3f85a3ab616b2b0ffe41cdbddf403c5886c91aa5a159"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-127-2021",
+   "path": "local/judet/olt/2021/127",
+   "short": "HCJ Olt nr. 127/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 127/2021 pentru Studii Economico – Sociale, Buget – Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; -Avizul nr. 8922/24.08.2021 al Comisiei pentru Organizarea și Dezvoltarea Urbanistică, Realizarea Lucrărilor Publice, Ecologie și Protecția Mediului, Conservarea Monumentelor Istorice și de Arhitectură; -Avizul nr. 8962/25.08.2021 al Comisiei pentru Administrație Publică, Juridică, A",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14360.pdf",
+     "sha256": "7596152c23ab52e7f937e12b49235a56796b4a474ca1d585efbea8b1c09e8844"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-129-2021",
    "path": "local/judet/olt/2021/129",
    "short": "HCJ Olt nr. 129/2021",
@@ -14,6 +179,426 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/14436.pdf",
      "sha256": "a018d45b2b80867ec7c5ea34b3e7fad143c43d5baee882ba6cfa2fb93c8a6491"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-132-2021",
+   "path": "local/judet/olt/2021/132",
+   "short": "HCJ Olt nr. 132/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 132/2021 pentru Studii Economico- Sociale, Buget Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr.9629/14.09.2021 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Prevederile art.36 alin.(1) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulteri",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14439.pdf",
+     "sha256": "e432f0f5849aaefdeebf8e29a0d4410d04c16139ca9430e5df388df5399f8140"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-137-2021",
+   "path": "local/judet/olt/2021/137",
+   "short": "HCJ Olt nr. 137/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 137/2021 pentru prevenirea și combaterea exploatării copiilor prinmuncă, la nivelul județului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14467.pdf",
+     "sha256": "57659b2e88b5ad4d59becd51ae0c0afdf9f10aa4e657e7fe97b177e8b8b47d11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-139-2021",
+   "path": "local/judet/olt/2021/139",
+   "short": "HCJ Olt nr. 139/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 139/2021 pentru Studii Economico- Sociale, Buget Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr.10143/28.09.2021 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Prevederile art.36 alin.(1) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulter",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14469.pdf",
+     "sha256": "bfcd9b34c3e5a417f5ae3d5e4e4450870ce414b6073b0196a56b24b40d5fc4ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-140-2021",
+   "path": "local/judet/olt/2021/140",
+   "short": "HCJ Olt nr. 140/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 140/2021 cu privire la transformarea unor posturi vacante în statul de funcții al Bibliotecii Județene Olt ,,Ion Minulescuˮ Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14470.pdf",
+     "sha256": "10ddf0297f0ff6f4fbf281a7484d4434194787823915b7af7e7876c99a2b4cf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-143-2021",
+   "path": "local/judet/olt/2021/143",
+   "short": "HCJ Olt nr. 143/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 143/2021 pentru Organizarea și Dezvoltarea Urbanistică, Realizarea Lucrărilor Publice Ecologie și Protecția Mediului, Conservarea Monumentelor Istorice și de Arhitectură; - Avizul nr. 10206/29.09.2021 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Avizul nr. 10201/29.09.2021 al Comisiei pentru Studii Economico - Social",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14473.pdf",
+     "sha256": "a493b6b6f9f06e9c29bc2ae3dd309b3ad00fbba5b39ac105203bb3ec1636d2ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-144-2021",
+   "path": "local/judet/olt/2021/144",
+   "short": "HCJ Olt nr. 144/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 144/2021 privind aprobarea cererii de transmitere a imobilului „Clădire psihiatrie dermatologie” și a terenului aferent, din domeniul public al municipiului Slatina, în domeniul public al Județului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14474.pdf",
+     "sha256": "c54b49a8410027c6bbc1787e8c3b0b6b60f36fed22aec4efaecf0fe44b12ebb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-145-2021",
+   "path": "local/judet/olt/2021/145",
+   "short": "HCJ Olt nr. 145/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 145/2021 cu privire la aprobarea efectuării inventarierii anuale a bunurilor care alcătuiescdomeniul public și privat al unității administrativ-teritoriale Județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14475.pdf",
+     "sha256": "5f09f063bf6539c86cd1a42720546e07c70d99d725debbfde5fa282c9fdcd76d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-146-2021",
+   "path": "local/judet/olt/2021/146",
+   "short": "HCJ Olt nr. 146/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 146/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14476.pdf",
+     "sha256": "84e73b131f888b28013e7dfee793041710c23e4dc811ea3720f0f7c494949248"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-15-2021",
+   "path": "local/judet/olt/2021/15",
+   "short": "HCJ Olt nr. 15/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 15/2021 cu privire la aprobarea organigramei și statului de funcții ale centrului rezidențial pentrupersoane adulte cu handicap ”Centrul de Îngrijire și Asistență Șopârlița”,serviciu social cu cazare fără personalitate juridică în structura DirecțieiGenerale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/12898.pdf",
+     "sha256": "8bdc25950b1661ec462cd00971a8af0514c9c750df55484f2af983d5acc96d9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-151-2021",
+   "path": "local/judet/olt/2021/151",
+   "short": "HCJ Olt nr. 151/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 151/2021 pentru Studii Economico- Sociale, Buget Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr.11143/26.10.2021 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Prevederile art.36 alin.(1) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulter",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14669.pdf",
+     "sha256": "520b565c7ad204020440095d850bc69ab1b0264a6036c9ec3d7616c77f8f1f01"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-153-2021",
+   "path": "local/judet/olt/2021/153",
+   "short": "HCJ Olt nr. 153/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 153/2021 cu privire la desemnarea reprezentanților Consiliului Județean Olt în calitate de membri în Consiliile de Administrație ale unităților de învățământ preuniversitar de stat din subordinea Consiliului Județean Olt, pentru anul școlar 2021 – 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14671.pdf",
+     "sha256": "220a2ec5414a828a8d02da5a07b98b28a06c65d3f22b43c63e23759f5edda473"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-154-2021",
+   "path": "local/judet/olt/2021/154",
+   "short": "HCJ Olt nr. 154/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 154/2021 pentru modificarea Statului de funcții al Caselor de tip familial “Mugurel”Slatina – serviciu social cu cazare din structura Direcției Generalede Asistență Socială și Protecția Copilului Olt, precum și pentru modificarea Regulamentului de organizare și funcționare aserviciului social cu cazare Casele de tip familial “Mugurel” Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14672.pdf",
+     "sha256": "4307cf9a8b9fb7e72c2b587900efbd87cd0c8f0e9a8a91eb1fca0b25734bbef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-155-2021",
+   "path": "local/judet/olt/2021/155",
+   "short": "HCJ Olt nr. 155/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 155/2021 pentru modificarea Statului de funcții al Centrului maternal “Adelina” Slatina -serviciu social cu cazare din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt, precum și pentru completarea Regulamentului de organizare și funcționare a serviciului social cu cazareCentrul maternal “Adelina” Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14673.pdf",
+     "sha256": "f0b348efa57baf830014df2b2ec6881087b2ec8d73d6a45518b4c38381d24b67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-156-2021",
+   "path": "local/judet/olt/2021/156",
+   "short": "HCJ Olt nr. 156/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 156/2021 pentru Dezvoltare Regională SudVest Olteniași Biroului Regional deCooperare TransfrontalierăCălărași pentru anul 2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14674.pdf",
+     "sha256": "c848634ea06449b3d2dbf88ab82d202ad18bef9038a77c1be19f7415625d844f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-157-2021",
+   "path": "local/judet/olt/2021/157",
+   "short": "HCJ Olt nr. 157/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 157/2021 pentru modificarea Statului de funcții și Organigramei ale Centrului de abilitare și reabilitare Caracal – serviciu social cu cazare dinstructura Direcției Generale de Asistență Socială și Protecția Copilului Olt, precum și pentru modificarea Regulamentului deorganizare și funcționare a serviciului social cu cazare Centrul de abilitare și reabilitare Caracal Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14675.pdf",
+     "sha256": "783f18167021a0b43eb1ddbf43c1654675a6849e649a4c40c4b9ffebc9936013"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-158-2021",
+   "path": "local/judet/olt/2021/158",
+   "short": "HCJ Olt nr. 158/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 158/2021 cu privire la transformarea unor posturi vacante în statele de funcții ale unor serviciisociale din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14676.pdf",
+     "sha256": "6552ca8978ee11d316989e52909df6e53a74877dcdf9ab94a9cb86c0d6d3bfd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-16-2021",
+   "path": "local/judet/olt/2021/16",
+   "short": "HCJ Olt nr. 16/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 16/2021 pentru modificarea subpunctului 3 al punctului 3 din anexa la Hotărârea Consiliului Județean Olt nr.9/25.01.2018, precum și pentru stabilirea salariilor de bază pentru unele funcții publice și contractuale de execuție din cadrul aparatului propriu al Direcției Generale de Asistență Socială și Protecția Copilului Olt",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/12899.pdf",
+     "sha256": "50cec9734bc4316c927da08d2db244044909200817cb3b91d423d1b3f077893f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-161-2021",
+   "path": "local/judet/olt/2021/161",
+   "short": "HCJ Olt nr. 161/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 161/2021 cu privire la aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții nou “Modernizare drum județean DJ 643, KM 0+000-KM 25+240, Bobu-Voineasa-Balș, Județul Olt” în vederea depunerii pentru finanțareîn cadrul Programului național de investiții “Anghel Saligny” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14679.pdf",
+     "sha256": "389d2a5d16d2360e3268ab1eb6dc9f7a91cbd49fcc80518e27f1218fb652f828"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-162-2021",
+   "path": "local/judet/olt/2021/162",
+   "short": "HCJ Olt nr. 162/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 162/2021 cu privire la aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții nou “Modernizare drum județean DJ 546C, km 0+000-6+011,L = 6,011 km, Potcoava-Perieți” în vederea depunerii pentru finanțare în cadrulProgramului național de investiții “Anghel Saligny” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14680.pdf",
+     "sha256": "0d640f38c2445ba912c95eccf5bf6ffe17f5808113efea2f1d34556bd7fc1c9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-163-2021",
+   "path": "local/judet/olt/2021/163",
+   "short": "HCJ Olt nr. 163/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 163/2021 cu privire la aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții nou “Construire pod nou din beton armat pe DJ 703D, comuna Cungrea, sat Spătaru, jud. Olt, km 21+050” în vederea depunerii pentru finanțare încadrul Programului național de investiții “Anghel Saligny” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14681.pdf",
+     "sha256": "34a9648a75ddec8f9595bd9bed93b5ce50d2e8641c01e7dafdd1d7bc304e15a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-164-2021",
+   "path": "local/judet/olt/2021/164",
+   "short": "HCJ Olt nr. 164/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 164/2021 cu privire la aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții nou “Construire pod nou din beton armat pe DJ 653, comuna Schitu, km 23+177” în vederea depunerii pentru finanțare în cadrul Programului național de investiții “Anghel Saligny” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14682.pdf",
+     "sha256": "0ea710b5b00e179dd2d17dd9c35e173e3cbaa6836d02b96d171745dac57e76d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-167-2021",
+   "path": "local/judet/olt/2021/167",
+   "short": "HCJ Olt nr. 167/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 167/2021 cu privire la aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții nou “Modernizare drum județean DJ 703C, km 38+323-km 57+223, L=18,900 km, comuna Poboru (sat Cornățelu)–comuna Cungrea-comunaVerguleasa (sat Poganu), județul Olt” în vederea depunerii pentru finanțare în cadrul Programului național de investiții “Anghel Saligny” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14685.pdf",
+     "sha256": "2e3b6cbfac6ab7ddea5eb45b7f9b13a500faf171d81e6c90bc4fbb9ba77206b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-168-2021",
+   "path": "local/judet/olt/2021/168",
+   "short": "HCJ Olt nr. 168/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 168/2021 cu privire la transformare post vacant în statul de funcții al aparatului de specialitate al Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14686.pdf",
+     "sha256": "fa18ba9fd0f1c00fe30d2da750873ddd9a1d5a4a115e25b24dd808550e8e3067"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-170-2021",
+   "path": "local/judet/olt/2021/170",
+   "short": "HCJ Olt nr. 170/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 170/2021 cu privire la desemnarea reprezentanților Consiliului Județean Olt în calitate de membri în Comisiile de evaluare a probei de interviu pentru Școala Profesională Specială Balș, respectiv pentru Centrul Școlar pentru Educație Incluzivă Balș Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14726.pdf",
+     "sha256": "a5614c4388ab0d0a946e834feae5514573b4931fd0fe5c6039f349e7a6db664d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-172-2021",
+   "path": "local/judet/olt/2021/172",
+   "short": "HCJ Olt nr. 172/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 172/2021 pentru obiectivul de investiții ,,Construire pod nou din beton armat pe DJ 546E, comuna Oporelu, km 12+600” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14816.pdf",
+     "sha256": "8cb090bedbbd69a2447bd2a90c4fa21bfd0d068f7b752ec175b1c01fac5ac771"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-176-2021",
+   "path": "local/judet/olt/2021/176",
+   "short": "HCJ Olt nr. 176/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 176/2021 cu privire la transformarea unui post vacant în statul de funcții al Spitalului de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14820.pdf",
+     "sha256": "41d7d2bf7a1a94cb61ac020e6b200aa9a9d65107c1b163e1811f504c83524bb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-179-2021",
+   "path": "local/judet/olt/2021/179",
+   "short": "HCJ Olt nr. 179/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 179/2021 cu privire la trecerea unor suprafețe de teren aferente zonei drumurilor județeneDJ 657B, DJ 657D, DJ 703 și DJ 703C din domeniul public al Județului Olt îndomeniul public al Statului, pentru realizarea lucrării de utilitate publică deinteres național „Drumul expres Craiova – Pitești și legăturile cu drumurile existente” lot 2 județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14823.pdf",
+     "sha256": "f9299df80bf0c0186703cb8a8111b7e3f5d359c55a70c12b97f60e91bae31edf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-184-2021",
+   "path": "local/judet/olt/2021/184",
+   "short": "HCJ Olt nr. 184/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 184/2021 pentru anul 2022 Având în vedere: - referatul de aprobare nr. 10669/13.10.2021 al vicepreședintilor Consiliului Județean Olt; - raportul comun nr. 10673/13.10.2021 al Direcției Economice, Buget-Finanțe, Arhitectului Șef al Județului Olt și al Direcției Tehnice și Investiții; - avizul nr. 13332/20.12.2021 al Comisiei pentru studii economico-sociale, buget- finanțe, integrare europeană, administrare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14951.pdf",
+     "sha256": "ad04b2a80772f0617cae0f780af82cb957ac998c6c768961bf158f318479ebca"
     }
    ]
   },
@@ -33,6 +618,276 @@
    ]
   },
   {
+   "slug": "hcj-olt-188-2021",
+   "path": "local/judet/olt/2021/188",
+   "short": "HCJ Olt nr. 188/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 188/2021 pentru anul 2022 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14955.pdf",
+     "sha256": "e9a3e37ab86e0230ca909cedd622e271771246ff5e3b181672baacfec00c8277"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-19-2021",
+   "path": "local/judet/olt/2021/19",
+   "short": "HCJ Olt nr. 19/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 19/2021 cu privire la aprobarea Planului anual de acțiune privind serviciile sociale administrate șifinanțate din bugetul Consiliului Județean Olt pentru anul 2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/12902.pdf",
+     "sha256": "43187fe31abe9a53e2ac3ddbb25dfde572ddb69eb2d00b9fcb3d6ed73315321c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-190-2021",
+   "path": "local/judet/olt/2021/190",
+   "short": "HCJ Olt nr. 190/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 190/2021 cu privire la aprobarea „Calendarului manifestărilor culturale în anul 2022”; - Avizul nr. 13327/20.12.2021 al Comisiei pentru cultură, învățământ, activitate științifică, sănătate, familie, protecție copii și culte; - Avizul nr. 13329/20.12.2021 al Comisiei pentru administrație publică, juridică, apărarea ordinii publice, respectarea drepturilor omului și relații cu cetățenii; - Avizul nr. 13346/",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14957.pdf",
+     "sha256": "35998eba540084a0f5cbd26f557c2c46e42d0cd90f5b7ba00cc910ad3d6edbca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-193-2021",
+   "path": "local/judet/olt/2021/193",
+   "short": "HCJ Olt nr. 193/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 193/2021 cu privire la reorganizarea Muzeului Județean Olt, aprobarea numărului de posturi, a organigramei, a statului de funcții și a Regulamentului de organizare și funcționare aleMuzeului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14960.pdf",
+     "sha256": "aa753a876a2115c7ba33ad03561830460eca8f6e2d56e1b6d39be1a0e650de95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-194-2021",
+   "path": "local/judet/olt/2021/194",
+   "short": "HCJ Olt nr. 194/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 194/2021 cu privire la transformarea unui post vacant în statul de funcții al Direcţiei Judeţene de Evidenţăa Persoanelor Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14961.pdf",
+     "sha256": "72492c8fe82e319d60857b9ab862d55a9f7a1999845afad265a6092e1e3c916a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-197-2021",
+   "path": "local/judet/olt/2021/197",
+   "short": "HCJ Olt nr. 197/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 197/2021 pentru sportivii și antrenorii din județul Olt, care auobținut rezultate deosebite la Jocurile Olimpice, Campionatele Europene și Balcanice – Sporturi Olimpice, în anul 2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/14964.pdf",
+     "sha256": "41deb7b34aaf11e9be8b7f3d3e2d4a68d2791bf0f906929d80c0c89995273458"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-2-2021",
+   "path": "local/judet/olt/2021/2",
+   "short": "HCJ Olt nr. 2/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 2/2021 cu privire la înființarea serviciului social cu cazare ,,Locuința Maxim Protejată pentru PersoaneAdulte cu Dizabilități nr.1 Slatina”, fără personalitate juridică, în structura DirecțieiGenerale de Asistență Socială și Protecția Copilului Olt și aprobareaRegulamentului de Organizare și Funcționare al ,,Locuinței Maxim Protejate pentruPersoane Adulte cu Dizabilități nr.1 Slatina” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/12885.pdf",
+     "sha256": "4da3cdb47165274b30f5c39422dbb76f475983ac38ef7307f879570b18a781a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-21-2021",
+   "path": "local/judet/olt/2021/21",
+   "short": "HCJ Olt nr. 21/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 21/2021 cu privire la exercitarea temporară a atribuţiilor Preşedintelui Consiliului Judeţean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/12904.pdf",
+     "sha256": "f582d340529b3eed2b2216346d9bb070aa82bb2b9de015529e2793b31a1ed46d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-22-2021",
+   "path": "local/judet/olt/2021/22",
+   "short": "HCJ Olt nr. 22/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 22/2021 cu privire la înființarea centrului rezidențial pentru persoane adulte cu handicap”Centrul de Abilitare și Reabilitare Cezieni” ca serviciu social cu cazare fără personalitate juridică în structura Direcției Generale deAsistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13000.pdf",
+     "sha256": "09f243838df317bba153e3547a2ac10ac95ff4cc6161e4209e61c00a795bfa0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-26-2021",
+   "path": "local/judet/olt/2021/26",
+   "short": "HCJ Olt nr. 26/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 26/2021 cu privire la : acordare premii pentru sportivii și antrenorii din județul Olt, careau obținut rezultate deosebite la Campionatele Europene și Balcanice – SporturiOlimpice, în anul 2020 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13014.pdf",
+     "sha256": "fa81c7f6576def84e0a7fa3d1a4fd8689ec9e956e40e59e7fc296dcc962c09bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-28-2021",
+   "path": "local/judet/olt/2021/28",
+   "short": "HCJ Olt nr. 28/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 28/2021 cu privire la organizarea și desfășurarea evaluării anuale pentru perioada14.10.2019-31.12.2020 a managementului pentru Biblioteca Județeană Olt „Ion Minulescuˮ Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13016.pdf",
+     "sha256": "0f6da368c5be011655fada0403980e97879f3511b9fe4a3820cad92f25598fea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-30-2021",
+   "path": "local/judet/olt/2021/30",
+   "short": "HCJ Olt nr. 30/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 30/2021 pentru Studii Economico – Sociale, Buget Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat al Județului; Prevederile art. 57 din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare; Prevederile Legii nr. 5/2020 a bugetului de stat pe anul 2020, cu modificările și completările ulterioare; Prevederile Ordinului ministrului finanțel",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13018.pdf",
+     "sha256": "ed2e679ba02d5f86e601d01e98fcd0faf9d5881f8f805c4a2c8209eeb053e9ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-32-2021",
+   "path": "local/judet/olt/2021/32",
+   "short": "HCJ Olt nr. 32/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 32/2021 pentru administrație publică, juridică, apărarea ordinii publice, respectarea drepturilor omului și relații cu cetățenii; - Avizul nr. 1833/23.02.2021 al Comisiei pentru agricultură, silvicultură, industrie, servicii publice și comerț; - Avizul nr.1837/23.02.2021 al Comisiei pentru organizarea și dezvoltarea urbanistică, realizarea lucrărilor publice, ecologie și protecția mediului, conservarea mo",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13020.pdf",
+     "sha256": "f1b17a1ddfa7a3800cb08d3e934babdb83cdb21d8f2d09bb44a873f0a4d2c8e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-33-2021",
+   "path": "local/judet/olt/2021/33",
+   "short": "HCJ Olt nr. 33/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 33/2021 pentru trecerea din domeniul public în domeniul privat al Județului Olt a unor construcțiiaflate în administrarea Serviciului de Ambulanță Județean Olt în vederea scoaterii dinfuncţiune şi demolării și pentru modificarea anexei la Hotărârea Consiliului Județean Olt nr. 41/26.04.2001, cu privire la însușirea inventarului bunurilor ce aparțin domeniului public al Județului Olt, cu modificările și co",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13021.pdf",
+     "sha256": "b5116876e6e13b615750206a300ebf6447bef13a70d4f8a2fe2837bd9b54d118"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-34-2021",
+   "path": "local/judet/olt/2021/34",
+   "short": "HCJ Olt nr. 34/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 34/2021 privind aprobarea Planului Județean de Gestionare a Deșeurilor pentru Județul Olt2020-2025 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13022.pdf",
+     "sha256": "a667fa61d5239ff6358ed08a7394e044e506ef70f1b1a2765f2b005ff59707c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-37-2021",
+   "path": "local/judet/olt/2021/37",
+   "short": "HCJ Olt nr. 37/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 37/2021 cu privire la înființarea unui serviciu social cu cazare în cadrul Caselor de Tip Familial ,,Sf. Mihail” Caracal din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt, precum și pentru modificarea Regulamentului de Organizare și Funcționare a serviciului social Casele de tip familial ,,Sf. Mihail” Caracal din structura Direcției Generale de Asistență Socială și Protecția",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13025.pdf",
+     "sha256": "59ea03913160f456f00ae5185afb854de5c196e75f8c03b7c358b57d31c84a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-38-2021",
+   "path": "local/judet/olt/2021/38",
+   "short": "HCJ Olt nr. 38/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 38/2021 pentru Agricultură, Silvicultură, Industrie, Servicii Publice și Comerț; - Avizul nr.1865/24.02.2021 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Ordinul Prefectului Județului Olt nr.447/27.10.2020 privind constatarea îndeplinirii condițiilor legale de constituire a Consiliului Județean Olt, înregistrat la C",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13026.pdf",
+     "sha256": "3eb759907669b7e25dc1b99fcf3ed078996f58d5114b67f0d477e44925ab2f30"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-39-2021",
+   "path": "local/judet/olt/2021/39",
+   "short": "HCJ Olt nr. 39/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 39/2021 pentru modificarea Organigramei Direcției Generale de Asistență Socială și Protecția Copilului Olt aprobată prin Hotărârea Consiliului Județean Olt nr.46/27.02.2020, precum și pentru modificarea Regulamentului de Organizare și Funcționare al Direcției Generale de Asistență Socială și Protecția Copilului Olt – aparat propriu, aprobat prin Hotărârea Consiliului Județean Olt nr.64/29.03.2018",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13027.pdf",
+     "sha256": "3a8357f1e35a590837d9a2857c094a4c773a7ebaabf1bc85000c8233b33bb6cd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-40-2021",
    "path": "local/judet/olt/2021/40",
    "short": "HCJ Olt nr. 40/2021",
@@ -44,6 +899,291 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/13205.pdf",
      "sha256": "be1c10fa3f44497ebd34d52c86c0870feccacf78088acb72c4da6327abb4a4df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-47-2021",
+   "path": "local/judet/olt/2021/47",
+   "short": "HCJ Olt nr. 47/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 47/2021 pentru modificarea alineatului (3) al articolului 1 din Hotărârea Consiliului Județean Olt nr. 37/28.03.2019 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Corbu, a unor părți din zona drumului județean DJ 703 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13295.pdf",
+     "sha256": "cc837bdb4b7c97ed8a38ce31d37399a6003c0eab83ae9f0af6343466a3b90ec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-5-2021",
+   "path": "local/judet/olt/2021/5",
+   "short": "HCJ Olt nr. 5/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 5/2021 cu privire la transformarea unor posturi în statul de funcții al Spitalului de Psihiatrie CroniciSchitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/12888.pdf",
+     "sha256": "1c78e4effa62883d3a674b47589075a75a366fabb3808c2339788cad5c8b7b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-52-2021",
+   "path": "local/judet/olt/2021/52",
+   "short": "HCJ Olt nr. 52/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 52/2021 cu privire la transformarea unor posturi vacante în statele de funcții ale unor servicii sociale din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13300.pdf",
+     "sha256": "e6aa0f051b463050fd7aa9086736614198a95afe86e636d75ab8e8a447cccbdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-60-2021",
+   "path": "local/judet/olt/2021/60",
+   "short": "HCJ Olt nr. 60/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 60/2021 pentru Studii Economico - Sociale, Buget-Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr. 3528/08.04.2021 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Adresa Centrului Județean de Cultură și Artă Olt nr. 870/01.04.2021, înregistrată la",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13439.pdf",
+     "sha256": "961df8cd519423f7b47e1d5535c54424fbce4661ae371359ba08643315b68764"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-63-2021",
+   "path": "local/judet/olt/2021/63",
+   "short": "HCJ Olt nr. 63/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 63/2021 pentru anul 2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13546.pdf",
+     "sha256": "dcf906ea0e56e7bbacef943b1babe44ca03c5234f47a16431924063a9beeac2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-64-2021",
+   "path": "local/judet/olt/2021/64",
+   "short": "HCJ Olt nr. 64/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 64/2021 pentru acordarea în anul 2021 a sprijinului financiar din bugetul Consiliului Judetean Olt pentru unitătile de cult apartinând cultelor religioasedin judetul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13547.pdf",
+     "sha256": "c31c4690b3ed290405f542e7cde5a3e44ba87856b1eace1c81a994a10ddaaec4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-65-2021",
+   "path": "local/judet/olt/2021/65",
+   "short": "HCJ Olt nr. 65/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 65/2021 cu privire la transformarea unor posturi vacante în statele de funcții ale unor servicii sociale din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13548.pdf",
+     "sha256": "c574bb8dd02bdd9e318bb686445065eff3a93fc2897790b69ed5b4b79140342c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-67-2021",
+   "path": "local/judet/olt/2021/67",
+   "short": "HCJ Olt nr. 67/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 67/2021 pentru susţinerea activităţiiAsociaţiei de Dezvoltare Intercomunitară de Utilităţi Publice pentru Serviciul deAlimentare cu Apă şi de Canalizare „Oltul” pe anul 2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13550.pdf",
+     "sha256": "1ee6faeb99f7d85ea680f842cec85446cbf75dca050d8e89e623ac48467b6a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-68-2021",
+   "path": "local/judet/olt/2021/68",
+   "short": "HCJ Olt nr. 68/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 68/2021 pentru susţinerea activităţii Asociaţieide Dezvoltare Intercomunitară „OLT-ECO” pe anul 2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13551.pdf",
+     "sha256": "f295dc61f5f30eddfa5e0c1b293a86efac8f1f4237ec58fd064c8e92b413f796"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-69-2021",
+   "path": "local/judet/olt/2021/69",
+   "short": "HCJ Olt nr. 69/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 69/2021 cu privire la transformarea unor posturi în statul de funcțiial Spitalului de Psihiatrie Cronici Schitu Greci, ca urmare a promovării Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13552.pdf",
+     "sha256": "dffc3cc2ef799f9312a9777f1bc889fc3039fbec70d3aa193a665102881a7cb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-70-2021",
+   "path": "local/judet/olt/2021/70",
+   "short": "HCJ Olt nr. 70/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 70/2021 cu privire la desemnarea reprezentantului asiguraților din Județul Olt, delegat de ConsiliulJudețean Olt în Adunarea Reprezentanților a Casei Naționale de Asigurări de Sănătate Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13553.pdf",
+     "sha256": "b6538d2200e8dc2f7b04c6999603cb4bb9ff453c5d5a42b580429e55cc361aca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-71-2021",
+   "path": "local/judet/olt/2021/71",
+   "short": "HCJ Olt nr. 71/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 71/2021 cu privire la desființarea unui post contractual vacant în statul de funcții al Serviciului Județean de Pază Olt, precum și cu privire la modificarea organigramei și a statului de funcții ale Serviciului Județean de Pază Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13554.pdf",
+     "sha256": "c964e542b201b9942fd7a86a6f732a2c319a1562913c7e5deb6657e744e87891"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-73-2021",
+   "path": "local/judet/olt/2021/73",
+   "short": "HCJ Olt nr. 73/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 73/2021 cu privire la aprobarea Regulamentului de organizare și funcționare a Comisiei Tehnice de Amenajare a Teritoriului și Urbanism Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13556.pdf",
+     "sha256": "e942a04c875669b1732d43ce4add2721401e547ede025d72a38d0f76da363e3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-78-2021",
+   "path": "local/judet/olt/2021/78",
+   "short": "HCJ Olt nr. 78/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 78/2021 pentru anul 2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13650.pdf",
+     "sha256": "b7428a2880ac6cda1b94f25a88066268e04d27716f95a82ecbca6548ecb2cd7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-80-2021",
+   "path": "local/judet/olt/2021/80",
+   "short": "HCJ Olt nr. 80/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 80/2021 pentru completarea „Calendarului manifestărilor culturale în anul 2021” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13652.pdf",
+     "sha256": "d48d4e508335e254990c0838dc8e00df1eb46b99c516c13423bf4818984b8f3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-83-2021",
+   "path": "local/judet/olt/2021/83",
+   "short": "HCJ Olt nr. 83/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 83/2021 pentru anul 2021 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13655.pdf",
+     "sha256": "6a67cd66d4121b9ff8226b011a4b6bd91c81ee58209657209d86ab5a97048dec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-84-2021",
+   "path": "local/judet/olt/2021/84",
+   "short": "HCJ Olt nr. 84/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 84/2021 pentru obiectivulde investiții ”Reabilitare Complex Servicii Persoane Adulte Corabia și Construire Anexe” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13656.pdf",
+     "sha256": "83d423779af89614f4264765875ac324c7f5b599626791e5105616b7ed7550be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-91-2021",
+   "path": "local/judet/olt/2021/91",
+   "short": "HCJ Olt nr. 91/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 91/2021 cu privire la trecerea unor construcții aflate în administrarea Consiliului Județean Oltdin domeniul public al județului Olt în domeniul privat al acestuia,în vederea scoaterii din funcțiune și a demolării Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13662.pdf",
+     "sha256": "5b9199ee0487451fe6fb6b608bad6cafebcf3ae605270d6ff502e43f7297d0e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-92-2021",
+   "path": "local/judet/olt/2021/92",
+   "short": "HCJ Olt nr. 92/2021",
+   "title": "Hotărârea Consiliului Județean Olt nr. 92/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/13663.pdf",
+     "sha256": "e9c48e69509ebb32ead0b2fe41ce88d7f0610f90234120f1222b81b3bae3f9c1"
     }
    ]
   }

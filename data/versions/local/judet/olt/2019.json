@@ -3,6 +3,201 @@
  "shard": "local/judet/olt/2019",
  "acts": [
   {
+   "slug": "hcj-olt-1-2019",
+   "path": "local/judet/olt/2019/1",
+   "short": "HCJ Olt nr. 1/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 1/2019 cu privire la organizarea și desfășurarea evaluării finale pentru perioada 26.09.2019 - 26.09.2023 a managementului pentru Centrul Județean de Cultură și Artă Olt",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18086.pdf",
+     "sha256": "bcb5801096c3ee150fb0cf933ba7fdce741233aa87f3880daf09ae42d2015b68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-10-2019",
+   "path": "local/judet/olt/2019/10",
+   "short": "HCJ Olt nr. 10/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 10/2019 cu privire la Proiectul de hotărâre nr.759/23.01.2019; ➢ Raportul nr.760/23.01.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; ➢ Raportul nr.883/29.01.2019 al Comisiei pentru Cultură, Învățământ, Activitate Științifică, Sănătate, Familie, Protecție Copii și Culte; ➢ Raportul nr.932/30.01.2019 al Comisiei pentr",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9583.pdf",
+     "sha256": "3b20289660f38f228675899ef14718b4fdeac198946406bc3f2e181ea9bb0f49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-101-2019",
+   "path": "local/judet/olt/2019/101",
+   "short": "HCJ Olt nr. 101/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 101/2019 cu privire la Proiectul de hotărâre nr.6754/21.06.2019; ➢ Raportul nr.6755/21.06.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; ➢ Raportul nr.6961/26.06.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Raportul nr.6982",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10214.pdf",
+     "sha256": "ddfe53bd716d2805c84e45df4270f40b2551c496bee321e59208b522b8155f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-106-2019",
+   "path": "local/judet/olt/2019/106",
+   "short": "HCJ Olt nr. 106/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 106/2019 pentru Cultură, Învățământ, Activitate Științifică, Sănătate Familie, Protecție Copii și Culte; - Raportul nr. 8282/23.07.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Raportul nr. 8299/23.07.2019 al Comisiei pentru Agricultură, Silvicultură, Industrie, Servicii Publice și Comerț; - Hotărârea Consiliului",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10239.pdf",
+     "sha256": "58520b228353ab1cf69ad63336660c3b1d3a335f9585780fbdb5b7caa5aaafb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-107-2019",
+   "path": "local/judet/olt/2019/107",
+   "short": "HCJ Olt nr. 107/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 107/2019 cu privire la Proiectul de Hotărâre nr. 8072/17.07.2019; - Raportul nr. 8081/17.07.2019 al Serviciului Administrație Publică, Relații cu Consiliile Locale și Monitorul Oficial al Județului cu privire la: completarea unei comisii de specialitate a Consiliului Județean Olt; - Raportul nr.8269/23.07.2019 al Comisiei pentru Cultură, Învățământ, Activitate Științifică, Sănătate Familie, Protecție Copii",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10240.pdf",
+     "sha256": "381a0b08890a8d2368a459deb96916899f5136b0910581db73ca2c39c76fbb8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-110-2019",
+   "path": "local/judet/olt/2019/110",
+   "short": "HCJ Olt nr. 110/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 110/2019 cu privire la mutarea unui post vacant în statul de funcții al aparatului de specialitate al Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10243.pdf",
+     "sha256": "2271147480db44b0bea2301313092a8aa2271b2c825d92e3f1a1580864ee017c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-112-2019",
+   "path": "local/judet/olt/2019/112",
+   "short": "HCJ Olt nr. 112/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 112/2019 cu privire la modificarea și actualizarea componenței nominale a Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10245.pdf",
+     "sha256": "9cb39b3a2a8b86598fbe3ca819418474bfe4caea4fd2fce3bdd6ece1f5345916"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-115-2019",
+   "path": "local/judet/olt/2019/115",
+   "short": "HCJ Olt nr. 115/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 115/2019 cu privire la aprobarea Planului de selecție pentru desemnarea membrilor Consiliului de Administrație al S.C",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10248.pdf",
+     "sha256": "3d2674049da1397249e9cfbf241c341dc8afc4bf3fc37d1b2294d7dd1044f49b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-116-2019",
+   "path": "local/judet/olt/2019/116",
+   "short": "HCJ Olt nr. 116/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 116/2019 cu privire la aprobarea numărului de posturi, a organigramei și a statului de funcții pentru Spitalul Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10249.pdf",
+     "sha256": "11fcaf82031276d9b66f27421c91bb1d4cf964d1371a4cbe1f28bcccabfcd6f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-117-2019",
+   "path": "local/judet/olt/2019/117",
+   "short": "HCJ Olt nr. 117/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 117/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10250.pdf",
+     "sha256": "a2297fea7cd5a7df8fee3392f3f32bfae81fb2501339be46af3b62e651e285c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-119-2019",
+   "path": "local/judet/olt/2019/119",
+   "short": "HCJ Olt nr. 119/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 119/2019 cu privire la aprobarea listei produselor care vor fi distribuite și a măsurilor educative aferente care se vor implementa în județul Olt, în cadrul Programului pentru școli al României, în anii școlari din perioada 2019-2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10252.pdf",
+     "sha256": "7677de2c8d6e0bbb3f06a590fdbadcae18a065463df69dda5d9355f7b7e33362"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-12-2019",
+   "path": "local/judet/olt/2019/12",
+   "short": "HCJ Olt nr. 12/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 12/2019 pentru modificarea articolului 1 din Hotărârea Consiliului Județean Olt nr. 5/25.01.2018 cu privire la stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate și aparatului permanent de lucru ale Consiliului Județean Olt,precum și din cadrul Cabinetului Președintelui Consiliului Județean Olt, începând cu data de 1 ianuarie 2018 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9585.pdf",
+     "sha256": "44c6603a8cc1b13ce6d8990909df4df8aab6199df2286ef7f171d20ec5f6c183"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-121-2019",
+   "path": "local/judet/olt/2019/121",
+   "short": "HCJ Olt nr. 121/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 121/2019 cu privire la constatarea pierderii calității de membri ai Autorității Teritoriale de Ordine Publică, precum şi cu privire la desemnarea și validarea desemnării nominale în calitate de membri ai Autorității Teritoriale de Ordine Publică Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10316.pdf",
+     "sha256": "f4a1fad1ce07185f5d8b323a2aef0ee58183d727ee7477e330b1d0df5dfc23dd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-123-2019",
    "path": "local/judet/olt/2019/123",
    "short": "HCJ Olt nr. 123/2019",
@@ -14,6 +209,231 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/10318.pdf",
      "sha256": "f1d09a61f87c915090dce67f61d30d57b6aec5f0b1bbde6a62c9dcb01a6ada33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-125-2019",
+   "path": "local/judet/olt/2019/125",
+   "short": "HCJ Olt nr. 125/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 125/2019 cu privire la Proiectul de hotărâre nr.9135/19.08.2019; ➢ Raportul nr.9171/19.08.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; ➢ Raportul nr.9465/27.08.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Raportul nr.9451",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10320.pdf",
+     "sha256": "3d09ca7fc1bda4394cdbef83f1bf444a5aa11519568671ccaec3c64c05594d90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-126-2019",
+   "path": "local/judet/olt/2019/126",
+   "short": "HCJ Olt nr. 126/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 126/2019 cu privire la desemnarea secretarului executiv al Comisiei județene în domeniul egalității de șanse între femei și bărbați Olt (COJES) Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10321.pdf",
+     "sha256": "059f2371fc236ba2c4f28f2a28e00664f1775d0621bcffd633cf266201c39a22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-13-2019",
+   "path": "local/judet/olt/2019/13",
+   "short": "HCJ Olt nr. 13/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 13/2019 pentru includerea unui imobil în domeniul public al Județului Olt, precum și pentru modificarea și completarea Inventarului bunurilor care aparţin domeniului public al Judeţului Olt, însușit prin Hotărârea Consiliului Județean Olt nr. 41 din 26.04.2001, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9586.pdf",
+     "sha256": "661632383652f943803aa4f60fba1f9cd3dcfb1a83a2c10c32ab55fda987fa65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-132-2019",
+   "path": "local/judet/olt/2019/132",
+   "short": "HCJ Olt nr. 132/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 132/2019 cu privire la înlocuirea unui reprezentant al Consiliului Județean Olt în Consiliul de Administrație al Spitalului de Psihiatrie Cronici Schitu Greci Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10327.pdf",
+     "sha256": "6bbdccae48103a7eb61a884fbc3c8b8792af54cbe960c39f99644774696f5d8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-133-2019",
+   "path": "local/judet/olt/2019/133",
+   "short": "HCJ Olt nr. 133/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 133/2019 pentru participarea la ședințele Consiliului Județean Olt și ale comisiilor de specialitate ale acestuia, precum și cu privire la modificarea art.108 din Regulamentul de organizare și funcționare a Consiliului Județean Olt, aprobat prin Hotărârea Consiliului Județean Olt nr.54/24.03.2016 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10328.pdf",
+     "sha256": "049a7821b000f714763fbd2bf89801752be64987e3859ee74e972e69409925b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-135-2019",
+   "path": "local/judet/olt/2019/135",
+   "short": "HCJ Olt nr. 135/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 135/2019 privind încetarea aplicabilității unor hotărâri ale Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10330.pdf",
+     "sha256": "79b70231dc1a94521daf9c44af472d32703a87636a8e52891110d1ae02d3a630"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-137-2019",
+   "path": "local/judet/olt/2019/137",
+   "short": "HCJ Olt nr. 137/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 137/2019 cu privire la aprobarea Regulamentului de organizare și funcţionare a Consiliului Judeţean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10381.pdf",
+     "sha256": "e87bd3b17c71f7e790880eb33d51dd43a1fe325575b78e19fec6307f08e65dcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-139-2019",
+   "path": "local/judet/olt/2019/139",
+   "short": "HCJ Olt nr. 139/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 139/2019 cu privire la constatarea pierderii calității de membru al Autorității Teritoriale de Ordine Publică, precum şi cu privire la desemnarea și validarea desemnării nominale în calitate de membru al Autorității Teritoriale de Ordine Publică Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10383.pdf",
+     "sha256": "2ee31b87be5dea61b64c970b48806a2d7890ef232c4b42783d50942431d9f683"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-142-2019",
+   "path": "local/judet/olt/2019/142",
+   "short": "HCJ Olt nr. 142/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 142/2019 pentru modificarea Hotărârii Consiliului Județean Olt nr. 151 din 29.11.2012 cu privire la: aprobarea Programului de transport rutier de persoane prin servicii regulate în trafic județean pentru județul Olt, în perioada 01.05.2013–30.06.2019, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10386.pdf",
+     "sha256": "99f8cb09020837c75c98dc2f369c3e6a52c0a85d29668524fe080ee5bcb69b5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-148-2019",
+   "path": "local/judet/olt/2019/148",
+   "short": "HCJ Olt nr. 148/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 148/2019 cu privire la aprobarea organigramei și statului de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Olt – aparat propriu Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10392.pdf",
+     "sha256": "c220d157b1d88f44a8c191366ba62c7af061e772811125bcbaf99a1c136241ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-152-2019",
+   "path": "local/judet/olt/2019/152",
+   "short": "HCJ Olt nr. 152/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 152/2019 pentru Studii Economico - Sociale, Buget - Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat al Județului; - Raportul nr.10878/26.09.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Prevederile art.36 alin. (1) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10396.pdf",
+     "sha256": "3550e9752aec0c3994d69964fd975f23394f709afd6f4c6b630b194ef3db17e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-153-2019",
+   "path": "local/judet/olt/2019/153",
+   "short": "HCJ Olt nr. 153/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 153/2019 cu privire la înlocuirea unui membru și actualizarea componenței nominale a Comisiei de Evaluare a Persoanelor Adulte cu Handicap Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10397.pdf",
+     "sha256": "44315e71965c124548cd17730891eb8072988b431cc67beed53b49d725c676da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-157-2019",
+   "path": "local/judet/olt/2019/157",
+   "short": "HCJ Olt nr. 157/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 157/2019 pentru Muncă, Protecție Socială, Activități Sportive și de Agrement; - Avizul nr.11922/22.10.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Avizul nr.11930/22.10.2019 al Comisiei pentru Cultură, Învățământ, Activitate Științifică, Sănătate, Familie, Protecție Copii și Culte; - adresa Spitalului de Psihiat",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10454.pdf",
+     "sha256": "b0f573e1583be7499cd3bcda114bd3499e74dbe8b5ccf3424a65f3bd29745e3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-16-2019",
+   "path": "local/judet/olt/2019/16",
+   "short": "HCJ Olt nr. 16/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 16/2019 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Cârlogani, a unei părți din zona drumului județean DJ 677 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9589.pdf",
+     "sha256": "e42a68b7ca24d5076f04b13362867a652072d1a9e7c00677fceb459c53231e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-165-2019",
+   "path": "local/judet/olt/2019/165",
+   "short": "HCJ Olt nr. 165/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 165/2019 cu privire la transformare posturi aferente personalului contractual în statele de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Olt–aparatul propriu și ale unor servicii sociale din structura directiei Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10479.pdf",
+     "sha256": "02889d9e9333c9ff990dbf72860a89023d5f9a58cca405c62951760abcb7bd5e"
     }
    ]
   },
@@ -33,6 +453,246 @@
    ]
   },
   {
+   "slug": "hcj-olt-170-2019",
+   "path": "local/judet/olt/2019/170",
+   "short": "HCJ Olt nr. 170/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 170/2019 cu privire la modificarea și completarea componenței nominale a Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10487.pdf",
+     "sha256": "58d6babe3ca247a927fd7f5c3157c016958393736136634fd1ce8185b4698eef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-171-2019",
+   "path": "local/judet/olt/2019/171",
+   "short": "HCJ Olt nr. 171/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 171/2019 cu privire la aprobarea organigramei, a statului de funcții și a Regulamentului de Organizare și Funcționare pentru aparatul de specialitate al Consiliului Județean Olt, precum și pentru Cabinetul Președintelui Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10488.pdf",
+     "sha256": "1e9e7de5facb64329c3189d54e16edb63489050773e7b49ab9411655580dac00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-175-2019",
+   "path": "local/judet/olt/2019/175",
+   "short": "HCJ Olt nr. 175/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 175/2019 pentru obiectivul de investiții ”Demolare corpuri C1 si C2 și construire Casă de tip familial” în municipiul Caracal, str.Mircea Vodă, nr.82, județul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10499.pdf",
+     "sha256": "3bbdf24c3cbed5945b92628232597f767ba1d2515493bc4e823f3c2ca2b75f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-177-2019",
+   "path": "local/judet/olt/2019/177",
+   "short": "HCJ Olt nr. 177/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 177/2019 cu privire la transformarea unor posturi în statul de funcții al Spitalului de Psihiatrie Cronici Schitu Greci, ca urmare a promovării în grade/trepte profesionale imediat superioare Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10559.pdf",
+     "sha256": "7035c376553216a23f5bcde37eefedbd46e748d37a1ee210ede972d663d735e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-180-2019",
+   "path": "local/judet/olt/2019/180",
+   "short": "HCJ Olt nr. 180/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 180/2019 pentru obiectivul de investiții ”Lucrări în vederea obținerii autorizației de securitate la incendiu pentru obiectivul Școala Profesională Specială Balș” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10562.pdf",
+     "sha256": "c8fbebc41d48465ca0b9f2aa16dbb94187a512e70d8badd90cf96182b1899847"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-185-2019",
+   "path": "local/judet/olt/2019/185",
+   "short": "HCJ Olt nr. 185/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 185/2019 pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Avizul nr.13357/26.11.2019 al Comisiei pentru Muncă, Protecție Socială, Activități Sportive și de Agrement; ➢ Avizul nr.13364/26.11.2019 al Comisiei pentru Cultură, Învățământ, Activitate Științifică, Sănătate, Familie, Protecție Copii și Culte; ➢ adresa Spitalului Județean d",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10567.pdf",
+     "sha256": "2760c35efd174a378ebae0d3aa07e6c230bcb761ff989fa13cf08e0709e22154"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-187-2019",
+   "path": "local/judet/olt/2019/187",
+   "short": "HCJ Olt nr. 187/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 187/2019 cu privire la înființarea Serviciului pentru Sprijinirea Victimelor Infracțiunilor prin reorganizarea Complexului servicii pentru persoane aflate în situații de nevoie Slatina din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt, aprobarea Regulamentului de Organizare și Funcționare al Serviciului pentru Sprijinirea Victimelor Infracțiunilor, precum și cu privire la apr",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10569.pdf",
+     "sha256": "e718a3d4feb0bfa781eba5b69103af9719980a033c32d8c2baa41b10b0758e8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-188-2019",
+   "path": "local/judet/olt/2019/188",
+   "short": "HCJ Olt nr. 188/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 188/2019 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Valea Mare, a unei părți din zona drumului județean DJ 657 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10570.pdf",
+     "sha256": "7ca5b66e3af142a5c0656a6f293bcec89410181a37b9de7030cb0fdfe2fab2e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-19-2019",
+   "path": "local/judet/olt/2019/19",
+   "short": "HCJ Olt nr. 19/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 19/2019 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Cungrea, a unei părți din zona drumului județean DJ 703 C Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9663.pdf",
+     "sha256": "d5dcf0f77c69763cad89503b7333fde704e072ad882919fb358fd18fa1833caf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-190-2019",
+   "path": "local/judet/olt/2019/190",
+   "short": "HCJ Olt nr. 190/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 190/2019 pentru completarea Hotărârii Consiliului Județean Olt nr. 18 din 28.01.2016 cu privire la trecerea din domeniul public al municipiului Slatina și din administrarea Consiliului Local al municipiului Slatina, în domeniul public al Județului Olt și în administrarea Muzeului Județean Olt, a imobilului „Casa Muzeu Gunka și Spiru Vergulescu” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10572.pdf",
+     "sha256": "6324397c5a5c79ae68cd812965cd456f908790463066187f70d811b6791de802"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-191-2019",
+   "path": "local/judet/olt/2019/191",
+   "short": "HCJ Olt nr. 191/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 191/2019 cu privire la aprobarea Regulamentelor de Organizare și Funcționare pentru Casele de Tip Familial “Sf. Nicolae” Caracal și pentru Casele de Tip Familial “Sf. Mihail” Caracal, servicii sociale cu cazare, fără personalitate juridică destinate protecției copilului din structura Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10573.pdf",
+     "sha256": "15eab814b38a6e8c225e4b79eeaf52ead2d6315743c1c6cee2da1e43529ad89c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-193-2019",
+   "path": "local/judet/olt/2019/193",
+   "short": "HCJ Olt nr. 193/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 193/2019 cu privire la transformare posturi în statele de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Olt – aparatul propriu și ale unor servicii sociale din structura direcției Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10575.pdf",
+     "sha256": "530472a3482fb31a4be430f667537bd69f773043f088ce422addc23b0017f90f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-194-2019",
+   "path": "local/judet/olt/2019/194",
+   "short": "HCJ Olt nr. 194/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 194/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10576.pdf",
+     "sha256": "291a55d5e4bb0f894e9202ea348758302c4390f8694af107c69385c861ad4d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-196-2019",
+   "path": "local/judet/olt/2019/196",
+   "short": "HCJ Olt nr. 196/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 196/2019 cu privire la modificarea Regulamentului de Organizare și Funcționare al Comisiei de Evaluare a Persoanelor Adulte cu Handicap Olt, aprobat prin Hotărârea Consiliului Județean Olt nr.109/29.07.2013 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10578.pdf",
+     "sha256": "3db54ca746c66ba411ad65ec94519386cc36079b866de86726899d3dd745bb16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-20-2019",
+   "path": "local/judet/olt/2019/20",
+   "short": "HCJ Olt nr. 20/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 20/2019 cu privire la Proiectul de hotărâre nr.1686/25.02.2019; ➢ Raportul nr.1687/25.02.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; ➢ Raportul nr.1784/26.02.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Raportul nr.1789",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9664.pdf",
+     "sha256": "a41b344f1c9656b006a375ee8789e22b75b0f2af3faece8fecc6cdade8a0c879"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-201-2019",
+   "path": "local/judet/olt/2019/201",
+   "short": "HCJ Olt nr. 201/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 201/2019 cu privire la aprobarea „Calendarului manifestărilor culturale în anul 2020”; - Avizul nr. 14330/17.12.2019 al Comisiei pentru cultură, învățământ, activitate științifică, sănătate, familie, protecție copii și culte; - Avizul nr. 14343/17.12.2019 al Comisiei pentru administrație publică, juridică, apărarea ordinii publice, respectarea drepturilor omului și relații cu cetățenii; - Avizul nr. 14348/",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10613.pdf",
+     "sha256": "804e868dbb56a1dfb7effc1cbbcfdf19bfd9f1a6a832066ac3bece60cda7dd3f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-202-2019",
    "path": "local/judet/olt/2019/202",
    "short": "HCJ Olt nr. 202/2019",
@@ -44,6 +704,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/10614.pdf",
      "sha256": "80f3ae127414938fb287fd4b7c73edbedb6d13569ef7e3f9fb41716bdf876493"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-206-2019",
+   "path": "local/judet/olt/2019/206",
+   "short": "HCJ Olt nr. 206/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 206/2019 pentru anul 2020 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10618.pdf",
+     "sha256": "e7285f08a8e40a7379327236d1f41c6775a4fc3fb5f114171b7a94d6363ed907"
     }
    ]
   },
@@ -63,6 +738,36 @@
    ]
   },
   {
+   "slug": "hcj-olt-211-2019",
+   "path": "local/judet/olt/2019/211",
+   "short": "HCJ Olt nr. 211/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 211/2019 cu privire la modificarea organigramei și a statului de funcții ale Spitalului Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10623.pdf",
+     "sha256": "a5d26e936810493319f5884a865d63c3da7297b215c767ce9afab184737a3889"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-212-2019",
+   "path": "local/judet/olt/2019/212",
+   "short": "HCJ Olt nr. 212/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 212/2019 cu privire la modificarea organigramei, a statului de funcții și a Regulamentului de Organizare și Funcționare pentru aparatul de specialitate al Consiliului Județean Olt, precum și pentru Cabinetul Președintelui Consiliului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10624.pdf",
+     "sha256": "c730ad00c482c589cfd0c239baef0e3bd6ce4b451391d9b863ad77b0ee8f8be5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-213-2019",
    "path": "local/judet/olt/2019/213",
    "short": "HCJ Olt nr. 213/2019",
@@ -74,6 +779,141 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/10625.pdf",
      "sha256": "0225b24926f148a1240ef682bf57ed7b8c82eba89dbf9d486dd42501f4a9f474"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-22-2019",
+   "path": "local/judet/olt/2019/22",
+   "short": "HCJ Olt nr. 22/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 22/2019 cu privire la desemnarea unui membru în Consiliul de Administraţie al Casei de Asigurări de Sănătate Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9666.pdf",
+     "sha256": "fe1ca16b24833ccc35dc61f283a01a3e52972a28cb173b57804bf6693dc76462"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-24-2019",
+   "path": "local/judet/olt/2019/24",
+   "short": "HCJ Olt nr. 24/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 24/2019 pentru perioada asigurării interimatului Bibliotecii Județene Olt ,,Ion Minulescuˮ, prin decesul managerului Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9668.pdf",
+     "sha256": "66121308076768a77de1173736530394a97e8725439bf506eeeb66889a9fdcf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-25-2019",
+   "path": "local/judet/olt/2019/25",
+   "short": "HCJ Olt nr. 25/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 25/2019 cu privire la Proiectul de hotărâre nr.1504/18.02.2019; - Raportul nr.1505/18.02.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; - Raportul nr.1844/27.02.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Raportul nr.1850",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9669.pdf",
+     "sha256": "5c98e662a7f8d90ca678e04c1811613683f80e71ee1dd152a526974f9aeca23c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-37-2019",
+   "path": "local/judet/olt/2019/37",
+   "short": "HCJ Olt nr. 37/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 37/2019 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Corbu, a unor părți din zona drumului județean DJ 703 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9708.pdf",
+     "sha256": "8acee5db37aa6d94156209a1a788698804aef26c29a7216e16effee9fccc1b54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-39-2019",
+   "path": "local/judet/olt/2019/39",
+   "short": "HCJ Olt nr. 39/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 39/2019 pentru modificarea art.1 din Hotărârea Consiliului Județean Olt nr. 19/28.02.2019 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Cungrea, a unei părți din zona drumului județean DJ 703C Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9710.pdf",
+     "sha256": "0a24244283cd1c1bc407e92b779f2ab2f566fbd8e939776de49c1581c2bbd829"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-4-2019",
+   "path": "local/judet/olt/2019/4",
+   "short": "HCJ Olt nr. 4/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 4/2019 cu privire la proiectul de hotărâre nr.212/09.01.2019; - Raportul nr.213/09.01.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; - Raportul nr.875/29.01.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Raportul nr.876/29",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9577.pdf",
+     "sha256": "778625576f98ea04b65a853eb5d07ab0d13e7c5dab8697685bad1ac17b4ad23e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-41-2019",
+   "path": "local/judet/olt/2019/41",
+   "short": "HCJ Olt nr. 41/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 41/2019 cu privire la Proiectul de hotărâre nr.2859/26.03.2019; ➢ Raportul nr.2860/26.03.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; ➢ Raportul nr.2931/27.03.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Raportul nr.2936",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9712.pdf",
+     "sha256": "6a8e88185f44fe8c7b20f2eb295544b403d2ba3a6007b83e37f83ccb50c26358"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-49-2019",
+   "path": "local/judet/olt/2019/49",
+   "short": "HCJ Olt nr. 49/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 49/2019 pentru acordarea în anul 2019 a sprijinului financiar din bugetul Consiliului Judetean Olt pentru unitătile de cult apartinând cultelor religioase din judetul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9753.pdf",
+     "sha256": "138f524b14062841f31f68488fb07d35c25759782849b3820145871a43cfb977"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-5-2019",
+   "path": "local/judet/olt/2019/5",
+   "short": "HCJ Olt nr. 5/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 5/2019 cu privire la proiectul de hotărâre nr.441/ 16.01.2019; - Raportul nr.442/16.01.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; - Raportul nr.877/29.01.2019 al Comisiei pentru Cultură, Învățământ, Activitate Științifică, Sănătate, Familie, Protecție Copii și Culte; - Raportul nr.885/29.01.2019 al Comisiei pent",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9578.pdf",
+     "sha256": "5535f09e84e745fc8f6a0adf30d881a95568dc81d98d0f5915c4028e091e592b"
     }
    ]
   },
@@ -93,6 +933,141 @@
    ]
   },
   {
+   "slug": "hcj-olt-53-2019",
+   "path": "local/judet/olt/2019/53",
+   "short": "HCJ Olt nr. 53/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 53/2019 cu privire la constatarea pierderii calității de membru al Autorității Teritoriale de Ordine Publică, precum și cu privire la desemnarea și validarea desemnării nominale în calitate de membru al Autorității Teritoriale de Ordine Publică Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9757.pdf",
+     "sha256": "ff995f8900fbb4bd518dd81193c1a6d466b156517b66dfdac4dba04799253e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-56-2019",
+   "path": "local/judet/olt/2019/56",
+   "short": "HCJ Olt nr. 56/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 56/2019 pentru Dezvoltare Regională Sud-Vest Oltenia și Biroului Regional de Cooperare Transfrontalieră România-Bulgaria -Călărași, pentru anul 2019 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9760.pdf",
+     "sha256": "9378c29fd88dfad2809409975f5522194aa8bde4fe23313a682e3af5e5a83de4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-57-2019",
+   "path": "local/judet/olt/2019/57",
+   "short": "HCJ Olt nr. 57/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 57/2019 pentru anul 2019 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9761.pdf",
+     "sha256": "5492827d24ed43e58603db737e8daad3b95de9d00cc56c6b39e239de0e75e919"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-60-2019",
+   "path": "local/judet/olt/2019/60",
+   "short": "HCJ Olt nr. 60/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 60/2019 cu privire la Proiectul de hotărâre nr.4175/19.04.2019; ➢ Raportul nr.4176/19.04.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; ➢ Raportul nr.4290/22.04.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Raportul nr.4276",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9764.pdf",
+     "sha256": "e8212650140e3b124e48fc2cf1df262a11ee2b22bd7242b639dc82e4d843022d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-62-2019",
+   "path": "local/judet/olt/2019/62",
+   "short": "HCJ Olt nr. 62/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 62/2019 cu privire la trecerea din administrarea Consiliului Județean Olt, în administrarea Consiliului Local al comunei Baldovinești, a unei părți din zona drumului județean DJ 643A Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9766.pdf",
+     "sha256": "2ede46218ecdd18000fd1abe274501f6fb20757b660c13ca750bb95cc48a4c0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-64-2019",
+   "path": "local/judet/olt/2019/64",
+   "short": "HCJ Olt nr. 64/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 64/2019 cu privire la proiectul de hotărâre nr.4027/16.04.2019; - Raportul nr.4028/16.04.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; - Raportul nr.4295/23.04.2019 al Comisiei pentru Cultură, Învățământ, Activitate Științifică, Sănătate, Familie, Protecție Copii și Culte; - Raportul nr.4317/23.04.2019 al Comisiei p",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9768.pdf",
+     "sha256": "295536d81dbefc9cf22cd6c759f3d61258ff3090f217c13a2d90d815eab8383e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-65-2019",
+   "path": "local/judet/olt/2019/65",
+   "short": "HCJ Olt nr. 65/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 65/2019 cu privire la transformarea unor posturi vacante în statul de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Olt – aparat propriu Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9769.pdf",
+     "sha256": "257b9c6ac5ce64c65b0f0c9aeb15f7632aca1c0083894d049bdb8f828744be2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-66-2019",
+   "path": "local/judet/olt/2019/66",
+   "short": "HCJ Olt nr. 66/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 66/2019 cu privire la modificarea și completarea Regulamentului de organizare și funcționare a serviciului social cu cazare Centrul maternal ”Adelina” Slatina din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9770.pdf",
+     "sha256": "aac23f7c2f9652784bc9316eeb5df19e4f6f5e65d0894177bed4589995fe7c8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-7-2019",
+   "path": "local/judet/olt/2019/7",
+   "short": "HCJ Olt nr. 7/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 7/2019 cu privire la aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Județean Olt pentru anul 2019 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9580.pdf",
+     "sha256": "6e908237ba554f7af785f7010517aa0a45cfd9588296c3ef66349efc23dfb800"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-71-2019",
    "path": "local/judet/olt/2019/71",
    "short": "HCJ Olt nr. 71/2019",
@@ -104,6 +1079,201 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/9881.pdf",
      "sha256": "7c341b007481db06e933ee29e23721667fe6d37741e8b55df18e9cd5be5b7d25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-73-2019",
+   "path": "local/judet/olt/2019/73",
+   "short": "HCJ Olt nr. 73/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 73/2019 cu privire la aprobare rezultat final la evaluarea anuală a managementului Muzeului Județean Olt și aprobarea continuării exercitării contractului de management de către managerul Muzeului Județean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9883.pdf",
+     "sha256": "fe0b240ffec7310c14d14816b7a44dce9c1be808eaa4dd05d7b912c5ecc09440"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-74-2019",
+   "path": "local/judet/olt/2019/74",
+   "short": "HCJ Olt nr. 74/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 74/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9884.pdf",
+     "sha256": "abcb7cd03aac6b48797bc2088a989abe060168cd1577e49b230e68f402d552e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-78-2019",
+   "path": "local/judet/olt/2019/78",
+   "short": "HCJ Olt nr. 78/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 78/2019 cu privire la proiectul de hotărâre nr.5436/21.05.2019; - Raportul nr.5437/21.05.2019 al Direcției Economice, Buget - Finanțe; - Raportul nr.5807/29.05.2019 al Comisiei pentru Studii Economico - Sociale, Buget - Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat al Județului; - Raportul nr.5814/29.05.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Pub",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9888.pdf",
+     "sha256": "8ced0c314177441c84ff360bfb8be454bfb0208284ba401bf400e539a8db9936"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-79-2019",
+   "path": "local/judet/olt/2019/79",
+   "short": "HCJ Olt nr. 79/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 79/2019 cu privire la modificarea organigramei și a statului de funcții ale Serviciului Județean de Pază Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9889.pdf",
+     "sha256": "92dd14b6a71ead70fa6b407c3727ce6de66cb657508d6211a683650374769347"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-8-2019",
+   "path": "local/judet/olt/2019/8",
+   "short": "HCJ Olt nr. 8/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 8/2019 cu privire la diminuarea numărului de posturi al Direcției Generale de Asistență Socială și Protecția Copilului Olt, ca urmare a preluării a 5 posturi de către Agenția Județeană pentru Plăți și Inspecție Socială Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9581.pdf",
+     "sha256": "890565bf0a580cb9bd416d0a14f0a7d078ef2e4eaabdace10c07e2571eac325e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-82-2019",
+   "path": "local/judet/olt/2019/82",
+   "short": "HCJ Olt nr. 82/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 82/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9892.pdf",
+     "sha256": "14bddcd84f3518378cbfde4f705e5d124c7fd801ca5e109b70e53e326cc55d26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-83-2019",
+   "path": "local/judet/olt/2019/83",
+   "short": "HCJ Olt nr. 83/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 83/2019 cu privire la Proiectul de hotărâre nr.5442/21.05.2019; ➢ Raportul nr.5443/21.05.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; ➢ Raportul nr.5819/29.05.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Raportul nr.5799",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9893.pdf",
+     "sha256": "dcd85a5485a7c1a4f8196c16047af6477865bea68ef15644abe159edb0206b05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-84-2019",
+   "path": "local/judet/olt/2019/84",
+   "short": "HCJ Olt nr. 84/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 84/2019 pentru modificarea Hotărârii Consiliului Județean Olt nr. 148/27.09.2018 cu privire la: aprobarea documentației tehnico – economice pentru obiectivul de investiții ”Reabilitare termică Bloc Central (Corp C1 + Corp C10)” la Spitalul Județean de Urgență Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9894.pdf",
+     "sha256": "bdc4fc4dae9d469e34ce436891a4414076cfee1cdbb84867dc43c3000b50d8be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-86-2019",
+   "path": "local/judet/olt/2019/86",
+   "short": "HCJ Olt nr. 86/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 86/2019 cu privire la acordarea în anul 2019 a sprijinului financiar din bugetul Consiliului Judeţean Olt, pentru unităţile de cult aparţinând cultelor religioase din Judeţul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10199.pdf",
+     "sha256": "59b1ad0b788e56136f861d690c68cdced28520539d73e808e5199c98855868d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-9-2019",
+   "path": "local/judet/olt/2019/9",
+   "short": "HCJ Olt nr. 9/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 9/2019 cu privire la Proiectul de hotărâre nr.564/18.01.2019; ➢ Raportul nr.565/18.01.2019 al Serviciului Resurse Umane și Managementul Unităților Sanitare din cadrul aparatului de specialitate al Consiliului Județean Olt; ➢ Raportul nr.899/29.01.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; ➢ Raportul nr.889/29",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9582.pdf",
+     "sha256": "ef936d0a2008f6cce6554472c5eddae42fc1ac52afcca3882cd64b255b84d9c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-91-2019",
+   "path": "local/judet/olt/2019/91",
+   "short": "HCJ Olt nr. 91/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 91/2019 cu privire la actualizarea Monografiei economico-militare a Județului Olt, în anul 2019; - Raportul nr. 6879/25.06.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Raportul nr. 6887/25.06.2019 al Comisiei pentru Muncă, Protecție Socială, Activități Sportive și de Agrement; - Raportul nr. 6899/25.06.2019 al",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10204.pdf",
+     "sha256": "ee362a33d58aaafd67a916fa4f2d08bf469cce3fabddf51dd4353322dc8f1140"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-93-2019",
+   "path": "local/judet/olt/2019/93",
+   "short": "HCJ Olt nr. 93/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 93/2019 cu privire la proiectul de hotărâre nr.6622/19.06.2019; - Raportul nr.6623/19.06.2019 al Direcției Economice, Buget - Finanțe; - Raportul nr.6989/26.06.2019 al Comisiei pentru Studii Economico - Sociale, Buget - Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat al Județului; - Raportul nr.6884/25.06.2019 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Pub",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10206.pdf",
+     "sha256": "961e6019d1dbce29c70acdc2bf05899dc7ab5b9d913722c32111487a17d13293"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-99-2019",
+   "path": "local/judet/olt/2019/99",
+   "short": "HCJ Olt nr. 99/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 99/2019 cu privire la transformare post în statul de funcții al Bibliotecii Județene Olt ,,Ion Minulescuˮ, ca urmare a promovării în grad profesional imediat superior celui deținut Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10212.pdf",
+     "sha256": "2e0145d527537b4934c6d2642d0b912e60477717b129f0b805636ea161ef27c8"
     }
    ]
   }

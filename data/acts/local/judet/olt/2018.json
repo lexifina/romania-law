@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/olt/2018",
+"acts": [
+{
+"slug": "hcj-olt-189-2018",
+"path": "local/judet/olt/2018/189",
+"kind": "local",
+"year": "2018",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 189/2018 cu privire la avizarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al Municipiului Caracal, județul Olt pentru anul 2022",
+"short": "HCJ Olt nr. 189/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-21",
+"latest": "2018-12-21",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
