@@ -162,6 +162,111 @@
    ]
   },
   {
+   "slug": "hg-1102-1996",
+   "path": "hg/1996/1102",
+   "short": "HG nr. 1102/1996",
+   "title": "Hotărârea Guvernului nr. 1102/1996 pentru modificarea anexei la Hotărârea Guvernului nr. 451/1996 privind transmiterea unor imobile în administrarea Regiei Autonome \"Poşta Română\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10166",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10166",
+     "sha256": "425852603609510feafbbfc1fcf92af90a80b2165bbfc69fd5897e6d7d4e31bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1103-1996",
+   "path": "hg/1996/1103",
+   "short": "HG nr. 1103/1996",
+   "title": "Hotărârea Guvernului nr. 1103/1996 privind transmiterea unui imobil, situat în municipiul Suceava, în administrarea Ministerului Muncii şi Protecţiei Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10167",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10167",
+     "sha256": "d16cd1f75fbf3a84f266f84c6e94b6f4566c1fe7fd4a11af3a69dcda06900a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1104-1996",
+   "path": "hg/1996/1104",
+   "short": "HG nr. 1104/1996",
+   "title": "Hotărârea Guvernului nr. 1104/1996 privind transmiterea unui imobil situat în municipiul Bucureşti în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10168",
+   "versions": [
+    {
+     "from": "1996-11-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10168",
+     "sha256": "6bda077b6b9f24e66c41fe38be1eeee6c2cce24e00e76e3215cf214cea70d4e9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1105-1996",
+   "path": "hg/1996/1105",
+   "short": "HG nr. 1105/1996",
+   "title": "Hotărârea Guvernului nr. 1105/1996 privind alocarea de la rezerva bugetară a Guvernului a sumei de 40.000.000 lei la dispoziţia Consiliului Local al Comunei Cotmeana, judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10169",
+   "versions": [
+    {
+     "from": "1996-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10169",
+     "sha256": "558e61c1f1a0fed4e32d08354f4d746f8977017573e84e410f3f7a433f2247ae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1106-1996",
+   "path": "hg/1996/1106",
+   "short": "HG nr. 1106/1996",
+   "title": "Hotărârea Guvernului nr. 1106/1996 privind transmiterea unui imobil, situat în municipiul Piatra-Neamţ, judeţul Neamţ, în administrarea Regiei Autonome \"Domeniul Public\" Piatra-Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10170",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10170",
+     "sha256": "0ffacd70454818f8a11e2942ab28368265cbd63a22c4fe36b093930558572af7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1107-1996",
+   "path": "hg/1996/1107",
+   "short": "HG nr. 1107/1996",
+   "title": "Hotărârea Guvernului nr. 1107/1996 pentru completarea Hotărârii Guvernului nr. 581/1996 privind aprobarea Programului calendaristic pentru realizarea acţiunilor prevăzute în Legea nr. 68/1992 pentru alegerea Camerei Deputaţilor şi a Senatului, precum şi în Legea nr. 69/1992 pentru alegerea Preşedintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10171",
+   "versions": [
+    {
+     "from": "1996-11-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10171",
+     "sha256": "f0ad23a4bbbf39055b6e8c38706e3a1291672fba18a9f63c5228c8370da93f50"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1108-1996",
+   "path": "hg/1996/1108",
+   "short": "HG nr. 1108/1996",
+   "title": "Hotărârea Guvernului nr. 1108/1996 privind alocarea unor sume din bugetul de stat pe anul 1996 pentru Centrul de Diagnostic şi Tratament al Judeţului Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10172",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10172",
+     "sha256": "2f184f7d05394142ae351db77c693ec0887b93d47223cc75c60bb2a33ced5447"
+    }
+   ]
+  },
+  {
    "slug": "hg-1109-1996",
    "path": "hg/1996/1109",
    "short": "HG nr. 1109/1996",
@@ -173,6 +278,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10173",
      "sha256": "40d28f26863af52480a8c6253a8606a63fed4651c3ed0bbbf07ed8934b19fd55"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1110-1996",
+   "path": "hg/1996/1110",
+   "short": "HG nr. 1110/1996",
+   "title": "Hotărârea Guvernului nr. 1110/1996 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10174",
+   "versions": [
+    {
+     "from": "1996-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10174",
+     "sha256": "413521770abf75306203261adc133143e5dd2e158d6c275bc3082ca5c1d34a55"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1111-1996",
+   "path": "hg/1996/1111",
+   "short": "HG nr. 1111/1996",
+   "title": "Hotărârea Guvernului nr. 1111/1996 privind aprobarea bugetului de venituri şi cheltuieli rectificativ pe anul 1996 al Regiei Autonome \"Monitorul Oficial\", regie de interes naţional de sub autoritatea Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10175",
+   "versions": [
+    {
+     "from": "1996-11-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10175",
+     "sha256": "a44a8eeb0592732e2924f9bb388d0b693ffcc2a130f478d30fba4a16cc99f847"
     }
    ]
   },
@@ -192,6 +327,126 @@
    ]
   },
   {
+   "slug": "hg-1115-1996",
+   "path": "hg/1996/1115",
+   "short": "HG nr. 1115/1996",
+   "title": "Hotărârea Guvernului nr. 1115/1996 privind unele măsuri pentru reforma serviciilor medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10179",
+   "versions": [
+    {
+     "from": "1996-11-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10179",
+     "sha256": "434d9690a29a0068967c815e11d8f8daebb908844e41cebbaa3dacc3f7eb73bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1116-1996",
+   "path": "hg/1996/1116",
+   "short": "HG nr. 1116/1996",
+   "title": "Hotărârea Guvernului nr. 1116/1996 privind finanţarea din Fondul de contrapartida a cheltuielilor aferente procurării de microbuze necesare transportului elevilor din zonele izolate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10180",
+   "versions": [
+    {
+     "from": "1996-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10180",
+     "sha256": "60fcbd18267a633e9450a188a124c6d9f242a9f907ee8dff897ee76e1be59044"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1117-1996",
+   "path": "hg/1996/1117",
+   "short": "HG nr. 1117/1996",
+   "title": "Hotărârea Guvernului nr. 1117/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Surse de alimentare cu apa a zonei Azuga - Breaza, judeţul Prahova\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10181",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10181",
+     "sha256": "b3f54909a9234b7955f393a4b947bd7d52ab576677842f63a89ea1ebbf2f6b96"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1118-1996",
+   "path": "hg/1996/1118",
+   "short": "HG nr. 1118/1996",
+   "title": "Hotărârea Guvernului nr. 1118/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Completarea surselor de alimentare cu apa a zonelor Odorhei, Cristuru Secuiesc, Sighişoara, Dumbrăveni, Mediaş, Copşa Mica, judeţele Harghita, Mureş şi Sibiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10182",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10182",
+     "sha256": "91c20c9c9ce404ba5d0c6cfcdf0b5c2f403de4391ecf53b1051f7383d8f5ae9e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1119-1996",
+   "path": "hg/1996/1119",
+   "short": "HG nr. 1119/1996",
+   "title": "Hotărârea Guvernului nr. 1119/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Amenajarea Râului Săsar în municipiul Baia Mare, judeţul Maramureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10183",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10183",
+     "sha256": "7cba43f46a52ca73df78e0963e65b8d86239bceb0abbf58000d33c8fa89168a8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1120-1996",
+   "path": "hg/1996/1120",
+   "short": "HG nr. 1120/1996",
+   "title": "Hotărârea Guvernului nr. 1120/1996 pentru modificarea Hotărârii Guvernului nr. 125/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10184",
+   "versions": [
+    {
+     "from": "1996-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10184",
+     "sha256": "dd33a12d8552bc3957ebd907a05dc97b7d6e8f199319c231f3d49f9867bba2f3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1121-1996",
+   "path": "hg/1996/1121",
+   "short": "HG nr. 1121/1996",
+   "title": "Hotărârea Guvernului nr. 1121/1996 privind transmiterea unui imobil situat în municipiul Botoşani, judeţul Botoşani, în administrarea Camerei de Comerţ, Industrie şi Agricultura Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10185",
+   "versions": [
+    {
+     "from": "1996-11-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10185",
+     "sha256": "1c8af6f1a591827144474036bc2290be526747312730d6ee367ad904c308510f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1123-1996",
+   "path": "hg/1996/1123",
+   "short": "HG nr. 1123/1996",
+   "title": "Hotărârea Guvernului nr. 1123/1996 privind transmiterea unui imobil situat în municipiul Galaţi, judeţul Galaţi, în administrarea Comisiei Naţionale pentru Statistica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10188",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10188",
+     "sha256": "928b24ee8208ebbcc7a230cbd2475c6e86767098e46baddc59bf6c6523717468"
+    }
+   ]
+  },
+  {
    "slug": "hg-1124-1996",
    "path": "hg/1996/1124",
    "short": "HG nr. 1124/1996",
@@ -207,6 +462,36 @@
    ]
   },
   {
+   "slug": "hg-1125-1996",
+   "path": "hg/1996/1125",
+   "short": "HG nr. 1125/1996",
+   "title": "Hotărârea Guvernului nr. 1125/1996 privind suplimentarea bugetului Secretariatului General al Guvernului pe anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10191",
+   "versions": [
+    {
+     "from": "1996-11-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10191",
+     "sha256": "3f1272b1c3de2531e75c3fd154d68784cb3d20201b0fbc178043b2dd7c3668f7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1126-1996",
+   "path": "hg/1996/1126",
+   "short": "HG nr. 1126/1996",
+   "title": "Hotărârea Guvernului nr. 1126/1996 pentru completarea Hotărârii Guvernului nr. 864/1995 privind instituirea controlului obligatoriu al valorii în vama pentru unele produse provenite din import, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10192",
+   "versions": [
+    {
+     "from": "1996-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10192",
+     "sha256": "8751338e1f15b9f7890f4e36bb3ee278a48c0bcedca63177426b69a890948ce7"
+    }
+   ]
+  },
+  {
    "slug": "hg-1127-1996",
    "path": "hg/1996/1127",
    "short": "HG nr. 1127/1996",
@@ -218,6 +503,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10193",
      "sha256": "78a352cc447ed653d0482d81616477405add8902e6df88f7b2b17bf77b149114"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1128-1996",
+   "path": "hg/1996/1128",
+   "short": "HG nr. 1128/1996",
+   "title": "Hotărârea Guvernului nr. 1128/1996 privind alocarea unor fonduri din bugetul de stat pe anul 1996 pentru efectuarea reparaţiilor capitale la Casa de copii orfani din comuna Truşeşti, judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10194",
+   "versions": [
+    {
+     "from": "1996-11-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10194",
+     "sha256": "f834c7890c18a308d3031703877c3a4a9e64a780b66b7ecd6a9402aef74b6ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1129-1996",
+   "path": "hg/1996/1129",
+   "short": "HG nr. 1129/1996",
+   "title": "Hotărârea Guvernului nr. 1129/1996 privind clasarea unor drumuri publice din judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10195",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10195",
+     "sha256": "67dee661965553032267ea84da2ade9d12e8d32c9018d5a2053d8e696ac26fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1130-1996",
+   "path": "hg/1996/1130",
+   "short": "HG nr. 1130/1996",
+   "title": "Hotărârea Guvernului nr. 1130/1996 privind transmiterea unui imobil situat în municipiul Botoşani, judeţul Botoşani, în administrarea Ministerului Învăţământului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10196",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10196",
+     "sha256": "e0eae2fd2378a4fd309242d26bab9a619e68d8fc576f394ed567b86f34e408b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1131-1996",
+   "path": "hg/1996/1131",
+   "short": "HG nr. 1131/1996",
+   "title": "Hotărârea Guvernului nr. 1131/1996 pentru prelungirea termenului prevăzut de Hotărârea Guvernului nr. 725/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10197",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10197",
+     "sha256": "4b5093d8c2e7ffd550ffde7a871421557d92c9af6ac4b542522cc13622b8279c"
     }
    ]
   },
