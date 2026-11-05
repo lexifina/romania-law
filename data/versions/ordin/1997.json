@@ -48,6 +48,111 @@
    ]
   },
   {
+   "slug": "ordin-anrm-103-1997",
+   "path": "ordin/anrm/1997/103",
+   "short": "Ordin anrm nr. 103/1997",
+   "title": "Ordinul nr. 103/1997 pentru aprobarea modelelor de decont privind taxa pe activitatea de exploatare a resurselor minerale și de redevență petrolieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11628",
+   "versions": [
+    {
+     "from": "1998-01-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11628",
+     "sha256": "d5c311f10faf562f8a90ecae1f5b1cabc9e43f17a3d1576ff6da470cbc7d69e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-14-1997",
+   "path": "ordin/anrm/1997/14",
+   "short": "Ordin anrm nr. 14/1997",
+   "title": "Ordinul nr. 14/1997 privind stabilirea listei perimetrelor de dezvoltare-exploatare și/sau exploatare ce urmează a fi date în administrare în vederea desfășurării operațiunilor petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10981",
+   "versions": [
+    {
+     "from": "1997-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10981",
+     "sha256": "b72e9e136e1886d509f1b76e7380d4971ee95c52dbbb6116baa47338deba03a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-60-1997",
+   "path": "ordin/anrm/1997/60",
+   "short": "Ordin anrm nr. 60/1997",
+   "title": "Ordinul nr. 60/1997 privind continuarea activității de primire a ofertelor pentru perimetrele rămase libere în urma primei runde naționale de licitație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11382",
+   "versions": [
+    {
+     "from": "1997-08-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11382",
+     "sha256": "18632f8c475400aaeb10cba25fea4d61db4d5a2daaa6bd6a16dff6d1f1e3ab89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-72-1997",
+   "path": "ordin/anrm/1997/72",
+   "short": "Ordin anrm nr. 72/1997",
+   "title": "Ordinul nr. 72/1997 privind ajustarea tarifelor percepute pentru actele emise de Agenția Naționala pentru Resurse Minerale în exercitarea atribuțiilor sale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11460",
+   "versions": [
+    {
+     "from": "1997-10-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11460",
+     "sha256": "c9dfbf57d2c1b1a7c341de8bb09daa395f6203a5636d695c6fefd4cdfa7c3aae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-90-1997",
+   "path": "ordin/anrm/1997/90",
+   "short": "Ordin anrm nr. 90/1997",
+   "title": "Ordinul nr. 90/1997 privind conținutul-cadru al documentațiilor necesare pentru conservarea și închiderea minelor și carierelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11561",
+   "versions": [
+    {
+     "from": "1997-11-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11561",
+     "sha256": "7a9c893ed39eb2961dd3d2e9bae875b15148bfadcc64e22aace0c0e9c2d8fd3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-94-1997",
+   "path": "ordin/anrm/1997/94",
+   "short": "Ordin anrm nr. 94/1997",
+   "title": "Ordinul nr. 94/1997 privind posibilitatea retragerii atestatului de către Agenția Naționala pentru Resurse Minerale unor agenți economici cu activitate geologica și/sau de exploatare a substanțelor minerale utile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11585",
+   "versions": [
+    {
+     "from": "1997-12-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11585",
+     "sha256": "4ec5b0d8c461eddc6946022276f2ef5a4f61d6685467c72641d5f58c88e0f0cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-96-1997",
+   "path": "ordin/anrm/1997/96",
+   "short": "Ordin anrm nr. 96/1997",
+   "title": "Ordinul nr. 96/1997 privind stabilirea listei perimetrelor ce urmează a fi concesionate prin apel public de ofertă, în vederea desfășurării de operațiuni petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11595",
+   "versions": [
+    {
+     "from": "1998-01-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11595",
+     "sha256": "fb80ff4c4d2f352b3d4b79d1ae37de367fbcc1fc79d99e3f753e32d6d7fed32a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-232-1997",
    "path": "ordin/bnr/1997/232",
    "short": "Ordin bnr nr. 232/1997",
@@ -333,6 +438,66 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-2291-1997",
+   "path": "ordin/comunicatii/1997/2291",
+   "short": "Ordin comunicatii nr. 2291/1997",
+   "title": "Ordinul nr. 2.291/1997 privind aprobarea modelului pentru Registrul de evidenta a rezultatelor cercetării, precum și a metodologiei de înregistrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13868",
+   "versions": [
+    {
+     "from": "1998-02-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13868",
+     "sha256": "ef40a6e15825f0fc40dfa7a231f8a75564bdf69bc8124e337e37f8f4ea2122f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-315-1997",
+   "path": "ordin/comunicatii/1997/315",
+   "short": "Ordin comunicatii nr. 315/1997",
+   "title": "Ordinul nr. 315/1997 privind autorizarea comunicației audiovizuale distribuite prin cablu CATV",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12427",
+   "versions": [
+    {
+     "from": "1997-12-15",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12427",
+     "sha256": "f6103c13e8c0f76f2d569e3f65206aba3fddeae4b69ec4c3d1778ff729bb0a41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-366-1997",
+   "path": "ordin/comunicatii/1997/366",
+   "short": "Ordin comunicatii nr. 366/1997",
+   "title": "Ordinul nr. 366/1997 privind autorizarea operatorilor publici și a operatorilor independenți de rețele de radiopaging",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12556",
+   "versions": [
+    {
+     "from": "1998-02-05",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12556",
+     "sha256": "f723f7a1cdce1e81a709daddf88f96b9a0ab091ea251dd9a6641868e3238273e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-93-1997",
+   "path": "ordin/comunicatii/1997/93",
+   "short": "Ordin comunicatii nr. 93/1997",
+   "title": "Ordinul nr. 93/1997 privind utilizarea infrastructurii rețelelor de transmisie a programelor audiovizuale (CATV)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11578",
+   "versions": [
+    {
+     "from": "1997-04-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11578",
+     "sha256": "6f8cbcc805f375ee15cf5470ee730b37b42cf2f451c4a109179c0fb4042d0052"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-34-1997",
    "path": "ordin/concurenta/1997/34",
    "short": "Ordin concurenta nr. 34/1997",
@@ -359,6 +524,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11223",
      "sha256": "26f21487f18eb98cce77042ec313487bc6dcfa540335ad6d5c2410a8cd029be5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2007-1997",
+   "path": "ordin/cultura/1997/2007",
+   "short": "Ordin cultura nr. 2007/1997",
+   "title": "Ordinul nr. 2.007/1997 privind abrogarea Ordinului ministrului culturii nr. 1.287 din 18 noiembrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13848",
+   "versions": [
+    {
+     "from": "1997-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13848",
+     "sha256": "7ef967fc70f65ddf1599b7536547cdcb617c4bc17368221ac776afdfd1938657"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2017-1997",
+   "path": "ordin/cultura/1997/2017",
+   "short": "Ordin cultura nr. 2017/1997",
+   "title": "Ordinul nr. 2.017/1997 privind bibliotecarii din instituțiile publice de profil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13849",
+   "versions": [
+    {
+     "from": "1997-07-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13849",
+     "sha256": "4c70f095f0b2cfc7a62c0055c5f617a11378e2a7b0ed3f8eb882917e29fcfbf8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2066-1997",
+   "path": "ordin/cultura/1997/2066",
+   "short": "Ordin cultura nr. 2066/1997",
+   "title": "Ordinul nr. 2.066/1997 privind aprobarea Programului de restructurare a Regiei Autonome a Imprimeriilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13853",
+   "versions": [
+    {
+     "from": "1997-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13853",
+     "sha256": "6056a79a7cbd9aed83ce78d8caf05127bb6cc8c1b9f6f1e32869a8bc6e6f867a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2069-1997",
+   "path": "ordin/cultura/1997/2069",
+   "short": "Ordin cultura nr. 2069/1997",
+   "title": "Ordinul nr. 2.069/1997 pentru aplicarea în instituțiile publice muzeale a prevederilor art. 14 din Legea nr. 22/1969 privind angajarea gestionarilor, constituirea de garanții și răspunderea în legătură cu gestionarea bunurilor agenților economici, autorităților sau instituțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13854",
+   "versions": [
+    {
+     "from": "1998-02-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13854",
+     "sha256": "487723143af803b7d2dc3efb7adf57d8d4e2ccac3a4fa15020cf57b74ecb7dec"
     }
    ]
   },
@@ -704,6 +929,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13888",
      "sha256": "929e190f5981ad4cec3d80641f43e2c3dc81ce852e6238098450f75544fe8cce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-102-1997",
+   "path": "ordin/externe/1997/102",
+   "short": "Ordin externe nr. 102/1997",
+   "title": "Ordinul nr. 102/1997 privind intrarea în vigoare a Tratatului cu privire la relațiile de buna vecinătate și cooperare dintre România și Ucraina, semnat la Constanța la 2 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11623",
+   "versions": [
+    {
+     "from": "1997-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11623",
+     "sha256": "3f776024160dc6fb663af7441dc9a12e222ec01f14273dcde6e843fc11e94be4"
     }
    ]
   },

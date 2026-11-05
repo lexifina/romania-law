@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12406 acts, 23,920 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12409 acts, 23,923 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8326, of which 3124 amending acts)
+## Laws (legi) (8329, of which 3126 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -705,6 +705,9 @@
 | Legea nr. 203/1999 privind permisele de muncă | [`lege/1999/203/`](lege/1999/203/) | repealed 2007-06-26 | 2 | 2000-02-28 | 2007-06-26 |
 | Legea nr. 204/1999 pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi | [`lege/1999/204/`](lege/1999/204/) | amended, not consolidated | 1 | 1999-12-30 | 1999-12-30 |
 | Legea nr. 206/1999 privind abilitarea Guvernului de a emite ordonanţe | [`lege/1999/206/`](lege/1999/206/) | amended, not consolidated | 1 | 1999-12-31 | 1999-12-31 |
+| Legea nr. 207/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 58/1998 pentru prelungirea termenului prevăzut la art. 25 alin. (1) din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare | [`lege/1999/207/`](lege/1999/207/) | amending act | 1 | 1999-12-31 | 1999-12-31 |
+| Legea nr. 208/1999 privind ratificarea Acordului de cooperare pentru prevenirea şi combaterea infracţionalităţii transfrontaliere, semnat la Bucureşti la 26 mai 1999 | [`lege/1999/208/`](lege/1999/208/) | in force | 1 | 1999-12-31 | 1999-12-31 |
+| Legea nr. 209/1999 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 40/1998 privind stabilirea ca zi nelucrătoare a zilei de 30 noiembrie 1998 | [`lege/1999/209/`](lege/1999/209/) | amending act | 1 | 1999-12-31 | 1999-12-31 |
 | Legea nr. 210/1999 privind concediul paternal | [`lege/1999/210/`](lege/1999/210/) | in force | 3 | 2000-02-14 | 2022-08-29 |
 | Legea nr. 1/2000 | [`lege/2000/1/`](lege/2000/1/) | in force | 18 | 2000-01-12 | 2022-05-19 |
 | Legea nr. 2/2000 privind modificarea şi completarea Legii nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice | [`lege/2000/2/`](lege/2000/2/) | amended, not consolidated | 1 | 2000-01-18 | 2000-01-18 |
@@ -12472,11 +12475,11 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27935 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 24493 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 725 | [`data/acts/norma/`](data/acts/norma/) |
+| Government decisions (HG) | 27939 | [`data/acts/hg/`](data/acts/hg/) |
+| Ministerial and authority orders (ordine) | 26489 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 727 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |
-| Instructions (instrucțiuni) | 185 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
+| Instructions (instrucțiuni) | 186 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
 | Clarifications (precizări) | 34 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 3 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 2 | [`data/acts/criterii/`](data/acts/criterii/) |

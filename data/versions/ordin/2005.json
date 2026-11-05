@@ -3,6 +3,351 @@
  "shard": "ordin/2005",
  "acts": [
   {
+   "slug": "ordin-aaas-4380-2005",
+   "path": "ordin/aaas/2005/4380",
+   "short": "Ordin aaas nr. 4380/2005",
+   "title": "Ordinul nr. 4.380/2005 pentru aprobarea Regulamentului privind restituirea și atribuirea de acțiuni în cadrul metodei de privatizare prin restituire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59193",
+   "versions": [
+    {
+     "from": "2005-02-11",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59193",
+     "sha256": "9bc480a71197290d3068f193b55c6a36a3d4944fb987d1bf8aadae11e59659af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4450-2005",
+   "path": "ordin/aaas/2005/4450",
+   "short": "Ordin aaas nr. 4450/2005",
+   "title": "Ordinul nr. 4.450/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Nitramonia\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59515",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59515",
+     "sha256": "f028aa63b4a1bc49bf861e68dab0575ac1ef3ec988e2264488f51d69397462fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4451-2005",
+   "path": "ordin/aaas/2005/4451",
+   "short": "Ordin aaas nr. 4451/2005",
+   "title": "Ordinul nr. 4.451/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Edelweiss Hotel\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59510",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59510",
+     "sha256": "e7ae2bb0c5eb7f51346225d5e4928de99a9c941845df12fca681d69c25f49619"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4452-2005",
+   "path": "ordin/aaas/2005/4452",
+   "short": "Ordin aaas nr. 4452/2005",
+   "title": "Ordinul nr. 4.452/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Nitrosere\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59511",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59511",
+     "sha256": "068955c72143cfbf5322daf3e920ac8aec141991b6dfefaad9ddcd1854006251"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4453-2005",
+   "path": "ordin/aaas/2005/4453",
+   "short": "Ordin aaas nr. 4453/2005",
+   "title": "Ordinul nr. 4.453/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Nitroservice\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59512",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59512",
+     "sha256": "2dd0cc649fdae92f765f3d4b59a21286ebfa89849f350061549193f7d3d4a137"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4454-2005",
+   "path": "ordin/aaas/2005/4454",
+   "short": "Ordin aaas nr. 4454/2005",
+   "title": "Ordinul nr. 4.454/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Nitrocontrol\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59516",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59516",
+     "sha256": "cd408abfef56ec4de1ce56e02421d4419d8c2a69e5c9cdf1a318612500611c78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4455-2005",
+   "path": "ordin/aaas/2005/4455",
+   "short": "Ordin aaas nr. 4455/2005",
+   "title": "Ordinul nr. 4.455/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Nitrotrans\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59517",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59517",
+     "sha256": "250b69236ca7450e45d5d2ce53e40f7db16c5326e02824411d3b2609653a610f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4456-2005",
+   "path": "ordin/aaas/2005/4456",
+   "short": "Ordin aaas nr. 4456/2005",
+   "title": "Ordinul nr. 4.456/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Nitrofertilizer\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59518",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59518",
+     "sha256": "074fd0d9831093f221e13ecfbb3eeb033e22a1f32e97d66471ac341b11a2dd0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4457-2005",
+   "path": "ordin/aaas/2005/4457",
+   "short": "Ordin aaas nr. 4457/2005",
+   "title": "Ordinul nr. 4.457/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Nitroexplosives\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59542",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59542",
+     "sha256": "02b504a7ffd8fd6bf6a4273047b63c851d7df003c34ef5b3b1ec3a03f0ee8a51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4594-2005",
+   "path": "ordin/aaas/2005/4594",
+   "short": "Ordin aaas nr. 4594/2005",
+   "title": "Ordinul nr. 4.594/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"BICAPA\" - S.A. Târnăveni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60859",
+   "versions": [
+    {
+     "from": "2005-04-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60859",
+     "sha256": "c689a17e7439f2137ef95e608acc8384f9345bbf32ca5c5e2b9f155f6bd6fd2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5015-2005",
+   "path": "ordin/aaas/2005/5015",
+   "short": "Ordin aaas nr. 5015/2005",
+   "title": "Ordinul nr. 5.015/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Trocadero\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61971",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61971",
+     "sha256": "7c2a7fd49a704f4b325aa63d9066848f291562d9b5701b563f625d23677bc919"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5016-2005",
+   "path": "ordin/aaas/2005/5016",
+   "short": "Ordin aaas nr. 5016/2005",
+   "title": "Ordinul nr. 5.016/2005 privind instituirea procedurii de administrare specială la Societatea Comercială de Prelucrare a Cărnii \"Splai\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61972",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61972",
+     "sha256": "4e9063b5a11475d877a5e15b47e4fec4e7de3fd6e9f08750acc78bee336f624e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5017-2005",
+   "path": "ordin/aaas/2005/5017",
+   "short": "Ordin aaas nr. 5017/2005",
+   "title": "Ordinul nr. 5.017/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Centrul de Cercetare pentru Materiale Macromoleculare și Membrane\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61973",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61973",
+     "sha256": "05ee8694e4d614bc00c3106835ec615216ba6b9181392775a249e70767e05259"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5019-2005",
+   "path": "ordin/aaas/2005/5019",
+   "short": "Ordin aaas nr. 5019/2005",
+   "title": "Ordinul nr. 5.019/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"U.V.C.P.\" - S.A. Turnu Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61995",
+   "versions": [
+    {
+     "from": "2005-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61995",
+     "sha256": "30f74731d2b85c2571a6c326c20e02064ce4762bd7149b8dffba61fca877b4b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5020-2005",
+   "path": "ordin/aaas/2005/5020",
+   "short": "Ordin aaas nr. 5020/2005",
+   "title": "Ordinul nr. 5.020/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"DELFINCOM\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61998",
+   "versions": [
+    {
+     "from": "2005-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61998",
+     "sha256": "6938b5716b362534765ac066762e5d1f797e3dc4b01c98ec94d762ad54abaa94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5021-2005",
+   "path": "ordin/aaas/2005/5021",
+   "short": "Ordin aaas nr. 5021/2005",
+   "title": "Ordinul nr. 5.021/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Prestări Servicii\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61999",
+   "versions": [
+    {
+     "from": "2005-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61999",
+     "sha256": "9c91baa4d56df55058f6d1193868e8ae72ffb89bdd0393d7582b917019012375"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5034-2005",
+   "path": "ordin/aaas/2005/5034",
+   "short": "Ordin aaas nr. 5034/2005",
+   "title": "Ordinul nr. 5.034/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Nicolina\" - S.A. Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61974",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61974",
+     "sha256": "6cbb37db95c186761b1750034cd302139c2955641dbf3824afb140d164c4a571"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5132-2005",
+   "path": "ordin/aaas/2005/5132",
+   "short": "Ordin aaas nr. 5132/2005",
+   "title": "Ordinul nr. 5.132/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"UNTIM\" - S.A. Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62752",
+   "versions": [
+    {
+     "from": "2005-06-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62752",
+     "sha256": "ba1b121b97921cea843c69c231c9aafc59f3e529fa83a383149e9e39774efc79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5133-2005",
+   "path": "ordin/aaas/2005/5133",
+   "short": "Ordin aaas nr. 5133/2005",
+   "title": "Ordinul nr. 5.133/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"SIAT - Sisteme Industriale de Automatizări\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62800",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62800",
+     "sha256": "55d30da8678a23cbcd059607dcd0a40f858cbb38fe2af336c34eec34755170a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5134-2005",
+   "path": "ordin/aaas/2005/5134",
+   "short": "Ordin aaas nr. 5134/2005",
+   "title": "Ordinul nr. 5.134/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"CELROM\" - S.A. Drobeta-Turnu Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62801",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62801",
+     "sha256": "2c318268cef831fe2b9c25099678b5c8841d3ac749e59dde5bbeae6492c09953"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5135-2005",
+   "path": "ordin/aaas/2005/5135",
+   "short": "Ordin aaas nr. 5135/2005",
+   "title": "Ordinul nr. 5.135/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"Băneasa\" - S.A. Voluntari, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62803",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62803",
+     "sha256": "85babe07d66bc13bb5d43fbf989f944cfa9597fd5157f4b948584ce4024146f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-5452-2005",
+   "path": "ordin/aaas/2005/5452",
+   "short": "Ordin aaas nr. 5452/2005",
+   "title": "Ordinul nr. 5.452/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"TEROM\" - S.A. Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65329",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65329",
+     "sha256": "603a32756764ecc5daaf6c72a02b46983767edcdf814785b27dcf0f6e863bc58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-6182-2005",
+   "path": "ordin/aaas/2005/6182",
+   "short": "Ordin aaas nr. 6182/2005",
+   "title": "Ordinul nr. 6.182/2005 privind instituirea procedurii de administrare specială la Societatea Comercială \"I.N.A.R.\" - S.A. Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67622",
+   "versions": [
+    {
+     "from": "2006-01-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67622",
+     "sha256": "1c23494ade257e942e93ae568f05b5d3bcf6cdabd40a52a2a2cd9158221f4cca"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1017-2005",
    "path": "ordin/agricultura/2005/1017",
    "short": "Ordin agricultura nr. 1017/2005",
@@ -3363,6 +3708,171 @@
    ]
   },
   {
+   "slug": "ordin-anrm-105-2005",
+   "path": "ordin/anrm/2005/105",
+   "short": "Ordin anrm nr. 105/2005",
+   "title": "Ordinul nr. 105/2005 privind aprobarea tarifelor de transport al țițeiului prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64549",
+   "versions": [
+    {
+     "from": "2005-08-26",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64549",
+     "sha256": "a01ed4c0f92cd31b4fe548ac882fc315e974dfd377d3da5c2fd1f166d6889ed8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-134-2005",
+   "path": "ordin/anrm/2005/134",
+   "short": "Ordin anrm nr. 134/2005",
+   "title": "Ordinul nr. 134/2005 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare - Runda nr. 46/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31696",
+   "versions": [
+    {
+     "from": "2005-10-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31696",
+     "sha256": "03837a50350255e1722c6f6b5c4a1229817fe6cccd12c860bb58733a0ec50cc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-144-2005",
+   "path": "ordin/anrm/2005/144",
+   "short": "Ordin anrm nr. 144/2005",
+   "title": "Ordinul nr. 144/2005 privind aprobarea modelului-cadru al procesului-verbal de constatare și sancționare a contravențiilor în domeniul executării de activități miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65601",
+   "versions": [
+    {
+     "from": "2005-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65601",
+     "sha256": "34dbe59c3dc9e6a17db6ea8c90be940375208899c8a5f7f4e67f58ceb7e96162"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-150-2005",
+   "path": "ordin/anrm/2005/150",
+   "short": "Ordin anrm nr. 150/2005",
+   "title": "Ordinul nr. 150/2005 pentru aprobarea Instrucțiunilor tehnice privind conținutul de detaliu al Cărții petroliere și modul de întocmire a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65862",
+   "versions": [
+    {
+     "from": "2005-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65862",
+     "sha256": "03f178f8ca67be57a38a18cc207b8478bb4658dc3c9a8b2f7f121671ddcfc9d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-174-2005",
+   "path": "ordin/anrm/2005/174",
+   "short": "Ordin anrm nr. 174/2005",
+   "title": "Ordinul nr. 174/2005 pentru aprobarea Instrucțiunilor tehnice privind expertizarea documentațiilor de evaluare a resurselor/rezervelor minerale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66727",
+   "versions": [
+    {
+     "from": "2005-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66727",
+     "sha256": "2697ad84ad857dc408d22c4c72e6813af86f270d5a19188b476e437b30e121f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-175-2005",
+   "path": "ordin/anrm/2005/175",
+   "short": "Ordin anrm nr. 175/2005",
+   "title": "Ordinul nr. 175/2005 pentru aprobarea Instrucțiunilor tehnice privind conținutul-cadru al Studiului de fezabilitate pentru valorificarea resurselor minerale și protecția zăcământului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66796",
+   "versions": [
+    {
+     "from": "2005-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66796",
+     "sha256": "5ad4bef4f8e15d328e8d0e35cbd7f27cdc7286d7e9397f90fc2b5f8104e52eae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-176-2005",
+   "path": "ordin/anrm/2005/176",
+   "short": "Ordin anrm nr. 176/2005",
+   "title": "Ordinul nr. 176/2005 pentru aprobarea Instrucțiunilor tehnice privind conținutul-cadru al Planului de dezvoltare a exploatării resurselor/rezervelor minerale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66729",
+   "versions": [
+    {
+     "from": "2005-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66729",
+     "sha256": "8a94d506a3d310912eae2993cdf2c06938a7634e8cb0ae22bd3b55f92a46b51f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-177-2005",
+   "path": "ordin/anrm/2005/177",
+   "short": "Ordin anrm nr. 177/2005",
+   "title": "Ordinul nr. 177/2005 pentru aprobarea Instrucțiunilor tehnice privind conținutul-cadru al Documentației cu calculul resurselor/rezervelor minerale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66731",
+   "versions": [
+    {
+     "from": "2005-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66731",
+     "sha256": "54ec6d80eddaaae27b14879f66c46e2077c5cc36c77f11f71dd81a6fd6ac9aaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-179-2005",
+   "path": "ordin/anrm/2005/179",
+   "short": "Ordin anrm nr. 179/2005",
+   "title": "Ordinul nr. 179/2005 pentru aprobarea Instrucțiunilor tehnice privind condițiile de eliberare a permiselor de prospecțiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66737",
+   "versions": [
+    {
+     "from": "2005-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66737",
+     "sha256": "56bb68903f5b8ced17bc753fac6be44434016c55ccad890d43135dc37b887f33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-189-2005",
+   "path": "ordin/anrm/2005/189",
+   "short": "Ordin anrm nr. 189/2005",
+   "title": "Ordinul nr. 189/2005 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 47/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67305",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67305",
+     "sha256": "f8341c81a991e10134ea41b5c7c17603ceb804a2fc5657b0a66c12482019c153"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-197-2005",
+   "path": "ordin/anrm/2005/197",
+   "short": "Ordin anrm nr. 197/2005",
+   "title": "Ordinul nr. 197/2005 privind aprobarea Contractului-cadru pentru transportul țițeiului, gazolinei, condensatului și etanului lichid pentru anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68768",
+   "versions": [
+    {
+     "from": "2006-02-10",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68768",
+     "sha256": "f0b70648cc4e641be2a0ba68f5d032bf35fc77e73a6b530ac531bfd0fff35b0c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-27-2005",
    "path": "ordin/anrm/2005/27",
    "short": "Ordin anrm nr. 27/2005",
@@ -3374,6 +3884,141 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61212",
      "sha256": "de8f54eb7eee36a3b7f161066cc1b0ac6f2442451ff85490c3c7a8d4f7278530"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-39-2005",
+   "path": "ordin/anrm/2005/39",
+   "short": "Ordin anrm nr. 39/2005",
+   "title": "Ordinul nr. 39/2005 privind aprobarea Listei perimetrelor scoase la concurs public de oferte Runda nr. 44/2005 pentru concesionarea de activități miniere de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61689",
+   "versions": [
+    {
+     "from": "2005-05-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61689",
+     "sha256": "f9b0a8bc4db88a9e25b6e955e604c828266a52bc25a42333e287c7846efcdf13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-40-2005",
+   "path": "ordin/anrm/2005/40",
+   "short": "Ordin anrm nr. 40/2005",
+   "title": "Ordinul nr. 40/2005 pentru aprobarea Instrucțiunilor tehnice privind eliberarea permiselor de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61883",
+   "versions": [
+    {
+     "from": "2005-05-24",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61883",
+     "sha256": "51d3c9cbfbc787efc1ca9fc91446c9a5c576a06f13e506b9ec600e9c5e6e5e84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-41-2005",
+   "path": "ordin/anrm/2005/41",
+   "short": "Ordin anrm nr. 41/2005",
+   "title": "Ordinul nr. 41/2005 privind aprobarea Metodologiei de atestare a competenței tehnice a persoanelor juridice care întocmesc documentații și/sau execută lucrări de cercetare geologică, lucrări de exploatare a petrolului și a resurselor minerale și de expertizare, precum și a persoanelor fizice care întocmesc documentații și/sau execută lucrări de cercetare geologică și de expertizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61899",
+   "versions": [
+    {
+     "from": "2005-05-24",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61899",
+     "sha256": "d629f30e1637925a7091b62fc1aeae1f49eac139a5497b435d2b5433c243b70c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-5-2005",
+   "path": "ordin/anrm/2005/5",
+   "short": "Ordin anrm nr. 5/2005",
+   "title": "Ordinul nr. 5/2005 privind aprobarea Contractului-cadru pentru transportul țițeiului, condensatului, gazolinei și etanului lichid pentru anul 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58850",
+   "versions": [
+    {
+     "from": "2005-01-29",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58850",
+     "sha256": "f928d7eb70fc57440bdeacf7939eb9448d03aa94cb3e9a2a683f7e1b46b75c0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-61-2005",
+   "path": "ordin/anrm/2005/61",
+   "short": "Ordin anrm nr. 61/2005",
+   "title": "Ordinul nr. 61/2005 privind aprobarea Listei perimetrelor petroliere oferite pentru concesiune prin apel public de ofertă, Runda a VII-a/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62480",
+   "versions": [
+    {
+     "from": "2005-06-20",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62480",
+     "sha256": "d6746dc9259bb50459e09f5cefca0951bb1a783a98ed0a9f7644682812290cb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-66-2005",
+   "path": "ordin/anrm/2005/66",
+   "short": "Ordin anrm nr. 66/2005",
+   "title": "Ordinul nr. 66/2005 pentru modificarea și completarea Instrucțiunilor privind elaborarea programului anual de exploatare petrolieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62339",
+   "versions": [
+    {
+     "from": "2005-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62339",
+     "sha256": "35a9fd95be5c70562262a42622580d0d3a3e3217a4ff6189ec50db8f37f1d378"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-8-2005",
+   "path": "ordin/anrm/2005/8",
+   "short": "Ordin anrm nr. 8/2005",
+   "title": "Ordinul nr. 8/2005 privind aprobarea tarifelor de derulare a țițeiului și produselor petroliere prin terminalul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58830",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58830",
+     "sha256": "270a65784e895ec3bbcee900a5498290ec9f2a4687ed7aa7b2a4dc8f2f5e392d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-86-2005",
+   "path": "ordin/anrm/2005/86",
+   "short": "Ordin anrm nr. 86/2005",
+   "title": "Ordinul nr. 86/2005 privind aprobarea Listei perimetrelor pentru concesionarea de activități miniere de explorare - Runda 45/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63785",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63785",
+     "sha256": "e6422a681ecb95ae15ab4aeeb5f024aa7ffb1e45c6287e031cdbc4d623a55f89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-89-2005",
+   "path": "ordin/anrm/2005/89",
+   "short": "Ordin anrm nr. 89/2005",
+   "title": "Ordinul nr. 89/2005 privind aprobarea modelului-cadru al Procesului-verbal de constatare și sancționare a contravențiilor în domeniul efectuării de operațiuni petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63626",
+   "versions": [
+    {
+     "from": "2005-08-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63626",
+     "sha256": "afedb9a534208404098e154e8cec205eb299f7ecd6362216689f804c6228a964"
     }
    ]
   },
@@ -5403,6 +6048,156 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-112-2005",
+   "path": "ordin/comunicatii/2005/112",
+   "short": "Ordin comunicatii nr. 112/2005",
+   "title": "Ordinul nr. 112/2005 privind punerea în funcțiune a Sistemului național unic pentru apeluri de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60779",
+   "versions": [
+    {
+     "from": "2005-04-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60779",
+     "sha256": "c4aa41bd72497aba3ce5053a440073afcd3bce1c75ac7252f54029ca5f92a248"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-221-2005",
+   "path": "ordin/comunicatii/2005/221",
+   "short": "Ordin comunicatii nr. 221/2005",
+   "title": "Ordinul nr. 221/2005 privind aprobarea Normelor tehnice și metodologice pentru aplicarea Legii nr. 589/2004 privind regimul juridic al activității electronice notariale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62543",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62543",
+     "sha256": "f091b911476e89ffacdf5806154863964d24701a92cead32f945cfd37e69cc3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-318-2005",
+   "path": "ordin/comunicatii/2005/318",
+   "short": "Ordin comunicatii nr. 318/2005",
+   "title": "Ordinul nr. 318/2005 privind modificarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 184/2004 pentru aprobarea Documentului de politică și strategie privind implementarea serviciului universal în sectorul comunicațiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64573",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64573",
+     "sha256": "6991856d845e4924d3ea395a7c022928569144747f9bfbaf9e548219361c978e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-320-2005",
+   "path": "ordin/comunicatii/2005/320",
+   "short": "Ordin comunicatii nr. 320/2005",
+   "title": "Ordinul nr. 320/2005 pentru abrogarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 298/2003 privind procedura de acordare a avizelor necesare pentru înființarea și funcționarea asociațiilor și fundațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64712",
+   "versions": [
+    {
+     "from": "2005-09-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64712",
+     "sha256": "95653f02aac2b51722c83b8a14a53bf149e3e94c226215367440bf405b71ec49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-401-2005",
+   "path": "ordin/comunicatii/2005/401",
+   "short": "Ordin comunicatii nr. 401/2005",
+   "title": "Ordinul nr. 401/2005 pentru aprobarea Normelor privind prevenirea și stingerea incendiilor în cadrul Companiei Naționale \"Poșta Română\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65695",
+   "versions": [
+    {
+     "from": "2005-11-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65695",
+     "sha256": "44142e7e2fda17af3a7d738c2ec26738a060046307e18e2a0167d87b901fdfd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-410-2005",
+   "path": "ordin/comunicatii/2005/410",
+   "short": "Ordin comunicatii nr. 410/2005",
+   "title": "Ordinul nr. 410/2005 privind experimentarea tehnologiei de comunicații electronice Personal Handyphone System (PHS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65835",
+   "versions": [
+    {
+     "from": "2005-11-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65835",
+     "sha256": "4e807fe9cd51bc95ae3414c649d464a98e085fa9cd05e09ff7043f5efdaeeb1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-42-2005",
+   "path": "ordin/comunicatii/2005/42",
+   "short": "Ordin comunicatii nr. 42/2005",
+   "title": "Ordinul nr. 42/2005 privind aprobarea Listei standardelor române care au adoptat standardele europene armonizate pentru echipamentele radio și echipamentele terminale de telecomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59389",
+   "versions": [
+    {
+     "from": "2005-02-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59389",
+     "sha256": "d4e7b623bbc58a787060fed687aff20f5daacc1d8e157e422d8d9e169db9b5a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-435-2005",
+   "path": "ordin/comunicatii/2005/435",
+   "short": "Ordin comunicatii nr. 435/2005",
+   "title": "Ordinul nr. 435/2005 privind procedura de selectare a procesatorilor de plăți on-line cu carduri în vederea operaționalizării sistemului \"Ghișeu virtual de plăți\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66202",
+   "versions": [
+    {
+     "from": "2005-11-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66202",
+     "sha256": "f24f8ca6fe9e8907d24b295fc3715e4d8daa692ff01537a91cd00a66b23a85be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-54-2005",
+   "path": "ordin/comunicatii/2005/54",
+   "short": "Ordin comunicatii nr. 54/2005",
+   "title": "Ordinul nr. 54/2005 privind procedura acordării, suspendării și retragerii deciziei de acreditare a furnizorilor de servicii de certificare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59909",
+   "versions": [
+    {
+     "from": "2005-03-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59909",
+     "sha256": "ad3f3e8ab74d0f47321a97ef25bfa6590a34c3f710488f396b0ff04aca51b15d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-99-2005",
+   "path": "ordin/comunicatii/2005/99",
+   "short": "Ordin comunicatii nr. 99/2005",
+   "title": "Ordinul nr. 99/2005 pentru modificarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 366/2002 privind calitatea rețelelor de distribuție prin cablu pentru semnale de televiziune și radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60351",
+   "versions": [
+    {
+     "from": "2005-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60351",
+     "sha256": "3b8d73d6a5c577e42785ec87ae1c5baf9637b888b51188b3635e642c4a23ff70"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-123-2005",
    "path": "ordin/concurenta/2005/123",
    "short": "Ordin concurenta nr. 123/2005",
@@ -6003,6 +6798,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2055-2005",
+   "path": "ordin/cultura/2005/2055",
+   "short": "Ordin cultura nr. 2055/2005",
+   "title": "Ordinul nr. 2.055/2005 privind aprobarea Criteriilor pentru acordarea aprobărilor nominale prevăzute la pct. 1 din nota cuprinsă în anexa nr. IV/2 \"Cultură\" la Ordonanța Guvernului nr. 9/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60220",
+   "versions": [
+    {
+     "from": "2005-03-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60220",
+     "sha256": "dda6dfeebc6a8111629c50ab7c472099cb0d237bebcd9d5ec0c8974a90793e88"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2154-2005",
    "path": "ordin/cultura/2005/2154",
    "short": "Ordin cultura nr. 2154/2005",
@@ -6018,6 +6828,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2182-2005",
+   "path": "ordin/cultura/2005/2182",
+   "short": "Ordin cultura nr. 2182/2005",
+   "title": "Ordinul nr. 2.182/2005 pentru aprobarea Listei monumentelor istorice 2004 - modificări și completări - și a Listei monumentelor istorice 2004 - monumente dispărute - modificări și completări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65748",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65748",
+     "sha256": "71582532b89cf81cec3e06dd6db3f66956d22e97de5aefe18ab3ccc4e035f361"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2348-2005",
    "path": "ordin/cultura/2005/2348",
    "short": "Ordin cultura nr. 2348/2005",
@@ -6029,6 +6854,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66870",
      "sha256": "1efca9566f7bdb8522c121ddeb891ffb73674f565c55fecf7b5b5dc3995736b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2365-2005",
+   "path": "ordin/cultura/2005/2365",
+   "short": "Ordin cultura nr. 2365/2005",
+   "title": "Ordinul nr. 2.365/2005 privind aprobarea Normelor metodologice pentru aplicarea prevederilor cap. I secțiunea a 6-a din Ordonanța Guvernului nr. 10/2005 privind reglementarea unor măsuri financiare, aprobată cu modificări și completări prin Legea nr. 146/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66466",
+   "versions": [
+    {
+     "from": "2005-12-02",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66466",
+     "sha256": "70158c2e594d662c0d5c44f1a285b21e8758350296cb247d788d6b3b5360f853"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2406-2005",
+   "path": "ordin/cultura/2005/2406",
+   "short": "Ordin cultura nr. 2406/2005",
+   "title": "Ordinul nr. 2.406/2005 privind stabilirea condițiilor de preluare de către Oficiul Român pentru Drepturile de Autor a stocului de marcaje holografice existent la Uniunea Producătorilor de Fonograme din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67121",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67121",
+     "sha256": "75fb7bd4f6832069846c89233f9d47dbe6ea3f2a659b5552b033db13884b46d5"
     }
    ]
   },
@@ -7679,6 +8534,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66198",
      "sha256": "dc96f0429fe0c30a040f43bad48bdcf9dc51608ae0accddd8c2b8cc02fc0aab7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-101-2005",
+   "path": "ordin/externe/2005/101",
+   "short": "Ordin externe nr. 101/2005",
+   "title": "Ordinul nr. 101/2005 privind intrarea în vigoare a unor tratate semnate de România cu alte state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59195",
+   "versions": [
+    {
+     "from": "2005-02-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59195",
+     "sha256": "21931ab952beb803793d87ae3bf414d9e26527e60dc50d5bced8f828c5e887fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1405-2005",
+   "path": "ordin/externe/2005/1405",
+   "short": "Ordin externe nr. 1405/2005",
+   "title": "Ordinul nr. 1.405/2005 privind intrarea în vigoare a unor tratate semnate de România cu alte state sau la care România a devenit parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65422",
+   "versions": [
+    {
+     "from": "2005-10-04",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65422",
+     "sha256": "30d2695c20e0673e2b0934f8e4adaa8e61fd46623f033572d99621b797831512"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-268-2005",
+   "path": "ordin/externe/2005/268",
+   "short": "Ordin externe nr. 268/2005",
+   "title": "Ordinul nr. 268/2005 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59304",
+   "versions": [
+    {
+     "from": "2005-02-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59304",
+     "sha256": "b783168296cbd5f3da70c530bc614d77463e3ef1c7b986347f0d9f29a6748917"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-706-2005",
+   "path": "ordin/externe/2005/706",
+   "short": "Ordin externe nr. 706/2005",
+   "title": "Ordinul nr. 706/2005 privind intrarea în vigoare a unor tratate semnate de România cu alte state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62174",
+   "versions": [
+    {
+     "from": "2005-06-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62174",
+     "sha256": "3fffba88665d0e21833daefd2cdb77f2de9f8bfcaebc9389443171f98bafd0aa"
     }
    ]
   },

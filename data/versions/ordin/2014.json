@@ -3783,6 +3783,216 @@
    ]
   },
   {
+   "slug": "ordin-anrm-100-2014",
+   "path": "ordin/anrm/2014/100",
+   "short": "Ordin anrm nr. 100/2014",
+   "title": "Ordinul nr. 100/2014 privind aprobarea unei licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158598",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158598",
+     "sha256": "791e5966058e18ecf26c88a0849dc0dab0d1062631b8ee75757764468c199c98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-104-2014",
+   "path": "ordin/anrm/2014/104",
+   "short": "Ordin anrm nr. 104/2014",
+   "title": "Ordinul nr. 104/2014 privind aprobarea unei licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158833",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158833",
+     "sha256": "f843c1719ac9a89042e581e22eaffcdbf59d4c5382c49f3adc7bbd443cd6e1c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-108-2014",
+   "path": "ordin/anrm/2014/108",
+   "short": "Ordin anrm nr. 108/2014",
+   "title": "Ordinul nr. 108/2014 privind aprobarea Listei apelor minerale naturale recunoscute în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159237",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159237",
+     "sha256": "173a2427d408f89af5502481255d4bac622e916fe6281c09fb320e966f9ffe07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-110-2014",
+   "path": "ordin/anrm/2014/110",
+   "short": "Ordin anrm nr. 110/2014",
+   "title": "Ordinul nr. 110/2014 privind aprobarea Listei perimetrelor pentru concesionare de activități de explorare, privind concursul public de ofertă - Runda nr. 88/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159285",
+   "versions": [
+    {
+     "from": "2014-06-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159285",
+     "sha256": "e4f499ee7422cdf48f083a15667db6d33bcbe92cb2b51b12ea2bd30e7251e8f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-111-2014",
+   "path": "ordin/anrm/2014/111",
+   "short": "Ordin anrm nr. 111/2014",
+   "title": "Ordinul nr. 111/2014 pentru aprobarea unei licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159344",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159344",
+     "sha256": "ef2947dd3c028ecd3539f73f734bd747bd92d11b96a23e94a421d441b4ac7167"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-180-2014",
+   "path": "ordin/anrm/2014/180",
+   "short": "Ordin anrm nr. 180/2014",
+   "title": "Ordinul nr. 180/2014 privind aprobarea Contractului-cadru de derulare a țițeiului și produselor petroliere prin terminalul petrolier pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163113",
+   "versions": [
+    {
+     "from": "2014-11-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163113",
+     "sha256": "143817d4237ee4e5b0ffbc36343c1167f043560ed769a7ae3867c0ab549b6a6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-2-2014",
+   "path": "ordin/anrm/2014/2",
+   "short": "Ordin anrm nr. 2/2014",
+   "title": "Ordinul nr. 2/2014 privind aprobarea unei licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154445",
+   "versions": [
+    {
+     "from": "2014-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154445",
+     "sha256": "01bbdd3cc0d95a6760e89e675c8e93abf1e46376f8a5eeb1f374b59c3a6b4f17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-288-2014",
+   "path": "ordin/anrm/2014/288",
+   "short": "Ordin anrm nr. 288/2014",
+   "title": "Ordinul nr. 288/2014 privind aprobarea tarifelor de derulare a țițeiului și produselor petroliere prin terminalul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163743",
+   "versions": [
+    {
+     "from": "2014-12-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163743",
+     "sha256": "279faa2a53e0c40b074e39839207aabda5128152b904fb731d2956f92950d700"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-289-2014",
+   "path": "ordin/anrm/2014/289",
+   "short": "Ordin anrm nr. 289/2014",
+   "title": "Ordinul nr. 289/2014 privind aprobarea Contractului-cadru pentru transportul țițeiului, gazolinei, condensatului și etanului pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163792",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163792",
+     "sha256": "c583c37fe94b5f1c9cb6b6470dbdcd75cb907823477bbec7c5f26f1c53079850"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-41-2014",
+   "path": "ordin/anrm/2014/41",
+   "short": "Ordin anrm nr. 41/2014",
+   "title": "Ordinul nr. 41/2014 privind aprobarea Listei perimetrelor pentru concesionare de activități de explorare privind concursul public de ofertă - Runda nr. 86/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156102",
+   "versions": [
+    {
+     "from": "2014-03-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156102",
+     "sha256": "92d3040039174ac1e3f761a967e2fcafcd36164c881bb0eaf925e3e1a7ba9078"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-42-2014",
+   "path": "ordin/anrm/2014/42",
+   "short": "Ordin anrm nr. 42/2014",
+   "title": "Ordinul nr. 42/2014 privind aprobarea Listei perimetrelor pentru concesionarea de activități de exploatare, Runda nr. 87/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156163",
+   "versions": [
+    {
+     "from": "2014-03-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156163",
+     "sha256": "638038fe4c9239b29f02760e9bc63cd03b4c33d3bf22a23d55ee75c7bcd2d19e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-47-2014",
+   "path": "ordin/anrm/2014/47",
+   "short": "Ordin anrm nr. 47/2014",
+   "title": "Ordinul nr. 47/2014 privind aprobarea unor licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156733",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156733",
+     "sha256": "e2753488c69754af64c4c261e3685402ebf24e99ab7d71bfcc0d6aa3066fae91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-50-2014",
+   "path": "ordin/anrm/2014/50",
+   "short": "Ordin anrm nr. 50/2014",
+   "title": "Ordinul nr. 50/2014 privind aprobarea Contractului-cadru de derulare a țițeiului și produselor petroliere prin terminalul petrolier pentru anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156910",
+   "versions": [
+    {
+     "from": "2014-04-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156910",
+     "sha256": "2b71f80a60d7eba960d5622522037a4d95523f0ab416f986c9fc87a35b92f6ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-85-2014",
+   "path": "ordin/anrm/2014/85",
+   "short": "Ordin anrm nr. 85/2014",
+   "title": "Ordinul nr. 85/2014 privind modificarea și completarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 139/2010 pentru aprobarea Instrucțiunilor tehnice privind fundamentarea, aprobarea și încasarea tarifelor și taxelor pentru actele eliberate de Agenția Națională pentru Resurse Minerale în vederea desfășurării operațiunilor petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158043",
+   "versions": [
+    {
+     "from": "2014-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158043",
+     "sha256": "b58aeb80f8cb21cc55be58802cba96295aa990b169100111191e15e87b6f0919"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-1-2014",
    "path": "ordin/ansvsa/2014/1",
    "short": "Ordin ansvsa nr. 1/2014",
@@ -4353,6 +4563,126 @@
    ]
   },
   {
+   "slug": "ordin-aparare-125-2014",
+   "path": "ordin/aparare/2014/125",
+   "short": "Ordin aparare nr. 125/2014",
+   "title": "Ordinul nr. 125/2014 pentru modificarea art. 8 alin. (3) din Regulamentul de organizare și funcționare al Clubului Sportiv al Armatei \"Steaua\", aprobat prin Ordinul ministrului apărării naționale nr. M.115/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163478",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163478",
+     "sha256": "27f54d9d59431d64b8c589ec172d65aee07e0a6227525cab79d761951c4b9fd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-127-2014",
+   "path": "ordin/aparare/2014/127",
+   "short": "Ordin aparare nr. 127/2014",
+   "title": "Ordinul nr. 127/2014 pentru modificarea și completarea Normelor metodologice privind exercitarea auditului public intern în Ministerul Apărării Naționale, aprobate prin Ordinul ministrului apărării naționale nr. M. 67/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163948",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163948",
+     "sha256": "f2bda5c46bf2494634ad8edf34fe11cccb7800893299e16294a783c74aa2672d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-128-2014",
+   "path": "ordin/aparare/2014/128",
+   "short": "Ordin aparare nr. 128/2014",
+   "title": "Ordinul nr. 128/2014 pentru modificarea Ordinului ministrului apărării naționale nr. M.36/2009 privind aprobarea bunurilor și serviciilor ce se pot pune la dispoziția forțelor armate străine care intră, staționează, desfășoară operațiuni sau tranzitează teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163966",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163966",
+     "sha256": "0d0fdda33d8391b6362ae65b4dba10c88ffceafe8f82027069a6edd5484cb300"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-131-2014",
+   "path": "ordin/aparare/2014/131",
+   "short": "Ordin aparare nr. 131/2014",
+   "title": "Ordinul nr. 131/2014 pentru modificarea și completarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 82/2006 pentru recunoașterea meritelor personalului armatei participant la acțiuni militare și acordarea unor drepturi acestuia și urmașilor celui decedat, aprobate prin Ordinul ministrului apărării naționale nr. M.39/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164454",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164454",
+     "sha256": "dd05394d80537720bc1be27ce7a9b32f088fb8ec1e85ca820f1b48ca00c57d99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-132-2014",
+   "path": "ordin/aparare/2014/132",
+   "short": "Ordin aparare nr. 132/2014",
+   "title": "Ordinul nr. 132/2014 privind abrogarea Ordinului ministrului apărării naționale nr. M.98/2002 pentru aprobarea \"Metodologiei de evaluare a persoanelor juridice în vederea eliberării autorizației/avizului pentru efectuarea de operațiuni de comerț exterior cu armamente, muniții și alte produse militare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164103",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164103",
+     "sha256": "dff2b07427d64b8e518ddd1b80b40097815c7bcc2cf3ca4cc679900c09f6c474"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-133-2014",
+   "path": "ordin/aparare/2014/133",
+   "short": "Ordin aparare nr. 133/2014",
+   "title": "Ordinul nr. 133/2014 pentru modificarea și completarea unor ordine ale ministrului apărării naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164140",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164140",
+     "sha256": "19bc99b2574224d1d77f3e39d87a846ddf0f0e7a712f773a7d11e0ccbb284572"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-134-2014",
+   "path": "ordin/aparare/2014/134",
+   "short": "Ordin aparare nr. 134/2014",
+   "title": "Ordinul nr. 134/2014 pentru completarea Regulamentului de organizare și funcționare al Clubului Sportiv al Armatei \"STEAUA\", aprobat prin Ordinul ministrului apărării naționale nr. M.115/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164295",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164295",
+     "sha256": "ecd462f97c3a6581da536d48952658d371b15bc7988fdc2a9523356c2503506d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-17-2014",
+   "path": "ordin/aparare/2014/17",
+   "short": "Ordin aparare nr. 17/2014",
+   "title": "Ordinul nr. 17/2014 pentru modificarea și completarea Regulamentului de organizare și funcționare a Colegiului Ministerului Apărării Naționale, aprobat prin Ordinul ministrului apărării nr. M.112/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155739",
+   "versions": [
+    {
+     "from": "2014-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155739",
+     "sha256": "ec710bbaeaf44572ea137c5337ad07594bfbf436e5e9a531032858af3e9ab7f4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-23-2014",
    "path": "ordin/aparare/2014/23",
    "short": "Ordin aparare nr. 23/2014",
@@ -4379,6 +4709,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156518",
      "sha256": "933057e37c1e8cbffe4f162f65f5b14e9d8a718bbf90a1851f5701ab9c8e3820"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-3-2014",
+   "path": "ordin/aparare/2014/3",
+   "short": "Ordin aparare nr. 3/2014",
+   "title": "Ordinul nr. 3/2014 pentru abrogarea Ordinului ministrului apărării naționale nr. M.124/2005 pentru aprobarea Instrucțiunilor privind organizarea și desfășurarea activităților de tradiții militare și educație civică în Armata României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154713",
+   "versions": [
+    {
+     "from": "2014-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154713",
+     "sha256": "57194d885b193d09f826e02f98228a3e16d6d5448c84f5303e3770168c1703c5"
     }
    ]
   },
@@ -4428,6 +4773,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-52-2014",
+   "path": "ordin/aparare/2014/52",
+   "short": "Ordin aparare nr. 52/2014",
+   "title": "Ordinul nr. 52/2014 pentru modificarea și completarea Instrucțiunilor privind repartizarea, închirierea și folosirea locuințelor de serviciu și a locuințelor de intervenție din administrarea Ministerului Apărării Naționale, aprobate prin Ordinul ministrului apărării naționale nr. M.84/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157906",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157906",
+     "sha256": "358b157baa8b8755114a26000fa67aa42481011b798c828e59a11503035cba51"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-67-2014",
    "path": "ordin/aparare/2014/67",
    "short": "Ordin aparare nr. 67/2014",
@@ -4443,6 +4803,36 @@
    ]
   },
   {
+   "slug": "ordin-aparare-79-2014",
+   "path": "ordin/aparare/2014/79",
+   "short": "Ordin aparare nr. 79/2014",
+   "title": "Ordinul nr. 79/2014 pentru modificarea art. 5 din Ordinul ministrului apărării nr. M.31/2008 privind competențele de achiziție a produselor, serviciilor și lucrărilor în cadrul Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160017",
+   "versions": [
+    {
+     "from": "2014-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160017",
+     "sha256": "a66aa6f48576eab62d6b0d15e96f69f1d836e282faf5932c10f3b1791c5b49b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-83-2014",
+   "path": "ordin/aparare/2014/83",
+   "short": "Ordin aparare nr. 83/2014",
+   "title": "Ordinul nr. 83/2014 pentru modificarea și completarea Instrucțiunilor privind asistența medicală și farmaceutică în Ministerul Apărării Naționale pe timp de pace, aprobate prin Ordinul ministrului apărării naționale nr. M.110/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160344",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160344",
+     "sha256": "2d9ff643a5e65320fb4d355f0ed0eabe2c83a62018d58b84a261970315d4bd29"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-87-2014",
    "path": "ordin/aparare/2014/87",
    "short": "Ordin aparare nr. 87/2014",
@@ -4454,6 +4844,21 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160544",
      "sha256": "36b099cffe498b4a39b802230ebc50e1ff025544ca36aa5ec1fe832810953189"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-89-2014",
+   "path": "ordin/aparare/2014/89",
+   "short": "Ordin aparare nr. 89/2014",
+   "title": "Ordinul nr. 89/2014 pentru modificarea și completarea Ordinului ministrului apărării naționale nr. M.129/2009 privind conducerea unităților sanitare cu paturi din rețeaua sanitară a Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160785",
+   "versions": [
+    {
+     "from": "2014-08-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160785",
+     "sha256": "3bc9c5b2281f2043d727e2f02bfe38a94121697eb0db272a0d78f45e6bb7a686"
     }
    ]
   },
@@ -5043,6 +5448,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-141-2014",
+   "path": "ordin/comunicatii/2014/141",
+   "short": "Ordin comunicatii nr. 141/2014",
+   "title": "Ordinul nr. 141/2014 pentru aprobarea Normelor metodologice privind elementele tehnice și de securitate ale sistemului de colectare online a declarațiilor de susținere a propunerilor de inițiativă cetățenească",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156911",
+   "versions": [
+    {
+     "from": "2014-04-15",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156911",
+     "sha256": "4a31378df52eed48ff5594d18bd5592f0249ddcd3ebfea83651c8e4c30c433d2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-221-2014",
    "path": "ordin/concurenta/2014/221",
    "short": "Ordin concurenta nr. 221/2014",
@@ -5129,6 +5549,126 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163916",
      "sha256": "2bdb867c742398021ebf2c24753882f313a1ba66d5875cb2c8568cd9f5f50555"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2275-2014",
+   "path": "ordin/cultura/2014/2275",
+   "short": "Ordin cultura nr. 2275/2014",
+   "title": "Ordinul nr. 2.275/2014 pentru modificarea Regulamentului de organizare și funcționare a Comisiei Naționale a Monumentelor Istorice, aprobat prin Ordinul ministrului culturii nr. 2.173/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157761",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157761",
+     "sha256": "59c0dfba2af8d1f75c0880838d0bd5b88a07c63cf8954a128e4cc2c35300384c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2357-2014",
+   "path": "ordin/cultura/2014/2357",
+   "short": "Ordin cultura nr. 2357/2014",
+   "title": "Ordinul nr. 2.357/2014 pentru modificarea anexei nr. 18 la Normele metodologice pentru aplicarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, aprobată cu modificări și completări prin Legea nr. 328/2006, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.379/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158743",
+   "versions": [
+    {
+     "from": "2014-06-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158743",
+     "sha256": "80c6ff53d06c846b1a758a916eb945b18b38983e105073ba76538f8058e6deda"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2526-2014",
+   "path": "ordin/cultura/2014/2526",
+   "short": "Ordin cultura nr. 2526/2014",
+   "title": "Ordinul nr. 2.526/2014 privind aprobarea cuantumului remunerațiilor pentru cesiunea neexclusivă a dreptului de utilizare a filmelor ce fac parte din patrimoniul național al cinematografiei, aflat în administrarea Centrului Național al Cinematografiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160556",
+   "versions": [
+    {
+     "from": "2014-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160556",
+     "sha256": "cc19754b1650f79258f6440811b8171cfaafeca93b1c6b328e4fe9f45dd506b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2624-2014",
+   "path": "ordin/cultura/2014/2624",
+   "short": "Ordin cultura nr. 2624/2014",
+   "title": "Ordinul nr. 2.624/2014 pentru modificarea art. 3 lit. d) din Normele metodologice privind stabilirea, vărsarea și gestionarea sumelor care constituie Fondul cultural național, aprobate prin Ordinul ministrului culturii și patrimoniului național nr. 2.066/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161657",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161657",
+     "sha256": "2dfb48cb0b14f15f89d1ffa94be0489bfa8c05f2ca1d19e1a06a99db24370558"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2668-2014",
+   "path": "ordin/cultura/2014/2668",
+   "short": "Ordin cultura nr. 2668/2014",
+   "title": "Ordinul nr. 2.668/2014 pentru aprobarea Regulamentului de organizare și funcționare a Institutului Național pentru Cercetare și Formare Culturală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162269",
+   "versions": [
+    {
+     "from": "2014-10-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162269",
+     "sha256": "8a8a96c38ebc4d0bb1a0f095ca99ef0f1501c510e92d82a03ddac478b74c0c02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2780-2014",
+   "path": "ordin/cultura/2014/2780",
+   "short": "Ordin cultura nr. 2780/2014",
+   "title": "Ordinul nr. 2.780/2014 pentru modificarea Regulamentului privind concursul de selecție a proiectelor cinematografice în vederea acordării de credite financiare directe pentru dezvoltare de proiecte, producție și distribuire de filme, aprobat prin Ordinul ministrului culturii și cultelor nr. 2.335/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163314",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163314",
+     "sha256": "ac69791852078497d0c62e23edccd8172da576e7856459f7f247c4d8cdc23282"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2793-2014",
+   "path": "ordin/cultura/2014/2793",
+   "short": "Ordin cultura nr. 2793/2014",
+   "title": "Ordinul nr. 2.793/2014 pentru modificarea anexei nr. 18 la Normele metodologice pentru aplicarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, aprobată cu modificări și completări prin Legea nr. 328/2006, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.379/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163514",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163514",
+     "sha256": "8b7cb64ed5dea44f4a14ef243d7798ad428c5d819f6bbe5f00d18d4903453d82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2815-2014",
+   "path": "ordin/cultura/2014/2815",
+   "short": "Ordin cultura nr. 2815/2014",
+   "title": "Ordinul nr. 2.815/2014 pentru modificarea și completarea Ordinului ministrului culturii și cultelor nr. 2.237/2004 privind aprobarea Normelor metodologice de semnalizare a monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163712",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163712",
+     "sha256": "df7570d640969b08af022da1d5ca5a99330c0ce0c69387ab0c137969886d5762"
     }
    ]
   },
@@ -7098,6 +7638,21 @@
    ]
   },
   {
+   "slug": "ordin-externe-1336-2014",
+   "path": "ordin/externe/2014/1336",
+   "short": "Ordin externe nr. 1336/2014",
+   "title": "Ordinul nr. 1.336/2014 privind publicarea Programului de colaborare culturală, educațională și științifică între Guvernul României și Guvernul Statului Israel pentru anii 2014-2017, semnat la Ierusalim la 22 iunie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160173",
+   "versions": [
+    {
+     "from": "2014-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160173",
+     "sha256": "e5eb31b5b80ff7abc73f64dbac1ef402bf3cb79b00467436954e92b2629e1a19"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-1551-2014",
    "path": "ordin/externe/2014/1551",
    "short": "Ordin externe nr. 1551/2014",
@@ -7109,6 +7664,216 @@
      "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162224",
      "sha256": "8b897bd393c3a6833d649a5f7a4e01219798cb65b8b29b67f903cd8bceb86005"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1740-2014",
+   "path": "ordin/externe/2014/1740",
+   "short": "Ordin externe nr. 1740/2014",
+   "title": "Ordinul nr. 1.740/2014 privind publicarea Programului de schimburi în domeniile culturii, artei, științei și educației între Guvernul României și Guvernul Republicii Islamice Iran, semnat la Teheran la 18 august 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161320",
+   "versions": [
+    {
+     "from": "2014-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161320",
+     "sha256": "f60fbc563df90ef9a3da0b6e413bc7a1483e9e41f40b912349cbf18ba7ae7f96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1839-2014",
+   "path": "ordin/externe/2014/1839",
+   "short": "Ordin externe nr. 1839/2014",
+   "title": "Ordinul nr. 1.839/2014 privind stabilirea secțiilor de votare din străinătate pentru organizarea și desfășurarea alegerii Președintelui României în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161348",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161348",
+     "sha256": "1c4197aacc6469d8b14b0798bc91ca8868d747b0caf8c197856e5c62f8d58eb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1843-2014",
+   "path": "ordin/externe/2014/1843",
+   "short": "Ordin externe nr. 1843/2014",
+   "title": "Ordinul nr. 1.843/2014 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161653",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161653",
+     "sha256": "1dca0325d7e78d4c870da976c6ab15011147aac8f21084eb60bd1d488da098f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2096-2014",
+   "path": "ordin/externe/2014/2096",
+   "short": "Ordin externe nr. 2096/2014",
+   "title": "Ordinul nr. 2.096/2014 privind modalitatea de raportare periodică a derulării operațiunilor de comerț exterior cu produse militare supuse controlului prin Ordonanța de urgență a Guvernului nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162901",
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162901",
+     "sha256": "63737c8dca80c8dca6300b2b5af6a2ee5d4bee4132970599bd65a37297e179bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2348-2014",
+   "path": "ordin/externe/2014/2348",
+   "short": "Ordin externe nr. 2348/2014",
+   "title": "Ordinul nr. 2.348/2014 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164403",
+   "versions": [
+    {
+     "from": "2015-01-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164403",
+     "sha256": "882095c85948d793ca2b01a112928ff9bf90b6bddf694cf817e0bca99ab1c898"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-290-2014",
+   "path": "ordin/externe/2014/290",
+   "short": "Ordin externe nr. 290/2014",
+   "title": "Ordinul nr. 290/2014 pentru aprobarea Metodologiei privind mecanismul intern de rambursare a cheltuielilor de transport pentru participarea experților/delegaților români la reuniunile Consiliului European și ale formațiunilor Consiliului Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156277",
+   "versions": [
+    {
+     "from": "2014-03-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156277",
+     "sha256": "d8a2066ca5438d29c2e5869c176136da720aee68600b8ee75b32a2ba729c83ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-475-2014",
+   "path": "ordin/externe/2014/475",
+   "short": "Ordin externe nr. 475/2014",
+   "title": "Ordinul nr. 475/2014 privind ieșirea din vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156101",
+   "versions": [
+    {
+     "from": "2014-03-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156101",
+     "sha256": "62e0b054074c2f64207cdd1b8b16bd1d0c592ab7c56ef853bfbbec270fc05a42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-72-2014",
+   "path": "ordin/externe/2014/72",
+   "short": "Ordin externe nr. 72/2014",
+   "title": "Ordinul nr. 72/2014 privind supunerea regimului de control prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare a operațiunii de export al produselor profile extrudate din aliaj de aluminiu 2014 PN HSS 5002 către firma Hindustan Aeronautics Limited Transport Aircraft Division, PO Box 225 Chakeri Kanpur, 208008, India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154663",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154663",
+     "sha256": "adcf0446a73a086271dd030387a079538302dec3fa2cf78a3156b4216ed87519"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-801-2014",
+   "path": "ordin/externe/2014/801",
+   "short": "Ordin externe nr. 801/2014",
+   "title": "Ordinul nr. 801/2014 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru admiterea în Corpul diplomatic și consular al României în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157382",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157382",
+     "sha256": "173e7630155b28a909e4786cbb086d4bd98dd94646e21ffaeae787cc70f06439"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-802-2014",
+   "path": "ordin/externe/2014/802",
+   "short": "Ordin externe nr. 802/2014",
+   "title": "Ordinul nr. 802/2014 privind publicarea Programului de colaborare în domeniile științei, educației, culturii, tineretului și sportului dintre Guvernul României și Guvernul Republicii Austria pentru anii 2013-2017, semnat la Bruxelles la 10 februarie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156957",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156957",
+     "sha256": "f10b341718557de5aaf9dbbf540b5572c7e4f1f0aafc7e3d86ca2be1db8ace07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-803-2014",
+   "path": "ordin/externe/2014/803",
+   "short": "Ordin externe nr. 803/2014",
+   "title": "Ordinul nr. 803/2014 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157999",
+   "versions": [
+    {
+     "from": "2014-05-08",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157999",
+     "sha256": "3094914451c683edc3689b791542a229edad2c52d600dadfb034136c2630fbf1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-823-2014",
+   "path": "ordin/externe/2014/823",
+   "short": "Ordin externe nr. 823/2014",
+   "title": "Ordinul nr. 823/2014 privind aprobarea Licenței generale de transfer de expediere temporară din teritoriul României de produse militare, pentru participare la demonstrații, evaluări sau expoziții nr. LGTR-RO-03",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157171",
+   "versions": [
+    {
+     "from": "2014-04-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157171",
+     "sha256": "f44464b79f683e58c5f80c6d56c3afaac1ea0ececad5af30e92869d0e18931f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-890-2014",
+   "path": "ordin/externe/2014/890",
+   "short": "Ordin externe nr. 890/2014",
+   "title": "Ordinul nr. 890/2014 privind aprobarea Codului etic pentru Corpul diplomatic și consular al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157363",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157363",
+     "sha256": "151196cba122799f2c47560089717d7673c3a4fb431d54775233d3e75ed0a512"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-996-2014",
+   "path": "ordin/externe/2014/996",
+   "short": "Ordin externe nr. 996/2014",
+   "title": "Ordinul nr. 996/2014 pentru aprobarea Listei cuprinzând produsele militare supuse regimului de control al exporturilor, importurilor și altor operațiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157943",
+   "versions": [
+    {
+     "from": "2014-05-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157943",
+     "sha256": "3bcde185be20172720fc818b9d26ecac766cc9b5c95ae0dfda7c22ea688e51b0"
     }
    ]
   },
@@ -8163,6 +8928,96 @@
    ]
   },
   {
+   "slug": "ordin-fonduri-1015-2014",
+   "path": "ordin/fonduri/2014/1015",
+   "short": "Ordin fonduri nr. 1015/2014",
+   "title": "Ordinul nr. 1.015/2014 pentru aprobarea Corrigendumului nr. 1 la Ghidul Solicitantului Condiții Specifice pentru cererea de propuneri de proiecte nr. 173 \"Dezvoltarea economiei sociale\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 6.1, aprobat prin Ordinul ministrului fondurilor europene nr. 970/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162046",
+   "versions": [
+    {
+     "from": "2014-10-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162046",
+     "sha256": "34014bbbe8e78d3068843988bed840871ce2dd49583125179ea706243e6a2ab5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1055-2014",
+   "path": "ordin/fonduri/2014/1055",
+   "short": "Ordin fonduri nr. 1055/2014",
+   "title": "Ordinul nr. 1.055/2014 privind aplicarea sumelor forfetare în cazul deplasărilor finanțate din Fondul pentru relații bilaterale la nivel național și de program în cadrul Mecanismului financiar SEE și Mecanismului financiar norvegian 2009-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162507",
+   "versions": [
+    {
+     "from": "2014-10-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162507",
+     "sha256": "9b4b95ba00f2225a56c569e70d7ee83e856edfe3ba45d48ff6074f56f73c0a09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1056-2014",
+   "path": "ordin/fonduri/2014/1056",
+   "short": "Ordin fonduri nr. 1056/2014",
+   "title": "Ordinul nr. 1.056/2014 privind aprobarea schemei de ajutor de stat \"Sprijin pentru consolidarea și modernizarea sectorului productiv prin investiții realizate de IMM și întreprinderi mari\", aferentă axei prioritare 1 \"Un sistem de producție inovativ și ecoeficient\", domeniului major de intervenție 1.1 \"Investiții productive și pregătirea pentru concurența pe piață a întreprinderilor\", operațiunea 1.1.1 \"Sprijin pentru consolidarea și modernizarea sectorului productiv prin investiții realizate de IMM și întreprinderi mari\", din cadrul Programului operațional sectorial \"Creșterea competitivității economice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162360",
+   "versions": [
+    {
+     "from": "2014-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162360",
+     "sha256": "3f57d175d030b281047e67b03ed3ccfdf1cf6a86af1ca2515e2bf29da80536a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1064-2014",
+   "path": "ordin/fonduri/2014/1064",
+   "short": "Ordin fonduri nr. 1064/2014",
+   "title": "Ordinul nr. 1.064/2014 pentru aprobarea Documentului-cadru de implementare a Programului operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162419",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162419",
+     "sha256": "fa2cd66f8f0ca9676eb986aaaf1b28cb5ffd12b1d2550409a75913995d5530dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1091-2014",
+   "path": "ordin/fonduri/2014/1091",
+   "short": "Ordin fonduri nr. 1091/2014",
+   "title": "Ordinul nr. 1.091/2014 privind modificarea Ordinului ministrului muncii, familiei și protecției sociale și al ministrului finanțelor publice nr. 1.117/2.170/2010 pentru stabilirea regulilor de eligibilitate și a listei cheltuielilor eligibile în cadrul operațiunilor finanțate prin Programul operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162609",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162609",
+     "sha256": "71d60b5ef83d565ce239082bbba6c520bfe9cab7a3ca38d9f0397a64851e18c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1095-2014",
+   "path": "ordin/fonduri/2014/1095",
+   "short": "Ordin fonduri nr. 1095/2014",
+   "title": "Ordinul nr. 1.095/2014 privind aprobarea Ghidului solicitantului - Condiții specifice pentru cererea de propuneri de proiecte nr. 177 \"Competențe pentru competitivitate în domeniul medical - transplant de organe, țesuturi și celule\" finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 3.2 \"Formare și sprijin pentru întreprinderi și angajați pentru promovarea adaptabilității\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162681",
+   "versions": [
+    {
+     "from": "2014-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162681",
+     "sha256": "63bc85286587937e830221943e06454c2d80cf33d66a9f494084d07af1e86bc8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-fonduri-1098-2014",
    "path": "ordin/fonduri/2014/1098",
    "short": "Ordin fonduri nr. 1098/2014",
@@ -8174,6 +9029,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163159",
      "sha256": "1f356934f6a054d4ebc177152e7c3020b086a9d00d84070a2badb6a1c4a06b26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1099-2014",
+   "path": "ordin/fonduri/2014/1099",
+   "short": "Ordin fonduri nr. 1099/2014",
+   "title": "Ordinul nr. 1.099/2014 pentru aprobarea Corrigendumului nr. 1 la Ghidul solicitantului \"Sprijin financiar acordat pentru investiții în întreprinderi\", aferent axei prioritare 1 \"Un sistem de producție inovativ și ecoeficient\", domeniul major de intervenție 1.1 \"Investiții productive și pregătirea pentru competiția pe piață a întreprinderilor, în special a IMM\", operațiunea 1.1.1 \"Sprijin pentru consolidarea și modernizarea sectorului productiv prin investiții tangibile și intangibile\" pentru întreprinderi din cadrul Programului operațional sectorial \"Creșterea competitivității economice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162871",
+   "versions": [
+    {
+     "from": "2014-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162871",
+     "sha256": "8f74926074bb1884d90f0ed82d99c902041e9d8c05e0456a4fc2147b84ac77b8"
     }
    ]
   },
@@ -8208,6 +9078,96 @@
    ]
   },
   {
+   "slug": "ordin-fonduri-1145-2014",
+   "path": "ordin/fonduri/2014/1145",
+   "short": "Ordin fonduri nr. 1145/2014",
+   "title": "Ordinul nr. 1.145/2014 privind aprobarea Ghidului solicitantului - Condiții specifice pentru cererea de propuneri de proiecte nr. 180 \"Calitate în serviciile de ocupare\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 4.1 \"Întărirea capacității SPO pentru furnizarea serviciilor de ocupare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163316",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163316",
+     "sha256": "c000da4ff81e489aff375f35642bb9e106f03b8f280ba91d68aa7c3ccf9367ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1147-2014",
+   "path": "ordin/fonduri/2014/1147",
+   "short": "Ordin fonduri nr. 1147/2014",
+   "title": "Ordinul nr. 1.147/2014 pentru modificarea Instrucțiunilor de aplicare a prevederilor art. 11^1 din Hotărârea Guvernului nr. 759/2007 privind regulile de eligibilitate a cheltuielilor efectuate în cadrul operațiunilor finanțate prin programele operaționale, aprobate prin Ordinul ministrului afacerilor europene nr. 204/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163244",
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163244",
+     "sha256": "4e6320d08784477ce67ee3384ae518b46195eae616527d517d655a9b912e39dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1153-2014",
+   "path": "ordin/fonduri/2014/1153",
+   "short": "Ordin fonduri nr. 1153/2014",
+   "title": "Ordinul nr. 1.153/2014 privind aprobarea Corrigendumului nr. 1 la Ghidul solicitantului - Condiții specifice pentru cererea de propuneri de proiecte nr. 175 \"Firme de exercițiu pentru elevi\" finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 2.1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163194",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163194",
+     "sha256": "ea510c90a360473d3a2cf7c793008ca75b0f1990512a79f6cc77172448bd8b4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-117-2014",
+   "path": "ordin/fonduri/2014/117",
+   "short": "Ordin fonduri nr. 117/2014",
+   "title": "Ordinul nr. 117/2014 pentru aprobarea schemei de ajutor de stat \"Sprijin pentru consolidarea și modernizarea sectorului productiv prin investiții realizate de întreprinderile mari\" aferentă operațiunii 1.1.a) \"Sprijin pentru consolidarea și modernizarea sectorului productiv prin investiții tangibile și intangibile - întreprinderi mari\" din cadrul Programului operațional sectorial \"Creșterea competitivității economice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156627",
+   "versions": [
+    {
+     "from": "2014-03-24",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156627",
+     "sha256": "1dea63ec9e096e1ac15bb787198918822bd4ac2104dafe16535876833bb0f854"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1190-2014",
+   "path": "ordin/fonduri/2014/1190",
+   "short": "Ordin fonduri nr. 1190/2014",
+   "title": "Ordinul nr. 1.190/2014 pentru modificarea Procedurii simplificate aplicate de beneficiarii privați în cadrul proiectelor finanțate din instrumente structurale, obiectivul \"Convergență\", precum și în cadrul proiectelor finanțate prin mecanismele financiare SEE și norvegian pentru atribuirea contractelor de furnizare, servicii sau lucrări, aprobată prin Ordinul ministrului fondurilor europene nr. 1.120/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163186",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163186",
+     "sha256": "df55e9929005f21cde95fc8a34ddf516182d80687e236e42538cfd034169eddc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1191-2014",
+   "path": "ordin/fonduri/2014/1191",
+   "short": "Ordin fonduri nr. 1191/2014",
+   "title": "Ordinul nr. 1.191/2014 pentru aprobarea Instrucțiunii aferente Ordinului ministrului fondurilor europene nr. 1.120/2013 privind aprobarea Procedurii simplificate aplicate de beneficiarii privați în cadrul proiectelor finanțate din instrumente structurale, obiectivul \"Convergență\", precum și în cadrul proiectelor finanțate prin mecanismele financiare SEE și norvegian pentru atribuirea contractelor de furnizare, servicii sau lucrări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163207",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163207",
+     "sha256": "34e99cab3227f6fa2ba1af701df8c7d7bf3451cbaf0a7a4368ddc1eb68125a55"
+    }
+   ]
+  },
+  {
    "slug": "ordin-fonduri-1268-2014",
    "path": "ordin/fonduri/2014/1268",
    "short": "Ordin fonduri nr. 1268/2014",
@@ -8219,6 +9179,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163778",
      "sha256": "1d47977a39effd6b5a33ecf3de771929b64047f724d4856fbdc93e4378377c6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1294-2014",
+   "path": "ordin/fonduri/2014/1294",
+   "short": "Ordin fonduri nr. 1294/2014",
+   "title": "Ordinul nr. 1.294/2014 pentru aprobarea Corrigendumului nr. 1 la Ghidul solicitantului - Condiții specifice pentru cererea de propuneri de proiecte nr. 180 \"Calitate în serviciile de ocupare\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 4.1 \"Întărirea capacității SPO pentru furnizarea serviciilor de ocupare\", la Ghidul solicitantului - Condiții specifice pentru Cererea de propuneri de proiecte nr. 181 \"Prevenirea și corectarea fenomenului de părăsire timpurie a școlii\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 2.2 \"Prevenirea și corectarea părăsirii timpurii a școlii\", la Ghidul solicitantului - Condiții specifice pentru Cererea de propuneri de proiecte nr. 182 \"Formare profesională continuă pentru angajați\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 2.3 \"Acces și participare la FPC\", la Ghidul solicitantului - Condiții specifice pentru cererea de propuneri de proiecte nr. 183 \"Măsuri active de ocupare pentru zone foste industrializate\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 5.1 \"Dezvoltarea și implementarea măsurilor active de ocupare\", la Ghidul solicitantului - Condiții specifice pentru Cererea de propuneri de proiecte nr. 184 \"Măsuri active de ocupare pentru zone foste industrializate în mediul rural\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 5.2 \"Promovarea sustenabilității pe termen lung a zonelor rurale în ceea ce privește dezvoltarea resurselor umane și ocuparea forței de muncă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163919",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163919",
+     "sha256": "642c4a8108baf00bece6a17a39fcab99e62f27951aa1471530e7d4167230f81f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1297-2014",
+   "path": "ordin/fonduri/2014/1297",
+   "short": "Ordin fonduri nr. 1297/2014",
+   "title": "Ordinul nr. 1.297/2014 privind aprobarea Ghidului solicitantului - Condiții specifice pentru Cererea de propuneri de proiecte de tip sistemic nr. 185 \"Sprijin pentru integrarea grupurilor vulnerabile pe piața muncii\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 6.2 \"Îmbunătățirea accesului și a participării grupurilor vulnerabile pe piața muncii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164183",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164183",
+     "sha256": "91cdbeb43fa60b24f1f0e0d6e2631a6c1d949bfccb0860b16072c7229660b5a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1304-2014",
+   "path": "ordin/fonduri/2014/1304",
+   "short": "Ordin fonduri nr. 1304/2014",
+   "title": "Ordinul nr. 1.304/2014 privind aprobarea Corrigendumului nr. 1 la Ghidul solicitantului - Condiții specifice pentru Cererea de propuneri de proiecte de tip sistemic nr. 185 \"Sprijin pentru integrarea grupurilor vulnerabile pe piața muncii\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 6.2 \"Îmbunătățirea accesului și a participării grupurilor vulnerabile pe piața muncii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164176",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164176",
+     "sha256": "2e1dccc187921b164359ca963cd80cdbc565479b6b2823dd573164e994136e03"
     }
    ]
   },
@@ -8253,6 +9258,156 @@
    ]
   },
   {
+   "slug": "ordin-fonduri-544-2014",
+   "path": "ordin/fonduri/2014/544",
+   "short": "Ordin fonduri nr. 544/2014",
+   "title": "Ordinul nr. 544/2014 pentru aprobarea Ghidului solicitantului - Condiții generale aferent cererilor de propuneri de proiecte lansate în cadrul Programului operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013 în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158463",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158463",
+     "sha256": "10b80989f06282f508a0f6f81c82bbf5245413a4ab0262c2123c6aa8485af1a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-545-2014",
+   "path": "ordin/fonduri/2014/545",
+   "short": "Ordin fonduri nr. 545/2014",
+   "title": "Ordinul nr. 545/2014 pentru aprobarea Documentului-cadru de implementare a Programului operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158464",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158464",
+     "sha256": "c4827568ad7ce3df3a282bde2887a5311db8ef215abd939666a2f05172bc72cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-546-2014",
+   "path": "ordin/fonduri/2014/546",
+   "short": "Ordin fonduri nr. 546/2014",
+   "title": "Ordinul nr. 546/2014 pentru aprobarea Ghidului solicitantului - Condiții specifice pentru cererea de propuneri de proiecte de tip strategic nr. 166 \"Locuri de muncă subvenționate\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 2.1 \"Tranziția de la școală la viața activă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158457",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158457",
+     "sha256": "125c683b0a41f107e45606c6fd45a79f9d5ea663cc5c073e55de6adde9dee7e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-547-2014",
+   "path": "ordin/fonduri/2014/547",
+   "short": "Ordin fonduri nr. 547/2014",
+   "title": "Ordinul nr. 547/2014 pentru aprobarea schemei de ajutor de minimis \"Locuri de muncă subvenționate\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 2.1 \"Tranziția de la școală la viața activă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158458",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158458",
+     "sha256": "43477444e68855e79a4100c09c75ad5094e57827668bd9945b4f9ac301892a6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-548-2014",
+   "path": "ordin/fonduri/2014/548",
+   "short": "Ordin fonduri nr. 548/2014",
+   "title": "Ordinul nr. 548/2014 pentru aprobarea Ghidului solicitantului - Condiții specifice pentru cererea de propuneri de proiecte de tip strategic nr. 167 \"Competențe pentru competitivitate în domeniul medical\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 3.2 \"Formare și sprijin pentru întreprinderi și angajați pentru promovarea adaptabilității\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158459",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158459",
+     "sha256": "5231d7ec4a3a372377538d9533f4d122f2baf93de3a9c63daa2cdd6a27aa09cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-635-2014",
+   "path": "ordin/fonduri/2014/635",
+   "short": "Ordin fonduri nr. 635/2014",
+   "title": "Ordinul nr. 635/2014 pentru aprobarea schemei transparente de ajutor de minimis, denumită \"Schemă transparentă de ajutor de minimis sub formă de împrumuturi cu subvenție parțială de dobândă\", aferentă domeniului major de intervenție 1.2 \"Accesul IMM la finanțare\" - inițiativa JEREMIE în România, axa prioritară 1 \"Un sistem de producție inovativ și ecoeficient\", din cadrul Programului operațional sectorial \"Creșterea competitivității economice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159855",
+   "versions": [
+    {
+     "from": "2014-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159855",
+     "sha256": "152abcbd191d4d7bbcf208b6944cfbdd1654355f6298301acc7d6265d88e77db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-637-2014",
+   "path": "ordin/fonduri/2014/637",
+   "short": "Ordin fonduri nr. 637/2014",
+   "title": "Ordinul nr. 637/2014 pentru aprobarea schemei transparente de ajutor de minimis, denumită \"Schemă transparentă de ajutor de minimis sub formă de garanții de portofoliu de credite\", aferentă domeniului major de intervenție 1.2 \"Accesul IMM la finanțare\", axa prioritară 1 \"Un sistem de producție inovativ și ecoeficient\", din cadrul Programului operațional sectorial \"Creșterea competitivității economice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159850",
+   "versions": [
+    {
+     "from": "2014-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159850",
+     "sha256": "d260ecd485e748b420e28a828ffaeb3662ad4f626e59c9990144327b044d8b42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-746-2014",
+   "path": "ordin/fonduri/2014/746",
+   "short": "Ordin fonduri nr. 746/2014",
+   "title": "Ordinul nr. 746/2014 pentru aprobarea Ghidului Solicitantului Condiții Generale aferent cererilor de propuneri de proiecte lansate în cadrul Programului operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013 în anul 2014, Ghidului Solicitantului Condiții Specifice pentru Cererea de propuneri de proiecte nr. 168 \"Dezvoltarea economiei sociale\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 6.1 \"Dezvoltarea economiei sociale\" și a schemei de ajutor de minimis \"Dezvoltarea economiei sociale\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 6.1 \"Dezvoltarea economiei sociale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159772",
+   "versions": [
+    {
+     "from": "2014-07-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159772",
+     "sha256": "315ccf8395fec1ed75c7e6ab3a8d68cb850f8825024f78eb8c8f4561b88aa49b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-835-2014",
+   "path": "ordin/fonduri/2014/835",
+   "short": "Ordin fonduri nr. 835/2014",
+   "title": "Ordinul nr. 835/2014 pentru aprobarea Documentului-cadru de implementare a Programului operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160449",
+   "versions": [
+    {
+     "from": "2014-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160449",
+     "sha256": "f65ee8a8b66a8fb7b7f4e05a8ae58ea8d84d754ccd8be30a4366651a85b4ebdc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-836-2014",
+   "path": "ordin/fonduri/2014/836",
+   "short": "Ordin fonduri nr. 836/2014",
+   "title": "Ordinul nr. 836/2014 pentru aprobarea Ghidului Solicitantului Condiții Generale aferent cererilor de propuneri de proiecte lansate în cadrul Programului operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013 în anul 2014, Ghidului Solicitantului Condiții Specifice pentru cererile de propuneri de proiecte nr. 169 \"Formare profesională pentru îmbunătățirea participării grupurilor vulnerabile pe piața muncii\", nr. 170 \"Șanse egale și respect\", nr. 171 \"Inițiative transnaționale pentru o piață inclusivă a muncii\", finanțate prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160448",
+   "versions": [
+    {
+     "from": "2014-08-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160448",
+     "sha256": "7d543bde8d11e0711f425e651b7446f64cb797c4e0c186201f9a9a71f3e9c56c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-fonduri-901-2014",
    "path": "ordin/fonduri/2014/901",
    "short": "Ordin fonduri nr. 901/2014",
@@ -8264,6 +9419,126 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161264",
      "sha256": "88db59739933de0a835a05cc6248ec06f98fa690d58c0451f223a535e63ee953"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-965-2014",
+   "path": "ordin/fonduri/2014/965",
+   "short": "Ordin fonduri nr. 965/2014",
+   "title": "Ordinul nr. 965/2014 privind aprobarea modelului de contract de finanțare pentru Programul operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161460",
+   "versions": [
+    {
+     "from": "2014-09-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161460",
+     "sha256": "cffe455a2a713314785f769965a5784a7707259c114c0e625ee10f0808c76671"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-970-2014",
+   "path": "ordin/fonduri/2014/970",
+   "short": "Ordin fonduri nr. 970/2014",
+   "title": "Ordinul nr. 970/2014 privind aprobarea Ghidului Solicitantului Condiții Specifice pentru cererea de propuneri de proiecte nr. 173 \"Dezvoltarea economiei sociale\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 6.1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161596",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161596",
+     "sha256": "87177dbdfcc04eec3fe5edba9519865d2035a37cdb8099bc0c47370f8e1ff8d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-971-2014",
+   "path": "ordin/fonduri/2014/971",
+   "short": "Ordin fonduri nr. 971/2014",
+   "title": "Ordinul nr. 971/2014 pentru aprobarea competiției POS CCE A2 O 2.2.1-2014-1 \"Dezvoltarea infrastructurii CD existente și crearea de noi infrastructuri CD (laboratoare, centre de cercetare)\" din cadrul Programului operațional sectorial \"Creșterea competitivității economice\", axa prioritară II \"Competitivitate prin cercetare, dezvoltare tehnologică și inovare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161571",
+   "versions": [
+    {
+     "from": "2014-09-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161571",
+     "sha256": "a89b2fef3c1c0987d29484e4d36de6f88233790579dc1e8c3396e5970cb1aab9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-972-2014",
+   "path": "ordin/fonduri/2014/972",
+   "short": "Ordin fonduri nr. 972/2014",
+   "title": "Ordinul nr. 972/2014 privind aprobarea Ghidului Solicitantului Condiții Specifice pentru cererea de propuneri de proiecte nr. 172 \"Competențe pentru competitivitate în domeniul medical - transplant de organe, țesuturi și celule\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 3.2 \"Formare și sprijin pentru întreprinderi și angajați pentru promovarea adaptabilității\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161597",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161597",
+     "sha256": "fae0e70b6b5fc3f8be4a59d7fc1560fe3b4d6a3e2f04111b72a68c583c5e9f42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-981-2014",
+   "path": "ordin/fonduri/2014/981",
+   "short": "Ordin fonduri nr. 981/2014",
+   "title": "Ordinul nr. 981/2014 privind modificarea și completarea anexei la Ordinul ministrului fondurilor europene nr. 635/2014 pentru aprobarea schemei transparente de ajutor de minimis, denumită \"Schemă transparentă de ajutor de minimis sub formă de împrumuturi cu subvenție parțială de dobândă\", aferentă domeniului major de intervenție 1.2 \"Accesul IMM la finanțare\" - inițiativa JEREMIE în România, axa prioritară 1 \"Un sistem de producție inovativ și ecoeficient\", din cadrul Programului operațional sectorial \"Creșterea competitivității economice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161644",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161644",
+     "sha256": "b75598ea44bde014409c27787f37a8b2222a4538d412e29b631e84f5d1a39f97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-982-2014",
+   "path": "ordin/fonduri/2014/982",
+   "short": "Ordin fonduri nr. 982/2014",
+   "title": "Ordinul nr. 982/2014 pentru modificarea și completarea anexei la Ordinul ministrului fondurilor europene nr. 637/2014 pentru aprobarea schemei transparente de ajutor de minimis, denumită \"Schemă transparentă de ajutor de minimis sub formă de garanții de portofoliu de credite\", aferentă domeniului major de intervenție 1.2 \"Accesul IMM la finanțare\", axa prioritară 1 \"Un sistem de producție inovativ și ecoeficient\", din cadrul Programului operațional sectorial \"Creșterea competitivității economice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161645",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161645",
+     "sha256": "96396db6d2b659c76e743e3f0a124f85f9ea4e915bfec947fbec538b1f02501c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-988-2014",
+   "path": "ordin/fonduri/2014/988",
+   "short": "Ordin fonduri nr. 988/2014",
+   "title": "Ordinul nr. 988/2014 privind delegarea de funcții către organismele intermediare ale Programului operațional sectorial \"Dezvoltarea resurselor umane\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161773",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161773",
+     "sha256": "5dec4810439eb82c63755731931229341bcf7593a8c865dad3d91d716c90e48e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-989-2014",
+   "path": "ordin/fonduri/2014/989",
+   "short": "Ordin fonduri nr. 989/2014",
+   "title": "Ordinul nr. 989/2014 privind modificarea și completarea Ordinului ministrului muncii, familiei și protecției sociale și al ministrului finanțelor publice nr. 1.117/2.170/2010 pentru stabilirea regulilor de eligibilitate și a listei cheltuielilor eligibile în cadrul operațiunilor finanțate prin Programul operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161751",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161751",
+     "sha256": "0e3b584722ec21b77536ac18856f919c130577d755212810b3d502fccfe8da25"
     }
    ]
   },

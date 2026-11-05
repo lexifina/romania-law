@@ -108,6 +108,261 @@
    ]
   },
   {
+   "slug": "ordin-anrm-109-1998",
+   "path": "ordin/anrm/1998/109",
+   "short": "Ordin anrm nr. 109/1998",
+   "title": "Ordinul nr. 109/1998 privind oferta publică pentru concesionarea unor perimetre de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15632",
+   "versions": [
+    {
+     "from": "1998-09-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15632",
+     "sha256": "8efd835caed7724deb5686b42884ba6134f31c4c33b4168b84fa6a866de7eb7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-110-1998",
+   "path": "ordin/anrm/1998/110",
+   "short": "Ordin anrm nr. 110/1998",
+   "title": "Ordinul nr. 110/1998 pentru aprobarea Instrucțiunilor privind evidența, calculul, plata și raportarea taxelor anuale aferente activității de prospecțiune, explorare și exploatare a resurselor minerale și a redevențelor miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15667",
+   "versions": [
+    {
+     "from": "1998-09-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15667",
+     "sha256": "d57533d1cbd38bdfd0b55c56b229de11563746f5866c71f4b0f931860daa7da5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-115-1998",
+   "path": "ordin/anrm/1998/115",
+   "short": "Ordin anrm nr. 115/1998",
+   "title": "Ordinul nr. 115/1998 privind oferta publică pentru concesionarea unor perimetre de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15916",
+   "versions": [
+    {
+     "from": "1998-10-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15916",
+     "sha256": "306ddb62ea98e0bd72c4ff655cdfabb5161ccc973f04f821575b13278e8cfd33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-136-1998",
+   "path": "ordin/anrm/1998/136",
+   "short": "Ordin anrm nr. 136/1998",
+   "title": "Ordinul nr. 136/1998 privind oferta publică pentru concesionarea unor perimetre de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15992",
+   "versions": [
+    {
+     "from": "1998-10-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15992",
+     "sha256": "00f4921330746967df9d16576f326bdaed32225312449dafb19acc6a9602fdab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-140-1998",
+   "path": "ordin/anrm/1998/140",
+   "short": "Ordin anrm nr. 140/1998",
+   "title": "Ordinul nr. 140/1998 privind oferta publică pentru concesionarea unor perimetre de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16076",
+   "versions": [
+    {
+     "from": "1998-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16076",
+     "sha256": "1b02cb0700521965a304636d248dea8cfcb1ad2dc75d4945afa8dfd0e0bd614f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-145-1998",
+   "path": "ordin/anrm/1998/145",
+   "short": "Ordin anrm nr. 145/1998",
+   "title": "Ordinul nr. 145/1998 privind tarifele percepute pentru actele emise de Agenția Naționala pentru Resurse Minerale în exercitarea atribuțiilor ce îi revin în conformitate cu prevederile Legii minelor nr. 61/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16412",
+   "versions": [
+    {
+     "from": "1998-12-11",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16412",
+     "sha256": "fd51162e9d56d772fd582caf7869391841bf1c80c235f917efb560c1bfcde09f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-146-1998",
+   "path": "ordin/anrm/1998/146",
+   "short": "Ordin anrm nr. 146/1998",
+   "title": "Ordinul nr. 146/1998 pentru aprobarea Instrucțiunilor tehnice privind clasificarea și evaluarea resurselor/rezervelor de ape subterane, de căldura din sistemele geotermale și de gaze necombustibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16418",
+   "versions": [
+    {
+     "from": "1998-12-16",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16418",
+     "sha256": "74544ac2c31901bb35b38d6b9770f477c7cff1e078379e4141afbb5c6b2b0929"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-157-1998",
+   "path": "ordin/anrm/1998/157",
+   "short": "Ordin anrm nr. 157/1998",
+   "title": "Ordinul nr. 157/1998 ORDIN nr. 157 bis din 23 decembrie 1998 privind lista perimetrelor petroliere de explorare, dezvoltare și exploatare, oferite pentru concesiune prin concurs de oferta publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16667",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16667",
+     "sha256": "b10205b9be1e234d835b72591843a12ebfd8a279246fae0f9e839dc773765194"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-159-1998",
+   "path": "ordin/anrm/1998/159",
+   "short": "Ordin anrm nr. 159/1998",
+   "title": "Ordinul nr. 159/1998 privind aprobarea unor licențe de concesionare a activității de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16538",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16538",
+     "sha256": "dbb9d40dbb9bb83d94c36fd6e4b4225318852dcfd21959bb28b29d941816d167"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-39-1998",
+   "path": "ordin/anrm/1998/39",
+   "short": "Ordin anrm nr. 39/1998",
+   "title": "Ordinul nr. 39/1998 privind oferta publică pentru concesionarea unor perimetre de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14663",
+   "versions": [
+    {
+     "from": "1998-05-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14663",
+     "sha256": "d55be3fe06a6d1f94de6eb9e5c6862cf614c011fe1700a7d615de17513ca6020"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-41-1998",
+   "path": "ordin/anrm/1998/41",
+   "short": "Ordin anrm nr. 41/1998",
+   "title": "Ordinul nr. 41/1998 pentru punerea în aplicare a unor instrucțiuni tehnice privind activitatea titularilor de acorduri în domeniul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14668",
+   "versions": [
+    {
+     "from": "1998-05-07",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14668",
+     "sha256": "e539f4543b6f7fc192995317c92c8f45326b894dae0fddeb814fab63d845e597"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-43-1998",
+   "path": "ordin/anrm/1998/43",
+   "short": "Ordin anrm nr. 43/1998",
+   "title": "Ordinul nr. 43/1998 pentru punerea în aplicare a unor instrucțiuni tehnice privind activitatea titularilor de acorduri în domeniul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14664",
+   "versions": [
+    {
+     "from": "1998-05-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14664",
+     "sha256": "be0ff185c3a25ccc7b14f389deb46653a6013491d7c22e7b483749e2c18890a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-76-1998",
+   "path": "ordin/anrm/1998/76",
+   "short": "Ordin anrm nr. 76/1998",
+   "title": "Ordinul nr. 76/1998 privind aprobarea Procedurii de licitație pentru participarea la concursul de oferta publică, organizat de Agenția Naționala pentru Resurse Minerale, în vederea concesionarii perimetrelor de exploatare ce intra sub incidența Ordonanței de urgenta a Guvernului nr. 51/1997, aprobată și modificată prin Legea nr. 40/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15420",
+   "versions": [
+    {
+     "from": "1998-08-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15420",
+     "sha256": "c56dc10abe495c84f6f26d935f89c5a837a075ea7a62592afc42959fc87654bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-77-1998",
+   "path": "ordin/anrm/1998/77",
+   "short": "Ordin anrm nr. 77/1998",
+   "title": "Ordinul nr. 77/1998 privind oferta publică pentru concesionarea unor perimetre de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15074",
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15074",
+     "sha256": "5fe59c39be5b346cfe21791ac2773eed188580a5ee868dca8444e6a8185e6e80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-80-1998",
+   "path": "ordin/anrm/1998/80",
+   "short": "Ordin anrm nr. 80/1998",
+   "title": "Ordinul nr. 80/1998 pentru aprobarea Instrucțiunilor privind stabilirea și sancționarea contravențiilor prevăzute de Legea minelor nr. 61/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15403",
+   "versions": [
+    {
+     "from": "1998-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15403",
+     "sha256": "00ddab50e92859bf9949bef79909d8e3e5f9bd9c17e01f71c73deb76f77b4df3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-91-1998",
+   "path": "ordin/anrm/1998/91",
+   "short": "Ordin anrm nr. 91/1998",
+   "title": "Ordinul nr. 91/1998 privind oferta publică pentru concesionarea unor perimetre de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15421",
+   "versions": [
+    {
+     "from": "1998-08-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15421",
+     "sha256": "c5be04ca7a133fab723ca5741e815653fcb8bfccef845a336b6a09de60e8a638"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-98-1998",
+   "path": "ordin/anrm/1998/98",
+   "short": "Ordin anrm nr. 98/1998",
+   "title": "Ordinul nr. 98/1998 privind aprobarea metodologiilor de stabilire a prețului de referința pentru petrolul (țiței și gaze naturale) extrase în România și modificarea și completarea unor instrucțiuni tehnice privind activitatea titularilor de acorduri petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15633",
+   "versions": [
+    {
+     "from": "1998-09-10",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15633",
+     "sha256": "1d372842dd3c4afa1888cd7c8b1aef4ce3675b8f275bc32ecaa5e9016883683e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-1-1998",
    "path": "ordin/cnvm/1998/1",
    "short": "Ordin cnvm nr. 1/1998",
@@ -288,6 +543,171 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-122-1998",
+   "path": "ordin/comunicatii/1998/122",
+   "short": "Ordin comunicatii nr. 122/1998",
+   "title": "Ordinul nr. 122/1998 privind aprobarea Condițiilor generale pentru furnizarea serviciului telefonic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15027",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15027",
+     "sha256": "d728aac30d6338e545758b8ba7b6681d972a312ed02372fd7529571501c54bb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-14-1998",
+   "path": "ordin/comunicatii/1998/14",
+   "short": "Ordin comunicatii nr. 14/1998",
+   "title": "Ordinul nr. 14/1998 privind autorizarea rețelelor de telecomunicații independente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14038",
+   "versions": [
+    {
+     "from": "1998-02-23",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14038",
+     "sha256": "ca90fe74830b7eb551087d474cc5c13e1be2b70b860a3294b28795e4d8f6d7dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-158-1998",
+   "path": "ordin/comunicatii/1998/158",
+   "short": "Ordin comunicatii nr. 158/1998",
+   "title": "Ordinul nr. 158/1998 privind aprobarea Programului activităților cu caracter reglementar pentru perioada 1998-2000 în sectorul de posta și telecomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15252",
+   "versions": [
+    {
+     "from": "1998-07-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15252",
+     "sha256": "39a2886bba375f650036abe2e47dd79d62c5e8c55705b195a3aaa29115ef6482"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-17-1998",
+   "path": "ordin/comunicatii/1998/17",
+   "short": "Ordin comunicatii nr. 17/1998",
+   "title": "Ordinul nr. 17/1998 privind aprobarea Instrucțiunilor de finanțare și implementare, în sistem descentralizat, a programelor/proiectelor de cercetare-dezvoltare și stimulare a inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14054",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14054",
+     "sha256": "6c26a734bd5bd4ece495145593260545a46332795adb5768895316f4a8940c10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-175-1998",
+   "path": "ordin/comunicatii/1998/175",
+   "short": "Ordin comunicatii nr. 175/1998",
+   "title": "Ordinul nr. 175/1998 privind interconectarea rețelelor de telecomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15480",
+   "versions": [
+    {
+     "from": "1998-08-24",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15480",
+     "sha256": "bda44d55030c10208fa4005197887dde847ba5cade4021e341d552cbd332c372"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-222-1998",
+   "path": "ordin/comunicatii/1998/222",
+   "short": "Ordin comunicatii nr. 222/1998",
+   "title": "Ordinul nr. 222/1998 privind autorizarea rețelelor și a serviciilor de radiocomunicații cu destinație publică, pentru transmisii vocale și/sau de date, de tip simplex, repetor convențional și semiduplex cu acces multiplu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16227",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16227",
+     "sha256": "56cb82e4006b5c74b5fc61e72b84873fefc92ea827c31fbb9cc1213ec69de57d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-227-1998",
+   "path": "ordin/comunicatii/1998/227",
+   "short": "Ordin comunicatii nr. 227/1998",
+   "title": "Ordinul nr. 227/1998 pentru completarea Ordinului ministrului comunicațiilor nr. 14/1998 privind autorizarea rețelelor de telecomunicații independente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16228",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16228",
+     "sha256": "271a2c79b98e6dcf23290e2cd10b049d77de5f07ec2c4a386f3e902dc67daf79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-295-1998",
+   "path": "ordin/comunicatii/1998/295",
+   "short": "Ordin comunicatii nr. 295/1998",
+   "title": "Ordinul nr. 295/1998 pentru modificarea și completarea Ordinului nr. 326/1997 privind aprobarea listei tarifelor practicate de Regia Autonomă \"Inspectoratul General al Comunicațiilor\" pentru serviciile prestate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16633",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16633",
+     "sha256": "31ccca7701b03875565739f3dedbaf1288005bbd4a933582fba0577647b0745a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-73-1998",
+   "path": "ordin/comunicatii/1998/73",
+   "short": "Ordin comunicatii nr. 73/1998",
+   "title": "Ordinul nr. 73/1998 privind organizarea licitației în vederea obținerii licențelor de operare pentru sisteme de radiocomunicații multicanal punct-multipunct în tehnologia LMDS, în banda de frecvențe 27,3 - 28,3 GHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14584",
+   "versions": [
+    {
+     "from": "1998-04-27",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14584",
+     "sha256": "3957a732beb4784e905c79680337427287a4f7054d31079dba32adde0b1b9945"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-8-1998",
+   "path": "ordin/comunicatii/1998/8",
+   "short": "Ordin comunicatii nr. 8/1998",
+   "title": "Ordinul nr. 8/1998 privind autorizarea Regiei Autonome \"Inspectoratul General al Comunicațiilor\" de a elibera autorizații de tip pentru unele tipuri de echipamente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14002",
+   "versions": [
+    {
+     "from": "1998-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14002",
+     "sha256": "909beeee662196968aacd8b0d0264a6cbdffbb90fd93fb05456f53a8bd539abb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-98-1998",
+   "path": "ordin/comunicatii/1998/98",
+   "short": "Ordin comunicatii nr. 98/1998",
+   "title": "Ordinul nr. 98/1998 privind autorizarea activităților de proiectare, instalare și întreținere a rețelelor de telecomunicații, precum și de instalare, întreținere și conectare a echipamentelor de telecomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14682",
+   "versions": [
+    {
+     "from": "1998-05-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14682",
+     "sha256": "171285630ab2662169ecf14f63286bdf7a8126f5a12631c3f2d556f39e35c37e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-34-1998",
    "path": "ordin/concurenta/1998/34",
    "short": "Ordin concurenta nr. 34/1998",
@@ -314,6 +734,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13993",
      "sha256": "018f1db80d31f974474e609cba512885e13602b40cbab563c914edba6088b037"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2069-1998",
+   "path": "ordin/cultura/1998/2069",
+   "short": "Ordin cultura nr. 2069/1998",
+   "title": "Ordinul nr. 2.069/1998 pentru aprobarea Regulamentului de organizare și funcționare a bibliotecilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16108",
+   "versions": [
+    {
+     "from": "1998-11-13",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16108",
+     "sha256": "8a9e539e11e2522df9d312a2cc7bc35e0e38abc5c9f4c99a194f2111bb8d7058"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2076-1998",
+   "path": "ordin/cultura/1998/2076",
+   "short": "Ordin cultura nr. 2076/1998",
+   "title": "Ordinul nr. 2.076/1998 pentru aprobarea Normelor metodologice privind modul de susținere financiară, cu titlu de comanda de stat, a programelor editoriale și a publicațiilor culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16961",
+   "versions": [
+    {
+     "from": "1999-02-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16961",
+     "sha256": "a645aebeef9d9649d073f4d5f123d92dea7a612c00738dfe4168b37dea675783"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-351-1998",
+   "path": "ordin/cultura/1998/351",
+   "short": "Ordin cultura nr. 351/1998",
+   "title": "Ordinul nr. 351/1998 pentru aprobarea Criteriilor de premiere a personalului din instituțiile publice de cultura finanțate din venituri extrabugetare și alocații de la bugetul de stat sau de la bugetele locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16442",
+   "versions": [
+    {
+     "from": "1998-12-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16442",
+     "sha256": "86b0d64eae5b743ea2b5fef958cc412f7d9de3daff1f820b13ae88f5bf5b589b"
     }
    ]
   },
@@ -674,6 +1139,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18567",
      "sha256": "40bc65171dc68b251d626f75bdcfb46d8f93aef5529d60bd454e4290e131b029"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-103-1998",
+   "path": "ordin/externe/1998/103",
+   "short": "Ordin externe nr. 103/1998",
+   "title": "Ordinul nr. 103/1998 privind intrarea în vigoare a Convenției consulare dintre România și Republica Croația, semnată la Zagreb la 19 mai 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15311",
+   "versions": [
+    {
+     "from": "1998-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15311",
+     "sha256": "c73d86ab9eb665fda042cc0637124a420c75e125ff2fafbbbacfd1a1bc92a79a"
     }
    ]
   },

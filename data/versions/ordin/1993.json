@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-363-1993",
+   "path": "ordin/comunicatii/1993/363",
+   "short": "Ordin comunicatii nr. 363/1993",
+   "title": "Ordinul nr. 363/1993 privind stabilirea procedurii de acordare a Autorizației de tip și a Avizului individual de utilizare pentru echipamentele terminale de telecomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3493",
+   "versions": [
+    {
+     "from": "1994-12-22",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3493",
+     "sha256": "52cd85ac4e3e9b7eb7d376833976613a3b6c9d7c815d8b8941773c5969a9fa8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-364-1993",
+   "path": "ordin/comunicatii/1993/364",
+   "short": "Ordin comunicatii nr. 364/1993",
+   "title": "Ordinul nr. 364/1993 privind autorizarea serviciilor de radiotelefonie, altele decât cele cu acces multiplu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3495",
+   "versions": [
+    {
+     "from": "1994-12-22",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3495",
+     "sha256": "1fdf8e7d65880111bc38f96bef8695784fedad8c7b05546bedc641a24c6e933b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-29-1993",
    "path": "ordin/dezvoltare/1993/29",
    "short": "Ordin dezvoltare nr. 29/1993",

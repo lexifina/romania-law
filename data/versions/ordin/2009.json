@@ -2913,6 +2913,231 @@
    ]
   },
   {
+   "slug": "ordin-anrm-109-2009",
+   "path": "ordin/anrm/2009/109",
+   "short": "Ordin anrm nr. 109/2009",
+   "title": "Ordinul nr. 109/2009 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 67/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106114",
+   "versions": [
+    {
+     "from": "2009-05-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106114",
+     "sha256": "01d0cab5eb9406e4fb2616200ca58aa29486eaae358a1901fd7b649e5774f96a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-129-2009",
+   "path": "ordin/anrm/2009/129",
+   "short": "Ordin anrm nr. 129/2009",
+   "title": "Ordinul nr. 129/2009 privind aprobarea tarifelor percepute pentru actele eliberate de Agenția Națională pentru Resurse Minerale în domeniul minier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107239",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107239",
+     "sha256": "a535996cb2a64174c5375348dce7f83ddd9e26cfb8c8ed9832c8d4233b4214db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-130-2009",
+   "path": "ordin/anrm/2009/130",
+   "short": "Ordin anrm nr. 130/2009",
+   "title": "Ordinul nr. 130/2009 pentru aprobarea Instrucțiunilor tehnice privind fundamentarea, aprobarea și încasarea tarifelor pentru actele eliberate de Agenția Națională pentru Resurse Minerale în domeniul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108029",
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108029",
+     "sha256": "31b659a2f7e1ccd5b4902fee96ca955bb42121ef4ab00fb6f3870c45446fe64e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-131-2009",
+   "path": "ordin/anrm/2009/131",
+   "short": "Ordin anrm nr. 131/2009",
+   "title": "Ordinul nr. 131/2009 privind aprobarea tarifelor în domeniul minier și a taxelor în domeniul petrolier, percepute pentru consultarea și utilizarea de date și informații din fondul geologic național referitoare la resursele minerale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107125",
+   "versions": [
+    {
+     "from": "2009-06-20",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107125",
+     "sha256": "aa4013acd1cce908678e19fe4eb62a82a9e4eab16dcb5f04b1af880b5a2acc8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-150-2009",
+   "path": "ordin/anrm/2009/150",
+   "short": "Ordin anrm nr. 150/2009",
+   "title": "Ordinul nr. 150/2009 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 68/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109914",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109914",
+     "sha256": "ea16778213f9f43874dcac34ad68d7623d3510f77924365549eedd6c2379ffa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-175-2009",
+   "path": "ordin/anrm/2009/175",
+   "short": "Ordin anrm nr. 175/2009",
+   "title": "Ordinul nr. 175/2009 pentru aprobarea Instrucțiunilor tehnice privind avizarea operațiunilor petroliere de conservare, abandonare și, respectiv, de ridicare a abandonării/conservării sondelor de petrol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110852",
+   "versions": [
+    {
+     "from": "2009-08-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110852",
+     "sha256": "ef06d12cf1209cbcc5840d150402ca635a74caf563d344f87ce0054266e148be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-183-2009",
+   "path": "ordin/anrm/2009/183",
+   "short": "Ordin anrm nr. 183/2009",
+   "title": "Ordinul nr. 183/2009 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare - Runda nr. 69/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111094",
+   "versions": [
+    {
+     "from": "2009-09-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111094",
+     "sha256": "ed9dbcc45799cebe4661146a0bb9e0df4805f6d5ead4537fde95ada50b8e594d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-198-2009",
+   "path": "ordin/anrm/2009/198",
+   "short": "Ordin anrm nr. 198/2009",
+   "title": "Ordinul nr. 198/2009 pentru aprobarea Instrucțiunilor tehnice privind modul de evidență, raportare, calcul și plată a taxei pe activitatea minieră și a redevenței miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111724",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111724",
+     "sha256": "adfd9945b7cfabca1bb800dcb0cf25ddbca73d33ef879dd6ed1872fa768dad36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-221-2009",
+   "path": "ordin/anrm/2009/221",
+   "short": "Ordin anrm nr. 221/2009",
+   "title": "Ordinul nr. 221/2009 privind modificarea și completarea Metodologiei de atestare a competenței tehnice a persoanelor juridice care întocmesc documentații și/sau execută lucrări de cercetare geologică, lucrări de exploatare a petrolului și a resurselor minerale și de expertizare, precum și a persoanelor fizice care întocmesc documentații și/sau execută lucrări de cercetare geologică și de expertizare, aprobate prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 122/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112235",
+   "versions": [
+    {
+     "from": "2009-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112235",
+     "sha256": "a618cf032d1f4a4b1fa349461cdd07b3b0e6be67f2a975d963af7cf854a4265a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-232-2009",
+   "path": "ordin/anrm/2009/232",
+   "short": "Ordin anrm nr. 232/2009",
+   "title": "Ordinul nr. 232/2009 privind aprobarea Contractului-cadru pentru transportul țițeiului, gazolinei, condensatului și etanului lichid pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113300",
+   "versions": [
+    {
+     "from": "2009-11-15",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113300",
+     "sha256": "e5083c369c1312376dce12440cfcb21c198ca1747ff117b2c90318d0cb1b61c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-233-2009",
+   "path": "ordin/anrm/2009/233",
+   "short": "Ordin anrm nr. 233/2009",
+   "title": "Ordinul nr. 233/2009 privind aprobarea tarifelor percepute pentru actele eliberate de Agenția Națională pentru Resurse Minerale în domeniul minier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113397",
+   "versions": [
+    {
+     "from": "2009-11-19",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113397",
+     "sha256": "ee6259f57fc80cfa48e0abefc3b040baeb9b6ad965695522b26da2e841e5e69d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-234-2009",
+   "path": "ordin/anrm/2009/234",
+   "short": "Ordin anrm nr. 234/2009",
+   "title": "Ordinul nr. 234/2009 pentru aprobarea Instrucțiunilor tehnice privind fundamentarea, aprobarea și încasarea tarifelor și taxelor pentru actele eliberate de Agenția Națională pentru Resurse Minerale în vederea desfășurării operațiunilor petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113270",
+   "versions": [
+    {
+     "from": "2009-11-14",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113270",
+     "sha256": "42005c5f18dc57702309da44609aa0d5e4e90b0875b086894fa8bf74caebfd28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-238-2009",
+   "path": "ordin/anrm/2009/238",
+   "short": "Ordin anrm nr. 238/2009",
+   "title": "Ordinul nr. 238/2009 privind aprobarea unei licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113531",
+   "versions": [
+    {
+     "from": "2009-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113531",
+     "sha256": "fb172a11d73ad764a3566a1798f2974237186afbeecbcfd42a682382c989d7ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-272-2009",
+   "path": "ordin/anrm/2009/272",
+   "short": "Ordin anrm nr. 272/2009",
+   "title": "Ordinul nr. 272/2009 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare privind concursul public de ofertă, Runda nr. 70/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114266",
+   "versions": [
+    {
+     "from": "2009-12-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114266",
+     "sha256": "66ac3491cd847869c0916723552725a11df998b6920da489992634413ec1c168"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-94-2009",
+   "path": "ordin/anrm/2009/94",
+   "short": "Ordin anrm nr. 94/2009",
+   "title": "Ordinul nr. 94/2009 pentru aprobarea Instrucțiunilor privind eliberarea permiselor de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105952",
+   "versions": [
+    {
+     "from": "2009-05-19",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105952",
+     "sha256": "2a2f2fbba7cc3d308c2e095ed3fd285435d37f527ef5a43d58e98f005af11237"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-1-2009",
    "path": "ordin/ansvsa/2009/1",
    "short": "Ordin ansvsa nr. 1/2009",
@@ -3258,6 +3483,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-124-2009",
+   "path": "ordin/aparare/2009/124",
+   "short": "Ordin aparare nr. 124/2009",
+   "title": "Ordinul nr. 124/2009 pentru modificarea Regulamentului de organizare și funcționare al Institutului Medico-Militar, aprobat prin Ordinul ministrului apărării naționale nr. M.102/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114472",
+   "versions": [
+    {
+     "from": "2009-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114472",
+     "sha256": "2bfc26fc0e3ef282aa1fde974c3bc9ccd3faf29dd1b0ce411847f211ba08d4dc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-129-2009",
    "path": "ordin/aparare/2009/129",
    "short": "Ordin aparare nr. 129/2009",
@@ -3329,6 +3569,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103033",
      "sha256": "75552ff5857d1226faa9bbc4cce5486b14aa8a8b77192d732378c5e500878a56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-21-2009",
+   "path": "ordin/aparare/2009/21",
+   "short": "Ordin aparare nr. 21/2009",
+   "title": "Ordinul nr. 21/2009 pentru modificarea anexei nr. 1 la Ordinul ministrului apărării nr. M.31/2008 privind competențele de achiziție a produselor, serviciilor și lucrărilor în cadrul Ministerului Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103177",
+   "versions": [
+    {
+     "from": "2009-03-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103177",
+     "sha256": "563af4f58e369818c16a19b3e2d94a81c0decf7ad45793da2903d5523094238b"
     }
    ]
   },
@@ -3468,6 +3723,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-42-2009",
+   "path": "ordin/aparare/2009/42",
+   "short": "Ordin aparare nr. 42/2009",
+   "title": "Ordinul nr. 42/2009 privind modificarea Normelor tehnice pentru lucrări de întreținere și reparații curente la clădirile și construcțiile speciale din patrimoniul imobiliar al Ministerului Apărării Naționale, aprobate prin Ordinul ministrului apărării nr. M.44/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105456",
+   "versions": [
+    {
+     "from": "2009-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105456",
+     "sha256": "8cde1d2c8bfb90e24577c18630c534cdb2bdbc25afa6526dd4a9dc26168ec239"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-44-2009",
    "path": "ordin/aparare/2009/44",
    "short": "Ordin aparare nr. 44/2009",
@@ -3509,6 +3779,21 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106000",
      "sha256": "827c7e15d6883f982d06bb4feedc365deab3af3ae8d6bb302d5f8f9e6ec934e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-64-2009",
+   "path": "ordin/aparare/2009/64",
+   "short": "Ordin aparare nr. 64/2009",
+   "title": "Ordinul nr. 64/2009 pentru modificarea Ordinului ministrului apărării nr. M. 110/2008 privind măsurile care se aplică în Ministerul Apărării pentru preluarea, asigurarea și gestionarea copreședinției Grupului NATO în domeniul neproliferării \"NATO Senior Defence Group on Proliferation - DGP\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108024",
+   "versions": [
+    {
+     "from": "2009-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108024",
+     "sha256": "79fe793cffea1d5555a3cccbfaeff7a209ecbe288e56831dfd4f93e0a2ce59a3"
     }
    ]
   },
@@ -3614,6 +3899,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110836",
      "sha256": "a43482923f2cc53e4550776c155f39d022544baa6cd548015102af0171a295f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-90-2009",
+   "path": "ordin/aparare/2009/90",
+   "short": "Ordin aparare nr. 90/2009",
+   "title": "Ordinul nr. 90/2009 pentru modificarea Normelor privind stabilirea calității de veteran de război de către Ministerul Apărării Naționale, aprobate prin Ordinul ministrului apărării nr. M.127/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111065",
+   "versions": [
+    {
+     "from": "2009-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111065",
+     "sha256": "6c114bb9626b71f679472624872777ebdf75e2053d9b79122946fc119980a605"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-92-2009",
+   "path": "ordin/aparare/2009/92",
+   "short": "Ordin aparare nr. 92/2009",
+   "title": "Ordinul nr. 92/2009 pentru modificarea Normelor privind reconversia profesională în Ministerul Apărării Naționale, aprobate prin Ordinul ministrului apărării nr. M.5/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111066",
+   "versions": [
+    {
+     "from": "2009-09-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111066",
+     "sha256": "fc7101f968d66e8cd63c8336f17f3395d3c9e1138890a07c1ab16d34d511b9e0"
     }
    ]
   },
@@ -4248,6 +4563,126 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-134-2009",
+   "path": "ordin/comunicatii/2009/134",
+   "short": "Ordin comunicatii nr. 134/2009",
+   "title": "Ordinul nr. 134/2009 pentru modificarea și completarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 220/2006 privind aprobarea documentelor adoptate de către Consiliul de Exploatare Poștală al Uniunii Poștale Universale la reuniunea anuală din ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104146",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104146",
+     "sha256": "c557e184272fac793ebe6a6117506d9759463be0ad658e1d6323a4eebb7bab54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-268-2009",
+   "path": "ordin/comunicatii/2009/268",
+   "short": "Ordin comunicatii nr. 268/2009",
+   "title": "Ordinul nr. 268/2009 pentru modificarea și completarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 220/2006 privind aprobarea documentelor adoptate de către Consiliul de Exploatare Poștală al Uniunii Poștale Universale la reuniunea anuală din ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104687",
+   "versions": [
+    {
+     "from": "2009-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104687",
+     "sha256": "4ef4dbfdb9db3450695f794542a283853fd26b89008d90eea85802479bb4230d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-461-2009",
+   "path": "ordin/comunicatii/2009/461",
+   "short": "Ordin comunicatii nr. 461/2009",
+   "title": "Ordinul nr. 461/2009 pentru aprobarea Strategiei naționale privind implementarea serviciului universal în sectorul comunicațiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107091",
+   "versions": [
+    {
+     "from": "2009-06-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107091",
+     "sha256": "33e090d476a39ce67e811ec39a519dce7c441e55599fd63327c5744361c4d946"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-473-2009",
+   "path": "ordin/comunicatii/2009/473",
+   "short": "Ordin comunicatii nr. 473/2009",
+   "title": "Ordinul nr. 473/2009 privind procedura de acordare, suspendare și retragere a deciziei de acreditare a furnizorilor de servicii de certificare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107093",
+   "versions": [
+    {
+     "from": "2009-06-16",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107093",
+     "sha256": "11488513734b9c62a899775f9bf9a84be2fd5f66a7b6c4f56a36253148231213"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-489-2009",
+   "path": "ordin/comunicatii/2009/489",
+   "short": "Ordin comunicatii nr. 489/2009",
+   "title": "Ordinul nr. 489/2009 privind normele metodologice de autorizare a centrelor de date",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108114",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108114",
+     "sha256": "4d3aaf702eba7686de03f2a2675fa90be43d18bf42ab572766ecf3b8dbb06b52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-492-2009",
+   "path": "ordin/comunicatii/2009/492",
+   "short": "Ordin comunicatii nr. 492/2009",
+   "title": "Ordinul nr. 492/2009 privind normele tehnice și metodologice pentru aplicarea Legii nr. 451/2004 privind marca temporală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108117",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108117",
+     "sha256": "f29404075f795f33460d36661c4d59c806a1c41b740910dc7d790012c644df85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-493-2009",
+   "path": "ordin/comunicatii/2009/493",
+   "short": "Ordin comunicatii nr. 493/2009",
+   "title": "Ordinul nr. 493/2009 privind normele tehnice și metodologice pentru aplicarea Legii nr. 135/2007 privind arhivarea documentelor în formă electronică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108073",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108073",
+     "sha256": "e20a483c487f334536f4a2ca5bf7873d7a832976fdfdfe76173c351cbecd189b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-500-2009",
+   "path": "ordin/comunicatii/2009/500",
+   "short": "Ordin comunicatii nr. 500/2009",
+   "title": "Ordinul nr. 500/2009 privind Normele tehnice și metodologice pentru aplicarea Legii nr. 589/2004 privind regimul juridic al activității electronice notariale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109516",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109516",
+     "sha256": "eeab9cb1c384d58a48d869db22d79b11c6313c32c154db6789b82f0abdb6e629"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-300-2009",
    "path": "ordin/concurenta/2009/300",
    "short": "Ordin concurenta nr. 300/2009",
@@ -4533,6 +4968,81 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2029-2009",
+   "path": "ordin/cultura/2009/2029",
+   "short": "Ordin cultura nr. 2029/2009",
+   "title": "Ordinul nr. 2.029/2009 pentru aprobarea Normelor metodologice privind modalitatea de calcul al tarifelor și procedura de plată a sumelor datorate pentru operațiunile efectuate contra cost de Oficiul Român pentru Drepturile de Autor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102413",
+   "versions": [
+    {
+     "from": "2009-02-17",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102413",
+     "sha256": "d66edc208115ccbcb4ee0a226e62aa516ed296c9b6afc6cd26c0c6b6c3d55691"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2048-2009",
+   "path": "ordin/cultura/2009/2048",
+   "short": "Ordin cultura nr. 2048/2009",
+   "title": "Ordinul nr. 2.048/2009 pentru modificarea Normelor metodologice de clasare și inventariere a monumentelor istorice, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.260/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102783",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102783",
+     "sha256": "503014296e603feec06e5e1e2750304015f1a2603fd596258e6b9a982022e259"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2076-2009",
+   "path": "ordin/cultura/2009/2076",
+   "short": "Ordin cultura nr. 2076/2009",
+   "title": "Ordinul nr. 2.076/2009 pentru aprobarea Normelor metodologice privind organizarea și funcționarea comisiilor, procedura de selecție a programelor, proiectelor și acțiunilor culturale în vederea acordării de finanțări nerambursabile din Fondul Cultural Național, precum și de soluționare a contestațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105006",
+   "versions": [
+    {
+     "from": "2009-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105006",
+     "sha256": "653cc30648fc2f64cc922167d63ad3014b7c7ed64827678b402440e76b96bc7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2115-2009",
+   "path": "ordin/cultura/2009/2115",
+   "short": "Ordin cultura nr. 2115/2009",
+   "title": "Ordinul nr. 2.115/2009 pentru modificarea Normelor metodologice privind modalitatea de calcul al tarifelor și procedura de plată a sumelor datorate pentru operațiunile efectuate contra cost de Oficiul Român pentru Drepturile de Autor, aprobate prin Ordinul ministrului culturii, cultelor și patrimoniului național nr. 2.029/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104718",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104718",
+     "sha256": "9c3083b7544d952fcdfb27445ed05426bdd07ecfa0656e0a0aa6ce1ba4e905fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2128-2009",
+   "path": "ordin/cultura/2009/2128",
+   "short": "Ordin cultura nr. 2128/2009",
+   "title": "Ordinul nr. 2.128/2009 pentru modificarea Regulamentului privind concursul de selecție a proiectelor cinematografice în vederea acordării de credite financiare directe pentru dezvoltare de proiecte, producție și distribuire de filme, aprobat prin Ordinul ministrului culturii și cultelor nr. 2.335/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104664",
+   "versions": [
+    {
+     "from": "2009-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104664",
+     "sha256": "6a545ee9e6947e6bcff4e30c86e44ecec2d22f3be3a23a6c1916273c38e076a9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2249-2009",
    "path": "ordin/cultura/2009/2249",
    "short": "Ordin cultura nr. 2249/2009",
@@ -4544,6 +5054,66 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111817",
      "sha256": "e359c8a05cfc382def35ea48cba626ebe1052881ac4bfb425239be60c8a7df3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2259-2009",
+   "path": "ordin/cultura/2009/2259",
+   "short": "Ordin cultura nr. 2259/2009",
+   "title": "Ordinul nr. 2.259/2009 privind modificarea anexei nr. 18 la Normele metodologice pentru aplicarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, aprobată cu modificări și completări prin Legea nr. 328/2006, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.379/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108137",
+   "versions": [
+    {
+     "from": "2009-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108137",
+     "sha256": "ddd3b0e32e98037fdc1938c474cc56e462c8bede1c6b68c7124cbdef2630a7d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2323-2009",
+   "path": "ordin/cultura/2009/2323",
+   "short": "Ordin cultura nr. 2323/2009",
+   "title": "Ordinul nr. 2.323/2009 privind aprobarea Regulamentului de organizare și funcționare a Registrului artelor spectacolului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110644",
+   "versions": [
+    {
+     "from": "2009-08-19",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110644",
+     "sha256": "ade366ab9c886b5eb5025e470324f4b43b2faf810458727a3bdd900bb6eb415c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2351-2009",
+   "path": "ordin/cultura/2009/2351",
+   "short": "Ordin cultura nr. 2351/2009",
+   "title": "Ordinul nr. 2.351/2009 privind stabilirea personalului împuternicit să constate contravenții și să aplice amenzile prevăzute de actele normative din domeniul culturii, precum și pentru aprobarea modelului legitimației persoanelor împuternicite, a modelelor proceselor-verbale de constatare și sancționare a contravențiilor și a modelului înștiințării de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110818",
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110818",
+     "sha256": "1851489a51e1312f183d7583b8bc81f53dd06997b514a7d03d7806490b2d0f7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2461-2009",
+   "path": "ordin/cultura/2009/2461",
+   "short": "Ordin cultura nr. 2461/2009",
+   "title": "Ordinul nr. 2.461/2009 privind modificarea anexei nr. 18 la Normele metodologice pentru aplicarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, aprobată cu modificări și completări prin Legea nr. 328/2006, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.379/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114053",
+   "versions": [
+    {
+     "from": "2009-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114053",
+     "sha256": "bae64e341cbe94736188f42316480a944cd82b9536cfeca5aa7f486a32107a76"
     }
    ]
   },
@@ -6509,6 +7079,141 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114935",
      "sha256": "c711e414eed846f4742d150364e7dfacda23c2881bac7df1a40af974288f9ac8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1518-2009",
+   "path": "ordin/externe/2009/1518",
+   "short": "Ordin externe nr. 1518/2009",
+   "title": "Ordinul nr. 1.518/2009 privind publicarea Programului de colaborare culturală dintre Guvernul României și Guvernul Republicii Populare Chineze pentru anii 2009-2012, semnat la București la 15 septembrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113018",
+   "versions": [
+    {
+     "from": "2009-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113018",
+     "sha256": "165f1bb2beb34dafcd6b050e0340962dd642da8311ffd457fabd69edd5d60335"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1531-2009",
+   "path": "ordin/externe/2009/1531",
+   "short": "Ordin externe nr. 1531/2009",
+   "title": "Ordinul nr. 1.531/2009 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112969",
+   "versions": [
+    {
+     "from": "2009-11-02",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112969",
+     "sha256": "ca09a4f50c1a5c9ba1479c0e1d939d71f4791ddf434050fb5ab7a3499a825f5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-48-2009",
+   "path": "ordin/externe/2009/48",
+   "short": "Ordin externe nr. 48/2009",
+   "title": "Ordinul nr. 48/2009 privind publicarea Programului de cooperare în domeniile culturii, educației, tineretului și sportului dintre Guvernul României și Guvernul Statelor Unite Mexicane pentru anii 2008-2011, semnat la Ciudad de Mexico la 3 decembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102083",
+   "versions": [
+    {
+     "from": "2009-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102083",
+     "sha256": "222e9169f53450a65ffa7ddaf0647bbd3600b7b854794c7c11bce0f6a223d3de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-576-2009",
+   "path": "ordin/externe/2009/576",
+   "short": "Ordin externe nr. 576/2009",
+   "title": "Ordinul nr. 576/2009 pentru completarea anexei la Ordinul ministrului afacerilor externe nr. 2.013/2008 privind Lista statelor pentru ai căror cetățeni este necesară îndeplinirea procedurii invitației la acordarea vizelor de scurtă ședere pentru a intra pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105171",
+   "versions": [
+    {
+     "from": "2009-04-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105171",
+     "sha256": "4ef6fefd000094a4e336528cb2f769bc7e0f631faa626d5597b8dcb2fccc9630"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-581-2009",
+   "path": "ordin/externe/2009/581",
+   "short": "Ordin externe nr. 581/2009",
+   "title": "Ordinul nr. 581/2009 privind publicarea Programului de cooperare culturală și științifică dintre Guvernul României și Guvernul Regatului Hașemit al Iordaniei pentru anii 2009-2010-2011-2012, semnat la București la 6 aprilie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105902",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105902",
+     "sha256": "ccbd83831f225905ba759416ba659dc37934ea23a3d6ef59cedd48da2673c0b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-6-2009",
+   "path": "ordin/externe/2009/6",
+   "short": "Ordin externe nr. 6/2009",
+   "title": "Ordinul nr. 6/2009 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101434",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101434",
+     "sha256": "ba270b7a10540c6ad7700eee9a666acb1832e2e11aef686f73ed4e8aaf4d7d26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-735-2009",
+   "path": "ordin/externe/2009/735",
+   "short": "Ordin externe nr. 735/2009",
+   "title": "Ordinul nr. 735/2009 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109282",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109282",
+     "sha256": "4d251757a5cd58d2810a1bc4c0616a57d6f53e28c07c63d3d45ee2622523a396"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-851-2009",
+   "path": "ordin/externe/2009/851",
+   "short": "Ordin externe nr. 851/2009",
+   "title": "Ordinul nr. 851/2009 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109316",
+   "versions": [
+    {
+     "from": "2009-07-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109316",
+     "sha256": "b852d43d5f6df7143143a920e7d30fcb2b6c5a5af4ee0d6ba200a6c87e0b3196"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-93-2009",
+   "path": "ordin/externe/2009/93",
+   "short": "Ordin externe nr. 93/2009",
+   "title": "Ordinul nr. 93/2009 privind publicarea textelor unor tratate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102283",
+   "versions": [
+    {
+     "from": "2009-02-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102283",
+     "sha256": "c9586656f521180f6c35bc783df6f004a96d4a46c5a77199af2b4a68d299e024"
     }
    ]
   },

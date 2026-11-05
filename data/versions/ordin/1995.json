@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-97-1995",
+   "path": "ordin/anrm/1995/97",
+   "short": "Ordin anrm nr. 97/1995",
+   "title": "Ordinul nr. 97/1995 privind perceperea de tarife de la persoanele fizice și juridice pentru actele emise de Agenția Naționala pentru Resurse Minerale în exercitarea atribuțiilor sale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6233",
+   "versions": [
+    {
+     "from": "1995-09-27",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6233",
+     "sha256": "708a7894c8fd3485e182f77952a8201eb99a0abf14922309d0466d029256c47a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-138-1995",
    "path": "ordin/bnr/1995/138",
    "short": "Ordin bnr nr. 138/1995",
@@ -329,6 +344,36 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6135",
      "sha256": "276b4eca1fa8ce48de87b268e7d41a9fef68a07ca89a76ab952bd335f7104f68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-1077-1995",
+   "path": "ordin/cultura/1995/1077",
+   "short": "Ordin cultura nr. 1077/1995",
+   "title": "Ordinul nr. 1.077/1995 pentru modificarea tarifelor privind remunerația de execuție a operelor muzicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7574",
+   "versions": [
+    {
+     "from": "1995-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7574",
+     "sha256": "62f092e9b36c39c7a076c576aad5d16b4795e3a430f371a7d27648d5d5cb312e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-390-1995",
+   "path": "ordin/cultura/1995/390",
+   "short": "Ordin cultura nr. 390/1995",
+   "title": "Ordinul nr. 390/1995 privind indexarea tarifelor prevăzute în anexele nr. 1 și 2 la Hotărârea Guvernului nr. 571/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6873",
+   "versions": [
+    {
+     "from": "1995-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6873",
+     "sha256": "f8b26959bf4b449037deca7faf7ad696186a9a47cf28480b6ae3e4796de76e2f"
     }
    ]
   },

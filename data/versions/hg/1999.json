@@ -327,6 +327,21 @@
    ]
   },
   {
+   "slug": "hg-1065-1999",
+   "path": "hg/1999/1065",
+   "short": "HG nr. 1065/1999",
+   "title": "Hotărârea Guvernului nr. 1065/1999 privind stabilirea baremului lunar pentru impunerea veniturilor din salarii şi asimilate acestora, realizate în anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20470",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20470",
+     "sha256": "bf6837ed917e8beab316438c56272b0ca7a56cc244bad14120a78a636e4a6d2a"
+    }
+   ]
+  },
+  {
    "slug": "hg-1066-1999",
    "path": "hg/1999/1066",
    "short": "HG nr. 1066/1999",
@@ -342,6 +357,36 @@
    ]
   },
   {
+   "slug": "hg-1068-1999",
+   "path": "hg/1999/1068",
+   "short": "HG nr. 1068/1999",
+   "title": "Hotărârea Guvernului nr. 1068/1999 privind alocarea unei sume din bugetul de stat pe anul 1999 pentru înlăturarea distrugerilor provocate de ploile torenţiale din perioada iunie - iulie 1998 în oraşul Vişeu de Sus, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20441",
+   "versions": [
+    {
+     "from": "1999-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20441",
+     "sha256": "632c409805229eb819fa8129c460ff43dc6deb4f802baf0aa188a543cb636492"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1069-1999",
+   "path": "hg/1999/1069",
+   "short": "HG nr. 1069/1999",
+   "title": "Hotărârea Guvernului nr. 1069/1999 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Elveţiei privind acordarea unui sprijin bugetar de maximum 4 milioane franci elveţieni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20494",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20494",
+     "sha256": "4f27a0d4ad839045a9b82082ce675ae85d9e6aeabef53224c97f870554a28c86"
+    }
+   ]
+  },
+  {
    "slug": "hg-1070-1999",
    "path": "hg/1999/1070",
    "short": "HG nr. 1070/1999",
@@ -353,6 +398,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20495",
      "sha256": "f345d302fba7b33e2f4a929d5a059953343fe4eb4b577550bc91f473e28d06e9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1076-1999",
+   "path": "hg/1999/1076",
+   "short": "HG nr. 1076/1999",
+   "title": "Hotărârea Guvernului nr. 1076/1999 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 1999, rectificate, ale unor institute naţionale de cercetare-dezvoltare aflate în coordonarea Agenţiei Naţionale pentru Ştiinţa, Tehnologie şi Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20520",
+   "versions": [
+    {
+     "from": "2000-01-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20520",
+     "sha256": "390c89c615dd7cd2df0eaafa99710c8ad9d08a05e7c441c976d0c7a9a5a6f118"
     }
    ]
   },

@@ -3,6 +3,651 @@
  "shard": "ordin/2007",
  "acts": [
   {
+   "slug": "ordin-aaas-10303-2007",
+   "path": "ordin/aaas/2007/10303",
+   "short": "Ordin aaas nr. 10303/2007",
+   "title": "Ordinul nr. 10.303/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Vinalcool Bihor\" - S.A. Oradea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86782",
+   "versions": [
+    {
+     "from": "2007-11-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86782",
+     "sha256": "7797d89498c8448671e5c24fe884716686531bd3534b4d013a13a64bc0ef8419"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10312-2007",
+   "path": "ordin/aaas/2007/10312",
+   "short": "Ordin aaas nr. 10312/2007",
+   "title": "Ordinul nr. 10.312/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"NITROSERVICE\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86998",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86998",
+     "sha256": "9022f7dad0eea52368849892a962b2ecdd932e9ea29113d424b863393185d9a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10313-2007",
+   "path": "ordin/aaas/2007/10313",
+   "short": "Ordin aaas nr. 10313/2007",
+   "title": "Ordinul nr. 10.313/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"NITROTRANS\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86999",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86999",
+     "sha256": "448651eef5513eb4f9ef7d251cc5362aec1458f37b4c52c80b8d24e052a5aa08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10314-2007",
+   "path": "ordin/aaas/2007/10314",
+   "short": "Ordin aaas nr. 10314/2007",
+   "title": "Ordinul nr. 10.314/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"NITROEXPLOSIVES\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87000",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87000",
+     "sha256": "b19c437dcb097931fa64794837a1c657718148c72c8bd7203ea5ad7bd0370f0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10315-2007",
+   "path": "ordin/aaas/2007/10315",
+   "short": "Ordin aaas nr. 10315/2007",
+   "title": "Ordinul nr. 10.315/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"NITROFERTILIZER\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87001",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87001",
+     "sha256": "e94b33053d560761188ec4592d6472885ef5d0e31ddf603203acbb451ff3a3d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10316-2007",
+   "path": "ordin/aaas/2007/10316",
+   "short": "Ordin aaas nr. 10316/2007",
+   "title": "Ordinul nr. 10.316/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"NITROCONTROL\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87002",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87002",
+     "sha256": "f2c55d10065abdcca97dc2faacbe6232ceb37c777566e3af9834b1e7c4c1ee61"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10339-2007",
+   "path": "ordin/aaas/2007/10339",
+   "short": "Ordin aaas nr. 10339/2007",
+   "title": "Ordinul nr. 10.339/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Electroputere\" - S.A. Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87511",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87511",
+     "sha256": "d3d78a33318bcc7b89cbcb146849a66bb041084ff7eb5ce2252d61961e4340dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10394-2007",
+   "path": "ordin/aaas/2007/10394",
+   "short": "Ordin aaas nr. 10394/2007",
+   "title": "Ordinul nr. 10.394/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"I.C.E.F.S.\" - S.A. Săvinești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88112",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88112",
+     "sha256": "de9698103d44d4c80460f76fdce31bda56ff3e15fd0373806b057940ca30824d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10416-2007",
+   "path": "ordin/aaas/2007/10416",
+   "short": "Ordin aaas nr. 10416/2007",
+   "title": "Ordinul nr. 10.416/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"INTEC\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88541",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88541",
+     "sha256": "ce9b506bddd80015c7701e7f57123fd2697ba4e7d84b70014c68920bf39d1cc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10417-2007",
+   "path": "ordin/aaas/2007/10417",
+   "short": "Ordin aaas nr. 10417/2007",
+   "title": "Ordinul nr. 10.417/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Institutul Național de Sticlă\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88542",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88542",
+     "sha256": "9394dc81a447ee0df21a713c6c74e593f6a607b753569dcc409dd04de7e8c79d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10418-2007",
+   "path": "ordin/aaas/2007/10418",
+   "short": "Ordin aaas nr. 10418/2007",
+   "title": "Ordinul nr. 10.418/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Institutul Național al Lemnului\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88543",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88543",
+     "sha256": "01b7c625d0e9d9ce85e1a7790b8cf206295d75e2c9d70b617329740ab000dfc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10421-2007",
+   "path": "ordin/aaas/2007/10421",
+   "short": "Ordin aaas nr. 10421/2007",
+   "title": "Ordinul nr. 10.421/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"CASSTIL\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88546",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88546",
+     "sha256": "4aeb5d25b2695df2dc84fd3c311dacf4af1e157beb9869703d42aa11d0091ea5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10422-2007",
+   "path": "ordin/aaas/2007/10422",
+   "short": "Ordin aaas nr. 10422/2007",
+   "title": "Ordinul nr. 10.422/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Construcții Aeronautice\" - S.A. Ghimbav",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88547",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88547",
+     "sha256": "57b7d5bd5bd5eab9d9b213a1d82ec74ea3bfd9ddc7cf2780a6c02abc9e25db22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10426-2007",
+   "path": "ordin/aaas/2007/10426",
+   "short": "Ordin aaas nr. 10426/2007",
+   "title": "Ordinul nr. 10.426/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Uzina Termoelectrică Midia\" - S.A. Năvodari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88551",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88551",
+     "sha256": "75a1eb3638f25205a4a4435901c5df44f11e4290888e6ba054ca63a5abf95df8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10431-2007",
+   "path": "ordin/aaas/2007/10431",
+   "short": "Ordin aaas nr. 10431/2007",
+   "title": "Ordinul nr. 10.431/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Pensiune Păstrăvărie Floarea Reginei (Edelweiss Hotel)\" - S.A. Făgăraș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88556",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88556",
+     "sha256": "0016b16ac066618540dd097b037f3dab95846ace69326ccb2e0383d9f05d1afb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10432-2007",
+   "path": "ordin/aaas/2007/10432",
+   "short": "Ordin aaas nr. 10432/2007",
+   "title": "Ordinul nr. 10.432/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"CIPROM\" - S.A. Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88557",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88557",
+     "sha256": "87957f9191b6499b3c9a70494a7c89ffd768c99789ba70c44fd1b521079af04a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10433-2007",
+   "path": "ordin/aaas/2007/10433",
+   "short": "Ordin aaas nr. 10433/2007",
+   "title": "Ordinul nr. 10.433/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"PETROTRANS\" - S.A. Ploiești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88558",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88558",
+     "sha256": "348b1981b0f13be5a9443931ba5dd20472ef0a30f05b1797fbcf27f83a77abdd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10434-2007",
+   "path": "ordin/aaas/2007/10434",
+   "short": "Ordin aaas nr. 10434/2007",
+   "title": "Ordinul nr. 10.434/2007 privind încetarea procedurii de administrare specială la Societatea Națională \"PLAFAR\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88559",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88559",
+     "sha256": "c4bec92787a48f9fb4a9e938d2423c59674a19931a836580dd7ae91cbe740f77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10435-2007",
+   "path": "ordin/aaas/2007/10435",
+   "short": "Ordin aaas nr. 10435/2007",
+   "title": "Ordinul nr. 10.435/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"BĂNEASA\" - S.A. Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88560",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88560",
+     "sha256": "05c4f99ac1a0c6af60af5a233236baa8f043e1a11afe6adf9548f22710b83e05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10436-2007",
+   "path": "ordin/aaas/2007/10436",
+   "short": "Ordin aaas nr. 10436/2007",
+   "title": "Ordinul nr. 10.436/2007 privind încetarea procedurii de administrare specială la C.N.M. \"PETROMIN\" - S.A. Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88561",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88561",
+     "sha256": "6a04b0358fa62f363e4b76e1986c7467261e1bc0264a087aedd65bdc1df9a4a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-10437-2007",
+   "path": "ordin/aaas/2007/10437",
+   "short": "Ordin aaas nr. 10437/2007",
+   "title": "Ordinul nr. 10.437/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"ITEC\" - S.A. Brazi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88562",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88562",
+     "sha256": "f323c0ee551c7f834089be6474d5c33d1e407cca41ad0f0fe30941a87d957e50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8601-2007",
+   "path": "ordin/aaas/2007/8601",
+   "short": "Ordin aaas nr. 8601/2007",
+   "title": "Ordinul nr. 8.601/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Administrare Cazare Cantine\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79360",
+   "versions": [
+    {
+     "from": "2007-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79360",
+     "sha256": "f149eda32c0217362f994b7e6f41971a0f5986fb4c50a3781bbd1ab4aa84e5ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8602-2007",
+   "path": "ordin/aaas/2007/8602",
+   "short": "Ordin aaas nr. 8602/2007",
+   "title": "Ordinul nr. 8.602/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Arcadia 2000\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79368",
+   "versions": [
+    {
+     "from": "2007-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79368",
+     "sha256": "be25d800e3a05b559b782bec08af4e6601e6c2db8a7b9d55504280273be463ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8607-2007",
+   "path": "ordin/aaas/2007/8607",
+   "short": "Ordin aaas nr. 8607/2007",
+   "title": "Ordinul nr. 8.607/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"DELFINCOM\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79369",
+   "versions": [
+    {
+     "from": "2007-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79369",
+     "sha256": "f5dbcdc9d25e6920f3c87aefab87aede8456e535101b25c7824ce96bcefe1863"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8609-2007",
+   "path": "ordin/aaas/2007/8609",
+   "short": "Ordin aaas nr. 8609/2007",
+   "title": "Ordinul nr. 8.609/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"CEREALCOM\" - S.A. Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79371",
+   "versions": [
+    {
+     "from": "2007-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79371",
+     "sha256": "d09470a76f35914298fa7a7f5cdbe6ccd1d515034957810bba11ee3a9d2bd9f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8613-2007",
+   "path": "ordin/aaas/2007/8613",
+   "short": "Ordin aaas nr. 8613/2007",
+   "title": "Ordinul nr. 8.613/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Prelucrarea Cărnii SPLAI\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79372",
+   "versions": [
+    {
+     "from": "2007-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79372",
+     "sha256": "460550db53ffcfb71e7a9bceecab2684d1468b89af4a0b18a73510fcfd8229ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8620-2007",
+   "path": "ordin/aaas/2007/8620",
+   "short": "Ordin aaas nr. 8620/2007",
+   "title": "Ordinul nr. 8.620/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Aversa\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79272",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79272",
+     "sha256": "8fe5929bc345143911e6a9965efc0e3ea0002879c010fd1fab0b132c30bdea52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8654-2007",
+   "path": "ordin/aaas/2007/8654",
+   "short": "Ordin aaas nr. 8654/2007",
+   "title": "Ordinul nr. 8.654/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Famos\" - S.A. Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79517",
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79517",
+     "sha256": "a67455d8e5b585988af4bb7b68056cfe072ee6b35efdc1197b3f07585a3f5b25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8679-2007",
+   "path": "ordin/aaas/2007/8679",
+   "short": "Ordin aaas nr. 8679/2007",
+   "title": "Ordinul nr. 8.679/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Orlatex\" - S.A. Orlat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79624",
+   "versions": [
+    {
+     "from": "2007-02-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79624",
+     "sha256": "ac28de7575e2d6b1eb51926466379e71c0c37a618f610a9456b9f3e0b5b3370e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8680-2007",
+   "path": "ordin/aaas/2007/8680",
+   "short": "Ordin aaas nr. 8680/2007",
+   "title": "Ordinul nr. 8.680/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Termoproiect\" - S.A. Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79625",
+   "versions": [
+    {
+     "from": "2007-02-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79625",
+     "sha256": "3304987f50e44394525790959028fd593688f75624e852d22d99e0e44f68ff33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8681-2007",
+   "path": "ordin/aaas/2007/8681",
+   "short": "Ordin aaas nr. 8681/2007",
+   "title": "Ordinul nr. 8.681/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"ITC - Institutul pentru Tehnică de Calcul\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79626",
+   "versions": [
+    {
+     "from": "2007-02-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79626",
+     "sha256": "b014e4790e6f2c6fc00213ea89f4824ebe977db3e059194f7d1e6a6597b43642"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8692-2007",
+   "path": "ordin/aaas/2007/8692",
+   "short": "Ordin aaas nr. 8692/2007",
+   "title": "Ordinul nr. 8.692/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Trocadero\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79867",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79867",
+     "sha256": "4c361398878b8ed2541b55d13866015226fcec45bd122a2d485338dea89907dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8820-2007",
+   "path": "ordin/aaas/2007/8820",
+   "short": "Ordin aaas nr. 8820/2007",
+   "title": "Ordinul nr. 8.820/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Apollo\" - S.A. Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81296",
+   "versions": [
+    {
+     "from": "2007-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81296",
+     "sha256": "f956501777f7a59d383e12e44293f5130996fafec6601188f6a54a44816890a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8912-2007",
+   "path": "ordin/aaas/2007/8912",
+   "short": "Ordin aaas nr. 8912/2007",
+   "title": "Ordinul nr. 8.912/2007 privind încetarea procedurii de administrare specială la Societatea Comercială Institutul de Cercetări Electrotehnice \"ICPE\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80408",
+   "versions": [
+    {
+     "from": "2007-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80408",
+     "sha256": "9670ba7ec45bfc79dbed63bd793ab6a45be512deca2013ae8f591e759d6e6262"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8913-2007",
+   "path": "ordin/aaas/2007/8913",
+   "short": "Ordin aaas nr. 8913/2007",
+   "title": "Ordinul nr. 8.913/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Institutul de Cercetări Metalurgice - ICEM\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80409",
+   "versions": [
+    {
+     "from": "2007-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80409",
+     "sha256": "7d5eb63dcb76bf700fb5ff157b6e4741aa01a546b48b8b2c2739cafdd4b99794"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-9141-2007",
+   "path": "ordin/aaas/2007/9141",
+   "short": "Ordin aaas nr. 9141/2007",
+   "title": "Ordinul nr. 9.141/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"OLIMP ESTIVAL 2002\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81874",
+   "versions": [
+    {
+     "from": "2007-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81874",
+     "sha256": "3d0039366b55b1ffd79b579a2e00e1ddfc3c5770e3cdb89202ee1a8475ac621c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-9256-2007",
+   "path": "ordin/aaas/2007/9256",
+   "short": "Ordin aaas nr. 9256/2007",
+   "title": "Ordinul nr. 9.256/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"ABROM\" - S.A. Bârlad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83010",
+   "versions": [
+    {
+     "from": "2007-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83010",
+     "sha256": "0013e1213bdc4ba0d26ad1ddcd2708dba34c32913d881bd5a9af477dd3ab7014"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-9353-2007",
+   "path": "ordin/aaas/2007/9353",
+   "short": "Ordin aaas nr. 9353/2007",
+   "title": "Ordinul nr. 9.353/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"TEROM\" - S.A. Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83175",
+   "versions": [
+    {
+     "from": "2007-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83175",
+     "sha256": "a8068d26e0f504e5cea28a96ab694bbcfe2df60ce562a742cdc1e5c48d2cba00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-9426-2007",
+   "path": "ordin/aaas/2007/9426",
+   "short": "Ordin aaas nr. 9426/2007",
+   "title": "Ordinul nr. 9.426/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"Ceprohart\" - S.A. Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83760",
+   "versions": [
+    {
+     "from": "2007-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83760",
+     "sha256": "9151a834a320312c11502fa47369f4f189cad984d7f60cf182a7413f6bd14892"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-9505-2007",
+   "path": "ordin/aaas/2007/9505",
+   "short": "Ordin aaas nr. 9505/2007",
+   "title": "Ordinul nr. 9.505/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"UZINA DE VALORIFICARE A CENUȘILOR DE PIRITĂ\" - S.A. Turnu Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84333",
+   "versions": [
+    {
+     "from": "2007-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84333",
+     "sha256": "a69af7d5d6e3a293054e6da4b479444b290a1b2c247dc84deffbef1e2dd253b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-9512-2007",
+   "path": "ordin/aaas/2007/9512",
+   "short": "Ordin aaas nr. 9512/2007",
+   "title": "Ordinul nr. 9.512/2007 privind instituirea procedurii de administrare specială la Societatea Comercială \"SIMPAS\" - S.A. Alexandria, județul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84551",
+   "versions": [
+    {
+     "from": "2007-08-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84551",
+     "sha256": "cef6742814926c4522886bcc6e265d04385c000010d0532d70256809f41d88fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-9541-2007",
+   "path": "ordin/aaas/2007/9541",
+   "short": "Ordin aaas nr. 9541/2007",
+   "title": "Ordinul nr. 9.541/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"MENAROM\" - S.A. Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85410",
+   "versions": [
+    {
+     "from": "2007-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85410",
+     "sha256": "f6f70c65d6d68be7ab5c07581ff681261dcb6845f8d03ecaab8a9c0b418f8e7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-9545-2007",
+   "path": "ordin/aaas/2007/9545",
+   "short": "Ordin aaas nr. 9545/2007",
+   "title": "Ordinul nr. 9.545/2007 privind încetarea procedurii de administrare specială la Societatea Comercială \"RULMENTUL\" - S.A. Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85411",
+   "versions": [
+    {
+     "from": "2007-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85411",
+     "sha256": "3eb697042ed012c80e8b7d6e623c4e1fb7b4fc80e232f5c2936151038bb83998"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-147-2007",
    "path": "ordin/agricultura/2007/147",
    "short": "Ordin agricultura nr. 147/2007",
@@ -3363,6 +4008,246 @@
    ]
   },
   {
+   "slug": "ordin-anrm-123-2007",
+   "path": "ordin/anrm/2007/123",
+   "short": "Ordin anrm nr. 123/2007",
+   "title": "Ordinul nr. 123/2007 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare - Runda nr. 55/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84379",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84379",
+     "sha256": "bd2595f9937c0858b2617cff9b6ab8b4fee2764c16fa0f9e2a7b7b8df0d0cd68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-135-2007",
+   "path": "ordin/anrm/2007/135",
+   "short": "Ordin anrm nr. 135/2007",
+   "title": "Ordinul nr. 135/2007 pentru aprobarea prețului de referință al gazelor naturale extrase în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84959",
+   "versions": [
+    {
+     "from": "2007-08-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84959",
+     "sha256": "bafb7b9393f91a6bbae6ea46c9e34557a8168fdf666670496918a2549d3252f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-141-2007",
+   "path": "ordin/anrm/2007/141",
+   "short": "Ordin anrm nr. 141/2007",
+   "title": "Ordinul nr. 141/2007 pentru modificarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 69/2007 privind Lista perimetrelor petroliere oferite pentru concesiune prin apel public de ofertă, runda a VIII-a/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85229",
+   "versions": [
+    {
+     "from": "2007-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85229",
+     "sha256": "97c3adbd56e4f17be2623bd0607a49dbda899e6079a8002ef0853c5e43ccf5a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-155-2007",
+   "path": "ordin/anrm/2007/155",
+   "short": "Ordin anrm nr. 155/2007",
+   "title": "Ordinul nr. 155/2007 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 56/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85900",
+   "versions": [
+    {
+     "from": "2007-10-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85900",
+     "sha256": "df8478721347fd3c4d095ef70fa4e616132402ec008e2e67c05c9508b48da20f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-180-2007",
+   "path": "ordin/anrm/2007/180",
+   "short": "Ordin anrm nr. 180/2007",
+   "title": "Ordinul nr. 180/2007 privind prelungirea unui termen de depunere a ofertelor pentru concesionarea de activități de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86719",
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86719",
+     "sha256": "e7eaa215f6a27f40ebf827ff7f1a1edf5ac1acd7310d7d6de7a0b89ddc9ed23b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-186-2007",
+   "path": "ordin/anrm/2007/186",
+   "short": "Ordin anrm nr. 186/2007",
+   "title": "Ordinul nr. 186/2007 privind aprobarea Contractului-cadru pentru transportul țițeiului, condensatului, gazolinei și etanului lichid pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87281",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87281",
+     "sha256": "de67cf90b48dfb95b2670e2bc724767f1d698e754b00a90c3738b8689730ec72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-188-2007",
+   "path": "ordin/anrm/2007/188",
+   "short": "Ordin anrm nr. 188/2007",
+   "title": "Ordinul nr. 188/2007 privind aprobarea tarifelor de transport al țițeiului prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86982",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86982",
+     "sha256": "6944e733a51cc155f00de7bcfc4fd5eefafcebc32dbe956cb9aef799cded8e75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-190-2007",
+   "path": "ordin/anrm/2007/190",
+   "short": "Ordin anrm nr. 190/2007",
+   "title": "Ordinul nr. 190/2007 privind aprobarea tarifelor de derulare a țițeiului și produselor petroliere prin terminalul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87041",
+   "versions": [
+    {
+     "from": "2007-11-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87041",
+     "sha256": "b59d211650802fe564a74e2ced88874189b70a191e2ac6a087266d7194180ba7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-207-2007",
+   "path": "ordin/anrm/2007/207",
+   "short": "Ordin anrm nr. 207/2007",
+   "title": "Ordinul nr. 207/2007 pentru aprobarea Instrucțiunilor tehnice privind abandonarea/ridicarea abandonării sondelor de petrol și programul de asigurare a sondelor propuse spre abandonare și abandonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87960",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87960",
+     "sha256": "8f4a1af45467761129638c0325ffb6729a7c7f148176acb825d5359c814544a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-211-2007",
+   "path": "ordin/anrm/2007/211",
+   "short": "Ordin anrm nr. 211/2007",
+   "title": "Ordinul nr. 211/2007 pentru modificarea și completarea Instrucțiunilor tehnice privind modul de raportare și de calcul al valorii producției și redevenței miniere datorate de către titularii actelor de dare în administrare sau de concesiune, aprobate prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 74/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88179",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88179",
+     "sha256": "a27e2da6a4eeb80c7922b9a0490596d947e51c00da8b20409a44b857ac269aea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-214-2007",
+   "path": "ordin/anrm/2007/214",
+   "short": "Ordin anrm nr. 214/2007",
+   "title": "Ordinul nr. 214/2007 pentru modificarea anexei la Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 200/2007 privind aprobarea Listei perimetrelor scoase la concurs public de oferte, Runda nr. 57/2007, pentru concesionarea de activități de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88161",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88161",
+     "sha256": "045b10716b9af2cbce51a99994d15f6d9a97b5904f2bb2685ec7e07fd9f28941"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-39-2007",
+   "path": "ordin/anrm/2007/39",
+   "short": "Ordin anrm nr. 39/2007",
+   "title": "Ordinul nr. 39/2007 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 52/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79819",
+   "versions": [
+    {
+     "from": "2007-03-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79819",
+     "sha256": "2c63fd745d80d9e455a9a389fe960ecc96f6fdd604aa89795830e0fe3850ca32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-46-2007",
+   "path": "ordin/anrm/2007/46",
+   "short": "Ordin anrm nr. 46/2007",
+   "title": "Ordinul nr. 46/2007 privind aprobarea Listei apelor minerale naturale recunoscute în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80461",
+   "versions": [
+    {
+     "from": "2007-03-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80461",
+     "sha256": "f293333c3c3c983fa1f08168b1d9824d1ad8dbcf9f25dfed2a2b6612f9e61468"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-57-2007",
+   "path": "ordin/anrm/2007/57",
+   "short": "Ordin anrm nr. 57/2007",
+   "title": "Ordinul nr. 57/2007 privind aprobarea prețului de referință al gazelor naturale extrase în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81275",
+   "versions": [
+    {
+     "from": "2007-04-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81275",
+     "sha256": "96be4a3a2b6e1ee1af29bd32e91da478e771c4c3cc6cd98b2c1382aa7f11764c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-69-2007",
+   "path": "ordin/anrm/2007/69",
+   "short": "Ordin anrm nr. 69/2007",
+   "title": "Ordinul nr. 69/2007 privind Lista perimetrelor petroliere oferite pentru concesiune prin apel public de ofertă, Runda a VIII-a/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82298",
+   "versions": [
+    {
+     "from": "2007-05-23",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82298",
+     "sha256": "7884f0eb26636c805049ce295ef423ac95283e51435f65a73b6bedd429360888"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-96-2007",
+   "path": "ordin/anrm/2007/96",
+   "short": "Ordin anrm nr. 96/2007",
+   "title": "Ordinul nr. 96/2007 privind aprobarea Listei perimetrelor pentru concesionarea de activități de exploatare Runda nr. 54/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83249",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83249",
+     "sha256": "a0f9598cd11a7f1c743f784e5bcb8d7737901ad8fce107da65c9f30882fe7b22"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-11-2007",
    "path": "ordin/ansvsa/2007/11",
    "short": "Ordin ansvsa nr. 11/2007",
@@ -5133,6 +6018,81 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-21-2007",
+   "path": "ordin/comunicatii/2007/21",
+   "short": "Ordin comunicatii nr. 21/2007",
+   "title": "Ordinul nr. 21/2007 pentru modificarea și completarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 220/2006 privind aprobarea documentelor adoptate de către Consiliul de Exploatare Poștală al Uniunii Poștale Universale la reuniunea anuală din ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79137",
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79137",
+     "sha256": "66c3c95daff4bfdd08863f5263c977aabdc1d1cf0cba975d05adbec587d61259"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-389-2007",
+   "path": "ordin/comunicatii/2007/389",
+   "short": "Ordin comunicatii nr. 389/2007",
+   "title": "Ordinul nr. 389/2007 privind procedura de avizare a instrumentelor de plată cu acces la distanță, de tipul aplicațiilor internet-banking, home-banking sau mobile-banking",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83711",
+   "versions": [
+    {
+     "from": "2007-07-19",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83711",
+     "sha256": "91548938c64abe962331a9d6bccfb8e6d888854f76d6c4a2ae39faf006d14e88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-426-2007",
+   "path": "ordin/comunicatii/2007/426",
+   "short": "Ordin comunicatii nr. 426/2007",
+   "title": "Ordinul nr. 426/2007 privind notificarea echipamentelor radio care funcționează în benzi de frecvențe radio a căror utilizare nu este armonizată în Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84327",
+   "versions": [
+    {
+     "from": "2007-08-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84327",
+     "sha256": "efaa3635b74777939d1a2c7bcaa7ffa94f9b4cf58888ab5417d64385b030e55c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-93-2007",
+   "path": "ordin/comunicatii/2007/93",
+   "short": "Ordin comunicatii nr. 93/2007",
+   "title": "Ordinul nr. 93/2007 pentru aprobarea bugetului propriu de venituri și cheltuieli al Institutului Național de Cercetare-Dezvoltare în Informatică - ICI București pe anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79879",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79879",
+     "sha256": "80faffad6b4b43c4598ca69e208f3ae2443ef7fb7090fb9f06b04b44fc3e2178"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-94-2007",
+   "path": "ordin/comunicatii/2007/94",
+   "short": "Ordin comunicatii nr. 94/2007",
+   "title": "Ordinul nr. 94/2007 privind aprobarea bugetului propriu de venituri și cheltuieli al Institutului Național de Studii și Cercetări pentru Comunicații - I.N.S.C.C. București pe anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79882",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79882",
+     "sha256": "7eb63186698f3c3dd665f42bed6f66b9ef90488b9acb3c8d14bd1e2ed5e5eaa1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-175-2007",
    "path": "ordin/concurenta/2007/175",
    "short": "Ordin concurenta nr. 175/2007",
@@ -5384,6 +6344,96 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84224",
      "sha256": "385488a7c835e826194e09b1e48d003a3cea516d5d8cf406916e6a73a8bb4779"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2057-2007",
+   "path": "ordin/cultura/2007/2057",
+   "short": "Ordin cultura nr. 2057/2007",
+   "title": "Ordinul nr. 2.057/2007 pentru aprobarea Criteriilor și normelor de acreditare a muzeelor și a colecțiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79690",
+   "versions": [
+    {
+     "from": "2007-02-21",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79690",
+     "sha256": "79edb7e851a3742acbffbb6d314de8f7000d1bfe436997642a014528ea9c7e94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2185-2007",
+   "path": "ordin/cultura/2007/2185",
+   "short": "Ordin cultura nr. 2185/2007",
+   "title": "Ordinul nr. 2.185/2007 pentru aprobarea Normelor de clasificare a muzeelor și a colecțiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81294",
+   "versions": [
+    {
+     "from": "2007-04-19",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81294",
+     "sha256": "9f9cf751c7d9193b35bf8e68c696d64d1055aba697188b5f09356915829b1f6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2220-2007",
+   "path": "ordin/cultura/2007/2220",
+   "short": "Ordin cultura nr. 2220/2007",
+   "title": "Ordinul nr. 2.220/2007 pentru aprobarea Normelor privind procedura de atestare și înscriere în Registrul operatorilor economici din domeniul protejării monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87211",
+   "versions": [
+    {
+     "from": "2007-11-23",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87211",
+     "sha256": "d2f19abb4aaedbfa4e512e230685c6bc7188b7ee820563264c12c0990c3f34e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2274-2007",
+   "path": "ordin/cultura/2007/2274",
+   "short": "Ordin cultura nr. 2274/2007",
+   "title": "Ordinul nr. 2.274/2007 privind aprobarea procedurii de acordare a avizului consultativ de către Ministerul Culturii și Cultelor pentru înființarea asociațiilor religioase sau, după caz, pentru dobândirea statutului de asociație religioasă de către asociațiile existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82389",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82389",
+     "sha256": "7e774b3bed1b839afeca7224bf79234adc8cb99edcb482efcb53357641dafba4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2306-2007",
+   "path": "ordin/cultura/2007/2306",
+   "short": "Ordin cultura nr. 2306/2007",
+   "title": "Ordinul nr. 2.306/2007 pentru modificarea și completarea Regulamentului privind concursul de selecție a proiectelor cinematografice în vederea acordării de credite financiare directe pentru dezvoltare de proiecte, producție și distribuire de filme, aprobat prin Ordinul ministrului culturii și cultelor nr. 2.335/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83343",
+   "versions": [
+    {
+     "from": "2007-07-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83343",
+     "sha256": "165fddf8af3a4f718af478f2119556bad9b4d1f69098b42b6b12af016eef3a08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2382-2007",
+   "path": "ordin/cultura/2007/2382",
+   "short": "Ordin cultura nr. 2382/2007",
+   "title": "Ordinul nr. 2.382/2007 pentru aprobarea tarifului de expertizare a bunurilor culturale mobile, practicat de direcțiile județene pentru cultură, culte și patrimoniul cultural național, respectiv a municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84633",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84633",
+     "sha256": "79b1a026b9bf20675a81f41636121a04f0abb1a1bf1c64cf1e1fbd8b7ea27cd7"
     }
    ]
   },
@@ -6603,6 +7653,36 @@
    ]
   },
   {
+   "slug": "ordin-externe-1371-2007",
+   "path": "ordin/externe/2007/1371",
+   "short": "Ordin externe nr. 1371/2007",
+   "title": "Ordinul nr. 1.371/2007 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82804",
+   "versions": [
+    {
+     "from": "2007-06-13",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82804",
+     "sha256": "a9d94e01f202aab727b365fd8a51a788b7bd67473d3a5864c1723759fc8c8d5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1883-2007",
+   "path": "ordin/externe/2007/1883",
+   "short": "Ordin externe nr. 1883/2007",
+   "title": "Ordinul nr. 1.883/2007 privind publicarea textelor unor tratate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85362",
+   "versions": [
+    {
+     "from": "2007-09-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85362",
+     "sha256": "1ef7504e91989a25839d174af2e42622ba1aeca1d24b8efec1e36c36ec8b4297"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-2036-2007",
    "path": "ordin/externe/2007/2036",
    "short": "Ordin externe nr. 2036/2007",
@@ -6614,6 +7694,51 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87359",
      "sha256": "add72ec4c3f0cb66af13810345ba9f8a49ac6b753e1be04338e0e8d79ed721a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2877-2007",
+   "path": "ordin/externe/2007/2877",
+   "short": "Ordin externe nr. 2877/2007",
+   "title": "Ordinul nr. 2.877/2007 privind publicarea textelor unor tratate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90162",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90162",
+     "sha256": "15f999a12de8aaf153784f7878a74de104d9a1210213c9cf998154bbd35bc737"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-629-2007",
+   "path": "ordin/externe/2007/629",
+   "short": "Ordin externe nr. 629/2007",
+   "title": "Ordinul nr. 629/2007 privind publicarea momentului ieșirii din vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82303",
+   "versions": [
+    {
+     "from": "2007-05-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82303",
+     "sha256": "80d247479ac0fa6d320834bdda2d1481bf2ae71c7c8ec8c462376fc32887a324"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-715-2007",
+   "path": "ordin/externe/2007/715",
+   "short": "Ordin externe nr. 715/2007",
+   "title": "Ordinul nr. 715/2007 pentru interpretarea dispozițiilor art. 3 paragraful (3) din Actul privind condițiile de aderare a Republicii Bulgaria și a României și adaptările tratatelor pe care se întemeiază Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80699",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80699",
+     "sha256": "1b0aebb830418e8d24d24c5b7455d64cf32f7216d1ad018ee7afb89349fa8b4c"
     }
    ]
   },

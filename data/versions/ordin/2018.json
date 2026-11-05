@@ -1953,6 +1953,111 @@
    ]
   },
   {
+   "slug": "ordin-anmcs-170-2018",
+   "path": "ordin/anmcs/2018/170",
+   "short": "Ordin anmcs nr. 170/2018",
+   "title": "Ordinul nr. 170/2018 privind aprobarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în data de 19 iulie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203596",
+   "versions": [
+    {
+     "from": "2018-08-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203596",
+     "sha256": "11c07af1c8fb78b077d12b362609c3d7b1828c3802305a39b8ddfcc72dffdd4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-176-2018",
+   "path": "ordin/anmcs/2018/176",
+   "short": "Ordin anmcs nr. 176/2018",
+   "title": "Ordinul nr. 176/2018 pentru aprobarea participării, în calitate de observatori pe lângă comisiile de evaluare în vederea acreditării unităților sanitare cu paturi, a unor reprezentanți ai asociațiilor reprezentative ale pacienților la nivel național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204355",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204355",
+     "sha256": "bf338fdad202ce69cf91a6dff99139d089f2b6db4a5d74b66e9d4d4a9cd592b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-217-2018",
+   "path": "ordin/anmcs/2018/217",
+   "short": "Ordin anmcs nr. 217/2018",
+   "title": "Ordinul nr. 217/2018 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare la data de 3 septembrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204823",
+   "versions": [
+    {
+     "from": "2018-09-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204823",
+     "sha256": "8590caac3202148122f3460dc65bfc5ffce338d97c17925aef5f38ddef06123e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-261-2018",
+   "path": "ordin/anmcs/2018/261",
+   "short": "Ordin anmcs nr. 261/2018",
+   "title": "Ordinul nr. 261/2018 privind aprobarea Etapelor implementării Programului național de asigurare și îmbunătățire a calității serviciilor de sănătate și a siguranței pacientului în cadrul unităților sanitare din ambulatoriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208174",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208174",
+     "sha256": "513304dfe280922cb337f2dd145cf94f2e45eda5b130a619a45a131238cc0786"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-299-2018",
+   "path": "ordin/anmcs/2018/299",
+   "short": "Ordin anmcs nr. 299/2018",
+   "title": "Ordinul nr. 299/2018 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în data de 21 noiembrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208503",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208503",
+     "sha256": "7780e67d3791871d50f20e30931649446357409242bc9ab50a006c8c9d71672e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-47-2018",
+   "path": "ordin/anmcs/2018/47",
+   "short": "Ordin anmcs nr. 47/2018",
+   "title": "Ordinul nr. 47/2018 pentru modificarea și completarea Ordinului președintelui Autorității Naționale de Management al Calității în Sănătate nr. 651/2016 privind recunoașterea, evidența, evaluarea, monitorizarea și perfecționarea evaluatorilor de servicii de sănătate ai Autorității Naționale de Management al Calității în Sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198865",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198865",
+     "sha256": "d03dd9194f63f9d5d2ca46a4b71d3ea65411005b588e0b24aa3e6c3b7fe8283a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-95-2018",
+   "path": "ordin/anmcs/2018/95",
+   "short": "Ordin anmcs nr. 95/2018",
+   "title": "Ordinul nr. 95/2018 privind aprobarea Metodologiei pentru recunoașterea furnizorilor de servicii de formare în domeniul managementului calității serviciilor de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201059",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201059",
+     "sha256": "e1793f04b8319da90f59f51af8d54fcd7868183900ba480333857a1c643d20c6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-206-2018",
    "path": "ordin/anpc/2018/206",
    "short": "Ordin anpc nr. 206/2018",
@@ -3708,6 +3813,141 @@
    ]
   },
   {
+   "slug": "ordin-anrm-117-2018",
+   "path": "ordin/anrm/2018/117",
+   "short": "Ordin anrm nr. 117/2018",
+   "title": "Ordinul nr. 117/2018 pentru modificarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 13/2010 privind aprobarea tarifelor de transport prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201711",
+   "versions": [
+    {
+     "from": "2018-06-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201711",
+     "sha256": "9d4f8f63749d00198701bca4ec59f00b2b5020323a96ecbd762bb4bb438f1ba5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-136-2018",
+   "path": "ordin/anrm/2018/136",
+   "short": "Ordin anrm nr. 136/2018",
+   "title": "Ordinul nr. 136/2018 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare prin concursul public de ofertă - Runda nr. 97/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202780",
+   "versions": [
+    {
+     "from": "2018-07-19",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202780",
+     "sha256": "03c969227b49f9fbb29c41586d786036068e5f4c966a779c2d80b5acf1ff7223"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-139-2018",
+   "path": "ordin/anrm/2018/139",
+   "short": "Ordin anrm nr. 139/2018",
+   "title": "Ordinul nr. 139/2018 privind aprobarea Listei apelor minerale naturale recunoscute în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203565",
+   "versions": [
+    {
+     "from": "2018-08-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203565",
+     "sha256": "be057130d9b10855fa357d527137d2bf9eaad581d8ac3065fc98a06b544ef224"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-202-2018",
+   "path": "ordin/anrm/2018/202",
+   "short": "Ordin anrm nr. 202/2018",
+   "title": "Ordinul nr. 202/2018 privind aprobarea unor licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206720",
+   "versions": [
+    {
+     "from": "2018-11-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206720",
+     "sha256": "80850c53bcdf9e920a0d9ced6c36f3f8c03110a33f2f031ed79456a3491d094a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-208-2018",
+   "path": "ordin/anrm/2018/208",
+   "short": "Ordin anrm nr. 208/2018",
+   "title": "Ordinul nr. 208/2018 privind aprobarea Contractului-cadru pentru transportul țițeiului, gazolinei, condensatului și etanului pentru anul 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208603",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208603",
+     "sha256": "fc9a7a747570178b7379c39575b7b08173af02fb1214e595922489c1e7d959f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-209-2018",
+   "path": "ordin/anrm/2018/209",
+   "short": "Ordin anrm nr. 209/2018",
+   "title": "Ordinul nr. 209/2018 privind aprobarea Contractului-cadru de derulare a țițeiului și produselor petroliere prin terminalul petrolier pentru anul 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208739",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208739",
+     "sha256": "5a63855b17c0eef90707ac2f228e24a5a21a30491484a36f532110526f2d5559"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-241-2018",
+   "path": "ordin/anrm/2018/241",
+   "short": "Ordin anrm nr. 241/2018",
+   "title": "Ordinul nr. 241/2018 privind aprobarea unor licențe de concesionare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208967",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208967",
+     "sha256": "bb574ffdd4df63ff4354f189a258afab2d079a760e0c149bc174974ac9ba4940"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-32-2018",
+   "path": "ordin/anrm/2018/32",
+   "short": "Ordin anrm nr. 32/2018",
+   "title": "Ordinul nr. 32/2018 privind aprobarea Metodologiei de stabilire a prețului de referință pentru gazele naturale extrase în Romania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197617",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197617",
+     "sha256": "2037e606aabd3b813f514fa33b2e9489780697e96560adac4646f3e8199f1bc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-71-2018",
+   "path": "ordin/anrm/2018/71",
+   "short": "Ordin anrm nr. 71/2018",
+   "title": "Ordinul nr. 71/2018 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare prin concursul public de ofertă - Runda nr. 96/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199513",
+   "versions": [
+    {
+     "from": "2018-04-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199513",
+     "sha256": "e2c0084705321b6e17c1ea51b0309146ce0046aaa63fd9c9b3ad33615cdc2504"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-106-2018",
    "path": "ordin/ansvsa/2018/106",
    "short": "Ordin ansvsa nr. 106/2018",
@@ -4053,6 +4293,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-105-2018",
+   "path": "ordin/aparare/2018/105",
+   "short": "Ordin aparare nr. 105/2018",
+   "title": "Ordinul nr. 105/2018 pentru modificarea art. 5 alin. (2) din Normele privind organizarea și desfășurarea concursului/examenului în vederea ocupării de către personalul Ministerului Apărării Naționale a posturilor permanente din structurile de reprezentare națională în străinătate, precum și a celor din structurile internaționale la care România este parte, aprobate prin Ordinul ministrului apărării naționale nr. M.59/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202148",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202148",
+     "sha256": "c659aaa35062168572b36a051c803914f2dd091c7318b68e7927008f2569ebab"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-107-2018",
    "path": "ordin/aparare/2018/107",
    "short": "Ordin aparare nr. 107/2018",
@@ -4068,6 +4323,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-12-2018",
+   "path": "ordin/aparare/2018/12",
+   "short": "Ordin aparare nr. 12/2018",
+   "title": "Ordinul nr. 12/2018 pentru modificarea Instrucțiunilor privind transferul studenților înmatriculați în cadrul programelor de studii universitare de licență în instituțiile de învățământ superior militar, aprobate prin Ordinul ministrului apărării naționale nr. M.144/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197140",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197140",
+     "sha256": "44cebea56c4c5707b29a3b7890d9cf47dc5048d866e39414db08e6d726e40e52"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-120-2018",
    "path": "ordin/aparare/2018/120",
    "short": "Ordin aparare nr. 120/2018",
@@ -4079,6 +4349,66 @@
      "units": 150,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205423",
      "sha256": "9ef8df2ab7b19c3352ab7cb05e09645a4ae4645eb1c7375869407788409b55f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-122-2018",
+   "path": "ordin/aparare/2018/122",
+   "short": "Ordin aparare nr. 122/2018",
+   "title": "Ordinul nr. 122/2018 pentru modificarea anexei nr. 1 la Ghidul de clasificare a informațiilor în Ministerul Apărării Naționale, aprobat prin Ordinul ministrului apărării naționale nr. M.16/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203746",
+   "versions": [
+    {
+     "from": "2018-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203746",
+     "sha256": "b0f1aa7baf70ff9823836eb1a0c714157f22c9229a2917f4061865ca71b46001"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-126-2018",
+   "path": "ordin/aparare/2018/126",
+   "short": "Ordin aparare nr. 126/2018",
+   "title": "Ordinul nr. 126/2018 pentru modificarea și completarea Ordinului ministrului apărării naționale nr. M.129/2009 privind conducerea unităților sanitare cu paturi din rețeaua sanitară a Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203942",
+   "versions": [
+    {
+     "from": "2018-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203942",
+     "sha256": "ae9808e0f19b292542690b95038ddac5efde2e336cc80d8db4c091b9e68868c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-13-2018",
+   "path": "ordin/aparare/2018/13",
+   "short": "Ordin aparare nr. 13/2018",
+   "title": "Ordinul nr. 13/2018 privind suspendarea aplicării prevederilor art. 2 alin. (2) din Ordinul ministrului apărării naționale nr. M.70/2016 pentru aprobarea Condițiilor și a Metodologiei privind chemarea/rechemarea în activitate, în corpul ofițerilor, în vederea ocupării posturilor de medic, medic dentist, farmacist, biolog, biochimist și chimist, în unitățile și structurile sanitare din rețeaua Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197141",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197141",
+     "sha256": "2f64b62175a56593c59a01daeaac63012a38e55868cdd738c0ca848302fa0593"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-14-2018",
+   "path": "ordin/aparare/2018/14",
+   "short": "Ordin aparare nr. 14/2018",
+   "title": "Ordinul nr. 14/2018 pentru modificarea și completarea Ordinului ministrului apărării naționale nr. M.102/2012 privind sistemul de distincții militare din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197609",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197609",
+     "sha256": "8204c757a6d4056fcb59763c4e95c751881f0895372716181f2d8ada2263983f"
     }
    ]
   },
@@ -4158,6 +4488,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-169-2018",
+   "path": "ordin/aparare/2018/169",
+   "short": "Ordin aparare nr. 169/2018",
+   "title": "Ordinul nr. 169/2018 pentru modificarea art. 1 alin. (2) din Normele de restituire de către cadrele militare din Ministerul Apărării Naționale a cheltuielilor de întreținere și de instruire pe timpul școlarizării, aprobate prin Ordinul ministrului apărării naționale nr. M.111/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205446",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205446",
+     "sha256": "9e7989d5e54fca6931cbfdddbd25329589da4a49fdb8e83da0ed4e23cd88884c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-175-2018",
    "path": "ordin/aparare/2018/175",
    "short": "Ordin aparare nr. 175/2018",
@@ -4169,6 +4514,66 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205915",
      "sha256": "6c0579bca17be2f366b125204da91ac90f3107c89359e2aacd5d116efafdf956"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-176-2018",
+   "path": "ordin/aparare/2018/176",
+   "short": "Ordin aparare nr. 176/2018",
+   "title": "Ordinul nr. 176/2018 pentru modificarea și completarea Normelor privind închirierea unor imobile sau părți din acestea, disponibile, aflate în administrarea Ministerului Apărării Naționale și în proprietatea publică a statului, aprobate prin Ordinul ministrului apărării naționale nr. M.109/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206067",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206067",
+     "sha256": "91676d7fbce89df4d5308537b42fbf548d753053bbb4401b7384fe705a529e3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-177-2018",
+   "path": "ordin/aparare/2018/177",
+   "short": "Ordin aparare nr. 177/2018",
+   "title": "Ordinul nr. 177/2018 pentru modificarea art. 32 alin. (4) lit. a) din Ordinul ministrului apărării naționale nr. M.102/2012 privind sistemul de distincții militare din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205917",
+   "versions": [
+    {
+     "from": "2018-10-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205917",
+     "sha256": "68ee9210acd5916fabd5f0f708cc44aca0d6f7ff0a14c0e52a54ce5ca78698ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-19-2018",
+   "path": "ordin/aparare/2018/19",
+   "short": "Ordin aparare nr. 19/2018",
+   "title": "Ordinul nr. 19/2018 pentru modificarea și completarea Normelor metodologice specifice privind organizarea și exercitarea controlului financiar preventiv propriu în Ministerul Apărării Naționale, aprobate prin Ordinul ministrului apărării naționale nr. M.120/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198488",
+   "versions": [
+    {
+     "from": "2018-03-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198488",
+     "sha256": "8cb5e281689105f720dabf48beb97f6ac54acc68109d517da48ec76fbde7ef02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-192-2018",
+   "path": "ordin/aparare/2018/192",
+   "short": "Ordin aparare nr. 192/2018",
+   "title": "Ordinul nr. 192/2018 pentru modificarea și completarea Ordinului ministrului apărării naționale nr. M.102/2012 privind sistemul de distincții militare din Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206734",
+   "versions": [
+    {
+     "from": "2018-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206734",
+     "sha256": "b37195604e93475652ebd2ceab648388fee675b508dca0f88b9b5a6f2acb968b"
     }
    ]
   },
@@ -4263,6 +4668,66 @@
    ]
   },
   {
+   "slug": "ordin-aparare-219-2018",
+   "path": "ordin/aparare/2018/219",
+   "short": "Ordin aparare nr. 219/2018",
+   "title": "Ordinul nr. 219/2018 pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului apărării nr. M. 31/2008 privind competențele de achiziție a produselor, serviciilor și lucrărilor în cadrul Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208972",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208972",
+     "sha256": "c858a97a97d2f43c475da32ba3cea88f21385cd825478c54bc8be6622927c47c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-225-2018",
+   "path": "ordin/aparare/2018/225",
+   "short": "Ordin aparare nr. 225/2018",
+   "title": "Ordinul nr. 225/2018 pentru modificarea și completarea prevederilor unor acte normative specifice de reglementare a domeniului managementului resurselor umane, precum și pentru instituirea unor reguli temporare de evoluție în cariera militară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209349",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209349",
+     "sha256": "3b31a33a0c5cd5fde041cf4ab76b331ed1b82224bc95488cafa8b375e5f67a24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-228-2018",
+   "path": "ordin/aparare/2018/228",
+   "short": "Ordin aparare nr. 228/2018",
+   "title": "Ordinul nr. 228/2018 pentru modificarea Regulamentului de organizare și funcționare a Comisiei de jurisdicție a imputațiilor din Ministerul Apărării Naționale, aprobat prin Ordinul ministrului apărării naționale nr. M.27/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209447",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209447",
+     "sha256": "6962b494cf289597a2ca5c7b786e43ef66739a3a060110d0a5168864ceccee9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-235-2018",
+   "path": "ordin/aparare/2018/235",
+   "short": "Ordin aparare nr. 235/2018",
+   "title": "Ordinul nr. 235/2018 pentru modificarea Ordinului ministrului apărării naționale nr. M.129/2016 privind stabilirea datelor publice obținute din activitatea hidrografică maritimă care se pun la dispoziția utilizatorilor, a activităților hidrografice, cartografice și de publicare ce se pot desfășura contra cost, precum și a tarifelor aferente acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210052",
+   "versions": [
+    {
+     "from": "2019-01-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210052",
+     "sha256": "1630bb1befd61d4035b822af7f603e29081dde92707048b9654822833e356a7e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-29-2018",
    "path": "ordin/aparare/2018/29",
    "short": "Ordin aparare nr. 29/2018",
@@ -4308,6 +4773,51 @@
    ]
   },
   {
+   "slug": "ordin-aparare-41-2018",
+   "path": "ordin/aparare/2018/41",
+   "short": "Ordin aparare nr. 41/2018",
+   "title": "Ordinul nr. 41/2018 pentru modificarea și completarea Instrucțiunilor privind recrutarea, selecția, formarea profesională și evoluția în cariera militară în Armata României, aprobate prin Ordinul ministrului apărării naționale nr. M.30/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198793",
+   "versions": [
+    {
+     "from": "2018-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198793",
+     "sha256": "02803b1a447efb22391fe6770d481ecaf9970a4eca768bcb5f4bc5ea64ccbf59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-48-2018",
+   "path": "ordin/aparare/2018/48",
+   "short": "Ordin aparare nr. 48/2018",
+   "title": "Ordinul nr. 48/2018 pentru modificarea, completarea, abrogarea și suspendarea prevederilor unor acte normative specifice de reglementare a domeniului managementului resurselor umane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199533",
+   "versions": [
+    {
+     "from": "2018-04-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199533",
+     "sha256": "ec5b4eb487a8c040331564958924b54db05bef01bb73ed6b37437b9307f41b3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-8-2018",
+   "path": "ordin/aparare/2018/8",
+   "short": "Ordin aparare nr. 8/2018",
+   "title": "Ordinul nr. 8/2018 pentru modificarea și completarea Instrucțiunilor privind recrutarea, selecția, formarea profesională și evoluția în cariera militară în Armata României, aprobate prin Ordinul ministrului apărării naționale nr. M.30/2012, precum și pentru instituirea unor reguli temporare de evoluție în cariera militară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196826",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196826",
+     "sha256": "ba04ab32b422d79d4cca2e4d55089428358f8b7bc1e7d1e5762cb40203d55e88"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-94-2018",
    "path": "ordin/aparare/2018/94",
    "short": "Ordin aparare nr. 94/2018",
@@ -4319,6 +4829,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201716",
      "sha256": "68416024efbffcf323cfeff7c98e26cd9042f1374424615a9be60f0522304067"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-99-2018",
+   "path": "ordin/aparare/2018/99",
+   "short": "Ordin aparare nr. 99/2018",
+   "title": "Ordinul nr. 99/2018 pentru modificarea și completarea Normelor metodologice privind acordarea exceptărilor prevăzute la art. 2 alin. (3) din Regulamentul (CE) nr. 1.907/2006 al Parlamentului European și al Consiliului din 18 decembrie 2006 privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH), de înființare a Agenției Europene pentru Produse Chimice, de modificare a Directivei 1999/45/CE și de abrogare a Regulamentului (CEE) nr. 793/93 al Consiliului și a Regulamentului (CE) nr. 1.488/94 al Comisiei, precum și a Directivei 76/769/CEE a Consiliului și a Directivelor 91/155/CEE, 93/67/CEE, 93/105/CE și 2000/21/CE ale Comisiei, aprobate prin Ordinul ministrului apărării naționale nr. M.108/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201743",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201743",
+     "sha256": "963063c4c25079632ae7337a0ccb1b7bb82318e2868d540fd9421a8fc06add09"
     }
    ]
   },
@@ -5148,6 +5673,51 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-1006-2018",
+   "path": "ordin/comunicatii/2018/1006",
+   "short": "Ordin comunicatii nr. 1006/2018",
+   "title": "Ordinul nr. 1.006/2018 pentru aprobarea Normelor metodologice privind procedura de avizare a acordului de primire pentru cercetătorii din țări terțe în scopul desfășurării în România de activități de cercetare-dezvoltare-inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209921",
+   "versions": [
+    {
+     "from": "2019-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209921",
+     "sha256": "b998c56dbcaabb0a56d470aabe586eac686327c6acbb3e0bee68baaa54e3e897"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-286-2018",
+   "path": "ordin/comunicatii/2018/286",
+   "short": "Ordin comunicatii nr. 286/2018",
+   "title": "Ordinul nr. 286/2018 pentru modificarea anexei nr. 1 la Instrucțiunile privind angajarea gestionarilor, constituirea de garanții și răspunderea în legătură cu gestionarea bunurilor Companiei Naționale \"Poșta Română\" - S.A., aprobate prin Ordinul ministrului comunicațiilor și tehnologiei informației nr. 235/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198772",
+   "versions": [
+    {
+     "from": "2018-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198772",
+     "sha256": "31ed50c8a06d004fdc82ebdd350d3292d841e74106cf38261b849626c67fc149"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-677-2018",
+   "path": "ordin/comunicatii/2018/677",
+   "short": "Ordin comunicatii nr. 677/2018",
+   "title": "Ordinul nr. 677/2018 privind aprobarea Criteriilor de selectare a instalațiilor și obiectivelor speciale de interes național utilizate pentru activitatea de cercetare-dezvoltare și inovare, precum și a normelor de aplicare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204309",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204309",
+     "sha256": "06eec656005c77a1b43b670da2da4d85e018b3f5e0cd2f171ebf4da1d006c658"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-1208-2018",
    "path": "ordin/concurenta/2018/1208",
    "short": "Ordin concurenta nr. 1208/2018",
@@ -5264,6 +5834,141 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201334",
      "sha256": "a3ca40b040f5e2325ac645fe13d49d51fea665b2ecb7f20080248d3886016ffb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2025-2018",
+   "path": "ordin/cultura/2018/2025",
+   "short": "Ordin cultura nr. 2025/2018",
+   "title": "Ordinul nr. 2.025/2018 privind aprobarea Regulamentului de organizare și funcționare al Institutului Național al Patrimoniului și a organigramei acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197519",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197519",
+     "sha256": "f330a17cbe8e1191a83bd4d03e6c44cb4c32389b49c85224a8ab27adfd3f905d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2232-2018",
+   "path": "ordin/cultura/2018/2232",
+   "short": "Ordin cultura nr. 2232/2018",
+   "title": "Ordinul nr. 2.232/2018 pentru aprobarea Ghidului de identitate vizuală a Centenarului României (1918-2018) și al Primului Război Mondial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199850",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199850",
+     "sha256": "921ab18747f0a2cdbae4ef8c33df9a1ac0aca0f01f9aec07673db37099f00b7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2313-2018",
+   "path": "ordin/cultura/2018/2313",
+   "short": "Ordin cultura nr. 2313/2018",
+   "title": "Ordinul nr. 2.313/2018 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului angajat în instituțiile publice, aflate în subordinea Ministerului Culturii și Identității Naționale, devenite executorii în perioada 1 ianuarie-31 decembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200628",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200628",
+     "sha256": "8e90999f465128b06d0bd4b0bd0337437d19de077b1757b846bb0afe9d900a98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2319-2018",
+   "path": "ordin/cultura/2018/2319",
+   "short": "Ordin cultura nr. 2319/2018",
+   "title": "Ordinul nr. 2.319/2018 pentru aprobarea Ghidului privind procedura de selecție a manifestărilor, acțiunilor și proiectelor de aniversare a Centenarului României (1918-2018) și a Primului Război Mondial, formulate și asumate de entități persoane juridice de drept privat fără scop patrimonial, organizarea și funcționarea comisiilor, precum și procedura de soluționare a contestațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200319",
+   "versions": [
+    {
+     "from": "2018-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200319",
+     "sha256": "d8bcf38a1e2641a3638983ec593ba099bff8c61b919f371039a89e63a6934608"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2604-2018",
+   "path": "ordin/cultura/2018/2604",
+   "short": "Ordin cultura nr. 2604/2018",
+   "title": "Ordinul nr. 2.604/2018 pentru modificarea art. 27 alin. (1) și (2) din Ghidul privind procedura de selecție a manifestărilor, acțiunilor și proiectelor de aniversare a Centenarului României (1918-2018) și a Primului Război Mondial, formulate și asumate de entități persoane juridice de drept privat fără scop patrimonial, organizarea și funcționarea comisiilor, precum și procedura de soluționare a contestațiilor, aprobat prin Ordinul ministrului culturii și identității naționale nr. 2.319/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203541",
+   "versions": [
+    {
+     "from": "2018-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203541",
+     "sha256": "778df692bb6ba28c71c53920b7b2f2d2d43c773d80a7f33126417c036e6dfd49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2630-2018",
+   "path": "ordin/cultura/2018/2630",
+   "short": "Ordin cultura nr. 2630/2018",
+   "title": "Ordinul nr. 2.630/2018 privind completarea Normelor metodologice de clasare și inventariere a monumentelor istorice, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.260/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204497",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204497",
+     "sha256": "70d3162ef399b2b5578de4d81eee87425e8b140ae517c5d453db794f63560826"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2889-2018",
+   "path": "ordin/cultura/2018/2889",
+   "short": "Ordin cultura nr. 2889/2018",
+   "title": "Ordinul nr. 2.889/2018 de aprobare a Regulamentului privind procedurile de preselecție națională pentru acordarea Mărcii patrimoniului european și de monitorizare a siturilor preselectate pentru Marca patrimoniului european",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208563",
+   "versions": [
+    {
+     "from": "2018-12-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208563",
+     "sha256": "e99393794d52c83b3b05a801bb1307e25427b896809511d91cd2be95d07101ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2941-2018",
+   "path": "ordin/cultura/2018/2941",
+   "short": "Ordin cultura nr. 2941/2018",
+   "title": "Ordinul nr. 2.941/2018 pentru modificarea și completarea Ordinului ministrului culturii și identității naționale nr. 2.313/2018 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului angajat în instituțiile publice, aflate în subordinea Ministerului Culturii și Identității Naționale, devenite executorii în perioada 1 ianuarie-31 decembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208947",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208947",
+     "sha256": "c274f3b8da8bb9c5240dea7cb2f10d4f364da01951336a43623a95f134530598"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-4003-2018",
+   "path": "ordin/cultura/2018/4003",
+   "short": "Ordin cultura nr. 4003/2018",
+   "title": "Ordinul nr. 4.003/2018 pentru modificarea și completarea Regulamentului de organizare și funcționare a Comisiei Naționale a Monumentelor Istorice, aprobat prin Ordinul ministrului culturii nr. 2.173/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209906",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209906",
+     "sha256": "6f0211d84ebcec211404ba42df9db146f77946320d072a8fe60066e97f96948c"
     }
    ]
   },
@@ -7263,6 +7968,126 @@
    ]
   },
   {
+   "slug": "ordin-externe-1298-2018",
+   "path": "ordin/externe/2018/1298",
+   "short": "Ordin externe nr. 1298/2018",
+   "title": "Ordinul nr. 1.298/2018 pentru aprobarea Procedurii de eliberare a permiselor de mic trafic de frontieră, precum și de păstrare și prelucrare a datelor colectate în cursul eliberării permiselor de mic trafic de frontieră pentru străinii rezidenți în zona de frontieră a Ucrainei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203736",
+   "versions": [
+    {
+     "from": "2018-08-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203736",
+     "sha256": "243860e39c4335d49fa6ef2ebec7a66d6ed98f38393c0854ff40280a00d02914"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1498-2018",
+   "path": "ordin/externe/2018/1498",
+   "short": "Ordin externe nr. 1498/2018",
+   "title": "Ordinul nr. 1.498/2018 privind ieșirea din vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204242",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204242",
+     "sha256": "764700048d3b472867aacb5b674fd759bb8fa57dab22156e8f66ddb156501ab6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-156-2018",
+   "path": "ordin/externe/2018/156",
+   "short": "Ordin externe nr. 156/2018",
+   "title": "Ordinul nr. 156/2018 pentru aprobarea Listei cuprinzând produsele militare supuse regimului de control al exporturilor, importurilor și altor operațiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197207",
+   "versions": [
+    {
+     "from": "2018-03-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197207",
+     "sha256": "8d6fa06a157152a0fa1e5c993a97ef103c43ca430bb6f910b38e5d1ecf559dbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2643-2018",
+   "path": "ordin/externe/2018/2643",
+   "short": "Ordin externe nr. 2643/2018",
+   "title": "Ordinul nr. 2.643/2018 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209999",
+   "versions": [
+    {
+     "from": "2019-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209999",
+     "sha256": "b416a95b54b2c87aa44f8c03e05d8477aa411055dab566226cf59e3060509abc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-557-2018",
+   "path": "ordin/externe/2018/557",
+   "short": "Ordin externe nr. 557/2018",
+   "title": "Ordinul nr. 557/2018 pentru aprobarea Regulamentului-cadru privind organizarea și desfășurarea concursurilor pentru ocuparea posturilor vacante prevăzute pentru funcții de execuție specifice în Ministerul Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199462",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199462",
+     "sha256": "051649fccb14c858586b612509a72313b47a00547ca078fbb64da8b16bf09035"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-651-2018",
+   "path": "ordin/externe/2018/651",
+   "short": "Ordin externe nr. 651/2018",
+   "title": "Ordinul nr. 651/2018 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200920",
+   "versions": [
+    {
+     "from": "2018-05-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200920",
+     "sha256": "a38ecf689ffe3551668e8278c02ee32bc035a6f4632b09cf8b360dacfcced614"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-652-2018",
+   "path": "ordin/externe/2018/652",
+   "short": "Ordin externe nr. 652/2018",
+   "title": "Ordinul nr. 652/2018 privind cooperarea cu prestatorii externi de servicii în materie de solicitare a vizelor de intrare în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200702",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200702",
+     "sha256": "5a6b2c2ff1094d64404a62fe10ae0ff15ca82e806f56db0c0b2fde1b05c67bd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-725-2018",
+   "path": "ordin/externe/2018/725",
+   "short": "Ordin externe nr. 725/2018",
+   "title": "Ordinul nr. 725/2018 cu privire la publicarea unor amendamente la Convenția privind poluanții persistenți, adoptată la Stockholm la 22 mai 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200913",
+   "versions": [
+    {
+     "from": "2018-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200913",
+     "sha256": "800c054f051716173f37899085ff8daa3c6df1cd0d74b1d9e2b26d7ef6bc3f81"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1105-2018",
    "path": "ordin/finante/2018/1105",
    "short": "Ordin finante nr. 1105/2018",
@@ -8193,6 +9018,66 @@
    ]
   },
   {
+   "slug": "ordin-fonduri-1425-2018",
+   "path": "ordin/fonduri/2018/1425",
+   "short": "Ordin fonduri nr. 1425/2018",
+   "title": "Ordinul nr. 1.425/2018 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului din cadrul aparatului propriu al Ministerului Fondurilor Europene, devenite executorii în perioada 1 ianuarie-31 decembrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208616",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208616",
+     "sha256": "4431839115fcc924b8156129a57eab4dc7bd34011ac570163d996401e085d866"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1540-2018",
+   "path": "ordin/fonduri/2018/1540",
+   "short": "Ordin fonduri nr. 1540/2018",
+   "title": "Ordinul nr. 1.540/2018 privind modificarea Schemei de ajutor de minimis pentru sprijinirea dezvoltării de produse și servicii TIC inovative create de IMM-uri, în cadrul axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\", din Programul operațional competitivitate 2014-2020, aprobată prin Ordinul ministrului fondurilor europene și al ministrului comunicațiilor și societății informaționale nr. 951/780/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209715",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209715",
+     "sha256": "fed43cabfe8aa4b55e88f0b754329ec228f66a38a179b7cc61340f9ea5e32d84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-418-2018",
+   "path": "ordin/fonduri/2018/418",
+   "short": "Ordin fonduri nr. 418/2018",
+   "title": "Ordinul nr. 418/2018 privind procedura de avizare a structurilor și personalului care gestionează asistența financiară nerambursabilă europeană, prevăzute la art. 7 alin. (7) și art. 9 alin. (1) din Hotărârea Guvernului nr. 29/2018 pentru stabilirea criteriilor pe baza cărora se aplică majorarea prevăzută la art. 17 alin. (1) și (2) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201048",
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201048",
+     "sha256": "4d4348ed33683f9f767eda443c9085b4b2694a3e8e104d5e34f8cb124bfb5ae1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-525-2018",
+   "path": "ordin/fonduri/2018/525",
+   "short": "Ordin fonduri nr. 525/2018",
+   "title": "Ordinul nr. 525/2018 privind modificarea Schemei de ajutor de stat pentru organizarea și derularea de programe de formare a adulților, având ca obiectiv \"Creșterea numărului de angajați care beneficiază de instrumente, metode, practici, standard de management al resurselor umane și de condiții de lucru îmbunătățite în vederea adaptării activității la dinamica sectoarelor economice cu potențial competitiv identificate conform Strategiei naționale de competitivitate/domeniilor de specializare inteligentă conform Strategiei naționale de cercetare, dezvoltare și inovare 2014-2020\", aferentă Programului operațional Capital uman 2014-2020, axa prioritară 3 \"Locuri de muncă pentru toți\", obiectivul specific 3.8, aprobată prin Ordinul ministrului delegat pentru fonduri europene nr. 5.795/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201498",
+   "versions": [
+    {
+     "from": "2018-06-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201498",
+     "sha256": "280a3b957d1c617f57e42ac394b44aa2f332200223b555a626d4c85539eb9c0f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-fonduri-558-2018",
    "path": "ordin/fonduri/2018/558",
    "short": "Ordin fonduri nr. 558/2018",
@@ -8204,6 +9089,66 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202255",
      "sha256": "6772246756ff704c4f870e64760f37be4034531dc027d052136b3fd503e8478c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-568-2018",
+   "path": "ordin/fonduri/2018/568",
+   "short": "Ordin fonduri nr. 568/2018",
+   "title": "Ordinul nr. 568/2018 privind aprobarea Schemei de ajutor de stat pentru îmbunătățirea infrastructurii în bandă largă (NGA) și a accesului la internet în cadrul Programului operațional Competitivitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202102",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202102",
+     "sha256": "531e741d168e9354020b23132374bf1399447a5fb9df58a1bda8d852b3e4c28e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-775-2018",
+   "path": "ordin/fonduri/2018/775",
+   "short": "Ordin fonduri nr. 775/2018",
+   "title": "Ordinul nr. 775/2018 privind modificarea anexei nr. 5 \"Grile de verificare și evaluare\" la Schema de ajutor de stat pentru îmbunătățirea infrastructurii în bandă largă (NGA) și a accesului la internet în cadrul Programului operațional Competitivitate, aprobată prin Ordinul ministrului fondurilor europene și al ministrului comunicațiilor și societății informaționale nr. 568/3.090/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203968",
+   "versions": [
+    {
+     "from": "2018-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203968",
+     "sha256": "572de49a995e272406198574526f168beca77d8f7ac605315a5417032d17e289"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-951-2018",
+   "path": "ordin/fonduri/2018/951",
+   "short": "Ordin fonduri nr. 951/2018",
+   "title": "Ordinul nr. 951/2018 privind aprobarea Schemei de ajutor de minimis pentru sprijinirea dezvoltării de produse și servicii TIC inovative create de IMM-uri, în cadrul axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\", din Programul operațional competitivitate 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205981",
+   "versions": [
+    {
+     "from": "2018-10-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205981",
+     "sha256": "7cc9adc2fafd40f993b2af57a11a0faf3a5ee001edd16396bb42de5d6e9ed796"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-952-2018",
+   "path": "ordin/fonduri/2018/952",
+   "short": "Ordin fonduri nr. 952/2018",
+   "title": "Ordinul nr. 952/2018 privind aprobarea Schemei de ajutor de stat pentru sprijinirea dezvoltării de produse și servicii TIC inovative create de IMM-uri, în cadrul axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\", din Programul operațional Competitivitate 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205878",
+   "versions": [
+    {
+     "from": "2018-10-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205878",
+     "sha256": "6839c6cf8e47409fd6166a25f99600f5f3bedd7de61b5dd583db81f2772a1e59"
     }
    ]
   },

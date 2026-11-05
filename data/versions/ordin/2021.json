@@ -3,6 +3,21 @@
  "shard": "ordin/2021",
  "acts": [
   {
+   "slug": "ordin-aaas-198-2021",
+   "path": "ordin/aaas/2021/198",
+   "short": "Ordin aaas nr. 198/2021",
+   "title": "Ordinul nr. 198/2021 pentru aprobarea Procedurii de anulare a obligațiilor de plată accesorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246789",
+   "versions": [
+    {
+     "from": "2021-10-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246789",
+     "sha256": "71b9a95e129fdd98d89094aa0341c126e677d98c291b1576bee0a02b54f15f27"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-101-2021",
    "path": "ordin/agricultura/2021/101",
    "short": "Ordin agricultura nr. 101/2021",
@@ -1833,6 +1848,231 @@
    ]
   },
   {
+   "slug": "ordin-anmcs-132-2021",
+   "path": "ordin/anmcs/2021/132",
+   "short": "Ordin anmcs nr. 132/2021",
+   "title": "Ordinul nr. 132/2021 pentru modificarea Ordinului președintelui Autorității Naționale de Management al Calității în Sănătate nr. 433/2020 privind inițierea monitorizării tematice a unităților sanitare cu paturi înscrise sau acreditate în cel de-al II-lea ciclu de acreditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242931",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242931",
+     "sha256": "4a8690a1947b521e70700ae69df7e0c6a77eefef657cf9ec77c11c30bdf6b1cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-152-2021",
+   "path": "ordin/anmcs/2021/152",
+   "short": "Ordin anmcs nr. 152/2021",
+   "title": "Ordinul nr. 152/2021 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în luna iunie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243851",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243851",
+     "sha256": "4af3b44ac6b48123c0e2d7e6a04def9eeea823d818b6ea26073345242342ccfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-190-2021",
+   "path": "ordin/anmcs/2021/190",
+   "short": "Ordin anmcs nr. 190/2021",
+   "title": "Ordinul nr. 190/2021 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în luna iulie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244939",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244939",
+     "sha256": "4ccfe333b8d7c6248c0f5579777455a789b078104705c08b6dec469d45943dff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-234-2021",
+   "path": "ordin/anmcs/2021/234",
+   "short": "Ordin anmcs nr. 234/2021",
+   "title": "Ordinul nr. 234/2021 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în luna august 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245329",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245329",
+     "sha256": "3c434be03cbd47a5da7edcb2f4ffba26357301133cba68a80d44e5fa5a1b54bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-259-2021",
+   "path": "ordin/anmcs/2021/259",
+   "short": "Ordin anmcs nr. 259/2021",
+   "title": "Ordinul nr. 259/2021 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în luna septembrie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246424",
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246424",
+     "sha256": "48f8348bf0c3624cf09ae6de0b541a8f71bd4dfd284f441d059d4eab85b100a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-26-2021",
+   "path": "ordin/anmcs/2021/26",
+   "short": "Ordin anmcs nr. 26/2021",
+   "title": "Ordinul nr. 26/2021 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în data de 3 februarie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237294",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237294",
+     "sha256": "6271009f0b2e4a88afc359add53442055268dbf5b4b0b4b240d985cd796d2d10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-302-2021",
+   "path": "ordin/anmcs/2021/302",
+   "short": "Ordin anmcs nr. 302/2021",
+   "title": "Ordinul nr. 302/2021 privind reluarea monitorizării tematice a unităților sanitare cu paturi înscrise sau acreditate în ciclul al II-lea de acreditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247705",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247705",
+     "sha256": "08a1088c532e081ec5efcea1401f6e7d576b8f7816fabdbc6358129ba522d529"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-316-2021",
+   "path": "ordin/anmcs/2021/316",
+   "short": "Ordin anmcs nr. 316/2021",
+   "title": "Ordinul nr. 316/2021 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în luna octombrie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247732",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247732",
+     "sha256": "d93b32ec3061a60c4ebb72fa4307dda4bdb16b8c809e15724bea485eb545d9a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-321-2021",
+   "path": "ordin/anmcs/2021/321",
+   "short": "Ordin anmcs nr. 321/2021",
+   "title": "Ordinul nr. 321/2021 pentru modificarea Statutului Consiliului Național al Siguranței Pacientului, aprobat prin Ordinul președintelui Autorității Naționale de Management al Calității în Sănătate nr. 35/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247871",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247871",
+     "sha256": "38b8987def7486441a46bf2eb11aabcd36fc013696c5405bb6409e1742ae2712"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-344-2021",
+   "path": "ordin/anmcs/2021/344",
+   "short": "Ordin anmcs nr. 344/2021",
+   "title": "Ordinul nr. 344/2021 pentru completarea anexei la Ordinul președintelui Autorității Naționale de Management al Calității în Sănătate nr. 316/2021 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în luna octombrie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248383",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248383",
+     "sha256": "fe2c6a6a150f9bd0fe47708240b1bda6ddfda5114576746b1a8f98cd32939e78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-38-2021",
+   "path": "ordin/anmcs/2021/38",
+   "short": "Ordin anmcs nr. 38/2021",
+   "title": "Ordinul nr. 38/2021 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în data de 15 februarie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238087",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238087",
+     "sha256": "d46532f921af1a17be84dd3a3bc2ed1e302fdc92350a76ef8730a878b4ee835a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-383-2021",
+   "path": "ordin/anmcs/2021/383",
+   "short": "Ordin anmcs nr. 383/2021",
+   "title": "Ordinul nr. 383/2021 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în luna decembrie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249934",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249934",
+     "sha256": "12c035891679b2c4388091d83b8d94b2c2a87e6ca4dee8717d86e6d8ec6412e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-58-2021",
+   "path": "ordin/anmcs/2021/58",
+   "short": "Ordin anmcs nr. 58/2021",
+   "title": "Ordinul nr. 58/2021 privind aprobarea bibliografiei și a tematicii minimale pentru ocuparea prin concurs a posturilor din cadrul structurii de management al calității serviciilor de sănătate din unitățile sanitare publice cu paturi și din serviciile de ambulanță publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240297",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240297",
+     "sha256": "ba4ad7abb04125ca5ac9c53b75e2020ca4a76f714a8013531d63715b03d79580"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-59-2021",
+   "path": "ordin/anmcs/2021/59",
+   "short": "Ordin anmcs nr. 59/2021",
+   "title": "Ordinul nr. 59/2021 pentru completarea Ordinului președintelui Autorității Naționale de Management al Calității în Sănătate nr. 32/2020 privind aprobarea modalității de plată de către unitățile sanitare a taxei de acreditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239870",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239870",
+     "sha256": "e5e174ba782d9baa8b3f0dbfe06dd1fe71cddafebe5ea37711cd84c4bfd57e9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-63-2021",
+   "path": "ordin/anmcs/2021/63",
+   "short": "Ordin anmcs nr. 63/2021",
+   "title": "Ordinul nr. 63/2021 pentru modificarea Ordinului președintelui Autorității Naționale de Management al Calității în Sănătate nr. 433/2020 privind inițierea monitorizării tematice a unităților sanitare cu paturi înscrise sau acreditate în cel de-al II-lea ciclu de acreditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240128",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240128",
+     "sha256": "15b8194488f6f5dd5796f8ffb7e2f71109389efe5758a429c348fcd51d01d021"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-163-2021",
    "path": "ordin/anpc/2021/163",
    "short": "Ordin anpc nr. 163/2021",
@@ -3183,6 +3423,321 @@
    ]
   },
   {
+   "slug": "ordin-anrm-111-2021",
+   "path": "ordin/anrm/2021/111",
+   "short": "Ordin anrm nr. 111/2021",
+   "title": "Ordinul nr. 111/2021 privind aprobarea unor licențe de concesionare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242457",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242457",
+     "sha256": "be7c6e5fa6daa252b5d38df31f348ac78f36ce5a66d4017b7297a221098b25bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-119-2021",
+   "path": "ordin/anrm/2021/119",
+   "short": "Ordin anrm nr. 119/2021",
+   "title": "Ordinul nr. 119/2021 privind aprobarea unor licențe de concesionare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243793",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243793",
+     "sha256": "06cb39a8abb4cc0caf8b732795950047367ba15727aabba9b45dda843af669d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-123-2021",
+   "path": "ordin/anrm/2021/123",
+   "short": "Ordin anrm nr. 123/2021",
+   "title": "Ordinul nr. 123/2021 pentru aprobarea licenței de concesionare pentru exploatare acordate în urma concursului public de oferte - Runda 95/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244050",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244050",
+     "sha256": "e6ede387847334ee6dbc815e6c559b25b0d79f532cc9e8a25915e3350d1a0b46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-133-2021",
+   "path": "ordin/anrm/2021/133",
+   "short": "Ordin anrm nr. 133/2021",
+   "title": "Ordinul nr. 133/2021 privind aprobarea unor licențe de concesionare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244324",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244324",
+     "sha256": "c6e919d2f8755aba980c7a4819a19110b87baa9f81d50de7bed1e5f8265237fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-147-2021",
+   "path": "ordin/anrm/2021/147",
+   "short": "Ordin anrm nr. 147/2021",
+   "title": "Ordinul nr. 147/2021 privind aprobarea unor licențe de concesionare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245190",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245190",
+     "sha256": "41e8c0a3b3d8310cee94afd82c0fa7030355a8f7c8ff6039d203d3bd1cc42353"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-148-2021",
+   "path": "ordin/anrm/2021/148",
+   "short": "Ordin anrm nr. 148/2021",
+   "title": "Ordinul nr. 148/2021 privind aprobarea unor licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245191",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245191",
+     "sha256": "8ef8716f9bf7fb281da92ae27335e39545febee95021b408af43c7f38c9f8d68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-164-2021",
+   "path": "ordin/anrm/2021/164",
+   "short": "Ordin anrm nr. 164/2021",
+   "title": "Ordinul nr. 164/2021 privind aprobarea unor licențe de concesionare pentru exploatare și a unei licențe de dare în administrare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245849",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245849",
+     "sha256": "7fe339d48ca50768adb9b87df57c46d2b0aef12ae6cceedfc40fd88268280242"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-175-2021",
+   "path": "ordin/anrm/2021/175",
+   "short": "Ordin anrm nr. 175/2021",
+   "title": "Ordinul nr. 175/2021 privind aprobarea unei licențe de concesionare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246027",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246027",
+     "sha256": "c02d2d8073b26423407f765ee8a97e61e70faf30732015286dd78e32e10c2ea1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-188-2021",
+   "path": "ordin/anrm/2021/188",
+   "short": "Ordin anrm nr. 188/2021",
+   "title": "Ordinul nr. 188/2021 privind aprobarea unor licențe de concesionare pentru exploatare și a unei licențe de dare în administrare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247210",
+   "versions": [
+    {
+     "from": "2021-10-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247210",
+     "sha256": "a96114ca465a5825d151766bf07fbc5a7962a4a5c561f6d0dd7addf5328455d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-19-2021",
+   "path": "ordin/anrm/2021/19",
+   "short": "Ordin anrm nr. 19/2021",
+   "title": "Ordinul nr. 19/2021 pentru modificarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 13/2010 privind aprobarea tarifelor de transport prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237164",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237164",
+     "sha256": "0be9ed1ee8d24bfb6b31e1055b727d509f5ace811fc7dcd1332481942c23cf24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-192-2021",
+   "path": "ordin/anrm/2021/192",
+   "short": "Ordin anrm nr. 192/2021",
+   "title": "Ordinul nr. 192/2021 pentru aprobarea Instrucțiunilor privind conținutul documentațiilor pentru avizarea metodelor de exploatare cadru în mine și cariere/balastiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247749",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247749",
+     "sha256": "d75084901a8ea4315631e583c0181722ad60bd990aa8b3a643d07463eaee22c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-199-2021",
+   "path": "ordin/anrm/2021/199",
+   "short": "Ordin anrm nr. 199/2021",
+   "title": "Ordinul nr. 199/2021 privind aprobarea unor licențe de concesionare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247852",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247852",
+     "sha256": "522a63f446074adf0752e68897b6ffb13c8ffb3f2d48444e298f463680bca75c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-206-2021",
+   "path": "ordin/anrm/2021/206",
+   "short": "Ordin anrm nr. 206/2021",
+   "title": "Ordinul nr. 206/2021 privind aprobarea Contractului-cadru pentru transportul țițeiului, gazolinei, condensatului și etanului pentru anul 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248646",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248646",
+     "sha256": "afba9aee95cfeef98c3bcbcbead6197e45147f44f1dd381ce38ce15bca19d2b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-207-2021",
+   "path": "ordin/anrm/2021/207",
+   "short": "Ordin anrm nr. 207/2021",
+   "title": "Ordinul nr. 207/2021 privind aprobarea Contractului-cadru de derulare a țițeiului și produselor petroliere prin terminalul petrolier pentru anul 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248670",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248670",
+     "sha256": "c1558d42cbb3a4d3f2fa1c578f4f83dbfd44d6601ad1c98f4e0fe9ff15407686"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-220-2021",
+   "path": "ordin/anrm/2021/220",
+   "short": "Ordin anrm nr. 220/2021",
+   "title": "Ordinul nr. 220/2021 privind aprobarea unei licențe de dare în administrare pentru exploatare și a unei licențe de concesionare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248954",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248954",
+     "sha256": "d4abd0499f77ec06ab906cf7a6b26944eb2576342a7fa82579d9c96cd492f031"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-229-2021",
+   "path": "ordin/anrm/2021/229",
+   "short": "Ordin anrm nr. 229/2021",
+   "title": "Ordinul nr. 229/2021 pentru modificarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 13/2010 privind aprobarea tarifelor de transport prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249170",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249170",
+     "sha256": "759b8411c2edb429d3a9a492f39b1e8cd77a5920f18a28ac54bad13dba232b4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-66-2021",
+   "path": "ordin/anrm/2021/66",
+   "short": "Ordin anrm nr. 66/2021",
+   "title": "Ordinul nr. 66/2021 pentru modificarea Instrucțiunilor tehnice privind modul de evidență, raportare, calcul și plată a taxei pe activitatea minieră și a redevenței miniere, aprobate prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 198/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239721",
+   "versions": [
+    {
+     "from": "2021-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239721",
+     "sha256": "cbe0ffbd5c9999dc374d8be898f74520c8a291beb7e9cf0bddb39ae96d6a4a2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-7-2021",
+   "path": "ordin/anrm/2021/7",
+   "short": "Ordin anrm nr. 7/2021",
+   "title": "Ordinul nr. 7/2021 privind aprobarea Listei apelor minerale naturale recunoscute în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236550",
+   "versions": [
+    {
+     "from": "2021-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236550",
+     "sha256": "c0bd194460b0bd01323f1024dc9ef654c75e9eaec89a0fe05abcce11a7cbdcb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-722-2021",
+   "path": "ordin/anrm/2021/722",
+   "short": "Ordin anrm nr. 722/2021",
+   "title": "Ordinul nr. 722/2021 pentru modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.494/2013 privind aprobarea modelului și conținutului formularului tipizat \"Proces-verbal de constatare și sancționare a contravențiilor\", cod A.N.A.F. 14.13.22.99/7, destinat utilizării în activitatea de control a inspectorilor antifraudă din cadrul Direcției Generale Antifraudă Fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243335",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243335",
+     "sha256": "836ef6b859c55feb7324fd5786831bc6c938c58968651105e10ea665d990adaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-76-2021",
+   "path": "ordin/anrm/2021/76",
+   "short": "Ordin anrm nr. 76/2021",
+   "title": "Ordinul nr. 76/2021 pentru aprobarea licențelor de concesionare pentru explorare acordate în urma concursului public de oferte - Runda 100/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240712",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240712",
+     "sha256": "580f39403f25378a1f5ec7b7c92ba3e06dbb90dd5337cfb078167dd5aac2132c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-92-2021",
+   "path": "ordin/anrm/2021/92",
+   "short": "Ordin anrm nr. 92/2021",
+   "title": "Ordinul nr. 92/2021 privind aprobarea unor licențe de concesionare pentru exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241180",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241180",
+     "sha256": "e410501910bb6e2ffcf69d0442a12ce9b81c536e10f3f590df84ec704f03b1c0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-100-2021",
    "path": "ordin/ansvsa/2021/100",
    "short": "Ordin ansvsa nr. 100/2021",
@@ -3498,6 +4053,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-107-2021",
+   "path": "ordin/aparare/2021/107",
+   "short": "Ordin aparare nr. 107/2021",
+   "title": "Ordinul nr. 107/2021 pentru modificarea și completarea Normelor de aplicare în Ministerul Apărării Naționale a Legii nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat, aprobate prin Ordinul ministrului apărării naționale nr. M.7/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243123",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243123",
+     "sha256": "1de707dc19c619f3c7a2f3c68aa86c1900d89050a64feaa8430c920e636a9411"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-110-2021",
    "path": "ordin/aparare/2021/110",
    "short": "Ordin aparare nr. 110/2021",
@@ -3509,6 +4079,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243316",
      "sha256": "0afa9727bfc87c2a5f08a6a7ff4a36d0e6391685813a0a4135c6c23047427b8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-120-2021",
+   "path": "ordin/aparare/2021/120",
+   "short": "Ordin aparare nr. 120/2021",
+   "title": "Ordinul nr. 120/2021 pentru modificarea Instrucțiunilor privind asistența medicală și farmaceutică în Ministerul Apărării Naționale pe timp de pace, aprobate prin Ordinul ministrului apărării naționale nr. M.110/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244135",
+   "versions": [
+    {
+     "from": "2021-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244135",
+     "sha256": "d1adbafe2ee64284f78bd9cb220a61eb8cf5b5a5f3b5fd2dd71e7673461dbaa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-122-2021",
+   "path": "ordin/aparare/2021/122",
+   "short": "Ordin aparare nr. 122/2021",
+   "title": "Ordinul nr. 122/2021 pentru modificarea Metodologiei întocmirii aprecierilor de serviciu pentru cadrele militare din structurile Ministerului Apărării Naționale, pe timp de pace, aprobată prin Ordinul ministrului apărării naționale nr. M.122/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243834",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243834",
+     "sha256": "41b402e210cf83cccd80387f580678348c7b4758c945c49a87e892eb62821a1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-130-2021",
+   "path": "ordin/aparare/2021/130",
+   "short": "Ordin aparare nr. 130/2021",
+   "title": "Ordinul nr. 130/2021 pentru modificarea și completarea Instrucțiunilor privind recrutarea, selecția, formarea profesională și evoluția în cariera militară în Armata României, aprobate prin Ordinul ministrului apărării naționale nr. M.30/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244054",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244054",
+     "sha256": "565ac3a3d733978733cbde67f918800579bfd78ad3e0dad2c2864d10d8de52b3"
     }
    ]
   },
@@ -3528,6 +4143,36 @@
    ]
   },
   {
+   "slug": "ordin-aparare-156-2021",
+   "path": "ordin/aparare/2021/156",
+   "short": "Ordin aparare nr. 156/2021",
+   "title": "Ordinul nr. 156/2021 pentru abrogarea Ordinului ministrului apărării nr. M.50/2007 privind organizarea și desfășurarea investigațiilor sociologice în Armata României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245276",
+   "versions": [
+    {
+     "from": "2021-08-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245276",
+     "sha256": "8d3f87b746138d6cf0b2c389036b331e33d3ced09a6cb07974f3022f2923eb00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-159-2021",
+   "path": "ordin/aparare/2021/159",
+   "short": "Ordin aparare nr. 159/2021",
+   "title": "Ordinul nr. 159/2021 pentru modificarea Ordinului ministrului apărării naționale nr. M.40/2016 privind coordonarea procesului de planificare a armamentelor pentru dotarea structurilor militare din cadrul Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245350",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245350",
+     "sha256": "3c9386273319635482faf1817f3d8e4347044d70387d6669b87e4c9533f6018b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-163-2021",
    "path": "ordin/aparare/2021/163",
    "short": "Ordin aparare nr. 163/2021",
@@ -3543,6 +4188,36 @@
    ]
   },
   {
+   "slug": "ordin-aparare-164-2021",
+   "path": "ordin/aparare/2021/164",
+   "short": "Ordin aparare nr. 164/2021",
+   "title": "Ordinul nr. 164/2021 pentru modificarea și completarea Instrucțiunilor privind organizarea și funcționarea școlilor militare de maiștri militari și subofițeri, aprobate prin Ordinul ministrului apărării naționale nr. M.122/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245456",
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245456",
+     "sha256": "a3207782a87134a984857708e5670665a2c8e85ed4b94e75757f6bb009c777c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-169-2021",
+   "path": "ordin/aparare/2021/169",
+   "short": "Ordin aparare nr. 169/2021",
+   "title": "Ordinul nr. 169/2021 privind abrogarea Ordinului ministrului apărării nr. M.202/2006 pentru aprobarea \"Normelor metodologice privind stabilirea cuantumului și condițiilor de acordare a compensației lunare pentru chirie soldaților și gradaților profesioniști\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245841",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245841",
+     "sha256": "74c0ca912f3610f007bfc75e68760870e63a55b5f7c8a2486c00f1afec340c55"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-172-2021",
    "path": "ordin/aparare/2021/172",
    "short": "Ordin aparare nr. 172/2021",
@@ -3554,6 +4229,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246302",
      "sha256": "388ea4739f0745db3656e446d1bcfbc8d9e0c722dcc4e7a54d9ade05e12bf7a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-174-2021",
+   "path": "ordin/aparare/2021/174",
+   "short": "Ordin aparare nr. 174/2021",
+   "title": "Ordinul nr. 174/2021 privind modificarea și completarea Ordinului ministrului apărării naționale nr. M.161/2018 pentru stabilirea criteriilor de sprijinire a asociațiilor și fundațiilor de utilitate publică, cu reprezentare la nivel național, care își desfășoară activitatea în domeniile de responsabilitate ale Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245895",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245895",
+     "sha256": "613fa9061fc68e877a83f20215ad7c93bbb4e08acf29daf9901e29e08b3d282c"
     }
    ]
   },
@@ -3708,6 +4398,51 @@
    ]
   },
   {
+   "slug": "ordin-aparare-207-2021",
+   "path": "ordin/aparare/2021/207",
+   "short": "Ordin aparare nr. 207/2021",
+   "title": "Ordinul nr. 207/2021 pentru modificarea și completarea Instrucțiunilor privind scoaterea din funcțiune și casarea activelor fixe, precum și declasarea și casarea bunurilor materiale, altele decât activele fixe, în Ministerul Apărării Naționale, aprobate prin Ordinul ministrului apărării naționale nr. M.92/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247647",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247647",
+     "sha256": "6d72afa9fc54c2a9895287fbbe78a23de24e7b441ce42123bcef105977d1900d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-21-2021",
+   "path": "ordin/aparare/2021/21",
+   "short": "Ordin aparare nr. 21/2021",
+   "title": "Ordinul nr. 21/2021 pentru modificarea și completarea anexei la Instrucțiunile privind organizarea și funcționarea colegiilor naționale militare, aprobate prin Ordinul ministrului apărării naționale nr. M.110/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236962",
+   "versions": [
+    {
+     "from": "2021-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236962",
+     "sha256": "a38feb063994ea8ab372311cac2b0c1350ec36fd9fb66d7c09cc0bf9cec569d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-218-2021",
+   "path": "ordin/aparare/2021/218",
+   "short": "Ordin aparare nr. 218/2021",
+   "title": "Ordinul nr. 218/2021 pentru completarea anexei nr. 1 la Normele de aplicare în Ministerul Apărării Naționale a Legii nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat, aprobate prin Ordinul ministrului apărării naționale nr. M.7/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248834",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248834",
+     "sha256": "5dbf541b8e8c486c2380f6384be5be7e6aeaff664cad8cbe0fafff2f727d16da"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-27-2021",
    "path": "ordin/aparare/2021/27",
    "short": "Ordin aparare nr. 27/2021",
@@ -3719,6 +4454,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237424",
      "sha256": "3eea53d542da43b017858b3fa480dc63490dd53968e3d8a7bd783b7d7bb69fb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-3-2021",
+   "path": "ordin/aparare/2021/3",
+   "short": "Ordin aparare nr. 3/2021",
+   "title": "Ordinul nr. 3/2021 pentru modificarea și completarea Instrucțiunilor de aplicare în Ministerul Apărării Naționale a prevederilor Legii nr. 384/2006 privind statutul soldaților și gradaților profesioniști, aprobate prin Ordinul ministrului apărării naționale nr. M.39/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236138",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236138",
+     "sha256": "0eb311728fec45abe585c8f8b6272f13a5e2db3424026b70aa95ed84a6c907d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-35-2021",
+   "path": "ordin/aparare/2021/35",
+   "short": "Ordin aparare nr. 35/2021",
+   "title": "Ordinul nr. 35/2021 pentru modificarea și completarea anexei nr. 1 la Criteriile și metodologia privind selecția personalului în vederea participării la misiuni și operații în afara teritoriului statului român, aprobate prin Ordinul ministrului apărării naționale nr. M.101/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238086",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238086",
+     "sha256": "1db6bcbc49b7b51e63522094fe0a694f6ec05b9796b17dfbb10c8010f584b96c"
     }
    ]
   },
@@ -3738,6 +4503,36 @@
    ]
   },
   {
+   "slug": "ordin-aparare-37-2021",
+   "path": "ordin/aparare/2021/37",
+   "short": "Ordin aparare nr. 37/2021",
+   "title": "Ordinul nr. 37/2021 pentru suspendarea unor prevederi din Normele privind organizarea și desfășurarea concursului/examenului în vederea ocupării de către personalul Ministerului Apărării Naționale a posturilor permanente din structurile de reprezentare națională în străinătate, precum și a celor din structurile internaționale la care România este parte, aprobate prin Ordinul ministrului apărării naționale nr. M.59/2015, precum și pentru instituirea unor reguli temporare privind încadrarea unor posturi permanente în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238215",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238215",
+     "sha256": "41adb8d7484c1915c74ba2a53d5618270379a825bf2642a7da725565f72a6eba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-39-2021",
+   "path": "ordin/aparare/2021/39",
+   "short": "Ordin aparare nr. 39/2021",
+   "title": "Ordinul nr. 39/2021 pentru abrogarea Ordinului ministrului apărării naționale nr. M.128/2003 privind stabilirea perioadei pentru care se elaborează planurile cu principalele activități ale instituțiilor militare de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238320",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238320",
+     "sha256": "82bb63e1b27fd835f061b8ad433d5d5ed1c74caf24fecee2c9b35ee766ca9d4f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-49-2021",
    "path": "ordin/aparare/2021/49",
    "short": "Ordin aparare nr. 49/2021",
@@ -3749,6 +4544,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239078",
      "sha256": "e83dec4226eebc80eec07f337d2b960ca93701b9e333a8cf86cde647fac5721a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-57-2021",
+   "path": "ordin/aparare/2021/57",
+   "short": "Ordin aparare nr. 57/2021",
+   "title": "Ordinul nr. 57/2021 pentru completarea Instrucțiunilor privind recrutarea, selecția, formarea profesională și evoluția în cariera militară în Armata României, aprobate prin Ordinul ministrului apărării naționale nr. M.30/2012 și pentru modificarea Normelor privind organizarea și funcționarea sistemului de ierarhizare și selecție în vederea evoluției în carieră a cadrelor militare, aprobate prin Ordinul ministrului apărării naționale nr. M.69/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239869",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239869",
+     "sha256": "9b46fa5fc96fd38eb29aad72012dc66dfe251cc3853fe18413615ab361999b70"
     }
    ]
   },
@@ -3783,6 +4593,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-78-2021",
+   "path": "ordin/aparare/2021/78",
+   "short": "Ordin aparare nr. 78/2021",
+   "title": "Ordinul nr. 78/2021 pentru modificarea și completarea Instrucțiunilor privind recrutarea, selecția, formarea profesională și evoluția în cariera militară în Armata României, aprobate prin Ordinul ministrului apărării naționale nr. M.30/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241123",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241123",
+     "sha256": "e97f4ac5d3ab1273eb615778879ee3f33208a9a244ed3368b6a3a8d411de7aaa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-81-2021",
    "path": "ordin/aparare/2021/81",
    "short": "Ordin aparare nr. 81/2021",
@@ -3809,6 +4634,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242119",
      "sha256": "36c4130376311dc4b22f4080c70d6dabdf1d01777b21e289210217ec5ed4a755"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-99-2021",
+   "path": "ordin/aparare/2021/99",
+   "short": "Ordin aparare nr. 99/2021",
+   "title": "Ordinul nr. 99/2021 pentru modificarea și completarea Regulamentului educației fizice militare, aprobat prin Ordinul ministrului apărării naționale nr. M.149/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242440",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242440",
+     "sha256": "4c01c6d7f292c54b2d5a261385634d6531ea7176a1efabc6399c2a97d6414583"
     }
    ]
   },
@@ -4608,6 +5448,111 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-101-2021",
+   "path": "ordin/comunicatii/2021/101",
+   "short": "Ordin comunicatii nr. 101/2021",
+   "title": "Ordinul nr. 101/2021 privind aprobarea Regulamentului de organizare și funcționare al Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare, precum și a componenței nominale a acestuia, pentru un mandat de cel mult două luni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243380",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243380",
+     "sha256": "a9ab2aee3f86cbfbb90f1da90eecc07dc22afba0a7f20c36841bdb37c9b68fae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-28-2021",
+   "path": "ordin/comunicatii/2021/28",
+   "short": "Ordin comunicatii nr. 28/2021",
+   "title": "Ordinul nr. 28/2021 pentru aprobarea Normelor metodologice privind înființarea și dezvoltarea spin-offurilor în domeniul cercetării-dezvoltării și inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242106",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242106",
+     "sha256": "5f0c0355de993cf8759d0a91928bdf286828ba2e44ea688aca9222df441d760a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-33-2021",
+   "path": "ordin/comunicatii/2021/33",
+   "short": "Ordin comunicatii nr. 33/2021",
+   "title": "Ordinul nr. 33/2021 pentru modificarea anexei nr. 2 la Ordinul ministrului educației și cercetării nr. 3.463/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național al Cercetării Științifice, precum și a componenței nominale a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242022",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242022",
+     "sha256": "ef49c807da94875031c644d4754752086c3e6a8f60d8fc59a2bf0e853aad00d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-461-2021",
+   "path": "ordin/comunicatii/2021/461",
+   "short": "Ordin comunicatii nr. 461/2021",
+   "title": "Ordinul nr. 461/2021 privind aprobarea Metodologiei de evaluare și recunoaștere de către Consiliul Național al Cercetării Științifice a caracterului științific al lucrărilor elaborate de către persoane private de libertate prin decizie judecătorească definitivă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246615",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246615",
+     "sha256": "5c77f8dcc1cd6917c87f133ed57ee66d6f2c01e05adfbf5a00606b23eeb3a2c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-498-2021",
+   "path": "ordin/comunicatii/2021/498",
+   "short": "Ordin comunicatii nr. 498/2021",
+   "title": "Ordinul nr. 498/2021 privind aprobarea componenței nominale și a Regulamentului de organizare și funcționare al Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare al Ministerului Cercetării, Inovării și Digitalizării cu atribuții pentru activitatea de cercetare-dezvoltare și inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246644",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246644",
+     "sha256": "43b42a876ecea8532cf8641ad14815d0811862ac237ee02ad6c1b08f6cbd3632"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-572-2021",
+   "path": "ordin/comunicatii/2021/572",
+   "short": "Ordin comunicatii nr. 572/2021",
+   "title": "Ordinul nr. 572/2021 privind modificarea anexei la Ordinul ministrului educației și cercetării științifice nr. 3.822/2015 pentru aprobarea schemei de ajutor de stat \"Finanțarea activităților de cercetare-dezvoltare și inovare (CDI) și a investițiilor în CDI prin Programul operațional Competitivitate (POC)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247380",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247380",
+     "sha256": "178c48c25566afa445324072404fb4d66b6e9e0746d7b58e11aeaa5f4ab31f02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-575-2021",
+   "path": "ordin/comunicatii/2021/575",
+   "short": "Ordin comunicatii nr. 575/2021",
+   "title": "Ordinul nr. 575/2021 pentru completarea anexei nr. 1 la Ordinul ministrului cercetării, inovării și digitalizării nr. 498/2021 privind aprobarea componenței nominale și a Regulamentului de organizare și funcționare al Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare al Ministerului Cercetării, Inovării și Digitalizării cu atribuții pentru activitatea de cercetare-dezvoltare și inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248461",
+   "versions": [
+    {
+     "from": "2021-11-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248461",
+     "sha256": "72d4debab2750b75ba942c2abae1e1ce6916deae11787fbc47b66696c9ae105e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-25-2021",
    "path": "ordin/concurenta/2021/25",
    "short": "Ordin concurenta nr. 25/2021",
@@ -4653,6 +5598,36 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2617-2021",
+   "path": "ordin/cultura/2021/2617",
+   "short": "Ordin cultura nr. 2617/2021",
+   "title": "Ordinul nr. 2.617/2021 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei Naționale pentru Salvgardarea Patrimoniului Cultural Imaterial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238303",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238303",
+     "sha256": "914a8e484e60df509ea1c35305566c73e7f613493df599ae4c17455649019988"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2657-2021",
+   "path": "ordin/cultura/2021/2657",
+   "short": "Ordin cultura nr. 2657/2021",
+   "title": "Ordinul nr. 2.657/2021 pentru modificarea și completarea anexei la Ordinul ministrului culturii și patrimoniului național nr. 2.562/2010 privind aprobarea Procedurii de acordare a autorizațiilor pentru cercetarea arheologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239716",
+   "versions": [
+    {
+     "from": "2021-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239716",
+     "sha256": "ca92ae9c1653094c6f8734be9baf69ab14e03f8711444b9d9525dadea474c497"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-3028-2021",
    "path": "ordin/cultura/2021/3028",
    "short": "Ordin cultura nr. 3028/2021",
@@ -4683,6 +5658,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-3094-2021",
+   "path": "ordin/cultura/2021/3094",
+   "short": "Ordin cultura nr. 3094/2021",
+   "title": "Ordinul nr. 3.094/2021 privind modificarea și completarea Schemei de ajutor de minimis pentru consolidarea antreprenoriatului cultural și dezvoltarea audienței și a publicului în cadrul Programului RO-CULTURA, aprobată prin Ordinul ministrului culturii și identității naționale nr. 2.231/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243336",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243336",
+     "sha256": "5054395f8ca1ec6f244bab1e373f6edcf6a08460fcb60f225a3ec7b1298b0777"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-3107-2021",
    "path": "ordin/cultura/2021/3107",
    "short": "Ordin cultura nr. 3107/2021",
@@ -4694,6 +5684,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243202",
      "sha256": "43c280f8ff24074a0036f81b29e4d37649512477d13a82b23eaec51e4abb41b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3167-2021",
+   "path": "ordin/cultura/2021/3167",
+   "short": "Ordin cultura nr. 3167/2021",
+   "title": "Ordinul nr. 3.167/2021 pentru modificarea Normelor privind reevaluarea bunurilor culturale mobile deținute de instituții publice de drept public, în vederea asigurării unei juste reflectări a acestora în contabilitate, aprobate prin Ordinul ministrului culturii și identității naționale nr. 2.239/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243784",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243784",
+     "sha256": "33de52cd0bb10a931cf439bacd4ae3efdbcbfcdaf0527d3231b369d4ba783481"
     }
    ]
   },
@@ -4754,6 +5759,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247678",
      "sha256": "dd5410d06645fb7ba35d9887a655e91ae781152ba2778560f96b870b286e990b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3725-2021",
+   "path": "ordin/cultura/2021/3725",
+   "short": "Ordin cultura nr. 3725/2021",
+   "title": "Ordinul nr. 3.725/2021 privind aprobarea Regulamentului de organizare și funcționare a Comisiei Naționale pentru Soluționarea Contestațiilor în Domeniul Arheologiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248756",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248756",
+     "sha256": "dc40b307f3ece682dfb7c78b3b2abec9be7d5a0e815db8cf14d72b8b347d9e3a"
     }
    ]
   },
@@ -7158,6 +8178,156 @@
    ]
   },
   {
+   "slug": "ordin-externe-1030-2021",
+   "path": "ordin/externe/2021/1030",
+   "short": "Ordin externe nr. 1030/2021",
+   "title": "Ordinul nr. 1.030/2021 privind ieșirea din vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240391",
+   "versions": [
+    {
+     "from": "2021-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240391",
+     "sha256": "55cd9176c96b67775ce697757471c9975d425ff5fe8d0987b5b35ddd66f4c95f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1364-2021",
+   "path": "ordin/externe/2021/1364",
+   "short": "Ordin externe nr. 1364/2021",
+   "title": "Ordinul nr. 1.364/2021 privind adoptarea Licenței generale de import și transfer de introducere temporare de produse militare pe teritoriul României, pentru participare la expoziții, demonstrații și evaluări, nr. LGIED-RO-02",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243236",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243236",
+     "sha256": "b48fd7ed9f67796a77fc411687286e10ece821227bc706e4293ba5d792ea1821"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1365-2021",
+   "path": "ordin/externe/2021/1365",
+   "short": "Ordin externe nr. 1365/2021",
+   "title": "Ordinul nr. 1.365/2021 privind adoptarea Licenței generale de export și transfer de expediere temporare de produse militare din teritoriul României, pentru participare la expoziții, demonstrații și evaluări, nr. LGTED-RO-02",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243164",
+   "versions": [
+    {
+     "from": "2021-07-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243164",
+     "sha256": "0b65d95d4c3017a071cc928726336521e248e2e8b5d57b6f98d359962c4a5725"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1644-2021",
+   "path": "ordin/externe/2021/1644",
+   "short": "Ordin externe nr. 1644/2021",
+   "title": "Ordinul nr. 1.644/2021 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243960",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243960",
+     "sha256": "ad2e6346cdf1a585143e5723ba54e9bc5fea936958227a75b567118541274953"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1935-2021",
+   "path": "ordin/externe/2021/1935",
+   "short": "Ordin externe nr. 1935/2021",
+   "title": "Ordinul nr. 1.935/2021 pentru modificarea anexei la Ordinul ministrului afacerilor externe nr. 1.124/2015 privind lista documentelor de trecere a frontierei de stat acceptate de statul român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245176",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245176",
+     "sha256": "8fb458f884af21ef8416ffe0bf1d0e7baa4d91fb808dde58c4edee78b2838c4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2036-2021",
+   "path": "ordin/externe/2021/2036",
+   "short": "Ordin externe nr. 2036/2021",
+   "title": "Ordinul nr. 2.036/2021 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245332",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245332",
+     "sha256": "1f76b26d4f796de3aba8db8b035795f62a5c4ffe38b0a0bc7c524b91ffdf2272"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2174-2021",
+   "path": "ordin/externe/2021/2174",
+   "short": "Ordin externe nr. 2174/2021",
+   "title": "Ordinul nr. 2.174/2021 pentru adoptarea Licenței generale de import și transfer de introducere temporare de produse militare pe teritoriul României, pentru întreținere și reparații, nr. LGIRE-RO-02",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246609",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246609",
+     "sha256": "a241e2311a81081f87de5cf2d78feac812cc2a37c8291e6804d0bd93ce48ce44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2175-2021",
+   "path": "ordin/externe/2021/2175",
+   "short": "Ordin externe nr. 2175/2021",
+   "title": "Ordinul nr. 2.175/2021 pentru adoptarea Licenței generale de export și transfer de expediere temporare de produse militare din teritoriul României, pentru întreținere și reparații, nr. LGERE-RO-02",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246610",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246610",
+     "sha256": "d2c7553c155c39722e2888dfcc940af5c51780aa2986ea620c4e15054374e501"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-3191-2021",
+   "path": "ordin/externe/2021/3191",
+   "short": "Ordin externe nr. 3191/2021",
+   "title": "Ordinul nr. 3.191/2021 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul de control al exporturilor, importurilor și altor operațiuni cu produse militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248341",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248341",
+     "sha256": "7ae8e3406e5c5889d4cca6dc4f82a1ad4a262cd48e7d7f300fd5590d62444afd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-3789-2021",
+   "path": "ordin/externe/2021/3789",
+   "short": "Ordin externe nr. 3789/2021",
+   "title": "Ordinul nr. 3.789/2021 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249281",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249281",
+     "sha256": "4ce0d9d34b83d97240b03643de17b0c14636a185d9cca1a4c84fb78dded301eb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-596-2021",
    "path": "ordin/externe/2021/596",
    "short": "Ordin externe nr. 596/2021",
@@ -7169,6 +8339,66 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244465",
      "sha256": "0ce69bf3542a3f3b4f90e781a27957259de816c71d821ae264487a6f620f0539"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-597-2021",
+   "path": "ordin/externe/2021/597",
+   "short": "Ordin externe nr. 597/2021",
+   "title": "Ordinul nr. 597/2021 pentru modificarea Ordinului ministrului afacerilor externe nr. 1.124/2015 privind lista documentelor de trecere a frontierei de stat acceptate de statul român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238865",
+   "versions": [
+    {
+     "from": "2021-03-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238865",
+     "sha256": "c24577072e26d12952c86319e72a61629c2b77accc6f29f63d8a699b67feca45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-600-2021",
+   "path": "ordin/externe/2021/600",
+   "short": "Ordin externe nr. 600/2021",
+   "title": "Ordinul nr. 600/2021 privind lista documentelor de interes public referitoare la activitatea consulară care se comunică din oficiu, conform prevederilor art. 5 alin. (1) lit. h) din Legea nr. 544/2001 privind liberul acces la informațiile de interes public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238870",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238870",
+     "sha256": "1b1a96de8fe6878ac987293822e71c329dff12b93b856e597ba0b585667d00f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-732-2021",
+   "path": "ordin/externe/2021/732",
+   "short": "Ordin externe nr. 732/2021",
+   "title": "Ordinul nr. 732/2021 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursurilor pentru admiterea în Corpul diplomatic și consular al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239872",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239872",
+     "sha256": "96d41e676702e41992bc9003212dcdb408ce8cd0c32d4ffff21b2382479f72db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-733-2021",
+   "path": "ordin/externe/2021/733",
+   "short": "Ordin externe nr. 733/2021",
+   "title": "Ordinul nr. 733/2021 pentru aprobarea Regulamentului-cadru privind organizarea și desfășurarea concursurilor pentru ocuparea posturilor vacante prevăzute pentru funcții de execuție specifice Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239874",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239874",
+     "sha256": "1bea822a2bc78dd044af5b8a616ed7b62f928280c6a875fd84d9cb0bdfb641bf"
     }
    ]
   },
@@ -7814,6 +9044,141 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246352",
      "sha256": "f412ffa7c64ee39157d89b7623924204434f97547be850022a2a5a52f0f4c9e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1109-2021",
+   "path": "ordin/fonduri/2021/1109",
+   "short": "Ordin fonduri nr. 1109/2021",
+   "title": "Ordinul nr. 1.109/2021 pentru modificarea Schemei de ajutor de minimis privind monitorizarea consumului de energie la nivelul consumatorilor industriali, aferentă obiectivului specific 6.2 - Reducerea consumului de energie la nivelul consumatorilor industriali, finanțată din axa prioritară 6 - Promovarea energiei curate și eficienței energetice în vederea susținerii unei economii cu emisii scăzute de carbon și din fondurile REACT-EU, după caz, din cadrul Programului operațional Infrastructură mare (POIM 2014-2020), aprobată prin Ordinul ministrului investițiilor și proiectelor europene nr. 859/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247510",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247510",
+     "sha256": "12423c66b0c9a1e43fe6c8369d16a753006079657829d3c5a83086a14708c12d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1110-2021",
+   "path": "ordin/fonduri/2021/1110",
+   "short": "Ordin fonduri nr. 1110/2021",
+   "title": "Ordinul nr. 1.110/2021 privind modificarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura energetică în scopul preluării energiei produse din resurse regenerabile în condiții de siguranță a SEN, precum și implementarea sistemelor de măsurare inteligentă a energiei electrice la consumatorii casnici, aferentă obiectivului specific 6.1 - Creșterea producției de energie din resurse regenerabile mai puțin exploatate (biomasă, biogaz, geotermal), sectorul distribuție, și obiectivului specific 6.3 - Reducerea consumului mediu de energie electrică la nivelul locuințelor, finanțată din axa prioritară 6 Promovarea energiei curate și eficienței energetice în vederea susținerii unei economii cu emisii scăzute de carbon și din fondurile REACT-EU, după caz, din cadrul Programului operațional Infrastructură mare (POIM 2014-2020), aprobată prin Ordinul ministrului investițiilor și proiectelor europene nr. 860/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247473",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247473",
+     "sha256": "7fdb1ccb5cbdb8242764e31a2d6c665465cc5e7951e17e032f894cccfefe14a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1225-2021",
+   "path": "ordin/fonduri/2021/1225",
+   "short": "Ordin fonduri nr. 1225/2021",
+   "title": "Ordinul nr. 1.225/2021 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor în dezvoltarea infrastructurii de termoficare centralizată - componenta distribuție, aferentă Programului operațional Infrastructură mare (POIM 2014-2020), axa prioritară (AP) 7 - Creșterea eficienței energetice la nivelul sistemului centralizat de termoficare în orașele selectate, obiectivul specific 7.1 Creșterea eficienței energetice în sistemele centralizate de transport și distribuție a energiei termice în orașele selectate/axa prioritară (AP) 10 Protejarea sănătății populației în contextul crizei sanitare cauzate de COVID-19, creșterea eficienței energetice și utilizarea surselor regenerabile de energie, obiectivul specific 10.2 Creșterea eficienței energetice și utilizarea surselor regenerabile de energie în vederea pregătirii unei redresări verzi, digitale și reziliente a economiei, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248530",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248530",
+     "sha256": "9e5d70aa7f44ab11430df286dbc6b55ca20c30b5d5f11b52ef9e88a6da784718"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1290-2021",
+   "path": "ordin/fonduri/2021/1290",
+   "short": "Ordin fonduri nr. 1290/2021",
+   "title": "Ordinul nr. 1.290/2021 pentru aprobarea Schemei de ajutor de stat - Sprijin pentru IMM-uri în vederea depășirii crizei economice generate de pandemia de COVID-19 - investiții productive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248629",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248629",
+     "sha256": "e0b9f4cb0a10f26f30db9efa0cf4213ad41e8a00045039de2ea158b6913257d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1293-2021",
+   "path": "ordin/fonduri/2021/1293",
+   "short": "Ordin fonduri nr. 1293/2021",
+   "title": "Ordinul nr. 1.293/2021 pentru modificarea și completarea Schemei de ajutoare de stat și de minimis privind unele măsuri pentru pregătirea portofoliului de proiecte destinat finanțării din fonduri externe nerambursabile, pentru perioada de programare 2021-2027, în domeniul specializării inteligente, aprobată prin Ordinul ministrului fondurilor europene nr. 894/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248725",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248725",
+     "sha256": "923b7f1bde6ca3b0b3911aa814be8cf3f8e7085fe61910c10724c0c3b727a081"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-690-2021",
+   "path": "ordin/fonduri/2021/690",
+   "short": "Ordin fonduri nr. 690/2021",
+   "title": "Ordinul nr. 690/2021 privind aprobarea Schemei de ajutor de stat - Sprijin pentru IMM-uri în vederea depășirii crizei economice generate de pandemia de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244025",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244025",
+     "sha256": "943232dcd0a48cdf0b22ccc2048e76b09ac3f7d2d68c59706b1b861f309ff5b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-803-2021",
+   "path": "ordin/fonduri/2021/803",
+   "short": "Ordin fonduri nr. 803/2021",
+   "title": "Ordinul nr. 803/2021 pentru completarea Schemei de ajutor de stat - Sprijin pentru IMM-uri în vederea depășirii crizei economice generate de pandemia de COVID-19, aprobată prin Ordinul ministrului investițiilor și proiectelor europene nr. 690/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245106",
+   "versions": [
+    {
+     "from": "2021-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245106",
+     "sha256": "8119dbdc976a5f3e265fb131865b181380e4f452d0259a74717c3114e35244f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-859-2021",
+   "path": "ordin/fonduri/2021/859",
+   "short": "Ordin fonduri nr. 859/2021",
+   "title": "Ordinul nr. 859/2021 pentru aprobarea Schemei de ajutor de minimis privind monitorizarea consumului de energie la nivelul consumatorilor industriali, aferentă obiectivului specific 6.2 - Reducerea consumului de energie la nivelul consumatorilor industriali, finanțată din axa prioritară 6 - Promovarea energiei curate și eficienței energetice în vederea susținerii unei economii cu emisii scăzute de carbon și din fondurile REACT-EU, după caz, din cadrul Programului operațional Infrastructură mare (POIM 2014-2020)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245866",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245866",
+     "sha256": "044d49c1186cd393899f9fe43b30631885f78f51b879e1b98d32e6003601243c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-860-2021",
+   "path": "ordin/fonduri/2021/860",
+   "short": "Ordin fonduri nr. 860/2021",
+   "title": "Ordinul nr. 860/2021 privind aprobarea Schemei de ajutor de stat pentru realizarea de investiții în infrastructura energetică în scopul preluării energiei produse din resurse regenerabile în condiții de siguranță a SEN, precum și implementarea sistemelor de măsurare inteligentă a energiei electrice la consumatorii casnici, aferentă obiectivului specific 6.1 - Creșterea producției de energie din resurse regenerabile mai puțin exploatate (biomasă, biogaz, geotermal), sectorul distribuție, și obiectivului specific 6.3 - Reducerea consumului mediu de energie electrică la nivelul locuințelor, finanțată din axa prioritară 6 Promovarea energiei curate și eficienței energetice în vederea susținerii unei economii cu emisii scăzute de carbon și din fondurile REACT-EU, după caz, din cadrul Programului operațional Infrastructură mare (POIM 2014-2020)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245868",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245868",
+     "sha256": "a97ab6e0b1668e90079b334a24155ba1f1f3a2697975acbee6f0d648474cf203"
     }
    ]
   },

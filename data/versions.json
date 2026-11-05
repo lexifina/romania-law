@@ -119702,6 +119702,21 @@
    ]
   },
   {
+   "slug": "legea-207-1999",
+   "path": "lege/1999/207",
+   "short": "Legea nr. 207/1999",
+   "title": "Legea nr. 207/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 58/1998 pentru prelungirea termenului prevăzut la art. 25 alin. (1) din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20478",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20478",
+     "sha256": "86a96f79d7805b649fb8708e5b68de874b87b19f269dac2d94bb5d29e2d0af92"
+    }
+   ]
+  },
+  {
    "slug": "legea-207-2000",
    "path": "lege/2000/207",
    "short": "Legea nr. 207/2000",
@@ -119989,6 +120004,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/12068",
      "sha256": "2004ba34ff242835eeeb554eb128310a01328fa8be41a5b135283536216a3383"
+    }
+   ]
+  },
+  {
+   "slug": "legea-208-1999",
+   "path": "lege/1999/208",
+   "short": "Legea nr. 208/1999",
+   "title": "Legea nr. 208/1999 privind ratificarea Acordului de cooperare pentru prevenirea şi combaterea infracţionalităţii transfrontaliere, semnat la Bucureşti la 26 mai 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20482",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20482",
+     "sha256": "cb0a17901ba34824b880392d385a5154a84ce51ba9da43f1b8a804cc98031002"
     }
    ]
   },
@@ -120286,6 +120316,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285070",
      "sha256": "14a5ad3220aa701deabe10837ac13cf1e6eb30dae960258edcb657688ef6ebc7"
+    }
+   ]
+  },
+  {
+   "slug": "legea-209-1999",
+   "path": "lege/1999/209",
+   "short": "Legea nr. 209/1999",
+   "title": "Legea nr. 209/1999 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 40/1998 privind stabilirea ca zi nelucrătoare a zilei de 30 noiembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20485",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20485",
+     "sha256": "cc8163a78cd8fca09923d8b14fb8ec8c487dde39e423b6341bd697e4fdb470f5"
     }
    ]
   },

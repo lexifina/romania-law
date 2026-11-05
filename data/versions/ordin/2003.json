@@ -3,6 +3,741 @@
  "shard": "ordin/2003",
  "acts": [
   {
+   "slug": "ordin-aaas-1-2003",
+   "path": "ordin/aaas/2003/1",
+   "short": "Ordin aaas nr. 1/2003",
+   "title": "Ordinul nr. 1/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Tremag\"-S.A. Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41410",
+   "versions": [
+    {
+     "from": "2003-01-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41410",
+     "sha256": "c234e932e6705bdfff028baebb288e32604ae8a10fc48bbb7510c69f818aac98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-118-2003",
+   "path": "ordin/aaas/2003/118",
+   "short": "Ordin aaas nr. 118/2003",
+   "title": "Ordinul nr. 118/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Atelierele Centrale\" - S.A. Crișcior, județul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45184",
+   "versions": [
+    {
+     "from": "2003-07-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45184",
+     "sha256": "17371da87207a58a9d3d277577a9537c5cfa8382c98a46b1fe7cefdb341cf15d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-12-2003",
+   "path": "ordin/aaas/2003/12",
+   "short": "Ordin aaas nr. 12/2003",
+   "title": "Ordinul nr. 12/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Conserve Mureș\" - S.A. Târgu Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42541",
+   "versions": [
+    {
+     "from": "2003-03-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42541",
+     "sha256": "868184d71da831a728149b56b2f1bfbbcf2ababf79dd1a05b31cc9d60f3002b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-126-2003",
+   "path": "ordin/aaas/2003/126",
+   "short": "Ordin aaas nr. 126/2003",
+   "title": "Ordinul nr. 126/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"UTEPS\" - S.A. Alba Iulia, județul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45447",
+   "versions": [
+    {
+     "from": "2003-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45447",
+     "sha256": "4babe5371100e806431305908c389fc5b3efd170caa6a5ead22336079dabbc08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-127-2003",
+   "path": "ordin/aaas/2003/127",
+   "short": "Ordin aaas nr. 127/2003",
+   "title": "Ordinul nr. 127/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Cicalex\" - S.A. Alexandria, județul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45448",
+   "versions": [
+    {
+     "from": "2003-08-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45448",
+     "sha256": "daa1ed7d18b88b2b4d2c026fedf5fe3ff65dcefbcc58c75cfacebd2c9eae615d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-13-2003",
+   "path": "ordin/aaas/2003/13",
+   "short": "Ordin aaas nr. 13/2003",
+   "title": "Ordinul nr. 13/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Solventul\" - S.A. Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42587",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42587",
+     "sha256": "100b2773845cb560b3bb635696d4a365917ee3075d2086c57631d43ce98788e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-139-2003",
+   "path": "ordin/aaas/2003/139",
+   "short": "Ordin aaas nr. 139/2003",
+   "title": "Ordinul nr. 139/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Moldoplast\" - S.A. Iași, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45711",
+   "versions": [
+    {
+     "from": "2003-08-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45711",
+     "sha256": "6e34f108f832e096773ab4bab38af546eaaf4c9a1919b9e506228162028b227d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-143-2003",
+   "path": "ordin/aaas/2003/143",
+   "short": "Ordin aaas nr. 143/2003",
+   "title": "Ordinul nr. 143/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Institutul pentru Tehnica de Calcul\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45860",
+   "versions": [
+    {
+     "from": "2003-08-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45860",
+     "sha256": "0489a39971636f652e8b3a842f299894599928c1b568b09875c53503d8f1ba91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-15-2003",
+   "path": "ordin/aaas/2003/15",
+   "short": "Ordin aaas nr. 15/2003",
+   "title": "Ordinul nr. 15/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Apollo\" - S.A. Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42613",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42613",
+     "sha256": "dbf2a23d7d11aac1a6a8d24d0c1ab5a67019f2eb0a096c907c0f413d9a03bbd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-16-2003",
+   "path": "ordin/aaas/2003/16",
+   "short": "Ordin aaas nr. 16/2003",
+   "title": "Ordinul nr. 16/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"U.R.B. Rulmenți\" - S.A. Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42614",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42614",
+     "sha256": "1b9f265d4e18d50105cc2f2117871fe9333e54ffbb7b6e874f5b6b20fa09ab92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-167-2003",
+   "path": "ordin/aaas/2003/167",
+   "short": "Ordin aaas nr. 167/2003",
+   "title": "Ordinul nr. 167/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"UPRUC SERV\" - S.A. Făgăraș, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46406",
+   "versions": [
+    {
+     "from": "2003-09-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46406",
+     "sha256": "ea54f23548a37e038651ab2621a3c6735d96da010f87ae2c352d1cfef0f4674a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-17-2003",
+   "path": "ordin/aaas/2003/17",
+   "short": "Ordin aaas nr. 17/2003",
+   "title": "Ordinul nr. 17/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Ski Alpin\" - S.A. Sinaia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42670",
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42670",
+     "sha256": "dbe924e272a841417ad08e9a959faa7d8c4db8df7b5d4d5d54d42e9d8a364a77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-191-2003",
+   "path": "ordin/aaas/2003/191",
+   "short": "Ordin aaas nr. 191/2003",
+   "title": "Ordinul nr. 191/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Moldoconf\" - S.A. Iași, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46890",
+   "versions": [
+    {
+     "from": "2003-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46890",
+     "sha256": "f9ef51b4e4ca82571b65d04fd87b9c4b86dc240304b9fe6df02a1007bd42d53c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-2-2003",
+   "path": "ordin/aaas/2003/2",
+   "short": "Ordin aaas nr. 2/2003",
+   "title": "Ordinul nr. 2/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"CSR\" - S.A. Reșita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41488",
+   "versions": [
+    {
+     "from": "2003-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41488",
+     "sha256": "7c983d98c67bbda1aac01053f6fd8db6265493130420fdd39b20793576e39eba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-218-2003",
+   "path": "ordin/aaas/2003/218",
+   "short": "Ordin aaas nr. 218/2003",
+   "title": "Ordinul nr. 218/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Turol\" - S.A. Oltenița, județul Călărași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47715",
+   "versions": [
+    {
+     "from": "2003-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47715",
+     "sha256": "6ca60e9b3eea3acd6d6ebd7e23e83254a987bc7e4b691df5419f915a2f59ca84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-219-2003",
+   "path": "ordin/aaas/2003/219",
+   "short": "Ordin aaas nr. 219/2003",
+   "title": "Ordinul nr. 219/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Hidrotehnica\" - S.A. Galați, județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47724",
+   "versions": [
+    {
+     "from": "2003-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47724",
+     "sha256": "b817d8534c77eab5c7fdbf9411d9b07dcbd73635cf8efae1adcf6d0f1a5736ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-22-2003",
+   "path": "ordin/aaas/2003/22",
+   "short": "Ordin aaas nr. 22/2003",
+   "title": "Ordinul nr. 22/2003 privind instituirea procedurii de administrare specială la Societatea Națională \"Tutunul Românesc\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43121",
+   "versions": [
+    {
+     "from": "2003-04-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43121",
+     "sha256": "04a3f1cbdbc530c8b0d416cd86bf9c69ff0fa03fadf65e962feb98e7fb72c5e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-220-2003",
+   "path": "ordin/aaas/2003/220",
+   "short": "Ordin aaas nr. 220/2003",
+   "title": "Ordinul nr. 220/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Colorom\" - S.A. Codlea, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47725",
+   "versions": [
+    {
+     "from": "2003-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47725",
+     "sha256": "44ad4505a433206f0049638b47af6af8488e278831637051c3bdb14cd8d2bb28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-227-2003",
+   "path": "ordin/aaas/2003/227",
+   "short": "Ordin aaas nr. 227/2003",
+   "title": "Ordinul nr. 227/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Republica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48021",
+   "versions": [
+    {
+     "from": "2003-11-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48021",
+     "sha256": "74f3300ce3d3f1aadec234daa9be6fff4da01c3c30e5b7e3089437d7ac4d596f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-228-2003",
+   "path": "ordin/aaas/2003/228",
+   "short": "Ordin aaas nr. 228/2003",
+   "title": "Ordinul nr. 228/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Alimserv\" - S.A. Galați, județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48040",
+   "versions": [
+    {
+     "from": "2003-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48040",
+     "sha256": "867cdd061c63d3a0bda313fece1ea16bcc34dc33041a5c9f6f0d6493af833fe4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-229-2003",
+   "path": "ordin/aaas/2003/229",
+   "short": "Ordin aaas nr. 229/2003",
+   "title": "Ordinul nr. 229/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Dunasi\" - S.A. Galați, județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48041",
+   "versions": [
+    {
+     "from": "2003-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48041",
+     "sha256": "fa72b1945b6465e0fffca4fb13fb034613a778eec2adc44658733209de02d69b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-230-2003",
+   "path": "ordin/aaas/2003/230",
+   "short": "Ordin aaas nr. 230/2003",
+   "title": "Ordinul nr. 230/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Orlatex\" - S.A. Orlat, județul Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48042",
+   "versions": [
+    {
+     "from": "2003-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48042",
+     "sha256": "98493a05fd72ee2a74ba1b7c70bc4f6da0d1b87f09f9dc573407819b0ffdf732"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-231-2003",
+   "path": "ordin/aaas/2003/231",
+   "short": "Ordin aaas nr. 231/2003",
+   "title": "Ordinul nr. 231/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"C.C.P.R.\" - S.A. Brașov, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48043",
+   "versions": [
+    {
+     "from": "2003-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48043",
+     "sha256": "49a3ddd4d91e66244133facc36e2741743ada31afadbf4ce3aa01cb8632fcd9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-233-2003",
+   "path": "ordin/aaas/2003/233",
+   "short": "Ordin aaas nr. 233/2003",
+   "title": "Ordinul nr. 233/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Foraj Sonde\"-S.A. Târgu Cărbunești, județul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48261",
+   "versions": [
+    {
+     "from": "2003-12-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48261",
+     "sha256": "6c2df54b1ba7884d62ecfaaa8d0ce2a1bc1b6eb63e520c9a48f0b62ea19ae884"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-234-2003",
+   "path": "ordin/aaas/2003/234",
+   "short": "Ordin aaas nr. 234/2003",
+   "title": "Ordinul nr. 234/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Spumante Silvania\" - S.A. Șimleu Silvaniei, județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48263",
+   "versions": [
+    {
+     "from": "2003-12-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48263",
+     "sha256": "9016abe03d2a9e5d7150cd84d54ce3f4aff4b2137d08f3f1d0407a66c5562efd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-244-2003",
+   "path": "ordin/aaas/2003/244",
+   "short": "Ordin aaas nr. 244/2003",
+   "title": "Ordinul nr. 244/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Barumc\" - S.A. Anina, județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48489",
+   "versions": [
+    {
+     "from": "2003-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48489",
+     "sha256": "bb381b363ee4deffaef3fdc63a6463ac66427abe19f03a24d8181e9e2adcdd0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-245-2003",
+   "path": "ordin/aaas/2003/245",
+   "short": "Ordin aaas nr. 245/2003",
+   "title": "Ordinul nr. 245/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Remar\" - S.A. Pașcani, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48490",
+   "versions": [
+    {
+     "from": "2003-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48490",
+     "sha256": "66fb07fac2aa933b86110b03c918441631e1c4b598f9b32aeaa8999174f0f947"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-25-2003",
+   "path": "ordin/aaas/2003/25",
+   "short": "Ordin aaas nr. 25/2003",
+   "title": "Ordinul nr. 25/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Romatest - Institut Testare și Cercetare Mecanică Agricolă\" - S.A. Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43321",
+   "versions": [
+    {
+     "from": "2003-04-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43321",
+     "sha256": "2b259072f4536ccc757b0f8287982608cece206da8033896f8f798a7e91a78a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3-2003",
+   "path": "ordin/aaas/2003/3",
+   "short": "Ordin aaas nr. 3/2003",
+   "title": "Ordinul nr. 3/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Girueta\" - S.A. Jilava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41770",
+   "versions": [
+    {
+     "from": "2003-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41770",
+     "sha256": "c4d67d78beb6ef6dab5b74de21af5ac81844d6995d1fe43beb1a1df234e3e7b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-38-2003",
+   "path": "ordin/aaas/2003/38",
+   "short": "Ordin aaas nr. 38/2003",
+   "title": "Ordinul nr. 38/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Piscicolă\" - S.A. Jurilovca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43459",
+   "versions": [
+    {
+     "from": "2003-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43459",
+     "sha256": "d995a6f68838a6c149f565574153d3aa2e5f92c1b0df51d378f6584def068cf8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-39-2003",
+   "path": "ordin/aaas/2003/39",
+   "short": "Ordin aaas nr. 39/2003",
+   "title": "Ordinul nr. 39/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Texin\" - S.A. Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43460",
+   "versions": [
+    {
+     "from": "2003-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43460",
+     "sha256": "208d3160f9f6ae6175653c0aa32079945f4d3df3746f0f521542cc095e57827b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4-2003",
+   "path": "ordin/aaas/2003/4",
+   "short": "Ordin aaas nr. 4/2003",
+   "title": "Ordinul nr. 4/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Icemenerg Service\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41771",
+   "versions": [
+    {
+     "from": "2003-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41771",
+     "sha256": "31396d49969e99b2e24abbe2149544a896d351d8d14aad59f2d9c46fc8ed0ec8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-40-2003",
+   "path": "ordin/aaas/2003/40",
+   "short": "Ordin aaas nr. 40/2003",
+   "title": "Ordinul nr. 40/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Stipo\" - S.A. Dorohoi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43461",
+   "versions": [
+    {
+     "from": "2003-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43461",
+     "sha256": "43c8292e97e0d2df7703927cc4a3d024608385bc25d0032a06a94c867dd60eb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-41-2003",
+   "path": "ordin/aaas/2003/41",
+   "short": "Ordin aaas nr. 41/2003",
+   "title": "Ordinul nr. 41/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Ampelum\" - S.A. Zlatna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43462",
+   "versions": [
+    {
+     "from": "2003-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43462",
+     "sha256": "3203cdf32a206b16ed4c8a1ff7784e8f3e351f32795114c7f2e3ee08ef9739e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-42-2003",
+   "path": "ordin/aaas/2003/42",
+   "short": "Ordin aaas nr. 42/2003",
+   "title": "Ordinul nr. 42/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"ICE Felix Computer\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43463",
+   "versions": [
+    {
+     "from": "2003-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43463",
+     "sha256": "d88128b1030693619b576a9bdca8e5d20a8d970fd2890890364013a180caa523"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-60-2003",
+   "path": "ordin/aaas/2003/60",
+   "short": "Ordin aaas nr. 60/2003",
+   "title": "Ordinul nr. 60/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Omega\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44091",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44091",
+     "sha256": "c14d83330194afe04cadc8286e0a99a4f4daff697c6ba1b0d6b3935d5e10779d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-61-2003",
+   "path": "ordin/aaas/2003/61",
+   "short": "Ordin aaas nr. 61/2003",
+   "title": "Ordinul nr. 61/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Soceram\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44094",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44094",
+     "sha256": "b190684c2cce63830db18f07dc8e2fa732aaaaffa55d31e413609dc160ac4bf6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-62-2003",
+   "path": "ordin/aaas/2003/62",
+   "short": "Ordin aaas nr. 62/2003",
+   "title": "Ordinul nr. 62/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"I.C.E.F.S.\" - S.A. Săvinești, județul Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44097",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44097",
+     "sha256": "2cf2cec41050228b55f9c8c51e35b8b9cca30fe45b4cc7c74bea6723a411553d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-63-2003",
+   "path": "ordin/aaas/2003/63",
+   "short": "Ordin aaas nr. 63/2003",
+   "title": "Ordinul nr. 63/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Apcom Select\" - S.A. Târgu Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44099",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44099",
+     "sha256": "388f2269146663362adf94f68777fca36944778feb53945bf7ca41253c518df4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-69-2003",
+   "path": "ordin/aaas/2003/69",
+   "short": "Ordin aaas nr. 69/2003",
+   "title": "Ordinul nr. 69/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Silvania Forest\" - S.A. Satu Mare, județul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44157",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44157",
+     "sha256": "4b8a1f173de642937b225b20dbe4e8967835b9f01fd92a719bca1a0900673eaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-78-2003",
+   "path": "ordin/aaas/2003/78",
+   "short": "Ordin aaas nr. 78/2003",
+   "title": "Ordinul nr. 78/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Metalică\" - S.A. Rupea, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44270",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44270",
+     "sha256": "2faf037ca6766d948ce552a87ca1baa21df85255aabe8673e4489e022eb8928e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-79-2003",
+   "path": "ordin/aaas/2003/79",
+   "short": "Ordin aaas nr. 79/2003",
+   "title": "Ordinul nr. 79/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Seracom (Compania de Construcții Holding)\" - S.A. Târgu Mureș, județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44271",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44271",
+     "sha256": "15c2f53453b3cc8176e01bd55bc6943ffd1d6d11c6693bda5df8c3576b78fac2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-80-2003",
+   "path": "ordin/aaas/2003/80",
+   "short": "Ordin aaas nr. 80/2003",
+   "title": "Ordinul nr. 80/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Mobimod\" - S.A. Tecuci, județul Galați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44275",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44275",
+     "sha256": "c14d2a08f66268f8460de0cf7629132e62c626e54f5910702872e3af13879ecd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-82-2003",
+   "path": "ordin/aaas/2003/82",
+   "short": "Ordin aaas nr. 82/2003",
+   "title": "Ordinul nr. 82/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Presum Proiect\" - S.A. Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44414",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44414",
+     "sha256": "2ab06eb0cf01c45578d747bd626782237d9a9e13b1801b87e0d3fb39826489d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-83-2003",
+   "path": "ordin/aaas/2003/83",
+   "short": "Ordin aaas nr. 83/2003",
+   "title": "Ordinul nr. 83/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Islaz\" - S.A. Alexandria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44418",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44418",
+     "sha256": "7c28d851fbee0a05b1b0ca1daf7df3a61bbc4ed2d3d0fe9665d43878f4f5403e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-84-2003",
+   "path": "ordin/aaas/2003/84",
+   "short": "Ordin aaas nr. 84/2003",
+   "title": "Ordinul nr. 84/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Geopec\" - S.A. Pitești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44420",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44420",
+     "sha256": "4e50fec03ed3027f972ab37434d504694882034ebcbe6b36ce67ff1da6976342"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-85-2003",
+   "path": "ordin/aaas/2003/85",
+   "short": "Ordin aaas nr. 85/2003",
+   "title": "Ordinul nr. 85/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"Transport Mixt STAMC\" - S.A. Ramnicu Sărat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44422",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44422",
+     "sha256": "0c6979e7569a26649d7199c605aa1c21f558eb3e4cddc48c98fe4286dce3b219"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-9-2003",
+   "path": "ordin/aaas/2003/9",
+   "short": "Ordin aaas nr. 9/2003",
+   "title": "Ordinul nr. 9/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"U.C.M.R.\" - S.A. Reșita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42323",
+   "versions": [
+    {
+     "from": "2003-03-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42323",
+     "sha256": "aeb604c07f2430ef29b69e142239a293d9c2a01f051c5502e40a1793527d4925"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-95-2003",
+   "path": "ordin/aaas/2003/95",
+   "short": "Ordin aaas nr. 95/2003",
+   "title": "Ordinul nr. 95/2003 privind instituirea procedurii de administrare specială la Societatea Comercială \"CEPIEM\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44506",
+   "versions": [
+    {
+     "from": "2003-06-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44506",
+     "sha256": "e72b440c1cd9127b3858568b02b048b960fe425bd5c20370b13e64d6105517ae"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-10-2003",
    "path": "ordin/agricultura/2003/10",
    "short": "Ordin agricultura nr. 10/2003",
@@ -4683,6 +5418,36 @@
    ]
   },
   {
+   "slug": "ordin-anrm-12-2003",
+   "path": "ordin/anrm/2003/12",
+   "short": "Ordin anrm nr. 12/2003",
+   "title": "Ordinul nr. 12/2003 pentru aprobarea Instrucțiunilor privind elaborarea, avizarea, aprobarea și urmărirea realizării programelor (preliminariilor) anuale de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42434",
+   "versions": [
+    {
+     "from": "2003-03-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42434",
+     "sha256": "43d67346f1068f9879b3ad0bd4e48df37a74373b7f30efca11bb59f116663998"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-13-2003",
+   "path": "ordin/anrm/2003/13",
+   "short": "Ordin anrm nr. 13/2003",
+   "title": "Ordinul nr. 13/2003 privind concursul public de oferte nr. 33/2003 pentru concesionarea unor activități miniere de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41839",
+   "versions": [
+    {
+     "from": "2003-02-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41839",
+     "sha256": "2427fd7bc2b87f5e9321b5ba5f6662ef9b225cddd20e13f2e6008ce7bc50a5cd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-133-2003",
    "path": "ordin/anrm/2003/133",
    "short": "Ordin anrm nr. 133/2003",
@@ -4694,6 +5459,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45673",
      "sha256": "94b93ca4db4e2469fd96d7c53a42bdbf3d036693511148e974eb4beedae4e762"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-147-2003",
+   "path": "ordin/anrm/2003/147",
+   "short": "Ordin anrm nr. 147/2003",
+   "title": "Ordinul nr. 147/2003 pentru aprobarea Instrucțiunilor tehnice privind stabilirea diluției și a pierderilor în cazul minereurilor aurifere, neferoase și feroase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45803",
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45803",
+     "sha256": "fa37d89e58b62e5f7062e8b7dbf40ba3a3bd4cff1498dbb3d40bbdd9553a1776"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-158-2003",
+   "path": "ordin/anrm/2003/158",
+   "short": "Ordin anrm nr. 158/2003",
+   "title": "Ordinul nr. 158/2003 privind reofertarea pentru concesionare prin concurs de oferta publică a unor perimetre petroliere de explorare, dezvoltare și exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46352",
+   "versions": [
+    {
+     "from": "2003-09-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46352",
+     "sha256": "4b095a175b11434476a0f0c59b37813a75d107c5005f05c90632d58acc03062c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-159-2003",
+   "path": "ordin/anrm/2003/159",
+   "short": "Ordin anrm nr. 159/2003",
+   "title": "Ordinul nr. 159/2003 privind reofertarea pentru concesionare prin concurs de ofertă publică a unor perimetre petroliere de dezvoltare-exploatare și exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46389",
+   "versions": [
+    {
+     "from": "2003-09-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46389",
+     "sha256": "b506ee6b281343c09e5a0f8195bae11119d738c60a8d15dd6b0979a8a579c0e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-160-2003",
+   "path": "ordin/anrm/2003/160",
+   "short": "Ordin anrm nr. 160/2003",
+   "title": "Ordinul nr. 160/2003 privind concursul public de oferte nr. 35/2003 pentru concesionarea unor activități miniere de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46457",
+   "versions": [
+    {
+     "from": "2003-09-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46457",
+     "sha256": "8552a4212c1a9eed63d7d0377ff847029e6fb00d86e015c4097d52ac124653cc"
     }
    ]
   },
@@ -4713,6 +5538,36 @@
    ]
   },
   {
+   "slug": "ordin-anrm-197-2003",
+   "path": "ordin/anrm/2003/197",
+   "short": "Ordin anrm nr. 197/2003",
+   "title": "Ordinul nr. 197/2003 pentru aprobarea Normelor metodologice privind executarea lucrărilor de cadastru de specialitate în domeniul extractiv minier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49340",
+   "versions": [
+    {
+     "from": "2004-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49340",
+     "sha256": "25e5a28021424f33db1d04846ea5f98729852fc54521362a6a10220b8e383371"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-198-2003",
+   "path": "ordin/anrm/2003/198",
+   "short": "Ordin anrm nr. 198/2003",
+   "title": "Ordinul nr. 198/2003 privind ofertarea pentru concesionare prin negociere directă a unor perimetre petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47836",
+   "versions": [
+    {
+     "from": "2003-11-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47836",
+     "sha256": "f96ec23c25c8d3ec6fc870ccc6b4615c35f8e254aef5e0a3f026a18f7fcc72b7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-20-2003",
    "path": "ordin/anrm/2003/20",
    "short": "Ordin anrm nr. 20/2003",
@@ -4724,6 +5579,111 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41776",
      "sha256": "ca8bfcba32b804cc582e668ef12330691c0b52d0d5089e11b92224592c932a07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-207-2003",
+   "path": "ordin/anrm/2003/207",
+   "short": "Ordin anrm nr. 207/2003",
+   "title": "Ordinul nr. 207/2003 privind aprobarea tarifelor de transport al țițeiului prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48310",
+   "versions": [
+    {
+     "from": "2003-12-10",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48310",
+     "sha256": "5c8f42b21642a1bf76eb20627a72a5d7435d0d95c4e30d362a12dd72e19a4f49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-217-2003",
+   "path": "ordin/anrm/2003/217",
+   "short": "Ordin anrm nr. 217/2003",
+   "title": "Ordinul nr. 217/2003 privind lista perimetrelor de exploatare petrolieră oferite pentru concesionare prin apel public de ofertă - Runda a VI-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49027",
+   "versions": [
+    {
+     "from": "2004-01-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49027",
+     "sha256": "d06a19d6ca954502b779bbccb477894a9b79a20823fc980b310de13d44c1e15e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-219-2003",
+   "path": "ordin/anrm/2003/219",
+   "short": "Ordin anrm nr. 219/2003",
+   "title": "Ordinul nr. 219/2003 privind ofertarea pentru concesionare prin negociere directă a unor perimetre petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49028",
+   "versions": [
+    {
+     "from": "2004-01-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49028",
+     "sha256": "b0daf06b51287ff1f766d77f00bfe82f410164524f2a7c61872f1fac982db51f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-44-2003",
+   "path": "ordin/anrm/2003/44",
+   "short": "Ordin anrm nr. 44/2003",
+   "title": "Ordinul nr. 44/2003 privind concursul public de oferte nr. 34/2003 pentru concesionarea unor activități miniere de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42735",
+   "versions": [
+    {
+     "from": "2003-04-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42735",
+     "sha256": "37ce924fb8f1e8a2267f6f4947944f410be153672b342f9236049237bfd862c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-75-2003",
+   "path": "ordin/anrm/2003/75",
+   "short": "Ordin anrm nr. 75/2003",
+   "title": "Ordinul nr. 75/2003 privind aprobarea Instrucțiunilor tehnice pentru aplicarea Ordinului ministrului industriei și resurselor și al președintelui Agenției Naționale pentru Resurse Minerale nr. 49/14/2003 privind valorificarea cantităților de gaze naturale noi din producția internă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44411",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44411",
+     "sha256": "cf5b636ef18cc6f7bb8ffaa60693e94a074787d8e30ffa72f87e30b6478698ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-82-2003",
+   "path": "ordin/anrm/2003/82",
+   "short": "Ordin anrm nr. 82/2003",
+   "title": "Ordinul nr. 82/2003 privind aprobarea tarifelor de transport al țițeiului prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44620",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44620",
+     "sha256": "151e35dbd9c9862fa253730f9ba5b0ee251b44954c19716108f7fcfc428c70dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-92-2003",
+   "path": "ordin/anrm/2003/92",
+   "short": "Ordin anrm nr. 92/2003",
+   "title": "Ordinul nr. 92/2003 privind modificarea Instrucțiunilor tehnice pentru aplicarea Ordinului ministrului industriei și resurselor și al președintelui Agenției Naționale pentru Resurse Minerale nr. 49/14/2003 privind valorificarea cantităților de gaze naturale noi din producția internă, aprobate prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 75/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45082",
+   "versions": [
+    {
+     "from": "2003-07-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45082",
+     "sha256": "9a5604ab38b654aa9dc168d64000d76c6e310e3c918b8d1d77fe4410afe419fb"
     }
    ]
   },
@@ -4964,6 +5924,246 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42439",
      "sha256": "c29d988d9ab66a1b31af3983463befc7b7e2dd834a2b4409856bc990cd7c9cb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-125-2003",
+   "path": "ordin/comunicatii/2003/125",
+   "short": "Ordin comunicatii nr. 125/2003",
+   "title": "Ordinul nr. 125/2003 pentru adoptarea unor măsuri privind importul sau comercializarea telefoanelor mobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43306",
+   "versions": [
+    {
+     "from": "2003-04-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43306",
+     "sha256": "0c9b43de1f02e757f1cbd089f0323100869815120faa0da2d51a00b57d73d9ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-126-2003",
+   "path": "ordin/comunicatii/2003/126",
+   "short": "Ordin comunicatii nr. 126/2003",
+   "title": "Ordinul nr. 126/2003 pentru modificarea unor anexe la Ordinul ministrului comunicațiilor și tehnologiei informației nr. 365/2002 privind procedura de autorizare a difuzării sau retransmisiei serviciilor de programe audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43310",
+   "versions": [
+    {
+     "from": "2003-04-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43310",
+     "sha256": "7eb094daf60780dcfe71dbd83e4eae51e9be5e99f50b07c2c1b254100999dab6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-127-2003",
+   "path": "ordin/comunicatii/2003/127",
+   "short": "Ordin comunicatii nr. 127/2003",
+   "title": "Ordinul nr. 127/2003 pentru aprobarea Procedurii de acordare a licențelor de utilizare a frecvențelor radioelectrice în vederea furnizării de rețele naționale de comunicații electronice punct-multipunct în banda de 3,5 GHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43531",
+   "versions": [
+    {
+     "from": "2003-05-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43531",
+     "sha256": "76d6a5f9c41dcd7b88023ff2e610cc0b5a0079613d6266ce9e8ba4637b8e54e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-164-2003",
+   "path": "ordin/comunicatii/2003/164",
+   "short": "Ordin comunicatii nr. 164/2003",
+   "title": "Ordinul nr. 164/2003 pentru aprobarea Procedurii de tarifare și a Listei cuprinzând tarifele de utilizare a spectrului, datorate anual către Inspectoratul General pentru Comunicații și Tehnologia Informației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44151",
+   "versions": [
+    {
+     "from": "2003-06-04",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44151",
+     "sha256": "a18418544088cc1098b3df13117cdc8be96be979a4a45779ca40615f188c42d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-209-2003",
+   "path": "ordin/comunicatii/2003/209",
+   "short": "Ordin comunicatii nr. 209/2003",
+   "title": "Ordinul nr. 209/2003 pentru aprobarea Normelor metodologice privind recunoașterea organismelor pentru evaluarea conformității aparatelor cu cerințele esențiale prevăzute de Hotărârea Guvernului nr. 497/2003 și de Hotărârea Guvernului nr. 88/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45348",
+   "versions": [
+    {
+     "from": "2003-07-31",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45348",
+     "sha256": "93e364566c639ea8f4c93e72db2fa1b3a3485cf48f4f89ebd5a0154df80b1319"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-210-2003",
+   "path": "ordin/comunicatii/2003/210",
+   "short": "Ordin comunicatii nr. 210/2003",
+   "title": "Ordinul nr. 210/2003 cu privire la notificarea echipamentelor radio în conformitate cu art. 13 din Hotărârea Guvernului nr. 88/2003 privind echipamentele radio și echipamentele terminale de telecomunicații și recunoașterea mutuala a conformității acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45254",
+   "versions": [
+    {
+     "from": "2003-07-28",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45254",
+     "sha256": "570a34898a75fdf6f3c687a3866500cef51ab480558d387132bd97db5ab66ed1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-225-2003",
+   "path": "ordin/comunicatii/2003/225",
+   "short": "Ordin comunicatii nr. 225/2003",
+   "title": "Ordinul nr. 225/2003 pentru aprobarea Documentului de politica și strategie privind implementarea serviciului universal în sectorul serviciilor poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46141",
+   "versions": [
+    {
+     "from": "2003-09-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46141",
+     "sha256": "bae1e46c23c6d3774e7e8470662d10cc649720827fb00fe536ba4b8f9ac71704"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-232-2003",
+   "path": "ordin/comunicatii/2003/232",
+   "short": "Ordin comunicatii nr. 232/2003",
+   "title": "Ordinul nr. 232/2003 pentru aprobarea Tabelului național de atribuire a benzilor de frecventa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46137",
+   "versions": [
+    {
+     "from": "2003-09-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46137",
+     "sha256": "08c9bf83d9fb1ea22a129acef5455a75649b24e7db59d3cdbeaf3eb828468b65"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-286-2003",
+   "path": "ordin/comunicatii/2003/286",
+   "short": "Ordin comunicatii nr. 286/2003",
+   "title": "Ordinul nr. 286/2003 privind modificarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 164/2003 pentru aprobarea Procedurii de tarifare și a Listei cuprinzând tarifele de utilizare a spectrului, datorate anual către Inspectoratul General pentru Comunicații și Tehnologia Informației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46173",
+   "versions": [
+    {
+     "from": "2003-09-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46173",
+     "sha256": "3b19216638a22cec33ac5970f6cc2d6391d257ca5db71cba9249c043774280c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-298-2003",
+   "path": "ordin/comunicatii/2003/298",
+   "short": "Ordin comunicatii nr. 298/2003",
+   "title": "Ordinul nr. 298/2003 privind procedura de acordare a avizelor necesare pentru înființarea și funcționarea asociațiilor și fundațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46594",
+   "versions": [
+    {
+     "from": "2003-10-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46594",
+     "sha256": "e9e2e95975da84fbb8084349e8ff5e2b21ea02226ad37c3688087ba9d011f5d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-384-2003",
+   "path": "ordin/comunicatii/2003/384",
+   "short": "Ordin comunicatii nr. 384/2003",
+   "title": "Ordinul nr. 384/2003 privind aprobarea listelor organismelor recunoscute pentru evaluarea conformității aparatelor cu cerințele esențiale prevăzute de Hotărârea Guvernului nr. 497/2003 și de Hotărârea Guvernului nr. 88/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47849",
+   "versions": [
+    {
+     "from": "2003-11-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47849",
+     "sha256": "33a8e9d77135ef7be42dd05ca952ea7851c9269e5887e1f56b37f4f07540bc7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-403-2003",
+   "path": "ordin/comunicatii/2003/403",
+   "short": "Ordin comunicatii nr. 403/2003",
+   "title": "Ordinul nr. 403/2003 privind procedura de solicitare și de emitere a licențelor de utilizare a frecvențelor radioelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49547",
+   "versions": [
+    {
+     "from": "2004-02-03",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49547",
+     "sha256": "902c315da78ee35280acbb588ba51dd871c65e32dd00bff86bb36aadfa146edd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-423-2003",
+   "path": "ordin/comunicatii/2003/423",
+   "short": "Ordin comunicatii nr. 423/2003",
+   "title": "Ordinul nr. 423/2003 privind categoriile de frecvențe radioelectrice a căror utilizare este liberă și regimul armonizat de utilizare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48370",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48370",
+     "sha256": "58b9ac68bbcf85e23279b98f524736d9a1386ea10cfee6e27752f43804d9081b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-438-2003",
+   "path": "ordin/comunicatii/2003/438",
+   "short": "Ordin comunicatii nr. 438/2003",
+   "title": "Ordinul nr. 438/2003 pentru aprobarea Procedurii de acordare a licențelor de utilizare a frecvențelor radioelectrice în vederea furnizării de rețele naționale de comunicații electronice punct-multipunct în banda de frecvențe 24,5-26,5 GHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48937",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48937",
+     "sha256": "403ea319871d0ba290d490d2accb99aa9ed995ac02bbe2815562e8fbf8409421"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-73-2003",
+   "path": "ordin/comunicatii/2003/73",
+   "short": "Ordin comunicatii nr. 73/2003",
+   "title": "Ordinul nr. 73/2003 privind unele măsuri referitoare la utilizarea frecventelor radioelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42749",
+   "versions": [
+    {
+     "from": "2003-04-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42749",
+     "sha256": "c8e6c262c579894b4809538f9e2f6857469bb1e4b5f63397698e210d591059aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-74-2003",
+   "path": "ordin/comunicatii/2003/74",
+   "short": "Ordin comunicatii nr. 74/2003",
+   "title": "Ordinul nr. 74/2003 pentru modificarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 365/2002 privind procedura de autorizare a difuzării sau retransmisiei serviciilor de programe audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42751",
+   "versions": [
+    {
+     "from": "2003-04-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42751",
+     "sha256": "addfad85823a41720396b07086423953a9763e4c90e56d16e0223e22cfc0cdd6"
     }
    ]
   },
@@ -5238,6 +6438,81 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2664-2003",
+   "path": "ordin/cultura/2003/2664",
+   "short": "Ordin cultura nr. 2664/2003",
+   "title": "Ordinul nr. 2.664/2003 pentru aprobarea Criteriilor și procedurii de acordare a statutului de utilitate publică asociațiilor, fundațiilor și federațiilor care desfășoară activități din sfera de competența a Ministerului Culturii și Cultelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44146",
+   "versions": [
+    {
+     "from": "2003-06-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44146",
+     "sha256": "b1b46d0473564fb2c6507ba94a8af2d04cca0ba56362f75f0e8114cb5494c175"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2682-2003",
+   "path": "ordin/cultura/2003/2682",
+   "short": "Ordin cultura nr. 2682/2003",
+   "title": "Ordinul nr. 2.682/2003 privind aprobarea Normelor metodologice de clasare și evidenta a monumentelor istorice, a Listei monumentelor istorice, a Fisei analitice de evidenta a monumentelor istorice și a Fisei minimale de evidenta a monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44602",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44602",
+     "sha256": "bd0a51a298df38e5b4368e8c2307ece0183319f70204fef1d728b78c237c0136"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2684-2003",
+   "path": "ordin/cultura/2003/2684",
+   "short": "Ordin cultura nr. 2684/2003",
+   "title": "Ordinul nr. 2.684/2003 privind aprobarea Metodologiei de întocmire a Obligației privind folosința monumentului istoric și a conținutului acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44617",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44617",
+     "sha256": "c47171b1696d123fe3a8e96dac0d5f65a2cf1929b91004d44a36bf399f7cc8a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2745-2003",
+   "path": "ordin/cultura/2003/2745",
+   "short": "Ordin cultura nr. 2745/2003",
+   "title": "Ordinul nr. 2.745/2003 privind instituirea procedurii de administrare specială la Compania Națională a Imprimeriilor \"Coresi\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45225",
+   "versions": [
+    {
+     "from": "2003-07-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45225",
+     "sha256": "a9d276af4d20fd9b723d85e01729646ba38a8ad06de6f5a9d9eec2c498feba3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2799-2003",
+   "path": "ordin/cultura/2003/2799",
+   "short": "Ordin cultura nr. 2799/2003",
+   "title": "Ordinul nr. 2.799/2003 pentru aprobarea Condițiilor în care se conferă Ordinul Meritul Cultural și Medalia Meritul Cultural, pe categoriile corespunzătoare activităților specifice și conexe domeniului cultural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46320",
+   "versions": [
+    {
+     "from": "2003-09-19",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46320",
+     "sha256": "a1e8273c2c7bbff1c439e6a2ef7d0a538553316609ed32545d7c4a89b0148702"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2823-2003",
    "path": "ordin/cultura/2003/2823",
    "short": "Ordin cultura nr. 2823/2003",
@@ -5249,6 +6524,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48265",
      "sha256": "430ab10404a5643a936a83c2285b790282dd71058485043b93fbec2c94d2624f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2830-2003",
+   "path": "ordin/cultura/2003/2830",
+   "short": "Ordin cultura nr. 2830/2003",
+   "title": "Ordinul nr. 2.830/2003 pentru aprobarea Regulamentului privind organizarea și funcționarea Comisiei de Avizare a Lăcașurilor de Cult",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47595",
+   "versions": [
+    {
+     "from": "2003-11-10",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47595",
+     "sha256": "9de17cd9ce11ec8d17d01f5cb4dfc315c375584425ec3c07eee2e10625fe97a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2883-2003",
+   "path": "ordin/cultura/2003/2883",
+   "short": "Ordin cultura nr. 2883/2003",
+   "title": "Ordinul nr. 2.883/2003 pentru aprobarea Normelor metodologice privind desfășurarea activităților specifice așezămintelor culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48999",
+   "versions": [
+    {
+     "from": "2004-01-12",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48999",
+     "sha256": "e3b6ef387b28e0c82fd0b02e5b9cf13e9ed7ad57daf9eaa957966eefef5b8dfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2891-2003",
+   "path": "ordin/cultura/2003/2891",
+   "short": "Ordin cultura nr. 2891/2003",
+   "title": "Ordinul nr. 2.891/2003 privind modificarea Ordinului ministrului culturii și cultelor nr. 2.830/2003 pentru aprobarea Regulamentului privind organizarea și funcționarea Comisiei de Avizare a Lăcașurilor de Cult",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49274",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49274",
+     "sha256": "7bd3904d1debd64ffbd61acf37fdbdcd98651f5176ba5c4df7a5115323c145fd"
     }
    ]
   },
@@ -8129,6 +9449,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44543",
      "sha256": "295c6587c7fd1fa317d025e01238da5c17b44e8f4728b4feff9eb11cd2eb6e46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-363-2003",
+   "path": "ordin/externe/2003/363",
+   "short": "Ordin externe nr. 363/2003",
+   "title": "Ordinul nr. 363/2003 pentru aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41766",
+   "versions": [
+    {
+     "from": "2003-02-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41766",
+     "sha256": "afec9fa18444e2080b09848570816f2f93a745c7958308427447af221566b340"
     }
    ]
   },

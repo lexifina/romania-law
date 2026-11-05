@@ -3,6 +3,21 @@
  "shard": "ordin/2026",
  "acts": [
   {
+   "slug": "ordin-aaas-142-2026",
+   "path": "ordin/aaas/2026/142",
+   "short": "Ordin aaas nr. 142/2026",
+   "title": "Ordinul nr. 142/2026 privind instituirea procedurii de administrare specială în vederea dizolvării și lichidării, conform prevederilor art. 21 din Legea nr. 137/2002 privind unele măsuri pentru accelerarea privatizării, la societatea HORTICOLA - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313520",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313520",
+     "sha256": "2debe2bbe2f78fa14f4c995283c3d4b93f50477d2bc64a0f66c6fe2e216a8e8f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-10-2026",
    "path": "ordin/agricultura/2026/10",
    "short": "Ordin agricultura nr. 10/2026",
@@ -1773,6 +1788,36 @@
    ]
   },
   {
+   "slug": "ordin-anmcs-136-2026",
+   "path": "ordin/anmcs/2026/136",
+   "short": "Ordin anmcs nr. 136/2026",
+   "title": "Ordinul nr. 136/2026 privind aprobarea cadrului normativ al evaluatorilor de servicii de sănătate ai Autorității Naționale de Management al Calității în Sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314802",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314802",
+     "sha256": "e48303dc14f867eae7c5b74aad1fcd3efef0700725bea6c4afc6631d247ffc4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anmcs-56-2026",
+   "path": "ordin/anmcs/2026/56",
+   "short": "Ordin anmcs nr. 56/2026",
+   "title": "Ordinul nr. 56/2026 privind publicarea Listei unităților sanitare cu paturi încadrate în categoriile de acreditare în luna martie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309654",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309654",
+     "sha256": "b74912ca2040fd90abd6c56d03ac6aeeac7f81994905c41bf77a4ef9564f9312"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-27-2026",
    "path": "ordin/anpc/2026/27",
    "short": "Ordin anpc nr. 27/2026",
@@ -2279,6 +2324,186 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310313",
      "sha256": "55ef2f64f8d0604f79b7d588be7c659003f63c69ff73434b1e67f3fcb5e53fb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-114-2026",
+   "path": "ordin/anrm/2026/114",
+   "short": "Ordin anrm nr. 114/2026",
+   "title": "Ordinul nr. 114/2026 pentru modificarea anexei la Ordinul președintelui Agenției pentru Resurse Minerale nr. 32/2018 privind aprobarea Metodologiei de stabilire a prețului de referință pentru gazele naturale extrase în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308363",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308363",
+     "sha256": "eb537bfae610f6a1aa4fed7e2bf3151f105224371c078e4e3c501b00efe7370e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-164-2026",
+   "path": "ordin/anrm/2026/164",
+   "short": "Ordin anrm nr. 164/2026",
+   "title": "Ordinul nr. 164/2026 privind aprobarea tarifelor de transport prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310317",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310317",
+     "sha256": "a34abcef2a2db672559854b9a5fb8b01eca466e99042a6f2885161ddda1af228"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-172-2026",
+   "path": "ordin/anrm/2026/172",
+   "short": "Ordin anrm nr. 172/2026",
+   "title": "Ordinul nr. 172/2026 privind aprobarea tarifelor pentru actele eliberate în domeniul stocării geologice a dioxidului de carbon, a tarifelor pentru consultarea și utilizarea datelor și informațiilor din Fondul geologic național, modalitatea de plată și evidența acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310544",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310544",
+     "sha256": "9c34f83ab82d6d5d58b61a40cc314db592645463432afe58219a7c27a0e6f20e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-174-2026",
+   "path": "ordin/anrm/2026/174",
+   "short": "Ordin anrm nr. 174/2026",
+   "title": "Ordinul nr. 174/2026 privind aprobarea Instrucțiunilor de organizare și desfășurare a sesiunilor de pregătire de specialitate și consultanță, precum și stabilirea tarifelor aferente acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310943",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310943",
+     "sha256": "8dee74519c3495c95102cfe60b01f58ce23ed780a99889278c514460706a826c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-178-2026",
+   "path": "ordin/anrm/2026/178",
+   "short": "Ordin anrm nr. 178/2026",
+   "title": "Ordinul nr. 178/2026 pentru aprobarea Instrucțiunilor privind cercetarea geologică, protecția și exploatarea rațională a zăcămintelor de substanțe minerale utile solide",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310946",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310946",
+     "sha256": "1d3aad4dc4221b54a59148c4bf5616f91fe5099f6d9115dc2c31b8fa8b8b15d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-222-2026",
+   "path": "ordin/anrm/2026/222",
+   "short": "Ordin anrm nr. 222/2026",
+   "title": "Ordinul nr. 222/2026 privind aprobarea unor licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311412",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311412",
+     "sha256": "618f833373ae6a01eab7fcd26988cd43f733b52ddbebd2581e875c2e0472e13f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-25-2026",
+   "path": "ordin/anrm/2026/25",
+   "short": "Ordin anrm nr. 25/2026",
+   "title": "Ordinul nr. 25/2026 privind aprobarea Procedurii pentru acordarea înlesnirilor la plată a obligațiilor bugetare restante datorate bugetului Autorității Naționale de Reglementare în Domeniul Minier, Petrolier și al Stocării Geologice a Dioxidului de Carbon",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307267",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307267",
+     "sha256": "d355d72502199065ee1f0632a2731456aa4640ec17d596b15adc6a9fab6b8e5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-465-2026",
+   "path": "ordin/anrm/2026/465",
+   "short": "Ordin anrm nr. 465/2026",
+   "title": "Ordinul nr. 465/2026 privind aprobarea Licenței de dare în administrare pentru explorare nr. 29.575/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313084",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313084",
+     "sha256": "74a4595a4f5401b17c13a0461472715ce0c165f600c067c865e7c58b9d7650f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-50-2026",
+   "path": "ordin/anrm/2026/50",
+   "short": "Ordin anrm nr. 50/2026",
+   "title": "Ordinul nr. 50/2026 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Minier, Petrolier și al Stocării Geologice a Dioxidului de Carbon nr. 489/2024 privind aprobarea tarifelor pentru actele eliberate în domeniul minier de către Autoritatea Națională de Reglementare în Domeniul Minier, Petrolier și al Stocării Geologice a Dioxidului de Carbon și a tarifelor pentru consultarea și utilizarea de date și informații din fondul geologic național referitoare la resursele minerale, modalitatea de plată și evidența acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307441",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307441",
+     "sha256": "8322fc4ca27a1be8669b654793e988b920b2d3099d68f1e72b66a6dac376ea5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-528-2026",
+   "path": "ordin/anrm/2026/528",
+   "short": "Ordin anrm nr. 528/2026",
+   "title": "Ordinul nr. 528/2026 privind aprobarea Licenței de dare în administrare pentru explorare nr. 29.692/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314051",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314051",
+     "sha256": "2301be0c6b1694a41cbc0c97d9c1bc7865f34c9c4aa002dc918ebf5256925ac7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-582-2026",
+   "path": "ordin/anrm/2026/582",
+   "short": "Ordin anrm nr. 582/2026",
+   "title": "Ordinul nr. 582/2026 pentru modificarea și completarea Procedurii pentru acordarea înlesnirilor la plată a obligațiilor bugetare restante datorate bugetului Autorității Naționale de Reglementare în Domeniul Minier, Petrolier și al Stocării Geologice a Dioxidului de Carbon, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Minier, Petrolier și al Stocării Geologice a Dioxidului de Carbon nr. 25/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315150",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315150",
+     "sha256": "b0274587bb7547989f9485adeb38a8bbe455dc8260ef1257ef87d8ff72e81339"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-62-2026",
+   "path": "ordin/anrm/2026/62",
+   "short": "Ordin anrm nr. 62/2026",
+   "title": "Ordinul nr. 62/2026 pentru aprobarea Normelor metodologice privind modul de stabilire și cuantumul taxei de utilizare a golurilor miniere în scop turistic, comercial, de depozitare și alte utilizări similare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307984",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307984",
+     "sha256": "7fa0b7585d7da32f74e9fb6ad8c61467d4b314bf3512e5efcf24a2124ec3cc6c"
     }
    ]
   },
@@ -3389,6 +3614,111 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314935",
      "sha256": "b607c0ddb69039111c9d2b0060a3430f67e6613ef7b2645d621a60f8090bfa94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2662-2026",
+   "path": "ordin/cultura/2026/2662",
+   "short": "Ordin cultura nr. 2662/2026",
+   "title": "Ordinul nr. 2.662/2026 privind stabilirea măsurilor pentru gestionarea Programului național \"Limes\" și pentru aprobarea regulamentelor de organizare și funcționare ale comisiilor naționale \"Limes\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309737",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309737",
+     "sha256": "e251c0f344dedb2aa6cb1d12b15afc1140b59dd8daa523725a4c8159a016db62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2900-2026",
+   "path": "ordin/cultura/2026/2900",
+   "short": "Ordin cultura nr. 2900/2026",
+   "title": "Ordinul nr. 2.900/2026 privind stabilirea activităților și subactivităților rămase de realizat din calendarul de implementare a reformelor, țintelor și jaloanelor din cadrul Planului național de redresare și reziliență, precum și pentru aprobarea modelului raportului individual lunar de activitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311861",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311861",
+     "sha256": "afba671cff70f51e979ef45005fa66ae47f3d96f56d1e780b29829e6f4e474cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2939-2026",
+   "path": "ordin/cultura/2026/2939",
+   "short": "Ordin cultura nr. 2939/2026",
+   "title": "Ordinul nr. 2.939/2026 privind aprobarea Schemei de ajutor de minimis pentru sectorul cultural independent privind finanțarea nerambursabilă a proiectelor culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311991",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311991",
+     "sha256": "0d265d31587bd321ebb4c64898b00c490a8b51f237a5c3450f098012536370b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3167-2026",
+   "path": "ordin/cultura/2026/3167",
+   "short": "Ordin cultura nr. 3167/2026",
+   "title": "Ordinul nr. 3.167/2026 privind aprobarea procedurilor și a formatelor pentru emiterea acordului scris al Ministerului Culturii sau al serviciilor publice deconcentrate ale acestuia, după caz, conform art. 283 și 284 din Legea nr. 169/2026 privind Codul amenajării teritoriului, urbanismului și construcțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313809",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313809",
+     "sha256": "b48dc1f684dd63c9e412ffe55ad4607db3898357830162b623820e67be0d880c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3180-2026",
+   "path": "ordin/cultura/2026/3180",
+   "short": "Ordin cultura nr. 3180/2026",
+   "title": "Ordinul nr. 3.180/2026 pentru modificarea și completarea anexei la Ordinul ministrului culturii și patrimoniului național nr. 2.562/2010 privind aprobarea Procedurii de acordare a autorizațiilor pentru cercetarea arheologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314439",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314439",
+     "sha256": "6a4d5f78f439bbe28f7ae5705ac214d57967f011e523699dce1caa1e59ef63fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3195-2026",
+   "path": "ordin/cultura/2026/3195",
+   "short": "Ordin cultura nr. 3195/2026",
+   "title": "Ordinul nr. 3.195/2026 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești, devenite executorii în perioada 1 ianuarie 2026-31 decembrie 2026, având ca obiect acordarea unor drepturi de natură salarială și acordarea de daune-interese moratorii sub forma dobânzii legale pentru plata eșalonată a sumelor prevăzute în titluri executorii având ca obiect acordarea unor drepturi salariale personalului din aparatul propriu al Ministerului Culturii și celui din instituțiile publice aflate în subordinea/coordonarea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314690",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314690",
+     "sha256": "8abdcaa2b1e8b6cd8810fc2434b26f7b2137d2d4b8cb40d71ab09eedc4772707"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-3216-2026",
+   "path": "ordin/cultura/2026/3216",
+   "short": "Ordin cultura nr. 3216/2026",
+   "title": "Ordinul nr. 3.216/2026 pentru modificarea anexei la Ordinul ministrului culturii nr. 2.939/2026 privind aprobarea Schemei de ajutor de minimis pentru sectorul cultural independent privind finanțarea nerambursabilă a proiectelor culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314826",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314826",
+     "sha256": "6bf00bc88f1bcb0b8141398f81e30102322ab9fde3dd1a3889d981fd0085bc38"
     }
    ]
   },
@@ -5928,6 +6258,141 @@
    ]
   },
   {
+   "slug": "ordin-externe-1076-2026",
+   "path": "ordin/externe/2026/1076",
+   "short": "Ordin externe nr. 1076/2026",
+   "title": "Ordinul nr. 1.076/2026 privind intrarea în vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310935",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310935",
+     "sha256": "27bedf4db4e2635394e7764f983bae6fdd0d308d78081077ece9705b7e031e8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1216-2026",
+   "path": "ordin/externe/2026/1216",
+   "short": "Ordin externe nr. 1216/2026",
+   "title": "Ordinul nr. 1.216/2026 privind intrarea în vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311497",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311497",
+     "sha256": "6fe61ff30b257c28e94419822c4695b38f6c61ba2f9a54fd68343c31a791326c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1217-2026",
+   "path": "ordin/externe/2026/1217",
+   "short": "Ordin externe nr. 1217/2026",
+   "title": "Ordinul nr. 1.217/2026 privind intrarea în vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311922",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311922",
+     "sha256": "08ddf69f6cfeaf797b0e5f4b80b2f9c0547253e03625a67ec173535247b33a5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1286-2026",
+   "path": "ordin/externe/2026/1286",
+   "short": "Ordin externe nr. 1286/2026",
+   "title": "Ordinul nr. 1.286/2026 privind intrarea în vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311853",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311853",
+     "sha256": "2656518718b57e7a7f4cd06fa9362a39899ab03df0c219ae3acffe08d27098c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-135-2026",
+   "path": "ordin/externe/2026/135",
+   "short": "Ordin externe nr. 135/2026",
+   "title": "Ordinul nr. 135/2026 privind intrarea în vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307214",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307214",
+     "sha256": "60e2fb7bffc544c2140b428c5ecaf5b70d519d3f1fa1e89f73b165fe491e3bcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-161-2026",
+   "path": "ordin/externe/2026/161",
+   "short": "Ordin externe nr. 161/2026",
+   "title": "Ordinul nr. 161/2026 privind intrarea în vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307330",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307330",
+     "sha256": "1b9ae558b3067ee68ec003967814cd4df55a313a141fa4bd6e5d6afce82c6076"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1944-2026",
+   "path": "ordin/externe/2026/1944",
+   "short": "Ordin externe nr. 1944/2026",
+   "title": "Ordinul nr. 1.944/2026 privind intrarea în vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314367",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314367",
+     "sha256": "49130316869dedd7b98a96d2eb7a5a5c381f4722f0ca9026c550b086dde87b35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2343-2026",
+   "path": "ordin/externe/2026/2343",
+   "short": "Ordin externe nr. 2343/2026",
+   "title": "Ordinul nr. 2.343/2026 privind intrarea în vigoare a unui tratat internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315367",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315367",
+     "sha256": "4a79b24b7071c47b02d00777fe00210715780bf5f61ad6977c5a5b2d509f2e66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-486-2026",
+   "path": "ordin/externe/2026/486",
+   "short": "Ordin externe nr. 486/2026",
+   "title": "Ordinul nr. 486/2026 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308288",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308288",
+     "sha256": "422a9b1cd370242539a3e0f0b1bd607f9c7e5163431ce96aa16e4904736108ce"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1019-2026",
    "path": "ordin/finante/2026/1019",
    "short": "Ordin finante nr. 1019/2026",
@@ -6723,6 +7188,51 @@
    ]
   },
   {
+   "slug": "ordin-fonduri-1031-2026",
+   "path": "ordin/fonduri/2026/1031",
+   "short": "Ordin fonduri nr. 1031/2026",
+   "title": "Ordinul nr. 1.031/2026 privind modificarea Schemei de ajutor de minimis \"Digitalizarea sectorului organizațiilor neguvernamentale\" din cadrul Planului național de redresare și reziliență, componenta 7 \"Transformare digitală\", investiția 9 \"Digitalizarea sectorului organizațiilor neguvernamentale\", aprobată prin Ordinul ministrului investițiilor și proiectelor europene nr. 984/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311911",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311911",
+     "sha256": "bc0ded85f0d423b6e9c59c2e33072262a1b2d65bf4086a95403bd24f6b32846f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-109-2026",
+   "path": "ordin/fonduri/2026/109",
+   "short": "Ordin fonduri nr. 109/2026",
+   "title": "Ordinul nr. 109/2026 privind aprobarea Schemei de ajutor de minimis pentru IMM-uri în cadrul Programului Creștere inteligentă, digitalizare și instrumente financiare, prioritatea 1 - Susținerea și promovarea unui sistem de CDI atractiv și competitiv în RO, obiectivul specific RSO1.3 - Intensificarea creșterii sustenabile și creșterea competitivității IMM-urilor și crearea de locuri de muncă în cadrul IMM-urilor, inclusiv prin investiții productive (FEDR), acțiunea 1.5 - Sprijin pentru creșterea competitivității întreprinderilor/acțiunea 1.5.1 - Crearea/Operaționalizarea unui hub antreprenorial național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307235",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307235",
+     "sha256": "4c881d76f480eba460aa02b7d5b2214a60a7dbdd0cd463c63a4ab10af07372f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1143-2026",
+   "path": "ordin/fonduri/2026/1143",
+   "short": "Ordin fonduri nr. 1143/2026",
+   "title": "Ordinul nr. 1.143/2026 pentru modificarea Ordinului ministrului fondurilor europene nr. 1.284/2016 privind aprobarea Procedurii competitive aplicabile solicitanților/beneficiarilor privați pentru atribuirea contractelor de furnizare, servicii sau lucrări finanțate din fonduri europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312330",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312330",
+     "sha256": "e5e5f81b992fa940fb0d4c75e5ccba956c313c42165b75e5de7fdaa5af0c9939"
+    }
+   ]
+  },
+  {
    "slug": "ordin-fonduri-1299-2026",
    "path": "ordin/fonduri/2026/1299",
    "short": "Ordin fonduri nr. 1299/2026",
@@ -6753,6 +7263,126 @@
    ]
   },
   {
+   "slug": "ordin-fonduri-1345-2026",
+   "path": "ordin/fonduri/2026/1345",
+   "short": "Ordin fonduri nr. 1345/2026",
+   "title": "Ordinul nr. 1.345/2026 pentru modificarea Ordinului ministrului investițiilor și proiectelor europene nr. 654/2025 privind aprobarea Schemei de măsuri de ajutor de minimis având ca obiectiv dezvoltarea microîntreprinderilor prin acordarea de sprijin pentru creșterea durabilă și crearea de locuri de muncă în cadrul Programului Tranziție Justă 2021-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313921",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313921",
+     "sha256": "a46900896437cc3d7ab85e62897bbb6e30285f62003efcebea33b8d3ae73651b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1370-2026",
+   "path": "ordin/fonduri/2026/1370",
+   "short": "Ordin fonduri nr. 1370/2026",
+   "title": "Ordinul nr. 1.370/2026 pentru modificarea și completarea Ordinului ministrului investițiilor și proiectelor europene nr. 3.996/2023 privind aprobarea Schemei de măsuri de ajutor de stat și de minimis pentru finanțarea investițiilor pentru dezvoltarea IMM care sprijină creșterea durabilă și crearea de locuri de muncă în cadrul Programului Tranziție Justă 2021-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314386",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314386",
+     "sha256": "ecdcf3c5149176583b427ae463deab106e59632441acde92d1c2a1a32d013bb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1416-2026",
+   "path": "ordin/fonduri/2026/1416",
+   "short": "Ordin fonduri nr. 1416/2026",
+   "title": "Ordinul nr. 1.416/2026 pentru modificarea Ordinului ministrului investițiilor și proiectelor europene nr. 5.980/2025 privind aprobarea Schemei de ajutor de minimis având ca obiectiv dezvoltarea întreprinderilor sociale prin acordarea de sprijin pentru creșterea durabilă și crearea de locuri de muncă în cadrul Programului Tranziție justă 2021-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314546",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314546",
+     "sha256": "de506cd129e625bdec34d794f673a4ec9a5b1be75ee0319621071e8e0f7b206b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1426-2026",
+   "path": "ordin/fonduri/2026/1426",
+   "short": "Ordin fonduri nr. 1426/2026",
+   "title": "Ordinul nr. 1.426/2026 pentru modificarea Ordinului ministrului investițiilor și proiectelor europene nr. 5.775/2025 privind aprobarea Schemei de ajutor de minimis având ca obiectiv înființarea întreprinderilor sociale prin acordarea de sprijin pentru creșterea durabilă și crearea de locuri de muncă în cadrul Programului Tranziție Justă 2021-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314679",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314679",
+     "sha256": "6aaf3f8b8144a17e5dbab0235f078143afec8be1f4864f8d0ea63ba825a766d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1518-2026",
+   "path": "ordin/fonduri/2026/1518",
+   "short": "Ordin fonduri nr. 1518/2026",
+   "title": "Ordinul nr. 1.518/2026 privind aprobarea Schemei de ajutor de minimis \"Sprijin acordat microîntreprinderilor, IMM-urilor și întreprinderilor mici cu capitalizare de piață medie prin instrument financiar de tip garanție combinat cu grant într-o operațiune unică, în cadrul PoCIDIF, prioritatea 1 - Susținerea și promovarea unui sistem de CDI atractiv și competitiv în RO, obiectivul specific RSO1.3 Intensificarea creșterii sustenabile și creșterea competitivității IMM-urilor și crearea de locuri de muncă în cadrul IMM-urilor, inclusiv prin investiții productive (FEDR), acțiunea 1.5.2 - Dezvoltarea inteligentă a întreprinderilor: noi modele pentru dezvoltarea afacerilor și retehnologizare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315046",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315046",
+     "sha256": "5e913255acd13327e795b5843cc698bb13458798cd030e5c64bdd78a52635428"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1581-2026",
+   "path": "ordin/fonduri/2026/1581",
+   "short": "Ordin fonduri nr. 1581/2026",
+   "title": "Ordinul nr. 1.581/2026 pentru aprobarea Instrucțiunii tehnice prevăzute la alin. (1) al art. 18 din Legea nr. 141/2026 privind aplicarea unor măsuri pentru accelerarea implementării investițiilor publice în domeniul construcțiilor, în cazul proiectelor finanțate prin Programul operațional Infrastructură mare 2014-2020 declarate nefuncționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315234",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315234",
+     "sha256": "3e2962815ce02b44c03f553595b60de0418f63ad835307eb575b7622b1850845"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1592-2026",
+   "path": "ordin/fonduri/2026/1592",
+   "short": "Ordin fonduri nr. 1592/2026",
+   "title": "Ordinul nr. 1.592/2026 pentru modificarea alin. (42) al art. 7 din anexa la Ordinul ministrului investițiilor și proiectelor europene nr. 2.041/2023 pentru aprobarea modelului contractului de finanțare prevăzut la art. 14 alin. (2) din Ordonanța de urgență a Guvernului nr. 23/2023 privind instituirea unor măsuri de simplificare și digitalizare pentru gestionarea fondurilor europene aferente Politicii de coeziune 2021-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315363",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315363",
+     "sha256": "7518d2963e10fcfff017e59e23139c4e409d95611e8d6d02387e688c8c24e63a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-163-2026",
+   "path": "ordin/fonduri/2026/163",
+   "short": "Ordin fonduri nr. 163/2026",
+   "title": "Ordinul nr. 163/2026 privind stabilirea procedurii de efectuare a plății sumelor prevăzute prin hotărâri judecătorești definitive având ca obiect acordarea unor drepturi de natură salarială stabilite în favoarea personalului din cadrul aparatului propriu al Ministerului Investițiilor și Proiectelor Europene, devenite executorii în perioada 1 ianuarie 2026-31 decembrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307280",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307280",
+     "sha256": "f5544759ce2b62e50c44b745da674c9a6841b049533bb01a3947f057466314f6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-fonduri-3718-2026",
    "path": "ordin/fonduri/2026/3718",
    "short": "Ordin fonduri nr. 3718/2026",
@@ -6764,6 +7394,141 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313073",
      "sha256": "191976f5aeeec345fdea410a47be198466af7bd881b95ab5bcca7ff0791cf146"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-394-2026",
+   "path": "ordin/fonduri/2026/394",
+   "short": "Ordin fonduri nr. 394/2026",
+   "title": "Ordinul nr. 394/2026 privind aprobarea schemei de ajutor de minimis pentru produse și/sau servicii inovative asistive dezvoltate în cadrul proiectului \"Cluster național de inovare socială și incluziune\", aferentă Programului Incluziune și demnitate socială, prioritate: P09. Inovarea socială (Acțiuni sociale inovatoare), obiectiv specific: ESO4.8 Favorizarea incluziunii active în vederea promovării egalității de șanse, a nediscriminării și a participării active, precum și în vederea îmbunătățirii capacității de inserție profesională, în special în rândul grupurilor defavorizate (FSE+)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308370",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308370",
+     "sha256": "016a34b79b0f4dc5cbcbaf245f1b7905c3da4de53593a6685d138c9666488858"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-440-2026",
+   "path": "ordin/fonduri/2026/440",
+   "short": "Ordin fonduri nr. 440/2026",
+   "title": "Ordinul nr. 440/2026 pentru modificarea Ordinului ministrului investițiilor și proiectelor europene nr. 3.151/2023 privind aprobarea Schemei de ajutor de stat \"Finanțarea proiectelor pentru digitalizarea IMM-urilor realizată prin huburi de inovare digitală europene (EDIH)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308937",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308937",
+     "sha256": "865c577dd6e966b977dc624a7d576cd6c5f316cfbdca394988be09eed3bf7149"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-47-2026",
+   "path": "ordin/fonduri/2026/47",
+   "short": "Ordin fonduri nr. 47/2026",
+   "title": "Ordinul nr. 47/2026 privind modificarea Schemei de măsuri de ajutor de stat și de minimis pentru finanțarea investițiilor pentru dezvoltarea IMM care sprijină creșterea durabilă și crearea de locuri de muncă în cadrul Programului Tranziție Justă 2021-2027, aprobată prin Ordinul ministrului investițiilor și proiectelor europene nr. 3.996/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306482",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306482",
+     "sha256": "40a6885c0a668a6b7f71842403e5eebe1a142355c754ae525283ecd0d32da9a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-654-2026",
+   "path": "ordin/fonduri/2026/654",
+   "short": "Ordin fonduri nr. 654/2026",
+   "title": "Ordinul nr. 654/2026 pentru aprobarea Metodologiei de aplicare a reducerilor/corecțiilor financiare individuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310474",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310474",
+     "sha256": "96d67e21dd16f49cc18fe22eecafe5e01757dde12e58c00bb5706bc8b164183c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-744-2026",
+   "path": "ordin/fonduri/2026/744",
+   "short": "Ordin fonduri nr. 744/2026",
+   "title": "Ordinul nr. 744/2026 pentru modificarea Schemei de ajutor de minimis \"Sprijin pentru înființarea de întreprinderi sociale în mediul urban\", aferentă Programului Educație și Ocupare, prioritate: 4. Antreprenoriat și economie socială, obiectiv specific: ESO4.1. Îmbunătățirea accesului la piața muncii și măsuri de activare pentru toate persoanele aflate în căutarea unui loc de muncă, în special pentru tineri, îndeosebi prin implementarea Garanției pentru tineret, pentru șomerii de lungă durată și grupurile defavorizate de pe piața muncii și pentru persoanele inactive, precum și prin promovarea desfășurării de activități independente și a economiei sociale (FSE+), măsura 4.a.2, aprobată prin Ordinul ministrului investițiilor și proiectelor europene nr. 5.702/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311034",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311034",
+     "sha256": "d30f5010ba91de6bdad2a3802d7a354c4d725a16d850db0c149fc0344278f180"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-855-2026",
+   "path": "ordin/fonduri/2026/855",
+   "short": "Ordin fonduri nr. 855/2026",
+   "title": "Ordinul nr. 855/2026 pentru modificarea Schemei de ajutor de stat pentru compensarea costurilor de investiții în/pentru sisteme de management integrat al deșeurilor necesare pentru îmbunătățirea modului de gestionare a deșeurilor municipale în vederea asigurării tranziției spre economia circulară în cadrul Programului Dezvoltare durabilă 2021-2027, aprobată prin Ordinul ministrului investițiilor și proiectelor europene nr. 6.521/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311361",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311361",
+     "sha256": "e991c55816955a39e39e1988aeed6a9dc5c1fd24e8e9526cbf68d60e58a2dd0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-875-2026",
+   "path": "ordin/fonduri/2026/875",
+   "short": "Ordin fonduri nr. 875/2026",
+   "title": "Ordinul nr. 875/2026 privind aprobarea Schemei de ajutor de stat și de minimis referitoare la \"Granturi pentru dezvoltarea de noi servicii/aplicații/produse prin inovare și adoptarea de tehnologii avansate\", aferentă Programului Creștere inteligentă, digitalizare și instrumente financiare 2021-2027, prioritatea 2 - \"Digitalizare în administrația publică centrală și mediul de afaceri\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311426",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311426",
+     "sha256": "8f67f44c02a7635d5e40623d94d1402a547fadac34d46e9c6196224f571341e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-896-2026",
+   "path": "ordin/fonduri/2026/896",
+   "short": "Ordin fonduri nr. 896/2026",
+   "title": "Ordinul nr. 896/2026 pentru modificarea anexei nr. 4 la Modalitatea de derulare a procedurii de achiziție pentru atribuirea contractelor de furnizare de produse, prestare de servicii, execuție de lucrări finanțate din fondurile externe nerambursabile și rambursabile aferente Mecanismului de redresare și reziliență, alocate prin Planul național de redresare și reziliență, aplicabilă beneficiarilor privați care nu au obligația respectării prevederilor legale aplicabile în domeniul achizițiilor publice, precum și lista utilizată pentru verificarea achizițiilor derulate de aceștia, aprobate prin Ordinul ministrului investițiilor și proiectelor europene nr. 372/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311496",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311496",
+     "sha256": "a8ed8a47df1d446aef2d017a2728f50d0e83a300d73c76d555d2d22b0e088f1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-963-2026",
+   "path": "ordin/fonduri/2026/963",
+   "short": "Ordin fonduri nr. 963/2026",
+   "title": "Ordinul nr. 963/2026 privind modificarea Schemei de ajutor de minimis \"Digitalizarea IMM-urilor - grant de până la 100.000 euro pe întreprindere care să sprijine IMM-urile în adoptarea tehnologiilor digitale\", aferentă Planului național de redresare și reziliență, din cadrul pilonului III. Creștere inteligentă, sustenabilă și favorabilă incluziunii, inclusiv coeziune economică, locuri de muncă, productivitate, competitivitate, cercetare, dezvoltare și inovare, precum și o piață internă funcțională, cu întreprinderi mici și mijlocii (IMM-uri) puternice, componenta C9. Suport pentru sectorul privat, cercetare, dezvoltare și inovare, investiția I3. Scheme de ajutor pentru sectorul privat, măsura 1. Schemă de minimis și schemă de ajutor de stat în contextul digitalizării IMM-urilor, aprobată prin Ordinul ministrului investițiilor și proiectelor europene nr. 401/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311845",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311845",
+     "sha256": "3c49b5414ed42965a9f85577dedbd39dd00488f579dd4101ecb2a51d4d9a33cd"
     }
    ]
   },

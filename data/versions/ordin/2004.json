@@ -3,6 +3,591 @@
  "shard": "ordin/2004",
  "acts": [
   {
+   "slug": "ordin-aaas-20-2004",
+   "path": "ordin/aaas/2004/20",
+   "short": "Ordin aaas nr. 20/2004",
+   "title": "Ordinul nr. 20/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"CASSTIL\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50347",
+   "versions": [
+    {
+     "from": "2004-03-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50347",
+     "sha256": "15877d84b1632c375f99a48e9deeeb3d3d3fc4e7fc504f29e431ea2e38a0d9fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-27-2004",
+   "path": "ordin/aaas/2004/27",
+   "short": "Ordin aaas nr. 27/2004",
+   "title": "Ordinul nr. 27/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"FEPA\" - S.A. Bârlad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50523",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50523",
+     "sha256": "49dae671cc25ad4bc36a80c4802a8756be5ace840c1ad71b9365465acd8022b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-28-2004",
+   "path": "ordin/aaas/2004/28",
+   "short": "Ordin aaas nr. 28/2004",
+   "title": "Ordinul nr. 28/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"FORADEX\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50960",
+   "versions": [
+    {
+     "from": "2004-04-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50960",
+     "sha256": "5bceb9a2332bc7531522afcc79b320294b896e93e4e5098efff21c721192babd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-29-2004",
+   "path": "ordin/aaas/2004/29",
+   "short": "Ordin aaas nr. 29/2004",
+   "title": "Ordinul nr. 29/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"I.S.P.C.F. - Institutul de Studii și Proiectări Căi Ferate\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53744",
+   "versions": [
+    {
+     "from": "2004-07-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53744",
+     "sha256": "77d56611b0d326a3e18a424e9794ed1b00befaef41dd444e9110a620d876b408"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-30-2004",
+   "path": "ordin/aaas/2004/30",
+   "short": "Ordin aaas nr. 30/2004",
+   "title": "Ordinul nr. 30/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Sere Brașov\" - S.A. Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53753",
+   "versions": [
+    {
+     "from": "2004-07-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53753",
+     "sha256": "6373df7935777528079df18a56b460b42d7688ea5e0af911c595f2e76d182aa4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-31-2004",
+   "path": "ordin/aaas/2004/31",
+   "short": "Ordin aaas nr. 31/2004",
+   "title": "Ordinul nr. 31/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"HIDROSIB\" - S.A. Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50774",
+   "versions": [
+    {
+     "from": "2004-03-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50774",
+     "sha256": "5e2237ae3bdd05d648455116a436b18830b6c449d56cf7279d16f97a7bd97597"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-35-2004",
+   "path": "ordin/aaas/2004/35",
+   "short": "Ordin aaas nr. 35/2004",
+   "title": "Ordinul nr. 35/2004 privind încetarea procedurii de administrare specială la Societatea Comercială \"Republica\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51232",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51232",
+     "sha256": "4847fad1ef5e69d0d4c9c38be9c4e938fc402d0107aebde8a1d3f171e299a5e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3966-2004",
+   "path": "ordin/aaas/2004/3966",
+   "short": "Ordin aaas nr. 3966/2004",
+   "title": "Ordinul nr. 3.966/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"ICEPALV - Institutul de cercetări protecții anticorozive, lacuri și vopsele\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55807",
+   "versions": [
+    {
+     "from": "2004-10-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55807",
+     "sha256": "88d2bfa3c1036a24fdab4258df7c988467231f54af6695eccf100dcfc4344ee3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3967-2004",
+   "path": "ordin/aaas/2004/3967",
+   "short": "Ordin aaas nr. 3967/2004",
+   "title": "Ordinul nr. 3.967/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"INAV\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55811",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55811",
+     "sha256": "5f6aa0be176a5e0960652f167f18fe70239d10e1a26e46296960ceabee536b24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3968-2004",
+   "path": "ordin/aaas/2004/3968",
+   "short": "Ordin aaas nr. 3968/2004",
+   "title": "Ordinul nr. 3.968/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"ICTCM\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55812",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55812",
+     "sha256": "d1eb2bd41b4d21fb77d40ed0e6cb70de14f2b013378aa19afc20a8efb61252b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3969-2004",
+   "path": "ordin/aaas/2004/3969",
+   "short": "Ordin aaas nr. 3969/2004",
+   "title": "Ordinul nr. 3.969/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Centrul de Cercetări pentru Antibiotice\" - S.A. Iași, județul Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56013",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56013",
+     "sha256": "11ccdb31e8fd33a02d94feda966dec56a25b4c4747da44276e7e8fb7b4bb773c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3970-2004",
+   "path": "ordin/aaas/2004/3970",
+   "short": "Ordin aaas nr. 3970/2004",
+   "title": "Ordinul nr. 3.970/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"CEPROHART\" - S.A. Brăila, județul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56014",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56014",
+     "sha256": "fe99d59dc56e130bc6fc3dd36b9689af0de7e56d0ff65ce49f09a80f46deef23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3971-2004",
+   "path": "ordin/aaas/2004/3971",
+   "short": "Ordin aaas nr. 3971/2004",
+   "title": "Ordinul nr. 3.971/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"CEPROM\" - S.A. Satu Mare, județul Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56015",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56015",
+     "sha256": "a2df6219967057203d1deb0bdb43adc7910f4a61c79020e4f08f0371edcc1245"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3972-2004",
+   "path": "ordin/aaas/2004/3972",
+   "short": "Ordin aaas nr. 3972/2004",
+   "title": "Ordinul nr. 3.972/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"STRAERO\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55974",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55974",
+     "sha256": "cf0d5e8e62c7d5b1b0118006d676f93c317e864a33a2351dd725dcd31b7e8877"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3973-2004",
+   "path": "ordin/aaas/2004/3973",
+   "short": "Ordin aaas nr. 3973/2004",
+   "title": "Ordinul nr. 3.973/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"TEHNOMAG CUG\" - S.A. Cluj-Napoca, județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55975",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55975",
+     "sha256": "516288642a4ebf0457acd024aaaeec11fcbb376b091de2cb1778784a4e37490e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3974-2004",
+   "path": "ordin/aaas/2004/3974",
+   "short": "Ordin aaas nr. 3974/2004",
+   "title": "Ordinul nr. 3.974/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"MASTER\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55976",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55976",
+     "sha256": "dcf9ab4f9150f874b75f5ffb8c4988a75f81bee7b5ee5471905461d07fdafa94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3975-2004",
+   "path": "ordin/aaas/2004/3975",
+   "short": "Ordin aaas nr. 3975/2004",
+   "title": "Ordinul nr. 3.975/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"INTEC\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55977",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55977",
+     "sha256": "97fe9a984721dada3707f28c1cc8439fb83e63cea7963c7e1f9cf04035ed82ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3976-2004",
+   "path": "ordin/aaas/2004/3976",
+   "short": "Ordin aaas nr. 3976/2004",
+   "title": "Ordinul nr. 3.976/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"ITEC\" - S.A. Brazi, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55990",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55990",
+     "sha256": "7244ed83f90cde0902797ba7fa804bf7b52c69f271022a597729e3917fde4e1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3977-2004",
+   "path": "ordin/aaas/2004/3977",
+   "short": "Ordin aaas nr. 3977/2004",
+   "title": "Ordinul nr. 3.977/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"IMNR\" - S.A. comuna Pantelimon",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55991",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55991",
+     "sha256": "c99bb5dcad281d575f65f8d8770d6493b912a33ed812901690daa7223f762aa6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3978-2004",
+   "path": "ordin/aaas/2004/3978",
+   "short": "Ordin aaas nr. 3978/2004",
+   "title": "Ordinul nr. 3.978/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Institutul de Cercetări Metalurgice - ICEM\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55850",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55850",
+     "sha256": "bbfd2e03d041cccb2b36e09b162d52703eb2d5db9c5412d00665ab92841b00ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3979-2004",
+   "path": "ordin/aaas/2004/3979",
+   "short": "Ordin aaas nr. 3979/2004",
+   "title": "Ordinul nr. 3.979/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"ICPE BISTRIȚA\" - S.A. Bistrița, județul Bistrița-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55992",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55992",
+     "sha256": "79bee078f8c5b51ff63c65f6941a369ef3174e3f5f9ecbc4b0de35549358f5d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3980-2004",
+   "path": "ordin/aaas/2004/3980",
+   "short": "Ordin aaas nr. 3980/2004",
+   "title": "Ordinul nr. 3.980/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Institutul Național al Lemnului\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55887",
+   "versions": [
+    {
+     "from": "2004-10-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55887",
+     "sha256": "414d95e9675266968aa149a5e484e387b5a0cf002ef8930d7817b48e068de83b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-3981-2004",
+   "path": "ordin/aaas/2004/3981",
+   "short": "Ordin aaas nr. 3981/2004",
+   "title": "Ordinul nr. 3.981/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Institutul Național de Sticlă\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55888",
+   "versions": [
+    {
+     "from": "2004-10-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55888",
+     "sha256": "92019f39bae97c2795c6e685266412f36279331b8892270d22e1f3cebc1d8a3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4116-2004",
+   "path": "ordin/aaas/2004/4116",
+   "short": "Ordin aaas nr. 4116/2004",
+   "title": "Ordinul nr. 4.116/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Urbis\" - S.A. Oravița, județul Caraș-Severin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56137",
+   "versions": [
+    {
+     "from": "2004-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56137",
+     "sha256": "c6eff342c120587672b968a9b907a488cab2b3d92c6eafb2ffc0404ce1c1360f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4117-2004",
+   "path": "ordin/aaas/2004/4117",
+   "short": "Ordin aaas nr. 4117/2004",
+   "title": "Ordinul nr. 4.117/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Termoproiect\" - S.A. Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56138",
+   "versions": [
+    {
+     "from": "2004-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56138",
+     "sha256": "e15e2aec0f13f580bba815f354b3ef532464fd94ff494a2c164c15e98d7d3a34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4130-2004",
+   "path": "ordin/aaas/2004/4130",
+   "short": "Ordin aaas nr. 4130/2004",
+   "title": "Ordinul nr. 4.130/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"CISAM\" - S.A. Sânnicolau Mare, județul Timiș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56344",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56344",
+     "sha256": "9b16057994a3e26357c0f0d0d71b032472c7bb6348b96b24fbb21cfd488b220e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4158-2004",
+   "path": "ordin/aaas/2004/4158",
+   "short": "Ordin aaas nr. 4158/2004",
+   "title": "Ordinul nr. 4.158/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Colorom\" - S.A. Codlea, județul Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56527",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56527",
+     "sha256": "0d850132d698317ebdf5beddb1caa4800e096d94266cae8bc1815f4acfaeb493"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4165-2004",
+   "path": "ordin/aaas/2004/4165",
+   "short": "Ordin aaas nr. 4165/2004",
+   "title": "Ordinul nr. 4.165/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Arcadia 2000 (Semnal)\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56528",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56528",
+     "sha256": "a4e478ad591f429b8d53ba945f406df90017a7157bef74b532d7c1bb7e796599"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4166-2004",
+   "path": "ordin/aaas/2004/4166",
+   "short": "Ordin aaas nr. 4166/2004",
+   "title": "Ordinul nr. 4.166/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Munca Ovidiu\" - S.A. Ovidiu, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56529",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56529",
+     "sha256": "ba5f39959b914b6e375e32dacba3f97c93c42f19bcabf8dc8120f475c60b1d9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4175-2004",
+   "path": "ordin/aaas/2004/4175",
+   "short": "Ordin aaas nr. 4175/2004",
+   "title": "Ordinul nr. 4.175/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"TRICODAVA\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56398",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56398",
+     "sha256": "4a5521c91783caee19de5e5040bf3dbc2bb67feb71a8883565402280d4e8b063"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4231-2004",
+   "path": "ordin/aaas/2004/4231",
+   "short": "Ordin aaas nr. 4231/2004",
+   "title": "Ordinul nr. 4.231/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Laminorul\" - S.A. Brăila, județul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56825",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56825",
+     "sha256": "51b194df45181418af16fc19a4edf580346bed3902f6ed7676cff5590cc0bf70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-43-2004",
+   "path": "ordin/aaas/2004/43",
+   "short": "Ordin aaas nr. 43/2004",
+   "title": "Ordinul nr. 43/2004 privind instituirea procedurii de administrare specială la Societatea Comercială Construcții Feroviare \"Moldova\" - S.A. Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54198",
+   "versions": [
+    {
+     "from": "2004-08-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54198",
+     "sha256": "6ff2f52ed277087f84eefb99c1fd5f0dd7e579a2a9d5fce6575369616aa992bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4319-2004",
+   "path": "ordin/aaas/2004/4319",
+   "short": "Ordin aaas nr. 4319/2004",
+   "title": "Ordinul nr. 4.319/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Institutul de Cercetări Produse Auxiliare Organice\" - S.A. Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58022",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58022",
+     "sha256": "052a263bd4afc427f7c71c6459f6a92d3a0a13713a6001d963dfc5e61d829284"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-4329-2004",
+   "path": "ordin/aaas/2004/4329",
+   "short": "Ordin aaas nr. 4329/2004",
+   "title": "Ordinul nr. 4.329/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"Montana\" - S.A. Piatra-Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58047",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58047",
+     "sha256": "755b129e935cfcdea85413d60e159c1aa684cbefdddcbbfa5ebf4241b4e43548"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-54-2004",
+   "path": "ordin/aaas/2004/54",
+   "short": "Ordin aaas nr. 54/2004",
+   "title": "Ordinul nr. 54/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"IMUT\" - S.A. Moreni, județul Dâmbovița",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51728",
+   "versions": [
+    {
+     "from": "2004-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51728",
+     "sha256": "d641d687025ac907d1b2c1c2d702e617e71a258c663ecc33355faefedd36adba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-55-2004",
+   "path": "ordin/aaas/2004/55",
+   "short": "Ordin aaas nr. 55/2004",
+   "title": "Ordinul nr. 55/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"CIPROM\" - S.A. Ploiești, județul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51299",
+   "versions": [
+    {
+     "from": "2004-04-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51299",
+     "sha256": "ecad2cc57cc1040262ef67aa107d47c3a9fdecad2961c8ff1d9ea5fc31dd43ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-56-2004",
+   "path": "ordin/aaas/2004/56",
+   "short": "Ordin aaas nr. 56/2004",
+   "title": "Ordinul nr. 56/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"I.C.S.H.\" - S.A. Hunedoara, județul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51304",
+   "versions": [
+    {
+     "from": "2004-04-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51304",
+     "sha256": "91d0c135967f3f651d208cb34bdd135846348ab65206b8911fdd636a4b649fee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-59-2004",
+   "path": "ordin/aaas/2004/59",
+   "short": "Ordin aaas nr. 59/2004",
+   "title": "Ordinul nr. 59/2004 privind aprobarea formularului-tip al procesului-verbal de constatare și sancționare a contravențiilor prevăzute de Ordonanța Guvernului nr. 25/2002 privind unele măsuri de urmărire a executării obligațiilor asumate prin contractele de privatizare a societăților comerciale, aprobată cu modificări și completări prin Legea nr. 506/2002, cu modificările și completările ulterioare, și a formularului-tip al înștiințării de plată a amenzii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51357",
+   "versions": [
+    {
+     "from": "2004-05-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51357",
+     "sha256": "b1896e87f58b32514c10a2fa44b44bdc4c1976aefd64fc6fcae8ed8bb8d8faaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-8-2004",
+   "path": "ordin/aaas/2004/8",
+   "short": "Ordin aaas nr. 8/2004",
+   "title": "Ordinul nr. 8/2004 privind instituirea procedurii de administrare specială la Societatea Comercială \"SOMVETRA\" - S.A. Gherla, județul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49536",
+   "versions": [
+    {
+     "from": "2004-02-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49536",
+     "sha256": "ccb60e73dbc436ab24a01a6f76535fd5eca6963303647a6aeadb334698399ddb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-101-2004",
    "path": "ordin/agricultura/2004/101",
    "short": "Ordin agricultura nr. 101/2004",
@@ -3468,6 +4053,261 @@
    ]
   },
   {
+   "slug": "ordin-anrm-101-2004",
+   "path": "ordin/anrm/2004/101",
+   "short": "Ordin anrm nr. 101/2004",
+   "title": "Ordinul nr. 101/2004 privind aprobarea modelului-cadru al procesului-verbal de constatare și sancționare a contravențiilor în domeniul efectuării de activități miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52570",
+   "versions": [
+    {
+     "from": "2004-06-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52570",
+     "sha256": "a65aed6171e2049182f38de5036fc00605318522febaa8c9c4c1feda6b886c7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-111-2004",
+   "path": "ordin/anrm/2004/111",
+   "short": "Ordin anrm nr. 111/2004",
+   "title": "Ordinul nr. 111/2004 pentru modificarea Metodologiei de atestare a competenței tehnice a persoanelor juridice care întocmesc documentații și/sau execută lucrări de cercetare geologică, lucrări de exploatare a petrolului și a resurselor minerale și de expertizare, precum și a persoanelor fizice care întocmesc documentații și/sau execută lucrări de cercetare geologică și de expertizare, aprobată prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 38/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52626",
+   "versions": [
+    {
+     "from": "2004-06-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52626",
+     "sha256": "ecc46f0f3edc9c4038476e87842afc4aea915592b497b312f3cc0b20657c3646"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-146-2004",
+   "path": "ordin/anrm/2004/146",
+   "short": "Ordin anrm nr. 146/2004",
+   "title": "Ordinul nr. 146/2004 privind aprobarea Instrucțiunilor tehnice de reglementare a eliberării permiselor de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53621",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53621",
+     "sha256": "ac737f351919b99e64339f288d5959f0ef463fcd2b663e4a597231a955fd483d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-157-2004",
+   "path": "ordin/anrm/2004/157",
+   "short": "Ordin anrm nr. 157/2004",
+   "title": "Ordinul nr. 157/2004 privind modificarea și completarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 52/2002 privind aprobarea normativelor și prescripțiilor tehnice specifice zonelor de protecție și zonelor de siguranță aferente Sistemului național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53582",
+   "versions": [
+    {
+     "from": "2004-07-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53582",
+     "sha256": "82a58100601e86f7d3f3dfd508f467c1d2f8c9b76bbd897908705146e2df79f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-165-2004",
+   "path": "ordin/anrm/2004/165",
+   "short": "Ordin anrm nr. 165/2004",
+   "title": "Ordinul nr. 165/2004 privind modificarea unor instrucțiuni tehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54372",
+   "versions": [
+    {
+     "from": "2004-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54372",
+     "sha256": "c95b8d648f80289100532289ee463c45f7fbff64859fb8a6a8870eeda910c0a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-170-2004",
+   "path": "ordin/anrm/2004/170",
+   "short": "Ordin anrm nr. 170/2004",
+   "title": "Ordinul nr. 170/2004 privind aprobarea Listei perimetrelor pentru concesionarea unor activități miniere de explorare, Runda nr. 40/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54361",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54361",
+     "sha256": "8e34d8ca638f2fdcca850908364b7155e539427cec99e0fba4395cc27a43435c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-178-2004",
+   "path": "ordin/anrm/2004/178",
+   "short": "Ordin anrm nr. 178/2004",
+   "title": "Ordinul nr. 178/2004 privind lista perimetrelor de exploatare petrolieră oferite pentru concesionare prin apel public de ofertă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54946",
+   "versions": [
+    {
+     "from": "2004-09-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54946",
+     "sha256": "812efc9da95c6007127a5835af5e365945e5daa1777f6697d231d95ec1e49501"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-193-2004",
+   "path": "ordin/anrm/2004/193",
+   "short": "Ordin anrm nr. 193/2004",
+   "title": "Ordinul nr. 193/2004 privind aprobarea listei perimetrelor pentru concesionarea unor activități miniere de explorare, Runda nr. 41/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54991",
+   "versions": [
+    {
+     "from": "2004-09-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54991",
+     "sha256": "abb98a9a016148b91ba64ce168c612578f3f4bf79c884cb740c60d3f5aaba391"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-222-2004",
+   "path": "ordin/anrm/2004/222",
+   "short": "Ordin anrm nr. 222/2004",
+   "title": "Ordinul nr. 222/2004 privind aprobarea Listei perimetrelor pentru concesionarea de activități miniere de exploatare Runda nr. 42/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55803",
+   "versions": [
+    {
+     "from": "2004-10-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55803",
+     "sha256": "73dfd8aa5fc3fdd70611dbea0f8e06283ba82cdf884fbbb8d960e8a040c916f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-237-2004",
+   "path": "ordin/anrm/2004/237",
+   "short": "Ordin anrm nr. 237/2004",
+   "title": "Ordinul nr. 237/2004 privind aprobarea tarifelor percepute pentru actele eliberate de Agenția Națională pentru Resurse Minerale în exercitarea atribuțiilor sale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57770",
+   "versions": [
+    {
+     "from": "2004-12-15",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57770",
+     "sha256": "a75bbbda2b554c473893b8e7af45bfcdc7d6289e563a875ec13c3d38bea39a16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-238-2004",
+   "path": "ordin/anrm/2004/238",
+   "short": "Ordin anrm nr. 238/2004",
+   "title": "Ordinul nr. 238/2004 pentru aprobarea Instrucțiunilor privind elaborarea programului anual de exploatare petrolieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59121",
+   "versions": [
+    {
+     "from": "2005-02-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59121",
+     "sha256": "a40d5c7d82e909dbf2046b145c4e400723a321996bae76ddac10162a0e047de0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-274-2004",
+   "path": "ordin/anrm/2004/274",
+   "short": "Ordin anrm nr. 274/2004",
+   "title": "Ordinul nr. 274/2004 pentru aprobarea Instrucțiunilor tehnice privind fundamentarea, aprobarea și încasarea tarifelor și taxelor prevăzute la art. 52 alin. (1) și (2) din Legea petrolului nr. 238/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58732",
+   "versions": [
+    {
+     "from": "2005-01-23",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58732",
+     "sha256": "27990ddc6b0b92f94a6f054d9dda5c7bcc80d359f87cf3cf8167d1fff85b1322"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-28-2004",
+   "path": "ordin/anrm/2004/28",
+   "short": "Ordin anrm nr. 28/2004",
+   "title": "Ordinul nr. 28/2004 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare - Runda nr. 36/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49406",
+   "versions": [
+    {
+     "from": "2004-02-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49406",
+     "sha256": "d7c0ffdf852ee04fbeb0d246f89d25f47415e30ded0044eb58bb706f3c70a1b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-37-2004",
+   "path": "ordin/anrm/2004/37",
+   "short": "Ordin anrm nr. 37/2004",
+   "title": "Ordinul nr. 37/2004 privind aprobarea Contractului-cadru pentru transportul țițeiului, gazolinei, condensatului și etanului lichid",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49862",
+   "versions": [
+    {
+     "from": "2004-02-18",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49862",
+     "sha256": "13e4da4799ed4829f56c939e52e0f41e3d58e8f69e4527026710d49d5fd0a406"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-42-2004",
+   "path": "ordin/anrm/2004/42",
+   "short": "Ordin anrm nr. 42/2004",
+   "title": "Ordinul nr. 42/2004 privind reofertarea pentru concesionare prin negociere directă a unor perimetre petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50003",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50003",
+     "sha256": "ced551c20bef46ed379570343e590d31d1ce4d9af3313dafe0a095499efabb1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-56-2004",
+   "path": "ordin/anrm/2004/56",
+   "short": "Ordin anrm nr. 56/2004",
+   "title": "Ordinul nr. 56/2004 privind aprobarea tarifelor percepute pentru actele eliberate de Agenția Națională pentru Resurse Minerale în exercitarea atribuțiilor sale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50068",
+   "versions": [
+    {
+     "from": "2004-03-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50068",
+     "sha256": "d1388449b09532b9e1f1a92bcfec90c66f787aecfd856202a4a4da0a117fbe20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-57-2004",
+   "path": "ordin/anrm/2004/57",
+   "short": "Ordin anrm nr. 57/2004",
+   "title": "Ordinul nr. 57/2004 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare Runda nr. 37/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50166",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50166",
+     "sha256": "904a06d15cc7559e1d0f443028dd68a6d0ba64a221340deea1c7d845849a0037"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-58-2004",
    "path": "ordin/anrm/2004/58",
    "short": "Ordin anrm nr. 58/2004",
@@ -3479,6 +4319,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51716",
      "sha256": "9bcc40d1a325b1ea27b468c0fab91a9cf3bb82c35044a9d3ca8f01d08bc2dcb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-71-2004",
+   "path": "ordin/anrm/2004/71",
+   "short": "Ordin anrm nr. 71/2004",
+   "title": "Ordinul nr. 71/2004 pentru aprobarea Normelor metodologice privind criteriile, metodologia și procedura de stabilire a tarifelor reglementate pentru transportul țițeiului, gazolinei, condensatului și etanului lichid prin conducte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51016",
+   "versions": [
+    {
+     "from": "2004-04-10",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51016",
+     "sha256": "38c7a1c92756fb4aeb19c5f3be634422777a18155ee559fa92ad67bd164a1fa9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-85-2004",
+   "path": "ordin/anrm/2004/85",
+   "short": "Ordin anrm nr. 85/2004",
+   "title": "Ordinul nr. 85/2004 privind aprobarea Listei perimetrelor pentru concesionarea activităților de explorare Runda nr. 38/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52001",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52001",
+     "sha256": "623cce8c4fa8d5a152842c91d510d974eeb2da679cfa9c659dca3dd867a4b349"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-86-2004",
+   "path": "ordin/anrm/2004/86",
+   "short": "Ordin anrm nr. 86/2004",
+   "title": "Ordinul nr. 86/2004 privind aprobarea Listei perimetrelor pentru concesionarea de activități de exploatare Runda nr. 39/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51808",
+   "versions": [
+    {
+     "from": "2004-05-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51808",
+     "sha256": "66d98420c19389f32b0158b201aaad39c40bc8da4911100f002c08ba51b53c15"
     }
    ]
   },
@@ -4788,6 +5673,111 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-137-2004",
+   "path": "ordin/comunicatii/2004/137",
+   "short": "Ordin comunicatii nr. 137/2004",
+   "title": "Ordinul nr. 137/2004 pentru modificarea și completarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 423/2003 privind categoriile de frecvențe radioelectrice a căror utilizare este liberă și regimul armonizat de utilizare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51397",
+   "versions": [
+    {
+     "from": "2004-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51397",
+     "sha256": "a7cc6a80cb5dc54c77c5ef6a28ed86cbcb90832bbe43be4bfa8fc342942ea640"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-168-2004",
+   "path": "ordin/comunicatii/2004/168",
+   "short": "Ordin comunicatii nr. 168/2004",
+   "title": "Ordinul nr. 168/2004 pentru prelungirea termenului de depunere a cererilor de preschimbare a actelor administrative prin care s-au acordat drepturi de utilizare a spectrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51814",
+   "versions": [
+    {
+     "from": "2004-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51814",
+     "sha256": "de935317ab86349ad384f51329089de8c3e9ada99cc8740d92d214acced26c08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-184-2004",
+   "path": "ordin/comunicatii/2004/184",
+   "short": "Ordin comunicatii nr. 184/2004",
+   "title": "Ordinul nr. 184/2004 pentru aprobarea Documentului de politică și strategie privind implementarea serviciului universal în sectorul comunicațiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52522",
+   "versions": [
+    {
+     "from": "2004-06-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52522",
+     "sha256": "697e77bd955fb70069b201f8a677dabe07a2acfccf859fe7964986bfff185fe9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-203-2004",
+   "path": "ordin/comunicatii/2004/203",
+   "short": "Ordin comunicatii nr. 203/2004",
+   "title": "Ordinul nr. 203/2004 pentru modificarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 298/2003 privind procedura de acordare a avizelor necesare pentru înființarea și funcționarea asociațiilor și fundațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58652",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58652",
+     "sha256": "6eef565565203d824140e9eb682d1fc6db2d155b363cbae7398e52e9a81a19aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-273-2004",
+   "path": "ordin/comunicatii/2004/273",
+   "short": "Ordin comunicatii nr. 273/2004",
+   "title": "Ordinul nr. 273/2004 pentru aprobarea Procedurii de acordare a licențelor de utilizare a frecvențelor radioelectrice în vederea furnizării rețelelor și serviciilor de comunicații mobile de generația a treia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54059",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54059",
+     "sha256": "9f2f558489a825ca00c651e997f3c9620d04117fccad872e06a6b84bef5ea75f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-274-2004",
+   "path": "ordin/comunicatii/2004/274",
+   "short": "Ordin comunicatii nr. 274/2004",
+   "title": "Ordinul nr. 274/2004 privind unele măsuri legate de încasarea tarifelor de utilizare a spectrului și de emitere a licențelor de utilizare a frecvențelor radioelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54065",
+   "versions": [
+    {
+     "from": "2004-08-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54065",
+     "sha256": "0b73d4bdf2ec3390d7e33e49c243e2a22fccfc8fceca5ddc64f2b9f7ecede768"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-494-2004",
+   "path": "ordin/comunicatii/2004/494",
+   "short": "Ordin comunicatii nr. 494/2004",
+   "title": "Ordinul nr. 494/2004 privind termenul de valabilitate a unor licențe de utilizare a frecvențelor radioelectrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56838",
+   "versions": [
+    {
+     "from": "2004-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56838",
+     "sha256": "0a63966a19f4697275bb08ba338eab48288b972312325d990838506f456587db"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-106-2004",
    "path": "ordin/concurenta/2004/106",
    "short": "Ordin concurenta nr. 106/2004",
@@ -5463,6 +6453,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2047-2004",
+   "path": "ordin/cultura/2004/2047",
+   "short": "Ordin cultura nr. 2047/2004",
+   "title": "Ordinul nr. 2.047/2004 pentru aprobarea Normelor metodologice privind evidența, gestiunea și inventarierea elementelor de decor, de recuzită, a costumelor, a păpușilor/marionetelor, a instrumentelor și a știmelor din instituțiile de spectacol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50965",
+   "versions": [
+    {
+     "from": "2004-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50965",
+     "sha256": "aad6c2eb2cfd268ff02d409ea34572ca8b5f3c2a69cbc760175244209e4cdead"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2188-2004",
    "path": "ordin/cultura/2004/2188",
    "short": "Ordin cultura nr. 2188/2004",
@@ -5474,6 +6479,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50915",
      "sha256": "9c2fff14adf63d9539ca37cc8198056ec983fbae4511bd7aa6a8ad5cf3914285"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2193-2004",
+   "path": "ordin/cultura/2004/2193",
+   "short": "Ordin cultura nr. 2193/2004",
+   "title": "Ordinul nr. 2.193/2004 pentru aprobarea regulamentelor-cadru de organizare și funcționare a așezămintelor culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51054",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 139,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51054",
+     "sha256": "3d31c7ae24f9cb9223e0ef625e509ef86c42757468b294e6d4679a4202a526df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2237-2004",
+   "path": "ordin/cultura/2004/2237",
+   "short": "Ordin cultura nr. 2237/2004",
+   "title": "Ordinul nr. 2.237/2004 privind aprobarea Normelor metodologice de semnalizare a monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60020",
+   "versions": [
+    {
+     "from": "2005-03-16",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60020",
+     "sha256": "e27f078acc81025dbee7ef8fa0eb36b3d35c1180ffec4708c60567e9b1e34696"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2314-2004",
+   "path": "ordin/cultura/2004/2314",
+   "short": "Ordin cultura nr. 2314/2004",
+   "title": "Ordinul nr. 2.314/2004 privind aprobarea Listei monumentelor istorice, actualizată, și a Listei monumentelor istorice dispărute",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53576",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53576",
+     "sha256": "b511b802d145ae4ea0767b1d8b0d631b6fad35d54564c3af2980eb641352877f"
     }
    ]
   },
@@ -8204,6 +9254,186 @@
      "units": 41,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58952",
      "sha256": "dec67a4be73f6b4644325c404cdd4961ffa24b2ad6ba6254cfedd6a5324c1b5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1124-2004",
+   "path": "ordin/externe/2004/1124",
+   "short": "Ordin externe nr. 1124/2004",
+   "title": "Ordinul nr. 1.124/2004 privind intrarea în vigoare a unor tratate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54159",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54159",
+     "sha256": "44bf3ce8ec59712f970c98fbd1392b92ca9948246b4901a0653bf99f6b5eb043"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2068-2004",
+   "path": "ordin/externe/2004/2068",
+   "short": "Ordin externe nr. 2068/2004",
+   "title": "Ordinul nr. 2.068/2004 privind intrarea în vigoare a unor tratate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56507",
+   "versions": [
+    {
+     "from": "2004-11-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56507",
+     "sha256": "f821b85116d3baae39d3fcaa82fad8fbfed916bed6255e8e2f8c5bb9b7d7672e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-516-2004",
+   "path": "ordin/externe/2004/516",
+   "short": "Ordin externe nr. 516/2004",
+   "title": "Ordinul nr. 516/2004 privind intrarea în vigoare a Acordului de comerț liber dintre România și Republica Macedonia, semnat la Skopje la 7 februarie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51177",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51177",
+     "sha256": "c563f11a5f6dfafdc03d26cef55a81f5331adabcca9657233bbbfd95fafe5037"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-517-2004",
+   "path": "ordin/externe/2004/517",
+   "short": "Ordin externe nr. 517/2004",
+   "title": "Ordinul nr. 517/2004 pentru intrarea în vigoare a Acordului dintre Guvernul României și Guvernul Republicii Azerbaidjan privind promovarea și protejarea reciprocă a investițiilor, semnat la Baku la 29 octombrie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51178",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51178",
+     "sha256": "40854f512797c7e9631a091b047853137653739d4eb15e1eb816d20683e1cfa4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-518-2004",
+   "path": "ordin/externe/2004/518",
+   "short": "Ordin externe nr. 518/2004",
+   "title": "Ordinul nr. 518/2004 pentru intrarea în vigoare a Acordului dintre Guvernul României și Guvernul Republicii Indonezia privind serviciile aeriene, semnat la Jakarta la 7 septembrie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51179",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51179",
+     "sha256": "e2c68f72147f2113c3362162a956ebd4f894d7997d589ba5f4ecc5fc202f40ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-519-2004",
+   "path": "ordin/externe/2004/519",
+   "short": "Ordin externe nr. 519/2004",
+   "title": "Ordinul nr. 519/2004 pentru intrarea în vigoare a Acordului dintre Guvernul României și Consiliul Federal Elvețian privind eliminarea reciprocă a vizelor, semnat la Berna la 15 decembrie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51180",
+   "versions": [
+    {
+     "from": "2004-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51180",
+     "sha256": "b1a5eefd75af6f3eb1db348c30843f77f293117555cd39024c08a655ae369eb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-520-2004",
+   "path": "ordin/externe/2004/520",
+   "short": "Ordin externe nr. 520/2004",
+   "title": "Ordinul nr. 520/2004 privind intrarea în vigoare a Acordului dintre România și Republica Cehă în domeniul securității sociale, semnat la București la 24 septembrie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51143",
+   "versions": [
+    {
+     "from": "2004-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51143",
+     "sha256": "788ccb0032a2218c2b774eb8727a600cced255be747fcf4fbb3fe5f17dafda3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-521-2004",
+   "path": "ordin/externe/2004/521",
+   "short": "Ordin externe nr. 521/2004",
+   "title": "Ordinul nr. 521/2004 privind intrarea în vigoare a Acordului general dintre Guvernul României și Guvernul Regatului Arabiei Saudite privind cooperarea în domeniile economic, comercial, investițional, tehnico-științific, cultural, sportiv și de tineret, semnat la Riad la 3 iunie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51144",
+   "versions": [
+    {
+     "from": "2004-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51144",
+     "sha256": "4b524ab69991c9d2675ad11b0d3be76b5f2b2f79d9a9749e49e48b499580f7ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-522-2004",
+   "path": "ordin/externe/2004/522",
+   "short": "Ordin externe nr. 522/2004",
+   "title": "Ordinul nr. 522/2004 privind intrarea în vigoare a Acordului dintre Guvernul României și Guvernul Republicii Ungare privind cooperarea în domeniul militar, semnat la Budapesta la 7 aprilie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51145",
+   "versions": [
+    {
+     "from": "2004-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51145",
+     "sha256": "1445b17e1c231a6908e2afe2742e46e7534c0233bdd62546c7340d3f772a9d57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-592-2004",
+   "path": "ordin/externe/2004/592",
+   "short": "Ordin externe nr. 592/2004",
+   "title": "Ordinul nr. 592/2004 pentru completarea Ordinului președintelui Agenției Naționale de Control al Exporturilor Strategice și al Interzicerii Armelor Chimice nr. 25/1999 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56854",
+   "versions": [
+    {
+     "from": "2004-11-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56854",
+     "sha256": "cb7cfde033263934d40537ecbe7f44ac3c41385f943431b8aaefd7afc5bccd5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-69-2004",
+   "path": "ordin/externe/2004/69",
+   "short": "Ordin externe nr. 69/2004",
+   "title": "Ordinul nr. 69/2004 pentru aprobarea Normelor metodologice privind procedura administrativă de soluționare a contestațiilor referitoare la refuzul de eliberare a certificatului de înregistrare sau a licențelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49808",
+   "versions": [
+    {
+     "from": "2004-02-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49808",
+     "sha256": "5629061403d44a6205c5e8ce23c99597767499c3bf272c63a7c537834c8dfc41"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-874-2004",
+   "path": "ordin/externe/2004/874",
+   "short": "Ordin externe nr. 874/2004",
+   "title": "Ordinul nr. 874/2004 privind intrarea în vigoare a Tratatului dintre România și Ucraina privind regimul frontierei de stat româno-ucrainene, colaborarea și asistența mutuală în problemele de frontieră, semnat la Cernăuți la 17 iunie 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52697",
+   "versions": [
+    {
+     "from": "2004-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52697",
+     "sha256": "66b255dfd39d5b497d7db7c21a8c98cf857341eb86789990f4bf07b6e515d590"
     }
    ]
   },

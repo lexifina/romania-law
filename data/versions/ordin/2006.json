@@ -3,6 +3,171 @@
  "shard": "ordin/2006",
  "acts": [
   {
+   "slug": "ordin-aaas-6713-2006",
+   "path": "ordin/aaas/2006/6713",
+   "short": "Ordin aaas nr. 6713/2006",
+   "title": "Ordinul nr. 6.713/2006 privind instituirea procedurii de administrare specială la Societatea Comercială \"Centrul de echitație\" - S.A. Poiana Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72085",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72085",
+     "sha256": "9a73a9d5a8dd418767f4437b1813a080a32897eccf2d45d9b7cb868a456ec913"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-6721-2006",
+   "path": "ordin/aaas/2006/6721",
+   "short": "Ordin aaas nr. 6721/2006",
+   "title": "Ordinul nr. 6.721/2006 privind încetarea procedurii de administrare specială la Societatea Comercială \"Trans-Alexandria\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72068",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72068",
+     "sha256": "0ec7b0ceaeab1a8155b893c2d0d777515c72ffd9b381382b14a98ac2aedc63d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-6735-2006",
+   "path": "ordin/aaas/2006/6735",
+   "short": "Ordin aaas nr. 6735/2006",
+   "title": "Ordinul nr. 6.735/2006 privind încetarea procedurii de administrare specială la Societatea Comercială \"Transport Mixt STAMC\" - S.A. Râmnicu Sărat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72312",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72312",
+     "sha256": "e6c008df99a7179f21c34f629aaf26a73cb0ba602483ed7eab5ea247aa490446"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7069-2006",
+   "path": "ordin/aaas/2006/7069",
+   "short": "Ordin aaas nr. 7069/2006",
+   "title": "Ordinul nr. 7.069/2006 privind încetarea procedurii de administrare specială la Societatea Comercială \"IMOD\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74601",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74601",
+     "sha256": "4c94301ad34ccfd9ba6eaeea0a901015c01b1fabc14abca963a26301cc65a60f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7074-2006",
+   "path": "ordin/aaas/2006/7074",
+   "short": "Ordin aaas nr. 7074/2006",
+   "title": "Ordinul nr. 7.074/2006 privind încetarea procedurii de administrare specială la Societatea Comercială \"Cesar\" - S.A. Câmpulung",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74783",
+   "versions": [
+    {
+     "from": "2006-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74783",
+     "sha256": "d29383598a6013d796e73485654506dd0c9fc03f00321c1e6811af30388fa078"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7687-2006",
+   "path": "ordin/aaas/2006/7687",
+   "short": "Ordin aaas nr. 7687/2006",
+   "title": "Ordinul nr. 7.687/2006 privind instituirea procedurii de administrare specială la Societatea Comercială \"RAMI-DACIA\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75696",
+   "versions": [
+    {
+     "from": "2006-10-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75696",
+     "sha256": "0c227cbc43cbc8e607896468e457688324bca5cb8f6c9b51f1b1555dcb92dc7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7719-2006",
+   "path": "ordin/aaas/2006/7719",
+   "short": "Ordin aaas nr. 7719/2006",
+   "title": "Ordinul nr. 7.719/2006 pentru stabilirea activelor aflate în patrimoniul Societății Comerciale \"Băneasa\" - S.A. Voluntari a căror dobândire se va realiza în conformitate cu prevederile art. 4 din Hotărârea Guvernului nr. 938/2001 privind strategia de privatizare a unor societăți comerciale din portofoliul Autorității pentru Valorificarea Activelor Statului, la care statul deține acțiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76524",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76524",
+     "sha256": "a00678e0e4b12dc623ca6a2a5f17eea5dfca4863f157d75138c6dc75ad8f598c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7721-2006",
+   "path": "ordin/aaas/2006/7721",
+   "short": "Ordin aaas nr. 7721/2006",
+   "title": "Ordinul nr. 7.721/2006 privind instituirea procedurii de administrare specială la Societatea Comercială \"INTEC\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76068",
+   "versions": [
+    {
+     "from": "2006-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76068",
+     "sha256": "9ff6774843c0b51a678b66e43d466e48d81873bae77ecb29c8de64fd73dc6b40"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7752-2006",
+   "path": "ordin/aaas/2006/7752",
+   "short": "Ordin aaas nr. 7752/2006",
+   "title": "Ordinul nr. 7.752/2006 privind încetarea procedurii de administrare specială la Societatea Comercială \"Prestări Servicii\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76466",
+   "versions": [
+    {
+     "from": "2006-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76466",
+     "sha256": "68aea61b0f813a0210fc116a7e88644836dc7c7c2b4dcf1cffdfb1ca365e4c11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7811-2006",
+   "path": "ordin/aaas/2006/7811",
+   "short": "Ordin aaas nr. 7811/2006",
+   "title": "Ordinul nr. 7.811/2006 privind încetarea procedurii de administrare specială la Societatea Comercială \"Băneasa\" - S.A. Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76667",
+   "versions": [
+    {
+     "from": "2006-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76667",
+     "sha256": "0f01c1295b3011d7ed11476ccae626277443dbb0362b0af9f04ce2ad2a167b92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-7838-2006",
+   "path": "ordin/aaas/2006/7838",
+   "short": "Ordin aaas nr. 7838/2006",
+   "title": "Ordinul nr. 7.838/2006 privind instituirea procedurii de administrare specială la Societatea Comercială \"Băneasa\" - S.A. Voluntari, județul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77226",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77226",
+     "sha256": "4196151ce3751cd31810b11ef2aea54f32bea5820177101b0a7535b70f66b595"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-100-2006",
    "path": "ordin/agricultura/2006/100",
    "short": "Ordin agricultura nr. 100/2006",
@@ -3783,6 +3948,156 @@
    ]
   },
   {
+   "slug": "ordin-anrm-1-2006",
+   "path": "ordin/anrm/2006/1",
+   "short": "Ordin anrm nr. 1/2006",
+   "title": "Ordinul nr. 1/2006 pentru aprobarea Instrucțiunilor tehnice privind modificarea regimului sondelor și avizarea execuției de operațiuni petroliere de exploatare experimentală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68174",
+   "versions": [
+    {
+     "from": "2006-01-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68174",
+     "sha256": "e2daef6fc0fa7a729e75d20bb6c7d3ff085f1f120782c58e095574341041cc70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-122-2006",
+   "path": "ordin/anrm/2006/122",
+   "short": "Ordin anrm nr. 122/2006",
+   "title": "Ordinul nr. 122/2006 privind aprobarea Metodologiei de atestare a competenței tehnice a persoanelor juridice care întocmesc documentații și/sau execută lucrări de cercetare geologică, lucrări de exploatare a petrolului și a resurselor minerale și de expertizare, precum și a persoanelor fizice care întocmesc documentații și/sau execută lucrări de cercetare geologică și de expertizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72961",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72961",
+     "sha256": "ab7f455854514ac46bc8f44b5eddb4262031a6a07992a59c393d7f669d5ebb93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-129-2006",
+   "path": "ordin/anrm/2006/129",
+   "short": "Ordin anrm nr. 129/2006",
+   "title": "Ordinul nr. 129/2006 privind aprobarea tarifelor percepute pentru actele eliberate de Agenția Națională pentru Resurse Minerale în exercitarea atribuțiilor sale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73152",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73152",
+     "sha256": "16ed2359cf5f5944ded0af0e8ea827f9cd2f9505ea8b03a39a873a356e49576a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-133-2006",
+   "path": "ordin/anrm/2006/133",
+   "short": "Ordin anrm nr. 133/2006",
+   "title": "Ordinul nr. 133/2006 pentru aprobarea Instrucțiunilor tehnice privind fundamentarea, aprobarea și încasarea tarifelor și taxelor prevăzute la art. 52 alin. (1) și (2) din Legea petrolului nr. 238/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73237",
+   "versions": [
+    {
+     "from": "2006-07-09",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73237",
+     "sha256": "d9e8b147c9dc1404603fff84abea861dcc47e470491020308eeb95c7c3d7feb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-176-2006",
+   "path": "ordin/anrm/2006/176",
+   "short": "Ordin anrm nr. 176/2006",
+   "title": "Ordinul nr. 176/2006 privind aprobarea tarifelor de derulare a țițeiului și produselor petroliere prin terminalul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75076",
+   "versions": [
+    {
+     "from": "2006-09-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75076",
+     "sha256": "073928f92b4a1d283006a0bc3e154068b61dcc261e895d2e6f3bfce1ae905973"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-194-2006",
+   "path": "ordin/anrm/2006/194",
+   "short": "Ordin anrm nr. 194/2006",
+   "title": "Ordinul nr. 194/2006 pentru aprobarea Instrucțiunilor privind elaborarea programului anual de exploatare petrolieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76014",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76014",
+     "sha256": "6309914f519bb900ef9c076af220975e133fcca006a85f4a6a5c9559b3a38088"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-196-2006",
+   "path": "ordin/anrm/2006/196",
+   "short": "Ordin anrm nr. 196/2006",
+   "title": "Ordinul nr. 196/2006 privind aprobarea Normelor și prescripțiilor tehnice actualizate, specifice zonelor de protecție și zonelor de siguranță aferente Sistemului național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76032",
+   "versions": [
+    {
+     "from": "2006-10-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76032",
+     "sha256": "a930239975bc01041d93113cf3a00a07697532b6cf9193c02d117e834b665d38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-201-2006",
+   "path": "ordin/anrm/2006/201",
+   "short": "Ordin anrm nr. 201/2006",
+   "title": "Ordinul nr. 201/2006 privind aprobarea tarifelor de transport al țițeiului prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76134",
+   "versions": [
+    {
+     "from": "2006-10-24",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76134",
+     "sha256": "e7f278983169ea5409fee4d62b30e2491b0d801257e5ea16187c31cb09a4c241"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-202-2006",
+   "path": "ordin/anrm/2006/202",
+   "short": "Ordin anrm nr. 202/2006",
+   "title": "Ordinul nr. 202/2006 privind aprobarea Contractului-cadru pentru transportul țițeiului, gazolinei, condensatului și etanului lichid pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76545",
+   "versions": [
+    {
+     "from": "2006-11-09",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76545",
+     "sha256": "6fb0f1d15c735c07939e7980e92abfdc27b800a6d8739d70c29f9a48deca2ba2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-230-2006",
+   "path": "ordin/anrm/2006/230",
+   "short": "Ordin anrm nr. 230/2006",
+   "title": "Ordinul nr. 230/2006 privind modificarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 190/2006 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare Runda nr. 51/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77332",
+   "versions": [
+    {
+     "from": "2006-12-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77332",
+     "sha256": "3943c739b82eec9760f190f6f8d1a25471bf0f462d55216927faaa6b5309c046"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-1-2006",
    "path": "ordin/ansvsa/2006/1",
    "short": "Ordin ansvsa nr. 1/2006",
@@ -6258,6 +6573,111 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-103-2006",
+   "path": "ordin/comunicatii/2006/103",
+   "short": "Ordin comunicatii nr. 103/2006",
+   "title": "Ordinul nr. 103/2006 privind modificarea Tabelului național de atribuire a benzilor de frecvență, aprobat prin Ordinul ministrului comunicațiilor și tehnologiei informației nr. 232/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70140",
+   "versions": [
+    {
+     "from": "2006-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70140",
+     "sha256": "e8aa86a7e0f32848bf8db49032b57585b4bc9065c16928d258e93ce9389dc818"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-220-2006",
+   "path": "ordin/comunicatii/2006/220",
+   "short": "Ordin comunicatii nr. 220/2006",
+   "title": "Ordinul nr. 220/2006 privind aprobarea documentelor adoptate de către Consiliul de Exploatare Poștală al Uniunii Poștale Universale la reuniunea anuală din ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72383",
+   "versions": [
+    {
+     "from": "2006-06-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72383",
+     "sha256": "7a291f9de50b37bb97dea5eb07253292644679b6d9586a7e5082f44d1265f60a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-262-2006",
+   "path": "ordin/comunicatii/2006/262",
+   "short": "Ordin comunicatii nr. 262/2006",
+   "title": "Ordinul nr. 262/2006 privind aprobarea Listei standardelor române care au adoptat standardele europene armonizate pentru echipamentele radio și echipamentele terminale de telecomunicații, potrivit Directivei 1999/5/CE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72648",
+   "versions": [
+    {
+     "from": "2006-06-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72648",
+     "sha256": "6aaef6ca42ae68889ea390b9fc17ff35f97f70dd4e0a192e28072bdd08c394ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-395-2006",
+   "path": "ordin/comunicatii/2006/395",
+   "short": "Ordin comunicatii nr. 395/2006",
+   "title": "Ordinul nr. 395/2006 pentru completarea Ordinului ministrului comunicațiilor și tehnologiei informației nr. 220/2006 privind aprobarea documentelor adoptate de către Consiliul de Exploatare Poștală al Uniunii Poștale Universale la reuniunea anuală din ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75542",
+   "versions": [
+    {
+     "from": "2006-10-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75542",
+     "sha256": "673f5504c510c8db10573c28e7966d56a909f0f58fd73e26feef26c754f42d08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-396-2006",
+   "path": "ordin/comunicatii/2006/396",
+   "short": "Ordin comunicatii nr. 396/2006",
+   "title": "Ordinul nr. 396/2006 privind modificarea Tabelului național de atribuire a benzilor de frecvență, aprobat prin Ordinul ministrului comunicațiilor și tehnologiei informației nr. 232/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75084",
+   "versions": [
+    {
+     "from": "2006-09-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75084",
+     "sha256": "d8d6189305b832e76e858760430b62a88734c58f2fac178326126d56b921d7f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-397-2006",
+   "path": "ordin/comunicatii/2006/397",
+   "short": "Ordin comunicatii nr. 397/2006",
+   "title": "Ordinul nr. 397/2006 pentru aprobarea Documentului de politică și strategie privind exploatarea benzii de frecvențe 410-415 MHz/420-425 MHz, în scopul furnizării de servicii de comunicații mobile în bandă largă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75174",
+   "versions": [
+    {
+     "from": "2006-09-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75174",
+     "sha256": "11fb8f2f2d34e76c067ade1843939397d418628a77c0b93091a20e39b224e5e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-414-2006",
+   "path": "ordin/comunicatii/2006/414",
+   "short": "Ordin comunicatii nr. 414/2006",
+   "title": "Ordinul nr. 414/2006 cu privire la utilizarea codării standardizate a seturilor de caractere în documentele în formă electronică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75892",
+   "versions": [
+    {
+     "from": "2006-10-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75892",
+     "sha256": "eb18b070809f349162c5a259b3023f734ce454a5c962cdfa35af077e66e15f84"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-470-2006",
    "path": "ordin/comunicatii/2006/470",
    "short": "Ordin comunicatii nr. 470/2006",
@@ -6269,6 +6689,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69119",
      "sha256": "0ff62d86bf9dbb89abb6e6940659e41c51ce989af4cdfbc87b360b339c5c5531"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-52-2006",
+   "path": "ordin/comunicatii/2006/52",
+   "short": "Ordin comunicatii nr. 52/2006",
+   "title": "Ordinul nr. 52/2006 privind aprobarea listelor organismelor recunoscute pentru evaluarea conformității aparatelor cu cerințele esențiale prevăzute de Hotărârea Guvernului nr. 497/2003 și de Hotărârea Guvernului nr. 88/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68829",
+   "versions": [
+    {
+     "from": "2006-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68829",
+     "sha256": "beff70fb97832b573db7eb5ecfdfb47eee638e8bfadc1c9a12d139a36e682812"
     }
    ]
   },
@@ -6839,6 +7274,96 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69393",
      "sha256": "d38e70fa4fd4375910270c8c35ff8b0b76305b32ada091a6d5b014355a613c3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2221-2006",
+   "path": "ordin/cultura/2006/2221",
+   "short": "Ordin cultura nr. 2221/2006",
+   "title": "Ordinul nr. 2.221/2006 privind completarea art. 1 din anexa la Ordinul ministrului culturii și cultelor nr. 2.008/2001 pentru aprobarea Normelor de acreditare a conservatorilor și restauratorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72596",
+   "versions": [
+    {
+     "from": "2006-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72596",
+     "sha256": "ba7c8b0722be0c9b110431bd1a2234d6bd3e1f40ca387cde4291b51aa80a9769"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2258-2006",
+   "path": "ordin/cultura/2006/2258",
+   "short": "Ordin cultura nr. 2258/2006",
+   "title": "Ordinul nr. 2.258/2006 pentru modificarea și completarea Normelor metodologice privind evidența, gestiunea și inventarierea bunurilor culturale deținute de muzee, colecții publice, case memoriale, centre de cultură și alte unități de profil, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.035/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73637",
+   "versions": [
+    {
+     "from": "2006-07-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73637",
+     "sha256": "a75f9df21168ff479f014429e3cd7f65b1cf38fe39b1611ca64e8ee228706aa1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2297-2006",
+   "path": "ordin/cultura/2006/2297",
+   "short": "Ordin cultura nr. 2297/2006",
+   "title": "Ordinul nr. 2.297/2006 pentru aprobarea Criteriilor de acordare a avizului prealabil în vederea înființării muzeelor și colecțiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74307",
+   "versions": [
+    {
+     "from": "2006-08-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74307",
+     "sha256": "a42f5ebecc7d3fb4beae338961538ccca2f02e185c06dd4d9c163d31bc4ca278"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2335-2006",
+   "path": "ordin/cultura/2006/2335",
+   "short": "Ordin cultura nr. 2335/2006",
+   "title": "Ordinul nr. 2.335/2006 pentru aprobarea Regulamentului privind concursul de selecție a proiectelor cinematografice în vederea acordării de credite financiare directe pentru dezvoltare de proiecte, producție și distribuire de filme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74781",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74781",
+     "sha256": "ee8672f5af85475cf5bf021c6922a91312543e400a7801bdd7aac8af5b6d147a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2379-2006",
+   "path": "ordin/cultura/2006/2379",
+   "short": "Ordin cultura nr. 2379/2006",
+   "title": "Ordinul nr. 2.379/2006 privind aprobarea Normelor metodologice pentru aplicarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, aprobată cu modificări și completări prin Legea nr. 328/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76547",
+   "versions": [
+    {
+     "from": "2006-11-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76547",
+     "sha256": "a0bfd819d35aa4fe19a7f8931be36d8ae6eaf6e72c50825783c775f4a0a035ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2406-2006",
+   "path": "ordin/cultura/2006/2406",
+   "short": "Ordin cultura nr. 2406/2006",
+   "title": "Ordinul nr. 2.406/2006 privind aprobarea Normelor metodologice pentru aplicarea prevederilor cap. I secțiunea a 6-a din Ordonanța Guvernului nr. 10/2005 privind reglementarea unor măsuri financiare, aprobată cu modificări și completări prin Legea nr. 146/2005, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76677",
+   "versions": [
+    {
+     "from": "2006-11-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76677",
+     "sha256": "e1372cad3395f244e49d8c052a48cf09c77042158f0c3ab1b4152c1c07447649"
     }
    ]
   },
@@ -8088,6 +8613,336 @@
    ]
   },
   {
+   "slug": "ordin-externe-1310-2006",
+   "path": "ordin/externe/2006/1310",
+   "short": "Ordin externe nr. 1310/2006",
+   "title": "Ordinul nr. 1.310/2006 ORDIN nr. 1.310 bis din 30 august 2006 privind aderarea României la Declarația Organizației pentru Cooperare și Dezvoltare Economică pentru Investiții Internaționale și Întreprinderi Multinaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75634",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75634",
+     "sha256": "ca0c548276f2d9ca5719a2b3c8632647e62ff8443761380e0e9bc3a04e0188ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1381-2006",
+   "path": "ordin/externe/2006/1381",
+   "short": "Ordin externe nr. 1381/2006",
+   "title": "Ordinul nr. 1.381/2006 privind publicarea Poziției comune a Consiliului Uniunii Europene 2006/362/PESC de modificare a Poziției comune a Consiliului Uniunii Europene 2006/276/PESC privind măsurile restrictive emise împotriva anumitor persoane cu funcție oficială din Belarus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77154",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77154",
+     "sha256": "db9f6a4fae4ddbc63210c8f27146cde77647ff1d917485c1d1a49159b7a2c9b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1405-2006",
+   "path": "ordin/externe/2006/1405",
+   "short": "Ordin externe nr. 1405/2006",
+   "title": "Ordinul nr. 1.405/2006 privind publicarea Poziției comune a Consiliului Uniunii Europene 2006/204/PESC de prelungire a măsurilor de sprijinire a implementării efective a mandatului Tribunalului Penal Internațional pentru fosta Iugoslavie, instituite prin Poziția comună 2004/293/PESC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77141",
+   "versions": [
+    {
+     "from": "2006-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77141",
+     "sha256": "fa151138f43f43d6ad79695d11fc82c526f2fc61e6ce2988671764f6a6092ebb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1406-2006",
+   "path": "ordin/externe/2006/1406",
+   "short": "Ordin externe nr. 1406/2006",
+   "title": "Ordinul nr. 1.406/2006 pentru publicarea Poziției comune a Consiliului Uniunii Europene 2004/487/PESC privind măsuri restrictive suplimentare impuse Liberiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77161",
+   "versions": [
+    {
+     "from": "2006-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77161",
+     "sha256": "f7291600444e922b715987135f36126f09fa860e1afdc40e5abcdbc209ad2a70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1407-2006",
+   "path": "ordin/externe/2006/1407",
+   "short": "Ordin externe nr. 1407/2006",
+   "title": "Ordinul nr. 1.407/2006 privind publicarea Poziției comune a Consiliului Uniunii Europene 2006/31/PESC de prelungire a măsurilor restrictive impuse Liberiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77406",
+   "versions": [
+    {
+     "from": "2006-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77406",
+     "sha256": "173a8a72aa1e3406be9a15e31b33b76051126ca576b9f0d2d54baa979d5e7a34"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1410-2006",
+   "path": "ordin/externe/2006/1410",
+   "short": "Ordin externe nr. 1410/2006",
+   "title": "Ordinul nr. 1.410/2006 privind publicarea Deciziei Consiliului Uniunii Europene 2006/484/PESC de punere în aplicare a Poziției comune 2004/694/PESC privind unele măsuri suplimentare în scopul susținerii implementării efective a mandatului Tribunalului Penal Internațional pentru fosta Iugoslavie, modificată prin Poziția comună 2005/689/PESC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77544",
+   "versions": [
+    {
+     "from": "2006-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77544",
+     "sha256": "355eaf941c3fc6d7bbe5cfc7b9777996043b60c421db057608080cd2b99f4bc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1936-2006",
+   "path": "ordin/externe/2006/1936",
+   "short": "Ordin externe nr. 1936/2006",
+   "title": "Ordinul nr. 1.936/2006 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78251",
+   "versions": [
+    {
+     "from": "2007-01-04",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78251",
+     "sha256": "6e8770b7d6e0e99707453a19976b9b860ddead87369b393761e1fb40e3f59424"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1937-2006",
+   "path": "ordin/externe/2006/1937",
+   "short": "Ordin externe nr. 1937/2006",
+   "title": "Ordinul nr. 1.937/2006 pentru publicarea Poziției comune a Consiliului UE 2005/888/PESC privind măsurile restrictive specifice împotriva persoanelor suspectate de implicare în asasinarea fostului prim-ministru libanez Rafiq Hariri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79501",
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79501",
+     "sha256": "95388c5b4b33d01ecac3bd4eb9c9ed938dc6b4e580b3503f5fa3ec1d79c758cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1939-2006",
+   "path": "ordin/externe/2006/1939",
+   "short": "Ordin externe nr. 1939/2006",
+   "title": "Ordinul nr. 1.939/2006 pentru publicarea Poziției comune a Consiliului UE 2004/698/PESC privind ridicarea măsurilor restrictive împotriva Libiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79504",
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79504",
+     "sha256": "57c3e456f3290a62133ea9ee83e05465365eae5b7c75089b90c18e7d48feb7b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1941-2006",
+   "path": "ordin/externe/2006/1941",
+   "short": "Ordin externe nr. 1941/2006",
+   "title": "Ordinul nr. 1.941/2006 privind publicarea Poziției comune 98/409/PESC definite de către Consiliul UE în temeiul articolului J.2 din Tratatul privind Uniunea Europeană, referitoare la Sierra Leone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79510",
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79510",
+     "sha256": "cf84adac732fb9502371eb0c0d811523b931d8bd27a38fc892d8e0acae7182d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1942-2006",
+   "path": "ordin/externe/2006/1942",
+   "short": "Ordin externe nr. 1942/2006",
+   "title": "Ordinul nr. 1.942/2006 pentru publicarea Poziției comune a Consiliului UE 2002/960/PESC privind instituirea de măsuri restrictive împotriva Somaliei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79507",
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79507",
+     "sha256": "15d57a0b18b039b55fa1a3e8517c10f1f6b4d4b9145440b9504a147aadaf2dc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-406-2006",
+   "path": "ordin/externe/2006/406",
+   "short": "Ordin externe nr. 406/2006",
+   "title": "Ordinul nr. 406/2006 privind publicarea Poziției comune 2004/179/PESC prin care au fost instituite restricții la admiterea persoanelor din conducerea regiunii Transnistria, modificată prin Poziția comună 2004/622/PESC, Poziția comună 2005/147/PESC, Poziția comună 2006/95/PESC și implementată prin Decizia 2005/890/PESC și Decizia 2006/96/PESC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72191",
+   "versions": [
+    {
+     "from": "2006-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72191",
+     "sha256": "b1db0a274a81da20e0ef57c4a5eb7481bbf13ec747a763ad844298bc84245655"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-407-2006",
+   "path": "ordin/externe/2006/407",
+   "short": "Ordin externe nr. 407/2006",
+   "title": "Ordinul nr. 407/2006 privind publicarea Poziției comune 2004/133/PESC prin care au fost instituite măsurile restrictive emise împotriva extremiștilor din Fosta Republică Iugoslavă Macedonia (FRIM), modificată prin Poziția comună 2005/80/PESC și prin Poziția comună 2006/50/PESC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72192",
+   "versions": [
+    {
+     "from": "2006-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72192",
+     "sha256": "5b9ee2f4939aa9a9cd108b2f9de61f670016560d742856c85052dbd6a37a989e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-430-2006",
+   "path": "ordin/externe/2006/430",
+   "short": "Ordin externe nr. 430/2006",
+   "title": "Ordinul nr. 430/2006 privind publicarea Poziției comune 1997/193/PESC prin care au fost instituite măsuri restrictive împotriva persoanelor care au săvârșit acte de violenta în timpul incidentelor din Mostar din data de 10 februarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72193",
+   "versions": [
+    {
+     "from": "2006-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72193",
+     "sha256": "1926d4beee7cc2131db21ea714d26e8299959cf5646ffa5999f8e9469ec1ccb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-431-2006",
+   "path": "ordin/externe/2006/431",
+   "short": "Ordin externe nr. 431/2006",
+   "title": "Ordinul nr. 431/2006 privind publicarea Poziției comune 2004/293/PESC prin care se actualizează măsurile emise în vederea susținerii implementării efective a mandatului Tribunalului Penal Internațional pentru fosta Iugoslavie, modificată prin Poziția comună 2005/227/PESC și implementată prin Decizia Consiliului 2005/83/PESC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72194",
+   "versions": [
+    {
+     "from": "2006-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72194",
+     "sha256": "9e640a96adcdc7f9c5ad51d814913a3328add06c8dc0321e3c92e882bf635cf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-450-2006",
+   "path": "ordin/externe/2006/450",
+   "short": "Ordin externe nr. 450/2006",
+   "title": "Ordinul nr. 450/2006 pentru publicarea Poziției comune 2006/29/PESC de abrogare a Poziției comune 96/184/PESC privind exporturile de armament către fosta Iugoslavie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72196",
+   "versions": [
+    {
+     "from": "2006-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72196",
+     "sha256": "14ca7d3a5d8585b20540f6b8099c68a6a9b11978a6b5441a2713d81e5121797d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-465-2006",
+   "path": "ordin/externe/2006/465",
+   "short": "Ordin externe nr. 465/2006",
+   "title": "Ordinul nr. 465/2006 pentru publicarea Acțiunii comune 96/668/PESC privind măsurile de protecție împotriva aplicării extrateritoriale a legislației adoptate de o țara terță și a acțiunilor ce decurg din aceasta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72197",
+   "versions": [
+    {
+     "from": "2006-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72197",
+     "sha256": "e9e2f97aaece04240503467b5a9d818fd03ca3b3ddaf611e81d97d3f006aeb2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-496-2006",
+   "path": "ordin/externe/2006/496",
+   "short": "Ordin externe nr. 496/2006",
+   "title": "Ordinul nr. 496/2006 privind publicarea Poziției comune 2004/694/PESC prin care se instituie măsurile suplimentare emise în vederea susținerii implementării efective a mandatului Tribunalului Penal Internațional pentru fosta Iugoslavie, modificată prin Poziția comună 2005/689/PESC și implementată prin Decizia Consiliului 2006/205/PESC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72272",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72272",
+     "sha256": "0127b088f7a4df5cdcfffc54c3cbf6867484d9ad8905b1947338d442beb945f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-499-2006",
+   "path": "ordin/externe/2006/499",
+   "short": "Ordin externe nr. 499/2006",
+   "title": "Ordinul nr. 499/2006 privind publicarea Poziției comune a Consiliului 2005/792/PESC prin care se instituie măsuri restrictive împotriva Uzbekistanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72275",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72275",
+     "sha256": "001faab923d34e333d21b083cbaef0fdd756fcd0079d08ddd2d85f1768f79044"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-500-2006",
+   "path": "ordin/externe/2006/500",
+   "short": "Ordin externe nr. 500/2006",
+   "title": "Ordinul nr. 500/2006 privind publicarea Poziției comune a Consiliului 2000/696/PESC, modificată prin Poziția comuna a Consiliului 2001/155/PESC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72329",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72329",
+     "sha256": "22707c699a876d835db2f09a598132477f7295789568501de689af714302262a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-686-2006",
+   "path": "ordin/externe/2006/686",
+   "short": "Ordin externe nr. 686/2006",
+   "title": "Ordinul nr. 686/2006 privind publicarea Poziției comune a Consiliului Uniunii Europene 2006/276/PESC instituind măsurile restrictive emise împotriva anumitor persoane cu funcție oficială din Belarus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71764",
+   "versions": [
+    {
+     "from": "2006-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71764",
+     "sha256": "fbf941b3cd6f806c55126303259f4fb8e90aa990270048028d6ba0314e8523cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-70-2006",
+   "path": "ordin/externe/2006/70",
+   "short": "Ordin externe nr. 70/2006",
+   "title": "Ordinul nr. 70/2006 privind intrarea în vigoare a unor tratate semnate de România cu alte state sau la care România a devenit parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69097",
+   "versions": [
+    {
+     "from": "2006-02-17",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69097",
+     "sha256": "5305ee915f4e807c26a5487fcd411f643602f84144cb1812b5d4654540fedb7f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-811-2006",
    "path": "ordin/externe/2006/811",
    "short": "Ordin externe nr. 811/2006",
@@ -8099,6 +8954,51 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72434",
      "sha256": "f81af9b132fe6cab9d13845ebdfe38a73bf9ee2072bd273fa4b8487f2e0abf39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-883-2006",
+   "path": "ordin/externe/2006/883",
+   "short": "Ordin externe nr. 883/2006",
+   "title": "Ordinul nr. 883/2006 privind publicarea Poziției comune a Consiliului Uniunii Europene 2006/30/PESC prin care se reînnoiesc și se completează măsurile restrictive instituite împotriva Republicii Cote d'Ivoire prin Poziția comună 2004/852/PESC și a Deciziei Consiliului Uniunii Europene 2006/172/PESC care o modifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74183",
+   "versions": [
+    {
+     "from": "2006-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74183",
+     "sha256": "ef5840289afa63d66ff7e1c43cae28b79f7b68648c7cd08c2723715cd0ffaea5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-959-2006",
+   "path": "ordin/externe/2006/959",
+   "short": "Ordin externe nr. 959/2006",
+   "title": "Ordinul nr. 959/2006 privind intrarea în vigoare a unor tratate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73438",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73438",
+     "sha256": "f8dd96d4b8957b37be9c6b6e0892eb58d5fa4aba1d7c18b2d299e68964e8e6ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-991-2006",
+   "path": "ordin/externe/2006/991",
+   "short": "Ordin externe nr. 991/2006",
+   "title": "Ordinul nr. 991/2006 privind publicarea Poziției comune a Consiliului Uniunii Europene 2005/888/PESC prin care se instituie măsuri restrictive specifice împotriva persoanelor suspectate de implicare în asasinarea fostului prim-ministru libanez Rafiq Hariri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74270",
+   "versions": [
+    {
+     "from": "2006-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74270",
+     "sha256": "3987f3355db9eee1fe7dda5445c649d2ff4ea4bee4fd0ea276f88afe4a70fb6e"
     }
    ]
   },

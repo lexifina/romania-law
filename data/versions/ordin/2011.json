@@ -2778,6 +2778,216 @@
    ]
   },
   {
+   "slug": "ordin-anrm-12-2011",
+   "path": "ordin/anrm/2011/12",
+   "short": "Ordin anrm nr. 12/2011",
+   "title": "Ordinul nr. 12/2011 privind aprobarea Listei apelor minerale naturale recunoscute în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125608",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125608",
+     "sha256": "8ad7311520c726290d324ab6c65e3fcb42784a7281dac191573090c6832f3733"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-125-2011",
+   "path": "ordin/anrm/2011/125",
+   "short": "Ordin anrm nr. 125/2011",
+   "title": "Ordinul nr. 125/2011 pentru modificarea și completarea Instrucțiunilor privind eliberarea permiselor de exploatare, aprobate prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 94/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126284",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126284",
+     "sha256": "26edda65e04d502322411fb72fce4b36a0337d7a3736ef2ef40159d63ea022d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-133-2011",
+   "path": "ordin/anrm/2011/133",
+   "short": "Ordin anrm nr. 133/2011",
+   "title": "Ordinul nr. 133/2011 privind aprobarea unor licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126874",
+   "versions": [
+    {
+     "from": "2011-03-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126874",
+     "sha256": "48b3ff231df501946c4bb8c712b1ad44617e9b3a84d645bf204fb5e98cff9459"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-136-2011",
+   "path": "ordin/anrm/2011/136",
+   "short": "Ordin anrm nr. 136/2011",
+   "title": "Ordinul nr. 136/2011 privind aprobarea Listei perimetrelor pentru concesionarea de activități miniere de explorare, privind concursul public de oferte - Runda nr. 73/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126949",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126949",
+     "sha256": "94e4ec26697c4c71f81afbb8ddf79c122640e673988dbdef5205cb293f7d109a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-150-2011",
+   "path": "ordin/anrm/2011/150",
+   "short": "Ordin anrm nr. 150/2011",
+   "title": "Ordinul nr. 150/2011 privind aprobarea Contractului-cadru de derulare a țițeiului și produselor petroliere prin terminalul petrolier pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129197",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129197",
+     "sha256": "ed372d4efe50d768c4ae957294f5124d60e16a4adf6d560439e6edc1005cc2ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-158-2011",
+   "path": "ordin/anrm/2011/158",
+   "short": "Ordin anrm nr. 158/2011",
+   "title": "Ordinul nr. 158/2011 pentru modificarea și completarea Instrucțiunilor tehnice privind modul de evidență, raportare, calcul și plată a taxei pe activitatea minieră și a redevenței miniere, aprobate prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 198/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129710",
+   "versions": [
+    {
+     "from": "2011-07-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129710",
+     "sha256": "bbe31a96e13b926c3785165b95f0accdbf754828cd456e556618e8dbfb755103"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-159-2011",
+   "path": "ordin/anrm/2011/159",
+   "short": "Ordin anrm nr. 159/2011",
+   "title": "Ordinul nr. 159/2011 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare privind concursul public de oferte - Runda nr. 74/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129640",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129640",
+     "sha256": "fe0c94042baa7812093539360b7ac79d10be1a7ed51af5b5910a730fe90078d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-168-2011",
+   "path": "ordin/anrm/2011/168",
+   "short": "Ordin anrm nr. 168/2011",
+   "title": "Ordinul nr. 168/2011 privind aprobarea tarifelor de derulare a țițeiului și produselor petroliere prin terminalul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130182",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130182",
+     "sha256": "b6430b94eb559fb07b56dfc4be472a18b8f30b8d3e691c6f8155d9a364c3a738"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-179-2011",
+   "path": "ordin/anrm/2011/179",
+   "short": "Ordin anrm nr. 179/2011",
+   "title": "Ordinul nr. 179/2011 privind aprobarea unor licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131167",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131167",
+     "sha256": "d22b902847001a5d380c24f17c2205b7f349e6e0d7b2fab852052156b9400bd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-19-2011",
+   "path": "ordin/anrm/2011/19",
+   "short": "Ordin anrm nr. 19/2011",
+   "title": "Ordinul nr. 19/2011 pentru modificarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 13/2010 privind aprobarea tarifelor de transport prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125885",
+   "versions": [
+    {
+     "from": "2011-02-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125885",
+     "sha256": "f9a86ace6dbf9db308e8d01ee174418897b7d19701fe497dd17ecd578fe550ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-221-2011",
+   "path": "ordin/anrm/2011/221",
+   "short": "Ordin anrm nr. 221/2011",
+   "title": "Ordinul nr. 221/2011 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare privind concursul public de oferte - Runda nr. 75/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133280",
+   "versions": [
+    {
+     "from": "2011-12-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133280",
+     "sha256": "a8456be9df06503c4739930f7ca783f52bd9b9961b11ccd8b4153e8c187eff63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-243-2011",
+   "path": "ordin/anrm/2011/243",
+   "short": "Ordin anrm nr. 243/2011",
+   "title": "Ordinul nr. 243/2011 privind completarea anexei nr. 1 la Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 168/2011 privind aprobarea tarifelor de derulare a țițeiului și produselor petroliere prin terminalul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133751",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133751",
+     "sha256": "9d3cad6fdd2dcd21009cbd4820f5ec65581f6ad70b18aa742ba0c5e61154005b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-247-2011",
+   "path": "ordin/anrm/2011/247",
+   "short": "Ordin anrm nr. 247/2011",
+   "title": "Ordinul nr. 247/2011 privind aprobarea Contractului-cadru pentru transportul țițeiului, gazolinei, condensatului și etanului lichid pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133969",
+   "versions": [
+    {
+     "from": "2011-12-24",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133969",
+     "sha256": "8b758969159e612f2adf305192038a59f452deb5eb469fd2524493262c69c1d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-8-2011",
+   "path": "ordin/anrm/2011/8",
+   "short": "Ordin anrm nr. 8/2011",
+   "title": "Ordinul nr. 8/2011 pentru aprobarea Instrucțiunilor tehnice privind avizarea operațiunilor petroliere de conservare, abandonare și, respectiv, de ridicare a abandonării/conservării sondelor de petrol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125353",
+   "versions": [
+    {
+     "from": "2011-01-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125353",
+     "sha256": "821576b879c09e21cd45d249e9ecb65faac3086da35c8d4ef7af756aec515944"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-10-2011",
    "path": "ordin/ansvsa/2011/10",
    "short": "Ordin ansvsa nr. 10/2011",
@@ -3258,6 +3468,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-110-2011",
+   "path": "ordin/aparare/2011/110",
+   "short": "Ordin aparare nr. 110/2011",
+   "title": "Ordinul nr. 110/2011 pentru modificarea Ordinului ministrului apărării naționale nr. M.54/2010 privind organizarea și atribuțiile Secretariatului tehnic permanent al Comisiei interministeriale pentru legătura cu forțele armate străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134072",
+   "versions": [
+    {
+     "from": "2011-12-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134072",
+     "sha256": "fbb5b2a343fb48f007b1e77fe1e2ca0f0b9cfb1d3fbad85030728ed037d26be4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-111-2011",
    "path": "ordin/aparare/2011/111",
    "short": "Ordin aparare nr. 111/2011",
@@ -3269,6 +3494,36 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133942",
      "sha256": "83129a57f15cb408547344c5d25ede307d0706a6609da24829968ef994b1caeb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-14-2011",
+   "path": "ordin/aparare/2011/14",
+   "short": "Ordin aparare nr. 14/2011",
+   "title": "Ordinul nr. 14/2011 pentru modificarea Regulamentului onorurilor și ceremoniilor militare, aprobat prin Ordinul ministrului apărării naționale nr. M.30/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126020",
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126020",
+     "sha256": "a88b6f143d9daf3aff284b9142483ba18fde2440152b8b48418a3a8edf499b18"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-17-2011",
+   "path": "ordin/aparare/2011/17",
+   "short": "Ordin aparare nr. 17/2011",
+   "title": "Ordinul nr. 17/2011 pentru abrogarea Ordinului ministrului apărării naționale nr. M.101/2010 privind aplicarea în Ministerul Apărării Naționale a Hotărârii Guvernului nr. 735/2010 pentru recalcularea pensiilor stabilite potrivit legislației privind pensiile militare de stat, a pensiilor de stat ale polițiștilor și ale funcționarilor publici cu statut special din sistemul administrației penitenciarelor, conform Legii nr. 119/2010 privind stabilirea unor măsuri în domeniul pensiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126310",
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126310",
+     "sha256": "d6f833592bbc891c5cecfebdfc763ea85bdfb943f6cea224546c78572b6fa870"
     }
    ]
   },
@@ -3299,6 +3554,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126791",
      "sha256": "e12b6c43ac12273146496b1e0a0350fa988edded4f6326780ce5d611ce5dfc68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-30-2011",
+   "path": "ordin/aparare/2011/30",
+   "short": "Ordin aparare nr. 30/2011",
+   "title": "Ordinul nr. 30/2011 pentru abrogarea Ordinului ministrului apărării naționale nr. M.82/2010 privind organizarea și funcționarea Comitetului director al proiectului \"Sistem informatic de sprijin al acțiunilor militare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127997",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127997",
+     "sha256": "dd7526aefa57700a101278d2ddd76ce0294198e4de43cb06b73e7bee8fa7e174"
     }
    ]
   },
@@ -3393,6 +3663,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-69-2011",
+   "path": "ordin/aparare/2011/69",
+   "short": "Ordin aparare nr. 69/2011",
+   "title": "Ordinul nr. 69/2011 pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului apărării nr. M.31/2008 privind competențele de achiziție a produselor, serviciilor și lucrărilor în cadrul Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130635",
+   "versions": [
+    {
+     "from": "2011-08-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130635",
+     "sha256": "4b177d81f714c682c60865546aade4a38a7c12b376f2d8e9301966fa1b8b321a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-78-2011",
    "path": "ordin/aparare/2011/78",
    "short": "Ordin aparare nr. 78/2011",
@@ -3408,6 +3693,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-80-2011",
+   "path": "ordin/aparare/2011/80",
+   "short": "Ordin aparare nr. 80/2011",
+   "title": "Ordinul nr. 80/2011 pentru modificarea și completarea Normelor pentru ocuparea de către personalul Ministerului Apărării Naționale a posturilor permanente din structurile de reprezentare națională în străinătate, precum și a celor din structurile internaționale la care România este parte, aprobate prin Ordinul ministrului apărării naționale nr. M.88/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131133",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131133",
+     "sha256": "fa612b06d7ed36ff2d50710aeb385af228d16476b719fb5c58684a652ee625b9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-81-2011",
    "path": "ordin/aparare/2011/81",
    "short": "Ordin aparare nr. 81/2011",
@@ -3419,6 +3719,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131134",
      "sha256": "693d1e598e114a510202e5501fb9631aa71151abf124d2767a3bef14ee15ff81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-83-2011",
+   "path": "ordin/aparare/2011/83",
+   "short": "Ordin aparare nr. 83/2011",
+   "title": "Ordinul nr. 83/2011 pentru modificarea Ordinului ministrului apărării naționale nr. M.47/2011 privind resubordonarea Spitalului Universitar de Urgență Militar Central \"Dr. Carol Davila\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131570",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131570",
+     "sha256": "353683f7d551a65a9eb00e86da19b3395e1d68060d41a9fdf473f30bf7c5c405"
     }
    ]
   },
@@ -4308,6 +4623,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-1062-2011",
+   "path": "ordin/comunicatii/2011/1062",
+   "short": "Ordin comunicatii nr. 1062/2011",
+   "title": "Ordinul nr. 1.062/2011 privind desemnarea Centrului Național de Răspuns la Incidente de Securitate Cibernetică - CERT-RO ca autoritate de avizare, verificare și control, organism de analiză, evaluare și intervenție în domeniul securității cibernetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134545",
+   "versions": [
+    {
+     "from": "2012-01-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134545",
+     "sha256": "7528e776323c23bd6c54b0bd1f27bde856c29b7242bea2ca43e5ded413076468"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-1167-2011",
+   "path": "ordin/comunicatii/2011/1167",
+   "short": "Ordin comunicatii nr. 1167/2011",
+   "title": "Ordinul nr. 1.167/2011 pentru modificarea anexei nr. 3 la Ordinul ministrului comunicațiilor și societății informaționale nr. 489/2009 privind normele metodologice de autorizare a centrelor de date",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133615",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133615",
+     "sha256": "44987516be96c8d7b8fdedb135578b23b21ccdad6873f76829ed658ed4572a7e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-168-2011",
    "path": "ordin/comunicatii/2011/168",
    "short": "Ordin comunicatii nr. 168/2011",
@@ -4323,6 +4668,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-173-2011",
+   "path": "ordin/comunicatii/2011/173",
+   "short": "Ordin comunicatii nr. 173/2011",
+   "title": "Ordinul nr. 173/2011 pentru aprobarea Normelor tehnice privind Sistemul național electronic de plată online a taxelor și impozitelor utilizând cardul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125678",
+   "versions": [
+    {
+     "from": "2011-01-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125678",
+     "sha256": "69bf8e44549f08d6ddd8e14f235668f4ab2a710a5ffb202b6fe7f3fb7a44ebd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-585-2011",
+   "path": "ordin/comunicatii/2011/585",
+   "short": "Ordin comunicatii nr. 585/2011",
+   "title": "Ordinul nr. 585/2011 pentru completarea Ordinului ministrului comunicațiilor și societății informaționale nr. 489/2009 privind normele metodologice de autorizare a centrelor de date",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130465",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130465",
+     "sha256": "909f085c93541338495876ca30e2af54265f0fe9c67dc1b75f314e394903b122"
+    }
+   ]
+  },
+  {
    "slug": "ordin-comunicatii-610-2011",
    "path": "ordin/comunicatii/2011/610",
    "short": "Ordin comunicatii nr. 610/2011",
@@ -4334,6 +4709,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133253",
      "sha256": "a721ab460c9ea10f282f1964e604e4d6d3cfe34e5071fd0a472f9fa412a81696"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-888-2011",
+   "path": "ordin/comunicatii/2011/888",
+   "short": "Ordin comunicatii nr. 888/2011",
+   "title": "Ordinul nr. 888/2011 pentru modificarea și completarea Ordinului ministrului comunicațiilor și societății informaționale nr. 473/2009 privind procedura de acordare, suspendare și retragere a deciziei de acreditare a furnizorilor de servicii de certificare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132100",
+   "versions": [
+    {
+     "from": "2011-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132100",
+     "sha256": "49bc94bf1346b79f679c751ab52a55865b23ea7adfb2559295074a4e71f60359"
     }
    ]
   },
@@ -4743,6 +5133,66 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2132-2011",
+   "path": "ordin/cultura/2011/2132",
+   "short": "Ordin cultura nr. 2132/2011",
+   "title": "Ordinul nr. 2.132/2011 pentru aprobarea Criteriilor privind aplicarea prevederilor cap. VI lit. B din anexa nr. IV la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126958",
+   "versions": [
+    {
+     "from": "2011-03-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126958",
+     "sha256": "e3444c9acf102eac3a8649afb981dd74be94e7ee2447f2afce3dfcee6fd289c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2178-2011",
+   "path": "ordin/cultura/2011/2178",
+   "short": "Ordin cultura nr. 2178/2011",
+   "title": "Ordinul nr. 2.178/2011 privind modificarea și completarea Procedurii de acordare a autorizațiilor pentru cercetarea arheologică, aprobată prin Ordinul ministrului culturii și patrimoniului național nr. 2.562/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128113",
+   "versions": [
+    {
+     "from": "2011-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128113",
+     "sha256": "523d5079a6c1b51b2b3582b8800b2682f6b7c9d7a956bd5a798a91695fcce26d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2231-2011",
+   "path": "ordin/cultura/2011/2231",
+   "short": "Ordin cultura nr. 2231/2011",
+   "title": "Ordinul nr. 2.231/2011 pentru aprobarea Normelor metodologice privind organizarea și funcționarea comisiilor, procedura de selecție a programelor, proiectelor și acțiunilor culturale în vederea acordării de finanțări nerambursabile din Fondul Cultural Național, precum și de soluționare a contestațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128118",
+   "versions": [
+    {
+     "from": "2011-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128118",
+     "sha256": "ed76ab7bbe7ee74dcc54a2598fb923f5b9fc0ac6c361880d41a29d4d467f0374"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2408-2011",
+   "path": "ordin/cultura/2011/2408",
+   "short": "Ordin cultura nr. 2408/2011",
+   "title": "Ordinul nr. 2.408/2011 privind stabilirea personalului împuternicit să constate contravenții și să aplice amenzile prevăzute de actele normative din domeniul culturii, precum și pentru aprobarea modelului legitimației persoanelor împuternicite și a modelelor proceselor-verbale de constatare și sancționare a contravențiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130546",
+   "versions": [
+    {
+     "from": "2011-09-02",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130546",
+     "sha256": "b5d4fd0b11836fb7b2475111bcc3ec5bf0bf55519d478320f73250ed93d58e75"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-2613-2011",
    "path": "ordin/cultura/2011/2613",
    "short": "Ordin cultura nr. 2613/2011",
@@ -4754,6 +5204,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134977",
      "sha256": "bbec10d8536dd0aa88c23ecc6ad10603c7c035ca391a98f536c15bfbd58c5b7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2734-2011",
+   "path": "ordin/cultura/2011/2734",
+   "short": "Ordin cultura nr. 2734/2011",
+   "title": "Ordinul nr. 2.734/2011 privind abrogarea Ordinului ministrului culturii și cultelor nr. 2.220/2007 pentru aprobarea Normelor privind procedura de atestare și înscriere în Registrul operatorilor economici din domeniul protejării monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134202",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134202",
+     "sha256": "06fce70363e59145de5cfb15a1b5aba1b68e4eae1cb0655e52b94066e8ccc45f"
     }
    ]
   },
@@ -6839,6 +7304,306 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134843",
      "sha256": "2e7e0e3846a57d7e0a7b0df14565868c6bdb6f76bf83492d37b29ce43b7c607f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-101-2011",
+   "path": "ordin/externe/2011/101",
+   "short": "Ordin externe nr. 101/2011",
+   "title": "Ordinul nr. 101/2011 privind aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 119/2010 privind regimul de control al operațiunilor cu produse cu dublă utilizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126179",
+   "versions": [
+    {
+     "from": "2011-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126179",
+     "sha256": "184307a9eb552472362ee3b2c8715c3be9e637cb57c6276ef0b613f1dc1652ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1214-2011",
+   "path": "ordin/externe/2011/1214",
+   "short": "Ordin externe nr. 1214/2011",
+   "title": "Ordinul nr. 1.214/2011 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131853",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131853",
+     "sha256": "6464c3963bd133889222a3826f67b8b6575af9a8515ca6496fd440a07ae58158"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1342-2011",
+   "path": "ordin/externe/2011/1342",
+   "short": "Ordin externe nr. 1342/2011",
+   "title": "Ordinul nr. 1.342/2011 privind publicarea Programului de colaborare în domeniile culturii, educației și științei dintre Guvernul României și Guvernul Republicii Armenia, semnat la București la 8 septembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132783",
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132783",
+     "sha256": "7e506615876cb960c2107fc8808b35bde48ee3cbdbd1304da6ef0ea27e8ac617"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1404-2011",
+   "path": "ordin/externe/2011/1404",
+   "short": "Ordin externe nr. 1404/2011",
+   "title": "Ordinul nr. 1.404/2011 privind încetarea valabilității unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132449",
+   "versions": [
+    {
+     "from": "2011-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132449",
+     "sha256": "a9dbc39ddbb8c744d33a896648d06e5978e7b31e9b3d41d02cb5eaaf719970cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-168-2011",
+   "path": "ordin/externe/2011/168",
+   "short": "Ordin externe nr. 168/2011",
+   "title": "Ordinul nr. 168/2011 privind extinderea activității Secției consulare a Ambasadei României în Irak în localitatea Erbil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126903",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126903",
+     "sha256": "185880b19641728cf530c54f3b537644699766b37399ed82907bbdb325674776"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1855-2011",
+   "path": "ordin/externe/2011/1855",
+   "short": "Ordin externe nr. 1855/2011",
+   "title": "Ordinul nr. 1.855/2011 privind publicarea Programului executiv de cooperare în domeniile culturii, mass-mediei, educației și științei dintre Guvernul României și Guvernul Statului Kuwait pentru anii 2011-2015, semnat la București la 25 octombrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133616",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133616",
+     "sha256": "93b756783cf7c10a30c12df379cf70c148a0fd77e78738b55dd67c4e4435d468"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1944-2011",
+   "path": "ordin/externe/2011/1944",
+   "short": "Ordin externe nr. 1944/2011",
+   "title": "Ordinul nr. 1.944/2011 pentru intrarea în vigoare a Acordului dintre România și Statele Unite ale Americii privind amplasarea sistemului de apărare împotriva rachetelor balistice al Statelor Unite în România, semnat la Washington la 13 septembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134183",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134183",
+     "sha256": "440146b98fd933ea322d7077766a8a3d98681873fb44e3e932630be0d8db1009"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-333-2011",
+   "path": "ordin/externe/2011/333",
+   "short": "Ordin externe nr. 333/2011",
+   "title": "Ordinul nr. 333/2011 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127740",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127740",
+     "sha256": "3a533e4f39123f1a8477fafbf31dfc82d7fee7da58848f526ea4afa4309705d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-371-2011",
+   "path": "ordin/externe/2011/371",
+   "short": "Ordin externe nr. 371/2011",
+   "title": "Ordinul nr. 371/2011 privind publicarea Programului de cooperare în domeniile culturii, educației, tineretului și sportului dintre Guvernul României și Guvernul Republicii India pentru anii 2011-2015, semnat la București la 28 martie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127945",
+   "versions": [
+    {
+     "from": "2011-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127945",
+     "sha256": "0d767f6329fab04e2d769b104b5b15029d737c971042fe0faa43c3121aa59050"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-422-2011",
+   "path": "ordin/externe/2011/422",
+   "short": "Ordin externe nr. 422/2011",
+   "title": "Ordinul nr. 422/2011 privind supunerea regimului de control, prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare, a operațiunii de export a unei mașini de alezat și frezat orizontală model BMT 150 CNC către firma BHARAT HEAVY ELECTRICALS LTD., HIGH PRESSURE BOILER PLANT, Tiruchirapalli 620014, India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128336",
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128336",
+     "sha256": "0d514fd5a902d87254f26781794618bee95df759a398765cfddc29ef96c98870"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-433-2011",
+   "path": "ordin/externe/2011/433",
+   "short": "Ordin externe nr. 433/2011",
+   "title": "Ordinul nr. 433/2011 privind publicarea textului notelor verbale, semnate la București la 3 februarie 2011, 2 martie 2011, 21 martie 2011 și 12 aprilie 2011, care constituie Schimbul de instrumente pentru corectarea erorii materiale în textul Acordului dintre Guvernul României și Guvernul Republicii Cehe privind protecția reciprocă a informațiilor clasificate schimbate, semnat la București la 31 martie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129120",
+   "versions": [
+    {
+     "from": "2011-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129120",
+     "sha256": "cbd7582846eb35b6e17f9469e193a06c7cada406b3ea372522f67410879b4360"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-494-2011",
+   "path": "ordin/externe/2011/494",
+   "short": "Ordin externe nr. 494/2011",
+   "title": "Ordinul nr. 494/2011 privind supunerea regimului de control, prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare, a operațiunii de export al unei mașini de alezat și frezat tip AFP - 230 CNC către firma L&amp;T Special Steels and Heavy Forgings Pvt. Ltd, Hazira Manufacturing Complex, Dist. Surat, Gujarat, India, Pin Code 394510",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129080",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129080",
+     "sha256": "1a72ecaf37dc8b3d91cbcc75f993f0a1d8694c28205883366f3fe60ca74ee122"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-514-2011",
+   "path": "ordin/externe/2011/514",
+   "short": "Ordin externe nr. 514/2011",
+   "title": "Ordinul nr. 514/2011 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129865",
+   "versions": [
+    {
+     "from": "2011-07-07",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129865",
+     "sha256": "ed498f128c6db353ef6cc71a6569d53684f05a3ef57b7492c1b00f880bbaa647"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-559-2011",
+   "path": "ordin/externe/2011/559",
+   "short": "Ordin externe nr. 559/2011",
+   "title": "Ordinul nr. 559/2011 privind supunerea regimului de control, prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare, a operațiunii de export a unui strung carusel tip SC53-DRO-8H cu accesorii denumit în comandă \"Vertical Boring Machine 4.5M\" către firma BHARAT HEAVY ELECTRICALS LIMITED FABRICATION PLANT, Industrial Area, Jagdishpur, Distt.Sultanpur (UP) 227817 din India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129580",
+   "versions": [
+    {
+     "from": "2011-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129580",
+     "sha256": "523f476cb43424ada0e936b83de9de0d579715091a70b971a68d27d246535504"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-568-2011",
+   "path": "ordin/externe/2011/568",
+   "short": "Ordin externe nr. 568/2011",
+   "title": "Ordinul nr. 568/2011 privind publicarea textului notelor verbale, semnate la București la 12 aprilie 2011 și, respectiv, la București la 29 aprilie 2011, care constituie schimbul de instrumente pentru corectarea erorilor materiale în textul Acordului dintre Guvernul României și Guvernul Canadei pentru promovarea și protejarea reciprocă a investițiilor, semnat la București la 8 mai 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129925",
+   "versions": [
+    {
+     "from": "2011-07-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129925",
+     "sha256": "c00461932f69cfcb2d847bf46557317eeff19415cf325d68f70ac07f19f185a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-703-2011",
+   "path": "ordin/externe/2011/703",
+   "short": "Ordin externe nr. 703/2011",
+   "title": "Ordinul nr. 703/2011 privind supunerea regimului de control prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare a operațiunii de export a produsului masa deplasabilă și rotativă tip MRD 3000x4000x2500 către firma BHARAT HEAVY ELECTRICALS LIMITED RAMACHANDRAPURAM HYDERABAD 502032 A.P. INDIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130233",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130233",
+     "sha256": "903a24e6f61a8ec5e9e1a9d8b9ced4f225c0e0214601153bdeed170243119e79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-704-2011",
+   "path": "ordin/externe/2011/704",
+   "short": "Ordin externe nr. 704/2011",
+   "title": "Ordinul nr. 704/2011 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130277",
+   "versions": [
+    {
+     "from": "2011-07-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130277",
+     "sha256": "078dfbf8fc8363e31ce97e3117cedc9293a34ca000d7045428f991ae94754bd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-753-2011",
+   "path": "ordin/externe/2011/753",
+   "short": "Ordin externe nr. 753/2011",
+   "title": "Ordinul nr. 753/2011 privind supunerea regimului de control, prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare, a operațiunii de export a unui strung vertical cu comandă numerică tip SC30-CNC-1S-1MS-3H către firma BHARAT HEAVY ELECTRICALS LTD. HIGH PRESSURE BOILER PLANT, Tiruchirapalli 620014, din India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130453",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130453",
+     "sha256": "d90a32c904d8f0eebe0dd98dd0f3ec4820051e8cab0e08c873e55988ef63b855"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-804-2011",
+   "path": "ordin/externe/2011/804",
+   "short": "Ordin externe nr. 804/2011",
+   "title": "Ordinul nr. 804/2011 privind supunerea regimului de control, prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare, a operațiunii de export a unui strung vertical tip SC 55 DRO-2S-3.5H către firma BHARAT HEAVY ELECTRICALS LIMITED LTD., Ranipur, Hardwar - 249403, din India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130527",
+   "versions": [
+    {
+     "from": "2011-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130527",
+     "sha256": "1e8b9b236f5da85f0aa72bf966138497ed0102dd22e64173c94adafcff3ace51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-953-2011",
+   "path": "ordin/externe/2011/953",
+   "short": "Ordin externe nr. 953/2011",
+   "title": "Ordinul nr. 953/2011 privind supunerea regimului de control prevăzut de Regulamentul (CE) nr. 428/2009 al Consiliului din 5 mai 2009 de instituire a unui regim comunitar pentru controlul exporturilor, transferului, serviciilor de intermediere și tranzitului de produse cu dublă utilizare a operațiunii de export \"Accesorii special concepute pentru strungul vertical SC 14CNC MSF 2H\" către firma Hindustan Aeronautics Limited, Sukhoi Engine Division, Koraput, Orissa, 763002 India",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131081",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131081",
+     "sha256": "f1e7c10430c3455808b4b2df4893c6a97a120cc691ce98e105ac26803f6802c6"
     }
    ]
   },

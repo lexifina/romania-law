@@ -78,6 +78,111 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-110-1992",
+   "path": "ordin/comunicatii/1992/110",
+   "short": "Ordin comunicatii nr. 110/1992",
+   "title": "Ordinul nr. 110/1992 privind autorizarea stațiilor de radiodifuziune și televiziune și a sistemelor de comunicație audiovizuala cu distribuție prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2403",
+   "versions": [
+    {
+     "from": "1992-08-31",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2403",
+     "sha256": "25fc8cb767a2ad5c0ecef3d04bd5ff82fa4b6d7ed1eaeba20a8b260308ada3af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-165-1992",
+   "path": "ordin/comunicatii/1992/165",
+   "short": "Ordin comunicatii nr. 165/1992",
+   "title": "Ordinul nr. 165/1992 privind stabilirea procedurii de acordare a autorizației de tip și a avizului individual de utilizare pentru echipamentele terminale de telecomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33970",
+   "versions": [
+    {
+     "from": "1992-10-07",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33970",
+     "sha256": "fe9bc5b74ba0777097c665350b6e2d5aaa80292666e67ff257ac2cc30d4d7b0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-224-1992",
+   "path": "ordin/comunicatii/1992/224",
+   "short": "Ordin comunicatii nr. 224/1992",
+   "title": "Ordinul nr. 224/1992 privind modificarea unor condiții de operare a serviciilor de radiotelefonie cu acces multiplu de tip \"trunked\", stabilite prin Ordinul ministrului comunicațiilor nr. 54/1992 privind autorizarea serviciilor de radiotelefonie cu acces multiplu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2534",
+   "versions": [
+    {
+     "from": "1992-11-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2534",
+     "sha256": "f9a2ad74375973e07453a127b893c446537f5e9ee2e3bf50ab4eb81ec09fb8eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-269-1992",
+   "path": "ordin/comunicatii/1992/269",
+   "short": "Ordin comunicatii nr. 269/1992",
+   "title": "Ordinul nr. 269/1992 privind autorizarea recepției cu instalații individuale sau comunitare a programelor audiovizuale transmise prin sateliti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2585",
+   "versions": [
+    {
+     "from": "1992-12-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2585",
+     "sha256": "6916d518b55f5118a298dd15c96fd94bd68c4c1d1030743f6fa8798ce5ba04da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-35-1992",
+   "path": "ordin/comunicatii/1992/35",
+   "short": "Ordin comunicatii nr. 35/1992",
+   "title": "Ordinul nr. 35/1992 privind stabilirea regimului de autorizare a terminalelor VSAT (microterminale pentru comunicații prin sateliți în serviciul fix) și a serviciilor prin sisteme VSAT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2218",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2218",
+     "sha256": "a3ee6669e0d2d02a1cf7aacc6b56890830ab0859c1a380e5eff01a8c1a5f631a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-54-1992",
+   "path": "ordin/comunicatii/1992/54",
+   "short": "Ordin comunicatii nr. 54/1992",
+   "title": "Ordinul nr. 54/1992 (*republicat privind autorizarea serviciilor de radiotelefonie cu acces multiplu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33647",
+   "versions": [
+    {
+     "from": "1992-11-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33647",
+     "sha256": "7ef739cee6fbe3301f818275eddc2ce04c6b402b068d0ed732d99ed376323741"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-408-1992",
+   "path": "ordin/cultura/1992/408",
+   "short": "Ordin cultura nr. 408/1992",
+   "title": "Ordinul nr. 408/1992 ORDINUL NR. 408 din 6 februarie 1992 privind tipărirea în deplina legalitate a lucrărilor din planurile editoriale proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2674",
+   "versions": [
+    {
+     "from": "1992-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2674",
+     "sha256": "c0d90b675a85df758f5396a59d0be93ebec640f48c7f367401428d5828d3dcfb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-589-1992",
    "path": "ordin/dezvoltare/1992/589",
    "short": "Ordin dezvoltare nr. 589/1992",

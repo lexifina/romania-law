@@ -3,6 +3,66 @@
  "shard": "ordin/2008",
  "acts": [
   {
+   "slug": "ordin-aaas-1837-2008",
+   "path": "ordin/aaas/2008/1837",
+   "short": "Ordin aaas nr. 1837/2008",
+   "title": "Ordinul nr. 1.837/2008 privind instituirea procedurii de administrare specială la Societatea Comercială \"Fabrica de Pulberi\" - S.A. Făgăraș - filială a Companiei Naționale \"Romarm\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98552",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98552",
+     "sha256": "974e1f3f70e5d3fa4e5f0df7fbb726110479e7da285d769e6e05f4f408b20879"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-1908-2008",
+   "path": "ordin/aaas/2008/1908",
+   "short": "Ordin aaas nr. 1908/2008",
+   "title": "Ordinul nr. 1.908/2008 privind instituirea procedurii de administrare specială și de supraveghere financiară la Societatea Comercială \"Uzina Mecanică Cugir\" - S.A. - filială a Companiei Naționale \"Romarm\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100267",
+   "versions": [
+    {
+     "from": "2008-12-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100267",
+     "sha256": "57f5f0e5019a481d49e0e87fc9f18ee60238d925e2e32bafb620110aa1cde0b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-207-2008",
+   "path": "ordin/aaas/2008/207",
+   "short": "Ordin aaas nr. 207/2008",
+   "title": "Ordinul nr. 207/2008 privind instituirea procedurii de administrare specială la Societatea Comercială \"Uzina Mecanică Sadu\" - S.A. - filială a Companiei Naționale \"Romarm\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91365",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91365",
+     "sha256": "fe0bf2b48f0d354f5a7c602f63d290521b8d816705f629084e35ad34e6338bf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aaas-355-2008",
+   "path": "ordin/aaas/2008/355",
+   "short": "Ordin aaas nr. 355/2008",
+   "title": "Ordinul nr. 355/2008 privind încetarea procedurii de administrare specială la Societatea Comercială \"Minbucovina\" - S.A. Vatra Dornei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92255",
+   "versions": [
+    {
+     "from": "2008-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92255",
+     "sha256": "111dc9fc0c5c056c5f726b6fbb7a77d7965450490ca64a6680de680e24097080"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-10-2008",
    "path": "ordin/agricultura/2008/10",
    "short": "Ordin agricultura nr. 10/2008",
@@ -3708,6 +3768,276 @@
    ]
   },
   {
+   "slug": "ordin-anrm-102-2008",
+   "path": "ordin/anrm/2008/102",
+   "short": "Ordin anrm nr. 102/2008",
+   "title": "Ordinul nr. 102/2008 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare Runda nr. 61/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93993",
+   "versions": [
+    {
+     "from": "2008-06-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93993",
+     "sha256": "521ffb02c9e4dbe8f18df4574c842fc637a87bfa5bf5837a5262c76ed661ca00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-109-2008",
+   "path": "ordin/anrm/2008/109",
+   "short": "Ordin anrm nr. 109/2008",
+   "title": "Ordinul nr. 109/2008 privind Lista perimetrelor petroliere oferite pentru concesiune prin apel public de ofertă, Runda a IX-a/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94450",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94450",
+     "sha256": "7ef28629ad7ebb0c3ef9aa07a15a2f77ece713f7da41c27e2438d366887627b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-167-2008",
+   "path": "ordin/anrm/2008/167",
+   "short": "Ordin anrm nr. 167/2008",
+   "title": "Ordinul nr. 167/2008 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare - Runda nr. 63/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97205",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97205",
+     "sha256": "051ab0f3f3916bc9b2b7361b3eae4961dac17890a6dc4c2da209bb4f8697e1cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-175-2008",
+   "path": "ordin/anrm/2008/175",
+   "short": "Ordin anrm nr. 175/2008",
+   "title": "Ordinul nr. 175/2008 privind aprobarea Listei apelor minerale naturale recunoscute în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97591",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97591",
+     "sha256": "c6cb4a22930357993f2dc263a47fadc1f64e00cd0e53488a783474e7446183d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-177-2008",
+   "path": "ordin/anrm/2008/177",
+   "short": "Ordin anrm nr. 177/2008",
+   "title": "Ordinul nr. 177/2008 privind suspendarea poziției 15 din Lista perimetrelor scoase la concurs public de oferte, Runda nr. 62/2008, pentru concesionarea activităților miniere de exploatare, aprobată prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 151/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97570",
+   "versions": [
+    {
+     "from": "2008-09-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97570",
+     "sha256": "b5f3acb1400246255758f9ad349d7db5ead31cc10e00b203017325ff448921f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-202-2008",
+   "path": "ordin/anrm/2008/202",
+   "short": "Ordin anrm nr. 202/2008",
+   "title": "Ordinul nr. 202/2008 privind aprobarea tarifelor de derulare a țițeiului și produselor petroliere prin terminalul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98558",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98558",
+     "sha256": "2febf4c3b7fad1d10234332e4f1e86bda9f2b3f4b5507b1b3d363cb1ef850b64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-207-2008",
+   "path": "ordin/anrm/2008/207",
+   "short": "Ordin anrm nr. 207/2008",
+   "title": "Ordinul nr. 207/2008 privind încetarea suspendării dispuse prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 177/2008 privind suspendarea poziției 15 din Lista perimetrelor scoase la concurs public de oferte, Runda nr. 62/2008, pentru concesionarea activităților miniere de exploatare, aprobată prin Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 151/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98844",
+   "versions": [
+    {
+     "from": "2008-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98844",
+     "sha256": "e2c0fae687ffa463b463b12b6bcb8d08eaa156397799ae5d884a2d27cb010b15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-21-2008",
+   "path": "ordin/anrm/2008/21",
+   "short": "Ordin anrm nr. 21/2008",
+   "title": "Ordinul nr. 21/2008 privind aprobarea prețului de referință al gazelor naturale extrase în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89389",
+   "versions": [
+    {
+     "from": "2008-02-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89389",
+     "sha256": "097d8e13cacde2d4ef119455c6d96012ff42e3e85d0e4a30cd8ba54b3ca988d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-243-2008",
+   "path": "ordin/anrm/2008/243",
+   "short": "Ordin anrm nr. 243/2008",
+   "title": "Ordinul nr. 243/2008 privind aprobarea tarifelor de transport al țițeiului prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100129",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100129",
+     "sha256": "4ad568b6700453147509defadd7bdc8f5770dafcd669b1bf307fdf72dfbb339a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-246-2008",
+   "path": "ordin/anrm/2008/246",
+   "short": "Ordin anrm nr. 246/2008",
+   "title": "Ordinul nr. 246/2008 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 64/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100607",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100607",
+     "sha256": "3f212b3dad9da6f98546c549172ab5550bf88d4581a439e8eedb9b9027d8527b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-43-2008",
+   "path": "ordin/anrm/2008/43",
+   "short": "Ordin anrm nr. 43/2008",
+   "title": "Ordinul nr. 43/2008 pentru aprobarea unei licențe de dare în administrare pentru explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90360",
+   "versions": [
+    {
+     "from": "2008-03-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90360",
+     "sha256": "0989fd2564d5976ca9eac70758808e41324af0e287fa70564c2472fae084a411"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-47-2008",
+   "path": "ordin/anrm/2008/47",
+   "short": "Ordin anrm nr. 47/2008",
+   "title": "Ordinul nr. 47/2008 pentru aprobarea Instrucțiunilor tehnice privind elaborarea și avizarea programelor anuale de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91143",
+   "versions": [
+    {
+     "from": "2008-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91143",
+     "sha256": "a513a090730780b39cff0bd5d0e648ac4801b907723aac2669731d5f44d0f2c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-52-2008",
+   "path": "ordin/anrm/2008/52",
+   "short": "Ordin anrm nr. 52/2008",
+   "title": "Ordinul nr. 52/2008 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 58/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90836",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90836",
+     "sha256": "2e9094e5ad47191844950f767a77be36d24125e59f2551c7fc67f7f44434336f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-53-2008",
+   "path": "ordin/anrm/2008/53",
+   "short": "Ordin anrm nr. 53/2008",
+   "title": "Ordinul nr. 53/2008 pentru aprobarea Instrucțiunilor privind criteriile, metodologia și procedura de stabilire a tarifelor reglementate pentru transportul prin Sistemul național de transport al țițeiului, gazolinei, condensatului și etanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91054",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91054",
+     "sha256": "b081cd0a36a1630a1460e1f39eea1f6be25bf4df3b57e354e5c8292d384d3f0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-65-2008",
+   "path": "ordin/anrm/2008/65",
+   "short": "Ordin anrm nr. 65/2008",
+   "title": "Ordinul nr. 65/2008 privind aprobarea Listei perimetrelor pentru concesionarea de activități de exploatare, Runda nr. 59/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91539",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91539",
+     "sha256": "3be615324388af6c6bcb26d38e103429dbeb6b58ecc12c6db35078299d8dfcee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-82-2008",
+   "path": "ordin/anrm/2008/82",
+   "short": "Ordin anrm nr. 82/2008",
+   "title": "Ordinul nr. 82/2008 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 60/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92903",
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92903",
+     "sha256": "66a7709c1b60874ca91d0c22db2de7330ab61624bbf943cedb0ae6fac649cba2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-87-2008",
+   "path": "ordin/anrm/2008/87",
+   "short": "Ordin anrm nr. 87/2008",
+   "title": "Ordinul nr. 87/2008 pentru aprobarea Instrucțiunilor tehnice privind clasificarea și evaluarea resurselor/rezervelor de apă minerală naturală, apă minerală terapeutică, apă geotermală, gazele care le însoțesc și de gaze necombustibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93493",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93493",
+     "sha256": "a577be83c5252e07c4908b710fbeb44c3096b7c84fad76b725f82f8e1e0b4960"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-98-2008",
+   "path": "ordin/anrm/2008/98",
+   "short": "Ordin anrm nr. 98/2008",
+   "title": "Ordinul nr. 98/2008 privind modificarea Ordinului președintelui Agenției Naționale pentru Resurse Minerale nr. 87/2008 pentru aprobarea Instrucțiunilor tehnice privind clasificarea și evaluarea resurselor/rezervelor de apă minerală naturală, apă minerală terapeutică, apă geotermală, gazele care le însoțesc și de gaze necombustibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93958",
+   "versions": [
+    {
+     "from": "2008-06-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93958",
+     "sha256": "67667f3babf2faaeb6003035887ef816262ab35a13d6cd670b06e8a0fe1cd18a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-10-2008",
    "path": "ordin/ansvsa/2008/10",
    "short": "Ordin ansvsa nr. 10/2008",
@@ -4203,6 +4533,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-106-2008",
+   "path": "ordin/aparare/2008/106",
+   "short": "Ordin aparare nr. 106/2008",
+   "title": "Ordinul nr. 106/2008 privind completarea Ordinului ministrului apărării nr. M. 9/2008 pentru aprobarea Regulamentului de organizare și funcționare a Consiliului de Planificare a Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98749",
+   "versions": [
+    {
+     "from": "2008-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98749",
+     "sha256": "142708295a80c7f34c26774cffb7e64a2dc71339bc8b3a7b57c75c8ae35c3674"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-110-2008",
    "path": "ordin/aparare/2008/110",
    "short": "Ordin aparare nr. 110/2008",
@@ -4424,6 +4769,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89181",
      "sha256": "360b24d14dc66dbe1417febcddd8794652d0278c8fbaae6a5c963f04fa2dc931"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-57-2008",
+   "path": "ordin/aparare/2008/57",
+   "short": "Ordin aparare nr. 57/2008",
+   "title": "Ordinul nr. 57/2008 pentru completarea anexei nr. 2 la Ordinul ministrului apărării nr. M. 31/2008 privind competențele de achiziție a produselor, serviciilor și lucrărilor în cadrul Ministerului Apărării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94569",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94569",
+     "sha256": "9ab237dc4e44f87ac7b837b440762700d521a8e4307e4755fc7301edff0297b3"
     }
    ]
   },
@@ -5118,6 +5478,51 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-412-2008",
+   "path": "ordin/comunicatii/2008/412",
+   "short": "Ordin comunicatii nr. 412/2008",
+   "title": "Ordinul nr. 412/2008 privind aprobarea schemei \"Ajutor de minimis pentru derularea Programului de finanțare nerambursabilă &#171;e-creștere!&#187;, aferent proiectului &#171;Economia bazată pe cunoaștere&#187;\", finanțat de Banca Mondială și Guvernul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97165",
+   "versions": [
+    {
+     "from": "2008-09-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97165",
+     "sha256": "64658b6c02b73edc83bcc17331bfa9ec340d91a4edeb3249cbb626bb99e66811"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-690-2008",
+   "path": "ordin/comunicatii/2008/690",
+   "short": "Ordin comunicatii nr. 690/2008",
+   "title": "Ordinul nr. 690/2008 privind relansarea apelului de proiecte pentru derularea Programului de finanțare nerambursabilă \"e-Creștere!\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100394",
+   "versions": [
+    {
+     "from": "2008-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100394",
+     "sha256": "a93532a96565858379f1bd276e83eb0d3a54994f62df9486aa915ea55f1beaea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-693-2008",
+   "path": "ordin/comunicatii/2008/693",
+   "short": "Ordin comunicatii nr. 693/2008",
+   "title": "Ordinul nr. 693/2008 privind modificarea Tabelului național de atribuire a benzilor de frecvență, aprobat prin Ordinul ministrului comunicațiilor și tehnologiei informației nr. 232/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101283",
+   "versions": [
+    {
+     "from": "2009-01-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101283",
+     "sha256": "72cf622118936f85ed0820b450905b673ddfeebe566d6323f8fb0ddae4d5d568"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-1-2008",
    "path": "ordin/csa/2008/1",
    "short": "Ordin csa nr. 1/2008",
@@ -5444,6 +5849,111 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94326",
      "sha256": "3bcee1a183c33ee4b07114b42dd90f35e555890e1261a0134f8da1456b8ae52b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2220-2008",
+   "path": "ordin/cultura/2008/2220",
+   "short": "Ordin cultura nr. 2220/2008",
+   "title": "Ordinul nr. 2.220/2008 privind tarifele pentru acordarea atestatelor și avizelor în domeniul impresariatului artistic, precum și pentru înscrierea în Registrul artelor spectacolului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95198",
+   "versions": [
+    {
+     "from": "2008-07-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95198",
+     "sha256": "f131fb851c5a5b9184b77a6f4b0e58dcd1fd6e74455771c74e2c1f5f334bade8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2260-2008",
+   "path": "ordin/cultura/2008/2260",
+   "short": "Ordin cultura nr. 2260/2008",
+   "title": "Ordinul nr. 2.260/2008 privind aprobarea Normelor metodologice de clasare și inventariere a monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95750",
+   "versions": [
+    {
+     "from": "2008-07-17",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95750",
+     "sha256": "7a425e6ce22aff59c71dd5fa4435f5dcf9324bfc49f702d78a62a4cf9f812fc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2326-2008",
+   "path": "ordin/cultura/2008/2326",
+   "short": "Ordin cultura nr. 2326/2008",
+   "title": "Ordinul nr. 2.326/2008 pentru modificarea anexei nr. 4 la Normele metodologice pentru aplicarea Ordonanței Guvernului nr. 39/2005 privind cinematografia, aprobată cu modificări și completări prin Legea nr. 328/2006, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.379/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93582",
+   "versions": [
+    {
+     "from": "2008-06-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93582",
+     "sha256": "dd3160141fe8fa15fce36cc08f4a63622177dd4a85f3e19ad595a25f33bde488"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2359-2008",
+   "path": "ordin/cultura/2008/2359",
+   "short": "Ordin cultura nr. 2359/2008",
+   "title": "Ordinul nr. 2.359/2008 privind modificarea și completarea Regulamentului privind concursul de selecție a proiectelor cinematografice în vederea acordării de credite financiare directe pentru dezvoltare de proiecte, producție și distribuire de filme, aprobat prin Ordinul ministrului culturii și cultelor nr. 2.335/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94212",
+   "versions": [
+    {
+     "from": "2008-06-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94212",
+     "sha256": "1938f6d1971c97dba961a1a3dee16c671f666f50a630cef762bacfec04c512f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2371-2008",
+   "path": "ordin/cultura/2008/2371",
+   "short": "Ordin cultura nr. 2371/2008",
+   "title": "Ordinul nr. 2.371/2008 pentru modificarea și completarea Normelor metodologice privind evidența, gestiunea și inventarierea bunurilor culturale deținute de muzee, colecții publice, case memoriale, centre de cultură și alte unități de profil, aprobate prin Ordinul ministrului culturii nr. 2.035/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95318",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95318",
+     "sha256": "4e5e2c5440f10ef2618cadedb02c7e78b88a87229edf71337ec450f92dfd512d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2398-2008",
+   "path": "ordin/cultura/2008/2398",
+   "short": "Ordin cultura nr. 2398/2008",
+   "title": "Ordinul nr. 2.398/2008 privind reorganizarea activității de atestare a specialiștilor, experților și verificatorilor tehnici în domeniul protejării monumentelor istorice și pentru aprobarea normelor metodologice privind atestarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99221",
+   "versions": [
+    {
+     "from": "2008-11-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99221",
+     "sha256": "6cfb25bc6e5bde9417997946f534e597a12d35e3e5ba9e5e5cd22c8350079e1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2504-2008",
+   "path": "ordin/cultura/2008/2504",
+   "short": "Ordin cultura nr. 2504/2008",
+   "title": "Ordinul nr. 2.504/2008 pentru modificarea art. 24 alin. (1) din Normele metodologice de clasare și inventariere a monumentelor istorice, aprobate prin Ordinul ministrului culturii și cultelor nr. 2.260/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96582",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96582",
+     "sha256": "128786946f67cf687f726d407068a0a8d3ed287f35a67f68e5edd7e1d1286b77"
     }
    ]
   },
@@ -6809,6 +7319,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100918",
      "sha256": "642e79f0003814d1da08337562065dabe6c7cc00567e8e7025c50dc3ea049285"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-1807-2008",
+   "path": "ordin/externe/2008/1807",
+   "short": "Ordin externe nr. 1807/2008",
+   "title": "Ordinul nr. 1.807/2008 privind publicarea Programului de cooperare în domeniile educației și culturii între Guvernul României și Guvernul Republicii Coreea pentru anii 2008-2011, semnat la Seul la 11 septembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98848",
+   "versions": [
+    {
+     "from": "2008-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98848",
+     "sha256": "c2349f4cfb12030e196ba7a6aa8988a0db2568436fdce07eb03409c838e2a148"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-195-2008",
+   "path": "ordin/externe/2008/195",
+   "short": "Ordin externe nr. 195/2008",
+   "title": "Ordinul nr. 195/2008 referitor la ieșirea din vigoare a unor tratate internaționale în domeniul fitosanitar și sanitar-veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90976",
+   "versions": [
+    {
+     "from": "2008-04-02",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90976",
+     "sha256": "b61ff90652a5a59b40bd30568ccdbf2e36d49d3c43596e69b486021105420b96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-2013-2008",
+   "path": "ordin/externe/2008/2013",
+   "short": "Ordin externe nr. 2013/2008",
+   "title": "Ordinul nr. 2.013/2008 privind Lista statelor pentru ai căror cetățeni este necesară îndeplinirea procedurii invitației la acordarea vizelor de scurtă ședere pentru a intra pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99218",
+   "versions": [
+    {
+     "from": "2008-11-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99218",
+     "sha256": "25804bae82ec3cc77bb43fb25dbb91d4cdfbf02bf42cf293df9e8be4e6ff42d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-310-2008",
+   "path": "ordin/externe/2008/310",
+   "short": "Ordin externe nr. 310/2008",
+   "title": "Ordinul nr. 310/2008 privind Lista statelor pentru ai căror cetățeni este necesară îndeplinirea procedurii invitației la acordarea vizelor de scurtă ședere pentru a intra pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89890",
+   "versions": [
+    {
+     "from": "2008-02-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89890",
+     "sha256": "7c5788f95ef8337e0006a401307fd0666b3f4a71c948daddcc7bab32c2ad7bbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-875-2008",
+   "path": "ordin/externe/2008/875",
+   "short": "Ordin externe nr. 875/2008",
+   "title": "Ordinul nr. 875/2008 privind publicarea Programului de colaborare în domeniile învățământului, științei, tehnologiei, culturii, mass-media, tineretului și sportului între Guvernul României și Guvernul Republicii Algeriene Democratice și Populare, pentru anii 2008-2011, semnat la Alger la 2 aprilie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93189",
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93189",
+     "sha256": "f6cc603cd188785b6a360d7de79dd7237ccce558e51b82d158b983175f670cb9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-880-2008",
+   "path": "ordin/externe/2008/880",
+   "short": "Ordin externe nr. 880/2008",
+   "title": "Ordinul nr. 880/2008 privind intrarea în vigoare a unor tratate internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93614",
+   "versions": [
+    {
+     "from": "2008-06-03",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93614",
+     "sha256": "33b28ce15bb5ecd8bdcf12ee46a0df99c182c118885dddef3ab57069ba38b99d"
     }
    ]
   },

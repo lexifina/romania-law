@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "ordin-anrm-18-1996",
+   "path": "ordin/anrm/1996/18",
+   "short": "Ordin anrm nr. 18/1996",
+   "title": "Ordinul nr. 18/1996 privind stabilirea, pentru anul 1996, a listei perimetrelor concesionabile pentru operațiuni petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7974",
+   "versions": [
+    {
+     "from": "1996-04-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7974",
+     "sha256": "cc4628f035f62a1592be8a5aa78898a50f2da710d81488d31aacb29dc168753d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-6-1996",
+   "path": "ordin/anrm/1996/6",
+   "short": "Ordin anrm nr. 6/1996",
+   "title": "Ordinul nr. 6/1996 privind perceperea de tarife de la persoanele fizice și juridice pentru actele emise de Agenția Naționala pentru Resurse Minerale în exercitarea atribuțiilor sale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7788",
+   "versions": [
+    {
+     "from": "1996-02-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7788",
+     "sha256": "35f9df7b73898ffde91eb2b86071ead35afcb2dbf5d37d7e13f39e0bb4e65e70"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-1-1996",
    "path": "ordin/cnvm/1996/1",
    "short": "Ordin cnvm nr. 1/1996",
@@ -254,6 +284,81 @@
      "units": 31,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7843",
      "sha256": "61d27c230b8c10a66030b92b5558cc6f71590cef80241a984af89acc2ca6595d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-177-1996",
+   "path": "ordin/comunicatii/1996/177",
+   "short": "Ordin comunicatii nr. 177/1996",
+   "title": "Ordinul nr. 177/1996 privind autorizarea rețelelor VSAT pentru comunicații în serviciu fix prin satelit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8797",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8797",
+     "sha256": "e265c3718fee99f5bde0ad3c2df4f223a88790f406c992b3193ba35f4acaacff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-1287-1996",
+   "path": "ordin/cultura/1996/1287",
+   "short": "Ordin cultura nr. 1287/1996",
+   "title": "Ordinul nr. 1.287/1996 pentru aprobarea Regulamentului privind organizarea și funcționarea muzeelor, a Regulamentului privind organizarea și funcționarea bibliotecilor publice, a Regulamentului privind organizarea și funcționarea așezămintelor pentru cultura și educația adulților și a Regulamentului pentru organizarea și funcționarea oficiilor pentru patrimoniul cultural național, județene și al municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10354",
+   "versions": [
+    {
+     "from": "1996-12-19",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10354",
+     "sha256": "d6cb4c85fe9e3ba5d74edf5eb53fa9d622ecc5752268e0b0e3e5ccda79a93dba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-155-1996",
+   "path": "ordin/cultura/1996/155",
+   "short": "Ordin cultura nr. 155/1996",
+   "title": "Ordinul nr. 155/1996 privind indexarea tarifelor pentru remunerarea colaboratorilor fără drept de autor, utilizate în unitățile bugetare din domeniul culturii și artei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8752",
+   "versions": [
+    {
+     "from": "1996-05-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8752",
+     "sha256": "46d9b8ee084313a09343de878211b339e52676ff64506ef526aa3161ca7afeb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-258-1996",
+   "path": "ordin/cultura/1996/258",
+   "short": "Ordin cultura nr. 258/1996",
+   "title": "Ordinul nr. 258/1996 privind indexarea tarifelor pentru remunerarea colaboratorilor fără drept de autor, utilizate în unitățile bugetare din domeniul culturii și artei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8957",
+   "versions": [
+    {
+     "from": "1996-08-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8957",
+     "sha256": "263a98f31137112209577815924f91a879992ff35537ec53ba8a01226def44a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-428-1996",
+   "path": "ordin/cultura/1996/428",
+   "short": "Ordin cultura nr. 428/1996",
+   "title": "Ordinul nr. 428/1996 privind indexarea tarifelor prevăzute în anexele nr. 1 și 2 la Hotărârea Guvernului nr. 571/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9307",
+   "versions": [
+    {
+     "from": "1996-11-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9307",
+     "sha256": "e2cb5b7e52f0bf8facfd88f6005d1f7c90a70dc356ecd653afcb9354efb580a9"
     }
    ]
   },
