@@ -119606,6 +119606,21 @@
    ]
   },
   {
+   "slug": "legea-206-1998",
+   "path": "lege/1998/206",
+   "short": "Legea nr. 206/1998",
+   "title": "Legea nr. 206/1998 pentru aprobarea afilierii instituţiei Avocatul Poporului la Institutul Internaţional al Ombudsmanului şi la Institutul European al Ombudsmanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16184",
+   "versions": [
+    {
+     "from": "1998-11-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16184",
+     "sha256": "cbef4ea8463b53732b473e4e5cd846a26d755b1485ebfa9f5fde3d0fa6dae39d"
+    }
+   ]
+  },
+  {
    "slug": "legea-206-1999",
    "path": "lege/1999/206",
    "short": "Legea nr. 206/1999",
@@ -120233,6 +120248,21 @@
    ]
   },
   {
+   "slug": "legea-208-1998",
+   "path": "lege/1998/208",
+   "short": "Legea nr. 208/1998",
+   "title": "Legea nr. 208/1998 pentru aprobarea Ordonanţei Guvernului nr. 36/1996 privind unele măsuri specifice pentru împrospătarea stocurilor de produse petroliere din rezervele de mobilizare ale armatei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16094",
+   "versions": [
+    {
+     "from": "1998-11-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16094",
+     "sha256": "72fbaa346e8ad2e8728d89f26b5f42ac32da14d4226d924aa580733345f5580a"
+    }
+   ]
+  },
+  {
    "slug": "legea-208-1999",
    "path": "lege/1999/208",
    "short": "Legea nr. 208/1999",
@@ -120541,6 +120571,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285070",
      "sha256": "14a5ad3220aa701deabe10837ac13cf1e6eb30dae960258edcb657688ef6ebc7"
+    }
+   ]
+  },
+  {
+   "slug": "legea-209-1998",
+   "path": "lege/1998/209",
+   "short": "Legea nr. 209/1998",
+   "title": "Legea nr. 209/1998 pentru aprobarea Ordonanţei Guvernului nr. 90/1998 privind măsuri pentru asigurarea finanţării acţiunilor legate de aplicarea Legii fondului funciar nr. 18/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16150",
+   "versions": [
+    {
+     "from": "1998-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16150",
+     "sha256": "86c26067b7f969d50cf6204eda67abf8d92b4185d2479f5161989408a798642e"
     }
    ]
   },
@@ -234881,6 +234926,21 @@
    ]
   },
   {
+   "slug": "oug-33-1998",
+   "path": "oug/1998/33",
+   "short": "OUG nr. 33/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 33/1998 cu privire la modificarea şi completarea art. 6 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16156",
+   "versions": [
+    {
+     "from": "1998-12-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16156",
+     "sha256": "b959a0424af86734e7a920d768894ff67dd1feb233fed97a99ff35832e0249f2"
+    }
+   ]
+  },
+  {
    "slug": "oug-33-2001",
    "path": "oug/2001/33",
    "short": "OUG nr. 33/2001",
@@ -235534,6 +235594,21 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185387",
      "sha256": "ed855d779422f425320204892606733a3810f2f1324b617eb2ce8966439b55f2"
+    }
+   ]
+  },
+  {
+   "slug": "oug-35-1998",
+   "path": "oug/1998/35",
+   "short": "OUG nr. 35/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 35/1998 privind transferul sumei de 90 miliarde lei din bugetul de stat în bugetul asigurărilor sociale de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16158",
+   "versions": [
+    {
+     "from": "1998-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16158",
+     "sha256": "db29c7ca8fe8202046f1681dd2c5530e5f8e86166f70d3b684063890eb8830ed"
     }
    ]
   },

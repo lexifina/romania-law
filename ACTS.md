@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12479 acts, 23,994 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12484 acts, 23,999 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8369, of which 3150 amending acts)
+## Laws (legi) (8372, of which 3153 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -571,7 +571,10 @@
 | Legea nr. 196/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte | [`lege/1998/196/`](lege/1998/196/) | amended, not consolidated | 1 | 1998-11-05 | 1998-11-05 |
 | Legea nr. 197/1998 pentru aprobarea Ordonanţei Guvernului nr. 19/1997 privind transporturile | [`lege/1998/197/`](lege/1998/197/) | amended, not consolidated | 1 | 1998-11-11 | 1998-11-11 |
 | Legea nr. 202/1998 | [`lege/1998/202/`](lege/1998/202/) | in force | 16 | 1998-12-10 | 2021-04-05 |
+| Legea nr. 206/1998 pentru aprobarea afilierii instituţiei Avocatul Poporului la Institutul Internaţional al Ombudsmanului şi la Institutul European al Ombudsmanului | [`lege/1998/206/`](lege/1998/206/) | amending act | 1 | 1998-11-23 | 1998-11-23 |
 | Legea nr. 207/1998 pentru aprobarea Ordonanţei Guvernului nr. 15/1998 privind înfiinţarea, organizarea şi funcţionarea Institutului European din România | [`lege/1998/207/`](lege/1998/207/) | amended, not consolidated | 1 | 1998-11-12 | 1998-11-12 |
+| Legea nr. 208/1998 pentru aprobarea Ordonanţei Guvernului nr. 36/1996 privind unele măsuri specifice pentru împrospătarea stocurilor de produse petroliere din rezervele de mobilizare ale armatei | [`lege/1998/208/`](lege/1998/208/) | amending act | 1 | 1998-11-12 | 1998-11-12 |
+| Legea nr. 209/1998 pentru aprobarea Ordonanţei Guvernului nr. 90/1998 privind măsuri pentru asigurarea finanţării acţiunilor legate de aplicarea Legii fondului funciar nr. 18/1991 | [`lege/1998/209/`](lege/1998/209/) | amending act | 1 | 1998-11-16 | 1998-11-16 |
 | Legea nr. 211/1998 pentru modificarea şi completarea art. 29 din Ordonanţa Guvernului nr. 20/1992 privind activitatea de metrologie | [`lege/1998/211/`](lege/1998/211/) | amended, not consolidated | 1 | 1998-11-16 | 1998-11-16 |
 | Legea nr. 213/1998 privind proprietatea publică și regimul juridic al acesteia | [`lege/1998/213/`](lege/1998/213/) | in force | 6 | 1999-01-23 | 2019-07-05 |
 | Legea nr. 214/1998 privind autorizarea regularizării diferenţelor de dobânda aferente unor credite externe contractate de Ministerul Sănătăţii, cu garanţia statului, pe relaţia Germania | [`lege/1998/214/`](lege/1998/214/) | in force | 1 | 1998-11-23 | 1998-11-23 |
@@ -8407,7 +8410,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2926, of which 675 amending acts)
+## Emergency ordinances (OUG) (2928, of which 675 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8464,6 +8467,8 @@
 | Ordonanța de urgență a Guvernului nr. 24/1998 | [`oug/1998/24/`](oug/1998/24/) | in force | 8 | 1998-10-02 | 2005-05-22 |
 | Ordonanța de urgență a Guvernului nr. 25/1998 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 7/1998 privind preţurile şi tarifele produselor şi serviciilor care se executa sau se prestează în ţara în cadrul activităţilor cu caracter de monopol natural, al celor supuse prin lege unui regim special sau al regiilor autonome, care se stabilesc cu avizul Oficiului Concurentei | [`oug/1998/25/`](oug/1998/25/) | amended, not consolidated | 1 | 1998-10-02 | 1998-10-02 |
 | Ordonanța de urgență a Guvernului nr. 27/1998 | [`oug/1998/27/`](oug/1998/27/) | in force | 2 | 1998-10-13 | 1999-04-22 |
+| Ordonanța de urgență a Guvernului nr. 33/1998 cu privire la modificarea şi completarea art. 6 din Ordonanţa Guvernului nr. 3/1992 privind taxa pe valoarea adăugată | [`oug/1998/33/`](oug/1998/33/) | in force | 1 | 1998-12-01 | 1998-12-01 |
+| Ordonanța de urgență a Guvernului nr. 35/1998 privind transferul sumei de 90 miliarde lei din bugetul de stat în bugetul asigurărilor sociale de stat | [`oug/1998/35/`](oug/1998/35/) | in force | 1 | 1998-11-16 | 1998-11-16 |
 | Ordonanța de urgență a Guvernului nr. 36/1998 privind unele măsuri de protecţie pentru personalul al cărui contract individual de muncă va fi desfăcut ca urmare a concedierilor colective determinate de reorganizarea Regiei Autonome de Electricitate "Renel", Regiei Autonome a Gazelor Naturale "Romgaz" Mediaş şi a Regiei Autonome a Petrolului "Petrom" Bucureşti | [`oug/1998/36/`](oug/1998/36/) | amended, not consolidated | 1 | 1998-11-18 | 1998-11-18 |
 | Ordonanța de urgență a Guvernului nr. 41/1998 privind organizarea activităţii de asistenţa medicală şi psihologică a personalului din transporturi cu atribuţii în siguranţa circulaţiei şi a navigaţiei şi înfiinţarea Casei Asigurărilor de Sănătate a Transporturilor | [`oug/1998/41/`](oug/1998/41/) | amended, not consolidated | 1 | 1998-11-27 | 1998-11-27 |
 | Ordonanța de urgență a Guvernului nr. 42/1998 pentru modificarea art. 28 din Ordonanţa Guvernului nr. 8/1997 privind stimularea cercetării ştiinţifice, dezvoltării tehnologice şi inovării | [`oug/1998/42/`](oug/1998/42/) | amended, not consolidated | 1 | 1998-11-30 | 1998-11-30 |
@@ -12545,7 +12550,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28648 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28656 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
