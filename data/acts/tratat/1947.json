@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "tratat/1947",
+"acts": [
+{
+"slug": "tratat-1947-02-10-tratat",
+"path": "tratat/1947/02-10-tratat",
+"kind": "tratat",
+"year": "1947",
+"number": "02-10-tratat",
+"withdrawn_by": null,
+"reason": null,
+"title": "Tratatul DE PACE din 10 februarie 1947 între România şi Puterile Aliate şi Asociate*)",
+"short": "Tratatul din 10 februarie 1947 (M. Of. nr. 199/1947)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1947-08-30",
+"latest": "1947-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/126153"
+}
+]
+}

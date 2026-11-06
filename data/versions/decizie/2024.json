@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "decizie/2024",
+ "acts": [
+  {
+   "slug": "decizie-ancom-111-2024",
+   "path": "decizie/ancom/2024/111",
+   "short": "Decizia ancom nr. 111/2024",
+   "title": "Decizia nr. 111/2024 privind aprobarea Tabelului național de atribuire a benzilor de frecvențe radio",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279650",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 4,
+     "source_url": "https://www.ancom.ro/decizie/decizia-ancom-nr-111-2024-privind-aprobarea-tabelului-national-de-atribuire-a-benzilor-de-frecvente-radio/?link_id=DecizieANCOM_111_2024_aprobareTNABF___11710499813.pdf",
+     "sha256": "1350300d75641e68aaf98b6e1dde3462821b143301ebfd163b5a927437fac1f7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-147-2024",
+   "path": "decizie/ancom/2024/147",
+   "short": "Decizia ancom nr. 147/2024",
+   "title": "Decizia nr. 147/2024 privind piețele relevante din sectorul comunicațiilor electronice corespunzătoare serviciilor de terminare a apelurilor de voce la puncte fixe, respectiv corespunzătoare serviciilor de terminare a apelurilor de voce la puncte mobile, precum și de retragere a obligațiilor individuale existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280052",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-ancom-nr-147-2024-privind-pietele-relevante-din-sectorul-comunicatiilor-electronice-corespunzatoare-serviciilor-de-terminare-a-apelurilor-de-voce-la-puncte-fixe-respectiv-corespunzatoare-s/?link_id=decizie_147_2024_retragere_piete_terminare1710774105.pdf",
+     "sha256": "4110bdf906d27f8b5a97152a2518bdabacb6bfadc79c817982fcecdb62c0f3e6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-335-2024",
+   "path": "decizie/ancom/2024/335",
+   "short": "Decizia ancom nr. 335/2024",
+   "title": "Decizia nr. 335/2024 privind stabilirea procedurii de soluționare a plângerilor privind serviciile digitale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285164",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 21,
+     "source_url": "https://www.ancom.ro/decizie/decizia-ancom-nr-335-2024-privind-stabilirea-procedurii-de-solutionare-a-plangerilor-privind-serviciile-digitale/?link_id=Decizie_335_2024_procedura_plangeri1720526272.pdf",
+     "sha256": "4ee320524b721095eec949e9ebe16ba74c034e812818c0d0667bccf5fdb39bb8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-694-2024",
+   "path": "decizie/ancom/2024/694",
+   "short": "Decizia ancom nr. 694/2024",
+   "title": "Decizia nr. 694/2024 pentru aprobarea Procedurii de anulare a unor obligații de plată datorate bugetului Autorității Naționale pentru Administrare și Reglementare în Comunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290167",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-ancom-nr-694-2024-pentru-aprobarea-procedurii-de-anulare-a-unor-obligatii-de-plata-datorate-bugetului-autoritatii-nationale-pentru-administrare-si-reglementare-in-comunicatii/?link_id=Decizia_694_2024_procedura_anulare_1730795879.pdf",
+     "sha256": "ed409a097e8a7019bb4042f6ea28cb375aa89b8260357ae0d580ffd81aa78682"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "decizie/2009",
+ "acts": [
+  {
+   "slug": "decizie-ancom-379-2009",
+   "path": "decizie/ancom/2009/379",
+   "short": "Decizia ancom nr. 379/2009",
+   "title": "Decizia nr. 379/2009 pentru modificarea Deciziei presedintelui Autoritatii Nationale pentru Reglementare în Comunicatii si Tehnologia Informatiei nr. 321/2008 privind alocarea si utilizarea unor numere nationale scurte pentru servicii armonizate la nivel european",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106577",
+   "versions": [
+    {
+     "from": "2009-06-04",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-379-2009-pentru-modificarea-deciziei-presedintelui-autoritatii-nationale-pentru-reglementare-in-comunicatii-si-tehnologia-informatiei-nr-321-2008-privind-alocarea-si-utilizarea-unor-numer/?link_id=Dec_379-2009_modif_3211602154879.pdf",
+     "sha256": "9afdfcb374e491bcb3542d327c161f2e79f9a88e952e8f58f02aafd840f3f3d2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-891-2009",
+   "path": "decizie/ancom/2009/891",
+   "short": "Decizia ancom nr. 891/2009",
+   "title": "Decizia nr. 891/2009 privind modificarea si completarea Deciziei presedintelui Autoritatii Nationale pentru Reglementare în Comunicatii si Tehnologia Informatiei nr. 2.858/2007 privind regimul de autorizare generala pentru furnizarea serviciilor postale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113272",
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "units": 4,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-891-2009-privind-modificarea-si-completarea-deciziei-presedintelui-autoritatii-nationale-pentru-reglementare-in-comunicatii-si-tehnologia-informatiei-nr-2-858-2007-privind-regimul-de/?link_id=125384165_decizia_2009_891.pdf",
+     "sha256": "e5b0174d6602fd6fddb70adb46f417f632035b2cc9683ca6c130e1cdb370bf5b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-955-2009",
+   "path": "decizie/ancom/2009/955",
+   "short": "Decizia ancom nr. 955/2009",
+   "title": "Decizia nr. 955/2009 pentru aprobarea Procedurii de tarifare si a Listei cuprinzând tarifele de utilizare a spectrului radio datorate anual catre Inspectoratul General pentru Comunicatii si Tehnologia Informatiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114357",
+   "versions": [
+    {
+     "from": "2009-12-10",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizia-955-2009-privind-modificarea-si-completarea-deciziei-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-686-2005-pentru-aprobarea-procedurii-de-tarifare-si/?link_id=128186025_decizie_2009_955.pdf",
+     "sha256": "c4979902d4182931f0a29ddf34d4d3e515710cb7cc0c1aa8547b93c92dfaf65d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-995-2009",
+   "path": "decizie/ancom/2009/995",
+   "short": "Decizia ancom nr. 995/2009",
+   "title": "Decizia nr. 995/2009 privind identificarea pietelor relevante din sectorul comunicatiilor electronice ale serviciilor de originare a apelurilor la puncte fixe, ale serviciilor de tranzit comutat al apelurilor, precum si ale serviciilor de acces la puncte fixe la retelele publice de telefonie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114475",
+   "versions": [
+    {
+     "from": "2009-12-15",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-995-2009-privind-identificarea-pietelor-relevante-din-sectorul-comunicatiilor-electronice-ale-serviciilor-de-originare-a-apelurilor-la-puncte-fixe-ale-serviciilor-de-tranzit-comutat-al-ap/?link_id=126761673_decizie_2009_995.pdf",
+     "sha256": "ce3fe98da08b2e6f23113a753fe06056f1e3d4d140c71dc2fe1fec14f1bc49ce"
+    }
+   ]
+  }
+ ]
+}

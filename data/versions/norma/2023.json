@@ -586,6 +586,21 @@
      "sha256": "e21608f0cb3c96745ad95abdf1627043372ab2dea2b0425dc146eade01814a0e"
     }
    ]
+  },
+  {
+   "slug": "norma-asf-27-2023",
+   "path": "norma/asf/2023/27",
+   "short": "Norma asf nr. 27/2023",
+   "title": "Norma nr. 27/2023 pentru modificarea Normei nr. 10/2009 privind ratele de rentabilitate ale fondurilor de pensii facultative, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 13/2009",
+   "url": "https://asfromania.ro/uploads/articole/attachments/64f6e621be6c1850470561.pdf",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 2,
+     "source_url": "https://asfromania.ro/uploads/articole/attachments/64f6e621be6c1850470561.pdf",
+     "sha256": "2f1a643038f34c45d310bd2d87eee550a38e11e9255c3fbf14bb1cbf79f86ea0"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "decizie/2010",
+"acts": [
+{
+"slug": "decizie-ancom-226-2010",
+"path": "decizie/ancom/2010/226",
+"kind": "decizie",
+"year": "2010",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 226/2010 pentru modificarea si completarea Deciziei presedintelui InspectoratuluiGeneral pentru Comunicatii si Tehnologia Informatiei nr. 660/2005 privindaprobarea Regulamentului de radiocomunicatiipentru serviciul de amator din România",
+"short": "Decizia ancom nr. 226/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-04-14",
+"latest": "2010-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/117874",
+"issuer": "ancom",
+"joint": []
+},
+{
+"slug": "decizie-ancom-626-2010",
+"path": "decizie/ancom/2010/626",
+"kind": "decizie",
+"year": "2010",
+"number": "626",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 626/2010 privind identificarea pietelor relevante din sectorul comunicatiilor electronice ale serviciilor de acces la elemente de infrastructura",
+"short": "Decizia ancom nr. 626/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-16",
+"latest": "2010-09-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/122199",
+"issuer": "ancom",
+"joint": []
+}
+]
+}

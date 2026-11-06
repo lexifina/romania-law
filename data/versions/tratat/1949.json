@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "tratat/1949",
+ "acts": [
+  {
+   "slug": "tratat-1949-04-04-tratat",
+   "path": "tratat/1949/04-04-tratat",
+   "short": "Tratatul din 4 aprilie 1949 (M. Of. nr. 185/2004)",
+   "title": "Tratatul din 4 aprilie 1949 Atlanticului de Nord",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50136",
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50136",
+     "sha256": "46d3db72db306762dbf8f47ca5f52c5e8721e3980364e63f56d2f7ac7c350f55"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1949-08-12-conventie-2",
+   "path": "tratat/1949/08-12-conventie-2",
+   "short": "Convenția din 12 august 1949 (M. Of. nr. 1/1949)",
+   "title": "CONVENŢIA DE LA GENEVA din 12 august 1949 privitoare la tratamentul prizonierilor de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255597",
+   "versions": [
+    {
+     "from": "1949-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255597",
+     "sha256": "c477337c3449791439da57ab2a33303efc3e5d1b8026ff1d99d58824b61b44c9"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1949-08-12-conventie-3",
+   "path": "tratat/1949/08-12-conventie-3",
+   "short": "Convenția din 12 august 1949 (M. Of. nr. 1/1949)",
+   "title": "CONVENŢIE DE LA GENEVA din 12 august 1949 privitoare la protecţia persoanelor civile în timp de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255598",
+   "versions": [
+    {
+     "from": "1949-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255598",
+     "sha256": "34d7d11fc5fa8493465f3c0a87c1d3fb509008e4a06d63b865ab2227df943747"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1949-08-12-conventie-4",
+   "path": "tratat/1949/08-12-conventie-4",
+   "short": "Convenția din 12 august 1949 (M. Of. nr. 1/1949)",
+   "title": "CONVENŢIA DE LA GENEVA din 12 august 1949 pentru îmbunătăţirea sorţii răniţilor şi bolnavilor din forţele armate în campanie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255617",
+   "versions": [
+    {
+     "from": "1949-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255617",
+     "sha256": "cde3f8e11034105b3b2158fbcf39e65cb59096a8dba2f6ea172d083acdd03737"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1949-08-12-conventie",
+   "path": "tratat/1949/08-12-conventie",
+   "short": "Convenția din 12 august 1949 (M. Of. nr. 1/1949)",
+   "title": "CONVENŢIA DE LA GENEVA din 12 august 1949 pentru îmbunătăţirea sorţii răniţilor, bolnavilor şi naufragiaţilor armate pe mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255596",
+   "versions": [
+    {
+     "from": "1949-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255596",
+     "sha256": "45c1ee7ece858f71e63ce0580b45164f53dd4c932869d940a95d97eeb86e467f"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "tratat/1953",
+ "acts": [
+  {
+   "slug": "tratat-1953-07-01-conventie",
+   "path": "tratat/1953/07-01-conventie",
+   "short": "Convenția din 1 iulie 1953 (M. Of. nr. 635/2016)",
+   "title": "CONVENŢIE din 1 iulie 1953 pentru înfiinţarea unei Organizaţii Europene pentru Cercetări Nucleare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180991",
+   "versions": [
+    {
+     "from": "2016-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180991",
+     "sha256": "4b717d476109d84db24f2ac434d6ad98358bd2fac4eeb0f4fa559bd545908d75"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1953-07-01-protocol",
+   "path": "tratat/1953/07-01-protocol",
+   "short": "Protocolul din 1 iulie 1953 (M. Of. nr. 635/2016)",
+   "title": "PROTOCOLUL FINANCIAR din 1 iulie 1953 anexat la Convenţia pentru înfiinţarea unei Organizaţii Europene pentru Cercetări Nucleare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180992",
+   "versions": [
+    {
+     "from": "2016-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180992",
+     "sha256": "66aed48a8aff2d5c10b897ced5bfc2f34839183f36fea859bf3fe2163d78530d"
+    }
+   ]
+  }
+ ]
+}

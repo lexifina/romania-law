@@ -16111,6 +16111,51 @@
      "sha256": "8d716b196fb863f49b6fbf71052c352fc763b30a86577bec3eb01dd0b53b4ac1"
     }
    ]
+  },
+  {
+   "slug": "ordin-anre-106-2021",
+   "path": "ordin/anre/2021/106",
+   "short": "Ordin anre nr. 106/2021",
+   "title": "Ordinul nr. 106/2021 privind modificarea și completarea Metodologiei de stabilire a prețurilor pentru energia termică livrată în SACET din centrale cu unități de cogenerare care nu beneficiază de scheme de sprijin pentru promovarea cogenerării de înaltă eficiență, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 111/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247413",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 3,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/03/Ord_106_2021.pdf",
+     "sha256": "4aefa5b7f527dd2df07f49a1a6685f8e0e2200528a5ee40b66b99e0662a78a4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-26-2021",
+   "path": "ordin/anre/2021/26",
+   "short": "Ordin anre nr. 26/2021",
+   "title": "Ordinul nr. 26/2021 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 65/2020 privind modificarea și completarea unor ordine ale președintelui Autorității Naționale de Reglementare în Domeniul Energiei",
+   "url": "https://anre.ro/wp-content/uploads/2023/04/Ord_26_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 4,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/04/Ord_26_2021.pdf",
+     "sha256": "799237970497826ded97bb11281983ebda506d90d11c722438181c806d3b4b36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-51-2021",
+   "path": "ordin/anre/2021/51",
+   "short": "Ordin anre nr. 51/2021",
+   "title": "Ordinul nr. 51/2021 pentru abrogarea art. 121 alin. (2) din Regulamentul de modificare, suspendare, întrerupere și retragere a acreditării acordate centralelor electrice de producere a energiei electrice din surse regenerabile de energie, precum și de stabilire a drepturilor și obligațiilor producătorilor de energie electrică acreditați, aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 179/2018",
+   "url": "https://anre.ro/wp-content/uploads/2023/03/Ord_51_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 3,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/03/Ord_51_2021.pdf",
+     "sha256": "123a3477962f7f0379e6622a34e96371baf06c308f9c41650f822243e193c727"
+    }
+   ]
   }
  ]
 }

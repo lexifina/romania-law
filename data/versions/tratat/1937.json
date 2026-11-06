@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "tratat/1937",
+ "acts": [
+  {
+   "slug": "tratat-1937-02-13-protocol",
+   "path": "tratat/1937/02-13-protocol",
+   "short": "Protocolul din 13 februarie 1937 (M. Of. nr. 182/1938)",
+   "title": "Protocolul din 13 februarie 1937 privind prorogarea pînă la 31 Decembrie 1938 a Acordului Comercial între Regatul României şi Regatul Italiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64228",
+   "versions": [
+    {
+     "from": "1938-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64228",
+     "sha256": "767039da83f436bb737181644665e43bea1617727609428a94c9ca255ed103b6"
+    }
+   ]
+  }
+ ]
+}

@@ -17253,6 +17253,141 @@
    ]
   },
   {
+   "slug": "ordin-anre-64-2024",
+   "path": "ordin/anre/2024/64",
+   "short": "Ordin anre nr. 64/2024",
+   "title": "Ordinul nr. 64/2024 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 118/2023 privind aprobarea tarifelor și contribuțiilor bănești percepute de Autoritatea Națională de Reglementare în Domeniul Energiei în anul 2024",
+   "url": "https://anre.ro/wp-content/uploads/2024/09/Ord-64-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/09/Ord-64-2024.pdf",
+     "sha256": "08ca369f02a4c7901727c6a12e1c7f6485c6c64f17e73797c5bccab13fbd796c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-74-2024",
+   "path": "ordin/anre/2024/74",
+   "short": "Ordin anre nr. 74/2024",
+   "title": "Ordinul nr. 74/2024 privind aprobarea valorilor bonusurilor de referință pentru energia electrică produsă în cogenerare de înaltă eficiență și ale prețurilor de referință pentru energia termică produsă în cogenerare, aplicabile în anul 2025",
+   "url": "https://anre.ro/wp-content/uploads/2024/10/Ord-74-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 8,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/10/Ord-74-2024.pdf",
+     "sha256": "f2af8cb2dd02699c8bbd9c06da3269a625bad2a9e3a5e3bab801cb73f8af70d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-80-2024",
+   "path": "ordin/anre/2024/80",
+   "short": "Ordin anre nr. 80/2024",
+   "title": "Ordinul nr. 80/2024 pentru aprobarea bugetului de venituri și cheltuieli rectificat al Autorității Naționale de Reglementare în Domeniul Energiei pe anul 2024 și a bugetului proiectelor cu finanțare din fonduri externe nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289968",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 6,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/10/Ord-80-2024.pdf",
+     "sha256": "2b1c7485acf93473cd5c5904c4959a5c9bda108576b9def33ab490a893445af7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-81-2024",
+   "path": "ordin/anre/2024/81",
+   "short": "Ordin anre nr. 81/2024",
+   "title": "Ordinul nr. 81/2024 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea ANTOPREST ACTIV — S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290105",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 3,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/11/Ord-81-2024.pdf",
+     "sha256": "6b55d0f00c3ba6aa607a0c419f8c5eca984356a2bce53a3e88e2c44710868201"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-82-2024",
+   "path": "ordin/anre/2024/82",
+   "short": "Ordin anre nr. 82/2024",
+   "title": "Ordinul nr. 82/2024 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 42/2024 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea PREMIER ENERGY — S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290160",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 3,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/11/Ord-82-2024.pdf",
+     "sha256": "4fb656e963fa6bf677700002f35ccd9a8c6877a6427c545eb29fefb604f558e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-83-2024",
+   "path": "ordin/anre/2024/83",
+   "short": "Ordin anre nr. 83/2024",
+   "title": "Ordinul nr. 83/2024 pentru aprobarea Procedurii de anulare a obligațiilor de plată accesorii datorate bugetului Autorității Naționale de Reglementare în Domeniul Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290265",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/11/Ord-83-2024.pdf",
+     "sha256": "e89510eb873957ee52a10bd5a241c013a493193055d9e38b194e8659efd0f478"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-90-2024",
+   "path": "ordin/anre/2024/90",
+   "short": "Ordin anre nr. 90/2024",
+   "title": "Ordinul nr. 90/2024 privind stabilirea cotei obligatorii estimate de achiziție de certificate verzi, aferentă anului 2025",
+   "url": "https://anre.ro/wp-content/uploads/2025/01/Ord-90-2024.pdf",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 6,
+     "source_url": "https://anre.ro/wp-content/uploads/2025/01/Ord-90-2024.pdf",
+     "sha256": "d37684f70c78071ad7355bbe9bb4b0b8d29c94123680de0667951416cff523a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-98-2024",
+   "path": "ordin/anre/2024/98",
+   "short": "Ordin anre nr. 98/2024",
+   "title": "Ordinul nr. 98/2024 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, valabile de la 1 ianuarie 2025, pentru Societatea Delgaz Grid — S.A., precum și a valorilor planurilor de investiții pentru perioada a V-a de reglementare",
+   "url": "https://anre.ro/wp-content/uploads/2025/01/Ord-98-2024.pdf",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 11,
+     "source_url": "https://anre.ro/wp-content/uploads/2025/01/Ord-98-2024.pdf",
+     "sha256": "09b61e193f3e235caaa9cc6f2017874fec40654e04c299d53676d73787096838"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-99-2024",
+   "path": "ordin/anre/2024/99",
+   "short": "Ordin anre nr. 99/2024",
+   "title": "Ordinul nr. 99/2024 privind aprobarea tarifelor pentru serviciul de transport al energiei electrice și a prețului energiei electrice reactive pentru Compania Națională de Transport al Energiei Electrice „Transelectrica” — S.A., valabile de la 1 ianuarie 2025, precum și a valorilor planurilor de investiții pentru perioada a V-a de reglementare",
+   "url": "https://anre.ro/wp-content/uploads/2025/01/Ord-99-2024.pdf",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://anre.ro/wp-content/uploads/2025/01/Ord-99-2024.pdf",
+     "sha256": "8daa22138a9e41668546c7fbb7df1a8663231ac1c85ad7bae031fa715902c586"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-2-2024",
    "path": "ordin/bnr/2024/2",
    "short": "Ordin bnr nr. 2/2024",

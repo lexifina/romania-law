@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "circulara/2025",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2025",
+   "path": "circulara/bnr/2025/1",
+   "short": "Circulara bnr nr. 1/2025",
+   "title": "Circulara nr. 1/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 decembrie 2024-23 ianuarie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293770",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24050-circulara-1-2025",
+     "sha256": "bfa1368b02fccb847836ed61efea71e5ed59b42a3cd5a763ecb6b29185ce3fa0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2025",
+   "path": "circulara/bnr/2025/10",
+   "short": "Circulara bnr nr. 10/2025",
+   "title": "Circulara nr. 10/2025 privind lansarea în circuitul numismatic a unei monede din argint cu tema 175 de ani de la nașterea lui Ioan Andreescu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295981",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24240-circulara-10-2025",
+     "sha256": "de53c2715960bff9f293f10e19b0bcbc9f9bdb56be26d4bf11c27627189c3400"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2025",
+   "path": "circulara/bnr/2025/12",
+   "short": "Circulara bnr nr. 12/2025",
+   "title": "Circulara nr. 12/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 martie-23 aprilie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296589",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24293-circulara-12-2025",
+     "sha256": "e2462f8ba8a6faefee7b57ff5f9fbe692712eab067241f52d283055c97cb60f6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2025",
+   "path": "circulara/bnr/2025/13",
+   "short": "Circulara bnr nr. 13/2025",
+   "title": "Circulara nr. 13/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 martie-23 aprilie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296590",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24294-circulara-13-2025",
+     "sha256": "b8234e6ef386bdc48a7e00cd334ff4ffe8562fd845408274c82ea7d1485a2e7b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-14-2025",
+   "path": "circulara/bnr/2025/14",
+   "short": "Circulara bnr nr. 14/2025",
+   "title": "Circulara nr. 14/2025 privind lansarea în circuitul numismatic a unui set de monetărie cu tema 145 de ani de la înființarea Băncii Naționale a României și 20 de ani de la denominarea monedei naționale",
+   "url": "https://www.bnr.ro/24331-circulara-14-2025",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 4,
+     "source_url": "https://www.bnr.ro/24331-circulara-14-2025",
+     "sha256": "9520e5358f4d4dd2195ebd5203be637ee6725b12443ac13cd0d6691b1022a7c6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2025",
+   "path": "circulara/bnr/2025/15",
+   "short": "Circulara bnr nr. 15/2025",
+   "title": "Circulara nr. 15/2025 privind lansarea în circuitul numismatic a unei monede din tombac cuprat cu tema 90 de ani de la înființarea Academiei de Științe Medicale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297846",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24359-circulara-15-2025",
+     "sha256": "cdb94619c289e976b6056f71f771c7e0d3798628a004985a583fe7606f3d6914"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2025",
+   "path": "circulara/bnr/2025/16",
+   "short": "Circulara bnr nr. 16/2025",
+   "title": "Circulara nr. 16/2025 privind lansarea în circuitul numismatic a unor monede din aur și tombac cuprat cu tema 745 de ani de la prima atestare documentară a orașului Sighișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299012",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24577-circulara-16-2025",
+     "sha256": "c5fcde1c752177cd6f181d03e14fbaaad3687bce7f8b99175ec03daa219186c9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2025",
+   "path": "circulara/bnr/2025/17",
+   "short": "Circulara bnr nr. 17/2025",
+   "title": "Circulara nr. 17/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 mai-23 iunie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299169",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24599-circulara-17-2025",
+     "sha256": "51d867a4411271a70a7b32db9c0075d966dc4b79fb1b2ca2b1ebf1ababee1bb7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2025",
+   "path": "circulara/bnr/2025/18",
+   "short": "Circulara bnr nr. 18/2025",
+   "title": "Circulara nr. 18/2025 privind lansarea în circuitul numismatic a unei monede din tombac cuprat cu tema 2025 - \"Anul Cardinal Iuliu Hossu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299602",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24631-circulara-18-2025",
+     "sha256": "bbd8d9ff3f7191b9f0e8529c93f406aea53fe475a1f3cdf661f8647d75037460"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2025",
+   "path": "circulara/bnr/2025/19",
+   "short": "Circulara bnr nr. 19/2025",
+   "title": "Circulara nr. 19/2025 privind lansarea în circuitul numismatic a unei monede din aur cu tema 200 de ani de la nașterea Elenei Cuza",
+   "url": "https://www.bnr.ro/24665-circulara-19-2025",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24665-circulara-19-2025",
+     "sha256": "d70fe2d18ac79a7c6e0e5f990b1311c46e91911d14648569832983889a88da3d"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2025",
+   "path": "circulara/bnr/2025/2",
+   "short": "Circulara bnr nr. 2/2025",
+   "title": "Circulara nr. 2/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 decembrie 2024-23 ianuarie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293771",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24051-circulara-2-2025",
+     "sha256": "8d846c939e5feab55f358db621de39e6c1c0b59f88d682bfd0427813ae2c3f12"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2025",
+   "path": "circulara/bnr/2025/20",
+   "short": "Circulara bnr nr. 20/2025",
+   "title": "Circulara nr. 20/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 iunie-23 iulie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299931",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24668-circulara-20-2025",
+     "sha256": "06048562e281e49524e87021362e954433680688a6b81c96a67ffeab9a138354"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2025",
+   "path": "circulara/bnr/2025/21",
+   "short": "Circulara bnr nr. 21/2025",
+   "title": "Circulara nr. 21/2025 privind lansarea în circuitul numismatic a unei monede din argint cu tema 130 de ani de la nașterea lui Alexandru Rosetti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300021",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24676-circulara-21-2025",
+     "sha256": "da110605d4959989d7607dc4d1e47b34858f360ba9b4ffa198af48fd68dd16eb"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2025",
+   "path": "circulara/bnr/2025/22",
+   "short": "Circulara bnr nr. 22/2025",
+   "title": "Circulara nr. 22/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 iulie-23 august 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301420",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24746-circulara-22-2025",
+     "sha256": "24d9d70eee53dd139cfe3d9cce69d12351b0e49ed9dff4f88ac1651fa95c2b4c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2025",
+   "path": "circulara/bnr/2025/23",
+   "short": "Circulara bnr nr. 23/2025",
+   "title": "Circulara nr. 23/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 iulie-23 august 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301421",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24747-circulara-23-2025",
+     "sha256": "b81696c241dc627a35c96c8dbfabb3b86c04445f500ae6e8f795a4b3e47d3939"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2025",
+   "path": "circulara/bnr/2025/25",
+   "short": "Circulara bnr nr. 25/2025",
+   "title": "Circulara nr. 25/2025 privind lansarea în circuitul numismatic a unei monede din argint cu tema 125 de ani de la nașterea Henriettei Yvonne Stahl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301916",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24835-circulara-25-2025",
+     "sha256": "b014a7cabfcc7904747386a3407e826cf9b48cf889fb09d2227b2ee3b8e39d43"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2025",
+   "path": "circulara/bnr/2025/26",
+   "short": "Circulara bnr nr. 26/2025",
+   "title": "Circulara nr. 26/2025 privind lansarea în circuitul numismatic a unei monede din argint cu tema 100 de ani de la nașterea lui Toma Caragiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302373",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24857-circulara-26-2025",
+     "sha256": "e6ec56c098853d7a1d4c0d1c5688160366791787e2acee4de1f531efee3a6428"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2025",
+   "path": "circulara/bnr/2025/27",
+   "short": "Circulara bnr nr. 27/2025",
+   "title": "Circulara nr. 27/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 august-23 septembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302374",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24858-circulara-27-2025",
+     "sha256": "a6656452ce25f188ca296af732d42113d1325a21fa6457682646ceeaa0f7e5ca"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2025",
+   "path": "circulara/bnr/2025/28",
+   "short": "Circulara bnr nr. 28/2025",
+   "title": "Circulara nr. 28/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 august-23 septembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302375",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24859-circulara-28-2025",
+     "sha256": "49519057550dcb3d00f2169ff90e9069df071115971f2c6f9041ee5f52919a11"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2025",
+   "path": "circulara/bnr/2025/29",
+   "short": "Circulara bnr nr. 29/2025",
+   "title": "Circulara nr. 29/2025 privind lansarea în circuitul numismatic a unor monede din aur, argint și tombac cuprat cu tema Centenarul Patriarhiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302779",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24902-circulara-29-2025",
+     "sha256": "09bae0bd0168f8fa114dabf23ad5067167919d909b77f4da62225ecf875e76d0"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2025",
+   "path": "circulara/bnr/2025/3",
+   "short": "Circulara bnr nr. 3/2025",
+   "title": "Circulara nr. 3/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari începând cu perioada de aplicare 24 decembrie 2024-23 ianuarie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293772",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24052-circulara-3-2025",
+     "sha256": "ffc7e5038033d4ab971509bbcd3f1bc54d7ef9122db0aebc9070eb27d67ee910"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2025",
+   "path": "circulara/bnr/2025/30",
+   "short": "Circulara bnr nr. 30/2025",
+   "title": "Circulara nr. 30/2025 privind lansarea în circuitul numismatic a unei monede din argint cu tema 145 de ani de la nașterea lui Constantin Tănase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302780",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24904-circulara-30-2025",
+     "sha256": "3c942d86e8d43fe6e9fb3c460980684d9ccc62017b4197762ddd1063da08ae9a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2025",
+   "path": "circulara/bnr/2025/31",
+   "short": "Circulara bnr nr. 31/2025",
+   "title": "Circulara nr. 31/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 septembrie-23 octombrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303509",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24931-circulara-31-2025",
+     "sha256": "f6e85461f153eeb04528ebe3660fbfea35e4b2fb8f1a342ec8be77272fde85e6"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2025",
+   "path": "circulara/bnr/2025/32",
+   "short": "Circulara bnr nr. 32/2025",
+   "title": "Circulara nr. 32/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 septembrie-23 octombrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303510",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24932-circulara-32-2025",
+     "sha256": "9e4dc6745926f2440bb3636f3af204d98e1008203ed8b5f35114ec2697d780df"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2025",
+   "path": "circulara/bnr/2025/33",
+   "short": "Circulara bnr nr. 33/2025",
+   "title": "Circulara nr. 33/2025 privind lansarea în circuitul numismatic a unei monede din tombac cuprat cu tema Lucian Blaga - 130 de ani de la naștere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303670",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24964-circulara-33-2025",
+     "sha256": "8e776a3eda64c83c4a3a8173e47af65d7db4b7b5f529ef9070b05a480a4a49c3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-2025",
+   "path": "circulara/bnr/2025/34",
+   "short": "Circulara bnr nr. 34/2025",
+   "title": "Circulara nr. 34/2025 privind lansarea în circuitul numismatic a unei monede din tombac cuprat cu tema Centenarul Federației Române de Șah",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304061",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/25019-circulara-34-2025",
+     "sha256": "4ea55e74ea96e0a57cdf0f259221ab5f35fc0b0ef9f87f367b4ce53412952673"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-2025",
+   "path": "circulara/bnr/2025/35",
+   "short": "Circulara bnr nr. 35/2025",
+   "title": "Circulara nr. 35/2025 privind lansarea în circuitul numismatic a unei monede din tombac cuprat cu tema Universitatea de Medicină, Farmacie, Științe și Tehnologie \"George Emil Palade\" din Târgu Mureș - 80 de ani de la înființare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304194",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/25044-circulara-35-2025",
+     "sha256": "39943b997bba69487b63fb38055f9e2021ee9ce7e8a876a5df5ed4838f44a683"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-36-2025",
+   "path": "circulara/bnr/2025/36",
+   "short": "Circulara bnr nr. 36/2025",
+   "title": "Circulara nr. 36/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 octombrie-23 noiembrie 2025",
+   "url": "https://www.bnr.ro/25045-circulara-36-2025",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/25045-circulara-36-2025",
+     "sha256": "b13d237bad029f67dadee71a6110a17a2f43ddd638857c127095609069252822"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-37-2025",
+   "path": "circulara/bnr/2025/37",
+   "short": "Circulara bnr nr. 37/2025",
+   "title": "Circulara nr. 37/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 octombrie-23 noiembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304213",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/25046-circulara-37-2025",
+     "sha256": "9bc8e390ef68d1a3236df12b776eeccb9b74bf2c86aa71fc0896b85e34449f35"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-39-2025",
+   "path": "circulara/bnr/2025/39",
+   "short": "Circulara bnr nr. 39/2025",
+   "title": "Circulara nr. 39/2025 privind lansarea în circuitul numismatic a unei monede din tombac cuprat cu tema Centenar Marin Constantin, fondatorul Corului Madrigal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304964",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/25115-circulara-39-2025",
+     "sha256": "f12d135fce1536c24ed8e1fd6ffdd0c016d6e89d548980d7083437a2d5cb2593"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2025",
+   "path": "circulara/bnr/2025/4",
+   "short": "Circulara bnr nr. 4/2025",
+   "title": "Circulara nr. 4/2025 privind lansarea în circuitul numismatic a unei monede din argint cu tema 145 de ani de la nașterea lui Camil Ressu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294736",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24106-circulara-4-2025",
+     "sha256": "6e104bd7ae463e9c55b7e48ef8dc6bd99115472ee08701217d37be9166d4561a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-40-2025",
+   "path": "circulara/bnr/2025/40",
+   "short": "Circulara bnr nr. 40/2025",
+   "title": "Circulara nr. 40/2025 privind lansarea în circuitul numismatic a unei monede din argint cu tema 145 de ani de la nașterea lui Mihail Sadoveanu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305187",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/25137-circulara-40-2025",
+     "sha256": "6d5f3ea38e1162c647c3f205e65961baa5af7c42b838cb7adb6ebaaa53ac4ee1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-41-2025",
+   "path": "circulara/bnr/2025/41",
+   "short": "Circulara bnr nr. 41/2025",
+   "title": "Circulara nr. 41/2025 privind lansarea în circuitul numismatic a unei monede din argint cu tema 175 de ani de la nașterea lui Grigore Tocilescu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305680",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/25149-circulara-41-2025",
+     "sha256": "1d14d9f7edae33f64aabe41000ad495a68450f20764ef14107bf2f5449bdf47e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-42-2025",
+   "path": "circulara/bnr/2025/42",
+   "short": "Circulara bnr nr. 42/2025",
+   "title": "Circulara nr. 42/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 noiembrie-23 decembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305703",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/25151-circulara-42-2025",
+     "sha256": "0274643e61bf9358ec619fe03d2877d80096dc6cc55bb555eed37e2bf312b8ae"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-43-2025",
+   "path": "circulara/bnr/2025/43",
+   "short": "Circulara bnr nr. 43/2025",
+   "title": "Circulara nr. 43/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 noiembrie-23 decembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305704",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/25150-circulara-43-2025",
+     "sha256": "ae8fca5cbc6914e11658345c3a8b3b49e76fb20efb20bba26cbd45a1f81fd511"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-44-2025",
+   "path": "circulara/bnr/2025/44",
+   "short": "Circulara bnr nr. 44/2025",
+   "title": "Circulara nr. 44/2025 privind lansarea în circuitul numismatic a unei monede din aur cu tema Istoria aurului - Plăcuțele votive de la Germisara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305742",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/25170-circulara-44-2025",
+     "sha256": "039f953c658d2e36b7fb5ab8018b8e99a6d8c1f87944d8adb9c44269ca45b2e8"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2025",
+   "path": "circulara/bnr/2025/5",
+   "short": "Circulara bnr nr. 5/2025",
+   "title": "Circulara nr. 5/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 ianuarie-23 februarie 2025",
+   "url": "https://www.bnr.ro/24118-circulara-5-2025",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24118-circulara-5-2025",
+     "sha256": "ce5b587997b794f5c86d8c43fd5d413266773c73acb0731993562a72fe015dad"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2025",
+   "path": "circulara/bnr/2025/6",
+   "short": "Circulara bnr nr. 6/2025",
+   "title": "Circulara nr. 6/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 ianuarie-23 februarie 2025",
+   "url": "https://www.bnr.ro/24119-circulara-nr-6-2025",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24119-circulara-nr-6-2025",
+     "sha256": "956ae0109c7aac44590808050a2a70f321c01d1db7d9bf90adcda20f1284e385"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2025",
+   "path": "circulara/bnr/2025/7",
+   "short": "Circulara bnr nr. 7/2025",
+   "title": "Circulara nr. 7/2025 privind lansarea în circuitul numismatic a unei monede din aur cu tema 375 de ani de la nașterea Sfântului Ierarh Antim Ivireanul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295096",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/24147-circulara-7-2025",
+     "sha256": "3105f0b576f712e0d820bd3465a6f5499b1444dd3c4dd04850ee38afefc55b20"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2025",
+   "path": "circulara/bnr/2025/8",
+   "short": "Circulara bnr nr. 8/2025",
+   "title": "Circulara nr. 8/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 februarie-23 martie 2025",
+   "url": "https://www.bnr.ro/24186-circulara-8-2025",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24186-circulara-8-2025",
+     "sha256": "96c69e420c46aeb42a33b647e03f865cafe05814fbeb4e234b80cd2c330fc48c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2025",
+   "path": "circulara/bnr/2025/9",
+   "short": "Circulara bnr nr. 9/2025",
+   "title": "Circulara nr. 9/2025 privind rata dobânzii plătite la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 februarie-23 martie 2025",
+   "url": "https://www.bnr.ro/24187-circulara-9-2025",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/24187-circulara-9-2025",
+     "sha256": "deab968440c1be674cef3b514fc5513ce0a4acc36eb9a5ee6343758ddf83a6f5"
+    }
+   ]
+  }
+ ]
+}

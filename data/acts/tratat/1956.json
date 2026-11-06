@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "tratat/1956",
+"acts": [
+{
+"slug": "tratat-1956-06-20-conventie",
+"path": "tratat/1956/06-20-conventie",
+"kind": "tratat",
+"year": "1956",
+"number": "06-20-conventie",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIE din 20 iunie 1956 privind obţinerea pensiei de întreţinere în străinătate, încheiată la New York la 20 iunie 1956*)",
+"short": "Convenția din 20 iunie 1956 (M. Of. nr. 54/1991)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1991-03-19",
+"latest": "1991-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/50387"
+},
+{
+"slug": "tratat-1956-11-19-protocol",
+"path": "tratat/1956/11-19-protocol",
+"kind": "tratat",
+"year": "1956",
+"number": "11-19-protocol",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocolul din 19 noiembrie 1956 la Convenţia internaţională privind reglementarea vânării balenelor, adoptată la Washington la 2 decembrie 1946, adoptat la Washington la 19 noiembrie 1956",
+"short": "Protocolul din 19 noiembrie 1956 (M. Of. nr. 3/2008)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2008-01-03",
+"latest": "2008-01-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88342"
+}
+]
+}

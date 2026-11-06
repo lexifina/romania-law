@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "decizie/2008",
+ "acts": [
+  {
+   "slug": "decizie-ancom-1228-2008",
+   "path": "decizie/ancom/2008/1228",
+   "short": "Decizia ancom nr. 1228/2008",
+   "title": "Decizia nr. 1.228/2008 pentru modificarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr. 88/EN/2004 privind desemnarea furnizorului deserviciu universal în domeniul serviciilor postale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100788",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-1228-2008-pentru-modificarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-88-en-2004-privind-desemnarea-furnizorului-deserviciu-universal-in-domeniul-ser/?link_id=110986706_decizie_1228_2008.pdf",
+     "sha256": "2d21e25d44849c4b66d83e9b7eca1dc247fda4733e8f8761969a2d68d3deafa4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-241-2008",
+   "path": "decizie/ancom/2008/241",
+   "short": "Decizia ancom nr. 241/2008",
+   "title": "Decizia nr. 241/2008 privind procedura de acordare a unei licente de utilizare a frecventelor radio în vederea furnizarii de retele si servicii de comunicatii electronice mobile în benzile de frecvente 410-415/420-425 MHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90827",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 12,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-241-2008-privind-procedura-de-acordare-a-unei-licente-de-utilizare-a-frecventelor-radio-in-vederea-furnizarii-de-retele-si-servicii-de-comunicatii-electronice-mobile-in-benzile-de-frecven/?link_id=97022661_decizie_2008_241.pdf",
+     "sha256": "91f4377983f3a17cd8bbfa58d9c509fb1f98279e97dd7408fd46081ca26a0410"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-25-2008",
+   "path": "decizie/ancom/2008/25",
+   "short": "Decizia ancom nr. 25/2008",
+   "title": "Decizia nr. 25/2008 privind completarea Deciziei presedintelui Inspectoratului General pentru Comunicatii si Tehnologia Informatiei nr. 686/2005 pentru aprobarea Procedurii de tarifare si a Listei cuprinzând tarifele de utilizare a spectrului de frecvente radio, datorate anual catre Inspectoratul General pentru Comunicatii si Tehnologia Informatiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88912",
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-25-2008-privind-completarea-deciziei-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-686-2005-pentru-aprobarea-procedurii-de-tarifare-si-a-listei-cup/?link_id=96738585_decizie_25_2008.pdf",
+     "sha256": "de7b7adaa1df0ab3e89396de6acc5e16429b1367d170cb334eb3191867821f05"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-258-2008",
+   "path": "decizie/ancom/2008/258",
+   "short": "Decizia ancom nr. 258/2008",
+   "title": "Decizia nr. 258/2008 privind completarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr.1333/2003 privind regimul de autorizare generala pentru furnizarea retelelor si a serviciilor de comunicatii electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90820",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-autoritatii-nationale-pentru-reglementare-in-comunicatii-si-tehnologia-informatie-nr-258-2008-privind-completarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in/?link_id=97304135_decizie_2008_258.pdf",
+     "sha256": "622622a808209050daa2e05b3f0f06312b066af337efe0a69d793015df044204"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-31-2008",
+   "path": "decizie/ancom/2008/31",
+   "short": "Decizia ancom nr. 31/2008",
+   "title": "Decizia nr. 31/2008 privind procedura de acreditare a furnizorilor de servicii de certificare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88924",
+   "versions": [
+    {
+     "from": "2008-01-21",
+     "units": 13,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-31-2008-privind-procedura-de-acreditare-a-furnizorilor-de-servicii-de-certificare/?link_id=94138536_decizie_2008_31.pdf",
+     "sha256": "a316866e69828814bb07d1bd9485025000e4502f07d0971ff16091c83caab0ad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-520-2008",
+   "path": "decizie/ancom/2008/520",
+   "short": "Decizia ancom nr. 520/2008",
+   "title": "Decizia nr. 520/2008 privind completarea Deciziei presedintelui ANRCTI nr. 2.896/2007 privind procedura de solicitare si emitere a licentelor de utilizare a resurselor de numerotatie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95352",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-anrcti-nr-520-2008-privind-completarea-deciziei-presedintelui-anrcti-nr-2-896-2007-privind-procedura-de-solicitare-si-emitere-a-licentelor-de-utilizare-a-resurselor-de-numerota/?link_id=100578549_decizie_2008_520.pdf",
+     "sha256": "e6361788fc617bca32d899cb9ba64fdd8d8d1e759fbc03d996cd83cc29567f4c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-572-2008",
+   "path": "decizie/ancom/2008/572",
+   "short": "Decizia ancom nr. 572/2008",
+   "title": "Decizia nr. 572/2008 privind modificarea si completarea anexei la Decizia presedintelui Inspectoratului General pentru Comunicatii si Tehnologia Informatiei nr. 686/2005 pentru aprobarea Procedurii de tarifare si a Listei cuprinzând tarifele de utilizare a spectrului de frecvente radio, datorate anual catre Inspectoratul General pentru Comunicatii si Tehnologia Informatiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96104",
+   "versions": [
+    {
+     "from": "2008-07-30",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-572-2008-privind-modificarea-si-completarea-anexei-la-decizia-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-686-2005-pentru-aprobarea-procedurii-de/?link_id=134425496_Decizie_572_2008.pdf",
+     "sha256": "eb1837a1a8d7b121d239c5bc0c95a1988f3f168f8938c9ae527ef8a6e31c65e6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-585-2008",
+   "path": "decizie/ancom/2008/585",
+   "short": "Decizia ancom nr. 585/2008",
+   "title": "Decizia nr. 585/2008 privind identificarea pietelor relevante ale serviciilor de terminare a apelurilor la puncte fixe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96158",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-585-2008-privind-identificarea-pietelor-relevante-ale-serviciilor-de-terminare-a-apelurilor-la-puncte-fixe/?link_id=101613079_decizia_585_2008.pdf",
+     "sha256": "6329255214aa50d958cf4d171ed73093b6da0e1ed1988eadbb88a63d4122a084"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-732-2008",
+   "path": "decizie/ancom/2008/732",
+   "short": "Decizia ancom nr. 732/2008",
+   "title": "Decizia nr. 732/2008 privind procedura de acordare a licentelor de utilizare a frecventelor radio în benzile de frecvente 3600-3657 MHz si 3700-3757 MHz si stabilirea cuantumului taxei de licenta pentru acordarea dreptului de utilizare a frecventelor radio în benzile de frecvente 3657-3685 MHz si 3757-3785 MHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96791",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "units": 12,
+     "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-anrcti-nr-732-2008-privind-procedura-de-acordare-a-licentelor-de-utilizare-a-frecventelor-radio-in-benzile-de-frecvente-3600-3657-mhz-si-3700-3757-mhz-si-stabilirea-cuantumului/?link_id=103528130_decizie_2008_618.pdf",
+     "sha256": "1bda92e0e51fe5ed3bc7c7a0f19e8cb81dff9b5b014607288259729c1ad1fd00"
+    }
+   ]
+  }
+ ]
+}

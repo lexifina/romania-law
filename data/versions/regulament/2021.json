@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "regulament-asf-4-2021",
+   "path": "regulament/asf/2021/4",
+   "short": "Regulament asf nr. 4/2021",
+   "title": "Regulamentul nr. 4/2021 privind activitatea de control desfășurată de către Autoritatea de Supraveghere Financiară",
+   "url": "https://asfromania.ro/files/regl-integrate/Regulament%204%202021_site04022021.pdf",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 38,
+     "source_url": "https://asfromania.ro/files/regl-integrate/Regulament%204%202021_site04022021.pdf",
+     "sha256": "7d5e1b4726c3d5470d4b3aa0ff9d05635e6ea96069cd4bac666de42ba022cd18"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-1-2021",
    "path": "regulament/bnr/2021/1",
    "short": "Regulament bnr nr. 1/2021",

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "decizie/2003",
+ "acts": [
+  {
+   "slug": "decizie-ancom-118-2003",
+   "path": "decizie/ancom/2003/118",
+   "short": "Decizia ancom nr. 118/2003",
+   "title": "Decizia nr. 118/2003 privind procedura de autorizare a furnizorilor de servicii postale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42738",
+   "versions": [
+    {
+     "from": "2003-04-01",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-118-2003-privind-procedura-de-autorizare-a-furnizorilor-de-servicii-postale/?link_id=107112_decizie_2003_118.pdf",
+     "sha256": "c6dcc9cce4b9d02b1b93ed83d6aeab1a597730f609dbfdff5fc90fb521bcaeb7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1333-2003",
+   "path": "decizie/ancom/2003/1333",
+   "short": "Decizia ancom nr. 1333/2003",
+   "title": "Decizia nr. 1.333/2003 privind regimul de autorizare generala pentru furnizarea retelelor si a serviciilor de comunicatii electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47737",
+   "versions": [
+    {
+     "from": "2003-11-14",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-1333-2003-privind-regimul-de-autorizare-generala-pentru-furnizarea-retelelor-si-a-serviciilor-de-comunicatii-electronice/?link_id=107152_decizie_2003_1333.pdf",
+     "sha256": "57df2ce83148a27646484955038f31f8d31a5c603f3f38ed48e1ce386f24d40e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1334-2003",
+   "path": "decizie/ancom/2003/1334",
+   "short": "Decizia ancom nr. 1334/2003",
+   "title": "Decizia nr. 1.334/2003 privind procedura de acordare a dreptului de utilizare a codurilor punctelor de semnalizare Nationale si Internationale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47644",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 12,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-1334-2003-privind-procedura-de-acordare-a-dreptului-de-utilizare-a-codurilor-punctelor-de-semnalizare-nationale-si-internationale/?link_id=107157_decizie_2003_1334.pdf",
+     "sha256": "c7720909651e4749cdb06409a79bdee67c6ed84e904d8306e0437e146009fd79"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1351-2003",
+   "path": "decizie/ancom/2003/1351",
+   "short": "Decizia ancom nr. 1351/2003",
+   "title": "Decizia nr. 1.351/2003 privind conditiile si procedura de desemnare a furnizorilor de serviciu universal în domeniul serviciilor postale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48405",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 14,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-1351-2003-privind-conditiile-si-procedura-de-desemnare-a-furnizorilor-de-serviciu-universal-in-domeniul-serviciilor-postale/?link_id=107162_decizie_2003_1351.pdf",
+     "sha256": "eebc4118760c630f7626aec903c24ab8639a4fc18858655fe73b6364c618a206"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-174-2003",
+   "path": "decizie/ancom/2003/174",
+   "short": "Decizia ancom nr. 174/2003",
+   "title": "Decizia nr. 174/2003 privind completarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr.136/2002 pentru aprobarea Regulamentului privind identificarea pietelor relevante din sectorul comunicatiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43758",
+   "versions": [
+    {
+     "from": "2003-05-19",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-174-2003-privind-completarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-136-2002-pentru-aprobarea-regulamentului-privind-identificarea-pietelor-relevant/?link_id=107117_decizie_2003_174.pdf",
+     "sha256": "508561788c4f40e3191fc66c4b5f521b9993c026daf4f211c2ea00d1fdd8921a"
+    }
+   ]
+  }
+ ]
+}

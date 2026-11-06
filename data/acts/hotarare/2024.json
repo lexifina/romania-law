@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "hotarare/2024",
+"acts": [
+{
+"slug": "hotarare-bnr-27-2024",
+"path": "hotarare/bnr/2024/27",
+"kind": "hotarare",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 27/2024 pentru numirea Consiliului de administrație al Băncii Naționale a României",
+"short": "Hotărârea bnr nr. 27/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-11",
+"latest": "2024-10-11",
+"portal": "https://www.bnr.ro/23471-hotarare-27-2024",
+"issuer": "bnr",
+"joint": []
+}
+]
+}

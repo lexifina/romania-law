@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "decizie/2007",
+ "acts": [
+  {
+   "slug": "decizie-ancom-210-2007",
+   "path": "decizie/ancom/2007/210",
+   "short": "Decizia ancom nr. 210/2007",
+   "title": "Decizia nr. 210/2007 de anulare a procedurii de selectie comparativa pentru acordarea unei licente de utilizare a frecventelor radioelectrice în vederea furnizarii de retele si servicii de comunicatii mobile de banda larga în benzile de frecvente 410-415/420-425 MHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80427",
+   "versions": [
+    {
+     "from": "2007-03-21",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-210-2007-de-anulare-a-procedurii-de-selectie-comparativa-pentru-acordarea-unei-licente-de-utilizare-a-frecventelor-radioelectrice-in-vederea-furnizarii-de-retele-si-servicii-de-comunicatii/?link_id=81193492_decizie_2007_210.pdf",
+     "sha256": "2ab784496ea6a8dee4c7d87fc6fe24d15c0124dfbb91e5bb57ed47cb747256e9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-2892-2007",
+   "path": "decizie/ancom/2007/2892",
+   "short": "Decizia ancom nr. 2892/2007",
+   "title": "Decizia nr. 2.892/2007 privind procedura de determinare a anumitor obligatii financiare ale furnizorilor de retele sau servicii de comunicatii electronice si ale furnizorilor de servicii postale catre Autoritatea Nationala pentru Reglementare în Comunicatii si Tehnologia Informatiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85045",
+   "versions": [
+    {
+     "from": "2007-09-04",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-2892-2007-privind-procedura-de-determinare-a-anumitor-obligatii-financiare-ale-furnizorilor-de-retele-sau-servicii-de-comunicatii-electronice-si-ale-furnizorilor-de-servicii-postale-catre-a/?link_id=82901685_decizie_2007_2892.pdf",
+     "sha256": "f8518eed38800ffb1758618b893b6aad89198cdd63eeda8ecf457a0563bb5f92"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-3096-2007",
+   "path": "decizie/ancom/2007/3096",
+   "short": "Decizia ancom nr. 3096/2007",
+   "title": "Decizia nr. 3.096/2007 privind modificarea Deciziei presedintelui Inspectoratului General pentru Comunicatii si Tehnologia Informatiei nr. 686/2005 pentru aprobarea Procedurii de tarifare si a Listei cuprinzând tarifele de utilizare a spectrului radio, datorate anual catre Inspectoratul General pentru Comunicatii si Tehnologia Informatiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85825",
+   "versions": [
+    {
+     "from": "2007-10-03",
+     "units": 3,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-3096-2007-privind-modificarea-deciziei-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-686-2005-pentru-aprobarea-procedurii-de-tarifare-si-a-listei-cu/?link_id=85576659_decizie_3096_2007.pdf",
+     "sha256": "0aa3e4c1b28e104078d8e23896f02692174e35733b019e9f41d136350d9fc5ce"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-3173-2007",
+   "path": "decizie/ancom/2007/3173",
+   "short": "Decizia ancom nr. 3173/2007",
+   "title": "Decizia nr. 3.173/2007 pentru modificarea Deciziei presedintelui Inspectoratului General pentru Comunicatii si Tehnologia Informatiei nr. 660/2005 privind aprobarea Regulamentului de radiocomunicatii pentru serviciul de amator din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86446",
+   "versions": [
+    {
+     "from": "2007-10-29",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-3173-2007-pentru-modificarea-deciziei-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-660-2005-privind-aprobarea-regulamentului-de-radiocomunicatii-pe/?link_id=87885478_decizie_3173_2007.pdf",
+     "sha256": "676f8db94a8c081c4b0ff376dcfab3849094c731dd02b90fb083aa08506a4b0d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-3174-2007",
+   "path": "decizie/ancom/2007/3174",
+   "short": "Decizia ancom nr. 3174/2007",
+   "title": "Decizia nr. 3.174/2007 privind modificarea Deciziei presedintelui Inspectoratului General pentru Comunicatii si Tehnologia Informatiei nr. 699/2005 privind aprobarea Regulamentului personalului operator al statiilor de radiocomunicatii din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86447",
+   "versions": [
+    {
+     "from": "2007-10-29",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-3174-2007-privind-modificarea-deciziei-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-699-2005-privind-aprobarea-regulamentului-personalului-operator/?link_id=87885485_decizie_3174_2007.pdf",
+     "sha256": "65cf0588803f387646cf855fb410678b1620b26db6642aa5ea9ac386194c5285"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-3442-2007",
+   "path": "decizie/ancom/2007/3442",
+   "short": "Decizia ancom nr. 3442/2007",
+   "title": "Decizia nr. 3.442/2007 privind conditiile si procedura de desemnare a furnizorilor de serviciu universal în domeniul serviciilor postale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88219",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 17,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-3442-2007-privind-conditiile-si-procedura-de-desemnare-a-furnizorilor-de-serviciu-universal-in-domeniul-serviciilor-postale/?link_id=94209908_decizie_2007_3442.pdf",
+     "sha256": "deeaa188dfbab4da3cf9a586c60148071954beda6bfc064ba49906e98a5f8377"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-3443-2007",
+   "path": "decizie/ancom/2007/3443",
+   "short": "Decizia ancom nr. 3443/2007",
+   "title": "Decizia nr. 3.443/2007 pentru modificarea si completarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr. 144/EN/2006 privind implementarea portabilitatii numerelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88164",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-3443-2007-pentru-modificarea-si-completarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-144-en-2006-privind-implementarea-portabilitatii-numerelor/?link_id=92948066_decizie_3443_mod_dec144_2006_portabilitate_Mof.pdf",
+     "sha256": "06be3cc9c7fdd0f65cbb7945c4298943cc78b1cb855d27bbac2f0b806eadb0eb"
+    }
+   ]
+  }
+ ]
+}

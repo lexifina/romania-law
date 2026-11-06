@@ -687,6 +687,25 @@
 "joint": []
 },
 {
+"slug": "norma-asf-41-2016",
+"path": "norma/asf/2016/41",
+"kind": "norma",
+"year": "2016",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 41/2016 pentru modificarea și completarea Normei nr. 27/2015 privind activitatea de audit financiar la entitățile autorizate, reglementate și supravegheate de către Autoritatea de Supraveghere Financiară",
+"short": "Norma asf nr. 41/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-01-01",
+"latest": "2017-01-01",
+"portal": "https://asfromania.ro/files/regl-integrate/Norma%2041%202016.pdf",
+"issuer": "asf",
+"joint": []
+},
+{
 "slug": "norma-bnr-1-2016",
 "path": "norma/bnr/2016/1",
 "kind": "norma",

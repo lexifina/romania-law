@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "decizie/2002",
+ "acts": [
+  {
+   "slug": "decizie-ancom-131-2002",
+   "path": "decizie/ancom/2002/131",
+   "short": "Decizia ancom nr. 131/2002",
+   "title": "Decizia nr. 131/2002 privind regimul de autorizare generala pentru furnizarea retelelor si a serviciilor de comunicatii electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40620",
+   "versions": [
+    {
+     "from": "2002-12-13",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-131-2002-privind-regimul-de-autorizare-generala-pentru-furnizarea-retelelor-si-a-serviciilor-de-comunicatii-electronice/?link_id=106960_decizie_2002_131.pdf",
+     "sha256": "27a5fe4ac5e2d852e7e13dd9de7e2cd3be4d0f9ae47984bdf84ac3b03bd39131"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-136-2002",
+   "path": "decizie/ancom/2002/136",
+   "short": "Decizia ancom nr. 136/2002",
+   "title": "Decizia nr. 136/2002 privind aprobarea Regulamentului privind identificarea pietelor relevante din sectorul comunicatiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40669",
+   "versions": [
+    {
+     "from": "2002-12-16",
+     "units": 22,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-136-2002-privind-aprobarea-regulamentului-privind-identificarea-pietelor-relevante-din-sectorul-comunicatiilor-electronice/?link_id=106978_decizie_2002_136.pdf",
+     "sha256": "602dd48158776b076accd32c97336cd368fd50c2e4fce9dc1a439d9bf5826d71"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-137-2002",
+   "path": "decizie/ancom/2002/137",
+   "short": "Decizia ancom nr. 137/2002",
+   "title": "Decizia nr. 137/2002 privind aprobarea Regulamentului pentru efectuarea analizelor de piata si determinarea puterii semnificative pe piata",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40687",
+   "versions": [
+    {
+     "from": "2002-12-16",
+     "units": 25,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-137-2002-privind-aprobarea-regulamentului-pentru-efectuarea-analizelor-de-piata-si-determinarea-puterii-semnificative-pe-piata/?link_id=106983_decizie_2002_137.pdf",
+     "sha256": "361a38c92684e00749c7cd91c00efabc78d84bfbfde48e84f2b714f63f3cc444"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-138-2002",
+   "path": "decizie/ancom/2002/138",
+   "short": "Decizia ancom nr. 138/2002",
+   "title": "Decizia nr. 138/2002 privind impunerea unor cerinte minimale pentru furnizarea serviciilor de comunicatii electronice destinate publicului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41235",
+   "versions": [
+    {
+     "from": "2003-01-15",
+     "units": 10,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-138-2002-privind-impunerea-unor-cerinte-minimale-pentru-furnizarea-serviciilor-de-comunicatii-electronice-destinate-publicului/?link_id=106988_decizie_2002_138.pdf",
+     "sha256": "0a0a6ed0a8f797f7fea31b83c3043ac979a7599cc79779b9a55ed6dd013392ab"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-139-2002",
+   "path": "decizie/ancom/2002/139",
+   "short": "Decizia ancom nr. 139/2002",
+   "title": "Decizia nr. 139/2002 privind stabilirea procedurii de solutionare a litigiilor ce intra în competenta Autoritatii Nationale de Reglementare în Comunicatii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41222",
+   "versions": [
+    {
+     "from": "2003-01-15",
+     "units": 3,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-139-2002-privind-stabilirea-procedurii-de-solutionare-a-litigiilor-ce-intra-in-competenta-autoritatii-nationale-de-reglementare-in-comunicatii/?link_id=106993_decizie_2002_139.pdf",
+     "sha256": "97a17b58e3dd0031eaf1eec45b38f4620400fc940b0dc970cb5a3e0aebe8e165"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-140-2002",
+   "path": "decizie/ancom/2002/140",
+   "short": "Decizia ancom nr. 140/2002",
+   "title": "Decizia nr. 140/2002 privind aprobarea Planului National de Numerotatie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41224",
+   "versions": [
+    {
+     "from": "2003-01-15",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-140-2002-privind-aprobarea-planului-national-de-numerotatie/?link_id=107009_decizie_2002_140.pdf",
+     "sha256": "0c8c8dc4ab47ec45042098d1425d00d99b001a46b596657a12b6acce3ca2ff01"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-141-2002",
+   "path": "decizie/ancom/2002/141",
+   "short": "Decizia ancom nr. 141/2002",
+   "title": "Decizia nr. 141/2002 privind procedura de solicitare si emitere a licentelor de utilizare a resurselor de numerotatie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41253",
+   "versions": [
+    {
+     "from": "2003-01-17",
+     "units": 18,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-141-2002-privind-procedura-de-solicitare-si-emitere-a-licentelor-de-utilizare-a-resurselor-de-numerotatie/?link_id=107014_decizie_2002_141.pdf",
+     "sha256": "737fd04c99661d1204988df6e6fe6076e4fb8734f4d198771cd551ce57afc5d0"
+    }
+   ]
+  }
+ ]
+}

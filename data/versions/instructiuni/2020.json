@@ -76,6 +76,21 @@
      "sha256": "42fa2073844155a542d5549faea815ec35549b9b923006f80c99437d49e67d88"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-asf-4-2020",
+   "path": "instructiuni/asf/2020/4",
+   "short": "Instrucțiuni asf nr. 4/2020",
+   "title": "Instrucțiunile nr. 4/2020 privind prorogarea termenului prevăzut la art. 5 alin. (2) din Instrucțiunea Autorității de Supraveghere Financiară nr. 3/2020 privind modul de transmitere a raportărilor și a altor documente în format electronic către Autoritatea de Supraveghere Financiară",
+   "url": "https://asfromania.ro/files/regl-integrate/Instructiuni%204_2020_15072020.pdf",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 3,
+     "source_url": "https://asfromania.ro/files/regl-integrate/Instructiuni%204_2020_15072020.pdf",
+     "sha256": "63fac9f7f84526a804a4d03faabb475509df0b8a571c9ad7ff0605ddcde066a1"
+    }
+   ]
   }
  ]
 }

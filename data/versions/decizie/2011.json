@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "decizie/2011",
+ "acts": [
+  {
+   "slug": "decizie-ancom-6-2011",
+   "path": "decizie/ancom/2011/6",
+   "short": "Decizia ancom nr. 6/2011",
+   "title": "Decizia nr. 6/2011 privind identificarea pietelor relevante din sectorul comunicatiilor electronice corespunzatoare serviciilor de linii închiriate – segmente terminale cu capacitatea de transmisie de pâna la si inclusiv 2 Mbps",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125083",
+   "versions": [
+    {
+     "from": "2011-01-07",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-6-2011-privind-identificarea-pietelor-relevante-din-sectorul-comunicatiilor-electronice-corespunzatoare-serviciilor-de-linii-inchiriate-segmente-terminale-cu-capacitatea-de-trans/?link_id=135718028_decizie_2011_6.pdf",
+     "sha256": "9ec7e1ec15b3cef5803195d33c5659c91661cdcf8255add62be9a3132be710dd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-7-2011",
+   "path": "decizie/ancom/2011/7",
+   "short": "Decizia ancom nr. 7/2011",
+   "title": "Decizia nr. 7/2011 privind implementarea serviciului universal în sectorul comunicațiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125300",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-7-2011-privind-implementarea-serviciului-universal-in-sectorul-comunicaiilor-electronice/?link_id=Decizia_2011_71369305680.pdf",
+     "sha256": "2fca3fe23a25b6b68bd31da90f8dae60bd7c405c9922a07cd59385294728a5b4"
+    }
+   ]
+  }
+ ]
+}

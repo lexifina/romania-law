@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "decizie/2004",
+ "acts": [
+  {
+   "slug": "decizie-ancom-1124-2004",
+   "path": "decizie/ancom/2004/1124",
+   "short": "Decizia ancom nr. 1124/2004",
+   "title": "Decizia nr. 1.124/2004 privind completarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr.136/2002 pentru aprobarea Regulamentului privind identificarea pietelor relevante din sectorul comunicatiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54938",
+   "versions": [
+    {
+     "from": "2004-09-06",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-1124-2004-privind-completarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-136-2002-pentru-aprobarea-regulamentului-privind-identificarea-pietelor-relevant/?link_id=107224_decizie_2004_1124.pdf",
+     "sha256": "9039e4653240afa62499ee5db9b0e28c8c12ec959f92f30d5a04c6ab68d305bf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1188-2004",
+   "path": "decizie/ancom/2004/1188",
+   "short": "Decizia ancom nr. 1188/2004",
+   "title": "Decizia nr. 1.188/2004 pentru modificarea si completarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr.1074/EN/2004 privind implementarea serviciului universal în sectorul comunicatiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55167",
+   "versions": [
+    {
+     "from": "2004-09-15",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-1188-2004-pentru-modificarea-si-completarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-1074-en-2004-privind-implementarea-serviciului-universal-in-sector/?link_id=107229_decizie_2004_1188.pdf",
+     "sha256": "ffc3b27dd4d92e19bd5ee5f946b04227ca9643bcce0672cccf98f255fa1a0a54"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1301-2004",
+   "path": "decizie/ancom/2004/1301",
+   "short": "Decizia ancom nr. 1301/2004",
+   "title": "Decizia nr. 1.301/2004 1301/2004 privind raportarea unor date statistice de catre furnizorii de servicii postale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57162",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 6,
+     "source_url": "https://www.ancom.ro/decizie/decizie-1301-2004-privind-raportarea-unor-date-statistice-de-catre-furnizorii-de-servicii-postale/?link_id=107287_decizie_2004_1301.pdf",
+     "sha256": "14f3e35a1e43b144891aa4e30f22ee7c1f528a88e640c9f521f457f380e01f0d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-137-2004",
+   "path": "decizie/ancom/2004/137",
+   "short": "Decizia ancom nr. 137/2004",
+   "title": "Decizia nr. 137/2004 pentru modificarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr.140/2002 privind adoptarea Planului national de numerotatie si a Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr.141/2002 privind procedura de solicitare si emitere a licentelor de utilizare a resurselor de numerotatie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52305",
+   "versions": [
+    {
+     "from": "2004-05-28",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-137-2004-pentru-modificarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-140-2002-privind-adoptarea-planului-national-de-numerotatie-si-a-deciziei-presedin/?link_id=107204_decizie_2004_137.pdf",
+     "sha256": "8205368dbcdaff05d76523fff0b3776045686c7b90c1f698adc60cfdca8a602a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-153-2004",
+   "path": "decizie/ancom/2004/153",
+   "short": "Decizia ancom nr. 153/2004",
+   "title": "Decizia nr. 153/2004 pentru modificarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr.88/2004 privind desemnarea furnizorului de serviciu universal în domeniul serviciilor postale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53661",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-153-2004-pentru-modificarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-88-2004-privind-desemnarea-furnizorului-de-serviciu-universal-in-domeniul-servicii/?link_id=107209_decizie_2004_153.pdf",
+     "sha256": "6d7a3a961d816130b90b2bacc5b3e0dee07eb2add7928ef6ab098ea4d602afbc"
+    }
+   ]
+  }
+ ]
+}

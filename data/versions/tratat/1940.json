@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "tratat/1940",
+ "acts": [
+  {
+   "slug": "tratat-1940-09-07-acord-2",
+   "path": "tratat/1940/09-07-acord-2",
+   "short": "Acordul din 7 septembrie 1940 (M. Of. nr. 212/1940)",
+   "title": "Acordul din 7 septembrie 1940 privitor la schimbul de populatiune Română şi Bulgara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63938",
+   "versions": [
+    {
+     "from": "1940-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63938",
+     "sha256": "a8a4a86383ba4b5a461369f851bd0148ae5f19bf91483fb099402c9a56a6f9e7"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1940-09-07-acord-3",
+   "path": "tratat/1940/09-07-acord-3",
+   "short": "Acordul din 7 septembrie 1940 (M. Of. nr. 212/1940)",
+   "title": "Acordul FINANCIAR din 7 septembrie 1940 privind renuntarea definitiv la toate pretentiunile de ordin financiar dela Stat la Stat între România şi Bulgaria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63939",
+   "versions": [
+    {
+     "from": "1940-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63939",
+     "sha256": "68a8fc9ea2235f430afb8d749df1e9895f7a5a1783ecdd5abc019f5a088f6beb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1940-09-07-acord",
+   "path": "tratat/1940/09-07-acord",
+   "short": "Acordul din 7 septembrie 1940 (M. Of. nr. 212/1940)",
+   "title": "Acordul din 7 septembrie 1940 privitor la modalităţile de evacuare şi de transferare a teritoriului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63937",
+   "versions": [
+    {
+     "from": "1940-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63937",
+     "sha256": "07cfc5c0b0ae28e13ae2cbe7a2bc6f8d8e46205766d631352e1a7f02a20c86f5"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1940-09-07-protocol",
+   "path": "tratat/1940/09-07-protocol",
+   "short": "Protocolul din 7 septembrie 1940 (M. Of. nr. 212/1940)",
+   "title": "Protocolul din 7 septembrie 1940 la articolul I al Tratatului semnat la Craiova la 7 Septemvrie 1940",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63936",
+   "versions": [
+    {
+     "from": "1940-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63936",
+     "sha256": "701f2183a8aed2a021fdaf4359a9ae5849a3fe5ddb612e50cc02bab39d76a051"
+    }
+   ]
+  }
+ ]
+}

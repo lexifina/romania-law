@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "decizie/2011",
+"acts": [
+{
+"slug": "decizie-ancom-6-2011",
+"path": "decizie/ancom/2011/6",
+"kind": "decizie",
+"year": "2011",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 6/2011 privind identificarea pietelor relevante din sectorul comunicatiilor electronice corespunzatoare serviciilor de linii închiriate – segmente terminale cu capacitatea de transmisie de pâna la si inclusiv 2 Mbps",
+"short": "Decizia ancom nr. 6/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-07",
+"latest": "2011-01-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125083",
+"issuer": "ancom",
+"joint": []
+},
+{
+"slug": "decizie-ancom-7-2011",
+"path": "decizie/ancom/2011/7",
+"kind": "decizie",
+"year": "2011",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 7/2011 privind implementarea serviciului universal în sectorul comunicațiilor electronice",
+"short": "Decizia ancom nr. 7/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-17",
+"latest": "2011-01-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125300",
+"issuer": "ancom",
+"joint": []
+}
+]
+}

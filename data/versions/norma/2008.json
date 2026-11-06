@@ -466,6 +466,21 @@
      "sha256": "34f5fdf97a8db8e6078600f91e541d066d7402da84f87ac218218a3a060782f6"
     }
    ]
+  },
+  {
+   "slug": "norma-csspp-20-2008",
+   "path": "norma/csspp/2008/20",
+   "short": "Norma csspp nr. 20/2008",
+   "title": "Norma nr. 20/2008 Pagina 1 din 4 Normă nr. 20/2008 privind supravegherea specială a administratorilor fondurilor de pensii administrate privat",
+   "url": "https://asfromania.ro/uploads/articole/attachments/609d37ec77ba7514983071.pdf",
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "units": 18,
+     "source_url": "https://asfromania.ro/uploads/articole/attachments/609d37ec77ba7514983071.pdf",
+     "sha256": "db07dd4716f8d25b40b05cf849fa90623d1106fd54d977ebd59cb664e5e0924f"
+    }
+   ]
   }
  ]
 }

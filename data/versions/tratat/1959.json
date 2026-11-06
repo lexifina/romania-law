@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "tratat/1959",
+ "acts": [
+  {
+   "slug": "tratat-1959-02-09-acord",
+   "path": "tratat/1959/02-09-acord",
+   "short": "Acordul din 9 februarie 1959 (M. Of. nr. 179/2008)",
+   "title": "Acordul din 9 februarie 1959 între Republica Populară Română şi Republica Franceză privind reglementarea problemelor financiare în suspensie dintre cele două ţări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90164",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90164",
+     "sha256": "df7c1cf00d46f83d8e1dba34d2db2a445a2f7a08fda595156fd43b45d2e27178"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1959-02-09-protocol-2",
+   "path": "tratat/1959/02-09-protocol-2",
+   "short": "Protocolul din 9 februarie 1959 (M. Of. nr. 179/2008)",
+   "title": "Protocolul DE APLICARE nr. II din 9 februarie 1959 la Acordul din 9 februarie 1959 între Republica Populară Română şi Republica Franceză privind reglementarea problemelor financiare în suspensie dintre cele două ţări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90166",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90166",
+     "sha256": "6038f15e69d31a01f8a29227af71c15f79d16557766e870519d0c400028c89eb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1959-02-09-protocol",
+   "path": "tratat/1959/02-09-protocol",
+   "short": "Protocolul din 9 februarie 1959 (M. Of. nr. 179/2008)",
+   "title": "Protocolul DE APLICARE nr. I din 9 februarie 1959 la Acordul din 9 februarie 1959 între Republica Populară Română şi Republica Franceză privind reglementarea problemelor financiare în suspensie dintre cele două ţări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90165",
+   "versions": [
+    {
+     "from": "2008-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90165",
+     "sha256": "51380480ee8fef57bae43fed001522547e6f48bdd0ea031ef14c1cc28d8b71f1"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1959-03-06-protocol",
+   "path": "tratat/1959/03-06-protocol",
+   "short": "Protocolul din 6 martie 1959 (M. Of. nr. 807/2016)",
+   "title": "Protocolul nr. 3 din 6 martie 1959 la Acordul general privind privilegiile şi imunităţile Consiliului Europei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182562",
+   "versions": [
+    {
+     "from": "2016-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182562",
+     "sha256": "7756898efa91ad652df9b35dc6bc8e52aa18ee42725c201447b7d7d75a9ab32d"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1959-04-20-conventie",
+   "path": "tratat/1959/04-20-conventie",
+   "short": "Convenția din 20 aprilie 1959 (M. Of. nr. 492/1998)",
+   "title": "CONVENŢIE EUROPEANA din 20 aprilie 1959 de asistenţa judiciara în materie penala*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55711",
+   "versions": [
+    {
+     "from": "1998-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55711",
+     "sha256": "a7b59807972b440a5f5e6c4c3211fd98a22a37e634e2308663d7394a5772550a"
+    }
+   ]
+  }
+ ]
+}

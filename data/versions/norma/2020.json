@@ -571,6 +571,36 @@
      "sha256": "7749822d55f37aa766198028a1aac880ed7eeb077ee688c121f491c6e0555f73"
     }
    ]
+  },
+  {
+   "slug": "norma-asf-12-2020",
+   "path": "norma/asf/2020/12",
+   "short": "Norma asf nr. 12/2020",
+   "title": "Norma nr. 12/2020 privind autorizarea fondului de pensii ocupaționale",
+   "url": "https://asfromania.ro/uploads/articole/attachments/6448de97bc3e2252405079.pdf",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 26,
+     "source_url": "https://asfromania.ro/uploads/articole/attachments/6448de97bc3e2252405079.pdf",
+     "sha256": "a1b6489a34b1bb6d7caa363b5050cc002619080bf587b058b4e3985164a84740"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-24-2020",
+   "path": "norma/asf/2020/24",
+   "short": "Norma asf nr. 24/2020",
+   "title": "Norma nr. 24/2020 privind utilizarea activului personal al participantului la un fond de pensii ocupaționale",
+   "url": "https://asfromania.ro/uploads/articole/attachments/6448e2a2ab028099193399.pdf",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 28,
+     "source_url": "https://asfromania.ro/uploads/articole/attachments/6448e2a2ab028099193399.pdf",
+     "sha256": "0df34ca628f8c7486d0f19e6db249b2dfcaffe54ee26a2b129c4c215ff990a9d"
+    }
+   ]
   }
  ]
 }

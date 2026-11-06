@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "tratat/1946",
+ "acts": [
+  {
+   "slug": "tratat-1946-12-02-conventie",
+   "path": "tratat/1946/12-02-conventie",
+   "short": "Convenția din 2 decembrie 1946 (M. Of. nr. 3/2008)",
+   "title": "CONVENŢIE INTERNAŢIONALĂ din 2 decembrie 1946 privind reglementarea vânării balenelor, adoptată la Washington la 2 decembrie 1946*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88341",
+   "versions": [
+    {
+     "from": "2008-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88341",
+     "sha256": "e037b983fe3d3bbd4c45f33c873569771d23166a2b917fd8a21a64fbc2e85ad8"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+# Decizia nr. 563/2006 pentru aprobarea Procedurii de acordare a licentelor de utilizare a frecventelor radioelectrice în vederea furnizarii retelelor si serviciilor de comunicatii mobile de generatia a treia, cu modificarile si completarile ulterioare
+
+Decizia ancom nr. 563/2006 · 1 versions, from 2006-06-07 (latest in force: 2006-06-07) · <https://legislatie.just.ro/Public/DetaliiDocument/72407>
+
+**Status:** Published as it appeared in the Monitorul Oficial, from the issuer's own website; later amendments, if any, are not yet applied. Not included yet: its annexes.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `decizie-ancom-563-2006` (tags `decizie-ancom-563-2006/<day>`; `python tools/on.py <day> decizie-ancom-563-2006`).
+
+## Decisions made by hand
+
+- Decizia ancom nr. 563/2006: added from the official website of the Autoritatea Națională pentru Administrare și Reglementare în Comunicații (https://www.ancom.ro/decizie/decizia-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-563-2006-pentru-aprobarea-procedurii-de-acordare-a-licentelor-de-utilizare-a-frecventelor-radioelectrice/?link_id=81193349_decizie_2006__563.pdf, retrieved 2026-11-06) as the decision as published in Monitorul Oficial nr. 492 of 7 June 2006. Whether later acts amended it has not yet been checked; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Decizia ancom nr. 563/2006: built by Lexifina's norms lane with the default rules for an act known from its issuer's website alone, and no ruling made for this act alone: the issuer, number, and signing day are those the website gives; the website prints no Monitorul Oficial reference, so it is taken from the Portalul legislativ's catalogue row for the act (document 72407), held offline, and the website links it to document 72407 of the Portalul legislativ.
+- Decizia ancom nr. 563/2006: the first version is the decision as published in Monitorul Oficial nr. 492 of 7 June 2006, in force from its publication in the Monitorul Oficial.
+- Decizia ancom nr. 563/2006: its text is kept whole as one unit: its articles could not be split without losing words.
+- Decizia ancom nr. 563/2006: Its annexes are not included yet. They will be added when they can be published in full.

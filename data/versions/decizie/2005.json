@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "decizie/2005",
+ "acts": [
+  {
+   "slug": "decizie-ancom-1298-2005",
+   "path": "decizie/ancom/2005/1298",
+   "short": "Decizia ancom nr. 1298/2005",
+   "title": "Decizia nr. 1.298/2005 pentru modificarea si completarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr.1074/2004 privind implementarea serviciului universal în sectorul comunicatiilor electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64906",
+   "versions": [
+    {
+     "from": "2005-09-12",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-1298-2005-pentru-modificarea-si-completarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-1074-2004-privind-implementarea-serviciului-universal-in-sectorul/?link_id=22285720_decizie_2005_1298.pdf",
+     "sha256": "2d4eef4bc9bef326a2975767f08084e2710a75be94f723e6a4232e75b21ad05b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-189-2005",
+   "path": "decizie/ancom/2005/189",
+   "short": "Decizia ancom nr. 189/2005",
+   "title": "Decizia nr. 189/2005 pentru modificarea Deciziei presedintelui Autoritatii Nationale de Reglementare în Comunicatii nr.1311/2004 privind unele masuri în vederea utilizarii eficiente a resurselor de numerotatie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62772",
+   "versions": [
+    {
+     "from": "2005-06-30",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-189-2005-pentru-modificarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-1311-2004-privind-unele-masuri-in-vederea-utilizarii-eficiente-a-resurselor-de-num/?link_id=18313349_decizie_2005_189.pdf",
+     "sha256": "5a1d297d5e5b0fcc5a74b64427b1272ded39311ebdb8d495e08818eba4faccc7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-57-2005",
+   "path": "decizie/ancom/2005/57",
+   "short": "Decizia ancom nr. 57/2005",
+   "title": "Decizia nr. 57/2005 privind publicarea Listei standardelor si specificatiilor tehnice pentru retelele si serviciile de comunicatii electronice, precum si pentru infrastructura si serviciile asociate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60371",
+   "versions": [
+    {
+     "from": "2005-03-30",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-57-2005-privind-publicarea-listei-standardelor-si-specificatiilor-tehnice-pentru-retelele-si-serviciile-de-comunicatii-electronice-precum-si-pentru-infrastructura-si-serviciile-asociate/?link_id=8784006_decizie_2005__57.pdf",
+     "sha256": "f23a7386e3069ade250a7d5ba82917680b8f83ed94b2a5b978b9c7c5fc23c76f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-590-2005",
+   "path": "decizie/ancom/2005/590",
+   "short": "Decizia ancom nr. 590/2005",
+   "title": "Decizia nr. 590/2005 privind stabilirea termenului de punere în functiune a retelelor de comunicatii electronice în banda de frecvente radio 3410-3600 MHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65556",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-590-2005-privind-stabilirea-termenului-de-punere-in-functiune-a-retelelor-de-comunicatii-electronice-in-b/?link_id=81193459_decizie_2005_590.pdf",
+     "sha256": "57bde74b0290cd59459fd3f2dd5211996705e57d4a2ddaeae867daac20f37820"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-62-2005",
+   "path": "decizie/ancom/2005/62",
+   "short": "Decizia ancom nr. 62/2005",
+   "title": "Decizia nr. 62/2005 privind categoriile de frecvente radioelectrice a caror utilizare este libera, cu modificarile si completarile ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59298",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 7,
+     "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-62-2005-privind-categoriile-de-frecvente-radioelectrice-a-caror-utilizare-este-libera-cu-modificarile-si/?link_id=81193480_decizie_2005_62.pdf",
+     "sha256": "eebeabc985b9577c2f4200276669d1c661d24d8cc52595a29d9499b022352890"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-658-2005",
+   "path": "decizie/ancom/2005/658",
+   "short": "Decizia ancom nr. 658/2005",
+   "title": "Decizia nr. 658/2005 privind procedura de solicitare si de emitere a licentelor de utilizare a frecventelor radio",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66453",
+   "versions": [
+    {
+     "from": "2005-12-05",
+     "units": 37,
+     "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-658-2005-privind-procedura-de-solicitare-si-de-emitere-a-licentelor-de-utilizare-a-frecventelor-radio/?link_id=81193473_decizia_2005_658.pdf",
+     "sha256": "45ffe4154827479d00adae28b6ff793ca8a84133a13cafcac352abefce8da0f6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-660-2005",
+   "path": "decizie/ancom/2005/660",
+   "short": "Decizia ancom nr. 660/2005",
+   "title": "Decizia nr. 660/2005 privind aprobarea Regulamentului de radiocomunicatii pentru serviciul de amator din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66874",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 7,
+     "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-660-2005-privind-aprobarea-regulamentului-de-radiocomunicatii-pentru-serviciul-de-amator-din-romania/?link_id=decizie_2006_6601349788961.pdf",
+     "sha256": "93f885855f979d7ad581c9e274de18107fe303a0e3ea063a178e826a3e624d0d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-699-2005",
+   "path": "decizie/ancom/2005/699",
+   "short": "Decizia ancom nr. 699/2005",
+   "title": "Decizia nr. 699/2005 privind aprobarea Regulamentului personalului operator al statiilor de radiocomunicatii din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68113",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 3,
+     "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-inspectoratului-general-pentru-comunicatii-si-tehnologia-informatiei-nr-699-2005-privind-aprobarea-regulamentului-personalului-operator-al-statiilor-de-radiocomunicatii-din-roma/?link_id=81193439_decizie_2005_699.pdf",
+     "sha256": "ad47f8272f637db82deb6d22ba125536e5c9c4ec36103cccb65b5cf9d8c773c4"
+    }
+   ]
+  }
+ ]
+}

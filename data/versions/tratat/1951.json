@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "tratat/1951",
+ "acts": [
+  {
+   "slug": "tratat-1951-06-19-acord-2",
+   "path": "tratat/1951/06-19-acord-2",
+   "short": "Acordul din 19 iunie 1951 (M. Of. nr. 82/1996)",
+   "title": "Acordul din 19 iunie 1951 între statele părţi la Tratatul Atlanticului de Nord cu privire la statutul forţelor lor*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181578",
+   "versions": [
+    {
+     "from": "1996-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181578",
+     "sha256": "2a4d73d06d37a6fb2927ccf50ac11935f0da83b8f6ba92585a481db55a57ae73"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1951-06-19-acord",
+   "path": "tratat/1951/06-19-acord",
+   "short": "Acordul din 19 iunie 1951 (M. Of. nr. 845/2004)",
+   "title": "Acordul din 19 iunie 1951 între statele părţi la Tratatul Atlanticului de Nord cu privire la statutul forţelor lor*) - Londra, 19 iunie 1951",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55180",
+   "versions": [
+    {
+     "from": "2004-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55180",
+     "sha256": "041e8e84fec056f3a44f6a3528faaf200340d2a2a4d1289fea646a84049fb76a"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1951-09-20-acord",
+   "path": "tratat/1951/09-20-acord",
+   "short": "Acordul din 20 septembrie 1951 (M. Of. nr. 1150/2004)",
+   "title": "Acordul din 20 septembrie 1951 privind statutul Organizaţiei Tratatului Atlanticului de Nord, al reprezentanţilor naţionali şi al personalului internaţional*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57360",
+   "versions": [
+    {
+     "from": "2004-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57360",
+     "sha256": "30e5f4175b3b68064edffad307c80e0a13fa846964a3377b873fbf81fde8887f"
+    }
+   ]
+  }
+ ]
+}

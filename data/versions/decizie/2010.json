@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "decizie/2010",
+ "acts": [
+  {
+   "slug": "decizie-ancom-226-2010",
+   "path": "decizie/ancom/2010/226",
+   "short": "Decizia ancom nr. 226/2010",
+   "title": "Decizia nr. 226/2010 pentru modificarea si completarea Deciziei presedintelui InspectoratuluiGeneral pentru Comunicatii si Tehnologia Informatiei nr. 660/2005 privindaprobarea Regulamentului de radiocomunicatiipentru serviciul de amator din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117874",
+   "versions": [
+    {
+     "from": "2010-04-14",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-226-2010-pentru-modificarea-si-completarea-deciziei-presedintelui-inspectoratuluigeneral-pentru-comunicatii-si-tehnologia-informatiei-nr-660-2005-privindaprobarea-regulamentului-de-radioc/?link_id=134468795_Decizia226_2010_modificarea_regulamentului_serviciului_de_radiocomunicatii_de_amator.pdf",
+     "sha256": "ce76580325919a331db2ff251580d72a6b05c0d928a78c408b7cba50a8b98da9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-626-2010",
+   "path": "decizie/ancom/2010/626",
+   "short": "Decizia ancom nr. 626/2010",
+   "title": "Decizia nr. 626/2010 privind identificarea pietelor relevante din sectorul comunicatiilor electronice ale serviciilor de acces la elemente de infrastructura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122199",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizia-presedintelui-ancom-nr-626-2010-privind-identificarea-pietelor-relevante-din-sectorul-comunicatiilor-electronice-ale-serviciilor-de-acces-la-elemente-de-infrastructura/?link_id=134661905_decizia_2010_626.pdf",
+     "sha256": "c806dc217c01d096351ebae858d1abd035d6fefef9365e1e0555b9f663e6cd24"
+    }
+   ]
+  }
+ ]
+}

@@ -106,6 +106,21 @@
      "sha256": "ae7518ecc36abc98138c045964bce4ec873721d65a7fb6623db3f2a01a53c0ca"
     }
    ]
+  },
+  {
+   "slug": "norma-csspp-1-2011",
+   "path": "norma/csspp/2011/1",
+   "short": "Norma csspp nr. 1/2011",
+   "title": "Norma nr. 1/2011 privind fuziunea fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126490",
+   "versions": [
+    {
+     "from": "2011-03-02",
+     "units": 1,
+     "source_url": "https://asfromania.ro/uploads/articole/attachments/6087cafe95f80477553152.pdf",
+     "sha256": "ca2731dcde6e35dc6eebb8f8f7925e0e8d347248bdc6b093a2b2538dbd06cf0e"
+    }
+   ]
   }
  ]
 }

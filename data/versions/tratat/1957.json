@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "tratat/1957",
+ "acts": [
+  {
+   "slug": "tratat-1957-09-30-acord-2",
+   "path": "tratat/1957/09-30-acord-2",
+   "short": "Acordul din 30 septembrie 1957 (M. Of. nr. 37/2008)",
+   "title": "Acordul EUROPEAN (VOL. II) din 30 septembrie 1957 referitor la transportul rutier internaţional al mărfurilor periculoase (A.D.R.) - text consolidat*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89754",
+   "versions": [
+    {
+     "from": "2008-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89754",
+     "sha256": "186749038efaabc00bbdd4b44232518a93484a91569ebb0119b30eeb8ee6d7cb"
+    }
+   ]
+  },
+  {
+   "slug": "tratat-1957-09-30-acord",
+   "path": "tratat/1957/09-30-acord",
+   "short": "Acordul din 30 septembrie 1957 (M. Of. nr. 37/2008)",
+   "title": "Acordul EUROPEAN (VOL. I) din 30 septembrie 1957 referitor la transportul rutier internaţional al mărfurilor periculoase (A.D.R.) - text consolidat*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89292",
+   "versions": [
+    {
+     "from": "2008-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89292",
+     "sha256": "dd6acd66fe9a25150f6a8f5b75c4c77b1b161e595f173db62e72870fa69c3d84"
+    }
+   ]
+  }
+ ]
+}

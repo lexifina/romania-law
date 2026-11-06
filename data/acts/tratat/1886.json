@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "tratat/1886",
+"acts": [
+{
+"slug": "tratat-1886-09-09-conventie-2",
+"path": "tratat/1886/09-09-conventie-2",
+"kind": "tratat",
+"year": "1886",
+"number": "09-09-conventie-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIA DE LA BERNA din 9 septembrie 1886 pentru protecţia operelor literare şi artistice completată la Paris la 4 mai 1896, revizuită la Berlin la 13 noiembrie 1908, completată la Berna la 20 martie 1914, revizuită la Roma la 2 iunie 1928, revizuită la Bruxelles la 26 iunie 1948, revizuită la Stockholm la 14 iulie 1967 şi la Paris la 24 iulie 1971 şi modificată la 28 septembrie 1979",
+"short": "Convenția din 9 septembrie 1886 (M. Of. nr. 156/1998)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1998-04-17",
+"latest": "1998-04-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/54260"
+},
+{
+"slug": "tratat-1886-09-09-conventie",
+"path": "tratat/1886/09-09-conventie",
+"kind": "tratat",
+"year": "1886",
+"number": "09-09-conventie",
+"withdrawn_by": null,
+"reason": null,
+"title": "CONVENŢIA DE LA BERNA din 9 septembrie 1886 pentru protecţia operelor literare şi artistice completată la Paris la 4 mai 1896, revizuită la Berlin la 13 noiembrie 1908, completată la Berna la 20 martie 1914, revizuită la Roma la 2 iunie 1928, revizuită la Bruxelles la 26 iunie 1948 şi revizuită la Stockholm la 14 iulie 1967",
+"short": "Convenția din 9 septembrie 1886 (M. Of. nr. 84/1969)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1969-07-31",
+"latest": "1969-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/35725"
+}
+]
+}

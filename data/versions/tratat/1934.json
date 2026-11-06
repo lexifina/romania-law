@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "tratat/1934",
+ "acts": [
+  {
+   "slug": "tratat-1934-01-05-protocol",
+   "path": "tratat/1934/01-05-protocol",
+   "short": "Protocolul din 5 ianuarie 1934 (M. Of. nr. 182/1938)",
+   "title": "Protocolul ADIŢIONAL din 5 ianuarie 1934 pentru prelungirea până la 31 Decemvrie 1938 a Acordului Comercial între România şi Italia şi Acordul pentru reglementarea plăţilor între aceste două ţări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64229",
+   "versions": [
+    {
+     "from": "1938-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64229",
+     "sha256": "f1211e9cbb5db611ee087447222aa0b5b18a79a9c14459fe05fa96523f561316"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "tratat/1951",
+"acts": [
+{
+"slug": "tratat-1951-06-19-acord-2",
+"path": "tratat/1951/06-19-acord-2",
+"kind": "tratat",
+"year": "1951",
+"number": "06-19-acord-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Acordul din 19 iunie 1951 între statele părţi la Tratatul Atlanticului de Nord cu privire la statutul forţelor lor*)",
+"short": "Acordul din 19 iunie 1951 (M. Of. nr. 82/1996)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1996-04-22",
+"latest": "1996-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181578"
+},
+{
+"slug": "tratat-1951-06-19-acord",
+"path": "tratat/1951/06-19-acord",
+"kind": "tratat",
+"year": "1951",
+"number": "06-19-acord",
+"withdrawn_by": null,
+"reason": null,
+"title": "Acordul din 19 iunie 1951 între statele părţi la Tratatul Atlanticului de Nord cu privire la statutul forţelor lor*) - Londra, 19 iunie 1951",
+"short": "Acordul din 19 iunie 1951 (M. Of. nr. 845/2004)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2004-09-15",
+"latest": "2004-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/55180"
+},
+{
+"slug": "tratat-1951-09-20-acord",
+"path": "tratat/1951/09-20-acord",
+"kind": "tratat",
+"year": "1951",
+"number": "09-20-acord",
+"withdrawn_by": null,
+"reason": null,
+"title": "Acordul din 20 septembrie 1951 privind statutul Organizaţiei Tratatului Atlanticului de Nord, al reprezentanţilor naţionali şi al personalului internaţional*)",
+"short": "Acordul din 20 septembrie 1951 (M. Of. nr. 1150/2004)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "2004-12-06",
+"latest": "2004-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/57360"
+}
+]
+}

@@ -12061,6 +12061,81 @@
      "sha256": "58110a8891f7c89a86afae366f17fe7ace1503104d6d64a7113f8414870555aa"
     }
    ]
+  },
+  {
+   "slug": "ordin-anre-46-2026",
+   "path": "ordin/anre/2026/46",
+   "short": "Ordin anre nr. 46/2026",
+   "title": "Ordinul nr. 46/2026 privind aprobarea prețului de referință al energiei electrice produse în cogenerare de înaltă eficiență, care beneficiază de bonus",
+   "url": "https://anre.ro/wp-content/uploads/2026/08/Ord-46-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 4,
+     "source_url": "https://anre.ro/wp-content/uploads/2026/08/Ord-46-2026.pdf",
+     "sha256": "accbdbe2c92bd751e539d6b97d8398ce0a2fe12973ec7a01564aa2e4e3df328d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-47-2026",
+   "path": "ordin/anre/2026/47",
+   "short": "Ordin anre nr. 47/2026",
+   "title": "Ordinul nr. 47/2026 privind aprobarea valorilor bonusurilor de referință pentru energia electrică produsă în cogenerare de înaltă eficiență și ale prețurilor de referință pentru energia termică produsă în cogenerare, aplicabile în anul 2026",
+   "url": "https://anre.ro/wp-content/uploads/2026/08/Ord-47-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 5,
+     "source_url": "https://anre.ro/wp-content/uploads/2026/08/Ord-47-2026.pdf",
+     "sha256": "409a367108542f6ae568c680a12efdca27f51ef540f7250175f16df8726e3fdc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-48-2026",
+   "path": "ordin/anre/2026/48",
+   "short": "Ordin anre nr. 48/2026",
+   "title": "Ordinul nr. 48/2026 privind aprobarea valorilor prețurilor de referință pentru energia termică livrată în SACET din centrale cu unități de cogenerare care nu beneficiază de scheme de sprijin pentru promovarea cogenerării de înaltă eficiență, aplicabile în perioada iulie-octombrie 2026",
+   "url": "https://anre.ro/wp-content/uploads/2026/08/Ord-48-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 6,
+     "source_url": "https://anre.ro/wp-content/uploads/2026/08/Ord-48-2026.pdf",
+     "sha256": "62735598649ffed0bc13c54765c28dbcb0b08a564bb05df3e82c76349522157a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-51-2026",
+   "path": "ordin/anre/2026/51",
+   "short": "Ordin anre nr. 51/2026",
+   "title": "Ordinul nr. 51/2026 privind modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 38/2026 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea NEOGAS GRID — S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311871",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2026/08/Ord-51-2026.pdf",
+     "sha256": "1acac628391a8ccd34ebc1ba79a23bac844d046c976dd9b9a2908afe2bbda192"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-53-2026",
+   "path": "ordin/anre/2026/53",
+   "short": "Ordin anre nr. 53/2026",
+   "title": "Ordinul nr. 53/2026 pentru modificarea și completarea unor ordine ale președintelui Autorității Naționale de Reglementare în Domeniul Energiei",
+   "url": "https://anre.ro/wp-content/uploads/2026/09/Ord-53_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2026/09/Ord-53_2026.pdf",
+     "sha256": "e607d498f623f6341948f4ccfea9b435ee5ab3b2578c3ce552e6a665d3b19361"
+    }
+   ]
   }
  ]
 }

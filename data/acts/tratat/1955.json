@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "tratat/1955",
+"acts": [
+{
+"slug": "tratat-1955-04-11-acord",
+"path": "tratat/1955/04-11-acord",
+"kind": "tratat",
+"year": "1955",
+"number": "04-11-acord",
+"withdrawn_by": null,
+"reason": null,
+"title": "Acordul din 11 aprilie 1955 privind Corporatia Financiară Internaţională*) (Amendat prin rezoluţiile din 21 septembrie 1961 şi 1 septembrie 1965)",
+"short": "Acordul din 11 aprilie 1955 (M. Of. nr. 67/1991)",
+"code": null,
+"status": "as published, entry into force not recorded",
+"versions": 1,
+"from": "1991-03-30",
+"latest": "1991-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/50389"
+}
+]
+}

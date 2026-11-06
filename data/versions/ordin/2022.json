@@ -18993,6 +18993,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-138-2022",
+   "path": "ordin/anre/2022/138",
+   "short": "Ordin anre nr. 138/2022",
+   "title": "Ordinul nr. 138/2022 pentru completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 143/2020 privind obligația de a oferta gaze naturale pe piețele centralizate a producătorilor de gaze naturale a căror producție anuală realizată în anul anterior depășește 3.000.000 MWh",
+   "url": "https://anre.ro/wp-content/uploads/2023/03/Ord_138_2022.pdf",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 2,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/03/Ord_138_2022.pdf",
+     "sha256": "9ee479b5ed4835ad14cb64b9c79127b14c242d981f049e33d22b33d4c6a2a9ac"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-6-2022",
    "path": "ordin/bnr/2022/6",
    "short": "Ordin bnr nr. 6/2022",
