@@ -3232,6 +3232,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--deva-195-2024",
+"path": "local/hunedoara/deva/2024/195",
+"kind": "local",
+"year": "2024",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 195/2024 privind alegerea președintelui de ședință",
+"short": "HCL Deva nr. 195/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C82/P200",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--deva-220-2024",
 "path": "local/hunedoara/deva/2024/220",
 "kind": "local",

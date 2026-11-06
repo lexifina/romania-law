@@ -6755,12 +6755,12 @@
   {
    "shard": "local/hunedoara/deva/2022",
    "kind": "local",
-   "count": 83,
+   "count": 87,
    "acts": "data/acts/local/hunedoara/deva/2022.json",
    "list": "data/acts/local/hunedoara/deva/2022.md",
    "versions": "data/versions/local/hunedoara/deva/2022.json",
    "laws": "data/laws/local/hunedoara/deva/2022.csv",
-   "laws_count": 83,
+   "laws_count": 87,
    "sources": "data/sources/local/hunedoara/deva/2022.csv"
   },
   {
@@ -6777,23 +6777,23 @@
   {
    "shard": "local/hunedoara/deva/2024",
    "kind": "local",
-   "count": 280,
+   "count": 281,
    "acts": "data/acts/local/hunedoara/deva/2024.json",
    "list": "data/acts/local/hunedoara/deva/2024.md",
    "versions": "data/versions/local/hunedoara/deva/2024.json",
    "laws": "data/laws/local/hunedoara/deva/2024.csv",
-   "laws_count": 280,
+   "laws_count": 281,
    "sources": "data/sources/local/hunedoara/deva/2024.csv"
   },
   {
    "shard": "local/hunedoara/deva/2025",
    "kind": "local",
-   "count": 303,
+   "count": 304,
    "acts": "data/acts/local/hunedoara/deva/2025.json",
    "list": "data/acts/local/hunedoara/deva/2025.md",
    "versions": "data/versions/local/hunedoara/deva/2025.json",
    "laws": "data/laws/local/hunedoara/deva/2025.csv",
-   "laws_count": 303,
+   "laws_count": 304,
    "sources": "data/sources/local/hunedoara/deva/2025.csv"
   },
   {
@@ -6832,56 +6832,56 @@
   {
    "shard": "local/hunedoara/hunedoara/2022",
    "kind": "local",
-   "count": 38,
+   "count": 127,
    "acts": "data/acts/local/hunedoara/hunedoara/2022.json",
    "list": "data/acts/local/hunedoara/hunedoara/2022.md",
    "versions": "data/versions/local/hunedoara/hunedoara/2022.json",
    "laws": "data/laws/local/hunedoara/hunedoara/2022.csv",
-   "laws_count": 38,
+   "laws_count": 127,
    "sources": "data/sources/local/hunedoara/hunedoara/2022.csv"
   },
   {
    "shard": "local/hunedoara/hunedoara/2023",
    "kind": "local",
-   "count": 19,
+   "count": 491,
    "acts": "data/acts/local/hunedoara/hunedoara/2023.json",
    "list": "data/acts/local/hunedoara/hunedoara/2023.md",
    "versions": "data/versions/local/hunedoara/hunedoara/2023.json",
    "laws": "data/laws/local/hunedoara/hunedoara/2023.csv",
-   "laws_count": 19,
+   "laws_count": 491,
    "sources": "data/sources/local/hunedoara/hunedoara/2023.csv"
   },
   {
    "shard": "local/hunedoara/hunedoara/2024",
    "kind": "local",
-   "count": 37,
+   "count": 410,
    "acts": "data/acts/local/hunedoara/hunedoara/2024.json",
    "list": "data/acts/local/hunedoara/hunedoara/2024.md",
    "versions": "data/versions/local/hunedoara/hunedoara/2024.json",
    "laws": "data/laws/local/hunedoara/hunedoara/2024.csv",
-   "laws_count": 37,
+   "laws_count": 410,
    "sources": "data/sources/local/hunedoara/hunedoara/2024.csv"
   },
   {
    "shard": "local/hunedoara/hunedoara/2025",
    "kind": "local",
-   "count": 39,
+   "count": 307,
    "acts": "data/acts/local/hunedoara/hunedoara/2025.json",
    "list": "data/acts/local/hunedoara/hunedoara/2025.md",
    "versions": "data/versions/local/hunedoara/hunedoara/2025.json",
    "laws": "data/laws/local/hunedoara/hunedoara/2025.csv",
-   "laws_count": 39,
+   "laws_count": 307,
    "sources": "data/sources/local/hunedoara/hunedoara/2025.csv"
   },
   {
    "shard": "local/hunedoara/hunedoara/2026",
    "kind": "local",
-   "count": 19,
+   "count": 311,
    "acts": "data/acts/local/hunedoara/hunedoara/2026.json",
    "list": "data/acts/local/hunedoara/hunedoara/2026.md",
    "versions": "data/versions/local/hunedoara/hunedoara/2026.json",
    "laws": "data/laws/local/hunedoara/hunedoara/2026.csv",
-   "laws_count": 19,
+   "laws_count": 311,
    "sources": "data/sources/local/hunedoara/hunedoara/2026.csv"
   },
   {

@@ -844,6 +844,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--deva-51-2025",
+"path": "local/hunedoara/deva/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 51/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului local al municipiului Deva pentru anul 2025, la nivelul Municipiului Deva",
+"short": "HCL Deva nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P500",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--deva-52-2025",
 "path": "local/hunedoara/deva/2025/52",
 "kind": "local",

@@ -1468,6 +1468,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--deva-86-2022",
+"path": "local/hunedoara/deva/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 86/2022 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Deva nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P500",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--deva-115-2022",
 "path": "local/hunedoara/deva/2022/115",
 "kind": "local",
@@ -1816,6 +1838,72 @@
 "from": "2022-09-30",
 "latest": "2022-09-30",
 "portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P180",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-428-2022",
+"path": "local/hunedoara/deva/2022/428",
+"kind": "local",
+"year": "2022",
+"number": "428",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 428/2022 privind alegerea președintelui de ședință",
+"short": "HCL Deva nr. 428/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-24",
+"latest": "2022-10-24",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P160",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-470-2022",
+"path": "local/hunedoara/deva/2022/470",
+"kind": "local",
+"year": "2022",
+"number": "470",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 470/2022 privind aderarea municipiului Deva la reţeaua “Construirea Europei cu consilierii locali” şi desemnarea unui reprezentant consilier local ca membru al reţelei",
+"short": "HCL Deva nr. 470/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P100",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-569-2022",
+"path": "local/hunedoara/deva/2022/569",
+"kind": "local",
+"year": "2022",
+"number": "569",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 569/2022 privind Alegerea președintelui de ședință",
+"short": "HCL Deva nr. 569/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P20",
 "council": "hunedoara/deva",
 "council_name": "Consiliul Local al Municipiului Deva",
 "flags": {
