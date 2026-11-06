@@ -15018,6 +15018,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-34-2025",
+   "path": "ordin/anre/2025/34",
+   "short": "Ordin anre nr. 34/2025",
+   "title": "Ordinul nr. 34/2025 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea DESIGN PROIECT - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299473",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299473",
+     "sha256": "f8dc212ed53d4d8e49621b1a449266abf04417b40dde0eba1086a8ade9c22963"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-35-2025",
    "path": "ordin/anre/2025/35",
    "short": "Ordin anre nr. 35/2025",
@@ -15314,6 +15329,96 @@
      "units": 4,
      "source_url": "https://anre.ro/wp-content/uploads/2025/07/Ord-55-2025.pdf",
      "sha256": "5622f7feeed4036268621552c4bae5edcdeef316f972a5614856db6acd1ae587"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-72-2025",
+   "path": "ordin/anre/2025/72",
+   "short": "Ordin anre nr. 72/2025",
+   "title": "Ordinul nr. 72/2025 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 30/2025 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea BTDCONSTRUCT &amp; AMBIENT - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305603",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305603",
+     "sha256": "c7fd06c57ec9343a016aac19d2e443045e30bfe254f5b2a25f23d08270171c32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-74-2025",
+   "path": "ordin/anre/2025/74",
+   "short": "Ordin anre nr. 74/2025",
+   "title": "Ordinul nr. 74/2025 privind aprobarea tarifelor pentru serviciul de transport al energiei electrice și a prețului energiei electrice reactive, valabile de la 1 ianuarie 2026, pentru Compania Națională de Transport al Energiei Electrice \"Transelectrica\" - S.A. și pentru modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 9",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305628",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305628",
+     "sha256": "55c0faea95d7195f70996f307cc5c1ba2121745d7cdebb191d6eb9a48fa60a58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-75-2025",
+   "path": "ordin/anre/2025/75",
+   "short": "Ordin anre nr. 75/2025",
+   "title": "Ordinul nr. 75/2025 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, a tarifului de introducere a energiei electrice în rețelele de distribuție a energiei electrice, valabile de la 1 ianuarie 2026, pentru Societatea Distribuție Energie Oltenia - S.A. și pentru modificarea și completarea Ordinu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305629",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305629",
+     "sha256": "5fcf6e5c6409cd57382b39c5e07795463c8d79f87146ca5056ec235b1284b341"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-76-2025",
+   "path": "ordin/anre/2025/76",
+   "short": "Ordin anre nr. 76/2025",
+   "title": "Ordinul nr. 76/2025 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, valabile de la 1 ianuarie 2026, pentru Societatea Delgaz Grid - S.A. și pentru modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 98/2024 privind aprobarea tarife",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305630",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305630",
+     "sha256": "bb6a28b628b7ce0df0164fc3c98b802e2f50827efc8fd6b6154bef0b7f8c58a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-77-2025",
+   "path": "ordin/anre/2025/77",
+   "short": "Ordin anre nr. 77/2025",
+   "title": "Ordinul nr. 77/2025 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, valabile de la 1 ianuarie 2026, pentru Societatea Distribuție Energie Electrică Romania - S.A. și pentru modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 97/202",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305631",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305631",
+     "sha256": "f7d05255c8ab6d4f4739aa75bb644309a683650ca11ee82fb3183a5d67d5fb66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-78-2025",
+   "path": "ordin/anre/2025/78",
+   "short": "Ordin anre nr. 78/2025",
+   "title": "Ordinul nr. 78/2025 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, a tarifului de introducere a energiei electrice în rețelele de distribuție a energiei electrice amplasate în județele Călărași, Ialomița, Tulcea și Constanța, valabile de la 1 ianuarie 2026, pentru Societatea Rețele Electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305632",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305632",
+     "sha256": "3d0677f84b73490fe33232e7108604a712b51b59f03a77522d1e63a5d86469df"
     }
    ]
   },

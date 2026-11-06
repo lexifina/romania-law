@@ -61,6 +61,21 @@
      "sha256": "6f920b1de498966622d49734405395aaa8cc67538f1628c6d17676a7e145774d"
     }
    ]
+  },
+  {
+   "slug": "instructiuni-cnvm-2-2008",
+   "path": "instructiuni/cnvm/2008/2",
+   "short": "Instrucțiuni cnvm nr. 2/2008",
+   "title": "Instrucțiunile nr. 2/2008 din 2008 de modificare a Instrucțiunii nr. 5/2006 cu privire la sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96673",
+   "versions": [
+    {
+     "from": "2008-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96673",
+     "sha256": "018f86a82297e54524f5a5e9efa596b014fc7a2d71629c8913ec2a92cbbf8bee"
+    }
+   ]
   }
  ]
 }

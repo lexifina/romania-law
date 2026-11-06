@@ -3,6 +3,36 @@
  "shard": "decizie/2026",
  "acts": [
   {
+   "slug": "decizie-ancom-223-2026",
+   "path": "decizie/ancom/2026/223",
+   "short": "Decizia ancom nr. 223/2026",
+   "title": "Decizia nr. 223/2026 privind identificarea pieței relevante din sectorul comunicațiilor electronice corespunzătoare serviciilor de acces local la puncte fixe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310434",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310434",
+     "sha256": "a6cc7633015ace1b4873d0e5bc8de5c286e0efe3ffc1198571a8c35d7a46971a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-965-2026",
+   "path": "decizie/asf/2026/965",
+   "short": "Decizia asf nr. 965/2026",
+   "title": "Decizia nr. 965/2026 privind autorizarea de funcționare a societății FLEX BROKER DE ASIGURARE - S.R.L. ca intermediar principal - companie de brokeraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314591",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314591",
+     "sha256": "3dfe25a1d64ebd31e4b32cd78db79055abc189401b296c3c88fc94d68d031902"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-116-2026",
    "path": "decizie/cna/2026/116",
    "short": "Decizia cna nr. 116/2026",

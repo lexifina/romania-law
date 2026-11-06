@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "decizie-ancom-332-2024",
+   "path": "decizie/ancom/2024/332",
+   "short": "Decizia ancom nr. 332/2024",
+   "title": "Decizia nr. 332/2024 privind modificarea și completarea Deciziei președintelui Autorității Naționale pentru Comunicații nr. 1.023/2008 privind realizarea comunicațiilor către Sistemul național unic pentru apeluri de urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284801",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284801",
+     "sha256": "797741671a9f65935c6b33a2eba9fa669c6a84c3d02381aefe885597e4b5f293"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-333-2024",
+   "path": "decizie/ancom/2024/333",
+   "short": "Decizia ancom nr. 333/2024",
+   "title": "Decizia nr. 333/2024 privind comunicarea documentelor prin intermediul serviciului \"My ANCOM\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285331",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285331",
+     "sha256": "18b0f0adfc0b1e01454bea551a5496583ead18f5410fe7c10361b42c2ecabc79"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-335-2024",
    "path": "decizie/ancom/2024/335",
    "short": "Decizia ancom nr. 335/2024",
@@ -48,6 +78,21 @@
    ]
   },
   {
+   "slug": "decizie-ancom-567-2024",
+   "path": "decizie/ancom/2024/567",
+   "short": "Decizia ancom nr. 567/2024",
+   "title": "Decizia nr. 567/2024 pentru modificarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 336/2013 privind mijloacele și modalitatea de transmitere de către furnizori a unor documente, date sau informații către Autoritatea Națională pentru Administrare și Reglementare în Comunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289096",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289096",
+     "sha256": "1192bb73ce1edd9d9b2f03ec22967eef8ba3488ce7ffafbb2e68b2765bf295da"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-694-2024",
    "path": "decizie/ancom/2024/694",
    "short": "Decizia ancom nr. 694/2024",
@@ -59,6 +104,66 @@
      "units": 1,
      "source_url": "https://www.ancom.ro/decizie/decizia-ancom-nr-694-2024-pentru-aprobarea-procedurii-de-anulare-a-unor-obligatii-de-plata-datorate-bugetului-autoritatii-nationale-pentru-administrare-si-reglementare-in-comunicatii/?link_id=Decizia_694_2024_procedura_anulare_1730795879.pdf",
      "sha256": "ed409a097e8a7019bb4042f6ea28cb375aa89b8260357ae0d580ffd81aa78682"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-697-2024",
+   "path": "decizie/ancom/2024/697",
+   "short": "Decizia ancom nr. 697/2024",
+   "title": "Decizia nr. 697/2024 pentru modificarea și completarea unor acte normative din domeniul resurselor de numerotație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290274",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290274",
+     "sha256": "7a1017c26d0d434efddd7f87b4c0803e96d442705b05b9d15099a8722f640075"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-70-2024",
+   "path": "decizie/ancom/2024/70",
+   "short": "Decizia ancom nr. 70/2024",
+   "title": "Decizia nr. 70/2024 privind securitatea rețelelor publice de comunicații electronice și a serviciilor de comunicații electronice destinate publicului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278932",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278932",
+     "sha256": "bd789e26e99df2e1866cb991f55a73dcb0d690386a37c13fe65e0b7def356df0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-775-2024",
+   "path": "decizie/ancom/2024/775",
+   "short": "Decizia ancom nr. 775/2024",
+   "title": "Decizia nr. 775/2024 privind aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 132/2024 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal și pentru completarea Legii nr. 207/2015 privind Codul de procedură fiscală , precum și pentru modificarea și completarea unor acte normative în cadrul Procedurii de anulare a unor obligații de plată datorate b",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292156",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292156",
+     "sha256": "27333e09ad636d8e9c143ad2e0e663d5f0cb0e317fbcd170d1d382b3dd28a42f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1344-2024",
+   "path": "decizie/asf/2024/1344",
+   "short": "Decizia asf nr. 1344/2024",
+   "title": "Decizia nr. 1.344/2024 privind autorizarea Societății SIGUU BROKER DE ASIGURARE - S.R.L. ca intermediar principal în asigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293468",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293468",
+     "sha256": "72cb9381efe13612282e31ad7ccdad951004702d96a8a162238ef576fa90f8f5"
     }
    ]
   },

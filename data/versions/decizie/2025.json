@@ -3,6 +3,141 @@
  "shard": "decizie/2025",
  "acts": [
   {
+   "slug": "decizie-ancom-332-2025",
+   "path": "decizie/ancom/2025/332",
+   "short": "Decizia ancom nr. 332/2025",
+   "title": "Decizia nr. 332/2025 pentru completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 551/2012 privind stabilirea tarifului de utilizare a spectrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299418",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299418",
+     "sha256": "5745d580149cc41c85e4f3ad7642bfbd389923ba838a8ce707459139c05f8522"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-463-2025",
+   "path": "decizie/ancom/2025/463",
+   "short": "Decizia ancom nr. 463/2025",
+   "title": "Decizia nr. 463/2025 pentru modificarea și completarea Deciziei Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 333/2024 privind comunicarea documentelor prin intermediul serviciului \"My ANCOM\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301520",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301520",
+     "sha256": "d1dd3bc85981f64eadadd442da23ba9c9b0a4879e40d3765eb4101611b0f991b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-51-2025",
+   "path": "decizie/ancom/2025/51",
+   "short": "Decizia ancom nr. 51/2025",
+   "title": "Decizia nr. 51/2025 privind stabilirea criteriilor de rezonabilitate pentru asigurarea accesului persoanelor fizice la un serviciu funcțional de internet în bandă largă, prin intermediul unei conexiuni la punct fix",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294876",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294876",
+     "sha256": "be92b5f0326e642e3eb92d76b879d1a38c5215bc0a4862d942b1fb5a787af5b0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-641-2025",
+   "path": "decizie/ancom/2025/641",
+   "short": "Decizia ancom nr. 641/2025",
+   "title": "Decizia nr. 641/2025 privind cuantumul tarifului de utilizare a resurselor de numerotație, aferent anului 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304965",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304965",
+     "sha256": "96da37a5a00486a315ed9d6f0d0c8c65799b5bd224b13797df29ed0ba4556489"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-688-2025",
+   "path": "decizie/ancom/2025/688",
+   "short": "Decizia ancom nr. 688/2025",
+   "title": "Decizia nr. 688/2025 privind modificarea Tabelului național de atribuire a benzilor de frecvențe radio, aprobat prin Decizia Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 111/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305743",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305743",
+     "sha256": "9f6ca487b026ad9f045463494b22d0b8d3f72094d15907204b7eac1416b8ec53"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1245-2025",
+   "path": "decizie/asf/2025/1245",
+   "short": "Decizia asf nr. 1245/2025",
+   "title": "Decizia nr. 1.245/2025 privind autorizarea de funcționare a Societății WISE CONSULTING BROKER DE ASIGURARE ȘI REASIGURARE - S.R.L. ca intermediar principal - companie de brokeraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306279",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306279",
+     "sha256": "73584f8c803a9554490687d495a14a86e86b11579b7617cdfe6c1aba194f0c56"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-64-2025",
+   "path": "decizie/asf/2025/64",
+   "short": "Decizia asf nr. 64/2025",
+   "title": "Decizia nr. 64/2025 privind autorizarea de funcționare a Societății WINNERS GROUP COMPANIE DE BROKERAJ - S.R.L. ca intermediar principal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294693",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294693",
+     "sha256": "01c3a086b3f6041a219bed53bd0d9723efb6f6bf18d20678eb3c18345bd8f324"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-747-2025",
+   "path": "decizie/asf/2025/747",
+   "short": "Decizia asf nr. 747/2025",
+   "title": "Decizia nr. 747/2025 privind autorizarea de funcționare a Societății FIRST BROKER - BROKER DE ASIGURARE REASIGURARE - S.R.L. ca intermediar principal - companie de brokeraj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301367",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301367",
+     "sha256": "02899a44f8c56eb87181acea6740a8029707a059350639dd553642241f5d01ca"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-823-2025",
+   "path": "decizie/asf/2025/823",
+   "short": "Decizia asf nr. 823/2025",
+   "title": "Decizia nr. 823/2025 privind aprobarea transferului de portofoliu de la Societatea Allianz-Țiriac Unit Asigurări - S.A. către Societatea Allianz-Țiriac Asigurări - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301926",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301926",
+     "sha256": "6211e9e10085a60e8b53470af1a6ceea396f5208e4e557f8794655c276641f6e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-185-2025",
    "path": "decizie/cna/2025/185",
    "short": "Decizia cna nr. 185/2025",

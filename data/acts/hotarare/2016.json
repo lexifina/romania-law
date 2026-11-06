@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "hotarare/2016",
+"acts": [
+{
+"slug": "hotarare-asf-19-2016",
+"path": "hotarare/asf/2016/19",
+"kind": "hotarare",
+"year": "2016",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 19/2016 privind cota procentuală pentru contribuția asigurătorilor la Fondul de protecție a victimelor străzii",
+"short": "Hotărârea asf nr. 19/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-18",
+"latest": "2016-04-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177618",
+"issuer": "asf",
+"joint": []
+},
+{
+"slug": "hotarare-asf-67-2016",
+"path": "hotarare/asf/2016/67",
+"kind": "hotarare",
+"year": "2016",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 67/2016 pentru modificarea și completarea Hotărârii Consiliului Autorității de Supraveghere Financiară nr. 76/2015 privind derogarea de la prevederile art. 10 alin. (1) din Norma nr. 2/2013 privind calculul actuarial al contribuției anuale datorate de administratorii de fonduri de pensii private Fondului de garantare a drepturilor din sistemul de pensii private EMITEN",
+"short": "Hotărârea asf nr. 67/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-30",
+"latest": "2016-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185195",
+"issuer": "asf",
+"joint": []
+},
+{
+"slug": "hotarare-bnr-2-2016",
+"path": "hotarare/bnr/2016/2",
+"kind": "hotarare",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 2/2016 privind radierea Societății GOLDFIN IFN - S.A. din Registrul general și, implicit, interzicerea desfășurării activității de creditare",
+"short": "Hotărârea bnr nr. 2/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-01",
+"latest": "2016-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/179631",
+"issuer": "bnr",
+"joint": []
+}
+]
+}

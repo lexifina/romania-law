@@ -558,6 +558,36 @@
    ]
   },
   {
+   "slug": "hg-1-2001",
+   "path": "hg/2001/1",
+   "short": "HG nr. 1/2001",
+   "title": "Hotărârea Guvernului nr. 1/2001 pentru modificarea Hotărârii Guvernului nr. 854/2000 privind organizarea şi funcţionarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25907",
+   "versions": [
+    {
+     "from": "2001-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25907",
+     "sha256": "5523b98b1785e4434a253d1c5768bc40d4b31e1e59d4662007088dbf8cb93454"
+    }
+   ]
+  },
+  {
+   "slug": "hg-10-2001",
+   "path": "hg/2001/10",
+   "short": "HG nr. 10/2001",
+   "title": "Hotărârea Guvernului nr. 10/2001 privind organizarea şi funcţionarea Ministerului pentru Relaţia cu Parlamentul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25949",
+   "versions": [
+    {
+     "from": "2001-01-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25949",
+     "sha256": "28c21c27873f9f027e48becf4fc68ba73d193b9e807a61e92051289afdccc5cb"
+    }
+   ]
+  },
+  {
    "slug": "hg-100-2001",
    "path": "hg/2001/100",
    "short": "HG nr. 100/2001",
@@ -7185,6 +7215,21 @@
    ]
   },
   {
+   "slug": "hg-2-2001",
+   "path": "hg/2001/2",
+   "short": "HG nr. 2/2001",
+   "title": "Hotărârea Guvernului nr. 2/2001 pentru aprobarea structurii şi conţinutului protocolului de predare-primire întocmit de membrii Guvernului şi de conducătorii celorlalte organe de specialitate ale administraţiei publice la expirarea mandatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25909",
+   "versions": [
+    {
+     "from": "2001-01-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25909",
+     "sha256": "108a49ff7bdbeb141526ffd6ed0f42d0e0a1005e1a27767f6e6ca37dd9e1c62a"
+    }
+   ]
+  },
+  {
    "slug": "hg-20-2001",
    "path": "hg/2001/20",
    "short": "HG nr. 20/2001",
@@ -9369,6 +9414,21 @@
    ]
   },
   {
+   "slug": "hg-34-2001",
+   "path": "hg/2001/34",
+   "short": "HG nr. 34/2001",
+   "title": "Hotărârea Guvernului nr. 34/2001 privind eliberarea din funcţia de subprefect al judeţului Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26020",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26020",
+     "sha256": "b3d4c0b282b9a176d3053e787789ab608e8097d2943b6299491e498a4cd03fef"
+    }
+   ]
+  },
+  {
    "slug": "hg-340-2001",
    "path": "hg/2001/340",
    "short": "HG nr. 340/2001",
@@ -9684,6 +9744,21 @@
    ]
   },
   {
+   "slug": "hg-36-2001",
+   "path": "hg/2001/36",
+   "short": "HG nr. 36/2001",
+   "title": "Hotărârea Guvernului nr. 36/2001 privind eliberarea din funcţia de prefect al judeţului Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26022",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26022",
+     "sha256": "7cb79cfd4fb033118365317aa88961dd65785efb2736048551da314e06b2c86f"
+    }
+   ]
+  },
+  {
    "slug": "hg-360-2001",
    "path": "hg/2001/360",
    "short": "HG nr. 360/2001",
@@ -9834,6 +9909,21 @@
    ]
   },
   {
+   "slug": "hg-37-2001",
+   "path": "hg/2001/37",
+   "short": "HG nr. 37/2001",
+   "title": "Hotărârea Guvernului nr. 37/2001 privind numirea în funcţia de prefect al judeţului Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26023",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26023",
+     "sha256": "166c5f161121206028ab85320860b8e91b655a0f04073048198034c88c4237d5"
+    }
+   ]
+  },
+  {
    "slug": "hg-370-2001",
    "path": "hg/2001/370",
    "short": "HG nr. 370/2001",
@@ -9965,6 +10055,21 @@
      "units": 2,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/28003",
      "sha256": "629db3abe11bd28c7bab868ca12689409e9ad78aaf9f19bc200fdde43abe2261"
+    }
+   ]
+  },
+  {
+   "slug": "hg-38-2001",
+   "path": "hg/2001/38",
+   "short": "HG nr. 38/2001",
+   "title": "Hotărârea Guvernului nr. 38/2001 privind eliberarea din funcţia de subprefect al judeţului Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26024",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26024",
+     "sha256": "b116a45e48deefdc6558f90fa3ee2797815489d4d0062b3849b368f34a76b95f"
     }
    ]
   },
@@ -11790,6 +11895,21 @@
    ]
   },
   {
+   "slug": "hg-5-2001",
+   "path": "hg/2001/5",
+   "short": "HG nr. 5/2001",
+   "title": "Hotărârea Guvernului nr. 5/2001 pentru modificarea Statutului Casei Naţionale de Pensii şi Alte Drepturi de Asigurări Sociale, aprobat prin Hotărârea Guvernului nr. 1.065/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25930",
+   "versions": [
+    {
+     "from": "2001-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25930",
+     "sha256": "372e006ded6ae999ffd1c3b48005baa06f963f8be80b18485b8d2aa7441db613"
+    }
+   ]
+  },
+  {
    "slug": "hg-50-2001",
    "path": "hg/2001/50",
    "short": "HG nr. 50/2001",
@@ -13268,6 +13388,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29357",
      "sha256": "3f2f5f71bfa6d65ca20c26af8a4d7421b8f8d3723fea5889fad6a92ed1f93123"
+    }
+   ]
+  },
+  {
+   "slug": "hg-6-2001",
+   "path": "hg/2001/6",
+   "short": "HG nr. 6/2001",
+   "title": "Hotărârea Guvernului nr. 6/2001 privind organizarea şi funcţionarea Ministerului Tineretului şi Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25945",
+   "versions": [
+    {
+     "from": "2001-01-10",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25945",
+     "sha256": "3ea68695a244bd8cb6d10b41069ee335e24569b5959287c54bfdc24118d3dc43"
     }
    ]
   },
@@ -14837,6 +14972,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29890",
      "sha256": "574497b21f7e4c60261a15a837328fff8a50802ea914f640628800da758f7b6e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-7-2001",
+   "path": "hg/2001/7",
+   "short": "HG nr. 7/2001",
+   "title": "Hotărârea Guvernului nr. 7/2001 pentru modificarea Hotărârii Guvernului nr. 65/1997 privind organizarea şi funcţionarea Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25948",
+   "versions": [
+    {
+     "from": "2001-01-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25948",
+     "sha256": "41cfc260c1a5c620f565e9d99eee7b2f7af017041ec71cfde60de0962f05b1ec"
     }
    ]
   },
@@ -18023,6 +18173,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30774",
      "sha256": "e7bcd23c403aba36a0680c2e60647b73ced1d53b34859923db0369b764cb438d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-9-2001",
+   "path": "hg/2001/9",
+   "short": "HG nr. 9/2001",
+   "title": "Hotărârea Guvernului nr. 9/2001 privind reorganizarea şi funcţionarea prefecturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25988",
+   "versions": [
+    {
+     "from": "2001-01-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25988",
+     "sha256": "0bfc3bbefc10150aed7f91cbffbd7a14da37565b1ae4d54755bf7b07a2b1abde"
     }
    ]
   },

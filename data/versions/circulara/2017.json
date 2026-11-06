@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-17-2017",
+   "path": "circulara/bnr/2017/17",
+   "short": "Circulara bnr nr. 17/2017",
+   "title": "Circulara nr. 17/2017 privind lansarea în circuitul numismatic a unei monede din argint cu tema Laureați ai Premiului Nobel originari din România - Elie Wiesel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194442",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194442",
+     "sha256": "dc9e629ebe1164f0cd96426c7afc9964dd624902afba5c8d66389e76924b9e20"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-18-2017",
    "path": "circulara/bnr/2017/18",
    "short": "Circulara bnr nr. 18/2017",
@@ -359,6 +374,21 @@
      "units": 1,
      "source_url": "https://www.bnr.ro/20390-circulara-8-2017",
      "sha256": "fe527f053da26645f4c6dd9a11483fc8002b7a3282cb8cc453a271114d1eea01"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2017",
+   "path": "circulara/bnr/2017/9",
+   "short": "Circulara bnr nr. 9/2017",
+   "title": "Circulara nr. 9/2017 privind lansarea în circuitul numismatic și punerea în circulație a unor monede cu tema 10 ani de la aderarea României la Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190846",
+   "versions": [
+    {
+     "from": "2017-07-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190846",
+     "sha256": "7ee880c8b544685b4367c8ad842f5a4bff377a023c8cbb274740c1becdec5dfc"
     }
    ]
   }

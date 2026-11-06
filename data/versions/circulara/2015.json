@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "circulara/2015",
+ "acts": [
+  {
+   "slug": "circulara-bnr-1-2015",
+   "path": "circulara/bnr/2015/1",
+   "short": "Circulara bnr nr. 1/2015",
+   "title": "Circulara nr. 1/2015 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164455",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164455",
+     "sha256": "56ff37834d3cf37e6f00b3443703cd557e09eee3f835367a6fc95b2dba0c97b9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-10-2015",
+   "path": "circulara/bnr/2015/10",
+   "short": "Circulara bnr nr. 10/2015",
+   "title": "Circulara nr. 10/2015 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 februarie-23 martie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166472",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166472",
+     "sha256": "dd04225f70edda8afbdcd60f7e2636f800feab348821537318596633a0eb809a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2015",
+   "path": "circulara/bnr/2015/11",
+   "short": "Circulara bnr nr. 11/2015",
+   "title": "Circulara nr. 11/2015 privind lansarea în circuitul numismatic a unei monede din argint dedicate aniversării a 25 de ani de la înființarea Serviciului Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167039",
+   "versions": [
+    {
+     "from": "2015-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167039",
+     "sha256": "da408376e8598b673bd990584ee1b76c25e3d585ae8e3883ef74abe5f63294ad"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2015",
+   "path": "circulara/bnr/2015/12",
+   "short": "Circulara bnr nr. 12/2015",
+   "title": "Circulara nr. 12/2015 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166858",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166858",
+     "sha256": "bc5f10744e174bcbad8564a2399ff444d132ea9e10e013d7f7485afa69c604c4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2015",
+   "path": "circulara/bnr/2015/13",
+   "short": "Circulara bnr nr. 13/2015",
+   "title": "Circulara nr. 13/2015 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 aprilie-23 mai 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167118",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167118",
+     "sha256": "a47a0d11eac99272fad21becf52ab4f0e9d66045b5dfc494a2f34d4d67ac7a27"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2015",
+   "path": "circulara/bnr/2015/16",
+   "short": "Circulara bnr nr. 16/2015",
+   "title": "Circulara nr. 16/2015 privind lansarea în circuitul numismatic a unei monede din argint dedicate împlinirii a 70 de ani de la încheierea celui de-al Doilea Război Mondial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167653",
+   "versions": [
+    {
+     "from": "2015-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167653",
+     "sha256": "3de6d90495aefe6f9aba950637f03fef6863eb3892fca413a4e38c77da842ab2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2015",
+   "path": "circulara/bnr/2015/17",
+   "short": "Circulara bnr nr. 17/2015",
+   "title": "Circulara nr. 17/2015 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167795",
+   "versions": [
+    {
+     "from": "2015-05-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167795",
+     "sha256": "115ac597f8950c8913f7e66f7557ede23a3f63dd7045ca460ded5a6d974b6a48"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2015",
+   "path": "circulara/bnr/2015/18",
+   "short": "Circulara bnr nr. 18/2015",
+   "title": "Circulara nr. 18/2015 privind modificarea ratei rezervelor minime obligatorii pentru mijloacele bănești în monedă națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167933",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167933",
+     "sha256": "1fcd0f08e0c1f18b3aaab0d8021e4018e81d58ceb9bbd29a4f0990eed1980ab1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2015",
+   "path": "circulara/bnr/2015/19",
+   "short": "Circulara bnr nr. 19/2015",
+   "title": "Circulara nr. 19/2015 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 mai - 23 iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167934",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167934",
+     "sha256": "36c2bd9f78eb6ad8fa29f4539c6c639b6400a59ecebaee281bd592942299732a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-2-2015",
+   "path": "circulara/bnr/2015/2",
+   "short": "Circulara bnr nr. 2/2015",
+   "title": "Circulara nr. 2/2015 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 decembrie 2014-23 ianuarie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164865",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164865",
+     "sha256": "3c9e355b7dbdf8c20f282794475f78458489924e065785c949053fe4eccbb55f"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2015",
+   "path": "circulara/bnr/2015/20",
+   "short": "Circulara bnr nr. 20/2015",
+   "title": "Circulara nr. 20/2015 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 aprilie - 23 mai 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167936",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167936",
+     "sha256": "13cdef88d97f0f8e3c6a5e1447b256ce78c6bb3e2e7ab30a6e75e43bcb158149"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2015",
+   "path": "circulara/bnr/2015/21",
+   "short": "Circulara bnr nr. 21/2015",
+   "title": "Circulara nr. 21/2015 privind lansarea în circuitul numismatic a unei monede din argint dedicate împlinirii a 145 de ani de la înființarea Monetăriei Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168215",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168215",
+     "sha256": "704bcfe91466c16773c4e9cfa6644dc3cf81b89f708c1aac744a289f85c4f104"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2015",
+   "path": "circulara/bnr/2015/23",
+   "short": "Circulara bnr nr. 23/2015",
+   "title": "Circulara nr. 23/2015 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 mai-23 iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168937",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168937",
+     "sha256": "9f9f92b1fe6ddc7f33f340c03f13b2ef80be6d99c067fd9c2e92f5d7a6a89a12"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2015",
+   "path": "circulara/bnr/2015/24",
+   "short": "Circulara bnr nr. 24/2015",
+   "title": "Circulara nr. 24/2015 privind lansarea în circulație a unei monede din alamă cu caracter comemorativ, dedicată împlinirii a 10 ani de la denominarea monedei naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169537",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169537",
+     "sha256": "581e2452cb0001ec2c6f9418b459d82501d4e86a82616fefdc0dea41e9ea8f95"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2015",
+   "path": "circulara/bnr/2015/26",
+   "short": "Circulara bnr nr. 26/2015",
+   "title": "Circulara nr. 26/2015 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 iunie-23 iulie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169722",
+   "versions": [
+    {
+     "from": "2015-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169722",
+     "sha256": "7553ffda5931b7e168e3dbab0c7d6e55b118d1dbfd3c82659d3e4310c9bb0045"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2015",
+   "path": "circulara/bnr/2015/28",
+   "short": "Circulara bnr nr. 28/2015",
+   "title": "Circulara nr. 28/2015 privind lansarea în circuitul numismatic a unei monede din argint dedicate împlinirii a 100 de ani de la constituirea Corpului de Aviație Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171276",
+   "versions": [
+    {
+     "from": "2015-09-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171276",
+     "sha256": "663ed02c6580c2b53a10522c57e008e56a6d75b869082033107d2fb234acea30"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2015",
+   "path": "circulara/bnr/2015/29",
+   "short": "Circulara bnr nr. 29/2015",
+   "title": "Circulara nr. 29/2015 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 iulie-23 august 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170672",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170672",
+     "sha256": "1d72380202d1fe347fe64fd86f6dc2331b1ae689cab6dbe0de909e08c3613f03"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2015",
+   "path": "circulara/bnr/2015/3",
+   "short": "Circulara bnr nr. 3/2015",
+   "title": "Circulara nr. 3/2015 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 ianuarie-23 februarie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164866",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164866",
+     "sha256": "89985671ab2acc5610f47d11a14e140a02826174ebf0d339a21189f6ba3ec408"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2015",
+   "path": "circulara/bnr/2015/30",
+   "short": "Circulara bnr nr. 30/2015",
+   "title": "Circulara nr. 30/2015 privind ratele dobânzilor penalizatoare pentru deficitele de rezerve minime obligatorii în valută începând cu perioada de aplicare 24 august-23 septembrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170673",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170673",
+     "sha256": "a83052da2d5ad60b7d2e567630772b095d00129a4838d97409b67da2e9890bc3"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2015",
+   "path": "circulara/bnr/2015/33",
+   "short": "Circulara bnr nr. 33/2015",
+   "title": "Circulara nr. 33/2015 privind lansarea în circuitul numismatic a unei monede din argint dedicate împlinirii a 125 de ani de la nașterea lui Mitiță Constantinescu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172350",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172350",
+     "sha256": "e8f4e779fc9fe60b0757a924ffa58b93aeb33c27c7c1c4827696215a7f0f925a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-2015",
+   "path": "circulara/bnr/2015/35",
+   "short": "Circulara bnr nr. 35/2015",
+   "title": "Circulara nr. 35/2015 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 octombrie-23 noiembrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173223",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173223",
+     "sha256": "cb0b649066a6b693b540b841694f2a541eb77c50c3de2e92f5804e630836e193"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-38-2015",
+   "path": "circulara/bnr/2015/38",
+   "short": "Circulara bnr nr. 38/2015",
+   "title": "Circulara nr. 38/2015 privind lansarea în circuitul numismatic a unei monede din aur cu tema Istoria aurului - Coroana reginei Maria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174551",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174551",
+     "sha256": "64987cb2d9c9f74c7ef1d4f97e445626c81aeaa17c648ae10527731908327f18"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2015",
+   "path": "circulara/bnr/2015/4",
+   "short": "Circulara bnr nr. 4/2015",
+   "title": "Circulara nr. 4/2015 privind ratele dobânzilor penalizatoare pentru deficitele de rezerve minime obligatorii în valută începând cu perioada de aplicare 24 ianuarie-23 februarie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164867",
+   "versions": [
+    {
+     "from": "2015-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164867",
+     "sha256": "fad6a59fe23d5b215de920d47e42386d5806a7527c63078f76d75bab1c8e37a5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2015",
+   "path": "circulara/bnr/2015/5",
+   "short": "Circulara bnr nr. 5/2015",
+   "title": "Circulara nr. 5/2015 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165430",
+   "versions": [
+    {
+     "from": "2015-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165430",
+     "sha256": "9e17244784304e80ab2da8e03f01fabda0c70596f82e6ec2de3c699b04f21c68"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2015",
+   "path": "circulara/bnr/2015/6",
+   "short": "Circulara bnr nr. 6/2015",
+   "title": "Circulara nr. 6/2015 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 ianuarie-23 februarie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165727",
+   "versions": [
+    {
+     "from": "2015-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165727",
+     "sha256": "799c3a8c67c3ef6e9de2a81a231312f392b36b2ad9b9f0ed718e12bb1ef0db3c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2015",
+   "path": "circulara/bnr/2015/7",
+   "short": "Circulara bnr nr. 7/2015",
+   "title": "Circulara nr. 7/2015 privind rata dobânzii penalizatoare pentru deficitul de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 februarie-23 martie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165728",
+   "versions": [
+    {
+     "from": "2015-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165728",
+     "sha256": "6ac369c8d5c8193abaab33854dd14b87cc3d9c93a36faa21b868375cd34f4182"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2015",
+   "path": "circulara/bnr/2015/9",
+   "short": "Circulara bnr nr. 9/2015",
+   "title": "Circulara nr. 9/2015 privind lansarea în circuitul numismatic a unei monede din argint dedicate aniversării a 130 de ani de la nașterea lui Iuliu Hossu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166223",
+   "versions": [
+    {
+     "from": "2015-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166223",
+     "sha256": "9ed909d32f6005dc9720863049d02dcdc1a25e2c4328b2893c6c3acf4404afe1"
+    }
+   ]
+  }
+ ]
+}

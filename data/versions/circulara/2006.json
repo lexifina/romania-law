@@ -153,6 +153,66 @@
    ]
   },
   {
+   "slug": "circulara-bnr-21-2006",
+   "path": "circulara/bnr/2006/21",
+   "short": "Circulara bnr nr. 21/2006",
+   "title": "Circulara nr. 21/2006 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna noiembrie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76578",
+   "versions": [
+    {
+     "from": "2006-11-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76578",
+     "sha256": "d989ec298947a24d86e0a462c9cb0ab59f766baf62e8604f6d44f2c4890e555c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2006",
+   "path": "circulara/bnr/2006/24",
+   "short": "Circulara bnr nr. 24/2006",
+   "title": "Circulara nr. 24/2006 privind încetarea puterii circulatorii și preschimbarea vechilor însemne monetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77626",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77626",
+     "sha256": "4eca7ac6c0e7a90cfb1d91bbc523530ba09bc66b0e86f640ff6cb369c3fdeb18"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2006",
+   "path": "circulara/bnr/2006/25",
+   "short": "Circulara bnr nr. 25/2006",
+   "title": "Circulara nr. 25/2006 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna decembrie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77619",
+   "versions": [
+    {
+     "from": "2006-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77619",
+     "sha256": "994bf26126f340e287ad6d1bec4fa147673b72041bc5fa94bbbfab408183c559"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2006",
+   "path": "circulara/bnr/2006/27",
+   "short": "Circulara bnr nr. 27/2006",
+   "title": "Circulara nr. 27/2006 privind rata dobânzii plătită la rezervele minime obligatorii constituite în valută începând cu perioada de aplicare 24 noiembrie - 23 decembrie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77935",
+   "versions": [
+    {
+     "from": "2006-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77935",
+     "sha256": "fb05474d2ed11a355987c346585e932a11a2303e1b39468bba57fcfde9f24ce0"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-3-2006",
    "path": "circulara/bnr/2006/3",
    "short": "Circulara bnr nr. 3/2006",

@@ -3,6 +3,36 @@
  "shard": "decizie/2014",
  "acts": [
   {
+   "slug": "decizie-ancom-1131-2014",
+   "path": "decizie/ancom/2014/1131",
+   "short": "Decizia ancom nr. 1131/2014",
+   "title": "Decizia nr. 1.131/2014 privind adoptarea Codului de conduită pentru utilizarea numerelor naționale scurte interne și a codurilor scurte SMS/MMS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160900",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160900",
+     "sha256": "5c6136404ecaf521d9eda3e96b55a29881a9b868b82b26fa782d1258db2d4345"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1644-2014",
+   "path": "decizie/ancom/2014/1644",
+   "short": "Decizia ancom nr. 1644/2014",
+   "title": "Decizia nr. 1.644/2014 pentru stabilirea formatului și a modalității de transmitere a informațiilor privind dezvoltarea și localizarea geografică a rețelelor publice de comunicații electronice și a elementelor de infrastructură asociate acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163708",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163708",
+     "sha256": "0912400a246e8e736790faed1c183b660eb0b4f3fd4f48f61dfb065cc9fb1828"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-582-2014",
    "path": "decizie/ancom/2014/582",
    "short": "Decizia ancom nr. 582/2014",
@@ -29,6 +59,606 @@
      "units": 2,
      "source_url": "https://www.ancom.ro/decizie/decizie-nr-64-2014-pentru-modificarea-deciziei-preedintelui-autoritii-naionale-pentru-administrare-i-reglementare-in-comunicaii-nr-551-2012-privind-stabilirea-tar/?link_id=decizie_64_20141395761104.pdf",
      "sha256": "52f4fd8e70a1fa01b5e2b2c1ffd1d8e70a795c5c123472a9ab5771383e2c660e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-852-2014",
+   "path": "decizie/ancom/2014/852",
+   "short": "Decizia ancom nr. 852/2014",
+   "title": "Decizia nr. 852/2014 privind modificarea și completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 551/2012 privind stabilirea tarifului de utilizare a spectrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159137",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159137",
+     "sha256": "774ffaf862e16040a3be63312203341923995a6109ef7893aa90413f69db8501"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-2667-2014",
+   "path": "decizie/anre/2014/2667",
+   "short": "Decizia anre nr. 2667/2014",
+   "title": "Decizia nr. 2.667/2014 pentru aprobarea Contractului-cadru de vânzare/cumpărare a energiei electrice tranzacționate pe piața centralizată pentru serviciul universal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162435",
+   "versions": [
+    {
+     "from": "2014-10-24",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162435",
+     "sha256": "dcd74a256a6da0ba4d3be7450b23634f6abbe40e6b7c81dfefd33f75c32051f5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1202-2014",
+   "path": "decizie/asf/2014/1202",
+   "short": "Decizia asf nr. 1202/2014",
+   "title": "Decizia nr. 1.202/2014 privind autorizarea funcționării ca broker de asigurare a Societății POȘTA ROMÂNĂ BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161391",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161391",
+     "sha256": "eed2e67cce96392db3e1aec34907309e5100ebcf2217ebe9e598d51af9e31d2f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1231-2014",
+   "path": "decizie/asf/2014/1231",
+   "short": "Decizia asf nr. 1231/2014",
+   "title": "Decizia nr. 1.231/2014 privind autorizarea funcționării ca broker de asigurare a Societății PRO MUNDO BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161446",
+   "versions": [
+    {
+     "from": "2014-09-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161446",
+     "sha256": "c998bcb837ffe2c1c6c6c0b2695dd01a9ae2daf5a3dec63508ed9c6b9ab21eef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1306-2014",
+   "path": "decizie/asf/2014/1306",
+   "short": "Decizia asf nr. 1306/2014",
+   "title": "Decizia nr. 1.306/2014 privind autorizarea funcționării ca broker de asigurare a Societății VITAL BROKER DE ASIGURARE ȘI REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161715",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161715",
+     "sha256": "14029d1a000a61763ab3b7b80756597733ed82a19983012b3e988ca59cbd6beb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1309-2014",
+   "path": "decizie/asf/2014/1309",
+   "short": "Decizia asf nr. 1309/2014",
+   "title": "Decizia nr. 1.309/2014 privind sancționarea cu retragerea autorizației de funcționare a Societății NETRISK BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161881",
+   "versions": [
+    {
+     "from": "2014-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161881",
+     "sha256": "53da4e7518194e02428b31fdf18218c5e02abd5e291b7e25f6819dae518a1510"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1310-2014",
+   "path": "decizie/asf/2014/1310",
+   "short": "Decizia asf nr. 1310/2014",
+   "title": "Decizia nr. 1.310/2014 privind sancționarea Societății FABIS BROKER DE ASIGURARE REASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161882",
+   "versions": [
+    {
+     "from": "2014-10-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161882",
+     "sha256": "15f1527b56fa2b156f59ac9204d0d30ef8c2045fb0796a3f6d3f0f7353dbad54"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1435-2014",
+   "path": "decizie/asf/2014/1435",
+   "short": "Decizia asf nr. 1435/2014",
+   "title": "Decizia nr. 1.435/2014 privind autorizarea funcționării ca broker de asigurare a Societății BROKMAR-BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162027",
+   "versions": [
+    {
+     "from": "2014-10-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162027",
+     "sha256": "f35669e1eb25c24526cae0cf57de429723f988268d4731bc1d09d14eea7fe60d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-146-2014",
+   "path": "decizie/asf/2014/146",
+   "short": "Decizia asf nr. 146/2014",
+   "title": "Decizia nr. 146/2014 privind sancționarea Societății NELBA BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157781",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157781",
+     "sha256": "7eba6c5790fc677b58e94ee7a3c5089c27f29d0cddc4c530f71335ceab991043"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1502-2014",
+   "path": "decizie/asf/2014/1502",
+   "short": "Decizia asf nr. 1502/2014",
+   "title": "Decizia nr. 1.502/2014 privind sancționarea Societății DECON INSURANCE BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162495",
+   "versions": [
+    {
+     "from": "2014-10-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162495",
+     "sha256": "dda4b14871eeeb4177950f2516c1093f8d57bbd9f51fda98cf9f92fd565bc849"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1515-2014",
+   "path": "decizie/asf/2014/1515",
+   "short": "Decizia asf nr. 1515/2014",
+   "title": "Decizia nr. 1.515/2014 privind sancționarea Societății C.ADVICE BROKER DE ASIGURARE-REASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162496",
+   "versions": [
+    {
+     "from": "2014-10-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162496",
+     "sha256": "0006d865a4c4ad8191fae2d615ace8787f9fcb9c08db09b05f4aaa12fc62a3b7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-164-2014",
+   "path": "decizie/asf/2014/164",
+   "short": "Decizia asf nr. 164/2014",
+   "title": "Decizia nr. 164/2014 privind sancționarea Societății CROWN PARTNERS BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158451",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158451",
+     "sha256": "2000e973ad77847964010392db3669e881eb562e9625566025d65ecac43fa0d9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-165-2014",
+   "path": "decizie/asf/2014/165",
+   "short": "Decizia asf nr. 165/2014",
+   "title": "Decizia nr. 165/2014 privind sancționarea Societății CAVI - BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158330",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158330",
+     "sha256": "9cd7d35babbd361c54e9ef259f91fa1f4ebfd9f1783d6b97cb71c6f969f1ecc0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-168-2014",
+   "path": "decizie/asf/2014/168",
+   "short": "Decizia asf nr. 168/2014",
+   "title": "Decizia nr. 168/2014 privind sancționarea Societății PEIA GROUP BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158314",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158314",
+     "sha256": "fa17b19e2300d66d0bed398ace6d4499ddbc56f6038521f5b79c9c305a6cf26b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-170-2014",
+   "path": "decizie/asf/2014/170",
+   "short": "Decizia asf nr. 170/2014",
+   "title": "Decizia nr. 170/2014 privind sancționarea Societății SALES GROUP BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158312",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158312",
+     "sha256": "8fafe219e0b67633808d7cb8853d32a95894fa04dfa0206f9bb60bb68b2e7056"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1706-2014",
+   "path": "decizie/asf/2014/1706",
+   "short": "Decizia asf nr. 1706/2014",
+   "title": "Decizia nr. 1.706/2014 privind aprobarea cererii de suspendare a activității Societății FERDINAND ASIGURĂRI - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163122",
+   "versions": [
+    {
+     "from": "2014-11-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163122",
+     "sha256": "0a51d74daa7fbddd579f5ae2e2079ae1b2d85f76b6830be723fa78f9f02792a5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-171-2014",
+   "path": "decizie/asf/2014/171",
+   "short": "Decizia asf nr. 171/2014",
+   "title": "Decizia nr. 171/2014 privind sancționarea Societății ONEST ASIG BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158331",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158331",
+     "sha256": "0af3aac32809158ed9a7abb69105a4e4dfacf1f92e355c1eaddd72bf5582e391"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-174-2014",
+   "path": "decizie/asf/2014/174",
+   "short": "Decizia asf nr. 174/2014",
+   "title": "Decizia nr. 174/2014 privind sancționarea Societății BROKER ASIG - BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158349",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158349",
+     "sha256": "94786c6508749ab08ed43368c5fa199254e44828756135c86c5c8e2673f9aeec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-175-2014",
+   "path": "decizie/asf/2014/175",
+   "short": "Decizia asf nr. 175/2014",
+   "title": "Decizia nr. 175/2014 privind sancționarea Societății SERVBROK BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158333",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158333",
+     "sha256": "c5d7269d1dd81f2cee4913f326bd38e4e927a2d3649a7dc7e7c7cab2d1e46623"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-176-2014",
+   "path": "decizie/asf/2014/176",
+   "short": "Decizia asf nr. 176/2014",
+   "title": "Decizia nr. 176/2014 privind sancționarea Societății DANUBIUS INSURANCE BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158337",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158337",
+     "sha256": "88f7d02f94b8df0b4f50948d639b72de66305210396ceed01b08dc3b6984a68c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1761-2014",
+   "path": "decizie/asf/2014/1761",
+   "short": "Decizia asf nr. 1761/2014",
+   "title": "Decizia nr. 1.761/2014 privind autorizarea funcționării ca broker de asigurare a Societății B&amp;M BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163479",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163479",
+     "sha256": "ddc780034c1bfdedbe901b4c5f9c987442cbdcbf9848529430310d31d49e7b89"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1837-2014",
+   "path": "decizie/asf/2014/1837",
+   "short": "Decizia asf nr. 1837/2014",
+   "title": "Decizia nr. 1.837/2014 privind aprobarea cererii de retragere a autorizației de funcționare a Societății FINANCE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163705",
+   "versions": [
+    {
+     "from": "2014-12-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163705",
+     "sha256": "651d86c78894e2e9cd04fa4d191bf3dbf578038a22c251ee36037ba46b2f7bd6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1838-2014",
+   "path": "decizie/asf/2014/1838",
+   "short": "Decizia asf nr. 1838/2014",
+   "title": "Decizia nr. 1.838/2014 privind sancționarea cu retragerea autorizației de funcționare a Societății AGORA GROUP - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163707",
+   "versions": [
+    {
+     "from": "2014-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163707",
+     "sha256": "446c7568ce5df292f73ea2a60e6fe9204f4b66b66b503e209266f908d12c62f1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1942-2014",
+   "path": "decizie/asf/2014/1942",
+   "short": "Decizia asf nr. 1942/2014",
+   "title": "Decizia nr. 1.942/2014 privind autorizarea funcționării ca broker de asigurare a Societății IRIS AG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163806",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163806",
+     "sha256": "a0dc5e42f96f7f09a29c0b4b46a0dc466e20184f59e67a5d6e90b7fd82f9f8f6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1945-2014",
+   "path": "decizie/asf/2014/1945",
+   "short": "Decizia asf nr. 1945/2014",
+   "title": "Decizia nr. 1.945/2014 privind aprobarea cererii de suspendare a activității Societății LORD BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164270",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164270",
+     "sha256": "de53211cc09b3098b198e282e185db9e8dfcc2608c1e2e3249493a21c8932ea3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1947-2014",
+   "path": "decizie/asf/2014/1947",
+   "short": "Decizia asf nr. 1947/2014",
+   "title": "Decizia nr. 1.947/2014 privind aprobarea cererii de suspendare a activității Societății FIRST CAR BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164271",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164271",
+     "sha256": "e35f018653511ad0f505568588eab11e4d3563ac0fab710b17aefd9aa534e498"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1948-2014",
+   "path": "decizie/asf/2014/1948",
+   "short": "Decizia asf nr. 1948/2014",
+   "title": "Decizia nr. 1.948/2014 privind aprobarea cererii de retragere a autorizației Societății DEIA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164274",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164274",
+     "sha256": "26846713199aa057d8fd29290a87be658c51222ecffe1e2cbf8bfdf4ed140566"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2227-2014",
+   "path": "decizie/asf/2014/2227",
+   "short": "Decizia asf nr. 2227/2014",
+   "title": "Decizia nr. 2.227/2014 privind sancționarea Societății CRUCIATII BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164608",
+   "versions": [
+    {
+     "from": "2015-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164608",
+     "sha256": "27f3384467647755a8bb2be0ddd4936000f7259d7f26e2ddf02208fefa490969"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-438-2014",
+   "path": "decizie/asf/2014/438",
+   "short": "Decizia asf nr. 438/2014",
+   "title": "Decizia nr. 438/2014 privind autorizarea funcționării ca broker de asigurare a Societății TUTTI BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158960",
+   "versions": [
+    {
+     "from": "2014-06-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158960",
+     "sha256": "63a3cd491df926d9c592bf9e016e0a2d2ed3a161aec751fb18922288a2c0c91b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-480-2014",
+   "path": "decizie/asf/2014/480",
+   "short": "Decizia asf nr. 480/2014",
+   "title": "Decizia nr. 480/2014 privind sancționarea Societății ROMTIR SERVICE BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159228",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159228",
+     "sha256": "afd56a187190d35dcf64444540925e274bcab3336352092953cec2f8fccc7e96"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-483-2014",
+   "path": "decizie/asf/2014/483",
+   "short": "Decizia asf nr. 483/2014",
+   "title": "Decizia nr. 483/2014 privind sancționarea Societății ARTIMM GENERAL ASIG BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159080",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159080",
+     "sha256": "8a69d8c27bc91e06367fa7ca40f011f46cfba569fa13919a612cb85a84039a52"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-555-2014",
+   "path": "decizie/asf/2014/555",
+   "short": "Decizia asf nr. 555/2014",
+   "title": "Decizia nr. 555/2014 privind sancționarea Societății BROKER DE ASIGURARE CAR ASIG - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159264",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159264",
+     "sha256": "3c53ba70df3ecdbc36ef8fd21a456b7c83b866731a462a3f00cf0c61002a65b1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-575-2014",
+   "path": "decizie/asf/2014/575",
+   "short": "Decizia asf nr. 575/2014",
+   "title": "Decizia nr. 575/2014 privind autorizarea funcționării ca broker de asigurare a Societății VSC INSURANCE BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159383",
+   "versions": [
+    {
+     "from": "2014-06-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159383",
+     "sha256": "7a77ab5a1591bfedd62d437f62b0454dc1c3879d9fe5684ad0fdfd158b530df5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-676-2014",
+   "path": "decizie/asf/2014/676",
+   "short": "Decizia asf nr. 676/2014",
+   "title": "Decizia nr. 676/2014 privind autorizarea funcționării ca broker de asigurare a Societății NETGROUP INSURANCE REINSURANCE BROKER - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159612",
+   "versions": [
+    {
+     "from": "2014-07-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159612",
+     "sha256": "c0758cbd3ccf937ec0fcc2859f6e452dd0d3ba144e53d40a0bff8d5b7e5607ba"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-693-2014",
+   "path": "decizie/asf/2014/693",
+   "short": "Decizia asf nr. 693/2014",
+   "title": "Decizia nr. 693/2014 privind autorizarea funcționării ca broker de asigurare a Societății ADLER BROKER ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159775",
+   "versions": [
+    {
+     "from": "2014-07-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159775",
+     "sha256": "1d65b4d72e1c4c16386704d618175067476d43bcc64503c767a415604ecc5449"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-743-2014",
+   "path": "decizie/asf/2014/743",
+   "short": "Decizia asf nr. 743/2014",
+   "title": "Decizia nr. 743/2014 privind autorizarea funcționării ca broker de asigurare a Societății ALEDA BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160019",
+   "versions": [
+    {
+     "from": "2014-07-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160019",
+     "sha256": "dd5136b0f6de22720d47bec7633843ea6388ec93a7f076732d083e3133ba9b01"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-800-2014",
+   "path": "decizie/asf/2014/800",
+   "short": "Decizia asf nr. 800/2014",
+   "title": "Decizia nr. 800/2014 privind aprobarea cererii de retragere a autorizației Societății MKB ROMEXTERRA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160320",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160320",
+     "sha256": "ba1051266a84267da27a4bb42c6701ff64a1765345ed259c0a63e42572bd9d48"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-802-2014",
+   "path": "decizie/asf/2014/802",
+   "short": "Decizia asf nr. 802/2014",
+   "title": "Decizia nr. 802/2014 privind sancționarea Societății INTERLAND BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160321",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160321",
+     "sha256": "0d2dd1c786ef483e9ddd1aeeb22607ed79b166a4a4bbd6e1e9667060d16b1b01"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-864-2014",
+   "path": "decizie/asf/2014/864",
+   "short": "Decizia asf nr. 864/2014",
+   "title": "Decizia nr. 864/2014 privind transferul integral al portofoliului de asigurări de viață de la Societatea EUREKO ASIGURĂRI - S.A. către sucursala din România a Societății AEGON Towarzystwo Ubezpieczen na Zycie - S.A., Polonia, transferul activelor rămase de la activitatea de asigurări de viață la activitatea de asigurări generale și retragerea autorizației de funcționare pentru asigur",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160496",
+   "versions": [
+    {
+     "from": "2014-08-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160496",
+     "sha256": "c48800c298f078746420f5d38465e8c0f4faf6987ab511db8e8605dba2bfd84e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-528-2014",
+   "path": "decizie/cna/2014/528",
+   "short": "Decizia cna nr. 528/2014",
+   "title": "Decizia nr. 528/2014 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea Președintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161322",
+   "versions": [
+    {
+     "from": "2014-09-15",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161322",
+     "sha256": "bd9dffab9d0f962e37699a0a5a51feaa5d2efb2c65f4cc3d42e962ac694b887e"
     }
    ]
   }

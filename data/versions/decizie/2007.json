@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "decizie-ancom-2895-2007",
+   "path": "decizie/ancom/2007/2895",
+   "short": "Decizia ancom nr. 2895/2007",
+   "title": "Decizia nr. 2.895/2007 privind Planul național de numerotație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85046",
+   "versions": [
+    {
+     "from": "2007-09-07",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85046",
+     "sha256": "6e2ebff3d3c33fd6f03ad23561655fe2391f2c2ee4bf78917ec7e5175549f3a5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-2896-2007",
+   "path": "decizie/ancom/2007/2896",
+   "short": "Decizia ancom nr. 2896/2007",
+   "title": "Decizia nr. 2.896/2007 privind procedura de solicitare și emitere a licențelor de utilizare a resurselor de numerotație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85061",
+   "versions": [
+    {
+     "from": "2007-09-04",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85061",
+     "sha256": "26c62c6ce44a37b4e6e5e673b73edbc37d12fdb45c99c0dc16878272589af6e5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-2897-2007",
+   "path": "decizie/ancom/2007/2897",
+   "short": "Decizia ancom nr. 2897/2007",
+   "title": "Decizia nr. 2.897/2007 privind stabilirea și încasarea tarifelor de utilizare a resurselor de numerotație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85049",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85049",
+     "sha256": "d5e7d527b70e8a8a629ca9352cdd44f4035afa7581e3810831e21f31a11dde3e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-3096-2007",
    "path": "decizie/ancom/2007/3096",
    "short": "Decizia ancom nr. 3096/2007",
@@ -104,6 +149,1146 @@
      "units": 1,
      "source_url": "https://www.ancom.ro/decizie/decizia-nr-3443-2007-pentru-modificarea-si-completarea-deciziei-presedintelui-autoritatii-nationale-de-reglementare-in-comunicatii-nr-144-en-2006-privind-implementarea-portabilitatii-numerelor/?link_id=92948066_decizie_3443_mod_dec144_2006_portabilitate_Mof.pdf",
      "sha256": "06be3cc9c7fdd0f65cbb7945c4298943cc78b1cb855d27bbac2f0b806eadb0eb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-3444-2007",
+   "path": "decizie/ancom/2007/3444",
+   "short": "Decizia ancom nr. 3444/2007",
+   "title": "Decizia nr. 3.444/2007 privind adoptarea Condițiilor tehnice și comerciale de implementare a portabilității numerelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88915",
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88915",
+     "sha256": "39b2a5eb625f70f3ce80a2375414dd639988b6c6643db26db42106f1870d872f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-183-2007",
+   "path": "decizie/anrgn/2007/183",
+   "short": "Decizia anrgn nr. 183/2007",
+   "title": "Decizia nr. 183/2007 privind aprobarea Metodologiei de monitorizare a pieței interne a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80856",
+   "versions": [
+    {
+     "from": "2007-04-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80856",
+     "sha256": "b951327c27eadf8251b397cb352cb7788489638f1072ca9d5ec0597e7bd542fd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-184-2007",
+   "path": "decizie/anrgn/2007/184",
+   "short": "Decizia anrgn nr. 184/2007",
+   "title": "Decizia nr. 184/2007 privind aprobarea Metodologiei pentru raportarea datelor referitoare la consumatorii industriali de gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80447",
+   "versions": [
+    {
+     "from": "2007-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80447",
+     "sha256": "aa7e4980ee35a50a843ce071e9eddd6ef844ec4da0fb5d4262027969dcf3e30f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anrgn-186-2007",
+   "path": "decizie/anrgn/2007/186",
+   "short": "Decizia anrgn nr. 186/2007",
+   "title": "Decizia nr. 186/2007 pentru modificarea prevederilor art. 7.32 din Regulamentul de măsurare a cantităților de gaze naturale tranzacționate pe piața angro",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81169",
+   "versions": [
+    {
+     "from": "2007-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81169",
+     "sha256": "8404384c71716d0e6d243a195e0d2d08536439817f927d670a6018b9c7f13ea2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-1105-2007",
+   "path": "decizie/cna/2007/1105",
+   "short": "Decizia cna nr. 1105/2007",
+   "title": "Decizia nr. 1.105/2007 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 187/2006 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88345",
+   "versions": [
+    {
+     "from": "2008-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88345",
+     "sha256": "42e6c08207492f3995b7226197bb5dd166f078ecf4aab86111ba1d96d3dbc71f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-12-2007",
+   "path": "decizie/cna/2007/12",
+   "short": "Decizia cna nr. 12/2007",
+   "title": "Decizia nr. 12/2007 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 401/2006 privind difuzarea programelor locale de radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78696",
+   "versions": [
+    {
+     "from": "2007-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78696",
+     "sha256": "e061df421e088004e3402ac98d1ad7a403509396183967acd7d8cbab68e0102d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-194-2007",
+   "path": "decizie/cna/2007/194",
+   "short": "Decizia cna nr. 194/2007",
+   "title": "Decizia nr. 194/2007 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 187/2006 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79943",
+   "versions": [
+    {
+     "from": "2007-04-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79943",
+     "sha256": "daf04d02895a608a480cb8580e910de2415cf3d3eca9cdde019040b5518aadbd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-369-2007",
+   "path": "decizie/cna/2007/369",
+   "short": "Decizia cna nr. 369/2007",
+   "title": "Decizia nr. 369/2007 pentru reflectarea pe posturile de radio și de televiziune a referendumului privind demiterea Președintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81384",
+   "versions": [
+    {
+     "from": "2007-04-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81384",
+     "sha256": "5c9028668c6185e0f4f20358fb90124142bfc9069d5c1b710f75e1101e45da57"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-516-2007",
+   "path": "decizie/cna/2007/516",
+   "short": "Decizia cna nr. 516/2007",
+   "title": "Decizia nr. 516/2007 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 187/2006 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83009",
+   "versions": [
+    {
+     "from": "2007-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83009",
+     "sha256": "4074fa2d80e4b5f5aca137cbbc2aa7f70a14c341be2b1d5816e0df65d7a395d2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-761-2007",
+   "path": "decizie/cna/2007/761",
+   "short": "Decizia cna nr. 761/2007",
+   "title": "Decizia nr. 761/2007 privind activitatea de control",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85409",
+   "versions": [
+    {
+     "from": "2007-09-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85409",
+     "sha256": "3d4196a35731469102c3b2d9c90a6388d7902cdab6f9ce4b047751bc63ebb83c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-762-2007",
+   "path": "decizie/cna/2007/762",
+   "short": "Decizia cna nr. 762/2007",
+   "title": "Decizia nr. 762/2007 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 187/2006 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85490",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85490",
+     "sha256": "02da206a8458fc9f8421cb3a949dd63c2d880c82fe2b784c510ff51868964b29"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-897-2007",
+   "path": "decizie/cna/2007/897",
+   "short": "Decizia cna nr. 897/2007",
+   "title": "Decizia nr. 897/2007 privind reflectarea pe posturile de radio și de televiziune a referendumului pentru adoptarea votului uninominal la alegerile parlamentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86420",
+   "versions": [
+    {
+     "from": "2007-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86420",
+     "sha256": "805973bbdbd6c36ae7df16dccdaca8368d9e475e708dcc7b1c6d178245bf3305"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1005-2007",
+   "path": "decizie/csa/2007/1005",
+   "short": "Decizia csa nr. 1005/2007",
+   "title": "Decizia nr. 1.005/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ADRIASIG BROKER DE ASIGURARE\"- S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87667",
+   "versions": [
+    {
+     "from": "2007-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87667",
+     "sha256": "55d8b5845580d8269efe42ae511675b581f567ad6315b7d1b0285d3ae924d12a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1014-2007",
+   "path": "decizie/csa/2007/1014",
+   "short": "Decizia csa nr. 1014/2007",
+   "title": "Decizia nr. 1.014/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"IBC EXPERT - BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87668",
+   "versions": [
+    {
+     "from": "2007-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87668",
+     "sha256": "4dee48dd2cf7d90f43285fd4e7b7d6ab029bc072c0501d7fb4994820109a06a3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-102-2007",
+   "path": "decizie/csa/2007/102",
+   "short": "Decizia csa nr. 102/2007",
+   "title": "Decizia nr. 102/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ASIRAN BROKER DE ASIGURĂRI ȘI REASIGURĂRI\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80125",
+   "versions": [
+    {
+     "from": "2007-03-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80125",
+     "sha256": "242c0168cbbf81220f629121adce91c3fdb7781474ffa4b56f443c47cc8d54af"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1023-2007",
+   "path": "decizie/csa/2007/1023",
+   "short": "Decizia csa nr. 1023/2007",
+   "title": "Decizia nr. 1.023/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"IDS BROKER DE ASIGURARE - REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87802",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87802",
+     "sha256": "3ba96035a4b778e8a78f098f4a2da4ab5579bda526687103105f5f631ef1c546"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1050-2007",
+   "path": "decizie/csa/2007/1050",
+   "short": "Decizia csa nr. 1050/2007",
+   "title": "Decizia nr. 1.050/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ALLEANZA BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88194",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88194",
+     "sha256": "7f3dbe9a02a8bc0ff60750df0129bd654390ae7a3f660cf86906cb1711466367"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1051-2007",
+   "path": "decizie/csa/2007/1051",
+   "short": "Decizia csa nr. 1051/2007",
+   "title": "Decizia nr. 1.051/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"INTERMED ASIG BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88195",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88195",
+     "sha256": "2b39b07cf5aa7e22267d51d75fe82ff5f600916e7330c312f03bdd4286f9e8bd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1052-2007",
+   "path": "decizie/csa/2007/1052",
+   "short": "Decizia csa nr. 1052/2007",
+   "title": "Decizia nr. 1.052/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"GENERAL ASIG CONSULTING - BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88196",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88196",
+     "sha256": "f2f0f640b6ba97e8f37d48bd2275840d11392480ac69851c24ae7515be1665ec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1069-2007",
+   "path": "decizie/csa/2007/1069",
+   "short": "Decizia csa nr. 1069/2007",
+   "title": "Decizia nr. 1.069/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"5MM BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88187",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88187",
+     "sha256": "766c61d9155eaf2ad47c9033e1aded07252dff5cf1827906230ea3cf8159db80"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1070-2007",
+   "path": "decizie/csa/2007/1070",
+   "short": "Decizia csa nr. 1070/2007",
+   "title": "Decizia nr. 1.070/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ALL INSURANCE (BROKER DE ASIGURARE)\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88188",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88188",
+     "sha256": "1688f18993ad264ae74f5ca08882f00066d5867f447a42260ad430f6b8ca9250"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-124-2007",
+   "path": "decizie/csa/2007/124",
+   "short": "Decizia csa nr. 124/2007",
+   "title": "Decizia nr. 124/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"EUL BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80510",
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80510",
+     "sha256": "bf90e1b974adf2e8a58314ed099556c84cc8ef8512d0dfc7c32001735faf15dd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-129-2007",
+   "path": "decizie/csa/2007/129",
+   "short": "Decizia csa nr. 129/2007",
+   "title": "Decizia nr. 129/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"RIVERA BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80511",
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80511",
+     "sha256": "cadd476bbb5a630240af61505eb18ca442b7b3051887486f522868f3b3007b8f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-13-2007",
+   "path": "decizie/csa/2007/13",
+   "short": "Decizia csa nr. 13/2007",
+   "title": "Decizia nr. 13/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"MENAG BROKER DE ASIGURARE-REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79282",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79282",
+     "sha256": "e40c50d9fdedf72107f749e7390de17cda6a4e48713a9cb01f8a67d29c79e5ad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-132-2007",
+   "path": "decizie/csa/2007/132",
+   "short": "Decizia csa nr. 132/2007",
+   "title": "Decizia nr. 132/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"IONASIG BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80512",
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80512",
+     "sha256": "8a2fa4eae826040f978a7016fbcbfe6c8453d4de7955f9ba859658326e68dc7a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-169-2007",
+   "path": "decizie/csa/2007/169",
+   "short": "Decizia csa nr. 169/2007",
+   "title": "Decizia nr. 169/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"REAL EXPERT BROKER DE ASIGURARE REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81168",
+   "versions": [
+    {
+     "from": "2007-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81168",
+     "sha256": "147d386c9871ec2dd1711bee53508d2369b18cdba16a717a8409ba2a20cfe8d0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-175-2007",
+   "path": "decizie/csa/2007/175",
+   "short": "Decizia csa nr. 175/2007",
+   "title": "Decizia nr. 175/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"FIRST INSURANCE - BROKER DE ASIGURARE\" S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81202",
+   "versions": [
+    {
+     "from": "2007-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81202",
+     "sha256": "33244eb4e3ea13e34317f22e207c0dd90d6e8d162d7c125161032a73558aba9b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-176-2007",
+   "path": "decizie/csa/2007/176",
+   "short": "Decizia csa nr. 176/2007",
+   "title": "Decizia nr. 176/2007 privind aprobarea procesului de fuziune prin absorbție încheiat între Societatea Comercială GARANTA ASIGURĂRI - S.A., și Societatea Comercială \"NBG Asigurări\" - S.A.,",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81440",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81440",
+     "sha256": "13d6717a40adbb9e2ae1f4840572497f1084ddb4e6e2d13b96ed82328a3b621c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-177-2007",
+   "path": "decizie/csa/2007/177",
+   "short": "Decizia csa nr. 177/2007",
+   "title": "Decizia nr. 177/2007 privind aprobarea procesului de fuziune prin absorbție încheiat între Societatea Comercială GARANTA ASIGURĂRI - S.A., și Societatea Comercială \"NBG Asigurări\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81441",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81441",
+     "sha256": "ff7f67845fe5dc89c21bd441a4c86730d72ffd63723db97a2c7256255596486a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-179-2007",
+   "path": "decizie/csa/2007/179",
+   "short": "Decizia csa nr. 179/2007",
+   "title": "Decizia nr. 179/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ASILIFE INSURANCE BROKER\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81276",
+   "versions": [
+    {
+     "from": "2007-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81276",
+     "sha256": "7e03f7dafe8dde7d783abf492e19ba298d97487cb34d27f46c1f4e2a9c8c7ba2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-242-2007",
+   "path": "decizie/csa/2007/242",
+   "short": "Decizia csa nr. 242/2007",
+   "title": "Decizia nr. 242/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"TAKTIQ - BROKER DE ASIGURARE-REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81334",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81334",
+     "sha256": "283ff02b52d7b8e762a78e1eaec30166aeeade7ea37791ac54007f8ff5ee59eb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-246-2007",
+   "path": "decizie/csa/2007/246",
+   "short": "Decizia csa nr. 246/2007",
+   "title": "Decizia nr. 246/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"SOTER FINANCE - BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81335",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81335",
+     "sha256": "81aabca0f534dd31dd4e673d0b2322107afcf309d2c45d8d7fba8821eae67583"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-265-2007",
+   "path": "decizie/csa/2007/265",
+   "short": "Decizia csa nr. 265/2007",
+   "title": "Decizia nr. 265/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"COVER BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81609",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81609",
+     "sha256": "769baea8bfa606e158d47689cf4043fd2355cbab6dc172b9c376c9f145a8e85f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-332-2007",
+   "path": "decizie/csa/2007/332",
+   "short": "Decizia csa nr. 332/2007",
+   "title": "Decizia nr. 332/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"B&amp;P COMPANY BROKER DE ASIGURARE-REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82404",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82404",
+     "sha256": "dbbb950cd4dab928b8fe00ea1472deb32fe9077f73b8fa83ef65db3baed76509"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-333-2007",
+   "path": "decizie/csa/2007/333",
+   "short": "Decizia csa nr. 333/2007",
+   "title": "Decizia nr. 333/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"STELLAR RE EUROPA BROKER DE ASIGURARE ȘI REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82410",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82410",
+     "sha256": "29f4c637c34b8d55cf5dc13f02a753cb269c2b9ff00c569e207385f7d9be8768"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-341-2007",
+   "path": "decizie/csa/2007/341",
+   "short": "Decizia csa nr. 341/2007",
+   "title": "Decizia nr. 341/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"FIDELITY BROKER DE ASIGURARE REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82565",
+   "versions": [
+    {
+     "from": "2007-06-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82565",
+     "sha256": "b555f093a8db0c133cbe96ad744304e9c6311dc95c26c35af958a2dffaf6dc31"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-343-2007",
+   "path": "decizie/csa/2007/343",
+   "short": "Decizia csa nr. 343/2007",
+   "title": "Decizia nr. 343/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"IVAS BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82566",
+   "versions": [
+    {
+     "from": "2007-06-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82566",
+     "sha256": "9eb359b5688987d043114e9c27231ccbaf2d888bcf2fdddf9adf1e91128142c5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-389-2007",
+   "path": "decizie/csa/2007/389",
+   "short": "Decizia csa nr. 389/2007",
+   "title": "Decizia nr. 389/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"BANAT FIM INSURANCE - BROKER DE ASIGURARE ȘI REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83154",
+   "versions": [
+    {
+     "from": "2007-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83154",
+     "sha256": "28e198a17922158f13cf316698dfe381050a97cbb73916d5ca4fb5f3c5272673"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-395-2007",
+   "path": "decizie/csa/2007/395",
+   "short": "Decizia csa nr. 395/2007",
+   "title": "Decizia nr. 395/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"FINCOP BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83155",
+   "versions": [
+    {
+     "from": "2007-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83155",
+     "sha256": "8776dd100d7a8c73fc9c1602f0c5b8d6f135c10469b282160ea19a749bb4dac1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-414-2007",
+   "path": "decizie/csa/2007/414",
+   "short": "Decizia csa nr. 414/2007",
+   "title": "Decizia nr. 414/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"GAMMA - ASIG BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83272",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83272",
+     "sha256": "d7ac3e52eacb7683d37cf12629a5bc50002364ea20d102995342a89fbc9adeaf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-417-2007",
+   "path": "decizie/csa/2007/417",
+   "short": "Decizia csa nr. 417/2007",
+   "title": "Decizia nr. 417/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"BUCOVINA ASIG - BROKER DE ASIGURARE\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83273",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83273",
+     "sha256": "98d00cb29c4b4870c5cf8d623270469df52ce2fe094ac2dc74da201b391e2c2b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-425-2007",
+   "path": "decizie/csa/2007/425",
+   "short": "Decizia csa nr. 425/2007",
+   "title": "Decizia nr. 425/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"CREDO INSURANCE BROKER\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83971",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83971",
+     "sha256": "181712ae6b15590b15f78efc2af5b5d6f424fcbf26885c9bdf5cbff8bfe62af7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-427-2007",
+   "path": "decizie/csa/2007/427",
+   "short": "Decizia csa nr. 427/2007",
+   "title": "Decizia nr. 427/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"SIGMA BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83972",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83972",
+     "sha256": "d61ce130b7ec1efe9510068a6213ac0a6eb0e4af86d962e709bd24ee1cfb2260"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-4301-2007",
+   "path": "decizie/csa/2007/4301",
+   "short": "Decizia csa nr. 4301/2007",
+   "title": "Decizia nr. 4.301/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"PREMIUM-BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79091",
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79091",
+     "sha256": "fb80b8502fe4d2d3e56151877b6a4b661ca2661d80be7b2be12251f69024f1be"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-4302-2007",
+   "path": "decizie/csa/2007/4302",
+   "short": "Decizia csa nr. 4302/2007",
+   "title": "Decizia nr. 4.302/2007 privind autorizarea funcționarii ca broker de asigurare a Societății Comerciale \"ASIGRUP BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79093",
+   "versions": [
+    {
+     "from": "2007-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79093",
+     "sha256": "764beb05ec29366b0ebf552d7c7ccbda1dd8dd4a034a050aca01730b7fd2ba35"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-474-2007",
+   "path": "decizie/csa/2007/474",
+   "short": "Decizia csa nr. 474/2007",
+   "title": "Decizia nr. 474/2007 privind autorizarea funcționării ca societate de asigurare a Societății Comerciale \"FIBA ASIGURĂRI\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84404",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84404",
+     "sha256": "e1d30e61c3c50b7e0497c11d2fa706cd96c008469609f4f3ba6a4d02b0c951d7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-496-2007",
+   "path": "decizie/csa/2007/496",
+   "short": "Decizia csa nr. 496/2007",
+   "title": "Decizia nr. 496/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"FABIS BROKER DE ASIGURARE REASIGURARE \" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84405",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84405",
+     "sha256": "9bb099b21e0d8f80ecd07bf5b6813d28c8fde67891268a2541b8c0ef2745aefb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-510-2007",
+   "path": "decizie/csa/2007/510",
+   "short": "Decizia csa nr. 510/2007",
+   "title": "Decizia nr. 510/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Model Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84255",
+   "versions": [
+    {
+     "from": "2007-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84255",
+     "sha256": "645030b2d1a83da8979417d730cb8d5191bd296b111deb3f8383707e3413047a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-514-2007",
+   "path": "decizie/csa/2007/514",
+   "short": "Decizia csa nr. 514/2007",
+   "title": "Decizia nr. 514/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"D&amp;CA Insurance Broker\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84256",
+   "versions": [
+    {
+     "from": "2007-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84256",
+     "sha256": "7656ccedd1efd62526b73bd6ce582ab1b1f635c46cedc7995c665f70314bede6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-518-2007",
+   "path": "decizie/csa/2007/518",
+   "short": "Decizia csa nr. 518/2007",
+   "title": "Decizia nr. 518/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"UBI Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84257",
+   "versions": [
+    {
+     "from": "2007-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84257",
+     "sha256": "1e863e0d05da41ff17cd02caada1dfa21674eba21df76f2065939432672a2329"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-533-2007",
+   "path": "decizie/csa/2007/533",
+   "short": "Decizia csa nr. 533/2007",
+   "title": "Decizia nr. 533/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"UNIVERSAL INSURANCE BROKER\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84662",
+   "versions": [
+    {
+     "from": "2007-08-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84662",
+     "sha256": "304760149e29efa5d297105dba11f40f210f3eb612f1440502ef720de173eb89"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-548-2007",
+   "path": "decizie/csa/2007/548",
+   "short": "Decizia csa nr. 548/2007",
+   "title": "Decizia nr. 548/2007 privind aprobarea modificărilor aduse actului constitutiv al Societății Comerciale \"DELTA ASIGURĂRI\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84663",
+   "versions": [
+    {
+     "from": "2007-08-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84663",
+     "sha256": "cfd012bed6b8c23779795d9bf1f23e332c662ae0925a211d383090dd71640761"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-566-2007",
+   "path": "decizie/csa/2007/566",
+   "short": "Decizia csa nr. 566/2007",
+   "title": "Decizia nr. 566/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"OXIGEN INSURANCE - BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85013",
+   "versions": [
+    {
+     "from": "2007-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85013",
+     "sha256": "a47b088b75c7529423e508d3c14400a320f9af22f53a455b43f23cbad87c2756"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-569-2007",
+   "path": "decizie/csa/2007/569",
+   "short": "Decizia csa nr. 569/2007",
+   "title": "Decizia nr. 569/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ROCREDIT-BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85024",
+   "versions": [
+    {
+     "from": "2007-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85024",
+     "sha256": "f10c14bc89a32d7f2c24a8ec1043d3e52fc79b48a152f4fa34b448823115adfa"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-570-2007",
+   "path": "decizie/csa/2007/570",
+   "short": "Decizia csa nr. 570/2007",
+   "title": "Decizia nr. 570/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ASTRAL BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85025",
+   "versions": [
+    {
+     "from": "2007-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85025",
+     "sha256": "15f3fe570f7fac5a4076a0c53f20f89a735a9db0fd4291f999c8d26903a95e64"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-577-2007",
+   "path": "decizie/csa/2007/577",
+   "short": "Decizia csa nr. 577/2007",
+   "title": "Decizia nr. 577/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"DESTINE BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85026",
+   "versions": [
+    {
+     "from": "2007-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85026",
+     "sha256": "c906b2bd5c670f84ca88964498c8f974e04a9328ca3ae996dd1c2fdc96b7ac77"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-578-2007",
+   "path": "decizie/csa/2007/578",
+   "short": "Decizia csa nr. 578/2007",
+   "title": "Decizia nr. 578/2007 privind autorizarea funcționării ca societate de asigurare a Societății Comerciale \"EFG EUROLIFE ASIGURĂRI DE VIAȚĂ\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85168",
+   "versions": [
+    {
+     "from": "2007-09-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85168",
+     "sha256": "1d6d850299f9380c0b176a266bbb5736b8405d0a7e4cf780bc87716135b78a2a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-579-2007",
+   "path": "decizie/csa/2007/579",
+   "short": "Decizia csa nr. 579/2007",
+   "title": "Decizia nr. 579/2007 privind autorizarea funcționării ca societate de asigurare a Societății Comerciale \"EFG EUROLIFE ASIGURĂRI GENERALE\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85169",
+   "versions": [
+    {
+     "from": "2007-09-06",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85169",
+     "sha256": "6139828bb04c91266e789a9bfd1a6fe4558c544afce96f49996f31159c5da8a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-584-2007",
+   "path": "decizie/csa/2007/584",
+   "short": "Decizia csa nr. 584/2007",
+   "title": "Decizia nr. 584/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"SOLVENTA-BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85127",
+   "versions": [
+    {
+     "from": "2007-09-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85127",
+     "sha256": "50c32036fa8b86d74bff398bdf1824260126e20750bfd59c0f46e26f212bd270"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-585-2007",
+   "path": "decizie/csa/2007/585",
+   "short": "Decizia csa nr. 585/2007",
+   "title": "Decizia nr. 585/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"RBA REKORD BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85128",
+   "versions": [
+    {
+     "from": "2007-09-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85128",
+     "sha256": "7d483c6b7469b04b41a95e920eb66b682918effade389d17652af4d1d8cf889f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-609-2007",
+   "path": "decizie/csa/2007/609",
+   "short": "Decizia csa nr. 609/2007",
+   "title": "Decizia nr. 609/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ASSESS BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85508",
+   "versions": [
+    {
+     "from": "2007-09-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85508",
+     "sha256": "3bfd71efea38aec3aeb79745425e0497c9ecfc8059868cb1c33efe39bf116e96"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-610-2007",
+   "path": "decizie/csa/2007/610",
+   "short": "Decizia csa nr. 610/2007",
+   "title": "Decizia nr. 610/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"R.C.G. BROKER DE ASIGURARE\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85512",
+   "versions": [
+    {
+     "from": "2007-09-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85512",
+     "sha256": "b9c12ce49263ec568d608e16ee5a43223221f7ea95fb73f8762d6d63ed0c406e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-614-2007",
+   "path": "decizie/csa/2007/614",
+   "short": "Decizia csa nr. 614/2007",
+   "title": "Decizia nr. 614/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ROMEURO INSURANCE CONSULTING - BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85513",
+   "versions": [
+    {
+     "from": "2007-09-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85513",
+     "sha256": "2169b1ffc1588df41469d18bb539d5e5cb3191ac46c696026f4bdbf6cd0714f2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-622-2007",
+   "path": "decizie/csa/2007/622",
+   "short": "Decizia csa nr. 622/2007",
+   "title": "Decizia nr. 622/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"AIR BROKER ASIGURARE REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85575",
+   "versions": [
+    {
+     "from": "2007-09-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85575",
+     "sha256": "29668f9889ee646e5655fae6eef004e42203657c506b543802281e526840a840"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-65-2007",
+   "path": "decizie/csa/2007/65",
+   "short": "Decizia csa nr. 65/2007",
+   "title": "Decizia nr. 65/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Smart Broker de Asigurare-Reasigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79662",
+   "versions": [
+    {
+     "from": "2007-02-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79662",
+     "sha256": "69bbc8d1b3b69e6941febf13b6a0389602323ad5148fde38322dd34759307dfb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-67-2007",
+   "path": "decizie/csa/2007/67",
+   "short": "Decizia csa nr. 67/2007",
+   "title": "Decizia nr. 67/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"Comsig Broker de Asigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79663",
+   "versions": [
+    {
+     "from": "2007-02-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79663",
+     "sha256": "983f6c92c530584aa2a2d6fa59f5dbd8edcbbc1e4fb6412e60cceb76e47a35b0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-678-2007",
+   "path": "decizie/csa/2007/678",
+   "short": "Decizia csa nr. 678/2007",
+   "title": "Decizia nr. 678/2007 privind aprobarea transferului portofoliului de asigurări, aferent clasei B.1 \"Asigurări de accidente\", de la Societatea Comercială \"ASIROM - CONCORDIA\" - S.A. către Societatea Comercială \"Asigurarea Românească - ASIROM\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85803",
+   "versions": [
+    {
+     "from": "2007-10-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85803",
+     "sha256": "585ccf9548c01d757fe1802a8941cbadfa2c9f9a7a1e10a294a0cd36f115a2d9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-679-2007",
+   "path": "decizie/csa/2007/679",
+   "short": "Decizia csa nr. 679/2007",
+   "title": "Decizia nr. 679/2007 privind aprobarea transferului portofoliului de asigurări, aferent clasei B.1. \"Asigurări de accidente\", de la Societatea Comercială \"ASIROM - CONCORDIA\" - S.A. către Societatea Comercială \"Asigurarea Românească - ASIROM\" - S.A. și retragerea autorizației de funcționare ca societate de asigurare Societății Comerciale \"ASIROM - CONCORDIA\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85944",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85944",
+     "sha256": "8c67a76a0b495874e517e273576ffd085b49aa74e420750624742167b44343f3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-681-2007",
+   "path": "decizie/csa/2007/681",
+   "short": "Decizia csa nr. 681/2007",
+   "title": "Decizia nr. 681/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"GENEVE BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85804",
+   "versions": [
+    {
+     "from": "2007-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85804",
+     "sha256": "f76c6a45d99901036e522da43927bf473ba0e8a34f25b5386c9dae47d2371c99"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-893-2007",
+   "path": "decizie/csa/2007/893",
+   "short": "Decizia csa nr. 893/2007",
+   "title": "Decizia nr. 893/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"PRIME INSURANCE - BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86556",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86556",
+     "sha256": "eee848d8738a70bacf14133860d0d80fb0050b8c2bd39adc19d97a8733fd7cab"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-947-2007",
+   "path": "decizie/csa/2007/947",
+   "short": "Decizia csa nr. 947/2007",
+   "title": "Decizia nr. 947/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"INSURANCE REINSURANCE INTERNATIONAL BROKER DE ASIGURARE\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86927",
+   "versions": [
+    {
+     "from": "2007-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86927",
+     "sha256": "9c4fbae3f1ca91e0d13887015d06529e51af7fc0341fbdb18dc40ca6a2a0d56b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-948-2007",
+   "path": "decizie/csa/2007/948",
+   "short": "Decizia csa nr. 948/2007",
+   "title": "Decizia nr. 948/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ONE - BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86928",
+   "versions": [
+    {
+     "from": "2007-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86928",
+     "sha256": "b66aca268785132adbecb6a65c36eb2bc7d446c76369f2499a506f2e23516341"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-950-2007",
+   "path": "decizie/csa/2007/950",
+   "short": "Decizia csa nr. 950/2007",
+   "title": "Decizia nr. 950/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"ECLAIMS MANAGEMENT - BROKER DE ASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86929",
+   "versions": [
+    {
+     "from": "2007-11-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86929",
+     "sha256": "0f970c33fffe647ffabb3178f230e08dfb4d21d57b6183172cd6ef6ffd0ce126"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-951-2007",
+   "path": "decizie/csa/2007/951",
+   "short": "Decizia csa nr. 951/2007",
+   "title": "Decizia nr. 951/2007 privind retragerea autorizației de funcționare a Societății Comerciale \"Insurance Claims Broker de Asigurare-Reasigurare\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87003",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87003",
+     "sha256": "31eb78b30a64fd697ad4c9dbdecf0cbbd6ac0d090909d5c88dd7304718e64acb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-960-2007",
+   "path": "decizie/csa/2007/960",
+   "short": "Decizia csa nr. 960/2007",
+   "title": "Decizia nr. 960/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"MOMENTUM INSURANCE AND REINSURANCE BROKER\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87216",
+   "versions": [
+    {
+     "from": "2007-11-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87216",
+     "sha256": "ee326f5c7f08feb56c71fdebc5856a4728c9e5626e8a84d96eb4280d1110953c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-983-2007",
+   "path": "decizie/csa/2007/983",
+   "short": "Decizia csa nr. 983/2007",
+   "title": "Decizia nr. 983/2007 privind autorizarea funcționării ca broker de asigurare a Societății Comerciale \"LCG CONCEPT - BROKER DE ASIGURARE-REASIGURARE\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87410",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87410",
+     "sha256": "d80e10a48e459dcd1d9c98f3283570534b01686f4e38d21a204fd51c1df9def2"
     }
    ]
   }

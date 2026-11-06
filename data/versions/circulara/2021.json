@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-25-2021",
+   "path": "circulara/bnr/2021/25",
+   "short": "Circulara bnr nr. 25/2021",
+   "title": "Circulara nr. 25/2021 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248328",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248328",
+     "sha256": "d0c019e1748b1060ba226151fb9175bae3c60c17b72d5091667fd18bee531912"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-26-2021",
    "path": "circulara/bnr/2021/26",
    "short": "Circulara bnr nr. 26/2021",
@@ -329,6 +344,21 @@
      "units": 1,
      "source_url": "https://www.bnr.ro/19422-circulara-3-2021",
      "sha256": "431dbe088354cd74fb824bdce570926b6a0e05540f2c274d551b7c2b38be2b36"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-30-2021",
+   "path": "circulara/bnr/2021/30",
+   "short": "Circulara bnr nr. 30/2021",
+   "title": "Circulara nr. 30/2021 privind rata dobânzii plătite la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 noiembrie-23 decembrie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249290",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249290",
+     "sha256": "bc4ee5ff4f9d69914ce7223cb123a8f0e9562c8bf080ad86718eed5cdb3ce0ba"
     }
    ]
   },

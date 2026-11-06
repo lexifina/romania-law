@@ -1,0 +1,16 @@
+# Ordonanța Guvernului nr. 45/2000 privind unele măsuri pentru combaterea producerii şi comercializării neautorizate a fonogramelor
+
+OG nr. 45/2000 · 2 versions, from 2000-03-01 (latest in force: 2005-01-31) · <https://legislatie.just.ro/Public/DetaliiDocument/20755>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `og-45-2000` (tags `og-45-2000/<day>`; `python tools/on.py <day> og-45-2000`).
+
+## Decisions made by hand
+
+- OG nr. 45/2000: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 20755, retrieved 2026-11-02).
+- OG nr. 45/2000: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- OG nr. 45/2000: the first version is the ordinance as published in Monitorul Oficial nr. 41 of 31 January 2000 (document 20755 of the official web service), dated 1 March 2000: its art. 12 puts it in force 30 days after publication. Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
+- OG nr. 45/2000: repealed in full by OG nr. 10/2005 after its newest form, read from the repealing act (*) Ordonanta Guvernului nr. 45/2000 a fost abrogata de art. 49 din ORDONANTA nr. 25 din 26 ianuarie 2006 , publicata in ); the last version, of 31 January 2005, removes every article.
+- OG nr. 45/2000: AMENDMENTS NOT APPLIED. Later acts change this act (by: DECRET nr. 1.359 din 1 octombrie 2009 privind conferirea unor decorații; HOTĂRÂRE nr. 688 din 24 iunie 2021 Având în vedere prevederile art. 2^1 și 2^2 din Ordonanța Guvernului nr. 81/2003 priv; ORDIN nr. 83 din 5 mai 2009 Având în vedere prevederile Ordinului inspectorului de stat șef al Inspecției de Stat pentru; NORME METODOLOGICE din 9 septembrie 2004 (*actualizate*) de aplicare a Ordonantei Guvernului nr. 44/2004 privind integra; ORDIN nr. 121 din 21 decembrie 2006 (*actualizat*) pentru aprobarea Regulamentului nr. 32/2006 privind serviciile de inv; NORME METODOLOGICE din 6 decembrie 2001 privind procedura de stingere prin anulare a obligațiilor datorate bugetului de; ORDIN nr. 4.119 din 11 mai 2009 privind acordarea acreditării pentru unitatea de învățământ preuniversitar particular Șc; ORDIN nr. 29 din 12 ianuarie 2026 Având în vedere dispozițiile art. 1, 6, 15, 22, 23, 26-29, ale art. 89 alin. (2) lit.; and 6 more), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 20755, retrieved 2026-11-02; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.

@@ -3,6 +3,25 @@
 "shard": "hotarare/2017",
 "acts": [
 {
+"slug": "hotarare-asf-18-2017",
+"path": "hotarare/asf/2017/18",
+"kind": "hotarare",
+"year": "2017",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 18/2017 privind cota procentuală pentru contribuția asigurătorilor la Fondul de protecție a victimelor străzii",
+"short": "Hotărârea asf nr. 18/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-14",
+"latest": "2017-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/187502",
+"issuer": "asf",
+"joint": []
+},
+{
 "slug": "hotarare-bnr-42-2017",
 "path": "hotarare/bnr/2017/42",
 "kind": "hotarare",

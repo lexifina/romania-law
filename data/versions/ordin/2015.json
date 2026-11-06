@@ -16681,6 +16681,1386 @@
      "sha256": "3d1f4d358c7b90e7ae8c06f49d05cd5df5a5637be3b97f16f704a637bbe9945e"
     }
    ]
+  },
+  {
+   "slug": "ordin-anre-108-2015",
+   "path": "ordin/anre/2015/108",
+   "short": "Ordin anre nr. 108/2015",
+   "title": "Ordinul nr. 108/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială PROGAZ P&amp;D - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169314",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169314",
+     "sha256": "3198d59180eb62f7f173948a65296163cb337c3c2c1f27bab3ba261d2c1e4c5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-109-2015",
+   "path": "ordin/anre/2015/109",
+   "short": "Ordin anre nr. 109/2015",
+   "title": "Ordinul nr. 109/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială SALGAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169315",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169315",
+     "sha256": "ceaa3a4bdd5849ebe508e34b95e1915aa1383ab0dbcc5a46e9a41cde377c6b76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-111-2015",
+   "path": "ordin/anre/2015/111",
+   "short": "Ordin anre nr. 111/2015",
+   "title": "Ordinul nr. 111/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GAZMIR IAȘI - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170084",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170084",
+     "sha256": "944ee96dc60a68422077dbfa2d0f4573be5a7fd95974966a85ca84ef24e94740"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-112-2015",
+   "path": "ordin/anre/2015/112",
+   "short": "Ordin anre nr. 112/2015",
+   "title": "Ordinul nr. 112/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială CONI - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170091",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170091",
+     "sha256": "42839411784c4bd2e1b7f176ca5b2314b50d10863f09641d2cbd9ceb3a8e7c5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-113-2015",
+   "path": "ordin/anre/2015/113",
+   "short": "Ordin anre nr. 113/2015",
+   "title": "Ordinul nr. 113/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială CPL CONCORDIA FILIALA CLUJ - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170092",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170092",
+     "sha256": "5384e97964c10238ce19824a95c83c3f6eb0dcf738588f1269ea5b2b161ed150"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-114-2015",
+   "path": "ordin/anre/2015/114",
+   "short": "Ordin anre nr. 114/2015",
+   "title": "Ordinul nr. 114/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială M.M. DATA - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170076",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170076",
+     "sha256": "5279b4c883e36491a03a81e9576543eab37d4d2c0b4d251e2bb41b042534b64a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-115-2015",
+   "path": "ordin/anre/2015/115",
+   "short": "Ordin anre nr. 115/2015",
+   "title": "Ordinul nr. 115/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială PROGAZ P&amp;D - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170077",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170077",
+     "sha256": "ec6cfbb582b49906a21a2fe31bd93223d0f9f2d228c22912e18b4f27710cf81b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-116-2015",
+   "path": "ordin/anre/2015/116",
+   "short": "Ordin anre nr. 116/2015",
+   "title": "Ordinul nr. 116/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială SALGAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170078",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170078",
+     "sha256": "2087492bdf7794d389db27a96a8f6b82c9ca8352a6a06da30435c09daae2c4e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-117-2015",
+   "path": "ordin/anre/2015/117",
+   "short": "Ordin anre nr. 117/2015",
+   "title": "Ordinul nr. 117/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială TULCEA GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170079",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170079",
+     "sha256": "d831ef3e6df10acd57ba34ab65f3061c7c983f6076e973c4a6761c1d6019a494"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-122-2015",
+   "path": "ordin/anre/2015/122",
+   "short": "Ordin anre nr. 122/2015",
+   "title": "Ordinul nr. 122/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială WIROM GAS - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170186",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170186",
+     "sha256": "33901ecd199784a2cf917c62cc2148f240dc8eecde226ac34900e86ee6b6685e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-123-2015",
+   "path": "ordin/anre/2015/123",
+   "short": "Ordin anre nr. 123/2015",
+   "title": "Ordinul nr. 123/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială EURO SEVEN INDUSTRY - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170179",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170179",
+     "sha256": "4a359ea096a0a4a161b2a426d039d2ae52c8fdeb4d2d81646a5a7e6f4f96617d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-124-2015",
+   "path": "ordin/anre/2015/124",
+   "short": "Ordin anre nr. 124/2015",
+   "title": "Ordinul nr. 124/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GAZ EST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170180",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170180",
+     "sha256": "fb51433dd4af2f7d4ebcc8c71360c075779617d51b7d091a6c8299e59c44c901"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-125-2015",
+   "path": "ordin/anre/2015/125",
+   "short": "Ordin anre nr. 125/2015",
+   "title": "Ordinul nr. 125/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială B.E.R.G. SISTEM GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170185",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170185",
+     "sha256": "f372dd4dee93af820e4c8b9f9301fccd6d5d486529ae4e4c34ea9bea5370a970"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-126-2015",
+   "path": "ordin/anre/2015/126",
+   "short": "Ordin anre nr. 126/2015",
+   "title": "Ordinul nr. 126/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială MĂCIN GAZ - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170187",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170187",
+     "sha256": "ed70636b0756c5186d1021d12d5ef7aba8240e5d7b844d48fdb402a017c3efbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-127-2015",
+   "path": "ordin/anre/2015/127",
+   "short": "Ordin anre nr. 127/2015",
+   "title": "Ordinul nr. 127/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială PRISMA SERV COMPANY - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170181",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170181",
+     "sha256": "e7385b5f802c8faff623ac4f6ae9349988272ad51ac8c2d083d61751060f4f7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-128-2015",
+   "path": "ordin/anre/2015/128",
+   "short": "Ordin anre nr. 128/2015",
+   "title": "Ordinul nr. 128/2015 pentru completarea anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 111/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GAZMIR IAȘI - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170174",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170174",
+     "sha256": "57ed7a1afc1940bf2160fd839a81d29352d4774dbebb298209f6e25f0973dc2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-132-2015",
+   "path": "ordin/anre/2015/132",
+   "short": "Ordin anre nr. 132/2015",
+   "title": "Ordinul nr. 132/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială VEGA 93 - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170640",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170640",
+     "sha256": "69e2c649709c7d6660dbb7610856d993b950f0a51cd4c9c73f52a4279a4662ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-133-2015",
+   "path": "ordin/anre/2015/133",
+   "short": "Ordin anre nr. 133/2015",
+   "title": "Ordinul nr. 133/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Națională de Gaze Naturale \"ROMGAZ\" - S.A. Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170641",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170641",
+     "sha256": "51fe2baf9e03892b62374d5d068e76c5c08d12be87e88d3881426a8e7ee7dee9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-134-2015",
+   "path": "ordin/anre/2015/134",
+   "short": "Ordin anre nr. 134/2015",
+   "title": "Ordinul nr. 134/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială CONGAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170642",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170642",
+     "sha256": "cc5369663f5a297a491c099d28313c10a46959ca71740d84c5f0ac9f08095692"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-137-2015",
+   "path": "ordin/anre/2015/137",
+   "short": "Ordin anre nr. 137/2015",
+   "title": "Ordinul nr. 137/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială COVI CONSTRUCT 2000 - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170698",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170698",
+     "sha256": "fce1abda3bb253455b6bc275bc614a9b792471980bfe31c0a399d55d4f721669"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-141-2015",
+   "path": "ordin/anre/2015/141",
+   "short": "Ordin anre nr. 141/2015",
+   "title": "Ordinul nr. 141/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială PREMIER ENERGY - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171481",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171481",
+     "sha256": "9c77965fea80af4b8e232d43fdb4a221f103e40a769038d3c3293c922d017b2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-142-2015",
+   "path": "ordin/anre/2015/142",
+   "short": "Ordin anre nr. 142/2015",
+   "title": "Ordinul nr. 142/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială MEHEDINȚI GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171482",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171482",
+     "sha256": "9465ba10b81dabf319029a884acd4b33a0b568eccb743b6fe8ee21d0d7b1b9d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-143-2015",
+   "path": "ordin/anre/2015/143",
+   "short": "Ordin anre nr. 143/2015",
+   "title": "Ordinul nr. 143/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GAZ SUD - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171486",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171486",
+     "sha256": "206e7f82abb3949fc5984734649b77a80e11c3ce10e4aaf09632ad0ec0c4c83c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-144-2015",
+   "path": "ordin/anre/2015/144",
+   "short": "Ordin anre nr. 144/2015",
+   "title": "Ordinul nr. 144/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială TEHNOLOGICA RADION - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171488",
+   "versions": [
+    {
+     "from": "2015-09-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171488",
+     "sha256": "6b34a4a0b54c06b4dc4c4cbcce9970c865e9c8c284ae178b03f987ce83eb5df0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-146-2015",
+   "path": "ordin/anre/2015/146",
+   "short": "Ordin anre nr. 146/2015",
+   "title": "Ordinul nr. 146/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea OLIGOPOL - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171645",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171645",
+     "sha256": "d427383a9777c619acbaf0857cb16bf604863f07442b116c27990e59f7279965"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-154-2015",
+   "path": "ordin/anre/2015/154",
+   "short": "Ordin anre nr. 154/2015",
+   "title": "Ordinul nr. 154/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea DESIGN PROIECT - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172362",
+   "versions": [
+    {
+     "from": "2015-11-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172362",
+     "sha256": "43a812c0091540d1cc73ff5265f583b034330956cffa5a68cc8960ea2da53a60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-164-2015",
+   "path": "ordin/anre/2015/164",
+   "short": "Ordin anre nr. 164/2015",
+   "title": "Ordinul nr. 164/2015 privind aprobarea certificării Companiei Naționale de Transport al Energiei Electrice \"Transelectrica\" - S.A. ca operator de transport și de sistem al sistemului electroenergetic național, conform modelului de separare a proprietății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173654",
+   "versions": [
+    {
+     "from": "2015-12-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173654",
+     "sha256": "27ab51bc0b00257994da614f53118ef6dd3ce57f369404e1c16c08cfb6d1f41f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-168-2015",
+   "path": "ordin/anre/2015/168",
+   "short": "Ordin anre nr. 168/2015",
+   "title": "Ordinul nr. 168/2015 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea \"Enel Distribuție Banat\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174071",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174071",
+     "sha256": "1244ce2db29def96c71c2860e650fe20d2dd71b4bfc9f6699693769861015721"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-169-2015",
+   "path": "ordin/anre/2015/169",
+   "short": "Ordin anre nr. 169/2015",
+   "title": "Ordinul nr. 169/2015 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea \"Enel Distribuție Dobrogea\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174063",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174063",
+     "sha256": "7f916cfcfc193f45e87da50003b658b7bedebd575ba4178b694eac602a0ed72d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-170-2015",
+   "path": "ordin/anre/2015/170",
+   "short": "Ordin anre nr. 170/2015",
+   "title": "Ordinul nr. 170/2015 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea \"Enel Distribuție Muntenia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174064",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174064",
+     "sha256": "dd737e353bd7f557b026b8f31ab79de763fa44f1d0e49e893c46bee6071540e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-171-2015",
+   "path": "ordin/anre/2015/171",
+   "short": "Ordin anre nr. 171/2015",
+   "title": "Ordinul nr. 171/2015 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea \"Filiala de Distribuție a Energiei Electrice Electrica Distribuție Transilvania Sud\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174065",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174065",
+     "sha256": "fa94a39b501f4ad5c91743791db9be001d55c4aae9dd64274edda7b6fa79ce2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-172-2015",
+   "path": "ordin/anre/2015/172",
+   "short": "Ordin anre nr. 172/2015",
+   "title": "Ordinul nr. 172/2015 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru societatea \" Filiala de Distribuție a Energiei Electrice Electrica Distribuție Muntenia Nord\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174066",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174066",
+     "sha256": "a3d5355373d26978ef86aa8d7f03a76ab48f2270c1dd5072f927710e4b341854"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-173-2015",
+   "path": "ordin/anre/2015/173",
+   "short": "Ordin anre nr. 173/2015",
+   "title": "Ordinul nr. 173/2015 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea \"Filiala de Distribuție a Energiei Electrice Electrica Distribuție Transilvania Nord\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174067",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174067",
+     "sha256": "d00003968deea031bdc8d9a64f4c3a1763b556d207f2677aa997dfaa1b59783a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-174-2015",
+   "path": "ordin/anre/2015/174",
+   "short": "Ordin anre nr. 174/2015",
+   "title": "Ordinul nr. 174/2015 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea \"E.ON Distribuție România\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174068",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174068",
+     "sha256": "fd7c5addc304ab114e271a9e69a377834426868553da094f9870563ec855b397"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-175-2015",
+   "path": "ordin/anre/2015/175",
+   "short": "Ordin anre nr. 175/2015",
+   "title": "Ordinul nr. 175/2015 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea \"CEZ Distribuție\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174069",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174069",
+     "sha256": "842c6ab786699719dc516bec789de46f9f533c0b9a2b4ed9bb08e8046d2e5e32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-19-2015",
+   "path": "ordin/anre/2015/19",
+   "short": "Ordin anre nr. 19/2015",
+   "title": "Ordinul nr. 19/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție a gazelor naturale realizat de Societatea Comercială DISTRIGAZ SUD REȚELE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166767",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166767",
+     "sha256": "5baeec416870cbb4da90446758bf4906ad2e653d1f976ceedc0ad12475654830"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-20-2015",
+   "path": "ordin/anre/2015/20",
+   "short": "Ordin anre nr. 20/2015",
+   "title": "Ordinul nr. 20/2015 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială GDF SUEZ ENERGY ROMÂNIA - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166770",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166770",
+     "sha256": "12ff77622b5b1d4591895871daea2e13099a79c0ebb276ab147a6047b9946949"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-22-2015",
+   "path": "ordin/anre/2015/22",
+   "short": "Ordin anre nr. 22/2015",
+   "title": "Ordinul nr. 22/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 34/2014 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială CONGAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166781",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166781",
+     "sha256": "eca3455bcb0754711343ed767570ee36801d2d3f10f809ba2311c7ee49ce590b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-23-2015",
+   "path": "ordin/anre/2015/23",
+   "short": "Ordin anre nr. 23/2015",
+   "title": "Ordinul nr. 23/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 13/2014 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GAZ EST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166804",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166804",
+     "sha256": "7df840e5180a685f130e52e93927356edf0e34e65751026889bd217967a955b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-24-2015",
+   "path": "ordin/anre/2015/24",
+   "short": "Ordin anre nr. 24/2015",
+   "title": "Ordinul nr. 24/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 126/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială GAZ SUD - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166806",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166806",
+     "sha256": "eadffc917d8e9315353a60d55fadb32484dff9660b0b19ade7c00d6387100baf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-25-2015",
+   "path": "ordin/anre/2015/25",
+   "short": "Ordin anre nr. 25/2015",
+   "title": "Ordinul nr. 25/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 127/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială GRUP DEZVOLTARE REȚELE - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166813",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166813",
+     "sha256": "635390542b148a2750e0a982e6a46a2d1969e0c841a7a02e44216ed3c46b69b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-26-2015",
+   "path": "ordin/anre/2015/26",
+   "short": "Ordin anre nr. 26/2015",
+   "title": "Ordinul nr. 26/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 99/2014 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială MĂCIN GAZ - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166784",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166784",
+     "sha256": "396bbbc41c2136fcedbf772e76bc2e79baabc416e8f338811226f81cc01b139e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-27-2015",
+   "path": "ordin/anre/2015/27",
+   "short": "Ordin anre nr. 27/2015",
+   "title": "Ordinul nr. 27/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 130/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială MEGACONSTRUCT - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglem",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166785",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166785",
+     "sha256": "a1db4a418c70fd7b3e6caabb0d537458248db6196f6e708c08eda4fc3a49f375"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-28-2015",
+   "path": "ordin/anre/2015/28",
+   "short": "Ordin anre nr. 28/2015",
+   "title": "Ordinul nr. 28/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 123/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială OLIGOPOL - S.R.L. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166788",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166788",
+     "sha256": "900b57e8a6a55419f48b7ccc46c8e3d74c9f9dcd98f10b3d824bde88df1b1c93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-29-2015",
+   "path": "ordin/anre/2015/29",
+   "short": "Ordin anre nr. 29/2015",
+   "title": "Ordinul nr. 29/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 138/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială TIMGAZ - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166790",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166790",
+     "sha256": "97eeead905c5bcad1dda37686818a358d712727e4cc1ad87066df5123884f378"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-3-2015",
+   "path": "ordin/anre/2015/3",
+   "short": "Ordin anre nr. 3/2015",
+   "title": "Ordinul nr. 3/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 9/2013 privind constituirea Comisiei tehnice de avizare a studiilor de fezabilitate întocmite în vederea concesionării serviciului de distribuție a gazelor naturale și de emitere a avizelor conforme pentru operatorii economici din sectorul gazelor naturale EMIT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165591",
+   "versions": [
+    {
+     "from": "2015-02-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165591",
+     "sha256": "5c138466453293f06dc4505d069a76bb93dfd9aa1dde2d1fb174dabf67be9eae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-30-2015",
+   "path": "ordin/anre/2015/30",
+   "short": "Ordin anre nr. 30/2015",
+   "title": "Ordinul nr. 30/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 92/2014 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de S.C. VEGA 93 - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166792",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166792",
+     "sha256": "c3c4de61d82443eaa7f3a47c484ac49e7887010b1678154365b2c63b08a9dd9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-31-2015",
+   "path": "ordin/anre/2015/31",
+   "short": "Ordin anre nr. 31/2015",
+   "title": "Ordinul nr. 31/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 40/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de S.C. AMARAD DISTRIBUȚIE - S.R.L. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare în D",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166795",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166795",
+     "sha256": "cba7969fe34cf4c3bda6e9f7bff9963349b404dfa4a136dd7c979112a98d208d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-32-2015",
+   "path": "ordin/anre/2015/32",
+   "short": "Ordin anre nr. 32/2015",
+   "title": "Ordinul nr. 32/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 85/2013 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială B.E.R.G. SISTEM GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166796",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166796",
+     "sha256": "8b31f5df7fae30f42c3dacdace9006dcca5ad7668fce40c38c2ddad25bb88284"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-33-2015",
+   "path": "ordin/anre/2015/33",
+   "short": "Ordin anre nr. 33/2015",
+   "title": "Ordinul nr. 33/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 121/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială CORDUN GAZ - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166799",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166799",
+     "sha256": "89cae65cb2b9682f7c03b15e393176db0109e9e18b3171d3cbc971ad30c9b48d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-34-2015",
+   "path": "ordin/anre/2015/34",
+   "short": "Ordin anre nr. 34/2015",
+   "title": "Ordinul nr. 34/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 46/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de S.C. COVI CONSTRUCT 2000 - S.R.L. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare în",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166769",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166769",
+     "sha256": "7f7b016984cb943b2c0d51e75f912d7578cdce2f21945980d8f7077d141f25f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-36-2015",
+   "path": "ordin/anre/2015/36",
+   "short": "Ordin anre nr. 36/2015",
+   "title": "Ordinul nr. 36/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 124/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială DESIGN PROIECT - S.R.L. și pentru abrogarea pct. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reg",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166772",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166772",
+     "sha256": "1065b993515d204dbe6fefd532c42b0d962df16cee84f217eba82e74f078a442"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-40-2015",
+   "path": "ordin/anre/2015/40",
+   "short": "Ordin anre nr. 40/2015",
+   "title": "Ordinul nr. 40/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 43/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de S.C. GAZ VEST - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Ener",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166805",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166805",
+     "sha256": "26041c02c70badd9e81391c7fc5dbb1b6d9e78efcf5d3c2bcc9b3ace56427532"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-41-2015",
+   "path": "ordin/anre/2015/41",
+   "short": "Ordin anre nr. 41/2015",
+   "title": "Ordinul nr. 41/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 81/2013 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GAZMIR IAȘI - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166807",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166807",
+     "sha256": "b16d1a5eb3d00fa8ba6bdd36ee165a0390c6dbe75b952ada125d5033b03b5295"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-42-2015",
+   "path": "ordin/anre/2015/42",
+   "short": "Ordin anre nr. 42/2015",
+   "title": "Ordinul nr. 42/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 128/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială HARGAZ HARGHITA GAZ - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166808",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166808",
+     "sha256": "0d590082dab3f23146ae8011cbf0fd0586ccfae1334ec22da68ff23fa372790d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-43-2015",
+   "path": "ordin/anre/2015/43",
+   "short": "Ordin anre nr. 43/2015",
+   "title": "Ordinul nr. 43/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 129/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială INSTANT CONSTRUCT COMPANY - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166810",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166810",
+     "sha256": "11f4ab115eb1022d145787a394f06c771f77745e9fa8e46c5660221c5f5e5be8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-44-2015",
+   "path": "ordin/anre/2015/44",
+   "short": "Ordin anre nr. 44/2015",
+   "title": "Ordinul nr. 44/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 131/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială MIHOC OIL - S.R.L. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglemen",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166812",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166812",
+     "sha256": "e97834a0296461166e350ef2fed178baec75041c75605bf6b323cb393b8d2da3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-45-2015",
+   "path": "ordin/anre/2015/45",
+   "short": "Ordin anre nr. 45/2015",
+   "title": "Ordinul nr. 45/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 44/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de S.C. M.M. DATA - S.R.L. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare în Domeniul E",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166814",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166814",
+     "sha256": "38924bb41adf69e95509e47de56c5d6b658b9b042255c1b9c6c7cdcd355df43b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-46-2015",
+   "path": "ordin/anre/2015/46",
+   "short": "Ordin anre nr. 46/2015",
+   "title": "Ordinul nr. 46/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 132/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială NORD GAZ - S.R.L. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166782",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166782",
+     "sha256": "ddee190c67d8871a690a5ea2a7f39cfd7c876fefbb6b26f5fc6ea9fa5308039f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-47-2015",
+   "path": "ordin/anre/2015/47",
+   "short": "Ordin anre nr. 47/2015",
+   "title": "Ordinul nr. 47/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 133/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială OTTO GAZ - S.R.L. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglement",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166783",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166783",
+     "sha256": "bdb63fdd3eec96a0328118f7587f78b5993a6c1c319f2be2be8970522bb221f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-48-2015",
+   "path": "ordin/anre/2015/48",
+   "short": "Ordin anre nr. 48/2015",
+   "title": "Ordinul nr. 48/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 134/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială PREMIER ENERGY - S.R.L. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reg",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166786",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166786",
+     "sha256": "0b5d22ef350a4b177ab63316a822d42e052f118d19da00b21aa822a559581e62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-50-2015",
+   "path": "ordin/anre/2015/50",
+   "short": "Ordin anre nr. 50/2015",
+   "title": "Ordinul nr. 50/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 45/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de S.C. PROGAZ P&amp;D - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare în Domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166780",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166780",
+     "sha256": "e7a60830ced46c25cce806f5a14619187d2f4096c9da70f6ca4bf41998d38ccb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-51-2015",
+   "path": "ordin/anre/2015/51",
+   "short": "Ordin anre nr. 51/2015",
+   "title": "Ordinul nr. 51/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 39/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de S.C. SALGAZ - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166802",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166802",
+     "sha256": "127cee7e80b8d937ff61df99ad470e554723d7c99895a1170ffb9f0f9d2b72d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-52-2015",
+   "path": "ordin/anre/2015/52",
+   "short": "Ordin anre nr. 52/2015",
+   "title": "Ordinul nr. 52/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 91/2014 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de S.C. TULCEA GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166809",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166809",
+     "sha256": "15fb9641cba216a7c3c0c4ca8cfa649558f0d8c5164658dd81470c91f0a91312"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-53-2015",
+   "path": "ordin/anre/2015/53",
+   "short": "Ordin anre nr. 53/2015",
+   "title": "Ordinul nr. 53/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 98/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de S.C. WIROM GAS - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Ene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166811",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166811",
+     "sha256": "58d6d7cb4e8b26b73b6101b1ebe0c0b66a7abc87dc6f26b5c1f68612976d2a6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-55-2015",
+   "path": "ordin/anre/2015/55",
+   "short": "Ordin anre nr. 55/2015",
+   "title": "Ordinul nr. 55/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială INTERGAZ-EST - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166787",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166787",
+     "sha256": "71ce90cc83c0ec6b3c8f7714a87674beaf319a16e563d147c7ff9f6e538299b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-56-2015",
+   "path": "ordin/anre/2015/56",
+   "short": "Ordin anre nr. 56/2015",
+   "title": "Ordinul nr. 56/2015 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială MEHEDINȚI GAZ - S.A. și pentru abrogarea lit. b) din anexa nr. 1 și a anexei nr. 3 la Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 32/2009 privind stabilirea tarifelor reglementate pentru prestarea serviciului de d",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166789",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166789",
+     "sha256": "45f196c43e8f8f26a8ede12d613783e5e4d65f2dbafc14d1aa2157434e4b295d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-62-2015",
+   "path": "ordin/anre/2015/62",
+   "short": "Ordin anre nr. 62/2015",
+   "title": "Ordinul nr. 62/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție a gazelor naturale realizat de Societatea Comercială E.ON DISTRIBUȚIE ROMÂNIA - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167152",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167152",
+     "sha256": "226697e445b6210901eab608ff808bebb357b6983d3015afe6f9478f12f7c92d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-63-2015",
+   "path": "ordin/anre/2015/63",
+   "short": "Ordin anre nr. 63/2015",
+   "title": "Ordinul nr. 63/2015 pentru modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 21/2015 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială E.ON ENERGIE ROMÂNIA - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167335",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167335",
+     "sha256": "be7e77098d5cdef0da560dab55a32d9640fb0f12e19fbd065ab15a1ca2cb0876"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-64-2015",
+   "path": "ordin/anre/2015/64",
+   "short": "Ordin anre nr. 64/2015",
+   "title": "Ordinul nr. 64/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială AMARAD DISTRIBUȚIE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167153",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167153",
+     "sha256": "c5ea6dd07d3ab5871a7d62094258704639ea2ce3a07253cec5b133b9e97a3e5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-65-2015",
+   "path": "ordin/anre/2015/65",
+   "short": "Ordin anre nr. 65/2015",
+   "title": "Ordinul nr. 65/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială CORDUN GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167146",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167146",
+     "sha256": "7363898a13fc33662f6b4e435e943d0d2a3bd90cde4ce4c781a7f3add18352ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-66-2015",
+   "path": "ordin/anre/2015/66",
+   "short": "Ordin anre nr. 66/2015",
+   "title": "Ordinul nr. 66/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GAZ NORD EST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167151",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167151",
+     "sha256": "8805f59cfb05814be067c0d0b5944c962ac98db6c23def712730326ef9cb743f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-71-2015",
+   "path": "ordin/anre/2015/71",
+   "short": "Ordin anre nr. 71/2015",
+   "title": "Ordinul nr. 71/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GAZ NORD EST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167570",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167570",
+     "sha256": "df586030855441d7bcf86b9e096afe95bf91e7dda41f3b569086fbd9ca74b372"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-72-2015",
+   "path": "ordin/anre/2015/72",
+   "short": "Ordin anre nr. 72/2015",
+   "title": "Ordinul nr. 72/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea NOVA POWER &amp; GAS - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167571",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167571",
+     "sha256": "7c7a34c6eb5a82720a44767dfe7e81eac15082b237fa1085502bafefb6441484"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-73-2015",
+   "path": "ordin/anre/2015/73",
+   "short": "Ordin anre nr. 73/2015",
+   "title": "Ordinul nr. 73/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GAZ VEST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167572",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167572",
+     "sha256": "a3a1859d5eb654419768e2c32b61cc5985bb241327688ca7388abb7034cb3143"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-74-2015",
+   "path": "ordin/anre/2015/74",
+   "short": "Ordin anre nr. 74/2015",
+   "title": "Ordinul nr. 74/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială MEGACONSTRUCT - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167573",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167573",
+     "sha256": "0252c8b922f32edc0d6b143b444711a62f574d80ff75406336ed218e3560bb56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-76-2015",
+   "path": "ordin/anre/2015/76",
+   "short": "Ordin anre nr. 76/2015",
+   "title": "Ordinul nr. 76/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială HARGAZ HARGHITA GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168206",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168206",
+     "sha256": "c5b773dee61f4398d41fe95fd17fbb515d1739d1091c1da86635d897e99194db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-77-2015",
+   "path": "ordin/anre/2015/77",
+   "short": "Ordin anre nr. 77/2015",
+   "title": "Ordinul nr. 77/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială INSTANT CONSTRUCT COMPANY - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168211",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168211",
+     "sha256": "6bef0346a78183ccf4ddee7466b8a19884e2bd87509cf20b56de25a5eeabab3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-79-2015",
+   "path": "ordin/anre/2015/79",
+   "short": "Ordin anre nr. 79/2015",
+   "title": "Ordinul nr. 79/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială NORD GAZ - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168423",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168423",
+     "sha256": "1acf2970fff5dfe1fce58e86f25bc91980509ab27eed40f1570034422fe9e269"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-80-2015",
+   "path": "ordin/anre/2015/80",
+   "short": "Ordin anre nr. 80/2015",
+   "title": "Ordinul nr. 80/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială TIMGAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168417",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168417",
+     "sha256": "dc9b711cfcbc0f4f570cfaaedd2983daf64857da7b8deabe3f43893dbac50a2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-81-2015",
+   "path": "ordin/anre/2015/81",
+   "short": "Ordin anre nr. 81/2015",
+   "title": "Ordinul nr. 81/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială DISTRIGAZ VEST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168422",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168422",
+     "sha256": "581d23095ad8f2e8a6472538c8203d7a46fa069f4b0098de3762041488f01ff6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-82-2015",
+   "path": "ordin/anre/2015/82",
+   "short": "Ordin anre nr. 82/2015",
+   "title": "Ordinul nr. 82/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Comercială GRUP DEZVOLTARE REȚELE - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168432",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168432",
+     "sha256": "9fd1b2ccc5513863a5b4c18d252a2ee1020c2957573ae4b795385eb00dfd2413"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-99-2015",
+   "path": "ordin/anre/2015/99",
+   "short": "Ordin anre nr. 99/2015",
+   "title": "Ordinul nr. 99/2015 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție a gazelor naturale realizat de Societatea Comercială MIHOC OIL - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169224",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169224",
+     "sha256": "6c3eb1f4f901a29c5443c8000ff90f8df0b29decba856f89eaa0c8c66ca779a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-101-2015",
+   "path": "ordin/bnr/2015/101",
+   "short": "Ordin bnr nr. 101/2015",
+   "title": "Ordinul nr. 101/2015 privind dispunerea radierii instituției financiare nebancare Societatea Comercială IFN BIACO LEASING - S.A. din Registrul general al instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165911",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165911",
+     "sha256": "5ec69494943b8489ca92c4f255909c952805e9b2aad5b9f4148c1e59f98b468c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-102-2015",
+   "path": "ordin/bnr/2015/102",
+   "short": "Ordin bnr nr. 102/2015",
+   "title": "Ordinul nr. 102/2015 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale I.F.N. GENERAL LEASING - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165912",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165912",
+     "sha256": "e43ad1b27903861549fc68290a2b1bf6da1adfe4daa8c2cde0332d340083b2ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-1084-2015",
+   "path": "ordin/bnr/2015/1084",
+   "short": "Ordin bnr nr. 1084/2015",
+   "title": "Ordinul nr. 1.084/2015 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale GIF LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173575",
+   "versions": [
+    {
+     "from": "2015-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173575",
+     "sha256": "4b678a1a2688376dc143043655a36c89f40de4cb9e764dcd49241073377f7c67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-1172-2015",
+   "path": "ordin/bnr/2015/1172",
+   "short": "Ordin bnr nr. 1172/2015",
+   "title": "Ordinul nr. 1.172/2015 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a S.C. EXPRESS LEASING FINANCIAL SERVICES IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174472",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174472",
+     "sha256": "a541dbb1fc8f63697a1f9f0d665eeecf46ce26c318d836c9333631aed03278b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-1181-2015",
+   "path": "ordin/bnr/2015/1181",
+   "short": "Ordin bnr nr. 1181/2015",
+   "title": "Ordinul nr. 1.181/2015 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale DBR FACTOR IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174815",
+   "versions": [
+    {
+     "from": "2016-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174815",
+     "sha256": "22fb808fc7b9d3067faaeb1eb30d0867be9a22349594b902d3800cd0ccdebe3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-341-2015",
+   "path": "ordin/bnr/2015/341",
+   "short": "Ordin bnr nr. 341/2015",
+   "title": "Ordinul nr. 341/2015 privind dispunerea radierii din registrele general și special ale instituțiilor financiare nebancare a Societății Comerciale ING COMMERCIAL FINANCE IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167658",
+   "versions": [
+    {
+     "from": "2015-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167658",
+     "sha256": "d93a3e8ffb6dd21ee89544c0320301026d74a17f8d84ba0adde265b85760caac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-48-2015",
+   "path": "ordin/bnr/2015/48",
+   "short": "Ordin bnr nr. 48/2015",
+   "title": "Ordinul nr. 48/2015 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale CREDIT SERVICE ROMANIA IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165607",
+   "versions": [
+    {
+     "from": "2015-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165607",
+     "sha256": "2c3eefa9c5d636e14f32eeff95cdfb04924207f4795ba854bc0bf2207ab051f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-49-2015",
+   "path": "ordin/bnr/2015/49",
+   "short": "Ordin bnr nr. 49/2015",
+   "title": "Ordinul nr. 49/2015 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale PPF HOME CREDIT IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165608",
+   "versions": [
+    {
+     "from": "2015-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165608",
+     "sha256": "0769c4493cb2bf1da28a4a4cfea74451c461e1936270c4f5f82ead416871ba46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-959-2015",
+   "path": "ordin/bnr/2015/959",
+   "short": "Ordin bnr nr. 959/2015",
+   "title": "Ordinul nr. 959/2015 privind dispunerea radierii din Registrul general al instituțiilor financiare nebancare a Societății Comerciale TEZAUR IMOBILIARE IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172611",
+   "versions": [
+    {
+     "from": "2015-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172611",
+     "sha256": "e5df79b244b02a7c2537dc9252e5ab3ff0381f7f88e603e1e576a082f9cf44c2"
+    }
+   ]
   }
  ]
 }

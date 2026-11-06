@@ -3,6 +3,36 @@
  "shard": "decizie/2018",
  "acts": [
   {
+   "slug": "decizie-ancom-1069-2018",
+   "path": "decizie/ancom/2018/1069",
+   "short": "Decizia ancom nr. 1069/2018",
+   "title": "Decizia nr. 1.069/2018 privind utilizarea unor resurse de numerotație geografice și în afara ariei corespunzătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208728",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208728",
+     "sha256": "cf121fd480190201addf85a6fd41d7d4e328c973132cb97e4f3251436cacfc6f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-274-2018",
+   "path": "decizie/ancom/2018/274",
+   "short": "Decizia ancom nr. 274/2018",
+   "title": "Decizia nr. 274/2018 privind stabilirea formatului și a modalității de transmitere de către furnizorii de rețele de comunicații electronice a unor documente și informații privind exercitarea dreptului de acces pe proprietăți, precum și pentru stabilirea condițiilor de acces la acestea, respectiv privind modificarea și completarea unor reglementări în scopul realizării transmiterii ac",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199039",
+   "versions": [
+    {
+     "from": "2018-03-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199039",
+     "sha256": "51ce0d6cc447172e39553e956c8bfc3486fbaa59aa41a1fd85eafcab542a44a5"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-381-2018",
    "path": "decizie/ancom/2018/381",
    "short": "Decizia ancom nr. 381/2018",
@@ -14,6 +44,411 @@
      "units": 2,
      "source_url": "https://www.ancom.ro/decizie/decizia-nr-381-2018-pentru-modificarea-art-19-alin-2-din-decizia-preedintelui-autoritii-naionale-de-reglementare-in-comunicaii-nr-144-en-2006-privind-implementarea-p/?link_id=Decizia_ANCOM_Nr1526902746.pdf",
      "sha256": "d0cc22c8a8c8fa0dce35b8fcf8659e8637bd73addbae56bd1532d816439c9a98"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-395-2018",
+   "path": "decizie/ancom/2018/395",
+   "short": "Decizia ancom nr. 395/2018",
+   "title": "Decizia nr. 395/2018 pentru modificarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 1.113/2017 privind înființarea punctului de informare unic, precum și pentru stabilirea condițiilor și modalităților de transmitere a unor informații privind infrastructura fizică a operatorilor de rețea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200592",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200592",
+     "sha256": "3e6fbaf8065023bc6dbfeece3b879e920b3d1f5a1762566b8c035b2c5ed51441"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-718-2018",
+   "path": "decizie/ancom/2018/718",
+   "short": "Decizia ancom nr. 718/2018",
+   "title": "Decizia nr. 718/2018 pentru modificarea și completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 1.112/2017 privind stabilirea indicatorilor de calitate pentru furnizarea serviciului de acces la internet și publicarea parametrilor aferenți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204491",
+   "versions": [
+    {
+     "from": "2018-09-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204491",
+     "sha256": "9ac7786b442f14e4347e8b1f3d1fc15a50bf4726adb818f7433473dd2eb36a1f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-888-2018",
+   "path": "decizie/ancom/2018/888",
+   "short": "Decizia ancom nr. 888/2018",
+   "title": "Decizia nr. 888/2018 pentru modificarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 311/2016 privind frecvențele radio ori benzile de frecvențe radio exceptate de la regimul de licențiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206089",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206089",
+     "sha256": "1900271839858394d0a4ace53a61f6e9acfb7868a104139b3e7c850db8323ba7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-997-2018",
+   "path": "decizie/ancom/2018/997",
+   "short": "Decizia ancom nr. 997/2018",
+   "title": "Decizia nr. 997/2018 privind tarifele maxime care pot fi percepute pentru exercitarea dreptului de acces pe, deasupra, în sau sub imobilele proprietate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208100",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208100",
+     "sha256": "33c3b480c55bf9246aea28dd9b7b4f10378ca52d2bf99cd4f2ad81fbe477f3b4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1176-2018",
+   "path": "decizie/asf/2018/1176",
+   "short": "Decizia asf nr. 1176/2018",
+   "title": "Decizia nr. 1.176/2018 privind sancționarea ASOCIAȚIEI PENTRU DEZVOLTAREA PROFESIONALĂ cu retragerea autorizației ca furnizor de programe educaționale în domeniul asigurărilor și radierea din Registrul furnizorilor de programe educaționale în domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206110",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206110",
+     "sha256": "11540cc08c4cd1b973afe7d37873e137e7f632ce98b26a830daf62251dcac66d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1317-2018",
+   "path": "decizie/asf/2018/1317",
+   "short": "Decizia asf nr. 1317/2018",
+   "title": "Decizia nr. 1.317/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății BRAIN INSURANCE GROUP - BROKER DE ASIGURARE ȘI REASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208002",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208002",
+     "sha256": "c825e832d76fee074ad40181e2d82c73c44684c48fe03525d7fe67e89d34b07e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1319-2018",
+   "path": "decizie/asf/2018/1319",
+   "short": "Decizia asf nr. 1319/2018",
+   "title": "Decizia nr. 1.319/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății CROWN PARTNERS - BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208004",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208004",
+     "sha256": "2b3fbb3d64fe232d87e222b75c0924760fca7296f9b64aa83cf9540772bce817"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1320-2018",
+   "path": "decizie/asf/2018/1320",
+   "short": "Decizia asf nr. 1320/2018",
+   "title": "Decizia nr. 1.320/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății DECON INSURANCE BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208005",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208005",
+     "sha256": "c9259f9897843dcdf2ca9b27bd3e0d0f064b46db491e2b52e2911a79e5ed2bad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1321-2018",
+   "path": "decizie/asf/2018/1321",
+   "short": "Decizia asf nr. 1321/2018",
+   "title": "Decizia nr. 1.321/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății ELIYAMMA MM BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208010",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208010",
+     "sha256": "27b28ac909c197bf1792cccb372e093e5b2924fceb4c449052192985ca2c2940"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1322-2018",
+   "path": "decizie/asf/2018/1322",
+   "short": "Decizia asf nr. 1322/2018",
+   "title": "Decizia nr. 1.322/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății HEALTH SMART INVESTMENTS BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208011",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208011",
+     "sha256": "2946e333655e277d0e306a62f24e2ab42c6be842d80b00f809d1700435a0df63"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1323-2018",
+   "path": "decizie/asf/2018/1323",
+   "short": "Decizia asf nr. 1323/2018",
+   "title": "Decizia nr. 1.323/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății IBA - INSIEME BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208012",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208012",
+     "sha256": "e6d7dbaf3b4c0eeee6e63e392a0f911c2467f9acd689758b38c68e3de65467bd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1324-2018",
+   "path": "decizie/asf/2018/1324",
+   "short": "Decizia asf nr. 1324/2018",
+   "title": "Decizia nr. 1.324/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății MARSHALY INSURANCE FINANCIAL ASSOCIATED - BROKER DE ASIGURARE ȘI REASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208013",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208013",
+     "sha256": "454832de1605f03849d6bd416f1c4fd8f85324445e3a173c3d60d1ceb3ed08e6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1325-2018",
+   "path": "decizie/asf/2018/1325",
+   "short": "Decizia asf nr. 1325/2018",
+   "title": "Decizia nr. 1.325/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății MIGO BROKER DE ASIGURARE-REASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208014",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208014",
+     "sha256": "9b0866c88f41b01754149101a0fd211cd8aae7b67b75d3f932b192f972db71ee"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1326-2018",
+   "path": "decizie/asf/2018/1326",
+   "short": "Decizia asf nr. 1326/2018",
+   "title": "Decizia nr. 1.326/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății MIXERA BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208015",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208015",
+     "sha256": "e592bbbedc8457cb1195a61747bc5aec2cbf14e3ad6e6a0012efe2a80681916f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1328-2018",
+   "path": "decizie/asf/2018/1328",
+   "short": "Decizia asf nr. 1328/2018",
+   "title": "Decizia nr. 1.328/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății MULTIEXPERT ASIG - BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208105",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208105",
+     "sha256": "9030d2ee9891bc053d24e814268db25850fb13747d461804ba1ce43dddf5d1fe"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1329-2018",
+   "path": "decizie/asf/2018/1329",
+   "short": "Decizia asf nr. 1329/2018",
+   "title": "Decizia nr. 1.329/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății SOLARIS BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208106",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208106",
+     "sha256": "7c9bd814fce3caedef748b731ecc64c464ae9c2f392468fd504ef6135c4ff3aa"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1330-2018",
+   "path": "decizie/asf/2018/1330",
+   "short": "Decizia asf nr. 1330/2018",
+   "title": "Decizia nr. 1.330/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății STAR OFFICE - BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208107",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208107",
+     "sha256": "536aef1b2b967ae68e062feab1250daec1558bfde34b2fe9d13ddf46dabad2f3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1331-2018",
+   "path": "decizie/asf/2018/1331",
+   "short": "Decizia asf nr. 1331/2018",
+   "title": "Decizia nr. 1.331/2018 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății TAR &amp; TAR BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208108",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208108",
+     "sha256": "f9e30c643841c3f888a243f9d75f0d3736ac19d8fada71947a2bb3bc5a708dc8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1367-2018",
+   "path": "decizie/asf/2018/1367",
+   "short": "Decizia asf nr. 1367/2018",
+   "title": "Decizia nr. 1.367/2018 privind sancționarea Societății MAGAZINUL DE ASIGURĂRI BROKER DE ASIGURARE REASIGURARE - S.R.L. cu retragerea autorizației de funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208043",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208043",
+     "sha256": "1a4448c6395a33f1f259fcd774dfc4ac23897e8bff973d369e16a3e52c861df8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-186-2018",
+   "path": "decizie/asf/2018/186",
+   "short": "Decizia asf nr. 186/2018",
+   "title": "Decizia nr. 186/2018 privind aprobarea transferului de portofoliu de asigurări de la Societatea ATE INSURANCE ROMANIA - S.A., în calitate de cedent, către Societatea EUROINS ROMANIA ASIGURARE REASIGURARE - S.A., în calitate de cesionar, și a retragerii, la cerere, a autorizației de funcționare a Societății ATE INSURANCE ROMANIA - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197951",
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197951",
+     "sha256": "b9668f0a8cbded898758794b3e8ec92a5356bb261f84afe46e6ec5bb38efcd75"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-630-2018",
+   "path": "decizie/asf/2018/630",
+   "short": "Decizia asf nr. 630/2018",
+   "title": "Decizia nr. 630/2018 privind sancționarea Societății EURORISK BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201746",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201746",
+     "sha256": "691679bf54dbd38498692c10ff49895e504be5bddfd6019ea62652d59780a05a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-869-2018",
+   "path": "decizie/asf/2018/869",
+   "short": "Decizia asf nr. 869/2018",
+   "title": "Decizia nr. 869/2018 privind retragerea autorizației ca furnizor de programe educaționale în domeniul asigurărilor și radierea din Registrul furnizorilor de programe educaționale în domeniul asigurărilor a Societății METROPOLITAN LIFE TRAINING &amp; CONSULTING - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203589",
+   "versions": [
+    {
+     "from": "2018-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203589",
+     "sha256": "f93c4061386c06af46ae8ffe1fa5452de9e9386fc97833635bdfa17485f0f961"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-870-2018",
+   "path": "decizie/asf/2018/870",
+   "short": "Decizia asf nr. 870/2018",
+   "title": "Decizia nr. 870/2018 privind sancționarea Societății CARPATICA ASIG - S.A. cu retragerea autorizației ca furnizor de programe educaționale în domeniul asigurărilor și radierea din Registrul furnizorilor de programe educaționale în domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203590",
+   "versions": [
+    {
+     "from": "2018-08-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203590",
+     "sha256": "ba311f2b7771f513bc13a41c76d28472f4e5779d9dac38d9fa9aff987879c87b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-898-2018",
+   "path": "decizie/asf/2018/898",
+   "short": "Decizia asf nr. 898/2018",
+   "title": "Decizia nr. 898/2018 privind autorizarea Patronatului Român al Brokerilor de Asigurare-Reasigurare ca furnizor de programe educaționale în domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203714",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203714",
+     "sha256": "e5ee7b50ad4d985c3e77c4d87c218c56fcc480fa1ff5eca8b4e93506ae121b32"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-345-2018",
+   "path": "decizie/cna/2018/345",
+   "short": "Decizia cna nr. 345/2018",
+   "title": "Decizia nr. 345/2018 pentru abrogarea Deciziei Consiliului Național al Audiovizualului nr. 36/2008 privind obligația distribuitorilor de servicii de programe de a aduce la cunoștința publicului sancțiunile aplicate de Consiliul Național al Audiovizualului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201902",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201902",
+     "sha256": "46088b374027cf33e816ed5dcec46e1a5fedce18567a86a18a8369feb7b7aa7c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-441-2018",
+   "path": "decizie/cna/2018/441",
+   "short": "Decizia cna nr. 441/2018",
+   "title": "Decizia nr. 441/2018 privind reflectarea pe posturile de radio și de televiziune a referendumului național pentru revizuirea Constituției din 6 și 7 octombrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205100",
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205100",
+     "sha256": "d99313d52153eaa15d124d7211fa7ec8f83bcdcfe9e8e73cc8d023476a24ddd0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-454-2018",
+   "path": "decizie/cna/2018/454",
+   "short": "Decizia cna nr. 454/2018",
+   "title": "Decizia nr. 454/2018 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 441/2018 privind reflectarea pe posturile de radio și de televiziune a referendumului național pentru revizuirea Constituției din 6 și 7 octombrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205433",
+   "versions": [
+    {
+     "from": "2018-10-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205433",
+     "sha256": "cfbd57357bac79ba30b8c195e5c52a59f32324d67909750769ff3be91cb58d5f"
     }
    ]
   }

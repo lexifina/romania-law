@@ -18916,6 +18916,831 @@
      "sha256": "34ec57338e09e93759dd062759c5e8a46918e698c153ab629d8641159e5f6983"
     }
    ]
+  },
+  {
+   "slug": "ordin-anre-100-2016",
+   "path": "ordin/anre/2016/100",
+   "short": "Ordin anre nr. 100/2016",
+   "title": "Ordinul nr. 100/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea MEHEDINȚI GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184002",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184002",
+     "sha256": "198791d3b6a5ddcf21f628795066c9e41b533da6b42dc1851cf32209fd1ae311"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-101-2016",
+   "path": "ordin/anre/2016/101",
+   "short": "Ordin anre nr. 101/2016",
+   "title": "Ordinul nr. 101/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea WIROM GAS - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184004",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184004",
+     "sha256": "e02c2ce5d15d5b801e8f3c3002f4b1c757026f15ef5a99144c15aff721890d4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-107-2016",
+   "path": "ordin/anre/2016/107",
+   "short": "Ordin anre nr. 107/2016",
+   "title": "Ordinul nr. 107/2016 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea E-Distribuție Muntenia - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184842",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184842",
+     "sha256": "6d86702ab6de82ade78d75840064b69bd959ef0d41321a125d561ce084e25f4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-108-2016",
+   "path": "ordin/anre/2016/108",
+   "short": "Ordin anre nr. 108/2016",
+   "title": "Ordinul nr. 108/2016 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea Enel Distribuție Banat - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184843",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184843",
+     "sha256": "8433569187858acbdf650cec4a6f826f300f559c858a96082d91aa9b9c0d92a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-109-2016",
+   "path": "ordin/anre/2016/109",
+   "short": "Ordin anre nr. 109/2016",
+   "title": "Ordinul nr. 109/2016 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea Enel Distribuție Dobrogea - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184844",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184844",
+     "sha256": "81481cc4084cb002fc117508894c223a58ac7d7b5bf695d98351129d617f0d36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-110-2016",
+   "path": "ordin/anre/2016/110",
+   "short": "Ordin anre nr. 110/2016",
+   "title": "Ordinul nr. 110/2016 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea CEZ Distribuție - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184845",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184845",
+     "sha256": "1c69fb965690c6164b4ea530d43c3ecaf2124e6f33d2948b29f381f8b9c54d6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-111-2016",
+   "path": "ordin/anre/2016/111",
+   "short": "Ordin anre nr. 111/2016",
+   "title": "Ordinul nr. 111/2016 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea \"E.ON Distribuție România\"- S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184846",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184846",
+     "sha256": "a5f62ce4369fcddeb360371eca13575ef18de3e151f6fa3e879afc588f600fd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-112-2016",
+   "path": "ordin/anre/2016/112",
+   "short": "Ordin anre nr. 112/2016",
+   "title": "Ordinul nr. 112/2016 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Filiala de Distribuție a Energiei Electrice \"Electrica Distribuție Muntenia Nord\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184847",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184847",
+     "sha256": "337639b67a73516752150a09deed895a9661c3313253ce75e12881f20ab282a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-19-2016",
+   "path": "ordin/anre/2016/19",
+   "short": "Ordin anre nr. 19/2016",
+   "title": "Ordinul nr. 19/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție a gazelor naturale realizat de Societatea DISTRIGAZ SUD REȚELE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177998",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177998",
+     "sha256": "ba6d112a06d9802d657eeb3f8740628085d7e9a21e998b910ef4590de0cf381b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-20-2016",
+   "path": "ordin/anre/2016/20",
+   "short": "Ordin anre nr. 20/2016",
+   "title": "Ordinul nr. 20/2016 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea ENGIE ROMÂNIA - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178012",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178012",
+     "sha256": "3ca515a941778d49f0ed07f04a6c4d562fdd4298dcc3c585795eb7a4276d7acd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-21-2016",
+   "path": "ordin/anre/2016/21",
+   "short": "Ordin anre nr. 21/2016",
+   "title": "Ordinul nr. 21/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție a gazelor naturale realizat de Societatea E.ON DISTRIBUȚIE ROMÂNIA - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178008",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178008",
+     "sha256": "22648f5cc6acd6a0a6224999ed9f1028b64e7b55a4132c509edd7a2d35b155dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-22-2016",
+   "path": "ordin/anre/2016/22",
+   "short": "Ordin anre nr. 22/2016",
+   "title": "Ordinul nr. 22/2016 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea E.ON ENERGIE ROMÂNIA - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178009",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178009",
+     "sha256": "df53a5bf178a6c2d273727cef20a9bc7348edf820e74e071df901f7dd3f034a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-33-2016",
+   "path": "ordin/anre/2016/33",
+   "short": "Ordin anre nr. 33/2016",
+   "title": "Ordinul nr. 33/2016 pentru completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 27/2016 privind aprobarea tarifului mediu pentru serviciul de transport, a tarifului pentru serviciul de sistem, a tarifelor zonale aferente serviciului de transport și a prețului reglementat pentru energia electrică reactivă, practicate de Compania Națională de",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180358",
+   "versions": [
+    {
+     "from": "2016-07-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180358",
+     "sha256": "9e47d0dd1983d1f99061ee393aa3891bcd656199495d4845e2090af54e5ccc8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-46-2016",
+   "path": "ordin/anre/2016/46",
+   "short": "Ordin anre nr. 46/2016",
+   "title": "Ordinul nr. 46/2016 pentru aprobarea Contractului-cadru pentru utilizarea Sistemului electroenergetic național pentru schimburile de energie electrică programate cu țările perimetrice, între Compania Națională de Transport al Energiei Electrice \"Transelectrica\" - S.A. și beneficiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181763",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181763",
+     "sha256": "a9d9c8add4098153a27776b36f7c15ae0a36f1144e5314a5c32f92eac25e77ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-47-2016",
+   "path": "ordin/anre/2016/47",
+   "short": "Ordin anre nr. 47/2016",
+   "title": "Ordinul nr. 47/2016 privind stabilirea prețurilor pentru furnizarea de ultimă instanță realizată de Societatea GRUP DEZVOLTARE REȚELE - S.A. pentru clienții finali de gaze naturale ai Societății INTERGAZ-EST - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181625",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181625",
+     "sha256": "025100cbf36f9e01889037fa6535e92441a6f75fa38e69610bc49974c44b8a16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-54-2016",
+   "path": "ordin/anre/2016/54",
+   "short": "Ordin anre nr. 54/2016",
+   "title": "Ordinul nr. 54/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea CPL CONCORDIA FILIALA CLUJ ROMÂNIA - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182089",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182089",
+     "sha256": "bb52ea0eac4800f04f2d0f48ce7e459616d958dc5a9b78991826d4ea320aa1db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-55-2016",
+   "path": "ordin/anre/2016/55",
+   "short": "Ordin anre nr. 55/2016",
+   "title": "Ordinul nr. 55/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea GAZ EST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182097",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182097",
+     "sha256": "748a3a0966dcb227da2aeca833367fd3f39c4b6658dc66efcdb658e15eae19ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-56-2016",
+   "path": "ordin/anre/2016/56",
+   "short": "Ordin anre nr. 56/2016",
+   "title": "Ordinul nr. 56/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea M.M. DATA - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182098",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182098",
+     "sha256": "fe84a70aa64d6fac366ee92916cfbe9ce07fb19e25e59fa5bbe83c3506ea5704"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-57-2016",
+   "path": "ordin/anre/2016/57",
+   "short": "Ordin anre nr. 57/2016",
+   "title": "Ordinul nr. 57/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea PROGAZ P&amp;D - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182080",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182080",
+     "sha256": "33eba2f07a834ef9d7ff4c8c834c623aada4aade970753fc100db6044f0258e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-58-2016",
+   "path": "ordin/anre/2016/58",
+   "short": "Ordin anre nr. 58/2016",
+   "title": "Ordinul nr. 58/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea Națională de Gaze Naturale \"ROMGAZ\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182090",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182090",
+     "sha256": "06d5fff399f979038a879eb2d375fc8b3811230af67c6494d4c47c5fe3f3b7ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-62-2016",
+   "path": "ordin/anre/2016/62",
+   "short": "Ordin anre nr. 62/2016",
+   "title": "Ordinul nr. 62/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea B.E.R.G. SISTEM GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182938",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182938",
+     "sha256": "3b337c582b622b8161035b29e883ebdfde4e948c315ede30cf57bfffdbb10a45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-63-2016",
+   "path": "ordin/anre/2016/63",
+   "short": "Ordin anre nr. 63/2016",
+   "title": "Ordinul nr. 63/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea CORDUN GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182939",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182939",
+     "sha256": "268becae08c04c04d784420235800c74a416f49d5a280c0018677d04eaec40c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-64-2016",
+   "path": "ordin/anre/2016/64",
+   "short": "Ordin anre nr. 64/2016",
+   "title": "Ordinul nr. 64/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea INSTANT CONSTRUCT COMPANY - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182940",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182940",
+     "sha256": "06ae5c9c39f2d9a59bf8cba8454bd08433164d61879b90fc1e27e7af7e5c38ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-65-2016",
+   "path": "ordin/anre/2016/65",
+   "short": "Ordin anre nr. 65/2016",
+   "title": "Ordinul nr. 65/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea OLIGOPOL - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182941",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182941",
+     "sha256": "297a49632050b1ac51288a439da09a788a7991d9f2ec9454903fbe995384ae7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-66-2016",
+   "path": "ordin/anre/2016/66",
+   "short": "Ordin anre nr. 66/2016",
+   "title": "Ordinul nr. 66/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea SALGAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182955",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182955",
+     "sha256": "cc243e23144de51e9ee0373a39554bc6f12876cf0aad9a5d0ea1f3c74d95787e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-67-2016",
+   "path": "ordin/anre/2016/67",
+   "short": "Ordin anre nr. 67/2016",
+   "title": "Ordinul nr. 67/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea TULCEA GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182956",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182956",
+     "sha256": "927d4f4a6091a06133c69f283c027ef808c10486f670d0a52bacb32d491a9a93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-70-2016",
+   "path": "ordin/anre/2016/70",
+   "short": "Ordin anre nr. 70/2016",
+   "title": "Ordinul nr. 70/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea GAZ VEST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183097",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183097",
+     "sha256": "9b39f033e2d03529495b17c573e0031e96883a51f2fb0d646c2228f0156a0332"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-71-2016",
+   "path": "ordin/anre/2016/71",
+   "short": "Ordin anre nr. 71/2016",
+   "title": "Ordinul nr. 71/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și modificarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 131/2014 privind aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizată de Societatea Comercială MIHOC OIL - S.R.L. și pentru abrogarea lit. b) din ane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183098",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183098",
+     "sha256": "51fd907b9d67ae5b69165c2f314023828d10907126468847668fb966336fdf45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-72-2016",
+   "path": "ordin/anre/2016/72",
+   "short": "Ordin anre nr. 72/2016",
+   "title": "Ordinul nr. 72/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea TEHNOLOGICA RADION - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183101",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183101",
+     "sha256": "41b3719e90cf8c0f50011a297cd5b099fff85cc708fec208bad5665ef9e66b66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-73-2016",
+   "path": "ordin/anre/2016/73",
+   "short": "Ordin anre nr. 73/2016",
+   "title": "Ordinul nr. 73/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea MĂCIN GAZ - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183103",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183103",
+     "sha256": "953d0cd1cf7dd84bcd0f9b8252b2a70e854dfd822e12414f5cb77be88510e503"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-80-2016",
+   "path": "ordin/anre/2016/80",
+   "short": "Ordin anre nr. 80/2016",
+   "title": "Ordinul nr. 80/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea AMARAD DISTRIBUȚIE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183907",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183907",
+     "sha256": "f9fa5b956c75ee304d152307edcfb17eb465137a9212b4de7dd505f36b80beba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-81-2016",
+   "path": "ordin/anre/2016/81",
+   "short": "Ordin anre nr. 81/2016",
+   "title": "Ordinul nr. 81/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea DESIGN PROIECT - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183912",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183912",
+     "sha256": "e8b40305c7658d9a7b8c68198b952fab2953539551e64db1754c3eb0f8ba753c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-82-2016",
+   "path": "ordin/anre/2016/82",
+   "short": "Ordin anre nr. 82/2016",
+   "title": "Ordinul nr. 82/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea GAZ NORD EST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183903",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183903",
+     "sha256": "3b21d8cc5b1ca362da01ece89648d98367906837a14ab86f9a0a6b928a7dbcf7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-83-2016",
+   "path": "ordin/anre/2016/83",
+   "short": "Ordin anre nr. 83/2016",
+   "title": "Ordinul nr. 83/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea GAZMIR IAȘI - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183908",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183908",
+     "sha256": "311a4a3299a82a82146514dbf2da73bec2b37f46b81bd5a87d14d4f30b076a04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-84-2016",
+   "path": "ordin/anre/2016/84",
+   "short": "Ordin anre nr. 84/2016",
+   "title": "Ordinul nr. 84/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea NOVA POWER &amp; GAS - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183913",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183913",
+     "sha256": "2ddfa75e0dccc29f38a797717098a0d0e7dd33d9c24530c3bde1ad7825b0129a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-89-2016",
+   "path": "ordin/anre/2016/89",
+   "short": "Ordin anre nr. 89/2016",
+   "title": "Ordinul nr. 89/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea HARGAZ HARGHITA GAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183977",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183977",
+     "sha256": "e690ebc70fd7585f12b3fff574ef328bdbe5ce23bb9873a3ef884f8a60a69580"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-9-2016",
+   "path": "ordin/anre/2016/9",
+   "short": "Ordin anre nr. 9/2016",
+   "title": "Ordinul nr. 9/2016 pentru prelungirea duratei de aplicare a Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 58/2015 privind stabilirea tarifului reglementat pentru prestarea serviciului de înmagazinare subterană a gazelor naturale de către Societatea Națională de Gaze Naturale \"Romgaz\" - S.A. Mediaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176976",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176976",
+     "sha256": "3e39028183494fea83b4f4f23d6bb06e34ff9dc2643504eb29adbe9dcf973089"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-90-2016",
+   "path": "ordin/anre/2016/90",
+   "short": "Ordin anre nr. 90/2016",
+   "title": "Ordinul nr. 90/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea VEGA 93 - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183978",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183978",
+     "sha256": "7e734eb1b1e1c976275fb738f6f7c9ace89111078c6b3b99ab745bec9dbd91c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-91-2016",
+   "path": "ordin/anre/2016/91",
+   "short": "Ordin anre nr. 91/2016",
+   "title": "Ordinul nr. 91/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea EURO SEVEN INDUSTRY - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183979",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183979",
+     "sha256": "e0e51789dddab43f9f2279eb0435c645fea94c29e1a076589b773af048b0f9b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-92-2016",
+   "path": "ordin/anre/2016/92",
+   "short": "Ordin anre nr. 92/2016",
+   "title": "Ordinul nr. 92/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea MEGACONSTRUCT - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183980",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183980",
+     "sha256": "3b30f09d24f80e20c4f5ea7e2e7fe951e5fb4c777b5384e57acf19781a26397f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-93-2016",
+   "path": "ordin/anre/2016/93",
+   "short": "Ordin anre nr. 93/2016",
+   "title": "Ordinul nr. 93/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea TIMGAZ - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183981",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183981",
+     "sha256": "08bf4a6943e95a736e3a97a71fe79dbfbf546c39e42076fa63353727b59a05dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-94-2016",
+   "path": "ordin/anre/2016/94",
+   "short": "Ordin anre nr. 94/2016",
+   "title": "Ordinul nr. 94/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea DISTRIGAZ VEST - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183982",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183982",
+     "sha256": "8384153bb4d8736bc7ad693cc14451e804525d1ba6d22afd63ee24e04673a303"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-95-2016",
+   "path": "ordin/anre/2016/95",
+   "short": "Ordin anre nr. 95/2016",
+   "title": "Ordinul nr. 95/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea NORD GAZ - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183983",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183983",
+     "sha256": "462d95e7b3ac2c3075a94267b8ad742779e3a208dea0e732830da7078caf3aef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-96-2016",
+   "path": "ordin/anre/2016/96",
+   "short": "Ordin anre nr. 96/2016",
+   "title": "Ordinul nr. 96/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea PRISMA SERV COMPANY - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183984",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183984",
+     "sha256": "cbb0f8cc8c3dbdb27437944704a68fc128489df59654bb91723557d3f619a7a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-97-2016",
+   "path": "ordin/anre/2016/97",
+   "short": "Ordin anre nr. 97/2016",
+   "title": "Ordinul nr. 97/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea OTTO GAZ - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184003",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184003",
+     "sha256": "271869bae52d2ef2e7708450ed718d8590f78726fa587f7fdcd29367c21e461f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-98-2016",
+   "path": "ordin/anre/2016/98",
+   "short": "Ordin anre nr. 98/2016",
+   "title": "Ordinul nr. 98/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea PREMIER ENERGY - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184005",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184005",
+     "sha256": "e18fc15c9e79c5115ff6db42e56414c07f660efaf8caf8c0ac431a46459c8770"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-99-2016",
+   "path": "ordin/anre/2016/99",
+   "short": "Ordin anre nr. 99/2016",
+   "title": "Ordinul nr. 99/2016 privind stabilirea tarifelor reglementate pentru prestarea serviciului de distribuție și aprobarea prețurilor pentru furnizarea reglementată a gazelor naturale realizate de Societatea COVI CONSTRUCT 2000 - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184012",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184012",
+     "sha256": "9e35c620390dc041da248324222d336a3d8ada6213fd20a0b5c44967feda3bd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-106-2016",
+   "path": "ordin/ansvsa/2016/106",
+   "short": "Ordin ansvsa nr. 106/2016",
+   "title": "Ordinul nr. 106/2016 privind constituirea Comitetului național pentru protecția animalelor utilizate în scopuri științifice sau educative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182814",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182814",
+     "sha256": "0b5a55cd8f7d0c8e6813d76eff431acbfeac56678fd6d00398367c21cad261db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-15-2016",
+   "path": "ordin/ansvsa/2016/15",
+   "short": "Ordin ansvsa nr. 15/2016",
+   "title": "Ordinul nr. 15/2016 privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale, al ministrului mediului, apelor și pădurilor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 352/636/54/2015 pentru aprobarea normelor privind ecocondiționalitatea în cadrul schemelor și măsurilor de sprijin pentru fermieri în Rom",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176504",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176504",
+     "sha256": "8d9ac71faf62de3c66f7aa21d80258ba67225839229848e0eb54fee8b7ee2604"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-99-2016",
+   "path": "ordin/ansvsa/2016/99",
+   "short": "Ordin ansvsa nr. 99/2016",
+   "title": "Ordinul nr. 99/2016 pentru modificarea și completarea Ordinului ministrului sănătății, al ministrului mediului și pădurilor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 10/368/11/2010 privind aprobarea procedurii de avizare a produselor biocide care sunt plasate pe piață pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181570",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181570",
+     "sha256": "c11d69f062f9ff0c44b50601dcfa0b458062fac657308f249d527af35d0967fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-15-2016",
+   "path": "ordin/bnr/2016/15",
+   "short": "Ordin bnr nr. 15/2016",
+   "title": "Ordinul nr. 15/2016 privind dispunerea radierii din Registrul general și Registrul special ale instituțiilor financiare nebancare a S.C. INTESA SANPAOLO LEASING ROMANIA IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175380",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175380",
+     "sha256": "e4b6c46128f47460858f35f2d078ec36140e76e36f45afee493b3a2b228bd35f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-152-2016",
+   "path": "ordin/bnr/2016/152",
+   "short": "Ordin bnr nr. 152/2016",
+   "title": "Ordinul nr. 152/2016 privind dispunerea radierii din Registrul general Instituții Financiare Nebancare și din Registrul special Instituții Financiare Nebancare a Societății FORTIS LEASE ROMANIA IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176530",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176530",
+     "sha256": "f0521ced0b3280fbff99be5ff27d60b6230a92880062b276d602556d0715156e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-731-2016",
+   "path": "ordin/bnr/2016/731",
+   "short": "Ordin bnr nr. 731/2016",
+   "title": "Ordinul nr. 731/2016 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății RSL LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182034",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182034",
+     "sha256": "a4d363183dc732f86ccd5141da99d17ebd099b2d0cd2139e64ff6d2b7d1bbe24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-732-2016",
+   "path": "ordin/bnr/2016/732",
+   "short": "Ordin bnr nr. 732/2016",
+   "title": "Ordinul nr. 732/2016 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății GENERAL MAX LEASING IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182035",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182035",
+     "sha256": "f2e63d9364f25a98b90e20eded6ef16bfabe871a17b04b9ff43485737dba4b3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-733-2016",
+   "path": "ordin/bnr/2016/733",
+   "short": "Ordin bnr nr. 733/2016",
+   "title": "Ordinul nr. 733/2016 privind publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare a Societății FORZA ROSSA FINANCIAL SERVICES IFN - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182036",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182036",
+     "sha256": "cfc89f7b5ec64a5be798de4c88c92eebddd6ee3454974c584e2fbfa12563f686"
+    }
+   ]
   }
  ]
 }

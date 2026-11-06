@@ -123,6 +123,36 @@
    ]
   },
   {
+   "slug": "hotarare-csspp-22-2006",
+   "path": "hotarare/csspp/2006/22",
+   "short": "Hotărârea csspp nr. 22/2006",
+   "title": "Hotărârea nr. 22/2006 pentru aprobarea Normei nr. 10/2006 privind marketingul prospectului schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76273",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76273",
+     "sha256": "05c5e2510d6ce1fe758f969f36b4b52b6e02ff3ee6b1eb2d5c9ab7774a28b61b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-23-2006",
+   "path": "hotarare/csspp/2006/23",
+   "short": "Hotărârea csspp nr. 23/2006",
+   "title": "Hotărârea nr. 23/2006 pentru aprobarea Normei nr. 11/2006 privind activitatea de depozitare a activelor fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91127",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91127",
+     "sha256": "548fe7657f7de8cd69dc353de696318d3404401cb2666d7c8cbd707e676eae2c"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-csspp-24-2006",
    "path": "hotarare/csspp/2006/24",
    "short": "Hotărârea csspp nr. 24/2006",
@@ -164,6 +194,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76267",
      "sha256": "5739ff88933047b3c681c63156c7d99c08b68b8dc3d1c25191c586576ad8f59c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-35-2006",
+   "path": "hotarare/csspp/2006/35",
+   "short": "Hotărârea csspp nr. 35/2006",
+   "title": "Hotărârea nr. 35/2006 privind aprobarea Normei nr. 16/2006 pentru modificarea Normei nr. 2/2006 privind autorizarea societății de administrare a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77709",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77709",
+     "sha256": "ae23fd4324e4a30351298884263511eefb84cfabc97a526b429af5b6b498257a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-36-2006",
+   "path": "hotarare/csspp/2006/36",
+   "short": "Hotărârea csspp nr. 36/2006",
+   "title": "Hotărârea nr. 36/2006 privind aprobarea Normei nr. 17/2006 pentru modificarea Normei nr. 9/2006 privind taxele de autorizare, avizare și administrare în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77679",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77679",
+     "sha256": "4eef4d4906bcec5f1e7272be029edf305f2f48b7e79eb8110bd66dd4ed6ca8aa"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-38-2006",
+   "path": "hotarare/csspp/2006/38",
+   "short": "Hotărârea csspp nr. 38/2006",
+   "title": "Hotărârea nr. 38/2006 privind aprobarea Normei nr. 19/2006 pentru modificarea Normei nr. 12/2006 privind participanții la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77692",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77692",
+     "sha256": "85ffe2f2899479f01a3942a01e80bbcee6d28e83eb135fdfb3f125b071f11bcc"
     }
    ]
   }

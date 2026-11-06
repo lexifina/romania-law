@@ -14956,6 +14956,21 @@
      "sha256": "0088430eadc4f9172c5c5d3087dd4a96d0ead20002fb2a40fcd40f67016fca08"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-27-2010",
+   "path": "ordin/bnr/2010/27",
+   "short": "Ordin bnr nr. 27/2010",
+   "title": "Ordinul nr. 27/2010 pentru aprobarea Reglementărilor contabile conforme cu Standardele Internaționale de Raportare Financiară, aplicabile instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222794",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222794",
+     "sha256": "0eb22c24ed09a76b9208f49163e507c5be1bee49044f7890e1e254ad6cd7a32a"
+    }
+   ]
   }
  ]
 }

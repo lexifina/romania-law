@@ -1084,6 +1084,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277586",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "circulara-bnr-59-2023",
+"path": "circulara/bnr/2023/59",
+"kind": "circulara",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Circulara nr. 59/2023 privind rata dobânzii plătite la rezervele minime obligatorii constituite în dolari începând cu perioada de aplicare 24 noiembrie-23 decembrie 2023",
+"short": "Circulara bnr nr. 59/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277587",
+"issuer": "bnr",
+"joint": []
 }
 ]
 }

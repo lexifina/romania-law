@@ -3,6 +3,141 @@
  "shard": "decizie/2015",
  "acts": [
   {
+   "slug": "decizie-ancom-1079-2015",
+   "path": "decizie/ancom/2015/1079",
+   "short": "Decizia ancom nr. 1079/2015",
+   "title": "Decizia nr. 1.079/2015 pentru modificarea și completarea unor reglementări în scopul transmiterii de documente, date sau informații de către furnizorii de servicii poștale prin mijloace electronice, precum și pentru utilizarea acestor mijloace electronice în alte situații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173439",
+   "versions": [
+    {
+     "from": "2015-12-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173439",
+     "sha256": "c9990fdf5c3a494a17b0c91a8d3bca90c7e9a8265b3b1bf41010c80c7fda7447"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1145-2015",
+   "path": "decizie/ancom/2015/1145",
+   "short": "Decizia ancom nr. 1145/2015",
+   "title": "Decizia nr. 1.145/2015 privind identificarea pieței relevante din sectorul comunicațiilor electronice corespunzătoare serviciilor de acces la elemente de infrastructură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174441",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174441",
+     "sha256": "4683da5e1d5b13953578201caf6f8349e2ed5c4dde5450414e75e914edf3405c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-158-2015",
+   "path": "decizie/ancom/2015/158",
+   "short": "Decizia ancom nr. 158/2015",
+   "title": "Decizia nr. 158/2015 privind obligațiile de informare a utilizatorilor finali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166022",
+   "versions": [
+    {
+     "from": "2015-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166022",
+     "sha256": "d84add6b0b86268b040c0903f2d1fb0e03948830038f21373334377517bd005a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-160-2015",
+   "path": "decizie/ancom/2015/160",
+   "short": "Decizia ancom nr. 160/2015",
+   "title": "Decizia nr. 160/2015 privind stabilirea unor măsuri adresate utilizatorilor finali cu dizabilități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165972",
+   "versions": [
+    {
+     "from": "2015-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165972",
+     "sha256": "0fea397599ebdbc4facfa62848465d0c0036aa1ddd6de8a6bdd26f53bd9a8887"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-344-2015",
+   "path": "decizie/ancom/2015/344",
+   "short": "Decizia ancom nr. 344/2015",
+   "title": "Decizia nr. 344/2015 pentru modificarea și completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 629/2010 privind procedura de autorizare a furnizării serviciilor de programe audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167439",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167439",
+     "sha256": "5f62b3cead0c2634e7802c12dce14d01f10d6ea9b6f19f2226d680d910eba1a7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-353-2015",
+   "path": "decizie/ancom/2015/353",
+   "short": "Decizia ancom nr. 353/2015",
+   "title": "Decizia nr. 353/2015 privind procedura de acordare a drepturilor de utilizare a frecvențelor radio",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167580",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167580",
+     "sha256": "27b1f2fda296f01af8f689ea33e948a55ddddab410c69df8e61be4cca5f89131"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-390-2015",
+   "path": "decizie/ancom/2015/390",
+   "short": "Decizia ancom nr. 390/2015",
+   "title": "Decizia nr. 390/2015 pentru adoptarea Strategiei și a planului de acțiune privind implementarea și dezvoltarea sistemelor de comunicații de bandă largă la nivel național în banda de frecvențe 3400-3800 MHz pentru perioada 2015-2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167969",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167969",
+     "sha256": "6bcf099f717fec8047f45cbc85d08c1d283895c1320cd84f98b1d80eccddb576"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-451-2015",
+   "path": "decizie/ancom/2015/451",
+   "short": "Decizia ancom nr. 451/2015",
+   "title": "Decizia nr. 451/2015 pentru modificarea și completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 541/2013 privind condițiile și procedura de desemnare a furnizorilor de serviciu universal în domeniul serviciilor poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168608",
+   "versions": [
+    {
+     "from": "2015-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168608",
+     "sha256": "8c8f61d28008bd2715496ce34602e84ae5997d11de11f5208bc1a0a7a0754902"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-512-2015",
+   "path": "decizie/ancom/2015/512",
+   "short": "Decizia ancom nr. 512/2015",
+   "title": "Decizia nr. 512/2015 privind procedura de acordare a drepturilor de utilizare a frecvențelor radio pentru misiunile diplomatice, oficiile consulare și reprezentanțele organizațiilor internaționale acreditate în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169208",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169208",
+     "sha256": "ce236a1ba26ac16a4fb9150acc70bb235ec72a1a04cf90bd545e1a4680d7e050"
+    }
+   ]
+  },
+  {
    "slug": "decizie-ancom-651-2015",
    "path": "decizie/ancom/2015/651",
    "short": "Decizia ancom nr. 651/2015",
@@ -14,6 +149,1341 @@
      "units": 1,
      "source_url": "https://www.ancom.ro/decizie/decizie-nr-651-2015-pentru-modificarea-i-completarea-unor-reglementri-din-domeniul-resurselor-de-numerotaie-resurselor-tehnice-i-al-portabilitii-numerelor/?link_id=Decizia_ANCOM_Nr651_2015_Forma_MOF1440665004.pdf",
      "sha256": "783a2fa0af362e757779ad291b8741af6225c97877e26d723b8951e2ba241123"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-686-2015",
+   "path": "decizie/ancom/2015/686",
+   "short": "Decizia ancom nr. 686/2015",
+   "title": "Decizia nr. 686/2015 privind organizarea procedurii de selecție pentru acordarea drepturilor de utilizare a frecvențelor radio în banda de frecvențe 3410-3800 MHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171166",
+   "versions": [
+    {
+     "from": "2015-09-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171166",
+     "sha256": "b4d1bdac2e50862e61ed95f56e155f91e31a8cd2fe543c1ddc8fa8aea20d02b6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-687-2015",
+   "path": "decizie/ancom/2015/687",
+   "short": "Decizia ancom nr. 687/2015",
+   "title": "Decizia nr. 687/2015 pentru modificarea și completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 551/2012 privind stabilirea tarifului de utilizare a spectrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171167",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171167",
+     "sha256": "9570600e6be8eb4efa69e466b8dcc94ca827a5e90f95b8760da480a2bb5892c0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-2080-2015",
+   "path": "decizie/anre/2015/2080",
+   "short": "Decizia anre nr. 2080/2015",
+   "title": "Decizia nr. 2.080/2015 pentru aprobarea modalității de alocare transfrontalieră a costurilor aferente proiectelor de interes comun inițiate de Societatea Națională de Transport Gaze Naturale \"Transgaz\" - S.A. Mediaș din România și Foldgazszallito Zartkoruen Mukodo Reszvenytarsasag (FGSZ) din Ungaria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171917",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171917",
+     "sha256": "cd2c521827296c280d42bf690063f9ae50d2597a4e04bbc96ec72e449bad188d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-105-2015",
+   "path": "decizie/asf/2015/105",
+   "short": "Decizia asf nr. 105/2015",
+   "title": "Decizia nr. 105/2015 privind sancționarea Societății MEDINS 2002 ROMÂNIA BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165226",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165226",
+     "sha256": "429cb0fa04bd7d273ae6ff33189150f081e7d9ae81caddf98b6e504014dd77e1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-106-2015",
+   "path": "decizie/asf/2015/106",
+   "short": "Decizia asf nr. 106/2015",
+   "title": "Decizia nr. 106/2015 pentru aprobarea cererii de suspendare a activității Societății SPEED INSURANCE GROUP BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165292",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165292",
+     "sha256": "1829a10b70802df6aec278eb91ac8568cd56121f9ebd7a540212d05e14594bf7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1229-2015",
+   "path": "decizie/asf/2015/1229",
+   "short": "Decizia asf nr. 1229/2015",
+   "title": "Decizia nr. 1.229/2015 privind sancționarea Societății HEALTH SMART INVESTMENTS BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169155",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169155",
+     "sha256": "b625884476957612ce75c29b7e99a0b8f366431975ad9020d16a396d7875150f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1589-2015",
+   "path": "decizie/asf/2015/1589",
+   "short": "Decizia asf nr. 1589/2015",
+   "title": "Decizia nr. 1.589/2015 privind sancționarea Societății WISE INSURANCE BROKERS - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169837",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169837",
+     "sha256": "42e140d5ed1daf33bf84ed090cc89fd320d32209770a3eaf8a059f74eb72b31f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1693-2015",
+   "path": "decizie/asf/2015/1693",
+   "short": "Decizia asf nr. 1693/2015",
+   "title": "Decizia nr. 1.693/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății AVERAL CONSULT GROUP BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170201",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170201",
+     "sha256": "21c8f29c70975758b384b44d3a9cf372550cd0c4065c7fb5b3181ae226ecfebd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1695-2015",
+   "path": "decizie/asf/2015/1695",
+   "short": "Decizia asf nr. 1695/2015",
+   "title": "Decizia nr. 1.695/2015 privind sancționarea cu interzicerea temporară a exercitării activității Societății DYNAMICH BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170202",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170202",
+     "sha256": "6b0eb5d242d689d8ba4fd49d3e03c497ab4067405f1dda640cdd76c6175605e8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1696-2015",
+   "path": "decizie/asf/2015/1696",
+   "short": "Decizia asf nr. 1696/2015",
+   "title": "Decizia nr. 1.696/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății ECLAIMS MANAGEMENT - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170203",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170203",
+     "sha256": "4f345268f20706131239db90367601f51c1c9d7946f7d4b6061b875568153487"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1697-2015",
+   "path": "decizie/asf/2015/1697",
+   "short": "Decizia asf nr. 1697/2015",
+   "title": "Decizia nr. 1.697/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății OFFICE INSURANCE - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170204",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170204",
+     "sha256": "df5d04f6436695b1e346061a11912a04837d6090c22bae612e5e1b5048706d2a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1698-2015",
+   "path": "decizie/asf/2015/1698",
+   "short": "Decizia asf nr. 1698/2015",
+   "title": "Decizia nr. 1.698/2015 privind sancționarea cu interzicerea temporară a exercitării activității Societății NOVA GRUP ASIGURĂRI BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170205",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170205",
+     "sha256": "fcd28e420f9db0e84080d40d8b5ac523393e7532eadd823f020426da23eed982"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1699-2015",
+   "path": "decizie/asf/2015/1699",
+   "short": "Decizia asf nr. 1699/2015",
+   "title": "Decizia nr. 1.699/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății S.O.S. ASIGURĂRI - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170206",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170206",
+     "sha256": "863ba6b7acbab9d5aee72e281670d78edc59603c0a1095369943cf6267140f93"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1700-2015",
+   "path": "decizie/asf/2015/1700",
+   "short": "Decizia asf nr. 1700/2015",
+   "title": "Decizia nr. 1.700/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății AIR BROKER DE ASIGURARE REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170208",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170208",
+     "sha256": "10816500302769ca3ca3def2aff13606219b229d7e43bbf776bf471dee37af53"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1706-2015",
+   "path": "decizie/asf/2015/1706",
+   "short": "Decizia asf nr. 1706/2015",
+   "title": "Decizia nr. 1.706/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății TERRA BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170210",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170210",
+     "sha256": "27be8ab074fb8658a340a74e1ad3a21bb01d7dc9c918952cafdce85495c94058"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1708-2015",
+   "path": "decizie/asf/2015/1708",
+   "short": "Decizia asf nr. 1708/2015",
+   "title": "Decizia nr. 1.708/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății N.B. BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170283",
+   "versions": [
+    {
+     "from": "2015-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170283",
+     "sha256": "1c2af3d338df284182804ad18f2e0ac101362d9c2ab93c1c0224bf210e02917b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1709-2015",
+   "path": "decizie/asf/2015/1709",
+   "short": "Decizia asf nr. 1709/2015",
+   "title": "Decizia nr. 1.709/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății CERTO - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170325",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170325",
+     "sha256": "b06565786e2c99ffb5284ec08d9163e728229410d4c98fc6fe3b8386aa2aae95"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1752-2015",
+   "path": "decizie/asf/2015/1752",
+   "short": "Decizia asf nr. 1752/2015",
+   "title": "Decizia nr. 1.752/2015 privind retragerea, la cerere, a autorizației de funcționare a Societății CONSULT ASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170326",
+   "versions": [
+    {
+     "from": "2015-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170326",
+     "sha256": "24b07c0cf9d55dd9bd1e4a5b76f3ebe23613a6796b59f0cfcea93372e9a25da0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1795-2015",
+   "path": "decizie/asf/2015/1795",
+   "short": "Decizia asf nr. 1795/2015",
+   "title": "Decizia nr. 1.795/2015 privind aprobarea cererii de suspendare a activității Societății STRASIG BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170605",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170605",
+     "sha256": "c9c99d959000c05d95df315e7d0b6bedccfe1c8e85e40e7ca920015192cf25b8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1796-2015",
+   "path": "decizie/asf/2015/1796",
+   "short": "Decizia asf nr. 1796/2015",
+   "title": "Decizia nr. 1.796/2015 privind sancționarea Societății EWO INSURANCE - BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170606",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170606",
+     "sha256": "18859a16cdbf6f279054e614db60c59ea9f5f48c15949308f3a2770afc9befb7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1998-2015",
+   "path": "decizie/asf/2015/1998",
+   "short": "Decizia asf nr. 1998/2015",
+   "title": "Decizia nr. 1.998/2015 privind retragerea, la cerere, a autorizației de funcționare a Societății SMARALD BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171062",
+   "versions": [
+    {
+     "from": "2015-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171062",
+     "sha256": "0e0c9ef0d4b6ed727cf9e872d083a5c6a711cd3aee2926a8888bb3c54a98dc81"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-200-2015",
+   "path": "decizie/asf/2015/200",
+   "short": "Decizia asf nr. 200/2015",
+   "title": "Decizia nr. 200/2015 privind sancționarea Societății TAR &amp; TAR BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165774",
+   "versions": [
+    {
+     "from": "2015-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165774",
+     "sha256": "bcc89f225907958a0a89671912070398b13d6961a56c3a1cb14fdba1efe30968"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2047-2015",
+   "path": "decizie/asf/2015/2047",
+   "short": "Decizia asf nr. 2047/2015",
+   "title": "Decizia nr. 2.047/2015 privind sancționarea Societății B&amp;M BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171098",
+   "versions": [
+    {
+     "from": "2015-09-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171098",
+     "sha256": "e84b0deab3cce5668a9085dc4b02522ae07a3db2d785c829e48adc6bb3e6b83c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2231-2015",
+   "path": "decizie/asf/2015/2231",
+   "short": "Decizia asf nr. 2231/2015",
+   "title": "Decizia nr. 2.231/2015 privind retragerea, la cerere, a autorizației de funcționare a Societății PENTA - INTERNAȚIONAL INSURANCE REINSURANCE BROKER - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171699",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171699",
+     "sha256": "ec4dd43b1125c118223862d130bd59a38ae02a54066c0cf5eb3ed1f394188775"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2233-2015",
+   "path": "decizie/asf/2015/2233",
+   "short": "Decizia asf nr. 2233/2015",
+   "title": "Decizia nr. 2.233/2015 privind sancționarea Societății INSURANCE MIX BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171700",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171700",
+     "sha256": "168e871ae0436c79dfbb1237eb527ae0b90083a4e3207553061f3fe52c5ea07d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2338-2015",
+   "path": "decizie/asf/2015/2338",
+   "short": "Decizia asf nr. 2338/2015",
+   "title": "Decizia nr. 2.338/2015 privind aprobarea suspendării activității, la cerere, a Societății ASIGEXCEL BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171646",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171646",
+     "sha256": "b20f36390304f540970a267e57de9f667f69c50ffc7a004cbc9f7c0672e2e30f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2367-2015",
+   "path": "decizie/asf/2015/2367",
+   "short": "Decizia asf nr. 2367/2015",
+   "title": "Decizia nr. 2.367/2015 privind aprobarea cererii de retragere a autorizației de funcționare a Societății SEMPER FIDELIS - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171725",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171725",
+     "sha256": "9d58b6f4d78de70db7f6378115fc54aa01bcda5abf3e2610a642ccae7e72a74e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-243-2015",
+   "path": "decizie/asf/2015/243",
+   "short": "Decizia asf nr. 243/2015",
+   "title": "Decizia nr. 243/2015 privind autorizarea funcționării ca broker de asigurare a Societății W BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165914",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165914",
+     "sha256": "3cc76bb1de1a746782f7317b44f2f56ead6399388dbdf1176ae18faf9fe73b4e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-244-2015",
+   "path": "decizie/asf/2015/244",
+   "short": "Decizia asf nr. 244/2015",
+   "title": "Decizia nr. 244/2015 privind sancționarea Societății GEMARAL BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166125",
+   "versions": [
+    {
+     "from": "2015-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166125",
+     "sha256": "addf228cc503dc8498a40ebdbcd51f40d1d73fbb70968c8c7ee975f69acec7c8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2575-2015",
+   "path": "decizie/asf/2015/2575",
+   "short": "Decizia asf nr. 2575/2015",
+   "title": "Decizia nr. 2.575/2015 privind sancționarea Societății SFINX BROKER DE ASIGURARE - S.R.L. cu retragerea autorizației de funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172333",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172333",
+     "sha256": "51ce9722d510b59e214865bded30dfdf6a690e762042b3f36abb80f5b9213e54"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2576-2015",
+   "path": "decizie/asf/2015/2576",
+   "short": "Decizia asf nr. 2576/2015",
+   "title": "Decizia nr. 2.576/2015 privind sancționarea Societății QUALITY ASIG - BROKER DE ASIGURARE - S.R.L. cu retragerea autorizației de funcționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172334",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172334",
+     "sha256": "bf505fc168e0a7913c9e7fafdb5da1ea75746c76e92f248fb7c5340beb71d29c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-2577-2015",
+   "path": "decizie/asf/2015/2577",
+   "short": "Decizia asf nr. 2577/2015",
+   "title": "Decizia nr. 2.577/2015 privind sancționarea Societății ASIPREST BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172335",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172335",
+     "sha256": "1893460019b8356952ba6bc1187b042869c1a4b5bf4987c4376d49ed9a3e0ded"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-262-2015",
+   "path": "decizie/asf/2015/262",
+   "short": "Decizia asf nr. 262/2015",
+   "title": "Decizia nr. 262/2015 pentru aprobarea retragerii autorizației de funcționare ca broker de asigurare a Societății ROYAL BUSINESS BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166103",
+   "versions": [
+    {
+     "from": "2015-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166103",
+     "sha256": "ee38b17ad871a61d3e4548489c278eaae319c049534b7e368d173f17ba7ad9b0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-272-2015",
+   "path": "decizie/asf/2015/272",
+   "short": "Decizia asf nr. 272/2015",
+   "title": "Decizia nr. 272/2015 privind aprobarea cererii de retragere a autorizației de funcționare a Societății ASIPLUS BROKER DE ASIGURARE REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166126",
+   "versions": [
+    {
+     "from": "2015-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166126",
+     "sha256": "29df9e141ad071395e89ae45b0d080aa6310249c13c429e794334a9cefe19486"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-273-2015",
+   "path": "decizie/asf/2015/273",
+   "short": "Decizia asf nr. 273/2015",
+   "title": "Decizia nr. 273/2015 privind retragerea autorizației de funcționare și radierea Societății AL BROKER INVEST - Broker de Asigurare - S.A. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166127",
+   "versions": [
+    {
+     "from": "2015-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166127",
+     "sha256": "f2a075a6107b6a65f94e50563adcd458a2e5a33cedc4bd7e6530dee9673d5a3d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-274-2015",
+   "path": "decizie/asf/2015/274",
+   "short": "Decizia asf nr. 274/2015",
+   "title": "Decizia nr. 274/2015 privind retragerea autorizației de funcționare și radierea Societății ALLIED TEAM Broker de Asigurare-Reasigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166129",
+   "versions": [
+    {
+     "from": "2015-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166129",
+     "sha256": "bf63cba4c563fe23dfc68f0751e876d9789f23a158c340bf6397cb75555e76a9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-275-2015",
+   "path": "decizie/asf/2015/275",
+   "short": "Decizia asf nr. 275/2015",
+   "title": "Decizia nr. 275/2015 privind retragerea autorizației de funcționare și radierea Societății ASA GROUP Broker de Asigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166006",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166006",
+     "sha256": "98dd2af76f0d010bab5ad396f8e3900e38458a0f1c00c4cb3a47b48e1e7432ec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-276-2015",
+   "path": "decizie/asf/2015/276",
+   "short": "Decizia asf nr. 276/2015",
+   "title": "Decizia nr. 276/2015 privind retragerea autorizației de funcționare și radierea Societății ASIRAN Broker de Asigurări și Reasigurări - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166012",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166012",
+     "sha256": "4657f4af5ae9539746c3d247620253386242f91b2f4e547c1f169f724f1d96fb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-278-2015",
+   "path": "decizie/asf/2015/278",
+   "short": "Decizia asf nr. 278/2015",
+   "title": "Decizia nr. 278/2015 privind retragerea autorizației de funcționare și radierea Societății BALKAN INSURANCE Broker de Asigurare-Reasigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166041",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166041",
+     "sha256": "694ea6d2d8ef4e970cad8f261b1bfd5c2d6a6fb0c6e53f00ed5219c6f272705a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-281-2015",
+   "path": "decizie/asf/2015/281",
+   "short": "Decizia asf nr. 281/2015",
+   "title": "Decizia nr. 281/2015 privind retragerea autorizației de funcționare și radierea Societății BROKER INVEST Broker de Asigurare-Reasigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166007",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166007",
+     "sha256": "e91b9e393f7755ec4a9f1e9dc68415b9d1f86d69cfd6e03c7945b8db896283d5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-282-2015",
+   "path": "decizie/asf/2015/282",
+   "short": "Decizia asf nr. 282/2015",
+   "title": "Decizia nr. 282/2015 privind retragerea autorizației de funcționare și radierea Societății CAPITAL &amp; ALLIANCE INSURANCE Broker - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166008",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166008",
+     "sha256": "8d5a217c1b873fadd9235c745867b4ddeeb9acbd633e576fb058e9f17d65ed22"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-283-2015",
+   "path": "decizie/asf/2015/283",
+   "short": "Decizia asf nr. 283/2015",
+   "title": "Decizia nr. 283/2015 privind retragerea autorizației de funcționare și radierea Societății EDY Broker de Asigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166010",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166010",
+     "sha256": "bee767627e0b6f7f43605bbc9c95ae57eedfafb16ca0dadf904c86001f603c54"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-284-2015",
+   "path": "decizie/asf/2015/284",
+   "short": "Decizia asf nr. 284/2015",
+   "title": "Decizia nr. 284/2015 privind retragerea autorizației de funcționare și radierea Societății \"Insurance Reinsurance International Broker de Asigurare\" - S.A. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166017",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166017",
+     "sha256": "6959a221b1be66a0bdbca2f525e03cd04892f0cbe4c458821b4008de43876ced"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-286-2015",
+   "path": "decizie/asf/2015/286",
+   "short": "Decizia asf nr. 286/2015",
+   "title": "Decizia nr. 286/2015 privind retragerea autorizației de funcționare și radierea Societății LIDA Broker de Asigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166018",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166018",
+     "sha256": "736818d91422e11615dc526b665b0fcfd408b135dabcd05c36da268fde68ee41"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-287-2015",
+   "path": "decizie/asf/2015/287",
+   "short": "Decizia asf nr. 287/2015",
+   "title": "Decizia nr. 287/2015 privind retragerea autorizației de funcționare și radierea Societății SIGMA Broker de Asigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166066",
+   "versions": [
+    {
+     "from": "2015-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166066",
+     "sha256": "28108bc52f17ab2b614ab8472c377a83bb114f3869d0c705792a0dd47cf939fb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-288-2015",
+   "path": "decizie/asf/2015/288",
+   "short": "Decizia asf nr. 288/2015",
+   "title": "Decizia nr. 288/2015 privind retragerea autorizației de funcționare și radierea Societății ONEST ASIG Broker de Asigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166067",
+   "versions": [
+    {
+     "from": "2015-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166067",
+     "sha256": "e6d26a7cff4a31e09ae200b0f1cedb1a40c08d18050c15d28937c2250ee6c64a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-289-2015",
+   "path": "decizie/asf/2015/289",
+   "short": "Decizia asf nr. 289/2015",
+   "title": "Decizia nr. 289/2015 privind retragerea autorizației de funcționare și radierea societății PRIMA Broker de Asigurare-Reasigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166068",
+   "versions": [
+    {
+     "from": "2015-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166068",
+     "sha256": "42c36ec95e8556bfc56b8494668141e1b066e39c817f618395d98e38302f95ff"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-290-2015",
+   "path": "decizie/asf/2015/290",
+   "short": "Decizia asf nr. 290/2015",
+   "title": "Decizia nr. 290/2015 privind retragerea autorizației de funcționare și radierea Societății SITAL ASIGURARI - BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165994",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165994",
+     "sha256": "a70b5e68669cf880a128c205ec3383d625b369fdf71353b46c2ab876b7a446ed"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-291-2015",
+   "path": "decizie/asf/2015/291",
+   "short": "Decizia asf nr. 291/2015",
+   "title": "Decizia nr. 291/2015 privind retragerea autorizației de funcționare și radierea Societății SOLVENTA Broker de Asigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165995",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165995",
+     "sha256": "5c93a44dfb66a204bbd432597ab454775080f1cf8031d77e029a971085efdf8e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-292-2015",
+   "path": "decizie/asf/2015/292",
+   "short": "Decizia asf nr. 292/2015",
+   "title": "Decizia nr. 292/2015 privind retragerea autorizației de funcționare și radierea Societății UNIBROKER Dobrogea Broker de Asigurare Reasigurare - S.R.L. din Registrul brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165998",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165998",
+     "sha256": "6041730b5ea928431c4403d42d31789991ff3566da1e152b311a2ed141ad7aef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-3215-2015",
+   "path": "decizie/asf/2015/3215",
+   "short": "Decizia asf nr. 3215/2015",
+   "title": "Decizia nr. 3.215/2015 privind aprobarea reluării activității Societății NOVA GRUP ASIGURĂRI BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172631",
+   "versions": [
+    {
+     "from": "2015-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172631",
+     "sha256": "3bea9ba01f3c3eb7a953fdf05bbcacd23ccd2cfb581e7c5472661010e2751b80"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-3417-2015",
+   "path": "decizie/asf/2015/3417",
+   "short": "Decizia asf nr. 3417/2015",
+   "title": "Decizia nr. 3.417/2015 privind aprobarea, la cerere, a retragerii autorizației de funcționare a Societății ROMINS Broker de Asigurare - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173572",
+   "versions": [
+    {
+     "from": "2015-12-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173572",
+     "sha256": "7a87c630e9605425c1c43d3441cddbfcfd069320cebfd7ddf25fa93438ed5dc6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-3657-2015",
+   "path": "decizie/asf/2015/3657",
+   "short": "Decizia asf nr. 3657/2015",
+   "title": "Decizia nr. 3.657/2015 privind aprobarea cererii de retragere a autorizației de funcționare a Societății MONDO AS BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174337",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174337",
+     "sha256": "a14868cf169157aab5ac9b1fd0ee5281baff89f11882f4e958b94bf51260ba66"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-3677-2015",
+   "path": "decizie/asf/2015/3677",
+   "short": "Decizia asf nr. 3677/2015",
+   "title": "Decizia nr. 3.677/2015 privind aprobarea cererii de suspendare a activității Societății TRIUMF INSURANCE BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174242",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174242",
+     "sha256": "bc737e2858136ecdc9975e3b165b6626606ec70591fddaae9cad2ed9a7c72acc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-3678-2015",
+   "path": "decizie/asf/2015/3678",
+   "short": "Decizia asf nr. 3678/2015",
+   "title": "Decizia nr. 3.678/2015 privind aprobarea cererii de suspendare a activității Societății MGM BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174338",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174338",
+     "sha256": "4f2835a8a73ff00aedfbc0eaf577357a0439a46a3050e379e172bf411f155169"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-598-2015",
+   "path": "decizie/asf/2015/598",
+   "short": "Decizia asf nr. 598/2015",
+   "title": "Decizia nr. 598/2015 privind sancționarea Societății OVB IMOFINANZ - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167361",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167361",
+     "sha256": "9a3896a9b7625d38326555f476333884c47b25bb3a6e8c246380fb128c61e4cf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-599-2015",
+   "path": "decizie/asf/2015/599",
+   "short": "Decizia asf nr. 599/2015",
+   "title": "Decizia nr. 599/2015 privind sancționarea Societății NEWPORT CONSULTING - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167362",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167362",
+     "sha256": "1576d5a2c7928f4dd57bd2b376ff29c5780ea4788e98d1d3507144ebd18e2e09"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-600-2015",
+   "path": "decizie/asf/2015/600",
+   "short": "Decizia asf nr. 600/2015",
+   "title": "Decizia nr. 600/2015 privind sancționarea Societății INFO CENTER GROUP - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167363",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167363",
+     "sha256": "665ffed004dc7936196da234c5378f3d5db04054721fa0cc7dbc4025466ed5ef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-601-2015",
+   "path": "decizie/asf/2015/601",
+   "short": "Decizia asf nr. 601/2015",
+   "title": "Decizia nr. 601/2015 privind sancționarea Societății GENERALI PROFESIONAL TRAINING - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167364",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167364",
+     "sha256": "3e3370367107bb7fa3ff6a68eaeeaba7ec460196cd2cf8c97b89787c048cc03e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-602-2015",
+   "path": "decizie/asf/2015/602",
+   "short": "Decizia asf nr. 602/2015",
+   "title": "Decizia nr. 602/2015 privind sancționarea Societății TUV RHEINLAND ROMANIA - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167365",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167365",
+     "sha256": "53bdfabfdc59d3dfbe6d530dfd27748b9901894a5426de8d19b08e4604163ae7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-603-2015",
+   "path": "decizie/asf/2015/603",
+   "short": "Decizia asf nr. 603/2015",
+   "title": "Decizia nr. 603/2015 privind sancționarea Societății KINGSPOINT INC. - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167366",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167366",
+     "sha256": "3ad9d5530ee4cebdff75db094b9476e989210b07fb8bdbc37ac86932298783e2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-604-2015",
+   "path": "decizie/asf/2015/604",
+   "short": "Decizia asf nr. 604/2015",
+   "title": "Decizia nr. 604/2015 privind sancționarea Societății RSC CONSULTING - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167367",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167367",
+     "sha256": "4625611df9f547de7d387cbf9ab567badb958f271fb1c3f66bcef505e9f15886"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-605-2015",
+   "path": "decizie/asf/2015/605",
+   "short": "Decizia asf nr. 605/2015",
+   "title": "Decizia nr. 605/2015 privind sancționarea Societății TRAINING &amp; COMPETENȚĂ - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167368",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167368",
+     "sha256": "1adf1b52a402cb89bf93d78c935d0e15f83d2c44522ee87e794bb2c46cf8ec95"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-606-2015",
+   "path": "decizie/asf/2015/606",
+   "short": "Decizia asf nr. 606/2015",
+   "title": "Decizia nr. 606/2015 privind sancționarea Societății UNIC SPORTS - S.R.L.-D cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167369",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167369",
+     "sha256": "029a774741a7424a2e0e6bf425451cbcd5cf04a935a7296b4e03ea2c9327a776"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-607-2015",
+   "path": "decizie/asf/2015/607",
+   "short": "Decizia asf nr. 607/2015",
+   "title": "Decizia nr. 607/2015 privind sancționarea ASOCIAȚIEI CENTRUL DE PREGĂTIRE PROFESIONALĂ ÎN ASIGURĂRI ȘI ÎN DOMENIUL BANCAR cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167370",
+   "versions": [
+    {
+     "from": "2015-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167370",
+     "sha256": "b65ba33e0e65c332c46ee3cc222b5d3d7bc3317ebd78993aa00d24386da9a125"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-608-2015",
+   "path": "decizie/asf/2015/608",
+   "short": "Decizia asf nr. 608/2015",
+   "title": "Decizia nr. 608/2015 privind sancționarea Societății ASILEX BROKER DE ASIGURARE-REASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167104",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167104",
+     "sha256": "7a8dda1c611bef3b4384ae1b7ad0f682e3e9cd017276c83fed6a92d110f41d34"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-609-2015",
+   "path": "decizie/asf/2015/609",
+   "short": "Decizia asf nr. 609/2015",
+   "title": "Decizia nr. 609/2015 privind sancționarea Societății AVIVA CONSULTING &amp; TRAINING - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167491",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167491",
+     "sha256": "bbe7081a93ad8caed50eacb9f77ecf68659fe1c2234fd35e3def5bb62856c361"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-613-2015",
+   "path": "decizie/asf/2015/613",
+   "short": "Decizia asf nr. 613/2015",
+   "title": "Decizia nr. 613/2015 privind sancționarea asociației APA - ASOCIAȚIA PROFESIONIȘTILOR DIN ASIGURĂRI cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167504",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167504",
+     "sha256": "ee1bc1d75e00eb3b0644a349800d2eb72581acdfe3bd0a30a167160279d98468"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-614-2015",
+   "path": "decizie/asf/2015/614",
+   "short": "Decizia asf nr. 614/2015",
+   "title": "Decizia nr. 614/2015 privind sancționarea ASOCIAȚIEI CONSULT ȘCOLARI cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167529",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167529",
+     "sha256": "e84cedfc45d40ddf1839ba1a6b9ad28b4a2367ed0b0c057b792018b120b067ec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-615-2015",
+   "path": "decizie/asf/2015/615",
+   "short": "Decizia asf nr. 615/2015",
+   "title": "Decizia nr. 615/2015 privind sancționarea Societății TISIA EXPERT - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167530",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167530",
+     "sha256": "d1867dd8adcbee997a958a1e1a3b6b435f0e94856e4e574484fb22f29517b039"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-617-2015",
+   "path": "decizie/asf/2015/617",
+   "short": "Decizia asf nr. 617/2015",
+   "title": "Decizia nr. 617/2015 privind sancționarea Societății STABILITY INSURANCE TRAINING - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167385",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167385",
+     "sha256": "be3de1cfe599a22a519c206b84f7092f430db9dbac99c69b8f35506f9a2a93ee"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-618-2015",
+   "path": "decizie/asf/2015/618",
+   "short": "Decizia asf nr. 618/2015",
+   "title": "Decizia nr. 618/2015 privind sancționarea Societății EUREKO TRAINING - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167386",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167386",
+     "sha256": "c22514706c5e22384b56f30cbb4e548e1d0051598cfe31f3df480f2ab7fa71f8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-619-2015",
+   "path": "decizie/asf/2015/619",
+   "short": "Decizia asf nr. 619/2015",
+   "title": "Decizia nr. 619/2015 privind sancționarea Societății SICEP - S.R.L. cu revocarea aprobării acordate și radierea din Registrul furnizorilor de programe educaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167387",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167387",
+     "sha256": "df7bd88593a9845cb3b91e6d4d8d920a30a8895c004b34b5470c84cb2c537e78"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-730-2015",
+   "path": "decizie/asf/2015/730",
+   "short": "Decizia asf nr. 730/2015",
+   "title": "Decizia nr. 730/2015 privind sancționarea Societății TRANSILVANIA MAXIMA - BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167469",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167469",
+     "sha256": "65090451d6069c4316f771c4d1b523d377da852189a906f9dd7502e2d33b312d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-799-2015",
+   "path": "decizie/asf/2015/799",
+   "short": "Decizia asf nr. 799/2015",
+   "title": "Decizia nr. 799/2015 privind sancționarea Societății ARCA BROKER DE ASIGURARE-REASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167652",
+   "versions": [
+    {
+     "from": "2015-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167652",
+     "sha256": "a7b72bb8ba71b0e04d5fab624b0fa2a8428cd1f93efc7eea49bf6201525b5e60"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-80-2015",
+   "path": "decizie/asf/2015/80",
+   "short": "Decizia asf nr. 80/2015",
+   "title": "Decizia nr. 80/2015 privind sancționarea Societății SFINX BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165192",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165192",
+     "sha256": "ff89aa11b1b1187568406843e66c5e6e5a018affa9e7e1155ea54cdc314ac376"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-81-2015",
+   "path": "decizie/asf/2015/81",
+   "short": "Decizia asf nr. 81/2015",
+   "title": "Decizia nr. 81/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății ALL INSURANCE Broker de Asigurare - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165193",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165193",
+     "sha256": "dbc208bf926ea9dc999b06140ec3fc5192944c894c8ad67eb0b585ec348cdeff"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-82-2015",
+   "path": "decizie/asf/2015/82",
+   "short": "Decizia asf nr. 82/2015",
+   "title": "Decizia nr. 82/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății COMSIG Broker de Asigurare - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165161",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165161",
+     "sha256": "240590be27469772939a248d0c1deaf98f8432f05692492eb5d4789dfb1843d4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-83-2015",
+   "path": "decizie/asf/2015/83",
+   "short": "Decizia asf nr. 83/2015",
+   "title": "Decizia nr. 83/2015 privind sancționarea Societății BESTKLASS Broker de Asigurare - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165163",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165163",
+     "sha256": "b902ff8c5b2ce760fe13276d7180184cd22dd626ba8078e494d7fbdfc9276538"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-84-2015",
+   "path": "decizie/asf/2015/84",
+   "short": "Decizia asf nr. 84/2015",
+   "title": "Decizia nr. 84/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății INVEST CORP - BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165194",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165194",
+     "sha256": "1c37116a6f1ec39d24f2ca4849cd398cb5a706fbe536109a4df0c1ee7ecc9844"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-85-2015",
+   "path": "decizie/asf/2015/85",
+   "short": "Decizia asf nr. 85/2015",
+   "title": "Decizia nr. 85/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății GLOBAL BROKER RO BROKER DE ASIGURARE ROMANIA - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165282",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165282",
+     "sha256": "e7afdb7a4df71e8b31b572ac31af5697284ab480605cff9f1d6ebf036e0fe37d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-87-2015",
+   "path": "decizie/asf/2015/87",
+   "short": "Decizia asf nr. 87/2015",
+   "title": "Decizia nr. 87/2015 privind sancționarea Societății PRO ASIG INSURANCE BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165284",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165284",
+     "sha256": "0b6feae9d5a3520f7829a017a6149a512e80bf768511beaf02b1b52b506d8072"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-88-2015",
+   "path": "decizie/asf/2015/88",
+   "short": "Decizia asf nr. 88/2015",
+   "title": "Decizia nr. 88/2015 privind sancționarea Societății PARTENER A&amp;S BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165285",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165285",
+     "sha256": "a562920bbaec2e8f4e7e2ca52fd93e3646a8f9ae64566649167e9bcd4abfaf20"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-882-2015",
+   "path": "decizie/asf/2015/882",
+   "short": "Decizia asf nr. 882/2015",
+   "title": "Decizia nr. 882/2015 privind sancționarea cu retragerea autorizației de funcționare a Societății POWER INSURANCE BROKER - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167980",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167980",
+     "sha256": "5850f1278438986fbe342c450e019277dcfea29fdf1335ea1ee5733c18e071d4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-883-2015",
+   "path": "decizie/asf/2015/883",
+   "short": "Decizia asf nr. 883/2015",
+   "title": "Decizia nr. 883/2015 privind sancționarea cu amendă și cu interzicerea temporară a activității Societății MARSHALY C.E.E. BROKER DE ASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167981",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167981",
+     "sha256": "8805ed24eafd02e97c2825bbefd7b5308353dfc7f78c4b8c5311d77090b945c0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-908-2015",
+   "path": "decizie/asf/2015/908",
+   "short": "Decizia asf nr. 908/2015",
+   "title": "Decizia nr. 908/2015 privind sancționarea Societății QUALITY ASIG - BROKER DE ASIGURARE - S.R.L. cu interzicerea temporară a activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168021",
+   "versions": [
+    {
+     "from": "2015-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168021",
+     "sha256": "bd7dc9eb2a1dcfbb115c9cf20f3e6783ff1c02ecf823dc5248d4741a7ff12d7a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-304-2015",
+   "path": "decizie/cna/2015/304",
+   "short": "Decizia cna nr. 304/2015",
+   "title": "Decizia nr. 304/2015 privind procedura de acordare, modificare, prelungire a valabilității și de cedare a licenței și a deciziei de autorizare audiovizuală digitală pentru difuzarea în sistem digital terestru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168982",
+   "versions": [
+    {
+     "from": "2015-06-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168982",
+     "sha256": "d38d93510e50171ad5c92717516c67c2032cce0cf3c8538322fbd6e4d03657e1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-350-2015",
+   "path": "decizie/cna/2015/350",
+   "short": "Decizia cna nr. 350/2015",
+   "title": "Decizia nr. 350/2015 pentru completarea Deciziei Consiliului Național al Audiovizualului nr. 72/2012 privind condițiile de eliberare și modificare a avizului de retransmisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169838",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169838",
+     "sha256": "15e2cf358592b96a962975f2ecef5ed562f6469ca645b1b987cd3f56d0ea3c12"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-405-2015",
+   "path": "decizie/cna/2015/405",
+   "short": "Decizia cna nr. 405/2015",
+   "title": "Decizia nr. 405/2015 pentru modificarea și completarea Deciziei Consiliului Național al Audiovizualului nr. 277/2013 privind procedura de acordare, de modificare, de prelungire a valabilității și de cedare a licenței și a deciziei de autorizare audiovizuală, cu excepția celor pentru difuzare în sistem digital terestru, precum și condițiile privind difuzarea de programe locale, ret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171244",
+   "versions": [
+    {
+     "from": "2015-09-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171244",
+     "sha256": "852d4b197f98a6e64cfa7ba73dc0e59810b96348cd3d5d77207e770bb6ac917b"
     }
    ]
   }

@@ -3,6 +3,741 @@
  "shard": "decizie/2017",
  "acts": [
   {
+   "slug": "decizie-ancom-1100-2017",
+   "path": "decizie/ancom/2017/1100",
+   "short": "Decizia ancom nr. 1100/2017",
+   "title": "Decizia nr. 1.100/2017 privind identificarea piețelor relevante corespunzătoare serviciilor de transmisie în format analogic prin intermediul sistemelor radioelectrice terestre a serviciilor publice de programe de televiziune și radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196708",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196708",
+     "sha256": "fbd537d5de5989b0294511e236aec1740b495508896dd19a4e1eea9b3136519a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1112-2017",
+   "path": "decizie/ancom/2017/1112",
+   "short": "Decizia ancom nr. 1112/2017",
+   "title": "Decizia nr. 1.112/2017 privind stabilirea indicatorilor de calitate pentru furnizarea serviciului de acces la internet și publicarea parametrilor aferenți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196768",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196768",
+     "sha256": "d4092d159632a0e6b10421a0eb96690627b08e5a23715cefd1dacf08d23cdf2d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1113-2017",
+   "path": "decizie/ancom/2017/1113",
+   "short": "Decizia ancom nr. 1113/2017",
+   "title": "Decizia nr. 1.113/2017 privind înființarea punctului de informare unic, precum și pentru stabilirea condițiilor și modalităților de transmitere a unor informații privind infrastructura fizică a operatorilor de rețea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196694",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196694",
+     "sha256": "4b027554a24dbd181ca257dbb47062f653a1ae76c292c1ce79dea5e9ff4b5ca7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-245-2017",
+   "path": "decizie/ancom/2017/245",
+   "short": "Decizia ancom nr. 245/2017",
+   "title": "Decizia nr. 245/2017 privind reglementarea serviciului de amator",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188314",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188314",
+     "sha256": "0c6f2185d92fa8d5918eff733cfd54c81e395ca48e55d36950910690a33e9456"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-313-2017",
+   "path": "decizie/ancom/2017/313",
+   "short": "Decizia ancom nr. 313/2017",
+   "title": "Decizia nr. 313/2017 privind regimul de autorizare generală pentru furnizarea serviciilor poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188441",
+   "versions": [
+    {
+     "from": "2017-04-23",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188441",
+     "sha256": "6c4e500946b01c4346d6fba325555fad1360366ff084e9d17cbd9642c929f8df"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-314-2017",
+   "path": "decizie/ancom/2017/314",
+   "short": "Decizia ancom nr. 314/2017",
+   "title": "Decizia nr. 314/2017 privind raportarea unor date statistice de către furnizorii de servicii poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188465",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188465",
+     "sha256": "5e5a593b095b48fdaef2ba84f7afbcf15fb7cb850c9106334fd2dcba5826e547"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-543-2017",
+   "path": "decizie/ancom/2017/543",
+   "short": "Decizia ancom nr. 543/2017",
+   "title": "Decizia nr. 543/2017 privind certificarea personalului operator al stațiilor de radiocomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191135",
+   "versions": [
+    {
+     "from": "2017-07-11",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191135",
+     "sha256": "c028a1dca2fa30d4bd2807278fdaee522b0784f57406604ba649fcb98a9e107d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-1054-2017",
+   "path": "decizie/anre/2017/1054",
+   "short": "Decizia anre nr. 1054/2017",
+   "title": "Decizia nr. 1.054/2017 pentru abrogarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 1.423/2016 privind desemnarea Societății Comerciale GRUP DEZVOLTARE REȚELE - S.A. în vederea operării sistemului de distribuție a gazelor naturale în localitatea Zimnicea, aparținătoare municipiului Zimnicea, județul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191673",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191673",
+     "sha256": "8fd007afca01943436bde2d6c285e615b8d75e6d52c9d6d00d084ba9799284c0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-284-2017",
+   "path": "decizie/anre/2017/284",
+   "short": "Decizia anre nr. 284/2017",
+   "title": "Decizia nr. 284/2017 pentru abrogarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 2.340/2013 privind numirea Comisiei de examinare a verificatorilor de proiecte și a experților tehnici pentru obiectivele/sistemele din sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187166",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187166",
+     "sha256": "2458ee28e5c36d7908bee662f3551456979aea158676a10561b058d99e964cfa"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-859-2017",
+   "path": "decizie/anre/2017/859",
+   "short": "Decizia anre nr. 859/2017",
+   "title": "Decizia nr. 859/2017 pentru abrogarea Deciziei președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 1.765/2013 privind aprobarea machetelor pentru declarația de consum total anual de energie și pentru chestionarul de analiză energetică a consumatorului de energie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190786",
+   "versions": [
+    {
+     "from": "2017-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190786",
+     "sha256": "f2394cde10d86cce1d62b9a66b27f530d49aceef8757ef0a4bc1b9acfc07466b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-860-2017",
+   "path": "decizie/anre/2017/860",
+   "short": "Decizia anre nr. 860/2017",
+   "title": "Decizia nr. 860/2017 privind aprobarea machetelor pentru declarația de consum total anual de energie și pentru chestionarul de analiză energetică a consumatorului de energie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190787",
+   "versions": [
+    {
+     "from": "2017-07-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190787",
+     "sha256": "873d72c98d8dcad1e45d1db8008981aae3b94e77f0a90a60284aecc3e27574eb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1006-2017",
+   "path": "decizie/asf/2017/1006",
+   "short": "Decizia asf nr. 1006/2017",
+   "title": "Decizia nr. 1.006/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății CRUCIAȚII BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192095",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192095",
+     "sha256": "1e0b5aef40b53932953175a8cb9c0aa1c1a8516e88ff94ee668a66eb4a84e82f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1007-2017",
+   "path": "decizie/asf/2017/1007",
+   "short": "Decizia asf nr. 1007/2017",
+   "title": "Decizia nr. 1.007/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății INTERLAND BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192096",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192096",
+     "sha256": "ffa6be95e66860fe57c16d83a8f924d0d0194869b736d5ba054b27d6a6cd1a05"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1008-2017",
+   "path": "decizie/asf/2017/1008",
+   "short": "Decizia asf nr. 1008/2017",
+   "title": "Decizia nr. 1.008/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății LOWE ASISGROUP BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192097",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192097",
+     "sha256": "7a6dce4a400c1a835adc79ef7b027815fa4bdaec0711cb508cfd43f62f7b30c3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1010-2017",
+   "path": "decizie/asf/2017/1010",
+   "short": "Decizia asf nr. 1010/2017",
+   "title": "Decizia nr. 1.010/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății MCI INTERNATIONAL BROKER DE ASIGURARE-REASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192105",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192105",
+     "sha256": "54a031d5cd990e2adeb1259f1e88288cde01c6fc070c4150e2e9e5c010497b36"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1011-2017",
+   "path": "decizie/asf/2017/1011",
+   "short": "Decizia asf nr. 1011/2017",
+   "title": "Decizia nr. 1.011/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății NORD - ASIG BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192106",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192106",
+     "sha256": "f36866120ced411e4d69af176851075a24f0c2ff2a2a08a712112b501413f883"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1012-2017",
+   "path": "decizie/asf/2017/1012",
+   "short": "Decizia asf nr. 1012/2017",
+   "title": "Decizia nr. 1.012/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății SURE INVEST COMPANY - BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192107",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192107",
+     "sha256": "d45e38ced74f71543f756d36b0119a1728a6887f01e246453d66e17efdd24164"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-128-2017",
+   "path": "decizie/asf/2017/128",
+   "short": "Decizia asf nr. 128/2017",
+   "title": "Decizia nr. 128/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății Magna Insurance Broker - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186468",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186468",
+     "sha256": "8d13d6426080a8c5d6906633cc6b77db39b0e4388bb8060d39e6ee46a4e3197d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-130-2017",
+   "path": "decizie/asf/2017/130",
+   "short": "Decizia asf nr. 130/2017",
+   "title": "Decizia nr. 130/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății BROKER DE ASIGURARE FORTZAAS - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186712",
+   "versions": [
+    {
+     "from": "2017-02-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186712",
+     "sha256": "a368fd8419a19e7a13f3a80c097aa5fa911f7b9edd2417c6705fc741b98450c2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-131-2017",
+   "path": "decizie/asf/2017/131",
+   "short": "Decizia asf nr. 131/2017",
+   "title": "Decizia nr. 131/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății FABIS BROKER DE ASIGURARE REASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186713",
+   "versions": [
+    {
+     "from": "2017-02-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186713",
+     "sha256": "b6fefc4bbae6877d36c9bb8c4095734e89a58f4684822c18496bb97c4c5fa5a7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-132-2017",
+   "path": "decizie/asf/2017/132",
+   "short": "Decizia asf nr. 132/2017",
+   "title": "Decizia nr. 132/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății INTERCAPITAL ASIG BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186714",
+   "versions": [
+    {
+     "from": "2017-02-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186714",
+     "sha256": "0d48807db99e68154865c5b9ce1eaea7332ec5efa5c244290d5bb4ebdd5f0071"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-133-2017",
+   "path": "decizie/asf/2017/133",
+   "short": "Decizia asf nr. 133/2017",
+   "title": "Decizia nr. 133/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății EUROREALASIG - BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186715",
+   "versions": [
+    {
+     "from": "2017-02-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186715",
+     "sha256": "46bc1a0d3369a51e6aa64cadbf295a08e8fa37add1c939ae13c3baf73fde967b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-134-2017",
+   "path": "decizie/asf/2017/134",
+   "short": "Decizia asf nr. 134/2017",
+   "title": "Decizia nr. 134/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății DANUBIUS BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186467",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186467",
+     "sha256": "d1f3cc4080585beeb15d18b26f356c3f7e179733ee970d41d087f12e9d9336dd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-135-2017",
+   "path": "decizie/asf/2017/135",
+   "short": "Decizia asf nr. 135/2017",
+   "title": "Decizia nr. 135/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății Inter Consulting Broker de Asigurare - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186466",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186466",
+     "sha256": "fda733b5bafdc54006c1ee3ac55587a6d01352d8e62ff93fda449f4d3562ec5c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-136-2017",
+   "path": "decizie/asf/2017/136",
+   "short": "Decizia asf nr. 136/2017",
+   "title": "Decizia nr. 136/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății CLAR BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186465",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186465",
+     "sha256": "355f7530c512c53541a45a71ab51fb977ae21b41da724cef6b49f39df3e7f41c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-137-2017",
+   "path": "decizie/asf/2017/137",
+   "short": "Decizia asf nr. 137/2017",
+   "title": "Decizia nr. 137/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății GT-RO Broker de Asigurare-Reasigurare - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186500",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186500",
+     "sha256": "cdd0495f820425be6576577f399a86061ae91d9d73080700e461451dccd2196e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-138-2017",
+   "path": "decizie/asf/2017/138",
+   "short": "Decizia asf nr. 138/2017",
+   "title": "Decizia nr. 138/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății BROKER DE ASIGURARE CAR ASIG - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186503",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186503",
+     "sha256": "9af92bdf14ef2a84604a1cbd05a8c50a0feb88860b7d3685bc7190c836b42b74"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-139-2017",
+   "path": "decizie/asf/2017/139",
+   "short": "Decizia asf nr. 139/2017",
+   "title": "Decizia nr. 139/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății C.ADVICE BROKER DE ASIGURARE-REASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186498",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186498",
+     "sha256": "bf7c8e8f6949ac9f86ea0f3c3e545dfb976881d142730b0ebdb8089066d709f0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-140-2017",
+   "path": "decizie/asf/2017/140",
+   "short": "Decizia asf nr. 140/2017",
+   "title": "Decizia nr. 140/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății GLORIA BROKER DE ASIGURARE-REASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186499",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186499",
+     "sha256": "891e71d9a5ef184d42f437453a73fe18371b2893c94d9e5355ef9179264c0e91"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1405-2017",
+   "path": "decizie/asf/2017/1405",
+   "short": "Decizia asf nr. 1405/2017",
+   "title": "Decizia nr. 1.405/2017 privind retragerea autorizației de funcționare, în calitate de operator de piață, a Societății SIBEX - Sibiu Stock Exchange - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195106",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195106",
+     "sha256": "0b560d3ed7b480e04cd9f8e39ffbcba5e3562369045cde0cb39d4b2e1f8584c7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-141-2017",
+   "path": "decizie/asf/2017/141",
+   "short": "Decizia asf nr. 141/2017",
+   "title": "Decizia nr. 141/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății B.C.S. Broker de Asigurare - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186506",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186506",
+     "sha256": "c8ecf70b6a6df19778ab63e6aa395bf9aafa9be0ab7c492add540e26b7e95c50"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-142-2017",
+   "path": "decizie/asf/2017/142",
+   "short": "Decizia asf nr. 142/2017",
+   "title": "Decizia nr. 142/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății MLR INTER - ASIG BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186507",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186507",
+     "sha256": "1ef8ab68b25717579a67e1f572375843ef72558177730379114b539abdee0c93"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-143-2017",
+   "path": "decizie/asf/2017/143",
+   "short": "Decizia asf nr. 143/2017",
+   "title": "Decizia nr. 143/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății M.C.M. Broker de Asigurare-Reasigurare - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186508",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186508",
+     "sha256": "1bd1b01432ecc0c3ee7efdd561f807610fc8055d261e72cdbf65b15d646ce36d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-146-2017",
+   "path": "decizie/asf/2017/146",
+   "short": "Decizia asf nr. 146/2017",
+   "title": "Decizia nr. 146/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății ASSET INCON PLUS BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186494",
+   "versions": [
+    {
+     "from": "2017-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186494",
+     "sha256": "82b3f7cd2c5d6eeda45869ca46bc2d69c6fdfd861c8db2fffad5f046fb4cdd25"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1575-2017",
+   "path": "decizie/asf/2017/1575",
+   "short": "Decizia asf nr. 1575/2017",
+   "title": "Decizia nr. 1.575/2017 privind autorizarea Asociației Profesioniștilor în Regularizarea Daunelor ca furnizor de programe educaționale în domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195010",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195010",
+     "sha256": "549d0f951609cf80045b3933dca644e448cf6966587cf52982c81ed2846ae895"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1598-2017",
+   "path": "decizie/asf/2017/1598",
+   "short": "Decizia asf nr. 1598/2017",
+   "title": "Decizia nr. 1.598/2017 privind sancționarea Societății POLY BROKER DE ASIGURARE-REASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194923",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194923",
+     "sha256": "f1d134a5da86bf9880715afbf1ee16f4431926a09efc68f443c14108fe88c0f7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1625-2017",
+   "path": "decizie/asf/2017/1625",
+   "short": "Decizia asf nr. 1625/2017",
+   "title": "Decizia nr. 1.625/2017 pentru modificarea Deciziei Consiliului Autorității de Supraveghere Financiară nr. 1.405/2017 privind retragerea autorizației de funcționare, în calitate de operator de piață, a Societății SIBEX - Sibiu Stock Exchange - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195107",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195107",
+     "sha256": "d929f877e3ce303aa9518b0dfb29b92ed86a92ee2cb4fc8fa27316eec5ba216f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1700-2017",
+   "path": "decizie/asf/2017/1700",
+   "short": "Decizia asf nr. 1700/2017",
+   "title": "Decizia nr. 1.700/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății EMIASIG BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196006",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196006",
+     "sha256": "c751a3ee5eb60d9541eb5c6ea30e77aa196e6dec1e27ec039db17f6142c999f9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1701-2017",
+   "path": "decizie/asf/2017/1701",
+   "short": "Decizia asf nr. 1701/2017",
+   "title": "Decizia nr. 1.701/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății TERRA - BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195823",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195823",
+     "sha256": "c116cbaa29ee17d08f927039a1c05c0f4e3f26e27e3bcdde6779c2733dd75efa"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1702-2017",
+   "path": "decizie/asf/2017/1702",
+   "short": "Decizia asf nr. 1702/2017",
+   "title": "Decizia nr. 1.702/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății ISPO BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196007",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196007",
+     "sha256": "84df51b9e10e63e55563c998b260062bff1d4ef5aea8d8faebdf088e2da378f3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1703-2017",
+   "path": "decizie/asf/2017/1703",
+   "short": "Decizia asf nr. 1703/2017",
+   "title": "Decizia nr. 1.703/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății ASIGRUP BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196008",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196008",
+     "sha256": "fdc0da98757101b237b4ff00dda771f8ab63b8fbaefb4f0556d32cbcb0c92d76"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1704-2017",
+   "path": "decizie/asf/2017/1704",
+   "short": "Decizia asf nr. 1704/2017",
+   "title": "Decizia nr. 1.704/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății GRAND GARAGE BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196009",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196009",
+     "sha256": "01f311c7a795a55008497be7688a0c906751af1906667ff465bd813e768a88a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1705-2017",
+   "path": "decizie/asf/2017/1705",
+   "short": "Decizia asf nr. 1705/2017",
+   "title": "Decizia nr. 1.705/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății KAMER ACTIV - BROKER DE ASIGURARE-REASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196010",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196010",
+     "sha256": "b9867d364697bb79f80991d55e9ff8cd01f990eac507e1053d4c2d6f38f3d8cd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1706-2017",
+   "path": "decizie/asf/2017/1706",
+   "short": "Decizia asf nr. 1706/2017",
+   "title": "Decizia nr. 1.706/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății SPECIAL OFFICE - BROKER DE ASIGURARE-REASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196011",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196011",
+     "sha256": "856661225545c24deaa406698b78e5300b2501c192ff11e7123397ca7884945b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1707-2017",
+   "path": "decizie/asf/2017/1707",
+   "short": "Decizia asf nr. 1707/2017",
+   "title": "Decizia nr. 1.707/2017 privind sancționarea cu retragerea autorizației de funcționare și radierea Societății VIENNA BROKER DE ASIGURARE - S.R.L. din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196012",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196012",
+     "sha256": "5d9c44fe766d922988bcdad1a96fb66dcd331dacbbf785b5a3ce6cb0b6dccc3f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-643-2017",
+   "path": "decizie/asf/2017/643",
+   "short": "Decizia asf nr. 643/2017",
+   "title": "Decizia nr. 643/2017 privind sancționarea Societății IVECO CAPITAL BROKER DE ASIGURARE-REASIGURARE - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189361",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189361",
+     "sha256": "168303ec9514aa0ef3439ea76b3ba89979ea579b9798816e5502916b559d96f6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-801-2017",
+   "path": "decizie/asf/2017/801",
+   "short": "Decizia asf nr. 801/2017",
+   "title": "Decizia nr. 801/2017 privind sancționarea cu amendă și retragerea autorizației de funcționare a Societății VSC INSURANCE BROKER DE ASIGURARE-REASIGURARE - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191164",
+   "versions": [
+    {
+     "from": "2017-07-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191164",
+     "sha256": "09ce2420f4e94a1119e3c8485388f12d92c916d7c3c63e44b7bbbd56702687f0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-237-2017",
+   "path": "decizie/cna/2017/237",
+   "short": "Decizia cna nr. 237/2017",
+   "title": "Decizia nr. 237/2017 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerile locale parțiale din data de 11 iunie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189291",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189291",
+     "sha256": "b11d931632a57ce201714d7a7cefc6a8d45db6490caad488aa86e7ce72c433b2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-597-2017",
+   "path": "decizie/cna/2017/597",
+   "short": "Decizia cna nr. 597/2017",
+   "title": "Decizia nr. 597/2017 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerile locale parțiale din data de 5 noiembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194131",
+   "versions": [
+    {
+     "from": "2017-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194131",
+     "sha256": "06d03cd3647af3ff908d90cfddefcc96fda05344e07a4beba94c5d33c7786084"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-63-2017",
    "path": "decizie/cna/2017/63",
    "short": "Decizia cna nr. 63/2017",

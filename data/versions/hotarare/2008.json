@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2008",
+ "acts": [
+  {
+   "slug": "hotarare-csspp-1-2008",
+   "path": "hotarare/csspp/2008/1",
+   "short": "Hotărârea csspp nr. 1/2008",
+   "title": "Hotărârea nr. 1/2008 pentru aprobarea Normei nr. 1/2008 privind calculul actuarial al provizionului tehnic pentru fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88895",
+   "versions": [
+    {
+     "from": "2008-01-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88895",
+     "sha256": "1f59f91c0437da9917b80462f6aca159b7eae5c2348dc199d850ff19f9b513f4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-11-2008",
+   "path": "hotarare/csspp/2008/11",
+   "short": "Hotărârea csspp nr. 11/2008",
+   "title": "Hotărârea nr. 11/2008 pentru aprobarea Normei nr. 5/2008 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89784",
+   "versions": [
+    {
+     "from": "2008-02-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89784",
+     "sha256": "9bb8ddeb235100525cede6c6814d583a554ba0fe6a601c297be42d898682eb47"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-13-2008",
+   "path": "hotarare/csspp/2008/13",
+   "short": "Hotărârea csspp nr. 13/2008",
+   "title": "Hotărârea nr. 13/2008 privind aprobarea Normei nr. 6/2008 pentru modificarea Normei nr. 18/2007 privind aderarea inițială și evidența participanților la fondurile de pensii administrate privat, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89892",
+   "versions": [
+    {
+     "from": "2008-02-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89892",
+     "sha256": "19fe81b6591e3bf60aae9693fb4067bedc7c573b09bf80336e07121c0b98c1f1"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-16-2008",
+   "path": "hotarare/csspp/2008/16",
+   "short": "Hotărârea csspp nr. 16/2008",
+   "title": "Hotărârea nr. 16/2008 pentru aprobarea Normei nr. 7/2008 privind taxele de autorizare, avizare și funcționare în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91075",
+   "versions": [
+    {
+     "from": "2008-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91075",
+     "sha256": "4583c9a0502b57d4c615a9e5a893d0ce35e8321e19d0d44ea8f5031f5eb26498"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-17-2008",
+   "path": "hotarare/csspp/2008/17",
+   "short": "Hotărârea csspp nr. 17/2008",
+   "title": "Hotărârea nr. 17/2008 pentru aprobarea Normei nr. 8/2008 privind taxele de autorizare, avizare și administrare în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91077",
+   "versions": [
+    {
+     "from": "2008-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91077",
+     "sha256": "603294f537278535cace3f591de2e9375fea4ee5b3ed1095d0bed1e7d13d8e05"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-18-2008",
+   "path": "hotarare/csspp/2008/18",
+   "short": "Hotărârea csspp nr. 18/2008",
+   "title": "Hotărârea nr. 18/2008 pentru aprobarea Normei nr. 9/2008 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private pentru exercițiul financiar 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91149",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91149",
+     "sha256": "9e2de4b0bc7e9991f62610727b87b508925fb5096abcf5728b8315fae14c61f5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-20-2008",
+   "path": "hotarare/csspp/2008/20",
+   "short": "Hotărârea csspp nr. 20/2008",
+   "title": "Hotărârea nr. 20/2008 privind aprobarea Normei nr. 10/2008 pentru modificarea și completarea Normei nr. 18/2007 privind aderarea inițială și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91861",
+   "versions": [
+    {
+     "from": "2008-04-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91861",
+     "sha256": "48de516116d1f383f15c0d2c8417056f58779add87ebee2076edc3a2594d7869"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-23-2008",
+   "path": "hotarare/csspp/2008/23",
+   "short": "Hotărârea csspp nr. 23/2008",
+   "title": "Hotărârea nr. 23/2008 pentru aprobarea Normei nr. 11/2008 privind colectarea contribuțiilor individuale ale participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92026",
+   "versions": [
+    {
+     "from": "2008-05-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92026",
+     "sha256": "b92b5a1dcf74157ac4fe727386d87ee355becf7cc25a22294a4feccb92706fd5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-24-2008",
+   "path": "hotarare/csspp/2008/24",
+   "short": "Hotărârea csspp nr. 24/2008",
+   "title": "Hotărârea nr. 24/2008 pentru aprobarea Normei nr. 12/2008 privind nivelul minim al capitalului social necesar societății de administrare a investițiilor pentru administrarea de fonduri de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92466",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92466",
+     "sha256": "743791c14a1655f54894cbb70672840d6584aaea7a013a41ae3e6a5ee1c7f931"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-25-2008",
+   "path": "hotarare/csspp/2008/25",
+   "short": "Hotărârea csspp nr. 25/2008",
+   "title": "Hotărârea nr. 25/2008 pentru aprobarea Normei nr. 13/2008 privind modificarea temporară a procentului maxim care poate fi investit în instrumente ale pieței monetare pentru fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93397",
+   "versions": [
+    {
+     "from": "2008-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93397",
+     "sha256": "a50a614becb748e587cbd3663886f19093b8d774b3ade61d5819bd4c4c89166f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-27-2008",
+   "path": "hotarare/csspp/2008/27",
+   "short": "Hotărârea csspp nr. 27/2008",
+   "title": "Hotărârea nr. 27/2008 pentru aprobarea Normei nr. 14/2008 privind protecția participanților în cazul fuziunii fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94215",
+   "versions": [
+    {
+     "from": "2008-06-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94215",
+     "sha256": "5678c273f9184f6f062eca00ed0a88a46880accfad36721db77d7959e0937eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-28-2008",
+   "path": "hotarare/csspp/2008/28",
+   "short": "Hotărârea csspp nr. 28/2008",
+   "title": "Hotărârea nr. 28/2008 privind aprobarea Normei nr. 15/2008 pentru modificarea și completarea Normei nr. 13/2007 privind autorizarea societății de pensii ca administrator al fondurilor de pensii facultative și al unui fond de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94311",
+   "versions": [
+    {
+     "from": "2008-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94311",
+     "sha256": "4da697a9d71cd5defb099d2f4ac1d0309f40883b4a6429470ad2f2820e428cce"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-29-2008",
+   "path": "hotarare/csspp/2008/29",
+   "short": "Hotărârea csspp nr. 29/2008",
+   "title": "Hotărârea nr. 29/2008 pentru aprobarea Normei nr. 16/2008 privind sistemul de raportare contabilă la 30 iunie 2008 a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95842",
+   "versions": [
+    {
+     "from": "2008-07-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95842",
+     "sha256": "2b99ebcecbc90d768f22928036d2bb6def63305b2b0c25a48759bc0b0852b076"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-3-2008",
+   "path": "hotarare/csspp/2008/3",
+   "short": "Hotărârea csspp nr. 3/2008",
+   "title": "Hotărârea nr. 3/2008 pentru aprobarea Normei nr. 2/2008 privind organizarea activității de arhivă la administratorii de fonduri de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89150",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89150",
+     "sha256": "5825483ad7b0e7998f6fa88181f252f1ae3b0ec19a25f6aefce733c285585b84"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-30-2008",
+   "path": "hotarare/csspp/2008/30",
+   "short": "Hotărârea csspp nr. 30/2008",
+   "title": "Hotărârea nr. 30/2008 pentru aprobarea Normei nr. 17/2008 privind utilizarea activului personal al participantului la un fond de pensii facultative în caz de invaliditate și în caz de deces",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95403",
+   "versions": [
+    {
+     "from": "2008-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95403",
+     "sha256": "90e35a53ca9a10838612cd380ff0909bd9a799ca415aa06cc0948277ca611424"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-34-2008",
+   "path": "hotarare/csspp/2008/34",
+   "short": "Hotărârea csspp nr. 34/2008",
+   "title": "Hotărârea nr. 34/2008 pentru aprobarea Normei nr. 18/2008 privind reglementările contabile conforme cu Directiva a VII-a a Comunităților Economice Europene aplicabile entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96810",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96810",
+     "sha256": "a406a8022bf7b9cf55ef8fdf343f5ab613623c0844a77d616c96964c83487520"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-38-2008",
+   "path": "hotarare/csspp/2008/38",
+   "short": "Hotărârea csspp nr. 38/2008",
+   "title": "Hotărârea nr. 38/2008 privind aprobarea Normei nr. 22/2008 pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii administrate privat în titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98726",
+   "versions": [
+    {
+     "from": "2008-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98726",
+     "sha256": "b7dd0337cce59c987bbfbe8e3613f51f277a42b6d56625e875d120f8fab752ed"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-39-2008",
+   "path": "hotarare/csspp/2008/39",
+   "short": "Hotărârea csspp nr. 39/2008",
+   "title": "Hotărârea nr. 39/2008 privind aprobarea Normei nr. 23/2008 pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii facultative în titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98728",
+   "versions": [
+    {
+     "from": "2008-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98728",
+     "sha256": "75b7328027e6e0f1f461e1dfbb6546abe9d21c92c48852e6e808e82b7b911a98"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-4-2008",
+   "path": "hotarare/csspp/2008/4",
+   "short": "Hotărârea csspp nr. 4/2008",
+   "title": "Hotărârea nr. 4/2008 pentru aprobarea Normei nr. 3/2008 privind transferul participanților între fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89131",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89131",
+     "sha256": "b7e147430a39b4aeed7ecdc207a026141fe2bd20993615a4da581cb67417b7b2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-44-2008",
+   "path": "hotarare/csspp/2008/44",
+   "short": "Hotărârea csspp nr. 44/2008",
+   "title": "Hotărârea nr. 44/2008 pentru aprobarea Normei nr. 24/2008 privind condițiile de autorizare și organizare a activelor și pasivelor pentru societățile de administrare a fondurilor de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100907",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100907",
+     "sha256": "87733c3e71b43a7aebac35dbab70e07d35e70df02df46c089bcd84f2a12cdcbc"
+    }
+   ]
+  }
+ ]
+}

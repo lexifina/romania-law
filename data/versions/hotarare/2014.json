@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2014",
+ "acts": [
+  {
+   "slug": "hotarare-asf-41-2014",
+   "path": "hotarare/asf/2014/41",
+   "short": "Hotărârea asf nr. 41/2014",
+   "title": "Hotărârea nr. 41/2014 privind prelungirea termenului prevăzut la art. 4 alin. (6) din Regulamentul Autorității de Supraveghere Financiară nr. 3/2013 pentru autorizarea și funcționarea contrapărților centrale, emis în conformitate cu prevederile Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabur",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158495",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158495",
+     "sha256": "19767a1cfff65d4c8564bc9d4a0ad37004cedae5f47de2522584359bbc5c55c8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-50-2014",
+   "path": "hotarare/asf/2014/50",
+   "short": "Hotărârea asf nr. 50/2014",
+   "title": "Hotărârea nr. 50/2014 privind prorogarea termenului prevăzut la art. 1 din Hotărârea Autorității de Supraveghere Financiară nr. 27/2014 pentru suspendarea aplicării prevederilor Instrucțiunii nr. 2/2011 privind auditarea sistemelor informatice utilizate de entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare, și suspendarea Dispunerii de măsu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159214",
+   "versions": [
+    {
+     "from": "2014-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159214",
+     "sha256": "314e59e883e95d2e3ecad477617bba5f1241e57c2e3da01735b9e89ec833edc5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-75-2014",
+   "path": "hotarare/asf/2014/75",
+   "short": "Hotărârea asf nr. 75/2014",
+   "title": "Hotărârea nr. 75/2014 privind prelungirea termenului prevăzut la art. 4 alin. (6) din Regulamentul nr. 3/2013 pentru autorizarea și funcționarea contrapărților centrale emis în conformitate cu prevederile Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161648",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161648",
+     "sha256": "25cc5c69d1d5c82ba52b6e03816555b38a9032b04d21281a16960a075f8173eb"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-84-2014",
+   "path": "hotarare/asf/2014/84",
+   "short": "Hotărârea asf nr. 84/2014",
+   "title": "Hotărârea nr. 84/2014 privind aplicarea în anul 2015 a prevederilor art. 10 alin. (1) din Norma nr. 2/2013 privind calculul actuarial al contribuției anuale datorate de administratorii de fonduri de pensii private Fondului de garantare a drepturilor din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162941",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162941",
+     "sha256": "82587f10d5bc5af930673f248a621db3a4db83e31adf100ab9de8f134ddf6d79"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-asf-89-2014",
+   "path": "hotarare/asf/2014/89",
+   "short": "Hotărârea asf nr. 89/2014",
+   "title": "Hotărârea nr. 89/2014 pentru prorogarea unor termene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163527",
+   "versions": [
+    {
+     "from": "2014-12-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163527",
+     "sha256": "a287e82d3dc96296b1274cc7a919cefca1b8a2a964b8e271af2c0d24b102cddc"
+    }
+   ]
+  }
+ ]
+}

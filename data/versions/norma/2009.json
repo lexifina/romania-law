@@ -376,6 +376,21 @@
      "sha256": "ef2d34734695abb5ff74035f4cfc53a3fef07382555351c31b08243765d024c7"
     }
    ]
+  },
+  {
+   "slug": "norma-csspp-5-2009",
+   "path": "norma/csspp/2009/5",
+   "short": "Norma csspp nr. 5/2009",
+   "title": "Norma nr. 5/2009 din 2009 privind calculul activului net și al valorii unității de fond pentru fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103404",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103404",
+     "sha256": "6c3984d663338742ef0ff92366c6da045e025f0ade65c30e7c594b5dfdd786db"
+    }
+   ]
   }
  ]
 }

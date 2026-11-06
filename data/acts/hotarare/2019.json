@@ -3,6 +3,25 @@
 "shard": "hotarare/2019",
 "acts": [
 {
+"slug": "hotarare-bnr-5-2019",
+"path": "hotarare/bnr/2019/5",
+"kind": "hotarare",
+"year": "2019",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 5/2019 privind radierea Societății MILLENNIUM LEASING IFN - S.A. din Registrul general și, implicit, interzicerea desfășurării activității de creditare",
+"short": "Hotărârea bnr nr. 5/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-08-07",
+"latest": "2019-08-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/216845",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "hotarare-bnr-7-2019",
 "path": "hotarare/bnr/2019/7",
 "kind": "hotarare",

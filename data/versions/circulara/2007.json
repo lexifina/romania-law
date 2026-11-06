@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "circulara/2007",
+ "acts": [
+  {
+   "slug": "circulara-bnr-10-2007",
+   "path": "circulara/bnr/2007/10",
+   "short": "Circulara bnr nr. 10/2007",
+   "title": "Circulara nr. 10/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna mai 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81768",
+   "versions": [
+    {
+     "from": "2007-05-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81768",
+     "sha256": "7cad51a61a18ae023c1a1216469142a80f91032c63565bc61e41e2a0014d9926"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-11-2007",
+   "path": "circulara/bnr/2007/11",
+   "short": "Circulara bnr nr. 11/2007",
+   "title": "Circulara nr. 11/2007 privind realizarea și punerea în circulație, în scop numismatic, a unei monede dedicate aniversării a 50 de ani de la semnarea Tratatului de la Roma",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81894",
+   "versions": [
+    {
+     "from": "2007-05-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81894",
+     "sha256": "a4d072b268a18bd83bdf9193ac150ed6096a9a08cb1272cdf5874c665df892c2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-12-2007",
+   "path": "circulara/bnr/2007/12",
+   "short": "Circulara bnr nr. 12/2007",
+   "title": "Circulara nr. 12/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna iunie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82612",
+   "versions": [
+    {
+     "from": "2007-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82612",
+     "sha256": "e1ab433e0063e8f0ee9d37794fc65703a7aa4679278c710998e1d55b44678c4c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-13-2007",
+   "path": "circulara/bnr/2007/13",
+   "short": "Circulara bnr nr. 13/2007",
+   "title": "Circulara nr. 13/2007 privind realizarea și punerea în circulație, în scop numismatic, a unor monede dedicate lui Dimitrie Cantemir",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83028",
+   "versions": [
+    {
+     "from": "2007-06-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83028",
+     "sha256": "66ce6258806ddbfaa326a64fdc79fae59d687bfe7c71efb44777eeec41709ece"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-15-2007",
+   "path": "circulara/bnr/2007/15",
+   "short": "Circulara bnr nr. 15/2007",
+   "title": "Circulara nr. 15/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna iulie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83461",
+   "versions": [
+    {
+     "from": "2007-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83461",
+     "sha256": "1e68ea678bc3c96b34efc0343045b2959450839a271e0b89885e3ecf83d290d2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-16-2007",
+   "path": "circulara/bnr/2007/16",
+   "short": "Circulara bnr nr. 16/2007",
+   "title": "Circulara nr. 16/2007 privind rata dobânzii plătită la rezervele minime obligatorii constituite în lei începând cu perioada de aplicare 24 iunie-23 iulie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83681",
+   "versions": [
+    {
+     "from": "2007-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83681",
+     "sha256": "ffbc8f84e44fdd9d9df5e11ec07035d0562c3525cc6570269d19ddf33cf471c1"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2007",
+   "path": "circulara/bnr/2007/17",
+   "short": "Circulara bnr nr. 17/2007",
+   "title": "Circulara nr. 17/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna august 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84332",
+   "versions": [
+    {
+     "from": "2007-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84332",
+     "sha256": "e3505ce5b8c92a96fe358b336bf3471f64523dfe53776d2afb9b2e15129e4db4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-18-2007",
+   "path": "circulara/bnr/2007/18",
+   "short": "Circulara bnr nr. 18/2007",
+   "title": "Circulara nr. 18/2007 privind modificarea ratei dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84552",
+   "versions": [
+    {
+     "from": "2007-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84552",
+     "sha256": "d7652d3d60bd8431bd1d711f00052a5f4538a3ad2622c6ee7497c5d3a84a5871"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-20-2007",
+   "path": "circulara/bnr/2007/20",
+   "short": "Circulara bnr nr. 20/2007",
+   "title": "Circulara nr. 20/2007 privind realizarea și punerea în circulație, în scop numismatic, a unei monede dedicate aniversării a 150 de ani de industrie petrolieră românească",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85246",
+   "versions": [
+    {
+     "from": "2007-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85246",
+     "sha256": "4959428fa31d8885382f2e549a50d727f05ad49ca990a4cbae5f20de60c5525a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-22-2007",
+   "path": "circulara/bnr/2007/22",
+   "short": "Circulara bnr nr. 22/2007",
+   "title": "Circulara nr. 22/2007 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 6/2002 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85394",
+   "versions": [
+    {
+     "from": "2007-09-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85394",
+     "sha256": "3e2132e3bae4fbcf7560c78725d87499882bcfa0970726482c29e5c7a3f740d5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-23-2007",
+   "path": "circulara/bnr/2007/23",
+   "short": "Circulara bnr nr. 23/2007",
+   "title": "Circulara nr. 23/2007 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în euro începând cu perioada de aplicare 24 august - 23 septembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85395",
+   "versions": [
+    {
+     "from": "2007-09-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85395",
+     "sha256": "876f3fdb1759cd5aa562080ff8ac8bee2f1b17bc13488e617d2a579d80d26d2c"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-24-2007",
+   "path": "circulara/bnr/2007/24",
+   "short": "Circulara bnr nr. 24/2007",
+   "title": "Circulara nr. 24/2007 privind realizarea și lansarea în circuitul numismatic a setului de monetărie cu anul de emisiune 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85870",
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85870",
+     "sha256": "37d3744688a3c9c77e9900993e51f7f46e4ee2047db23a196cdd7f3a29f6e213"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-25-2007",
+   "path": "circulara/bnr/2007/25",
+   "short": "Circulara bnr nr. 25/2007",
+   "title": "Circulara nr. 25/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna octombrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85871",
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85871",
+     "sha256": "b34946523aeb89bfd6bc080545eca1169c8ca7494e5ea1fc7a565f426d5c6bb4"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-26-2007",
+   "path": "circulara/bnr/2007/26",
+   "short": "Circulara bnr nr. 26/2007",
+   "title": "Circulara nr. 26/2007 privind rata dobânzii plătită la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 septembrie - 23 octombrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86300",
+   "versions": [
+    {
+     "from": "2007-10-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86300",
+     "sha256": "d30d8b45a62a58bea3657ab9888b4fdac726808c7521017072c969b34990b813"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-27-2007",
+   "path": "circulara/bnr/2007/27",
+   "short": "Circulara bnr nr. 27/2007",
+   "title": "Circulara nr. 27/2007 privind realizarea și punerea în circulație, în scop numismatic, a unei monede dedicate aniversării a 90 de ani de la victoriile armatei române de la Mărăști, Mărășești și Oituz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86577",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86577",
+     "sha256": "1a1a8bb6291ef89fca85258b669c765403c1c43742c14ee62f19095c675f36f9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-3-2007",
+   "path": "circulara/bnr/2007/3",
+   "short": "Circulara bnr nr. 3/2007",
+   "title": "Circulara nr. 3/2007 privind modificarea unor prevederi din Circulara Băncii Naționale a României nr. 24/2006 privind încetarea puterii circulatorii și preschimbarea vechilor însemne monetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79284",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79284",
+     "sha256": "0ae6f80eb5f5c1096fbd818bb6a47f492495635dbcc338f691773d041f947bcf"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2007",
+   "path": "circulara/bnr/2007/31",
+   "short": "Circulara bnr nr. 31/2007",
+   "title": "Circulara nr. 31/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna decembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87613",
+   "versions": [
+    {
+     "from": "2007-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87613",
+     "sha256": "1fb198b435835a58826da0fd93ba15d49e5d85f14217eefa2c33a51e6e873d23"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2007",
+   "path": "circulara/bnr/2007/32",
+   "short": "Circulara bnr nr. 32/2007",
+   "title": "Circulara nr. 32/2007 privind rata dobânzii plătită la rezervele minime obligatorii constituite în euro începând cu perioada de aplicare 24 noiembrie-23 decembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88026",
+   "versions": [
+    {
+     "from": "2007-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88026",
+     "sha256": "f2ddaa81a0dd5f8c7714729038426cdfccaa410f5aa24b3fb6d51a62acfd4b43"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-33-2007",
+   "path": "circulara/bnr/2007/33",
+   "short": "Circulara bnr nr. 33/2007",
+   "title": "Circulara nr. 33/2007 privind realizarea și punerea în circulație, în scop numismatic, a unei monede dedicate rhytonului de la Poroina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88268",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88268",
+     "sha256": "18d53a7f2c29901a722eab69cf347fe651e8b128f24e9ae1e2b44d76c9c509fc"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-4-2007",
+   "path": "circulara/bnr/2007/4",
+   "short": "Circulara bnr nr. 4/2007",
+   "title": "Circulara nr. 4/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna februarie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79285",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79285",
+     "sha256": "a5382f3e3ce20cf6cc11c59ad34e229fb8702717e8a8c2d8b07221480376aa92"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-5-2007",
+   "path": "circulara/bnr/2007/5",
+   "short": "Circulara bnr nr. 5/2007",
+   "title": "Circulara nr. 5/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna martie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80076",
+   "versions": [
+    {
+     "from": "2007-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80076",
+     "sha256": "4adacf05e6e9717be0c32b2a25d7722cbcf8550c9438c50b11e76df1decfdfed"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2007",
+   "path": "circulara/bnr/2007/9",
+   "short": "Circulara bnr nr. 9/2007",
+   "title": "Circulara nr. 9/2007 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 martie-23 aprilie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81133",
+   "versions": [
+    {
+     "from": "2007-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81133",
+     "sha256": "0bd68d16ad3376f941235807f983d9d527c491eba0db1f5d9dd755ab2b9f98cf"
+    }
+   ]
+  }
+ ]
+}

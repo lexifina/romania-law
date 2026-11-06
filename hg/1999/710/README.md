@@ -1,0 +1,16 @@
+# Hotărârea Guvernului nr. 710/1999 privind asigurarea securităţii utilizatorilor de jucării
+
+HG nr. 710/1999 · 2 versions, from 1999-12-15 (latest in force: 2003-05-16) · <https://legislatie.just.ro/Public/DetaliiDocument/19289>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+
+Act id: `hg-710-1999` (tags `hg-710-1999/<day>`; `python tools/on.py <day> hg-710-1999`).
+
+## Decisions made by hand
+
+- HG nr. 710/1999: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 19289, retrieved 2026-11-02).
+- HG nr. 710/1999: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- HG nr. 710/1999: the first version is the Government decision as published in Monitorul Oficial nr. 450 of 16 September 1999 (document 19289 of the official web service), dated 15 December 1999: its art. 16 puts it in force 90 days after publication. Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
+- HG nr. 710/1999: repealed in full by HG nr. 396/2003 after its newest form, read from the repealing act (. (2) Pe data intrarii in vigoare a prezentei hotarari se abroga Hotararea Guvernului nr. 710/1999 privind asigurarea se); the last version, of 16 May 2003, removes every article.
+- HG nr. 710/1999: AMENDMENTS NOT APPLIED. Later acts change this act (by: ORDIN nr. 19 din 15 ianuarie 2014 privind aprobarea Listei prețurilor de referință, pe specii și sortimente, stabilite p; HOTĂRÂRE nr. 883 din 16 august 2002 pentru aprobarea acoperirii cheltuielilor de transport internațional pentru un invit), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 19289, retrieved 2026-11-02; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.

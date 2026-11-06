@@ -3,6 +3,231 @@
  "shard": "decizie/2019",
  "acts": [
   {
+   "slug": "decizie-ancom-1012-2019",
+   "path": "decizie/ancom/2019/1012",
+   "short": "Decizia ancom nr. 1012/2019",
+   "title": "Decizia nr. 1.012/2019 pentru modificarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 160/2015 privind stabilirea unor măsuri adresate utilizatorilor finali cu dizabilități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219188",
+   "versions": [
+    {
+     "from": "2019-11-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219188",
+     "sha256": "3babb51b4270327c71c28d47256b0c087d40a517175a979742022c5aa800f7bd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1331-2019",
+   "path": "decizie/ancom/2019/1331",
+   "short": "Decizia ancom nr. 1331/2019",
+   "title": "Decizia nr. 1.331/2019 pentru aprobarea Procedurii de anulare a obligațiilor de plată accesorii ale debitorilor care, la data de 31 decembrie 2018 inclusiv, figurează în evidențele Autorității Naționale pentru Administrare și Reglementare în Comunicații cu obligații bugetare principale restante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220721",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220721",
+     "sha256": "b41e5b27bb4753930999f971782794f1420cacb943dab896574f53754a5ad4ba"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1362-2019",
+   "path": "decizie/ancom/2019/1362",
+   "short": "Decizia ancom nr. 1362/2019",
+   "title": "Decizia nr. 1.362/2019 privind condițiile tehnice referitoare la utilizarea rețelelor publice mobile de comunicații electronice și conectarea acestora cu sistemul RO-ALERT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221798",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221798",
+     "sha256": "4cee61574bee0c36ebe13aaa215cd76a380fd5da62cf5fd21b4d35a51bcd480f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-1372-2019",
+   "path": "decizie/ancom/2019/1372",
+   "short": "Decizia ancom nr. 1372/2019",
+   "title": "Decizia nr. 1.372/2019 privind completarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 551/2012 privind stabilirea tarifului de utilizare a spectrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221901",
+   "versions": [
+    {
+     "from": "2020-01-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221901",
+     "sha256": "ba265e77d2f1c945c247b0ddf259547d83b2643c6071504e51d0feb7de99846e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-300-2019",
+   "path": "decizie/ancom/2019/300",
+   "short": "Decizia ancom nr. 300/2019",
+   "title": "Decizia nr. 300/2019 pentru abrogarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 1.154/2013 privind identificarea pieței relevante corespunzătoare serviciilor de tranzit comutat al apelurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212682",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212682",
+     "sha256": "ae47da34e52cef46f16a2854f35dfe70728f849153b806b2442e4b6bef983ff9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-934-2019",
+   "path": "decizie/ancom/2019/934",
+   "short": "Decizia ancom nr. 934/2019",
+   "title": "Decizia nr. 934/2019 privind condițiile și procedura de desemnare a furnizorilor de serviciu universal în domeniul serviciilor poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218620",
+   "versions": [
+    {
+     "from": "2019-10-02",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218620",
+     "sha256": "ccebe322cf07f68386ede2d5a2077b818e575e5a8c46cb5add3afde2072022f9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-anre-2168-2019",
+   "path": "decizie/anre/2019/2168",
+   "short": "Decizia anre nr. 2168/2019",
+   "title": "Decizia nr. 2.168/2019 privind aprobarea Modelului pentru întocmirea Programului de îmbunătățire a eficienței energetice (PIEE) aferent localităților cu o populație mai mare de 5.000 locuitori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221965",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221965",
+     "sha256": "b005739a382cc72f506ed0dbaeacaf002c58cfa3611931922dae0fdc99e0fb3c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1346-2019",
+   "path": "decizie/asf/2019/1346",
+   "short": "Decizia asf nr. 1346/2019",
+   "title": "Decizia nr. 1.346/2019 privind sancționarea Societății ARO-ASIGURĂRI ROMÂNIA BROKER DE ASIGURARE - S.R.L. cu retragerea autorizației de funcționare și radierea acesteia din Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219815",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219815",
+     "sha256": "6e316403e40686141f874f53118a6a19e34188dba06ef6835097a8042117d58e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1421-2019",
+   "path": "decizie/asf/2019/1421",
+   "short": "Decizia asf nr. 1421/2019",
+   "title": "Decizia nr. 1.421/2019 privind sancționarea cu retragerea autorizației de funcționare a Societății FORTIS ASIGURĂRI BROKER DE ASIGURARE-REASIGURARE - S.R.L., precum și radierea din secțiunea I a Registrului intermediarilor principali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220688",
+   "versions": [
+    {
+     "from": "2019-12-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220688",
+     "sha256": "0437fed1e2317bc3d694877e3f9a305a9b3a890cc13bf448f400e153e11bd81b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-1611-2019",
+   "path": "decizie/asf/2019/1611",
+   "short": "Decizia asf nr. 1611/2019",
+   "title": "Decizia nr. 1.611/2019 privind autorizarea Societății OBSIDIAN BROKER DE ASIGURARE-REASIGURARE - S.R.L. ca intermediar principal în asigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222106",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222106",
+     "sha256": "3cc5907cfae9aa283263b314058423b6f80f403c6ea80da16a84704398a75f3b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-322-2019",
+   "path": "decizie/asf/2019/322",
+   "short": "Decizia asf nr. 322/2019",
+   "title": "Decizia nr. 322/2019 privind retragerea, la cerere, a autorizației de funcționare a Societății FATA ASIGURĂRI - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211707",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211707",
+     "sha256": "492c248984162a76eb86d10c2e808e7441534aec1b964cb2fc0e728c7f57da7d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-asf-323-2019",
+   "path": "decizie/asf/2019/323",
+   "short": "Decizia asf nr. 323/2019",
+   "title": "Decizia nr. 323/2019 privind sancționarea Societății SIRCOM INSURANCE BROKER - S.R.L. cu interzicerea temporară a exercitării activității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212057",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212057",
+     "sha256": "d7a86703deb769871fb31d5ce2c779565de7b0e03f53079821569d2f168807b4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-155-2019",
+   "path": "decizie/cna/2019/155",
+   "short": "Decizia cna nr. 155/2019",
+   "title": "Decizia nr. 155/2019 pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 72/2012 privind condițiile de eliberare și modificare a avizului de retransmisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210436",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210436",
+     "sha256": "af7d71540ea54ee8fc402c82deaf95301e77c17700c5e2c12b083c065c078139"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-308-2019",
+   "path": "decizie/cna/2019/308",
+   "short": "Decizia cna nr. 308/2019",
+   "title": "Decizia nr. 308/2019 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea membrilor din România în Parlamentul European",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212287",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212287",
+     "sha256": "a3d6d1b8561b85b867557a4edec53c858c96be1b1928f613b9715d03bab1e76f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-396-2019",
+   "path": "decizie/cna/2019/396",
+   "short": "Decizia cna nr. 396/2019",
+   "title": "Decizia nr. 396/2019 pentru completarea Deciziei Consiliului Național al Audiovizualului nr. 72/2012 privind condițiile de eliberare și modificare a avizului de retransmisie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214044",
+   "versions": [
+    {
+     "from": "2019-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214044",
+     "sha256": "fd64374aac4ad99f9312503a114f1892a1c443e1390a208ec07a8316eec8ca05"
+    }
+   ]
+  },
+  {
    "slug": "decizie-cna-614-2019",
    "path": "decizie/cna/2019/614",
    "short": "Decizia cna nr. 614/2019",
@@ -14,6 +239,21 @@
      "units": 2,
      "source_url": "https://media.cna.ro/Decizia_nr_614_din_11_iunie_2019_M_Of_nr_517_din_25_iunie_2019_4eb174de4b.pdf",
      "sha256": "36f5c0bb07955c89214d48cb81386169584a3f339b159f8da3301fd9cad04357"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-781-2019",
+   "path": "decizie/cna/2019/781",
+   "short": "Decizia cna nr. 781/2019",
+   "title": "Decizia nr. 781/2019 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea Președintelui României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217829",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217829",
+     "sha256": "d98e157d367cd3ebce6f9b801869262967c04505ddde59f4828392b0d788dd8e"
     }
    ]
   }

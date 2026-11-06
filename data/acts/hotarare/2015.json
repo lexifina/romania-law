@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "hotarare/2015",
+"acts": [
+{
+"slug": "hotarare-asf-76-2015",
+"path": "hotarare/asf/2015/76",
+"kind": "hotarare",
+"year": "2015",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 76/2015 privind derogarea de la prevederile art. 10 alin. (1) din Norma nr. 2/2013 privind calculul actuarial al contribuției anuale datorate de administratorii de fonduri de pensii private Fondului de garantare a drepturilor din sistemul de pensii private",
+"short": "Hotărârea asf nr. 76/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-12-30",
+"latest": "2015-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/174473",
+"issuer": "asf",
+"joint": []
+},
+{
+"slug": "hotarare-asf-209-2015",
+"path": "hotarare/asf/2015/209",
+"kind": "hotarare",
+"year": "2015",
+"number": "209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 209/2015 privind sancționarea cu amendă și interzicerea temporară a activității de asigurare, precum și stabilirea unor măsuri în sarcina Societății de Asigurare-Reasigurare LIG Insurance - S.A",
+"short": "Hotărârea asf nr. 209/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-02-12",
+"latest": "2015-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/165657",
+"issuer": "asf",
+"joint": []
+}
+]
+}

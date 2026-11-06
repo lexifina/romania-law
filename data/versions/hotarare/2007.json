@@ -1,0 +1,456 @@
+{
+ "country": "RO",
+ "shard": "hotarare/2007",
+ "acts": [
+  {
+   "slug": "hotarare-bnr-10-2007",
+   "path": "hotarare/bnr/2007/10",
+   "short": "Hotărârea bnr nr. 10/2007",
+   "title": "Hotărârea nr. 10/2007 privind autorizarea procesului de fuziune prin absorbție a UniCredit România - S.A. de către Banca Comercială HVB Țiriac - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82603",
+   "versions": [
+    {
+     "from": "2007-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82603",
+     "sha256": "d5f36dbfc37a1e836ff82933ade47748b59e6205a010b6bc8cd1bfe36a9ae3be"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-11-2007",
+   "path": "hotarare/bnr/2007/11",
+   "short": "Hotărârea bnr nr. 11/2007",
+   "title": "Hotărârea nr. 11/2007 privind retragerea autorizației de funcționare a UniCredit România - S.A., ca urmare a autorizării procesului de fuziune prin absorbție a UniCredit România - S.A. de către Banca Comercială HVB Țiriac - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82605",
+   "versions": [
+    {
+     "from": "2007-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82605",
+     "sha256": "a742134b3f12ae7eb879333bb8b861985e804eb37a7f038d183c02ea311b8278"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-18-2007",
+   "path": "hotarare/csspp/2007/18",
+   "short": "Hotărârea csspp nr. 18/2007",
+   "title": "Hotărârea nr. 18/2007 pentru aprobarea Normei nr. 2/2007 privind autorizarea administratorilor în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80490",
+   "versions": [
+    {
+     "from": "2007-03-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80490",
+     "sha256": "7adc63c6e58ef6a449c88e3940b769da63396c1fd10c3a5122d4b38f352cbeea"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-19-2007",
+   "path": "hotarare/csspp/2007/19",
+   "short": "Hotărârea csspp nr. 19/2007",
+   "title": "Hotărârea nr. 19/2007 pentru aprobarea Normei nr. 3/2007 privind taxele de autorizare, avizare și funcționare în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80209",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80209",
+     "sha256": "7a9a07fb9fcbcaec92acdd28fc8531c87e977f2f2bb2722e9880fe48a30730f0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-2-2007",
+   "path": "hotarare/csspp/2007/2",
+   "short": "Hotărârea csspp nr. 2/2007",
+   "title": "Hotărârea nr. 2/2007 pentru aprobarea Normei nr. 1/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79169",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79169",
+     "sha256": "a8f01e56c7957c6970524d7d2ff1b488a89d20ddce5684c0da816b8fe03481e4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-22-2007",
+   "path": "hotarare/csspp/2007/22",
+   "short": "Hotărârea csspp nr. 22/2007",
+   "title": "Hotărârea nr. 22/2007 pentru aprobarea Normei nr. 4/2007 privind autorizarea fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80327",
+   "versions": [
+    {
+     "from": "2007-03-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80327",
+     "sha256": "758b6a029840ef0da35cd7101a569c4ea0de792eb64f9b4ff1e65bef5c2f74f2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-23-2007",
+   "path": "hotarare/csspp/2007/23",
+   "short": "Hotărârea csspp nr. 23/2007",
+   "title": "Hotărârea nr. 23/2007 pentru aprobarea Normei nr. 5/2007 privind proveniența capitalului social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80520",
+   "versions": [
+    {
+     "from": "2007-03-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80520",
+     "sha256": "ddddc7cc8f4fc90c2005e159e697b51a46fb2efab670c1a3962c5ded334750d0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-26-2007",
+   "path": "hotarare/csspp/2007/26",
+   "short": "Hotărârea csspp nr. 26/2007",
+   "title": "Hotărârea nr. 26/2007 pentru aprobarea Normei nr. 7/2007 privind prospectul schemei de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80846",
+   "versions": [
+    {
+     "from": "2007-04-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80846",
+     "sha256": "e9bc37c434fcc4167c31223b4708de63ba1a31b6aff66ee74d28db32e95d3c6f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-27-2007",
+   "path": "hotarare/csspp/2007/27",
+   "short": "Hotărârea csspp nr. 27/2007",
+   "title": "Hotărârea nr. 27/2007 pentru aprobarea Normei nr. 8/2007 privind informațiile conținute în materiale publicitare referitoare la fondurile de pensii administrate privat și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80850",
+   "versions": [
+    {
+     "from": "2007-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80850",
+     "sha256": "8c00ea853641771a8f627744305d9fab729b71561af95d1dafb583786a866aed"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-29-2007",
+   "path": "hotarare/csspp/2007/29",
+   "short": "Hotărârea csspp nr. 29/2007",
+   "title": "Hotărârea nr. 29/2007 pentru aprobarea Normei nr. 9/2007 privind marketingul fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81121",
+   "versions": [
+    {
+     "from": "2007-04-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81121",
+     "sha256": "ad1af6a83c9b20aba5e9a053d2362480106437b9d6985c14b42b60da7047d64d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-31-2007",
+   "path": "hotarare/csspp/2007/31",
+   "short": "Hotărârea csspp nr. 31/2007",
+   "title": "Hotărârea nr. 31/2007 pentru aprobarea Normei nr. 10/2007 privind calculul actuarial al provizionului tehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81340",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81340",
+     "sha256": "60b743182cc86f85b4d745e427f9cc0ec2203ed65da014117c3812e310cec8a4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-32-2007",
+   "path": "hotarare/csspp/2007/32",
+   "short": "Hotărârea csspp nr. 32/2007",
+   "title": "Hotărârea nr. 32/2007 pentru aprobarea Normei nr. 11/2007 privind auditorul financiar pentru fondurile de pensii administrate privat și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81572",
+   "versions": [
+    {
+     "from": "2007-05-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81572",
+     "sha256": "b275d80a6b6a6e740176671a759d54f1dcc536d74bbfa05190747baa1c953a65"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-33-2007",
+   "path": "hotarare/csspp/2007/33",
+   "short": "Hotărârea csspp nr. 33/2007",
+   "title": "Hotărârea nr. 33/2007 pentru aprobarea Normei nr. 12/2007 privind activitatea de depozitare a activelor fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81611",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81611",
+     "sha256": "32334867bfd5e6849ba361ca8712dd01da03d82117ae24d45c70342001ab9dce"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-35-2007",
+   "path": "hotarare/csspp/2007/35",
+   "short": "Hotărârea csspp nr. 35/2007",
+   "title": "Hotărârea nr. 35/2007 pentru aprobarea Normei nr. 13/2007 privind autorizarea societății de pensii ca administrator al fondurilor de pensii facultative și al unui fond de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82390",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82390",
+     "sha256": "a49155bd3aa339b955e8e467cbca013b9f47bcd0b4613a41f3e4acad3fc6a52b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-38-2007",
+   "path": "hotarare/csspp/2007/38",
+   "short": "Hotărârea csspp nr. 38/2007",
+   "title": "Hotărârea nr. 38/2007 pentru aprobarea Normei nr. 15/2007 privind obligațiile de raportare și transparență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83742",
+   "versions": [
+    {
+     "from": "2007-07-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83742",
+     "sha256": "a4efccbfabaf97e5da0f144230c103db78322c1af5973e32801107323bb326c0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-39-2007",
+   "path": "hotarare/csspp/2007/39",
+   "short": "Hotărârea csspp nr. 39/2007",
+   "title": "Hotărârea nr. 39/2007 pentru aprobarea Procedurii privind înregistrarea și actualizarea datelor în Registrul fondurilor de pensii private și al administratorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82930",
+   "versions": [
+    {
+     "from": "2007-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82930",
+     "sha256": "b143d9ef388f275b481ef2fecc725f6c19e796295cccc29ef182b47f8f26c378"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-42-2007",
+   "path": "hotarare/csspp/2007/42",
+   "short": "Hotărârea csspp nr. 42/2007",
+   "title": "Hotărârea nr. 42/2007 privind aprobarea Normei nr. 16/2007 pentru modificarea Normei nr. 1/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83611",
+   "versions": [
+    {
+     "from": "2007-07-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83611",
+     "sha256": "a7bafb0eab56d81490be1894534f86e6d2a1e88591c93cf71bef7c4ce2747c94"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-45-2007",
+   "path": "hotarare/csspp/2007/45",
+   "short": "Hotărârea csspp nr. 45/2007",
+   "title": "Hotărârea nr. 45/2007 pentru aprobarea Normei nr. 17/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83722",
+   "versions": [
+    {
+     "from": "2007-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83722",
+     "sha256": "06a24e0e499a6b53cc516c6cd99b483bd9c49b05a1167b5225375da732fce40c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-46-2007",
+   "path": "hotarare/csspp/2007/46",
+   "short": "Hotărârea csspp nr. 46/2007",
+   "title": "Hotărârea nr. 46/2007 (*republicată*) Comisiei de Supraveghere a Sistemului de Pensii Private nr. 46/2007 pentru aprobarea Normei nr. 18/2007 privind aderarea inițială și evidența participanților la fondurile de pensii administrate privat*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94021",
+   "versions": [
+    {
+     "from": "2008-06-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94021",
+     "sha256": "41f78531bac8581148a1b7d2c634894f1e7f0594989866d9fd2754bbd11a10fe"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-48-2007",
+   "path": "hotarare/csspp/2007/48",
+   "short": "Hotărârea csspp nr. 48/2007",
+   "title": "Hotărârea nr. 48/2007 privind aprobarea Normei nr. 19/2007 pentru modificarea Normei nr. 4/2006 privind proveniența capitalului social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84315",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84315",
+     "sha256": "ae41600ec672a400e2cd2bae811764424a5e72e1a1a23a02a632d795a3dafb7c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-49-2007",
+   "path": "hotarare/csspp/2007/49",
+   "short": "Hotărârea csspp nr. 49/2007",
+   "title": "Hotărârea nr. 49/2007 privind aprobarea Normei nr. 20/2007 pentru modificarea Normei nr. 1/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84317",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84317",
+     "sha256": "7a543e66a8d6c92b4082e0bbeae4c8225ecfe9ea8db1bc24d4fdc816469f673b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-50-2007",
+   "path": "hotarare/csspp/2007/50",
+   "short": "Hotărârea csspp nr. 50/2007",
+   "title": "Hotărârea nr. 50/2007 privind aprobarea Normei nr. 21/2007 pentru modificarea Normei nr. 1/2006 privind autorizarea de constituire a societății de pensii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84365",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84365",
+     "sha256": "7164439b886c2d7a6e576212a99c5e6fe2b7275b7e70c0edc82345842f9b2895"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-51-2007",
+   "path": "hotarare/csspp/2007/51",
+   "short": "Hotărârea csspp nr. 51/2007",
+   "title": "Hotărârea nr. 51/2007 privind aprobarea Normei nr. 22/2007 pentru modificarea Normei nr. 2/2006 privind autorizarea societății de administrare a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84367",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84367",
+     "sha256": "2e0e28a0effa94da86071e0b186e97f411f83216c3d435b5eed18ef5e4c20366"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-53-2007",
+   "path": "hotarare/csspp/2007/53",
+   "short": "Hotărârea csspp nr. 53/2007",
+   "title": "Hotărârea nr. 53/2007 privind aprobarea Normei nr. 23/2007 pentru modificarea Normei nr. 3/2007 privind taxele de autorizare, avizare și funcționare în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84221",
+   "versions": [
+    {
+     "from": "2007-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84221",
+     "sha256": "c54fc669cf8962899fa45a51560f8c640036d30ebc9780ffd16da57681a8dfd1"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-54-2007",
+   "path": "hotarare/csspp/2007/54",
+   "short": "Hotărârea csspp nr. 54/2007",
+   "title": "Hotărârea nr. 54/2007 pentru aprobarea Normei nr. 24/2007 privind sistemul de raportare contabilă la 30 iunie 2007 a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84541",
+   "versions": [
+    {
+     "from": "2007-08-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84541",
+     "sha256": "ec80ef249a9a25295e80be0a3ff4cdb8975917685b316b0385a34027e5c832e6"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-56-2007",
+   "path": "hotarare/csspp/2007/56",
+   "short": "Hotărârea csspp nr. 56/2007",
+   "title": "Hotărârea nr. 56/2007 pentru aprobarea Normei nr. 25/2007 privind marketingul fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84573",
+   "versions": [
+    {
+     "from": "2007-08-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84573",
+     "sha256": "3949fa69fa5cccafd8f698ce3e1d42d16ac68bfd1fbe13c742b6804cacf7e837"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-57-2007",
+   "path": "hotarare/csspp/2007/57",
+   "short": "Hotărârea csspp nr. 57/2007",
+   "title": "Hotărârea nr. 57/2007 pentru aprobarea Normei nr. 26/2007 privind modificarea temporară a procentului maxim care poate fi investit în fiecare categorie de active ale fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84369",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84369",
+     "sha256": "4dd36b2e6e4b385e60b82826b9a5f7a862dd5b721bf7be9f327cae93c92b1898"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-58-2007",
+   "path": "hotarare/csspp/2007/58",
+   "short": "Hotărârea csspp nr. 58/2007",
+   "title": "Hotărârea nr. 58/2007 privind aprobarea Normei nr. 27/2007 pentru modificarea și completarea Normei nr. 5/2006 privind informațiile conținute în materiale publicitare referitoare la fondurile de pensii facultative și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84781",
+   "versions": [
+    {
+     "from": "2007-08-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84781",
+     "sha256": "7018bf05886884ccd5cee6e77f252cbf7e160552bec14b3dcdb40a13863d9ac9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-64-2007",
+   "path": "hotarare/csspp/2007/64",
+   "short": "Hotărârea csspp nr. 64/2007",
+   "title": "Hotărârea nr. 64/2007 privind aprobarea Normei nr. 30/2007 pentru modificarea și completarea Normei nr. 3/2007 privind taxele de autorizare, avizare și funcționare în sistemul de pensii administrate privat, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86247",
+   "versions": [
+    {
+     "from": "2007-10-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86247",
+     "sha256": "5908b7a0a4d28bff793e2b10d50c6b4bb2b037a1e40516330d9e95b9bfc84eb0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-65-2007",
+   "path": "hotarare/csspp/2007/65",
+   "short": "Hotărârea csspp nr. 65/2007",
+   "title": "Hotărârea nr. 65/2007 privind aprobarea Normei nr. 31/2007 pentru modificarea și completarea Normei nr. 18/2007 privind aderarea inițială și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86613",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86613",
+     "sha256": "4f961111db4e4cd7b9176fa7f589c50760bfdc9840b96a1910bb595dbfbd0763"
+    }
+   ]
+  }
+ ]
+}
