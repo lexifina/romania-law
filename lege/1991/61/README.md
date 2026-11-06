@@ -39,3 +39,50 @@ Act id: `legea-61-1991` (tags `legea-61-1991/<day>`; `python tools/on.py <day> l
 - Legea nr. 61/1991: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 11, left out from the form of 29.09.2002: repealed by OG nr. 55/2002, in force 29.09.2002 (its art. 27: in force 30 days after publication in Monitorul Oficial nr. 642 of 30 August 2002); art. 12, left out from the form of 29.09.2002: repealed by OG nr. 55/2002, in force 29.09.2002 (its art. 27: in force 30 days after publication in Monitorul Oficial nr. 642 of 30 August 2002); art. 13, left out from the form of 29.09.2002: repealed by OG nr. 55/2002, in force 29.09.2002 (its art. 27: in force 30 days after publication in Monitorul Oficial nr. 642 of 30 August 2002); art. 14, left out from the form of 29.09.2002: repealed by OG nr. 55/2002, in force 29.09.2002 (its art. 27: in force 30 days after publication in Monitorul Oficial nr. 642 of 30 August 2002); art. 15, left out from the form of 29.09.2002: repealed by OG nr. 55/2002, in force 29.09.2002 (its art. 27: in force 30 days after publication in Monitorul Oficial nr. 642 of 30 August 2002); art. 16, left out from the form of 29.09.2002: repealed by OG nr. 55/2002, in force 29.09.2002 (its art. 27: in force 30 days after publication in Monitorul Oficial nr. 642 of 30 August 2002); art. 4, left out from the form of 22.07.2010: repealed by Legea nr. 153/2010, in force 22.07.2010 (it sets no in-force day of its own: 3 days after publication in Monitorul Oficial nr. 496 of 19 July 2010 (Constituția art. 78)); art. 5, left out from the form of 22.07.2010: repealed by Legea nr. 153/2010, in force 22.07.2010 (it sets no in-force day of its own: 3 days after publication in Monitorul Oficial nr. 496 of 19 July 2010 (Constituția art. 78)); art. 10, left out from the form of 22.07.2010: repealed by Legea nr. 153/2010, in force 22.07.2010 (it sets no in-force day of its own: 3 days after publication in Monitorul Oficial nr. 496 of 19 July 2010 (Constituția art. 78)).
 - Legea nr. 61/1991: 4 changed article(s) with no note naming a law, committed as the publisher's: 2002-09-29 art-004, 2002-09-29 art-007, 2002-09-29 art-017, 2013-07-16 art-008.
 - Legea nr. 61/1991: forms with no change after normalisation, so no version: 2013-05-31 (143875), 2022-11-29 (261193), 2023-01-13 (264934).
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-002.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-003.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-004.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+- `art-002.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-003.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-004.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-005.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-006.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-007.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-008.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-009.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-010.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-011.md`, in force from 2014-02-07: Legea nr. 187/2012 (first published as no law named).
+- `art-002.md`, in force from 2020-01-13: Legea nr. 11/2020 (first published as no law named).
+- `art-002.md`, in force from 2020-01-26: Legea nr. 192/2019 (first published as no law named).
+- `art-003.md`, in force from 2020-01-26: Legea nr. 192/2019 (first published as no law named).
+- `art-004-1.md`, in force from 2020-01-26: Legea nr. 192/2019 (first published as no law named).
+- `art-009.md`, in force from 2020-01-26: Legea nr. 192/2019 (first published as no law named).
+- `art-002.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-003.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-004-1.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-005.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-006.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-007.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-008.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-009.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-010.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-011.md`, in force from 2020-02-18: Legea nr. 192/2019 (first published as no law named).
+- `art-003.md`, in force from 2022-03-26: Legea nr. 64/2022 (first published as no law named).
+- `art-002.md`, in force from 2022-08-24: Legea nr. 260/2022 (first published as no law named).
+- `art-003.md`, in force from 2022-08-24: Legea nr. 260/2022 (first published as no law named).
+- `art-004.md`, in force from 2022-08-24: Legea nr. 260/2022 (first published as no law named).
+- `art-002.md`, in force from 2023-06-23: Legea nr. 174/2023 (first published as no law named).
+- `art-003.md`, in force from 2023-06-23: Legea nr. 174/2023 (first published as no law named).
+- `art-002.md`, in force from 2024-03-15: Legea nr. 42/2024 (first published as no law named).
+- `art-003.md`, in force from 2024-03-15: Legea nr. 42/2024 (first published as no law named).
+- `art-002-1.md`, in force from 2024-07-25: Legea nr. 233/2024 (first published as no law named).
+- `art-002.md`, in force from 2026-06-13: Legea nr. 92/2026 (first published as no law named).
+- `art-003.md`, in force from 2026-06-13: Legea nr. 92/2026 (first published as no law named).
+- `art-005.md`, in force from 2026-06-13: Legea nr. 92/2026 (first published as no law named).
+- `art-006-1.md`, in force from 2026-06-13: OUG nr. 7/2026 (first published as no law named).
+- `art-008.md`, in force from 2026-06-13: Legea nr. 92/2026 (first published as no law named).
