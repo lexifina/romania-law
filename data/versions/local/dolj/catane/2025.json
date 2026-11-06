@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/catane/2025",
+ "acts": [
+  {
+   "slug": "hcl-dolj--catane-7-2025",
+   "path": "local/dolj/catane/2025/7",
+   "short": "HCL Catane nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Catane nr. 7/2025 privind initiere demersuri intocmire PUG",
+   "url": "https://primaria-catane.ro/hotarari-de-consiliu/",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://primaria-catane.ro/wp-content/uploads/2025/05/hotarari/Hotararea%20nr.%207%20din%2005.03.2025%20privind%20initiere%20demersuri%20intocmire%20PUG.pdf",
+     "sha256": "cd80e87bd52a0f72ec06d37c8eb2e43e196cc3f7f0889ff6c8e4df9d2b045148"
+    }
+   ]
+  }
+ ]
+}

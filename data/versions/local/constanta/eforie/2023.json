@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/eforie/2023",
+ "acts": [
+  {
+   "slug": "hcl-constanta--eforie-335-2023",
+   "path": "local/constanta/eforie/2023/335",
+   "short": "HCL Eforie nr. 335/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 335/2023 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147284",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-336-2023",
+   "path": "local/constanta/eforie/2023/336",
+   "short": "HCL Eforie nr. 336/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 336/2023 privind modificarea și completarea HCL nr. 301 / 29.11.2023 privind stabilirea nivelurilor impozitelor şi taxelor locale aplicabile în oraşul Eforie pentru anul 2024",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147338",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-337-2023",
+   "path": "local/constanta/eforie/2023/337",
+   "short": "HCL Eforie nr. 337/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 337/2023 privind aprobarea contului de execuție al bugetului local al orașului Eforie pentru trimestrul IV al anului 2023",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/147339",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/147339",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

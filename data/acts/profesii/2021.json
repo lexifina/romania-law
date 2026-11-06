@@ -3,6 +3,186 @@
 "shard": "profesii/2021",
 "acts": [
 {
+"slug": "profesii-cmdr-decizie-2021-1-1agn",
+"path": "profesii/cmdr/decizie/2021/1-1agn",
+"kind": "profesii",
+"year": "2021",
+"number": "1-1agn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1/1AGN din 4 februarie 2021 privind organizarea și desfășurarea în sistem on-line a ședințelor organelor de conducere ale Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 1/1AGN/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-11",
+"latest": "2021-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237300",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2021-10-2cn",
+"path": "profesii/cmdr/decizie/2021/10-2cn",
+"kind": "profesii",
+"year": "2021",
+"number": "10-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 10/2CN din 16 februarie 2021 privind organizarea și desfășurarea on-line a ședințelor Comisiei superioare de disciplină a Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 10/2CN/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-23",
+"latest": "2021-02-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238161",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2021-3-2cn",
+"path": "profesii/cmdr/decizie/2021/3-2cn",
+"kind": "profesii",
+"year": "2021",
+"number": "3-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 3/2CN din 21 ianuarie 2021 privind aprobarea calendarului electoral pentru alegerea membrilor consiliului teritorial și ai biroului executiv ale Colegiului Medicilor Stomatologi Timiș pentru perioada rămasă din mandatul 2019-2023",
+"short": "Decizia CMDR nr. 3/2CN/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-01",
+"latest": "2021-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236908",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2021-4-2cn",
+"path": "profesii/cmdr/decizie/2021/4-2cn",
+"kind": "profesii",
+"year": "2021",
+"number": "4-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 4/2CN din 4 februarie 2021 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Stomatologi din România nr. 9/2CN/2020 privind aprobarea componenței Comisiei Electorale Centrale pentru alegerile parțiale organizate până la expirarea mandatului 2019-2023 al organelor de conducere ale Colegiului Medicilor Stomatologi din România, la nivel local și național",
+"short": "Decizia CMDR nr. 4/2CN/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-10",
+"latest": "2021-02-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237259",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-adunare-generala-2021-2-1agn",
+"path": "profesii/cmdr/decizie-adunare-generala/2021/2-1agn",
+"kind": "profesii",
+"year": "2021",
+"number": "2-1agn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 2/1AGN din 4 februarie 2021 privind completarea Regulamentului de organizare și funcționare a Colegiului Medicilor Stomatologi din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007",
+"short": "Decizia CMDR nr. 2/1AGN/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-11",
+"latest": "2021-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237304",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-adunare-generala-2021-3-1agn",
+"path": "profesii/cmdr/decizie-adunare-generala/2021/3-1agn",
+"kind": "profesii",
+"year": "2021",
+"number": "3-1agn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 3/1AGN din 19 martie 2021 privind modificarea și completarea Regulamentului de organizare și funcționare a Colegiului Medicilor Stomatologi din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007",
+"short": "Decizia CMDR nr. 3/1AGN/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-24",
+"latest": "2021-03-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239957",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-adunare-generala-2021-6-1agn",
+"path": "profesii/cmdr/decizie-adunare-generala/2021/6-1agn",
+"kind": "profesii",
+"year": "2021",
+"number": "6-1agn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 6/1AGN din 9 iulie 2021 privind adoptarea Codului deontologic al medicului stomatolog",
+"short": "Decizia CMDR nr. 6/1AGN/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-01",
+"latest": "2022-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245939",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2021-16-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2021/16-2cn",
+"kind": "profesii",
+"year": "2021",
+"number": "16-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 16/2CN din 26 noiembrie 2021 privind reglementarea sistemului de educație medicală continuă pentru medicii stomatologi, a criteriilor și normelor de acreditare a furnizorilor de educație medicală continuă și a lectorilor, precum și a procedurilor de evaluare și creditare a formelor de educație medicală continuă adresate medicilor stomatologi",
+"short": "Decizia CMDR nr. 16/2CN/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-06",
+"latest": "2021-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248997",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2021-2-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2021/2-2cn",
+"kind": "profesii",
+"year": "2021",
+"number": "2-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 2/2CN din 21 ianuarie 2021 privind modificarea și completarea Regulamentului electoral al Colegiului Medicilor Stomatologi din România, aprobat prin Decizia Consiliului național al Colegiului Medicilor Stomatologi din România nr. 18/2CN/2019",
+"short": "Decizia CMDR nr. 2/2CN/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236838",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2021-230-2",
 "path": "profesii/unbr/hotarare-consiliu/2021/230-2",
 "kind": "profesii",
@@ -23,6 +203,46 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2021-1",
+"path": "profesii/ccf/hotarare/2021/1",
+"kind": "profesii",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 28 ianuarie 2021 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2021",
+"short": "Hotărârea CCF nr. 1/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-05",
+"latest": "2021-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237074",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-consiliu-2021-1",
+"path": "profesii/cfr/decizie-consiliu/2021/1",
+"kind": "profesii",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 28 ianuarie 2021 pentru completarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 1/2011 privind aprobarea procedurilor de evaluare a farmaciilor cu privire la respectarea Regulilor de bună practică farmaceutică",
+"short": "Decizia CFR nr. 1/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-15",
+"latest": "2021-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237423",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2021-1",
 "path": "profesii/inppa/hotarare-consiliu/2021/1",
 "kind": "profesii",
@@ -38,6 +258,26 @@
 "from": "2021-01-07",
 "latest": "2021-01-07",
 "portal": "https://inppa.ro/hotararea-nr-01-05-01-2021-privind-inceperea-anului-ii-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2021-2",
+"path": "profesii/ccf/hotarare/2021/2",
+"kind": "profesii",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 28 ianuarie 2021 privind aprobarea Programului de pregătire profesională continuă aferent anului 2021",
+"short": "Hotărârea CCF nr. 2/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-05",
+"latest": "2021-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237075",
 "flags": {
 "amendments_checked": false
 }
@@ -83,6 +323,66 @@
 }
 },
 {
+"slug": "profesii-unnpr-hotarare-congres-2021-2",
+"path": "profesii/unnpr/hotarare-congres/2021/2",
+"kind": "profesii",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 17 noiembrie 2021 privind ratificarea Hotărârii Consiliului Uniunii Naționale a Notarilor Publici din România nr. 25/2021 și aprobarea unor modificări și completări ale Statutului Uniunii Naționale a Notarilor Publici din România, aprobat prin Hotărârea Congresului Notarilor Publici din România nr. 10/2014",
+"short": "Hotărârea UNNPR nr. 2/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249152",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2021-3",
+"path": "profesii/ccf/hotarare/2021/3",
+"kind": "profesii",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 28 ianuarie 2021 pentru modificarea și completarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 13/2020 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2021 și pentru modificarea anexei nr. 8 la Regulamentul de organizare și funcționare al Camerei Consultanților Fiscali, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 3/2017",
+"short": "Hotărârea CCF nr. 3/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237141",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2021-3",
+"path": "profesii/oamgmamr/hotarare/2021/3",
+"kind": "profesii",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 8 februarie 2021 pentru completarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 32/2009",
+"short": "Hotărârea OAMGMAMR nr. 3/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-10",
+"latest": "2021-02-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237280",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2021-3",
 "path": "profesii/unbr/hotarare-congres/2021/3",
 "kind": "profesii",
@@ -98,6 +398,66 @@
 "from": "2021-07-02",
 "latest": "2021-07-02",
 "portal": "https://unbr.ro/hotararea-congresului-avocatilor-nr-03-26-iunie-2021-privind-aprobarea-executiei-bugetare-a-casei-de-asigurari-a-avocatilor-c-a-a-pentru-anul-2020-si-a-proiectului-de-buget-pentru-anul-2021-precu/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2021-4",
+"path": "profesii/cafr/hotarare/2021/4",
+"kind": "profesii",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 28 ianuarie 2021 privind stabilirea datei Conferinței Camerei Auditorilor Financiari din România în ziua de 17 aprilie 2021, prin vot la distanță",
+"short": "Hotărârea CAFR nr. 4/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236862",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2021-4",
+"path": "profesii/ccf/hotarare/2021/4",
+"kind": "profesii",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 25 februarie 2021 privind modificarea și completarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 11/2020",
+"short": "Hotărârea CCF nr. 4/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239969",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-consiliu-2021-4",
+"path": "profesii/cpr/hotarare-consiliu/2021/4",
+"kind": "profesii",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 28 mai 2021 privind aprobarea Procedurii pentru organizarea și desfășurarea ședinței de alegeri a convențiilor filialelor teritoriale ale Colegiului Psihologilor din România în contextul pandemiei generate de COVID-19",
+"short": "Hotărârea CPR nr. 4/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243825",
 "flags": {
 "amendments_checked": false
 }
@@ -123,6 +483,66 @@
 }
 },
 {
+"slug": "profesii-oamgmamr-hotarare-2021-4",
+"path": "profesii/oamgmamr/hotarare/2021/4",
+"kind": "profesii",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 16 martie 2021 pentru modificarea și completarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 35/2015 privind eliberarea Certificatului de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România însoțit de avizul anual",
+"short": "Hotărârea OAMGMAMR nr. 4/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-24",
+"latest": "2021-03-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239958",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2021-5",
+"path": "profesii/cafr/hotarare/2021/5",
+"kind": "profesii",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 28 ianuarie 2021 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată prin vot la distanță în data de 17 aprilie 2021",
+"short": "Hotărârea CAFR nr. 5/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236863",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-2021-5",
+"path": "profesii/cfr/decizie/2021/5",
+"kind": "profesii",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 5 din 23 noiembrie 2021 privind aprobarea procedurii de control și evaluare a unităților farmaceutice cu privire la Regulile de bună practică farmaceutică",
+"short": "Decizia CFR nr. 5/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-01",
+"latest": "2022-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249309",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2021-5",
 "path": "profesii/inppa/hotarare-consiliu/2021/5",
 "kind": "profesii",
@@ -143,6 +563,46 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2021-6",
+"path": "profesii/ccf/hotarare/2021/6",
+"kind": "profesii",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 15 martie 2021 pentru modificarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 13/2020 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2021 și prorogarea unor termene",
+"short": "Hotărârea CCF nr. 6/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-17",
+"latest": "2021-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239328",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2021-6",
+"path": "profesii/cmr/decizie/2021/6",
+"kind": "profesii",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 6 din 25 iunie 2021 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 16/2016 privind eliberarea certificatului de membru al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 6/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245055",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2021-6",
 "path": "profesii/inppa/hotarare-consiliu/2021/6",
 "kind": "profesii",
@@ -158,6 +618,26 @@
 "from": "2021-09-16",
 "latest": "2021-09-16",
 "portal": "https://inppa.ro/hotararea-consiliului-inppa-nr-6-25-26-08-2021-privind-organizarea-si-desfasurarea-testarii-prevazute-de-art-48-alin-7-al-regulamentului-de-organizare-si-functionare-a-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2021-7",
+"path": "profesii/cfzro/hotarare-consiliu-national/2021/7",
+"kind": "profesii",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 15 ianuarie 2021 pentru modificarea și completarea Metodologiei pentru recunoașterea titlurilor oficiale de calificare în fizioterapie dobândite în celelalte state membre ale Uniunii Europene, în statele aparținând Spațiului Economic European și în Confederația Elvețiană, aprobate prin Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 21/2020",
+"short": "Hotărârea CFZRO nr. 7/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236742",
 "flags": {
 "amendments_checked": false
 }
@@ -205,6 +685,46 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2021-8",
+"path": "profesii/ccf/hotarare/2021/8",
+"kind": "profesii",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 29 iunie 2021 pentru completarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 13/2020 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2021",
+"short": "Hotărârea CCF nr. 8/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-15",
+"latest": "2021-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244360",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2021-8",
+"path": "profesii/cmr/decizie-consiliu-national/2021/8",
+"kind": "profesii",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 8 din 25 iunie 2021 pentru aprobarea Regulamentului de organizare și funcționare a Fondului de Solidaritate a Medicilor",
+"short": "Decizia CMR nr. 8/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-23",
+"latest": "2021-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244904",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2021-8",
 "path": "profesii/inppa/hotarare-consiliu/2021/8",
 "kind": "profesii",
@@ -247,6 +767,26 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2021-9",
+"path": "profesii/ccf/hotarare/2021/9",
+"kind": "profesii",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 9 din 29 iunie 2021 pentru modificarea Programului de pregătire profesională continuă aferent anului 2021, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 2/2021",
+"short": "Hotărârea CCF nr. 9/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-15",
+"latest": "2021-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244361",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2021-9",
 "path": "profesii/inppa/hotarare-consiliu/2021/9",
 "kind": "profesii",
@@ -262,6 +802,486 @@
 "from": "2021-09-24",
 "latest": "2021-09-24",
 "portal": "https://inppa.ro/hotararea-consiliului-inppa-nr-9-10-09-2021-privind-organizarea-si-desfasurarea-testarii-scrise-la-disciplinele-optionale-pentru-avocatii-stagiari-care-nu-au-promovat-examenul-de-absolvire-a-i-n-p-p/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2021-10",
+"path": "profesii/ccf/hotarare/2021/10",
+"kind": "profesii",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 29 iunie 2021 privind completarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 11/2020",
+"short": "Hotărârea CCF nr. 10/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-15",
+"latest": "2021-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244362",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2021-10",
+"path": "profesii/oamgmamr/hotarare/2021/10",
+"kind": "profesii",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 23 martie 2021 pentru aprobarea Normelor de creditare a formelor de educație medicală continuă",
+"short": "Hotărârea OAMGMAMR nr. 10/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-16",
+"latest": "2021-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241096",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-consiliu-2021-10",
+"path": "profesii/unej/hotarare-consiliu/2021/10",
+"kind": "profesii",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 25 martie 2021 privind aprobarea publicării Tabloului executorilor judecătorești pentru anul 2021",
+"short": "Hotărârea UNEJ nr. 10/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241200",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-2021-11",
+"path": "profesii/ccf/hotarare-consiliu/2021/11",
+"kind": "profesii",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 11 din 26 august 2021 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2021",
+"short": "Hotărârea CCF nr. 11/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-15",
+"latest": "2021-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246379",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2021-11",
+"path": "profesii/cmr/decizie/2021/11",
+"kind": "profesii",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 11 din 24 septembrie 2021 pentru stabilirea procedurii de consultare și efectuare a fotocopiilor din dosarele disciplinare aflate pe rolul și în arhiva Comisiei de jurisdicție a Consiliului național al Colegiului Medicilor din România și a Comisiei superioare de disciplină a Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 11/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-13",
+"latest": "2021-10-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247390",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2021-12",
+"path": "profesii/ccf/hotarare/2021/12",
+"kind": "profesii",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 12 din 29 septembrie 2021 privind modificarea și completarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 11/2020 , și pentru modificarea anexelor nr. 2 și 3 la Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 11/2021 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2021",
+"short": "Hotărârea CCF nr. 12/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-11",
+"latest": "2021-10-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247330",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-2021-12",
+"path": "profesii/cfzro/hotarare-consiliu/2021/12",
+"kind": "profesii",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 12 din 4 februarie 2021 privind modificarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 12/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-23",
+"latest": "2021-02-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238155",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2021-12",
+"path": "profesii/cmr/decizie/2021/12",
+"kind": "profesii",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 12 din 17 decembrie 2021 pentru aprobarea Regulamentului privind desfășurarea anchetei disciplinare la nivelul colegiilor teritoriale și, respectiv, al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 12/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-09",
+"latest": "2022-03-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251450",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2021-13",
+"path": "profesii/cfzro/hotarare-consiliu-national/2021/13",
+"kind": "profesii",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 13 din 4 februarie 2021 privind modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 93/2020 pentru aprobarea taxelor de acreditare și reacreditare a furnizorilor de educație medicală continuă și a taxelor de creditare a formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 13/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-16",
+"latest": "2021-02-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237569",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2021-14",
+"path": "profesii/ccf/hotarare/2021/14",
+"kind": "profesii",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 14 din 16 decembrie 2021 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 14/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249921",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2021-24",
+"path": "profesii/oamgmamr/hotarare/2021/24",
+"kind": "profesii",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 24 din 22 aprilie 2021 pentru completarea anexei nr. 3 la Statutul Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+"short": "Hotărârea OAMGMAMR nr. 24/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-04",
+"latest": "2021-05-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241983",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-congres-2021-25",
+"path": "profesii/unnpr/hotarare-congres/2021/25",
+"kind": "profesii",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 25 din 24 iunie 2021 pentru aprobarea modificării și completării Statutului Uniunii Naționale a Notarilor Publici din România, aprobat prin Hotărârea Congresului Notarilor Publici din România nr. 10/2014",
+"short": "Hotărârea UNNPR nr. 25/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246657",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2021-28",
+"path": "profesii/oamgmamr/hotarare/2021/28",
+"kind": "profesii",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 28 din 10 iunie 2021 pentru modificarea și completarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 32/2009",
+"short": "Hotărârea OAMGMAMR nr. 28/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-07",
+"latest": "2021-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244150",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2021-29",
+"path": "profesii/cafr/hotarare/2021/29",
+"kind": "profesii",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 29 din 11 martie 2021 privind organizarea, convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România în data de 17 aprilie 2021, prin vot la distanță",
+"short": "Hotărârea CAFR nr. 29/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-15",
+"latest": "2021-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239170",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2021-31",
+"path": "profesii/cafr/hotarare/2021/31",
+"kind": "profesii",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 31 din 11 martie 2021 pentru aprobarea Procedurii privind organizarea Conferinței Camerei Auditorilor Financiari din România prin vot la distanță în data de 17 aprilie 2021",
+"short": "Hotărârea CAFR nr. 31/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-15",
+"latest": "2021-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239199",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-dispozitie-2021-31",
+"path": "profesii/cpr/dispozitie/2021/31",
+"kind": "profesii",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Dispoziția CPR nr. 31/2021",
+"short": "Dispoziția CPR nr. 31/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247759",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2021-33",
+"path": "profesii/cafr/hotarare/2021/33",
+"kind": "profesii",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CAFR nr. 33/2021",
+"short": "Hotărârea CAFR nr. 33/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240044",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2021-36",
+"path": "profesii/cafr/hotarare/2021/36",
+"kind": "profesii",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 36 din 24 martie 2021 pentru modificarea și completarea Normelor privind sancțiunile aplicate auditorilor financiari și firmelor de audit în situația neachitării cotizațiilor datorate, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 52/2019",
+"short": "Hotărârea CAFR nr. 36/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240064",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2021-36",
+"path": "profesii/cpr/hotarare-comitet-director/2021/36",
+"kind": "profesii",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 36 din 1 august 2021 privind aprobarea Standardelor pentru activitatea de expertiză psihologică și a Procedurii de înscriere în Registrul experților psihologi",
+"short": "Hotărârea CPR nr. 36/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-02",
+"latest": "2021-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245963",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-dispozitie-2021-37",
+"path": "profesii/cpr/dispozitie/2021/37",
+"kind": "profesii",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "DISPOZIȚIE nr. 37 din 24 noiembrie 2021 pentru abrogarea unor dispoziții emise de către președintele Comitetului director al Colegiului Psihologilor din România",
+"short": "Dispoziția CPR nr. 37/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-03",
+"latest": "2021-12-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248958",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2021-37",
+"path": "profesii/oamgmamr/hotarare/2021/37",
+"kind": "profesii",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 37 din 26 iulie 2021 pentru completarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 32/2009",
+"short": "Hotărârea OAMGMAMR nr. 37/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-02",
+"latest": "2021-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245101",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2021-40",
+"path": "profesii/oamgmamr/hotarare/2021/40",
+"kind": "profesii",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 40 din 22 septembrie 2021 pentru modificarea anexei nr. 1 la Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 35/2015 privind eliberarea Certificatului de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România însoțit de avizul anual",
+"short": "Hotărârea OAMGMAMR nr. 40/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-12",
+"latest": "2021-10-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247361",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2021-41",
+"path": "profesii/csm/hotarare-plen/2021/41",
+"kind": "profesii",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 41 din 4 martie 2021 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de admitere la Școala Națională de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 173/2007",
+"short": "Hotărârea CSM nr. 41/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-08",
+"latest": "2021-03-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/238916",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2021-49",
+"path": "profesii/cpr/hotarare-comitet-director/2021/49",
+"kind": "profesii",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 49 din 18 septembrie 2021 pentru abrogarea unor acte normative emise de către Comitetul director al Colegiului Psihologilor din România",
+"short": "Hotărârea CPR nr. 49/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246723",
 "flags": {
 "amendments_checked": false
 }
@@ -285,6 +1305,146 @@
 "flags": {
 "text_missing": true,
 "text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2021-72",
+"path": "profesii/cfzro/hotarare-consiliu-national/2021/72",
+"kind": "profesii",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 72 din 12 august 2021 privind modificarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 72/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-02",
+"latest": "2021-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245960",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2021-75",
+"path": "profesii/csm/hotarare-plen/2021/75",
+"kind": "profesii",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 75 din 8 aprilie 2021 pentru modificarea și completarea Regulamentului Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 127/2007",
+"short": "Hotărârea CSM nr. 75/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241292",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2021-76",
+"path": "profesii/cfzro/hotarare-consiliu-national/2021/76",
+"kind": "profesii",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 76 din 9 septembrie 2021 pentru modificarea și completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 36/2018 privind dobândirea calității de membru al Colegiului Fizioterapeuților din România și eliberarea autorizației de liberă practică pentru exercitarea profesiei de fizioterapeut",
+"short": "Hotărârea CFZRO nr. 76/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246676",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2021-76",
+"path": "profesii/csm/hotarare-plen/2021/76",
+"kind": "profesii",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 76 din 8 aprilie 2021 pentru modificarea Regulamentului de organizare și funcționare al Școlii Naționale de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 183/2007",
+"short": "Hotărârea CSM nr. 76/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-19",
+"latest": "2021-04-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241124",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2021-79",
+"path": "profesii/cafr/hotarare/2021/79",
+"kind": "profesii",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 79 din 27 iulie 2021 pentru modificarea și completarea Normelor privind retragerea, redobândirea și suspendarea calității de membru al Camerei Auditorilor Financiari din România pentru auditorii financiari și firmele de audit, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 86/2018",
+"short": "Hotărârea CAFR nr. 79/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-02",
+"latest": "2021-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245088",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2021-80",
+"path": "profesii/cafr/hotarare/2021/80",
+"kind": "profesii",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 80 din 27 iulie 2021 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+"short": "Hotărârea CAFR nr. 80/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-08-02",
+"latest": "2021-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245093",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2021-80",
+"path": "profesii/csm/hotarare-sectia-procurori/2021/80",
+"kind": "profesii",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 80 din 19 ianuarie 2021 pentru completarea Regulamentului privind organizarea și desfășurarea concursului de promovare a procurorilor în funcții de execuție, aprobat prin Hotărârea Secției pentru procurori a Consiliului Superior al Magistraturii nr. 681/2019",
+"short": "Hotărârea CSM nr. 80/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-22",
+"latest": "2021-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236652",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -451,6 +1611,66 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2021-122",
+"path": "profesii/cafr/hotarare/2021/122",
+"kind": "profesii",
+"year": "2021",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 122 din 16 decembrie 2021 privind suspendarea calculării penalităților de întârziere aferente neachitării cotizațiilor datorate de membrii Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 122/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249770",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2021-123",
+"path": "profesii/ceccar/hotarare/2021/123",
+"kind": "profesii",
+"year": "2021",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 21/123 din 8 aprilie 2021 privind completarea Codului etic național al profesioniștilor contabili, ediția a V-a",
+"short": "Hotărârea CECCAR nr. 123/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-10",
+"latest": "2021-05-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242120",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2021-137",
+"path": "profesii/csm/hotarare-sectia-procurori/2021/137",
+"kind": "profesii",
+"year": "2021",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 137 din 12 februarie 2021 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare a procurorilor în funcții de execuție, aprobat prin Hotărârea Secției pentru procurori a Consiliului Superior al Magistraturii nr. 681/2019",
+"short": "Hotărârea CSM nr. 137/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-15",
+"latest": "2021-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237442",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2021-144",
 "path": "profesii/unbr/hotarare-congres/2021/144",
 "kind": "profesii",
@@ -553,6 +1773,26 @@
 }
 },
 {
+"slug": "profesii-csm-hotarare-plen-2021-188",
+"path": "profesii/csm/hotarare-plen/2021/188",
+"kind": "profesii",
+"year": "2021",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 188 din 18 noiembrie 2021 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcții de conducere a grefierilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 182/2007",
+"short": "Hotărârea CSM nr. 188/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248734",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2021-191",
 "path": "profesii/unbr/hotarare-consiliu/2021/191",
 "kind": "profesii",
@@ -608,6 +1848,26 @@
 "from": "2021-09-30",
 "latest": "2021-09-30",
 "portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-194-din-10-11-septembrie-2021-privind-cota-de-contributie-de-asigurari-sociale-asupra-indemnizatiei-primite-de-avocati-in-baza-o-u-g-nr-30-2020-din-perioada-starii-de/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-2021-195",
+"path": "profesii/unbr/hotarare/2021/195",
+"kind": "profesii",
+"year": "2021",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 195 din 11 septembrie 2021 pentru modificarea și completarea Statutului profesiei de avocat , adoptat prin Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64/2011",
+"short": "Hotărârea UNBR nr. 195/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247907",
 "flags": {
 "amendments_checked": false
 }
@@ -874,6 +2134,106 @@
 "from": "2021-10-08",
 "latest": "2021-10-08",
 "portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-267-din-09-septembrie-2021-prin-care-se-aproba-inceperea-procedurilor-de-reautorizare-a-uniunii-nationale-a-barourilor-din-romania-ca-operator-al-registrului-nat/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2021-272",
+"path": "profesii/csm/hotarare-sectia-procurori/2021/272",
+"kind": "profesii",
+"year": "2021",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 272 din 6 aprilie 2021 pentru aprobarea Regulamentului de organizare și funcționare al Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism",
+"short": "Hotărârea CSM nr. 272/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-23",
+"latest": "2021-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/241308",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2021-426",
+"path": "profesii/csm/hotarare-sectia-judecatori/2021/426",
+"kind": "profesii",
+"year": "2021",
+"number": "426",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 426 din 1 aprilie 2021 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor, aprobat prin Hotărârea Secției pentru judecători nr. 1.348/2019",
+"short": "Hotărârea CSM nr. 426/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-04-09",
+"latest": "2021-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/240886",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2021-619",
+"path": "profesii/ceccar/hotarare/2021/619",
+"kind": "profesii",
+"year": "2021",
+"number": "619",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 619 din 7 iunie 2021 privind completarea Codului etic național al profesioniștilor contabili, ediția a V-a",
+"short": "Hotărârea CECCAR nr. 619/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-22",
+"latest": "2021-06-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243386",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-consiliu-national-2021-919",
+"path": "profesii/oar/hotarare-consiliu-national/2021/919",
+"kind": "profesii",
+"year": "2021",
+"number": "919",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 919 din 12 iulie 2021 pentru aprobarea modulelor componente ale Sistemului de informații asupra costurilor pentru proiectarea de arhitectură",
+"short": "Hotărârea OAR nr. 919/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-07",
+"latest": "2022-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253695",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2021-1113",
+"path": "profesii/csm/hotarare-sectia-judecatori/2021/1113",
+"kind": "profesii",
+"year": "2021",
+"number": "1113",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.113 din 7 octombrie 2021 pentru aprobarea Regulamentului privind evaluarea activității profesionale a judecătorilor",
+"short": "Hotărârea CSM nr. 1113/2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-15",
+"latest": "2021-10-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247447",
 "flags": {
 "amendments_checked": false
 }

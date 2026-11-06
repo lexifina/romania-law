@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/techirghiol/2022",
+ "acts": [
+  {
+   "slug": "hcl-constanta--techirghiol-166-2022",
+   "path": "local/constanta/techirghiol/2022/166",
+   "short": "HCL Techirghiol nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 166/2022 privind aprobarea STATUTULUI Orașului Techirghiol, județul Constanța",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79522",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-167-2022",
+   "path": "local/constanta/techirghiol/2022/167",
+   "short": "HCL Techirghiol nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 167/2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79523",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-171-2022",
+   "path": "local/constanta/techirghiol/2022/171",
+   "short": "HCL Techirghiol nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 171/2022 privind dezmembrarea terenului din Techirghiol, str. Eroilor, nr.32, lot 6, nr. cadastral 106242",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79527",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-174-2022",
+   "path": "local/constanta/techirghiol/2022/174",
+   "short": "HCL Techirghiol nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 174/2022 privind aprobarea numărului de burse şcolare pentru elevii Liceului Teoretic „Emil Racoviţă” Techirghiol pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79530",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-175-2022",
+   "path": "local/constanta/techirghiol/2022/175",
+   "short": "HCL Techirghiol nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 175/2022 privind stabilirea salariilor de baza pentru personalul plătit din fonduri publice din cadrul Clubului Sportiv ”Sparta” Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79531",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-176-2022",
+   "path": "local/constanta/techirghiol/2022/176",
+   "short": "HCL Techirghiol nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 176/2022 privind atestarea inventarului bunurilor care aparțin domeniului public al orașului Techirghiol, județul Constanța",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79532",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-177-2022",
+   "path": "local/constanta/techirghiol/2022/177",
+   "short": "HCL Techirghiol nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 177/2022 privind modificarea şi completarea HCL nr.150/13.08.2019 privind aprobarea Regulamentului-cadru de vânzare a bunurilor imobile din domeniul privat al orasului Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79533",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-178-2022",
+   "path": "local/constanta/techirghiol/2022/178",
+   "short": "HCL Techirghiol nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 178/2022 privind modificarea şi completarea HCL. nr.160/23.09.2019 pentru aprobarea Regulamentului-cadru de concesionare/inchiriere al bunurilor imobile din domeniul privat/public al orasului Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79534",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-179-2022",
+   "path": "local/constanta/techirghiol/2022/179",
+   "short": "HCL Techirghiol nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 179/2022 privind rectificarea Bugetului de Venituri şi Cheltuieli al oraşulului Techirghiol pe anul 2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79535",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-180-2022",
+   "path": "local/constanta/techirghiol/2022/180",
+   "short": "HCL Techirghiol nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 180/2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79536",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-181-2022",
+   "path": "local/constanta/techirghiol/2022/181",
+   "short": "HCL Techirghiol nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 181/2022 privind aprobarea scoaterii din evidente, din funcțiune, casarea si valorificarea unor bunuri - mijloace fixe si obiecte de inventar din patrimoniul Unității Administrativ Teritoriale oraș Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79537",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-182-2022",
+   "path": "local/constanta/techirghiol/2022/182",
+   "short": "HCL Techirghiol nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 182/2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/79538",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/79538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-183-2022",
+   "path": "local/constanta/techirghiol/2022/183",
+   "short": "HCL Techirghiol nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 183/2022 privind aprobarea Regulamentului de acordare a Titlului de „Cetăţean de Onoare al oraşului Techirghiol”",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82590",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-184-2022",
+   "path": "local/constanta/techirghiol/2022/184",
+   "short": "HCL Techirghiol nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 184/2022 privind aprobarea încheierii protocolului de colaborare cu MINISTERUL MUNCII ȘI SOLIDARITĂȚII SOCIALE(MMSS)",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82591",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-185-2022",
+   "path": "local/constanta/techirghiol/2022/185",
+   "short": "HCL Techirghiol nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 185/2022 privind aprobarea încheierii acordului de parteneriat cu Centrul de Radiologie Dentară R Dental Societate cu Răspundere Limitată – Întreprindere Socială de Inserţie",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82592",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-186-2022",
+   "path": "local/constanta/techirghiol/2022/186",
+   "short": "HCL Techirghiol nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 186/2022 privind aprobarea trecerii unor bunuri din domeniul public în domeniul privat al orașului Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82593",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-187-2022",
+   "path": "local/constanta/techirghiol/2022/187",
+   "short": "HCL Techirghiol nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 187/2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82594",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-188-2022",
+   "path": "local/constanta/techirghiol/2022/188",
+   "short": "HCL Techirghiol nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 188/2022 privind rectificarea Bugetului de Venituri şi Cheltuieli al oraşulului Techirghiol pe anul 2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82595",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-190-2022",
+   "path": "local/constanta/techirghiol/2022/190",
+   "short": "HCL Techirghiol nr. 190/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 190/2022 privind aprobarea Regulamentului cu privire la procedura pentru inregistrarea, evidenta si radierea vehiculelor pentru care nu exista obligativitatea inregistrarii, de pe raza administratvv teritoriala a orasului Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82597",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-191-2022",
+   "path": "local/constanta/techirghiol/2022/191",
+   "short": "HCL Techirghiol nr. 191/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 191/2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82598",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-194-2022",
+   "path": "local/constanta/techirghiol/2022/194",
+   "short": "HCL Techirghiol nr. 194/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 194/2022 privind aprobarea decontării facturilor de plată a serviciilor de recuperare medicală de specialitate pentru copiii încadraţi în grad de handicap grav din oraşul Techirghiol pentru anul 2023",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82601",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-195-2022",
+   "path": "local/constanta/techirghiol/2022/195",
+   "short": "HCL Techirghiol nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 195/2022 privind însușirea documentației tehnice pentru obiectivul ‘‘ALTERNATIVA TECHIRGHIOL’’",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82602",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-196-2022",
+   "path": "local/constanta/techirghiol/2022/196",
+   "short": "HCL Techirghiol nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 196/2022 privind îndreptarea de eroare materiala a HCL 181/2022 privind aprobarea scoaterii din evidente, din funcțiune, casarea si valorificarea unor bunuri - mijloace fixe si obiecte de inventar din patrimoniul Unității Administrativ Teritoriale oraș Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82603",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-197-2022",
+   "path": "local/constanta/techirghiol/2022/197",
+   "short": "HCL Techirghiol nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 197/2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/82604",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/82604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-200-2022",
+   "path": "local/constanta/techirghiol/2022/200",
+   "short": "HCL Techirghiol nr. 200/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 200/2022 privind stabilirea taxelor şi impozitelor locale pentru anul 2023 la nivelul orașului Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/85941",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/85941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-201-2022",
+   "path": "local/constanta/techirghiol/2022/201",
+   "short": "HCL Techirghiol nr. 201/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 201/2022 privind aprobarea Procedurii de aplicare a facilităților fiscale la plata majorărilor/penalităților de întârziere privind obligațiile bugetare constând in impozite si taxe locale, redevenţe şi chirii datorate bugetului local de către persoanele fizice care au calitatea de contribuabil pe raza UAT Techirghiol în anul 2023",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/85942",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/85942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-202-2022",
+   "path": "local/constanta/techirghiol/2022/202",
+   "short": "HCL Techirghiol nr. 202/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 202/2022 privind rectificarea Bugetului de Venituri şi Cheltuieli al Oraşului Techirghiol pentru anul 2022",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/85943",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/85943",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

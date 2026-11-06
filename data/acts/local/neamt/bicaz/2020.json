@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/bicaz/2020",
+"acts": [
+{
+"slug": "hcl-neamt--bicaz-35-2020",
+"path": "local/neamt/bicaz/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bicaz nr. 35/2020 pentru Situatii de Urgenta(nr.35/03.08.2020) privind unele masuri adoptate in contextul pandemiei de COVID-17",
+"short": "HCL Bicaz nr. 35/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-08-03",
+"latest": "2020-08-03",
+"portal": "http://www.primariabicaz.ro/",
+"council": "neamt/bicaz",
+"council_name": "Consiliul Local al Orașului Bicaz",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

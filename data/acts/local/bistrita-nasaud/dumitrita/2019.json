@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/dumitrita/2019",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--dumitrita-4-2019",
+"path": "local/bistrita-nasaud/dumitrita/2019/4",
+"kind": "local",
+"year": "2019",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 4/2019 Privind aprobarea solicitarii operatorului SC Supercom SA de modificare a tarifelor aferente Serviciului public de Salubrizare",
+"short": "HCL Dumitrița nr. 4/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-01-30",
+"latest": "2019-01-30",
+"portal": "http://www.dumitrita.ro/hcl.html",
+"council": "bistrita-nasaud/dumitrita",
+"council_name": "Consiliul Local al Comunei Dumitrița",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--dumitrita-9-2019",
+"path": "local/bistrita-nasaud/dumitrita/2019/9",
+"kind": "local",
+"year": "2019",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 9/2019",
+"short": "HCL Dumitrița nr. 9/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-01-30",
+"latest": "2019-01-30",
+"portal": "http://www.dumitrita.ro/hcl.html",
+"council": "bistrita-nasaud/dumitrita",
+"council_name": "Consiliul Local al Comunei Dumitrița",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

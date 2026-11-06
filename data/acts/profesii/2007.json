@@ -3,6 +3,1226 @@
 "shard": "profesii/2007",
 "acts": [
 {
+"slug": "profesii-ceccar-hotarare-2007-7-58",
+"path": "profesii/ceccar/hotarare/2007/7-58",
+"kind": "profesii",
+"year": "2007",
+"number": "7-58",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7/58 din 24 martie 2007 pentru aprobarea Regulamentului de organizare și funcționare a comisiilor de disciplină de pe lângă consiliile filialelor și Consiliul Superior al Corpului Experților Contabili și Contabililor Autorizați din România",
+"short": "Hotărârea CECCAR nr. 7/58/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-08",
+"latest": "2007-05-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81784",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2007-1",
+"path": "profesii/ccf/hotarare/2007/1",
+"kind": "profesii",
+"year": "2007",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 25 iunie 2007 privind nivelul cotizațiilor membrilor Camerei Consultanților Fiscali și al taxei de înscriere în evidențele Camerei pentru anul 2007",
+"short": "Hotărârea CCF nr. 1/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-21",
+"latest": "2007-09-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85544",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-consiliu-2007-1",
+"path": "profesii/cfr/decizie-consiliu/2007/1",
+"kind": "profesii",
+"year": "2007",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 16 februarie 2007 privind întocmirea și eliberarea Certificatului profesional curent",
+"short": "Decizia CFR nr. 1/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-15",
+"latest": "2007-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82131",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-congres-2007-1",
+"path": "profesii/unej/hotarare-congres/2007/1",
+"kind": "profesii",
+"year": "2007",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 17 februarie 2007 privind modificarea și completarea Statutului Uniunii Naționale a Executorilor Judecătorești",
+"short": "Hotărârea UNEJ nr. 1/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-07",
+"latest": "2007-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80086",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2007-2",
+"path": "profesii/ccf/hotarare/2007/2",
+"kind": "profesii",
+"year": "2007",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 23 iulie 2007 privind aprobarea nivelului taxei de înscriere la examenul de atribuire a calității de consultant fiscal",
+"short": "Hotărârea CCF nr. 2/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-21",
+"latest": "2007-09-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85545",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-consiliu-national-2007-2",
+"path": "profesii/cfr/decizie-consiliu-national/2007/2",
+"kind": "profesii",
+"year": "2007",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 2 din 9 octombrie 2007 privind aprobarea Regulamentului electoral al Colegiului Farmaciștilor din România",
+"short": "Decizia CFR nr. 2/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-05",
+"latest": "2007-11-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86635",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2007-2",
+"path": "profesii/cmdr/decizie-consiliu-national/2007/2",
+"kind": "profesii",
+"year": "2007",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 2 din 27 ianuarie 2007 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 12/2006 privind aprobarea calendarului și Regulamentului electoral al Colegiului Medicilor Dentiști din România",
+"short": "Decizia CMDR nr. 2/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-08",
+"latest": "2007-02-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79373",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2007-2",
+"path": "profesii/cmr/decizie-consiliu-national/2007/2",
+"kind": "profesii",
+"year": "2007",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 2 din 19 ianuarie 2007 privind stabilirea valorii minime asigurate pentru răspundere civilă în domeniul medical",
+"short": "Decizia CMR nr. 2/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-16",
+"latest": "2007-02-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79596",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-congres-2007-2",
+"path": "profesii/unej/hotarare-congres/2007/2",
+"kind": "profesii",
+"year": "2007",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 17 februarie 2007 privind completarea Statutului Uniunii Naționale a Executorilor Judecătorești",
+"short": "Hotărârea UNEJ nr. 2/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-07",
+"latest": "2007-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80088",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2007-3",
+"path": "profesii/ccf/hotarare/2007/3",
+"kind": "profesii",
+"year": "2007",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 30 iulie 2007 pentru aprobarea Codului privind conduita etică și profesională în domeniul consultanței fiscale",
+"short": "Hotărârea CCF nr. 3/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-21",
+"latest": "2007-09-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85546",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2007-3",
+"path": "profesii/cmr/decizie-consiliu-national/2007/3",
+"kind": "profesii",
+"year": "2007",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 3 din 19 ianuarie 2007 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 8/2006 privind punerea în aplicare a unor dispoziții legale",
+"short": "Decizia CMR nr. 3/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-16",
+"latest": "2007-02-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79597",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unpir-hotarare-2007-3",
+"path": "profesii/unpir/hotarare/2007/3",
+"kind": "profesii",
+"year": "2007",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 29 septembrie 2007 privind aprobarea Statutului de organizare și funcționare și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+"short": "Hotărârea UNPIR nr. 3/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-07",
+"latest": "2007-12-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87642",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2007-4",
+"path": "profesii/ccf/hotarare/2007/4",
+"kind": "profesii",
+"year": "2007",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 31 iulie 2007 privind aprobarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal",
+"short": "Hotărârea CCF nr. 4/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-21",
+"latest": "2007-09-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85550",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2007-4",
+"path": "profesii/cmdr/decizie-consiliu-national/2007/4",
+"kind": "profesii",
+"year": "2007",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 4 din 27 ianuarie 2007 privind eliberarea Certificatului de status profesional curent",
+"short": "Decizia CMDR nr. 4/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-14",
+"latest": "2007-02-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79515",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2007-5",
+"path": "profesii/ccf/hotarare/2007/5",
+"kind": "profesii",
+"year": "2007",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 24 septembrie 2007 pentru aprobarea Regulamentului de organizare și funcționare al Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 5/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-17",
+"latest": "2007-10-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86158",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-adunare-generala-2007-5",
+"path": "profesii/cmdr/decizie-adunare-generala/2007/5",
+"kind": "profesii",
+"year": "2007",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 5 din 21 aprilie 2007 privind adoptarea Regulamentului de organizare și funcționare a Colegiului Medicilor Dentiști din România",
+"short": "Decizia CMDR nr. 5/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-20",
+"latest": "2007-07-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83731",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-mediere-hotarare-consiliu-2007-5",
+"path": "profesii/mediere/hotarare-consiliu/2007/5",
+"kind": "profesii",
+"year": "2007",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 13 mai 2007 pentru aprobarea Regulamentului de organizare și funcționare a Consiliului de mediere",
+"short": "Hotărârea Consiliul de mediere nr. 5/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-27",
+"latest": "2007-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83923",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2007-6",
+"path": "profesii/ccf/hotarare/2007/6",
+"kind": "profesii",
+"year": "2007",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 1 noiembrie 2007 privind susținerea examenului pentru atribuirea calității de consultant fiscal - sesiunea decembrie 2007",
+"short": "Hotărârea CCF nr. 6/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-09",
+"latest": "2007-11-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86822",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2007-6",
+"path": "profesii/cmdr/decizie/2007/6",
+"kind": "profesii",
+"year": "2007",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 6 din 16 iunie 2007 privind radiologia în specialitatea dentară",
+"short": "Decizia CMDR nr. 6/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-30",
+"latest": "2007-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83959",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2007-7",
+"path": "profesii/ccf/hotarare/2007/7",
+"kind": "profesii",
+"year": "2007",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 31 decembrie 2007 pentru aprobarea Normelor privind pregătirea profesională continuă a consultanților fiscali",
+"short": "Hotărârea CCF nr. 7/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-22",
+"latest": "2008-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88954",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2007-7",
+"path": "profesii/cmdr/decizie-consiliu-national/2007/7",
+"kind": "profesii",
+"year": "2007",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 7 din 22 septembrie 2007 privind exercitarea profesiei de către medicii dentiști care au împlinit vârsta de pensionare",
+"short": "Decizia CMDR nr. 7/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-01",
+"latest": "2007-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85744",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2007-9",
+"path": "profesii/cmdr/decizie-consiliu-national/2007/9",
+"kind": "profesii",
+"year": "2007",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 9 din 22 septembrie 2007 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 11/2005 privind stabilirea cuantumului cotizației de membru al Colegiului Medicilor Dentiști din România",
+"short": "Decizia CMDR nr. 9/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-01",
+"latest": "2008-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87373",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unbr-hotarare-congres-2007-10",
+"path": "profesii/unbr/hotarare-congres/2007/10",
+"kind": "profesii",
+"year": "2007",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 30 iunie 2007 pentru modificarea și completarea Statutului profesiei de avocat",
+"short": "Hotărârea UNBR nr. 10/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-31",
+"latest": "2007-07-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83975",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-consiliu-2007-13",
+"path": "profesii/unej/hotarare-consiliu/2007/13",
+"kind": "profesii",
+"year": "2007",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 13 din 2 aprilie 2007 privind publicarea în Monitorul Oficial al României, Partea I, a completărilor aduse tabloului executorilor judecătorești",
+"short": "Hotărârea UNEJ nr. 13/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-13",
+"latest": "2007-04-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81120",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2007-14",
+"path": "profesii/cmr/decizie-consiliu-national/2007/14",
+"kind": "profesii",
+"year": "2007",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 14 din 27 aprilie 2007 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 8/2006 privind punerea în aplicare a unor dispoziții legale",
+"short": "Decizia CMR nr. 14/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-05",
+"latest": "2007-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82576",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-2007-15",
+"path": "profesii/cmr/decizie-consiliu/2007/15",
+"kind": "profesii",
+"year": "2007",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 15 din 25 mai 2007 privind stabilirea procedurii de verificare și atestare a nivelului profesional al medicilor care au întrerupt exercitarea profesiei ori s-au aflat într-o situație de incompatibilitate pe o perioadă mai mare de 5 ani",
+"short": "Decizia CMR nr. 15/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-15",
+"latest": "2007-06-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82818",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2007-20",
+"path": "profesii/cmr/decizie-consiliu-national/2007/20",
+"kind": "profesii",
+"year": "2007",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 20 din 31 august 2007 privind aprobarea Regulamentului electoral al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 20/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-20",
+"latest": "2007-09-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85498",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2007-21",
+"path": "profesii/cmr/decizie-consiliu-national/2007/21",
+"kind": "profesii",
+"year": "2007",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 21 din 31 august 2007 privind exercitarea unor activități de medicină complementară de către medici",
+"short": "Decizia CMR nr. 21/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-03",
+"latest": "2007-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85826",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-congres-2007-21",
+"path": "profesii/unej/hotarare-congres/2007/21",
+"kind": "profesii",
+"year": "2007",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 21 din 27 aprilie 2007 privind completarea Statutului Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc",
+"short": "Hotărârea UNEJ nr. 21/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-28",
+"latest": "2007-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83224",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2007-22",
+"path": "profesii/cmr/decizie-consiliu-national/2007/22",
+"kind": "profesii",
+"year": "2007",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 22 din 31 august 2007 pentru completarea anexei nr. 2 la Decizia Consiliului național al Colegiului Medicilor din România nr. 67/2005 privind stabilirea sistemului de credite de educație medicală continuă, pe baza căruia se evaluează activitatea de perfecționare profesională a medicilor, a criteriilor și normelor de acreditare a educației medicale continue, precum și a criteriilor și normelor de acreditare a furnizorilor de educație medicală continuă",
+"short": "Decizia CMR nr. 22/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-03",
+"latest": "2007-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85827",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-46",
+"path": "profesii/csm/hotarare-plen/2007/46",
+"kind": "profesii",
+"year": "2007",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 46 din 1 februarie 2007 pentru completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+"short": "Hotărârea CSM nr. 46/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-13",
+"latest": "2007-02-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79471",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2007-79",
+"path": "profesii/ceccar/hotarare/2007/79",
+"kind": "profesii",
+"year": "2007",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 07/79 din 25 mai 2007 pentru modificarea și completarea Regulamentului privind efectuarea stagiului și examenul de aptitudini în vederea accesului la calitatea de expert contabil și de contabil autorizat, aprobat prin Hotărârea Consiliului Superior al Experților Contabili și Contabililor Autorizați din România nr. 00/33/2000",
+"short": "Hotărârea CECCAR nr. 79/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-20",
+"latest": "2007-06-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83012",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2007-80",
+"path": "profesii/ceccar/hotarare/2007/80",
+"kind": "profesii",
+"year": "2007",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 07/80 din 25 mai 2007 privind aprobarea Codului etic național al profesioniștilor contabili",
+"short": "Hotărârea CECCAR nr. 80/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-27",
+"latest": "2007-06-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83163",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-80",
+"path": "profesii/csm/hotarare-plen/2007/80",
+"kind": "profesii",
+"year": "2007",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 80 din 15 februarie 2007 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, precum și procedura de numire în funcțiile de judecător și procuror, fără concurs",
+"short": "Hotărârea CSM nr. 80/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-21",
+"latest": "2007-02-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79687",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-81",
+"path": "profesii/cafr/hotarare/2007/81",
+"kind": "profesii",
+"year": "2007",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 81 din 27 martie 2007 privind adoptarea Standardelor de audit 2006 și a Codului de etică pentru auditorii profesioniști",
+"short": "Hotărârea CAFR nr. 81/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-24",
+"latest": "2007-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82339",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-82",
+"path": "profesii/cafr/hotarare/2007/82",
+"kind": "profesii",
+"year": "2007",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 82 din 19 aprilie 2007 privind aprobarea Procedurilor pentru aplicarea art. 29 din Normele privind controlul calității activității de audit financiar și a serviciilor conexe",
+"short": "Hotărârea CAFR nr. 82/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-13",
+"latest": "2007-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82789",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-83",
+"path": "profesii/csm/hotarare-plen/2007/83",
+"kind": "profesii",
+"year": "2007",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 83 din 15 februarie 2007 pentru modificarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii",
+"short": "Hotărârea CSM nr. 83/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-21",
+"latest": "2007-02-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79688",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-84",
+"path": "profesii/cafr/hotarare/2007/84",
+"kind": "profesii",
+"year": "2007",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 84 din 27 februarie 2007 privind modificarea și completarea Hotărârii Consiliului Camerei Auditorilor din România nr. 9/2001 pentru aprobarea Regulilor privind pregătirea profesională continuă a auditorilor financiari",
+"short": "Hotărârea CAFR nr. 84/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-24",
+"latest": "2007-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82333",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-conferinta-2007-85",
+"path": "profesii/cafr/hotarare-conferinta/2007/85",
+"kind": "profesii",
+"year": "2007",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 85 din 21 aprilie 2007 a Conferinței Camerei Auditorilor Financiari din România cu privire la aprobarea documentelor prezentate spre dezbatere",
+"short": "Hotărârea CAFR nr. 85/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-28",
+"latest": "2007-05-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82394",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-88",
+"path": "profesii/cafr/hotarare/2007/88",
+"kind": "profesii",
+"year": "2007",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 88 din 19 aprilie 2007 pentru aprobarea Normelor de audit intern",
+"short": "Hotărârea CAFR nr. 88/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-21",
+"latest": "2007-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83047",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-89",
+"path": "profesii/cafr/hotarare/2007/89",
+"kind": "profesii",
+"year": "2007",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 89 din 21 aprilie 2007 privind adoptarea unor modificări și completări ale Regulamentului de organizare și funcționare a Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 89/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-08-09",
+"latest": "2007-08-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84311",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-90",
+"path": "profesii/cafr/hotarare/2007/90",
+"kind": "profesii",
+"year": "2007",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 90 din 26 iunie 2007 privind atribuirea calității și a dreptului de exercitare a profesiei de auditor financiar pentru persoanele care posedă o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+"short": "Hotărârea CAFR nr. 90/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-27",
+"latest": "2007-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83894",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-91",
+"path": "profesii/cafr/hotarare/2007/91",
+"kind": "profesii",
+"year": "2007",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 91 din 26 iunie 2007 privind aplicarea legislației specifice privind combaterea și prevenirea operațiunilor de spălare a banilor și/sau de finanțare a actelor de terorism de către auditorii financiari",
+"short": "Hotărârea CAFR nr. 91/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-08-02",
+"latest": "2007-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84086",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-consiliu-2007-93",
+"path": "profesii/cafr/hotarare-consiliu/2007/93",
+"kind": "profesii",
+"year": "2007",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 93 din 24 iulie 2007 privind modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 39/2005 pentru aprobarea Normelor privind perioada de pregătire profesională practică a stagiarilor în activitatea de audit financiar, pentru persoanele care au fost declarate admise în urma testului de verificare a cunoștințelor în domeniul financiar-contabil din 5 decembrie 2004",
+"short": "Hotărârea CAFR nr. 93/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-08-08",
+"latest": "2007-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84258",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-95",
+"path": "profesii/cafr/hotarare/2007/95",
+"kind": "profesii",
+"year": "2007",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 95 din 21 aprilie 2007 a Conferinței Camerei Auditorilor Financiari din România cu privire la delegarea Consiliului Camerei Auditorilor Financiari din România privind aprobarea normelor de reprezentare la Conferință",
+"short": "Hotărârea CAFR nr. 95/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-08-08",
+"latest": "2007-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84260",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-97",
+"path": "profesii/cafr/hotarare/2007/97",
+"kind": "profesii",
+"year": "2007",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 97 din 30 august 2007 privind aprobarea Normelor de reprezentare a auditorilor financiari la conferințele Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 97/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-11",
+"latest": "2007-09-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85254",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-98",
+"path": "profesii/cafr/hotarare/2007/98",
+"kind": "profesii",
+"year": "2007",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 98 din 20 septembrie 2007 pentru completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 73/2006 privind aprobarea procedurilor pentru controlul calității activității de audit financiar și a serviciilor conexe acestuia",
+"short": "Hotărârea CAFR nr. 98/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-09",
+"latest": "2007-10-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85982",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-100",
+"path": "profesii/cafr/hotarare/2007/100",
+"kind": "profesii",
+"year": "2007",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 100 din 30 octombrie 2007 pentru modificarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 82/2007 privind aprobarea Procedurilor pentru aplicarea art. 29 din Normele privind controlul calității activității de audit financiar și a serviciilor conexe",
+"short": "Hotărârea CAFR nr. 100/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-23",
+"latest": "2007-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87215",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-101",
+"path": "profesii/cafr/hotarare/2007/101",
+"kind": "profesii",
+"year": "2007",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 101 din 28 noiembrie 2007 privind atribuirea calității și a dreptului de exercitare a profesiei de auditor financiar pentru persoanele care posedă o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+"short": "Hotărârea CAFR nr. 101/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-19",
+"latest": "2007-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88034",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-103",
+"path": "profesii/cafr/hotarare/2007/103",
+"kind": "profesii",
+"year": "2007",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 103 din 11 decembrie 2007 privind completarea Normelor de reprezentare a auditorilor financiari la conferințele Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 103/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-02-01",
+"latest": "2008-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/89261",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2007-104",
+"path": "profesii/cafr/hotarare/2007/104",
+"kind": "profesii",
+"year": "2007",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 104 din 11 decembrie 2007 privind modificarea nivelului cotizațiilor fixe, precum și al unor tarife ale Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 104/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-03-12",
+"latest": "2008-03-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90256",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-126",
+"path": "profesii/csm/hotarare-plen/2007/126",
+"kind": "profesii",
+"year": "2007",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 126 din 1 martie 2007 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului de ocupare a posturilor vacante de grefier la instanțele judecătorești și la parchetele de pe lângă acestea",
+"short": "Hotărârea CSM nr. 126/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-04",
+"latest": "2007-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80927",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-127",
+"path": "profesii/csm/hotarare-plen/2007/127",
+"kind": "profesii",
+"year": "2007",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 127 din 1 martie 2007 pentru aprobarea Regulamentului Institutului Național al Magistraturii",
+"short": "Hotărârea CSM nr. 127/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-21",
+"latest": "2007-03-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80459",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-144",
+"path": "profesii/csm/hotarare-plen/2007/144",
+"kind": "profesii",
+"year": "2007",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 144 din 7 martie 2007 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+"short": "Hotărârea CSM nr. 144/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-05",
+"latest": "2007-04-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80981",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-decizie-2007-158",
+"path": "profesii/ceccar/decizie/2007/158",
+"kind": "profesii",
+"year": "2007",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 158 din 17 februarie 2007 pentru aprobarea Măsurilor privind organizarea și desfășurarea examenului de diferență pentru trecerea de la categoria profesională contabil autorizat cu studii superioare la categoria profesională expert contabil",
+"short": "Decizia CECCAR nr. 158/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-07",
+"latest": "2007-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80024",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-173",
+"path": "profesii/csm/hotarare-plen/2007/173",
+"kind": "profesii",
+"year": "2007",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 173 din 22 martie 2007 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului de admitere la Școala Națională de Grefieri",
+"short": "Hotărârea CSM nr. 173/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-12",
+"latest": "2007-04-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81113",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-182",
+"path": "profesii/csm/hotarare-plen/2007/182",
+"kind": "profesii",
+"year": "2007",
+"number": "182",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 182 din 29 martie 2007 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcții de conducere a grefierilor",
+"short": "Hotărârea CSM nr. 182/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-16",
+"latest": "2007-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81177",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-183",
+"path": "profesii/csm/hotarare-plen/2007/183",
+"kind": "profesii",
+"year": "2007",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 183 din 29 martie 2007 pentru aprobarea Regulamentului de organizare și funcționare al Școlii Naționale de Grefieri",
+"short": "Hotărârea CSM nr. 183/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-17",
+"latest": "2007-04-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81236",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-184",
+"path": "profesii/csm/hotarare-plen/2007/184",
+"kind": "profesii",
+"year": "2007",
+"number": "184",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 184 din 29 martie 2007 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de grefieri informaticieni din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea",
+"short": "Hotărârea CSM nr. 184/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-16",
+"latest": "2007-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81179",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-185",
+"path": "profesii/csm/hotarare-plen/2007/185",
+"kind": "profesii",
+"year": "2007",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 185 din 29 martie 2007 pentru aprobarea Regulamentului privind modul de organizare și desfășurare a concursului pentru recrutarea grefierilor arhivari, a grefierilor registratori și a personalului conex",
+"short": "Hotărârea CSM nr. 185/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-17",
+"latest": "2007-04-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81213",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-186",
+"path": "profesii/csm/hotarare-plen/2007/186",
+"kind": "profesii",
+"year": "2007",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 186 din 29 martie 2007 pentru aprobarea Regulamentului privind concediile personalului auxiliar de specialitate și personalului conex din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea",
+"short": "Hotărârea CSM nr. 186/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-04-17",
+"latest": "2007-04-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81221",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-decizie-consiliu-2007-268",
 "path": "profesii/unbr/decizie-consiliu/2007/268",
 "kind": "profesii",
@@ -20,6 +1240,226 @@
 "portal": "https://unbr.ro/decizia-nr-268-a-consiliului-uniunii-nationale-a-barourilor-din-romania-din-22-septembrie-2007/",
 "flags": {
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-292",
+"path": "profesii/csm/hotarare-plen/2007/292",
+"kind": "profesii",
+"year": "2007",
+"number": "292",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 292 din 19 aprilie 2007 pentru aprobarea Regulamentului privind promovarea în funcția de prim-magistrat-asistent și de magistrat-asistent șef la Înalta Curte de Casație și Justiție",
+"short": "Hotărârea CSM nr. 292/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-02",
+"latest": "2007-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81566",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-293",
+"path": "profesii/csm/hotarare-plen/2007/293",
+"kind": "profesii",
+"year": "2007",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 293 din 19 aprilie 2007 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție",
+"short": "Hotărârea CSM nr. 293/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-02",
+"latest": "2007-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/81568",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-399",
+"path": "profesii/csm/hotarare-plen/2007/399",
+"kind": "profesii",
+"year": "2007",
+"number": "399",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 399 din 24 mai 2007 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+"short": "Hotărârea CSM nr. 399/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-03",
+"latest": "2007-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83335",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-422",
+"path": "profesii/csm/hotarare-plen/2007/422",
+"kind": "profesii",
+"year": "2007",
+"number": "422",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 422 din 14 iunie 2007 pentru modificarea și completarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+"short": "Hotărârea CSM nr. 422/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-25",
+"latest": "2007-06-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83176",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-433",
+"path": "profesii/csm/hotarare-plen/2007/433",
+"kind": "profesii",
+"year": "2007",
+"number": "433",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 433 din 14 iunie 2007 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+"short": "Hotărârea CSM nr. 433/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-30",
+"latest": "2007-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83960",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-452",
+"path": "profesii/csm/hotarare-plen/2007/452",
+"kind": "profesii",
+"year": "2007",
+"number": "452",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 452 din 21 iunie 2007 pentru modificarea și completarea Regulamentului Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 127/2007",
+"short": "Hotărârea CSM nr. 452/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-08-06",
+"latest": "2007-08-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84188",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-475",
+"path": "profesii/csm/hotarare-plen/2007/475",
+"kind": "profesii",
+"year": "2007",
+"number": "475",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 475 din 26 iunie 2007 pentru modificarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+"short": "Hotărârea CSM nr. 475/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-01",
+"latest": "2008-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/84267",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-consiliu-2007-625",
+"path": "profesii/csm/hotarare-consiliu/2007/625",
+"kind": "profesii",
+"year": "2007",
+"number": "625",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 625 din 13 septembrie 2007 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere la Școala Națională de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 173/2007",
+"short": "Hotărârea CSM nr. 625/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-04",
+"latest": "2008-01-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88331",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-652",
+"path": "profesii/csm/hotarare-plen/2007/652",
+"kind": "profesii",
+"year": "2007",
+"number": "652",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 652 din 20 septembrie 2007 pentru modificarea Regulamentului privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari",
+"short": "Hotărârea CSM nr. 652/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-12",
+"latest": "2007-10-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86082",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-653",
+"path": "profesii/csm/hotarare-plen/2007/653",
+"kind": "profesii",
+"year": "2007",
+"number": "653",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 653 din 20 septembrie 2007 pentru modificarea Regulamentului privind concediile personalului auxiliar de specialitate și personalului conex din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea",
+"short": "Hotărârea CSM nr. 653/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-12",
+"latest": "2007-10-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86083",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2007-676",
+"path": "profesii/csm/hotarare-plen/2007/676",
+"kind": "profesii",
+"year": "2007",
+"number": "676",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 676 din 4 octombrie 2007 pentru aprobarea Regulamentului privind evaluarea activității profesionale a judecătorilor și procurorilor",
+"short": "Hotărârea CSM nr. 676/2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-29",
+"latest": "2007-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87397",
+"flags": {
 "amendments_checked": false
 }
 },

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/olt/corabia/2023",
+"acts": [
+{
+"slug": "hcl-olt--corabia-112-2023",
+"path": "local/olt/corabia/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Corabia nr. 112/2023 privind prelungirea valabilității Planului urbanistic general al orașului Corabia",
+"short": "HCL Corabia nr. 112/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/corabia-ot/registru-hcl/126688",
+"council": "olt/corabia",
+"council_name": "Consiliul Local al Orașului Corabia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--corabia-124-2023",
+"path": "local/olt/corabia/2023/124",
+"kind": "local",
+"year": "2023",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Corabia nr. 124/2023 privind aprobarea sumelor indexate reprezentând impozitul pe mijloacele de transport prevăzute de art.470 alin.(5) și (6) din Legea nr. 227/2015,privind Codul fiscal,cu modificările și completările ulterioare, pentru anul 2024",
+"short": "HCL Corabia nr. 124/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/corabia-ot/registru-hcl/130751",
+"council": "olt/corabia",
+"council_name": "Consiliul Local al Orașului Corabia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

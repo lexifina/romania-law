@@ -3,6 +3,86 @@
 "shard": "profesii/2026",
 "acts": [
 {
+"slug": "profesii-cmdr-decizie-consiliu-national-2026-10-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2026/10-2cn",
+"kind": "profesii",
+"year": "2026",
+"number": "10-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 10/2CN din 9 octombrie 2026 privind stabilirea cuantumului taxelor pentru activitățile de educație medicală continuă",
+"short": "Decizia CMDR nr. 10/2CN/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-26",
+"latest": "2026-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315727",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2026-5-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2026/5-2cn",
+"kind": "profesii",
+"year": "2026",
+"number": "5-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 5/2CN din 22 mai 2026 pentru abrogarea subpunctului 4 de la punctul III din anexa la Decizia Consiliului național al Colegiului Medicilor Stomatologi din România nr. 2/2CN/2025 privind conținutul minim al trusei de urgență pentru cabinetul stomatologic",
+"short": "Decizia CMDR nr. 5/2CN/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-02",
+"latest": "2026-06-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/311129",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2026-7-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2026/7-2cn",
+"kind": "profesii",
+"year": "2026",
+"number": "7-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 7/2CN din 9 octombrie 2026 privind stabilirea cuantumului taxei de evaluare profesională în vederea recunoașterii titlurilor de medic stomatolog specialist eliberate de un stat terț",
+"short": "Decizia CMDR nr. 7/2CN/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315629",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2026-9-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2026/9-2cn",
+"kind": "profesii",
+"year": "2026",
+"number": "9-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 9/2CN din 9 octombrie 2026 privind reglementarea sistemului de educație medicală continuă pentru medicii stomatologi",
+"short": "Decizia CMDR nr. 9/2CN/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-26",
+"latest": "2026-10-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315726",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2026-323-2",
 "path": "profesii/unbr/hotarare-consiliu/2026/323-2",
 "kind": "profesii",
@@ -18,6 +98,46 @@
 "from": "2026-07-20",
 "latest": "2026-07-20",
 "portal": "https://unbr.ro/anunt-uniunea-nationala-a-barourilor-din-romania-anunta-organizarea-examenului-de-primire-in-profesia-de-avocat-pentru-dobandirea-titlului-profesional-de-avocat-stagiar-si-de-primire-in-pr-14/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-1",
+"path": "profesii/cafr/hotarare/2026/1",
+"kind": "profesii",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 18 aprilie 2026 privind aprobarea materialelor prezentate în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în format fizic în data de 18 aprilie 2026",
+"short": "Hotărârea CAFR nr. 1/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/309710",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2026-1",
+"path": "profesii/ccf/hotarare/2026/1",
+"kind": "profesii",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 2 februarie 2026 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2026",
+"short": "Hotărârea CCF nr. 1/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307190",
 "flags": {
 "amendments_checked": false
 }
@@ -45,6 +165,66 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2026-2",
+"path": "profesii/cafr/hotarare/2026/2",
+"kind": "profesii",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 12 septembrie 2026 privind alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 2/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/314547",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2026-2",
+"path": "profesii/ccf/hotarare/2026/2",
+"kind": "profesii",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 2 februarie 2026 pentru aprobarea Normelor privind realizarea de expertize fiscale judiciare și extrajudiciare de către consultanții fiscali",
+"short": "Hotărârea CCF nr. 2/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307310",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-hotarare-2026-2",
+"path": "profesii/cmr/hotarare/2026/2",
+"kind": "profesii",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 27 martie 2026 pentru modificarea și completarea Statutului Colegiului Medicilor din România, adoptat prin Hotărârea Adunării generale naționale a Colegiului Medicilor din România nr. 1/2022",
+"short": "Hotărârea CMR nr. 2/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-06",
+"latest": "2026-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/309112",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2026-2",
 "path": "profesii/unbr/hotarare-congres/2026/2",
 "kind": "profesii",
@@ -63,6 +243,66 @@
 "flags": {
 "text_missing": true,
 "text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2026-3",
+"path": "profesii/ccf/hotarare-consiliu-superior/2026/3",
+"kind": "profesii",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 2 martie 2026 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 3/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/308059",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-2026-3",
+"path": "profesii/cmr/decizie-consiliu/2026/3",
+"kind": "profesii",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 3 din 23 ianuarie 2026 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 22/2025 privind organizarea de noi alegeri la nivelul organelor de conducere ale Colegiului Medicilor Ilfov și aprobarea componenței Comisiei Electorale Centrale, precum și organizarea de noi alegeri pentru reprezentantul Colegiului Medicilor Ialomița în Consiliul național al Colegiului Medicilor din România și aprobarea componenței Comisiei Electorale Centrale",
+"short": "Decizia CMR nr. 3/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306737",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-hotarare-2026-3",
+"path": "profesii/cmr/hotarare/2026/3",
+"kind": "profesii",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 27 martie 2026 pentru modificarea Codului de deontologie medicală al Colegiului Medicilor din România, adoptat prin Hotărârea Adunării generale naționale a Colegiului Medicilor din România nr. 2/2025",
+"short": "Hotărârea CMR nr. 3/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-06",
+"latest": "2026-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/309113",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -89,6 +329,86 @@
 }
 },
 {
+"slug": "profesii-unpir-hotarare-2026-3",
+"path": "profesii/unpir/hotarare/2026/3",
+"kind": "profesii",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 8 mai 2026 pentru modificarea și completarea Hotărârii Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+"short": "Hotărârea UNPIR nr. 3/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/311198",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2026-4",
+"path": "profesii/ccf/hotarare/2026/4",
+"kind": "profesii",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 2 martie 2026 privind înregistrarea în Registrul consultanților fiscali și al societăților de consultanță fiscală a persoanelor care au promovat examenul de consultant fiscal sau de consultant fiscal asistent și au depășit termenul prevăzut de lege pentru înscriere",
+"short": "Hotărârea CCF nr. 4/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/308060",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-adunare-generala-2026-4",
+"path": "profesii/cfzro/hotarare-adunare-generala/2026/4",
+"kind": "profesii",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 21 ianuarie 2026 privind modificarea și completarea anexei la Hotărârea Adunării generale naționale a Colegiului Fizioterapeuților din România nr. 6/2018 pentru adoptarea Codului deontologic al fizioterapeutului",
+"short": "Hotărârea CFZRO nr. 4/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306763",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2026-4",
+"path": "profesii/cmr/decizie-consiliu-national/2026/4",
+"kind": "profesii",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 4 din 23 ianuarie 2026 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 25/2025 privind eliberarea certificatului de membru al Colegiului Medicilor din România și stabilirea procedurii de verificare și atestare a nivelului profesional al medicilor care au întrerupt exercitarea profesiei ori s-au aflat într-o situație de incompatibilitate pe o perioadă mai mare de 5 ani",
+"short": "Decizia CMR nr. 4/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306738",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2026-4",
 "path": "profesii/unbr/hotarare-congres/2026/4",
 "kind": "profesii",
@@ -107,6 +427,26 @@
 "flags": {
 "text_missing": true,
 "text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-2026-5",
+"path": "profesii/ccf/hotarare-consiliu/2026/5",
+"kind": "profesii",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 26 martie 2026 privind stabilirea modalității de organizare și susținere a examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea octombrie 2026",
+"short": "Hotărârea CCF nr. 5/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-03",
+"latest": "2026-04-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/309070",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -133,6 +473,346 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-conferinta-2026-6",
+"path": "profesii/ccf/hotarare-conferinta/2026/6",
+"kind": "profesii",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 21 aprilie 2026 privind aprobarea documentelor prezentate spre dezbatere în Conferința ordinară anuală a Camerei Consultanților Fiscali din 17 aprilie 2026",
+"short": "Hotărârea CCF nr. 6/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/309740",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-adunare-generala-2026-6",
+"path": "profesii/cfzro/hotarare-adunare-generala/2026/6",
+"kind": "profesii",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 21 ianuarie 2026 privind modificarea anexei la Hotărârea Adunării generale naționale a Colegiului Fizioterapeuților din România nr. 1/2018 pentru aprobarea însemnelor Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 6/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306764",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2026-7",
+"path": "profesii/ccf/hotarare/2026/7",
+"kind": "profesii",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 17 august 2026 privind ocuparea unui loc vacant de membru al Consiliului superior al Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 7/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-08-21",
+"latest": "2026-08-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/313578",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-8",
+"path": "profesii/cafr/hotarare/2026/8",
+"kind": "profesii",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 4 februarie 2026 pentru suspendarea aplicării unor prevederi ale Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+"short": "Hotărârea CAFR nr. 8/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307189",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-2026-8",
+"path": "profesii/ccf/hotarare-consiliu/2026/8",
+"kind": "profesii",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 1 septembrie 2026 privind aprobarea domeniilor de examinare, a tematicii și bibliografiei corespunzătoare fiecărui domeniu pentru examenul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea octombrie 2026",
+"short": "Hotărârea CCF nr. 8/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/314088",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2026-9",
+"path": "profesii/ccf/hotarare/2026/9",
+"kind": "profesii",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 9 din 1 septembrie 2026 privind ocuparea locului vacant de vicepreședinte al Consiliului superior al Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 9/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-02",
+"latest": "2026-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/313976",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2026-10",
+"path": "profesii/ccf/hotarare/2026/10",
+"kind": "profesii",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 1 septembrie 2026 pentru completarea anexei la Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 2/2026 pentru aprobarea Normelor privind realizarea de expertize fiscale judiciare și extrajudiciare de către consultanții fiscali",
+"short": "Hotărârea CCF nr. 10/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-04",
+"latest": "2026-09-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/314011",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2026-11",
+"path": "profesii/ccf/hotarare/2026/11",
+"kind": "profesii",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 11 din 5 octombrie 2026 pentru modificarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 14/2021 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 11/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315047",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2026-12",
+"path": "profesii/ccf/hotarare/2026/12",
+"kind": "profesii",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 12 din 5 octombrie 2026 pentru modificarea Regulamentului de organizare și funcționare al Camerei Consultanților Fiscali, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 3/2022",
+"short": "Hotărârea CCF nr. 12/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315048",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2026-13",
+"path": "profesii/oamgmamr/hotarare/2026/13",
+"kind": "profesii",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 13 din 17 martie 2026 pentru modificarea Statutului Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+"short": "Hotărârea OAMGMAMR nr. 13/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/308957",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2026-14",
+"path": "profesii/cmr/decizie/2026/14",
+"kind": "profesii",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 14 din 20 martie 2026 privind modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 20/2025 privind condițiile de desfășurare a publicității de către cabinetele și unitățile medicale",
+"short": "Decizia CMR nr. 14/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/310194",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2026-14",
+"path": "profesii/oamgmamr/hotarare/2026/14",
+"kind": "profesii",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 14 din 17 martie 2026 pentru modificarea Regulamentului de organizare și funcționare al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 3/2009",
+"short": "Hotărârea OAMGMAMR nr. 14/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/308958",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-consiliu-2026-16",
+"path": "profesii/unej/hotarare-consiliu/2026/16",
+"kind": "profesii",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 16 din 2 aprilie 2026 privind aprobarea publicării Tabloului executorilor judecătorești pe anul 2026",
+"short": "Hotărârea UNEJ nr. 16/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-14",
+"latest": "2026-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/310477",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2026-17",
+"path": "profesii/cmr/decizie-consiliu-national/2026/17",
+"kind": "profesii",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 17 din 21 aprilie 2026 privind abrogarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 12/2021 pentru aprobarea Regulamentului privind desfășurarea anchetei disciplinare la nivelul colegiilor teritoriale și, respectiv, al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 17/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-29",
+"latest": "2026-04-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/310033",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2026-18",
+"path": "profesii/oamgmamr/hotarare/2026/18",
+"kind": "profesii",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18 din 17 martie 2026 pentru modificarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 31/2017 privind stabilirea cuantumului cotizației de membru, respectiv cotizației de membru asociat al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România și a unor taxe încasate de Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 18/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/308959",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2026-19",
+"path": "profesii/oamgmamr/hotarare/2026/19",
+"kind": "profesii",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 19 din 17 martie 2026 pentru modificarea Procedurii de suspendare și de retragere a calității de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 29/2017",
+"short": "Hotărârea OAMGMAMR nr. 19/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/308960",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2026-21",
+"path": "profesii/cmr/decizie/2026/21",
+"kind": "profesii",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 21 din 29 mai 2026 privind condițiile de desfășurare a publicității de către cabinetele și unitățile medicale",
+"short": "Decizia CMR nr. 21/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/311308",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-decizie-director-2026-25",
 "path": "profesii/inppa/decizie-director/2026/25",
 "kind": "profesii",
@@ -155,6 +835,106 @@
 }
 },
 {
+"slug": "profesii-oamgmamr-hotarare-2026-25",
+"path": "profesii/oamgmamr/hotarare/2026/25",
+"kind": "profesii",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 25 din 7 aprilie 2026 privind completarea Normelor de creditare a formelor de educație medicală continuă, aprobate prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 10/2021",
+"short": "Hotărârea OAMGMAMR nr. 25/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-14",
+"latest": "2026-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/309532",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2026-27",
+"path": "profesii/oamgmamr/hotarare/2026/27",
+"kind": "profesii",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 27 din 21 iulie 2026 pentru aprobarea unor măsuri de actualizare și eficientizare a activităților de înregistrare și autorizare în profesie desfășurate de către Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România în calitate de autoritate competentă de control și supraveghere a exercitării profesiilor membrilor și membrilor săi asociați",
+"short": "Hotărârea OAMGMAMR nr. 27/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/313077",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2026-28",
+"path": "profesii/oamgmamr/hotarare/2026/28",
+"kind": "profesii",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 28 din 21 iulie 2026 pentru modificarea anexelor nr. 3 și 4 la Statutul Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+"short": "Hotărârea OAMGMAMR nr. 28/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/313154",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-30",
+"path": "profesii/cafr/hotarare/2026/30",
+"kind": "profesii",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 30 din 27 februarie 2026 privind organizarea, convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România, organizată în format fizic în data de 18 aprilie 2026",
+"short": "Hotărârea CAFR nr. 30/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307996",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-32",
+"path": "profesii/cafr/hotarare/2026/32",
+"kind": "profesii",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 32 din 27 februarie 2026 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată în format fizic în data de 18 aprilie 2026",
+"short": "Hotărârea CAFR nr. 32/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307997",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-decizie-director-2026-35",
 "path": "profesii/inppa/decizie-director/2026/35",
 "kind": "profesii",
@@ -170,6 +950,486 @@
 "from": "2026-09-24",
 "latest": "2026-09-24",
 "portal": "https://inppa.ro/decizia-directorului-inppa-nr-35-22-09-2026-privind-stabilirea-intervalului-si-conditiilor-de-sustinere-a-testarii-scrise-prevazute-de-art-49-alin-7-si-8-al-regulamentului-de-organizare-si-func/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2026-35",
+"path": "profesii/oamgmamr/hotarare/2026/35",
+"kind": "profesii",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 35 din 23 octombrie 2026 privind suspendarea aplicării Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 28/2026 pentru modificarea anexelor nr. 3 și 4 la Statutul Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+"short": "Hotărârea OAMGMAMR nr. 35/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315833",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2026-37",
+"path": "profesii/oamgmamr/hotarare/2026/37",
+"kind": "profesii",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 37 din 23 octombrie 2026 pentru completarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 4/2020 pentru aprobarea structurii și a informațiilor din Registrul național unic al asistenților medicali generaliști, moașelor și asistenților medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 37/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315834",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2026-53",
+"path": "profesii/csm/hotarare-plen/2026/53",
+"kind": "profesii",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 53 din 16 aprilie 2026 pentru modificarea și completarea Hotărârii Plenului Consiliului Superior al Magistraturii nr. 184/2007 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de grefieri informaticieni din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea",
+"short": "Hotărârea CSM nr. 53/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-29",
+"latest": "2026-04-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/310002",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-57",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/57",
+"kind": "profesii",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 57 din 28 martie 2026 pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 57/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/309503",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-64",
+"path": "profesii/cafr/hotarare/2026/64",
+"kind": "profesii",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 64 din 30 martie 2026 privind suspendarea calculării penalităților de întârziere aferente neachitării cotizațiilor datorate de membrii Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 64/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/308971",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-64",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/64",
+"kind": "profesii",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 64 din 22 aprilie 2026 privind modificarea și completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 64/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/310308",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-65",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/65",
+"kind": "profesii",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 65 din 22 aprilie 2026 privind modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 93/2020 pentru aprobarea taxelor de acreditare și reacreditare a furnizorilor de educație medicală continuă și a taxelor de creditare a formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 65/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/310326",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-82",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/82",
+"kind": "profesii",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 82 din 17 iunie 2026 privind aprobarea Metodologiei de reatestare a competenței profesionale a fizioterapeuților",
+"short": "Hotărârea CFZRO nr. 82/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312124",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2026-92",
+"path": "profesii/unnpr/hotarare-consiliu/2026/92",
+"kind": "profesii",
+"year": "2026",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 92 din 12 iunie 2026 privind aprobarea Regulamentului de organizare și funcționare al Consiliului de disciplină din cadrul Uniunii Naționale a Notarilor Publici din România",
+"short": "Hotărârea UNNPR nr. 92/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312253",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-100",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/100",
+"kind": "profesii",
+"year": "2026",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 100 din 8 iulie 2026 pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România, pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 41/2018 privind eliberarea de duplicate ale autorizației de liberă practică eliberate de Colegiul Fizioterapeuților din România și pentru completarea Procedurii de avizare a cabinetelor de liberă practică pentru serviciile publice conexe actului medical de fizioterapie și a activităților de fizioterapie, aprobată prin Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 63/2023",
+"short": "Hotărârea CFZRO nr. 100/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312442",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-102",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/102",
+"kind": "profesii",
+"year": "2026",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 102 din 8 iulie 2026 privind modificarea și completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 93/2020 pentru aprobarea taxelor de acreditare și reacreditare a furnizorilor de educație medicală continuă și a taxelor de creditare a formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 102/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312443",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2026-104",
+"path": "profesii/unnpr/hotarare-consiliu/2026/104",
+"kind": "profesii",
+"year": "2026",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 104 din 12 iunie 2026 privind modificarea și completarea Statutului Institutului Notarial Român, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 58/2020",
+"short": "Hotărârea UNNPR nr. 104/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-07",
+"latest": "2026-07-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312082",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-114",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/114",
+"kind": "profesii",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 114 din 3 august 2026 pentru completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 114/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/313401",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-123",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/123",
+"kind": "profesii",
+"year": "2026",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 123 din 27 august 2026 pentru modificarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 82/2026 privind aprobarea Metodologiei de reatestare a competenței profesionale a fizioterapeuților",
+"short": "Hotărârea CFZRO nr. 123/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/314417",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2026-141",
+"path": "profesii/csm/hotarare-plen/2026/141",
+"kind": "profesii",
+"year": "2026",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 141 din 22 octombrie 2026 pentru modificarea Regulamentului Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 92/2023",
+"short": "Hotărârea CSM nr. 141/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315848",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-143",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/143",
+"kind": "profesii",
+"year": "2026",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 143 din 26 septembrie 2026 privind modificarea și completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 36/2018 privind dobândirea calității de membru al Colegiului Fizioterapeuților din România și eliberarea autorizației de liberă practică pentru exercitarea profesiei de fizioterapeut",
+"short": "Hotărârea CFZRO nr. 143/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315113",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2026-151",
+"path": "profesii/cfzro/hotarare-consiliu-national/2026/151",
+"kind": "profesii",
+"year": "2026",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 151 din 26 septembrie 2026 privind modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 93/2020 pentru aprobarea taxelor de acreditare și reacreditare a furnizorilor de educație medicală continuă și a taxelor de creditare a formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 151/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315114",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-180",
+"path": "profesii/cafr/hotarare/2026/180",
+"kind": "profesii",
+"year": "2026",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 180 din 30 iunie 2026 privind aprobarea acordării titlului de \"auditor financiar de onoare\"",
+"short": "Hotărârea CAFR nr. 180/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/311990",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-182",
+"path": "profesii/cafr/hotarare/2026/182",
+"kind": "profesii",
+"year": "2026",
+"number": "182",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 182 din 10 iulie 2026 privind organizarea, convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România, organizată în format fizic în data de 12 septembrie 2026",
+"short": "Hotărârea CAFR nr. 182/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312246",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-183",
+"path": "profesii/cafr/hotarare/2026/183",
+"kind": "profesii",
+"year": "2026",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 183 din 10 iulie 2026 pentru stabilirea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România, organizată în format fizic în data de 12 septembrie 2026",
+"short": "Hotărârea CAFR nr. 183/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312247",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-184",
+"path": "profesii/cafr/hotarare/2026/184",
+"kind": "profesii",
+"year": "2026",
+"number": "184",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 184 din 10 iulie 2026 privind aprobarea Normelor pentru desfășurarea alegerilor pentru președintele Consiliului Camerei Auditorilor Financiari din România, membrii Consiliului Camerei Auditorilor Financiari din România și auditorul statutar al Camerei Auditorilor Financiari din România, în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în data de 12 septembrie 2026, la sală, cu prezența fizică a auditorilor financiari cu drept de vot",
+"short": "Hotărârea CAFR nr. 184/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/313110",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-185",
+"path": "profesii/cafr/hotarare/2026/185",
+"kind": "profesii",
+"year": "2026",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 185 din 10 iulie 2026 pentru aprobarea Normelor privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 185/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312248",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-215",
+"path": "profesii/cafr/hotarare/2026/215",
+"kind": "profesii",
+"year": "2026",
+"number": "215",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 215 din 28 august 2026 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 74/2014 privind aprobarea formularelor pentru raportarea anuală a membrilor Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 215/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-03",
+"latest": "2026-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/313979",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2026-227",
+"path": "profesii/cafr/hotarare/2026/227",
+"kind": "profesii",
+"year": "2026",
+"number": "227",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 227 din 14 septembrie 2026 privind alegerea Biroului permanent al Consiliului Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 227/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-17",
+"latest": "2026-09-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/314613",
 "flags": {
 "amendments_checked": false
 }
@@ -459,6 +1719,26 @@
 }
 },
 {
+"slug": "profesii-csm-hotarare-sectia-procurori-2026-479",
+"path": "profesii/csm/hotarare-sectia-procurori/2026/479",
+"kind": "profesii",
+"year": "2026",
+"number": "479",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 479 din 23 iunie 2026 pentru modificarea Regulamentului privind numirea procurorilor în funcții de execuție la Direcția Națională Anticorupție și revocarea din aceste funcții, aprobat prin Hotărârea Secției pentru procurori a Consiliului Superior al Magistraturii nr. 1.107/2023",
+"short": "Hotărârea CSM nr. 479/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/311862",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-decizie-cp-2026-493",
 "path": "profesii/unbr/decizie-cp/2026/493",
 "kind": "profesii",
@@ -577,6 +1857,146 @@
 "flags": {
 "text_missing": true,
 "text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2026-815",
+"path": "profesii/oar/hotarare-conferinta/2026/815",
+"kind": "profesii",
+"year": "2026",
+"number": "815",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 815 din 21 iunie 2026 privind alegerea președintelui Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 815/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312191",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2026-816",
+"path": "profesii/oar/hotarare-conferinta/2026/816",
+"kind": "profesii",
+"year": "2026",
+"number": "816",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 816 din 21 iunie 2026 privind alegerea membrilor Consiliului național al Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 816/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312192",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2026-817",
+"path": "profesii/oar/hotarare-conferinta/2026/817",
+"kind": "profesii",
+"year": "2026",
+"number": "817",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 817 din 21 iunie 2026 privind alegerea membrilor Comisiei naționale de disciplină a Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 817/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312193",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2026-818",
+"path": "profesii/oar/hotarare-conferinta/2026/818",
+"kind": "profesii",
+"year": "2026",
+"number": "818",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 818 din 21 iunie 2026 privind alegerea membrilor Comisiei de cenzori a Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 818/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312194",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2026-950",
+"path": "profesii/csm/hotarare-sectia-judecatori/2026/950",
+"kind": "profesii",
+"year": "2026",
+"number": "950",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 950 din 7 mai 2026 pentru modificarea și completarea Regulamentului de organizare a activității judecătorului de supraveghere a privării de libertate, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 89/2014",
+"short": "Hotărârea CSM nr. 950/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-14",
+"latest": "2026-05-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/310504",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2026-1223",
+"path": "profesii/csm/hotarare-sectia-judecatori/2026/1223",
+"kind": "profesii",
+"year": "2026",
+"number": "1223",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.223 din 19 mai 2026 pentru modificarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Secției pentru judecători a Consiliului Superior al Magistraturii nr. 3.243/2022",
+"short": "Hotărârea CSM nr. 1223/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/314101",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2026-1961",
+"path": "profesii/csm/hotarare-sectia-judecatori/2026/1961",
+"kind": "profesii",
+"year": "2026",
+"number": "1961",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.961 din 15 octombrie 2026 pentru completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Secției pentru judecători a Consiliului Superior al Magistraturii nr. 3.243/2022",
+"short": "Hotărârea CSM nr. 1961/2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/315269",
+"flags": {
 "amendments_checked": false
 }
 }

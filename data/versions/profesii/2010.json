@@ -3,6 +3,726 @@
  "shard": "profesii/2010",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2010-155",
+   "path": "profesii/cafr/hotarare/2010/155",
+   "short": "Hotărârea CAFR nr. 155/2010",
+   "title": "HOTĂRÂRE nr. 155 din 15 ianuarie 2010 privind atribuirea calității și a dreptului de exercitare a profesiei de auditor financiar pentru persoanele care posedă o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115552",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115552",
+     "sha256": "e10dc3add9de9bc2b207cbf51189a747b96f48543d49fb5c5b036b853e3ef425"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-156",
+   "path": "profesii/cafr/hotarare/2010/156",
+   "short": "Hotărârea CAFR nr. 156/2010",
+   "title": "HOTĂRÂRE nr. 156 din 1 februarie 2010 pentru aprobarea formularelor de raport anual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117090",
+   "versions": [
+    {
+     "from": "2010-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117090",
+     "sha256": "964743663cdf0bac075df95e4ac29f5d5df00515865791f60455cb206ec43c25"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-158",
+   "path": "profesii/cafr/hotarare/2010/158",
+   "short": "Hotărârea CAFR nr. 158/2010",
+   "title": "HOTĂRÂRE nr. 158 din 23 februarie 2010 pentru completarea anexei la Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 155/2010 privind atribuirea calității și a dreptului de exercitare a profesiei de auditor financiar pentru persoanele care posedă o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116701",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116701",
+     "sha256": "fd1b310c66434655cf9078482bd9b55bc64a9960437c70117b23a1403df92fc4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-163",
+   "path": "profesii/cafr/hotarare/2010/163",
+   "short": "Hotărârea CAFR nr. 163/2010",
+   "title": "HOTĂRÂRE nr. 163 din 8 mai 2010 privind aprobarea documentelor prezentate spre dezbatere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120298",
+   "versions": [
+    {
+     "from": "2010-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120298",
+     "sha256": "0291cd1410a0163ab543cc050cb5e6a4392b038b86a243f0729ce13fd4c49fc6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-165",
+   "path": "profesii/cafr/hotarare/2010/165",
+   "short": "Hotărârea CAFR nr. 165/2010",
+   "title": "HOTĂRÂRE nr. 165 din 24 iunie 2010 pentru aprobarea Normelor privind autorizarea firmelor de audit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123592",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123592",
+     "sha256": "232f0ef35b2a7c9c68b4d83992b23ad1d2d23bbabbe91e0ec8e3f80c5183514a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-166",
+   "path": "profesii/cafr/hotarare/2010/166",
+   "short": "Hotărârea CAFR nr. 166/2010",
+   "title": "HOTĂRÂRE nr. 166 din 24 iunie 2010 privind atribuirea calității și a dreptului de exercitare a profesiei de auditor financiar pentru persoanele care posedă o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121769",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121769",
+     "sha256": "36fd47b203b0bca752efd254b61696a31a9cec8bcbc059fb5387982c64cf6b7a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-168",
+   "path": "profesii/cafr/hotarare/2010/168",
+   "short": "Hotărârea CAFR nr. 168/2010",
+   "title": "HOTĂRÂRE nr. 168 din 25 august 2010 pentru aprobarea Normelor privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121987",
+   "versions": [
+    {
+     "from": "2010-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121987",
+     "sha256": "7a67e2f2ce5a0be8ecdb3c9e568d69c4dea58c694aaf2395af19c23ac6da21fe"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-169",
+   "path": "profesii/cafr/hotarare/2010/169",
+   "short": "Hotărârea CAFR nr. 169/2010",
+   "title": "HOTĂRÂRE nr. 169 din 25 august 2010 privind aprobarea Procedurilor pentru aplicarea art. 29 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 168/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121989",
+   "versions": [
+    {
+     "from": "2010-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121989",
+     "sha256": "27371c3c0fac28f06dd1a4595488cbf92266b4a72149e45a376a4fdca90c62a3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-171",
+   "path": "profesii/cafr/hotarare/2010/171",
+   "short": "Hotărârea CAFR nr. 171/2010",
+   "title": "HOTĂRÂRE nr. 171 din 25 august 2010 privind aprobarea Regulilor de organizare și desfășurare a testului de verificare a cunoștințelor în domeniul financiar-contabil pentru accesul la stagiu în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122195",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122195",
+     "sha256": "257918e50011c8fdb475f1069a7260181ecfca7bbe98e93573d82776986890ba"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-172",
+   "path": "profesii/cafr/hotarare/2010/172",
+   "short": "Hotărârea CAFR nr. 172/2010",
+   "title": "HOTĂRÂRE nr. 172 din 25 august 2010 privind aprobarea Normelor de pregătire profesională continuă a auditorilor financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122717",
+   "versions": [
+    {
+     "from": "2010-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122717",
+     "sha256": "333477fc9504a717f664fa43b020fa03fd4051ae21d0b3d4ec649e86c468d48f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-173",
+   "path": "profesii/cafr/hotarare/2010/173",
+   "short": "Hotărârea CAFR nr. 173/2010",
+   "title": "HOTĂRÂRE nr. 173 din 25 august 2010 privind aprobarea Regulilor de organizare și desfășurare a examenului de competență profesională pentru atribuirea calității de auditor financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122720",
+   "versions": [
+    {
+     "from": "2010-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122720",
+     "sha256": "02c0278fdb91b965e66450aec891460da5bdf136317dc5460881b720157ac6e8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-176",
+   "path": "profesii/cafr/hotarare/2010/176",
+   "short": "Hotărârea CAFR nr. 176/2010",
+   "title": "HOTĂRÂRE nr. 176 din 22 septembrie 2010 privind aprobarea Procedurilor pentru acreditarea societăților de audit organizatoare de cursuri de pregătire profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125023",
+   "versions": [
+    {
+     "from": "2011-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125023",
+     "sha256": "7b2243a1074c4b13ae406639d4fa39ce71b5b8ae916dfb2570d288762b9b8ac9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-177",
+   "path": "profesii/cafr/hotarare/2010/177",
+   "short": "Hotărârea CAFR nr. 177/2010",
+   "title": "HOTĂRÂRE nr. 177 din 22 septembrie 2010 privind aprobarea Procedurilor de acreditare a formatorilor Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124666",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124666",
+     "sha256": "5a7d7da37e8f857bb6728dd954ef7d12b2968ea49cd874ffbc39baa1ebaa431a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-183",
+   "path": "profesii/cafr/hotarare/2010/183",
+   "short": "Hotărârea CAFR nr. 183/2010",
+   "title": "HOTĂRÂRE nr. 183 din 22 septembrie 2010 privind modificarea și completarea Procedurilor pentru aplicarea art. 29 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 168/2010 , aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 169/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122882",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122882",
+     "sha256": "f9ded15d5576ab1920bd84dfc4e4a5c84632fca9a6d7ac7905d94471cc9d2493"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-187",
+   "path": "profesii/cafr/hotarare/2010/187",
+   "short": "Hotărârea CAFR nr. 187/2010",
+   "title": "HOTĂRÂRE nr. 187 din 27 octombrie 2010 pentru aprobarea Procedurilor privind programarea și desfășurarea inspecțiilor de calitate a activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125237",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125237",
+     "sha256": "4805c127b5c98d5eb138b9c49a695da4333832cd41c61417d18e08bcefa902fe"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-188",
+   "path": "profesii/cafr/hotarare/2010/188",
+   "short": "Hotărârea CAFR nr. 188/2010",
+   "title": "HOTĂRÂRE nr. 188 din 26 noiembrie 2010 privind adoptarea procedurilor Departamentului de servicii pentru membri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125248",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125248",
+     "sha256": "1c81789cec15909076e8d18291bc8bb209df69dfe7eb8fb6b82536227593aed7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2010-199",
+   "path": "profesii/cafr/hotarare/2010/199",
+   "short": "Hotărârea CAFR nr. 199/2010",
+   "title": "HOTĂRÂRE nr. 199 din 26 noiembrie 2010 privind aprobarea Procedurilor pentru stabilirea condițiilor în care pot fi acordate derogări de către Camera Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129377",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129377",
+     "sha256": "33c4802c531fae3d66938cf4ab4bd62b1637ba065bcff846dc2e33083454e6cb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2010-179",
+   "path": "profesii/cafr/hotarare-consiliu/2010/179",
+   "short": "Hotărârea CAFR nr. 179/2010",
+   "title": "HOTĂRÂRE nr. 179 din 22 septembrie 2010 pentru completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 140/2009 privind aprobarea cotizațiilor și tarifelor pentru membrii Camerei Auditorilor Financiari din România și pentru stagiarii în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122630",
+   "versions": [
+    {
+     "from": "2010-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122630",
+     "sha256": "25932ff46df7cadaed146c6f519a1e14a480060c7a3b16068f743d78738a105e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2010-182",
+   "path": "profesii/cafr/hotarare-consiliu/2010/182",
+   "short": "Hotărârea CAFR nr. 182/2010",
+   "title": "HOTĂRÂRE nr. 182 din 22 septembrie 2010 pentru aprobarea procedurilor privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124609",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124609",
+     "sha256": "d7a84299c5adbb4f90fbd0f034d6823d79cead657265fc615e25536cf913aab8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2010-7",
+   "path": "profesii/ccf/hotarare/2010/7",
+   "short": "Hotărârea CCF nr. 7/2010",
+   "title": "HOTĂRÂRE nr. 7 din 5 februarie 2010 privind organizarea de cursuri suplimentare de pregătire profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116020",
+   "versions": [
+    {
+     "from": "2010-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116020",
+     "sha256": "2fe148332eb24cc2028705f4785c1453b7eec9fd17e7db6da750abfebac812bb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2010-11",
+   "path": "profesii/ccf/hotarare-conferinta/2010/11",
+   "short": "Hotărârea CCF nr. 11/2010",
+   "title": "HOTĂRÂRE nr. 11 din 28 aprilie 2010 privind aprobarea documentelor prezentate spre dezbatere în Conferința națională a Camerei Consultanților Fiscali din 23 aprilie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118353",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118353",
+     "sha256": "d3a5f0a212ce0f682495359220a66efa03ffc09e2316c2c45bc9ed49f0871d0a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2010-12",
+   "path": "profesii/ccf/hotarare-conferinta/2010/12",
+   "short": "Hotărârea CCF nr. 12/2010",
+   "title": "HOTĂRÂRE nr. 12 din 28 aprilie 2010 privind nivelul cotizațiilor membrilor Camerei Consultanților Fiscali pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118354",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118354",
+     "sha256": "cd894efcf552a3c42efe0aab16c955280d362f1955b798a6acb1a8d3da9c1229"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2010-13",
+   "path": "profesii/ccf/hotarare-consiliu/2010/13",
+   "short": "Hotărârea CCF nr. 13/2010",
+   "title": "HOTĂRÂRE nr. 13 din 30 septembrie 2010 privind susținerea examenului pentru atribuirea calității de consultant fiscal sesiunea noiembrie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122513",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122513",
+     "sha256": "4a637bb791a0c26801ea9cd1eeb2a6f0dd608fda7819d801e263b678c076c06c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2010-5",
+   "path": "profesii/ccf/hotarare-consiliu/2010/5",
+   "short": "Hotărârea CCF nr. 5/2010",
+   "title": "HOTĂRÂRE nr. 5 din 5 februarie 2010 privind susținerea examenului pentru atribuirea calității de consultant fiscal - sesiunea martie 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116128",
+   "versions": [
+    {
+     "from": "2010-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116128",
+     "sha256": "720f4fa313e40fc51b30e953d375f267fd0575ef8d62703a8e20d4df44c43296"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2010-6",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2010/6",
+   "short": "Hotărârea CCF nr. 6/2010",
+   "title": "HOTĂRÂRE nr. 6 din 5 februarie 2010 privind convocarea Conferinței naționale anuale a Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117136",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117136",
+     "sha256": "d0bb07b6be7db3735d4df3111d64018c3ac6aac890ea81ceaf79a1390a36ba09"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2010-15",
+   "path": "profesii/cmdr/decizie/2010/15",
+   "short": "Decizia CMDR nr. 15/2010",
+   "title": "DECIZIE nr. 15 din 15 mai 2010 privind adoptarea Codului deontologic al medicului dentist",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119665",
+   "versions": [
+    {
+     "from": "2010-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119665",
+     "sha256": "ae9eeaca00d70f4262fd2c03ae626016320aaab2169654f25ca3045bfd4eb53b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2010-3",
+   "path": "profesii/cmdr/decizie/2010/3",
+   "short": "Decizia CMDR nr. 3/2010",
+   "title": "DECIZIE nr. 3 din 30 ianuarie 2010 privind componența comisiei de experți a Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115847",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115847",
+     "sha256": "8c3690647cbbe0dbaac406a1b858bf56c96cb6215e600f4288e73fad37fd2578"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2010-33",
+   "path": "profesii/cmdr/decizie/2010/33",
+   "short": "Decizia CMDR nr. 33/2010",
+   "title": "DECIZIE nr. 33 din 18 decembrie 2010 privind aprobarea calendarului și Regulamentului electoral al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124816",
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124816",
+     "sha256": "8f4c9b607bf30f2854a274e719c6d8ddeecf7ebb540013f90bb215583630fdf3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2010-12",
+   "path": "profesii/cmr/decizie/2010/12",
+   "short": "Decizia CMR nr. 12/2010",
+   "title": "DECIZIE nr. 12 din 16 iulie 2010 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 11/2009 privind emiterea avizelor pentru înființarea punctelor secundare de lucru ale cabinetelor medicale individuale, asociate, grupate și ale societăților civile medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121956",
+   "versions": [
+    {
+     "from": "2010-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121956",
+     "sha256": "72a9e8191566e328a5803dc9c98d82a23b0f41cc2ec8c450e79c45be9a6f9600"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2010-14",
+   "path": "profesii/cmr/decizie/2010/14",
+   "short": "Decizia CMR nr. 14/2010",
+   "title": "DECIZIE nr. 14 din 22 octombrie 2010 pentru modificarea și completarea anexei la Decizia Consiliului național al Colegiului Medicilor din România nr. 6/2010 privind componența comisiilor de specialitate ale Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123781",
+   "versions": [
+    {
+     "from": "2010-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123781",
+     "sha256": "22a9ffc22c8869d8ce96ec5d78381b3a2e00b1be1894da5f804eeb64a316761d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2010-15",
+   "path": "profesii/cmr/decizie/2010/15",
+   "short": "Decizia CMR nr. 15/2010",
+   "title": "DECIZIE nr. 15 din 22 octombrie 2010 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 5/2010 privind înființarea unei comisii de lucru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123782",
+   "versions": [
+    {
+     "from": "2010-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123782",
+     "sha256": "061cbe69374f20a858de8a9cbe626dc91bb34d5e60ddab8198b38f93a9af6c86"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2010-17",
+   "path": "profesii/cmr/decizie/2010/17",
+   "short": "Decizia CMR nr. 17/2010",
+   "title": "DECIZIE nr. 17 din 10 decembrie 2010 privind emiterea avizelor pentru înființarea punctelor secundare de lucru în specialitatea medicină de familie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125231",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125231",
+     "sha256": "c2588c77d99e4563355f9f59073e08679eb55d26b6dba5dfcce13084aa1b2a28"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2010-4",
+   "path": "profesii/cmr/decizie/2010/4",
+   "short": "Decizia CMR nr. 4/2010",
+   "title": "DECIZIE nr. 4 din 12 martie 2010 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 11/2009 privind emiterea avizelor pentru înființarea punctelor secundare de lucru ale cabinetelor medicale individuale, asociate, grupate și ale societăților civile medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117833",
+   "versions": [
+    {
+     "from": "2010-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117833",
+     "sha256": "fa10f21d662216336adfacb8999a562e967e705a9d230af23ade7dc0ae28b850"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmvr-hotarare-congres-2010-2",
+   "path": "profesii/cmvr/hotarare-congres/2010/2",
+   "short": "Hotărârea CMVR nr. 2/2010",
+   "title": "HOTĂRÂRE nr. 2 din 24 octombrie 2010 pentru adoptarea Regulamentului de organizare și funcționare al Colegiului Medicilor Veterinari și a Statutului medicului veterinar și pentru aprobarea Codului de deontologie medicală veterinară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126459",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126459",
+     "sha256": "b24729ccbd7c43f810ab465ffa01ddb2ed1525e77a76135af26bc416d18add35"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2010-1",
+   "path": "profesii/cpr/hotarare-comitet-director/2010/1",
+   "short": "Hotărârea CPR nr. 1/2010",
+   "title": "HOTĂRÂRE nr. 1 din 16 aprilie 2010 pentru aprobarea Normelor privind organizarea și funcționarea Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119007",
+   "versions": [
+    {
+     "from": "2010-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119007",
+     "sha256": "9d91fc7364d252460c931732691518d06b4a8a677b67182d35d6ba7772d93fe6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2010-2",
+   "path": "profesii/cpr/hotarare-comitet-director/2010/2",
+   "short": "Hotărârea CPR nr. 2/2010",
+   "title": "HOTĂRÂRE nr. 2 din 16 aprilie 2010 pentru aprobarea Normelor privind accesul în profesia de psiholog cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119008",
+   "versions": [
+    {
+     "from": "2010-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119008",
+     "sha256": "7f2b39f5ef280aaacfae384c1bbbba0a00f823c2553ccd5b73eb7bfd4568adac"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2010-3",
+   "path": "profesii/cpr/hotarare-comitet-director/2010/3",
+   "short": "Hotărârea CPR nr. 3/2010",
+   "title": "HOTĂRÂRE nr. 3 din 16 aprilie 2010 pentru aprobarea Normelor privind formarea profesională a psihologilor cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119009",
+   "versions": [
+    {
+     "from": "2010-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119009",
+     "sha256": "b422cb52c3592bad5caccc0a7d14c4f0a448b84c8bd9c99906bcc5cba686b540"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2010-129",
+   "path": "profesii/csm/hotarare-consiliu/2010/129",
+   "short": "Hotărârea CSM nr. 129/2010",
+   "title": "HOTĂRÂRE nr. 129 din 18 februarie 2010 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 621/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116478",
+   "versions": [
+    {
+     "from": "2010-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116478",
+     "sha256": "69678fdcad885397506425f53902b4d167b75053ba8e492c49b87cbef7392106"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2010-596",
+   "path": "profesii/csm/hotarare-plen/2010/596",
+   "short": "Hotărârea CSM nr. 596/2010",
+   "title": "HOTĂRÂRE nr. 596 din 1 iulie 2010 pentru completarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120720",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120720",
+     "sha256": "29648c9c05fb7b35bc1a249bc09eb6503722df3703a5d269edb421ee3d5ce23d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2010-837",
+   "path": "profesii/csm/hotarare-plen/2010/837",
+   "short": "Hotărârea CSM nr. 837/2010",
+   "title": "HOTĂRÂRE nr. 837 din 30 septembrie 2010 pentru modificarea Regulamentului privind evaluarea activității profesionale a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 676/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122909",
+   "versions": [
+    {
+     "from": "2010-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122909",
+     "sha256": "1bbe7814d9be39ae67cef02293aa6313fe8438adbf32728dcd3f67efa82b1694"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2010-263",
+   "path": "profesii/mediere/hotarare-consiliu/2010/263",
+   "short": "Hotărârea Consiliul de mediere nr. 263/2010",
+   "title": "HOTĂRÂRE nr. 263 din 19 martie 2010 privind modificarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118328",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118328",
+     "sha256": "ad8cfb24ff2f021ba0cdcf290a455b0aead1891e334531e84e0ad3f6f01ea3c9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2010-487",
+   "path": "profesii/mediere/hotarare-consiliu/2010/487",
+   "short": "Hotărârea Consiliul de mediere nr. 487/2010",
+   "title": "HOTĂRÂRE nr. 487 din 7 mai 2010 pentru aprobarea publicării în Monitorul Oficial al României, Partea I, a Tabloului mediatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119586",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119586",
+     "sha256": "bd324a9b1da3180954155e83f7f352d14b80a5f639dc2fa689664e2711d25160"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2010-517",
+   "path": "profesii/mediere/hotarare-consiliu/2010/517",
+   "short": "Hotărârea Consiliul de mediere nr. 517/2010",
+   "title": "HOTĂRÂRE nr. 517 din 21 mai 2010 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125195",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125195",
+     "sha256": "a8d9124e6bbed739f641c2075a8c726c78975ae6425e7653b96d7a29c418796e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2010-1",
+   "path": "profesii/oamgmamr/hotarare/2010/1",
+   "short": "Hotărârea OAMGMAMR nr. 1/2010",
+   "title": "HOTĂRÂRE nr. 1 din 12 martie 2010 privind stabilirea cuantumului taxei pentru eliberare duplicate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117513",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117513",
+     "sha256": "f2097ba6a64cec95096b8bdfde80035679c37f56eba45f09c01baae84133add8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2010-10",
+   "path": "profesii/oamgmamr/hotarare/2010/10",
+   "short": "Hotărârea OAMGMAMR nr. 10/2010",
+   "title": "HOTĂRÂRE nr. 10 din 4 iunie 2010 privind aprobarea Programului național de pregătire a infirmierelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120767",
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120767",
+     "sha256": "30826b980bca4cb936325a5723cbb52645c1e67d6eafb61f2a82ab14a65b9c71"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2010-2",
+   "path": "profesii/oamgmamr/hotarare/2010/2",
+   "short": "Hotărârea OAMGMAMR nr. 2/2010",
+   "title": "HOTĂRÂRE nr. 2 din 12 martie 2010 pentru modificarea art. 1 din Hotărârea Consiliului Național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 24/2009 privind stabilirea cuantumului cotizației de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117514",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117514",
+     "sha256": "d1d4fee0b833064868470984fffaa5e42047dfd9c60cb4a1c0a0ca86283bc3e8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2010-25",
+   "path": "profesii/oamgmamr/hotarare/2010/25",
+   "short": "Hotărârea OAMGMAMR nr. 25/2010",
+   "title": "HOTĂRÂRE nr. 25 din 3 decembrie 2010 privind completarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 32/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125060",
+   "versions": [
+    {
+     "from": "2011-01-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125060",
+     "sha256": "aae5674e703042db3c5fa2528f3e00b4cf5afa18d7784d8b38aec801a2710933"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2010-26",
+   "path": "profesii/oamgmamr/hotarare/2010/26",
+   "short": "Hotărârea OAMGMAMR nr. 26/2010",
+   "title": "HOTĂRÂRE nr. 26 din 3 decembrie 2010 pentru modificarea anexei nr. 6 la Programul național de pregătire a infirmierelor, aprobat prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124671",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124671",
+     "sha256": "cac326839fd5b0c78bfed8ea81134ee207de0b790127548b432581f3d3beae32"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unbr-decizie-cp-2010-110",
    "path": "profesii/unbr/decizie-cp/2010/110",
    "short": "Decizia nr. 110 din 22 ianuarie 2010 a Comisiei Permanente a U.N.B.R",
@@ -119,6 +839,51 @@
      "units": 1,
      "source_url": "https://unbr.ro/anunt/",
      "sha256": "1f483dbe86fe9f1e3aeeb1a6ac39cf87958c58e7b652004d4c49c5bf23534459"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-congres-2010-19",
+   "path": "profesii/unej/hotarare-congres/2010/19",
+   "short": "Hotărârea UNEJ nr. 19/2010",
+   "title": "HOTĂRÂRE nr. 19 din 3 septembrie 2010 privind aprobarea Statutului Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123018",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123018",
+     "sha256": "2e438ff6e31a96abb9211b9f9ec673aadadfd3527928ebd903656ee289dacf69"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-protocol-2010-1404",
+   "path": "profesii/unnpr/protocol/2010/1404",
+   "short": "Protocolul UNNPR nr. 1404/2010",
+   "title": "PROTOCOL nr. 1.404 din 26 aprilie 2010 încheiat între Agenția Națională de Cadastru și Publicitate Imobiliară și Uniunea Națională a Notarilor Publici din România privind modul de efectuare a operațiunilor de publicitate imobiliară, în aplicarea Legii cadastrului și a publicității imobiliare nr. 7/1996 , republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120430",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120430",
+     "sha256": "56662b1da38f7a2454e1e139571bc427b7d8911f84a08802c4a512fdf98773f5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2010-3",
+   "path": "profesii/unpir/hotarare/2010/3",
+   "short": "Hotărârea UNPIR nr. 3/2010",
+   "title": "HOTĂRÂRE nr. 3 din 12 iunie 2010 pentru modificarea și completarea Hotărârii Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului de organizare și funcționare și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121654",
+   "versions": [
+    {
+     "from": "2010-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121654",
+     "sha256": "cf8e6822914f0f76bd2e76b100d35de3cc461f724a72bbcecb63a0111b5321ff"
     }
    ]
   }

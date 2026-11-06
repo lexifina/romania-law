@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/dambovita/fieni/2026",
+"acts": [
+{
+"slug": "hcl-dambovita--fieni-80-2026",
+"path": "local/dambovita/fieni/2026/80",
+"kind": "local",
+"year": "2026",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 80/2026 privind aprobarea organigramei, ștatului de funcții și a Regulamentului de Organizare și Funcționare (ROF) a aparatului de specialitate al primarului",
+"short": "HCL Fieni nr. 80/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-07",
+"latest": "2026-09-07",
+"portal": "https://emol.ro/fieni-db/registru-hcl/284084",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-86-2026",
+"path": "local/dambovita/fieni/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 86/2026",
+"short": "HCL Fieni nr. 86/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/fieni-db/registru-hcl/287832",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-93-2026",
+"path": "local/dambovita/fieni/2026/93",
+"kind": "local",
+"year": "2026",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 93/2026 privind aprobarea depunerii și implementării proiectului „SPRIJINIREA INVESTIȚIILOR ÎN DEZVOLTAREA DE NOI CAPACITĂȚI DE STOCARE A ENERGIEI PRODUSĂ DIN SURSE REGENERABILE ÎN ORAȘUL FIENI, JUDEȚUL DÂMBOVIȚA” și a cheltuielilor aferente acestuia",
+"short": "HCL Fieni nr. 93/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-26",
+"latest": "2026-10-26",
+"portal": "https://emol.ro/fieni-db/registru-hcl/290184",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-105-2026",
+"path": "local/dambovita/fieni/2026/105",
+"kind": "local",
+"year": "2026",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 105/2026 privind modificarea Statului de funcții şi organigramei aparatului de specialitate al Primarului ca urmare a transformării unor posturi",
+"short": "HCL Fieni nr. 105/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/fieni-db/registru-hcl/294318",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

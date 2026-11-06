@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/vanju-mare/2026",
+"acts": [
+{
+"slug": "hcl-mehedinti--vanju-mare-38-2026",
+"path": "local/mehedinti/vanju-mare/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 38/2026 privind aprobarea Studiului de oportunitate pentru fundamentarea și stabilirea soluției optime de gestiune a activității de operare pentru ,,CENTRU DE COLECTARE DESEURI PRIN APORT VOLUNTAR IN ORAS VANJU MARE, JUDETUL MEHEDINTI’’, a Regulamentului de funcționare și a Caietului de sarcini",
+"short": "HCL Vânju Mare nr. 38/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/286551",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-47-2026",
+"path": "local/mehedinti/vanju-mare/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 47/2026 privind aprobarea Strategiei de tarifare aferente planului de afaceri și formulei de ajustare tarifară, aprobarea Strategiei privind redevența, aprobarea modificării Contractului de Delegare nr. 20 din 06.11.2009, și mandatarea reprezentantului UAT în Adunarea Generală a Asociației",
+"short": "HCL Vânju Mare nr. 47/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/290947",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-55-2026",
+"path": "local/mehedinti/vanju-mare/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 55/2026 privind virarea de credite bugetare de la un capitol la alt capitol al clasificatiei bugetare, modificarea listei de investiții și raportul privind rezultatele etichitării bugetare",
+"short": "HCL Vânju Mare nr. 55/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/292982",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-60-2026",
+"path": "local/mehedinti/vanju-mare/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 60/2026 privind aprobarea proiectului de hotărâre privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2027- 2028 la nivelul orașului Vânju Mare, jud.Mehedinți",
+"short": "HCL Vânju Mare nr. 60/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/296152",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

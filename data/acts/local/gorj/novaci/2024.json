@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/gorj/novaci/2024",
+"acts": [
+{
+"slug": "hcl-gorj--novaci-98-2024",
+"path": "local/gorj/novaci/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Novaci nr. 98/2024 privind stabilirea locului desfasurarii sedintelor de Consiliul local al orasului Novaci pana la finalizarea obiectivul de investitie ,, Modernizare, reablitare si dotare Casa de Cultura Oraseneasca, str. Parangului, oras Novaci, judetul Gorj”",
+"short": "HCL Novaci nr. 98/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/novaci-gj/registru-hcl/175366",
+"council": "gorj/novaci",
+"council_name": "Consiliul Local al Orașului Novaci",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--novaci-123-2024",
+"path": "local/gorj/novaci/2024/123",
+"kind": "local",
+"year": "2024",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Novaci nr. 123/2024 privind aprobarea indexarii impozitelor si taxelor locale pe anul 2025",
+"short": "HCL Novaci nr. 123/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/novaci-gj/registru-hcl/183363",
+"council": "gorj/novaci",
+"council_name": "Consiliul Local al Orașului Novaci",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--novaci-124-2024",
+"path": "local/gorj/novaci/2024/124",
+"kind": "local",
+"year": "2024",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Novaci nr. 124/2024 privind stabilirea taxelor si impozitelor locale, precum si a taxelor speciale pentru anul 2025",
+"short": "HCL Novaci nr. 124/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/novaci-gj/registru-hcl/183364",
+"council": "gorj/novaci",
+"council_name": "Consiliul Local al Orașului Novaci",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

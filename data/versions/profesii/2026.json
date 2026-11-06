@@ -3,6 +3,816 @@
  "shard": "profesii/2026",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2026-1",
+   "path": "profesii/cafr/hotarare/2026/1",
+   "short": "Hotărârea CAFR nr. 1/2026",
+   "title": "HOTĂRÂRE nr. 1 din 18 aprilie 2026 privind aprobarea materialelor prezentate în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în format fizic în data de 18 aprilie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309710",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309710",
+     "sha256": "9f25318439e80c39d7637cefeb57acc8e34976cac46bfd90639bdf8ae2c97cdd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-180",
+   "path": "profesii/cafr/hotarare/2026/180",
+   "short": "Hotărârea CAFR nr. 180/2026",
+   "title": "HOTĂRÂRE nr. 180 din 30 iunie 2026 privind aprobarea acordării titlului de \"auditor financiar de onoare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311990",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311990",
+     "sha256": "e77cb5189855c3836fc87a6e9648676b65bead601a5e4dc2de924b67b99b6552"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-182",
+   "path": "profesii/cafr/hotarare/2026/182",
+   "short": "Hotărârea CAFR nr. 182/2026",
+   "title": "HOTĂRÂRE nr. 182 din 10 iulie 2026 privind organizarea, convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România, organizată în format fizic în data de 12 septembrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312246",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312246",
+     "sha256": "ad2010b5d00d255674e2ae8c4dc8e0f95db701cb7993ca7ae1b9d08f836d4153"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-183",
+   "path": "profesii/cafr/hotarare/2026/183",
+   "short": "Hotărârea CAFR nr. 183/2026",
+   "title": "HOTĂRÂRE nr. 183 din 10 iulie 2026 pentru stabilirea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România, organizată în format fizic în data de 12 septembrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312247",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312247",
+     "sha256": "dd2aea79895d62c426b035cccf8127d30dee4c29971a973bcdcc59aabad17142"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-184",
+   "path": "profesii/cafr/hotarare/2026/184",
+   "short": "Hotărârea CAFR nr. 184/2026",
+   "title": "HOTĂRÂRE nr. 184 din 10 iulie 2026 privind aprobarea Normelor pentru desfășurarea alegerilor pentru președintele Consiliului Camerei Auditorilor Financiari din România, membrii Consiliului Camerei Auditorilor Financiari din România și auditorul statutar al Camerei Auditorilor Financiari din România, în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în data de 12 septembrie 2026, la sală, cu prezența fizică a auditorilor financiari cu drept de vot",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313110",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313110",
+     "sha256": "045a085bdb07d1af2b2afc64f0d8d28c2b81256aa897ac0e7228d064e4aa2dd2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-185",
+   "path": "profesii/cafr/hotarare/2026/185",
+   "short": "Hotărârea CAFR nr. 185/2026",
+   "title": "HOTĂRÂRE nr. 185 din 10 iulie 2026 pentru aprobarea Normelor privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312248",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312248",
+     "sha256": "ebe5ce89660d55cdd34864ca4e54ddd70cfaf28747011fcd7f69e45a08e7d2ad"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-2",
+   "path": "profesii/cafr/hotarare/2026/2",
+   "short": "Hotărârea CAFR nr. 2/2026",
+   "title": "HOTĂRÂRE nr. 2 din 12 septembrie 2026 privind alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314547",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314547",
+     "sha256": "c83b4d5b69a935205eb50ca441a7a8a81781b0da707520dbb0d12f0d17681aca"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-215",
+   "path": "profesii/cafr/hotarare/2026/215",
+   "short": "Hotărârea CAFR nr. 215/2026",
+   "title": "HOTĂRÂRE nr. 215 din 28 august 2026 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 74/2014 privind aprobarea formularelor pentru raportarea anuală a membrilor Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313979",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313979",
+     "sha256": "b494cf03c0926583ea05d0c987216c7b58a66c763b39f7e15890ebb8b646a613"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-227",
+   "path": "profesii/cafr/hotarare/2026/227",
+   "short": "Hotărârea CAFR nr. 227/2026",
+   "title": "HOTĂRÂRE nr. 227 din 14 septembrie 2026 privind alegerea Biroului permanent al Consiliului Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314613",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314613",
+     "sha256": "ac62b437762affe29845b09a0f351a97e47e46b86b6d7c29846f10d7815b64b1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-30",
+   "path": "profesii/cafr/hotarare/2026/30",
+   "short": "Hotărârea CAFR nr. 30/2026",
+   "title": "HOTĂRÂRE nr. 30 din 27 februarie 2026 privind organizarea, convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România, organizată în format fizic în data de 18 aprilie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307996",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307996",
+     "sha256": "84975a3e2d15f6a2cab014fb689c6f1b96f28594b0456b1d8228ada27f9f9063"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-32",
+   "path": "profesii/cafr/hotarare/2026/32",
+   "short": "Hotărârea CAFR nr. 32/2026",
+   "title": "HOTĂRÂRE nr. 32 din 27 februarie 2026 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată în format fizic în data de 18 aprilie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307997",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307997",
+     "sha256": "c69246c8f2c6e58b1d0cb4fbb1383dd85d18461beb4a55660fb64916cbc17b28"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-64",
+   "path": "profesii/cafr/hotarare/2026/64",
+   "short": "Hotărârea CAFR nr. 64/2026",
+   "title": "HOTĂRÂRE nr. 64 din 30 martie 2026 privind suspendarea calculării penalităților de întârziere aferente neachitării cotizațiilor datorate de membrii Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308971",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308971",
+     "sha256": "4a55b6ebc575e86d704ef0d7f3cefb752f7ca351a66eb0adb572ad6fded6d2a2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2026-8",
+   "path": "profesii/cafr/hotarare/2026/8",
+   "short": "Hotărârea CAFR nr. 8/2026",
+   "title": "HOTĂRÂRE nr. 8 din 4 februarie 2026 pentru suspendarea aplicării unor prevederi ale Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307189",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307189",
+     "sha256": "640518ba9c00f6b4bb0ad8d4367b0650e9afdca93a63f3ab2bca2a21a34b428e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2026-1",
+   "path": "profesii/ccf/hotarare/2026/1",
+   "short": "Hotărârea CCF nr. 1/2026",
+   "title": "HOTĂRÂRE nr. 1 din 2 februarie 2026 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307190",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307190",
+     "sha256": "43fce36f9d4dc39bb27bcca66297e27e3b3b5945efdfa7b4316a3e76bcba5207"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2026-10",
+   "path": "profesii/ccf/hotarare/2026/10",
+   "short": "Hotărârea CCF nr. 10/2026",
+   "title": "HOTĂRÂRE nr. 10 din 1 septembrie 2026 pentru completarea anexei la Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 2/2026 pentru aprobarea Normelor privind realizarea de expertize fiscale judiciare și extrajudiciare de către consultanții fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314011",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314011",
+     "sha256": "fe06b9edbdb7d9e27f58f24dcca2c6f2bde0ff8736a2f18c36e597cd7e37ff62"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2026-11",
+   "path": "profesii/ccf/hotarare/2026/11",
+   "short": "Hotărârea CCF nr. 11/2026",
+   "title": "HOTĂRÂRE nr. 11 din 5 octombrie 2026 pentru modificarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 14/2021 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315047",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315047",
+     "sha256": "0162975febfcdac665c39555d0373e73c57681b95201ccd44525ce35cce6fbef"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2026-12",
+   "path": "profesii/ccf/hotarare/2026/12",
+   "short": "Hotărârea CCF nr. 12/2026",
+   "title": "HOTĂRÂRE nr. 12 din 5 octombrie 2026 pentru modificarea Regulamentului de organizare și funcționare al Camerei Consultanților Fiscali, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 3/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315048",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315048",
+     "sha256": "1e33b20c62d534b8b7f175b78ea665b004171c4017b63adba8b575f6fb77d0af"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2026-2",
+   "path": "profesii/ccf/hotarare/2026/2",
+   "short": "Hotărârea CCF nr. 2/2026",
+   "title": "HOTĂRÂRE nr. 2 din 2 februarie 2026 pentru aprobarea Normelor privind realizarea de expertize fiscale judiciare și extrajudiciare de către consultanții fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307310",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307310",
+     "sha256": "2b5d51c6c0f1806ddc3caf433aeebdbeaa0b6f9f188ef9e9229fe4c243485fa7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2026-4",
+   "path": "profesii/ccf/hotarare/2026/4",
+   "short": "Hotărârea CCF nr. 4/2026",
+   "title": "HOTĂRÂRE nr. 4 din 2 martie 2026 privind înregistrarea în Registrul consultanților fiscali și al societăților de consultanță fiscală a persoanelor care au promovat examenul de consultant fiscal sau de consultant fiscal asistent și au depășit termenul prevăzut de lege pentru înscriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308060",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308060",
+     "sha256": "eb26628f142724894b354609756b7d4ae18f92a4eb364fdc7a02dabee8f60bb5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2026-7",
+   "path": "profesii/ccf/hotarare/2026/7",
+   "short": "Hotărârea CCF nr. 7/2026",
+   "title": "HOTĂRÂRE nr. 7 din 17 august 2026 privind ocuparea unui loc vacant de membru al Consiliului superior al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313578",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313578",
+     "sha256": "933d483cf26cab6d082e0fc231591fc1a0afaba163139a7440721fc3a4288e2f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2026-9",
+   "path": "profesii/ccf/hotarare/2026/9",
+   "short": "Hotărârea CCF nr. 9/2026",
+   "title": "HOTĂRÂRE nr. 9 din 1 septembrie 2026 privind ocuparea locului vacant de vicepreședinte al Consiliului superior al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313976",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313976",
+     "sha256": "cfd757ca21b6de143981d3bf99062b947830733fe26c6e018b5e01c054dbf856"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2026-6",
+   "path": "profesii/ccf/hotarare-conferinta/2026/6",
+   "short": "Hotărârea CCF nr. 6/2026",
+   "title": "HOTĂRÂRE nr. 6 din 21 aprilie 2026 privind aprobarea documentelor prezentate spre dezbatere în Conferința ordinară anuală a Camerei Consultanților Fiscali din 17 aprilie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309740",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309740",
+     "sha256": "467fc3be79b0570d544e5ba9d002376ccafc36f3f6788e544ab3de2577ed193d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2026-5",
+   "path": "profesii/ccf/hotarare-consiliu/2026/5",
+   "short": "Hotărârea CCF nr. 5/2026",
+   "title": "HOTĂRÂRE nr. 5 din 26 martie 2026 privind stabilirea modalității de organizare și susținere a examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea octombrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309070",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309070",
+     "sha256": "9bf11a628aba76d315773bc1d8a56c8056878096e3be4b00c17392ef6e7ce70e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2026-8",
+   "path": "profesii/ccf/hotarare-consiliu/2026/8",
+   "short": "Hotărârea CCF nr. 8/2026",
+   "title": "HOTĂRÂRE nr. 8 din 1 septembrie 2026 privind aprobarea domeniilor de examinare, a tematicii și bibliografiei corespunzătoare fiecărui domeniu pentru examenul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea octombrie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314088",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314088",
+     "sha256": "eff611e971f32d085a321f58041310919de59ae6f519b225f06a6f5497edf409"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2026-3",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2026/3",
+   "short": "Hotărârea CCF nr. 3/2026",
+   "title": "HOTĂRÂRE nr. 3 din 2 martie 2026 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308059",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308059",
+     "sha256": "71debcb465aaf816b619eef159dce97441ecee028fd95c8cccf984b94be57aec"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-adunare-generala-2026-4",
+   "path": "profesii/cfzro/hotarare-adunare-generala/2026/4",
+   "short": "Hotărârea CFZRO nr. 4/2026",
+   "title": "HOTĂRÂRE nr. 4 din 21 ianuarie 2026 privind modificarea și completarea anexei la Hotărârea Adunării generale naționale a Colegiului Fizioterapeuților din România nr. 6/2018 pentru adoptarea Codului deontologic al fizioterapeutului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306763",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306763",
+     "sha256": "d3e132c37f1ce98e01859c4cb973a76cf08c80cf4be2f9b1f54e867a74a9832c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-adunare-generala-2026-6",
+   "path": "profesii/cfzro/hotarare-adunare-generala/2026/6",
+   "short": "Hotărârea CFZRO nr. 6/2026",
+   "title": "HOTĂRÂRE nr. 6 din 21 ianuarie 2026 privind modificarea anexei la Hotărârea Adunării generale naționale a Colegiului Fizioterapeuților din România nr. 1/2018 pentru aprobarea însemnelor Colegiului Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306764",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306764",
+     "sha256": "26803e6c2cee711d94f700f7ce829891e8bd55236deb8bc5b0631f2100f64557"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-100",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/100",
+   "short": "Hotărârea CFZRO nr. 100/2026",
+   "title": "HOTĂRÂRE nr. 100 din 8 iulie 2026 pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România, pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 41/2018 privind eliberarea de duplicate ale autorizației de liberă practică eliberate de Colegiul Fizioterapeuților din România și pentru completarea Procedurii de avizare a cabinetelor de liberă practică pentru serviciile publice conexe actului medical de fizioterapie și a activităților de fizioterapie, aprobată prin Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 63/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312442",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312442",
+     "sha256": "5e198945b21426aeccaccce18e9e9fcfdc8c78fa02f59c1621122a0fe99e9e29"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-102",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/102",
+   "short": "Hotărârea CFZRO nr. 102/2026",
+   "title": "HOTĂRÂRE nr. 102 din 8 iulie 2026 privind modificarea și completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 93/2020 pentru aprobarea taxelor de acreditare și reacreditare a furnizorilor de educație medicală continuă și a taxelor de creditare a formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312443",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312443",
+     "sha256": "eded3cfc143feb3f9a07063e5f124e5261c69b6feff728daf5a42d4c7acb4b44"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-114",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/114",
+   "short": "Hotărârea CFZRO nr. 114/2026",
+   "title": "HOTĂRÂRE nr. 114 din 3 august 2026 pentru completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313401",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313401",
+     "sha256": "d96cb201e3304f00b6651c4b8d91c4941079d58894b0ec34889a96fa034f3f6d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-123",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/123",
+   "short": "Hotărârea CFZRO nr. 123/2026",
+   "title": "HOTĂRÂRE nr. 123 din 27 august 2026 pentru modificarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 82/2026 privind aprobarea Metodologiei de reatestare a competenței profesionale a fizioterapeuților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314417",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314417",
+     "sha256": "63c4fc4ae92e9e40fde0a4f9e110534e6cdfb1e96cf92fe3a8ef0d5949f5c518"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-143",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/143",
+   "short": "Hotărârea CFZRO nr. 143/2026",
+   "title": "HOTĂRÂRE nr. 143 din 26 septembrie 2026 privind modificarea și completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 36/2018 privind dobândirea calității de membru al Colegiului Fizioterapeuților din România și eliberarea autorizației de liberă practică pentru exercitarea profesiei de fizioterapeut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315113",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315113",
+     "sha256": "e4e32e610ac2f406f846ba51880f5bb476e52a056e958754ba5314c6bd7b8893"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-151",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/151",
+   "short": "Hotărârea CFZRO nr. 151/2026",
+   "title": "HOTĂRÂRE nr. 151 din 26 septembrie 2026 privind modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 93/2020 pentru aprobarea taxelor de acreditare și reacreditare a furnizorilor de educație medicală continuă și a taxelor de creditare a formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315114",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315114",
+     "sha256": "ae40d78d3d1b1ad9795790e39d41e8414ffe88e986bb7aa65b1cab243c62743c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-57",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/57",
+   "short": "Hotărârea CFZRO nr. 57/2026",
+   "title": "HOTĂRÂRE nr. 57 din 28 martie 2026 pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309503",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309503",
+     "sha256": "b98ddf138b1ba9ecb0b2dec60636d2a605d34a2e9a30afccd7e001300bb54dc8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-64",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/64",
+   "short": "Hotărârea CFZRO nr. 64/2026",
+   "title": "HOTĂRÂRE nr. 64 din 22 aprilie 2026 privind modificarea și completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310308",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310308",
+     "sha256": "1fc7efd13bda3782e6ea87d0802f44d12c70648550da42b78190ea332c9917cd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-65",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/65",
+   "short": "Hotărârea CFZRO nr. 65/2026",
+   "title": "HOTĂRÂRE nr. 65 din 22 aprilie 2026 privind modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 93/2020 pentru aprobarea taxelor de acreditare și reacreditare a furnizorilor de educație medicală continuă și a taxelor de creditare a formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310326",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310326",
+     "sha256": "011c5e4f36fa33ecaca611b6c2d038671abf36ed69462548874739f35ea09ce7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2026-82",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2026/82",
+   "short": "Hotărârea CFZRO nr. 82/2026",
+   "title": "HOTĂRÂRE nr. 82 din 17 iunie 2026 privind aprobarea Metodologiei de reatestare a competenței profesionale a fizioterapeuților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312124",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312124",
+     "sha256": "80839fe9eba1332d931aca36231a8fcdeaf65d9900cf7b072b8996f8ac9c5cf3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2026-10-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2026/10-2cn",
+   "short": "Decizia CMDR nr. 10/2CN/2026",
+   "title": "DECIZIE nr. 10/2CN din 9 octombrie 2026 privind stabilirea cuantumului taxelor pentru activitățile de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315727",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315727",
+     "sha256": "62cd215f09f7e3e61aacde965c5a52d6235befedad61e00535106f5ab459fe16"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2026-5-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2026/5-2cn",
+   "short": "Decizia CMDR nr. 5/2CN/2026",
+   "title": "DECIZIE nr. 5/2CN din 22 mai 2026 pentru abrogarea subpunctului 4 de la punctul III din anexa la Decizia Consiliului național al Colegiului Medicilor Stomatologi din România nr. 2/2CN/2025 privind conținutul minim al trusei de urgență pentru cabinetul stomatologic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311129",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311129",
+     "sha256": "d9f2e755522dda012bceaed61491554e17e3f55e6100c418fb121cb704585f9f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2026-7-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2026/7-2cn",
+   "short": "Decizia CMDR nr. 7/2CN/2026",
+   "title": "DECIZIE nr. 7/2CN din 9 octombrie 2026 privind stabilirea cuantumului taxei de evaluare profesională în vederea recunoașterii titlurilor de medic stomatolog specialist eliberate de un stat terț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315629",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315629",
+     "sha256": "fb33e09377ea00836eac52023bf1c29c0ef906c97a06559ab65bed950028c8b8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2026-9-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2026/9-2cn",
+   "short": "Decizia CMDR nr. 9/2CN/2026",
+   "title": "DECIZIE nr. 9/2CN din 9 octombrie 2026 privind reglementarea sistemului de educație medicală continuă pentru medicii stomatologi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315726",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315726",
+     "sha256": "2bb619db3b9d8eb3143640dc5023e3b68a51042999e229580203d19d28c0da8e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2026-14",
+   "path": "profesii/cmr/decizie/2026/14",
+   "short": "Decizia CMR nr. 14/2026",
+   "title": "DECIZIE nr. 14 din 20 martie 2026 privind modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 20/2025 privind condițiile de desfășurare a publicității de către cabinetele și unitățile medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310194",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310194",
+     "sha256": "6f1f213957f417f3f42a21a1a39a580773efe14948925af53c23ffb128fc3117"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2026-21",
+   "path": "profesii/cmr/decizie/2026/21",
+   "short": "Decizia CMR nr. 21/2026",
+   "title": "DECIZIE nr. 21 din 29 mai 2026 privind condițiile de desfășurare a publicității de către cabinetele și unitățile medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311308",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311308",
+     "sha256": "a34a13804e7a97004fe7c18d26420f7637d63c0ed5ec05223cf39b618164e4e8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-2026-3",
+   "path": "profesii/cmr/decizie-consiliu/2026/3",
+   "short": "Decizia CMR nr. 3/2026",
+   "title": "DECIZIE nr. 3 din 23 ianuarie 2026 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 22/2025 privind organizarea de noi alegeri la nivelul organelor de conducere ale Colegiului Medicilor Ilfov și aprobarea componenței Comisiei Electorale Centrale, precum și organizarea de noi alegeri pentru reprezentantul Colegiului Medicilor Ialomița în Consiliul național al Colegiului Medicilor din România și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306737",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306737",
+     "sha256": "fa322ad06d6dc06755d3acad81c129ad8281221c4e23ce7ecfc83ffd37761593"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2026-17",
+   "path": "profesii/cmr/decizie-consiliu-national/2026/17",
+   "short": "Decizia CMR nr. 17/2026",
+   "title": "DECIZIE nr. 17 din 21 aprilie 2026 privind abrogarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 12/2021 pentru aprobarea Regulamentului privind desfășurarea anchetei disciplinare la nivelul colegiilor teritoriale și, respectiv, al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310033",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310033",
+     "sha256": "5b63dbd954107c2abecfbba3a99e465d27754036e16484e8d4e019bc30d69872"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2026-4",
+   "path": "profesii/cmr/decizie-consiliu-national/2026/4",
+   "short": "Decizia CMR nr. 4/2026",
+   "title": "DECIZIE nr. 4 din 23 ianuarie 2026 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 25/2025 privind eliberarea certificatului de membru al Colegiului Medicilor din România și stabilirea procedurii de verificare și atestare a nivelului profesional al medicilor care au întrerupt exercitarea profesiei ori s-au aflat într-o situație de incompatibilitate pe o perioadă mai mare de 5 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306738",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306738",
+     "sha256": "04579a54aba64732944899d3c61118bc962267a0cbe1ab6a4a6d42ce4e71c2b4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-hotarare-2026-2",
+   "path": "profesii/cmr/hotarare/2026/2",
+   "short": "Hotărârea CMR nr. 2/2026",
+   "title": "HOTĂRÂRE nr. 2 din 27 martie 2026 pentru modificarea și completarea Statutului Colegiului Medicilor din România, adoptat prin Hotărârea Adunării generale naționale a Colegiului Medicilor din România nr. 1/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309112",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309112",
+     "sha256": "1391bed32438ffacee47b5d0b5fcf5deed586121ed5c96278d60f2de45779419"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-hotarare-2026-3",
+   "path": "profesii/cmr/hotarare/2026/3",
+   "short": "Hotărârea CMR nr. 3/2026",
+   "title": "HOTĂRÂRE nr. 3 din 27 martie 2026 pentru modificarea Codului de deontologie medicală al Colegiului Medicilor din România, adoptat prin Hotărârea Adunării generale naționale a Colegiului Medicilor din România nr. 2/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309113",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309113",
+     "sha256": "a5a388665cdd69564e75db84613a733f9a51e6ad3ea9cb280b191e15120d69b4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2026-141",
+   "path": "profesii/csm/hotarare-plen/2026/141",
+   "short": "Hotărârea CSM nr. 141/2026",
+   "title": "HOTĂRÂRE nr. 141 din 22 octombrie 2026 pentru modificarea Regulamentului Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 92/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315848",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315848",
+     "sha256": "c15335824769345e7ffaa93ad1e4a3d34a2db3fd2cdc9c621e0461a1c6ac3ed4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2026-53",
+   "path": "profesii/csm/hotarare-plen/2026/53",
+   "short": "Hotărârea CSM nr. 53/2026",
+   "title": "HOTĂRÂRE nr. 53 din 16 aprilie 2026 pentru modificarea și completarea Hotărârii Plenului Consiliului Superior al Magistraturii nr. 184/2007 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de grefieri informaticieni din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310002",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310002",
+     "sha256": "3c6652b3652be43f8b8c07778a0b9a375a3863f24e1d86dcd74313a68a1fbab5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-judecatori-2026-1223",
+   "path": "profesii/csm/hotarare-sectia-judecatori/2026/1223",
+   "short": "Hotărârea CSM nr. 1223/2026",
+   "title": "HOTĂRÂRE nr. 1.223 din 19 mai 2026 pentru modificarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Secției pentru judecători a Consiliului Superior al Magistraturii nr. 3.243/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314101",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314101",
+     "sha256": "3adf0cb53c0d730a658cc86b67e4a00eb3fbb1b186656523845f753a67f50884"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-judecatori-2026-1961",
+   "path": "profesii/csm/hotarare-sectia-judecatori/2026/1961",
+   "short": "Hotărârea CSM nr. 1961/2026",
+   "title": "HOTĂRÂRE nr. 1.961 din 15 octombrie 2026 pentru completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Secției pentru judecători a Consiliului Superior al Magistraturii nr. 3.243/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315269",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315269",
+     "sha256": "441ced20dba5b4090fa7750b5c625d1fdadec677a2be52b1c38a4beeb6590e00"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-judecatori-2026-950",
+   "path": "profesii/csm/hotarare-sectia-judecatori/2026/950",
+   "short": "Hotărârea CSM nr. 950/2026",
+   "title": "HOTĂRÂRE nr. 950 din 7 mai 2026 pentru modificarea și completarea Regulamentului de organizare a activității judecătorului de supraveghere a privării de libertate, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 89/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310504",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310504",
+     "sha256": "49655a44852da669d3d21598bff76575c2ce203988526c8ad431313f56382a50"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-procurori-2026-479",
+   "path": "profesii/csm/hotarare-sectia-procurori/2026/479",
+   "short": "Hotărârea CSM nr. 479/2026",
+   "title": "HOTĂRÂRE nr. 479 din 23 iunie 2026 pentru modificarea Regulamentului privind numirea procurorilor în funcții de execuție la Direcția Națională Anticorupție și revocarea din aceste funcții, aprobat prin Hotărârea Secției pentru procurori a Consiliului Superior al Magistraturii nr. 1.107/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311862",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311862",
+     "sha256": "6d676dd0691b26237881ddf19242bc94d79da325a4f5b41120161f0c187d11b4"
+    }
+   ]
+  },
+  {
    "slug": "profesii-inppa-decizie-director-2026-25",
    "path": "profesii/inppa/decizie-director/2026/25",
    "short": "INPPA decizie-director 25/2026",
@@ -29,6 +839,201 @@
      "units": 1,
      "source_url": "https://inppa.ro/decizia-directorului-inppa-nr-35-22-09-2026-privind-stabilirea-intervalului-si-conditiilor-de-sustinere-a-testarii-scrise-prevazute-de-art-49-alin-7-si-8-al-regulamentului-de-organizare-si-func/",
      "sha256": "81fa40e0dc18328c3553d7b1425d9cb00d4f3f97dea22f9d174748f2e29706f7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2026-13",
+   "path": "profesii/oamgmamr/hotarare/2026/13",
+   "short": "Hotărârea OAMGMAMR nr. 13/2026",
+   "title": "HOTĂRÂRE nr. 13 din 17 martie 2026 pentru modificarea Statutului Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308957",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308957",
+     "sha256": "0081aea68db22801de6c5566dc81be78be777fa00c9a829b2d507ee8de18c947"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2026-14",
+   "path": "profesii/oamgmamr/hotarare/2026/14",
+   "short": "Hotărârea OAMGMAMR nr. 14/2026",
+   "title": "HOTĂRÂRE nr. 14 din 17 martie 2026 pentru modificarea Regulamentului de organizare și funcționare al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 3/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308958",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308958",
+     "sha256": "38613397fda511937b530f6438d43115bc4397950ddd9c2c11e22808ca1d6270"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2026-18",
+   "path": "profesii/oamgmamr/hotarare/2026/18",
+   "short": "Hotărârea OAMGMAMR nr. 18/2026",
+   "title": "HOTĂRÂRE nr. 18 din 17 martie 2026 pentru modificarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 31/2017 privind stabilirea cuantumului cotizației de membru, respectiv cotizației de membru asociat al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România și a unor taxe încasate de Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308959",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308959",
+     "sha256": "2f7edbf4c66c8097df3571fb053fd800bb7c51c5ff8680e23eaac17d4d9685e3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2026-19",
+   "path": "profesii/oamgmamr/hotarare/2026/19",
+   "short": "Hotărârea OAMGMAMR nr. 19/2026",
+   "title": "HOTĂRÂRE nr. 19 din 17 martie 2026 pentru modificarea Procedurii de suspendare și de retragere a calității de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 29/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308960",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308960",
+     "sha256": "723da35849470f832aa05682ea41b54bf8e71b259824a3c1b136c9f2b6916cbb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2026-25",
+   "path": "profesii/oamgmamr/hotarare/2026/25",
+   "short": "Hotărârea OAMGMAMR nr. 25/2026",
+   "title": "HOTĂRÂRE nr. 25 din 7 aprilie 2026 privind completarea Normelor de creditare a formelor de educație medicală continuă, aprobate prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 10/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309532",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309532",
+     "sha256": "21bc3bdfc1311ffa8f23d700e78b76c3e6d56259a1d6af4e48464f940124f99e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2026-27",
+   "path": "profesii/oamgmamr/hotarare/2026/27",
+   "short": "Hotărârea OAMGMAMR nr. 27/2026",
+   "title": "HOTĂRÂRE nr. 27 din 21 iulie 2026 pentru aprobarea unor măsuri de actualizare și eficientizare a activităților de înregistrare și autorizare în profesie desfășurate de către Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România în calitate de autoritate competentă de control și supraveghere a exercitării profesiilor membrilor și membrilor săi asociați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313077",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313077",
+     "sha256": "493804267687a832494c3d8aab6168467105f82536d70acfc0918f671591d6c3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2026-28",
+   "path": "profesii/oamgmamr/hotarare/2026/28",
+   "short": "Hotărârea OAMGMAMR nr. 28/2026",
+   "title": "HOTĂRÂRE nr. 28 din 21 iulie 2026 pentru modificarea anexelor nr. 3 și 4 la Statutul Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313154",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313154",
+     "sha256": "ba08dec513da99a1f51d49d044f8dda36b6921a9b3aca83864cb6c6ebd1a5c19"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2026-35",
+   "path": "profesii/oamgmamr/hotarare/2026/35",
+   "short": "Hotărârea OAMGMAMR nr. 35/2026",
+   "title": "HOTĂRÂRE nr. 35 din 23 octombrie 2026 privind suspendarea aplicării Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 28/2026 pentru modificarea anexelor nr. 3 și 4 la Statutul Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315833",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315833",
+     "sha256": "9bbcef3859195985247b9a0a4e911f53d9af62fc9ba8e5bc4bec74ca52017256"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2026-37",
+   "path": "profesii/oamgmamr/hotarare/2026/37",
+   "short": "Hotărârea OAMGMAMR nr. 37/2026",
+   "title": "HOTĂRÂRE nr. 37 din 23 octombrie 2026 pentru completarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 4/2020 pentru aprobarea structurii și a informațiilor din Registrul național unic al asistenților medicali generaliști, moașelor și asistenților medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315834",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315834",
+     "sha256": "647fb086f647cc5c506de5615dc207e91aa30e032b670301c88516428da47b61"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-hotarare-conferinta-2026-815",
+   "path": "profesii/oar/hotarare-conferinta/2026/815",
+   "short": "Hotărârea OAR nr. 815/2026",
+   "title": "HOTĂRÂRE nr. 815 din 21 iunie 2026 privind alegerea președintelui Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312191",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312191",
+     "sha256": "ec32ddddeb153dfe108d1a09bf6abb78abb7941f18077e8dbd522228738978d2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-hotarare-conferinta-2026-816",
+   "path": "profesii/oar/hotarare-conferinta/2026/816",
+   "short": "Hotărârea OAR nr. 816/2026",
+   "title": "HOTĂRÂRE nr. 816 din 21 iunie 2026 privind alegerea membrilor Consiliului național al Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312192",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312192",
+     "sha256": "7d678a51a0d96831f7f64502aaeab6f512e99794d3600d3450a97d1ded9e2e2d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-hotarare-conferinta-2026-817",
+   "path": "profesii/oar/hotarare-conferinta/2026/817",
+   "short": "Hotărârea OAR nr. 817/2026",
+   "title": "HOTĂRÂRE nr. 817 din 21 iunie 2026 privind alegerea membrilor Comisiei naționale de disciplină a Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312193",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312193",
+     "sha256": "04a26042cf0592edfd4a2d7d0c51f10cbdd0134d9a599c0a4bae3bc0fe1b362f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-hotarare-conferinta-2026-818",
+   "path": "profesii/oar/hotarare-conferinta/2026/818",
+   "short": "Hotărârea OAR nr. 818/2026",
+   "title": "HOTĂRÂRE nr. 818 din 21 iunie 2026 privind alegerea membrilor Comisiei de cenzori a Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312194",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312194",
+     "sha256": "ce756d199ab9844d69165c85ed38244b0dc0819cb6c3f5545ed81f53afd49011"
     }
    ]
   },
@@ -419,6 +1424,66 @@
      "units": 1,
      "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-343-din-04-05-septembrie-2026-prin-care-se-aproba-procedura-de-control-a-organismului-de-autoreglementare-unbr-in-aplicarea-legii-nr-129-2019-pentru-prevenirea-si-comba/",
      "sha256": "3147e91620cb64255c8ccb4e9f4af311b7b7ffae62134af857ad7c939ca08bfa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-consiliu-2026-16",
+   "path": "profesii/unej/hotarare-consiliu/2026/16",
+   "short": "Hotărârea UNEJ nr. 16/2026",
+   "title": "HOTĂRÂRE nr. 16 din 2 aprilie 2026 privind aprobarea publicării Tabloului executorilor judecătorești pe anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310477",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310477",
+     "sha256": "a1b9f3c131adaa1e51493e68068b9d56f526a5a28c055819a3939eeaf7386fc6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-consiliu-2026-104",
+   "path": "profesii/unnpr/hotarare-consiliu/2026/104",
+   "short": "Hotărârea UNNPR nr. 104/2026",
+   "title": "HOTĂRÂRE nr. 104 din 12 iunie 2026 privind modificarea și completarea Statutului Institutului Notarial Român, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 58/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312082",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312082",
+     "sha256": "e97b8a455eff3bb2da753bbec5a0c5e94b0970b9c9f127580ba52b3f297a6a3d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-consiliu-2026-92",
+   "path": "profesii/unnpr/hotarare-consiliu/2026/92",
+   "short": "Hotărârea UNNPR nr. 92/2026",
+   "title": "HOTĂRÂRE nr. 92 din 12 iunie 2026 privind aprobarea Regulamentului de organizare și funcționare al Consiliului de disciplină din cadrul Uniunii Naționale a Notarilor Publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312253",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312253",
+     "sha256": "b4c90dbbe5b609c7c63650e2343cad9c94d7cdf886034b147f587fa902edfaa9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2026-3",
+   "path": "profesii/unpir/hotarare/2026/3",
+   "short": "Hotărârea UNPIR nr. 3/2026",
+   "title": "HOTĂRÂRE nr. 3 din 8 mai 2026 pentru modificarea și completarea Hotărârii Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311198",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311198",
+     "sha256": "c0acdc46b7757f2fb1381f06bfa826e7b4bdfd491b431aaacc627aa3470107a4"
     }
    ]
   }

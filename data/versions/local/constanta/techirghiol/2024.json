@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/techirghiol/2024",
+ "acts": [
+  {
+   "slug": "hcl-constanta--techirghiol-194-2024",
+   "path": "local/constanta/techirghiol/2024/194",
+   "short": "HCL Techirghiol nr. 194/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 194/2024 privind stabilirea impozitelor si taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183281",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-195-2024",
+   "path": "local/constanta/techirghiol/2024/195",
+   "short": "HCL Techirghiol nr. 195/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 195/2024 privind acordarea unei reduceri procentuale de 20% la plata impozitului pe cladiri si a impozitului pe teren pentru persoanele fizice care fac dovada a cel putin trei donari de sange in cursul unui an calendaristic",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183282",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-197-2024",
+   "path": "local/constanta/techirghiol/2024/197",
+   "short": "HCL Techirghiol nr. 197/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 197/2024 privind aprobarea acordarii de facilitati fiscale la plata accesoriilor aferente obligatiilor bugetare principale : taxe si impozite locale, concesiuni(redevente), chirii restante - anulare accesorii",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183284",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-202-2024",
+   "path": "local/constanta/techirghiol/2024/202",
+   "short": "HCL Techirghiol nr. 202/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 202/2024 privind delegarea gestiunii prin concesiune a Serviciului public pentru gestionarea câinilor fără stăpân pe raza UAT Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183289",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--techirghiol-217-2024",
+   "path": "local/constanta/techirghiol/2024/217",
+   "short": "HCL Techirghiol nr. 217/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 217/2024 privind modificarea și completarea Hotărârii de Consiliu Local nr. 58/2023 privind aprobarea Regulamentului pentru stabilirea normelor de bună gospodărire pe teritoriul Orașului Techirghiol",
+   "url": "https://emol.ro/techirghiol-ct/registru-hcl/183304",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/techirghiol-ct/registru-hcl/183304",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

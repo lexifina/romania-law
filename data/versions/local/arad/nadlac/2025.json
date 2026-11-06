@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-11-2025",
+   "path": "local/arad/nadlac/2025/11",
+   "short": "HCL Nădlac nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2025 privind reorganizarea Comisiei locale de ordine publică la nivelul orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h11.pdf",
+     "sha256": "8d83714df6cb39ae26bc0361007fb0c409a235f57f9c868722988227f3aeb8da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-50-2025",
+   "path": "local/arad/nadlac/2025/50",
+   "short": "HCL Nădlac nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 50/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 5,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2025/h50.pdf",
+     "sha256": "59fa54a44baabc494bf1be880417ae4765b034afce589327261b8568d5b58a4d"
+    }
+   ]
+  }
+ ]
+}

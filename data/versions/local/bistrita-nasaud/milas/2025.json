@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/milas/2025",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--milas-32-2025",
+   "path": "local/bistrita-nasaud/milas/2025/32",
+   "short": "HCL Milaș nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 32/2025 privind avizarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport, stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale, inclusiv deșeuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul și Operarea Centrului de Mana",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.32_29.09.2025.pdf",
+     "sha256": "44350c9ced93ed6ab66dbd27cb422f004916f41449190708b24d073676005b9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-34-2025",
+   "path": "local/bistrita-nasaud/milas/2025/34",
+   "short": "HCL Milaș nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 34/2025 pentru aprobarea Regulamentului privind stabilirea unor măsuri edilitar-gospodărești, administrarea fondului locativ public și privat și alte măsuri",
+   "url": "https://comunamilas.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.34_29.09.2025_regulament.pdf",
+     "sha256": "548c5dbb01a60f7baa2a0a977ffa751db1392fcd6a009358c48a6979b2c2a40a"
+    }
+   ]
+  }
+ ]
+}

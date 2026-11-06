@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/constanta/eforie/2024",
+"acts": [
+{
+"slug": "hcl-constanta--eforie-322-2024",
+"path": "local/constanta/eforie/2024/322",
+"kind": "local",
+"year": "2024",
+"number": "322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 322/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+"short": "HCL Eforie nr. 322/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-17",
+"latest": "2025-01-17",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/181089",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--eforie-324-2024",
+"path": "local/constanta/eforie/2024/324",
+"kind": "local",
+"year": "2024",
+"number": "324",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 324/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+"short": "HCL Eforie nr. 324/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-17",
+"latest": "2025-01-17",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/181091",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--eforie-326-2024",
+"path": "local/constanta/eforie/2024/326",
+"kind": "local",
+"year": "2024",
+"number": "326",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 326/2024 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Eforie",
+"short": "HCL Eforie nr. 326/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/183201",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--eforie-327-2024",
+"path": "local/constanta/eforie/2024/327",
+"kind": "local",
+"year": "2024",
+"number": "327",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 327/2024 privind stabilirea nivelurilor impozitelor și taxelor locale aplicabile în orașul Eforie pentru anul fiscal 2025",
+"short": "HCL Eforie nr. 327/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/186227",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--eforie-329-2024",
+"path": "local/constanta/eforie/2024/329",
+"kind": "local",
+"year": "2024",
+"number": "329",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 329/2024 privind aprobarea Regulamentului de instituire si administrare a taxei de salubrizare pentru utilizatoriii serviciului de salubrizare de pe raza UAT Eforie",
+"short": "HCL Eforie nr. 329/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/186229",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--eforie-330-2024",
+"path": "local/constanta/eforie/2024/330",
+"kind": "local",
+"year": "2024",
+"number": "330",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 330/2024 privind aprobarea taxelor de salubrizare pentru utilizatoriii serviciului de salubrizare de pe raza UAT Eforie",
+"short": "HCL Eforie nr. 330/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/186230",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--eforie-353-2024",
+"path": "local/constanta/eforie/2024/353",
+"kind": "local",
+"year": "2024",
+"number": "353",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 353/2024 privind aprobare modificare trama stradala bd. Zorilor-Eforie Sud",
+"short": "HCL Eforie nr. 353/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/186253",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--eforie-354-2024",
+"path": "local/constanta/eforie/2024/354",
+"kind": "local",
+"year": "2024",
+"number": "354",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 354/2024 privind aprobarea intocmirii documentatiilor pentru extindere retele de utilitati publice pe bd. Zorilor si str. Munteniei",
+"short": "HCL Eforie nr. 354/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/186254",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--eforie-358-2024",
+"path": "local/constanta/eforie/2024/358",
+"kind": "local",
+"year": "2024",
+"number": "358",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 358/2024 privind modificarea statului de funcții al aparatului de specialitate a primarului oraș Eforie aprobat prin HCL nr 285 / 30.09.2024",
+"short": "HCL Eforie nr. 358/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/186258",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

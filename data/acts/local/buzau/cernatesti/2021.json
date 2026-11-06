@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/cernatesti/2021",
+"acts": [
+{
+"slug": "hcl-buzau--cernatesti-5-2021",
+"path": "local/buzau/cernatesti/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernătești nr. 5/2021 privind interzicerea arderii resturilor vegetale, a miriştilor, a păşunilor şi fâneţelor, gunoaielor, deşeurilor şi a altor materiale combustibile, fără obţinerea permisului de lucru cu foc ş",
+"short": "HCL Cernătești nr. 5/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-03-28",
+"latest": "2021-03-28",
+"portal": "https://cernatesti.ro/hotarari-ale-consiliului/",
+"council": "buzau/cernatesti",
+"council_name": "Consiliul Local al Comunei Cernătești",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

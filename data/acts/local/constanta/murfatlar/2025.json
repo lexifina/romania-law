@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/murfatlar/2025",
+"acts": [
+{
+"slug": "hcl-constanta--murfatlar-165-2025",
+"path": "local/constanta/murfatlar/2025/165",
+"kind": "local",
+"year": "2025",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murfatlar nr. 165/2025 privind aprobarea bugetului local rectificat, a bugetului de credite interne și a listei de investiții pe anul 2025",
+"short": "HCL Murfatlar nr. 165/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/murfatlar-ct/registru-hcl/244442",
+"council": "constanta/murfatlar",
+"council_name": "Consiliul Local al Orașului Murfatlar",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

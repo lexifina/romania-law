@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/botosani/bucecea/2026",
+"acts": [
+{
+"slug": "hcl-botosani--bucecea-94-2026",
+"path": "local/botosani/bucecea/2026/94",
+"kind": "local",
+"year": "2026",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 94/2026",
+"short": "HCL Bucecea nr. 94/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/295320",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-100-2026",
+"path": "local/botosani/bucecea/2026/100",
+"kind": "local",
+"year": "2026",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 100/2026 privind aprobarea procedurii de acordare a înlesnirii la plată sub forma scutirii unei cote de 75% din majorările de întârziere aferente obligațiilor fiscale restante datorate bugetului local al orașului Bucecea de către persoanele fizice",
+"short": "HCL Bucecea nr. 100/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/297837",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-107-2026",
+"path": "local/botosani/bucecea/2026/107",
+"kind": "local",
+"year": "2026",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 107/2026 privind aprobarea unor cheltuieli cu prilejul sărbătorilor de iarnă din anul 2026",
+"short": "HCL Bucecea nr. 107/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/297844",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

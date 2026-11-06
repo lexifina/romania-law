@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/novaci/2024",
+ "acts": [
+  {
+   "slug": "hcl-gorj--novaci-123-2024",
+   "path": "local/gorj/novaci/2024/123",
+   "short": "HCL Novaci nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Novaci nr. 123/2024 privind aprobarea indexarii impozitelor si taxelor locale pe anul 2025",
+   "url": "https://emol.ro/novaci-gj/registru-hcl/183363",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/novaci-gj/registru-hcl/183363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--novaci-124-2024",
+   "path": "local/gorj/novaci/2024/124",
+   "short": "HCL Novaci nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Novaci nr. 124/2024 privind stabilirea taxelor si impozitelor locale, precum si a taxelor speciale pentru anul 2025",
+   "url": "https://emol.ro/novaci-gj/registru-hcl/183364",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/novaci-gj/registru-hcl/183364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--novaci-98-2024",
+   "path": "local/gorj/novaci/2024/98",
+   "short": "HCL Novaci nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Novaci nr. 98/2024 privind stabilirea locului desfasurarii sedintelor de Consiliul local al orasului Novaci pana la finalizarea obiectivul de investitie ,, Modernizare, reablitare si dotare Casa de Cultura Oraseneasca, str. Parangului, oras Novaci, judetul Gorj”",
+   "url": "https://emol.ro/novaci-gj/registru-hcl/175366",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/novaci-gj/registru-hcl/175366",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

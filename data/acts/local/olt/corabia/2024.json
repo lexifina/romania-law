@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/olt/corabia/2024",
+"acts": [
+{
+"slug": "hcl-olt--corabia-98-2024",
+"path": "local/olt/corabia/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Corabia nr. 98/2024 privind aprobarea Regulamentului pentru stabilirea Normelor de bună gospodărire pe teritoriul administrativ al orașului Corabia",
+"short": "HCL Corabia nr. 98/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-23",
+"latest": "2024-10-23",
+"portal": "https://emol.ro/corabia-ot/registru-hcl/173635",
+"council": "olt/corabia",
+"council_name": "Consiliul Local al Orașului Corabia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--corabia-109-2024",
+"path": "local/olt/corabia/2024/109",
+"kind": "local",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Corabia nr. 109/2024 privind aprobarea sumelor indexate reprezentând impozitul pe mijloacele de transport prevăzute de art.470 alin.(5) și (6) din Legea nr. 227/2015,privind Codul fiscal,cu modificările și completările ulterioare, pentru anul 2025",
+"short": "HCL Corabia nr. 109/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/corabia-ot/registru-hcl/179526",
+"council": "olt/corabia",
+"council_name": "Consiliul Local al Orașului Corabia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

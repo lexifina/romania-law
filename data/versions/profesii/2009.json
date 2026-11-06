@@ -3,6 +3,651 @@
  "shard": "profesii/2009",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2009-137",
+   "path": "profesii/cafr/hotarare/2009/137",
+   "short": "Hotărârea CAFR nr. 137/2009",
+   "title": "HOTĂRÂRE nr. 137 din 24 martie 2009 pentru modificarea art. 57 din Normele privind perioada de pregătire profesională practică a stagiarilor în activitatea de audit financiar, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 115/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104641",
+   "versions": [
+    {
+     "from": "2009-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104641",
+     "sha256": "67d4d1fba521863e92ba4e15735892f00c0ec586fc300289404188ea62798f80"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2009-144",
+   "path": "profesii/cafr/hotarare/2009/144",
+   "short": "Hotărârea CAFR nr. 144/2009",
+   "title": "HOTĂRÂRE nr. 144 din 23 iunie 2009 privind atribuirea calității și a dreptului de exercitare a profesiei de auditor financiar pentru persoanele care posedă o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109368",
+   "versions": [
+    {
+     "from": "2009-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109368",
+     "sha256": "f605d71d8824032768b97e15debb496100e9aa42a7279d18b9e3569a74a2eaac"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2009-145",
+   "path": "profesii/cafr/hotarare/2009/145",
+   "short": "Hotărârea CAFR nr. 145/2009",
+   "title": "HOTĂRÂRE nr. 145 din 27 iunie 2009 cu privire la aprobarea documentelor prezentate spre dezbatere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109369",
+   "versions": [
+    {
+     "from": "2009-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109369",
+     "sha256": "36e4654ff5c484d994d4b892590dd8479db45edd5a2fd7a97f2fe8e87ff9a1d6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2009-139",
+   "path": "profesii/cafr/hotarare-consiliu/2009/139",
+   "short": "Hotărârea CAFR nr. 139/2009",
+   "title": "HOTĂRÂRE nr. 139 din 24 martie 2009 pentru aprobarea Normelor privind controlul calității activității de audit financiar și a serviciilor conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105578",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105578",
+     "sha256": "344d96cf3a930d30c0a95c6b86952307a15acfcb5b6a74062bdfd92c79dcb078"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2009-140",
+   "path": "profesii/cafr/hotarare-consiliu/2009/140",
+   "short": "Hotărârea CAFR nr. 140/2009",
+   "title": "HOTĂRÂRE nr. 140 din 14 aprilie 2009 privind aprobarea cotizațiilor și tarifelor pentru membrii Camerei Auditorilor Financiari din România și pentru stagiarii în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105586",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105586",
+     "sha256": "6a27c487831f91504a29d7f55ccb94e5abe465e2167e6f54fc5ead28797121c4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2009-146",
+   "path": "profesii/cafr/hotarare-consiliu/2009/146",
+   "short": "Hotărârea CAFR nr. 146/2009",
+   "title": "HOTĂRÂRE nr. 146 din 23 iunie 2009 privind aprobarea modelului Notei de inspecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111265",
+   "versions": [
+    {
+     "from": "2009-09-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111265",
+     "sha256": "4e7662968041ece947b8ebcc23df17229ffb91e8479e02fe5af3c4acf6ff275b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2009-10",
+   "path": "profesii/ccf/hotarare/2009/10",
+   "short": "Hotărârea CCF nr. 10/2009",
+   "title": "HOTĂRÂRE nr. 10 din 12 mai 2009 privind ocuparea a două locuri vacante de vicepreședinți ai Consiliului superior al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106111",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106111",
+     "sha256": "7fbb29a33407661af1dc423c1d21be4017d965a17a64c0720ec5ab4766d0ef22"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2009-2",
+   "path": "profesii/ccf/hotarare/2009/2",
+   "short": "Hotărârea CCF nr. 2/2009",
+   "title": "HOTĂRÂRE nr. 2 din 15 ianuarie 2009 privind aprobarea nivelului taxei de înscriere la examenul de atribuire a calității de consultant fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101977",
+   "versions": [
+    {
+     "from": "2009-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101977",
+     "sha256": "0b49b1caab8caae29aa6a14c9578a7a79e8c6a164dd4685d645edc6ddd3452d4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2009-4",
+   "path": "profesii/ccf/hotarare/2009/4",
+   "short": "Hotărârea CCF nr. 4/2009",
+   "title": "HOTĂRÂRE nr. 4 din 11 februarie 2009 privind susținerea examenului pentru atribuirea calității de consultant fiscal - sesiunea martie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102395",
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102395",
+     "sha256": "6bd24d16a785941db7aff33668124e11b7d8da1b102dc52dc4bb6c546ec72ac6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2009-6",
+   "path": "profesii/ccf/hotarare/2009/6",
+   "short": "Hotărârea CCF nr. 6/2009",
+   "title": "HOTĂRÂRE nr. 6 din 19 februarie 2009 privind aprobarea Programului de pregătire profesională continuă aferent anului 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103100",
+   "versions": [
+    {
+     "from": "2009-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103100",
+     "sha256": "c7671ad4220e51b9018d015d3483ecc92a19ded7dc43df85f4e93152a9fe3230"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2009-8",
+   "path": "profesii/ccf/hotarare-conferinta/2009/8",
+   "short": "Hotărârea CCF nr. 8/2009",
+   "title": "HOTĂRÂRE nr. 8 din 8 mai 2009 privind aprobarea documentelor prezentate spre dezbatere în Conferința națională a Camerei Consultanților Fiscali din 2 mai 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105950",
+   "versions": [
+    {
+     "from": "2009-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105950",
+     "sha256": "148b9f3b590e67f0ad66400b5b6f473b0f89819097b856106834e5f0819f6301"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2009-11",
+   "path": "profesii/ccf/hotarare-consiliu/2009/11",
+   "short": "Hotărârea CCF nr. 11/2009",
+   "title": "HOTĂRÂRE nr. 11 din 7 septembrie 2009 privind susținerea examenului pentru atribuirea calității de consultant fiscal - sesiunea octombrie 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111184",
+   "versions": [
+    {
+     "from": "2009-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111184",
+     "sha256": "8630588ad04625c055de7bc9954fb83c0233c1afd62d4055624ba27275452b87"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2009-3",
+   "path": "profesii/ccf/hotarare-consiliu/2009/3",
+   "short": "Hotărârea CCF nr. 3/2009",
+   "title": "HOTĂRÂRE nr. 3 din 15 ianuarie 2009 privind modalitatea și termenele de plată a cotizațiilor fixe în anul 2009 și a cotizațiilor variabile datorate de consultanții fiscali pentru veniturile realizate în anul 2008 și depunerea declarațiilor în anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101984",
+   "versions": [
+    {
+     "from": "2009-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101984",
+     "sha256": "66e4151d145fb61e713ae07aae06669e00d47a7f646a6fcdfe6cc2614486e240"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2009-5",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2009/5",
+   "short": "Hotărârea CCF nr. 5/2009",
+   "title": "HOTĂRÂRE nr. 5 din 16 februarie 2009 pentru modificarea Normelor privind pregătirea profesională continuă a consultanților fiscali, aprobate prin Hotărârea Camerei Consultanților Fiscali nr. 7/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103092",
+   "versions": [
+    {
+     "from": "2009-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103092",
+     "sha256": "cb81e9f0822f12d5026e156c782851053365b4636da7a06af051c78db4e7ef67"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2009-144",
+   "path": "profesii/ceccar/hotarare/2009/144",
+   "short": "Hotărârea CECCAR nr. 144/2009",
+   "title": "HOTĂRÂRE nr. 09/144 din 12 ianuarie 2009 pentru aprobarea Regulamentului privind stabilirea criteriilor și modalităților pentru determinarea onorariilor, indemnizațiilor și compensațiilor cuvenite experților contabili și contabililor autorizați, precum și societăților de profil, membri ai Corpului Experților Contabili și Contabililor Autorizați din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102335",
+   "versions": [
+    {
+     "from": "2009-02-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102335",
+     "sha256": "f6b6259a12418180c2d5205e4efee7deca1c05b3e4ec33f9b9d90aea8a9741d9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2009-180",
+   "path": "profesii/ceccar/hotarare/2009/180",
+   "short": "Hotărârea CECCAR nr. 180/2009",
+   "title": "HOTĂRÂRE nr. 180 din 24 iulie 2009 pentru modificarea Regulamentului privind auditul de calitate în domeniul serviciilor contabile, aprobat prin Hotărârea Consiliului superior al Corpului Experților Contabili și Contabililor Autorizați din România nr. 08/91/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114363",
+   "versions": [
+    {
+     "from": "2009-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114363",
+     "sha256": "b930fa7b8da7413cc2a3f5e4cfa4ddb44f411c397af0d8107186c1f9719ef3d0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2009-64",
+   "path": "profesii/ceccar/hotarare/2009/64",
+   "short": "Hotărârea CECCAR nr. 64/2009",
+   "title": "HOTĂRÂRE nr. 09/64 din 14 martie 2009 privind modificarea Regulamentului de organizare și funcționare a comisiilor de disciplină de pe lângă consiliile filialelor și Consiliul Superior al Corpului Experților Contabili și Contabililor Autorizați din România, aprobat prin Hotărârea Conferinței naționale nr. 07/58/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104789",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104789",
+     "sha256": "8c2d5f401455e2654b5a86f9b50f385c756486591fccbe9a11f5beaae221d30c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-2009-2",
+   "path": "profesii/cfr/decizie/2009/2",
+   "short": "Decizia CFR nr. 2/2009",
+   "title": "DECIZIE nr. 2 din 15 iunie 2009 privind aprobarea Statutului Colegiului Farmaciștilor din România și a Codului deontologic al farmacistului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109597",
+   "versions": [
+    {
+     "from": "2009-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109597",
+     "sha256": "d857653f8c0048669de3a8148df4689c824f28df9fdade80c3ec4ad1400177e3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2009-12",
+   "path": "profesii/cmdr/decizie/2009/12",
+   "short": "Decizia CMDR nr. 12/2009",
+   "title": "DECIZIE nr. 12 din 11 aprilie 2009 privind modificarea Deciziei Consiliului Național al Colegiului Medicilor Dentiști din România nr. 5/2008 pentru adoptarea Regulamentului de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105384",
+   "versions": [
+    {
+     "from": "2009-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105384",
+     "sha256": "49bc7c540b04a6d0cab7f15b7c401792752bccc74a3dc417a7b18f416fd8c000"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2009-36",
+   "path": "profesii/cmdr/decizie/2009/36",
+   "short": "Decizia CMDR nr. 36/2009",
+   "title": "DECIZIE nr. 36 din 26 septembrie 2009 privind stabilirea formei, dimensiunilor și a conținutului firmei cabinetelor medico-dentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112565",
+   "versions": [
+    {
+     "from": "2009-10-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112565",
+     "sha256": "fd76ff06b1e5591543fe633ed91adf6e712cc4fedc6829b71a4072ccaa1b7a21"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2009-46",
+   "path": "profesii/cmdr/decizie-consiliu-national/2009/46",
+   "short": "Decizia CMDR nr. 46/2009",
+   "title": "DECIZIE nr. 46 din 21 noiembrie 2009 privind organizarea sistemului de educație medicală continuă pentru medicii dentiști",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114147",
+   "versions": [
+    {
+     "from": "2009-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114147",
+     "sha256": "c869fd14cb96c29876fd47209f0be641c811b2293cf41a68fba2727d20dff37b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2009-1",
+   "path": "profesii/cmr/decizie/2009/1",
+   "short": "Decizia CMR nr. 1/2009",
+   "title": "DECIZIE nr. 1 din 23 ianuarie 2009 privind eliberarea certificatului de membru al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102110",
+   "versions": [
+    {
+     "from": "2009-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102110",
+     "sha256": "f18d8586f503c6fc629cef89a6413dfab0452df24179ca1774eeaa0a0d7d8fa2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2009-11",
+   "path": "profesii/cmr/decizie/2009/11",
+   "short": "Decizia CMR nr. 11/2009",
+   "title": "DECIZIE nr. 11 din 4 septembrie 2009 privind emiterea avizelor pentru înființarea punctelor secundare de lucru ale cabinetelor medicale individuale, asociate, grupate și ale societăților civile medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111488",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111488",
+     "sha256": "232376d280f5910c58351ae1e107731f661e5bfe483ccc4ca0a6642fe89ca99a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2009-5",
+   "path": "profesii/cmr/decizie/2009/5",
+   "short": "Decizia CMR nr. 5/2009",
+   "title": "DECIZIE nr. 5 din 10 aprilie 2009 pentru completarea anexei la Decizia Consiliului Național al Colegiului Medicilor din România nr. 6/2008 privind componența comisiilor de specialitate ale Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105530",
+   "versions": [
+    {
+     "from": "2009-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105530",
+     "sha256": "4c9eba6fdfb5d02eee66ab07f96d62344f19d6069d7e21c31e2bfeb2823cc758"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2009-6",
+   "path": "profesii/cmr/decizie/2009/6",
+   "short": "Decizia CMR nr. 6/2009",
+   "title": "DECIZIE nr. 6 din 12 iunie 2009 privind componența comisiilor de specialitate ale Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109719",
+   "versions": [
+    {
+     "from": "2009-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109719",
+     "sha256": "32740220c607000bcf437ed39bb184ea29522a18da87f2fa3ab6974b9b123a33"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2009-2",
+   "path": "profesii/cmr/decizie-consiliu-national/2009/2",
+   "short": "Decizia CMR nr. 2/2009",
+   "title": "DECIZIE nr. 2 din 23 ianuarie 2009 privind stabilirea sistemului de credite de educație medicală continuă pe baza căruia se evaluează activitatea de perfecționare profesională a medicilor, a criteriilor și a normelor de creditare a formelor de educație medicală continuă, precum și a normei și criteriilor de acreditare a furnizorilor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103970",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103970",
+     "sha256": "4ae1e3c0216e8060b877cf34186ee9407c783fb00b5e494354e4ec1f1a97d848"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-hotarare-adunare-generala-2009-1",
+   "path": "profesii/cmr/hotarare-adunare-generala/2009/1",
+   "short": "Hotărârea CMR nr. 1/2009",
+   "title": "HOTĂRÂRE nr. 1 din 27 martie 2009 pentru completarea Deciziei Adunării generale naționale a Colegiului Medicilor din România nr. 3/2005 privind adoptarea Statutului și a Codului de deontologie medicală ale Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104582",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104582",
+     "sha256": "6cfa400e5020d480c6bf45f4af76aac6e7e62a1d8bd52c2e2bb0a041a9f6779b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-1788",
+   "path": "profesii/csm/hotarare-plen/2009/1788",
+   "short": "Hotărârea CSM nr. 1788/2009",
+   "title": "HOTĂRÂRE nr. 1.788 din 15 octombrie 2009 pentru completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112783",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112783",
+     "sha256": "5f5f7454fcae8d5e58bbbe53eb5fe806692503f850358dcdac38c63a792e8097"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-1789",
+   "path": "profesii/csm/hotarare-plen/2009/1789",
+   "short": "Hotărârea CSM nr. 1789/2009",
+   "title": "HOTĂRÂRE nr. 1.789 din 15 octombrie 2009 pentru completarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 293/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112784",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112784",
+     "sha256": "8fb0b49e2eb776b6d169aafbff9ee3125313fd629486ce69020dd47f72254b11"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-2150",
+   "path": "profesii/csm/hotarare-plen/2009/2150",
+   "short": "Hotărârea CSM nr. 2150/2009",
+   "title": "HOTĂRÂRE nr. 2.150 din 10 decembrie 2009 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 621/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115499",
+   "versions": [
+    {
+     "from": "2010-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115499",
+     "sha256": "6e50fc1e808bdb5ab3e1a07361bf5b3ed8c1657d4ce8fa3ff7ec1708e61ae7ff"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-2223",
+   "path": "profesii/csm/hotarare-plen/2009/2223",
+   "short": "Hotărârea CSM nr. 2223/2009",
+   "title": "HOTĂRÂRE nr. 2.223 din 17 decembrie 2009 pentru modificarea și completarea Regulamentului privind modul de desfășurare a cursurilor de formare profesională continuă a judecătorilor și procurorilor și atestare a rezultatelor obținute, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 322/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115141",
+   "versions": [
+    {
+     "from": "2010-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115141",
+     "sha256": "1fde24aaf0bb65a69b56928a1187a57f315d97ab388a323f0b6779c3d784ef08"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-38",
+   "path": "profesii/csm/hotarare-plen/2009/38",
+   "short": "Hotărârea CSM nr. 38/2009",
+   "title": "HOTĂRÂRE nr. 38 din 15 ianuarie 2009 pentru modificarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102018",
+   "versions": [
+    {
+     "from": "2009-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102018",
+     "sha256": "1d96a6fbd86a42631c85fabe11091ddff53b27a4a15f172c31db2992a979620c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-597",
+   "path": "profesii/csm/hotarare-plen/2009/597",
+   "short": "Hotărârea CSM nr. 597/2009",
+   "title": "HOTĂRÂRE nr. 597 din 26 martie 2009 pentru completarea Regulamentului privind modul de organizare și desfășurare a concursului pentru recrutarea grefierilor arhivari, a grefierilor registratori și a personalului conex, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 185/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104786",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104786",
+     "sha256": "453ebea325e08c9adc33629d0aedf16c53292245e0d80ce99c8056fdf650b47c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-632",
+   "path": "profesii/csm/hotarare-plen/2009/632",
+   "short": "Hotărârea CSM nr. 632/2009",
+   "title": "HOTĂRÂRE nr. 632 din 2 aprilie 2009 pentru modificarea și completarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105143",
+   "versions": [
+    {
+     "from": "2009-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105143",
+     "sha256": "e5b8483f3332d50bbb21636476675865605d6a8fa85072efff5a7e17607ff7d8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-633",
+   "path": "profesii/csm/hotarare-plen/2009/633",
+   "short": "Hotărârea CSM nr. 633/2009",
+   "title": "HOTĂRÂRE nr. 633 din 2 aprilie 2009 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcții de conducere a grefierilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 182/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105289",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105289",
+     "sha256": "c247b4602a138725c8ad3f633484db79e7faaf91f5df8eeb80342e6ac1d6d811"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-635",
+   "path": "profesii/csm/hotarare-plen/2009/635",
+   "short": "Hotărârea CSM nr. 635/2009",
+   "title": "HOTĂRÂRE nr. 635 din 2 aprilie 2009 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului sau examenului pentru definitivare în funcție, promovare în grade sau trepte profesionale superioare în cadrul aceleiași instanțe ori aceluiași parchet, precum și în funcții de execuție a personalului auxiliar de specialitate la instanțe și parchete superioare, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 181/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105575",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105575",
+     "sha256": "22c1e6abb55479b0de3996e46877026fda26717bc2cd363a38280b2ba8848a94"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-688",
+   "path": "profesii/csm/hotarare-plen/2009/688",
+   "short": "Hotărârea CSM nr. 688/2009",
+   "title": "HOTĂRÂRE nr. 688 din 9 aprilie 2009 pentru aprobarea Regulamentului privind evaluarea activității profesionale a magistraților-asistenți din cadrul Înaltei Curți de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105438",
+   "versions": [
+    {
+     "from": "2009-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105438",
+     "sha256": "d1c6bbb8a483118662daf691c33f0f94dba49fbf3d43d25a382355dfe62ea499"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-727",
+   "path": "profesii/csm/hotarare-plen/2009/727",
+   "short": "Hotărârea CSM nr. 727/2009",
+   "title": "HOTĂRÂRE nr. 727 din 23 aprilie 2009 pentru modificarea și completarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105686",
+   "versions": [
+    {
+     "from": "2009-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105686",
+     "sha256": "89b19ab41a5cdc51d725efaa88a6a4e937e54aa10991ea4beae732ba282b37a8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2009-869",
+   "path": "profesii/csm/hotarare-plen/2009/869",
+   "short": "Hotărârea CSM nr. 869/2009",
+   "title": "HOTĂRÂRE nr. 869 din 14 mai 2009 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106863",
+   "versions": [
+    {
+     "from": "2009-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106863",
+     "sha256": "594d3c9768379e5fdbcb19a820b8ef8c4bb18d71259e2291d36b635d6829c7d5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-ordin-2009-15867",
+   "path": "profesii/csm/ordin/2009/15867",
+   "short": "Ordinul CSM nr. 15867/2009",
+   "title": "ORDIN nr. 15.867 din 12 mai 2009 privind stabilirea plafonului maxim în limita căruia se poate deconta chiria pentru judecători, procurori, personalul asimilat acestora și magistrații-asistenți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106501",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106501",
+     "sha256": "aed059616c7926b9b9cfa9ed4678a4fa40ee31a47d08414b0152919af1518f72"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-ordin-2009-15869",
+   "path": "profesii/csm/ordin/2009/15869",
+   "short": "Ordinul CSM nr. 15869/2009",
+   "title": "ORDIN nr. 15.869 din 12 mai 2009 privind stabilirea plafonului maxim în limita căruia se poate deconta chiria pentru personalul auxiliar de specialitate și conex din cadrul instanțelor judecătorești și parchetelor de pe lângă acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106394",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106394",
+     "sha256": "c18bd5b3bfb20dce694d5c065d97ca2866df383008d65b0de47b4aabbb7d2b22"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2009-1",
+   "path": "profesii/oamgmamr/hotarare/2009/1",
+   "short": "Hotărârea OAMGMAMR nr. 1/2009",
+   "title": "HOTĂRÂRE nr. 1 din 10 februarie 2009 privind adoptarea Statutului Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102796",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102796",
+     "sha256": "8414217f3255120dd5e71ea60b8cbcc75c2adc0c5abd5bd581b7396f5df3eb27"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-birou-executiv-2009-26",
+   "path": "profesii/oamgmamr/hotarare-birou-executiv/2009/26",
+   "short": "Hotărârea OAMGMAMR nr. 26/2009",
+   "title": "HOTĂRÂRE nr. 26 din 2 decembrie 2009 de adoptare a Regulamentului privind organizarea și desfășurarea activității Comisiei naționale/teritoriale de etică și deontologie a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115635",
+   "versions": [
+    {
+     "from": "2010-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115635",
+     "sha256": "1252be9ef21dd99e72436682737f99669497d78314646e7da01b9ddf611294bb"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unbr-decizie-2009-522",
    "path": "profesii/unbr/decizie/2009/522",
    "short": "DECIZIA Nr. 522 / 01 iulie 2009",
@@ -224,6 +869,36 @@
      "units": 1,
      "source_url": "https://unbr.ro/hotararea-nr-716-din-12-decembrie-2009-a-consiliului-u-n-b-r/",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-congres-2009-1",
+   "path": "profesii/unej/hotarare-congres/2009/1",
+   "short": "Hotărârea UNEJ nr. 1/2009",
+   "title": "HOTĂRÂRE nr. 1 din 16 mai 2009 privind completarea Statutului Uniunii Naționale a Executorilor Judecătorești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109346",
+   "versions": [
+    {
+     "from": "2009-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109346",
+     "sha256": "6d16a2fe5cd9c09df4349a2369838c2bf025eb361f487d4ea29b4f751018e7d4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2009-3",
+   "path": "profesii/unpir/hotarare/2009/3",
+   "short": "Hotărârea UNPIR nr. 3/2009",
+   "title": "HOTĂRÂRE nr. 3 din 12 iunie 2009 pentru modificarea și completarea Hotărârii Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului de organizare și funcționare și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110002",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110002",
+     "sha256": "4fd009ba1144d8fb39d8094541d5662e89341dcb45457fd07abc20a815334afa"
     }
    ]
   }

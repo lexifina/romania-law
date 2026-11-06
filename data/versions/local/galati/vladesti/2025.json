@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/vladesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-galati--vladesti-52-2025",
+   "path": "local/galati/vladesti/2025/52",
+   "short": "HCL Vlădești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădești nr. 52/2025 pentru valorile impozabile, taxele locale și alte taxe asimilate acestora,precum și amenzile aplicabile pentru anul fiscal 2026 la nivelul comunei Vlădești,județul Galați",
+   "url": "https://primaria-vladesti.ro/wp-content/uploads/2026/03/HCL-nr.52-din-29.12.2025-stabilire-impozite-com.-Vladesti.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://primaria-vladesti.ro/wp-content/uploads/2026/03/HCL-nr.52-din-29.12.2025-stabilire-impozite-com.-Vladesti.pdf",
+     "sha256": "1229e7c5758d16c729eff4a8b8a32d22d9cb0fe0a3b8007a847157c3d275446c"
+    }
+   ]
+  }
+ ]
+}

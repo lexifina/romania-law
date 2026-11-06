@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/dolj/filiasi/2026",
+"acts": [
+{
+"slug": "hcl-dolj--filiasi-120-2026",
+"path": "local/dolj/filiasi/2026/120",
+"kind": "local",
+"year": "2026",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Filiași nr. 120/2026 privind aprobarea modificării bugetului de venituri şi cheltuieli al Consiliului Local Filiaşi pentru anul 2026",
+"short": "HCL Filiași nr. 120/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/filiasi-dj/registru-hcl/292854",
+"council": "dolj/filiasi",
+"council_name": "Consiliul Local al Orașului Filiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--filiasi-121-2026",
+"path": "local/dolj/filiasi/2026/121",
+"kind": "local",
+"year": "2026",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Filiași nr. 121/2026 privind aprobarea modificării bugetului de venituri şi cheltuieli la activităţile autofinanţate pentru anul 2026",
+"short": "HCL Filiași nr. 121/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/filiasi-dj/registru-hcl/292855",
+"council": "dolj/filiasi",
+"council_name": "Consiliul Local al Orașului Filiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--filiasi-125-2026",
+"path": "local/dolj/filiasi/2026/125",
+"kind": "local",
+"year": "2026",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Filiași nr. 125/2026",
+"short": "HCL Filiași nr. 125/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/filiasi-dj/registru-hcl/292876",
+"council": "dolj/filiasi",
+"council_name": "Consiliul Local al Orașului Filiași",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--filiasi-126-2026",
+"path": "local/dolj/filiasi/2026/126",
+"kind": "local",
+"year": "2026",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Filiași nr. 126/2026 privind aprobarea procedurii de acordare a unor înlesniri la plată, constând în scutirea de majorări de întârziere aferente obligaţiilor fiscale principale restante la 31.12.2025 cuvenite bugetului local de către persoanele fizice care au calitatea de contribuabili ai bugetului local al Oraşului Filiaşi",
+"short": "HCL Filiași nr. 126/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/filiasi-dj/registru-hcl/292877",
+"council": "dolj/filiasi",
+"council_name": "Consiliul Local al Orașului Filiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--filiasi-148-2026",
+"path": "local/dolj/filiasi/2026/148",
+"kind": "local",
+"year": "2026",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Filiași nr. 148/2026 privind trecerea din domeniul public în domeniul privat al orașului Filiași a unor fântâni publice, cișmele și amenajări aferente, în vederea scoaterii din funcțiune și dezafectării acestora",
+"short": "HCL Filiași nr. 148/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/filiasi-dj/registru-hcl/293727",
+"council": "dolj/filiasi",
+"council_name": "Consiliul Local al Orașului Filiași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/dumitrita/2019",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-4-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/4",
+   "short": "HCL Dumitrița nr. 4/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 4/2019 Privind aprobarea solicitarii operatorului SC Supercom SA de modificare a tarifelor aferente Serviciului public de Salubrizare",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.4-2019%20tarife%20supercom.pdf",
+     "sha256": "2ecf4421f6291856ff0901b88625757591bdea2758252f1f84d5c34136a518df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-9-2019",
+   "path": "local/bistrita-nasaud/dumitrita/2019/9",
+   "short": "HCL Dumitrița nr. 9/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 9/2019",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2019/hcl/HCL%20nr.9-2019Taxa%20salubrizare.pdf",
+     "sha256": "5f9e707c7f8254d77132cd47695c92f5aced04604e3b3b10f60bfd69f26e5174"
+    }
+   ]
+  }
+ ]
+}

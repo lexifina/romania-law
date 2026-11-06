@@ -1,0 +1,46 @@
+{
+"country": "RO",
+"shard": "profesii/1995",
+"acts": [
+{
+"slug": "profesii-ceccar-hotarare-1995-1",
+"path": "profesii/ceccar/hotarare/1995/1",
+"kind": "profesii",
+"year": "1995",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÎRE nr. 1 din 23 octombrie 1995 pentru aprobarea Regulamentului de organizare și funcționare a Corpului Experților Contabili și Contabililor Autorizați din România și Codului privind conduita etica și profesională a experților contabili și contabililor autorizați",
+"short": "Hotărârea CECCAR nr. 1/1995",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "1995-11-27",
+"latest": "1995-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/5620",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-consiliu-1995-11",
+"path": "profesii/csm/hotarare-consiliu/1995/11",
+"kind": "profesii",
+"year": "1995",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÎRE nr. 11 din 22 noiembrie 1995 pentru modificarea și completarea Regulamentului de funcționare a Consiliului Superior al Magistraturii",
+"short": "Hotărârea CSM nr. 11/1995",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "1995-12-08",
+"latest": "1995-12-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/5744",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

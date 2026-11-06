@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/trusesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--trusesti-218-2025",
+   "path": "local/botosani/trusesti/2025/218",
+   "short": "HCL Trușești nr. 218/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Trușești nr. 218/2025 privind aprobarea Regulamentului serviciului de salubrizare a localitatilor",
+   "url": "https://primaria-trusesti.ro/wp-content/uploads/2025/12/Hotarare-nr.-218-din-17.11.2025-privind-aprobarea-Regulamentului-serviciului-de-salubrizare-a-localitatilor.pdf",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://primaria-trusesti.ro/wp-content/uploads/2025/12/Hotarare-nr.-218-din-17.11.2025-privind-aprobarea-Regulamentului-serviciului-de-salubrizare-a-localitatilor.pdf",
+     "sha256": "1a95ecbc64464a05b7cdf2c3a640c405d3eb816681899227aa3891c0d2eb6add"
+    }
+   ]
+  }
+ ]
+}

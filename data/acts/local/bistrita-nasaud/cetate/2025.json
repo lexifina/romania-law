@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/cetate/2025",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--cetate-38-2025",
+"path": "local/bistrita-nasaud/cetate/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cetate nr. 38/2025 privind stabilirea impozitelor și taxelor locale din comuna Cetate în anul 2026",
+"short": "HCL Cetate nr. 38/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primaria-cetate.ro/hcl.html",
+"council": "bistrita-nasaud/cetate",
+"council_name": "Consiliul Local al Comunei Cetate",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--cetate-39-2025",
+"path": "local/bistrita-nasaud/cetate/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cetate nr. 39/2025 privind stabilirea cuantumului taxelor locale speciale,pentru anul 2026",
+"short": "HCL Cetate nr. 39/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primaria-cetate.ro/hcl.html",
+"council": "bistrita-nasaud/cetate",
+"council_name": "Consiliul Local al Comunei Cetate",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

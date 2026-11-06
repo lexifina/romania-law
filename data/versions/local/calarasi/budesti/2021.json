@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/budesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--budesti-88-2021",
+   "path": "local/calarasi/budesti/2021/88",
+   "short": "HCL Budești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 88/2021 privind rectificarea bugetului local al orasului Budești, județul Călărași, pe anul 2021",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/43960",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/43960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-89-2021",
+   "path": "local/calarasi/budesti/2021/89",
+   "short": "HCL Budești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 89/2021 privind rectificarea bugetului orasului Budesti, judetul Calarasi, pe anul 2021",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/44639",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/44639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-90-2021",
+   "path": "local/calarasi/budesti/2021/90",
+   "short": "HCL Budești nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 90/2021 privind aprobarea structurii rețelei școlare a unităților de învățământ preuniversitar din orașul Budești, pentru anul 2022 - 2023",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/45201",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/45201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-91-2021",
+   "path": "local/calarasi/budesti/2021/91",
+   "short": "HCL Budești nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 91/2021 privind stabilirea impozitelor şi taxelor locale pentru anul 2022 la nivelul orașului Budești, judetul Călărași",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/45202",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/45202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-92-2021",
+   "path": "local/calarasi/budesti/2021/92",
+   "short": "HCL Budești nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 92/2021 privind aprobarea Strategiei de dezvoltare locala a orasului Budesti pentru perioada 2021-2027",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/45203",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/45203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-93-2021",
+   "path": "local/calarasi/budesti/2021/93",
+   "short": "HCL Budești nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 93/2021 privind rectificarea bugetului local, completarea și modificarea listei de investitii și a altor cheltuieli de investiții si dotări independente",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/45204",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/45204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-94-2021",
+   "path": "local/calarasi/budesti/2021/94",
+   "short": "HCL Budești nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 94/2021",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/45205",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/45205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--budesti-95-2021",
+   "path": "local/calarasi/budesti/2021/95",
+   "short": "HCL Budești nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Budești nr. 95/2021 privind rectificarea bugetului orasului Budesti, judetul Calarasi, pe anul 2021",
+   "url": "https://emol.ro/budesti-cl/registru-hcl/45410",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/budesti-cl/registru-hcl/45410",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

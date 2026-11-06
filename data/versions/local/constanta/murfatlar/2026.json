@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/murfatlar/2026",
+ "acts": [
+  {
+   "slug": "hcl-constanta--murfatlar-102-2026",
+   "path": "local/constanta/murfatlar/2026/102",
+   "short": "HCL Murfatlar nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Murfatlar nr. 102/2026 privind actualizarea devizului general și a principalilor indicatori tehnico-economici pentru obiectivul de investiții ,,Dezvoltarea infrastructurii de transport verde- Piste pentru biciclete- Zona Nord, oras Murfatlar, judetul Constanta, judetul Constanta’’",
+   "url": "https://emol.ro/murfatlar-ct/registru-hcl/283771",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/murfatlar-ct/registru-hcl/283771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--murfatlar-118-2026",
+   "path": "local/constanta/murfatlar/2026/118",
+   "short": "HCL Murfatlar nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Murfatlar nr. 118/2026 privind actualizarea devizului general și aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiții „Dezvoltarea infrastructurii de transport verde – Piste pentru biciclete – Zona Nord, oraș Murfatlar, județul Constanța”",
+   "url": "https://emol.ro/murfatlar-ct/registru-hcl/290527",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/murfatlar-ct/registru-hcl/290527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--murfatlar-119-2026",
+   "path": "local/constanta/murfatlar/2026/119",
+   "short": "HCL Murfatlar nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Murfatlar nr. 119/2026 privind actualizarea devizului general și aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiții „Dezvoltarea infrastructurii de transport verde – Piste pentru biciclete – Zona Est, oraș Murfatlar, județul Constanța”",
+   "url": "https://emol.ro/murfatlar-ct/registru-hcl/290528",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/murfatlar-ct/registru-hcl/290528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--murfatlar-92-2026",
+   "path": "local/constanta/murfatlar/2026/92",
+   "short": "HCL Murfatlar nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Murfatlar nr. 92/2026 privind aprobarea execuției bugetului local al orașului Murfatlar, a bugetului împrumuturilor interne și externe pe trimestrul II al anului 2026",
+   "url": "https://emol.ro/murfatlar-ct/registru-hcl/283546",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/murfatlar-ct/registru-hcl/283546",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

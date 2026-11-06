@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/dambovita/gaesti/2025",
+"acts": [
+{
+"slug": "hcl-dambovita--gaesti-132-2025",
+"path": "local/dambovita/gaesti/2025/132",
+"kind": "local",
+"year": "2025",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 132/2025 privind aprobarea proiectului și a cheltuielilor legate de obiectivul :ANVELOPARE BLOC 43 Program: PR Sud-Muntenia 2021-2027 Prioritate: 2 - O regiune cu orașe prietenoase cu mediu Obiectiv specific: 2.1 - Promovarea eficienței energetice și reducerea emisiilor de gaze cu efect de seră Operațiunea B: Promovarea eficienței energetice și reducerea emisiilor de gaze cu efect de seră prin investiții în locuințe multifamiliale Apel de proiecte PRSM/265/PRSM_P2/OP2/RSO2.1/PRSM_A37",
+"short": "HCL Găești nr. 132/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/230453",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-135-2025",
+"path": "local/dambovita/gaesti/2025/135",
+"kind": "local",
+"year": "2025",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 135/2025 privind modificarea HCL nr. 132/21.10.2025 privind aprobarea proiectului și a cheltuielilor legate de obiectivul :ANVELOPARE BLOC 43 Program: PR Sud-Muntenia 2021-2027 Prioritate: 2 - O regiune cu orașe prietenoase cu mediu Obiectiv specific: 2.1 - Promovarea eficienței energetice și reducerea emisiilor de gaze cu efect de seră Operațiunea B: Promovarea eficienței energetice și reducerea emisiilor de gaze cu efect de seră prin investiții în locuințe multifamiliale Apel de proiecte PRSM/265/PRSM_P2/OP2/RSO2.1/PRSM_A37",
+"short": "HCL Găești nr. 135/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/235809",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-152-2025",
+"path": "local/dambovita/gaesti/2025/152",
+"kind": "local",
+"year": "2025",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 152/2025 privind aprobarea contului de execuție a bugetului Orașului Găești pe trimestrul III al anului 2025",
+"short": "HCL Găești nr. 152/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/236699",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

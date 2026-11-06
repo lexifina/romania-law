@@ -55,6 +55,46 @@
 "from": "2018-10-31",
 "latest": "2018-10-31",
 "portal": "https://www.dataprotection.ro/servlet/ViewDocument?id=1556"
+},
+{
+"slug": "anspdcp-procedura-2018-0703",
+"path": "anspdcp/procedura/2018/0703",
+"kind": "anspdcp",
+"year": "2018",
+"number": "0703",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 3 iulie 2018 de primire și soluționare a plângerilor",
+"short": "Procedura ANSPDCP din 3 iulie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-13",
+"latest": "2018-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202634",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "anspdcp-procedura-2018-1009",
+"path": "anspdcp/procedura/2018/1009",
+"kind": "anspdcp",
+"year": "2018",
+"number": "1009",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 9 octombrie 2018 de efectuare a investigațiilor",
+"short": "Procedura ANSPDCP din 9 octombrie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-23",
+"latest": "2018-10-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206156",
+"flags": {
+"amendments_checked": false
+}
 }
 ]
 }

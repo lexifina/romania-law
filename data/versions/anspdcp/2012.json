@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2012",
+ "acts": [
+  {
+   "slug": "anspdcp-decizie-2012-23",
+   "path": "anspdcp/decizie/2012/23",
+   "short": "Decizia ANSPDCP nr. 23/2012",
+   "title": "DECIZIE nr. 23 din 26 martie 2012 privind stabilirea cazurilor în care nu este necesară notificarea prelucrării unor date cu caracter personal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136773",
+   "versions": [
+    {
+     "from": "2012-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136773",
+     "sha256": "a4867608578d2575776352050702fc569921c560da02fbd75e474f53d3bc3f1d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2012-52",
+   "path": "anspdcp/decizie/2012/52",
+   "short": "Decizia ANSPDCP nr. 52/2012",
+   "title": "DECIZIE nr. 52 din 31 mai 2012 privind prelucrarea datelor cu caracter personal prin utilizarea mijloacelor de supraveghere video",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138714",
+   "versions": [
+    {
+     "from": "2012-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138714",
+     "sha256": "f63c73f4769442aff85241e7384a66734dd6314d98142c7b643eecf4de85b827"
+    }
+   ]
+  }
+ ]
+}

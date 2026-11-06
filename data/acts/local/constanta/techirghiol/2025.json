@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/constanta/techirghiol/2025",
+"acts": [
+{
+"slug": "hcl-constanta--techirghiol-173-2025",
+"path": "local/constanta/techirghiol/2025/173",
+"kind": "local",
+"year": "2025",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 173/2025 privind amplasarea unei troițe ortodoxe tip Triptic",
+"short": "HCL Techirghiol nr. 173/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/232176",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-174-2025",
+"path": "local/constanta/techirghiol/2025/174",
+"kind": "local",
+"year": "2025",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 174/2025",
+"short": "HCL Techirghiol nr. 174/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/232177",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-177-2025",
+"path": "local/constanta/techirghiol/2025/177",
+"kind": "local",
+"year": "2025",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 177/2025 privind aprobarea Actului Constitutiv și a Statutului Asociației ”Organizația de Management al Destinației Turistice Techirghiol”",
+"short": "HCL Techirghiol nr. 177/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/236436",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-198-2025",
+"path": "local/constanta/techirghiol/2025/198",
+"kind": "local",
+"year": "2025",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 198/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026 la nivelul UAT Techirghiol",
+"short": "HCL Techirghiol nr. 198/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/243305",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-199-2025",
+"path": "local/constanta/techirghiol/2025/199",
+"kind": "local",
+"year": "2025",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 199/2025 privind taxele de folosire teren de sport şi Sala de sport din cadrul bazei sportive a CS Sparta Techirghiol",
+"short": "HCL Techirghiol nr. 199/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/243306",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-200-2025",
+"path": "local/constanta/techirghiol/2025/200",
+"kind": "local",
+"year": "2025",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 200/2025 privind aprobarea Regulamentului de organizare şi funcţionare al Cimitirului ortodox din orasul TECHIRGHIOL",
+"short": "HCL Techirghiol nr. 200/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/243307",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

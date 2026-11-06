@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/ilfov/buftea/2024",
+"acts": [
+{
+"slug": "hcl-ilfov--buftea-9-2024",
+"path": "local/ilfov/buftea/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 9/2024 pentru aprobarea Regulamentului privind stabilirea condiţiilor în care se realizează accesul pe proprietatea publică sau privată a oraşului Buftea, în vederea instalării întreţinerii /înlocuirii sau mutării reţelelor de comunicaţii electronice sau a elementelor d",
+"short": "HCL Buftea nr. 9/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2024/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-18-2024",
+"path": "local/ilfov/buftea/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 18/2024 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal „LOTIZARE PENTRU CONSTRUIRE LOCUINŢE INDIVIDUALE”, amplasat în oraşul Buftea, judeţul Ilfov, strada Garoafelor, nr. 12",
+"short": "HCL Buftea nr. 18/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2024/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-19-2024",
+"path": "local/ilfov/buftea/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 19/2024 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal “CONSTRUIRE ANSAMBLU LOCUINŢE INDIVIDUALE, RACORDURI/ BRANŞAMENTE LA UTILITĂŢI”, amplasat în oraşul Buftea, judeţul Ilfov, Tarla 4, Parcela 17/1",
+"short": "HCL Buftea nr. 19/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2024/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-20-2024",
+"path": "local/ilfov/buftea/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 20/2024 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal “LOTIZARE ŞI CONSTRUIRE ANSAMBLU LOCUINŢE P+2E, SERVICII ŞI COMERŢ”, amplasat în oraşul Buftea, tarla 27, parcela 255/1, judeţul Ilfov",
+"short": "HCL Buftea nr. 20/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2024/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-21-2024",
+"path": "local/ilfov/buftea/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 21/2024 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal ,,CONSTRUIRE DOUĂSPREZECE LOCUINŢE UNIFAMILIALE P+1E+M, UTILITĂŢI, CIRCULAŢII” amplasat în oraşul Buftea, judeţul Ilfov, Tarla 13, Parcela 51",
+"short": "HCL Buftea nr. 21/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2024/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

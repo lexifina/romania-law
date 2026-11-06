@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/otelu-rosu/2023",
+"acts": [
+{
+"slug": "hcl-caras-severin--otelu-rosu-210-2023",
+"path": "local/caras-severin/otelu-rosu/2023/210",
+"kind": "local",
+"year": "2023",
+"number": "210",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 210/2023 privind aprobare ordine de zi şedinţă ordinară din 29.11.2023",
+"short": "HCL Oțelu Roșu nr. 210/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://emol.ro/otelurosu-cs/registru-hcl/138349",
+"council": "caras-severin/otelu-rosu",
+"council_name": "Consiliul Local al Orașului Oțelu Roșu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--otelu-rosu-211-2023",
+"path": "local/caras-severin/otelu-rosu/2023/211",
+"kind": "local",
+"year": "2023",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 211/2023 privind prezentarea şi aprobarea procesului verbal al şedinţei ordinare a Consiliului local Oţelu Roşu din data de 26.10.2023",
+"short": "HCL Oțelu Roșu nr. 211/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://emol.ro/otelurosu-cs/registru-hcl/138350",
+"council": "caras-severin/otelu-rosu",
+"council_name": "Consiliul Local al Orașului Oțelu Roșu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--otelu-rosu-215-2023",
+"path": "local/caras-severin/otelu-rosu/2023/215",
+"kind": "local",
+"year": "2023",
+"number": "215",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 215/2023 privind aprobarea organigramei şi a statelor de funcţii ale aparatului de specialitate al primarului oraşului Oţelu Roşu",
+"short": "HCL Oțelu Roșu nr. 215/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-22",
+"latest": "2024-01-22",
+"portal": "https://emol.ro/otelurosu-cs/registru-hcl/138354",
+"council": "caras-severin/otelu-rosu",
+"council_name": "Consiliul Local al Orașului Oțelu Roșu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/novaci/2025",
+ "acts": [
+  {
+   "slug": "hcl-gorj--novaci-84-2025",
+   "path": "local/gorj/novaci/2025/84",
+   "short": "HCL Novaci nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Novaci nr. 84/2025 privind stabilirea taxelor si impozitelor locale, precum si a taxelor speciale pentru anul 2026",
+   "url": "https://emol.ro/novaci-gj/registru-hcl/243339",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/novaci-gj/registru-hcl/243339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--novaci-88-2025",
+   "path": "local/gorj/novaci/2025/88",
+   "short": "HCL Novaci nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Novaci nr. 88/2025 privind aprobarea indexarii impozitelor si taxelor locale pe anul 2026",
+   "url": "https://emol.ro/novaci-gj/registru-hcl/243343",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/novaci-gj/registru-hcl/243343",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

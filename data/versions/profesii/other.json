@@ -3,6 +3,426 @@
  "shard": "profesii/other",
  "acts": [
   {
+   "slug": "profesii-cafr-anexa-2013-09-19",
+   "path": "profesii/cafr/anexa-2013-09-19",
+   "short": "Anexa CAFR din 19 septembrie 2013",
+   "title": "ANEXE din 19 septembrie 2013 nr. 1-15 la Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 39/2013 pentru aprobarea procedurilor privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari din 19.09.2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157814",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157814",
+     "sha256": "e15302e8d27125d3529b998eef48711ba809cc1db8c347674cba59849f391032"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2002-04-17",
+   "path": "profesii/cafr/norme-2002-04-17",
+   "short": "Normele CAFR din 17 aprilie 2002",
+   "title": "NORMA din 17 aprilie 2002 privind asigurarea pentru risc profesional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36625",
+   "versions": [
+    {
+     "from": "2002-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36625",
+     "sha256": "29f9ee4ea1643cdd6af47dae684018497cce9218851c5b406ac720e320c3a53a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2003-02-26",
+   "path": "profesii/cafr/norme-2003-02-26",
+   "short": "Normele CAFR din 26 februarie 2003",
+   "title": "NORME din 26 februarie 2003 privind perioada de pregătire profesională practica a stagiarilor în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42829",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42829",
+     "sha256": "6fb234419775aac555a23bf199b7e199a99aef3c0ad520ca03f8a2daae7960e0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2005-01-19",
+   "path": "profesii/cafr/norme-2005-01-19",
+   "short": "Normele CAFR din 19 ianuarie 2005",
+   "title": "NORME din 19 ianuarie 2005 privind perioada de pregătire profesională practică a stagiarilor în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59029",
+   "versions": [
+    {
+     "from": "2005-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59029",
+     "sha256": "681610b10ddda4f135b0b28c65f516f2a6c704eaa420abfd196ae5173ee032e4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2005-03-23",
+   "path": "profesii/cafr/norme-2005-03-23",
+   "short": "Normele CAFR din 23 martie 2005",
+   "title": "NORME din 23 martie 2005 privind stabilirea numărului mediu minim de ore pentru finalizarea unei misiuni de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60527",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60527",
+     "sha256": "fd90fc4aedad4ff06e2b3618543216eceffc9baafc7a24fef84d835306d07266"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2007-08-30",
+   "path": "profesii/cafr/norme-2007-08-30",
+   "short": "Normele CAFR din 30 august 2007",
+   "title": "NORMĂ din 30 august 2007 de reprezentare a auditorilor financiari la conferințele Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85255",
+   "versions": [
+    {
+     "from": "2007-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85255",
+     "sha256": "dc153ce13fc5fdcd2f96964a185250ac9fdd35b976ceee57879b1571a1cd3108"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2010-08-25",
+   "path": "profesii/cafr/norme-2010-08-25",
+   "short": "Normele CAFR din 25 august 2010",
+   "title": "NORMĂ din 25 august 2010 privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121988",
+   "versions": [
+    {
+     "from": "2010-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121988",
+     "sha256": "8b97018814fb085968e27f9fcb48197efc82ffff65fa455966874852d432ab17"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2012-11-22",
+   "path": "profesii/cafr/norme-2012-11-22",
+   "short": "Normele CAFR din 22 noiembrie 2012",
+   "title": "NORME din 22 noiembrie 2012 privind aplicarea art. 17 alin. (2) lit. c) din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 168/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146125",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146125",
+     "sha256": "fce2757b95f1f79f88588b3dd238ad111982cc9400778e52818de833559b62d4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2013-12-12",
+   "path": "profesii/cafr/norme-2013-12-12",
+   "short": "Normele CAFR din 12 decembrie 2013",
+   "title": "NORME din 12 decembrie 2013 privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156133",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156133",
+     "sha256": "a9bc61826edbd1cdcc6ba9c38c44a8408c2be4384096e46b95fa74601463ba27"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2016-03-10",
+   "path": "profesii/cafr/norme-2016-03-10",
+   "short": "Normele CAFR din 10 martie 2016",
+   "title": "NORME din 10 martie 2016 privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180365",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180365",
+     "sha256": "94bbec2b659a806152e3e5bba99276d41cc44bfbe14b0a2801fe742c112dfe5e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2017-02-23",
+   "path": "profesii/cafr/norme-2017-02-23",
+   "short": "Normele CAFR din 23 februarie 2017",
+   "title": "NORME din 23 februarie 2017 privind atribuirea calității de membru, înscrierea, evidența, retragerea și suspendarea auditorilor financiari, persoane fizice, și autorizarea, înscrierea, evidența, retragerea și suspendarea auditorilor financiari, persoane juridice, în și din Registrul public al auditorilor financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188626",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188626",
+     "sha256": "7d4975b7cd22cdf490c560b53487b1ab42c7aed42811ad445c14da75c97de83e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2017-07-20",
+   "path": "profesii/cafr/norme-2017-07-20",
+   "short": "Normele CAFR din 20 iulie 2017",
+   "title": "NORME din 20 iulie 2017 pentru desemnarea reprezentanților auditorilor financiari la Conferința pentru alegerea membrilor Consiliului Camerei Auditorilor Financiari din România și membrilor Comisiei de auditori statutari a Camerei Auditorilor Financiari din România, organizată în data de 23 septembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191945",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191945",
+     "sha256": "a74e80fd64555ac2bfc71296486e376aedfdbb7353490daa90d0fed9e0d191c9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2018-02-22",
+   "path": "profesii/cafr/norme-2018-02-22",
+   "short": "Normele CAFR din 22 februarie 2018",
+   "title": "NORME din 22 februarie 2018 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată în anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198278",
+   "versions": [
+    {
+     "from": "2018-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198278",
+     "sha256": "65f8a76f93dfc1a1fccb0c1720003b899937f347ffa78ab6a25c90b1e1fb45df"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2018-07-19",
+   "path": "profesii/cafr/norme-2018-07-19",
+   "short": "Normele CAFR din 19 iulie 2018",
+   "title": "NORME din 19 iulie 2018 privind revizuirea calității activității de audit financiar, altul decât cel statutar, și a altor activități desfășurate de auditorii financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204245",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204245",
+     "sha256": "fc6c60a1b031c89601e49a661b77ec1749a0879c3e902b052f5133c15c52b400"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2018-07-26",
+   "path": "profesii/cafr/norme-2018-07-26",
+   "short": "Normele CAFR din 26 iulie 2018",
+   "title": "NORME din 26 iulie 2018 privind înscrierea ca membru al Camerei Auditorilor Financiari din România și înscrierea în Registrul membrilor Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203957",
+   "versions": [
+    {
+     "from": "2018-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203957",
+     "sha256": "8a60e0d5553c5e3b7d79cbd7c23273d4ebb25ad4f3e16a1874c2b60150e02e5e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2018-12-19",
+   "path": "profesii/cafr/norme-2018-12-19",
+   "short": "Normele CAFR din 19 decembrie 2018",
+   "title": "NORME din 19 decembrie 2018 de pregătire profesională continuă a auditorilor financiari conform Ordonanței de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209687",
+   "versions": [
+    {
+     "from": "2019-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209687",
+     "sha256": "4aaf86c2ed7f5a4338fb4b8bfc94fae0e065dbbad528f88c53e4970893569cbb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2019-07-22",
+   "path": "profesii/cafr/norme-2019-07-22",
+   "short": "Normele CAFR din 22 iulie 2019",
+   "title": "NORME din 22 iulie 2019 privind sancțiunile aplicate auditorilor financiari și firmelor de audit în situația neachitării cotizațiilor datorate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216759",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216759",
+     "sha256": "5d0664873f04cda542490cb962ba2c6f814073bab2f6e532a667205df0386ac7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2020-02-12",
+   "path": "profesii/cafr/norme-2020-02-12",
+   "short": "Normele CAFR din 12 februarie 2020",
+   "title": "NORME din 12 februarie 2020 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România, organizată în data de 25 aprilie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223104",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223104",
+     "sha256": "769844f4726ad3e01a98ad9a69478d80810b6fdcbdcdcd86b24616d940272d7c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2020-05-29",
+   "path": "profesii/cafr/norme-2020-05-29",
+   "short": "Normele CAFR din 29 mai 2020",
+   "title": "NORME din 29 mai 2020 privind efectuarea inspecțiilor pentru asigurarea calității activității de audit financiar, altul decât cel statutar, și a altor activități desfășurate de auditorii financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227870",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227870",
+     "sha256": "6c80f09a207c2b1ea9c7bd52270bc5a9ff4e389de3461740bfa248a59f032c71"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2020-08-21",
+   "path": "profesii/cafr/norme-2020-08-21",
+   "short": "Normele CAFR din 21 august 2020",
+   "title": "NORME din 21 august 2020 privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229523",
+   "versions": [
+    {
+     "from": "2020-08-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229523",
+     "sha256": "4f53b9a45e6405be2826d0683f99588cdc513ada2ff5093012ee2334468b9319"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2021-01-28",
+   "path": "profesii/cafr/norme-2021-01-28",
+   "short": "Normele CAFR din 28 ianuarie 2021",
+   "title": "NORME din 28 ianuarie 2021 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată prin vot la distanță în data de 17 aprilie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236864",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236864",
+     "sha256": "2d43c4ed1cdffdceffab795242529b440c3752bc35b3054d38a6c3608265fe3f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2022-02-28",
+   "path": "profesii/cafr/norme-2022-02-28",
+   "short": "Normele CAFR din 28 februarie 2022",
+   "title": "NORME din 28 februarie 2022 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată prin vot la distanță în data de 29 aprilie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252354",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252354",
+     "sha256": "1afdade3eb430056b1f2cfd794e7293ae8f9dc760aa4da36f086eb9900272114"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2022-03-15",
+   "path": "profesii/cafr/norme-2022-03-15",
+   "short": "Normele CAFR din 15 martie 2022",
+   "title": "NORME din 15 martie 2022 privind procedura de alegeri, prin vot la distanță, a membrilor Comisiei de disciplină a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254280",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254280",
+     "sha256": "22e2a56b78df796e732d8a60b6485cfe43dc9603e077af893bcad7c3e4290268"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2023-02-20",
+   "path": "profesii/cafr/norme-2023-02-20",
+   "short": "Normele CAFR din 20 februarie 2023",
+   "title": "NORME din 20 februarie 2023 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România, organizată în format fizic în data de 22 aprilie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265326",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265326",
+     "sha256": "313ab6d3be59ae2db0a149eded4033ae4ab9f348980fa79447989767f0ff56bc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2023-06-30",
+   "path": "profesii/cafr/norme-2023-06-30",
+   "short": "Normele CAFR din 30 iunie 2023",
+   "title": "NORME din 30 iunie 2023 privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271895",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271895",
+     "sha256": "caacf025364be71735babd03a142eb31ce325eefcf0d05a6039f0ac5ce3da8ee"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2024-02-29",
+   "path": "profesii/cafr/norme-2024-02-29",
+   "short": "Normele CAFR din 29 februarie 2024",
+   "title": "NORME din 29 februarie 2024 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România, organizată în format fizic în data de 27 aprilie 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279641",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279641",
+     "sha256": "b1abb2cc8ca95a273ea0b13079ded315ad7803a80b098f60fa00efe2b5e4be36"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2026-02-27",
+   "path": "profesii/cafr/norme-2026-02-27",
+   "short": "Normele CAFR din 27 februarie 2026",
+   "title": "NORME din 27 februarie 2026 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată în format fizic în data de 18 aprilie 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307998",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307998",
+     "sha256": "c81f9804e9f3259f7ff0384016d50c177b5eb542c30855c14c8b4628ed6006c0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-norme-2026-07-10",
+   "path": "profesii/cafr/norme-2026-07-10",
+   "short": "Normele CAFR din 10 iulie 2026",
+   "title": "NORME din 10 iulie 2026 privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312249",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312249",
+     "sha256": "f9b0512312a18cd9d75a1e8957a49a43baab13b8ce29e77db98321a1fdd49950"
+    }
+   ]
+  },
+  {
    "slug": "profesii-cafr-norme-spalarea-banilor",
    "path": "profesii/cafr/norme-spalarea-banilor",
    "short": "CAFR norme 123/2023",
@@ -14,6 +434,441 @@
      "units": 1,
      "source_url": "https://cafr.ro/",
      "sha256": "70d2f42a24e3d9a7b56014397828b13e61cf592a97c20dfcc3365d05345a94ab"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2007-04-19",
+   "path": "profesii/cafr/procedura-2007-04-19",
+   "short": "Procedura CAFR din 19 aprilie 2007",
+   "title": "PROCEDURĂ din 19 aprilie 2007 pentru aplicarea art. 29 din Normele privind controlul calității activității de audit financiar și a serviciilor conexe acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82790",
+   "versions": [
+    {
+     "from": "2007-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82790",
+     "sha256": "5b216e7a27d6af34f95b334210e81a165a72dadc45882ff65e3cf86894a6364b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2008-05-27-2",
+   "path": "profesii/cafr/procedura-2008-05-27-2",
+   "short": "Procedura CAFR din 27 mai 2008",
+   "title": "PROCEDURI din 27 mai 2008 de acreditare a formatorilor Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95375",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95375",
+     "sha256": "79fe1b3281e363527fe2d87cd123bbee5780c5d4b46461633e87b9ce083478f0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2008-05-27",
+   "path": "profesii/cafr/procedura-2008-05-27",
+   "short": "Procedura CAFR din 27 mai 2008",
+   "title": "PROCEDURI din 27 mai 2008 pentru acreditarea societăților de audit organizatoare de cursuri de pregătire profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95373",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95373",
+     "sha256": "97d2f778721e73eefb4a46b95866a23f1493374da2267a8ff7fb51c9ff28145d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2010-08-25",
+   "path": "profesii/cafr/procedura-2010-08-25",
+   "short": "Procedura CAFR din 25 august 2010",
+   "title": "PROCEDURĂ din 25 august 2010 pentru aplicarea art. 29 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 168/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121990",
+   "versions": [
+    {
+     "from": "2010-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121990",
+     "sha256": "78655ca646940a2e27aa561aaedf871273723e0b49618d205a4ef174f6cb5ed9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2010-09-22",
+   "path": "profesii/cafr/procedura-2010-09-22",
+   "short": "Procedura CAFR din 22 septembrie 2010",
+   "title": "PROCEDURI din 22 septembrie 2010 de acreditare a formatorilor Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124667",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124667",
+     "sha256": "61290818aec2d53d7eacd09a145437d0733c3db1c3f5a4bafb982db8de8028fd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2010-10-27",
+   "path": "profesii/cafr/procedura-2010-10-27",
+   "short": "Procedura CAFR din 27 octombrie 2010",
+   "title": "PROCEDURĂ din 27 octombrie 2010 privind programarea și desfășurarea inspecțiilor de calitate a activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125238",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125238",
+     "sha256": "e22462be422342998ba5969585bfa73fee90c815e953c8a8eb76f41f4c3ba07e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2010-11-26-2",
+   "path": "profesii/cafr/procedura-2010-11-26-2",
+   "short": "Procedura CAFR din 26 noiembrie 2010",
+   "title": "PROCEDURI din 26 noiembrie 2010 privind actualizarea informațiilor din Baza de date a auditorilor financiari persoane juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125250",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125250",
+     "sha256": "84ee7a3146423be233306211f03530b7b22c75aab3e99f06bdd9ff79a5b579ac"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2010-11-26",
+   "path": "profesii/cafr/procedura-2010-11-26",
+   "short": "Procedura CAFR din 26 noiembrie 2010",
+   "title": "PROCEDURI din 26 noiembrie 2010 privind actualizarea informațiilor din Baza de date a auditorilor financiari persoane fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125249",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125249",
+     "sha256": "cd7aa7c53c8e23e3e440a01caa318b19286c4c4fd7277da1e390a4f632039c4a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2011-02-23",
+   "path": "profesii/cafr/procedura-2011-02-23",
+   "short": "Procedura CAFR din 23 februarie 2011",
+   "title": "PROCEDURĂ din 23 februarie 2011 de înscriere la stagiu a persoanelor care au obținut diplomă de absolvire ACCA și nu au desfășurat activități de audit statutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128927",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128927",
+     "sha256": "3905b70b86deca9192e5d1af1080b6b67bb312cc5ca9d542b6a0b798e42274b8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2011-04-27",
+   "path": "profesii/cafr/procedura-2011-04-27",
+   "short": "Procedura CAFR din 27 aprilie 2011",
+   "title": "PROCEDURILE din 27 aprilie 2011 de înscriere la stagiul organizat de Camera Auditorilor Financiari din România a studenților Asociației Contabililor Autorizați care au promovat o parte din examenele organizate de Asociația Contabililor Autorizați, dar nu au devenit încă membri cu drepturi depline",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130172",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130172",
+     "sha256": "2f958fb90d1f9332dcb88d84e5e677c278ae702d32afef9b300a43153ec825f0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2011-05-04",
+   "path": "profesii/cafr/procedura-2011-05-04",
+   "short": "Procedura CAFR din 4 mai 2011",
+   "title": "PROCEDURI din 4 mai 2011 pentru stabilirea tematicii pentru programul anual de pregătire profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130175",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130175",
+     "sha256": "970e1e67f0b04b2f8bd623750c4f738d9eb7e0f63174716cf5e6f3fbb4f21994"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2011-06-15",
+   "path": "profesii/cafr/procedura-2011-06-15",
+   "short": "Procedura CAFR din 15 iunie 2011",
+   "title": "PROCEDURI din 15 iunie 2011 privind acordarea titlurilor de onoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130382",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130382",
+     "sha256": "3aa4be47ac50b81eafa175023583e897314b2f97d1aeb0a4fa323876de498a61"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2011-12-15",
+   "path": "profesii/cafr/procedura-2011-12-15",
+   "short": "Procedura CAFR din 15 decembrie 2011",
+   "title": "PROCEDURĂ din 15 decembrie 2011 privind acordarea de excepții de la vechimea în activitatea financiar-contabilă și de la testul de cunoștințe în domeniul financiar-contabil, pentru accesul la stagiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134442",
+   "versions": [
+    {
+     "from": "2012-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134442",
+     "sha256": "5d13852b82729e2584b97cee0748bc8bc0de7180f0282a37e04e22f7f46373a1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2012-09-19",
+   "path": "profesii/cafr/procedura-2012-09-19",
+   "short": "Procedura CAFR din 19 septembrie 2012",
+   "title": "PROCEDURI din 19 septembrie 2012 pentru aplicarea art. 24 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 168/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142882",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142882",
+     "sha256": "06cab8507971291c997c66d90e38433d1558f335e5dead1d9ec6ee4a90966346"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2012-11-22",
+   "path": "profesii/cafr/procedura-2012-11-22",
+   "short": "Procedura CAFR din 22 noiembrie 2012",
+   "title": "PROCEDURI din 22 noiembrie 2012 privind echivalarea testului de verificare a cunoștințelor în domeniul financiar-contabil, pentru accesul la stagiu în baza titlului de doctor în domeniul contabilității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143528",
+   "versions": [
+    {
+     "from": "2012-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143528",
+     "sha256": "3c2e2dbdc3415deba1fb5024db5487cbd0e07de206d9ee65bf869aa0490e6f40"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2013-02-04",
+   "path": "profesii/cafr/procedura-2013-02-04",
+   "short": "Procedura CAFR din 4 februarie 2013",
+   "title": "PROCEDURI din 4 februarie 2013 privind echivalarea vechimii în domeniul financiar-contabil și a testului de verificare a cunoștințelor în domeniul financiar-contabil, pentru accesul la stagiu în baza titlului științific de doctor obținut în domeniul \"contabilitate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145556",
+   "versions": [
+    {
+     "from": "2013-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145556",
+     "sha256": "688e886392774a838e3a330174d740c0c2d0043e7fa60ba2dca28adab73ec528"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2013-12-12-2",
+   "path": "profesii/cafr/procedura-2013-12-12-2",
+   "short": "Procedura CAFR din 12 decembrie 2013",
+   "title": "PROCEDURI din 12 decembrie 2013 pentru aplicarea art. 24 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 49/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156138",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156138",
+     "sha256": "6851ba906346777c180986699338967329c40872e4f4eda930148f82c47f3c63"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2013-12-12",
+   "path": "profesii/cafr/procedura-2013-12-12",
+   "short": "Procedura CAFR din 12 decembrie 2013",
+   "title": "PROCEDURI din 12 decembrie 2013 pentru aplicarea art. 29 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 49/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156134",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156134",
+     "sha256": "614b6aa6b2e74a43926d257f6278542512ab745f382a0aba4301e041a91da3aa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2014-02-21",
+   "path": "profesii/cafr/procedura-2014-02-21",
+   "short": "Procedura CAFR din 21 februarie 2014",
+   "title": "PROCEDURI din 21 februarie 2014 de înscriere la examenul de competență profesională a persoanelor care au finalizat stagiul la Camera Auditorilor Financiari din România și sunt membri cu drepturi depline ai Asociației Contabililor Autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156385",
+   "versions": [
+    {
+     "from": "2014-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156385",
+     "sha256": "62f079142c32a028c07544bbd0d32fc77a23c8c6d451eb5eb103264e65969ec8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2018-09-07",
+   "path": "profesii/cafr/procedura-2018-09-07",
+   "short": "Procedura CAFR din 7 septembrie 2018",
+   "title": "PROCEDURĂ din 7 septembrie 2018 privind activitatea de traducere și revizuire a ghidurilor, documentelor de îndrumare și publicațiilor pentru desfășurarea activităților de audit financiar în România, altele decât auditul statutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206740",
+   "versions": [
+    {
+     "from": "2018-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206740",
+     "sha256": "c517751846f3f36604c62d3e13a6f6b7d129a94a76918673a8824cb49c00abbd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2020-05-29",
+   "path": "profesii/cafr/procedura-2020-05-29",
+   "short": "Procedura CAFR din 29 mai 2020",
+   "title": "PROCEDURĂ din 29 mai 2020 privind organizarea Conferinței Camerei Auditorilor Financiari din România, prin vot la distanță, în data de 11 iulie 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226581",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226581",
+     "sha256": "d80b09334c41d11996d5ccfe8d76cbd56526b15ca36f7344087fd04e024c13a0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2021-03-11",
+   "path": "profesii/cafr/procedura-2021-03-11",
+   "short": "Procedura CAFR din 11 martie 2021",
+   "title": "PROCEDURĂ din 11 martie 2021 privind organizarea Conferinței Camerei Auditorilor Financiari din România prin vot la distanță în data de 17 aprilie 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239200",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239200",
+     "sha256": "9a433b784a9d9fb2af85421df9518bccf433fcddb288ccf71ebbe0f8046f3d3d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-procedura-2022-03-28",
+   "path": "profesii/cafr/procedura-2022-03-28",
+   "short": "Procedura CAFR din 28 martie 2022",
+   "title": "PROCEDURĂ din 28 martie 2022 privind organizarea Conferinței Camerei Auditorilor Financiari din România, prin vot la distanță, în data de 29 aprilie 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253516",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253516",
+     "sha256": "51e10935ea150b186d990259d4559a76ff8155c96ae6d9e52eaaeecfcd05081e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-protocol-2014-02-21",
+   "path": "profesii/cafr/protocol-2014-02-21",
+   "short": "Protocolul CAFR din 21 februarie 2014",
+   "title": "PROTOCOL DE COLABORARE din 21 februarie 2014 privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156136",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156136",
+     "sha256": "4ab644bc16c7541372ea9180fd2c63f85d3d0599e7132039c7d4522505302774"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-regulament-2012-06-28",
+   "path": "profesii/cafr/regulament-2012-06-28",
+   "short": "Regulamentul CAFR din 28 iunie 2012",
+   "title": "REGULAMENT din 28 iunie 2012 de organizare și desfășurare a examenului de competență profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141667",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141667",
+     "sha256": "67c9b08367ffa99ea21d620c09a7db5849d0e005913579a37c33cdc653b36e1f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-regulament-2017-07-20",
+   "path": "profesii/cafr/regulament-2017-07-20",
+   "short": "Regulamentul CAFR din 20 iulie 2017",
+   "title": "REGULAMENT din 20 iulie 2017 pentru organizarea și desfășurarea alegerilor pentru membrii Consiliului Camerei Auditorilor Financiari din România și membrii Comisiei de auditori statutari a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191957",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191957",
+     "sha256": "471978bf2f33dc41804ed29dd0f2510681c3b19fd1f422a1d5cec6c424ba1276"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-regulament-2018-10-23",
+   "path": "profesii/cafr/regulament-2018-10-23",
+   "short": "Regulamentul CAFR din 23 octombrie 2018",
+   "title": "REGULAMENT din 23 octombrie 2018 privind organizarea și funcționarea Comisiei de disciplină a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207034",
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207034",
+     "sha256": "566438351242ca65dd34c01c6b61173adbafc4efe09379d26e5fd15855a8e172"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-regulament-2019-02-26",
+   "path": "profesii/cafr/regulament-2019-02-26",
+   "short": "Regulamentul CAFR din 26 februarie 2019",
+   "title": "REGULAMENT din 26 februarie 2019 pentru organizarea și desfășurarea alegerilor pentru membrii Comisiei de disciplină care vor avea loc în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în data de 13 aprilie 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211614",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211614",
+     "sha256": "0c7dddbc466c93903863bc9c26e23bee1163037652d5d403e1ec70dc6b8c7f67"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-regulament-2022-02-28",
+   "path": "profesii/cafr/regulament-2022-02-28",
+   "short": "Regulamentul CAFR din 28 februarie 2022",
+   "title": "REGULAMENT din 28 februarie 2022 privind organizarea alegerilor pentru membrii Comisiei de disciplină care vor avea loc în cadrul Conferinței Camerei Auditorilor Financiari din România în anul 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252394",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252394",
+     "sha256": "c171738e93db0e0beb55035396f9a6cd11419df9433a6f32c7363e1f3b43813d"
     }
    ]
   },
@@ -33,6 +888,1701 @@
    ]
   },
   {
+   "slug": "profesii-cafr-reguli-2002-10-23",
+   "path": "profesii/cafr/reguli-2002-10-23",
+   "short": "Regulile CAFR din 23 octombrie 2002",
+   "title": "REGULI din 23 octombrie 2002 de organizare și desfășurare a testului de verificare a cunoștințelor în domeniul financiar-contabil pentru accesul la stagiu, sesiunea decembrie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39801",
+   "versions": [
+    {
+     "from": "2002-11-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39801",
+     "sha256": "b53997cfa4124581c01f21692ab5394b2c0f9d870c08c84e16d8c4b776f0622b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-reguli-2005-12-14",
+   "path": "profesii/cafr/reguli-2005-12-14",
+   "short": "Regulile CAFR din 14 decembrie 2005",
+   "title": "REGULI din 14 decembrie 2005 de organizare și desfășurare a examenului de aptitudini profesionale pentru atribuirea calității de auditor financiar, sesiunea 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68185",
+   "versions": [
+    {
+     "from": "2006-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68185",
+     "sha256": "daaaa4db1dad207b41679eb8418a72bf28e9bd5b2a4a437f3b3e4fe2fa7e78e6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-reguli-2008-02-26",
+   "path": "profesii/cafr/reguli-2008-02-26",
+   "short": "Regulile CAFR din 26 februarie 2008",
+   "title": "REGULI din 26 februarie 2008 de organizare și desfășurare a examenului de aptitudini profesionale pentru atribuirea calității de auditor financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91851",
+   "versions": [
+    {
+     "from": "2008-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91851",
+     "sha256": "09160acc56e9064fc31983641df8ef8a6e1f9cb3acbb672ecafd98ab027abb3d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-standard-2007-04-19",
+   "path": "profesii/cafr/standard-2007-04-19",
+   "short": "Standardul CAFR din 19 aprilie 2007",
+   "title": "STANDARDELE DE AUDIT INTERN din 19 aprilie 2007 elaborate și publicate de Institutul Auditorilor Interni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83050",
+   "versions": [
+    {
+     "from": "2007-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83050",
+     "sha256": "3f0c0f60da02cd20e26e6f8f6ce3e400dd466046a2cff5518e68a1b59a1b5d71"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-cod-etica-2007-07-30",
+   "path": "profesii/ccf/cod-etica-2007-07-30",
+   "short": "Codul de etică CCF din 30 iulie 2007",
+   "title": "CODUL din 30 iulie 2007 privind conduita etică și profesională în domeniul consultanței fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85547",
+   "versions": [
+    {
+     "from": "2007-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85547",
+     "sha256": "661a90602817485c84563a7736ef18d33502be4d987731b279a666efe00a0aba"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-norme-2007-12-31",
+   "path": "profesii/ccf/norme-2007-12-31",
+   "short": "Normele CCF din 31 decembrie 2007",
+   "title": "NORME din 31 decembrie 2007 privind pregătirea profesională continuă a consultanților fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88955",
+   "versions": [
+    {
+     "from": "2008-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88955",
+     "sha256": "27801c3ec1c58319736eacfaef8db6f00b0ac552d014093f8e408efaceb89142"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-norme-2008-03-19",
+   "path": "profesii/ccf/norme-2008-03-19",
+   "short": "Normele CCF din 19 martie 2008",
+   "title": "NORME din 19 martie 2008 privind realizarea de expertize fiscale la solicitarea instanțelor judecătorești, organelor de cercetare penală, organelor fiscale sau a altor părți interesate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91059",
+   "versions": [
+    {
+     "from": "2008-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91059",
+     "sha256": "0cc2198ca69d695b19949a0714b2c9a0c83951399737dfdba279eb8152053a15"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-norme-2010-02-17",
+   "path": "profesii/ccf/norme-2010-02-17",
+   "short": "Normele CCF din 17 februarie 2010",
+   "title": "NORME din 17 februarie 2010 de certificare a declarațiilor fiscale anuale ale contribuabililor persoane juridice, cu excepția celor pentru care este obligatorie auditarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116302",
+   "versions": [
+    {
+     "from": "2010-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116302",
+     "sha256": "ae291727b86d39fe9c0bf7abf39d1eade2279dc83bf345557fe8788b75ba73ff"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-norme-2011-02-24",
+   "path": "profesii/ccf/norme-2011-02-24",
+   "short": "Normele CCF din 24 februarie 2011",
+   "title": "NORME din 24 februarie 2011 de certificare a declarațiilor fiscale anuale ale contribuabililor persoane juridice, cu excepția celor pentru care este obligatorie auditarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126506",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126506",
+     "sha256": "20700bee7177ef231fbddeb1532be725d26f8cd1926f65945cbc1fee15903e7a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-norme-2012-03-15",
+   "path": "profesii/ccf/norme-2012-03-15",
+   "short": "Normele CCF din 15 martie 2012",
+   "title": "NORME din 15 martie 2012 privind instituirea măsurilor de prevenire și combatere a spălării banilor și a finanțării actelor de terorism prin intermediul activității de consultanță fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136775",
+   "versions": [
+    {
+     "from": "2012-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136775",
+     "sha256": "050e35d796496b39abbed7eaffdd7366ccf3a990d5814c0576c8eac5d27bd88f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-norme-2012-11-20",
+   "path": "profesii/ccf/norme-2012-11-20",
+   "short": "Normele CCF din 20 noiembrie 2012",
+   "title": "NORME PROCEDURALE din 20 noiembrie 2012 privind modificarea stării consultantului fiscal, suspendarea, încetarea și redobândirea calității de membru al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144202",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144202",
+     "sha256": "5de620c241d0e62c789d66f47767f33e3c8b72504ca3471d997af9f6f43a67da"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-norme-2023-02-28",
+   "path": "profesii/ccf/norme-2023-02-28",
+   "short": "Normele CCF din 28 februarie 2023",
+   "title": "NORME PROFESIONALE din 28 februarie 2023 privind desfășurarea activității de consultanță fiscală de către consultanții fiscali asistenți, pe perioada stagiului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265619",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265619",
+     "sha256": "7984c773e92c618dbff51cc52672557958d3751a68d920fb2dd5d0030047f222"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-norme-2024-03-11",
+   "path": "profesii/ccf/norme-2024-03-11",
+   "short": "Normele CCF din 11 martie 2024",
+   "title": "NORME PROFESIONALE SECTORIALE din 11 martie 2024 privind instituirea măsurilor de prevenire și combatere a spălării banilor și a finanțării terorismului, specifice activității de consultanță fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280043",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280043",
+     "sha256": "bf2ace1d6b4c827c1f744cfaa3804e3a5c5a0ea6f57befc5b4247a487f87fa19"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-norme-2026-02-02",
+   "path": "profesii/ccf/norme-2026-02-02",
+   "short": "Normele CCF din 2 februarie 2026",
+   "title": "NORME din 2 februarie 2026 privind realizarea de expertize fiscale judiciare și extrajudiciare de către consultanții fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307311",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307311",
+     "sha256": "45cea9eb420183df113d6aa2a540788cfeda25d4b344bf0c06d6aab1ff04ab54"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-procedura-2008-03-11",
+   "path": "profesii/ccf/procedura-2008-03-11",
+   "short": "Procedura CCF din 11 martie 2008",
+   "title": "PROCEDURI din 11 martie 2008 pentru agrearea societăților comerciale de consultanță fiscală organizatoare de cursuri de pregătire profesională pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90381",
+   "versions": [
+    {
+     "from": "2008-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90381",
+     "sha256": "21feb0e2a79bf4d5855e1d712bf8be65e7e35ce8d9f987e23f858275a342a871"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-procedura-2025-02-07",
+   "path": "profesii/ccf/procedura-2025-02-07",
+   "short": "Procedura CCF din 7 februarie 2025",
+   "title": "PROCEDURĂ INTERNĂ din 7 februarie 2025 privind asigurarea implementării și aplicării art. 2 din Procedura de îndrumare și asistență a contribuabililor/plătitorilor, acordate de către Agenția Națională de Administrare Fiscală, și de coordonare metodologică a activității de aplicare unitară a legislației fiscale și procedural fiscale desfășurate de structurile de asistență contribuabili, precum și în domeniul tehnologiei informației, aprobată prin Ordinul ministrului finanțelor nr. 1.233/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294752",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294752",
+     "sha256": "fe37494673d360b3ced4005f144307ed1aca4bb1324fa798a790d5e8f6941696"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-program-2008-01-24",
+   "path": "profesii/ccf/program-2008-01-24",
+   "short": "Programul CCF din 24 ianuarie 2008",
+   "title": "PROGRAMUL din 24 ianuarie 2008 de pregătire profesională continuă aferent anului 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89470",
+   "versions": [
+    {
+     "from": "2008-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89470",
+     "sha256": "b14d738b3b93dd2028bf9f9634e53c26053d540b2d6c2dcec4d36ee1a04867cd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-program-2012-02-23",
+   "path": "profesii/ccf/program-2012-02-23",
+   "short": "Programul CCF din 23 februarie 2012",
+   "title": "PROGRAM din 23 februarie 2012 de pregătire profesională continuă aferent anului 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135978",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135978",
+     "sha256": "b0b9ec40cc7031cb930d5ae4ccbe04d5dc1643a12d3ec133a1e93cb0742649cd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-program-2021-01-28",
+   "path": "profesii/ccf/program-2021-01-28",
+   "short": "Programul CCF din 28 ianuarie 2021",
+   "title": "PROGRAM din 28 ianuarie 2021 de pregătire profesională continuă aferent anului 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237076",
+   "versions": [
+    {
+     "from": "2021-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237076",
+     "sha256": "58038f3001e517478a8b9b169f7f00e60f26d5de2e94dfb848f26490ed9c3e8d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-regulament-2012-10-18-2",
+   "path": "profesii/ccf/regulament-2012-10-18-2",
+   "short": "Regulamentul CCF din 18 octombrie 2012",
+   "title": "REGULAMENT din 18 octombrie 2012 de organizare și funcționare al Comitetului Fiscal al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144018",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144018",
+     "sha256": "e7e9d2536147352da23d90db2a972830cbb5f2d8567fcae66d7414a1650a5509"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-regulament-2012-10-18",
+   "path": "profesii/ccf/regulament-2012-10-18",
+   "short": "Regulamentul CCF din 18 octombrie 2012",
+   "title": "REGULAMENT din 18 octombrie 2012 de organizare și funcționare al Comitetului pentru probleme profesionale al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144015",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144015",
+     "sha256": "4759385a82ed92c9ddf19ecc1e880877c66c33be46ceb679a473acf8fe77f405"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-regulament-2020-08-27",
+   "path": "profesii/ccf/regulament-2020-08-27",
+   "short": "Regulamentul CCF din 27 august 2020",
+   "title": "REGULAMENT din 27 august 2020 pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229987",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229987",
+     "sha256": "24c25bb91ef8cce049376800588713584eb73e614aaf8c0f3c54ea102c775626"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-regulament-2022-01-31",
+   "path": "profesii/ccf/regulament-2022-01-31",
+   "short": "Regulamentul CCF din 31 ianuarie 2022",
+   "title": "REGULAMENT din 31 ianuarie 2022 de organizare și funcționare al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251891",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251891",
+     "sha256": "4bd3793351ff2aefaf8fdf4a5be5c2919c26ef35b9fd17267ea88df7b06e8878"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-regulament-2024-08-30",
+   "path": "profesii/ccf/regulament-2024-08-30",
+   "short": "Regulamentul CCF din 30 august 2024",
+   "title": "REGULAMENT din 30 august 2024 pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288002",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288002",
+     "sha256": "590e2b90a5a48ba4de155c678b521e8b268c9e5cfadbd4193eac0ca21b28e5ba"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-norme-2023-01-12",
+   "path": "profesii/ceccar/norme-2023-01-12",
+   "short": "Normele CECCAR din 12 ianuarie 2023",
+   "title": "NORME SECTORIALE din 12 ianuarie 2023 privind aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum si pentru modificarea și completarea unor acte normative, în domeniul serviciilor oferite de profesioniștii contabili, membri ai Corpului Experților Contabili și Contabililor Autorizați din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264055",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264055",
+     "sha256": "36270780ee79b6c5df1d5d11a4e31df219f3d872ff8bb276acc70ce78118686c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-regulament-2000-02-17",
+   "path": "profesii/ceccar/regulament-2000-02-17",
+   "short": "Regulamentul CECCAR din 17 februarie 2000",
+   "title": "REGULAMENT din 17 februarie 2000 privind efectuarea stagiului și examenul de aptitudini în vederea accesului la calitatea de expert contabil și de contabil autorizat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21422",
+   "versions": [
+    {
+     "from": "2000-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21422",
+     "sha256": "9d4e29f1b2c665b74dc56f70714db940e07f8d1554f7dfc9b439174fe6811490"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-cod-etica-2005-05-10",
+   "path": "profesii/cfr/cod-etica-2005-05-10",
+   "short": "Codul de etică CFR din 10 mai 2005",
+   "title": "CODUL DEONTOLOGIC din 10 mai 2005 al farmaciștilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64306",
+   "versions": [
+    {
+     "from": "2005-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64306",
+     "sha256": "66b1f6cef2cafc14ac566ff0a2a2191f3d276667d0546e57a05eaed2569040b4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-cod-etica-2009-06-15",
+   "path": "profesii/cfr/cod-etica-2009-06-15",
+   "short": "Codul de etică CFR din 15 iunie 2009",
+   "title": "CODUL DEONTOLOGIC din 15 iunie 2009 al farmacistului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109599",
+   "versions": [
+    {
+     "from": "2009-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109599",
+     "sha256": "7d29c2a26747541253e265e88add4c0058d939c036ebba9c0f3f4bacd23f4650"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-regulament-2007-10-09",
+   "path": "profesii/cfr/regulament-2007-10-09",
+   "short": "Regulamentul CFR din 9 octombrie 2007",
+   "title": "REGULAMENT ELECTORAL din 9 octombrie 2007 al Colegiului Farmaciștilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86636",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86636",
+     "sha256": "31a688097b9c5d7a98411e1fbd061fd84e4874e785133291aa1b38ee9e0ec922"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-regulament-2019-12-16",
+   "path": "profesii/cfr/regulament-2019-12-16",
+   "short": "Regulamentul CFR din 16 decembrie 2019",
+   "title": "REGULAMENT ELECTORAL din 16 decembrie 2019 de organizare și desfășurare a alegerilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221723",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221723",
+     "sha256": "606f80a2251d1f23da2e0c949144b94e1ccc85b94fd7c50f2cb65477fe49b495"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-regulament-2023-11-22",
+   "path": "profesii/cfr/regulament-2023-11-22",
+   "short": "Regulamentul CFR din 22 noiembrie 2023",
+   "title": "REGULAMENT ELECTORAL din 22 noiembrie 2023 de organizare și desfășurare a alegerilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277265",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277265",
+     "sha256": "7958f7120838bf00ef77ff099f78ab9cd94c8e7dff95fb820a892a0002ce53e5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-cod-deontologic-2018-08-25",
+   "path": "profesii/cfzro/cod-deontologic-2018-08-25",
+   "short": "Codul deontologic CFZRO din 25 august 2018",
+   "title": "CODUL DEONTOLOGIC din 25 august 2018 al fizioterapeutului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204808",
+   "versions": [
+    {
+     "from": "2018-09-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204808",
+     "sha256": "4df023102845cea8cfd2799802becf4491d46547a28ec06905c0ac069d279ccc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-metodologie-2018-07-26",
+   "path": "profesii/cfzro/metodologie-2018-07-26",
+   "short": "Metodologia CFZRO din 26 iulie 2018",
+   "title": "METODOLOGIE din 26 iulie 2018 privind întocmirea și eliberarea certificatului de status profesional curent pentru membrii Colegiului Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203916",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203916",
+     "sha256": "48ccfa53dc870a83d0038914f5aa72d8f3619e82b500c6811c99393fb49c5627"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-metodologie-2020-03-09",
+   "path": "profesii/cfzro/metodologie-2020-03-09",
+   "short": "Metodologia CFZRO din 9 martie 2020",
+   "title": "METODOLOGIE din 9 martie 2020 pentru recunoașterea titlurilor oficiale de calificare în fizioterapie dobândite în celelalte state membre ale Uniunii Europene, în statele aparținând Spațiului Economic European și în Confederația Elvețiană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223857",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223857",
+     "sha256": "062ac23d66c946d05b858b3096372cfd0e6dab3e45ae35dafc63b0187c3050f9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-metodologie-2020-07-10",
+   "path": "profesii/cfzro/metodologie-2020-07-10",
+   "short": "Metodologia CFZRO din 10 iulie 2020",
+   "title": "METODOLOGIE din 10 iulie 2020 privind activitățile procedurale interne de declanșare a mecanismului de alertă a celorlalte state membre ale Uniunii Europene, a statelor aparținând Spațiului Economic European și a Confederației Elvețiene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228013",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228013",
+     "sha256": "40c11320528d1bb779813c6e8411a9b526078e32d9a04d7ced7f28bc566f567b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-procedura-2018-01-28",
+   "path": "profesii/cfzro/procedura-2018-01-28",
+   "short": "Procedura CFZRO din 28 ianuarie 2018",
+   "title": "PROCEDURĂ din 28 ianuarie 2018 de organizare și desfășurare a ședințelor organelor de conducere la nivel teritorial și național ale Colegiului Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197612",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197612",
+     "sha256": "d0657c58622e52a1a3df7e6df87415909565b3ce5cab7db944f57e7eddca5601"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-procedura-2018-07-26",
+   "path": "profesii/cfzro/procedura-2018-07-26",
+   "short": "Procedura CFZRO din 26 iulie 2018",
+   "title": "PROCEDURĂ din 26 iulie 2018 pentru actualizarea datelor personale și profesionale ale fizioterapeuților aflați în evidențele Colegiului Fizioterapeuților din România și pentru actualizarea documentelor eliberate de Colegiul Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203729",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203729",
+     "sha256": "1b3e7804b8c07d79f6728f16232c5e22473aef8158b8d29352f9a91b70cebb2d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-procedura-2019-09-14",
+   "path": "profesii/cfzro/procedura-2019-09-14",
+   "short": "Procedura CFZRO din 14 septembrie 2019",
+   "title": "PROCEDURĂ din 14 septembrie 2019 privind transferul membrilor Colegiului Fizioterapeuților din România de la un colegiu teritorial la altul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218468",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218468",
+     "sha256": "44985ffde3b142bc98f121d56f4e4525a0a43f59e9aa06fa2d0dd3cc441e2152"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-procedura-2020-10-22",
+   "path": "profesii/cfzro/procedura-2020-10-22",
+   "short": "Procedura CFZRO din 22 octombrie 2020",
+   "title": "PROCEDURI ȘI CRITERII din 22 octombrie 2020 de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232963",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232963",
+     "sha256": "2654a5a01d31841ab3436d3b3bcffe5877aec642668c2b9ffe2cc7c7c9b76448"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-procedura-2023-07-03",
+   "path": "profesii/cfzro/procedura-2023-07-03",
+   "short": "Procedura CFZRO din 3 iulie 2023",
+   "title": "PROCEDURĂ din 3 iulie 2023 de avizare a cabinetelor de liberă practică pentru serviciile publice conexe actului medical de fizioterapie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272179",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272179",
+     "sha256": "87cb6d8e94ecb1ff0de59bdb7ec7c3144c417f71987863c4799a836ad3fa9a34"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-procedura-2025-07-14",
+   "path": "profesii/cfzro/procedura-2025-07-14",
+   "short": "Procedura CFZRO din 14 iulie 2025",
+   "title": "PROCEDURĂ din 14 iulie 2025 de înființare și desființare a colegiilor teritoriale ale Colegiului Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299909",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299909",
+     "sha256": "84e8db10dd03c756d938351b79b67e388aab09a9b293127a073dcf3e70b1aa3d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-regulament-2020-10-22",
+   "path": "profesii/cfzro/regulament-2020-10-22",
+   "short": "Regulamentul CFZRO din 22 octombrie 2020",
+   "title": "REGULAMENT din 22 octombrie 2020 de organizare și funcționare a comisiei de malpraxis a Colegiului Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232942",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232942",
+     "sha256": "21c7cb2e472be67353541211d0749443543fb6693b0cdc56cc5bf5e447951435"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-cod-deontologic-2021-07-09",
+   "path": "profesii/cmdr/cod-deontologic-2021-07-09",
+   "short": "Codul deontologic CMDR din 9 iulie 2021",
+   "title": "COD DEONTOLOGIC din 9 iulie 2021 al medicului stomatolog",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245940",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245940",
+     "sha256": "b959b29fd0a10c2d7ed0dfce062247468ff0f8905f3a8224d13a39e973f862ed"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-cod-etica-2005-06-25",
+   "path": "profesii/cmdr/cod-etica-2005-06-25",
+   "short": "Codul de etică CMDR din 25 iunie 2005",
+   "title": "CODUL DEONTOLOGIC din 25 iunie 2005 al medicului dentist",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64420",
+   "versions": [
+    {
+     "from": "2005-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64420",
+     "sha256": "29fc74f3ecf67fbf94f88c000f4b946209e226b81ae99fa0ce8abc030b237d22"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-cod-etica-2010-05-15",
+   "path": "profesii/cmdr/cod-etica-2010-05-15",
+   "short": "Codul de etică CMDR din 15 mai 2010",
+   "title": "CODUL DEONTOLOGIC din 15 mai 2010 al medicului dentist",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119666",
+   "versions": [
+    {
+     "from": "2010-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119666",
+     "sha256": "4e20dace67e82a7617c4d93bb72b0496c838fe79d487dabe1369cca59f72924f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2020-02-29",
+   "path": "profesii/cmdr/decizie-2020-02-29",
+   "short": "Decizia CMDR din 29 februarie 2020",
+   "title": "DECIZIE nr. 9/2CN din 29 februarie 2020 privind aprobarea componenței Comisiei Electorale Centrale pentru alegerile parțiale organizate până la expirarea mandatului 2019-2023 al organelor de conducere ale Colegiului Medicilor Stomatologi din România, la nivel local și național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223798",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223798",
+     "sha256": "9a70895330e693f4a19893db8115555a39ca9d1682e996f5a999a91475e9dccd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-ghid-2025-05-30",
+   "path": "profesii/cmdr/ghid-2025-05-30",
+   "short": "Ghidul CMDR din 30 mai 2025",
+   "title": "GHID din 30 mai 2025 de bune practici privind publicitatea medicilor stomatologi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298886",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298886",
+     "sha256": "1c96c3d15ad1405dd0a7bdeebd4789a0c51e136179b8f52ff3924bb9edcba407"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-procedura-2021-11-26-2",
+   "path": "profesii/cmdr/procedura-2021-11-26-2",
+   "short": "Procedura CMDR din 26 noiembrie 2021",
+   "title": "PROCEDURĂ din 26 noiembrie 2021 de acreditare/reacreditare a lectorilor implicați în furnizarea de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248999",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248999",
+     "sha256": "f3495caa6e450916ffbfb059d859afe2b5c069c07bc0a5d597ce87a2133a4a76"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-procedura-2021-11-26-3",
+   "path": "profesii/cmdr/procedura-2021-11-26-3",
+   "short": "Procedura CMDR din 26 noiembrie 2021",
+   "title": "PROCEDURĂ din 26 noiembrie 2021 de creditare a formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249000",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249000",
+     "sha256": "2b83ae315108f09ecc0ca795a1206d4419c5bc1f37a8492416e8f17711993232"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-procedura-2021-11-26",
+   "path": "profesii/cmdr/procedura-2021-11-26",
+   "short": "Procedura CMDR din 26 noiembrie 2021",
+   "title": "PROCEDURĂ din 26 noiembrie 2021 de acreditare/reacreditare a furnizorilor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248998",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248998",
+     "sha256": "52f08397fe371a1e87cf44f04a8553f5de05b706ad5c2257e59ae23062ea9867"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-procedura-2024-05-24-2",
+   "path": "profesii/cmdr/procedura-2024-05-24-2",
+   "short": "Procedura CMDR din 24 mai 2024",
+   "title": "PROCEDURĂ din 24 mai 2024 de suspendare a calității de membru al Colegiului Medicilor Stomatologi din România sau a dreptului de exercitare a profesiei de medic stomatolog",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283970",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283970",
+     "sha256": "58e58d572ab9b308c4a0a32030856687ba63064e1bee91eb9fdeac14ea89401d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-procedura-2024-05-24-3",
+   "path": "profesii/cmdr/procedura-2024-05-24-3",
+   "short": "Procedura CMDR din 24 mai 2024",
+   "title": "PROCEDURĂ din 24 mai 2024 de constatare a încetării calității de membru al CMSR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283971",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283971",
+     "sha256": "bb170a902e56c02c26ed4ae2a42626598277047425d6b89cab641301652a501d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-procedura-2024-05-24",
+   "path": "profesii/cmdr/procedura-2024-05-24",
+   "short": "Procedura CMDR din 24 mai 2024",
+   "title": "PROCEDURĂ din 24 mai 2024 de transfer al membrilor CMSR în alt colegiu teritorial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283969",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283969",
+     "sha256": "c6e6c40ad7d08015ba8c98960859a6c59d60276e1b5d77f09ffb77abe1f03d75"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-recomandari-2020-05-05",
+   "path": "profesii/cmdr/recomandari-2020-05-05",
+   "short": "Recomandările CMDR din 5 mai 2020",
+   "title": "RECOMANDĂRI din 5 mai 2020 privind reluarea activității în cabinetele stomatologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225834",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225834",
+     "sha256": "a6b7752aae34bbff03e4ce1ade592e2287800b7c39fd3073213fd2e8aa19c6ac"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2006-11-25",
+   "path": "profesii/cmdr/regulament-2006-11-25",
+   "short": "Regulamentul CMDR din 25 noiembrie 2006",
+   "title": "REGULAMENT din 25 noiembrie 2006 de educație medicală continuă al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79442",
+   "versions": [
+    {
+     "from": "2007-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79442",
+     "sha256": "4561c96ad4b26781903c2c0cf604018756ca10f8909a2d10b73a325322353a23"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2008-03-29",
+   "path": "profesii/cmdr/regulament-2008-03-29",
+   "short": "Regulamentul CMDR din 29 martie 2008",
+   "title": "REGULAMENT din 29 martie 2008 de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93075",
+   "versions": [
+    {
+     "from": "2008-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93075",
+     "sha256": "453a97b803ae8f1dcfd427a47e11e9f8b700f25c222fc14c03016a662fa7934a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2009-11-21",
+   "path": "profesii/cmdr/regulament-2009-11-21",
+   "short": "Regulamentul CMDR din 21 noiembrie 2009",
+   "title": "REGULAMENT din 21 noiembrie 2009 de educație medicală continuă al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114148",
+   "versions": [
+    {
+     "from": "2009-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114148",
+     "sha256": "645ba533637d66914ca4d00b9e1930e2f4daee25b4d0461e34cff03cd3e50641"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2019-07-11",
+   "path": "profesii/cmdr/regulament-2019-07-11",
+   "short": "Regulamentul CMDR din 11 iulie 2019",
+   "title": "REGULAMENT ELECTORAL din 11 iulie 2019 al Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217516",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217516",
+     "sha256": "cd4048297db56109a37fdaa4f8f33b1ba63da77eca5e4e0b4ea3e2bf0d43101b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2023-03-03",
+   "path": "profesii/cmdr/regulament-2023-03-03",
+   "short": "Regulamentul CMDR din 3 martie 2023",
+   "title": "REGULAMENT din 3 martie 2023 de organizare și funcționare a Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267401",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267401",
+     "sha256": "86f6a04c6af260ca2f66a6a5a75626996466f6e15dca54e150cef6a2a9bef40a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2023-05-19",
+   "path": "profesii/cmdr/regulament-2023-05-19",
+   "short": "Regulamentul CMDR din 19 mai 2023",
+   "title": "REGULAMENTUL ELECTORAL din 19 mai 2023 al Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271749",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271749",
+     "sha256": "a589522b5c7831b9c2b6c955402d5c7f3855fa3e858baf24582c55d14248256d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2024-03-28-2",
+   "path": "profesii/cmdr/regulament-2024-03-28-2",
+   "short": "Regulamentul CMDR din 28 martie 2024",
+   "title": "REGULAMENT din 28 martie 2024 de organizare și desfășurare a ședințelor Consiliului național și ale Adunării generale naționale ale Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281747",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281747",
+     "sha256": "e2633838f0903692f8d8de72285cc4f6fecf66bf7ee3f63f9d9141457c1d0cf7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2024-03-28",
+   "path": "profesii/cmdr/regulament-2024-03-28",
+   "short": "Regulamentul CMDR din 28 martie 2024",
+   "title": "REGULAMENT din 28 martie 2024 de organizare și funcționare a comisiilor de litigii ale Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281686",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281686",
+     "sha256": "8e2561ea196b6f3d37f94636ee0fd3ea8d458bea39eb5b47094ca8e186f2fab5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2024-03-29",
+   "path": "profesii/cmdr/regulament-2024-03-29",
+   "short": "Regulamentul CMDR din 29 martie 2024",
+   "title": "REGULAMENT din 29 martie 2024 de organizare și funcționare a Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281683",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281683",
+     "sha256": "fd46247d61d5427698827845d9c21c8b42f32d5a1248724065164bba065ad7e0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2024-05-24",
+   "path": "profesii/cmdr/regulament-2024-05-24",
+   "short": "Regulamentul CMDR din 24 mai 2024",
+   "title": "REGULAMENT din 24 mai 2024 de organizare și funcționare a Comisiei de etică a cercetării științifice din cadrul Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283966",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283966",
+     "sha256": "864d4dfa0af9ebfc0daa674f969b1fbbe89d5327d53b4774edc033f0ebd101fa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-regulament-2024-09-27",
+   "path": "profesii/cmdr/regulament-2024-09-27",
+   "short": "Regulamentul CMDR din 27 septembrie 2024",
+   "title": "REGULAMENT din 27 septembrie 2024 de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289305",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289305",
+     "sha256": "31dfb944b8625374dbaf1bf5bb138f418230885c7a9226447b1aaffc6cfc2ec2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-cod-2025-10-30",
+   "path": "profesii/cmr/cod-2025-10-30",
+   "short": "Codul CMR din 30 octombrie 2025",
+   "title": "CODUL DE DEONTOLOGIE MEDICALĂ din 30 octombrie 2025 al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305076",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305076",
+     "sha256": "b2d7c90f6d735a88adfef2848673bc758098ce02e9cb4cd82d15a6081f991da1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-cod-etica-2012-03-30",
+   "path": "profesii/cmr/cod-etica-2012-03-30",
+   "short": "Codul de etică CMR din 30 martie 2012",
+   "title": "CODUL DE DEONTOLOGIE MEDICALĂ din 30 martie 2012 al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137610",
+   "versions": [
+    {
+     "from": "2012-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137610",
+     "sha256": "ff5ee77cf6259bb79973c3a96eef38b3f0bc6879b9abf6d9a00622e80a7e6cec"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-criterii-2005-12-09",
+   "path": "profesii/cmr/criterii-2005-12-09",
+   "short": "Criteriile CMR din 9 decembrie 2005",
+   "title": "CRITERII din 9 decembrie 2005 de creditare a formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69001",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69001",
+     "sha256": "deb9932e1da53645b6c9344db336fb3754616f20a671bed7b29e7f115c37aba5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-criterii-2009-01-23",
+   "path": "profesii/cmr/criterii-2009-01-23",
+   "short": "Criteriile CMR din 23 ianuarie 2009",
+   "title": "CRITERIILE ȘI NORMELE din 23 ianuarie 2009 de creditare a formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103971",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103971",
+     "sha256": "5a1edfc25386362c5c42fe9f46c3250699c68b32c396d31d0cd82447cbd54947"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-norme-2000-07-19",
+   "path": "profesii/cmr/norme-2000-07-19",
+   "short": "Normele CMR din 19 iulie 2000",
+   "title": "NORME METODOLOGICE din 19 iulie 2000 DE APLICARE A CONTRACTULUI CADRU PRIVIND CONDIȚIILE ACORDĂRII ASISTENȚEI MEDICALE IN CADRUL SISTEMULUI ASIGURĂRILOR SOCIALE DE SĂNĂTATE PENTRU ANUL 2000 APROBAT PRIN HOTĂRÂREA GUVERNULUI NR. 399/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23562",
+   "versions": [
+    {
+     "from": "2000-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23562",
+     "sha256": "a908dcfa14f3f3542eac921e86337955a2963221fe9181058ffa426f101c6233"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-norme-2001-01-12",
+   "path": "profesii/cmr/norme-2001-01-12",
+   "short": "Normele CMR din 12 ianuarie 2001",
+   "title": "NORME METODOLOGICE din 12 ianuarie 2001 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate pentru anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26309",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26309",
+     "sha256": "d6c468e5b7fd1766ee4127b421b9f84c2caf39935983d5629bed101e71256bd9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-norme-2005-12-09",
+   "path": "profesii/cmr/norme-2005-12-09",
+   "short": "Normele CMR din 9 decembrie 2005",
+   "title": "NORME din 9 decembrie 2005 de acreditare a furnizorilor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69002",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69002",
+     "sha256": "859ae96b33108d1a7de08fc3a85be3e467ba6930869f2cb1126d858b1796656b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-norme-2009-01-23",
+   "path": "profesii/cmr/norme-2009-01-23",
+   "short": "Normele CMR din 23 ianuarie 2009",
+   "title": "NORMA ȘI CRITERIILE din 23 ianuarie 2009 de acreditare a furnizorilor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103972",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103972",
+     "sha256": "0d094689c901a774cd711ee0a9fa176abc13bea10306ab81518511f023434423"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-procedura-2020-02-06",
+   "path": "profesii/cmr/procedura-2020-02-06",
+   "short": "Procedura CMR din 6 februarie 2020",
+   "title": "PROCEDURĂ din 6 februarie 2020 privind transferul membrilor Colegiului Medicilor din România de la un colegiu teritorial la alt colegiu teritorial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223373",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223373",
+     "sha256": "5504c1e5d2e41a5e3e8f88d163ad142ac627b4da734b361d70dd0a352f9a5f3b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2007-08-31",
+   "path": "profesii/cmr/regulament-2007-08-31",
+   "short": "Regulamentul CMR din 31 august 2007",
+   "title": "REGULAMENT ELECTORAL din 31 august 2007 al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85499",
+   "versions": [
+    {
+     "from": "2007-09-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85499",
+     "sha256": "e99ae1c31285cbadeddcbbe38f0a10944eabd3c79cf53171d3843fd5084abae0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2011-05-20",
+   "path": "profesii/cmr/regulament-2011-05-20",
+   "short": "Regulamentul CMR din 20 mai 2011",
+   "title": "REGULAMENT ELECTORAL din 20 mai 2011 privind alegerea membrilor comisiilor de disciplină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129485",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129485",
+     "sha256": "d3460a5add7e3e47d665863fa17d9a791a73bb393df0a01ebd4fa78365204fae"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2017-04-28",
+   "path": "profesii/cmr/regulament-2017-04-28",
+   "short": "Regulamentul CMR din 28 aprilie 2017",
+   "title": "REGULAMENT ELECTORAL din 28 aprilie 2017 privind alegerea membrilor comisiilor de disciplină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189169",
+   "versions": [
+    {
+     "from": "2017-05-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189169",
+     "sha256": "a23cf6c1f35445006ca1de0ef2e9e4603c6c147dae854a58a8b112a161e2f58a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2019-11-29",
+   "path": "profesii/cmr/regulament-2019-11-29",
+   "short": "Regulamentul CMR din 29 noiembrie 2019",
+   "title": "REGULAMENT ELECTORAL din 29 noiembrie 2019 de organizare și desfășurare a alegerilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220757",
+   "versions": [
+    {
+     "from": "2019-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220757",
+     "sha256": "b8a945322124517bbabc2bf1f8798a66fb36e07f83f8b1755f4b9826e998ab7e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2021-06-25",
+   "path": "profesii/cmr/regulament-2021-06-25",
+   "short": "Regulamentul CMR din 25 iunie 2021",
+   "title": "REGULAMENT din 25 iunie 2021 de organizare și funcționare a Fondului de Solidaritate a Medicilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244905",
+   "versions": [
+    {
+     "from": "2021-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244905",
+     "sha256": "58a3e9c9cfe64ae1b618998d5b47d7e92a2c2b379294e28f7e98f10840f4ca05"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2021-12-17",
+   "path": "profesii/cmr/regulament-2021-12-17",
+   "short": "Regulamentul CMR din 17 decembrie 2021",
+   "title": "REGULAMENT din 17 decembrie 2021 privind desfășurarea anchetei disciplinare la nivelul colegiilor teritoriale și, respectiv, al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251451",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251451",
+     "sha256": "e4aa95542d92e929bfae7c22e0fb686421d5403f2c1e44fc53e799005dd67e75"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2022-01-28",
+   "path": "profesii/cmr/regulament-2022-01-28",
+   "short": "Regulamentul CMR din 28 ianuarie 2022",
+   "title": "REGULAMENT din 28 ianuarie 2022 de organizare și funcționare a comisiilor de specialitate ale Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252543",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252543",
+     "sha256": "c7da2b45fc838a95dd37fa2aa46dcde91eec41d92df1a18e1145cd63ce9cfa0f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2023-04-28",
+   "path": "profesii/cmr/regulament-2023-04-28",
+   "short": "Regulamentul CMR din 28 aprilie 2023",
+   "title": "REGULAMENT ELECTORAL din 28 aprilie 2023 privind alegerea membrilor comisiilor de disciplină și a membrilor Comisiei Superioare de Disciplină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270253",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270253",
+     "sha256": "f8477ec2bcecc70f2ec000eb06bb5eb7a5d73ece5ca992a7e0dc3543a1c0837d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2024-02-16",
+   "path": "profesii/cmr/regulament-2024-02-16",
+   "short": "Regulamentul CMR din 16 februarie 2024",
+   "title": "REGULAMENT ELECTORAL din 16 februarie 2024 de organizare și desfășurare a alegerilor pentru funcția de membru în biroul consiliului colegiului teritorial, de reprezentant al colegiului teritorial în Consiliul național al Colegiului Medicilor din România și de vicepreședinte coordonator al Comisiei economico-sociale și de asigurări sociale de sănătate în Biroul executiv al Colegiului Medicilor din România, pentru un mandat incomplet",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279466",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279466",
+     "sha256": "90ca180a07485b7a3ddbb837e7f7ddfc468df6d61990253367ba2206faf20097"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-regulament-2024-06-14",
+   "path": "profesii/cmr/regulament-2024-06-14",
+   "short": "Regulamentul CMR din 14 iunie 2024",
+   "title": "REGULAMENT ELECTORAL din 14 iunie 2024 de organizare și desfășurare a alegerilor organelor de conducere și control ale colegiilor teritoriale și ale Colegiului Medicilor din România pentru mandatul 2024 - 2028 și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284545",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284545",
+     "sha256": "e891ce96bd2d17ba332fb1af9c2eb56e2ab28195dc35fd33a1bb07196ffb3705"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-statut-2022-03-25",
+   "path": "profesii/cmr/statut-2022-03-25",
+   "short": "Statutul CMR din 25 martie 2022",
+   "title": "STATUTUL din 25 martie 2022 Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254632",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254632",
+     "sha256": "18ed5132cf623124a53ff961885b286606a4582bbed9df77b29c6d897918b839"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmvr-cod-etica-2010-10-24",
+   "path": "profesii/cmvr/cod-etica-2010-10-24",
+   "short": "Codul de etică CMVR din 24 octombrie 2010",
+   "title": "CODUL din 24 octombrie 2010 de deontologie medicală veterinară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126462",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126462",
+     "sha256": "608fe8500976bdc779c60a2088a5a3e9a46e7b85e1292858369d66351cce2a93"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmvr-cod-etica-2013-10-25",
+   "path": "profesii/cmvr/cod-etica-2013-10-25",
+   "short": "Codul de etică CMVR din 25 octombrie 2013",
+   "title": "CODUL DE DEONTOLOGIE MEDICALĂ VETERINARĂ din 25 octombrie 2013 privind organizarea și exercitarea profesiunii de medic veterinar, republicată, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161359",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161359",
+     "sha256": "8d7098ea0ffbbffcc7befc92edc1f566b285942e377fe3a49feea36ae376c6ce"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-cod-deontologic-2018-11-24",
+   "path": "profesii/cpr/cod-deontologic-2018-11-24",
+   "short": "Codul deontologic CPR din 24 noiembrie 2018",
+   "title": "COD DEONTOLOGIC din 24 noiembrie 2018 al profesiei de psiholog cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211126",
+   "versions": [
+    {
+     "from": "2019-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211126",
+     "sha256": "ee54850299093fe392864cf9d9cb045152800b690450a926bdf88a191f991df8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-cod-etica-2013-11-01",
+   "path": "profesii/cpr/cod-etica-2013-11-01",
+   "short": "Codul de etică CPR din 1 noiembrie 2013",
+   "title": "CODUL DEONTOLOGIC din 1 noiembrie 2013 al profesiei de psiholog cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152766",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152766",
+     "sha256": "e28267a6f27301d01f4a074ec2624c7d0ac29ea16c2d088542437d4e34175c69"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-cod-procedura-disciplinara-2018-11-24",
+   "path": "profesii/cpr/cod-procedura-disciplinara-2018-11-24",
+   "short": "Codul de procedură disciplinară CPR din 24 noiembrie 2018",
+   "title": "COD DE PROCEDURĂ DISCIPLINARĂ din 24 noiembrie 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211135",
+   "versions": [
+    {
+     "from": "2019-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211135",
+     "sha256": "6581135ce2fd68c3bbab1711248a7eca5e6a0930c3e77f5b1556fb7faa381392"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2010-04-16",
+   "path": "profesii/cpr/norme-2010-04-16",
+   "short": "Normele CPR din 16 aprilie 2010",
+   "title": "NORME din 16 aprilie 2010 privind formarea profesională a psihologilor cu drept de liberă practică*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119076",
+   "versions": [
+    {
+     "from": "2010-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119076",
+     "sha256": "a413061f04b742e247fa94ef253abf2719c2a142820f523d7500786d1953fe41"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2013-05-10",
+   "path": "profesii/cpr/norme-2013-05-10",
+   "short": "Normele CPR din 10 mai 2013",
+   "title": "NORME din 10 mai 2013 privind standardele de calitate în serviciile psihologice din sistemul public de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148444",
+   "versions": [
+    {
+     "from": "2013-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148444",
+     "sha256": "8de6852c2089389a987473311da3e7223eb4b54d16d0ca6c3d99bfa118c609df"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2018-11-09-2",
+   "path": "profesii/cpr/norme-2018-11-09-2",
+   "short": "Normele CPR din 9 noiembrie 2018",
+   "title": "NORME din 9 noiembrie 2018 privind formarea profesională a psihologilor cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209663",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209663",
+     "sha256": "4a9b49578dfa153b9db7812fccf53a7b44331149ddbcef31f706f3b80646f507"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2018-11-09",
+   "path": "profesii/cpr/norme-2018-11-09",
+   "short": "Normele CPR din 9 noiembrie 2018",
+   "title": "NORME din 9 noiembrie 2018 privind accesul în profesia de psiholog cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209661",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209661",
+     "sha256": "5d5fb3f6b45692a855ace817608db428247b241cd21fba5542517592b0bd4d13"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2018-11-24",
+   "path": "profesii/cpr/norme-2018-11-24",
+   "short": "Normele CPR din 24 noiembrie 2018",
+   "title": "NORME DE AVIZARE din 24 noiembrie 2018 ale metodelor și tehnicilor de evaluare și asistență psihologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212617",
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212617",
+     "sha256": "6eddb21f3ab416c85bca8d1701acc75ec250ad9c57cd36f6c702420c780fc4cb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2019-03-13",
+   "path": "profesii/cpr/norme-2019-03-13",
+   "short": "Normele CPR din 13 martie 2019",
+   "title": "NORME din 13 martie 2019 privind supervizarea profesională în psihologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212613",
+   "versions": [
+    {
+     "from": "2019-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212613",
+     "sha256": "94c04ac386e6b669b2048c26c434f269b7cf46264525bd5f11f573799bf144db"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2021-09-18",
+   "path": "profesii/cpr/norme-2021-09-18",
+   "short": "Normele CPR din 18 septembrie 2021",
+   "title": "NORME din 18 septembrie 2021 privind educația și formarea profesională a psihologilor cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247535",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247535",
+     "sha256": "9b015337d9369b7135d8de16b6ba1f73eb0d913f3f8837149f1a970175023fa2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2021-11-07",
+   "path": "profesii/cpr/norme-2021-11-07",
+   "short": "Normele CPR din 7 noiembrie 2021",
+   "title": "NORME din 7 noiembrie 2021 privind atestarea profesională a psihologilor cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248536",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248536",
+     "sha256": "cd42d642d7510f56e046ece5f082aba94f2832418efc28a52d6029fe23af39b2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2022-07-21",
+   "path": "profesii/cpr/norme-2022-07-21",
+   "short": "Normele CPR din 21 iulie 2022",
+   "title": "NORME din 21 iulie 2022 privind acordarea mandatelor de reprezentare președinților filialelor teritoriale ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258353",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258353",
+     "sha256": "7c36f8c2a53b5ac16e7b1f4a2dbdd9a0811c781e21c78f297e6bd925e2ece301"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-norme-2023-04-08",
+   "path": "profesii/cpr/norme-2023-04-08",
+   "short": "Normele CPR din 8 aprilie 2023",
+   "title": "NORME din 8 aprilie 2023 privind regimul incompatibilităților și conflictului de interese aplicabile membrilor forurilor de conducere ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270097",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270097",
+     "sha256": "5f37f4cb8f15fb18139ab621655e64258658d07883795f8f8c5063e9ad041798"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-procedura-2013-01-11",
+   "path": "profesii/cpr/procedura-2013-01-11",
+   "short": "Procedura CPR din 11 ianuarie 2013",
+   "title": "PROCEDURĂ din 11 ianuarie 2013 privind organizarea și desfășurarea alegerilor pentru forurile de conducere ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146968",
+   "versions": [
+    {
+     "from": "2013-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146968",
+     "sha256": "57daac5d4aec69c0550fb7658ed4dc932e7cb1e206c30f6cf5830fc6440ae85d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-procedura-2020-12-18",
+   "path": "profesii/cpr/procedura-2020-12-18",
+   "short": "Procedura CPR din 18 decembrie 2020",
+   "title": "PROCEDURĂ din 18 decembrie 2020 privind organizarea și desfășurarea alegerilor pentru forurile de conducere ale Colegiului Psihologilor din România și ale filialelor teritoriale ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236865",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236865",
+     "sha256": "52e42810ce1b3751ae5edcd3d2047a74d3e5730e3d4a64aa01f57ba16e1ff0c5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-procedura-2021-05-28-2",
+   "path": "profesii/cpr/procedura-2021-05-28-2",
+   "short": "Procedura CPR din 28 mai 2021",
+   "title": "PROCEDURĂ din 28 mai 2021 organizarea și desfășurarea ședinței de alegeri a convențiilor filialelor teritoriale ale Colegiului Psihologilor din România în contextul pandemiei generate de COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243826",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243826",
+     "sha256": "656a2a73c432ad6981566e64b050bff467e4d5e4736bae4683e010f4c51b62ee"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-procedura-2021-05-28",
+   "path": "profesii/cpr/procedura-2021-05-28",
+   "short": "Procedura CPR din 28 mai 2021",
+   "title": "PROCEDURĂ din 28 mai 2021 de organizare la distanță a Convenției naționale a Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243824",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243824",
+     "sha256": "ccba46d415c4b4e3bc31310135b0211ac98dd2654d0e025eb94aed98e884fbd3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-procedura-2021-11-07",
+   "path": "profesii/cpr/procedura-2021-11-07",
+   "short": "Procedura CPR din 7 noiembrie 2021",
+   "title": "PROCEDURĂ din 7 noiembrie 2021 de înscriere în Registrul psihologilor acreditați să furnizeze serviciile de intervenție psihologică și psihoterapeutică pentru copii din cadrul Programului național de suport pentru copii, în contextul pandemiei de COVID-19 - \"Din grijă pentru copii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248649",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248649",
+     "sha256": "06e3f8fe90ace9a2a821d93cf836e4b86661bf853ab1d797fd08c74c5754b33f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-procedura-2022-07-25",
+   "path": "profesii/cpr/procedura-2022-07-25",
+   "short": "Procedura CPR din 25 iulie 2022",
+   "title": "PROCEDURĂ din 25 iulie 2022 de transmitere, recepționare, înregistrare, semnare, eliberare și arhivare a diplomelor/certificatelor de absolvire a programelor de formare profesională emise de către furnizorii de formare profesională înregistrați la Colegiul Psihologilor din România pentru programele de formare profesională avizate de către Comitetul director al Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258355",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258355",
+     "sha256": "4c08e993b3158173ee7c126c9fac4dd1cb0e4d1483cff1d456f2ea2426872141"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-procedura-2024-08-22",
+   "path": "profesii/cpr/procedura-2024-08-22",
+   "short": "Procedura CPR din 22 august 2024",
+   "title": "PROCEDURĂ din 22 august 2024 privind constituirea filialelor teritoriale ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290306",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290306",
+     "sha256": "a1c0e9da6b5359c5728a13366a4d44d3cca686c128dd96356d6e21cda0a9f02c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-procedura-2024-12-17-2",
+   "path": "profesii/cpr/procedura-2024-12-17-2",
+   "short": "Procedura CPR din 17 decembrie 2024",
+   "title": "PROCEDURĂ din 17 decembrie 2024 privind renunțarea la exercițiul dreptului de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293203",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293203",
+     "sha256": "813186a69f7a9189bb3165e4e66e20b811d7d49d30228ab9ee82a1dfa88ec2ee"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-procedura-2024-12-17",
+   "path": "profesii/cpr/procedura-2024-12-17",
+   "short": "Procedura CPR din 17 decembrie 2024",
+   "title": "PROCEDURĂ din 17 decembrie 2024 privind suspendarea dreptului de liberă practică pentru neplata cotizației anuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293202",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293202",
+     "sha256": "eff29b927fa4a1461e79531ea50e77a880063642e501b4e5d77c76ebf5ef1603"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-regulament-2018-11-24",
+   "path": "profesii/cpr/regulament-2018-11-24",
+   "short": "Regulamentul CPR din 24 noiembrie 2018",
+   "title": "REGULAMENT din 24 noiembrie 2018 de organizare și funcționare internă al Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210972",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210972",
+     "sha256": "5375bb390f1fd15be793e78c93a4941cd4074ffe9fdb3332630eab7d4f0bdc2b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-standard-2014-09-17",
+   "path": "profesii/cpr/standard-2014-09-17",
+   "short": "Standardul CPR din 17 septembrie 2014",
+   "title": "STANDARDE DE CALITATE ÎN SERVICIILE PSIHOLOGICE Partea generală, Cartea I*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161362",
+   "versions": [
+    {
+     "from": "2014-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161362",
+     "sha256": "853bcb702d5898b9a514d841bb0b9ce7d6b4c3857dcb50983c43b33560f9605e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-standard-2015-04-24",
+   "path": "profesii/cpr/standard-2015-04-24",
+   "short": "Standardul CPR din 24 aprilie 2015",
+   "title": "STANDARD DE CALITATE din 24 aprilie 2015 în serviciile psihologice - Partea generală, Cartea I*) **)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170398",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170398",
+     "sha256": "8602ea22bb6a60d1c0c6eba9c98b018bab822c0b02027dd4304b79008b49e979"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-anexa-2007-10-04",
+   "path": "profesii/csm/anexa-2007-10-04",
+   "short": "Anexa CSM din 4 octombrie 2007",
+   "title": "ANEXE din 4 octombrie 2007 la Regulamentul privind evaluarea activității profesionale a judecătorilor și procurorilor*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87763",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87763",
+     "sha256": "cff36da9a3c36f55ea069198f09cd5df5a819f2e854f34517098781d6332d3d5"
+    }
+   ]
+  },
+  {
    "slug": "profesii-csm-cod-deontologic",
    "path": "profesii/csm/cod-deontologic",
    "short": "Codul deontologic al judecătorilor și procurorilor",
@@ -44,6 +2594,126 @@
      "units": 1,
      "source_url": "https://www.csm1909.ro/Pages/274/Legislaţie",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-cod-etica-2005-04-26",
+   "path": "profesii/csm/cod-etica-2005-04-26",
+   "short": "Codul de etică CSM din 26 aprilie 2005",
+   "title": "CODUL DEONTOLOGIC din 26 aprilie 2005 al magistraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61390",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61390",
+     "sha256": "89463eb11d406ee4fb0183e4e77b03b4720eb615f5fae3aea75d67a77ff5324c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-1993-03-13",
+   "path": "profesii/csm/regulament-1993-03-13",
+   "short": "Regulamentul CSM din 13 martie 1993",
+   "title": "REGULAMENTUL din 13 martie 1993 de funcționare a Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2964",
+   "versions": [
+    {
+     "from": "1993-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2964",
+     "sha256": "eae88aff3cbadd3b9b74149b6dc19eb5d55e8dcb745271a2889f57089e430704"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-1994-11-17",
+   "path": "profesii/csm/regulament-1994-11-17",
+   "short": "Regulamentul CSM din 17 noiembrie 1994",
+   "title": "REGULAMENT din 17 noiembrie 1994 *** Republicat de funcționare a Consiliului Superior al Magistraturii*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3767",
+   "versions": [
+    {
+     "from": "1995-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3767",
+     "sha256": "f3636c5fc96441bd8332844d0dbc04bd1882d507a495588c3fa4d975fb821355"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-2005-12-08",
+   "path": "profesii/csm/regulament-2005-12-08",
+   "short": "Regulamentul CSM din 8 decembrie 2005",
+   "title": "REGULAMENT din 8 decembrie 2005 privind promovarea în funcția de prim-magistrat-asistent și de magistrat-asistent șef la Înalta Curte de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67172",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67172",
+     "sha256": "c4aa4b19cd0720b36dab889d85460bdee5edae11f337541aa79869ebf7955f4a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-2012-09-28",
+   "path": "profesii/csm/regulament-2012-09-28",
+   "short": "Regulamentul CSM din 28 septembrie 2012",
+   "title": "REGULAMENT din 28 septembrie 2012 de organizare și funcționare a Inspecției Judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141832",
+   "versions": [
+    {
+     "from": "2012-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141832",
+     "sha256": "95c5e94cc075d0fa979a8ebc3c6c144e81f9a43acdee6e684a3b6113219d3327"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-2021-07-16",
+   "path": "profesii/csm/regulament-2021-07-16",
+   "short": "Regulamentul CSM din 16 iulie 2021",
+   "title": "REGULAMENT din 16 iulie 2021 privind admiterea la Institutul Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244428",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244428",
+     "sha256": "847de4a758a7c8714cee02db852c97175b9574c06ce6592996c40f262bfa14c6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-2021-07-21",
+   "path": "profesii/csm/regulament-2021-07-21",
+   "short": "Regulamentul CSM din 21 iulie 2021",
+   "title": "REGULAMENT din 21 iulie 2021 privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244831",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244831",
+     "sha256": "a18ce3b45799029875b093260fa3c66925be147ee44f94f0f6fef49331e79f9a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-regulament-2025-11-27",
+   "path": "profesii/csm/regulament-2025-11-27",
+   "short": "Regulamentul CSM din 27 noiembrie 2025",
+   "title": "REGULAMENT din 27 noiembrie 2025 privind examenul de capacitate al procurorilor stagiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304975",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304975",
+     "sha256": "77ff8bcefed363a86ae3df2e570dad43d30d661062690f26a698861d8b8ea395"
     }
    ]
   },
@@ -588,6 +3258,36 @@
    ]
   },
   {
+   "slug": "profesii-mediere-cod-etica-2011-07-29",
+   "path": "profesii/mediere/cod-etica-2011-07-29",
+   "short": "Codul de etică Consiliul de mediere din 29 iulie 2011",
+   "title": "COD DE ETICĂ din 29 iulie 2011 și deontologie profesională a mediatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130830",
+   "versions": [
+    {
+     "from": "2011-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130830",
+     "sha256": "d2359d67487a31fe03981b0fe68cc2aa47e2963c9dd5aa31fbc2dc0b37f9bb37"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-cod-etica-2011-08-06",
+   "path": "profesii/mediere/cod-etica-2011-08-06",
+   "short": "Codul de etică Consiliul de mediere din 6 august 2011",
+   "title": "CODUL DE ETICĂ din 6 august 2011 al membrilor Consiliului de mediere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131247",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131247",
+     "sha256": "6023b4c35af92b80653ccfb6c5178c7ec0e9b54426aa35f2f2c6d7672ef1d059"
+    }
+   ]
+  },
+  {
    "slug": "profesii-mediere-regulament-organizare-functionare",
    "path": "profesii/mediere/regulament-organizare-functionare",
    "short": "Regulamentul de organizare și funcționare a Consiliului de mediere",
@@ -599,6 +3299,21 @@
      "units": 1,
      "source_url": "https://www.consiliuldemediere.ro/legislatie",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-standard-2007-09-07",
+   "path": "profesii/mediere/standard-2007-09-07",
+   "short": "Standardul Consiliul de mediere din 7 septembrie 2007",
+   "title": "STANDARDUL DE FORMARE A MEDIATORULUI din 7 septembrie 2007 privind medierea și organizarea profesiei de mediator",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86274",
+   "versions": [
+    {
+     "from": "2007-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86274",
+     "sha256": "819a3d18a3962757240522208babd21323e82b2aa551ed38c79510730aa9dce1"
     }
    ]
   },
@@ -629,6 +3344,381 @@
      "units": 1,
      "source_url": "https://www.consiliuldemediere.ro/legislatie",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-metodologie-2016-03-17-2",
+   "path": "profesii/oamgmamr/metodologie-2016-03-17-2",
+   "short": "Metodologia OAMGMAMR din 17 martie 2016",
+   "title": "METODOLOGIE din 17 martie 2016 privind avizarea exercitării temporare a activităților profesionale de către asistenții medicali generaliști, moașele și asistenții medicali, cetățeni ai unui stat terț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177123",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177123",
+     "sha256": "0c4a38df0042bd8b8a20ac20786c7f9112716b027f3ae8a8cde51ef3f7708d7f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-metodologie-2016-03-17-3",
+   "path": "profesii/oamgmamr/metodologie-2016-03-17-3",
+   "short": "Metodologia OAMGMAMR din 17 martie 2016",
+   "title": "METODOLOGIE din 17 martie 2016 privind întocmirea și eliberarea documentelor care atestă titlurile românești de calificare de asistent medical generalist, de moașă și de asistent medical, în vederea recunoașterii profesionale de către celelalte state membre ale Uniunii Europene, statele aparținând Spațiului Economic European și de către Confederația Elvețiană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177146",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177146",
+     "sha256": "37b11917e7e8328f255803826d28fe2b5f07f9312bd55c5c5ed3a4835c1bd79a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-metodologie-2016-03-17",
+   "path": "profesii/oamgmamr/metodologie-2016-03-17",
+   "short": "Metodologia OAMGMAMR din 17 martie 2016",
+   "title": "METODOLOGIE din 17 martie 2016 privind activitățile procedurale interne de declanșare a mecanismului de alertă a celorlalte state membre ale Uniunii Europene, a statelor aparținând Spațiului Economic European și a Confederației Elvețiene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177119",
+   "versions": [
+    {
+     "from": "2016-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177119",
+     "sha256": "c7f37b819a57f631b0a02b34869d57bc9115e45d36d0f35acca1777750936bca"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-metodologie-2018-09-28",
+   "path": "profesii/oamgmamr/metodologie-2018-09-28",
+   "short": "Metodologia OAMGMAMR din 28 septembrie 2018",
+   "title": "METODOLOGIE din 28 septembrie 2018 privind activitățile de elaborare a cardului profesional european pentru profesiile din domeniul de competență al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205946",
+   "versions": [
+    {
+     "from": "2018-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205946",
+     "sha256": "ec6c9e9f1f1d4c44a0388afa8fa00d4818c988d4ef2aea9eb9457d60a2b0d810"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-metodologie-2023-12-05",
+   "path": "profesii/oamgmamr/metodologie-2023-12-05",
+   "short": "Metodologia OAMGMAMR din 5 decembrie 2023",
+   "title": "METODOLOGIE din 5 decembrie 2023 de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277590",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277590",
+     "sha256": "8542ff7628b1882436ff47c51a6bab611f13d303d073d582ff8cf550ad75a2b6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-norme-2005-04-07",
+   "path": "profesii/oamgmamr/norme-2005-04-07",
+   "short": "Normele OAMGMAMR din 7 aprilie 2005",
+   "title": "NORME din 7 aprilie 2005 privind procedura de reatestare a competenței profesionale a asistenților medicali și moașelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62035",
+   "versions": [
+    {
+     "from": "2005-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62035",
+     "sha256": "cea7fe79eef31c599a3f1ffe1e32286b1f2b09579096f7fcd9d90c160c1c2994"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2017-12-04",
+   "path": "profesii/oamgmamr/procedura-2017-12-04",
+   "short": "Procedura OAMGMAMR din 4 decembrie 2017",
+   "title": "PROCEDURĂ din 4 decembrie 2017 de suspendare și de retragere a calității de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196342",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196342",
+     "sha256": "2170f25d47a959d8920bfe6928959397e7d8a59dc5dd539eca433e88c61de4ba"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2019-09-11-2",
+   "path": "profesii/oamgmamr/procedura-2019-09-11-2",
+   "short": "Procedura OAMGMAMR din 11 septembrie 2019",
+   "title": "PROCEDURĂ din 11 septembrie 2019 privind înregistrarea temporară automată în OAMGMAMR a moașelor cu formare însușită într-un alt stat membru UE, SEE sau în Confederația Elvețiană și care beneficiază de recunoaștere profesională automată pe teritoriul acestor state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218995",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218995",
+     "sha256": "c33f1e82c42d366abc837492f8faacb248ad66dde22ab5878c82e9ce1016e07d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2019-09-11-3",
+   "path": "profesii/oamgmamr/procedura-2019-09-11-3",
+   "short": "Procedura OAMGMAMR din 11 septembrie 2019",
+   "title": "PROCEDURĂ din 11 septembrie 2019 privind înregistrarea temporară automată la OAMGMAMR a moașelor formate într-un alt stat membru UE, un stat SEE sau în Confederația Elvețiană care nu întrunesc criteriile de recunoaștere automată a calificării prevăzute de Directiva nr. 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218996",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218996",
+     "sha256": "06e50f91f1765602e7bf7e5545a5497152fd2ff7bb819594867c6881b4ef4bf3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2019-09-11-4",
+   "path": "profesii/oamgmamr/procedura-2019-09-11-4",
+   "short": "Procedura OAMGMAMR din 11 septembrie 2019",
+   "title": "PROCEDURĂ din 11 septembrie 2019 privind recunoașterea titlurilor de calificare de asistent medical dobândite într-un alt stat membru UE, într-un un stat aparținând SEE sau în Confederația Elvețiană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218997",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218997",
+     "sha256": "881e1dd0680612833b891638b97f7848a42290c786bc6a8beac4c319dd3aaf88"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2019-09-11-5",
+   "path": "profesii/oamgmamr/procedura-2019-09-11-5",
+   "short": "Procedura OAMGMAMR din 11 septembrie 2019",
+   "title": "PROCEDURĂ din 11 septembrie 2019 privind recunoașterea automată a titlurilor de calificare de moașă eliberate de un alt stat membru UE, de un stat aparținând SEE sau de Confederația Elvețiană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218998",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218998",
+     "sha256": "0885feace822b0d2685f257947f84508b30a68e046a675a12913b9afd709627a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2019-09-11-6",
+   "path": "profesii/oamgmamr/procedura-2019-09-11-6",
+   "short": "Procedura OAMGMAMR din 11 septembrie 2019",
+   "title": "PROCEDURĂ din 11 septembrie 2019 privind recunoașterea cu măsuri compensatorii a titlurilor de calificare de moașă eliberate de un alt stat membru UE, de un stat aparținând SEE sau de Confederația Elvețiană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218999",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218999",
+     "sha256": "7bd9c5d199ae79e8aac996cc3d39386d0bbc88fdfa1928d6362cf7488e33d0cf"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2019-09-11-7",
+   "path": "profesii/oamgmamr/procedura-2019-09-11-7",
+   "short": "Procedura OAMGMAMR din 11 septembrie 2019",
+   "title": "PROCEDURĂ STANDARD din 11 septembrie 2019 privind prestarea temporară sau ocazională a serviciilor de asistent medical generalist pe teritoriul României/înregistrarea temporară automată la Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219001",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219001",
+     "sha256": "18426ad9cb7f1648700346166ad38c614ecc076de82a47c020cb9a4b8d475f68"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2019-09-11-8",
+   "path": "profesii/oamgmamr/procedura-2019-09-11-8",
+   "short": "Procedura OAMGMAMR din 11 septembrie 2019",
+   "title": "PROCEDURĂ STANDARD din 11 septembrie 2019 privind prestarea temporară sau ocazională a serviciilor de asistent medical pe teritoriul României/înregistrarea temporară automată la Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219002",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219002",
+     "sha256": "0f4253c147ba033823bb633d162528bb7994df8aac496beb3a9af75745b8c2d7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2019-09-11-9",
+   "path": "profesii/oamgmamr/procedura-2019-09-11-9",
+   "short": "Procedura OAMGMAMR din 11 septembrie 2019",
+   "title": "PROCEDURĂ STANDARD din 11 septembrie 2019 privind prestarea temporară sau ocazională a serviciilor de moașă pe teritoriul României/înregistrarea temporară automată la Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219003",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219003",
+     "sha256": "885e9806c8629fd7532ae3afece152ab4e2017ede6d04661414f17905dd868f1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2019-09-11",
+   "path": "profesii/oamgmamr/procedura-2019-09-11",
+   "short": "Procedura OAMGMAMR din 11 septembrie 2019",
+   "title": "PROCEDURĂ din 11 septembrie 2019 privind înregistrarea temporară automată în OAMGMAMR a asistenților medicali stabiliți într-un alt stat membru UE, un stat SEE sau în Confederația Elvețiană, pe durata prestării temporare sau ocazionale a serviciilor de asistent medical pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218994",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218994",
+     "sha256": "d3865f2a2c7b91e0d544258c009d87700b60100df8c771a369504f998deea86c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-procedura-2024-12-09",
+   "path": "profesii/oamgmamr/procedura-2024-12-09",
+   "short": "Procedura OAMGMAMR din 9 decembrie 2024",
+   "title": "PROCEDURĂ DE VERIFICARE din 9 decembrie 2024 de verificare a îndeplinirii celorlalte cerințe prevăzute de lege pentru exercitarea profesiei în România de către asistenții medicali generaliști, moașele și asistenții medicali formați în profesie într-un stat terț în vederea finalizării procesului de recunoaștere/echivalare a calificării de către Centrul Național de Recunoaștere și Echivalare a Diplomelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293484",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293484",
+     "sha256": "6824a2f85b6b07cd4a171137d2182774c15012658851f2765c587cae155dff07"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-regulament-2009-12-02",
+   "path": "profesii/oamgmamr/regulament-2009-12-02",
+   "short": "Regulamentul OAMGMAMR din 2 decembrie 2009",
+   "title": "REGULAMENT din 2 decembrie 2009 privind organizarea și desfășurarea activității Comisiei naționale/teritoriale de etică și deontologie a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115636",
+   "versions": [
+    {
+     "from": "2010-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115636",
+     "sha256": "77da38aabf0e23985a21905f6a5db0cb4d6ce2cf3e6fad943284d01ea8c16d6b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-anexa-2021-07-12",
+   "path": "profesii/oar/anexa-2021-07-12",
+   "short": "Anexa OAR din 12 iulie 2021",
+   "title": "ANEXE din 12 iulie 2021 referitoare la modulele componente ale Sistemului de informații asupra costurilor pentru proiectarea de arhitectură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253749",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253749",
+     "sha256": "9140cb125c4c76faa868b4f82c289b4b223c203f754ef28cb52bcf1759f85953"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-cod-deontologic-2025-06-15",
+   "path": "profesii/oar/cod-deontologic-2025-06-15",
+   "short": "Codul deontologic OAR din 15 iunie 2025",
+   "title": "CODUL DEONTOLOGIC din 15 iunie 2025 al profesiei de arhitect",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299823",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299823",
+     "sha256": "fcff97504b4647503a88b7634b714f8b2f1722b40b26409c1083a212635252e9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-cod-etica-2007-07-02",
+   "path": "profesii/oar/cod-etica-2007-07-02",
+   "short": "Codul de etică OAR din 2 iulie 2007",
+   "title": "CODUL DEONTOLOGIC din 2 iulie 2007 al profesiei de arhitect",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83308",
+   "versions": [
+    {
+     "from": "2007-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83308",
+     "sha256": "9c2ee0eb0ef9630f18df33699cb75ad9557c459aead847f978554a7ee0f1dfc1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-cod-etica-2011-11-27",
+   "path": "profesii/oar/cod-etica-2011-11-27",
+   "short": "Codul de etică OAR din 27 noiembrie 2011",
+   "title": "CODUL DEONTOLOGIC din 27 noiembrie 2011 al profesiei de arhitect",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138151",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138151",
+     "sha256": "190024bad167df957a3def86d6b9ef51788345c07a63305e3735ddbdcd72b764"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-regulament-2007-07-02",
+   "path": "profesii/oar/regulament-2007-07-02",
+   "short": "Regulamentul OAR din 2 iulie 2007",
+   "title": "REGULAMENT din 2 iulie 2007 de organizare și funcționare a Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83311",
+   "versions": [
+    {
+     "from": "2007-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83311",
+     "sha256": "77f699494ff9713f7403905730f841778b2660d35a34cb0a4914ab7d3965d993"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-regulament-2011-11-27-2",
+   "path": "profesii/oar/regulament-2011-11-27-2",
+   "short": "Regulamentul OAR din 27 noiembrie 2011",
+   "title": "REGULAMENTUL-CADRU din 27 noiembrie 2011 privind înființarea, organizarea și funcționarea filialelor teritoriale ale Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138152",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138152",
+     "sha256": "5c367fb901b8cac4a6ae60dfc3f4337d787ae5082a17a4e0ed319e0830964f81"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-regulament-2011-11-27",
+   "path": "profesii/oar/regulament-2011-11-27",
+   "short": "Regulamentul OAR din 27 noiembrie 2011",
+   "title": "REGULAMENT din 27 noiembrie 2011 de organizare și funcționare a Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138150",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138150",
+     "sha256": "e0b7520b3ddb5514bfd21542d374b964325437c281fa51e0b761acb170247159"
     }
    ]
   },
@@ -816,6 +3906,21 @@
    ]
   },
   {
+   "slug": "profesii-unbr-statut-2005-01-13",
+   "path": "profesii/unbr/statut-2005-01-13",
+   "short": "Statutul UNBR din 13 ianuarie 2005",
+   "title": "STATUTUL PROFESIEI DE AVOCAT din 13 ianuarie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58582",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58582",
+     "sha256": "7600ac3ed6d6101c6a4f31c40c2ff93e2c20268b471d5620d57e485c2d9fedf6"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unbr-statut",
    "path": "profesii/unbr/statut",
    "short": "Statutul profesiei de avocat",
@@ -837,6 +3942,36 @@
    ]
   },
   {
+   "slug": "profesii-unej-statut-2001-06-12",
+   "path": "profesii/unej/statut-2001-06-12",
+   "short": "Statutul UNEJ din 12 iunie 2001",
+   "title": "STATUT din 2001 al Uniunii Naționale a Executorilor Judecătorești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28946",
+   "versions": [
+    {
+     "from": "2001-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28946",
+     "sha256": "8d8d1fac5b4960e53a04fe3dbd2d99105335fc6b322acdc8c26f1f63a10cd1c7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-statut-2014-05-23",
+   "path": "profesii/unej/statut-2014-05-23",
+   "short": "Statutul UNEJ din 23 mai 2014",
+   "title": "STATUTUL din 23 mai 2014 Casei de Asigurări a Executorilor Judecătorești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159247",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159247",
+     "sha256": "b6252b2db90861cf2106d014d6b357ffbeccf22634d220a79382d64d71404d38"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unej-statut",
    "path": "profesii/unej/statut",
    "short": "Statutul Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc",
@@ -852,6 +3987,126 @@
    ]
   },
   {
+   "slug": "profesii-unnpr-cod-etica-2015-11-14",
+   "path": "profesii/unnpr/cod-etica-2015-11-14",
+   "short": "Codul de etică UNNPR din 14 noiembrie 2015",
+   "title": "CODUL DEONTOLOGIC din 14 noiembrie 2015 al notarilor publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173933",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173933",
+     "sha256": "78464acead8bc1be6679a06115081035bba6c3924c9a3bfd4f024fe0dee200d9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-regulament-2014-03-14",
+   "path": "profesii/unnpr/regulament-2014-03-14",
+   "short": "Regulamentul UNNPR din 14 martie 2014",
+   "title": "REGULAMENT-CADRU din 14 martie 2014 privind organizarea și funcționarea curților de arbitraj de pe lângă Camerele Notarilor Publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157404",
+   "versions": [
+    {
+     "from": "2014-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157404",
+     "sha256": "a51d9dc9bf6d0b4044351abbc5885b209537738186dc4d1b6ae7530edf942f99"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-regulament-2026-02-27",
+   "path": "profesii/unnpr/regulament-2026-02-27",
+   "short": "Regulamentul UNNPR din 27 februarie 2026",
+   "title": "REGULAMENT din 27 februarie 2026 pentru organizarea și desfășurarea concursului de schimbare a sediilor birourilor notariale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309496",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309496",
+     "sha256": "c888b361ca966822d0b5270f3e1fc55b561b27e986c3bd75dfe2bddc8896ddbb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-regulament-2026-06-12",
+   "path": "profesii/unnpr/regulament-2026-06-12",
+   "short": "Regulamentul UNNPR din 12 iunie 2026",
+   "title": "REGULAMENT din 12 iunie 2026 de organizare și funcționare al Consiliului de disciplină din cadrul Uniunii Naționale a Notarilor Publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312254",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312254",
+     "sha256": "9811bd2fce731d2d35ad1c73d38f0e016ea9ab4f62f87b85565a0f124e397310"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-statut-1996-07-22",
+   "path": "profesii/unnpr/statut-1996-07-22",
+   "short": "Statutul UNNPR din 22 iulie 1996",
+   "title": "STATUTUL din 1996 Uniunii Naționale a Notarilor Publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7674",
+   "versions": [
+    {
+     "from": "1996-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7674",
+     "sha256": "aa84d274b88c1ceb938a35a5cb9a4e304d878bb4fd66a74f454e2a30ca741967"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-statut-1999-02-11",
+   "path": "profesii/unnpr/statut-1999-02-11",
+   "short": "Statutul UNNPR din 11 februarie 1999",
+   "title": "STATUT Uniunii Naționale a Notarilor Publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16946",
+   "versions": [
+    {
+     "from": "1999-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16946",
+     "sha256": "7aef0f2b95c862a6482067849be3433f56e2b10194521c1ec6b0ae30e574aea6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-statut-2020-09-02",
+   "path": "profesii/unnpr/statut-2020-09-02",
+   "short": "Statutul UNNPR din 2 septembrie 2020",
+   "title": "STATUTUL din 2 septembrie 2020 Institutului Notarial Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229887",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229887",
+     "sha256": "5fd5991124873d60e9a28a6947df8d13f652d5e3a0e614d19d0b430a4bbf114b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-statut-2020-09-29",
+   "path": "profesii/unnpr/statut-2020-09-29",
+   "short": "Statutul UNNPR din 29 septembrie 2020",
+   "title": "STATUTUL din 29 septembrie 2020 Casei de Pensii a Notarilor Publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230647",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230647",
+     "sha256": "8466ef45459af42a6c2b0fafadc03ee7023bffa2c31f34df4a60e52eff5e0e35"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unpir-cod-deontologic",
    "path": "profesii/unpir/cod-deontologic",
    "short": "Codul de etică profesională și disciplină al Uniunii Naționale a Practicienilor în Insolvență din România",
@@ -863,6 +4118,36 @@
      "units": 1,
      "source_url": "https://www.unpir.ro/index.php/legislatie",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-cod-etica-2007-09-29",
+   "path": "profesii/unpir/cod-etica-2007-09-29",
+   "short": "Codul de etică UNPIR din 29 septembrie 2007",
+   "title": "CODUL DE ETICĂ din 29 septembrie 2007 profesională și disciplină al Uniunii Naționale a Practicienilor în Insolvență din România*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90462",
+   "versions": [
+    {
+     "from": "2007-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90462",
+     "sha256": "d5339772577edb6d06a9d06bccd9d6bcc0b6df5e0e43d3857a7d641419efb692"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-statut-2007-09-29",
+   "path": "profesii/unpir/statut-2007-09-29",
+   "short": "Statutul UNPIR din 29 septembrie 2007",
+   "title": "STATUT din 29 septembrie 2007 de organizare și funcționare al Uniunii Naționale a Practicienilor în Insolvență din România*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90461",
+   "versions": [
+    {
+     "from": "2007-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90461",
+     "sha256": "d51f9c6f3ca9a642e397d43c74d2596dd6a84fcd76bfcad004a7887a9198f2ea"
     }
    ]
   },

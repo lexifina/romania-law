@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/isaccea/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--isaccea-73-2024",
+   "path": "local/tulcea/isaccea/2024/73",
+   "short": "HCL Isaccea nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 73/2024",
+   "url": "https://isaccea.ro/wp-content/uploads/2024/08/HCL_73_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2024/08/HCL_73_2024.pdf",
+     "sha256": "64426407f1b0f40d6a628a81624f2709577cfe3cd4608d8d9934a97e448faeb2"
+    }
+   ]
+  }
+ ]
+}

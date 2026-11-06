@@ -1,0 +1,321 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/vanju-mare/2025",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--vanju-mare-33-2025",
+   "path": "local/mehedinti/vanju-mare/2025/33",
+   "short": "HCL Vânju Mare nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 33/2025 privind rectificarea bugetului local",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/215607",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/215607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-34-2025",
+   "path": "local/mehedinti/vanju-mare/2025/34",
+   "short": "HCL Vânju Mare nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 34/2025 privind virarea de credite bugetare de la un capitol la alt capitol al clasificatiei bugetare",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/216024",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/216024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-37-2025",
+   "path": "local/mehedinti/vanju-mare/2025/37",
+   "short": "HCL Vânju Mare nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 37/2025 privind rectificarea bugetului local pe anul 2025, modificarea listei de investiții și virarea de credite bugetare",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/220286",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/220286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-38-2025",
+   "path": "local/mehedinti/vanju-mare/2025/38",
+   "short": "HCL Vânju Mare nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 38/2025 privind organizarea \"Festivalului Viei si Vinului Vanju Mare\" editia a XXXIV-a in data de 17 - 19.09.2025",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/224180",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/224180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-41-2025",
+   "path": "local/mehedinti/vanju-mare/2025/41",
+   "short": "HCL Vânju Mare nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 41/2025 privind inființarea unui punct de colectare deșeuri textile pe raza UAT Oraș Vânju Mare, județul Mehedinți",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/224183",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/224183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-42-2025",
+   "path": "local/mehedinti/vanju-mare/2025/42",
+   "short": "HCL Vânju Mare nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 42/2025 privind rectificarea bugetului local pe anul 2025 cu suma de 281,66mii lei, virarea de credite bugetare și modificarea listei de investiții pe anul 2025",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/224883",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/224883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-44-2025",
+   "path": "local/mehedinti/vanju-mare/2025/44",
+   "short": "HCL Vânju Mare nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 44/2025 privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2025 - 2026",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/224885",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/224885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-45-2025",
+   "path": "local/mehedinti/vanju-mare/2025/45",
+   "short": "HCL Vânju Mare nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 45/2025 privind rectificarea bugetului local pe anul 2025 cu suma de 27,45mii lei",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/228298",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/228298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-47-2025",
+   "path": "local/mehedinti/vanju-mare/2025/47",
+   "short": "HCL Vânju Mare nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 47/2025 privind aprobarea contului de execuție al bugetului local la data de 30.06.2025, contului de execuție a activității finanțate integral din venituri proprii la data de 30.06.2025 și situațiile financiare aferente trimestrului II al anului 2025",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/228300",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/228300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-52-2025",
+   "path": "local/mehedinti/vanju-mare/2025/52",
+   "short": "HCL Vânju Mare nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 52/2025 privind rectificarea bugetului local",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/231653",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/231653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-54-2025",
+   "path": "local/mehedinti/vanju-mare/2025/54",
+   "short": "HCL Vânju Mare nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 54/2025 privind mandatarea reprezentantului UAT Vanju Mare în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți, pentru a nu vota aprobarea modificarii tarifului de depozitare",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/236878",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/236878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-57-2025",
+   "path": "local/mehedinti/vanju-mare/2025/57",
+   "short": "HCL Vânju Mare nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 57/2025 privind aprobarea proiectului de hotărâre privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2026 - 2027 la nivelul orașului Vânju Mare, jud.Mehedinți",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/236881",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/236881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-58-2025",
+   "path": "local/mehedinti/vanju-mare/2025/58",
+   "short": "HCL Vânju Mare nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 58/2025 privind virarea de credite bugetare de la un capitol la alt capitol al clasificației bugetare",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/236882",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/236882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-59-2025",
+   "path": "local/mehedinti/vanju-mare/2025/59",
+   "short": "HCL Vânju Mare nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 59/2025 privind participarea UAT Vânju Mare la obținerea unei finanțări nerambursabile pentru dotarea SVSU în cadrul secțiunii Intervenție pentru investiții la scară mică și servicii publice",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/236883",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/236883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-60-2025",
+   "path": "local/mehedinti/vanju-mare/2025/60",
+   "short": "HCL Vânju Mare nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 60/2025 privind implementarea proiectului ,,DOTAREA SERVICIULUI VOLUNTAR DE SITUAȚII DE URGENȚĂ AL ORAȘULUI VÂNJU MARE CU UN ÎNCARCATOR FRONTAL\"",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/239788",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/239788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-61-2025",
+   "path": "local/mehedinti/vanju-mare/2025/61",
+   "short": "HCL Vânju Mare nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 61/2025 privind rectificarea bugetului local",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/239789",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/239789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-65-2025",
+   "path": "local/mehedinti/vanju-mare/2025/65",
+   "short": "HCL Vânju Mare nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 65/2025 privind rectificarea bugetului local",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/240988",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/240988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-66-2025",
+   "path": "local/mehedinti/vanju-mare/2025/66",
+   "short": "HCL Vânju Mare nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 66/2025 privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2026 - 2027 la nivelul orașului Vânju Mare, jud.Mehedinți",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/244263",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/244263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-67-2025",
+   "path": "local/mehedinti/vanju-mare/2025/67",
+   "short": "HCL Vânju Mare nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 67/2025 privind aprobarea impozitelor si taxelor locale pe anul 2026",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/244264",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/244264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-68-2025",
+   "path": "local/mehedinti/vanju-mare/2025/68",
+   "short": "HCL Vânju Mare nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 68/2025 privind rectificarea bugetului local și modificarea listei de investiții pe anul 2025",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/244265",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/244265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vanju-mare-69-2025",
+   "path": "local/mehedinti/vanju-mare/2025/69",
+   "short": "HCL Vânju Mare nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 69/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/vanjumare-mh/registru-hcl/245496",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vanjumare-mh/registru-hcl/245496",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

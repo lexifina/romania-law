@@ -1,0 +1,46 @@
+{
+"country": "RO",
+"shard": "anspdcp/2012",
+"acts": [
+{
+"slug": "anspdcp-decizie-2012-23",
+"path": "anspdcp/decizie/2012/23",
+"kind": "anspdcp",
+"year": "2012",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 23 din 26 martie 2012 privind stabilirea cazurilor în care nu este necesară notificarea prelucrării unor date cu caracter personal",
+"short": "Decizia ANSPDCP nr. 23/2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-04-02",
+"latest": "2012-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/136773",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "anspdcp-decizie-2012-52",
+"path": "anspdcp/decizie/2012/52",
+"kind": "anspdcp",
+"year": "2012",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 52 din 31 mai 2012 privind prelucrarea datelor cu caracter personal prin utilizarea mijloacelor de supraveghere video",
+"short": "Decizia ANSPDCP nr. 52/2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-06-11",
+"latest": "2012-06-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/138714",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

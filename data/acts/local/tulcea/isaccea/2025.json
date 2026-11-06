@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/tulcea/isaccea/2025",
+"acts": [
+{
+"slug": "hcl-tulcea--isaccea-42-2025",
+"path": "local/tulcea/isaccea/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 42/2025 privind aprobarea Regulamentului de vânzare a bunurilor imobile aparținând domeniului privat al Orașului Isaccea Consiliul Local al ORAȘULUI ISACCEA, județul Tulcea, legal constituit, întrunit în ședința ordinară în data de 30.04.2025, prezenți fiind un număr de 12 consilieri; Ținând cont de: - Referatul de aprobare nr. 424/6991/11.03.2025 privind aprobarea Regulamentului de vânzare a bunurilor im",
+"short": "HCL Isaccea nr. 42/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://isaccea.ro/wp-content/uploads/2025/05/HCL-42.pdf",
+"council": "tulcea/isaccea",
+"council_name": "Consiliul Local al Orașului Isaccea",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

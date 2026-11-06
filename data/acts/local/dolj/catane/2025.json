@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dolj/catane/2025",
+"acts": [
+{
+"slug": "hcl-dolj--catane-7-2025",
+"path": "local/dolj/catane/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Catane nr. 7/2025 privind initiere demersuri intocmire PUG",
+"short": "HCL Catane nr. 7/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://primaria-catane.ro/hotarari-de-consiliu/",
+"council": "dolj/catane",
+"council_name": "Consiliul Local al Comunei Catane",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

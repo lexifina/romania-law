@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/bucecea/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--bucecea-112-2024",
+   "path": "local/botosani/bucecea/2024/112",
+   "short": "HCL Bucecea nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 112/2024 privind indexarea impozitelor pe mijloace de transport, prevăzute de art. 470, alin. 5 și 6 din Legea nr. 227/2015 privind Codul Fiscal",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/181034",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/181034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-115-2024",
+   "path": "local/botosani/bucecea/2024/115",
+   "short": "HCL Bucecea nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 115/2024 privind modificarea Hotărârii Consiliului local al Orașului Bucecea nr. 89 din 11.10.2024 privind anularea accesoriilor în cazul obligaţiilor bugetare restante la 31 august 2024 datorate bugetului local al orașului Bucecea de persoanele fizice și juridice, anularea cu 50% din obligațiile bugetare principale, restante la data de 31 august 2024 în cuantum mai mic de 5.000 lei inclusiv și anularea cu 25% din obligațiile bugetare principale, restante la data de 31 august 2024 în cuantum mai mare de 5.000 lei datorate bugetului local al orașului Bucecea, de persoanele fizice",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/181037",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/181037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-81-2024",
+   "path": "local/botosani/bucecea/2024/81",
+   "short": "HCL Bucecea nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 81/2024 privind instituirea unor facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 01 aprilie 2024 inclusiv, datorate bugetului local de către persoanele fizice și juridice care au calitatea de contribuabili la bugetul local al Orasului Bucecea",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/166519",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/166519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--bucecea-89-2024",
+   "path": "local/botosani/bucecea/2024/89",
+   "short": "HCL Bucecea nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 89/2024 privind anularea accesoriilor în cazul obligaţiilor bugetare restante la 31 august 2024 datorate bugetului local al orașului Bucecea de persoanele fizice și juridice, anularea cu 50% din obligațiile bugetare principale, restante la data de 31 august 2024 în cuantum mai mic de 5.000 lei inclusiv și anularea cu 25% din obligațiile bugetare principale, restante la data de 31 august 2024 în cuantum mai mare de 5.000 lei datorate bugetului local al orașului Bucecea, de persoanele fizice",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/172602",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/172602",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

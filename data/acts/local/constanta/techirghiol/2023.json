@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/constanta/techirghiol/2023",
+"acts": [
+{
+"slug": "hcl-constanta--techirghiol-196-2023",
+"path": "local/constanta/techirghiol/2023/196",
+"kind": "local",
+"year": "2023",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 196/2023 privind aprobare actualizare Plan Urbanistic General și Regulamentul de Urbanism al orașului Techirghiol, jud. Constanţa",
+"short": "HCL Techirghiol nr. 196/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/135140",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-197-2023",
+"path": "local/constanta/techirghiol/2023/197",
+"kind": "local",
+"year": "2023",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 197/2023 privind aprobarea impozitelor și taxelor locale pe anul 2024",
+"short": "HCL Techirghiol nr. 197/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/135141",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-198-2023",
+"path": "local/constanta/techirghiol/2023/198",
+"kind": "local",
+"year": "2023",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 198/2023 privind aprobarea acordarii de facilitati fiscale la plata accesoriilor aferente obligatiilor bugetare principale : taxe si impozite locale, concesiuni(redevente), chirii restante - anulare accesorii",
+"short": "HCL Techirghiol nr. 198/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/135142",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,696 @@
+{
+ "country": "RO",
+ "shard": "local/arad/chisindia/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--chisindia-1-2022",
+   "path": "local/arad/chisindia/2022/1",
+   "short": "HCL Chisindia nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 1/2022 privind aprobarea ordinii de zi a sedintei ordinare de lucru din data de 14.01.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/47351",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/47351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-10-2022",
+   "path": "local/arad/chisindia/2022/10",
+   "short": "HCL Chisindia nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 10/2022 privind aprobarea ordinii de zi a sedintei ordinare publice de lucru a Consiliului Local Chisindia din data de 24.02.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71687",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-11-2022",
+   "path": "local/arad/chisindia/2022/11",
+   "short": "HCL Chisindia nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 11/2022 privind aprobarea Procesului verbal al sedintei anterioare de lucru a Consiliului Local Chisindia din data de 31.01.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71688",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-12-2022",
+   "path": "local/arad/chisindia/2022/12",
+   "short": "HCL Chisindia nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 12/2022 privind aprobarea Planului de acțiuni și lucrări de interes local , pentru beneficiarii Legii nr.416/2001- privind venitul minim garantat,pentru anul 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71689",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-13-2022",
+   "path": "local/arad/chisindia/2022/13",
+   "short": "HCL Chisindia nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 13/2022 privind aprobarea utilizării excedentului anului 2021, în sumă de 984.861,81 lei",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71690",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-14-2022",
+   "path": "local/arad/chisindia/2022/14",
+   "short": "HCL Chisindia nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 14/2022 privind aprobarea Bugetului de venituri și cheltuieli și a Listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71691",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-15-2022",
+   "path": "local/arad/chisindia/2022/15",
+   "short": "HCL Chisindia nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 15/2022 privind aprobarea retragerii Consiliului Local al Comunei din cadrul Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71692",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-16-2022",
+   "path": "local/arad/chisindia/2022/16",
+   "short": "HCL Chisindia nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 16/2022 privind aprobarea ordinii de zi a sedinței extraordinare a CL din data de 07.03.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71718",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-19-2022",
+   "path": "local/arad/chisindia/2022/19",
+   "short": "HCL Chisindia nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 19/2022 privind completarea inventarului bunurilor care apartin domeniului public ale comunei Chisindia",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71721",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-2-2022",
+   "path": "local/arad/chisindia/2022/2",
+   "short": "HCL Chisindia nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 2/2022 privind aprobarea Procesului verbal al sedintei anterioare a CL Chisindia, din data de 20.12.2021",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/47352",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/47352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-20-2022",
+   "path": "local/arad/chisindia/2022/20",
+   "short": "HCL Chisindia nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 20/2022 privind reglementarea situației transportului elevilor care au domiciliul pe raza administrativ-teritorială a UAT Comuna CHISINDIA și care urmează o forma învățământ preuniversitar/obligatoriu pe raza Orașului Sebiș ca urmare a retragerii din Asociația de Dezvoltare Intercomunitară de Transport Public Arad și și luarea unor măsuri de urgență în vederea continuității serviciului de transport a elevilor de liceu",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71722",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-3-2022",
+   "path": "local/arad/chisindia/2022/3",
+   "short": "HCL Chisindia nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 3/2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/47353",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/47353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-38-2022",
+   "path": "local/arad/chisindia/2022/38",
+   "short": "HCL Chisindia nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 38/2022 privind aprobarea Regulamentului propriu de organizare și funcţionare – prezentat strict pentru Activitățile de colectare și transport - al serviciului public de salubrizare al \"Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor judeţul Arad, avizarea Studiul de oportunitate/fundamentare a deciziei de delegare a gestiunii serviciului de colectare și transport al deșeurilor municipale în județul Arad și de operare a stațiilor de transfer, sortare și compostare în județul Arad, precum și mandatarea unei persoane să voteze acestea în cadrul Adunării Generală a Asociaților",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71778",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-4-2022",
+   "path": "local/arad/chisindia/2022/4",
+   "short": "HCL Chisindia nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 4/2022 privind aprobarea ordinii de zi a şedintei extraordinare publice de lucru a Consiliului Local Chisindia din data de 31 ianuarie 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/48969",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/48969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-44-2022",
+   "path": "local/arad/chisindia/2022/44",
+   "short": "HCL Chisindia nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 44/2022 privind aprobarea ordinii de zi a sedintei ordinare de lucru din data de 12.08.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71799",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-45-2022",
+   "path": "local/arad/chisindia/2022/45",
+   "short": "HCL Chisindia nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 45/2022 privind aprobarea Procesului-verbal al sedintei anterioare a Consiliului local Chisindia din data de 29 iulie 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71800",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-46-2022",
+   "path": "local/arad/chisindia/2022/46",
+   "short": "HCL Chisindia nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 46/2022 privind aprobarea participarii la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobarea Documentației de Avizare a Lucrărilor de Intervenție și a indicatorilor tehnico - economici aferenți obiectivului de investiție ,,Modernizarea iluminatului public în comuna Chisindia, etapa 2, satele Văsoaia și Păiușeni”",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71801",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-47-2022",
+   "path": "local/arad/chisindia/2022/47",
+   "short": "HCL Chisindia nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 47/2022 privind aprobarea ordinii de zi aședintei ordinare de lucru a Consiiului Local, din data de 22.09.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/72483",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/72483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-48-2022",
+   "path": "local/arad/chisindia/2022/48",
+   "short": "HCL Chisindia nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 48/2022 privind aprobarea Procesului Verbal încheiat în şedinţa anterioara de lucru a Consiliului Local Chisindia din data de 12.08.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/72484",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/72484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-5-2022",
+   "path": "local/arad/chisindia/2022/5",
+   "short": "HCL Chisindia nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 5/2022 privind aprobarea Procesului Verbal încheiat în şedinţa anterioara de lucru a Consiliului Local Chisindia din data de 14.01.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/48970",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/48970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-50-2022",
+   "path": "local/arad/chisindia/2022/50",
+   "short": "HCL Chisindia nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 50/2022 privind aprobarea rectificarii Bugetului local de venituri si cheltuieli si a Listei de investiții, pentru anul 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/72486",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/72486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-51-2022",
+   "path": "local/arad/chisindia/2022/51",
+   "short": "HCL Chisindia nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 51/2022 privind aprobarea Contului de execuție bugetară al comunei Chisindia la 30.06. 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/72487",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/72487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-52-2022",
+   "path": "local/arad/chisindia/2022/52",
+   "short": "HCL Chisindia nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 52/2022 privind aprobarea ordinii de zi a şedintei ordinare publice de lucru a Consiliului Local Chisindia din data de 31 octombrie 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/77738",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/77738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-53-2022",
+   "path": "local/arad/chisindia/2022/53",
+   "short": "HCL Chisindia nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 53/2022 privind aprobarea Procesului verbal al sedintei anterioare de lucru a Consiliului Local Chisindia din data de 22.09.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/77739",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/77739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-55-2022",
+   "path": "local/arad/chisindia/2022/55",
+   "short": "HCL Chisindia nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 55/2022 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor-cadru pentru achizitia produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anii școlari 2023-2027",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/77741",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/77741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-56-2022",
+   "path": "local/arad/chisindia/2022/56",
+   "short": "HCL Chisindia nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 56/2022 privind aprobarea atestarii apartenenței la proprietatea privată a comunei CHISINDIA, a imobilului având categoria de folosință teren arabil, situat în extravilanul comunei CHISINDIA, CF 303012 Chisindia",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/77742",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/77742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-57-2022",
+   "path": "local/arad/chisindia/2022/57",
+   "short": "HCL Chisindia nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 57/2022 privind rectificarea Bugetului de venituri și cheltuieli si a Listei de investitii pentru anul 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/77743",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/77743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-58-2022",
+   "path": "local/arad/chisindia/2022/58",
+   "short": "HCL Chisindia nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 58/2022 privind alegerea președintelui de ședință pentru lunile decembrie 2022, ianuarie 2023 și februarie 2023",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/82402",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/82402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-59-2022",
+   "path": "local/arad/chisindia/2022/59",
+   "short": "HCL Chisindia nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 59/2022 privind aprobarea ordinii de zi a şedintei ordinare publice de lucru a Consiliului Local Chisindia din data de 6 decembrie 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/82403",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/82403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-6-2022",
+   "path": "local/arad/chisindia/2022/6",
+   "short": "HCL Chisindia nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 6/2022 privind aprobarea Retelei Scolare a unitatilor de invatamint preuniversitar de stat si particular, din raza Comunei Chisindia, pentru anul scolar 2022-2023",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/48971",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/48971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-60-2022",
+   "path": "local/arad/chisindia/2022/60",
+   "short": "HCL Chisindia nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 60/2022 privind aprobarea Procesului Verbal încheiat în şedinţa anterioara de lucru a Consiliului Local Chisindia din data de 31.10.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/82404",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/82404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-61-2022",
+   "path": "local/arad/chisindia/2022/61",
+   "short": "HCL Chisindia nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 61/2022 privind aprobare taxa pentru utilizatorii casnici și tariful pentru utilizatorii non-casnici ca modaliatate de încasare a serviciului de salubrizare prevăzută în documentația de atribuire a Contractului de concesiune privind delegarea gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor municipale din județul Arad zona 4 pentru procedura licitație deschisă",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/82405",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/82405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-62-2022",
+   "path": "local/arad/chisindia/2022/62",
+   "short": "HCL Chisindia nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 62/2022 privind aprobarea numarului și a cuantumului burselor scolare pentru elevii din unitatile de invatamant preuniversitar de stat din U.A.T.Chisindia, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/82406",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/82406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-63-2022",
+   "path": "local/arad/chisindia/2022/63",
+   "short": "HCL Chisindia nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 63/2022 privind rectificarea Bugetului de venituri și cheltuieli și a Listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/82407",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/82407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-64-2022",
+   "path": "local/arad/chisindia/2022/64",
+   "short": "HCL Chisindia nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 64/2022 privind aprobarea Protocolului de colaborare între Ministerul Muncii si Solidaritatii Sociale si comuna Chisindia, în cadrul proiectului” HUB de servicii MMSS-SII MMSS”",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/82408",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/82408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-65-2022",
+   "path": "local/arad/chisindia/2022/65",
+   "short": "HCL Chisindia nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 65/2022 privind aprobarea ordinii de zi a sedintei extraordinare a Consiliului Local din data de 27.12.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/84650",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/84650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-66-2022",
+   "path": "local/arad/chisindia/2022/66",
+   "short": "HCL Chisindia nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 66/2022 privind aprobarea Procesului verbal al sedintei anterioare, din data de 06.12.2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/84651",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/84651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-67-2022",
+   "path": "local/arad/chisindia/2022/67",
+   "short": "HCL Chisindia nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 67/2022 privind aprobarea pentru filmarea și difuzarea integrală și transmiterea live a ședințelor Consiliului Local Chisindia, precum și a evenimentelor culturale organizate de Primăria Chisindia",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/84652",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/84652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-68-2022",
+   "path": "local/arad/chisindia/2022/68",
+   "short": "HCL Chisindia nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 68/2022 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apa și de canalizare prin Act adițional nr.18",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/84653",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/84653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-69-2022",
+   "path": "local/arad/chisindia/2022/69",
+   "short": "HCL Chisindia nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 69/2022 privind aprobarea Actului Adițional nr. 2 la Acordul document de poziție privind modul de implementare a proiectului “Sistem integrat de gestionare a deșeurilor județul Arad\"",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/84654",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/84654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-7-2022",
+   "path": "local/arad/chisindia/2022/7",
+   "short": "HCL Chisindia nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 7/2022 privind transformarea a 2 posturi vacante, funcții publice de execuție din cadrul aparatului de specialitate al primarului comunei Chisindia",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/48972",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/48972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-70-2022",
+   "path": "local/arad/chisindia/2022/70",
+   "short": "HCL Chisindia nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 70/2022 privind rectificarea Bugetului de venituri și cheltuieli și a Listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/84655",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/84655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-71-2022",
+   "path": "local/arad/chisindia/2022/71",
+   "short": "HCL Chisindia nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 71/2022 privind stabilirea taxelor și impozitelor locale pentru anul 2023",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/84656",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/84656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-72-2022",
+   "path": "local/arad/chisindia/2022/72",
+   "short": "HCL Chisindia nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 72/2022 privind stabilirea cuantumului cotizatiei la ADISIGD",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/84657",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/84657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-8-2022",
+   "path": "local/arad/chisindia/2022/8",
+   "short": "HCL Chisindia nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 8/2022 privind aprobare cotizatie pentru anul 2022 la ADISIGD Arad",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/48973",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/48973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--chisindia-9-2022",
+   "path": "local/arad/chisindia/2022/9",
+   "short": "HCL Chisindia nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chisindia nr. 9/2022 privind alegerea presedintelui de sedinta pentru lunile februarie, martie si aprilie 2022",
+   "url": "https://emol.ro/chisindia-ar/registru-hcl/71686",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chisindia-ar/registru-hcl/71686",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

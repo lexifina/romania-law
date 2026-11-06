@@ -3,6 +3,106 @@
 "shard": "profesii/2018",
 "acts": [
 {
+"slug": "profesii-ccf-hotarare-2018-1",
+"path": "profesii/ccf/hotarare/2018/1",
+"kind": "profesii",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 23 ianuarie 2018 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2018",
+"short": "Hotărârea CCF nr. 1/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-05",
+"latest": "2018-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197480",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-consiliu-national-2018-1",
+"path": "profesii/cfr/decizie-consiliu-national/2018/1",
+"kind": "profesii",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 23 iunie 2018 privind aprobarea unor taxe pentru serviciile prestate de către Colegiul Farmaciștilor din România",
+"short": "Decizia CFR nr. 1/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-13",
+"latest": "2018-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202642",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-adunare-generala-2018-1",
+"path": "profesii/cfzro/hotarare-adunare-generala/2018/1",
+"kind": "profesii",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 28 ianuarie 2018 pentru aprobarea însemnelor Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 1/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-12",
+"latest": "2018-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197602",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-2018-1",
+"path": "profesii/cpr/hotarare/2018/1",
+"kind": "profesii",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 24 noiembrie 2018 pentru aprobarea Codului deontologic al profesiei de psiholog cu drept de liberă practică",
+"short": "Hotărârea CPR nr. 1/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-02-22",
+"latest": "2019-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/211125",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2018-1",
+"path": "profesii/oamgmamr/hotarare/2018/1",
+"kind": "profesii",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 16 martie 2018 privind încheierea asigurării pentru răspunderea civilă profesională suplimentară pentru asistenții medicali generaliști, moașe și asistenții medicali care exercită profesia ca titulari de cabinete de practică independentă",
+"short": "Hotărârea OAMGMAMR nr. 1/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199194",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2018-1",
 "path": "profesii/unbr/hotarare-congres/2018/1",
 "kind": "profesii",
@@ -18,6 +118,66 @@
 "from": "2018-04-27",
 "latest": "2018-04-27",
 "portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-20-21-aprilie-2018-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-2",
+"path": "profesii/cafr/hotarare/2018/2",
+"kind": "profesii",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 21 aprilie 2018 privind aprobarea Regulamentului de organizare și funcționare a Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 2/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-05-23",
+"latest": "2018-05-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200968",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2018-2",
+"path": "profesii/ccf/hotarare/2018/2",
+"kind": "profesii",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 22 februarie 2018 privind aprobarea Programului de pregătire profesională continuă aferent anului 2018",
+"short": "Hotărârea CCF nr. 2/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-27",
+"latest": "2018-02-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/198178",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-2018-2",
+"path": "profesii/cpr/hotarare/2018/2",
+"kind": "profesii",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 24 noiembrie 2018 pentru aprobarea Codului de procedură disciplinară",
+"short": "Hotărârea CPR nr. 2/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-02-22",
+"latest": "2019-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/211134",
 "flags": {
 "amendments_checked": false
 }
@@ -43,6 +203,26 @@
 }
 },
 {
+"slug": "profesii-oamgmamr-hotarare-2018-2",
+"path": "profesii/oamgmamr/hotarare/2018/2",
+"kind": "profesii",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 16 martie 2018 privind eliberarea avizului anual pentru asistenții medicali generaliști, moașe și asistenții medicali care își exercită profesia ca persoană fizică independentă",
+"short": "Hotărârea OAMGMAMR nr. 2/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199195",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2018-2",
 "path": "profesii/unbr/hotarare-congres/2018/2",
 "kind": "profesii",
@@ -58,6 +238,106 @@
 "from": "2018-04-27",
 "latest": "2018-04-27",
 "portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-20-21-aprilie-2018-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unpir-hotarare-2018-2",
+"path": "profesii/unpir/hotarare/2018/2",
+"kind": "profesii",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 25 mai 2018 pentru modificarea și completarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență, aprobat prin Hotărârea Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007",
+"short": "Hotărârea UNPIR nr. 2/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-02",
+"latest": "2018-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202144",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-3",
+"path": "profesii/cafr/hotarare/2018/3",
+"kind": "profesii",
+"year": "2018",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 21 aprilie 2018 privind aprobarea înființării Reprezentanței regionale Constanța",
+"short": "Hotărârea CAFR nr. 3/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-05-16",
+"latest": "2018-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200704",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2018-3",
+"path": "profesii/ccf/hotarare-consiliu-superior/2018/3",
+"kind": "profesii",
+"year": "2018",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 6 martie 2018 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 3/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-09",
+"latest": "2018-03-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/198515",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-2018-3",
+"path": "profesii/cfr/decizie/2018/3",
+"kind": "profesii",
+"year": "2018",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 3 din 26 septembrie 2018 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 1/2011 privind aprobarea procedurilor de evaluare a farmaciilor cu privire la respectarea Regulilor de bună practică farmaceutică",
+"short": "Decizia CFR nr. 3/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-25",
+"latest": "2018-10-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206187",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-2018-3",
+"path": "profesii/cpr/hotarare/2018/3",
+"kind": "profesii",
+"year": "2018",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 24 noiembrie 2018 pentru aprobarea Normelor de avizare ale metodelor și tehnicilor de evaluare și asistență psihologică",
+"short": "Hotărârea CPR nr. 3/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-03-14",
+"latest": "2019-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/211822",
 "flags": {
 "amendments_checked": false
 }
@@ -83,6 +363,26 @@
 }
 },
 {
+"slug": "profesii-oamgmamr-hotarare-2018-3",
+"path": "profesii/oamgmamr/hotarare/2018/3",
+"kind": "profesii",
+"year": "2018",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 16 martie 2018 privind experiența profesională a asistenților medicali generaliști, moașelor și asistenților medicali care solicită înființarea cabinetului de practică independentă",
+"short": "Hotărârea OAMGMAMR nr. 3/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199196",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2018-3",
 "path": "profesii/unbr/hotarare-congres/2018/3",
 "kind": "profesii",
@@ -98,6 +398,66 @@
 "from": "2018-04-27",
 "latest": "2018-04-27",
 "portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-20-21-aprilie-2018-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2018-4",
+"path": "profesii/ccf/hotarare/2018/4",
+"kind": "profesii",
+"year": "2018",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 29 martie 2018 privind aprobarea publicării Registrului consultanților fiscali și al societăților de consultanță fiscală în Monitorul Oficial al României, Partea I",
+"short": "Hotărârea CCF nr. 4/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-04-16",
+"latest": "2018-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199755",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-2018-4",
+"path": "profesii/cfr/decizie/2018/4",
+"kind": "profesii",
+"year": "2018",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 4 din 22 noiembrie 2018 privind gestionarea mecanismului de alertă",
+"short": "Decizia CFR nr. 4/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-12",
+"latest": "2018-12-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/208581",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-2018-4",
+"path": "profesii/cpr/hotarare/2018/4",
+"kind": "profesii",
+"year": "2018",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 24 noiembrie 2018 pentru aprobarea Regulamentului de organizare și funcționare internă al Colegiului Psihologilor din România",
+"short": "Hotărârea CPR nr. 4/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-02-14",
+"latest": "2019-02-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/210971",
 "flags": {
 "amendments_checked": false
 }
@@ -143,6 +503,46 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-conferinta-2018-5",
+"path": "profesii/ccf/hotarare-conferinta/2018/5",
+"kind": "profesii",
+"year": "2018",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 20 aprilie 2018 privind aprobarea documentelor prezentate spre dezbatere în Conferința anuală ordinară a Camerei Consultanților Fiscali din 20 aprilie 2018",
+"short": "Hotărârea CCF nr. 5/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-05-07",
+"latest": "2018-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200331",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-2018-5",
+"path": "profesii/cpr/hotarare/2018/5",
+"kind": "profesii",
+"year": "2018",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 9 noiembrie 2018 pentru abrogarea unor acte normative emise de Comitetul director al Colegiului Psihologilor din România",
+"short": "Hotărârea CPR nr. 5/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-21",
+"latest": "2018-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209087",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2018-5",
 "path": "profesii/inppa/hotarare-consiliu/2018/5",
 "kind": "profesii",
@@ -158,6 +558,26 @@
 "from": "2018-07-12",
 "latest": "2018-07-12",
 "portal": "https://inppa.ro/hotararea-nr-5-din-21-iunie-2018-a-consiliului-de-conducere-al-inppa-privind-privind-adoptarea-modelului-caietului-de-lucrari-profesionale-pentru-anul-ii-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2018-5",
+"path": "profesii/oamgmamr/hotarare/2018/5",
+"kind": "profesii",
+"year": "2018",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 16 martie 2018 privind stabilirea valorii minime asigurate pentru răspunderea civilă în domeniul medical",
+"short": "Hotărârea OAMGMAMR nr. 5/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199197",
 "flags": {
 "amendments_checked": false
 }
@@ -185,6 +605,106 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2018-6",
+"path": "profesii/ccf/hotarare/2018/6",
+"kind": "profesii",
+"year": "2018",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 27 iunie 2018 privind aprobarea modelului de împuternicire pentru consultantul fiscal/ societatea de consultanță fiscală",
+"short": "Hotărârea CCF nr. 6/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-11",
+"latest": "2018-07-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202530",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-adunare-generala-2018-6",
+"path": "profesii/cfzro/hotarare-adunare-generala/2018/6",
+"kind": "profesii",
+"year": "2018",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 25 august 2018 pentru adoptarea Codului deontologic al fizioterapeutului",
+"short": "Hotărârea CFZRO nr. 6/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-09-17",
+"latest": "2018-09-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/204807",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-6",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/6",
+"kind": "profesii",
+"year": "2018",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 28 ianuarie 2018 pentru stabilirea cuantumului cotizației de membru și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 6/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-12",
+"latest": "2018-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197610",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2018-6",
+"path": "profesii/cpr/hotarare-comitet-director/2018/6",
+"kind": "profesii",
+"year": "2018",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 9 noiembrie 2018 pentru aprobarea Normelor privind accesul în profesia de psiholog cu drept de liberă practică",
+"short": "Hotărârea CPR nr. 6/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-08",
+"latest": "2019-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209660",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2018-6",
+"path": "profesii/oamgmamr/hotarare/2018/6",
+"kind": "profesii",
+"year": "2018",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 16 martie 2018 pentru aprobarea Metodologiei de organizare și desfășurare a stagiului de adaptare și a probei de aptitudini în vederea recunoașterii calificărilor de asistent medical generalist, de moașă și de asistent medical, sub incidența Regimului general de recunoaștere a calificărilor profesionale",
+"short": "Hotărârea OAMGMAMR nr. 6/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-30",
+"latest": "2018-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199267",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2018-6",
 "path": "profesii/unbr/hotarare-congres/2018/6",
 "kind": "profesii",
@@ -207,6 +727,66 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-consiliu-2018-7",
+"path": "profesii/ccf/hotarare-consiliu/2018/7",
+"kind": "profesii",
+"year": "2018",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 29 august 2018 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2018",
+"short": "Hotărârea CCF nr. 7/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-09-20",
+"latest": "2018-09-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205049",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-7",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/7",
+"kind": "profesii",
+"year": "2018",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 28 ianuarie 2018 privind Procedura de organizare și desfășurare a ședințelor organelor de conducere la nivel teritorial și național ale Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 7/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-12",
+"latest": "2018-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197611",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-2018-7",
+"path": "profesii/cpr/hotarare/2018/7",
+"kind": "profesii",
+"year": "2018",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 9 noiembrie 2018 pentru aprobarea Normelor privind formarea profesională a psihologilor cu drept de liberă practică",
+"short": "Hotărârea CPR nr. 7/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-08",
+"latest": "2019-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209662",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2018-7",
 "path": "profesii/unbr/hotarare-congres/2018/7",
 "kind": "profesii",
@@ -222,6 +802,846 @@
 "from": "2018-04-27",
 "latest": "2018-04-27",
 "portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-20-21-aprilie-2018-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2018-7",
+"path": "profesii/unnpr/hotarare-consiliu/2018/7",
+"kind": "profesii",
+"year": "2018",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 19 ianuarie 2018 privind aprobarea modificărilor și completărilor la Statutul Institutului Notarial Român, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 128/2015",
+"short": "Hotărârea UNNPR nr. 7/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-16",
+"latest": "2018-02-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197931",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2018-8",
+"path": "profesii/ccf/hotarare/2018/8",
+"kind": "profesii",
+"year": "2018",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 24 octombrie 2018 privind modificarea sediului Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 8/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-12",
+"latest": "2018-11-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206668",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-congres-2018-11",
+"path": "profesii/unej/hotarare-congres/2018/11",
+"kind": "profesii",
+"year": "2018",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 11 din 11 mai 2018 privind modificarea Statutului Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc, aprobat prin Hotărârea Congresului Extraordinar al Uniunii Naționale a Executorilor Judecătorești nr. 19/2010",
+"short": "Hotărârea UNEJ nr. 11/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-06-22",
+"latest": "2018-06-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201808",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2018-12",
+"path": "profesii/cmr/decizie/2018/12",
+"kind": "profesii",
+"year": "2018",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 12 din 29 iunie 2018 privind reglementarea sistemului național de educație medicală continuă, a criteriilor și normelor de acreditare a furnizorilor de educație medicală continuă, precum și a sistemului procedural de evaluare și creditare a activităților de educație medicală continuă adresate medicilor",
+"short": "Decizia CMR nr. 12/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-21",
+"latest": "2018-08-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203568",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-congres-2018-12",
+"path": "profesii/unej/hotarare-congres/2018/12",
+"kind": "profesii",
+"year": "2018",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 12 din 11 mai 2018 privind modificarea Statutului Casei de Asigurări a Executorilor Judecătorești, aprobat prin Hotărârea Congresului Uniunii Naționale a Executorilor Judecătorești nr. 2/2014",
+"short": "Hotărârea UNEJ nr. 12/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-06-22",
+"latest": "2018-06-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201809",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2018-13",
+"path": "profesii/cmr/decizie/2018/13",
+"kind": "profesii",
+"year": "2018",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 13 din 29 iunie 2018 privind informațiile din Registrul unic al medicilor publicate pe pagina de internet a Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 13/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-04-01",
+"latest": "2019-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202692",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2018-14",
+"path": "profesii/cmr/decizie/2018/14",
+"kind": "profesii",
+"year": "2018",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 14 din 29 iunie 2018 privind întocmirea și emiterea certificatului profesional curent",
+"short": "Decizia CMR nr. 14/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-04-01",
+"latest": "2019-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202741",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-15",
+"path": "profesii/cafr/hotarare/2018/15",
+"kind": "profesii",
+"year": "2018",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 15 din 22 februarie 2018 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată în anul 2018",
+"short": "Hotărârea CAFR nr. 15/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-05",
+"latest": "2018-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/198277",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2018-18",
+"path": "profesii/cmr/decizie/2018/18",
+"kind": "profesii",
+"year": "2018",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 18 din 28 septembrie 2018 privind gestionarea mecanismului de alertă",
+"short": "Decizia CMR nr. 18/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-23",
+"latest": "2018-10-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206097",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2018-18",
+"path": "profesii/oamgmamr/hotarare/2018/18",
+"kind": "profesii",
+"year": "2018",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18 din 19 iunie 2018 pentru modificarea și completarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 32/2009",
+"short": "Hotărârea OAMGMAMR nr. 18/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-03",
+"latest": "2018-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202191",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-23",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/23",
+"kind": "profesii",
+"year": "2018",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 23 din 16 aprilie 2018 pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 5/2018 privind procedura de eliberare a autorizației de liberă practică pentru profesia de fizioterapeut",
+"short": "Hotărârea CFZRO nr. 23/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-04-24",
+"latest": "2018-04-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199911",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2018-27",
+"path": "profesii/oamgmamr/hotarare/2018/27",
+"kind": "profesii",
+"year": "2018",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 27 din 12 septembrie 2018 pentru modificarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 32/2009",
+"short": "Hotărârea OAMGMAMR nr. 27/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-10",
+"latest": "2018-10-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205908",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-28",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/28",
+"kind": "profesii",
+"year": "2018",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 28 din 26 iulie 2018 pentru aprobarea Procedurii privind eliberarea certificatului de conformitate și pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 6/2018 pentru stabilirea cuantumului cotizației de membru și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 28/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-10",
+"latest": "2018-08-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203749",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-29",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/29",
+"kind": "profesii",
+"year": "2018",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 29 din 26 iulie 2018 pentru aprobarea Metodologiei privind întocmirea și eliberarea certificatului de status profesional curent pentru membrii Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 29/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-14",
+"latest": "2018-08-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203915",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2018-29",
+"path": "profesii/oamgmamr/hotarare/2018/29",
+"kind": "profesii",
+"year": "2018",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 29 din 28 septembrie 2018 pentru aprobarea Metodologiei privind activitățile de elaborare a cardului profesional european pentru profesiile din domeniul de competență al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 29/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-11",
+"latest": "2018-10-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205945",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-30",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/30",
+"kind": "profesii",
+"year": "2018",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 30 din 26 iulie 2018 privind aprobarea Procedurii pentru actualizarea datelor personale și profesionale ale fizioterapeuților aflați în evidențele Colegiului Fizioterapeuților din România și pentru actualizarea documentelor eliberate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 30/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-09",
+"latest": "2018-08-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203728",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2018-34",
+"path": "profesii/oamgmamr/hotarare/2018/34",
+"kind": "profesii",
+"year": "2018",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 34 din 6 decembrie 2018 pentru modificarea și completarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 31/2017 privind stabilirea cuantumului cotizației de membru, respectiv cotizației de membru asociat al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România și a unor taxe încasate de Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 34/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-01",
+"latest": "2019-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/208975",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2018-35",
+"path": "profesii/oamgmamr/hotarare/2018/35",
+"kind": "profesii",
+"year": "2018",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 35 din 6 decembrie 2018 pentru modificarea și completarea Metodologiei privind întocmirea și eliberarea documentelor care atestă titlurile românești de calificare de asistent medical generalist, de moașă și de asistent medical, în vederea recunoașterii profesionale de către celelalte state membre ale Uniunii Europene, de statele aparținând Spațiului Economic European și de către Confederația Elvețiană, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 7/2016",
+"short": "Hotărârea OAMGMAMR nr. 35/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209020",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-36",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/36",
+"kind": "profesii",
+"year": "2018",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 36 din 9 noiembrie 2018 privind dobândirea calității de membru al Colegiului Fizioterapeuților din România și eliberarea autorizației de liberă practică pentru exercitarea profesiei de fizioterapeut",
+"short": "Hotărârea CFZRO nr. 36/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-03",
+"latest": "2018-12-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/208311",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-37",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/37",
+"kind": "profesii",
+"year": "2018",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 37 din 9 noiembrie 2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 37/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-27",
+"latest": "2018-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/208008",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-41",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/41",
+"kind": "profesii",
+"year": "2018",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 41 din 9 noiembrie 2018 privind eliberarea de duplicate ale autorizației de liberă practică eliberate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 41/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-29",
+"latest": "2018-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/208109",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-43",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/43",
+"kind": "profesii",
+"year": "2018",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 43 din 7 decembrie 2018 privind suspendarea sau încetarea la cerere a calității de membru al Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 43/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-28",
+"latest": "2018-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209472",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2018-44",
+"path": "profesii/cfzro/hotarare-consiliu-national/2018/44",
+"kind": "profesii",
+"year": "2018",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 44 din 27 decembrie 2018 pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 44/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-04",
+"latest": "2019-01-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209591",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-51",
+"path": "profesii/cafr/hotarare/2018/51",
+"kind": "profesii",
+"year": "2018",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 51 din 24 mai 2018 privind revocarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 106/2017 pentru derogarea de la unele prevederi ale Normelor privind perioada de pregătire profesională practică a stagiarilor în activitatea de audit financiar, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 212/2011 , și derogarea de la unele prevederi ale Regulamentului de organizare și desfășurare a examenului de competență profesională, aprobat prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 60/2014",
+"short": "Hotărârea CAFR nr. 51/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-06-21",
+"latest": "2018-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201788",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-53",
+"path": "profesii/cafr/hotarare/2018/53",
+"kind": "profesii",
+"year": "2018",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 53 din 11 iunie 2018 pentru autorizarea ca auditor financiar a persoanelor fizice declarate \"admis\" la examenul de competență profesională",
+"short": "Hotărârea CAFR nr. 53/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-02",
+"latest": "2018-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203322",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-54",
+"path": "profesii/cafr/hotarare/2018/54",
+"kind": "profesii",
+"year": "2018",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 54 din 11 iunie 2018 pentru autorizarea ca firme de audit a unor persoane juridice",
+"short": "Hotărârea CAFR nr. 54/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-02",
+"latest": "2018-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203323",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-60",
+"path": "profesii/cafr/hotarare/2018/60",
+"kind": "profesii",
+"year": "2018",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 60 din 19 iulie 2018 pentru aprobarea Normelor privind revizuirea calității activității de audit financiar, altul decât cel statutar, și a altor activități desfășurate de auditorii financiari",
+"short": "Hotărârea CAFR nr. 60/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-27",
+"latest": "2018-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203211",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-61",
+"path": "profesii/cafr/hotarare/2018/61",
+"kind": "profesii",
+"year": "2018",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 61 din 26 iulie 2018 privind adoptarea traducerii și revizuirii Standardului internațional de audit 250 (revizuit) - Luarea în considerare a legii și reglementărilor într-un audit al situațiilor financiare și a modificărilor aduse Codului etic - răspunsul la neconformitatea cu legi și reglementări (NOCLAR), emise de IFAC, pentru misiunile de audit, altele decât auditul statutar",
+"short": "Hotărârea CAFR nr. 61/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-08",
+"latest": "2018-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203704",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-67",
+"path": "profesii/cafr/hotarare/2018/67",
+"kind": "profesii",
+"year": "2018",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 67 din 26 iulie 2018 pentru aprobarea Normelor privind înscrierea ca membru al Camerei Auditorilor Financiari din România și înscrierea în Registrul membrilor Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 67/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-16",
+"latest": "2018-08-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203956",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-70",
+"path": "profesii/cafr/hotarare/2018/70",
+"kind": "profesii",
+"year": "2018",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 70 din 6 august 2018 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+"short": "Hotărârea CAFR nr. 70/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-16",
+"latest": "2018-08-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203958",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-71",
+"path": "profesii/cafr/hotarare/2018/71",
+"kind": "profesii",
+"year": "2018",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 71 din 20 august 2018 privind modificarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 16/2016 pentru aprobarea Regulamentului de organizare și funcționare a aparatului executiv al Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 71/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-29",
+"latest": "2018-08-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/204343",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-72",
+"path": "profesii/cafr/hotarare/2018/72",
+"kind": "profesii",
+"year": "2018",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 72 din 7 septembrie 2018 pentru adoptarea Procedurii privind activitatea de traducere și revizuire a ghidurilor, documentelor de îndrumare și publicațiilor pentru desfășurarea activităților de audit financiar în România, altele decât auditul statutar",
+"short": "Hotărârea CAFR nr. 72/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-14",
+"latest": "2018-11-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206739",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2018-72",
+"path": "profesii/unnpr/hotarare-consiliu/2018/72",
+"kind": "profesii",
+"year": "2018",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 72 din 17 mai 2018 privind modificarea și completarea Regulamentului de organizare și funcționare al Consiliului de disciplină din cadrul Uniunii Naționale a Notarilor Publici din România, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 74/2013",
+"short": "Hotărârea UNNPR nr. 72/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-06-11",
+"latest": "2018-06-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201423",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-consiliu-2018-74",
+"path": "profesii/cafr/hotarare-consiliu/2018/74",
+"kind": "profesii",
+"year": "2018",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 74 din 7 septembrie 2018 privind modificarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 60/2018 pentru aprobarea Normelor privind revizuirea calității activității de audit financiar, altul decât cel statutar, și a altor activități desfășurate de auditorii financiari",
+"short": "Hotărârea CAFR nr. 74/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-15",
+"latest": "2018-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206949",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-82",
+"path": "profesii/cafr/hotarare/2018/82",
+"kind": "profesii",
+"year": "2018",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 82 din 23 octombrie 2018 pentru modificarea Normelor privind înscrierea ca membru al Camerei Auditorilor Financiari din România și înscrierea în Registrul membrilor Camerei Auditorilor Financiari din România, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 67/2018",
+"short": "Hotărârea CAFR nr. 82/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-16",
+"latest": "2018-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206956",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2018-82",
+"path": "profesii/ceccar/hotarare/2018/82",
+"kind": "profesii",
+"year": "2018",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18/82 din 14 aprilie 2018 privind ratificarea anexei nr. 1 - Procedura alegerilor la Regulamentul de organizare și funcționare a Corpului Experților Contabili și Contabililor Autorizați din România, aprobat prin Hotărârea Conferinței naționale a experților contabili și contabililor autorizați nr. 1/1995",
+"short": "Hotărârea CECCAR nr. 82/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-05-07",
+"latest": "2018-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200332",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-83",
+"path": "profesii/cafr/hotarare/2018/83",
+"kind": "profesii",
+"year": "2018",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 83 din 23 octombrie 2018 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+"short": "Hotărârea CAFR nr. 83/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-12",
+"latest": "2018-11-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206679",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-96",
+"path": "profesii/cafr/hotarare/2018/96",
+"kind": "profesii",
+"year": "2018",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 96 din 28 noiembrie 2018 privind adoptarea Standardelor internaționale de audit 800, 805 și 810 (revizuite), emise de IFAC, pentru misiunile de audit, altele decât auditul statutar",
+"short": "Hotărârea CAFR nr. 96/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-13",
+"latest": "2018-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/208676",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-98",
+"path": "profesii/cafr/hotarare/2018/98",
+"kind": "profesii",
+"year": "2018",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 98 din 19 decembrie 2018 privind aprobarea Normelor de pregătire profesională continuă a auditorilor financiari conform Ordonanței de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar",
+"short": "Hotărârea CAFR nr. 98/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-09",
+"latest": "2019-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209686",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2018-100",
+"path": "profesii/cafr/hotarare/2018/100",
+"kind": "profesii",
+"year": "2018",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 100 din 19 decembrie 2018 privind încetarea valabilității Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori și a Listei auditorilor financiari , persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+"short": "Hotărârea CAFR nr. 100/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-10",
+"latest": "2019-01-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209907",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-mediere-hotarare-consiliu-2018-119",
+"path": "profesii/mediere/hotarare-consiliu/2018/119",
+"kind": "profesii",
+"year": "2018",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 119 din 29 iunie 2018 privind modificarea anexei nr. 10 la Regulamentul de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+"short": "Hotărârea Consiliul de mediere nr. 119/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-26",
+"latest": "2018-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203150",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-186",
+"path": "profesii/csm/hotarare-plen/2018/186",
+"kind": "profesii",
+"year": "2018",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 186 din 6 martie 2018 pentru modificarea Regulamentului privind evaluarea activității profesionale a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 676/2007",
+"short": "Hotărârea CSM nr. 186/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-21",
+"latest": "2018-03-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/198876",
 "flags": {
 "amendments_checked": false
 }
@@ -264,6 +1684,26 @@
 "from": "2018-01-31",
 "latest": "2018-01-31",
 "portal": "https://unbr.ro/publicam-decizia-comisiei-permanente-a-unbr-nr-286-din-20-ianuarie-2018-privind-examenul-de-verificare-a-cunostintelor-de-drept-romanesc-si-de-limba-romana-pentru-avocatii-straini-inscrisi-in-tablou/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-317",
+"path": "profesii/csm/hotarare-plen/2018/317",
+"kind": "profesii",
+"year": "2018",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 317 din 20 martie 2018 pentru modificarea Regulamentului privind evaluarea activității profesionale a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 676/2007",
+"short": "Hotărârea CSM nr. 317/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-04-04",
+"latest": "2018-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199470",
 "flags": {
 "amendments_checked": false
 }
@@ -512,6 +1952,386 @@
 "from": "2018-12-17",
 "latest": "2018-12-17",
 "portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-414-08-12-2018-referitor-la-declaratia-de-politica-profesionala-privind-avocatura-pro-bono/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-432",
+"path": "profesii/csm/hotarare-plen/2018/432",
+"kind": "profesii",
+"year": "2018",
+"number": "432",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 432 din 19 aprilie 2018 pentru modificarea și completarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+"short": "Hotărârea CSM nr. 432/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-05-08",
+"latest": "2018-05-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200519",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2018-437",
+"path": "profesii/ceccar/hotarare/2018/437",
+"kind": "profesii",
+"year": "2018",
+"number": "437",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18/437 din 10 februarie 2018 privind aprobarea publicării Tabloului Corpului Experților Contabili și Contabililor Autorizați din România",
+"short": "Hotărârea CECCAR nr. 437/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-22",
+"latest": "2018-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/198045",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2018-439",
+"path": "profesii/ceccar/hotarare/2018/439",
+"kind": "profesii",
+"year": "2018",
+"number": "439",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18/439 din 28 februarie 2018 privind prelungirea perioadei de valabilitate a vizei aferente anului 2017 până la data de 31 martie 2018",
+"short": "Hotărârea CECCAR nr. 439/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-14",
+"latest": "2018-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/198723",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2018-459",
+"path": "profesii/ceccar/hotarare/2018/459",
+"kind": "profesii",
+"year": "2018",
+"number": "459",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18/459 din 15 mai 2018 privind prelungirea perioadei de valabilitate a vizei aferente anului 2017 până la data de 31 mai 2018",
+"short": "Hotărârea CECCAR nr. 459/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-05-22",
+"latest": "2018-05-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/200948",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2018-466",
+"path": "profesii/ceccar/hotarare/2018/466",
+"kind": "profesii",
+"year": "2018",
+"number": "466",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18/466 din 6 iunie 2018 privind nestatutaritatea Adunării generale extraordinare a filialei Corpului Experților Contabili și Contabililor Autorizați din România Suceava din data de 7 mai 2018 și revocarea Hotărârii Adunării generale extraordinare a filialei Corpului Experților Contabili și Contabililor Autorizați din România Suceava nr. 18/87 din 7 mai 2018",
+"short": "Hotărârea CECCAR nr. 466/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-06-25",
+"latest": "2018-06-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201845",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-698",
+"path": "profesii/csm/hotarare-plen/2018/698",
+"kind": "profesii",
+"year": "2018",
+"number": "698",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 698 din 14 iunie 2018 pentru modificarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+"short": "Hotărârea CSM nr. 698/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-03",
+"latest": "2018-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202188",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-708",
+"path": "profesii/csm/hotarare-plen/2018/708",
+"kind": "profesii",
+"year": "2018",
+"number": "708",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 708 din 14 iunie 2018 pentru modificarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+"short": "Hotărârea CSM nr. 708/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-03",
+"latest": "2018-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202189",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-714",
+"path": "profesii/csm/hotarare-plen/2018/714",
+"kind": "profesii",
+"year": "2018",
+"number": "714",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 714 din 14 iunie 2018 privind abrogarea art. 7 alin. (2) lit. g) din Regulamentul Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 127/2007",
+"short": "Hotărârea CSM nr. 714/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201951",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-819",
+"path": "profesii/csm/hotarare-plen/2018/819",
+"kind": "profesii",
+"year": "2018",
+"number": "819",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 819 din 11 iulie 2018 pentru modificarea Regulamentului privind modul de organizare și desfășurare a concursului pentru recrutarea grefierilor arhivari, a grefierilor registratori și a personalului conex, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 185/2007",
+"short": "Hotărârea CSM nr. 819/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-08",
+"latest": "2018-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203702",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-910",
+"path": "profesii/csm/hotarare-plen/2018/910",
+"kind": "profesii",
+"year": "2018",
+"number": "910",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 910 din 19 septembrie 2018 pentru aprobarea Regulamentului privind numirea și revocarea procurorilor cu funcții de conducere din cadrul Secției pentru investigarea infracțiunilor din justiție",
+"short": "Hotărârea CSM nr. 910/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-09-21",
+"latest": "2018-09-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205101",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-911",
+"path": "profesii/csm/hotarare-plen/2018/911",
+"kind": "profesii",
+"year": "2018",
+"number": "911",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 911 din 19 septembrie 2018 pentru aprobarea Regulamentului privind numirea, continuarea activității și revocarea procurorilor cu funcții de execuție din cadrul Secției pentru investigarea infracțiunilor din justiție",
+"short": "Hotărârea CSM nr. 911/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-09-21",
+"latest": "2018-09-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205103",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-1044",
+"path": "profesii/csm/hotarare-plen/2018/1044",
+"kind": "profesii",
+"year": "2018",
+"number": "1044",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.044 din 13 noiembrie 2018 pentru modificarea și completarea Regulamentului privind numirea, continuarea activității și revocarea procurorilor cu funcții de execuție din cadrul Secției pentru investigarea infracțiunilor din justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 911/2018",
+"short": "Hotărârea CSM nr. 1044/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-19",
+"latest": "2018-11-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/207003",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-1069",
+"path": "profesii/csm/hotarare-plen/2018/1069",
+"kind": "profesii",
+"year": "2018",
+"number": "1069",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.069 din 3 decembrie 2018 pentru abrogarea art. 21 alin. (3) din Regulamentul privind concediile judecătorilor și procu rorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005 , și a art. 22^1 alin. (3) din Regulamentul privind concediile personalului auxiliar de specialitate și personalului conex din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 186/2007",
+"short": "Hotărârea CSM nr. 1069/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-13",
+"latest": "2018-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/208685",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-1073",
+"path": "profesii/csm/hotarare-plen/2018/1073",
+"kind": "profesii",
+"year": "2018",
+"number": "1073",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.073 din 3 decembrie 2018 pentru aprobarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii",
+"short": "Hotărârea CSM nr. 1073/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-10",
+"latest": "2018-12-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/208596",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2018-1074",
+"path": "profesii/csm/hotarare-plen/2018/1074",
+"kind": "profesii",
+"year": "2018",
+"number": "1074",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.074 din 3 decembrie 2018 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcție a inspectorului-șef al Inspecției Judiciare",
+"short": "Hotărârea CSM nr. 1074/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-10",
+"latest": "2018-12-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/208622",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2018-1406",
+"path": "profesii/oar/hotarare-conferinta/2018/1406",
+"kind": "profesii",
+"year": "2018",
+"number": "1406",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.406 din 1 iulie 2018 privind alegerea președintelui Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 1406/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-16",
+"latest": "2018-07-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202653",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2018-1407",
+"path": "profesii/oar/hotarare-conferinta/2018/1407",
+"kind": "profesii",
+"year": "2018",
+"number": "1407",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.407 din 1 iulie 2018 privind alegerea membrilor Consiliului național al Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 1407/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-16",
+"latest": "2018-07-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202654",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2018-1408",
+"path": "profesii/oar/hotarare-conferinta/2018/1408",
+"kind": "profesii",
+"year": "2018",
+"number": "1408",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.408 din 1 iulie 2018 privind alegerea membrilor Comisiei naționale de disciplină a Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 1408/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-16",
+"latest": "2018-07-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202655",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2018-1409",
+"path": "profesii/oar/hotarare-conferinta/2018/1409",
+"kind": "profesii",
+"year": "2018",
+"number": "1409",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.409 din 1 iulie 2018 privind alegerea membrilor Comisiei de cenzori a Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 1409/2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-16",
+"latest": "2018-07-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202656",
 "flags": {
 "amendments_checked": false
 }

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/george-enescu/2026",
+ "acts": [
+  {
+   "slug": "hcl-botosani--george-enescu-35-2026",
+   "path": "local/botosani/george-enescu/2026/35",
+   "short": "HCL George Enescu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei George Enescu nr. 35/2026 privind aprobarea Regulamentului privind cadrul, modalitatea și criteriile de analiză și soluționare a cererilor de atribuire, închirierea locuințelor nZEB plus pentru tineri, din Blocul construit prin PNRR, aflate în proprietate publică a Comunei George Enescu, județul Botoșani și a structurii comisiei de analiză și soluționare a cererilor privind repartizarea acestora precum și a structurii comi",
+   "url": "https://primariageorgeenescu.ro/wp-content/uploads/2026/07/HCL-nr.-35-Aprobarea-Regulamentului-repartizare-locuinte-nZEB-plus-pentru-tineri.pdf",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://primariageorgeenescu.ro/wp-content/uploads/2026/07/HCL-nr.-35-Aprobarea-Regulamentului-repartizare-locuinte-nZEB-plus-pentru-tineri.pdf",
+     "sha256": "6345365e4dc5f1bc2918580f28090e3edafcf1d6df4ab6715f2aa4865779e562"
+    }
+   ]
+  }
+ ]
+}

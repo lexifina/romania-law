@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/tarlungeni/2026",
+ "acts": [
+  {
+   "slug": "hcl-brasov--tarlungeni-13-2026",
+   "path": "local/brasov/tarlungeni/2026/13",
+   "short": "HCL Tărlungeni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tărlungeni nr. 13/2026 Nr. 13 din data de 24.02.2026 privind modificarea art. 51, pct 4, capitolul VIII „Chirii” din anexa la HCL nr. 118/29.12.2025 privind stabilirea si aprobarea impozitelor si taxelor locale precum și a taxelor speciale pentru anul 2026, în Comuna Tărlungeni",
+   "url": "https://comunatarlungeni.ro/consiliul-local/hotarari-emise-in-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "http://www.comunatarlungeni.ro/wp-content/uploads/2026/consiliul-local/hcl-feb-2026/13-24-02-2026.pdf",
+     "sha256": "40232ad5f36f666873163d29ff2f107412073f43e38080e9d9f7e92a80dca0ae"
+    }
+   ]
+  }
+ ]
+}

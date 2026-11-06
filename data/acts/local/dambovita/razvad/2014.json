@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/dambovita/razvad/2014",
+"acts": [
+{
+"slug": "hcl-dambovita--razvad-3-2014",
+"path": "local/dambovita/razvad/2014/3",
+"kind": "local",
+"year": "2014",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 3/2014 privind stabilirea taxelor şi impozitelor locale aferente anului 2014 HCL Anexă",
+"short": "HCL Răzvad nr. 3/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-01-21",
+"latest": "2014-01-21",
+"portal": "http://comunarazvad.ro/hotarari-2/",
+"council": "dambovita/razvad",
+"council_name": "Consiliul Local al Comunei Răzvad",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-dambovita--razvad-7-2014",
+"path": "local/dambovita/razvad/2014/7",
+"kind": "local",
+"year": "2014",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 7/2014 privind aprobarea taxei de habitat HCL",
+"short": "HCL Răzvad nr. 7/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-01-21",
+"latest": "2014-01-21",
+"portal": "http://comunarazvad.ro/hotarari-2/",
+"council": "dambovita/razvad",
+"council_name": "Consiliul Local al Comunei Răzvad",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

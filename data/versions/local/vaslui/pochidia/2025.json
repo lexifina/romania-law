@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/pochidia/2025",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--pochidia-46-2025",
+   "path": "local/vaslui/pochidia/2025/46",
+   "short": "HCL Pochidia nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pochidia nr. 46/2025 privind aprobarea regulamentului de acordare a ajutoarelor de urgenta familiilor si persoanelor singure",
+   "url": "https://pochidia.ro/wp-content/uploads/2026/10/Hotararea-nr.-46-din-28.11.2025-privind-aprobarea-regulamentului-de-acordare-a-ajutoarelor-de-urgenta-familiilor-si-persoanelor-singure.pdf",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://pochidia.ro/wp-content/uploads/2026/10/Hotararea-nr.-46-din-28.11.2025-privind-aprobarea-regulamentului-de-acordare-a-ajutoarelor-de-urgenta-familiilor-si-persoanelor-singure.pdf",
+     "sha256": "f66fc2cf265325e8dcfe12d3b8d1905ecf8395949df7bffb43ac62affd083635"
+    }
+   ]
+  }
+ ]
+}

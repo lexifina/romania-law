@@ -1,0 +1,126 @@
+{
+"country": "RO",
+"shard": "profesii/2002",
+"acts": [
+{
+"slug": "profesii-cafr-hotarare-consiliu-2002-14",
+"path": "profesii/cafr/hotarare-consiliu/2002/14",
+"kind": "profesii",
+"year": "2002",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 14 din 17 aprilie 2002 pentru aprobarea Normelor privind asigurarea pentru risc profesional",
+"short": "Hotărârea CAFR nr. 14/2002",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2002-06-12",
+"latest": "2002-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/36624",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-conferinta-2002-15",
+"path": "profesii/cafr/hotarare-conferinta/2002/15",
+"kind": "profesii",
+"year": "2002",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 15 din 20 aprilie 2002 privind aprobarea cotizațiilor și taxelor atât pentru membrii Camerei Auditorilor Financiari din România, cat și pentru stagiarii în activitatea de audit financiar",
+"short": "Hotărârea CAFR nr. 15/2002",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2002-11-12",
+"latest": "2002-11-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/39792",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2002-17",
+"path": "profesii/cafr/hotarare/2002/17",
+"kind": "profesii",
+"year": "2002",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 17 din 23 octombrie 2002 privind aprobarea Regulilor de organizare a testului de verificare a cunoștințelor în domeniul financiar-contabil pentru accesul la stagiu, sesiunea decembrie 2002",
+"short": "Hotărârea CAFR nr. 17/2002",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2002-11-12",
+"latest": "2002-11-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/39800",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2002-18",
+"path": "profesii/cafr/hotarare/2002/18",
+"kind": "profesii",
+"year": "2002",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18 din 11 decembrie 2002 privind aprobarea acordării calității de auditor financiar persoanelor fizice care poseda o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+"short": "Hotărârea CAFR nr. 18/2002",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2003-02-14",
+"latest": "2003-02-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/41774",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-ordin-2002-2983",
+"path": "profesii/cmr/ordin/2002/2983",
+"kind": "profesii",
+"year": "2002",
+"number": "2983",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul CMR nr. 2983/2002",
+"short": "Ordinul CMR nr. 2983/2002",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2002-09-24",
+"latest": "2002-09-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/38535",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-ordin-2002-2984",
+"path": "profesii/cmr/ordin/2002/2984",
+"kind": "profesii",
+"year": "2002",
+"number": "2984",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul CMR nr. 2984/2002",
+"short": "Ordinul CMR nr. 2984/2002",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2002-09-23",
+"latest": "2002-09-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/38514",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

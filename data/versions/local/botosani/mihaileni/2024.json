@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/mihaileni/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--mihaileni-37-2024",
+   "path": "local/botosani/mihaileni/2024/37",
+   "short": "HCL Mihăileni nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 37/2024 privind aprobarea procedurii de anulare a accesorilor aferente obligatiilor bugetare principale restante la 31.08.2024 Nr: 37 (Adaugat la data 05.12.2024) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv96sZ-OtTrYvMWRUOCrXuIM-hoYFj5d9ljjJ5zd_SsEi2ar5C7CkftAGS6oCpP9fix8BAnrb_C00onW1wTUF-ZBc_bEdacqkzh20uAdi-mlTqj5F6y_5V53JhHkfU7Tr2CNLOUSXMIEh34468GBzOR8bErg-HhGU9z10TvJmQDZeEdvCWl4",
+     "sha256": "22cec087e1e993ae561b13c1e1db3ec91656f739e9974ab577d5e9c9f5b6b2ac"
+    }
+   ]
+  }
+ ]
+}

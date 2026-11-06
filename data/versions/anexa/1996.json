@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "anexa/1996",
+ "acts": [
+  {
+   "slug": "anexa-hg-31-1996-anexa",
+   "path": "anexa/hg-31-1996/anexa",
+   "short": "Anexa la HG nr. 31/1996",
+   "title": "Metodologia din 24 ianuarie 1996 de avizare a documentațiilor de urbanism privind zone și stațiuni turistice și a documentațiilor tehnice privind construcții din domeniul turismului (anexa la Hotărârea Guvernului nr. 31/1996)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308331",
+   "versions": [
+    {
+     "from": "1996-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308331",
+     "sha256": "5f032363ec5491b244b60bf558df0dd0957bf22d4f7752b15b76b65891c7bf82"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-535-1996-anexa",
+   "path": "anexa/hg-535-1996/anexa",
+   "short": "Anexa la HG nr. 535/1996",
+   "title": "Regulament din 4 iulie 1996 privind înregistrarea topografiilor circuitelor integrate (anexa la Hotărârea Guvernului nr. 535/1996)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73371",
+   "versions": [
+    {
+     "from": "1996-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73371",
+     "sha256": "66b56f079ffdc053c50f9475d5ad62cd658c6e5b2b8144af9aef47efe5c6358a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-92-1996-anexa",
+   "path": "anexa/hg-92-1996/anexa",
+   "short": "Anexa la HG nr. 92/1996",
+   "title": "Norme metodologice din 15 februarie 1996 pentru aplicarea prevederilor Ordonanței Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare (anexa la Hotărârea Guvernului nr. 92/1996)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70326",
+   "versions": [
+    {
+     "from": "1996-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70326",
+     "sha256": "33e3c812e4c1f098c44eccca6c5e56d2f38c7a1b4338f40218c376fef355201c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hotarare-camera-1-1996-anexa",
+   "path": "anexa/hotarare-camera-1-1996/anexa",
+   "short": "Anexa la Hotărârea camera nr. 1/1996",
+   "title": "Regulament din 26 februarie 1996 de organizare și funcționare a Consiliului Legislativ (anexa la Hotărârea CAMERA nr. 1/1996)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59715",
+   "versions": [
+    {
+     "from": "1996-02-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59715",
+     "sha256": "0d6e8825665c8f1b4d7dd3fdfe523269d54c12bc5522751f0aabe8225c28fcaf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-213-1996-anexa",
+   "path": "anexa/ordin-finante-213-1996/anexa",
+   "short": "Anexa la Ordin finante nr. 213/1996",
+   "title": "Norme metodologice din 5 februarie 1996 de aplicare a Ordonanței Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru țigarete, produse din tutun și băuturi alcoolice (anexa la Ordinul FINANTE nr. 213/1996)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65506",
+   "versions": [
+    {
+     "from": "1996-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65506",
+     "sha256": "f417c66c74897cf3ee0d089e8853dec513a9c9d173ab9c63e1eab9028dcd8459"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-125-1996-anexa",
+   "path": "anexa/ordin-mediu-125-1996/anexa",
+   "short": "Anexa la Ordin mediu nr. 125/1996",
+   "title": "Procedura de reglementare din 19 martie 1996 a activităților economice și sociale cu impact asupra mediului înconjurător (anexa la Ordinul MEDIU nr. 125/1996)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93416",
+   "versions": [
+    {
+     "from": "1996-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93416",
+     "sha256": "c5b2d308ecf0c6270902d8958e70ed224053d78d27b35afd83d98477fc305b5e"
+    }
+   ]
+  }
+ ]
+}

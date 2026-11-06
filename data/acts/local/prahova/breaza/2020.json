@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/breaza/2020",
+"acts": [
+{
+"slug": "hcl-prahova--breaza-56-2020",
+"path": "local/prahova/breaza/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 56/2020 privind revizuirea Regulamentului Local de Urbanism aferent Planului Urbanistic General al ora§ului Breaza, aprobat prin HCL nr. 15/2007",
+"short": "HCL Breaza nr. 56/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-06-24",
+"latest": "2020-06-24",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

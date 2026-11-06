@@ -3,6 +3,1296 @@
  "shard": "profesii/2023",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2023-1",
+   "path": "profesii/cafr/hotarare/2023/1",
+   "short": "Hotărârea CAFR nr. 1/2023",
+   "title": "HOTĂRÂRE nr. 1 din 22 aprilie 2023 privind aprobarea materialelor prezentate în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în data de 22 aprilie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267365",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267365",
+     "sha256": "e7b05e098bc3d1fb4d446f1bb368165e7853f966ec740aac56b0139f335ee265"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-10",
+   "path": "profesii/cafr/hotarare/2023/10",
+   "short": "Hotărârea CAFR nr. 10/2023",
+   "title": "HOTĂRÂRE nr. 10 din 20 februarie 2023 privind convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România, organizată în format fizic în data de 22 aprilie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265312",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265312",
+     "sha256": "782c00803279b06475fa5be3761e165894bfb9fd63a41030faa99d9a2e42c3e2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-118",
+   "path": "profesii/cafr/hotarare/2023/118",
+   "short": "Hotărârea CAFR nr. 118/2023",
+   "title": "HOTĂRÂRE nr. 118 din 12 decembrie 2023 privind modalitatea de adoptare a hotărârilor Consiliului Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277382",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277382",
+     "sha256": "d341efd6a0091b03cc3cb05acc104d28c373a68d9388ecbc5c0593bd6fb6f352"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-123",
+   "path": "profesii/cafr/hotarare/2023/123",
+   "short": "Hotărârea CAFR nr. 123/2023",
+   "title": "HOTĂRÂRE nr. 123 din 12 decembrie 2023 pentru aprobarea Normelor privind instituirea de către auditorii financiari și firmele de audit a măsurilor de prevenire și combatere a spălării banilor și a finanțării terorismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278885",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278885",
+     "sha256": "5a8fc17cb63196196fd87b1975f4424c81e9a2a70b8fa18af54a504b708a3ef2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-124",
+   "path": "profesii/cafr/hotarare/2023/124",
+   "short": "Hotărârea CAFR nr. 124/2023",
+   "title": "HOTĂRÂRE nr. 124 din 12 decembrie 2023 privind suspendarea calculării penalităților de întârziere aferente neachitării cotizațiilor datorate de membrii Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277567",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277567",
+     "sha256": "f1bd42951b388175afbda632e2ef4fedfd7fe17374204b2480b3a00aa068686b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-129",
+   "path": "profesii/cafr/hotarare/2023/129",
+   "short": "Hotărârea CAFR nr. 129/2023",
+   "title": "HOTĂRÂRE nr. 129 din 12 decembrie 2023 pentru modificarea și completarea Normelor de pregătire profesională continuă a auditorilor financiari conform Ordonanței de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar, adoptate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 98/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277568",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277568",
+     "sha256": "ad43691feda4fa5286c705e576859bc963c33869b79a3f430a93f6973e2e79f6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-2",
+   "path": "profesii/cafr/hotarare/2023/2",
+   "short": "Hotărârea CAFR nr. 2/2023",
+   "title": "HOTĂRÂRE nr. 2 din 16 septembrie 2023 privind alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274582",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274582",
+     "sha256": "8e944210a00b0d08f592d33395f8b760d519c1df6c876272a5e383d9496b937f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-58",
+   "path": "profesii/cafr/hotarare/2023/58",
+   "short": "Hotărârea CAFR nr. 58/2023",
+   "title": "HOTĂRÂRE nr. 58 din 30 iunie 2023 privind convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România, organizată în format fizic în data de 16 septembrie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271910",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271910",
+     "sha256": "b9cd490fd1d24a0ca3ec361a7c21fd03f02a4ef4ea3f5f51b7a59ab8732fe34d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-61",
+   "path": "profesii/cafr/hotarare/2023/61",
+   "short": "Hotărârea CAFR nr. 61/2023",
+   "title": "HOTĂRÂRE nr. 61 din 30 iunie 2023 privind aprobarea Normelor pentru desfășurarea alegerilor pentru președintele Consiliului Camerei Auditorilor Financiari din România, membrii Consiliului Camerei Auditorilor Financiari din România și auditorul statutar al Camerei Auditorilor Financiari din România, în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în data de 16 septembrie 2023, la sală, cu prezența fizică a auditorilor financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272419",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272419",
+     "sha256": "24be9c8a48ac9234ad0fd5d24b92d90d916ea5fe6781e580abe38f86d08cd5bb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-62",
+   "path": "profesii/cafr/hotarare/2023/62",
+   "short": "Hotărârea CAFR nr. 62/2023",
+   "title": "HOTĂRÂRE nr. 62 din 30 iunie 2023 pentru aprobarea Normelor privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271894",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271894",
+     "sha256": "997daf750269335d2351e11b43387c242dcc79668bf90ac4559575dd50d46779"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-8",
+   "path": "profesii/cafr/hotarare/2023/8",
+   "short": "Hotărârea CAFR nr. 8/2023",
+   "title": "HOTĂRÂRE nr. 8 din 20 februarie 2023 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România, organizată în format fizic în data de 22 aprilie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265325",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265325",
+     "sha256": "02aedfab0949c7229deaf6c1c373198b70975c340423d55d4e000cc0bad52861"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2023-87",
+   "path": "profesii/cafr/hotarare/2023/87",
+   "short": "Hotărârea CAFR nr. 87/2023",
+   "title": "HOTĂRÂRE nr. 87 din 25 septembrie 2023 privind alegerea Biroului permanent al Consiliului Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274791",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274791",
+     "sha256": "c5c7526fdda5f4e5caf5489af145a6dad6e0f4ae9199e51cb70cfdff3802c0b8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2023-1",
+   "path": "profesii/ccf/hotarare/2023/1",
+   "short": "Hotărârea CCF nr. 1/2023",
+   "title": "HOTĂRÂRE nr. 1 din 31 ianuarie 2023 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264679",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264679",
+     "sha256": "5115a2ac2754eb847ad5156e1f4d73f5d9a8d353c9908ca0c9e388923d7422ac"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2023-11",
+   "path": "profesii/ccf/hotarare/2023/11",
+   "short": "Hotărârea CCF nr. 11/2023",
+   "title": "HOTĂRÂRE nr. 11 din 30 august 2023 privind modificarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 11/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274504",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274504",
+     "sha256": "271cb4f01b3deadf6fe3bc82d23cf9ea99baf10c7738adceb145255d3aca5507"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2023-4",
+   "path": "profesii/ccf/hotarare/2023/4",
+   "short": "Hotărârea CCF nr. 4/2023",
+   "title": "HOTĂRÂRE nr. 4 din 28 februarie 2023 pentru modificarea și completarea Programului anual de pregătire profesională continuă, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 2/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265640",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265640",
+     "sha256": "b273d9e29d19f9cfe0285c7299851dc13e544b4222a28c7488f99487cab0245d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2023-5",
+   "path": "profesii/ccf/hotarare/2023/5",
+   "short": "Hotărârea CCF nr. 5/2023",
+   "title": "HOTĂRÂRE nr. 5 din 28 februarie 2023 pentru modificarea și completarea Regulamentului de organizare și funcționare al Camerei Consultanților Fiscali, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 3/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265595",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265595",
+     "sha256": "49ce61174f2566bed58f5910860cec8d294ae43dc355f2be58ed194df9616aaf"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2023-9",
+   "path": "profesii/ccf/hotarare/2023/9",
+   "short": "Hotărârea CCF nr. 9/2023",
+   "title": "HOTĂRÂRE nr. 9 din 26 iulie 2023 pentru modificarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 14/2021 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273619",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273619",
+     "sha256": "d7f7a958cbf426c03dc8c1004cc9922bf94a3007e3f0cb98a35a9396965aceee"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2023-8",
+   "path": "profesii/ccf/hotarare-conferinta/2023/8",
+   "short": "Hotărârea CCF nr. 8/2023",
+   "title": "HOTĂRÂRE nr. 8 din 2 mai 2023 privind aprobarea documentelor prezentate spre dezbatere în Conferința ordinară anuală a Camerei Consultanților Fiscali din 27 aprilie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270056",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270056",
+     "sha256": "636e13e46e0fbb7492f283b71d235544873e38bafdbdec25ca3062eed479f9c3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2023-12",
+   "path": "profesii/ccf/hotarare-consiliu/2023/12",
+   "short": "Hotărârea CCF nr. 12/2023",
+   "title": "HOTĂRÂRE nr. 12 din 30 august 2023 privind stabilirea modalității de organizare a examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274455",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274455",
+     "sha256": "88863e720db4065f2038a2b7737515d20df98fb46b150f29d93d6873933494fb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2023-3",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2023/3",
+   "short": "Hotărârea CCF nr. 3/2023",
+   "title": "HOTĂRÂRE nr. 3 din 28 februarie 2023 pentru aprobarea Normelor profesionale privind desfășurarea activității de consultanță fiscală de către consultanții fiscali asistenți, pe perioada stagiului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265618",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265618",
+     "sha256": "3b6a35ce99f4d82f43e4081c84fb0aab8fe17bd22320751444ab47bd93ca48db"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2023-6",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2023/6",
+   "short": "Hotărârea CCF nr. 6/2023",
+   "title": "HOTĂRÂRE nr. 6 din 28 februarie 2023 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265596",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265596",
+     "sha256": "e7c715135eb590a3a7ac208f09b8f42688dd99af11767630eb42d5a98599fddd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2023-7",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2023/7",
+   "short": "Hotărârea CCF nr. 7/2023",
+   "title": "HOTĂRÂRE nr. 7 din 29 martie 2023 privind abrogarea unor hotărâri ale Consiliului superior al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267119",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267119",
+     "sha256": "ad076ec919ba463b4fb2450636839b421243ec8d2581d89dcc70bb4c46c94d46"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2023-164",
+   "path": "profesii/ceccar/hotarare/2023/164",
+   "short": "Hotărârea CECCAR nr. 164/2023",
+   "title": "HOTĂRÂRE nr. 23/164 din 4 aprilie 2023 privind modificarea anexei nr. 1 la Regulamentul de organizare și funcționare a Corpului Experților Contabili și Contabililor Autorizați din România, aprobat prin Hotărârea Conferinței naționale a experților contabili și contabililor autorizați nr. 1/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267575",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267575",
+     "sha256": "d4fdedebbd11bd62616904e40c6e7a0158469f5ae4cc4bd1488683e267bc5de1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2023-189",
+   "path": "profesii/ceccar/hotarare/2023/189",
+   "short": "Hotărârea CECCAR nr. 189/2023",
+   "title": "Hotărârea CECCAR nr. 189/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267311",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267311",
+     "sha256": "ed1d1e965e3a143c9638c1e4a611118002350416c9fa65acadaf60ef88ab1ef8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2023-23-754",
+   "path": "profesii/ceccar/hotarare/2023/23-754",
+   "short": "Hotărârea CECCAR nr. 23/754/2023",
+   "title": "HOTĂRÂRE nr. 23/754 din 19 decembrie 2023 pentru modificarea Regulamentului privind auditul de calitate în domeniul serviciilor contabile, aprobat prin Hotărârea Consiliului superior al Corpului Experților Contabili și Contabililor Autorizați din România nr. 08/91/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278183",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278183",
+     "sha256": "5a89b3b9dd943b43b33f35f84bbdba16d6f043938f6ab9dce572315cde767e65"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2023-700",
+   "path": "profesii/ceccar/hotarare/2023/700",
+   "short": "Hotărârea CECCAR nr. 700/2023",
+   "title": "Hotărârea CECCAR nr. 700/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264026",
+   "versions": [
+    {
+     "from": "2023-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264026",
+     "sha256": "3cac262f77c2c100cce812a0cb749017581fd3782c8153bf94ca499a739e9ab4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2023-701",
+   "path": "profesii/ceccar/hotarare/2023/701",
+   "short": "Hotărârea CECCAR nr. 701/2023",
+   "title": "HOTĂRÂRE nr. 23/701 din 12 ianuarie 2023 pentru aprobarea Normelor sectoriale privind aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum si pentru modificarea și completarea unor acte normative, în domeniul serviciilor oferite de profesioniștii contabili, membri ai Corpului Experților Contabili și Contabililor Autorizați din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264054",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264054",
+     "sha256": "65c4355462a36cee8ee8250520f7208e8ae29123c050692634637986d1ba069b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2023-1",
+   "path": "profesii/cfr/decizie-consiliu-national/2023/1",
+   "short": "Decizia CFR nr. 1/2023",
+   "title": "DECIZIE nr. 1 din 15 septembrie 2023 pentru modificarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 1/2007 privind întocmirea și eliberarea Certificatului profesional curent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275640",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275640",
+     "sha256": "166836286e9f66363fe4dafbb698d72429f00d31945f7b2b5924bbda97e7975d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2023-2",
+   "path": "profesii/cfr/decizie-consiliu-national/2023/2",
+   "short": "Decizia CFR nr. 2/2023",
+   "title": "DECIZIE nr. 2 din 15 septembrie 2023 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 3/2008 privind aprobarea cuantumului cotizației de membru al Colegiului Farmaciștilor din România și stabilirea procedurii de încasare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275641",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275641",
+     "sha256": "4fa01d7a81170c8b5fe73c928080356fcecf10326897b3caae61757157c00bba"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2023-3",
+   "path": "profesii/cfr/decizie-consiliu-national/2023/3",
+   "short": "Decizia CFR nr. 3/2023",
+   "title": "DECIZIE nr. 3 din 15 septembrie 2023 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 4/2004 privind acordarea certificatului de membru al Colegiului Farmaciștilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275646",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275646",
+     "sha256": "1f78b6d60887d3a0ff2d50158b98b902ef3947dd108d5c37a796b54b9fc1b329"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2023-4",
+   "path": "profesii/cfr/decizie-consiliu-national/2023/4",
+   "short": "Decizia CFR nr. 4/2023",
+   "title": "DECIZIE nr. 4 din 15 septembrie 2023 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 5/2021 privind aprobarea procedurii de control și evaluare a unităților farmaceutice cu privire la Regulile de bună practică farmaceutică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275848",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275848",
+     "sha256": "5fea7d6f57bf1ff5b709955a0355b336faafb7e76eeeaee2e7de26d99fe1f32a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2023-5",
+   "path": "profesii/cfr/decizie-consiliu-national/2023/5",
+   "short": "Decizia CFR nr. 5/2023",
+   "title": "DECIZIE nr. 5 din 22 noiembrie 2023 privind organizarea alegerilor organelor de conducere și de control ale colegiilor teritoriale și ale Colegiului Farmaciștilor din România, ale membrilor comisiilor de disciplină, precum și de aprobare a Regulamentului electoral de organizare și desfășurare a alegerilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277264",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277264",
+     "sha256": "a01d7ea1a68864731fc8d2604b53b429de5e1ccbc591b716194876985d2997d2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2023-6",
+   "path": "profesii/cfr/decizie-consiliu-national/2023/6",
+   "short": "Decizia CFR nr. 6/2023",
+   "title": "DECIZIE nr. 6 din 22 noiembrie 2023 pentru modificarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 4/2004 privind acordarea certificatului de membru al Colegiului Farmaciștilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277709",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277709",
+     "sha256": "ec528c238c61fcc2b8aca2f9813cf5b55624422068af58378f0e7aa2c0fcebed"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-2023-63",
+   "path": "profesii/cfzro/hotarare/2023/63",
+   "short": "Hotărârea CFZRO nr. 63/2023",
+   "title": "HOTĂRÂRE nr. 63 din 3 iulie 2023 pentru aprobarea Procedurii de avizare a cabinetelor de liberă practică pentru serviciile publice conexe actului medical de fizioterapie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272178",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272178",
+     "sha256": "1b2344fcb7e17fbb7a8cd14005cfd83c4821a22229dfcd1cf658e031fe8a2252"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2023-133",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2023/133",
+   "short": "Hotărârea CFZRO nr. 133/2023",
+   "title": "HOTĂRÂRE nr. 133 din 6 decembrie 2023 privind modificarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277626",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277626",
+     "sha256": "cebadaa8480701f26681781cc5b9ef396542efeb1822bb863ecd55014671132c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2023-69",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2023/69",
+   "short": "Hotărârea CFZRO nr. 69/2023",
+   "title": "HOTĂRÂRE nr. 69 din 3 iulie 2023 pentru completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272168",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272168",
+     "sha256": "91403a53ce93571e872eee4b5a17e13a4bfffc9d6383a28b6ddab51c6e336748"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2023-73",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2023/73",
+   "short": "Hotărârea CFZRO nr. 73/2023",
+   "title": "HOTĂRÂRE nr. 73 din 25 iulie 2023 pentru modificarea și completarea unor acte normative ale Colegiului Fizioterapeuților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273625",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273625",
+     "sha256": "df61dfa1406de4ae0966074f71be477033363637b0834aa884d1971d64dcc406"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfzro-hotarare-consiliu-national-2023-75",
+   "path": "profesii/cfzro/hotarare-consiliu-national/2023/75",
+   "short": "Hotărârea CFZRO nr. 75/2023",
+   "title": "HOTĂRÂRE nr. 75 din 25 iulie 2023 pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 36/2018 privind dobândirea calității de membru al Colegiului Fizioterapeuților din România și eliberarea autorizației de liberă practică pentru exercitarea profesiei de fizioterapeut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273626",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273626",
+     "sha256": "73628c84c03b4f832593bb29d3d191f15afc147a469d0758d79fc6dd1396c0a1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2023-22-2cn",
+   "path": "profesii/cmdr/decizie/2023/22-2cn",
+   "short": "Decizia CMDR nr. 22/2CN/2023",
+   "title": "DECIZIE nr. 22/2CN din 18 decembrie 2023 privind perioada de desfășurare a alegerilor membrilor biroului executiv al Colegiului Medicilor Stomatologi Constanța și ai biroului executiv al Colegiului Medicilor Stomatologi Vâlcea pentru perioada rămasă din mandatul 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278119",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278119",
+     "sha256": "70c16368fbbadaa73178e69b1e000ea1a33de69907adca4d0b2d0c5acce417b8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-adunare-generala-2023-3-1agn",
+   "path": "profesii/cmdr/decizie-adunare-generala/2023/3-1agn",
+   "short": "Decizia CMDR nr. 3/1AGN/2023",
+   "title": "DECIZIE nr. 3/1AGN din 3 martie 2023 privind adoptarea Regulamentului de organizare și funcționare a Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267400",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267400",
+     "sha256": "4c36b5f636f97cf9df140c99e24efec344c5bf551f1cc303472f6fcdaf3fff05"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2023-10-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2023/10-2cn",
+   "short": "Decizia CMDR nr. 10/2CN/2023",
+   "title": "DECIZIE nr. 10/2CN din 29 septembrie 2023 privind aprobarea calendarului electoral pentru alegerea organelor de conducere ale Colegiului Medicilor Stomatologi din România la nivel local și național pentru mandatul 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275233",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275233",
+     "sha256": "9d77b18855ce0ff9eb81ca3893c4e3cc2b2b9db74f4155c9570ac2a7088d1f38"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2023-11-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2023/11-2cn",
+   "short": "Decizia CMDR nr. 11/2CN/2023",
+   "title": "DECIZIE nr. 11/2CN din 29 septembrie 2023 privind aprobarea componenței Comisiei Electorale Centrale pentru alegerea organelor de conducere ale Colegiului Medicilor Stomatologi din România la nivel local și național pentru mandatul 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275234",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275234",
+     "sha256": "13eac9d28f27c601f8db16171b2a68a02122b8073048a0a41fa6bf5d1d76e984"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2023-14-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2023/14-2cn",
+   "short": "Decizia CMDR nr. 14/2CN/2023",
+   "title": "DECIZIE nr. 14/2CN din 29 septembrie 2023 pentru modificarea anexei la Decizia Consiliului național al Colegiului Medicilor Stomatologi din România nr. 6/2CN/2023 privind organizarea alegerilor membrilor organelor de conducere ale Colegiului Medicilor Stomatologi din România și pentru aprobarea Regulamentului electoral al Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275235",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275235",
+     "sha256": "aeb089974c43b0d4a4be50d71b28892d866d500fc9721f7f97b6a6b15db48217"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2023-15-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2023/15-2cn",
+   "short": "Decizia CMDR nr. 15/2CN/2023",
+   "title": "DECIZIE nr. 15/2CN din 29 septembrie 2023 pentru modificarea art. 3 alin. (4) din anexa nr. 3 la Decizia Consiliului național al Colegiului Medicilor Stomatologi din România nr. 16/2CN/2021 privind reglementarea sistemului de educație medicală continuă pentru medicii stomatologi, a criteriilor și normelor de acreditare a furnizorilor de educație medicală continuă și a lectorilor, precum și a procedurilor de evaluare și creditare a formelor de educație medicală continuă adresate medicilor stomatologi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275236",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275236",
+     "sha256": "3d3ac8a88a4c5b3d0223efc15928883e75aed70be99c382adf8f19d79082235f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2023-4",
+   "path": "profesii/cmdr/decizie-consiliu-national/2023/4",
+   "short": "Decizia CMDR nr. 4/2023",
+   "title": "DECIZIE nr. 4/2 CN din 21 iunie 2023 privind aprobarea competențelor medicului stomatolog, respectiv ale medicului stomatolog specialist în specialitatea Stomatologie generală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271492",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271492",
+     "sha256": "da989c83a1d68a00b4854ff693afe5c7ef5b0c1bbcba2f555f7c0bf7214bccc5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2023-5",
+   "path": "profesii/cmdr/decizie-consiliu-national/2023/5",
+   "short": "Decizia CMDR nr. 5/2023",
+   "title": "DECIZIE nr 5/2 CN din 21 iunie 2023 privind aprobarea competențelor medicului stomatolog specialist în specialitatea Chirurgie dento-alveolară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271493",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271493",
+     "sha256": "f887fd214f70dbb0a07f8a3fce38b307f3e2cec606d9243c94116a41fae421e1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2023-6-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2023/6-2cn",
+   "short": "Decizia CMDR nr. 6/2CN/2023",
+   "title": "DECIZIE nr. 6/2CN din 19 mai 2023 privind organizarea alegerilor membrilor organelor de conducere ale Colegiului Medicilor Stomatologi din România și pentru aprobarea Regulamentului electoral al Colegiului Medicilor Stomatologi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271748",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271748",
+     "sha256": "498ed66fdd74d928a8b9257a79cfcecf613a813f5d27fa4773814c244fc92bd2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2023-9",
+   "path": "profesii/cmdr/decizie-consiliu-national/2023/9",
+   "short": "Decizia CMDR nr. 9/2023",
+   "title": "DECIZIE nr. 9/2CN/2023 din 7 iulie 2023 privind abrogarea Deciziei Consiliului național al Colegiului Medicilor Stomatologi din România nr. 4/2CN/2023 privind aprobarea competențelor medicului stomatolog, respectiv ale medicului stomatolog specialist în specialitatea Stomatologie generală și a Deciziei Consiliului național al Colegiului Medicilor Stomatologi din România nr. 5/2CN/2023 privind aprobarea competențelor medicului stomatolog specialist în specialitatea Chirurgie dento-alveolară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272068",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272068",
+     "sha256": "074d8398c8b9d6b08db6fc221de467551a4c9b7515bc5e4010ecd41492fd53e2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2023-11",
+   "path": "profesii/cmr/decizie/2023/11",
+   "short": "Decizia CMR nr. 11/2023",
+   "title": "DECIZIE nr. 11 din 30 iunie 2023 privind modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 8/2023 privind stabilirea datei organizării alegerilor pentru comisiile de disciplină de la nivel teritorial și pentru Comisia Superioară de Disciplină, adoptarea Regulamentului electoral privind alegerea membrilor comisiilor de disciplină și a membrilor Comisiei Superioare de Disciplină și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271880",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271880",
+     "sha256": "381f852d54b7315e7a99df7174b4e0fb211a033b8ea2f8b85d42530986d928ea"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2023-12",
+   "path": "profesii/cmr/decizie/2023/12",
+   "short": "Decizia CMR nr. 12/2023",
+   "title": "DECIZIE nr. 12 din 28 iulie 2023 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 8/2023 privind stabilirea datei organizării alegerilor pentru comisiile de disciplină de la nivel teritorial și pentru Comisia Superioară de Disciplină, adoptarea Regulamentului electoral privind alegerea membrilor comisiilor de disciplină și a membrilor Comisiei Superioare de Disciplină și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273444",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273444",
+     "sha256": "f6c32a101e7d8427e546f2c50103d0310944d6cd413515e075903326b54dae4b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2023-16",
+   "path": "profesii/cmr/decizie/2023/16",
+   "short": "Decizia CMR nr. 16/2023",
+   "title": "DECIZIE nr. 16 din 27 iulie 2023 privind eliberarea certificatului de membru al Colegiului Medicilor din România și stabilirea procedurii de verificare și atestare a nivelului profesional al medicilor care au întrerupt exercitarea profesiei ori s-au aflat într-o situație de incompatibilitate pe o perioadă mai mare de 5 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274777",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274777",
+     "sha256": "c462e03aad79fa6d76c15175396cfd02e7e9489b5bb85778343444e179f994eb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2023-8",
+   "path": "profesii/cmr/decizie/2023/8",
+   "short": "Decizia CMR nr. 8/2023",
+   "title": "DECIZIE nr. 8 din 28 aprilie 2023 privind stabilirea datei organizării alegerilor pentru comisiile de disciplină de la nivel teritorial și pentru Comisia Superioară de Disciplină, adoptarea Regulamentului electoral privind alegerea membrilor comisiilor de disciplină și a membrilor Comisiei Superioare de Disciplină și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270252",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270252",
+     "sha256": "5a0d390b24f15d59614a8daa3911df7f35718ea027282dcea8d73f38130404d8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2023-17",
+   "path": "profesii/cmr/decizie-consiliu-national/2023/17",
+   "short": "Decizia CMR nr. 17/2023",
+   "title": "DECIZIE nr. 17 din 15 septembrie 2023 privind stabilirea cuantumului cotizației de membru al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274641",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274641",
+     "sha256": "d4c275a6b6dea7846cccf0a9c094ebcf499832f1a63028963455e49377bb288a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2023-23",
+   "path": "profesii/cmr/decizie-consiliu-national/2023/23",
+   "short": "Decizia CMR nr. 23/2023",
+   "title": "DECIZIE nr. 23 din 16 decembrie 2023 privind eliberarea Avizului de practică temporară/ocazională a profesiei pentru medicii străini din Uniunea Europeană, Spațiul Economic European și Confederația Elvețiană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278500",
+   "versions": [
+    {
+     "from": "2024-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278500",
+     "sha256": "1d97b3d339c8a698f858f9a1fa2d068cc22dd8e14b9cf35fda8ce83e9cf64267"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2023-24",
+   "path": "profesii/cmr/decizie-consiliu-national/2023/24",
+   "short": "Decizia CMR nr. 24/2023",
+   "title": "DECIZIE nr. 24 din 16 decembrie 2023 privind eliberarea Avizului de practică necesar exercitării activității medicale în scop didactic și ocazional pe teritoriul României pentru medici cetățeni ai unui stat terț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278515",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278515",
+     "sha256": "3f146742cdd69e3de0227f39def7e900ca42250d4c5ea0437ee7dd662519b839"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-2023-2",
+   "path": "profesii/cpr/hotarare/2023/2",
+   "short": "Hotărârea CPR nr. 2/2023",
+   "title": "HOTĂRÂRE nr. 2 din 8 aprilie 2023 pentru aprobarea Normelor privind regimul incompatibilităților și conflictului de interese aplicabile membrilor forurilor de conducere ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270096",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270096",
+     "sha256": "f1e6e1ba10d43c1aa9d63893ff302498d4636c014a5c9068a353830b7b4a9787"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-2023-3",
+   "path": "profesii/cpr/hotarare/2023/3",
+   "short": "Hotărârea CPR nr. 3/2023",
+   "title": "HOTĂRÂRE nr. 3 din 8 aprilie 2023 pentru modificarea și completarea Codului de procedură disciplinară, aprobat prin Hotărârea Convenției naționale a Colegiului Psihologilor din România nr. 2/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270098",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270098",
+     "sha256": "d871f64b4519ced6623409003759ba741ca67fc0c1f4ad17f94e2495003cb956"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-2023-4",
+   "path": "profesii/cpr/hotarare/2023/4",
+   "short": "Hotărârea CPR nr. 4/2023",
+   "title": "HOTĂRÂRE nr. 4 din 8 aprilie 2023 pentru modificarea și completarea Hotărârii Convenției naționale a Colegiului Psihologilor din România nr. 1/2018 pentru aprobarea Codului deontologic al profesiei de psiholog cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270099",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270099",
+     "sha256": "17eeb30a958e4aed2d6f427c4cd8844ad9755f91f25c93cbade5baa026f4f41a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2023-22",
+   "path": "profesii/cpr/hotarare-comitet-director/2023/22",
+   "short": "Hotărârea CPR nr. 22/2023",
+   "title": "HOTĂRÂRE nr. 22 din 15 iunie 2023 pentru modificarea Procedurii de înscriere în Registrul furnizorilor de servicii psihologice privind desfășurarea activității profesionale de intervenție psihologică pentru persoanele diagnosticate cu tulburări din spectrul autist, aprobată prin Hotărârea Comitetului director al Colegiului Psihologilor din România nr. 61/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272217",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272217",
+     "sha256": "c08fc5bdf96f6e5bf29a0e1d9bb9061fcf944fe6e179534e02657014654e1933"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2023-62",
+   "path": "profesii/cpr/hotarare-comitet-director/2023/62",
+   "short": "Hotărârea CPR nr. 62/2023",
+   "title": "HOTĂRÂRE nr. 62 din 13 decembrie 2023 privind modificarea și completarea anexei nr. 6 la Hotărârea Comitetului director al Colegiului Psihologilor din România nr. 1/2019 pentru aprobarea normelor privind competențele profesionale, educația, formarea și atestarea profesională ale psihologilor cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277842",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277842",
+     "sha256": "334421b41fb574f0a0bda405e9ecffd118587316a8624cd26a732db2c39ba26c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-103",
+   "path": "profesii/csm/hotarare-plen/2023/103",
+   "short": "Hotărârea CSM nr. 103/2023",
+   "title": "HOTĂRÂRE nr. 103 din 15 iunie 2023 pentru aprobarea Regulamentului privind examenul de absolvire a Institutului Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271645",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271645",
+     "sha256": "5fcb43db99ba549234b5bf446cc1c8d794847c83c6035a065f14dc6d80f40bd2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-114",
+   "path": "profesii/csm/hotarare-plen/2023/114",
+   "short": "Hotărârea CSM nr. 114/2023",
+   "title": "HOTĂRÂRE nr. 114 din 28 iunie 2023 pentru aprobarea Regulamentului privind admiterea la Institutul Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271825",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271825",
+     "sha256": "abb00c50a737886c1e2cd610cc8a7cf15eb856adcde931370530323c70d747fa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-115",
+   "path": "profesii/csm/hotarare-plen/2023/115",
+   "short": "Hotărârea CSM nr. 115/2023",
+   "title": "HOTĂRÂRE nr. 115 din 28 iunie 2023 pentru aprobarea Regulamentului privind concursul de admitere în magistratură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271826",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271826",
+     "sha256": "1301c64d1c3ea26cac536b37a3469629428fcc83bbe1d6b006b963519f93f70f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-122",
+   "path": "profesii/csm/hotarare-plen/2023/122",
+   "short": "Hotărârea CSM nr. 122/2023",
+   "title": "HOTĂRÂRE nr. 122 din 6 iulie 2023 pentru aprobarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272088",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272088",
+     "sha256": "654cdf0a3cb3546d0bf4ed019a433de2967aab747443bf7f5838a5e75eb5109b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-135",
+   "path": "profesii/csm/hotarare-plen/2023/135",
+   "short": "Hotărârea CSM nr. 135/2023",
+   "title": "HOTĂRÂRE nr. 135 din 24 august 2023 pentru aprobarea Regulamentului de organizare și funcționare a Inspecției Judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274042",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274042",
+     "sha256": "8e8c67c456acfcb0658e278ec5bb8d1421455be2d8681babb7a04cb20e31555b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-147",
+   "path": "profesii/csm/hotarare-plen/2023/147",
+   "short": "Hotărârea CSM nr. 147/2023",
+   "title": "HOTĂRÂRE nr. 147 din 11 octombrie 2023 pentru completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 122/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275391",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275391",
+     "sha256": "8f8949628da12767e41928be369a3f4a4d64dc4873e578975f70b9057ab8d27e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-163",
+   "path": "profesii/csm/hotarare-plen/2023/163",
+   "short": "Hotărârea CSM nr. 163/2023",
+   "title": "HOTĂRÂRE nr. 163 din 16 noiembrie 2023 pentru abrogarea Regulamentului comun privind numirea ca judecător sau procuror militar, transferul de la instanțele sau parchetele civile la instanțele ori parchetele militare, precum și acordarea gradelor militare și înaintarea în grad a judecătorilor și procurorilor militari, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 176/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276579",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276579",
+     "sha256": "193ddef784b4b81966ba3f1b54d67fb6ead18f7bce4d2a894434eb399741661f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-164",
+   "path": "profesii/csm/hotarare-plen/2023/164",
+   "short": "Hotărârea CSM nr. 164/2023",
+   "title": "HOTĂRÂRE nr. 164 din 16 noiembrie 2023 pentru aprobarea Regulamentului privind normele pentru efectuarea lucrărilor de inspecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276662",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276662",
+     "sha256": "edb0a5a3e87b713f7d35d9ce602fa86b36a3074da13420c491ed9aae56215f04"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-27",
+   "path": "profesii/csm/hotarare-plen/2023/27",
+   "short": "Hotărârea CSM nr. 27/2023",
+   "title": "HOTĂRÂRE nr. 27 din 1 martie 2023 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de admitere la Școala Națională de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 173/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265493",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265493",
+     "sha256": "af179170b9458aed64fd82ef9dd72df7ccbf289dc298d914e4f2d0c8d50b4afa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-49",
+   "path": "profesii/csm/hotarare-plen/2023/49",
+   "short": "Hotărârea CSM nr. 49/2023",
+   "title": "HOTĂRÂRE nr. 49 din 23 martie 2023 privind abrogarea Hotărârii Plenului Consiliului Superior al Magistraturii nr. 910/2018 pentru aprobarea Regulamentului privind numirea și revocarea procurorilor cu funcții de conducere din cadrul Secției pentru investigarea infracțiunilor din justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266567",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266567",
+     "sha256": "8f11ccc79f0df645f2c33a3e81596bd7cb03d15318474c16c71d421c0c94a36d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-50",
+   "path": "profesii/csm/hotarare-plen/2023/50",
+   "short": "Hotărârea CSM nr. 50/2023",
+   "title": "HOTĂRÂRE nr. 50 din 23 martie 2023 privind abrogarea Hotărârii Plenului Consiliului Superior al Magistraturii nr. 911/2018 pentru aprobarea Regulamentului privind numirea, continuarea activității și revocarea procurorilor cu funcții de execuție din cadrul Secției pentru investigarea infracțiunilor din justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266568",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266568",
+     "sha256": "de9dcbfeb2cb81dca287b720509ab65bfa4990844b35bddfed36ba50bf5d3f02"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-51",
+   "path": "profesii/csm/hotarare-plen/2023/51",
+   "short": "Hotărârea CSM nr. 51/2023",
+   "title": "HOTĂRÂRE nr. 51 din 23 martie 2023 privind abrogarea Hotărârii Plenului Consiliului Superior al Magistraturii nr. 293/2007 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266569",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266569",
+     "sha256": "03edc267aa06ceeaac27ae2f982bc78140b235c61fd54c7d02ac5f2f11753464"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-52",
+   "path": "profesii/csm/hotarare-plen/2023/52",
+   "short": "Hotărârea CSM nr. 52/2023",
+   "title": "HOTĂRÂRE nr. 52 din 23 martie 2023 privind abrogarea Hotărârii Plenului Consiliului Superior al Magistraturii nr. 292/2007 pentru aprobarea Regulamentului privind promovarea în funcția de prim-magistrat-asistent și de magistrat-asistent șef la Înalta Curte de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266570",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266570",
+     "sha256": "f7ec2a7350d5efb7ecc28bdd29c058d23e10dd4addf5d64d56c4125a30b6a80d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-92",
+   "path": "profesii/csm/hotarare-plen/2023/92",
+   "short": "Hotărârea CSM nr. 92/2023",
+   "title": "HOTĂRÂRE nr. 92 din 25 mai 2023 pentru aprobarea Regulamentului Institutului Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271035",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271035",
+     "sha256": "c8c312a73636cf2061c21cc58ffcfd1e75b642f5749487a8fcc5dcd8bf03bddb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2023-93",
+   "path": "profesii/csm/hotarare-plen/2023/93",
+   "short": "Hotărârea CSM nr. 93/2023",
+   "title": "HOTĂRÂRE nr. 93 din 25 mai 2023 pentru aprobarea Baremului medical pentru verificarea îndeplinirii condiției de a fi apt din punct de vedere medical în vederea ocupării funcției de judecător sau procuror",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270836",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270836",
+     "sha256": "b704c7b7abc44f2c9b6508c0982079da4a2cc9784389e79df49ba460175c49d6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-judecatori-2023-1434",
+   "path": "profesii/csm/hotarare-sectia-judecatori/2023/1434",
+   "short": "Hotărârea CSM nr. 1434/2023",
+   "title": "HOTĂRÂRE nr. 1.434 din 27 aprilie 2023 pentru aprobarea Regulamentului privind concursul de promovare a judecătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267539",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267539",
+     "sha256": "ddd7cd265fe010c701a510161f39bae80a1130c9912c1cd9651f83aa6e2c3565"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-judecatori-2023-1978",
+   "path": "profesii/csm/hotarare-sectia-judecatori/2023/1978",
+   "short": "Hotărârea CSM nr. 1978/2023",
+   "title": "HOTĂRÂRE nr. 1.978 din 6 iulie 2023 pentru modificarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Secției pentru judecători a Consiliului Superior al Magistraturii nr. 3.243/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272076",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272076",
+     "sha256": "57b522cef396fd639e21a93af358c5efbb1698a6d452073d6e44ff599d19c534"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-judecatori-2023-266",
+   "path": "profesii/csm/hotarare-sectia-judecatori/2023/266",
+   "short": "Hotărârea CSM nr. 266/2023",
+   "title": "HOTĂRÂRE nr. 266 din 16 februarie 2023 pentru aprobarea Regulamentului privind numirea în funcții de conducere a judecătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265207",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265207",
+     "sha256": "5e4fe50ba47079fc243880cb5cb6c2e778dee0382706294bb909295a494eacaa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-judecatori-2023-421",
+   "path": "profesii/csm/hotarare-sectia-judecatori/2023/421",
+   "short": "Hotărârea CSM nr. 421/2023",
+   "title": "HOTĂRÂRE nr. 421 din 23 martie 2023 privind abrogarea Hotărârii Secției pentru judecători a Consiliului Superior al Magistraturii nr. 1.347/2019 pentru aprobarea Regulamentului privind transferul judecătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266571",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266571",
+     "sha256": "18b9ba773d44a643d875fbeb7ba89efc1467163e56bcd41618dcad283054bb08"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-procurori-2023-1106",
+   "path": "profesii/csm/hotarare-sectia-procurori/2023/1106",
+   "short": "Hotărârea CSM nr. 1106/2023",
+   "title": "HOTĂRÂRE nr. 1.106 din 31 august 2023 pentru aprobarea Regulamentului de ordine interioară al parchetelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274198",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274198",
+     "sha256": "d86ff7500c1751cdd4a6d9c8e607a0a9dcfbfe543ddb0d9913124bda2c419033"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-procurori-2023-1107",
+   "path": "profesii/csm/hotarare-sectia-procurori/2023/1107",
+   "short": "Hotărârea CSM nr. 1107/2023",
+   "title": "HOTĂRÂRE nr. 1.107 din 31 august 2023 pentru aprobarea Regulamentului privind numirea procurorilor în funcții de execuție la Direcția Națională Anticorupție și revocarea din aceste funcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274204",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274204",
+     "sha256": "f823a23890613e9965e6157201092488854e0a4bd25b040b2bdd08da32b102af"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-procurori-2023-1169",
+   "path": "profesii/csm/hotarare-sectia-procurori/2023/1169",
+   "short": "Hotărârea CSM nr. 1169/2023",
+   "title": "HOTĂRÂRE nr. 1.169 din 28 septembrie 2023 pentru aprobarea Regulamentului de ordine interioară al Direcției Naționale Anticorupție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275075",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275075",
+     "sha256": "268671be4978b97479e6bde4fea98751d04af182622adbcdf5bac94b6f0dfb52"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-procurori-2023-1608",
+   "path": "profesii/csm/hotarare-sectia-procurori/2023/1608",
+   "short": "Hotărârea CSM nr. 1608/2023",
+   "title": "HOTĂRÂRE nr. 1.608 din 14 decembrie 2023 pentru modificarea și completarea Regulamentului de ordine interioară al parchetelor, aprobat prin Hotărârea Secției pentru procurori a Consiliului Superior al Magistraturii nr. 1.106/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277654",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277654",
+     "sha256": "57ef1d9ba6f843d3dc5544700f22c126797e14600a723f62e2472856c02c6bb0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-procurori-2023-506",
+   "path": "profesii/csm/hotarare-sectia-procurori/2023/506",
+   "short": "Hotărârea CSM nr. 506/2023",
+   "title": "HOTĂRÂRE nr. 506 din 11 aprilie 2023 pentru aprobarea Regulamentului privind numirea în funcții de conducere a procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267409",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267409",
+     "sha256": "28328bd9f2d3aeabeb56f212432aed33ae6d744eb4f79b0c3445b100c9679cd0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-procurori-2023-682",
+   "path": "profesii/csm/hotarare-sectia-procurori/2023/682",
+   "short": "Hotărârea CSM nr. 682/2023",
+   "title": "HOTĂRÂRE nr. 682 din 4 mai 2023 pentru aprobarea Regulamentului privind concursul de promovare a procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270018",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270018",
+     "sha256": "7eef1cb5ce668c0adaa114f8437131e0950f71d4e3d48c6710909e0a7928b672"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-sectia-procurori-2023-843",
+   "path": "profesii/csm/hotarare-sectia-procurori/2023/843",
+   "short": "Hotărârea CSM nr. 843/2023",
+   "title": "HOTĂRÂRE nr. 843 din 13 iunie 2023 pentru aprobarea Regulamentului privind numirea procurorilor în funcții de execuție la Direcția de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism și revocarea din aceste funcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271647",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271647",
+     "sha256": "6e34f9ffeee938c8e43bb3a32e2f58c3c31147a173372a185380415d484c07eb"
+    }
+   ]
+  },
+  {
    "slug": "profesii-inppa-decizie-director-2023-179",
    "path": "profesii/inppa/decizie-director/2023/179",
    "short": "INPPA decizie-director 179/2023",
@@ -29,6 +1319,201 @@
      "units": 1,
      "source_url": "https://inppa.ro/decizia-nr-189-din-06-11-2023-privind-organizarea-si-desfasurarea-examenului-de-absolvire-a-i-n-p-p-a-sesiunea-12-noiembrie-2023/",
      "sha256": "dae2d2c1a83afe53aa06fda3bab44f652da5105759666646b93941ad9ea14f3b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2023-8",
+   "path": "profesii/mediere/hotarare-consiliu/2023/8",
+   "short": "Hotărârea Consiliul de mediere nr. 8/2023",
+   "title": "HOTĂRÂRE nr. 8 din 4 ianuarie 2023 pentru publicarea în Monitorul Oficial al României, Partea I, a Tabloului mediatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265572",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265572",
+     "sha256": "161bb2a00a02395e4df83340e4c8ec4b0d8f1cc19f2bd5218b35a706415cc8ed"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-10",
+   "path": "profesii/oamgmamr/hotarare/2023/10",
+   "short": "Hotărârea OAMGMAMR nr. 10/2023",
+   "title": "HOTĂRÂRE nr. 10 din 14 martie 2023 pentru completarea unor hotărâri ale Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266418",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266418",
+     "sha256": "2416ab78373d9d9ba0d6f5ecca5f53dd3e7b51c689e2063d7583cf65b8215d48"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-18",
+   "path": "profesii/oamgmamr/hotarare/2023/18",
+   "short": "Hotărârea OAMGMAMR nr. 18/2023",
+   "title": "HOTĂRÂRE nr. 18 din 7 iunie 2023 privind stabilirea valorii minim asigurate pentru încheierea asigurării de răspundere civilă pentru greșeli în activitatea profesională pentru membrii asociați, precum și pentru asistenții medicali generaliști, moașele, asistenții medicali care exercită profesia în regim de voluntariat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271405",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271405",
+     "sha256": "dfddedba6e33d82c073395ae891241001bb06aab6d92992cd65a8de4238e5204"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-20",
+   "path": "profesii/oamgmamr/hotarare/2023/20",
+   "short": "Hotărârea OAMGMAMR nr. 20/2023",
+   "title": "HOTĂRÂRE nr. 20 din 30 august 2023 privind stabilirea valorii minim asigurate pentru încheierea asigurării de răspundere civilă pentru greșeli în activitatea profesională pentru asistenții medicali generaliști, moașele și asistenții medicali care exercită profesia în regim salarial, independent sau de voluntariat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274594",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274594",
+     "sha256": "a475dc97dc61b5bd826bc2c863e5a5f1d02c747ec2aeb5cbc5dc72e8a29ef4e3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-22",
+   "path": "profesii/oamgmamr/hotarare/2023/22",
+   "short": "Hotărârea OAMGMAMR nr. 22/2023",
+   "title": "HOTĂRÂRE nr. 22 din 30 august 2023 pentru modificarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 31/2017 privind stabilirea cuantumului cotizației de membru, respectiv cotizației de membru asociat al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România și a unor taxe încasate de Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274656",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274656",
+     "sha256": "450b0b34f130147cc257f827aca0a5337a3eb8a0e7e47ab690bab7f10f03e843"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-26",
+   "path": "profesii/oamgmamr/hotarare/2023/26",
+   "short": "Hotărârea OAMGMAMR nr. 26/2023",
+   "title": "HOTĂRÂRE nr. 26 din 12 octombrie 2023 privind parafa profesională pentru asistenți medicali generaliști, moașe și asistenți medicali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275702",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275702",
+     "sha256": "5ab0eeaf28588bc26591387834c3975b1fd9ccc077d9c19ee15c0f471482c8b1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-27",
+   "path": "profesii/oamgmamr/hotarare/2023/27",
+   "short": "Hotărârea OAMGMAMR nr. 27/2023",
+   "title": "HOTĂRÂRE nr. 27 din 12 octombrie 2023 pentru modificarea Codului de etică și deontologie al asistentului medical generalist, al moașei și al asistentului medical din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 2/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275504",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275504",
+     "sha256": "38ae83376912660973e1d82d6fe5f052c02dbaf02f1fa3b8d4c374e4098e149f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-28",
+   "path": "profesii/oamgmamr/hotarare/2023/28",
+   "short": "Hotărârea OAMGMAMR nr. 28/2023",
+   "title": "HOTĂRÂRE nr. 28 din 12 octombrie 2023 pentru modificarea anexei nr. 3 la Statutul Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275695",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275695",
+     "sha256": "9305e205a2b811b1de0625fe08b3b6e7c0b57842ac969f41be05df4c8c513f49"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-30",
+   "path": "profesii/oamgmamr/hotarare/2023/30",
+   "short": "Hotărârea OAMGMAMR nr. 30/2023",
+   "title": "HOTĂRÂRE nr. 30 din 12 octombrie 2023 privind modificarea Normelor de creditare a formelor de educație medicală continuă, aprobate prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 10/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275696",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275696",
+     "sha256": "c6c096b9f2b398d0abc1eb0a902992709590612d097e4d7b5717a02b71943b30"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-38",
+   "path": "profesii/oamgmamr/hotarare/2023/38",
+   "short": "Hotărârea OAMGMAMR nr. 38/2023",
+   "title": "HOTĂRÂRE nr. 38 din 9 noiembrie 2023 pentru modificarea anexei nr. 4 la Statutul Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276314",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276314",
+     "sha256": "7e4957ebec938f10bccab64de291b4b7b391027ef7d0485ca5bd2ab061c99467"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-43",
+   "path": "profesii/oamgmamr/hotarare/2023/43",
+   "short": "Hotărârea OAMGMAMR nr. 43/2023",
+   "title": "HOTĂRÂRE nr. 43 din 5 decembrie 2023 pentru modificarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 13/2019 privind îndeplinirea prin mijloace electronice a formalităților de recunoaștere a calificării sau de acces la exercitarea temporară și ocazională a profesiei în România de către moașele și asistenții medicali formați în celelalte state membre UE, SEE sau în Confederația Elvețiană și pentru aprobarea procedurilor electronice aplicate prin punctul de contact unic electronic în aceste situații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277710",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277710",
+     "sha256": "e6cb122a7421d4ab8429f62e3546abe2ee6c1d858b5eb0cef98a23ac59addbdc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-44",
+   "path": "profesii/oamgmamr/hotarare/2023/44",
+   "short": "Hotărârea OAMGMAMR nr. 44/2023",
+   "title": "HOTĂRÂRE nr. 44 din 5 decembrie 2023 privind aprobarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277589",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277589",
+     "sha256": "bbd6c1a3567c739fdce7fe859b8d6c8eabcd1e909be4037daaade359b907a966"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2023-9",
+   "path": "profesii/oamgmamr/hotarare/2023/9",
+   "short": "Hotărârea OAMGMAMR nr. 9/2023",
+   "title": "HOTĂRÂRE nr. 9 din 14 martie 2023 privind stabilirea valorii minim asigurate pentru încheierea asigurării de răspundere civilă pentru greșeli în activitatea profesională pentru asistenții medicali generaliști, moașele și asistenții medicali care exercită profesia în regim salarial și/sau independent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266417",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266417",
+     "sha256": "0f236161623b8c229c487c3bf8f7e7df33c82ee169054d60b4496955c6064c26"
     }
    ]
   },
@@ -764,6 +2249,36 @@
      "units": 1,
      "source_url": "https://unbr.ro/hotararea-consiliului-unbr-nr-05-din-01-02-septembrie-2023-privind-grupurile-de-lucru-ale-consiliului-unbr/",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-consiliu-2023-22",
+   "path": "profesii/unej/hotarare-consiliu/2023/22",
+   "short": "Hotărârea UNEJ nr. 22/2023",
+   "title": "HOTĂRÂRE nr. 22 din 7 martie 2023 privind aprobarea publicării Tabloului executorilor judecătorești pe anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266366",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266366",
+     "sha256": "cd75102d7ccd0f8955666ca8aa7693b42fda6f97633a398e9bcb06fcee9901ae"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2023-2",
+   "path": "profesii/unpir/hotarare/2023/2",
+   "short": "Hotărârea UNPIR nr. 2/2023",
+   "title": "HOTĂRÂRE nr. 2 din 6 octombrie 2023 pentru modificarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență, aprobat prin Hotărârea Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276244",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276244",
+     "sha256": "9fe136811619c2665ea3df76ffcd69399d779b1dd29d7a491e50bf7a02566719"
     }
    ]
   }

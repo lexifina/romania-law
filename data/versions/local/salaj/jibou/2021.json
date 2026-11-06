@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/jibou/2021",
+ "acts": [
+  {
+   "slug": "hcl-salaj--jibou-58-2021",
+   "path": "local/salaj/jibou/2021/58",
+   "short": "HCL Jibou nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Jibou nr. 58/2021 privind modificarea Regulamentului pentru finantarea programelor sportive ale cluburilor sportive de drept privat infiintate pe raza unitatii administrativ teritoriale, constituite ca persoane juridice fara scop patrimonial,detinatoare ale certificatului de identitate sportiva , aprobat prin HCL nr. 150/2019 Consiliul local al al orașului Jibou; Având în vedere: Referatul de aprobare nr.5631 /19.0",
+   "url": "http://www.primariajibou.ro/",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://primariajibou.ro/site/wp-content/uploads/2021/04/Hotarare-nr-58-finantare-programe-sportive.pdf",
+     "sha256": "af71315f7418041be3d5849238e41b5f2384e561aa41e5af6f6a38bd05862823"
+    }
+   ]
+  }
+ ]
+}

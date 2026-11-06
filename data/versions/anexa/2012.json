@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "anexa/2012",
+ "acts": [
+  {
+   "slug": "anexa-ordin-aparare-150-2012-anexa",
+   "path": "anexa/ordin-aparare-150-2012/anexa",
+   "short": "Anexa la Ordin aparare nr. 150/2012",
+   "title": "Norme fi.-12 din 18 decembrie 2012 privind organizarea și efectuarea inventarierii elementelor de natura activelor, datoriilor și capitalurilor proprii în Ministerul Apărării Naționale (anexa la Ordinul APARARE nr. 150/2012)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301401",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301401",
+     "sha256": "791f906672aabea69deaacf00e08c26c157c23d9f6eb4265a9b3069835866281"
+    }
+   ]
+  }
+ ]
+}

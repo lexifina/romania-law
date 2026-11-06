@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/dumitrita/2017",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--dumitrita-4-2017",
+"path": "local/bistrita-nasaud/dumitrita/2017/4",
+"kind": "local",
+"year": "2017",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 4/2017",
+"short": "HCL Dumitrița nr. 4/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-01-26",
+"latest": "2017-01-26",
+"portal": "http://www.dumitrita.ro/hcl.html",
+"council": "bistrita-nasaud/dumitrita",
+"council_name": "Consiliul Local al Comunei Dumitrița",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

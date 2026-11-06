@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "profesii/2003",
+ "acts": [
+  {
+   "slug": "profesii-cafr-hotarare-2003-19",
+   "path": "profesii/cafr/hotarare/2003/19",
+   "short": "Hotărârea CAFR nr. 19/2003",
+   "title": "HOTĂRÂRE nr. 19 din 29 ianuarie 2003 pentru aprobarea modificării punctajului de admitere la testul de verificare a cunoștințelor în domeniul financiar-contabil, pentru accesul la stagiu, din data de 14 decembrie 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42106",
+   "versions": [
+    {
+     "from": "2003-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42106",
+     "sha256": "d85dd6dc4c4d5c0f587e07e990aee3d9cbea950aebc1b34c2cd29ddbfcf93053"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2003-21",
+   "path": "profesii/cafr/hotarare/2003/21",
+   "short": "Hotărârea CAFR nr. 21/2003",
+   "title": "HOTĂRÂRE nr. 21 din 23 aprilie 2003 privind aprobarea acordării calității de auditor financiar persoanelor fizice care poseda o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43922",
+   "versions": [
+    {
+     "from": "2003-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43922",
+     "sha256": "5d12f0a58d17cd1e7740e60922e9e3916c8da4c2db61a2fbbdc4432214224edc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2003-22",
+   "path": "profesii/cafr/hotarare/2003/22",
+   "short": "Hotărârea CAFR nr. 22/2003",
+   "title": "HOTĂRÂRE nr. 22 din 28 mai 2003 pentru modificarea Normelor privind perioada de pregătire profesională practica a stagiarilor în activitatea de audit financiar, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 20/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44542",
+   "versions": [
+    {
+     "from": "2003-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44542",
+     "sha256": "4c95737418ed0870452e73bd25a071c2fb4c0b053d0d65a7d19d0d33465baeaa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2003-23",
+   "path": "profesii/cafr/hotarare/2003/23",
+   "short": "Hotărârea CAFR nr. 23/2003",
+   "title": "HOTĂRÂRE nr. 23 din 23 iulie 2003 privind aprobarea acordării calității de auditor financiar persoanelor fizice care poseda o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45424",
+   "versions": [
+    {
+     "from": "2003-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45424",
+     "sha256": "bce56755a785fe4aded50ee37f41ba3c54837b0dbcbff32a4308c49f3ce10829"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2003-24",
+   "path": "profesii/cafr/hotarare/2003/24",
+   "short": "Hotărârea CAFR nr. 24/2003",
+   "title": "HOTĂRÂRE nr. 24 din 1 octombrie 2003 privind modificarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 20/2003 pentru aprobarea Normelor privind perioada de pregătire profesională practica a stagiarilor în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47615",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47615",
+     "sha256": "035a2b474bb5d4236bb655d66aacabc075463fbec1d65c706aa6439742e0263f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2003-25",
+   "path": "profesii/cafr/hotarare/2003/25",
+   "short": "Hotărârea CAFR nr. 25/2003",
+   "title": "HOTĂRÂRE nr. 25 din 29 octombrie 2003 privind aprobarea acordării calității de auditor financiar persoanelor fizice care poseda o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47616",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47616",
+     "sha256": "9afcf1cc54b493d54ea5bd7f4af1fa0d0a4a9d0e072e7e25eb52da23ded620dd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2003-20",
+   "path": "profesii/cafr/hotarare-consiliu/2003/20",
+   "short": "Hotărârea CAFR nr. 20/2003",
+   "title": "HOTĂRÂRE nr. 20 din 26 februarie 2003 pentru aprobarea Normelor privind perioada de pregătire profesională practica a stagiarilor în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42828",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42828",
+     "sha256": "cee38c070ad275a17a0393768c8755b458b82efa788afce7cf8821c370c927f3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2003-13",
+   "path": "profesii/csm/hotarare-consiliu/2003/13",
+   "short": "Hotărârea CSM nr. 13/2003",
+   "title": "HOTĂRÂRE nr. 13 din 25 iunie 2003 privind modificarea Regulamentului de funcționare a Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44847",
+   "versions": [
+    {
+     "from": "2003-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44847",
+     "sha256": "167ff5eef8f6e0dfac30c38197b47525f868cd884b8cf6df01c69277a8e761e4"
+    }
+   ]
+  }
+ ]
+}

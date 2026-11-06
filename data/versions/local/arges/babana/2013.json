@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arges/babana/2013",
+ "acts": [
+  {
+   "slug": "hcl-arges--babana-76-2013",
+   "path": "local/arges/babana/2013/76",
+   "short": "HCL Băbana nr. 76/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 76/2013 Privind interzicerea montarii lampilor pe stalpii de ilurninat pLrblic decat i:ele montate de catre Primaria Comunei Babana",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2013-12-10",
+     "units": 4,
+     "source_url": "https://www.primariababana.ro/images/hotarari/hotarare_nr76.pdf",
+     "sha256": "8ac71e670f57540547b4680c6bc830ef4c9490de5a8e65e50f989189b0b62824"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,66 @@
 "shard": "profesii/1999",
 "acts": [
 {
+"slug": "profesii-ceccar-hotarare-1999-99-24",
+"path": "profesii/ceccar/hotarare/1999/99-24",
+"kind": "profesii",
+"year": "1999",
+"number": "99-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 99/24 din 27 ianuarie 1999 pentru aprobarea Declarației de principiu și a Normelor naționale de audit și de servicii conexe",
+"short": "Hotărârea CECCAR nr. 99/24/1999",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "1999-02-23",
+"latest": "1999-02-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/17005",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-consiliu-1999-57",
+"path": "profesii/csm/hotarare-consiliu/1999/57",
+"kind": "profesii",
+"year": "1999",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 57 din 21 septembrie 1999 pentru modificarea Regulamentului de funcționare a Consiliului Superior al Magistraturii",
+"short": "Hotărârea CSM nr. 57/1999",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "1999-11-15",
+"latest": "1999-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/19922",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-ordin-1999-792",
+"path": "profesii/cmr/ordin/1999/792",
+"kind": "profesii",
+"year": "1999",
+"number": "792",
+"withdrawn_by": null,
+"reason": null,
+"title": "ORDIN nr. 792 din 13 august 1999 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate pe anul 1999, aprobat prin Hotărârea Guvernului nr. 312/1999",
+"short": "Ordinul CMR nr. 792/1999",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "1999-09-07",
+"latest": "1999-09-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/19204",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-decizie-consiliu-1999-3564",
 "path": "profesii/unbr/decizie-consiliu/1999/3564",
 "kind": "profesii",

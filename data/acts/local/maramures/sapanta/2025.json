@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/maramures/sapanta/2025",
+"acts": [
+{
+"slug": "hcl-maramures--sapanta-71-2025",
+"path": "local/maramures/sapanta/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 71/2025 privind aprobarea Regulamentului serviciului de salubrizare al Județului Maramureș",
+"short": "HCL Săpânța nr. 71/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-07-25",
+"latest": "2025-07-25",
+"portal": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-71-din-data-de-25.07.2025-privind-aprobarea-Regulamentului-serviciului-de-salubrizare-al-Judetului-Maramures.pdf",
+"council": "maramures/sapanta",
+"council_name": "Consiliul Local al Comunei Săpânța",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

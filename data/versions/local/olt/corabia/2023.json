@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/olt/corabia/2023",
+ "acts": [
+  {
+   "slug": "hcl-olt--corabia-112-2023",
+   "path": "local/olt/corabia/2023/112",
+   "short": "HCL Corabia nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 112/2023 privind prelungirea valabilității Planului urbanistic general al orașului Corabia",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/126688",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/126688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-124-2023",
+   "path": "local/olt/corabia/2023/124",
+   "short": "HCL Corabia nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 124/2023 privind aprobarea sumelor indexate reprezentând impozitul pe mijloacele de transport prevăzute de art.470 alin.(5) și (6) din Legea nr. 227/2015,privind Codul fiscal,cu modificările și completările ulterioare, pentru anul 2024",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/130751",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/130751",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

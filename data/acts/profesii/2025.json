@@ -3,6 +3,126 @@
 "shard": "profesii/2025",
 "acts": [
 {
+"slug": "profesii-cmdr-decizie-consiliu-national-2025-1-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2025/1-2cn",
+"kind": "profesii",
+"year": "2025",
+"number": "1-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1/2CN din 20 martie 2025 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de etică a cercetării științifice din cadrul Colegiului Medicilor Stomatologi din România, a modelului de elaborare a formularului de informare și de obținere a consimțământului informat al subiectului (pacientului) și a componenței Comisiei de etică a cercetării științifice din cadrul Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 1/2CN/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296018",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2025-10-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2025/10-2cn",
+"kind": "profesii",
+"year": "2025",
+"number": "10-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 10/2CN din 21 noiembrie 2025 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Stomatologi din România nr. 16/2CN/2021 privind reglementarea sistemului de educație medicală continuă pentru medicii stomatologi, a criteriilor și normelor de acreditare a furnizorilor de educație medicală continuă și a lectorilor, precum și a procedurilor de evaluare și creditare a formelor de educație medicală continuă adresate medicilor stomatologi",
+"short": "Decizia CMDR nr. 10/2CN/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304953",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2025-2-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2025/2-2cn",
+"kind": "profesii",
+"year": "2025",
+"number": "2-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 2/2CN din 20 martie 2025 privind conținutul minim al trusei de urgență pentru cabinetul stomatologic",
+"short": "Decizia CMDR nr. 2/2CN/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-03",
+"latest": "2025-04-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296352",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2025-4-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2025/4-2cn",
+"kind": "profesii",
+"year": "2025",
+"number": "4-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 4/2CN din 30 mai 2025 privind adoptarea Ghidului de bune practici privind publicitatea medicilor stomatologi",
+"short": "Decizia CMDR nr. 4/2CN/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298885",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2025-5-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2025/5-2cn",
+"kind": "profesii",
+"year": "2025",
+"number": "5-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 5/2CN din 30 mai 2025 pentru aprobarea cuantumului taxelor necesare emiterii și eliberării avizului de către Comisia de etică a cercetării științifice din cadrul Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 5/2CN/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298870",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2025-7-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2025/7-2cn",
+"kind": "profesii",
+"year": "2025",
+"number": "7-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 7/2CN din 19 septembrie 2025 pentru stabilirea componenței Comisiei centrale de alertă a Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 7/2CN/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302528",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-act-2025-p26143",
 "path": "profesii/inppa/act/2025/p26143",
 "kind": "profesii",
@@ -87,6 +207,126 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2025-1",
+"path": "profesii/cafr/hotarare/2025/1",
+"kind": "profesii",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 26 aprilie 2025 privind aprobarea materialelor prezentate în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în format fizic în data de 26 aprilie 2025",
+"short": "Hotărârea CAFR nr. 1/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/297024",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2025-1",
+"path": "profesii/ccf/hotarare/2025/1",
+"kind": "profesii",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 31 ianuarie 2025 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2025",
+"short": "Hotărârea CCF nr. 1/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294597",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-consiliu-national-2025-1",
+"path": "profesii/cfr/decizie-consiliu-national/2025/1",
+"kind": "profesii",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 10 aprilie 2025 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 5/2021 privind aprobarea procedurii de control și evaluare a unităților farmaceutice cu privire la Regulile de bună practică farmaceutică",
+"short": "Decizia CFR nr. 1/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299090",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-adunare-generala-2025-1",
+"path": "profesii/cfzro/hotarare-adunare-generala/2025/1",
+"kind": "profesii",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 16 aprilie 2025 pentru aprobarea Regulamentului electoral al Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 1/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/297971",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2025-1",
+"path": "profesii/cmr/decizie/2025/1",
+"kind": "profesii",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 23 ianuarie 2025 privind organizarea de noi alegeri la nivelul organelor de conducere și control ale Colegiului Medicilor din România la nivel național și teritorial și pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 7/2024 privind adoptarea Regulamentului electoral de organizare și desfășurare a alegerilor organelor de conducere și control ale colegiilor teritoriale și ale Colegiului Medicilor din România pentru mandatul 2024-2028 și aprobarea componenței Comisiei Electorale Centrale",
+"short": "Decizia CMR nr. 1/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293961",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-consiliu-2025-1",
+"path": "profesii/cpr/hotarare-consiliu/2025/1",
+"kind": "profesii",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 26 februarie 2025 pentru aprobarea procedurii privind organizarea și desfășurarea alegerilor pentru forurile de conducere ale Colegiului Psihologilor din România și ale filialelor teritoriale ale Colegiului Psihologilor din România",
+"short": "Hotărârea CPR nr. 1/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296302",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2025-1",
 "path": "profesii/unbr/hotarare-congres/2025/1",
 "kind": "profesii",
@@ -102,6 +342,86 @@
 "from": "2025-06-24",
 "latest": "2025-06-24",
 "portal": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2025-2",
+"path": "profesii/cafr/hotarare/2025/2",
+"kind": "profesii",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 26 aprilie 2025 privind rezultatul votului pentru alegerea membrilor Comisiei de disciplină a Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 2/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/297025",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2025-2",
+"path": "profesii/ccf/hotarare/2025/2",
+"kind": "profesii",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 31 ianuarie 2025 pentru modificarea și completarea Programului anual de pregătire profesională continuă, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 2/2022",
+"short": "Hotărârea CCF nr. 2/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294598",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-adunare-generala-2025-2",
+"path": "profesii/cfzro/hotarare-adunare-generala/2025/2",
+"kind": "profesii",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 14 iulie 2025 pentru aprobarea Procedurii de înființare și desființare a colegiilor teritoriale ale Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 2/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-18",
+"latest": "2025-07-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299908",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-hotarare-2025-2",
+"path": "profesii/cmr/hotarare/2025/2",
+"kind": "profesii",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 30 octombrie 2025 privind adoptarea Codului de deontologie medicală al Colegiului Medicilor din România",
+"short": "Hotărârea CMR nr. 2/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305075",
 "flags": {
 "amendments_checked": false
 }
@@ -127,6 +447,46 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2025-3",
+"path": "profesii/ccf/hotarare/2025/3",
+"kind": "profesii",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 7 februarie 2025 pentru aprobarea Procedurii interne privind asigurarea implementării și aplicării art. 2 din Procedura de îndrumare și asistență a contribuabililor/plătitorilor, acordate de către Agenția Națională de Administrare Fiscală, și de coordonare metodologică a activității de aplicare unitară a legislației fiscale și procedural fiscale desfășurate de structurile de asistență contribuabili, precum și în domeniul tehnologiei informației, aprobată prin Ordinul ministrului finanțelor nr. 1.233/2021",
+"short": "Hotărârea CCF nr. 3/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294751",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2025-3",
+"path": "profesii/oamgmamr/hotarare/2025/3",
+"kind": "profesii",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 13 martie 2025 pentru modificarea și completarea Statutului Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+"short": "Hotărârea OAMGMAMR nr. 3/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295896",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2025-3",
 "path": "profesii/unbr/hotarare-congres/2025/3",
 "kind": "profesii",
@@ -147,6 +507,106 @@
 }
 },
 {
+"slug": "profesii-unpir-hotarare-2025-3",
+"path": "profesii/unpir/hotarare/2025/3",
+"kind": "profesii",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 26 septembrie 2025 pentru modificarea și completarea Hotărârii Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+"short": "Hotărârea UNPIR nr. 3/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303794",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2025-4",
+"path": "profesii/ccf/hotarare-consiliu-superior/2025/4",
+"kind": "profesii",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 3 martie 2025 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 4/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295244",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-hotarare-2025-4",
+"path": "profesii/cmr/hotarare/2025/4",
+"kind": "profesii",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 30 octombrie 2025 pentru modificarea anexei la Statutul Colegiului Medicilor din România, adoptat prin Hotărârea Adunării generale naționale a Colegiului Medicilor din România nr. 1/2022",
+"short": "Hotărârea CMR nr. 4/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306323",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2025-4",
+"path": "profesii/cpr/hotarare-comitet-director/2025/4",
+"kind": "profesii",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 28 ianuarie 2025 privind modificarea și completarea anexei nr. 6 la Hotărârea Comitetului director al Colegiului Psihologilor din România nr. 1/2019 pentru aprobarea normelor privind competențele profesionale, educația, formarea și atestarea profesională ale psihologilor cu drept de liberă practică",
+"short": "Hotărârea CPR nr. 4/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-20",
+"latest": "2025-03-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295703",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2025-4",
+"path": "profesii/oamgmamr/hotarare/2025/4",
+"kind": "profesii",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 13 martie 2025 privind modificarea și completarea Normelor de creditare a formelor de educație medicală continuă, aprobate prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 10/2021",
+"short": "Hotărârea OAMGMAMR nr. 4/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296576",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2025-4",
 "path": "profesii/unbr/hotarare-congres/2025/4",
 "kind": "profesii",
@@ -162,6 +622,26 @@
 "from": "2025-06-24",
 "latest": "2025-06-24",
 "portal": "https://unbr.ro/hotarari-rezolutii-si-motiuni-adoptate-de-congresul-avocatilor-din-13-14-iunie-2025/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-2025-5",
+"path": "profesii/ccf/hotarare-consiliu/2025/5",
+"kind": "profesii",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 3 aprilie 2025 privind stabilirea modalității de organizare și susținere a examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2025",
+"short": "Hotărârea CCF nr. 5/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296466",
 "flags": {
 "amendments_checked": false
 }
@@ -189,6 +669,186 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-conferinta-2025-6",
+"path": "profesii/ccf/hotarare-conferinta/2025/6",
+"kind": "profesii",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 5 mai 2025 privind aprobarea documentelor prezentate spre dezbatere în Conferința ordinară anuală a Camerei Consultanților Fiscali din 29 aprilie 2025",
+"short": "Hotărârea CCF nr. 6/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-05-08",
+"latest": "2025-05-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/297822",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2025-7",
+"path": "profesii/ccf/hotarare/2025/7",
+"kind": "profesii",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 24 iulie 2025 pentru modificarea Programului anual de pregătire profesională continuă, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 2/2022",
+"short": "Hotărârea CCF nr. 7/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/300368",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-2025-8",
+"path": "profesii/ccf/hotarare-consiliu/2025/8",
+"kind": "profesii",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 29 august 2025 privind aprobarea domeniilor de examinare, a tematicii și bibliografiei corespunzătoare fiecărui domeniu pentru examenul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2025",
+"short": "Hotărârea CCF nr. 8/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301847",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2025-8",
+"path": "profesii/oamgmamr/hotarare/2025/8",
+"kind": "profesii",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 13 martie 2025 pentru completarea Metodologiei privind întocmirea și eliberarea certificatului de status profesional curent pentru asistenții medicali generaliști, moașe și asistenții medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 20/2017",
+"short": "Hotărârea OAMGMAMR nr. 8/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295745",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2025-9",
+"path": "profesii/ccf/hotarare/2025/9",
+"kind": "profesii",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 9 din 29 august 2025 pentru modificarea și completarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 14/2021 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 9/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301848",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2025-10",
+"path": "profesii/cafr/hotarare/2025/10",
+"kind": "profesii",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 27 februarie 2025 privind organizarea, convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România, organizată în format fizic în data de 26 aprilie 2025",
+"short": "Hotărârea CAFR nr. 10/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295141",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2025-10",
+"path": "profesii/ccf/hotarare/2025/10",
+"kind": "profesii",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 1 octombrie 2025 privind modificarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 9/2024",
+"short": "Hotărârea CCF nr. 10/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302767",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2025-11",
+"path": "profesii/ccf/hotarare/2025/11",
+"kind": "profesii",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 11 din 1 octombrie 2025 pentru modificarea și completarea Regulamentului de organizare și funcționare al Camerei Consultanților Fiscali, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 3/2022",
+"short": "Hotărârea CCF nr. 11/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302786",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2025-11",
+"path": "profesii/cpr/hotarare-comitet-director/2025/11",
+"kind": "profesii",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 11 din 21 februarie 2025 privind modificarea și completarea Procedurii privind constituirea filialelor teritoriale ale Colegiului Psihologilor din România, aprobată prin Hotărârea Comitetului director al Colegiului Psihologilor din România nr. 79/2024",
+"short": "Hotărârea CPR nr. 11/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295869",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-mediere-hotarare-consiliu-2025-11",
 "path": "profesii/mediere/hotarare-consiliu/2025/11",
 "kind": "profesii",
@@ -211,6 +871,166 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2025-12",
+"path": "profesii/ccf/hotarare/2025/12",
+"kind": "profesii",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 12 din 22 decembrie 2025 pentru modificarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 14/2021 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 12/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306214",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmvr-hotarare-congres-2025-12",
+"path": "profesii/cmvr/hotarare-congres/2025/12",
+"kind": "profesii",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 12 din 21 octombrie 2025 privind modificarea anexei nr. 1 la Hotărârea Congresului Național al Medicilor Veterinari nr. 3/2013 pentru adoptarea Regulamentului de organizare și funcționare al Colegiului Medicilor Veterinari, a Statutului medicului veterinar și a Codului de deontologie medicală veterinară",
+"short": "Hotărârea CMVR nr. 12/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304178",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2025-12",
+"path": "profesii/csm/hotarare-plen/2025/12",
+"kind": "profesii",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 12 din 18 februarie 2025 pentru modificarea și completarea Regulamentului privind admiterea la Institutul Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 114/2023",
+"short": "Hotărârea CSM nr. 12/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294914",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2025-13",
+"path": "profesii/cmr/decizie-consiliu-national/2025/13",
+"kind": "profesii",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 13 din 25 aprilie 2025 privind eliberarea avizului de practică necesar exercitării activității medicale în scop didactic și ocazional pe teritoriul României pentru medici cetățeni ai unui stat terț",
+"short": "Decizia CMR nr. 13/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-05",
+"latest": "2025-07-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298860",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2025-14",
+"path": "profesii/cfzro/hotarare-consiliu-national/2025/14",
+"kind": "profesii",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 14 din 15 februarie 2025 privind parafa profesională pentru fizioterapeuți",
+"short": "Hotărârea CFZRO nr. 14/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-06",
+"latest": "2025-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295207",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2025-15",
+"path": "profesii/cmr/decizie-consiliu-national/2025/15",
+"kind": "profesii",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 15 din 30 mai 2025 privind stabilirea cuantumului taxei de evaluare profesională în vederea recunoașterii titlurilor de medic specialist eliberate de un stat terț",
+"short": "Decizia CMR nr. 15/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299053",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2025-18",
+"path": "profesii/cmr/decizie/2025/18",
+"kind": "profesii",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 18 din 4 iulie 2025 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 3/2022 privind reglementarea activității comisiilor de specialitate ale Colegiului Medicilor din România, precum și adoptarea regulamentului de organizare și funcționare a acestora",
+"short": "Decizia CMR nr. 18/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-06",
+"latest": "2025-08-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301175",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2025-20",
+"path": "profesii/cmr/decizie/2025/20",
+"kind": "profesii",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 20 din 24 septembrie 2025 privind condițiile de desfășurare a publicității de către cabinetele și unitățile medicale",
+"short": "Decizia CMR nr. 20/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/302792",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-mediere-hotarare-consiliu-2025-20",
 "path": "profesii/mediere/hotarare-consiliu/2025/20",
 "kind": "profesii",
@@ -229,6 +1049,186 @@
 "flags": {
 "needs_ocr": true,
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-2025-22",
+"path": "profesii/cmr/decizie-consiliu/2025/22",
+"kind": "profesii",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 22 din 27 noiembrie 2025 privind organizarea de noi alegeri la nivelul organelor de conducere ale Colegiului Medicilor Ilfov și aprobarea componenței Comisiei Electorale Centrale",
+"short": "Decizia CMR nr. 22/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305702",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2025-23",
+"path": "profesii/cmr/decizie-consiliu-national/2025/23",
+"kind": "profesii",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 23 din 27 noiembrie 2025 privind organizarea și desfășurarea alegerilor membrilor Comisiei de cenzori a Colegiului Medicilor din România și aprobarea componenței Comisiei Electorale Centrale",
+"short": "Decizia CMR nr. 23/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305651",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-2025-25",
+"path": "profesii/cfzro/hotarare/2025/25",
+"kind": "profesii",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 25 din 12 martie 2025 privind modificarea Procedurii de avizare a cabinetelor de liberă practică pentru serviciile publice conexe actului medical de fizioterapie și a activităților de fizioterapie, aprobată prin Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 63/2023",
+"short": "Hotărârea CFZRO nr. 25/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296485",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2025-25",
+"path": "profesii/cmr/decizie/2025/25",
+"kind": "profesii",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 25 din 27 noiembrie 2025 privind eliberarea certificatului de membru al Colegiului Medicilor din România și stabilirea procedurii de verificare și atestare a nivelului profesional al medicilor care au întrerupt exercitarea profesiei ori s-au aflat într-o situație de incompatibilitate pe o perioadă mai mare de 5 ani",
+"short": "Decizia CMR nr. 25/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306324",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2025-26",
+"path": "profesii/cmr/decizie/2025/26",
+"kind": "profesii",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 26 din 19 decembrie 2025 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 3/2022 privind reglementarea activității comisiilor de specialitate ale Colegiului Medicilor din România, precum și adoptarea regulamentului de organizare și funcționare a acestora",
+"short": "Decizia CMR nr. 26/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306245",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2025-27",
+"path": "profesii/cafr/hotarare/2025/27",
+"kind": "profesii",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 27 din 27 februarie 2025 privind adoptarea Standardelor globale de audit intern 2024",
+"short": "Hotărârea CAFR nr. 27/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-06",
+"latest": "2025-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295195",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2025-29",
+"path": "profesii/oamgmamr/hotarare/2025/29",
+"kind": "profesii",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 29 din 15 iulie 2025 pentru modificarea și completarea Regulamentului de organizare și funcționare al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 3/2009",
+"short": "Hotărârea OAMGMAMR nr. 29/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/300546",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2025-30",
+"path": "profesii/oamgmamr/hotarare/2025/30",
+"kind": "profesii",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 30 din 15 iulie 2025 pentru modificarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 44/2023",
+"short": "Hotărârea OAMGMAMR nr. 30/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-07",
+"latest": "2025-08-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301184",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2025-31",
+"path": "profesii/oamgmamr/hotarare/2025/31",
+"kind": "profesii",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 31 din 15 iulie 2025 pentru completarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 35/2015 privind eliberarea Certificatului de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România însoțit de avizul anual",
+"short": "Hotărârea OAMGMAMR nr. 31/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-07",
+"latest": "2025-08-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301183",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -288,6 +1288,146 @@
 "from": "2025-12-29",
 "latest": "2025-12-29",
 "portal": "https://inppa.ro/decizia-directorului-inppa-nr-42-29-12-2025-privind-desfasurarea-activitatilor-de-pregatire-profesionala-initiala-la-anul-i-si-ii-ciclul-2026/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2025-45",
+"path": "profesii/oamgmamr/hotarare/2025/45",
+"kind": "profesii",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 45 din 9 decembrie 2025 privind modificarea și completarea Normelor de creditare a formelor de educație medicală continuă, aprobate prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 10/2021",
+"short": "Hotărârea OAMGMAMR nr. 45/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305659",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2025-49",
+"path": "profesii/oamgmamr/hotarare/2025/49",
+"kind": "profesii",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 49 din 10 decembrie 2025 pentru modificarea anexei nr. 1 la Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 35/2015 privind eliberarea Certificatului de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România însoțit de avizul anual",
+"short": "Hotărârea OAMGMAMR nr. 49/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306243",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2025-58",
+"path": "profesii/csm/hotarare-plen/2025/58",
+"kind": "profesii",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 58 din 15 aprilie 2025 pentru modificarea și completarea Regulamentului Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 92/2023",
+"short": "Hotărârea CSM nr. 58/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-24",
+"latest": "2025-04-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296876",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2025-66",
+"path": "profesii/unnpr/hotarare-consiliu/2025/66",
+"kind": "profesii",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 66 din 26 septembrie 2025 privind modificarea Statutului Casei de Pensii a Notarilor Publici din România, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 61/2020",
+"short": "Hotărârea UNNPR nr. 66/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304021",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2025-82",
+"path": "profesii/unnpr/hotarare-consiliu/2025/82",
+"kind": "profesii",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 82 din 21 octombrie 2025 pentru modificarea Statutului Casei de Pensii a Notarilor Publici din România, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 61/2020",
+"short": "Hotărârea UNNPR nr. 82/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304022",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2025-89",
+"path": "profesii/cafr/hotarare/2025/89",
+"kind": "profesii",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 89 din 16 octombrie 2025 pentru completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+"short": "Hotărârea CAFR nr. 89/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/303793",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2025-160",
+"path": "profesii/csm/hotarare-plen/2025/160",
+"kind": "profesii",
+"year": "2025",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 160 din 27 noiembrie 2025 pentru aprobarea Regulamentului privind examenul de absolvire a Institutului Național al Magistraturii",
+"short": "Hotărârea CSM nr. 160/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304955",
 "flags": {
 "amendments_checked": false
 }
@@ -656,6 +1796,26 @@
 "from": "2026-05-18",
 "latest": "2026-05-18",
 "portal": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2026/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2025-243",
+"path": "profesii/ceccar/hotarare/2025/243",
+"kind": "profesii",
+"year": "2025",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CECCAR nr. 243/2025",
+"short": "Hotărârea CECCAR nr. 243/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296988",
 "flags": {
 "amendments_checked": false
 }
@@ -1067,6 +2227,26 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2025-267",
+"path": "profesii/cafr/hotarare/2025/267",
+"kind": "profesii",
+"year": "2025",
+"number": "267",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 267 din 15 decembrie 2025 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+"short": "Hotărârea CAFR nr. 267/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305681",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2025-267",
 "path": "profesii/unbr/hotarare-consiliu/2025/267",
 "kind": "profesii",
@@ -1082,6 +2262,46 @@
 "from": "2025-12-18",
 "latest": "2025-12-18",
 "portal": "https://unbr.ro/hotarari-adoptate-de-consiliul-unbr-in-sedinta-din-12-13-decembrie-2025/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2025-268",
+"path": "profesii/cafr/hotarare/2025/268",
+"kind": "profesii",
+"year": "2025",
+"number": "268",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 268 din 15 decembrie 2025 privind suspendarea calculării penalităților de întârziere aferente neachitării cotizațiilor datorate de membrii Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 268/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305682",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2025-272",
+"path": "profesii/cafr/hotarare/2025/272",
+"kind": "profesii",
+"year": "2025",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 272 din 15 decembrie 2025 pentru modificarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 74/2014 privind aprobarea formularelor pentru raportarea anuală a membrilor Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 272/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305769",
 "flags": {
 "amendments_checked": false
 }
@@ -1262,6 +2482,166 @@
 "from": "2025-12-29",
 "latest": "2025-12-29",
 "portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-440-din-29-decembrie-2025-privind-desfasurarea-activitatii-de-pregatire-profesionala-initiala-in-ciclul-2026/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2025-722",
+"path": "profesii/oar/hotarare-conferinta/2025/722",
+"kind": "profesii",
+"year": "2025",
+"number": "722",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 722 din 14 iunie 2025 privind aprobarea Regulamentului de organizare și funcționare a Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 722/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-15",
+"latest": "2025-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299818",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2025-723",
+"path": "profesii/oar/hotarare-conferinta/2025/723",
+"kind": "profesii",
+"year": "2025",
+"number": "723",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 723 din 14 iunie 2025 pentru aprobarea Regulamentului-cadru privind înființarea, organizarea și funcționarea filialelor teritoriale ale Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 723/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-15",
+"latest": "2025-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299820",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2025-724",
+"path": "profesii/oar/hotarare-conferinta/2025/724",
+"kind": "profesii",
+"year": "2025",
+"number": "724",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 724 din 15 iunie 2025 privind aprobarea Codului deontologic al profesiei de arhitect",
+"short": "Hotărârea OAR nr. 724/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-15",
+"latest": "2025-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299822",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2025-801",
+"path": "profesii/ceccar/hotarare/2025/801",
+"kind": "profesii",
+"year": "2025",
+"number": "801",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 25/801 din 14 ianuarie 2025 privind împuternicirea experților contabili să asiste/reprezinte beneficiarii/ clienții la oficiile registrului comerțului de pe lângă tribunale",
+"short": "Hotărârea CECCAR nr. 801/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294075",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2025-872",
+"path": "profesii/ceccar/hotarare/2025/872",
+"kind": "profesii",
+"year": "2025",
+"number": "872",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 25/872 din 22 august 2025 privind operaționalizarea e-parafei, e-legitimației și e-avizului de exercitare a profesiei",
+"short": "Hotărârea CECCAR nr. 872/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301846",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2025-1040",
+"path": "profesii/csm/hotarare-sectia-procurori/2025/1040",
+"kind": "profesii",
+"year": "2025",
+"number": "1040",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.040 din 27 noiembrie 2025 pentru aprobarea Regulamentului privind examenul de capacitate al procurorilor stagiari",
+"short": "Hotărârea CSM nr. 1040/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304956",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2025-1505",
+"path": "profesii/csm/hotarare-sectia-judecatori/2025/1505",
+"kind": "profesii",
+"year": "2025",
+"number": "1505",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.505 din 17 iunie 2025 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Secției pentru judecători a Consiliului Superior al Magistraturii nr. 3.243/2022",
+"short": "Hotărârea CSM nr. 1505/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-24",
+"latest": "2025-06-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299256",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2025-2745",
+"path": "profesii/csm/hotarare-sectia-judecatori/2025/2745",
+"kind": "profesii",
+"year": "2025",
+"number": "2745",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2.745 din 27 noiembrie 2025 pentru aprobarea Regulamentului privind examenul de capacitate al judecătorilor stagiari",
+"short": "Hotărârea CSM nr. 2745/2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304957",
 "flags": {
 "amendments_checked": false
 }

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/ilfov/buftea/2025",
+"acts": [
+{
+"slug": "hcl-ilfov--buftea-19-2025",
+"path": "local/ilfov/buftea/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 19/2025 privind aprobarea indicatorilor economici privind studiile de fundamentare care stau la baza actualizării Planului Urbanistic General al oraşului Buftea (P.U.G.) şi a Regulamentului Local de Urbanism (R.L.U.) al oraşului Buftea, judeţul Ilfov",
+"short": "HCL Buftea nr. 19/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2025/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-20-2025",
+"path": "local/ilfov/buftea/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 20/2025 privind aprobarea indicatorilor economici aferenţi serviciilor privind actualizarea Planului Urbanistic General al oraşului Buftea (P.U.G.) şi a Regulamentului Local de Urbanism (R.L.U.) al oraşului Buftea, judeţul Ilfov",
+"short": "HCL Buftea nr. 20/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2025/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

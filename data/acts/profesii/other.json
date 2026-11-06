@@ -3,6 +3,566 @@
 "shard": "profesii/other",
 "acts": [
 {
+"slug": "profesii-cafr-anexa-2013-09-19",
+"path": "profesii/cafr/anexa-2013-09-19",
+"kind": "profesii",
+"year": "",
+"number": "anexa-2013-09-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "ANEXE din 19 septembrie 2013 nr. 1-15 la Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 39/2013 pentru aprobarea procedurilor privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari din 19.09.2013",
+"short": "Anexa CAFR din 19 septembrie 2013",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-03-06",
+"latest": "2014-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157814",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2002-04-17",
+"path": "profesii/cafr/norme-2002-04-17",
+"kind": "profesii",
+"year": "",
+"number": "norme-2002-04-17",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORMA din 17 aprilie 2002 privind asigurarea pentru risc profesional",
+"short": "Normele CAFR din 17 aprilie 2002",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2002-06-12",
+"latest": "2002-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/36625",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2003-02-26",
+"path": "profesii/cafr/norme-2003-02-26",
+"kind": "profesii",
+"year": "",
+"number": "norme-2003-02-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 26 februarie 2003 privind perioada de pregătire profesională practica a stagiarilor în activitatea de audit financiar",
+"short": "Normele CAFR din 26 februarie 2003",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2003-04-04",
+"latest": "2003-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/42829",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2005-01-19",
+"path": "profesii/cafr/norme-2005-01-19",
+"kind": "profesii",
+"year": "",
+"number": "norme-2005-01-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 19 ianuarie 2005 privind perioada de pregătire profesională practică a stagiarilor în activitatea de audit financiar",
+"short": "Normele CAFR din 19 ianuarie 2005",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2005-02-04",
+"latest": "2005-02-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/59029",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2005-03-23",
+"path": "profesii/cafr/norme-2005-03-23",
+"kind": "profesii",
+"year": "",
+"number": "norme-2005-03-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 23 martie 2005 privind stabilirea numărului mediu minim de ore pentru finalizarea unei misiuni de audit financiar",
+"short": "Normele CAFR din 23 martie 2005",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2005-04-06",
+"latest": "2005-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/60527",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2007-08-30",
+"path": "profesii/cafr/norme-2007-08-30",
+"kind": "profesii",
+"year": "",
+"number": "norme-2007-08-30",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORMĂ din 30 august 2007 de reprezentare a auditorilor financiari la conferințele Camerei Auditorilor Financiari din România",
+"short": "Normele CAFR din 30 august 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-11",
+"latest": "2007-09-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85255",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2010-08-25",
+"path": "profesii/cafr/norme-2010-08-25",
+"kind": "profesii",
+"year": "",
+"number": "norme-2010-08-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORMĂ din 25 august 2010 privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+"short": "Normele CAFR din 25 august 2010",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-06",
+"latest": "2010-09-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121988",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2012-11-22",
+"path": "profesii/cafr/norme-2012-11-22",
+"kind": "profesii",
+"year": "",
+"number": "norme-2012-11-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 22 noiembrie 2012 privind aplicarea art. 17 alin. (2) lit. c) din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 168/2010",
+"short": "Normele CAFR din 22 noiembrie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2013-03-15",
+"latest": "2013-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/146125",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2013-12-12",
+"path": "profesii/cafr/norme-2013-12-12",
+"kind": "profesii",
+"year": "",
+"number": "norme-2013-12-12",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 12 decembrie 2013 privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+"short": "Normele CAFR din 12 decembrie 2013",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-03-06",
+"latest": "2014-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156133",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2016-03-10",
+"path": "profesii/cafr/norme-2016-03-10",
+"kind": "profesii",
+"year": "",
+"number": "norme-2016-03-10",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 10 martie 2016 privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari*)",
+"short": "Normele CAFR din 10 martie 2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-18",
+"latest": "2016-07-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180365",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2017-02-23",
+"path": "profesii/cafr/norme-2017-02-23",
+"kind": "profesii",
+"year": "",
+"number": "norme-2017-02-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 23 februarie 2017 privind atribuirea calității de membru, înscrierea, evidența, retragerea și suspendarea auditorilor financiari, persoane fizice, și autorizarea, înscrierea, evidența, retragerea și suspendarea auditorilor financiari, persoane juridice, în și din Registrul public al auditorilor financiari",
+"short": "Normele CAFR din 23 februarie 2017",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-04-27",
+"latest": "2017-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/188626",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2017-07-20",
+"path": "profesii/cafr/norme-2017-07-20",
+"kind": "profesii",
+"year": "",
+"number": "norme-2017-07-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 20 iulie 2017 pentru desemnarea reprezentanților auditorilor financiari la Conferința pentru alegerea membrilor Consiliului Camerei Auditorilor Financiari din România și membrilor Comisiei de auditori statutari a Camerei Auditorilor Financiari din România, organizată în data de 23 septembrie 2017",
+"short": "Normele CAFR din 20 iulie 2017",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-08-01",
+"latest": "2017-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/191945",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2018-02-22",
+"path": "profesii/cafr/norme-2018-02-22",
+"kind": "profesii",
+"year": "",
+"number": "norme-2018-02-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 22 februarie 2018 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată în anul 2018",
+"short": "Normele CAFR din 22 februarie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-05",
+"latest": "2018-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/198278",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2018-07-19",
+"path": "profesii/cafr/norme-2018-07-19",
+"kind": "profesii",
+"year": "",
+"number": "norme-2018-07-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 19 iulie 2018 privind revizuirea calității activității de audit financiar, altul decât cel statutar, și a altor activități desfășurate de auditorii financiari",
+"short": "Normele CAFR din 19 iulie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-27",
+"latest": "2018-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/204245",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2018-07-26",
+"path": "profesii/cafr/norme-2018-07-26",
+"kind": "profesii",
+"year": "",
+"number": "norme-2018-07-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 26 iulie 2018 privind înscrierea ca membru al Camerei Auditorilor Financiari din România și înscrierea în Registrul membrilor Camerei Auditorilor Financiari din România",
+"short": "Normele CAFR din 26 iulie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-16",
+"latest": "2018-08-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203957",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2018-12-19",
+"path": "profesii/cafr/norme-2018-12-19",
+"kind": "profesii",
+"year": "",
+"number": "norme-2018-12-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 19 decembrie 2018 de pregătire profesională continuă a auditorilor financiari conform Ordonanței de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar",
+"short": "Normele CAFR din 19 decembrie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-09",
+"latest": "2019-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209687",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2019-07-22",
+"path": "profesii/cafr/norme-2019-07-22",
+"kind": "profesii",
+"year": "",
+"number": "norme-2019-07-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 22 iulie 2019 privind sancțiunile aplicate auditorilor financiari și firmelor de audit în situația neachitării cotizațiilor datorate",
+"short": "Normele CAFR din 22 iulie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-08-02",
+"latest": "2019-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/216759",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2020-02-12",
+"path": "profesii/cafr/norme-2020-02-12",
+"kind": "profesii",
+"year": "",
+"number": "norme-2020-02-12",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 12 februarie 2020 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România, organizată în data de 25 aprilie 2020",
+"short": "Normele CAFR din 12 februarie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223104",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2020-05-29",
+"path": "profesii/cafr/norme-2020-05-29",
+"kind": "profesii",
+"year": "",
+"number": "norme-2020-05-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 29 mai 2020 privind efectuarea inspecțiilor pentru asigurarea calității activității de audit financiar, altul decât cel statutar, și a altor activități desfășurate de auditorii financiari",
+"short": "Normele CAFR din 29 mai 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-10",
+"latest": "2020-07-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227870",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2020-08-21",
+"path": "profesii/cafr/norme-2020-08-21",
+"kind": "profesii",
+"year": "",
+"number": "norme-2020-08-21",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 21 august 2020 privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+"short": "Normele CAFR din 21 august 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-25",
+"latest": "2020-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229523",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2021-01-28",
+"path": "profesii/cafr/norme-2021-01-28",
+"kind": "profesii",
+"year": "",
+"number": "norme-2021-01-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 28 ianuarie 2021 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată prin vot la distanță în data de 17 aprilie 2021",
+"short": "Normele CAFR din 28 ianuarie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236864",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2022-02-28",
+"path": "profesii/cafr/norme-2022-02-28",
+"kind": "profesii",
+"year": "",
+"number": "norme-2022-02-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 28 februarie 2022 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată prin vot la distanță în data de 29 aprilie 2022",
+"short": "Normele CAFR din 28 februarie 2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-03",
+"latest": "2022-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252354",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2022-03-15",
+"path": "profesii/cafr/norme-2022-03-15",
+"kind": "profesii",
+"year": "",
+"number": "norme-2022-03-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 15 martie 2022 privind procedura de alegeri, prin vot la distanță, a membrilor Comisiei de disciplină a Camerei Auditorilor Financiari din România",
+"short": "Normele CAFR din 15 martie 2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-20",
+"latest": "2022-04-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254280",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2023-02-20",
+"path": "profesii/cafr/norme-2023-02-20",
+"kind": "profesii",
+"year": "",
+"number": "norme-2023-02-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 20 februarie 2023 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România, organizată în format fizic în data de 22 aprilie 2023",
+"short": "Normele CAFR din 20 februarie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-24",
+"latest": "2023-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265326",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2023-06-30",
+"path": "profesii/cafr/norme-2023-06-30",
+"kind": "profesii",
+"year": "",
+"number": "norme-2023-06-30",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 30 iunie 2023 privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+"short": "Normele CAFR din 30 iunie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-05",
+"latest": "2023-07-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271895",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2024-02-29",
+"path": "profesii/cafr/norme-2024-02-29",
+"kind": "profesii",
+"year": "",
+"number": "norme-2024-02-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 29 februarie 2024 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România, organizată în format fizic în data de 27 aprilie 2024",
+"short": "Normele CAFR din 29 februarie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279641",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2026-02-27",
+"path": "profesii/cafr/norme-2026-02-27",
+"kind": "profesii",
+"year": "",
+"number": "norme-2026-02-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 27 februarie 2026 pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată în format fizic în data de 18 aprilie 2026",
+"short": "Normele CAFR din 27 februarie 2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307998",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-norme-2026-07-10",
+"path": "profesii/cafr/norme-2026-07-10",
+"kind": "profesii",
+"year": "",
+"number": "norme-2026-07-10",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 10 iulie 2026 privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+"short": "Normele CAFR din 10 iulie 2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312249",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-cafr-norme-spalarea-banilor",
 "path": "profesii/cafr/norme-spalarea-banilor",
 "kind": "profesii",
@@ -18,6 +578,586 @@
 "from": "2024-02-07",
 "latest": "2024-02-07",
 "portal": "https://cafr.ro/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2007-04-19",
+"path": "profesii/cafr/procedura-2007-04-19",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2007-04-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 19 aprilie 2007 pentru aplicarea art. 29 din Normele privind controlul calității activității de audit financiar și a serviciilor conexe acestuia",
+"short": "Procedura CAFR din 19 aprilie 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-13",
+"latest": "2007-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82790",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2008-05-27-2",
+"path": "profesii/cafr/procedura-2008-05-27-2",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2008-05-27-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 27 mai 2008 de acreditare a formatorilor Camerei Auditorilor Financiari din România",
+"short": "Procedura CAFR din 27 mai 2008",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-07-08",
+"latest": "2008-07-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/95375",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2008-05-27",
+"path": "profesii/cafr/procedura-2008-05-27",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2008-05-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 27 mai 2008 pentru acreditarea societăților de audit organizatoare de cursuri de pregătire profesională",
+"short": "Procedura CAFR din 27 mai 2008",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-07-08",
+"latest": "2008-07-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/95373",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2010-08-25",
+"path": "profesii/cafr/procedura-2010-08-25",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2010-08-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 25 august 2010 pentru aplicarea art. 29 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 168/2010",
+"short": "Procedura CAFR din 25 august 2010",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2010-09-06",
+"latest": "2010-09-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/121990",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2010-09-22",
+"path": "profesii/cafr/procedura-2010-09-22",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2010-09-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 22 septembrie 2010 de acreditare a formatorilor Camerei Auditorilor Financiari din România",
+"short": "Procedura CAFR din 22 septembrie 2010",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2010-12-23",
+"latest": "2010-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/124667",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2010-10-27",
+"path": "profesii/cafr/procedura-2010-10-27",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2010-10-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 27 octombrie 2010 privind programarea și desfășurarea inspecțiilor de calitate a activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+"short": "Procedura CAFR din 27 octombrie 2010",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-13",
+"latest": "2011-01-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125238",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2010-11-26-2",
+"path": "profesii/cafr/procedura-2010-11-26-2",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2010-11-26-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 26 noiembrie 2010 privind actualizarea informațiilor din Baza de date a auditorilor financiari persoane juridice",
+"short": "Procedura CAFR din 26 noiembrie 2010",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-13",
+"latest": "2011-01-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125250",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2010-11-26",
+"path": "profesii/cafr/procedura-2010-11-26",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2010-11-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 26 noiembrie 2010 privind actualizarea informațiilor din Baza de date a auditorilor financiari persoane fizice",
+"short": "Procedura CAFR din 26 noiembrie 2010",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-13",
+"latest": "2011-01-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125249",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2011-02-23",
+"path": "profesii/cafr/procedura-2011-02-23",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2011-02-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 23 februarie 2011 de înscriere la stagiu a persoanelor care au obținut diplomă de absolvire ACCA și nu au desfășurat activități de audit statutar",
+"short": "Procedura CAFR din 23 februarie 2011",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-05-31",
+"latest": "2011-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/128927",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2011-04-27",
+"path": "profesii/cafr/procedura-2011-04-27",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2011-04-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURILE din 27 aprilie 2011 de înscriere la stagiul organizat de Camera Auditorilor Financiari din România a studenților Asociației Contabililor Autorizați care au promovat o parte din examenele organizate de Asociația Contabililor Autorizați, dar nu au devenit încă membri cu drepturi depline",
+"short": "Procedura CAFR din 27 aprilie 2011",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-07-19",
+"latest": "2011-07-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/130172",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2011-05-04",
+"path": "profesii/cafr/procedura-2011-05-04",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2011-05-04",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 4 mai 2011 pentru stabilirea tematicii pentru programul anual de pregătire profesională",
+"short": "Procedura CAFR din 4 mai 2011",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-07-19",
+"latest": "2011-07-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/130175",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2011-06-15",
+"path": "profesii/cafr/procedura-2011-06-15",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2011-06-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 15 iunie 2011 privind acordarea titlurilor de onoare",
+"short": "Procedura CAFR din 15 iunie 2011",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-07-28",
+"latest": "2011-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/130382",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2011-12-15",
+"path": "profesii/cafr/procedura-2011-12-15",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2011-12-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 15 decembrie 2011 privind acordarea de excepții de la vechimea în activitatea financiar-contabilă și de la testul de cunoștințe în domeniul financiar-contabil, pentru accesul la stagiu",
+"short": "Procedura CAFR din 15 decembrie 2011",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-01-11",
+"latest": "2012-01-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/134442",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2012-09-19",
+"path": "profesii/cafr/procedura-2012-09-19",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2012-09-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 19 septembrie 2012 pentru aplicarea art. 24 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 168/2010",
+"short": "Procedura CAFR din 19 septembrie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-11-16",
+"latest": "2012-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/142882",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2012-11-22",
+"path": "profesii/cafr/procedura-2012-11-22",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2012-11-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 22 noiembrie 2012 privind echivalarea testului de verificare a cunoștințelor în domeniul financiar-contabil, pentru accesul la stagiu în baza titlului de doctor în domeniul contabilității",
+"short": "Procedura CAFR din 22 noiembrie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-12-10",
+"latest": "2012-12-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/143528",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2013-02-04",
+"path": "profesii/cafr/procedura-2013-02-04",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2013-02-04",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 4 februarie 2013 privind echivalarea vechimii în domeniul financiar-contabil și a testului de verificare a cunoștințelor în domeniul financiar-contabil, pentru accesul la stagiu în baza titlului științific de doctor obținut în domeniul \"contabilitate\"",
+"short": "Procedura CAFR din 4 februarie 2013",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2013-02-15",
+"latest": "2013-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/145556",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2013-12-12-2",
+"path": "profesii/cafr/procedura-2013-12-12-2",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2013-12-12-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 12 decembrie 2013 pentru aplicarea art. 24 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 49/2013",
+"short": "Procedura CAFR din 12 decembrie 2013",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-03-06",
+"latest": "2014-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156138",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2013-12-12",
+"path": "profesii/cafr/procedura-2013-12-12",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2013-12-12",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 12 decembrie 2013 pentru aplicarea art. 29 din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 49/2013",
+"short": "Procedura CAFR din 12 decembrie 2013",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-03-06",
+"latest": "2014-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156134",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2014-02-21",
+"path": "profesii/cafr/procedura-2014-02-21",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2014-02-21",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 21 februarie 2014 de înscriere la examenul de competență profesională a persoanelor care au finalizat stagiul la Camera Auditorilor Financiari din România și sunt membri cu drepturi depline ai Asociației Contabililor Autorizați",
+"short": "Procedura CAFR din 21 februarie 2014",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-03-14",
+"latest": "2014-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156385",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2018-09-07",
+"path": "profesii/cafr/procedura-2018-09-07",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2018-09-07",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 7 septembrie 2018 privind activitatea de traducere și revizuire a ghidurilor, documentelor de îndrumare și publicațiilor pentru desfășurarea activităților de audit financiar în România, altele decât auditul statutar",
+"short": "Procedura CAFR din 7 septembrie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-14",
+"latest": "2018-11-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/206740",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2020-05-29",
+"path": "profesii/cafr/procedura-2020-05-29",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2020-05-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 29 mai 2020 privind organizarea Conferinței Camerei Auditorilor Financiari din România, prin vot la distanță, în data de 11 iulie 2020",
+"short": "Procedura CAFR din 29 mai 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-04",
+"latest": "2020-06-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226581",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2021-03-11",
+"path": "profesii/cafr/procedura-2021-03-11",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2021-03-11",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 11 martie 2021 privind organizarea Conferinței Camerei Auditorilor Financiari din România prin vot la distanță în data de 17 aprilie 2021",
+"short": "Procedura CAFR din 11 martie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-15",
+"latest": "2021-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/239200",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-procedura-2022-03-28",
+"path": "profesii/cafr/procedura-2022-03-28",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2022-03-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 28 martie 2022 privind organizarea Conferinței Camerei Auditorilor Financiari din România, prin vot la distanță, în data de 29 aprilie 2022",
+"short": "Procedura CAFR din 28 martie 2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253516",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-protocol-2014-02-21",
+"path": "profesii/cafr/protocol-2014-02-21",
+"kind": "profesii",
+"year": "",
+"number": "protocol-2014-02-21",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROTOCOL DE COLABORARE din 21 februarie 2014 privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori",
+"short": "Protocolul CAFR din 21 februarie 2014",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-03-06",
+"latest": "2014-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/156136",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-regulament-2012-06-28",
+"path": "profesii/cafr/regulament-2012-06-28",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2012-06-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 28 iunie 2012 de organizare și desfășurare a examenului de competență profesională",
+"short": "Regulamentul CAFR din 28 iunie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-10-02",
+"latest": "2012-10-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/141667",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-regulament-2017-07-20",
+"path": "profesii/cafr/regulament-2017-07-20",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2017-07-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 20 iulie 2017 pentru organizarea și desfășurarea alegerilor pentru membrii Consiliului Camerei Auditorilor Financiari din România și membrii Comisiei de auditori statutari a Camerei Auditorilor Financiari din România",
+"short": "Regulamentul CAFR din 20 iulie 2017",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-08-01",
+"latest": "2017-08-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/191957",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-regulament-2018-10-23",
+"path": "profesii/cafr/regulament-2018-10-23",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2018-10-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 23 octombrie 2018 privind organizarea și funcționarea Comisiei de disciplină a Camerei Auditorilor Financiari din România",
+"short": "Regulamentul CAFR din 23 octombrie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-11-20",
+"latest": "2018-11-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/207034",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-regulament-2019-02-26",
+"path": "profesii/cafr/regulament-2019-02-26",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2019-02-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 26 februarie 2019 pentru organizarea și desfășurarea alegerilor pentru membrii Comisiei de disciplină care vor avea loc în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în data de 13 aprilie 2019",
+"short": "Regulamentul CAFR din 26 februarie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-03-01",
+"latest": "2019-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/211614",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-regulament-2022-02-28",
+"path": "profesii/cafr/regulament-2022-02-28",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2022-02-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 28 februarie 2022 privind organizarea alegerilor pentru membrii Comisiei de disciplină care vor avea loc în cadrul Conferinței Camerei Auditorilor Financiari din România în anul 2022",
+"short": "Regulamentul CAFR din 28 februarie 2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-04",
+"latest": "2022-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252394",
 "flags": {
 "amendments_checked": false
 }
@@ -40,6 +1180,2266 @@
 "portal": "https://cafr.ro/legislatie/"
 },
 {
+"slug": "profesii-cafr-reguli-2002-10-23",
+"path": "profesii/cafr/reguli-2002-10-23",
+"kind": "profesii",
+"year": "",
+"number": "reguli-2002-10-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULI din 23 octombrie 2002 de organizare și desfășurare a testului de verificare a cunoștințelor în domeniul financiar-contabil pentru accesul la stagiu, sesiunea decembrie 2002",
+"short": "Regulile CAFR din 23 octombrie 2002",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2002-11-12",
+"latest": "2002-11-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/39801",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-reguli-2005-12-14",
+"path": "profesii/cafr/reguli-2005-12-14",
+"kind": "profesii",
+"year": "",
+"number": "reguli-2005-12-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULI din 14 decembrie 2005 de organizare și desfășurare a examenului de aptitudini profesionale pentru atribuirea calității de auditor financiar, sesiunea 2006",
+"short": "Regulile CAFR din 14 decembrie 2005",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2006-01-25",
+"latest": "2006-01-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/68185",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-reguli-2008-02-26",
+"path": "profesii/cafr/reguli-2008-02-26",
+"kind": "profesii",
+"year": "",
+"number": "reguli-2008-02-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULI din 26 februarie 2008 de organizare și desfășurare a examenului de aptitudini profesionale pentru atribuirea calității de auditor financiar",
+"short": "Regulile CAFR din 26 februarie 2008",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-04-25",
+"latest": "2008-04-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/91851",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-standard-2007-04-19",
+"path": "profesii/cafr/standard-2007-04-19",
+"kind": "profesii",
+"year": "",
+"number": "standard-2007-04-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "STANDARDELE DE AUDIT INTERN din 19 aprilie 2007 elaborate și publicate de Institutul Auditorilor Interni",
+"short": "Standardul CAFR din 19 aprilie 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-06-21",
+"latest": "2007-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83050",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-cod-etica-2007-07-30",
+"path": "profesii/ccf/cod-etica-2007-07-30",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2007-07-30",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL din 30 iulie 2007 privind conduita etică și profesională în domeniul consultanței fiscale",
+"short": "Codul de etică CCF din 30 iulie 2007",
+"code": "CODUL din 30 iulie 2007 privind conduita etică și profesională în domeniul consultanței fiscale",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-21",
+"latest": "2007-09-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85547",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-norme-2007-12-31",
+"path": "profesii/ccf/norme-2007-12-31",
+"kind": "profesii",
+"year": "",
+"number": "norme-2007-12-31",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 31 decembrie 2007 privind pregătirea profesională continuă a consultanților fiscali",
+"short": "Normele CCF din 31 decembrie 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-22",
+"latest": "2008-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/88955",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-norme-2008-03-19",
+"path": "profesii/ccf/norme-2008-03-19",
+"kind": "profesii",
+"year": "",
+"number": "norme-2008-03-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 19 martie 2008 privind realizarea de expertize fiscale la solicitarea instanțelor judecătorești, organelor de cercetare penală, organelor fiscale sau a altor părți interesate",
+"short": "Normele CCF din 19 martie 2008",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-04-07",
+"latest": "2008-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/91059",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-norme-2010-02-17",
+"path": "profesii/ccf/norme-2010-02-17",
+"kind": "profesii",
+"year": "",
+"number": "norme-2010-02-17",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 17 februarie 2010 de certificare a declarațiilor fiscale anuale ale contribuabililor persoane juridice, cu excepția celor pentru care este obligatorie auditarea",
+"short": "Normele CCF din 17 februarie 2010",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2010-02-18",
+"latest": "2010-02-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/116302",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-norme-2011-02-24",
+"path": "profesii/ccf/norme-2011-02-24",
+"kind": "profesii",
+"year": "",
+"number": "norme-2011-02-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 24 februarie 2011 de certificare a declarațiilor fiscale anuale ale contribuabililor persoane juridice, cu excepția celor pentru care este obligatorie auditarea",
+"short": "Normele CCF din 24 februarie 2011",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-03-03",
+"latest": "2011-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/126506",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-norme-2012-03-15",
+"path": "profesii/ccf/norme-2012-03-15",
+"kind": "profesii",
+"year": "",
+"number": "norme-2012-03-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 15 martie 2012 privind instituirea măsurilor de prevenire și combatere a spălării banilor și a finanțării actelor de terorism prin intermediul activității de consultanță fiscală",
+"short": "Normele CCF din 15 martie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-04-02",
+"latest": "2012-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/136775",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-norme-2012-11-20",
+"path": "profesii/ccf/norme-2012-11-20",
+"kind": "profesii",
+"year": "",
+"number": "norme-2012-11-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME PROCEDURALE din 20 noiembrie 2012 privind modificarea stării consultantului fiscal, suspendarea, încetarea și redobândirea calității de membru al Camerei Consultanților Fiscali",
+"short": "Normele CCF din 20 noiembrie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-12-28",
+"latest": "2012-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/144202",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-norme-2023-02-28",
+"path": "profesii/ccf/norme-2023-02-28",
+"kind": "profesii",
+"year": "",
+"number": "norme-2023-02-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME PROFESIONALE din 28 februarie 2023 privind desfășurarea activității de consultanță fiscală de către consultanții fiscali asistenți, pe perioada stagiului",
+"short": "Normele CCF din 28 februarie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-13",
+"latest": "2023-03-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265619",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-norme-2024-03-11",
+"path": "profesii/ccf/norme-2024-03-11",
+"kind": "profesii",
+"year": "",
+"number": "norme-2024-03-11",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME PROFESIONALE SECTORIALE din 11 martie 2024 privind instituirea măsurilor de prevenire și combatere a spălării banilor și a finanțării terorismului, specifice activității de consultanță fiscală",
+"short": "Normele CCF din 11 martie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-18",
+"latest": "2024-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280043",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-norme-2026-02-02",
+"path": "profesii/ccf/norme-2026-02-02",
+"kind": "profesii",
+"year": "",
+"number": "norme-2026-02-02",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 2 februarie 2026 privind realizarea de expertize fiscale judiciare și extrajudiciare de către consultanții fiscali",
+"short": "Normele CCF din 2 februarie 2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/307311",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-procedura-2008-03-11",
+"path": "profesii/ccf/procedura-2008-03-11",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2008-03-11",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI din 11 martie 2008 pentru agrearea societăților comerciale de consultanță fiscală organizatoare de cursuri de pregătire profesională pentru anul 2008",
+"short": "Procedura CCF din 11 martie 2008",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-03-17",
+"latest": "2008-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90381",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-procedura-2025-02-07",
+"path": "profesii/ccf/procedura-2025-02-07",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2025-02-07",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ INTERNĂ din 7 februarie 2025 privind asigurarea implementării și aplicării art. 2 din Procedura de îndrumare și asistență a contribuabililor/plătitorilor, acordate de către Agenția Națională de Administrare Fiscală, și de coordonare metodologică a activității de aplicare unitară a legislației fiscale și procedural fiscale desfășurate de structurile de asistență contribuabili, precum și în domeniul tehnologiei informației, aprobată prin Ordinul ministrului finanțelor nr. 1.233/2021",
+"short": "Procedura CCF din 7 februarie 2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294752",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-program-2008-01-24",
+"path": "profesii/ccf/program-2008-01-24",
+"kind": "profesii",
+"year": "",
+"number": "program-2008-01-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROGRAMUL din 24 ianuarie 2008 de pregătire profesională continuă aferent anului 2008",
+"short": "Programul CCF din 24 ianuarie 2008",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-02-11",
+"latest": "2008-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/89470",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-program-2012-02-23",
+"path": "profesii/ccf/program-2012-02-23",
+"kind": "profesii",
+"year": "",
+"number": "program-2012-02-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROGRAM din 23 februarie 2012 de pregătire profesională continuă aferent anului 2012",
+"short": "Programul CCF din 23 februarie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-03-07",
+"latest": "2012-03-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/135978",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-program-2021-01-28",
+"path": "profesii/ccf/program-2021-01-28",
+"kind": "profesii",
+"year": "",
+"number": "program-2021-01-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROGRAM din 28 ianuarie 2021 de pregătire profesională continuă aferent anului 2021",
+"short": "Programul CCF din 28 ianuarie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-05",
+"latest": "2021-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/237076",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-regulament-2012-10-18-2",
+"path": "profesii/ccf/regulament-2012-10-18-2",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2012-10-18-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 18 octombrie 2012 de organizare și funcționare al Comitetului Fiscal al Camerei Consultanților Fiscali",
+"short": "Regulamentul CCF din 18 octombrie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-12-21",
+"latest": "2012-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/144018",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-regulament-2012-10-18",
+"path": "profesii/ccf/regulament-2012-10-18",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2012-10-18",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 18 octombrie 2012 de organizare și funcționare al Comitetului pentru probleme profesionale al Camerei Consultanților Fiscali",
+"short": "Regulamentul CCF din 18 octombrie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-12-21",
+"latest": "2012-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/144015",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-regulament-2020-08-27",
+"path": "profesii/ccf/regulament-2020-08-27",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2020-08-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 27 august 2020 pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent",
+"short": "Regulamentul CCF din 27 august 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229987",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-regulament-2022-01-31",
+"path": "profesii/ccf/regulament-2022-01-31",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2022-01-31",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 31 ianuarie 2022 de organizare și funcționare al Camerei Consultanților Fiscali",
+"short": "Regulamentul CCF din 31 ianuarie 2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251891",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-regulament-2024-08-30",
+"path": "profesii/ccf/regulament-2024-08-30",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2024-08-30",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 30 august 2024 pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent",
+"short": "Regulamentul CCF din 30 august 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288002",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-norme-2023-01-12",
+"path": "profesii/ceccar/norme-2023-01-12",
+"kind": "profesii",
+"year": "",
+"number": "norme-2023-01-12",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME SECTORIALE din 12 ianuarie 2023 privind aplicarea Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum si pentru modificarea și completarea unor acte normative, în domeniul serviciilor oferite de profesioniștii contabili, membri ai Corpului Experților Contabili și Contabililor Autorizați din România",
+"short": "Normele CECCAR din 12 ianuarie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-20",
+"latest": "2023-01-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264055",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-regulament-2000-02-17",
+"path": "profesii/ceccar/regulament-2000-02-17",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2000-02-17",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 17 februarie 2000 privind efectuarea stagiului și examenul de aptitudini în vederea accesului la calitatea de expert contabil și de contabil autorizat",
+"short": "Regulamentul CECCAR din 17 februarie 2000",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2000-03-14",
+"latest": "2000-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/21422",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-cod-etica-2005-05-10",
+"path": "profesii/cfr/cod-etica-2005-05-10",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2005-05-10",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 10 mai 2005 al farmaciștilor",
+"short": "Codul de etică CFR din 10 mai 2005",
+"code": "CODUL DEONTOLOGIC din 10 mai 2005 al farmaciștilor",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2005-08-18",
+"latest": "2005-08-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/64306",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-cod-etica-2009-06-15",
+"path": "profesii/cfr/cod-etica-2009-06-15",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2009-06-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 15 iunie 2009 al farmacistului",
+"short": "Codul de etică CFR din 15 iunie 2009",
+"code": "CODUL DEONTOLOGIC din 15 iunie 2009 al farmacistului",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2009-07-15",
+"latest": "2009-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/109599",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-regulament-2007-10-09",
+"path": "profesii/cfr/regulament-2007-10-09",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2007-10-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 9 octombrie 2007 al Colegiului Farmaciștilor din România",
+"short": "Regulamentul CFR din 9 octombrie 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-05",
+"latest": "2007-11-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86636",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-regulament-2019-12-16",
+"path": "profesii/cfr/regulament-2019-12-16",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2019-12-16",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 16 decembrie 2019 de organizare și desfășurare a alegerilor",
+"short": "Regulamentul CFR din 16 decembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-12-30",
+"latest": "2019-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/221723",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-regulament-2023-11-22",
+"path": "profesii/cfr/regulament-2023-11-22",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2023-11-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 22 noiembrie 2023 de organizare și desfășurare a alegerilor",
+"short": "Regulamentul CFR din 22 noiembrie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277265",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-cod-deontologic-2018-08-25",
+"path": "profesii/cfzro/cod-deontologic-2018-08-25",
+"kind": "profesii",
+"year": "",
+"number": "cod-deontologic-2018-08-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 25 august 2018 al fizioterapeutului",
+"short": "Codul deontologic CFZRO din 25 august 2018",
+"code": "CODUL DEONTOLOGIC din 25 august 2018 al fizioterapeutului",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-09-17",
+"latest": "2018-09-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/204808",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-metodologie-2018-07-26",
+"path": "profesii/cfzro/metodologie-2018-07-26",
+"kind": "profesii",
+"year": "",
+"number": "metodologie-2018-07-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "METODOLOGIE din 26 iulie 2018 privind întocmirea și eliberarea certificatului de status profesional curent pentru membrii Colegiului Fizioterapeuților din România",
+"short": "Metodologia CFZRO din 26 iulie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-14",
+"latest": "2018-08-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203916",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-metodologie-2020-03-09",
+"path": "profesii/cfzro/metodologie-2020-03-09",
+"kind": "profesii",
+"year": "",
+"number": "metodologie-2020-03-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "METODOLOGIE din 9 martie 2020 pentru recunoașterea titlurilor oficiale de calificare în fizioterapie dobândite în celelalte state membre ale Uniunii Europene, în statele aparținând Spațiului Economic European și în Confederația Elvețiană",
+"short": "Metodologia CFZRO din 9 martie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223857",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-metodologie-2020-07-10",
+"path": "profesii/cfzro/metodologie-2020-07-10",
+"kind": "profesii",
+"year": "",
+"number": "metodologie-2020-07-10",
+"withdrawn_by": null,
+"reason": null,
+"title": "METODOLOGIE din 10 iulie 2020 privind activitățile procedurale interne de declanșare a mecanismului de alertă a celorlalte state membre ale Uniunii Europene, a statelor aparținând Spațiului Economic European și a Confederației Elvețiene",
+"short": "Metodologia CFZRO din 10 iulie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228013",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-procedura-2018-01-28",
+"path": "profesii/cfzro/procedura-2018-01-28",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2018-01-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 28 ianuarie 2018 de organizare și desfășurare a ședințelor organelor de conducere la nivel teritorial și național ale Colegiului Fizioterapeuților din România",
+"short": "Procedura CFZRO din 28 ianuarie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-12",
+"latest": "2018-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197612",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-procedura-2018-07-26",
+"path": "profesii/cfzro/procedura-2018-07-26",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2018-07-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 26 iulie 2018 pentru actualizarea datelor personale și profesionale ale fizioterapeuților aflați în evidențele Colegiului Fizioterapeuților din România și pentru actualizarea documentelor eliberate de Colegiul Fizioterapeuților din România",
+"short": "Procedura CFZRO din 26 iulie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-08-09",
+"latest": "2018-08-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/203729",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-procedura-2019-09-14",
+"path": "profesii/cfzro/procedura-2019-09-14",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 14 septembrie 2019 privind transferul membrilor Colegiului Fizioterapeuților din România de la un colegiu teritorial la altul",
+"short": "Procedura CFZRO din 14 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-09-26",
+"latest": "2019-09-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/218468",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-procedura-2020-10-22",
+"path": "profesii/cfzro/procedura-2020-10-22",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2020-10-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURI ȘI CRITERII din 22 octombrie 2020 de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+"short": "Procedura CFZRO din 22 octombrie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/232963",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-procedura-2023-07-03",
+"path": "profesii/cfzro/procedura-2023-07-03",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2023-07-03",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 3 iulie 2023 de avizare a cabinetelor de liberă practică pentru serviciile publice conexe actului medical de fizioterapie",
+"short": "Procedura CFZRO din 3 iulie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-17",
+"latest": "2023-07-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/272179",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-procedura-2025-07-14",
+"path": "profesii/cfzro/procedura-2025-07-14",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2025-07-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 14 iulie 2025 de înființare și desființare a colegiilor teritoriale ale Colegiului Fizioterapeuților din România",
+"short": "Procedura CFZRO din 14 iulie 2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-18",
+"latest": "2025-07-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299909",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-regulament-2020-10-22",
+"path": "profesii/cfzro/regulament-2020-10-22",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2020-10-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 22 octombrie 2020 de organizare și funcționare a comisiei de malpraxis a Colegiului Fizioterapeuților din România",
+"short": "Regulamentul CFZRO din 22 octombrie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/232942",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-cod-deontologic-2021-07-09",
+"path": "profesii/cmdr/cod-deontologic-2021-07-09",
+"kind": "profesii",
+"year": "",
+"number": "cod-deontologic-2021-07-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "COD DEONTOLOGIC din 9 iulie 2021 al medicului stomatolog",
+"short": "Codul deontologic CMDR din 9 iulie 2021",
+"code": "COD DEONTOLOGIC din 9 iulie 2021 al medicului stomatolog",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-01",
+"latest": "2022-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/245940",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-cod-etica-2005-06-25",
+"path": "profesii/cmdr/cod-etica-2005-06-25",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2005-06-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 25 iunie 2005 al medicului dentist",
+"short": "Codul de etică CMDR din 25 iunie 2005",
+"code": "CODUL DEONTOLOGIC din 25 iunie 2005 al medicului dentist",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2005-09-22",
+"latest": "2005-09-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/64420",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-cod-etica-2010-05-15",
+"path": "profesii/cmdr/cod-etica-2010-05-15",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2010-05-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 15 mai 2010 al medicului dentist",
+"short": "Codul de etică CMDR din 15 mai 2010",
+"code": "CODUL DEONTOLOGIC din 15 mai 2010 al medicului dentist",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2010-06-18",
+"latest": "2010-06-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119666",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2020-02-29",
+"path": "profesii/cmdr/decizie-2020-02-29",
+"kind": "profesii",
+"year": "",
+"number": "decizie-2020-02-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 9/2CN din 29 februarie 2020 privind aprobarea componenței Comisiei Electorale Centrale pentru alegerile parțiale organizate până la expirarea mandatului 2019-2023 al organelor de conducere ale Colegiului Medicilor Stomatologi din România, la nivel local și național",
+"short": "Decizia CMDR din 29 februarie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-13",
+"latest": "2020-03-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223798",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-ghid-2025-05-30",
+"path": "profesii/cmdr/ghid-2025-05-30",
+"kind": "profesii",
+"year": "",
+"number": "ghid-2025-05-30",
+"withdrawn_by": null,
+"reason": null,
+"title": "GHID din 30 mai 2025 de bune practici privind publicitatea medicilor stomatologi",
+"short": "Ghidul CMDR din 30 mai 2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298886",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-procedura-2021-11-26-2",
+"path": "profesii/cmdr/procedura-2021-11-26-2",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2021-11-26-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 26 noiembrie 2021 de acreditare/reacreditare a lectorilor implicați în furnizarea de educație medicală continuă",
+"short": "Procedura CMDR din 26 noiembrie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-06",
+"latest": "2021-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248999",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-procedura-2021-11-26-3",
+"path": "profesii/cmdr/procedura-2021-11-26-3",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2021-11-26-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 26 noiembrie 2021 de creditare a formelor de educație medicală continuă",
+"short": "Procedura CMDR din 26 noiembrie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-06",
+"latest": "2021-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/249000",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-procedura-2021-11-26",
+"path": "profesii/cmdr/procedura-2021-11-26",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2021-11-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 26 noiembrie 2021 de acreditare/reacreditare a furnizorilor de educație medicală continuă",
+"short": "Procedura CMDR din 26 noiembrie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-06",
+"latest": "2021-12-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248998",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-procedura-2024-05-24-2",
+"path": "profesii/cmdr/procedura-2024-05-24-2",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2024-05-24-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 24 mai 2024 de suspendare a calității de membru al Colegiului Medicilor Stomatologi din România sau a dreptului de exercitare a profesiei de medic stomatolog",
+"short": "Procedura CMDR din 24 mai 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283970",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-procedura-2024-05-24-3",
+"path": "profesii/cmdr/procedura-2024-05-24-3",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2024-05-24-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 24 mai 2024 de constatare a încetării calității de membru al CMSR",
+"short": "Procedura CMDR din 24 mai 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283971",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-procedura-2024-05-24",
+"path": "profesii/cmdr/procedura-2024-05-24",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2024-05-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 24 mai 2024 de transfer al membrilor CMSR în alt colegiu teritorial",
+"short": "Procedura CMDR din 24 mai 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283969",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-recomandari-2020-05-05",
+"path": "profesii/cmdr/recomandari-2020-05-05",
+"kind": "profesii",
+"year": "",
+"number": "recomandari-2020-05-05",
+"withdrawn_by": null,
+"reason": null,
+"title": "RECOMANDĂRI din 5 mai 2020 privind reluarea activității în cabinetele stomatologice",
+"short": "Recomandările CMDR din 5 mai 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-15",
+"latest": "2020-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225834",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2006-11-25",
+"path": "profesii/cmdr/regulament-2006-11-25",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2006-11-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 25 noiembrie 2006 de educație medicală continuă al Colegiului Medicilor Dentiști din România",
+"short": "Regulamentul CMDR din 25 noiembrie 2006",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-02-12",
+"latest": "2007-02-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/79442",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2008-03-29",
+"path": "profesii/cmdr/regulament-2008-03-29",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2008-03-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 29 martie 2008 de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Dentiști din România",
+"short": "Regulamentul CMDR din 29 martie 2008",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2008-05-20",
+"latest": "2008-05-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/93075",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2009-11-21",
+"path": "profesii/cmdr/regulament-2009-11-21",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2009-11-21",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 21 noiembrie 2009 de educație medicală continuă al Colegiului Medicilor Dentiști din România",
+"short": "Regulamentul CMDR din 21 noiembrie 2009",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2009-12-04",
+"latest": "2009-12-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/114148",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2019-07-11",
+"path": "profesii/cmdr/regulament-2019-07-11",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2019-07-11",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 11 iulie 2019 al Colegiului Medicilor Stomatologi din România",
+"short": "Regulamentul CMDR din 11 iulie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-08-28",
+"latest": "2019-08-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/217516",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2023-03-03",
+"path": "profesii/cmdr/regulament-2023-03-03",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2023-03-03",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 3 martie 2023 de organizare și funcționare a Colegiului Medicilor Stomatologi din România",
+"short": "Regulamentul CMDR din 3 martie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-01",
+"latest": "2023-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/267401",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2023-05-19",
+"path": "profesii/cmdr/regulament-2023-05-19",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2023-05-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENTUL ELECTORAL din 19 mai 2023 al Colegiului Medicilor Stomatologi din România",
+"short": "Regulamentul CMDR din 19 mai 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-01",
+"latest": "2023-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/271749",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2024-03-28-2",
+"path": "profesii/cmdr/regulament-2024-03-28-2",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2024-03-28-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 28 martie 2024 de organizare și desfășurare a ședințelor Consiliului național și ale Adunării generale naționale ale Colegiului Medicilor Stomatologi din România",
+"short": "Regulamentul CMDR din 28 martie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-01",
+"latest": "2024-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281747",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2024-03-28",
+"path": "profesii/cmdr/regulament-2024-03-28",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2024-03-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 28 martie 2024 de organizare și funcționare a comisiilor de litigii ale Colegiului Medicilor Stomatologi din România",
+"short": "Regulamentul CMDR din 28 martie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-01",
+"latest": "2024-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281686",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2024-03-29",
+"path": "profesii/cmdr/regulament-2024-03-29",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2024-03-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 29 martie 2024 de organizare și funcționare a Colegiului Medicilor Stomatologi din România",
+"short": "Regulamentul CMDR din 29 martie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-01",
+"latest": "2024-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281683",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2024-05-24",
+"path": "profesii/cmdr/regulament-2024-05-24",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2024-05-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 24 mai 2024 de organizare și funcționare a Comisiei de etică a cercetării științifice din cadrul Colegiului Medicilor Stomatologi din România",
+"short": "Regulamentul CMDR din 24 mai 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283966",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-regulament-2024-09-27",
+"path": "profesii/cmdr/regulament-2024-09-27",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2024-09-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 27 septembrie 2024 de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Stomatologi din România",
+"short": "Regulamentul CMDR din 27 septembrie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289305",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-cod-2025-10-30",
+"path": "profesii/cmr/cod-2025-10-30",
+"kind": "profesii",
+"year": "",
+"number": "cod-2025-10-30",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DE DEONTOLOGIE MEDICALĂ din 30 octombrie 2025 al Colegiului Medicilor din România",
+"short": "Codul CMR din 30 octombrie 2025",
+"code": "CODUL DE DEONTOLOGIE MEDICALĂ din 30 octombrie 2025 al Colegiului Medicilor din România",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/305076",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-cod-etica-2012-03-30",
+"path": "profesii/cmr/cod-etica-2012-03-30",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2012-03-30",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DE DEONTOLOGIE MEDICALĂ din 30 martie 2012 al Colegiului Medicilor din România",
+"short": "Codul de etică CMR din 30 martie 2012",
+"code": "CODUL DE DEONTOLOGIE MEDICALĂ din 30 martie 2012 al Colegiului Medicilor din România",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-05-07",
+"latest": "2012-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/137610",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-criterii-2005-12-09",
+"path": "profesii/cmr/criterii-2005-12-09",
+"kind": "profesii",
+"year": "",
+"number": "criterii-2005-12-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "CRITERII din 9 decembrie 2005 de creditare a formelor de educație medicală continuă",
+"short": "Criteriile CMR din 9 decembrie 2005",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2006-02-15",
+"latest": "2006-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/69001",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-criterii-2009-01-23",
+"path": "profesii/cmr/criterii-2009-01-23",
+"kind": "profesii",
+"year": "",
+"number": "criterii-2009-01-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "CRITERIILE ȘI NORMELE din 23 ianuarie 2009 de creditare a formelor de educație medicală continuă",
+"short": "Criteriile CMR din 23 ianuarie 2009",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2009-03-30",
+"latest": "2009-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/103971",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-norme-2000-07-19",
+"path": "profesii/cmr/norme-2000-07-19",
+"kind": "profesii",
+"year": "",
+"number": "norme-2000-07-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME METODOLOGICE din 19 iulie 2000 DE APLICARE A CONTRACTULUI CADRU PRIVIND CONDIȚIILE ACORDĂRII ASISTENȚEI MEDICALE IN CADRUL SISTEMULUI ASIGURĂRILOR SOCIALE DE SĂNĂTATE PENTRU ANUL 2000 APROBAT PRIN HOTĂRÂREA GUVERNULUI NR. 399/2000",
+"short": "Normele CMR din 19 iulie 2000",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2000-07-25",
+"latest": "2000-07-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23562",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-norme-2001-01-12",
+"path": "profesii/cmr/norme-2001-01-12",
+"kind": "profesii",
+"year": "",
+"number": "norme-2001-01-12",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME METODOLOGICE din 12 ianuarie 2001 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate pentru anul 2001",
+"short": "Normele CMR din 12 ianuarie 2001",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2001-01-15",
+"latest": "2001-01-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26309",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-norme-2005-12-09",
+"path": "profesii/cmr/norme-2005-12-09",
+"kind": "profesii",
+"year": "",
+"number": "norme-2005-12-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 9 decembrie 2005 de acreditare a furnizorilor de educație medicală continuă",
+"short": "Normele CMR din 9 decembrie 2005",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2006-02-15",
+"latest": "2006-02-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/69002",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-norme-2009-01-23",
+"path": "profesii/cmr/norme-2009-01-23",
+"kind": "profesii",
+"year": "",
+"number": "norme-2009-01-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORMA ȘI CRITERIILE din 23 ianuarie 2009 de acreditare a furnizorilor de educație medicală continuă",
+"short": "Normele CMR din 23 ianuarie 2009",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2009-03-30",
+"latest": "2009-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/103972",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-procedura-2020-02-06",
+"path": "profesii/cmr/procedura-2020-02-06",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2020-02-06",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 6 februarie 2020 privind transferul membrilor Colegiului Medicilor din România de la un colegiu teritorial la alt colegiu teritorial",
+"short": "Procedura CMR din 6 februarie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-01",
+"latest": "2020-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223373",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2007-08-31",
+"path": "profesii/cmr/regulament-2007-08-31",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2007-08-31",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 31 august 2007 al Colegiului Medicilor din România",
+"short": "Regulamentul CMR din 31 august 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-09-20",
+"latest": "2007-09-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/85499",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2011-05-20",
+"path": "profesii/cmr/regulament-2011-05-20",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2011-05-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 20 mai 2011 privind alegerea membrilor comisiilor de disciplină",
+"short": "Regulamentul CMR din 20 mai 2011",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-06-22",
+"latest": "2011-06-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/129485",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2017-04-28",
+"path": "profesii/cmr/regulament-2017-04-28",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2017-04-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 28 aprilie 2017 privind alegerea membrilor comisiilor de disciplină",
+"short": "Regulamentul CMR din 28 aprilie 2017",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-05-10",
+"latest": "2017-05-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189169",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2019-11-29",
+"path": "profesii/cmr/regulament-2019-11-29",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2019-11-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 29 noiembrie 2019 de organizare și desfășurare a alegerilor",
+"short": "Regulamentul CMR din 29 noiembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-12-09",
+"latest": "2019-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/220757",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2021-06-25",
+"path": "profesii/cmr/regulament-2021-06-25",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2021-06-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 25 iunie 2021 de organizare și funcționare a Fondului de Solidaritate a Medicilor",
+"short": "Regulamentul CMR din 25 iunie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-23",
+"latest": "2021-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244905",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2021-12-17",
+"path": "profesii/cmr/regulament-2021-12-17",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2021-12-17",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 17 decembrie 2021 privind desfășurarea anchetei disciplinare la nivelul colegiilor teritoriale și, respectiv, al Colegiului Medicilor din România",
+"short": "Regulamentul CMR din 17 decembrie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-09",
+"latest": "2022-03-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251451",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2022-01-28",
+"path": "profesii/cmr/regulament-2022-01-28",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2022-01-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 28 ianuarie 2022 de organizare și funcționare a comisiilor de specialitate ale Colegiului Medicilor din România",
+"short": "Regulamentul CMR din 28 ianuarie 2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-11",
+"latest": "2022-03-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252543",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2023-04-28",
+"path": "profesii/cmr/regulament-2023-04-28",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2023-04-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 28 aprilie 2023 privind alegerea membrilor comisiilor de disciplină și a membrilor Comisiei Superioare de Disciplină",
+"short": "Regulamentul CMR din 28 aprilie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-17",
+"latest": "2023-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270253",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2024-02-16",
+"path": "profesii/cmr/regulament-2024-02-16",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2024-02-16",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 16 februarie 2024 de organizare și desfășurare a alegerilor pentru funcția de membru în biroul consiliului colegiului teritorial, de reprezentant al colegiului teritorial în Consiliul național al Colegiului Medicilor din România și de vicepreședinte coordonator al Comisiei economico-sociale și de asigurări sociale de sănătate în Biroul executiv al Colegiului Medicilor din România, pentru un mandat incomplet",
+"short": "Regulamentul CMR din 16 februarie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279466",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-regulament-2024-06-14",
+"path": "profesii/cmr/regulament-2024-06-14",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2024-06-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT ELECTORAL din 14 iunie 2024 de organizare și desfășurare a alegerilor organelor de conducere și control ale colegiilor teritoriale și ale Colegiului Medicilor din România pentru mandatul 2024 - 2028 și aprobarea componenței Comisiei Electorale Centrale",
+"short": "Regulamentul CMR din 14 iunie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-21",
+"latest": "2024-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284545",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-statut-2022-03-25",
+"path": "profesii/cmr/statut-2022-03-25",
+"kind": "profesii",
+"year": "",
+"number": "statut-2022-03-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "STATUTUL din 25 martie 2022 Colegiului Medicilor din România",
+"short": "Statutul CMR din 25 martie 2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254632",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmvr-cod-etica-2010-10-24",
+"path": "profesii/cmvr/cod-etica-2010-10-24",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2010-10-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL din 24 octombrie 2010 de deontologie medicală veterinară",
+"short": "Codul de etică CMVR din 24 octombrie 2010",
+"code": "CODUL din 24 octombrie 2010 de deontologie medicală veterinară",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-03-01",
+"latest": "2011-03-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/126462",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmvr-cod-etica-2013-10-25",
+"path": "profesii/cmvr/cod-etica-2013-10-25",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2013-10-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DE DEONTOLOGIE MEDICALĂ VETERINARĂ din 25 octombrie 2013 privind organizarea și exercitarea profesiunii de medic veterinar, republicată, cu modificările ulterioare",
+"short": "Codul de etică CMVR din 25 octombrie 2013",
+"code": "CODUL DE DEONTOLOGIE MEDICALĂ VETERINARĂ din 25 octombrie 2013 privind organizarea și exercitarea profesiunii de medic veterinar, republicată, cu modificările ulterioare",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-09-16",
+"latest": "2014-09-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161359",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-cod-deontologic-2018-11-24",
+"path": "profesii/cpr/cod-deontologic-2018-11-24",
+"kind": "profesii",
+"year": "",
+"number": "cod-deontologic-2018-11-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "COD DEONTOLOGIC din 24 noiembrie 2018 al profesiei de psiholog cu drept de liberă practică",
+"short": "Codul deontologic CPR din 24 noiembrie 2018",
+"code": "COD DEONTOLOGIC din 24 noiembrie 2018 al profesiei de psiholog cu drept de liberă practică",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-02-22",
+"latest": "2019-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/211126",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-cod-etica-2013-11-01",
+"path": "profesii/cpr/cod-etica-2013-11-01",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2013-11-01",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 1 noiembrie 2013 al profesiei de psiholog cu drept de liberă practică",
+"short": "Codul de etică CPR din 1 noiembrie 2013",
+"code": "CODUL DEONTOLOGIC din 1 noiembrie 2013 al profesiei de psiholog cu drept de liberă practică",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2013-11-20",
+"latest": "2013-11-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/152766",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-cod-procedura-disciplinara-2018-11-24",
+"path": "profesii/cpr/cod-procedura-disciplinara-2018-11-24",
+"kind": "profesii",
+"year": "",
+"number": "cod-procedura-disciplinara-2018-11-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "COD DE PROCEDURĂ DISCIPLINARĂ din 24 noiembrie 2018",
+"short": "Codul de procedură disciplinară CPR din 24 noiembrie 2018",
+"code": "COD DE PROCEDURĂ DISCIPLINARĂ din 24 noiembrie 2018",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-02-22",
+"latest": "2019-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/211135",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2010-04-16",
+"path": "profesii/cpr/norme-2010-04-16",
+"kind": "profesii",
+"year": "",
+"number": "norme-2010-04-16",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 16 aprilie 2010 privind formarea profesională a psihologilor cu drept de liberă practică*)",
+"short": "Normele CPR din 16 aprilie 2010",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2010-05-26",
+"latest": "2010-05-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119076",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2013-05-10",
+"path": "profesii/cpr/norme-2013-05-10",
+"kind": "profesii",
+"year": "",
+"number": "norme-2013-05-10",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 10 mai 2013 privind standardele de calitate în serviciile psihologice din sistemul public de sănătate",
+"short": "Normele CPR din 10 mai 2013",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2013-05-27",
+"latest": "2013-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/148444",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2018-11-09-2",
+"path": "profesii/cpr/norme-2018-11-09-2",
+"kind": "profesii",
+"year": "",
+"number": "norme-2018-11-09-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 9 noiembrie 2018 privind formarea profesională a psihologilor cu drept de liberă practică",
+"short": "Normele CPR din 9 noiembrie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-08",
+"latest": "2019-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209663",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2018-11-09",
+"path": "profesii/cpr/norme-2018-11-09",
+"kind": "profesii",
+"year": "",
+"number": "norme-2018-11-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 9 noiembrie 2018 privind accesul în profesia de psiholog cu drept de liberă practică",
+"short": "Normele CPR din 9 noiembrie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-08",
+"latest": "2019-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209661",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2018-11-24",
+"path": "profesii/cpr/norme-2018-11-24",
+"kind": "profesii",
+"year": "",
+"number": "norme-2018-11-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME DE AVIZARE din 24 noiembrie 2018 ale metodelor și tehnicilor de evaluare și asistență psihologică",
+"short": "Normele CPR din 24 noiembrie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-03-14",
+"latest": "2019-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/212617",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2019-03-13",
+"path": "profesii/cpr/norme-2019-03-13",
+"kind": "profesii",
+"year": "",
+"number": "norme-2019-03-13",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 13 martie 2019 privind supervizarea profesională în psihologie",
+"short": "Normele CPR din 13 martie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-04-09",
+"latest": "2019-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/212613",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2021-09-18",
+"path": "profesii/cpr/norme-2021-09-18",
+"kind": "profesii",
+"year": "",
+"number": "norme-2021-09-18",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 18 septembrie 2021 privind educația și formarea profesională a psihologilor cu drept de liberă practică",
+"short": "Normele CPR din 18 septembrie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-20",
+"latest": "2021-10-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/247535",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2021-11-07",
+"path": "profesii/cpr/norme-2021-11-07",
+"kind": "profesii",
+"year": "",
+"number": "norme-2021-11-07",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 7 noiembrie 2021 privind atestarea profesională a psihologilor cu drept de liberă practică",
+"short": "Normele CPR din 7 noiembrie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-19",
+"latest": "2021-11-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248536",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2022-07-21",
+"path": "profesii/cpr/norme-2022-07-21",
+"kind": "profesii",
+"year": "",
+"number": "norme-2022-07-21",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 21 iulie 2022 privind acordarea mandatelor de reprezentare președinților filialelor teritoriale ale Colegiului Psihologilor din România",
+"short": "Normele CPR din 21 iulie 2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258353",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-norme-2023-04-08",
+"path": "profesii/cpr/norme-2023-04-08",
+"kind": "profesii",
+"year": "",
+"number": "norme-2023-04-08",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 8 aprilie 2023 privind regimul incompatibilităților și conflictului de interese aplicabile membrilor forurilor de conducere ale Colegiului Psihologilor din România",
+"short": "Normele CPR din 8 aprilie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-11",
+"latest": "2023-05-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270097",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-procedura-2013-01-11",
+"path": "profesii/cpr/procedura-2013-01-11",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2013-01-11",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 11 ianuarie 2013 privind organizarea și desfășurarea alegerilor pentru forurile de conducere ale Colegiului Psihologilor din România",
+"short": "Procedura CPR din 11 ianuarie 2013",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2013-04-15",
+"latest": "2013-04-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/146968",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-procedura-2020-12-18",
+"path": "profesii/cpr/procedura-2020-12-18",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2020-12-18",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 18 decembrie 2020 privind organizarea și desfășurarea alegerilor pentru forurile de conducere ale Colegiului Psihologilor din România și ale filialelor teritoriale ale Colegiului Psihologilor din România",
+"short": "Procedura CPR din 18 decembrie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236865",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-procedura-2021-05-28-2",
+"path": "profesii/cpr/procedura-2021-05-28-2",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2021-05-28-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 28 mai 2021 organizarea și desfășurarea ședinței de alegeri a convențiilor filialelor teritoriale ale Colegiului Psihologilor din România în contextul pandemiei generate de COVID-19",
+"short": "Procedura CPR din 28 mai 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243826",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-procedura-2021-05-28",
+"path": "profesii/cpr/procedura-2021-05-28",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2021-05-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 28 mai 2021 de organizare la distanță a Convenției naționale a Colegiului Psihologilor din România",
+"short": "Procedura CPR din 28 mai 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/243824",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-procedura-2021-11-07",
+"path": "profesii/cpr/procedura-2021-11-07",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2021-11-07",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 7 noiembrie 2021 de înscriere în Registrul psihologilor acreditați să furnizeze serviciile de intervenție psihologică și psihoterapeutică pentru copii din cadrul Programului național de suport pentru copii, în contextul pandemiei de COVID-19 - \"Din grijă pentru copii\"",
+"short": "Procedura CPR din 7 noiembrie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/248649",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-procedura-2022-07-25",
+"path": "profesii/cpr/procedura-2022-07-25",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2022-07-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 25 iulie 2022 de transmitere, recepționare, înregistrare, semnare, eliberare și arhivare a diplomelor/certificatelor de absolvire a programelor de formare profesională emise de către furnizorii de formare profesională înregistrați la Colegiul Psihologilor din România pentru programele de formare profesională avizate de către Comitetul director al Colegiului Psihologilor din România",
+"short": "Procedura CPR din 25 iulie 2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258355",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-procedura-2024-08-22",
+"path": "profesii/cpr/procedura-2024-08-22",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2024-08-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 22 august 2024 privind constituirea filialelor teritoriale ale Colegiului Psihologilor din România",
+"short": "Procedura CPR din 22 august 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290306",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-procedura-2024-12-17-2",
+"path": "profesii/cpr/procedura-2024-12-17-2",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2024-12-17-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 17 decembrie 2024 privind renunțarea la exercițiul dreptului de liberă practică",
+"short": "Procedura CPR din 17 decembrie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293203",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-procedura-2024-12-17",
+"path": "profesii/cpr/procedura-2024-12-17",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2024-12-17",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 17 decembrie 2024 privind suspendarea dreptului de liberă practică pentru neplata cotizației anuale",
+"short": "Procedura CPR din 17 decembrie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293202",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-regulament-2018-11-24",
+"path": "profesii/cpr/regulament-2018-11-24",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2018-11-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 24 noiembrie 2018 de organizare și funcționare internă al Colegiului Psihologilor din România",
+"short": "Regulamentul CPR din 24 noiembrie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-02-14",
+"latest": "2019-02-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/210972",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-standard-2014-09-17",
+"path": "profesii/cpr/standard-2014-09-17",
+"kind": "profesii",
+"year": "",
+"number": "standard-2014-09-17",
+"withdrawn_by": null,
+"reason": null,
+"title": "STANDARDE DE CALITATE ÎN SERVICIILE PSIHOLOGICE Partea generală, Cartea I*)",
+"short": "Standardul CPR din 17 septembrie 2014",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-17",
+"latest": "2014-10-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/161362",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-standard-2015-04-24",
+"path": "profesii/cpr/standard-2015-04-24",
+"kind": "profesii",
+"year": "",
+"number": "standard-2015-04-24",
+"withdrawn_by": null,
+"reason": null,
+"title": "STANDARD DE CALITATE din 24 aprilie 2015 în serviciile psihologice - Partea generală, Cartea I*) **)",
+"short": "Standardul CPR din 24 aprilie 2015",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2015-07-10",
+"latest": "2015-07-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/170398",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-anexa-2007-10-04",
+"path": "profesii/csm/anexa-2007-10-04",
+"kind": "profesii",
+"year": "",
+"number": "anexa-2007-10-04",
+"withdrawn_by": null,
+"reason": null,
+"title": "ANEXE din 4 octombrie 2007 la Regulamentul privind evaluarea activității profesionale a judecătorilor și procurorilor*)",
+"short": "Anexa CSM din 4 octombrie 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-11-29",
+"latest": "2007-11-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/87763",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-csm-cod-deontologic",
 "path": "profesii/csm/cod-deontologic",
 "kind": "profesii",
@@ -57,6 +3457,166 @@
 "portal": "https://www.csm1909.ro/Pages/274/Legislaţie",
 "flags": {
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-cod-etica-2005-04-26",
+"path": "profesii/csm/cod-etica-2005-04-26",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2005-04-26",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 26 aprilie 2005 al magistraților",
+"short": "Codul de etică CSM din 26 aprilie 2005",
+"code": "CODUL DEONTOLOGIC din 26 aprilie 2005 al magistraților",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2005-05-06",
+"latest": "2005-05-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/61390",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-regulament-1993-03-13",
+"path": "profesii/csm/regulament-1993-03-13",
+"kind": "profesii",
+"year": "",
+"number": "regulament-1993-03-13",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENTUL din 13 martie 1993 de funcționare a Consiliului Superior al Magistraturii",
+"short": "Regulamentul CSM din 13 martie 1993",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "1993-05-04",
+"latest": "1993-05-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2964",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-regulament-1994-11-17",
+"path": "profesii/csm/regulament-1994-11-17",
+"kind": "profesii",
+"year": "",
+"number": "regulament-1994-11-17",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 17 noiembrie 1994 *** Republicat de funcționare a Consiliului Superior al Magistraturii*)",
+"short": "Regulamentul CSM din 17 noiembrie 1994",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "1995-12-08",
+"latest": "1995-12-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/3767",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-regulament-2005-12-08",
+"path": "profesii/csm/regulament-2005-12-08",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2005-12-08",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 8 decembrie 2005 privind promovarea în funcția de prim-magistrat-asistent și de magistrat-asistent șef la Înalta Curte de Casație și Justiție",
+"short": "Regulamentul CSM din 8 decembrie 2005",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2005-12-22",
+"latest": "2005-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/67172",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-regulament-2012-09-28",
+"path": "profesii/csm/regulament-2012-09-28",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2012-09-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 28 septembrie 2012 de organizare și funcționare a Inspecției Judiciare",
+"short": "Regulamentul CSM din 28 septembrie 2012",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-10-09",
+"latest": "2012-10-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/141832",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-regulament-2021-07-16",
+"path": "profesii/csm/regulament-2021-07-16",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2021-07-16",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 16 iulie 2021 privind admiterea la Institutul Național al Magistraturii",
+"short": "Regulamentul CSM din 16 iulie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-16",
+"latest": "2021-07-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244428",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-regulament-2021-07-21",
+"path": "profesii/csm/regulament-2021-07-21",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2021-07-21",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 21 iulie 2021 privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție",
+"short": "Regulamentul CSM din 21 iulie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-21",
+"latest": "2021-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/244831",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-regulament-2025-11-27",
+"path": "profesii/csm/regulament-2025-11-27",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2025-11-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 27 noiembrie 2025 privind examenul de capacitate al procurorilor stagiari",
+"short": "Regulamentul CSM din 27 noiembrie 2025",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/304975",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -817,6 +4377,46 @@
 }
 },
 {
+"slug": "profesii-mediere-cod-etica-2011-07-29",
+"path": "profesii/mediere/cod-etica-2011-07-29",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2011-07-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "COD DE ETICĂ din 29 iulie 2011 și deontologie profesională a mediatorilor",
+"short": "Codul de etică Consiliul de mediere din 29 iulie 2011",
+"code": "COD DE ETICĂ din 29 iulie 2011 și deontologie profesională a mediatorilor",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-08-17",
+"latest": "2011-08-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/130830",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-mediere-cod-etica-2011-08-06",
+"path": "profesii/mediere/cod-etica-2011-08-06",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2011-08-06",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DE ETICĂ din 6 august 2011 al membrilor Consiliului de mediere",
+"short": "Codul de etică Consiliul de mediere din 6 august 2011",
+"code": "CODUL DE ETICĂ din 6 august 2011 al membrilor Consiliului de mediere",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2011-09-06",
+"latest": "2011-09-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/131247",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-mediere-regulament-organizare-functionare",
 "path": "profesii/mediere/regulament-organizare-functionare",
 "kind": "profesii",
@@ -834,6 +4434,26 @@
 "portal": "https://www.consiliuldemediere.ro/legislatie",
 "flags": {
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-mediere-standard-2007-09-07",
+"path": "profesii/mediere/standard-2007-09-07",
+"kind": "profesii",
+"year": "",
+"number": "standard-2007-09-07",
+"withdrawn_by": null,
+"reason": null,
+"title": "STANDARDUL DE FORMARE A MEDIATORULUI din 7 septembrie 2007 privind medierea și organizarea profesiei de mediator",
+"short": "Standardul Consiliul de mediere din 7 septembrie 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-22",
+"latest": "2007-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/86274",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -876,6 +4496,506 @@
 "portal": "https://www.consiliuldemediere.ro/legislatie",
 "flags": {
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-metodologie-2016-03-17-2",
+"path": "profesii/oamgmamr/metodologie-2016-03-17-2",
+"kind": "profesii",
+"year": "",
+"number": "metodologie-2016-03-17-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "METODOLOGIE din 17 martie 2016 privind avizarea exercitării temporare a activităților profesionale de către asistenții medicali generaliști, moașele și asistenții medicali, cetățeni ai unui stat terț",
+"short": "Metodologia OAMGMAMR din 17 martie 2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-04",
+"latest": "2016-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177123",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-metodologie-2016-03-17-3",
+"path": "profesii/oamgmamr/metodologie-2016-03-17-3",
+"kind": "profesii",
+"year": "",
+"number": "metodologie-2016-03-17-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "METODOLOGIE din 17 martie 2016 privind întocmirea și eliberarea documentelor care atestă titlurile românești de calificare de asistent medical generalist, de moașă și de asistent medical, în vederea recunoașterii profesionale de către celelalte state membre ale Uniunii Europene, statele aparținând Spațiului Economic European și de către Confederația Elvețiană",
+"short": "Metodologia OAMGMAMR din 17 martie 2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-04",
+"latest": "2016-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177146",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-metodologie-2016-03-17",
+"path": "profesii/oamgmamr/metodologie-2016-03-17",
+"kind": "profesii",
+"year": "",
+"number": "metodologie-2016-03-17",
+"withdrawn_by": null,
+"reason": null,
+"title": "METODOLOGIE din 17 martie 2016 privind activitățile procedurale interne de declanșare a mecanismului de alertă a celorlalte state membre ale Uniunii Europene, a statelor aparținând Spațiului Economic European și a Confederației Elvețiene",
+"short": "Metodologia OAMGMAMR din 17 martie 2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-04",
+"latest": "2016-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177119",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-metodologie-2018-09-28",
+"path": "profesii/oamgmamr/metodologie-2018-09-28",
+"kind": "profesii",
+"year": "",
+"number": "metodologie-2018-09-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "METODOLOGIE din 28 septembrie 2018 privind activitățile de elaborare a cardului profesional european pentru profesiile din domeniul de competență al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Metodologia OAMGMAMR din 28 septembrie 2018",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-11",
+"latest": "2018-10-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205946",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-metodologie-2023-12-05",
+"path": "profesii/oamgmamr/metodologie-2023-12-05",
+"kind": "profesii",
+"year": "",
+"number": "metodologie-2023-12-05",
+"withdrawn_by": null,
+"reason": null,
+"title": "METODOLOGIE din 5 decembrie 2023 de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali",
+"short": "Metodologia OAMGMAMR din 5 decembrie 2023",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-01",
+"latest": "2024-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277590",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-norme-2005-04-07",
+"path": "profesii/oamgmamr/norme-2005-04-07",
+"kind": "profesii",
+"year": "",
+"number": "norme-2005-04-07",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 7 aprilie 2005 privind procedura de reatestare a competenței profesionale a asistenților medicali și moașelor",
+"short": "Normele OAMGMAMR din 7 aprilie 2005",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2005-05-27",
+"latest": "2005-05-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/62035",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2017-12-04",
+"path": "profesii/oamgmamr/procedura-2017-12-04",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2017-12-04",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 4 decembrie 2017 de suspendare și de retragere a calității de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Procedura OAMGMAMR din 4 decembrie 2017",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2018-01-03",
+"latest": "2018-01-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196342",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2019-09-11-2",
+"path": "profesii/oamgmamr/procedura-2019-09-11-2",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-11-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 11 septembrie 2019 privind înregistrarea temporară automată în OAMGMAMR a moașelor cu formare însușită într-un alt stat membru UE, SEE sau în Confederația Elvețiană și care beneficiază de recunoaștere profesională automată pe teritoriul acestor state",
+"short": "Procedura OAMGMAMR din 11 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-21",
+"latest": "2019-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/218995",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2019-09-11-3",
+"path": "profesii/oamgmamr/procedura-2019-09-11-3",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-11-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 11 septembrie 2019 privind înregistrarea temporară automată la OAMGMAMR a moașelor formate într-un alt stat membru UE, un stat SEE sau în Confederația Elvețiană care nu întrunesc criteriile de recunoaștere automată a calificării prevăzute de Directiva nr. 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale",
+"short": "Procedura OAMGMAMR din 11 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-21",
+"latest": "2019-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/218996",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2019-09-11-4",
+"path": "profesii/oamgmamr/procedura-2019-09-11-4",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-11-4",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 11 septembrie 2019 privind recunoașterea titlurilor de calificare de asistent medical dobândite într-un alt stat membru UE, într-un un stat aparținând SEE sau în Confederația Elvețiană",
+"short": "Procedura OAMGMAMR din 11 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-21",
+"latest": "2019-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/218997",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2019-09-11-5",
+"path": "profesii/oamgmamr/procedura-2019-09-11-5",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-11-5",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 11 septembrie 2019 privind recunoașterea automată a titlurilor de calificare de moașă eliberate de un alt stat membru UE, de un stat aparținând SEE sau de Confederația Elvețiană",
+"short": "Procedura OAMGMAMR din 11 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-21",
+"latest": "2019-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/218998",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2019-09-11-6",
+"path": "profesii/oamgmamr/procedura-2019-09-11-6",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-11-6",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 11 septembrie 2019 privind recunoașterea cu măsuri compensatorii a titlurilor de calificare de moașă eliberate de un alt stat membru UE, de un stat aparținând SEE sau de Confederația Elvețiană",
+"short": "Procedura OAMGMAMR din 11 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-21",
+"latest": "2019-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/218999",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2019-09-11-7",
+"path": "profesii/oamgmamr/procedura-2019-09-11-7",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-11-7",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ STANDARD din 11 septembrie 2019 privind prestarea temporară sau ocazională a serviciilor de asistent medical generalist pe teritoriul României/înregistrarea temporară automată la Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Procedura OAMGMAMR din 11 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-21",
+"latest": "2019-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/219001",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2019-09-11-8",
+"path": "profesii/oamgmamr/procedura-2019-09-11-8",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-11-8",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ STANDARD din 11 septembrie 2019 privind prestarea temporară sau ocazională a serviciilor de asistent medical pe teritoriul României/înregistrarea temporară automată la Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Procedura OAMGMAMR din 11 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-21",
+"latest": "2019-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/219002",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2019-09-11-9",
+"path": "profesii/oamgmamr/procedura-2019-09-11-9",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-11-9",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ STANDARD din 11 septembrie 2019 privind prestarea temporară sau ocazională a serviciilor de moașă pe teritoriul României/înregistrarea temporară automată la Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Procedura OAMGMAMR din 11 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-21",
+"latest": "2019-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/219003",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2019-09-11",
+"path": "profesii/oamgmamr/procedura-2019-09-11",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2019-09-11",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ din 11 septembrie 2019 privind înregistrarea temporară automată în OAMGMAMR a asistenților medicali stabiliți într-un alt stat membru UE, un stat SEE sau în Confederația Elvețiană, pe durata prestării temporare sau ocazionale a serviciilor de asistent medical pe teritoriul României",
+"short": "Procedura OAMGMAMR din 11 septembrie 2019",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-21",
+"latest": "2019-10-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/218994",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-procedura-2024-12-09",
+"path": "profesii/oamgmamr/procedura-2024-12-09",
+"kind": "profesii",
+"year": "",
+"number": "procedura-2024-12-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROCEDURĂ DE VERIFICARE din 9 decembrie 2024 de verificare a îndeplinirii celorlalte cerințe prevăzute de lege pentru exercitarea profesiei în România de către asistenții medicali generaliști, moașele și asistenții medicali formați în profesie într-un stat terț în vederea finalizării procesului de recunoaștere/echivalare a calificării de către Centrul Național de Recunoaștere și Echivalare a Diplomelor",
+"short": "Procedura OAMGMAMR din 9 decembrie 2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293484",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-regulament-2009-12-02",
+"path": "profesii/oamgmamr/regulament-2009-12-02",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2009-12-02",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 2 decembrie 2009 privind organizarea și desfășurarea activității Comisiei naționale/teritoriale de etică și deontologie a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Regulamentul OAMGMAMR din 2 decembrie 2009",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2010-01-27",
+"latest": "2010-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/115636",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-anexa-2021-07-12",
+"path": "profesii/oar/anexa-2021-07-12",
+"kind": "profesii",
+"year": "",
+"number": "anexa-2021-07-12",
+"withdrawn_by": null,
+"reason": null,
+"title": "ANEXE din 12 iulie 2021 referitoare la modulele componente ale Sistemului de informații asupra costurilor pentru proiectarea de arhitectură",
+"short": "Anexa OAR din 12 iulie 2021",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-07",
+"latest": "2022-04-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253749",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-cod-deontologic-2025-06-15",
+"path": "profesii/oar/cod-deontologic-2025-06-15",
+"kind": "profesii",
+"year": "",
+"number": "cod-deontologic-2025-06-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 15 iunie 2025 al profesiei de arhitect",
+"short": "Codul deontologic OAR din 15 iunie 2025",
+"code": "CODUL DEONTOLOGIC din 15 iunie 2025 al profesiei de arhitect",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-15",
+"latest": "2025-07-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299823",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-cod-etica-2007-07-02",
+"path": "profesii/oar/cod-etica-2007-07-02",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2007-07-02",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 2 iulie 2007 al profesiei de arhitect",
+"short": "Codul de etică OAR din 2 iulie 2007",
+"code": "CODUL DEONTOLOGIC din 2 iulie 2007 al profesiei de arhitect",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-02",
+"latest": "2007-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83308",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-cod-etica-2011-11-27",
+"path": "profesii/oar/cod-etica-2011-11-27",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2011-11-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 27 noiembrie 2011 al profesiei de arhitect",
+"short": "Codul de etică OAR din 27 noiembrie 2011",
+"code": "CODUL DEONTOLOGIC din 27 noiembrie 2011 al profesiei de arhitect",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-05-21",
+"latest": "2012-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/138151",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-regulament-2007-07-02",
+"path": "profesii/oar/regulament-2007-07-02",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2007-07-02",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 2 iulie 2007 de organizare și funcționare a Ordinului Arhitecților din România",
+"short": "Regulamentul OAR din 2 iulie 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-07-02",
+"latest": "2007-07-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/83311",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-regulament-2011-11-27-2",
+"path": "profesii/oar/regulament-2011-11-27-2",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2011-11-27-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENTUL-CADRU din 27 noiembrie 2011 privind înființarea, organizarea și funcționarea filialelor teritoriale ale Ordinului Arhitecților din România",
+"short": "Regulamentul OAR din 27 noiembrie 2011",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-05-21",
+"latest": "2012-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/138152",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-regulament-2011-11-27",
+"path": "profesii/oar/regulament-2011-11-27",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2011-11-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 27 noiembrie 2011 de organizare și funcționare a Ordinului Arhitecților din România",
+"short": "Regulamentul OAR din 27 noiembrie 2011",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2012-05-21",
+"latest": "2012-05-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/138150",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -1100,6 +5220,26 @@
 }
 },
 {
+"slug": "profesii-unbr-statut-2005-01-13",
+"path": "profesii/unbr/statut-2005-01-13",
+"kind": "profesii",
+"year": "",
+"number": "statut-2005-01-13",
+"withdrawn_by": null,
+"reason": null,
+"title": "STATUTUL PROFESIEI DE AVOCAT din 13 ianuarie 2005",
+"short": "Statutul UNBR din 13 ianuarie 2005",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2005-01-13",
+"latest": "2005-01-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/58582",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-statut",
 "path": "profesii/unbr/statut",
 "kind": "profesii",
@@ -1115,6 +5255,46 @@
 "from": "2015-11-30",
 "latest": "2024-09-13",
 "portal": "https://unbr.ro/statutul-profesiei-de-avocat-cu-modificari-si-completari-actualizat/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-statut-2001-06-12",
+"path": "profesii/unej/statut-2001-06-12",
+"kind": "profesii",
+"year": "",
+"number": "statut-2001-06-12",
+"withdrawn_by": null,
+"reason": null,
+"title": "STATUT din 2001 al Uniunii Naționale a Executorilor Judecătorești",
+"short": "Statutul UNEJ din 12 iunie 2001",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2001-06-12",
+"latest": "2001-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/28946",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-statut-2014-05-23",
+"path": "profesii/unej/statut-2014-05-23",
+"kind": "profesii",
+"year": "",
+"number": "statut-2014-05-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "STATUTUL din 23 mai 2014 Casei de Asigurări a Executorilor Judecătorești",
+"short": "Statutul UNEJ din 23 mai 2014",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-06-24",
+"latest": "2014-06-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/159247",
 "flags": {
 "amendments_checked": false
 }
@@ -1140,6 +5320,166 @@
 }
 },
 {
+"slug": "profesii-unnpr-cod-etica-2015-11-14",
+"path": "profesii/unnpr/cod-etica-2015-11-14",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2015-11-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DEONTOLOGIC din 14 noiembrie 2015 al notarilor publici din România",
+"short": "Codul de etică UNNPR din 14 noiembrie 2015",
+"code": "CODUL DEONTOLOGIC din 14 noiembrie 2015 al notarilor publici din România",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2015-12-16",
+"latest": "2015-12-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/173933",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-regulament-2014-03-14",
+"path": "profesii/unnpr/regulament-2014-03-14",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2014-03-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT-CADRU din 14 martie 2014 privind organizarea și funcționarea curților de arbitraj de pe lângă Camerele Notarilor Publici din România",
+"short": "Regulamentul UNNPR din 14 martie 2014",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-15",
+"latest": "2014-04-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157404",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-regulament-2026-02-27",
+"path": "profesii/unnpr/regulament-2026-02-27",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2026-02-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 27 februarie 2026 pentru organizarea și desfășurarea concursului de schimbare a sediilor birourilor notariale",
+"short": "Regulamentul UNNPR din 27 februarie 2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/309496",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-regulament-2026-06-12",
+"path": "profesii/unnpr/regulament-2026-06-12",
+"kind": "profesii",
+"year": "",
+"number": "regulament-2026-06-12",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 12 iunie 2026 de organizare și funcționare al Consiliului de disciplină din cadrul Uniunii Naționale a Notarilor Publici din România",
+"short": "Regulamentul UNNPR din 12 iunie 2026",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/312254",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-statut-1996-07-22",
+"path": "profesii/unnpr/statut-1996-07-22",
+"kind": "profesii",
+"year": "",
+"number": "statut-1996-07-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "STATUTUL din 1996 Uniunii Naționale a Notarilor Publici din România",
+"short": "Statutul UNNPR din 22 iulie 1996",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "1996-07-22",
+"latest": "1996-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7674",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-statut-1999-02-11",
+"path": "profesii/unnpr/statut-1999-02-11",
+"kind": "profesii",
+"year": "",
+"number": "statut-1999-02-11",
+"withdrawn_by": null,
+"reason": null,
+"title": "STATUT Uniunii Naționale a Notarilor Publici din România",
+"short": "Statutul UNNPR din 11 februarie 1999",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "1999-02-11",
+"latest": "1999-02-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16946",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-statut-2020-09-02",
+"path": "profesii/unnpr/statut-2020-09-02",
+"kind": "profesii",
+"year": "",
+"number": "statut-2020-09-02",
+"withdrawn_by": null,
+"reason": null,
+"title": "STATUTUL din 2 septembrie 2020 Institutului Notarial Român",
+"short": "Statutul UNNPR din 2 septembrie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-10",
+"latest": "2020-09-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229887",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-statut-2020-09-29",
+"path": "profesii/unnpr/statut-2020-09-29",
+"kind": "profesii",
+"year": "",
+"number": "statut-2020-09-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "STATUTUL din 29 septembrie 2020 Casei de Pensii a Notarilor Publici din România",
+"short": "Statutul UNNPR din 29 septembrie 2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-06",
+"latest": "2020-10-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230647",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unpir-cod-deontologic",
 "path": "profesii/unpir/cod-deontologic",
 "kind": "profesii",
@@ -1157,6 +5497,46 @@
 "portal": "https://www.unpir.ro/index.php/legislatie",
 "flags": {
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unpir-cod-etica-2007-09-29",
+"path": "profesii/unpir/cod-etica-2007-09-29",
+"kind": "profesii",
+"year": "",
+"number": "cod-etica-2007-09-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "CODUL DE ETICĂ din 29 septembrie 2007 profesională și disciplină al Uniunii Naționale a Practicienilor în Insolvență din România*)",
+"short": "Codul de etică UNPIR din 29 septembrie 2007",
+"code": "CODUL DE ETICĂ din 29 septembrie 2007 profesională și disciplină al Uniunii Naționale a Practicienilor în Insolvență din România*)",
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-07",
+"latest": "2007-12-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90462",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unpir-statut-2007-09-29",
+"path": "profesii/unpir/statut-2007-09-29",
+"kind": "profesii",
+"year": "",
+"number": "statut-2007-09-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "STATUT din 29 septembrie 2007 de organizare și funcționare al Uniunii Naționale a Practicienilor în Insolvență din România*)",
+"short": "Statutul UNPIR din 29 septembrie 2007",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2007-12-07",
+"latest": "2007-12-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90461",
+"flags": {
 "amendments_checked": false
 }
 },

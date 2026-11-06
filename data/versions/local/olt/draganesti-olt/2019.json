@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/draganesti-olt/2019",
+ "acts": [
+  {
+   "slug": "hcl-olt--draganesti-olt-120-2019",
+   "path": "local/olt/draganesti-olt/2019/120",
+   "short": "HCL Drăgănești-Olt nr. 120/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 120/2019 privind aprobarea regulamentului revizuit de organizare si functionare al CL",
+   "url": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2020/",
+   "versions": [
+    {
+     "from": "2019-11-12",
+     "units": 1,
+     "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-20-din-31.03.2020-completarea-hcl-nr-120-din-12.11.2019-privind-aprobarea-regulamentului-revizuit-de-organizare-si-functionare-al-CL.pdf",
+     "sha256": "498c0e959ed1a5dbbcd45ed8681f66dd7f11bafac4eacc8a7c4997107a084461"
+    }
+   ]
+  }
+ ]
+}

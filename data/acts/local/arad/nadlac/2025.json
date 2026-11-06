@@ -1,0 +1,52 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2025",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-11-2025",
+"path": "local/arad/nadlac/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2025 privind reorganizarea Comisiei locale de ordine publică la nivelul orașului Nădlac",
+"short": "HCL Nădlac nr. 11/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2025/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-50-2025",
+"path": "local/arad/nadlac/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 50/2025",
+"short": "HCL Nădlac nr. 50/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"title_withheld": "personal_data",
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

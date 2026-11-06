@@ -3,6 +3,1116 @@
  "shard": "profesii/2012",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2012-1",
+   "path": "profesii/cafr/hotarare/2012/1",
+   "short": "Hotărârea CAFR nr. 1/2012",
+   "title": "HOTĂRÂRE nr. 1 din 21 aprilie 2012 cu privire la aprobarea materialelor prezentate în cadrul Conferinței ordinare a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137542",
+   "versions": [
+    {
+     "from": "2012-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137542",
+     "sha256": "641b22673d818729e66e7706b2b234a3fa6a4481383f410cd44115f325b0a098"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-16",
+   "path": "profesii/cafr/hotarare/2012/16",
+   "short": "Hotărârea CAFR nr. 16/2012",
+   "title": "HOTĂRÂRE nr. 16 din 29 martie 2012 pentru aprobarea Normelor privind atribuirea calității de membru, înscrierea, evidența, retragerea și suspendarea persoanelor fizice și autorizarea, înscrierea, evidența, retragerea și suspendarea persoanelor juridice în și din Registrul public al auditorilor financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140208",
+   "versions": [
+    {
+     "from": "2012-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140208",
+     "sha256": "973811f21eb5160871e08269fe5f84decfc1fe4fa5e76ac847a3c1a97f22c320"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-18",
+   "path": "profesii/cafr/hotarare/2012/18",
+   "short": "Hotărârea CAFR nr. 18/2012",
+   "title": "HOTĂRÂRE nr. 18 din 28 iunie 2012 pentru modificarea și completarea Normelor privind perioada de pregătire profesională practică a stagiarilor în activitatea de audit financiar, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 212/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139807",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139807",
+     "sha256": "5aceb46c8f08478ee3ea90da6c96f16c1fd68e70f42e0812c274267302735c0b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-19",
+   "path": "profesii/cafr/hotarare/2012/19",
+   "short": "Hotărârea CAFR nr. 19/2012",
+   "title": "HOTĂRÂRE nr. 19 din 28 iunie 2012 privind aprobarea Regulamentului de organizare și desfășurare a examenului de competență profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141666",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141666",
+     "sha256": "6022fc591f225d70543301c6e1c0aa6ad90639aa2ff982869c05ef60bce9be5d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-20",
+   "path": "profesii/cafr/hotarare/2012/20",
+   "short": "Hotărârea CAFR nr. 20/2012",
+   "title": "HOTĂRÂRE nr. 20 din 28 iunie 2012 privind aprobarea Listei cuprinzând auditorii financiari care au fost autorizați în alte state membre ale Uniunii Europene sau aparținând Spațiului Economic European ori Confederației Elvețiene și care au dobândit calitatea și dreptul de exercitare a profesiei de auditor financiar în România în urma testului de aptitudini organizat în data de 7 iunie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139804",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139804",
+     "sha256": "d5a0f123e6ec6e30f7aab590a67c4a9e1490543932942833ead708154d96a3a3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-35",
+   "path": "profesii/cafr/hotarare/2012/35",
+   "short": "Hotărârea CAFR nr. 35/2012",
+   "title": "HOTĂRÂRE nr. 35 din 19 septembrie 2012 pentru modificarea Procedurilor privind acordarea de excepții de la vechimea în activitatea financiar-contabilă și de la testul de cunoștințe în domeniul financiar-contabil, pentru accesul la stagiu, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 265/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141684",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141684",
+     "sha256": "f372be8c51db5dc973243298f5e372e3d2df4087e389ac0db661d42d6c864ccc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-38",
+   "path": "profesii/cafr/hotarare/2012/38",
+   "short": "Hotărârea CAFR nr. 38/2012",
+   "title": "HOTĂRÂRE nr. 38 din 19 septembrie 2012 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 262/2011 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141690",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141690",
+     "sha256": "7020ff6c3a217da96bd0d911fef160a33ee4a935b9f6980988aa6d0bfc86ea73"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-50",
+   "path": "profesii/cafr/hotarare/2012/50",
+   "short": "Hotărârea CAFR nr. 50/2012",
+   "title": "HOTĂRÂRE nr. 50 din 22 noiembrie 2012 pentru aprobarea Normelor privind aplicarea art. 17 alin. (2) lit. c) din Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 168/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146124",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146124",
+     "sha256": "d218fc2caaf5f572652a30e1942a4f82ad496d9c8a2bcaff7601e5c9b6aa5b8c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-52",
+   "path": "profesii/cafr/hotarare/2012/52",
+   "short": "Hotărârea CAFR nr. 52/2012",
+   "title": "HOTĂRÂRE nr. 52 din 22 noiembrie 2012 privind aprobarea Listei cuprinzând auditorii financiari care au fost autorizați în alte state membre ale Uniunii Europene sau aparținând Spațiului Economic European ori Confederației Elvețiene care au dobândit calitatea și dreptul de exercitare a profesiei de auditor financiar în România, în urma testului de aptitudini organizat în data de 19 noiembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144278",
+   "versions": [
+    {
+     "from": "2013-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144278",
+     "sha256": "5d062bc5b497105214e50a6135a1ba6eddb63295131e516b6e753e03539c7d6f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-53",
+   "path": "profesii/cafr/hotarare/2012/53",
+   "short": "Hotărârea CAFR nr. 53/2012",
+   "title": "HOTĂRÂRE nr. 53 din 22 noiembrie 2012 pentru aprobarea Procedurilor privind echivalarea testului de verificare a cunoștințelor în domeniul financiar-contabil, pentru accesul la stagiu în baza titlului de doctor în domeniul contabilității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143527",
+   "versions": [
+    {
+     "from": "2012-12-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143527",
+     "sha256": "293ac7ec1cb9fb97d5ebc43a8b51fd715a34ed2192c2638b7b9c42f377bd33f0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2012-54",
+   "path": "profesii/cafr/hotarare/2012/54",
+   "short": "Hotărârea CAFR nr. 54/2012",
+   "title": "HOTĂRÂRE nr. 54 din 22 noiembrie 2012 pentru aprobarea modelului Notei de inspecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146194",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146194",
+     "sha256": "126ca52ea979338d85dfa28e3a7122462655cdeed0bd811e93adacf7f12a3265"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2012-15",
+   "path": "profesii/ccf/hotarare/2012/15",
+   "short": "Hotărârea CCF nr. 15/2012",
+   "title": "HOTĂRÂRE nr. 15 din 20 noiembrie 2012 pentru aprobarea Normelor procedurale privind modificarea stării consultantului fiscal, suspendarea, încetarea și redobândirea calității de membru al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144201",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144201",
+     "sha256": "f91528fc7a6d163d6c363e35410fa81991faa7adbbc81eb3ac3a171237053919"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2012-2",
+   "path": "profesii/ccf/hotarare/2012/2",
+   "short": "Hotărârea CCF nr. 2/2012",
+   "title": "HOTĂRÂRE nr. 2 din 11 ianuarie 2012 privind aprobarea nivelului taxei de înscriere la examenul de atribuire a calității de consultant fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134598",
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134598",
+     "sha256": "917e648ede2e0201081b91e20d5f9e8f84ae1f1dac190a750d6f69b2461c7548"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2012-3",
+   "path": "profesii/ccf/hotarare/2012/3",
+   "short": "Hotărârea CCF nr. 3/2012",
+   "title": "HOTĂRÂRE nr. 3 din 11 ianuarie 2012 privind modalitatea și termenele de plată a cotizațiilor fixe în anul 2012 și a cotizațiilor variabile datorate de consultanții fiscali pentru veniturile realizate în anul 2011 și depunerea declarațiilor în anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134603",
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134603",
+     "sha256": "cb8053debb580077bae105f423e4b3fa328ed66f8981dcb25ec820449b939786"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2012-7",
+   "path": "profesii/ccf/hotarare/2012/7",
+   "short": "Hotărârea CCF nr. 7/2012",
+   "title": "HOTĂRÂRE nr. 7 din 15 martie 2012 pentru aprobarea Normelor privind instituirea măsurilor de prevenire și combatere a spălării banilor și a finanțării actelor de terorism prin intermediul activității de consultanță fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136774",
+   "versions": [
+    {
+     "from": "2012-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136774",
+     "sha256": "ab164cf07f41dd5a0ea01633762a7d563078194a9de429804303e0ab4a6560fb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2012-10",
+   "path": "profesii/ccf/hotarare-conferinta/2012/10",
+   "short": "Hotărârea CCF nr. 10/2012",
+   "title": "HOTĂRÂRE nr. 10 din 2 mai 2012 privind aprobarea documentelor prezentate spre dezbatere și alegerea membrilor Consiliului superior al Camerei Consultanților Fiscali, Comisiei de auditori statutari și Comisiei de apel în Conferința anuală ordinară a Camerei Consultanților Fiscali din 29 aprilie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137698",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137698",
+     "sha256": "34276aea61f108ad0f88ea8a4bbc0fdb292f041477937c748813825b7ff69141"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2012-11",
+   "path": "profesii/ccf/hotarare-consiliu/2012/11",
+   "short": "Hotărârea CCF nr. 11/2012",
+   "title": "HOTĂRÂRE nr. 11 din 31 mai 2012 privind susținerea examenului de atribuire a calității de consultant fiscal - sesiunea iulie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138559",
+   "versions": [
+    {
+     "from": "2012-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138559",
+     "sha256": "1240904b06fada196b9bd4ec8409ae8e18e43d3b924ef5787928f254cc8c163a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2012-12",
+   "path": "profesii/ccf/hotarare-consiliu/2012/12",
+   "short": "Hotărârea CCF nr. 12/2012",
+   "title": "HOTĂRÂRE nr. 12 din 18 octombrie 2012 privind susținerea examenului pentru atribuirea calității de consultant fiscal - sesiunea noiembrie 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142193",
+   "versions": [
+    {
+     "from": "2012-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142193",
+     "sha256": "1d062668900e58e4e2e384a96156ff5d864ce34fb35f57f42cb9a93f9426c44d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2012-8",
+   "path": "profesii/ccf/hotarare-consiliu/2012/8",
+   "short": "Hotărârea CCF nr. 8/2012",
+   "title": "HOTĂRÂRE nr. 8 din 26 martie 2012 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136641",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136641",
+     "sha256": "110a726889cd0d7bc620467bab68bd94a7d8dee23369cc6e66eff01134ad4b86"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2012-1",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2012/1",
+   "short": "Hotărârea CCF nr. 1/2012",
+   "title": "HOTĂRÂRE nr. 1 din 11 ianuarie 2012 privind aprobarea nivelului taxei de înscriere în evidențele Camerei Consultanților Fiscali pentru anul 2012 și a nivelului taxei de autorizare a societăților comerciale de consultanță fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134597",
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134597",
+     "sha256": "d2bfb4c3dd4c9bbab3594edfb10afb33a32faca4917d3dbdb7b583290ec30e85"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2012-13",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2012/13",
+   "short": "Hotărârea CCF nr. 13/2012",
+   "title": "HOTĂRÂRE nr. 13 din 18 octombrie 2012 privind aprobarea Regulamentului de organizare și funcționare al Comitetului pentru probleme profesionale al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144014",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144014",
+     "sha256": "a8714ec9e83211304e56260f1ca577dadaaf4cc6c40c9c6637a61ab091e60fa8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2012-14",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2012/14",
+   "short": "Hotărârea CCF nr. 14/2012",
+   "title": "HOTĂRÂRE nr. 14 din 18 octombrie 2012 privind aprobarea Regulamentului de organizare și funcționare al Comitetului Fiscal al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144017",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144017",
+     "sha256": "510f02b0c22a7f16ef6963198b5eb3d60361978aa3f92dcad0a9fce16224413f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2012-4",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2012/4",
+   "short": "Hotărârea CCF nr. 4/2012",
+   "title": "HOTĂRÂRE nr. 4 din 23 februarie 2012 pentru modificarea art. 13 din Normele privind pregătirea profesională continuă a consultanților fiscali, aprobate prin Hotărârea Camerei Consultanților Fiscali nr. 7/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135884",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135884",
+     "sha256": "eb85d7fade1010542ef14249f3517cc56c679a8cb49ca5a11e45983c9ecebc47"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2012-9",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2012/9",
+   "short": "Hotărârea CCF nr. 9/2012",
+   "title": "HOTĂRÂRE nr. 9 din 28 martie 2012 privind aprobarea Regulamentului pentru organizarea și desfășurarea alegerilor pentru Consiliul superior al Camerei Consultanților Fiscali, Comisia de auditori statutari și Comisia de apel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136831",
+   "versions": [
+    {
+     "from": "2012-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136831",
+     "sha256": "95be0fca014636b4978416b6b61cafde207e553c9b94758caf4c36bb33829127"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2012-4",
+   "path": "profesii/cfr/decizie-consiliu-national/2012/4",
+   "short": "Decizia CFR nr. 4/2012",
+   "title": "DECIZIE nr. 4 din 10 septembrie 2012 privind aprobarea procedurii și criteriilor pentru acordarea unui sprijin financiar colegiilor teritoriale ale farmaciștilor în vederea achiziționării unui imobil cu destinația de sediu social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141276",
+   "versions": [
+    {
+     "from": "2012-09-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141276",
+     "sha256": "38f018ef2422991048d62c14f21843041a6aa9084dea0ebe653d680e5a304c3c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2012-7",
+   "path": "profesii/cfr/decizie-consiliu-national/2012/7",
+   "short": "Decizia CFR nr. 7/2012",
+   "title": "DECIZIE nr. 7 din 25 octombrie 2012 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 1/2011 privind aprobarea procedurilor de evaluare a farmaciilor cu privire la respectarea Regulilor de bună practică farmaceutică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143348",
+   "versions": [
+    {
+     "from": "2012-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143348",
+     "sha256": "ada7cfc04ed48a6a8d86122c1fb1aaf4dbe542feebb2da2566d8e50467eb2bac"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2012-15",
+   "path": "profesii/cmdr/decizie/2012/15",
+   "short": "Decizia CMDR nr. 15/2012",
+   "title": "DECIZIE nr. 15 din 21 ianuarie 2012 privind componența Comisiei superioare de disciplină a Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135524",
+   "versions": [
+    {
+     "from": "2012-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135524",
+     "sha256": "b71d3b78777aaa20d2ecc75739b7ef9d71bb6959625afd5edb59fe9c340580bb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2012-16",
+   "path": "profesii/cmdr/decizie/2012/16",
+   "short": "Decizia CMDR nr. 16/2012",
+   "title": "DECIZIE nr. 16 din 21 ianuarie 2012 privind modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 16/2006 privind eliberarea Certificatului de membru al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135525",
+   "versions": [
+    {
+     "from": "2012-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135525",
+     "sha256": "701e5a5d72279fc80bb4b36a1c5f0d2c03980f7e596d4353133c18a74e30b0a8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2012-70",
+   "path": "profesii/cmdr/decizie/2012/70",
+   "short": "Decizia CMDR nr. 70/2012",
+   "title": "DECIZIE nr. 70 din 29 septembrie 2012 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 15/2012 privind componența Comisiei superioare de disciplină a Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141997",
+   "versions": [
+    {
+     "from": "2012-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141997",
+     "sha256": "75c93d6a7029ae21d314e0d8dc2c3aa41aebef7f712b9ae6dff4efeec606ecb6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2012-71",
+   "path": "profesii/cmdr/decizie/2012/71",
+   "short": "Decizia CMDR nr. 71/2012",
+   "title": "DECIZIE nr. 71 din 29 septembrie 2012 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 16/2006 privind eliberarea Certificatului de membru al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142552",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142552",
+     "sha256": "6d106ac8016faf6d3ee1c1c1f356483a980e48ddc4790028df818cd12a263bf4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-2012-29",
+   "path": "profesii/cmdr/decizie-consiliu/2012/29",
+   "short": "Decizia CMDR nr. 29/2012",
+   "title": "DECIZIE nr. 29 din 31 martie 2012 privind calendarul alegerilor parțiale pentru funcția de vicepreședinte al Biroului executiv național al Colegiului Medicilor Dentiști din România și pentru aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137463",
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137463",
+     "sha256": "a51a2cf546512ea93f83a540bdb1bc4cf798646f98c88c59e35c770d3345d63d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2012-21",
+   "path": "profesii/cmdr/decizie-consiliu-national/2012/21",
+   "short": "Decizia CMDR nr. 21/2012",
+   "title": "DECIZIE nr. 21 din 11 februarie 2012 pentru completarea anexei nr. 1 la Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 58/2011 privind organizarea sistemului de educație medicală continuă pentru medicii dentiști și pentru aprobarea Regulamentului de educație medicală continuă al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135471",
+   "versions": [
+    {
+     "from": "2012-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135471",
+     "sha256": "87519591a44fd4d38a5f28c272f9b7aaf4e9ef67c4d667a541f01cbfa0bc1b30"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2012-49",
+   "path": "profesii/cmdr/decizie-consiliu-national/2012/49",
+   "short": "Decizia CMDR nr. 49/2012",
+   "title": "DECIZIE nr. 49 din 30 iunie 2012 privind aprobarea competențelor medicului dentist, inclusiv ale medicului specialist și ale medicului primar în stomatologie generală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139632",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139632",
+     "sha256": "e5d01afa613e7f0bd7e87da4fc0fa9b1ed6ce120f51790f724115d308ab33203"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2012-50",
+   "path": "profesii/cmdr/decizie-consiliu-national/2012/50",
+   "short": "Decizia CMDR nr. 50/2012",
+   "title": "DECIZIE nr. 50 din 30 iunie 2012 privind aprobarea competențelor medicului specialist și ale medicului primar în chirurgia dento-alveolară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139616",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139616",
+     "sha256": "2d030d653d89669f42151307cdc2823b5164f22df1d98d5cd97286588ad71a85"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2012-51",
+   "path": "profesii/cmdr/decizie-consiliu-national/2012/51",
+   "short": "Decizia CMDR nr. 51/2012",
+   "title": "DECIZIE nr. 51 din 30 iunie 2012 privind aprobarea competențelor medicului specialist și ale medicului primar în chirurgia oro-maxilo-facială cu dublă licență (medicină dentară și medicină generală) sau absolvenți ai facultăților de medicină dentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139624",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139624",
+     "sha256": "b20e877da120f8418432285cb03b738254466957690b59075eef8c77de17477c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2012-52",
+   "path": "profesii/cmdr/decizie-consiliu-national/2012/52",
+   "short": "Decizia CMDR nr. 52/2012",
+   "title": "DECIZIE nr. 52 din 30 iunie 2012 privind aprobarea competențelor medicului specialist și ale medicului primar în ortodonție și ortopedie dento-facială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139625",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139625",
+     "sha256": "b651817ad8b1791533e2a8a8aa0067ac89934258c9dc100d0b62603d3c3f1c38"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2012-53",
+   "path": "profesii/cmdr/decizie-consiliu-national/2012/53",
+   "short": "Decizia CMDR nr. 53/2012",
+   "title": "DECIZIE nr. 53 din 30 iunie 2012 privind aprobarea competențelor medicului specialist și ale medicului primar în parodontologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139704",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139704",
+     "sha256": "55accd4546a9431eca77add9496bde0c58b1715da57cdbfccd576e0144a4e2d5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2012-54",
+   "path": "profesii/cmdr/decizie-consiliu-national/2012/54",
+   "short": "Decizia CMDR nr. 54/2012",
+   "title": "DECIZIE nr. 54 din 30 iunie 2012 privind aprobarea competențelor medicului specialist și ale medicului primar în endodonție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139705",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139705",
+     "sha256": "ce9aaa5bda3c7304fd63a19eeca221f475f0b42c4a29efd13de2e1ec734aa804"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2012-55",
+   "path": "profesii/cmdr/decizie-consiliu-national/2012/55",
+   "short": "Decizia CMDR nr. 55/2012",
+   "title": "DECIZIE nr. 55 din 30 iunie 2012 pentru modificarea anexei la Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 10/2007 privind conținutul minim al trusei de urgență pentru cabinetul de medicină dentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139713",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139713",
+     "sha256": "c5dac8692b8d55aeb3a6a0e4463652d785c4d2170da48220c18d5d7e43c10885"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2012-57",
+   "path": "profesii/cmdr/decizie-consiliu-national/2012/57",
+   "short": "Decizia CMDR nr. 57/2012",
+   "title": "DECIZIE nr. 57 din 30 iunie 2012 privind aprobarea competențelor medicului specialist și ale medicului primar în protetica dentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139877",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139877",
+     "sha256": "f34b54e9102f203f3fbbcef8d414ef909b686af770cf01cf75cc847ab3a273bf"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2012-4",
+   "path": "profesii/cmr/decizie/2012/4",
+   "short": "Decizia CMR nr. 4/2012",
+   "title": "DECIZIE nr. 4 din 28 martie 2012 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 1/2009 privind eliberarea certificatului de membru al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137378",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137378",
+     "sha256": "c6164b37b20820e0663518cbe0f53c09179200edef40cf91c17c4beecd696545"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-hotarare-adunare-generala-2012-2",
+   "path": "profesii/cmr/hotarare-adunare-generala/2012/2",
+   "short": "Hotărârea CMR nr. 2/2012",
+   "title": "HOTĂRÂRE nr. 2 din 30 martie 2012 privind adoptarea Statutului și a Codului de deontologie medicală ale Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137608",
+   "versions": [
+    {
+     "from": "2012-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137608",
+     "sha256": "a33ec43c28b9ce35cc7a77823d7cfb317f4c399da39e0564b0352042f51b2d3d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-dispozitie-2012-1",
+   "path": "profesii/cpr/dispozitie/2012/1",
+   "short": "Dispoziția CPR nr. 1/2012",
+   "title": "DISPOZIȚIE nr. 1 din 11 ianuarie 2012 privind evidența profesională a psihologilor cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135014",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135014",
+     "sha256": "81b9cc5115d167840881c3fbfab8937f96a38e5c01778649b7151f6f67e58bad"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2012-1",
+   "path": "profesii/cpr/hotarare-comitet-director/2012/1",
+   "short": "Hotărârea CPR nr. 1/2012",
+   "title": "Hotărârea CPR nr. 1/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137700",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137700",
+     "sha256": "368634c80477adaf3464f96700b3d3eab74e77698c1a7fb2c1768f07e743efbb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2012-1095",
+   "path": "profesii/csm/hotarare-consiliu/2012/1095",
+   "short": "Hotărârea CSM nr. 1095/2012",
+   "title": "HOTĂRÂRE nr. 1.095 din 28 noiembrie 2012 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului ori examenului pentru definitivare în funcție, promovare în grade sau trepte profesionale superioare ori din funcția de grefier cu studii medii în cea de grefier cu studii superioare, în cadrul aceleiași instanțe sau aceluiași parchet, precum și în funcții de execuție a personalului auxiliar de specialitate la instanțe și parchete superioare, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 181/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144184",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144184",
+     "sha256": "16f836576ab6fc981399d5c1b961a3cab4427d3c8021d505b4261f75e1ddd034"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2012-994",
+   "path": "profesii/csm/hotarare-consiliu/2012/994",
+   "short": "Hotărârea CSM nr. 994/2012",
+   "title": "HOTĂRÂRE nr. 994 din 23 octombrie 2012 pentru completarea Regulamentului privind organizarea și desfășurarea concursului sau examenului pentru definitivare în funcție, promovare în grade sau trepte profesionale superioare ori din funcția de grefier cu studii medii în cea de grefier cu studii superioare, în cadrul aceleiași instanțe ori aceluiași parchet, precum și în funcții de execuție a personalului auxiliar de specialitate la instanțe și parchete superioare, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 181/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142571",
+   "versions": [
+    {
+     "from": "2012-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142571",
+     "sha256": "cf99c6f1f5a663f9a6f61f9fbcbdad67acdfe7f2bd5e6b88af331541e38fc35b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-1027",
+   "path": "profesii/csm/hotarare-plen/2012/1027",
+   "short": "Hotărârea CSM nr. 1027/2012",
+   "title": "HOTĂRÂRE nr. 1.027 din 15 noiembrie 2012 pentru aprobarea Regulamentului privind normele pentru efectuarea lucrărilor de inspecție de către Inspecția Judiciară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143273",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143273",
+     "sha256": "f5a25e167d7792a4f7bb9c9b04eb84b0a281438570e0f204bfd195908ac71a61"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-1061",
+   "path": "profesii/csm/hotarare-plen/2012/1061",
+   "short": "Hotărârea CSM nr. 1061/2012",
+   "title": "HOTĂRÂRE nr. 1.061 din 15 noiembrie 2012 pentru modificarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143177",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143177",
+     "sha256": "fcae6b59d8fb49a0dc077da331549d0b70138df75bffceb8e36d8f7078939ce3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-1093",
+   "path": "profesii/csm/hotarare-plen/2012/1093",
+   "short": "Hotărârea CSM nr. 1093/2012",
+   "title": "HOTĂRÂRE nr. 1.093 din 28 noiembrie 2012 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005 , și pentru modificarea Hotărârii Plenului Consiliului Superior al Magistraturii nr. 637/2012 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144187",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144187",
+     "sha256": "8b570fd5ea3d6a2a6c54421c3a062ed4ded3f334744ea1c23025ba9a485712d9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-1094",
+   "path": "profesii/csm/hotarare-plen/2012/1094",
+   "short": "Hotărârea CSM nr. 1094/2012",
+   "title": "HOTĂRÂRE nr. 1.094 din 28 noiembrie 2012 pentru completarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144340",
+   "versions": [
+    {
+     "from": "2013-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144340",
+     "sha256": "f95234cf73d87af77253674045ef2c4ad7cf90cbb3e1ae019ca02007cf9a2f3a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-1130",
+   "path": "profesii/csm/hotarare-plen/2012/1130",
+   "short": "Hotărârea CSM nr. 1130/2012",
+   "title": "HOTĂRÂRE nr. 1.130 din 13 decembrie 2012 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 74/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144209",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144209",
+     "sha256": "b2e3f2f501b5c096da08ebcdfd6c1a1d37f54c6f9942fa9de4808a94eddc59c1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-1132",
+   "path": "profesii/csm/hotarare-plen/2012/1132",
+   "short": "Hotărârea CSM nr. 1132/2012",
+   "title": "HOTĂRÂRE nr. 1.132 din 13 decembrie 2012 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144188",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144188",
+     "sha256": "e826a0032b7eec43d2ed3eb5f92377b56ce8cf657d619130c66cb5d4260692d3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-1171",
+   "path": "profesii/csm/hotarare-plen/2012/1171",
+   "short": "Hotărârea CSM nr. 1171/2012",
+   "title": "HOTĂRÂRE nr. 1.171 din 13 decembrie 2012 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de ocupare a posturilor vacante de grefier la instanțele judecătorești și la parchetele de pe lângă acestea, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 126/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144185",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144185",
+     "sha256": "82b93b42786f0a36601045cd44bc2df038d8456eef3eb1a712f847e194810355"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-144",
+   "path": "profesii/csm/hotarare-plen/2012/144",
+   "short": "Hotărârea CSM nr. 144/2012",
+   "title": "HOTĂRÂRE nr. 144 din 1 martie 2012 pentru modificarea Regulamentului privind evaluarea activității profesionale a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 676/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136572",
+   "versions": [
+    {
+     "from": "2012-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136572",
+     "sha256": "3fb39f907faf32c6b8e166b8bc610705f30b9942ce6970911058d3a4dcb80b01"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-159",
+   "path": "profesii/csm/hotarare-plen/2012/159",
+   "short": "Hotărârea CSM nr. 159/2012",
+   "title": "HOTĂRÂRE nr. 159 din 9 martie 2012 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcție a inspectorului-șef și a inspectorului-șef adjunct ai Inspecției Judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136348",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136348",
+     "sha256": "d61fcd3591821cfba06e5d1de0bfa4ae4e939ef2378ea1690bcdd309401556c8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-277",
+   "path": "profesii/csm/hotarare-plen/2012/277",
+   "short": "Hotărârea CSM nr. 277/2012",
+   "title": "HOTĂRÂRE nr. 277 din 5 aprilie 2012 pentru abrogarea art. 29 din Regulamentul privind organizarea și desfășurarea concursului pentru numirea în funcție a inspectorului-șef și a inspectorului-șef adjunct ai Inspecției Judiciare, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 159/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137123",
+   "versions": [
+    {
+     "from": "2012-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137123",
+     "sha256": "24adbc3517c7e5622f99ffea1e7866bd2953b208ac80c5230eccaaabadc30cbf"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-278",
+   "path": "profesii/csm/hotarare-plen/2012/278",
+   "short": "Hotărârea CSM nr. 278/2012",
+   "title": "HOTĂRÂRE nr. 278 din 5 aprilie 2012 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137249",
+   "versions": [
+    {
+     "from": "2012-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137249",
+     "sha256": "dc1db76f604b7f89105c50463eebe825d3380d0fdb3d9a4e9bc9e59aeded7a4c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-279",
+   "path": "profesii/csm/hotarare-plen/2012/279",
+   "short": "Hotărârea CSM nr. 279/2012",
+   "title": "HOTĂRÂRE nr. 279 din 5 aprilie 2012 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137232",
+   "versions": [
+    {
+     "from": "2012-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137232",
+     "sha256": "f36e11cc467aa75518216dc52def717d7324fee6ee318d0b796fc0cd8000346b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-49",
+   "path": "profesii/csm/hotarare-plen/2012/49",
+   "short": "Hotărârea CSM nr. 49/2012",
+   "title": "HOTĂRÂRE nr. 49 din 19 ianuarie 2012 pentru modificarea Regulamentului privind concediile personalului auxiliar de specialitate și personalului conex din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 186/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135043",
+   "versions": [
+    {
+     "from": "2012-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135043",
+     "sha256": "ffa8f36df1b9c56883a1baecb2ae00bb12ae1bdd2afac27ee9b0c908aec8d6e5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-513",
+   "path": "profesii/csm/hotarare-plen/2012/513",
+   "short": "Hotărârea CSM nr. 513/2012",
+   "title": "HOTĂRÂRE nr. 513 din 14 iunie 2012 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138887",
+   "versions": [
+    {
+     "from": "2012-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138887",
+     "sha256": "f5063f01e6de07b2b2eac5b796da37c0f264795ad4fcbe24c788513ae1bdd843"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-514",
+   "path": "profesii/csm/hotarare-plen/2012/514",
+   "short": "Hotărârea CSM nr. 514/2012",
+   "title": "HOTĂRÂRE nr. 514 din 14 iunie 2012 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 279/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138889",
+   "versions": [
+    {
+     "from": "2012-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138889",
+     "sha256": "b1e76ca2c3de9ee819e76bdb7e0f49052930f9b36a6add41dd7c3e0daac0a3e5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-515",
+   "path": "profesii/csm/hotarare-plen/2012/515",
+   "short": "Hotărârea CSM nr. 515/2012",
+   "title": "HOTĂRÂRE nr. 515 din 14 iunie 2012 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138890",
+   "versions": [
+    {
+     "from": "2012-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138890",
+     "sha256": "446703a340c85950204719a4c2771c7fc0a7fb0460950d76d7b202e91de61d15"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-580",
+   "path": "profesii/csm/hotarare-plen/2012/580",
+   "short": "Hotărârea CSM nr. 580/2012",
+   "title": "HOTĂRÂRE nr. 580 din 26 iunie 2012 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 74/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139610",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139610",
+     "sha256": "b14408b4631479c8e5643bf69327189dc822b786c10196a3110db20f05186c4d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-609",
+   "path": "profesii/csm/hotarare-plen/2012/609",
+   "short": "Hotărârea CSM nr. 609/2012",
+   "title": "HOTĂRÂRE nr. 609 din 10 iulie 2012 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139601",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139601",
+     "sha256": "0ba99cf40406fdba88693b05a0cab06f40166774eadfda842d18b7584933d7df"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-610",
+   "path": "profesii/csm/hotarare-plen/2012/610",
+   "short": "Hotărârea CSM nr. 610/2012",
+   "title": "HOTĂRÂRE nr. 610 din 10 iulie 2012 pentru modificarea și completarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139586",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139586",
+     "sha256": "2f245a1b71b1168985152c509dc5754fe21a6b8c9f7c37785c92be42bb9a4031"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-637",
+   "path": "profesii/csm/hotarare-plen/2012/637",
+   "short": "Hotărârea CSM nr. 637/2012",
+   "title": "HOTĂRÂRE nr. 637 din 18 iulie 2012 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140353",
+   "versions": [
+    {
+     "from": "2013-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140353",
+     "sha256": "43e13a638927a9b1ca2507b429eb8b0eee3aadc9b72764892e3fdfde37757ae2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-74",
+   "path": "profesii/csm/hotarare-plen/2012/74",
+   "short": "Hotărârea CSM nr. 74/2012",
+   "title": "HOTĂRÂRE nr. 74 din 31 ianuarie 2012 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135389",
+   "versions": [
+    {
+     "from": "2012-02-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135389",
+     "sha256": "b9a5c6e051f40ffe1840a2cb3baf49926c4c42d6c822f945f630bf5be43946d0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-781",
+   "path": "profesii/csm/hotarare-plen/2012/781",
+   "short": "Hotărârea CSM nr. 781/2012",
+   "title": "HOTĂRÂRE nr. 781 din 5 septembrie 2012 pentru completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141306",
+   "versions": [
+    {
+     "from": "2012-09-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141306",
+     "sha256": "eb2ae842c1cdd7e7e060f32cb49eae55338102e58a27587c3e17049583724ead"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-799",
+   "path": "profesii/csm/hotarare-plen/2012/799",
+   "short": "Hotărârea CSM nr. 799/2012",
+   "title": "HOTĂRÂRE nr. 799 din 18 septembrie 2012 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 621/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141912",
+   "versions": [
+    {
+     "from": "2012-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141912",
+     "sha256": "4bf6f634617d5d3ecb8ffbfd68e2a9e6ea7a2ec6742773062625a6089d93e260"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-801",
+   "path": "profesii/csm/hotarare-plen/2012/801",
+   "short": "Hotărârea CSM nr. 801/2012",
+   "title": "HOTĂRÂRE nr. 801 din 18 septembrie 2012 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcție a inspectorilor judiciari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141629",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141629",
+     "sha256": "a9c33ae980d5ba5a3feda141b29e97ae427b210d91688ca5c886e8551e45b292"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-803",
+   "path": "profesii/csm/hotarare-plen/2012/803",
+   "short": "Hotărârea CSM nr. 803/2012",
+   "title": "HOTĂRÂRE nr. 803 din 18 septembrie 2012 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de grefieri informaticieni din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 184/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141631",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141631",
+     "sha256": "722196346c84de1c2f34cba9aa0a00b9dc86c0ddcb9de5b3775f7a6b0a4578d3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-819",
+   "path": "profesii/csm/hotarare-plen/2012/819",
+   "short": "Hotărârea CSM nr. 819/2012",
+   "title": "HOTĂRÂRE nr. 819 din 18 septembrie 2012 pentru completarea Regulamentului privind modul de organizare și desfășurare a concursului pentru recrutarea grefierilor arhivari, a grefierilor registratori și a personalului conex, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 185/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141996",
+   "versions": [
+    {
+     "from": "2012-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141996",
+     "sha256": "bdb702046f7ebc2e0b527c22c8b0b04b9a52642fcd6475f5b709697418133450"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-911",
+   "path": "profesii/csm/hotarare-plen/2012/911",
+   "short": "Hotărârea CSM nr. 911/2012",
+   "title": "HOTĂRÂRE nr. 911 din 8 octombrie 2012 pentru modificarea și completarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142676",
+   "versions": [
+    {
+     "from": "2012-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142676",
+     "sha256": "ec389b8db1a15168de6529beddf8afdc86332b28675b27ef2d8bd8c873c894ae"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2012-975",
+   "path": "profesii/csm/hotarare-plen/2012/975",
+   "short": "Hotărârea CSM nr. 975/2012",
+   "title": "HOTĂRÂRE nr. 975 din 23 octombrie 2012 pentru modificarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143176",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143176",
+     "sha256": "0cb500e83886585583a46e4c27920d5d8c16362b9ec932485ede6c9e3f25da66"
+    }
+   ]
+  },
+  {
    "slug": "profesii-inppa-hotarare-consiliu-2012-13",
    "path": "profesii/inppa/hotarare-consiliu/2012/13",
    "short": "INPPA hotarare-consiliu 13/2012",
@@ -74,6 +1184,96 @@
      "units": 1,
      "source_url": "https://inppa.ro/hotararea-nr-9/",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2012-1044",
+   "path": "profesii/mediere/hotarare-consiliu/2012/1044",
+   "short": "Hotărârea Consiliul de mediere nr. 1044/2012",
+   "title": "HOTĂRÂRE nr. 1.044 din 27 octombrie 2012 privind modificarea și completarea Standardului de formare a mediatorului, aprobat prin Hotărârea Consiliului de mediere nr. 12/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147009",
+   "versions": [
+    {
+     "from": "2013-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147009",
+     "sha256": "7f6938590445de15da5d080d8531e1152a8e49ef1e4c6b2679d3d26dcc49943b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2012-195",
+   "path": "profesii/mediere/hotarare-consiliu/2012/195",
+   "short": "Hotărârea Consiliul de mediere nr. 195/2012",
+   "title": "HOTĂRÂRE nr. 195 din 25 februarie 2012 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136879",
+   "versions": [
+    {
+     "from": "2012-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136879",
+     "sha256": "c2583eadbeacb5d111fe506544fce7c47c1e642887b35728c72fd9f5c8f11d87"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2012-259",
+   "path": "profesii/mediere/hotarare-consiliu/2012/259",
+   "short": "Hotărârea Consiliul de mediere nr. 259/2012",
+   "title": "HOTĂRÂRE nr. 259 din 17 martie 2012 pentru publicarea în Monitorul Oficial al României, Partea I, a Tabloului mediatorilor autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140361",
+   "versions": [
+    {
+     "from": "2012-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140361",
+     "sha256": "cb0a20d11a7af5391a4dd53fb14c696fb12b8db9066ad7f6560495cd4fa88ec2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2012-7",
+   "path": "profesii/mediere/hotarare-consiliu/2012/7",
+   "short": "Hotărârea Consiliul de mediere nr. 7/2012",
+   "title": "HOTĂRÂRE nr. 7 din 14 ianuarie 2012 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134832",
+   "versions": [
+    {
+     "from": "2012-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134832",
+     "sha256": "13a434d9c7a744d802b24f819f8d3817fd834718bfa566c818c01a0424ae7c2b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2012-1",
+   "path": "profesii/oamgmamr/hotarare/2012/1",
+   "short": "Hotărârea OAMGMAMR nr. 1/2012",
+   "title": "HOTĂRÂRE nr. 1 din 19 decembrie 2012 pentru modificarea și completarea Statutului Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144949",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144949",
+     "sha256": "d243c7634d708b2dcc9847a008f00b4ae003e99a4282bfc4ae4688e74dba6f80"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2012-2",
+   "path": "profesii/oamgmamr/hotarare/2012/2",
+   "short": "Hotărârea OAMGMAMR nr. 2/2012",
+   "title": "HOTĂRÂRE nr. 2 din 19 decembrie 2012 pentru modificarea Regulamentului de organizare și funcționare al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 3/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144959",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144959",
+     "sha256": "515f96bf5e6b4d4cfcd8cf6ad8f6e6ca580b94483afd4fdd1b59f63a3322ae38"
     }
    ]
   },
@@ -168,6 +1368,21 @@
    ]
   },
   {
+   "slug": "profesii-unbr-hotarare-congres-2012-7",
+   "path": "profesii/unbr/hotarare-congres/2012/7",
+   "short": "Hotărârea UNBR nr. 7/2012",
+   "title": "HOTĂRÂRE nr. 7 din 16 iunie 2012 privind modificarea și completarea Statutului profesiei de avocat, adoptat prin Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140622",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140622",
+     "sha256": "79a7f1135be0cf6dc4101fcef89ae347f3d3be4597a704e164678c6388755f0a"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unbr-hotarare-consiliu-2012-18",
    "path": "profesii/unbr/hotarare-consiliu/2012/18",
    "short": "Regulamentul - cadru pentru organizarea serviciilor de asistenţã judiciarã",
@@ -254,6 +1469,51 @@
      "units": 1,
      "source_url": "https://unbr.ro/hotararea-consiliului-u-n-b-r-nr-648-din-15-decembrie-2012/",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-congres-2012-1",
+   "path": "profesii/unej/hotarare-congres/2012/1",
+   "short": "Hotărârea UNEJ nr. 1/2012",
+   "title": "HOTĂRÂRE nr. 1 din 19 mai 2012 pentru modificarea și completarea Statutului Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc, aprobat prin Hotărârea Congresului Extraordinar al Uniunii Naționale a Executorilor Judecătorești nr. 19/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138470",
+   "versions": [
+    {
+     "from": "2012-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138470",
+     "sha256": "f130d8893ae6f6c13cd7b11050395c77781f0aa53aa6142171ebc821c9d8ebf3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2012-1",
+   "path": "profesii/unpir/hotarare/2012/1",
+   "short": "Hotărârea UNPIR nr. 1/2012",
+   "title": "HOTĂRÂRE nr. 1 din 14 decembrie 2012 pentru modificarea și completarea Hotărârii Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146109",
+   "versions": [
+    {
+     "from": "2013-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146109",
+     "sha256": "a215394b5fe33e2d5c072eadfc07451dff69c2506576fc7b9d4424a45812e7b9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2012-3",
+   "path": "profesii/unpir/hotarare/2012/3",
+   "short": "Hotărârea UNPIR nr. 3/2012",
+   "title": "HOTĂRÂRE nr. 3 din 22 septembrie 2012 pentru modificarea anexei nr. I la Hotărârea Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143112",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143112",
+     "sha256": "2c6d01947e89d5cb0c24a515076697670b63a795645bd42bd17d57ec3ec30b7b"
     }
    ]
   }

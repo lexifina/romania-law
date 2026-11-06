@@ -3,6 +3,26 @@
 "shard": "profesii/2016",
 "acts": [
 {
+"slug": "profesii-cmdr-decizie-adunare-generala-2016-1-1",
+"path": "profesii/cmdr/decizie-adunare-generala/2016/1-1",
+"kind": "profesii",
+"year": "2016",
+"number": "1-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1/1 din 19 martie 2016 privind modificarea și completarea Regulamentului de organizare și funcționare a Colegiului Medicilor Dentiști din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007",
+"short": "Decizia CMDR nr. 1/1/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-11",
+"latest": "2016-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183533",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2016-8-2",
 "path": "profesii/unbr/hotarare-congres/2016/8-2",
 "kind": "profesii",
@@ -103,6 +123,146 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2016-1",
+"path": "profesii/cafr/hotarare/2016/1",
+"kind": "profesii",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 26 martie 2016 cu privire la aprobarea materialelor prezentate în cadrul Conferinței ordinare a Camerei Auditorilor Financiari din România din data de 26 martie 2016",
+"short": "Hotărârea CAFR nr. 1/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-14",
+"latest": "2016-04-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177541",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2016-1",
+"path": "profesii/ccf/hotarare/2016/1",
+"kind": "profesii",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 20 ianuarie 2016 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2016",
+"short": "Hotărârea CCF nr. 1/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-01",
+"latest": "2016-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/175421",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-consiliu-2016-1",
+"path": "profesii/cfr/decizie-consiliu/2016/1",
+"kind": "profesii",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 15 ianuarie 2016 privind organizarea de noi alegeri la nivelul unor colegii teritoriale pentru mandatul 2016-2020, adoptarea Regulamentului electoral și luarea unor măsuri organizatorice",
+"short": "Decizia CFR nr. 1/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-01-27",
+"latest": "2016-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/175322",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2016-1",
+"path": "profesii/cmdr/decizie-consiliu-national/2016/1",
+"kind": "profesii",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 13 februarie 2016 privind modificarea anexei nr. 1 la Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 5/2008 pentru adoptarea Regulamentului de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Dentiști din România",
+"short": "Decizia CMDR nr. 1/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-06",
+"latest": "2016-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177286",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2016-1",
+"path": "profesii/cmr/decizie-consiliu-national/2016/1",
+"kind": "profesii",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 9 ianuarie 2016 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 26/2015 privind stabilirea datelor organizării alegerilor din mandatul 2016-2020, adoptarea Regulamentului electoral și aprobarea componenței Comisiei Electorale Centrale și adoptarea unor măsuri organizatorice",
+"short": "Decizia CMR nr. 1/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-01-19",
+"latest": "2016-01-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/175010",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-consiliu-2016-1",
+"path": "profesii/cpr/hotarare-consiliu/2016/1",
+"kind": "profesii",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 15 ianuarie 2016 privind aprobarea nivelului unor taxe pentru acoperirea costurilor unor servicii prestate de către Colegiul Psihologilor din România",
+"short": "Hotărârea CPR nr. 1/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-24",
+"latest": "2016-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176062",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-1",
+"path": "profesii/oamgmamr/hotarare/2016/1",
+"kind": "profesii",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 17 martie 2016 pentru completarea Statutului Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+"short": "Hotărârea OAMGMAMR nr. 1/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-06",
+"latest": "2016-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177256",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2016-1",
 "path": "profesii/unbr/hotarare-congres/2016/1",
 "kind": "profesii",
@@ -141,6 +301,146 @@
 "flags": {
 "text_missing": true,
 "text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-congres-2016-1",
+"path": "profesii/unej/hotarare-congres/2016/1",
+"kind": "profesii",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 31 martie 2016 privind modificarea și completarea Statutului Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc, aprobat prin Hotărârea Congresului Extraordinar al Uniunii Naționale a Executorilor Judecătorești nr. 19/2010",
+"short": "Hotărârea UNEJ nr. 1/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-08",
+"latest": "2016-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177371",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-conferinta-2016-2",
+"path": "profesii/cafr/hotarare-conferinta/2016/2",
+"kind": "profesii",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 26 martie 2016 cu privire la aprobarea unor documente prezentate în cadrul Conferinței ordinare a Camerei Auditorilor Financiari din România din data de 26 martie 2016",
+"short": "Hotărârea CAFR nr. 2/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-18",
+"latest": "2016-04-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177648",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2016-2",
+"path": "profesii/ccf/hotarare/2016/2",
+"kind": "profesii",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 8 februarie 2016 privind aprobarea Programului de pregătire profesională continuă aferent anului 2016",
+"short": "Hotărârea CCF nr. 2/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-18",
+"latest": "2016-02-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/175972",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-hotarare-adunare-generala-2016-2",
+"path": "profesii/cmr/hotarare-adunare-generala/2016/2",
+"kind": "profesii",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 24 martie 2016 privind modificarea și completarea Statutului Colegiului Medicilor din România, adoptat prin Hotărârea Adunării generale naționale a Colegiului Medicilor din România nr. 2/2012",
+"short": "Hotărârea CMR nr. 2/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-08",
+"latest": "2016-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177349",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-dispozitie-2016-2",
+"path": "profesii/cpr/dispozitie/2016/2",
+"kind": "profesii",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "DISPOZIȚIE nr. 2 din 12 februarie 2016 pentru recunoașterea fenomenului alienării parentale/părintești și prevederilor Protocolului privind recunoașterea alienării parentale, încheiat între Institutul de Psihologie Judiciară și Asociația Română pentru Custodie Comună",
+"short": "Dispoziția CPR nr. 2/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-25",
+"latest": "2016-02-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176118",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2016-2",
+"path": "profesii/cpr/hotarare-comitet-director/2016/2",
+"kind": "profesii",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 15 ianuarie 2016 pentru aprobarea Standardelor privind organizarea formării profesionale pentru psihologii cu drept de liberă practică",
+"short": "Hotărârea CPR nr. 2/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-22",
+"latest": "2016-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176032",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-2",
+"path": "profesii/oamgmamr/hotarare/2016/2",
+"kind": "profesii",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 17 martie 2016 privind eliberarea Certificatului de membru asociat al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România și a adeverinței pentru participare la concursuri sau examene de ocupare a unor posturi vacante sau temporar vacante",
+"short": "Hotărârea OAMGMAMR nr. 2/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-01",
+"latest": "2016-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177092",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -187,6 +487,86 @@
 }
 },
 {
+"slug": "profesii-unpir-hotarare-2016-2",
+"path": "profesii/unpir/hotarare/2016/2",
+"kind": "profesii",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 16 septembrie 2016 pentru modificarea și completarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență, aprobat prin Hotărârea Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+"short": "Hotărârea UNPIR nr. 2/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-19",
+"latest": "2016-10-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182714",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-3",
+"path": "profesii/cafr/hotarare/2016/3",
+"kind": "profesii",
+"year": "2016",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 5 februarie 2016 pentru aprobarea Normelor privind participarea auditorilor financiari la Conferința ordinară a Camerei Auditorilor Financiari din România organizată în anul 2016",
+"short": "Hotărârea CAFR nr. 3/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-09",
+"latest": "2016-02-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/175685",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2016-3",
+"path": "profesii/cpr/hotarare-comitet-director/2016/3",
+"kind": "profesii",
+"year": "2016",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 15 ianuarie 2016 pentru modificarea Standardelor de calitate în serviciile psihologice - Partea generală, Cartea I, aprobate prin Hotărârea Comitetului director al Colegiului Psihologilor din România nr. 5/2015",
+"short": "Hotărârea CPR nr. 3/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-03-02",
+"latest": "2016-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176242",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-3",
+"path": "profesii/oamgmamr/hotarare/2016/3",
+"kind": "profesii",
+"year": "2016",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 17 martie 2016 privind stabilirea cotizației de membru asociat al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 3/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-01",
+"latest": "2016-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177088",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2016-3",
 "path": "profesii/unbr/hotarare-congres/2016/3",
 "kind": "profesii",
@@ -225,6 +605,86 @@
 "flags": {
 "needs_ocr": true,
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unpir-hotarare-2016-3",
+"path": "profesii/unpir/hotarare/2016/3",
+"kind": "profesii",
+"year": "2016",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 16 septembrie 2016 pentru modificarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență, aprobat prin Hotărârea Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+"short": "Hotărârea UNPIR nr. 3/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-15",
+"latest": "2016-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183610",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2016-4",
+"path": "profesii/ccf/hotarare-consiliu-superior/2016/4",
+"kind": "profesii",
+"year": "2016",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 16 martie 2016 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali din România",
+"short": "Hotărârea CCF nr. 4/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-03-18",
+"latest": "2016-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176693",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2016-4",
+"path": "profesii/cpr/hotarare-comitet-director/2016/4",
+"kind": "profesii",
+"year": "2016",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 15 ianuarie 2016 privind aprobarea Standardelor generale de formare profesională pentru psihologii cu drept de liberă practică în domeniul evaluării și intervenției psihologice pentru persoanele diagnosticate cu tulburări din spectrul autist",
+"short": "Hotărârea CPR nr. 4/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-05",
+"latest": "2016-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/175603",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-4",
+"path": "profesii/oamgmamr/hotarare/2016/4",
+"kind": "profesii",
+"year": "2016",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 17 martie 2016 pentru aprobarea Metodologiei privind avizarea exercitării temporare a activităților profesionale de către asistenții medicali generaliști, moașele și asistenții medicali, cetățeni ai unui stat terț",
+"short": "Hotărârea OAMGMAMR nr. 4/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-04",
+"latest": "2016-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177122",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -271,6 +731,26 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2016-5",
+"path": "profesii/ccf/hotarare/2016/5",
+"kind": "profesii",
+"year": "2016",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 16 martie 2016 privind înscrierea ca membru al Camerei Consultanților Fiscali a persoanelor care au promovat examenul de consultant fiscal sau de consultant fiscal asistent și au depășit termenul prevăzut de lege pentru înscriere",
+"short": "Hotărârea CCF nr. 5/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-03-21",
+"latest": "2016-03-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176725",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2016-5",
 "path": "profesii/unbr/hotarare-congres/2016/5",
 "kind": "profesii",
@@ -286,6 +766,166 @@
 "from": "2016-03-26",
 "latest": "2016-03-26",
 "portal": "https://unbr.ro/hotarari-si-rezolutii-adoptate-de-congresul-avocatilor-25-26-martie-2016-bucuresti/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-6",
+"path": "profesii/cafr/hotarare/2016/6",
+"kind": "profesii",
+"year": "2016",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 18 februarie 2016 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+"short": "Hotărârea CAFR nr. 6/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-03-02",
+"latest": "2016-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176277",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-conferinta-2016-6",
+"path": "profesii/ccf/hotarare-conferinta/2016/6",
+"kind": "profesii",
+"year": "2016",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 5 mai 2016 privind aprobarea documentelor prezentate spre dezbatere în Conferința anuală ordinară a Camerei Consultanților Fiscali din 21 aprilie 2016",
+"short": "Hotărârea CCF nr. 6/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-05-16",
+"latest": "2016-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/178469",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-dispozitie-2016-6",
+"path": "profesii/cpr/dispozitie/2016/6",
+"kind": "profesii",
+"year": "2016",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "DISPOZIȚIE nr. 6 din 18 martie 2016 privind constatarea unei funcții vacante și înregistrarea unui nou membru în cadrul Comisiei de psihologie clinică și psihoterapie a Colegiului Psihologilor din România",
+"short": "Dispoziția CPR nr. 6/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-05-24",
+"latest": "2016-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/178698",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-6",
+"path": "profesii/oamgmamr/hotarare/2016/6",
+"kind": "profesii",
+"year": "2016",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 17 martie 2016 pentru aprobarea Metodologiei privind activitățile procedurale interne de declanșare a mecanismului de alertă a celorlalte state membre ale Uniunii Europene, a statelor aparținând Spațiului Economic European și a Confederației Elvețiene",
+"short": "Hotărârea OAMGMAMR nr. 6/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-04",
+"latest": "2016-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177120",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-congres-2016-6",
+"path": "profesii/unej/hotarare-congres/2016/6",
+"kind": "profesii",
+"year": "2016",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 26 mai 2016 pentru revocarea Hotărârii Congresului Extraordinar al Uniunii Naționale a Executorilor Judecătorești nr. 1/2016 privind modificarea și completarea Statutului Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc, aprobat prin Hotărârea Congresului Extraordinar al Uniunii Naționale a Executorilor Judecătorești nr. 19/2010",
+"short": "Hotărârea UNEJ nr. 6/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-06",
+"latest": "2016-07-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/179795",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2016-7",
+"path": "profesii/ccf/hotarare-consiliu-superior/2016/7",
+"kind": "profesii",
+"year": "2016",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 27 iulie 2016 privind aprobarea publicării Registrului consultanților fiscali și al societăților de consultanță fiscală în Monitorul Oficial al României, Partea I",
+"short": "Hotărârea CCF nr. 7/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-08-18",
+"latest": "2016-08-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180981",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-7",
+"path": "profesii/oamgmamr/hotarare/2016/7",
+"kind": "profesii",
+"year": "2016",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 17 martie 2016 pentru aprobarea Metodologiei privind întocmirea și eliberarea documentelor care atestă titlurile românești de calificare de asistent medical generalist, de moașă și de asistent medical, în vederea recunoașterii profesionale de către celelalte state membre ale Uniunii Europene, de statele aparținând Spațiului Economic European și de către Confederația Elvețiană",
+"short": "Hotărârea OAMGMAMR nr. 7/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-04",
+"latest": "2016-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177145",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2016-8",
+"path": "profesii/ccf/hotarare-consiliu-superior/2016/8",
+"kind": "profesii",
+"year": "2016",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 27 iulie 2016 privind alegerea președintelui Consiliului superior al Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 8/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-08-08",
+"latest": "2016-08-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180717",
 "flags": {
 "amendments_checked": false
 }
@@ -311,6 +951,706 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-consiliu-2016-9",
+"path": "profesii/ccf/hotarare-consiliu/2016/9",
+"kind": "profesii",
+"year": "2016",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 9 din 13 septembrie 2016 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2016",
+"short": "Hotărârea CCF nr. 9/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-27",
+"latest": "2016-09-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181970",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-9",
+"path": "profesii/oamgmamr/hotarare/2016/9",
+"kind": "profesii",
+"year": "2016",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 9 din 17 martie 2016 pentru modificarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 32/2009",
+"short": "Hotărârea OAMGMAMR nr. 9/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-01",
+"latest": "2016-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177136",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2016-10",
+"path": "profesii/ccf/hotarare-consiliu-superior/2016/10",
+"kind": "profesii",
+"year": "2016",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 19 octombrie 2016 pentru modificarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 10/2015 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2016",
+"short": "Hotărârea CCF nr. 10/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-31",
+"latest": "2016-10-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183122",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2016-10",
+"path": "profesii/cmdr/decizie/2016/10",
+"kind": "profesii",
+"year": "2016",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 10 din 18 martie 2016 privind componența Comisiei superioare de disciplină a Colegiului Medicilor Dentiști din România în mandatul 2016-2020",
+"short": "Decizia CMDR nr. 10/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-08",
+"latest": "2016-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177356",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-10",
+"path": "profesii/oamgmamr/hotarare/2016/10",
+"kind": "profesii",
+"year": "2016",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 17 martie 2016 pentru modificarea și completarea Statutului Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+"short": "Hotărârea OAMGMAMR nr. 10/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-08",
+"latest": "2016-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177336",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2016-11",
+"path": "profesii/ccf/hotarare/2016/11",
+"kind": "profesii",
+"year": "2016",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 11 din 14 decembrie 2016 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2017",
+"short": "Hotărârea CCF nr. 11/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-22",
+"latest": "2016-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185025",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2016-11",
+"path": "profesii/cmdr/decizie-consiliu-national/2016/11",
+"kind": "profesii",
+"year": "2016",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 11 din 18 martie 2016 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 16/2013 privind eliberarea certificatului de membru al Colegiului Medicilor Dentiști din România",
+"short": "Decizia CMDR nr. 11/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-08",
+"latest": "2016-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177359",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-13",
+"path": "profesii/cafr/hotarare/2016/13",
+"kind": "profesii",
+"year": "2016",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 13 din 23 februarie 2016 privind aprobarea organizării și convocării Conferinței ordinare a Camerei Auditorilor Financiari din România în anul 2016",
+"short": "Hotărârea CAFR nr. 13/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-29",
+"latest": "2016-02-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176168",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2016-13",
+"path": "profesii/cmdr/decizie-consiliu-national/2016/13",
+"kind": "profesii",
+"year": "2016",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 13 din 24 septembrie 2016 pentru aprobarea Regulamentului privind procedurile interne de declanșare a mecanismului de alertă a celorlalte state membre ale Uniunii Europene",
+"short": "Decizia CMDR nr. 13/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-23",
+"latest": "2016-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185004",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2016-14",
+"path": "profesii/cmdr/decizie-consiliu-national/2016/14",
+"kind": "profesii",
+"year": "2016",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 14 din 19 noiembrie 2016 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 16/2013 privind eliberarea certificatului de membru al Colegiului Medicilor Dentiști din România",
+"short": "Decizia CMDR nr. 14/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-23",
+"latest": "2016-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185007",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2016-15",
+"path": "profesii/cmdr/decizie-consiliu-national/2016/15",
+"kind": "profesii",
+"year": "2016",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 15 din 19 noiembrie 2016 privind elementele acordului pacientului informat",
+"short": "Decizia CMDR nr. 15/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-23",
+"latest": "2016-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185011",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-16",
+"path": "profesii/cafr/hotarare/2016/16",
+"kind": "profesii",
+"year": "2016",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 16 din 10 martie 2016 pentru aprobarea Regulamentului de organizare și funcționare a aparatului executiv al Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 16/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-03-29",
+"latest": "2016-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176980",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2016-16",
+"path": "profesii/cmdr/decizie-consiliu-national/2016/16",
+"kind": "profesii",
+"year": "2016",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 16 din 19 noiembrie 2016 pentru modificarea anexelor nr. 1 și 2 la Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 4/2007 privind eliberarea Certificatului de status profesional curent",
+"short": "Decizia CMDR nr. 16/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-29",
+"latest": "2016-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185164",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2016-16",
+"path": "profesii/cmr/decizie/2016/16",
+"kind": "profesii",
+"year": "2016",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 16 din 24 iunie 2016 privind eliberarea certificatului de membru al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 16/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-17",
+"latest": "2016-10-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180211",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-18",
+"path": "profesii/cafr/hotarare/2016/18",
+"kind": "profesii",
+"year": "2016",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18 din 10 martie 2016 pentru aprobarea Normelor privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+"short": "Hotărârea CAFR nr. 18/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-18",
+"latest": "2016-07-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180185",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2016-19",
+"path": "profesii/cmr/decizie-consiliu-national/2016/19",
+"kind": "profesii",
+"year": "2016",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 19 din 30 septembrie 2016 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 16/2016 privind eliberarea certificatului de membru al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 19/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-11",
+"latest": "2016-10-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182476",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-19",
+"path": "profesii/oamgmamr/hotarare/2016/19",
+"kind": "profesii",
+"year": "2016",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 19 din 12 mai 2016 pentru aprobarea Metodologiei privind întocmirea și eliberarea certificatului de status profesional curent pentru asistenții medicali generaliști, moașe și asistenții medicali",
+"short": "Hotărârea OAMGMAMR nr. 19/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-01",
+"latest": "2016-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/179665",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-2016-22",
+"path": "profesii/cmr/decizie-consiliu/2016/22",
+"kind": "profesii",
+"year": "2016",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 22 din 16 decembrie 2016 pentru modificarea Deciziei Consiliului Național al Colegiului Medicilor din România nr. 5/2008 privind stabilirea cuantumului cotizației de membru al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 22/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-01",
+"latest": "2017-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185165",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-24",
+"path": "profesii/cafr/hotarare/2016/24",
+"kind": "profesii",
+"year": "2016",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 24 din 10 martie 2016 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+"short": "Hotărârea CAFR nr. 24/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-05",
+"latest": "2016-04-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177249",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-27",
+"path": "profesii/cafr/hotarare/2016/27",
+"kind": "profesii",
+"year": "2016",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 27 din 28 martie 2016 pentru aprobarea Normelor privind buna reputație a auditorului financiar",
+"short": "Hotărârea CAFR nr. 27/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-05",
+"latest": "2016-04-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177222",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-28",
+"path": "profesii/oamgmamr/hotarare/2016/28",
+"kind": "profesii",
+"year": "2016",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 28 din 23 septembrie 2016 pentru modificarea și completarea Metodologiei privind întocmirea și eliberarea certificatului de status profesional curent pentru asistenții medicali generaliști, moașele și asistenții medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 19/2016",
+"short": "Hotărârea OAMGMAMR nr. 28/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-18",
+"latest": "2016-10-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182688",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-30",
+"path": "profesii/oamgmamr/hotarare/2016/30",
+"kind": "profesii",
+"year": "2016",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 30 din 23 septembrie 2016 pentru modificarea Metodologiei privind avizarea exercitării temporare a activităților profesionale de către asistenții medicali generaliști, moașele și asistenții medicali, cetățeni ai unui stat terț, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 4/2016",
+"short": "Hotărârea OAMGMAMR nr. 30/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-14",
+"latest": "2016-10-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182609",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-31",
+"path": "profesii/oamgmamr/hotarare/2016/31",
+"kind": "profesii",
+"year": "2016",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 31 din 23 septembrie 2016 pentru modificarea și completarea Regulamentului de organizare și funcționare al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 3/2009",
+"short": "Hotărârea OAMGMAMR nr. 31/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-27",
+"latest": "2016-10-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183027",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-37",
+"path": "profesii/oamgmamr/hotarare/2016/37",
+"kind": "profesii",
+"year": "2016",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 37 din 24 noiembrie 2016 pentru modificarea Metodologiei privind avizarea exercitării temporare a activităților profesionale de către asistenții medicali generaliști, moașele și asistenții medicali, cetățeni ai unui stat terț, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 4/2016",
+"short": "Hotărârea OAMGMAMR nr. 37/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-09",
+"latest": "2017-02-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/186464",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-38",
+"path": "profesii/cafr/hotarare/2016/38",
+"kind": "profesii",
+"year": "2016",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 38 din 7 iulie 2016 pentru aprobarea contractării plafonului de emitere a unei scrisori de garanție bancară de la ING BANK, în favoarea Direcției de Taxe și Impozite Locale Sector 5",
+"short": "Hotărârea CAFR nr. 38/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-11",
+"latest": "2016-07-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/179972",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-38",
+"path": "profesii/oamgmamr/hotarare/2016/38",
+"kind": "profesii",
+"year": "2016",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 38 din 24 noiembrie 2016 pentru modificarea și completarea Metodologiei privind întocmirea și eliberarea documentelor care atestă titlurile românești de calificare de asistent medical generalist, de moașă și de asistent medical, în vederea recunoașterii profesionale de către celelalte state membre ale Uniunii Europene, de statele aparținând Spațiului Economic European și de către Confederația Elvețiană, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 7/2016",
+"short": "Hotărârea OAMGMAMR nr. 38/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-09",
+"latest": "2017-02-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/186461",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-39",
+"path": "profesii/cafr/hotarare/2016/39",
+"kind": "profesii",
+"year": "2016",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 39 din 11 iulie 2016 pentru completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+"short": "Hotărârea CAFR nr. 39/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-19",
+"latest": "2016-07-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180212",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2016-39",
+"path": "profesii/oamgmamr/hotarare/2016/39",
+"kind": "profesii",
+"year": "2016",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 39 din 24 noiembrie 2016 pentru modificarea și completarea Metodologiei privind întocmirea și eliberarea certificatului de status profesional curent pentru asistenții medicali generaliști, moașe și asistenții medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 19/2016",
+"short": "Hotărârea OAMGMAMR nr. 39/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-09",
+"latest": "2017-02-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/186459",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-40",
+"path": "profesii/cafr/hotarare/2016/40",
+"kind": "profesii",
+"year": "2016",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 40 din 11 iulie 2016 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+"short": "Hotărârea CAFR nr. 40/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-21",
+"latest": "2016-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180269",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-44",
+"path": "profesii/csm/hotarare-plen/2016/44",
+"kind": "profesii",
+"year": "2016",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 44 din 21 ianuarie 2016 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 621/2006",
+"short": "Hotărârea CSM nr. 44/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-01-27",
+"latest": "2016-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/175300",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-49",
+"path": "profesii/cafr/hotarare/2016/49",
+"kind": "profesii",
+"year": "2016",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 49 din 11 iulie 2016 privind aprobarea Listei cuprinzând auditorii financiari care au fost autorizați în alte state membre ale Uniunii Europene sau aparținând Spațiului Economic European ori în Confederația Elvețiană",
+"short": "Hotărârea CAFR nr. 49/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-08-17",
+"latest": "2016-08-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180974",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-56",
+"path": "profesii/cafr/hotarare/2016/56",
+"kind": "profesii",
+"year": "2016",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CAFR nr. 56/2016",
+"short": "Hotărârea CAFR nr. 56/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-05",
+"latest": "2016-09-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181452",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-57",
+"path": "profesii/cafr/hotarare/2016/57",
+"kind": "profesii",
+"year": "2016",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CAFR nr. 57/2016",
+"short": "Hotărârea CAFR nr. 57/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-05",
+"latest": "2016-09-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181453",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-58",
+"path": "profesii/cafr/hotarare/2016/58",
+"kind": "profesii",
+"year": "2016",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CAFR nr. 58/2016",
+"short": "Hotărârea CAFR nr. 58/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-05",
+"latest": "2016-09-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181454",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-59",
+"path": "profesii/cafr/hotarare/2016/59",
+"kind": "profesii",
+"year": "2016",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CAFR nr. 59/2016",
+"short": "Hotărârea CAFR nr. 59/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-01",
+"latest": "2016-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181364",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2016-59",
 "path": "profesii/unbr/hotarare-consiliu/2016/59",
 "kind": "profesii",
@@ -326,6 +1666,26 @@
 "from": "2016-04-06",
 "latest": "2016-04-06",
 "portal": "https://unbr.ro/hotararea-nr-5924-03-2016-a-consiliul-u-n-b-r-privind-principiile-si-masurile-de-organizare-a-examenului-de-primire-in-profesia-de-avocat-sesiunea-septembrie-2016/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-60",
+"path": "profesii/cafr/hotarare/2016/60",
+"kind": "profesii",
+"year": "2016",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 60 din 31 august 2016 pentru revocarea actelor de inspecție întocmite de către Departamentul de monitorizare, control și competență profesională la auditorul WELL DONE ACCOUNTING &amp; AUDIT - S.R.L. în anul 2016 și refacerea inspecției periodice pentru revizuirea calității activității de audit financiar",
+"short": "Hotărârea CAFR nr. 60/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-08",
+"latest": "2016-09-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181614",
 "flags": {
 "amendments_checked": false
 }
@@ -348,6 +1708,206 @@
 "portal": "https://unbr.ro/hotararea-nr-60-din-24-martie-2016-a-consiliului-u-n-b-r-privind-grupul-de-lucru-al-consiliului-unbr-ce-are-ca-sarcina-centralizarea-si-analizarea-materialelor-scrise-transmise-congresului-de-delega/",
 "flags": {
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-61",
+"path": "profesii/cafr/hotarare/2016/61",
+"kind": "profesii",
+"year": "2016",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 61 din 31 august 2016 pentru revocarea actelor de inspecție întocmite de către Departamentul de monitorizare, control și competență profesională la auditorul PROF CONSAUDIT CONT - S.R.L. în anul 2016 și refacerea inspecției periodice pentru revizuirea calității activității de audit financiar",
+"short": "Hotărârea CAFR nr. 61/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-01",
+"latest": "2016-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181385",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2016-61",
+"path": "profesii/unnpr/hotarare-consiliu/2016/61",
+"kind": "profesii",
+"year": "2016",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 61 din 9 septembrie 2016 privind modificarea și completarea Statutului Casei de Asigurări a Notarilor Publici din România, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 11/2014",
+"short": "Hotărârea UNNPR nr. 61/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-30",
+"latest": "2016-09-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182115",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-62",
+"path": "profesii/cafr/hotarare/2016/62",
+"kind": "profesii",
+"year": "2016",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 62 din 31 august 2016 pentru revocarea actelor de inspecție întocmite de către Departamentul de monitorizare, control și competență profesională la auditorul VIL AUDIT EXPERT - S.R.L. în anul 2016 și refacerea inspecției periodice pentru revizuirea calității activității de audit financiar",
+"short": "Hotărârea CAFR nr. 62/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-01",
+"latest": "2016-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181366",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-63",
+"path": "profesii/cafr/hotarare/2016/63",
+"kind": "profesii",
+"year": "2016",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 63 din 31 august 2016 pentru revocarea actelor de inspecție întocmite de către Departamentul de monitorizare, control și competență profesională la auditorul CODEXPERT OFFICE - S.R.L. în anul 2016 și refacerea inspecției periodice pentru revizuirea calității activității de audit financiar",
+"short": "Hotărârea CAFR nr. 63/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-01",
+"latest": "2016-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181367",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-64",
+"path": "profesii/cafr/hotarare/2016/64",
+"kind": "profesii",
+"year": "2016",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CAFR nr. 64/2016",
+"short": "Hotărârea CAFR nr. 64/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-02",
+"latest": "2016-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181433",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-65",
+"path": "profesii/cafr/hotarare/2016/65",
+"kind": "profesii",
+"year": "2016",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 65 din 31 august 2016 pentru revocarea actelor de inspecție întocmite de către Departamentul de monitorizare, control și competență profesională la auditorul ANDANA EXPERT - S.R.L. în anul 2016 și refacerea inspecției periodice pentru revizuirea calității activității de audit financiar",
+"short": "Hotărârea CAFR nr. 65/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-05",
+"latest": "2016-09-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181462",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-66",
+"path": "profesii/cafr/hotarare/2016/66",
+"kind": "profesii",
+"year": "2016",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 66 din 31 august 2016 pentru revocarea actelor de inspecție întocmite de către Departamentul de monitorizare, control și competență profesională la auditorul TOTAL AUDIT - S.R.L. în anul 2016 și refacerea inspecției periodice pentru revizuirea calității activității de audit financiar",
+"short": "Hotărârea CAFR nr. 66/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-07",
+"latest": "2016-09-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181553",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-67",
+"path": "profesii/cafr/hotarare/2016/67",
+"kind": "profesii",
+"year": "2016",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 67 din 31 august 2016 pentru revocarea actelor de inspecție întocmite de către Departamentul de monitorizare, control și competență profesională la auditorul CONSULTA CARPATICA - S.R.L. în anul 2016 și refacerea inspecției periodice pentru revizuirea calității activității de audit financiar",
+"short": "Hotărârea CAFR nr. 67/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-07",
+"latest": "2016-09-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181554",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-68",
+"path": "profesii/cafr/hotarare/2016/68",
+"kind": "profesii",
+"year": "2016",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 68 din 31 august 2016 pentru revocarea actelor de inspecție întocmite de către Departamentul de monitorizare, control și competență profesională la auditorul CONTAUDIT - S.R.L. în anul 2016 și refacerea inspecției periodice pentru revizuirea calității activității de audit financiar",
+"short": "Hotărârea CAFR nr. 68/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-07",
+"latest": "2016-09-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181555",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-69",
+"path": "profesii/cafr/hotarare/2016/69",
+"kind": "profesii",
+"year": "2016",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 69 din 31 august 2016 pentru revocarea actelor de inspecție întocmite de către Departamentul de monitorizare, control și competență profesională la auditorul STAF EXPERT - S.R.L. în anul 2016 și refacerea inspecției periodice pentru revizuirea calității activității de audit financiar",
+"short": "Hotărârea CAFR nr. 69/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-07",
+"latest": "2016-09-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/181558",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -473,6 +2033,66 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2016-81",
+"path": "profesii/cafr/hotarare/2016/81",
+"kind": "profesii",
+"year": "2016",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 81 din 20 septembrie 2016 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+"short": "Hotărârea CAFR nr. 81/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-03",
+"latest": "2016-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182173",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-82",
+"path": "profesii/cafr/hotarare/2016/82",
+"kind": "profesii",
+"year": "2016",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 82 din 20 septembrie 2016 pentru delegarea competenței urmăririi și controlului activităților desfășurate de angajații departamentelor/compartimentelor care se află în subordinea funcțională a Consiliului Camerei Auditorilor Financiari din România, precum și a evaluării activității și performanțelor acestora",
+"short": "Hotărârea CAFR nr. 82/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-03",
+"latest": "2016-10-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182174",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2016-87",
+"path": "profesii/unnpr/hotarare-consiliu/2016/87",
+"kind": "profesii",
+"year": "2016",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 87 din 24 noiembrie 2016 pentru aprobarea modificării art. 22 alin. (1) lit. g) din Statutul Uniunii Naționale a Notarilor Publici din România, aprobat prin Hotărârea Congresului Notarilor Publici din România nr. 10/2014",
+"short": "Hotărârea UNNPR nr. 87/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-19",
+"latest": "2017-12-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195790",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2016-96",
 "path": "profesii/unbr/hotarare-consiliu/2016/96",
 "kind": "profesii",
@@ -533,6 +2153,26 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-consiliu-2016-99",
+"path": "profesii/cafr/hotarare-consiliu/2016/99",
+"kind": "profesii",
+"year": "2016",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 99 din 7 noiembrie 2016 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+"short": "Hotărârea CAFR nr. 99/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-16",
+"latest": "2016-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183668",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2016-99",
 "path": "profesii/unbr/hotarare-consiliu/2016/99",
 "kind": "profesii",
@@ -568,6 +2208,86 @@
 "from": "2016-06-17",
 "latest": "2016-06-17",
 "portal": "https://unbr.ro/publicam-hotararea-nr-102-din-04-iunie-2016-a-consiliului-u-n-b-r-prin-care-se-modifica-si-se-completeaza-hotararea-nr-216-din-03-decembrie-2011-a-consiliului-u-n-b-r-privind-aprobarea-functionari/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-114",
+"path": "profesii/cafr/hotarare/2016/114",
+"kind": "profesii",
+"year": "2016",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 114 din 20 decembrie 2016 privind adoptarea Codului etic al profesioniștilor contabili, emis de Federația Internațională a Contabililor, ediția 2015, tradus de Camera Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 114/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-07",
+"latest": "2017-02-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/186415",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-115",
+"path": "profesii/cafr/hotarare/2016/115",
+"kind": "profesii",
+"year": "2016",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 115 din 20 decembrie 2016 privind adoptarea Standardelor internaționale de control al calității, audit, revizuire, alte servicii de asigurare și servicii conexe, ediția 2015, emise de Federația Internațională a Contabililor, traduse de Camera Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 115/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-07",
+"latest": "2017-02-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/186416",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-121",
+"path": "profesii/cafr/hotarare/2016/121",
+"kind": "profesii",
+"year": "2016",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 121 din 23 decembrie 2016 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința ordinară a Camerei Auditorilor Financiari din România organizată în anul 2017",
+"short": "Hotărârea CAFR nr. 121/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-29",
+"latest": "2016-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185152",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2016-122",
+"path": "profesii/cafr/hotarare/2016/122",
+"kind": "profesii",
+"year": "2016",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 122 din 23 decembrie 2016 cu privire la acordarea vizei pentru anul 2017 auditorilor financiari care îndeplinesc cerințele stabilite prin reglementările Camerei Auditorilor Financiari din România și care au depusă Declarația privind respectarea criteriilor pentru buna reputație",
+"short": "Hotărârea CAFR nr. 122/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-29",
+"latest": "2016-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185159",
 "flags": {
 "amendments_checked": false
 }
@@ -710,6 +2430,326 @@
 "from": "2017-04-06",
 "latest": "2017-04-06",
 "portal": "https://unbr.ro/hotararea-nr-180-din-17-decembrie-2016-a-consiliului-unbr-privind-aprobarea-regulamentului-cadru-pentru-organizarea-functionarea-si-atributiile-serviciilor-de-asistenta-judiciara-ale-barou/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-340",
+"path": "profesii/csm/hotarare-plen/2016/340",
+"kind": "profesii",
+"year": "2016",
+"number": "340",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 340 din 29 martie 2016 pentru modificarea Regulamentului privind normele pentru efectuarea lucrărilor de inspecție de către Inspecția Judiciară, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 1.027/2012",
+"short": "Hotărârea CSM nr. 340/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-04-20",
+"latest": "2016-04-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/177707",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-501",
+"path": "profesii/csm/hotarare-plen/2016/501",
+"kind": "profesii",
+"year": "2016",
+"number": "501",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 501 din 26 aprilie 2016 pentru modificarea Regulamentului privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 581/2006",
+"short": "Hotărârea CSM nr. 501/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-05-19",
+"latest": "2016-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/178564",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-503",
+"path": "profesii/csm/hotarare-plen/2016/503",
+"kind": "profesii",
+"year": "2016",
+"number": "503",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 503 din 26 aprilie 2016 pentru completarea Regulamentului privind modul de desfășurare a cursurilor de formare profesională continuă a judecătorilor și procurorilor și atestare a rezultatelor obținute, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 322/2005",
+"short": "Hotărârea CSM nr. 503/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-05-19",
+"latest": "2016-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/178571",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-637",
+"path": "profesii/csm/hotarare-plen/2016/637",
+"kind": "profesii",
+"year": "2016",
+"number": "637",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 637 din 26 mai 2016 pentru modificarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+"short": "Hotărârea CSM nr. 637/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-06-27",
+"latest": "2016-06-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/179486",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-711",
+"path": "profesii/csm/hotarare-plen/2016/711",
+"kind": "profesii",
+"year": "2016",
+"number": "711",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 711 din 16 iunie 2016 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 621/2006",
+"short": "Hotărârea CSM nr. 711/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-13",
+"latest": "2016-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180023",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-712",
+"path": "profesii/csm/hotarare-plen/2016/712",
+"kind": "profesii",
+"year": "2016",
+"number": "712",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 712 din 16 iunie 2016 pentru modificarea și completarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+"short": "Hotărârea CSM nr. 712/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-13",
+"latest": "2016-07-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180045",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-897",
+"path": "profesii/csm/hotarare-plen/2016/897",
+"kind": "profesii",
+"year": "2016",
+"number": "897",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 897 din 14 iulie 2016 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 621/2006",
+"short": "Hotărârea CSM nr. 897/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-21",
+"latest": "2016-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180305",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-1106",
+"path": "profesii/csm/hotarare-plen/2016/1106",
+"kind": "profesii",
+"year": "2016",
+"number": "1106",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.106 din 19 septembrie 2016 pentru modificarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+"short": "Hotărârea CSM nr. 1106/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-24",
+"latest": "2016-10-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182862",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-1189",
+"path": "profesii/csm/hotarare-plen/2016/1189",
+"kind": "profesii",
+"year": "2016",
+"number": "1189",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.189 din 6 octombrie 2016 pentru modificarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+"short": "Hotărârea CSM nr. 1189/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-08",
+"latest": "2016-11-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183419",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-1309",
+"path": "profesii/csm/hotarare-plen/2016/1309",
+"kind": "profesii",
+"year": "2016",
+"number": "1309",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.309 din 27 octombrie 2016 pentru modificarea Regulamentului privind concediile personalului auxiliar de specialitate și personalului conex din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 186/2007",
+"short": "Hotărârea CSM nr. 1309/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-14",
+"latest": "2016-11-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183557",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-consiliu-2016-1386",
+"path": "profesii/csm/hotarare-consiliu/2016/1386",
+"kind": "profesii",
+"year": "2016",
+"number": "1386",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.386 din 14 noiembrie 2016 pentru modificarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+"short": "Hotărârea CSM nr. 1386/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2017-01-06",
+"latest": "2017-01-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185523",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-1387",
+"path": "profesii/csm/hotarare-plen/2016/1387",
+"kind": "profesii",
+"year": "2016",
+"number": "1387",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.387 din 14 noiembrie 2016 pentru completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+"short": "Hotărârea CSM nr. 1387/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-09",
+"latest": "2016-12-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/184532",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-1585",
+"path": "profesii/csm/hotarare-plen/2016/1585",
+"kind": "profesii",
+"year": "2016",
+"number": "1585",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.585 din 15 decembrie 2016 pentru modificarea și completarea Regulamentului Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 127/2007",
+"short": "Hotărârea CSM nr. 1585/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-30",
+"latest": "2016-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185206",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-1615",
+"path": "profesii/csm/hotarare-plen/2016/1615",
+"kind": "profesii",
+"year": "2016",
+"number": "1615",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.615 din 15 decembrie 2016 pentru modificarea Regulamentului privind organizarea și desfășurarea examenului de promovare în funcții de execuție a personalului de specialitate juridică asimilat judecătorilor și procurorilor din cadrul aparatului propriu al Consiliului Superior al Magistraturii și al Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 1.260/2014",
+"short": "Hotărârea CSM nr. 1615/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-30",
+"latest": "2016-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185207",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2016-1637",
+"path": "profesii/csm/hotarare-plen/2016/1637",
+"kind": "profesii",
+"year": "2016",
+"number": "1637",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.637 din 20 decembrie 2016 pentru modificarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+"short": "Hotărârea CSM nr. 1637/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-12-27",
+"latest": "2016-12-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185090",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-protocol-2016-5678",
+"path": "profesii/unnpr/protocol/2016/5678",
+"kind": "profesii",
+"year": "2016",
+"number": "5678",
+"withdrawn_by": null,
+"reason": null,
+"title": "PROTOCOL nr. 5.678 din 12 septembrie 2016 privind procedura eliberării și a plății onorariilor pentru eliberarea certificatelor de moștenitor, a certificatelor de moștenitor suplimentar, a certificatelor de legatar și a certificatelor de vacanță succesorală, în derularea Programului național de cadastru și carte funciară",
+"short": "Protocolul UNNPR nr. 5678/2016",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-28",
+"latest": "2016-09-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182048",
 "flags": {
 "amendments_checked": false
 }

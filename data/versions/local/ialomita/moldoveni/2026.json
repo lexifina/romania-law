@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/moldoveni/2026",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--moldoveni-11-2026",
+   "path": "local/ialomita/moldoveni/2026/11",
+   "short": "HCL Moldoveni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moldoveni nr. 11/2026 privind aprobarea PUZ si raportul financiar",
+   "url": "https://www.primariamoldoveni.ro/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariamoldoveni.ro/z_Informatii%20Publice/Transparenta/2025-2026/HCL%20nr.%2011%20din%2026.02.2026%20privind%20aprobarea%20PUZ%20si%20raportul%20financiar.pdf",
+     "sha256": "640f402509c44e10393a038dc9e3013aa6abff2a6bcb12d2147dd24966197860"
+    }
+   ]
+  }
+ ]
+}

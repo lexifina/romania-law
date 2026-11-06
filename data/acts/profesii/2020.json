@@ -3,6 +3,206 @@
 "shard": "profesii/2020",
 "acts": [
 {
+"slug": "profesii-cmdr-decizie-2020-10-2cn",
+"path": "profesii/cmdr/decizie/2020/10-2cn",
+"kind": "profesii",
+"year": "2020",
+"number": "10-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 10/2CN din 29 februarie 2020 privind aprobarea calendarului electoral pentru alegerea membrilor consiliului teritorial și ai biroului executiv ale Colegiului Medicilor Stomatologi Timiș pentru mandatul 2020-2023",
+"short": "Decizia CMDR nr. 10/2CN/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-05",
+"latest": "2020-03-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223492",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2020-14-2cn",
+"path": "profesii/cmdr/decizie/2020/14-2cn",
+"kind": "profesii",
+"year": "2020",
+"number": "14-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 14/2CN din 5 mai 2020 pentru aprobarea Recomandărilor privind reluarea activității în cabinetele stomatologice",
+"short": "Decizia CMDR nr. 14/2CN/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-15",
+"latest": "2020-05-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225833",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2020-17-2cn",
+"path": "profesii/cmdr/decizie/2020/17-2cn",
+"kind": "profesii",
+"year": "2020",
+"number": "17-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 17/2CN din 22 mai 2020 privind plata cotizației de membru al Colegiului Medicilor Stomatologi din România pentru anul 2020",
+"short": "Decizia CMDR nr. 17/2CN/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227029",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2020-18-2cn",
+"path": "profesii/cmdr/decizie/2020/18-2cn",
+"kind": "profesii",
+"year": "2020",
+"number": "18-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 18/2CN din 24 septembrie 2020 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 58/2011 privind organizarea sistemului de educație medicală continuă pentru medicii dentiști și pentru aprobarea Regulamentului de educație medicală continuă al Colegiului Medicilor Dentiști din România",
+"short": "Decizia CMDR nr. 18/2CN/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235213",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-adunare-generala-2020-1-1agn",
+"path": "profesii/cmdr/decizie-adunare-generala/2020/1-1agn",
+"kind": "profesii",
+"year": "2020",
+"number": "1-1agn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1/1AGN din 18 ianuarie 2020 privind modificarea și completarea Regulamentului de organizare și funcționare a Colegiului Medicilor Stomatologi din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007",
+"short": "Decizia CMDR nr. 1/1AGN/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-05",
+"latest": "2020-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/222727",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-adunare-generala-2020-4-1agn",
+"path": "profesii/cmdr/decizie-adunare-generala/2020/4-1agn",
+"kind": "profesii",
+"year": "2020",
+"number": "4-1agn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 4/1AGN din 29 februarie 2020 privind modificarea și completarea Regulamentului de organizare și funcționare a Colegiului Medicilor Stomatologi din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007",
+"short": "Decizia CMDR nr. 4/1AGN/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223864",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2020-16-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2020/16-2cn",
+"kind": "profesii",
+"year": "2020",
+"number": "16-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 16/2CN din 22 mai 2020 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 6/2015 privind procedura de transfer al membrilor Colegiului Medicilor Dentiști din România în cadrul colegiilor teritoriale",
+"short": "Decizia CMDR nr. 16/2CN/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227028",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2020-5-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2020/5-2cn",
+"kind": "profesii",
+"year": "2020",
+"number": "5-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 5/2CN din 21 februarie 2020 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Stomatologi din România nr. 25/2CN/2019 privind eliberarea avizului pentru exercitarea activității de medicină dentară cu caracter temporar/ocazional pe teritoriul României de către medicii stomatologi cetățeni ai unui alt stat membru al Uniunii Europene, ai unui stat membru al Spațiului Economic European sau ai Confederației Elvețiene ori asimilați acestora",
+"short": "Decizia CMDR nr. 5/2CN/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223865",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2020-6-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2020/6-2cn",
+"kind": "profesii",
+"year": "2020",
+"number": "6-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 6/2CN din 29 februarie 2020 privind modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 5/2008 pentru adoptarea Regulamentului de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Dentiști din România",
+"short": "Decizia CMDR nr. 6/2CN/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223853",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-1",
+"path": "profesii/cafr/hotarare/2020/1",
+"kind": "profesii",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 11 iulie 2020 privind aprobarea materialelor prezentate în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată, prin vot la distanță, în data de 11 iulie 2020",
+"short": "Hotărârea CAFR nr. 1/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-16",
+"latest": "2020-07-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227893",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2020-1",
 "path": "profesii/inppa/hotarare-consiliu/2020/1",
 "kind": "profesii",
@@ -18,6 +218,66 @@
 "from": "2020-01-27",
 "latest": "2020-01-27",
 "portal": "https://inppa.ro/hotararea-nr-1-din-25-ianuarie-2020-a-consiliului-de-conducere-al-inppa-referitoare-la-inceperea-la-data-16-martie-2020-a-activitatile-tutoriale-aferente-anului-i-de-pregatire-profesionala-initiala-p/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-2",
+"path": "profesii/cafr/hotarare/2020/2",
+"kind": "profesii",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 19 septembrie 2020 privind alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 2/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230374",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2020-2",
+"path": "profesii/cmdr/decizie-consiliu-national/2020/2",
+"kind": "profesii",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 20/2CN din 16 decembrie 2020 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 11/2005 privind stabilirea cuantumului cotizației de membru al Colegiului Medicilor Dentiști din România",
+"short": "Decizia CMDR nr. 2/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-08",
+"latest": "2021-01-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235989",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-consiliu-2020-2",
+"path": "profesii/cpr/hotarare-consiliu/2020/2",
+"kind": "profesii",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 4 iulie 2020 pentru modificarea Normelor privind supervizarea profesională în psihologie, aprobate prin Hotărârea Consiliului Colegiului Psihologilor din România nr. 4/2019",
+"short": "Hotărârea CPR nr. 2/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236718",
 "flags": {
 "amendments_checked": false
 }
@@ -63,6 +323,26 @@
 }
 },
 {
+"slug": "profesii-cpr-hotarare-consiliu-2020-3",
+"path": "profesii/cpr/hotarare-consiliu/2020/3",
+"kind": "profesii",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 4 iulie 2020 pentru modificarea Normelor privind supervizarea profesională în psihologie, aprobate prin Hotărârea Consiliului Colegiului Psihologilor din România nr. 4/2019",
+"short": "Hotărârea CPR nr. 3/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236719",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2020-3",
 "path": "profesii/unbr/hotarare-congres/2020/3",
 "kind": "profesii",
@@ -78,6 +358,166 @@
 "from": "2020-12-07",
 "latest": "2020-12-07",
 "portal": "https://unbr.ro/hotararea-congresului-avocatilor-nr-03-2020-privind-aprobarea-executiei-bugetare-a-c-a-a-pentru-anul-2019-si-a-proiectului-de-buget-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2020-4",
+"path": "profesii/ccf/hotarare-consiliu-superior/2020/4",
+"kind": "profesii",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 26 februarie 2020 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 4/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-10",
+"latest": "2020-03-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223727",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2020-4",
+"path": "profesii/oamgmamr/hotarare/2020/4",
+"kind": "profesii",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 11 martie 2020 pentru aprobarea structurii și a informațiilor din Registrul național unic al asistenților medicali generaliști, moașelor și asistenților medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 4/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-01",
+"latest": "2020-10-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227556",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2020-5",
+"path": "profesii/ccf/hotarare/2020/5",
+"kind": "profesii",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 26 februarie 2020 pentru modificarea anexei nr. 1 la Programul de pregătire profesională continuă aferent anului 2020, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 3/2020",
+"short": "Hotărârea CCF nr. 5/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-10",
+"latest": "2020-03-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223728",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2020-5",
+"path": "profesii/cmr/decizie/2020/5",
+"kind": "profesii",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 5 din 18 decembrie 2020 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 16/2016 privind eliberarea certificatului de membru al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 5/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-31",
+"latest": "2020-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235836",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-2020-5",
+"path": "profesii/cpr/hotarare/2020/5",
+"kind": "profesii",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 18 decembrie 2020 pentru aprobarea Procedurii privind organizarea și desfășurarea alegerilor pentru forurile de conducere ale Colegiului Psihologilor din România și ale filialelor teritoriale ale Colegiului Psihologilor din România",
+"short": "Hotărârea CPR nr. 5/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236689",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2020-6",
+"path": "profesii/ccf/hotarare/2020/6",
+"kind": "profesii",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 16 martie 2020 pentru modificarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 7/2019 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2020",
+"short": "Hotărârea CCF nr. 6/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224263",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2020-7",
+"path": "profesii/ccf/hotarare/2020/7",
+"kind": "profesii",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 14 aprilie 2020 pentru modificarea și completarea Regulamentului de organizare și funcționare al Camerei Consultanților Fiscali, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 3/2017",
+"short": "Hotărârea CCF nr. 7/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-21",
+"latest": "2020-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224931",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2020-8",
+"path": "profesii/ccf/hotarare/2020/8",
+"kind": "profesii",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 23 aprilie 2020 pentru modificarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 7/2019 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2020",
+"short": "Hotărârea CCF nr. 8/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-05",
+"latest": "2020-05-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225406",
 "flags": {
 "amendments_checked": false
 }
@@ -123,6 +563,46 @@
 }
 },
 {
+"slug": "profesii-unej-hotarare-consiliu-2020-8",
+"path": "profesii/unej/hotarare-consiliu/2020/8",
+"kind": "profesii",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 27 februarie 2020 privind aprobarea publicării Tabloului executorilor judecătorești pe anul 2020",
+"short": "Hotărârea UNEJ nr. 8/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224951",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-conferinta-2020-9",
+"path": "profesii/ccf/hotarare-conferinta/2020/9",
+"kind": "profesii",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 9 din 24 aprilie 2020 privind aprobarea documentelor prezentate spre dezbatere în Conferința ordinară anuală a Camerei Consultanților Fiscali din 24 aprilie 2020",
+"short": "Hotărârea CCF nr. 9/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-07",
+"latest": "2020-05-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225452",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2020-9",
 "path": "profesii/inppa/hotarare-consiliu/2020/9",
 "kind": "profesii",
@@ -138,6 +618,26 @@
 "from": "2020-07-21",
 "latest": "2020-07-21",
 "portal": "https://inppa.ro/hotararea-consiliului-de-conducere-nr-9-18-07-2020-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2020-in-cadrul-sistemului-i-n-p-p-a/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2020-10",
+"path": "profesii/ccf/hotarare/2020/10",
+"kind": "profesii",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 28 mai 2020 pentru modificarea Regulamentului de organizare și funcționare al Camerei Consultanților Fiscali, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 3/2017",
+"short": "Hotărârea CCF nr. 10/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-10",
+"latest": "2020-06-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226651",
 "flags": {
 "amendments_checked": false
 }
@@ -163,6 +663,86 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2020-11",
+"path": "profesii/ccf/hotarare/2020/11",
+"kind": "profesii",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 11 din 27 august 2020 privind aprobarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent",
+"short": "Hotărârea CCF nr. 11/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229986",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-2020-12",
+"path": "profesii/ccf/hotarare-consiliu/2020/12",
+"kind": "profesii",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 12 din 29 septembrie 2020 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2020",
+"short": "Hotărârea CCF nr. 12/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-02",
+"latest": "2020-10-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230607",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-13",
+"path": "profesii/cafr/hotarare/2020/13",
+"kind": "profesii",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 13 din 12 februarie 2020 privind organizarea, convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România în data de 25 aprilie 2020",
+"short": "Hotărârea CAFR nr. 13/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223102",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2020-13",
+"path": "profesii/ccf/hotarare/2020/13",
+"kind": "profesii",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 13 din 17 decembrie 2020 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2021",
+"short": "Hotărârea CCF nr. 13/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-30",
+"latest": "2020-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235746",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2020-13",
 "path": "profesii/inppa/hotarare-consiliu/2020/13",
 "kind": "profesii",
@@ -178,6 +758,66 @@
 "from": "2020-11-18",
 "latest": "2020-11-18",
 "portal": "https://inppa.ro/hotararea-consiliului-de-conducere-nr-13-17-11-2020-privind-examenul-de-absolvire-a-i-n-p-p-a-sesiunea-noiembrie-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-14",
+"path": "profesii/cafr/hotarare/2020/14",
+"kind": "profesii",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 14 din 12 februarie 2020 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România, organizată în data de 25 aprilie 2020",
+"short": "Hotărârea CAFR nr. 14/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223103",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2020-15",
+"path": "profesii/unnpr/hotarare-consiliu/2020/15",
+"kind": "profesii",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 15 din 13 martie 2020 privind modificarea art. 30 alin. (2) din Regulamentul de organizare și funcționare al Consiliului de disciplină din cadrul Uniunii Naționale a Notarilor Publici din România, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 74/2013",
+"short": "Hotărârea UNNPR nr. 15/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224958",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-adunare-generala-2020-17",
+"path": "profesii/cfzro/hotarare-adunare-generala/2020/17",
+"kind": "profesii",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 17 din 19 decembrie 2020 pentru aprobarea Regulamentului electoral al Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 17/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-12",
+"latest": "2021-01-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236042",
 "flags": {
 "amendments_checked": false
 }
@@ -221,6 +861,126 @@
 "portal": "https://inppa.ro/decizia-nr-18-din-14-aprilie-2020-a-directorului-institutului-national-pentru-pregatirea-si-perfectionarea-avocatilor/",
 "flags": {
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2020-21",
+"path": "profesii/cfzro/hotarare-consiliu-national/2020/21",
+"kind": "profesii",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 21 din 9 martie 2020 privind aprobarea Metodologiei pentru recunoașterea titlurilor oficiale de calificare în fizioterapie dobândite în celelalte state membre ale Uniunii Europene, în statele aparținând Spațiului Economic European și în Confederația Elvețiană",
+"short": "Hotărârea CFZRO nr. 21/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223856",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2020-22",
+"path": "profesii/cfzro/hotarare-consiliu-national/2020/22",
+"kind": "profesii",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 22 din 9 martie 2020 pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 36/2018 privind dobândirea calității de membru al Colegiului Fizioterapeuților din România și eliberarea autorizației de liberă practică pentru exercitarea profesiei de fizioterapeut și pentru completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 22/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223866",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2020-24",
+"path": "profesii/oamgmamr/hotarare/2020/24",
+"kind": "profesii",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 24 din 27 octombrie 2020 privind modificarea și completarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 4/2020 pentru aprobarea structurii și a informațiilor din Registrul național unic al asistenților medicali generaliști, moașelor și asistenților medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 24/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/232624",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2020-25",
+"path": "profesii/oamgmamr/hotarare/2020/25",
+"kind": "profesii",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 25 din 25 noiembrie 2020 pentru completarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 31/2017 privind stabilirea cuantumului cotizației de membru, respectiv cotizației de membru asociat al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România și a unor taxe încasate de Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 25/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235210",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2020-26",
+"path": "profesii/csm/hotarare-plen/2020/26",
+"kind": "profesii",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 26 din 20 februarie 2020 pentru modificarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+"short": "Hotărârea CSM nr. 26/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-10",
+"latest": "2020-03-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223725",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2020-28",
+"path": "profesii/oamgmamr/hotarare/2020/28",
+"kind": "profesii",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 28 din 17 decembrie 2020 pentru modificarea Codului de etică și deontologie al asistentului medical generalist, al moașei și al asistentului medical din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 2/2009",
+"short": "Hotărârea OAMGMAMR nr. 28/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-18",
+"latest": "2021-01-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/236514",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -285,6 +1045,106 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2020-51",
+"path": "profesii/cafr/hotarare/2020/51",
+"kind": "profesii",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 51 din 29 mai 2020 privind organizarea, convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România, organizată, prin vot la distanță, în data de 11 iulie 2020",
+"short": "Hotărârea CAFR nr. 51/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-04",
+"latest": "2020-06-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226560",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-52",
+"path": "profesii/cafr/hotarare/2020/52",
+"kind": "profesii",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CAFR nr. 52/2020",
+"short": "Hotărârea CAFR nr. 52/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-04",
+"latest": "2020-06-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226561",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-53",
+"path": "profesii/cafr/hotarare/2020/53",
+"kind": "profesii",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 53 din 29 mai 2020 pentru aprobarea Procedurii privind organizarea Conferinței Camerei Auditorilor Financiari din România, prin vot la distanță, în data de 11 iulie 2020",
+"short": "Hotărârea CAFR nr. 53/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-04",
+"latest": "2020-06-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226580",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2020-54",
+"path": "profesii/cfzro/hotarare-consiliu-national/2020/54",
+"kind": "profesii",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 54 din 10 iulie 2020 pentru aprobarea Metodologiei privind activitățile procedurale interne de declanșare a mecanismului de alertă a celorlalte state membre ale Uniunii Europene, a statelor aparținând Spațiului Economic European și a Confederației Elvețiene",
+"short": "Hotărârea CFZRO nr. 54/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/228012",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-55",
+"path": "profesii/cafr/hotarare/2020/55",
+"kind": "profesii",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CAFR nr. 55/2020",
+"short": "Hotărârea CAFR nr. 55/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-09",
+"latest": "2020-06-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226633",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-decizie-cp-2020-57",
 "path": "profesii/unbr/decizie-cp/2020/57",
 "kind": "profesii",
@@ -325,6 +1185,26 @@
 }
 },
 {
+"slug": "profesii-unnpr-hotarare-consiliu-2020-58",
+"path": "profesii/unnpr/hotarare-consiliu/2020/58",
+"kind": "profesii",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 58 din 2 septembrie 2020 privind aprobarea Statutului Institutului Notarial Român",
+"short": "Hotărârea UNNPR nr. 58/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-10",
+"latest": "2020-09-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229886",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2020-59",
 "path": "profesii/unbr/hotarare-consiliu/2020/59",
 "kind": "profesii",
@@ -360,6 +1240,46 @@
 "from": "2020-04-14",
 "latest": "2020-04-14",
 "portal": "https://unbr.ro/a-fost-publicat-un-pachet-de-hotarari-ale-consiliului-unbr-referitoare-la-aprobarea-indicatorilor-caa-si-la-programele-filialelor-caa-pentru-anul-2020/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unnpr-hotarare-consiliu-2020-61",
+"path": "profesii/unnpr/hotarare-consiliu/2020/61",
+"kind": "profesii",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 61 din 29 septembrie 2020 privind aprobarea Statutului Casei de Pensii a Notarilor Publici din România",
+"short": "Hotărârea UNNPR nr. 61/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-06",
+"latest": "2020-10-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230646",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-65",
+"path": "profesii/cafr/hotarare/2020/65",
+"kind": "profesii",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 65 din 29 mai 2020 pentru aprobarea Normelor privind efectuarea inspecțiilor pentru asigurarea calității activității de audit financiar, altul decât cel statutar, și a altor activități desfășurate de auditorii financiari",
+"short": "Hotărârea CAFR nr. 65/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-10",
+"latest": "2020-07-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227736",
 "flags": {
 "amendments_checked": false
 }
@@ -605,6 +1525,46 @@
 }
 },
 {
+"slug": "profesii-cfzro-hotarare-consiliu-national-2020-81",
+"path": "profesii/cfzro/hotarare-consiliu-national/2020/81",
+"kind": "profesii",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 81 din 18 septembrie 2020 pentru modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 43/2018 privind suspendarea sau încetarea la cerere a calității de membru al Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 81/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-29",
+"latest": "2020-09-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230509",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-82",
+"path": "profesii/cafr/hotarare/2020/82",
+"kind": "profesii",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 82 din 5 august 2020 privind aprobarea Normelor pentru desfășurarea alegerilor pentru președintele Consiliului Camerei Auditorilor Financiari din România, membrii Consiliului Camerei Auditorilor Financiari din România și auditorul statutar al Camerei Auditorilor Financiari din România, în cadrul Conferinței Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 82/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230305",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2020-82",
 "path": "profesii/unbr/hotarare-consiliu/2020/82",
 "kind": "profesii",
@@ -620,6 +1580,26 @@
 "from": "2020-07-28",
 "latest": "2020-07-28",
 "portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-82-din-17-18-iulie-2020-prin-care-se-aproba-ghidul-orientativ-al-onorariilor-minimale-prevazut-in-anexa/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-83",
+"path": "profesii/cafr/hotarare/2020/83",
+"kind": "profesii",
+"year": "2020",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 83 din 13 august 2020 privind organizarea, convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România, organizată prin vot la distanță în data de 19 septembrie 2020",
+"short": "Hotărârea CAFR nr. 83/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-14",
+"latest": "2020-08-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229137",
 "flags": {
 "amendments_checked": false
 }
@@ -643,6 +1623,26 @@
 "flags": {
 "needs_ocr": true,
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-84",
+"path": "profesii/cafr/hotarare/2020/84",
+"kind": "profesii",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 84 din 13 august 2020 privind stabilirea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România, organizată prin vot la distanță în data de 19 septembrie 2020",
+"short": "Hotărârea CAFR nr. 84/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-14",
+"latest": "2020-08-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229138",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -689,6 +1689,86 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2020-86",
+"path": "profesii/cafr/hotarare/2020/86",
+"kind": "profesii",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 86 din 21 august 2020 pentru aprobarea Normelor privind depunerea candidaturilor pentru alegerea președintelui Consiliului Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a auditorului statutar al Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 86/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-25",
+"latest": "2020-08-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229522",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2020-92",
+"path": "profesii/cfzro/hotarare-consiliu-national/2020/92",
+"kind": "profesii",
+"year": "2020",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 92 din 22 octombrie 2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 92/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/232962",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2020-93",
+"path": "profesii/cfzro/hotarare-consiliu-national/2020/93",
+"kind": "profesii",
+"year": "2020",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 93 din 22 octombrie 2020 pentru aprobarea taxelor de acreditare și reacreditare a furnizorilor de educație medicală continuă și a taxelor de creditare a formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 93/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/232964",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2020-94",
+"path": "profesii/cfzro/hotarare-consiliu-national/2020/94",
+"kind": "profesii",
+"year": "2020",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 94 din 22 octombrie 2020 pentru aprobarea Regulamentului de organizare și funcționare a comisiei de malpraxis a Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 94/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/232941",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2020-98",
 "path": "profesii/unbr/hotarare-congres/2020/98",
 "kind": "profesii",
@@ -709,6 +1789,66 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2020-104",
+"path": "profesii/cafr/hotarare/2020/104",
+"kind": "profesii",
+"year": "2020",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 104 din 23 septembrie 2020 privind alegerea Biroului permanent al Consiliului Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 104/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-25",
+"latest": "2020-09-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230445",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-117",
+"path": "profesii/cafr/hotarare/2020/117",
+"kind": "profesii",
+"year": "2020",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 117 din 26 octombrie 2020 privind amânarea calculării penalităților de întârziere aferente neachitării cotizațiilor datorate de membrii Camerei Auditorilor Financiari din România până la data de 31 decembrie 2020 inclusiv",
+"short": "Hotărârea CAFR nr. 117/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-03",
+"latest": "2020-11-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/232031",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2020-118",
+"path": "profesii/ceccar/hotarare/2020/118",
+"kind": "profesii",
+"year": "2020",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 20/118 din 4 aprilie 2020 privind prelungirea perioadei de valabilitate a vizei aferente anului 2019 până la data de 15 aprilie 2020",
+"short": "Hotărârea CECCAR nr. 118/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-10",
+"latest": "2020-04-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224777",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-decizie-cp-2020-120",
 "path": "profesii/unbr/decizie-cp/2020/120",
 "kind": "profesii",
@@ -724,6 +1864,26 @@
 "from": "2020-03-28",
 "latest": "2020-03-28",
 "portal": "https://unbr.ro/decizia-comisiei-permanente-nr-120-din-28-martie-2020-prin-care-se-republica-regulamentul-de-organizare-si-functionare-a-i-n-p-p-a-cu-completarile-aduse-prin-decizia-comisiei-permanente-nr-89-19-m/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2020-125",
+"path": "profesii/cafr/hotarare/2020/125",
+"kind": "profesii",
+"year": "2020",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CAFR nr. 125/2020",
+"short": "Hotărârea CAFR nr. 125/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235495",
 "flags": {
 "amendments_checked": false
 }
@@ -786,6 +1946,126 @@
 "from": "2020-12-11",
 "latest": "2020-12-11",
 "portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-181-din-07-decembrie-2020-prin-care-termenul-de-depunere-a-avizelor-mentionate-de-prevederile-art-61-alin-2-din-statutul-profesiei-de-avocat-se-prelungeste-p/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2020-188",
+"path": "profesii/csm/hotarare-sectia-judecatori/2020/188",
+"kind": "profesii",
+"year": "2020",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 188 din 20 februarie 2020 pentru aprobarea Regulamentului privind numirea în funcții de conducere a judecătorilor și revocarea din aceste funcții",
+"short": "Hotărârea CSM nr. 188/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-04",
+"latest": "2020-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223484",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2020-217",
+"path": "profesii/csm/hotarare-plen/2020/217",
+"kind": "profesii",
+"year": "2020",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 217 din 12 noiembrie 2020 pentru modificarea Regulamentului privind concediile personalului auxiliar de specialitate și personalului conex al instanțelor judecătorești și al parchetelor de pe lângă acestea, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 186/2007",
+"short": "Hotărârea CSM nr. 217/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-25",
+"latest": "2020-11-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233679",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2020-219",
+"path": "profesii/csm/hotarare-sectia-procurori/2020/219",
+"kind": "profesii",
+"year": "2020",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 219 din 10 martie 2020 pentru aprobarea Regulamentului privind numirea în funcții de conducere a procurorilor și revocarea din aceste funcții",
+"short": "Hotărârea CSM nr. 219/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223929",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2020-527",
+"path": "profesii/csm/hotarare-sectia-procurori/2020/527",
+"kind": "profesii",
+"year": "2020",
+"number": "527",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 527 din 2 iunie 2020 pentru completarea Regulamentului de ordine interioară al parchetelor, aprobat prin Hotărârea Secției pentru procurori a Consiliului Superior al Magistraturii nr. 947/2019",
+"short": "Hotărârea CSM nr. 527/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-05",
+"latest": "2020-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226596",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2020-556",
+"path": "profesii/ceccar/hotarare/2020/556",
+"kind": "profesii",
+"year": "2020",
+"number": "556",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 20/556 din 24 februarie 2020 privind prelungirea perioadei de valabilitate a vizei aferente anului 2019 până la data de 31 martie 2020",
+"short": "Hotărârea CECCAR nr. 556/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-02",
+"latest": "2020-03-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/223417",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2020-733",
+"path": "profesii/csm/hotarare-sectia-judecatori/2020/733",
+"kind": "profesii",
+"year": "2020",
+"number": "733",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 733 din 7 mai 2020 pentru completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 1.375/2015",
+"short": "Hotărârea CSM nr. 733/2020",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2020-05-08",
+"latest": "2020-05-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/225482",
 "flags": {
 "amendments_checked": false
 }

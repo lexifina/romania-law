@@ -3,6 +3,21 @@
  "shard": "anspdcp/2021",
  "acts": [
   {
+   "slug": "anspdcp-cerinte-2021-0624",
+   "path": "anspdcp/cerinte/2021/0624",
+   "short": "Cerințele ANSPDCP din 24 iunie 2021",
+   "title": "CERINȚE SUPLIMENTARE din 24 iunie 2021 pentru acreditarea organismelor de certificare în temeiul art. 43 din Regulamentul (UE) 2016/679",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244280",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244280",
+     "sha256": "c8c172929f36c3aec3a4eb518d246f4287526d6343eff2053bff73b8b476d457"
+    }
+   ]
+  },
+  {
    "slug": "anspdcp-comunicat-sanctiune-2021-2021-02-10",
    "path": "anspdcp/comunicat-sanctiune/2021/2021-02-10",
    "short": "Comunicat ANSPDCP din 2021-02-10",

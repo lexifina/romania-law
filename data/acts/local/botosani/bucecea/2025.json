@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/botosani/bucecea/2025",
+"acts": [
+{
+"slug": "hcl-botosani--bucecea-128-2025",
+"path": "local/botosani/bucecea/2025/128",
+"kind": "local",
+"year": "2025",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 128/2025 privind indexarea impozitelor pe mijloace de transport, prevăzute de art. 470, alin. 5 și 6 din Legea nr. 227/2015 privind Codul Fiscal",
+"short": "HCL Bucecea nr. 128/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/241189",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-129-2025",
+"path": "local/botosani/bucecea/2025/129",
+"kind": "local",
+"year": "2025",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 129/2025 privind aprobarea tarifelor de colectare și transport a deșeurilor pe raza UAT Bucecea, pentru anul 2026",
+"short": "HCL Bucecea nr. 129/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/241190",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--bucecea-132-2025",
+"path": "local/botosani/bucecea/2025/132",
+"kind": "local",
+"year": "2025",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 132/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Bucecea nr. 132/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://emol.ro/bucecea-bt/registru-hcl/245123",
+"council": "botosani/bucecea",
+"council_name": "Consiliul Local al Orașului Bucecea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

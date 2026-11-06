@@ -3,6 +3,51 @@
  "shard": "profesii/1999",
  "acts": [
   {
+   "slug": "profesii-ceccar-hotarare-1999-99-24",
+   "path": "profesii/ceccar/hotarare/1999/99-24",
+   "short": "Hotărârea CECCAR nr. 99/24/1999",
+   "title": "HOTĂRÂRE nr. 99/24 din 27 ianuarie 1999 pentru aprobarea Declarației de principiu și a Normelor naționale de audit și de servicii conexe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17005",
+   "versions": [
+    {
+     "from": "1999-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17005",
+     "sha256": "2a39fe0692927b85c30887ba006628693e68c8913ce19498bd0d03708ad8425b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-ordin-1999-792",
+   "path": "profesii/cmr/ordin/1999/792",
+   "short": "Ordinul CMR nr. 792/1999",
+   "title": "ORDIN nr. 792 din 13 august 1999 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate pe anul 1999, aprobat prin Hotărârea Guvernului nr. 312/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19204",
+   "versions": [
+    {
+     "from": "1999-09-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19204",
+     "sha256": "91e72f2c0457046d15b7b0cc28fa0b0de09da9f742a450604f5a5554d7f10b8d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-1999-57",
+   "path": "profesii/csm/hotarare-consiliu/1999/57",
+   "short": "Hotărârea CSM nr. 57/1999",
+   "title": "HOTĂRÂRE nr. 57 din 21 septembrie 1999 pentru modificarea Regulamentului de funcționare a Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19922",
+   "versions": [
+    {
+     "from": "1999-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19922",
+     "sha256": "78d0222f880d74c00b9b7979b8fd96dd631c4985b6e44bdb44f4b872a30bdfd9"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unbr-decizie-consiliu-1999-3564",
    "path": "profesii/unbr/decizie-consiliu/1999/3564",
    "short": "UNBR decizie-consiliu 3564/1999",

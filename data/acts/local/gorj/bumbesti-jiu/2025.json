@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/bumbesti-jiu/2025",
+"acts": [
+{
+"slug": "hcl-gorj--bumbesti-jiu-7-2025",
+"path": "local/gorj/bumbesti-jiu/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 7/2025 privind aqobarea normelor lehnice pentru intocmirea bunurilor care alcdtuiesc domeniul public li privat al comunelor, al ora$elor, al municipiilor $i judefelor; - Dispozilii le Legi i cadastrului Si a publicitdlii imobi I iare n r. 7/ I 996 Repu blicata, c u m odi ficErile $i completarile ulteaioare: - Prevederi le art. 3 lit. b) din Ordonanla nr. 4311 997 privind regimul drumurilor, republicata",
+"short": "HCL Bumbești-Jiu nr. 7/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

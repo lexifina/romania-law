@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "anexa/2010",
+ "acts": [
+  {
+   "slug": "anexa-ordin-aparare-91-2010-anexa",
+   "path": "anexa/ordin-aparare-91-2010/anexa",
+   "short": "Anexa la Ordin aparare nr. 91/2010",
+   "title": "Metodologie din 29 iulie 2010 privind derularea de către Ministerul Apărării Naționale a achizițiilor de produse, lucrări și servicii prin Agenția NATO pentru Aprovizionare și Mentenanță (anexa la Ordinul APARARE nr. 91/2010)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299928",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299928",
+     "sha256": "3058cd2a1f8b35429aa4662bb25fa05ee62aee063439dc0fef7ee150f972d5d2"
+    }
+   ]
+  }
+ ]
+}

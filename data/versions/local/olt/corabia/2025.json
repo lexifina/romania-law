@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/olt/corabia/2025",
+ "acts": [
+  {
+   "slug": "hcl-olt--corabia-68-2025",
+   "path": "local/olt/corabia/2025/68",
+   "short": "HCL Corabia nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 68/2025 privind aprobarea cuantumului taxei speciale de salubrizare în orașul Corabia începând cu data de 01.09.2025",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/227483",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/227483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-87-2025",
+   "path": "local/olt/corabia/2025/87",
+   "short": "HCL Corabia nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 87/2025 privind aprobarea sumelor indexate reprezentând impozitul pe mijloacele de transport prevăzute de art.470 alin.(5) și (6) din Legea nr. 227/2015,privind Codul fiscal,cu modificările și completările ulterioare, pentru anul 2026",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/237381",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/237381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--corabia-92-2025",
+   "path": "local/olt/corabia/2025/92",
+   "short": "HCL Corabia nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Corabia nr. 92/2025 privind indexarea si stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/corabia-ot/registru-hcl/243909",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/corabia-ot/registru-hcl/243909",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

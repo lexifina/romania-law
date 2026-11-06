@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/alba/arieseni/2025",
+ "acts": [
+  {
+   "slug": "hcl-alba--arieseni-63-2025",
+   "path": "local/alba/arieseni/2025/63",
+   "short": "HCL Arieșeni nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 63/2025 privind acordarea avizului favorabil al Consiliului Local Arieșeni în vederea realizării PUZ pentru “ Introducere parțială în intravilan si construire case de vacanță” beneficiar Asociația Centru Creștin Salem Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 15.12.2025 Luând în dezbatere: - Proiectul de hotărâre nr. 62/2025 privind acordarea avizului favor",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-63.pdf",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-63.pdf",
+     "sha256": "717f53c50cb91510c67becee7d8e769bb7c3b1eea6548e0b68108c332520a583"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-67-2025",
+   "path": "local/alba/arieseni/2025/67",
+   "short": "HCL Arieșeni nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 67/2025",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-67.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-67.pdf",
+     "sha256": "a75fcee363703555a7700bd4a534c6d4038d212929eea781a5c12e04eed27d78"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/sulina/2025",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--sulina-33-2025",
+   "path": "local/tulcea/sulina/2025/33",
+   "short": "HCL Sulina nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 33/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "e3adc3889e7767f1af04801176b76c14084a0dfa7ad258ad42ae7bc85447d586"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-40-2025",
+   "path": "local/tulcea/sulina/2025/40",
+   "short": "HCL Sulina nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 40/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "f3b09fdb78e2094be3b4b541b23507ee83ea69ab4b6fe91a28b129218fbc6eb1"
+    }
+   ]
+  }
+ ]
+}

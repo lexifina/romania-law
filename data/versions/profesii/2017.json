@@ -3,6 +3,1041 @@
  "shard": "profesii/2017",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2017-1-2",
+   "path": "profesii/cafr/hotarare/2017/1-2",
+   "short": "Hotărârea CAFR nr. 1/2017",
+   "title": "HOTĂRÂRE nr. 1 din 1 aprilie 2017 cu privire la aprobarea materialelor prezentate în cadrul Conferinței ordinare a Camerei Auditorilor Financiari din România din data de 1 aprilie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188092",
+   "versions": [
+    {
+     "from": "2017-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188092",
+     "sha256": "72ea256e73d67297770ff891ee2a567602c737aa9069dd8873e77d322201314c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-1",
+   "path": "profesii/cafr/hotarare/2017/1",
+   "short": "Hotărârea CAFR nr. 1/2017",
+   "title": "HOTĂRÂRE nr. 1 din 13 ianuarie 2017 privind respectarea de către auditorii financiari a cerințelor de pregătire profesională continuă, conform normelor și reglementărilor din domeniu, aferentă anului 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186318",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186318",
+     "sha256": "23388103771de5395db4317ffbbf9b7e916824d3d8213a2001389df0b0d0eb21"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-105",
+   "path": "profesii/cafr/hotarare/2017/105",
+   "short": "Hotărârea CAFR nr. 105/2017",
+   "title": "HOTĂRÂRE nr. 105 din 31 octombrie 2017 pentru modificarea și completarea Registrului public al auditorilor financiari din România, la 31 decembrie 2016, aprobat prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 4/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194935",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194935",
+     "sha256": "9c3efacde1e45379108d978665f7ccd19cf47445cdc4cfb4277263433cf74a36"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-106",
+   "path": "profesii/cafr/hotarare/2017/106",
+   "short": "Hotărârea CAFR nr. 106/2017",
+   "title": "HOTĂRÂRE nr. 106 din 8 noiembrie 2017 pentru derogarea de la unele prevederi ale Normelor privind perioada de pregătire profesională practică a stagiarilor în activitatea de audit financiar, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 212/2011 , și derogarea de la unele prevederi ale Regulamentului de organizare și desfășurare a examenului de competență profesională, aprobat prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 60/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194755",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194755",
+     "sha256": "06eea793dc08fbdfc08d52fcb286f8af9f7e9f6bed807083ad8e80319babdaaa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-11",
+   "path": "profesii/cafr/hotarare/2017/11",
+   "short": "Hotărârea CAFR nr. 11/2017",
+   "title": "HOTĂRÂRE nr. 11 din 23 februarie 2017 pentru aprobarea Normelor privind atribuirea calității de membru, înscrierea, evidența, retragerea și suspendarea auditorilor financiari, persoane fizice, și autorizarea, înscrierea, evidența, retragerea și suspendarea auditorilor financiari, persoane juridice, în și din Registrul public al auditorilor financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188625",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188625",
+     "sha256": "0a84bf1eeeb939d8f440f847c468078f16d99a7b5381e244bfa77fa487b5f838"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-111",
+   "path": "profesii/cafr/hotarare/2017/111",
+   "short": "Hotărârea CAFR nr. 111/2017",
+   "title": "HOTĂRÂRE nr. 111 din 6 decembrie 2017 privind adoptarea integrală a Normelor obligatorii din Cadrul internațional de practici profesionale ale auditului intern, ediția 2017 (IPPF 2017)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196367",
+   "versions": [
+    {
+     "from": "2018-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196367",
+     "sha256": "f3b7f0c8a460015362174f1624f79e8287cf33bb082795f9452dbeeb0642a3f6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-19",
+   "path": "profesii/cafr/hotarare/2017/19",
+   "short": "Hotărârea CAFR nr. 19/2017",
+   "title": "HOTĂRÂRE nr. 19 din 23 februarie 2017 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187065",
+   "versions": [
+    {
+     "from": "2017-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187065",
+     "sha256": "2ce3b78e850218a456ac829ac8b32ff8dcc4748a88406d2cc8b57b3514905b42"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-2",
+   "path": "profesii/cafr/hotarare/2017/2",
+   "short": "Hotărârea CAFR nr. 2/2017",
+   "title": "HOTĂRÂRE nr. 2 din 13 ianuarie 2017 privind modificarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința ordinară a Camerei Auditorilor Financiari din România organizată în anul 2017, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 121/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185701",
+   "versions": [
+    {
+     "from": "2017-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185701",
+     "sha256": "934381e9a5ccecc5aff3adfec51f0ace436841fc9c32dac5b32b0d13198de4b9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-21",
+   "path": "profesii/cafr/hotarare/2017/21",
+   "short": "Hotărârea CAFR nr. 21/2017",
+   "title": "HOTĂRÂRE nr. 21 din 23 februarie 2017 privind organizarea Conferinței pentru alegerea președintelui Camerei Auditorilor Financiari din România, a membrilor Consiliului Camerei Auditorilor Financiari din România și a membrilor comisiilor Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187659",
+   "versions": [
+    {
+     "from": "2017-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187659",
+     "sha256": "1854f33f608ab5d71aa1bceb628b288eb7759a068030be936a73ae7220f3d97b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-28",
+   "path": "profesii/cafr/hotarare/2017/28",
+   "short": "Hotărârea CAFR nr. 28/2017",
+   "title": "HOTĂRÂRE nr. 28 din 26 aprilie 2017 privind acordarea unor derogări de la aplicarea dispozițiilor art. 22 din Regulamentul de organizare și desfășurare a examenului de competență profesională, aprobat prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 60/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190800",
+   "versions": [
+    {
+     "from": "2017-07-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190800",
+     "sha256": "078c2ce22c0fcf80bcce86970f45f93c5a666aac68821db1f0481383423182e9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-29",
+   "path": "profesii/cafr/hotarare/2017/29",
+   "short": "Hotărârea CAFR nr. 29/2017",
+   "title": "Hotărârea CAFR nr. 29/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189002",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189002",
+     "sha256": "53916828a4c945e2c5b9383e120c46f40efd94974ef88d4bc9770b89561ae685"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-45",
+   "path": "profesii/cafr/hotarare/2017/45",
+   "short": "Hotărârea CAFR nr. 45/2017",
+   "title": "Hotărârea CAFR nr. 45/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189399",
+   "versions": [
+    {
+     "from": "2017-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189399",
+     "sha256": "31f015e2cab7bcaa87756d091f7d7cfa573e5a50832be47b3e6256c25f49e413"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-48",
+   "path": "profesii/cafr/hotarare/2017/48",
+   "short": "Hotărârea CAFR nr. 48/2017",
+   "title": "HOTĂRÂRE nr. 48 din 26 iunie 2017 privind aprobarea auditorilor financiari care au fost autorizați în alt stat membru al Uniunii Europene sau aparținând Spațiului Economic European ori în Confederația Elvețiană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191297",
+   "versions": [
+    {
+     "from": "2017-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191297",
+     "sha256": "646cc8ff0f9b520a4d798c254181d41df3631568563b0bbd990887ba6b9f00f8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-57",
+   "path": "profesii/cafr/hotarare/2017/57",
+   "short": "Hotărârea CAFR nr. 57/2017",
+   "title": "HOTĂRÂRE nr. 57 din 12 iulie 2017 pentru aprobarea remiterii scrisorii de garanție bancară contractate la ING BANK, în favoarea Direcției de Impozite și Taxe Locale Sector 5",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191219",
+   "versions": [
+    {
+     "from": "2017-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191219",
+     "sha256": "c58c763274210916514fe9e3eafd88f63aecad2b581c1c1fc8b4ace1cae3f048"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-67",
+   "path": "profesii/cafr/hotarare/2017/67",
+   "short": "Hotărârea CAFR nr. 67/2017",
+   "title": "HOTĂRÂRE nr. 67 din 20 iulie 2017 privind aprobarea organizării Conferinței pentru alegerea membrilor Consiliului Camerei Auditorilor Financiari din România și a membrilor Comisiei de auditori statutari a Camerei Auditorilor Financiari din România în 23 septembrie 2017, în conformitate cu Regulamentul de organizare și funcționare a Camerei Auditorilor Financiari din România, aprobat prin Hotărârea Guvernului nr. 433/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191942",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191942",
+     "sha256": "f6eaf7b98ff2169e1ef2e4c35c41d47aaab259b3ac9350488128c221c0cfcaa2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-68",
+   "path": "profesii/cafr/hotarare/2017/68",
+   "short": "Hotărârea CAFR nr. 68/2017",
+   "title": "HOTĂRÂRE nr. 68 din 20 iulie 2017 privind aprobarea Regulamentului pentru organizarea și desfășurarea alegerilor pentru membrii Consiliului Camerei Auditorilor Financiari din România și membrii Comisiei de auditori statutari a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191956",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191956",
+     "sha256": "fbcb358de0013c9b08c3b95ae41364df7383906e29a5713e826a13b6ba095ec8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-69",
+   "path": "profesii/cafr/hotarare/2017/69",
+   "short": "Hotărârea CAFR nr. 69/2017",
+   "title": "HOTĂRÂRE nr. 69 din 20 iulie 2017 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința pentru alegerea membrilor Consiliului Camerei Auditorilor Financiari din România și membrilor Comisiei de auditori statutari a Camerei Auditorilor Financiari din România, organizată în data de 23 septembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191944",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191944",
+     "sha256": "8c584685fd106df051471dd0ebc7ae6bb313f539fa7b88a674877de6e3636428"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-7",
+   "path": "profesii/cafr/hotarare/2017/7",
+   "short": "Hotărârea CAFR nr. 7/2017",
+   "title": "HOTĂRÂRE nr. 7 din 17 februarie 2017 privind modificarea articolului 10 din Normele pentru desemnarea reprezentanților auditorilor financiari la Conferința ordinară a Camerei Auditorilor Financiari din România organizată în anul 2017, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 121/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186789",
+   "versions": [
+    {
+     "from": "2017-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186789",
+     "sha256": "c045f8abb70698de253b18c30bed1aac0ba3aab1aade0aee375a0faa96696c11"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-71",
+   "path": "profesii/cafr/hotarare/2017/71",
+   "short": "Hotărârea CAFR nr. 71/2017",
+   "title": "HOTĂRÂRE nr. 71 din 31 iulie 2017 pentru modificarea și completarea Registrului public al auditorilor financiari din România, la 31 decembrie 2016, aprobat prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 4/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192169",
+   "versions": [
+    {
+     "from": "2017-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192169",
+     "sha256": "1a55751413b04ecadaf0d07f5bb66e385097e18e4993795400258336e16b7f38"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-72",
+   "path": "profesii/cafr/hotarare/2017/72",
+   "short": "Hotărârea CAFR nr. 72/2017",
+   "title": "HOTĂRÂRE nr. 72 din 14 august 2017 privind aprobarea organizării și convocării Conferinței Camerei Auditorilor Financiari din România în data de 23 septembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192419",
+   "versions": [
+    {
+     "from": "2017-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192419",
+     "sha256": "3cc09ad6395d16254a7095752b58e49eafceddd5d0290bccbf0b0cb620f7bce2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-8",
+   "path": "profesii/cafr/hotarare/2017/8",
+   "short": "Hotărârea CAFR nr. 8/2017",
+   "title": "HOTĂRÂRE nr. 8 din 23 februarie 2017 privind aprobarea organizării și convocării Conferinței ordinare a Camerei Auditorilor Financiari din România în data de 1 aprilie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186912",
+   "versions": [
+    {
+     "from": "2017-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186912",
+     "sha256": "9f8bbccbab9e16286cf5b3b7338242d796f013708e1b0f8e13f458f07e1ae81d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-86",
+   "path": "profesii/cafr/hotarare/2017/86",
+   "short": "Hotărârea CAFR nr. 86/2017",
+   "title": "HOTĂRÂRE nr. 86 din 28 septembrie 2017 privind alegerea președintelui Camerei Auditorilor Financiari din România și alegerea Biroului permanent al Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193772",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193772",
+     "sha256": "41fd7333af90b5069b6888e458322c0d3e03ae87f07516f9f99dd14b620dfa9b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2017-95",
+   "path": "profesii/cafr/hotarare/2017/95",
+   "short": "Hotărârea CAFR nr. 95/2017",
+   "title": "HOTĂRÂRE nr. 95 din 29 septembrie 2017 privind numirea reprezentantului Camerei Auditorilor Financiari din România în Consiliul superior al Autorității pentru Supravegherea Publică a Activității de Audit Statutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194161",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194161",
+     "sha256": "a7e4d9ef1f16be304c945a6308e4892fa6816d88f39adec8b671d6809a2ec415"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-conferinta-2017-3",
+   "path": "profesii/cafr/hotarare-conferinta/2017/3",
+   "short": "Hotărârea CAFR nr. 3/2017",
+   "title": "HOTĂRÂRE nr. 3 din 23 septembrie 2017 cu privire la alegerea Consiliului Camerei Auditorilor Financiari din România și Comisiei de auditori statutari a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193716",
+   "versions": [
+    {
+     "from": "2017-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193716",
+     "sha256": "f98cd0481b96276ba9b9844efe201524b3c9869e1a2778c572b0676b89920dbf"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2017-26",
+   "path": "profesii/cafr/hotarare-consiliu/2017/26",
+   "short": "Hotărârea CAFR nr. 26/2017",
+   "title": "HOTĂRÂRE nr. 26 din 31 martie 2017 pentru modificarea și completarea anexei nr. 2 „Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori“, aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188307",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188307",
+     "sha256": "3023a62e8aaec0582c8966941e0564543699b2b98037a0845ecb22274de7372c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2017-55",
+   "path": "profesii/cafr/hotarare-consiliu/2017/55",
+   "short": "Hotărârea CAFR nr. 55/2017",
+   "title": "HOTĂRÂRE nr. 55 din 3 iulie 2017 privind stabilirea unor derogări de la Normele privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 18/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191218",
+   "versions": [
+    {
+     "from": "2017-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191218",
+     "sha256": "0933063b83a526e383368e7eb705a257f16ec125b6cc97cfa62118c01e1aa763"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2017-1",
+   "path": "profesii/ccf/hotarare/2017/1",
+   "short": "Hotărârea CCF nr. 1/2017",
+   "title": "HOTĂRÂRE nr. 1 din 26 ianuarie 2017 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186430",
+   "versions": [
+    {
+     "from": "2017-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186430",
+     "sha256": "c737c88674a5ed3f791087bccf1146c473e8616972c65b99a7f73150f0d682c2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2017-10",
+   "path": "profesii/ccf/hotarare/2017/10",
+   "short": "Hotărârea CCF nr. 10/2017",
+   "title": "HOTĂRÂRE nr. 10 din 29 august 2017 privind înscrierea ca membru al Camerei Consultanților Fiscali a persoanelor care au promovat examenul de consultant fiscal sau de consultant fiscal asistent și au depășit termenul prevăzut de lege pentru înscriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192830",
+   "versions": [
+    {
+     "from": "2017-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192830",
+     "sha256": "dfaa3da634fc47ac87331616623ceacf15e8ce2d9ace2bec0313d522aa006977"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2017-12",
+   "path": "profesii/ccf/hotarare/2017/12",
+   "short": "Hotărârea CCF nr. 12/2017",
+   "title": "HOTĂRÂRE nr. 12 din 13 decembrie 2017 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196362",
+   "versions": [
+    {
+     "from": "2018-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196362",
+     "sha256": "cd66010d8ab3f993c3746821b1b433687071b6273d56e55991ccbc1623b1bf64"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2017-2",
+   "path": "profesii/ccf/hotarare/2017/2",
+   "short": "Hotărârea CCF nr. 2/2017",
+   "title": "HOTĂRÂRE nr. 2 din 22 februarie 2017 privind aprobarea Programului de pregătire profesională continuă aferent anului 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187058",
+   "versions": [
+    {
+     "from": "2017-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187058",
+     "sha256": "5dc3cb93e95d708c962616c083f2d065506a9b30657f9a7df5102aa3ba7ca92c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2017-6",
+   "path": "profesii/ccf/hotarare/2017/6",
+   "short": "Hotărârea CCF nr. 6/2017",
+   "title": "HOTĂRÂRE nr. 6 din 22 aprilie 2017 privind aprobarea documentelor prezentate spre dezbatere și alegerea membrilor Consiliului superior al Camerei Consultanților Fiscali, Comisiei de auditori statutari și Comisiei de apel în Conferința ordinară anuală a Camerei Consultanților Fiscali din 22 aprilie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189013",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189013",
+     "sha256": "8f2bd12fea75034cbc06e6627d94da593570a37b63fc64a3e44c75612d31c7cd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2017-7",
+   "path": "profesii/ccf/hotarare/2017/7",
+   "short": "Hotărârea CCF nr. 7/2017",
+   "title": "HOTĂRÂRE nr. 7 din 24 aprilie 2017 privind alegerea președintelui, prim-vicepreședintelui și a vicepreședinților Consiliului superior al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188758",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188758",
+     "sha256": "abce35caf0ef551f7db8d6a802c1df4fdee1d903e31e06a69ba5ac6c08cc8e9e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2017-9",
+   "path": "profesii/ccf/hotarare/2017/9",
+   "short": "Hotărârea CCF nr. 9/2017",
+   "title": "HOTĂRÂRE nr. 9 din 14 iunie 2017 privind modificarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 7/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190788",
+   "versions": [
+    {
+     "from": "2017-07-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190788",
+     "sha256": "b3496c60e7da1d80d42455cc2f99fafec5c0029e87e625b07f1f4843503ae555"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2017-11",
+   "path": "profesii/ccf/hotarare-consiliu/2017/11",
+   "short": "Hotărârea CCF nr. 11/2017",
+   "title": "HOTĂRÂRE nr. 11 din 29 august 2017 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193329",
+   "versions": [
+    {
+     "from": "2017-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193329",
+     "sha256": "8084de02fc84863a2f083ed27cd4897f61ab73daa41eccf0969db7200728a2f0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2017-8",
+   "path": "profesii/ccf/hotarare-consiliu/2017/8",
+   "short": "Hotărârea CCF nr. 8/2017",
+   "title": "HOTĂRÂRE nr. 8 din 8 mai 2017 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea iunie 2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189369",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189369",
+     "sha256": "0d0abfb55b76a92bdc0b495aad8ac9dc1ba0f1296622a24dc578dc4114a130fc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2017-4",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2017/4",
+   "short": "Hotărârea CCF nr. 4/2017",
+   "title": "HOTĂRÂRE nr. 4 din 22 februarie 2017 privind aprobarea Regulamentului pentru organizarea și desfășurarea alegerilor pentru Consiliul superior al Camerei Consultanților Fiscali, Comisia de auditori statutari și Comisia de apel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187522",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187522",
+     "sha256": "2f11395eaa1b40c63d85b96571232cf95dcb08b6858b453d24966fe15d722f49"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2017-5",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2017/5",
+   "short": "Hotărârea CCF nr. 5/2017",
+   "title": "HOTĂRÂRE nr. 5 din 22 februarie 2017 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187521",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187521",
+     "sha256": "e9b13e03c4889cce370bd02374929d7d1cee0fb1f00abc2cb952d21be9386cf2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-2017-1",
+   "path": "profesii/cfr/decizie/2017/1",
+   "short": "Decizia CFR nr. 1/2017",
+   "title": "DECIZIE nr. 1 din 27 martie 2017 privind aprobarea taxei de eliberare a Cardului profesional european pentru farmaciștii membri ai Colegiului Farmaciștilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188458",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188458",
+     "sha256": "3240c0a03c5c4394b3e19f7bfd094f881f515ace0428541924c26d0982cbebee"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2017-6",
+   "path": "profesii/cmdr/decizie/2017/6",
+   "short": "Decizia CMDR nr. 6/2017",
+   "title": "DECIZIE nr. 6 din 28 octombrie 2017 pentru modificarea și completarea anexei nr. 1 la Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 58/2011 privind organizarea sistemului de educație medicală continuă pentru medicii dentiști și pentru aprobarea Regulamentului de educație medicală continuă al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194934",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194934",
+     "sha256": "b60553ada3abe2c282c979f42c5a5d5170a42e1f2b14e0330ccbaef1c7ec5748"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-adunare-generala-2017-1-1",
+   "path": "profesii/cmdr/decizie-adunare-generala/2017/1-1",
+   "short": "Decizia CMDR nr. 1/1/2017",
+   "title": "DECIZIE nr. 1/1 din 11 martie 2017 privind modificarea și completarea Regulamentului de organizare și funcționare a Colegiului Medicilor Dentiști din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190707",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190707",
+     "sha256": "3517140e6cab640c3da663045d229d7cdfce66ae8ac0f42a4971e2a51fb73d7a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2017-2-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2017/2-2cn",
+   "short": "Decizia CMDR nr. 2/2CN/2017",
+   "title": "DECIZIE nr. 2/2CN din 10 martie 2017 pentru abrogarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 31/2011 privind componența comisiei de experți a Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190685",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190685",
+     "sha256": "6d0e59538c82eb1ac7e318203705abde30838c3867778a4abf9c190ba15f6b9c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2017-3-2cn",
+   "path": "profesii/cmdr/decizie-consiliu-national/2017/3-2cn",
+   "short": "Decizia CMDR nr. 3/2CN/2017",
+   "title": "DECIZIE nr. 3/2CN din 10 martie 2017 privind modificarea și completarea anexei nr. 1 la Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 5/2008 pentru adoptarea Regulamentului de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190748",
+   "versions": [
+    {
+     "from": "2017-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190748",
+     "sha256": "3968825f6bb843089dd57537ca9638b5684b489359b9fc6e91a65d2de17573c5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2017-14",
+   "path": "profesii/cmr/decizie/2017/14",
+   "short": "Decizia CMR nr. 14/2017",
+   "title": "DECIZIE nr. 14 din 28 aprilie 2017 privind stabilirea datei organizării alegerilor pentru comisiile de disciplină, adoptarea Regulamentului electoral privind alegerea membrilor comisiilor de disciplină și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189168",
+   "versions": [
+    {
+     "from": "2017-05-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189168",
+     "sha256": "9864cd7f94e232a376a25b0b2d683ae8c5e8a424ee928672370e409d8a70614f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2017-21",
+   "path": "profesii/cmr/decizie/2017/21",
+   "short": "Decizia CMR nr. 21/2017",
+   "title": "DECIZIE nr. 21 din 28 iulie 2017 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 16/2016 privind eliberarea certificatului de membru al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192565",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192565",
+     "sha256": "c775a7e6c19e66ee248f9d0c75fd1bbae3fe7a06c2a3ce9794c43e22d39c046f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2017-31",
+   "path": "profesii/cmr/decizie/2017/31",
+   "short": "Decizia CMR nr. 31/2017",
+   "title": "DECIZIE nr. 31 din 15 decembrie 2017 privind stabilirea cuantumului taxei de evaluare profesională în vederea recunoașterii titlurilor de medic specialist",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196470",
+   "versions": [
+    {
+     "from": "2018-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196470",
+     "sha256": "830956574020586265ba8be88a375b8decb2b8565d9f625e5a3e41c4276ab187"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2017-4",
+   "path": "profesii/cmr/decizie/2017/4",
+   "short": "Decizia CMR nr. 4/2017",
+   "title": "DECIZIE nr. 4 din 24 februarie 2017 privind stabilirea cuantumului taxei de înscriere în Colegiul Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187115",
+   "versions": [
+    {
+     "from": "2017-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187115",
+     "sha256": "544e057280fa6d464c53fbbcc97e2c6f773f2cb2d5f6af3761f911c04bf61227"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2017-9",
+   "path": "profesii/cmr/decizie/2017/9",
+   "short": "Decizia CMR nr. 9/2017",
+   "title": "DECIZIE nr. 9 din 24 februarie 2017 privind plata experților medicali desemnați în cauzele disciplinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187066",
+   "versions": [
+    {
+     "from": "2017-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187066",
+     "sha256": "b3866df011e7000bf68a87f06e9d8f44754bd59b14f624b7922c9a99138f2a0a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2017-1",
+   "path": "profesii/cmr/decizie-consiliu-national/2017/1",
+   "short": "Decizia CMR nr. 1/2017",
+   "title": "DECIZIE nr. 1 din 27 ianuarie 2017 pentru completarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 9/2014 privind eliberarea Avizului de practică temporară/ocazională a profesiei pentru medicii străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186447",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186447",
+     "sha256": "62c6d5fb6210907b4c4a8fc6e51b72b691f8450ef08f3bde56846c2cef2e2594"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2017-5",
+   "path": "profesii/cmr/decizie-consiliu-national/2017/5",
+   "short": "Decizia CMR nr. 5/2017",
+   "title": "DECIZIE nr. 5 din 24 februarie 2017 pentru stabilirea procedurii de consultare a dosarelor disciplinare aflate pe rolul și în arhiva Comisiei superioare de disciplină a Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187113",
+   "versions": [
+    {
+     "from": "2017-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187113",
+     "sha256": "8a7210f57f4acf75eef8d087be20b969b14a3035ffa0cc24cebbf4f5b4142219"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-dispozitie-2017-1",
+   "path": "profesii/cpr/dispozitie/2017/1",
+   "short": "Dispoziția CPR nr. 1/2017",
+   "title": "DISPOZIȚIE nr. 1 din 17 ianuarie 2017 pentru convocarea ședinței Convenției naționale a Colegiului Psihologilor din România și aprobarea unor măsuri privind organizarea alegerilor pentru filialele teritoriale și forurile de conducere ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185796",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185796",
+     "sha256": "7d58a8b5a680e4cf228496a5069cf48da4b86850be33687d7dee03dc1a99688b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-dispozitie-2017-19",
+   "path": "profesii/cpr/dispozitie/2017/19",
+   "short": "Dispoziția CPR nr. 19/2017",
+   "title": "DISPOZIȚIE nr. 19 din 23 martie 2017 pentru stabilirea condițiilor convocării unor ședințe speciale și adoptarea unor măsuri pentru evitarea încălcării ordinii de drept privind organizarea alegerilor pentru forurile de conducere ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187892",
+   "versions": [
+    {
+     "from": "2017-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187892",
+     "sha256": "bb13d9ec5b9cf805f1c9e8ebfc2eaafd9d1c715e064af05a7bab2c877f14c20c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-dispozitie-2017-2",
+   "path": "profesii/cpr/dispozitie/2017/2",
+   "short": "Dispoziția CPR nr. 2/2017",
+   "title": "DISPOZIȚIE nr. 2 din 17 ianuarie 2017 privind aplicarea și detalierea unor prevederi din Hotărârea Comitetului director al Colegiului Psihologilor din România nr. 1/2013 pentru aprobarea Procedurilor privind organizarea și desfășurarea alegerilor pentru forurile de conducere ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186429",
+   "versions": [
+    {
+     "from": "2017-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186429",
+     "sha256": "13850211c400370624f10b9a367b9fec37fa5724fa2b5fff9a58d1802af9e36c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-dispozitie-2017-4-2",
+   "path": "profesii/cpr/dispozitie/2017/4-2",
+   "short": "Dispoziția CPR nr. 4/2017",
+   "title": "DISPOZIȚIE nr. 4 din 16 iulie 2017 privind înregistrarea rezultatelor alegerilor din luna iulie 2017 pentru forurile de conducere ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196772",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196772",
+     "sha256": "30df234636bc60a95d77bac773e901fb78175f0b030620edb14e3f93eabdbc54"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-dispozitie-2017-4",
+   "path": "profesii/cpr/dispozitie/2017/4",
+   "short": "Dispoziția CPR nr. 4/2017",
+   "title": "DISPOZIȚIE nr. 4 din 9 februarie 2017 pentru convocarea unei ședințe excepționale a Consiliului Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186810",
+   "versions": [
+    {
+     "from": "2017-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186810",
+     "sha256": "682563dae57132d174643d342c8e6feb6bc5482fd2a0b988731ff9ee9b0c0458"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-2017-671",
+   "path": "profesii/csm/hotarare/2017/671",
+   "short": "Hotărârea CSM nr. 671/2017",
+   "title": "HOTĂRÂRE nr. 671 din 12 iunie 2017 pentru modificarea și completarea Regulamentului privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 581/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190273",
+   "versions": [
+    {
+     "from": "2017-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190273",
+     "sha256": "a2a5585835d4ed323ec06bc5826559506fe9a148e5ce38f3a6beb7104b54d0b1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2017-179",
+   "path": "profesii/csm/hotarare-consiliu/2017/179",
+   "short": "Hotărârea CSM nr. 179/2017",
+   "title": "HOTĂRÂRE nr. 179 din 28 februarie 2017 pentru modificarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187707",
+   "versions": [
+    {
+     "from": "2017-03-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187707",
+     "sha256": "1bce0323e7a8298e6c912798e6c480bd792a3d6188d080a1f5e1d4337ce8f1e5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2017-567",
+   "path": "profesii/csm/hotarare-consiliu/2017/567",
+   "short": "Hotărârea CSM nr. 567/2017",
+   "title": "HOTĂRÂRE nr. 567 din 9 mai 2017 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere la Școala Națională de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 173/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190126",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190126",
+     "sha256": "a2c3c6e70378b9266607c130b3c451505a1a7f471ccc5d04ec31119be70db98c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2017-568",
+   "path": "profesii/csm/hotarare-consiliu/2017/568",
+   "short": "Hotărârea CSM nr. 568/2017",
+   "title": "HOTĂRÂRE nr. 568 din 9 mai 2017 privind completarea Regulamentului de organizare și desfășurare a concursului sau examenului pentru numirea în funcții de conducere a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 320/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190127",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190127",
+     "sha256": "9b4ef9905f5adfe00a799aed464f6937d0369e14994e94643455a22ebab71615"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2017-569",
+   "path": "profesii/csm/hotarare-consiliu/2017/569",
+   "short": "Hotărârea CSM nr. 569/2017",
+   "title": "HOTĂRÂRE nr. 569 din 9 mai 2017 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 74/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190128",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190128",
+     "sha256": "a6079ead4eed7553dfc8169646f39291fa616036d163a84bca7a4032a05e0a8b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2017-570",
+   "path": "profesii/csm/hotarare-consiliu/2017/570",
+   "short": "Hotărârea CSM nr. 570/2017",
+   "title": "HOTĂRÂRE nr. 570 din 9 mai 2017 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 293/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190026",
+   "versions": [
+    {
+     "from": "2017-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190026",
+     "sha256": "735e6493439ee99e2eb2e76468193387d82d43a532aa5f79c24a0019614000db"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2017-633",
+   "path": "profesii/csm/hotarare-consiliu/2017/633",
+   "short": "Hotărârea CSM nr. 633/2017",
+   "title": "HOTĂRÂRE nr. 633 din 25 mai 2017 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcție a inspectorilor judiciari, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 801/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190007",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190007",
+     "sha256": "c22917d9bcec791a406b7734398bbb4ca35d852c601397615e8d91ce5df0a02c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2017-140",
+   "path": "profesii/csm/hotarare-plen/2017/140",
+   "short": "Hotărârea CSM nr. 140/2017",
+   "title": "HOTĂRÂRE nr. 140 din 7 februarie 2017 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcții de conducere a grefierilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 182/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186840",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186840",
+     "sha256": "52d526a41ce758b71b3cef0183570ba45ab3557a581c7042c8ad00ee1a25014b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2017-141",
+   "path": "profesii/csm/hotarare-plen/2017/141",
+   "short": "Hotărârea CSM nr. 141/2017",
+   "title": "HOTĂRÂRE nr. 141 din 7 februarie 2017 pentru modificarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 1.375/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186780",
+   "versions": [
+    {
+     "from": "2017-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186780",
+     "sha256": "91c7fd9b7d01e0a575d049c3be07ef51887c8b07a18418b2108002f389a94682"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2017-1478",
+   "path": "profesii/csm/hotarare-plen/2017/1478",
+   "short": "Hotărârea CSM nr. 1478/2017",
+   "title": "HOTĂRÂRE nr. 1.478 din 19 decembrie 2017 pentru modificarea Regulamentului de organizare și funcționare al Școlii Naționale de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 183/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196671",
+   "versions": [
+    {
+     "from": "2018-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196671",
+     "sha256": "455a0f265e56df4635fe343883e8ac9f33301ef9c44dcc957f6841675eecfbc5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2017-561",
+   "path": "profesii/csm/hotarare-plen/2017/561",
+   "short": "Hotărârea CSM nr. 561/2017",
+   "title": "HOTĂRÂRE nr. 561 din 9 mai 2017 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190055",
+   "versions": [
+    {
+     "from": "2017-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190055",
+     "sha256": "395f6512ff9fa9af079627f0471cd99781fca4a8efa9141990cc5ff3087544c5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2017-566",
+   "path": "profesii/csm/hotarare-plen/2017/566",
+   "short": "Hotărârea CSM nr. 566/2017",
+   "title": "HOTĂRÂRE nr. 566 din 9 mai 2017 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 279/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190056",
+   "versions": [
+    {
+     "from": "2017-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190056",
+     "sha256": "79cf6698608a4f94dcdf0169f7a2f196ab1189d94c75307c3b7d358940f453e6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2017-681",
+   "path": "profesii/csm/hotarare-plen/2017/681",
+   "short": "Hotărârea CSM nr. 681/2017",
+   "title": "HOTĂRÂRE nr. 681 din 27 iunie 2017 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 74/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190622",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190622",
+     "sha256": "c115c52cd1817f1a83b0901247890887497a320534afeedb74676fb434689770"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2017-682",
+   "path": "profesii/csm/hotarare-plen/2017/682",
+   "short": "Hotărârea CSM nr. 682/2017",
+   "title": "HOTĂRÂRE nr. 682 din 27 iunie 2017 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 279/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190623",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190623",
+     "sha256": "8f805e011f5fb53d61336d5df98cd2077360b9a47cfa519e7393fc85d6122055"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2017-683",
+   "path": "profesii/csm/hotarare-plen/2017/683",
+   "short": "Hotărârea CSM nr. 683/2017",
+   "title": "HOTĂRÂRE nr. 683 din 27 iunie 2017 pentru completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190624",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190624",
+     "sha256": "0da86c2014b001d794b7bb534df8bbc38d2680b0d40d35b3c502680f292d81e9"
+    }
+   ]
+  },
+  {
    "slug": "profesii-inppa-hotarare-consiliu-2017-1",
    "path": "profesii/inppa/hotarare-consiliu/2017/1",
    "short": "INPPA hotarare-consiliu 1/2017",
@@ -74,6 +1109,156 @@
      "units": 1,
      "source_url": "https://inppa.ro/hotararea-nr-5-din-25-august-2017-a-consiliului-de-conducere-al-inppa-privind-examenul-de-absolvire-a-cursurilor-de-pregatire-profesionala-initiala-organizate-in-anul-2017-in-cadrul-i-n-p-p-a-cent/",
      "sha256": "5a69f8324043de05c5bf3357251d6dd9c0c90da4f09d861877dc6327b9c6cd41"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2017-150",
+   "path": "profesii/mediere/hotarare-consiliu/2017/150",
+   "short": "Hotărârea Consiliul de mediere nr. 150/2017",
+   "title": "HOTĂRÂRE nr. 150 din 7 iulie 2017 pentru publicarea în Monitorul Oficial al României, Partea I, a Tabloului mediatorilor autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191747",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191747",
+     "sha256": "ae3719bc164bd96ed404fea6f0331e5092961c217c77b49cf7f69bcaf0fa8509"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2017-2",
+   "path": "profesii/mediere/hotarare-consiliu/2017/2",
+   "short": "Hotărârea Consiliul de mediere nr. 2/2017",
+   "title": "HOTĂRÂRE nr. 2 din 20 ianuarie 2017 privind modificarea anexei nr. 1 la Regulamentul de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186798",
+   "versions": [
+    {
+     "from": "2017-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186798",
+     "sha256": "42eed0cbeceba77d091352347c73d5492448dd467617868226e6dd1a168e0510"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2017-20",
+   "path": "profesii/oamgmamr/hotarare/2017/20",
+   "short": "Hotărârea OAMGMAMR nr. 20/2017",
+   "title": "HOTĂRÂRE nr. 20 din 19 mai 2017 pentru aprobarea Metodologiei privind întocmirea și eliberarea certificatului de status profesional curent pentru asistenții medicali generaliști, moașe și asistenții medicali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190705",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190705",
+     "sha256": "3ef7e9bec68a05182b96e97eddbc57ece6eee29f257fa95692f8eb89074b0577"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2017-25",
+   "path": "profesii/oamgmamr/hotarare/2017/25",
+   "short": "Hotărârea OAMGMAMR nr. 25/2017",
+   "title": "HOTĂRÂRE nr. 25 din 14 septembrie 2017 pentru aprobarea măsurilor întreprinse în vederea autorizării asistenților medicali generaliști, moașelor și asistenților medicali care au exercitat profesia în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193973",
+   "versions": [
+    {
+     "from": "2017-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193973",
+     "sha256": "20088dcd3a66dbf2ac4d64eb65fa2bbc65ef2ae1b1d5ea369d99a47f42829113"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2017-26",
+   "path": "profesii/oamgmamr/hotarare/2017/26",
+   "short": "Hotărârea OAMGMAMR nr. 26/2017",
+   "title": "HOTĂRÂRE nr. 26 din 14 septembrie 2017 pentru completarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 35/2015 privind eliberarea Certificatului de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România însoțit de avizul anual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193974",
+   "versions": [
+    {
+     "from": "2017-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193974",
+     "sha256": "d41ae1025c0f0da38fcc7e64315f5ab5462f3b7f9b38fb997cd30ada5069ece8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2017-27",
+   "path": "profesii/oamgmamr/hotarare/2017/27",
+   "short": "Hotărârea OAMGMAMR nr. 27/2017",
+   "title": "HOTĂRÂRE nr. 27 din 6 octombrie 2017 pentru modificarea și completarea Regulamentului de organizare și funcționare al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 3/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193975",
+   "versions": [
+    {
+     "from": "2017-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193975",
+     "sha256": "1d77a780a7b44060dbd5b35c8414a3a4aa3ef9d2b7df201306863e3b61198380"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2017-29",
+   "path": "profesii/oamgmamr/hotarare/2017/29",
+   "short": "Hotărârea OAMGMAMR nr. 29/2017",
+   "title": "HOTĂRÂRE nr. 29 din 4 decembrie 2017 pentru aprobarea Procedurii de suspendare și de retragere a calității de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196341",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196341",
+     "sha256": "f510607a752c27a3555e54665d32f3ed51e37da34c34cdf0540dbaf7801881bf"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2017-31",
+   "path": "profesii/oamgmamr/hotarare/2017/31",
+   "short": "Hotărârea OAMGMAMR nr. 31/2017",
+   "title": "HOTĂRÂRE nr. 31 din 6 decembrie 2017 privind stabilirea cuantumului cotizației de membru, respectiv cotizației de membru asociat al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România și a unor taxe încasate de Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195763",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195763",
+     "sha256": "8fb5b56dcaab5c751892f6edba67af0a4cf6176ef1e1ff7c0d2700c0f670cdad"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2017-34",
+   "path": "profesii/oamgmamr/hotarare/2017/34",
+   "short": "Hotărârea OAMGMAMR nr. 34/2017",
+   "title": "HOTĂRÂRE nr. 34 din 6 decembrie 2017 pentru aprobarea Procedurii de completare a formularelor-chestionar necesare exercitării profesiilor de asistent medical generalist, de moașă și de asistent medical în afara granițelor Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195833",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195833",
+     "sha256": "fed63462c44d5ae758503af258a0586820cb51decad2291a8ee3a738334b9333"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2017-8",
+   "path": "profesii/oamgmamr/hotarare/2017/8",
+   "short": "Hotărârea OAMGMAMR nr. 8/2017",
+   "title": "HOTĂRÂRE nr. 8 din 14 februarie 2017 pentru aprobarea Metodologiei privind acordarea accesului parțial la activitatea profesională în România asistenților medicali generaliști, moașelor și asistenților medicali formați în profesie în unul din celelalte state membre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187576",
+   "versions": [
+    {
+     "from": "2017-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187576",
+     "sha256": "08e341ecdba55552746d52ced0cf3894b6505c968fa1f4859db87c628c53a0b7"
     }
    ]
   },
@@ -704,6 +1889,81 @@
      "units": 1,
      "source_url": "https://unbr.ro/publicam-hotararea-consiliului-unbr-nr-301-din-09-decembrie-2017-privind-problematica-incompatibilitatilor-in-sistemul-organelor-de-conducere-a-profesiei-de-avocat-si-in-cadrul-institutiilor-care-isi/",
      "sha256": "fa80689b4af7704eb81f0f111c43fd815b399cbfba9b63be68cc503256b2ed49"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-2017-32",
+   "path": "profesii/unnpr/hotarare/2017/32",
+   "short": "Hotărârea UNNPR nr. 32/2017",
+   "title": "HOTĂRÂRE nr. 32 din 9 mai 2017 privind aprobarea Regulamentului de organizare și desfășurare a concursului de schimbare a sediilor birourilor notariale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189439",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189439",
+     "sha256": "a5962bf18df10e9c1c211d034d9e979a4d1e64b0d1462c41312b734de35c802a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-congres-2017-2",
+   "path": "profesii/unnpr/hotarare-congres/2017/2",
+   "short": "Hotărârea UNNPR nr. 2/2017",
+   "title": "HOTĂRÂRE nr. 2 din 24 noiembrie 2017 privind ratificarea Hotărârii Consiliului Uniunii Naționale a Notarilor Publici din România nr. 87/2016 pentru aprobarea modificării art. 22 alin. (1) lit. g) din Statutul Uniunii Naționale a Notarilor Publici din România, aprobat prin Hotărârea Congresului Notarilor Publici din România nr. 10/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195789",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195789",
+     "sha256": "ae82d1617bb24aa96a6a58cce7b071d53bc3253dba757b6f46032889a7a186b4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-congres-2017-4",
+   "path": "profesii/unnpr/hotarare-congres/2017/4",
+   "short": "Hotărârea UNNPR nr. 4/2017",
+   "title": "HOTĂRÂRE nr. 4 din 24 noiembrie 2017 privind ratificarea Hotărârii Consiliului Uniunii Naționale a Notarilor Publici din România nr. 10/2017 pentru aprobarea modificării Codului deontologic al notarilor publici din România, aprobat prin Hotărârea Congresului Notarilor Publici din România nr. 9/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196229",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196229",
+     "sha256": "a1e0824c990f322133bcf9f7ab66531615b9a0d76de1409759108f02f2dddd77"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-consiliu-2017-10",
+   "path": "profesii/unnpr/hotarare-consiliu/2017/10",
+   "short": "Hotărârea UNNPR nr. 10/2017",
+   "title": "HOTĂRÂRE nr. 10 din 21 aprilie 2017 pentru aprobarea modificării Codului deontologic al notarilor publici din România, aprobat prin Hotărârea Congresului Notarilor Publici din România nr. 9/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189001",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189001",
+     "sha256": "e27ab4d366afbe8120c354a80c0727d237dd1cbb7e21abe02869895fa29b31f7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2017-2",
+   "path": "profesii/unpir/hotarare/2017/2",
+   "short": "Hotărârea UNPIR nr. 2/2017",
+   "title": "HOTĂRÂRE nr. 2 din 22 septembrie 2017 pentru modificarea și completarea Hotărârii Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193782",
+   "versions": [
+    {
+     "from": "2017-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193782",
+     "sha256": "b599fb9200fbfca7ac1aa3cbfbabf5b7ae021a4e3518d7f5a92ab91d20aac391"
     }
    ]
   }

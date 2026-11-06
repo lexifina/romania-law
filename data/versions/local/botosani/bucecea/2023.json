@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/bucecea/2023",
+ "acts": [
+  {
+   "slug": "hcl-botosani--bucecea-125-2023",
+   "path": "local/botosani/bucecea/2023/125",
+   "short": "HCL Bucecea nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bucecea nr. 125/2023 privind indexarea impozitelor pe mijloace de transport, prevăzute de art. 470, alin. 5 și 6 din Legea nr. 227/2015 privind Codul Fiscal",
+   "url": "https://emol.ro/bucecea-bt/registru-hcl/129278",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bucecea-bt/registru-hcl/129278",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

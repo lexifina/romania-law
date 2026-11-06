@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "profesii/2001",
+ "acts": [
+  {
+   "slug": "profesii-cmr-ordin-2001-4188",
+   "path": "profesii/cmr/ordin/2001/4188",
+   "short": "Ordinul CMR nr. 4188/2001",
+   "title": "ORDIN nr. 4.188 din 18 decembrie 2001 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate în asistența medicală primara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33086",
+   "versions": [
+    {
+     "from": "2001-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33086",
+     "sha256": "231ab92716f996212b3b8db706acdeafab8fdc267bbfe39d0b9c861b671ea26f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-ordin-2001-4189",
+   "path": "profesii/cmr/ordin/2001/4189",
+   "short": "Ordinul CMR nr. 4189/2001",
+   "title": "ORDIN nr. 4.189 din 18 decembrie 2001 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate în asistența medicală ambulatorie de specialitate pentru specialitățile clinice, paraclinice și stomatologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33083",
+   "versions": [
+    {
+     "from": "2001-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33083",
+     "sha256": "99a08ebf80bca0ea32458e42b9162c90c3f41888d8c97392883ed46d772a42d3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-ordin-2001-4233",
+   "path": "profesii/cmr/ordin/2001/4233",
+   "short": "Ordinul CMR nr. 4233/2001",
+   "title": "ORDIN nr. 4.233 din 28 decembrie 2001 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării medicamentelor cu și fără contribuție personală în tratamentul ambulatoriu și a Contractului-cadru privind condițiile acordării dispozitivelor medicale destinate corectării și recuperării deficiențelor organice sau funcționale ori corectării unor deficiente fizice, în cadrul sistemului asigurărilor sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33876",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33876",
+     "sha256": "b1fd0baccead67f0c893739537c4dd769bc110ac9a988d6d2a5724d0e5496fd8"
+    }
+   ]
+  }
+ ]
+}

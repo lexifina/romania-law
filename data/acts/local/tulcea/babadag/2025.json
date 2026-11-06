@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/tulcea/babadag/2025",
+"acts": [
+{
+"slug": "hcl-tulcea--babadag-204-2025",
+"path": "local/tulcea/babadag/2025/204",
+"kind": "local",
+"year": "2025",
+"number": "204",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Babadag nr. 204/2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+"short": "HCL Babadag nr. 204/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://primariababadag.ro/wp-content/uploads/2026/01/Hotararea-nr.-204-din-29.12.2025-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-fiscal-2026.pdf",
+"council": "tulcea/babadag",
+"council_name": "Consiliul Local al Orașului Babadag",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

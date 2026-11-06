@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/salaj/simleu-silvaniei/2026",
+"acts": [
+{
+"slug": "hcl-salaj--simleu-silvaniei-110-2026",
+"path": "local/salaj/simleu-silvaniei/2026/110",
+"kind": "local",
+"year": "2026",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 110/2026 privind aprobarea Regulamentului privind normele de gospodărire locală, întreținere, salubrizare și protecția mediului pe teritoriul Orașului Șimleu Silvaniei și abrogarea Hotărârii Consiliului Local nr. 101 din 22.11.2022 Consiliul Local al Orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: – Referatul de aprobare nr. 15993/23.09.2026 al Primarului Orașului Și",
+"short": "HCL Șimleu Silvaniei nr. 110/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/2/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

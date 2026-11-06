@@ -3,6 +3,1296 @@
  "shard": "profesii/2015",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2015-1",
+   "path": "profesii/cafr/hotarare/2015/1",
+   "short": "Hotărârea CAFR nr. 1/2015",
+   "title": "HOTĂRÂRE nr. 1 din 28 martie 2015 cu privire la aprobarea materialelor prezentate în cadrul Conferinței ordinare a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166993",
+   "versions": [
+    {
+     "from": "2015-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166993",
+     "sha256": "0d8b728b02c2cd704d37155347ed142a1f95ed9230d63ac01a844fecc5384455"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-10",
+   "path": "profesii/cafr/hotarare/2015/10",
+   "short": "Hotărârea CAFR nr. 10/2015",
+   "title": "HOTĂRÂRE nr. 10 din 10 februarie 2015 privind aprobarea Procedurilor de organizare a cursului pentru auditarea proiectelor finanțate din fonduri europene și alte fonduri nerambursabile de la alți donatori și de înscriere în Lista auditorilor financiari, persoane fizice și juridice, care pot audita proiecte finanțate din fonduri europene și alte fonduri nerambursabile de la alți donatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165679",
+   "versions": [
+    {
+     "from": "2015-02-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165679",
+     "sha256": "a8a973a85c54c398aa439d144bef2aa8dedcfd86f13a3227a52c64f44034811f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-11",
+   "path": "profesii/cafr/hotarare/2015/11",
+   "short": "Hotărârea CAFR nr. 11/2015",
+   "title": "HOTĂRÂRE nr. 11 din 19 februarie 2015 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 35/2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166001",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166001",
+     "sha256": "e7479ca148e31019e0d80a03f609c8c742ab3007a2968f4017ee28dd069c0e03"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-12",
+   "path": "profesii/cafr/hotarare/2015/12",
+   "short": "Hotărârea CAFR nr. 12/2015",
+   "title": "HOTĂRÂRE nr. 12 din 19 martie 2015 privind aprobarea auditorilor financiari care au fost autorizați în alt stat membru al Uniunii Europene sau aparținând Spațiului Economic European ori Confederației Elvețiene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167324",
+   "versions": [
+    {
+     "from": "2015-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167324",
+     "sha256": "8b65a91e8ce55d4e8068dea711ca399a8edefa0ec1c3da45c26b0a80952d7ed3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-21",
+   "path": "profesii/cafr/hotarare/2015/21",
+   "short": "Hotărârea CAFR nr. 21/2015",
+   "title": "HOTĂRÂRE nr. 21 din 19 martie 2015 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166853",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166853",
+     "sha256": "cac8b0281ca71c6978e974e9d309ed05b9227fcab71be64e74018c41e45fdb92"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-22",
+   "path": "profesii/cafr/hotarare/2015/22",
+   "short": "Hotărârea CAFR nr. 22/2015",
+   "title": "HOTĂRÂRE nr. 22 din 19 martie 2015 privind aprobarea Procedurilor Camerei Auditorilor Financiari din România de traducere a standardelor publicate de către Federația Internațională a Contabililor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167583",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167583",
+     "sha256": "6bc4b5447504480b842c80f483f56393bb0c6f58e42c927608c5d35d012b8b8a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-34",
+   "path": "profesii/cafr/hotarare/2015/34",
+   "short": "Hotărârea CAFR nr. 34/2015",
+   "title": "HOTĂRÂRE nr. 34 din 19 iunie 2015 privind aprobarea Listei cuprinzând auditorii financiari care au fost autorizați în alte state membre ale Uniunii Europene sau aparținând Spațiului Economic European ori Confederației Elvețiene și au dobândit calitatea și dreptul de exercitare a profesiei de auditor financiar în România, în urma testului de aptitudini organizat în data de 4 iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170381",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170381",
+     "sha256": "6cf26f54bc69d89384526d52fc29c8ac03feeff585fefdc9e5eca6c399392d63"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-35",
+   "path": "profesii/cafr/hotarare/2015/35",
+   "short": "Hotărârea CAFR nr. 35/2015",
+   "title": "HOTĂRÂRE nr. 35 din 29 iunie 2015 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169509",
+   "versions": [
+    {
+     "from": "2015-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169509",
+     "sha256": "81308ba1cc9284ee9df9d8fb3945af283543c94024a0de70d6d8b05b88065260"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-41",
+   "path": "profesii/cafr/hotarare/2015/41",
+   "short": "Hotărârea CAFR nr. 41/2015",
+   "title": "HOTĂRÂRE nr. 41 din 7 septembrie 2015 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171370",
+   "versions": [
+    {
+     "from": "2015-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171370",
+     "sha256": "f69ec951071cdaad74f281ec1c483871f83f32b7f8089ac9f06d49e0354b7608"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-51",
+   "path": "profesii/cafr/hotarare/2015/51",
+   "short": "Hotărârea CAFR nr. 51/2015",
+   "title": "HOTĂRÂRE nr. 51 din 7 septembrie 2015 privind modalitatea de adoptare a hotărârilor Consiliului Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171398",
+   "versions": [
+    {
+     "from": "2015-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171398",
+     "sha256": "1f67c4abe70ee36d07f29e089a954b1c1654e76bb31a7361ffbcef95bb70068f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-56",
+   "path": "profesii/cafr/hotarare/2015/56",
+   "short": "Hotărârea CAFR nr. 56/2015",
+   "title": "HOTĂRÂRE nr. 56 din 2 noiembrie 2015 pentru aprobarea Ghidului privind implementarea Standardelor internaționale de audit intern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172955",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172955",
+     "sha256": "1b932885f8d21154ec5721752c3328c00a4e6d7845f75b074bfa0ca8faa6a1a2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-58",
+   "path": "profesii/cafr/hotarare/2015/58",
+   "short": "Hotărârea CAFR nr. 58/2015",
+   "title": "HOTĂRÂRE nr. 58 din 23 noiembrie 2015 pentru modificarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 72/2006 privind periodicitatea desfășurării congreselor profesiei de auditor financiar din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173544",
+   "versions": [
+    {
+     "from": "2015-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173544",
+     "sha256": "660cdb4474bb1641ae1a71ff934c44f29bdba6fc36927f90eb9ce452e0820a19"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-6",
+   "path": "profesii/cafr/hotarare/2015/6",
+   "short": "Hotărârea CAFR nr. 6/2015",
+   "title": "HOTĂRÂRE nr. 6 din 29 ianuarie 2015 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165431",
+   "versions": [
+    {
+     "from": "2015-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165431",
+     "sha256": "3be175b7ef821424a413629fef8cd4a00c039b64c4e732cb2c2b7eb4e7655591"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-62",
+   "path": "profesii/cafr/hotarare/2015/62",
+   "short": "Hotărârea CAFR nr. 62/2015",
+   "title": "HOTĂRÂRE nr. 62 din 23 noiembrie 2015 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173684",
+   "versions": [
+    {
+     "from": "2015-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173684",
+     "sha256": "6ed2106d3f1ecb19bd5b2725cb986ef0ecea7dc0d37a2be4c33a9845741e3ae2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-66",
+   "path": "profesii/cafr/hotarare/2015/66",
+   "short": "Hotărârea CAFR nr. 66/2015",
+   "title": "HOTĂRÂRE nr. 66 din 23 noiembrie 2015 pentru modificarea anexei nr. 6 la Normele privind atribuirea calității de membru, înscrierea, evidența, retragerea și suspendarea persoanelor fizice și autorizarea, înscrierea, evidența, retragerea și suspendarea persoanelor juridice în și din Registrul public al auditorilor financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 16/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174790",
+   "versions": [
+    {
+     "from": "2016-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174790",
+     "sha256": "d983d6c61e968faee94146af70ce12008cee52f3765b56781c2f9ac7833f2d57"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-68",
+   "path": "profesii/cafr/hotarare/2015/68",
+   "short": "Hotărârea CAFR nr. 68/2015",
+   "title": "HOTĂRÂRE nr. 68 din 21 decembrie 2015 pentru aprobarea Normelor privind instituirea de către auditorii financiari a măsurilor de prevenire și combatere a spălării banilor și a finanțării terorismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174409",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174409",
+     "sha256": "2e678ec823ff3293790679974a5e130c429aac46171f2ab022f8d820b77be34f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-71",
+   "path": "profesii/cafr/hotarare/2015/71",
+   "short": "Hotărârea CAFR nr. 71/2015",
+   "title": "HOTĂRÂRE nr. 71 din 21 decembrie 2015 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174622",
+   "versions": [
+    {
+     "from": "2016-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174622",
+     "sha256": "6f01fcc02ff79d71263ea1244aef8bafecf05b1baad58cf0648ec2ce06153558"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-78",
+   "path": "profesii/cafr/hotarare/2015/78",
+   "short": "Hotărârea CAFR nr. 78/2015",
+   "title": "HOTĂRÂRE nr. 78 din 21 decembrie 2015 privind aprobarea Listei cuprinzând auditorii financiari care au fost autorizați în alte state membre ale Uniunii Europene sau aparținând Spațiului Economic European ori Confederației Elveției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175882",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175882",
+     "sha256": "a08b105f4da67c982ca35da3272c284bee46fa7f68f296142d9803069338f419"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-82",
+   "path": "profesii/cafr/hotarare/2015/82",
+   "short": "Hotărârea CAFR nr. 82/2015",
+   "title": "HOTĂRÂRE nr. 82 din 30 decembrie 2015 privind adoptarea Standardelor internaționale de control al calității, audit, revizuire, alte servicii de asigurare și servicii conexe, emise de Federația Internațională a Contabililor (IFAC) - ediția 2014, traduse și revizuite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175883",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175883",
+     "sha256": "ebd3e664844d30b9557856d6471cdd4ad52ab3921a2a0a1fa56b4900086b2691"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2015-9",
+   "path": "profesii/cafr/hotarare/2015/9",
+   "short": "Hotărârea CAFR nr. 9/2015",
+   "title": "HOTĂRÂRE nr. 9 din 3 februarie 2015 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința ordinară a Camerei Auditorilor Financiari din România organizată în anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165466",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165466",
+     "sha256": "b14dacfeaf885c3dbea29f6fcfffdd6d5401ec7d1fa540a671e62d3d3f4cee73"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2015-81",
+   "path": "profesii/cafr/hotarare-consiliu/2015/81",
+   "short": "Hotărârea CAFR nr. 81/2015",
+   "title": "HOTĂRÂRE nr. 81 din 30 decembrie 2015 pentru modificarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 74/2014 privind aprobarea formularelor pentru raportarea anuală a membrilor Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175164",
+   "versions": [
+    {
+     "from": "2016-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175164",
+     "sha256": "802aabd82747f5842d7c6bd8da19933aa9e2965086bcf714f921a95b0683d06a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2015-1",
+   "path": "profesii/ccf/hotarare/2015/1",
+   "short": "Hotărârea CCF nr. 1/2015",
+   "title": "HOTĂRÂRE nr. 1 din 14 ianuarie 2015 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164756",
+   "versions": [
+    {
+     "from": "2015-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164756",
+     "sha256": "df22e7a9e3d2147b83e0e4d69063991b9f21f818f3b439e5f15d3b0006d35b76"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2015-10",
+   "path": "profesii/ccf/hotarare/2015/10",
+   "short": "Hotărârea CCF nr. 10/2015",
+   "title": "HOTĂRÂRE nr. 10 din 16 decembrie 2015 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174558",
+   "versions": [
+    {
+     "from": "2016-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174558",
+     "sha256": "0b0d8effa3c00ee4d9980b4393e56c8e2fe45b81d5df425c8c14cc6ca4d4c7ae"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2015-3",
+   "path": "profesii/ccf/hotarare/2015/3",
+   "short": "Hotărârea CCF nr. 3/2015",
+   "title": "HOTĂRÂRE nr. 3 din 4 martie 2015 privind aprobarea Programului de pregătire profesională continuă aferent anului 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166338",
+   "versions": [
+    {
+     "from": "2015-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166338",
+     "sha256": "8ec0e6dab52b0aa912a94469838e4207dd861e4f9de71c012c8f86e9f1450089"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2015-4",
+   "path": "profesii/ccf/hotarare/2015/4",
+   "short": "Hotărârea CCF nr. 4/2015",
+   "title": "HOTĂRÂRE nr. 4 din 18 martie 2015 privind ocuparea unui loc vacant de membru al Consiliului superior al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167019",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167019",
+     "sha256": "3ebc89cfe0c6965bd31014e46f9efd5919122017277e3238f94cc96942014498"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2015-8",
+   "path": "profesii/ccf/hotarare/2015/8",
+   "short": "Hotărârea CCF nr. 8/2015",
+   "title": "HOTĂRÂRE nr. 8 din 27 octombrie 2015 privind stabilirea cazurilor de incompatibilitate în efectuarea activității de consultanță fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172618",
+   "versions": [
+    {
+     "from": "2015-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172618",
+     "sha256": "59c0b3d8d7e95dbbae6991dd3b215358df52aa1214abbbaaf09402d77b86694d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2015-9",
+   "path": "profesii/ccf/hotarare/2015/9",
+   "short": "Hotărârea CCF nr. 9/2015",
+   "title": "HOTĂRÂRE nr. 9 din 27 octombrie 2015 privind eliminarea din Programul anual de pregătire profesională continuă a consultanților fiscali a sistemului de învățământ e-learning",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172628",
+   "versions": [
+    {
+     "from": "2015-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172628",
+     "sha256": "e2d2cfbd8321f004adcfae60bab7b8e81103f80b7545dbebb2822c6d918536cc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2015-5",
+   "path": "profesii/ccf/hotarare-conferinta/2015/5",
+   "short": "Hotărârea CCF nr. 5/2015",
+   "title": "HOTĂRÂRE nr. 5 din 27 aprilie 2015 privind aprobarea documentelor prezentate spre dezbatere în Conferința anuală ordinară a Camerei Consultanților Fiscali din 25 aprilie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168069",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168069",
+     "sha256": "2af09745de3821386d5608505c23bbb8695ddb3c04af3637a8a9800da633e795"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2015-6",
+   "path": "profesii/ccf/hotarare-consiliu/2015/6",
+   "short": "Hotărârea CCF nr. 6/2015",
+   "title": "HOTĂRÂRE nr. 6 din 14 mai 2015 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea iunie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168222",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168222",
+     "sha256": "5a5db2ffd6a5a314ab254753f53214a8f45bd946059ccfff5eae53f48d92da9b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2015-7",
+   "path": "profesii/ccf/hotarare-consiliu/2015/7",
+   "short": "Hotărârea CCF nr. 7/2015",
+   "title": "HOTĂRÂRE nr. 7 din 24 septembrie 2015 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171703",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171703",
+     "sha256": "ca90906945ea2ea5156e18d19db1efe9fc8f9d0c37f5afc56169d8b673aa3f68"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2015-2",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2015/2",
+   "short": "Hotărârea CCF nr. 2/2015",
+   "title": "HOTĂRÂRE nr. 2 din 11 februarie 2015 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166331",
+   "versions": [
+    {
+     "from": "2015-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166331",
+     "sha256": "4bf1759427e9526cb28728f7ba88f22e14471dd117fbf113b8fe89ee4e7dfa89"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-2015-3",
+   "path": "profesii/cfr/decizie-consiliu/2015/3",
+   "short": "Decizia CFR nr. 3/2015",
+   "title": "DECIZIE nr. 3 din 11 decembrie 2015 privind eliberarea unor persoane din funcția de membru al Comisiei Electorale Centrale, respectiv desemnarea altor persoane ca membri ai Comisiei Electorale Centrale pe locurile rămase vacante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174328",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174328",
+     "sha256": "52cd23c2201b8b57f2431e487c61d93950982677f83e58c8fe5b7f2e92f974b8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2015-2",
+   "path": "profesii/cfr/decizie-consiliu-national/2015/2",
+   "short": "Decizia CFR nr. 2/2015",
+   "title": "DECIZIE nr. 2 din 29 septembrie 2015 privind aprobarea Regulamentului electoral al Colegiului Farmaciștilor din România, stabilirea perioadei de organizare a alegerilor la nivelul Colegiului Farmaciștilor din România și aprobarea Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171934",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171934",
+     "sha256": "a5b64c9fb372e8a57815d0926e6c9987e49a82fb4f76e0736323541e9b1dd33e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2015-10",
+   "path": "profesii/cmdr/decizie/2015/10",
+   "short": "Decizia CMDR nr. 10/2015",
+   "title": "DECIZIE nr. 10 din 18 septembrie 2015 pentru abrogarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 5/2015 privind aprobarea calendarului electoral pentru alegerea organelor de conducere ale Colegiului Medicilor Dentiști din România de la nivel local și național pentru mandatul 2015-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171607",
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171607",
+     "sha256": "160faa4dd8808ba6629f2ad1bb6660c15d5b9ee9e2bc81fc7b898930e543d18d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2015-11",
+   "path": "profesii/cmdr/decizie/2015/11",
+   "short": "Decizia CMDR nr. 11/2015",
+   "title": "DECIZIE nr. 11 din 26 septembrie 2015 privind aprobarea calendarului electoral pentru alegerea organelor de conducere ale Colegiului Medicilor Dentiști din România la nivel local și național pentru mandatul 2015-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172321",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172321",
+     "sha256": "55297e6e786e2244e2c6f86aede9a03a9a3126eb89a89be6fbcec572a4b5f13e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2015-12",
+   "path": "profesii/cmdr/decizie/2015/12",
+   "short": "Decizia CMDR nr. 12/2015",
+   "title": "DECIZIE nr. 12 din 13 noiembrie 2015 privind modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 2/2015 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 59/2011 privind aprobarea Regulamentului electoral al Colegiului Medicilor Dentiști din România și pentru aprobarea Comisiei Electorale Centrale pentru alegerea organelor de conducere ale Colegiului Medicilor Dentiști din România de la nivel local și național pentru mandatul 2015-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173095",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173095",
+     "sha256": "88994a12f41b33c2a0ee3f552c6b09d78fce0ca008edc2cb5984be6195b9ad62"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2015-2",
+   "path": "profesii/cmdr/decizie/2015/2",
+   "short": "Decizia CMDR nr. 2/2015",
+   "title": "DECIZIE nr. 2 din 28 februarie 2015 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 59/2011 privind aprobarea Regulamentului electoral al Colegiului Medicilor Dentiști din România și pentru aprobarea Comisiei Electorale Centrale pentru alegerea organelor de conducere ale Colegiului Medicilor Dentiști din România de la nivel local și național pentru mandatul 2015-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167320",
+   "versions": [
+    {
+     "from": "2015-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167320",
+     "sha256": "6d9b0334c9917c1e4363aa07eb38f794af9a4d2eaa8a8d43c0f6f2a8acd7a4de"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2015-5",
+   "path": "profesii/cmdr/decizie/2015/5",
+   "short": "Decizia CMDR nr. 5/2015",
+   "title": "DECIZIE nr. 5 din 20 martie 2015 privind aprobarea calendarului electoral pentru alegerea organelor de conducere ale Colegiului Medicilor Dentiști din România de la nivel local și național pentru mandatul 2015-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170277",
+   "versions": [
+    {
+     "from": "2015-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170277",
+     "sha256": "077a345523919da706e5cdf0a7c2a6c53a89ca35d60fe6835782d6180eb0c08a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2015-9",
+   "path": "profesii/cmdr/decizie/2015/9",
+   "short": "Decizia CMDR nr. 9/2015",
+   "title": "DECIZIE nr. 9 din 11 iulie 2015 pentru modificarea anexei la Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 59/2011 privind aprobarea Regulamentului electoral al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171102",
+   "versions": [
+    {
+     "from": "2015-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171102",
+     "sha256": "7765aa8fb48d69b543fa110bc0fe4d13fb0dd35f81dd6af6dd1d53ea12d48460"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-adunare-generala-2015-3",
+   "path": "profesii/cmdr/decizie-adunare-generala/2015/3",
+   "short": "Decizia CMDR nr. 3/2015",
+   "title": "DECIZIE nr. 3 din 21 martie 2015 privind modificarea și completarea Regulamentului de organizare și funcționare a Colegiului Medicilor Dentiști din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170227",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170227",
+     "sha256": "d72bad8aa9042a9151c4a7785f4f0914cec19b20e1417bb743a3626cebd040e7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2015-14",
+   "path": "profesii/cmdr/decizie-consiliu-national/2015/14",
+   "short": "Decizia CMDR nr. 14/2015",
+   "title": "DECIZIE nr. 14 din 13 noiembrie 2015 pentru modificarea anexei nr. 1 la Decizia Consiliului național al Colegiului Medicilor Dentiști din România nr. 58/2011 privind organizarea sistemului de educație medicală continuă pentru medicii dentiști și pentru aprobarea Regulamentului de educație medicală continuă al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173681",
+   "versions": [
+    {
+     "from": "2015-12-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173681",
+     "sha256": "a9bae8df81ddfa8df3cf58eb4bd64734bad5999bedf9a6638296787e87835266"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2015-6",
+   "path": "profesii/cmdr/decizie-consiliu-national/2015/6",
+   "short": "Decizia CMDR nr. 6/2015",
+   "title": "DECIZIE nr. 6 din 11 iulie 2015 privind procedura de transfer al membrilor Colegiului Medicilor Dentiști din România în cadrul colegiilor teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171016",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171016",
+     "sha256": "dadf92ff8dae35c3d8a6ab6d673ef40b596cab9a98cd8dbacf0c7e9e42ba04b2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2015-7",
+   "path": "profesii/cmdr/decizie-consiliu-national/2015/7",
+   "short": "Decizia CMDR nr. 7/2015",
+   "title": "DECIZIE nr. 7 din 11 iulie 2015 privind procedura de notificare cu privire la exercitarea profesiei pe raza altui colegiu teritorial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171138",
+   "versions": [
+    {
+     "from": "2015-10-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171138",
+     "sha256": "9846c24dba1fd015070b56680500ac5da4fe97578977b5871e78d83bdbf17e66"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2015-8",
+   "path": "profesii/cmdr/decizie-consiliu-national/2015/8",
+   "short": "Decizia CMDR nr. 8/2015",
+   "title": "DECIZIE nr. 8 din 11 iulie 2015 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 16/2013 privind eliberarea Certificatului de membru al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171031",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171031",
+     "sha256": "94fb208fd547c029f3a56a8eeae7de90a6aa20322ac328daabe7057ed2c10396"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-2015-26",
+   "path": "profesii/cmr/decizie-consiliu/2015/26",
+   "short": "Decizia CMR nr. 26/2015",
+   "title": "DECIZIE nr. 26 din 12 decembrie 2015 privind stabilirea datelor organizării alegerilor din mandatul 2016-2020, adoptarea Regulamentului electoral și aprobarea componenței Comisiei Electorale Centrale și adoptarea unor măsuri organizatorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174591",
+   "versions": [
+    {
+     "from": "2016-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174591",
+     "sha256": "09d90b4ed339d826bbb1aa6088876e9bf0abd81f5fefcb5f385482ef3ae7d99e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2015-1",
+   "path": "profesii/cmr/decizie-consiliu-national/2015/1",
+   "short": "Decizia CMR nr. 1/2015",
+   "title": "DECIZIE nr. 1 din 16 ianuarie 2015 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 9/2014 privind eliberarea Avizului de practică temporară/ocazională a profesiei pentru medicii străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165279",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165279",
+     "sha256": "bcc970ccb4b144758b5cbc9de444ba8efb81a51745b52abbb9eca2f6e7c3f180"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2015-20",
+   "path": "profesii/cmr/decizie-consiliu-national/2015/20",
+   "short": "Decizia CMR nr. 20/2015",
+   "title": "DECIZIE nr. 20 din 17 iulie 2015 privind stabilirea datelor organizării alegerilor din mandatul 2015-2019, adoptarea Regulamentului electoral privind alegerea conducerii Colegiului Medicilor din România și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170374",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170374",
+     "sha256": "2b16e8caf318da90df48aad7a77aef28e394bf27c20232e88a194e94d4f29b99"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2015-21",
+   "path": "profesii/cmr/decizie-consiliu-national/2015/21",
+   "short": "Decizia CMR nr. 21/2015",
+   "title": "DECIZIE nr. 21 din 28 august 2015 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 20/2015 privind stabilirea datelor organizării alegerilor din mandatul 2015-2019, adoptarea Regulamentului electoral privind alegerea conducerii Colegiului Medicilor din România și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171286",
+   "versions": [
+    {
+     "from": "2015-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171286",
+     "sha256": "6ee4082a4bebd5658beb7ac2bda40a519e6e5f2ffc9dfa6f0f9b6abb64fb5366"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2015-24",
+   "path": "profesii/cmr/decizie-consiliu-national/2015/24",
+   "short": "Decizia CMR nr. 24/2015",
+   "title": "DECIZIE nr. 24 din 25 septembrie 2015 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 20/2015 privind stabilirea datelor organizării alegerilor din mandatul 2015-2019, adoptarea Regulamentului electoral privind alegerea conducerii Colegiului Medicilor din România și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171817",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171817",
+     "sha256": "bb554babb4f8f457006d183e11566cdfb0c300a656eeb9c591c36b4aa75f0208"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2015-3",
+   "path": "profesii/cmr/decizie-consiliu-national/2015/3",
+   "short": "Decizia CMR nr. 3/2015",
+   "title": "DECIZIE nr. 3 din 27 februarie 2015 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 1/2013 privind stabilirea sistemului procedural de evaluare a activităților de educație medicală continuă a medicilor, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167035",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167035",
+     "sha256": "5debeb6d848b1b578d2d9c2e97e7bbf6dc4e2509359df87ada522b65c23f824c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-dispozitie-2015-15",
+   "path": "profesii/cpr/dispozitie/2015/15",
+   "short": "Dispoziția CPR nr. 15/2015",
+   "title": "DISPOZIȚIE nr. 15 din 15 decembrie 2015 privind constatarea unei funcții vacante și înregistrarea unui nou membru în cadrul Comisiei de psihologie clinică și psihoterapie a Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175303",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175303",
+     "sha256": "c6feb4f77df195241e5270c3d690607d79ba4df24268ca08196fa85fbb57b225"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2015-3",
+   "path": "profesii/cpr/hotarare-comitet-director/2015/3",
+   "short": "Hotărârea CPR nr. 3/2015",
+   "title": "HOTĂRÂRE nr. 3 din 24 aprilie 2015 pentru aprobarea Normelor privind organizarea interviului pentru accesul în profesia de psiholog cu drept de liberă practică, în treapta de specializare psiholog practicant, forma sub supervizare, în cadrul filialelor teritoriale ale Colegiului Psihologilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168341",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168341",
+     "sha256": "d9cdd8a0c567fe083ecc7e792ee4d047d9f6ffbc0cf3101cef69c3597a795642"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2015-4",
+   "path": "profesii/cpr/hotarare-comitet-director/2015/4",
+   "short": "Hotărârea CPR nr. 4/2015",
+   "title": "HOTĂRÂRE nr. 4 din 24 aprilie 2015 privind condițiile generale pentru formarea profesională complementară de specializare și pentru formarea continuă a unor competențe specifice în profesia de psiholog cu drept de liberă practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168618",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168618",
+     "sha256": "c19decee48d51e0db74f9cf1b6861d45af1a6a6e071dce1761ac95ffa73722d2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2015-5",
+   "path": "profesii/cpr/hotarare-comitet-director/2015/5",
+   "short": "Hotărârea CPR nr. 5/2015",
+   "title": "HOTĂRÂRE nr. 5 din 24 aprilie 2015 privind aprobarea Standardelor de calitate în serviciile psihologice - Partea generală, Cartea I",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169633",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169633",
+     "sha256": "3027616c59d49cc078ebc752a9d6e6a5071fd8588f629325dfb9bad5c0fd4308"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2015-1264",
+   "path": "profesii/csm/hotarare-consiliu/2015/1264",
+   "short": "Hotărârea CSM nr. 1264/2015",
+   "title": "HOTĂRÂRE nr. 1.264 din 24 noiembrie 2015 pentru completarea Regulamentului privind organizarea și desfășurarea concursului ori examenului pentru definitivare în funcție, promovare în grade sau trepte profesionale superioare ori din funcția de grefier cu studii medii în cea de grefier cu studii superioare, în cadrul aceleiași instanțe sau aceluiași parchet, precum și în funcții de execuție a personalului auxiliar de specialitate la instanțe și parchete superioare, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 181/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174399",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174399",
+     "sha256": "630cfa21751620d06fd73682f0e1be63583a22660afa9c541983b8ceafd58d1d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2015-893",
+   "path": "profesii/csm/hotarare-consiliu/2015/893",
+   "short": "Hotărârea CSM nr. 893/2015",
+   "title": "HOTĂRÂRE nr. 893 din 15 septembrie 2015 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului ori examenului pentru definitivare în funcție, promovare în grade sau trepte profesionale superioare ori din funcția de grefier cu studii medii în cea de grefier cu studii superioare, în cadrul aceleiași instanțe sau aceluiași parchet, precum și în funcții de execuție a personalului auxiliar de specialitate la instanțe și parchete superioare, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 181/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172295",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172295",
+     "sha256": "322919b229c008b5ab28ab6e63c65c914a988bf5f5e1ee896872e6e56631cd20"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1045",
+   "path": "profesii/csm/hotarare-plen/2015/1045",
+   "short": "Hotărârea CSM nr. 1045/2015",
+   "title": "HOTĂRÂRE nr. 1.045 din 13 octombrie 2015 pentru modificarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173107",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173107",
+     "sha256": "2bacaf309bfbf14fc7c0915c2dc9b9b97ffa6932e3d0d33b7b7e6b104d50579c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1046",
+   "path": "profesii/csm/hotarare-plen/2015/1046",
+   "short": "Hotărârea CSM nr. 1046/2015",
+   "title": "HOTĂRÂRE nr. 1.046 din 13 octombrie 2015 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 279/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173108",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173108",
+     "sha256": "b55a5bc3642754255bf252622b70cc802cd72b8b8cc50ebd6eb4f5cb10c5d4a9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1047",
+   "path": "profesii/csm/hotarare-plen/2015/1047",
+   "short": "Hotărârea CSM nr. 1047/2015",
+   "title": "HOTĂRÂRE nr. 1.047 din 13 octombrie 2015 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de admitere la Școala Națională de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 173/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173109",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173109",
+     "sha256": "177bc059effb6a35ec6f8239ee5bde59f170eefef568c9922bb4d2edce62e50c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1048",
+   "path": "profesii/csm/hotarare-plen/2015/1048",
+   "short": "Hotărârea CSM nr. 1048/2015",
+   "title": "HOTĂRÂRE nr. 1.048 din 13 octombrie 2015 pentru modificarea și completarea Regulamentului de organizare și desfășurare a concursului sau examenului pentru numirea în funcții de conducere a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 320/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173110",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173110",
+     "sha256": "f96f0196390c345f578a8e087a777eb5ad4b00c57ac442c20b800f3d7a5927b5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1049",
+   "path": "profesii/csm/hotarare-plen/2015/1049",
+   "short": "Hotărârea CSM nr. 1049/2015",
+   "title": "HOTĂRÂRE nr. 1.049 din 13 octombrie 2015 pentru modificarea și completarea Regulamentului privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 581/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173114",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173114",
+     "sha256": "b326966719a33225aea4e5b0f7009ef0d5f4ab7582779ee40c4c756ff2682f94"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1050",
+   "path": "profesii/csm/hotarare-plen/2015/1050",
+   "short": "Hotărârea CSM nr. 1050/2015",
+   "title": "HOTĂRÂRE nr. 1.050 din 13 octombrie 2015 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 621/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173115",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173115",
+     "sha256": "c454c6effabcb7060e53e543c1cdbfc5756b0f6fdf7b59f989cee669f5132580"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1051",
+   "path": "profesii/csm/hotarare-plen/2015/1051",
+   "short": "Hotărârea CSM nr. 1051/2015",
+   "title": "HOTĂRÂRE nr. 1.051 din 13 octombrie 2015 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare în funcția de judecător la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 74/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173116",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173116",
+     "sha256": "0651f0fc5b89f1512da945610b03353c61155992030a20679da5eb388f7e0c9f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1052",
+   "path": "profesii/csm/hotarare-plen/2015/1052",
+   "short": "Hotărârea CSM nr. 1052/2015",
+   "title": "HOTĂRÂRE nr. 1.052 din 13 octombrie 2015 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 293/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173119",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173119",
+     "sha256": "c3131d15007b5e7156fdfe02331d8a972a15b28900b7103b1af1b422b7e0e2ef"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-113",
+   "path": "profesii/csm/hotarare-plen/2015/113",
+   "short": "Hotărârea CSM nr. 113/2015",
+   "title": "HOTĂRÂRE nr. 113 din 10 februarie 2015 pentru modificarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165725",
+   "versions": [
+    {
+     "from": "2015-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165725",
+     "sha256": "49aa76a02cb2770fda7129edcf8f021e42fa71235f0641ea9946f8bbd82cf7d1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1132",
+   "path": "profesii/csm/hotarare-plen/2015/1132",
+   "short": "Hotărârea CSM nr. 1132/2015",
+   "title": "HOTĂRÂRE nr. 1.132 din 27 octombrie 2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172542",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172542",
+     "sha256": "2d47cd672842da56d4db2ae9bea32d729d5a536a3f5136354fdeff4edc50cdd9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1157",
+   "path": "profesii/csm/hotarare-plen/2015/1157",
+   "short": "Hotărârea CSM nr. 1157/2015",
+   "title": "HOTĂRÂRE nr. 1.157 din 3 noiembrie 2015 pentru modificarea și completarea Regulamentului privind evaluarea activității profesionale a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 676/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173073",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173073",
+     "sha256": "123099b725d94eb939fc546853f00ba93ab5be336ab73824aa8916c11597820d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1323",
+   "path": "profesii/csm/hotarare-plen/2015/1323",
+   "short": "Hotărârea CSM nr. 1323/2015",
+   "title": "HOTĂRÂRE nr. 1.323 din 8 decembrie 2015 pentru modificarea Regulamentului privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 581/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174400",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174400",
+     "sha256": "cc15d07da6e8b46b0d09882b3287260da96ebe5c59de4c8ba297a847359d9356"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1324",
+   "path": "profesii/csm/hotarare-plen/2015/1324",
+   "short": "Hotărârea CSM nr. 1324/2015",
+   "title": "HOTĂRÂRE nr. 1.324 din 8 decembrie 2015 pentru completarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174403",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174403",
+     "sha256": "0ffec64a04d41abc5ec810092fd6be2ddaaa520b929d4288c42e7fb1c4ee7004"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1375",
+   "path": "profesii/csm/hotarare-plen/2015/1375",
+   "short": "Hotărârea CSM nr. 1375/2015",
+   "title": "HOTĂRÂRE nr. 1.375 din 17 decembrie 2015 pentru aprobarea Regulamentului de ordine interioară al instanțelor judecătorești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174377",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174377",
+     "sha256": "f6c44d2ec3b3aa9efd6c941e08f9c8e9ae173864a6907263ac4c3d05ec807f2e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-1378",
+   "path": "profesii/csm/hotarare-plen/2015/1378",
+   "short": "Hotărârea CSM nr. 1378/2015",
+   "title": "HOTĂRÂRE nr. 1.378 din 17 decembrie 2015 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 621/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174714",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174714",
+     "sha256": "4c864fe8014ea89e87875a97988b447468d013e09f312a2e75fc85f2a6a3ac6f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-148",
+   "path": "profesii/csm/hotarare-plen/2015/148",
+   "short": "Hotărârea CSM nr. 148/2015",
+   "title": "HOTĂRÂRE nr. 148 din 10 februarie 2015 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 621/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165726",
+   "versions": [
+    {
+     "from": "2015-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165726",
+     "sha256": "7d5f194e3dd65a4c6377afa1b38f3547787b400e3490bad07b0b9e158618febb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-193",
+   "path": "profesii/csm/hotarare-plen/2015/193",
+   "short": "Hotărârea CSM nr. 193/2015",
+   "title": "HOTĂRÂRE nr. 193 din 3 martie 2015 pentru completarea Regulamentului privind evaluarea activității profesionale a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 676/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166834",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166834",
+     "sha256": "2a34706f5f51eb3547e02b35146973c3fc62af8ad533b4c1d04453e605b8a10a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-274",
+   "path": "profesii/csm/hotarare-plen/2015/274",
+   "short": "Hotărârea CSM nr. 274/2015",
+   "title": "HOTĂRÂRE nr. 274 din 19 martie 2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167190",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167190",
+     "sha256": "17d2e88a01272aa43a7952ac2ffede1a063308060b81cb79ecb743fbd7b514c5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-327",
+   "path": "profesii/csm/hotarare-plen/2015/327",
+   "short": "Hotărârea CSM nr. 327/2015",
+   "title": "HOTĂRÂRE nr. 327 din 7 aprilie 2015 pentru modificarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167492",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167492",
+     "sha256": "7fcb01a59e0eeba80f032284f8402d1b71b6a0ff50b820a4a6a0b6d4e1ad4264"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-443",
+   "path": "profesii/csm/hotarare-plen/2015/443",
+   "short": "Hotărârea CSM nr. 443/2015",
+   "title": "HOTĂRÂRE nr. 443 din 29 aprilie 2015 pentru completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168332",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168332",
+     "sha256": "f11f53647d6b39520ebcc3d58caa4ee1ec8834334052d7f1f393a1188b8a8230"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-473",
+   "path": "profesii/csm/hotarare-plen/2015/473",
+   "short": "Hotărârea CSM nr. 473/2015",
+   "title": "HOTĂRÂRE nr. 473 din 13 mai 2015 pentru modificarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168419",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168419",
+     "sha256": "942e3e6b14575976c2932dff4d786b164408a6742d0b75f9a51e9c0a5d1c4899"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-475",
+   "path": "profesii/csm/hotarare-plen/2015/475",
+   "short": "Hotărârea CSM nr. 475/2015",
+   "title": "HOTĂRÂRE nr. 475 din 13 mai 2015 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168242",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168242",
+     "sha256": "8584c17c94980bb5fdd572dc262e62f57f692d6697f6062dc9d11dddb33b9256"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-476",
+   "path": "profesii/csm/hotarare-plen/2015/476",
+   "short": "Hotărârea CSM nr. 476/2015",
+   "title": "HOTĂRÂRE nr. 476 din 13 mai 2015 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 279/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168244",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168244",
+     "sha256": "963b099514e9d54bf5252fb347ceb5329947b3d1e0f91de63211fcfc74d09938"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-477",
+   "path": "profesii/csm/hotarare-plen/2015/477",
+   "short": "Hotărârea CSM nr. 477/2015",
+   "title": "HOTĂRÂRE nr. 477 din 13 mai 2015 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 293/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168245",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168245",
+     "sha256": "deaa6ffcbfa63721e8905d83325c1e31da227f547239b982552eef029a7e669a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-53",
+   "path": "profesii/csm/hotarare-plen/2015/53",
+   "short": "Hotărârea CSM nr. 53/2015",
+   "title": "HOTĂRÂRE nr. 53 din 15 ianuarie 2015 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de ocupare a posturilor vacante de grefier la instanțele judecătorești și la parchetele de pe lângă acestea, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 126/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165542",
+   "versions": [
+    {
+     "from": "2015-02-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165542",
+     "sha256": "9b508795258f629a38770ba7192caa8d1e18c7c38cb5a63dd14c1c7c299524f1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-608",
+   "path": "profesii/csm/hotarare-plen/2015/608",
+   "short": "Hotărârea CSM nr. 608/2015",
+   "title": "HOTĂRÂRE nr. 608 din 10 iunie 2015 pentru modificarea Regulamentului privind examenul de capacitate al judecătorilor stagiari și al procurorilor stagiari, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 581/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168935",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168935",
+     "sha256": "76c9cfce31c45f4620eb765d652b5cd7ae7f47cca04d7bbbf98438cfb4f74916"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-753",
+   "path": "profesii/csm/hotarare-plen/2015/753",
+   "short": "Hotărârea CSM nr. 753/2015",
+   "title": "HOTĂRÂRE nr. 753 din 30 iunie 2015 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169783",
+   "versions": [
+    {
+     "from": "2015-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169783",
+     "sha256": "97f4a647b7c7197ad80cd40be25743ff616528664cee46a9a47f2035c3b5c2d0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-782",
+   "path": "profesii/csm/hotarare-plen/2015/782",
+   "short": "Hotărârea CSM nr. 782/2015",
+   "title": "HOTĂRÂRE nr. 782 din 8 iulie 2015 pentru modificarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170104",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170104",
+     "sha256": "d492fbdcfeba63cea735d1b0cd35a113daec1e2ab1ae63dbc37fc6ad01715d46"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-894",
+   "path": "profesii/csm/hotarare-plen/2015/894",
+   "short": "Hotărârea CSM nr. 894/2015",
+   "title": "HOTĂRÂRE nr. 894 din 15 septembrie 2015 pentru modificarea și completarea Regulamentului de organizare și funcționare al Școlii Naționale de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 183/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171808",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171808",
+     "sha256": "af3a9ae107f35e4bfc0141eb4d1cb80edaeb7dfb75d06ce354f373b7badbe05a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2015-895",
+   "path": "profesii/csm/hotarare-plen/2015/895",
+   "short": "Hotărârea CSM nr. 895/2015",
+   "title": "HOTĂRÂRE nr. 895 din 15 septembrie 2015 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171639",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171639",
+     "sha256": "edd753637625681b6043c877e6401a2fb56e31933cb217f4995ae7886c57f3df"
+    }
+   ]
+  },
+  {
    "slug": "profesii-inppa-hotarare-consiliu-2015-63",
    "path": "profesii/inppa/hotarare-consiliu/2015/63",
    "short": "INPPA hotarare-consiliu 63/2015",
@@ -59,6 +1349,126 @@
      "units": 1,
      "source_url": "https://inppa.ro/hotararea-nr-66-din-06-martie-2015-a-consiliului-de-conducere-al-inppa-privind-inceperea-anului-i-de-pregatire-profesionala-initiala/",
      "sha256": "ed56a2373d2fbe22aff29db8d032ab8cc0f85ade796223b0a73d769828573799"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2015-14",
+   "path": "profesii/mediere/hotarare-consiliu/2015/14",
+   "short": "Hotărârea Consiliul de mediere nr. 14/2015",
+   "title": "HOTĂRÂRE nr. 14 din 25 aprilie 2015 pentru publicarea în Monitorul Oficial al României, Partea I, a Tabloului mediatorilor autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167868",
+   "versions": [
+    {
+     "from": "2015-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167868",
+     "sha256": "556e7d655b0324de103cb79813d58d66d35e40860dfeeeba16d463c6f5cb6812"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2015-24",
+   "path": "profesii/mediere/hotarare-consiliu/2015/24",
+   "short": "Hotărârea Consiliul de mediere nr. 24/2015",
+   "title": "HOTĂRÂRE nr. 24 din 25 aprilie 2015 privind modificarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167528",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167528",
+     "sha256": "31bb6378211c50279a707e0cdf71d55fbd3553bb34b7179ac52f8ff744f9ee91"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2015-29",
+   "path": "profesii/mediere/hotarare-consiliu/2015/29",
+   "short": "Hotărârea Consiliul de mediere nr. 29/2015",
+   "title": "HOTĂRÂRE nr. 29 din 7 mai 2015 privind completarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167973",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167973",
+     "sha256": "5268a08613df79bfb903326678844c3ddee1f61a59b80ec2133929808cdb0081"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2015-39",
+   "path": "profesii/mediere/hotarare-consiliu/2015/39",
+   "short": "Hotărârea Consiliul de mediere nr. 39/2015",
+   "title": "HOTĂRÂRE nr. 39 din 18 iulie 2015 privind aprobarea Statutului profesiei de mediator",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170188",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170188",
+     "sha256": "e25af7f89ccc39e6964d4911a16abdffbd02d03a9768698da4c28edb473f717a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2015-1",
+   "path": "profesii/oamgmamr/hotarare/2015/1",
+   "short": "Hotărârea OAMGMAMR nr. 1/2015",
+   "title": "HOTĂRÂRE nr. 1 din 15 octombrie 2015 pentru completarea Regulamentului de organizare și funcționare al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 3/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172451",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172451",
+     "sha256": "ab4f233f207fe4e3bf463a4bc036572cb45db3e7a888c8e2dd9f1774f5b78c50"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2015-23",
+   "path": "profesii/oamgmamr/hotarare/2015/23",
+   "short": "Hotărârea OAMGMAMR nr. 23/2015",
+   "title": "HOTĂRÂRE nr. 23 din 2 octombrie 2015 privind modificarea și completarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 32/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172452",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172452",
+     "sha256": "b51c5a142d20df1683bb8e16216d0d28ae931906b4406c9f11ac634b590cd7af"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2015-36",
+   "path": "profesii/oamgmamr/hotarare/2015/36",
+   "short": "Hotărârea OAMGMAMR nr. 36/2015",
+   "title": "HOTĂRÂRE nr. 36 din 4 decembrie 2015 pentru modificarea anexei nr. 3 la Statutul Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174597",
+   "versions": [
+    {
+     "from": "2016-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174597",
+     "sha256": "bcc5d247f13a6f28b6f1588ba3dce288525f09b5775de5ae72c11f3d6b780a90"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-birou-executiv-2015-2",
+   "path": "profesii/oamgmamr/hotarare-birou-executiv/2015/2",
+   "short": "Hotărârea OAMGMAMR nr. 2/2015",
+   "title": "HOTĂRÂRE nr. 2 din 13 ianuarie 2015 pentru modificarea art. 5 din Regulamentul privind organizarea și desfășurarea activității Comisiei naționale/teritoriale de etică și deontologie a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Biroului executiv al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 26/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164828",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164828",
+     "sha256": "7c53648568b8206d62fc82e66e6eee4177334cfe2570028090eb3d9b58f975d3"
     }
    ]
   },
@@ -408,6 +1818,21 @@
    ]
   },
   {
+   "slug": "profesii-unbr-hotarare-consiliu-2015-13",
+   "path": "profesii/unbr/hotarare-consiliu/2015/13",
+   "short": "Hotărârea UNBR nr. 13/2015",
+   "title": "HOTĂRÂRE nr. 13 din 7 iunie 2015 privind completarea Statutului profesiei de avocat, adoptat prin Hotărârea Consiliului Uniunii Naționale a Barourilor din România nr. 64/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170901",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170901",
+     "sha256": "0f69c7a43b141ae1d81fffb640b6a28dc0fe3578332d0366a91307e80e55881c"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unbr-hotarare-consiliu-2015-25",
    "path": "profesii/unbr/hotarare-consiliu/2015/25",
    "short": "UNBR hotarare-consiliu 25/2015",
@@ -449,6 +1874,81 @@
      "units": 1,
      "source_url": "https://unbr.ro/dam-publicitatii-protocolul-din-privind-stabilirea-onorariilor-cuvenite-avocatilor-pentru-furnizarea-serviciilor-de-asistenta-judiciara-in-materie-penala-pentru-prestarea-in-cadrul-sistemului-de-aju/",
      "sha256": "a75de7feaee5922e0d67654cc77c0bf37fd81a5671dcbd612ab98ff5159f2624"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-congres-2015-13",
+   "path": "profesii/unej/hotarare-congres/2015/13",
+   "short": "Hotărârea UNEJ nr. 13/2015",
+   "title": "HOTĂRÂRE nr. 13 din 10 decembrie 2015 privind modificarea și completarea Statutului Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc, aprobat prin Hotărârea Congresului Extraordinar al Uniunii Naționale a Executorilor Judecătorești nr. 19/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174836",
+   "versions": [
+    {
+     "from": "2016-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174836",
+     "sha256": "d88a98b70a19afe51260fb38657dfb0de0391a36ca77a929b1937ab2d719affa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-congres-2015-4",
+   "path": "profesii/unnpr/hotarare-congres/2015/4",
+   "short": "Hotărârea UNNPR nr. 4/2015",
+   "title": "HOTĂRÂRE nr. 4 din 13 noiembrie 2015 pentru aprobarea completării Statutului Uniunii Naționale a Notarilor Publici din România, aprobat prin Hotărârea Congresului Notarilor Publici din România nr. 10/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173927",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173927",
+     "sha256": "a055083abc00842e33d352364ed38ed97e06b34e43640d2bcda4408f234746c1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-consiliu-2015-128",
+   "path": "profesii/unnpr/hotarare-consiliu/2015/128",
+   "short": "Hotărârea UNNPR nr. 128/2015",
+   "title": "HOTĂRÂRE nr. 128 din 11 decembrie 2015 privind aprobarea Statutului Institutului Notarial Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181459",
+   "versions": [
+    {
+     "from": "2016-09-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181459",
+     "sha256": "10aff1a64cfbd561cb2ffdd645124cf58c628edb591e33c329aa75ad6dab70aa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-consiliu-2015-90",
+   "path": "profesii/unnpr/hotarare-consiliu/2015/90",
+   "short": "Hotărârea UNNPR nr. 90/2015",
+   "title": "HOTĂRÂRE nr. 90 din 18 septembrie 2015 pentru modificarea și completarea Regulamentului de organizare și funcționare al Consiliului de disciplină din cadrul Uniunii Naționale a Notarilor Publici din România, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 74/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172351",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172351",
+     "sha256": "f1b58f3f061b0b71e1fa6eb0ef3df9ef926aa013b8e7d5617a25aa9b63e262b4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2015-2",
+   "path": "profesii/unpir/hotarare/2015/2",
+   "short": "Hotărârea UNPIR nr. 2/2015",
+   "title": "HOTĂRÂRE nr. 2 din 25 septembrie 2015 pentru modificarea și completarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență, aprobat prin Hotărârea Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173417",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173417",
+     "sha256": "ab68ee7d963df2a69529191ebe88432c82b1178e11c33cfe0f1b793a8be6c221"
     }
    ]
   }

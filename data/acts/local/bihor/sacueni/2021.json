@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/bihor/sacueni/2021",
+"acts": [
+{
+"slug": "hcl-bihor--sacueni-1-2021",
+"path": "local/bihor/sacueni/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 1/2021 privind aprobarea ordinii de zi",
+"short": "HCL Săcueni nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/14931",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-2-2021",
+"path": "local/bihor/sacueni/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 2/2021 privind aprobarea utilizării din excedentul bugetului local al anilor precedenți pentru acoperirea definitivă a deficitului secțiunii de dezvoltare a bugetului local pe anul 2020",
+"short": "HCL Săcueni nr. 2/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/14925",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-3-2021",
+"path": "local/bihor/sacueni/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 3/2021 privind aprobarea utilizării excedentului bugetului local din anii precedenți ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare în anul 2021",
+"short": "HCL Săcueni nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/14926",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-4-2021",
+"path": "local/bihor/sacueni/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 4/2021 privind aprobarea utilizării excedentului bugetului instituţiilor publice si activităţilor finanţate integral sau parţial din venituri proprii din anii precedenti ca sursă de finanţare a cheltuielilor secţiunii de funcţionare în anul 2021",
+"short": "HCL Săcueni nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/14927",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--sacueni-6-2021",
+"path": "local/bihor/sacueni/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 6/2021 privind aprobarea planului de acţiuni de interes local cu privire la persoanele care prestează muncă în folosul comunității pentru anul 2021",
+"short": "HCL Săcueni nr. 6/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/sacueni-bh/registru-hcl/14929",
+"council": "bihor/sacueni",
+"council_name": "Consiliul Local al Orașului Săcueni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

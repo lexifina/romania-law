@@ -1,0 +1,34 @@
+# Norma din 16 noiembrie 2005 care stabilește condițiile de sănătate a animalelor și cerintele de certificare pentru import de peste viu, icre și lapți ai acestuia destinați pentru creștere și peste viu de acvacultura și produsele acestuia destinate pentru consum uman*) (anexa la Ordinul ANSVSA nr. 121/2005)
+
+Anexa la Ordin ansvsa nr. 121/2005 · 1 versions, from 2005-12-28 (latest in force: 2005-12-28) · <https://legislatie.just.ro/Public/DetaliiDocument/67571>
+
+**Status:** Published as it appeared in the Monitorul Oficial, as a document of its own approved by Ordin ansvsa nr. 121/2005; later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul 5 | [art-005.md](art-005.md) | 0 |  |
+| Articolul 6 | [art-006.md](art-006.md) | 0 |  |
+| Articolul 7 | [art-007.md](art-007.md) | 0 |  |
+| Articolul 8 | [art-008.md](art-008.md) | 0 |  |
+| Articolul 9 | [art-009.md](art-009.md) | 0 |  |
+| Articolul 10 | [art-010.md](art-010.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+
+Act id: `anexa-ordin-ansvsa-121-2005-anexa` (tags `anexa-ordin-ansvsa-121-2005-anexa/<day>`; `python tools/on.py <day> anexa-ordin-ansvsa-121-2005-anexa`).
+
+## Decisions made by hand
+
+- Anexa la Ordin ansvsa nr. 121/2005: added from the official web service of the Portalul legislativ (FreeWebService) as the norms published in Monitorul Oficial nr. 1065 of 28 November 2005 as a document of its own (document 67571, retrieved 2026-11-03, held on disk; the service was not requested again). It is published under the act that approves it, Ordin ansvsa nr. 121/2005 (document 66245), as its annex. Whether later acts amended it has not yet been checked; amendments, if any, are not applied here.
+- Anexa la Ordin ansvsa nr. 121/2005: built by Lexifina's norms lane with the default rules for a document known from the official web service alone, and no ruling made for this document alone: its approving act was found because the approving act is the only act of the same Monitorul Oficial issue and the same day that approves a norms of this subject (its title and opening share 100% of the document's subject words).
+- Anexa la Ordin ansvsa nr. 121/2005: the first version is the norms as published in Monitorul Oficial nr. 1065 of 28 November 2005, in force from 28 December 2005, the day the service gives.

@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/targu-carbunesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-gorj--targu-carbunesti-100-2026",
+   "path": "local/gorj/targu-carbunesti/2026/100",
+   "short": "HCL Târgu Cărbunești nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 100/2026 privind aprobarea Proiectului Rețelei școlare ce urmează să funcționeze în anul școlar 2027-2028 pe raza orașului Târgu Cărbunești, în vederea emiterii Avizului conform, de către Inspectoratul Școlar Județean Gorj",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/295848",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/295848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-61-2026",
+   "path": "local/gorj/targu-carbunesti/2026/61",
+   "short": "HCL Târgu Cărbunești nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 61/2026 privind alegerea președintelui de ședință pe lunile iulie, august și septembrie 2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/275665",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/275665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-62-2026",
+   "path": "local/gorj/targu-carbunesti/2026/62",
+   "short": "HCL Târgu Cărbunești nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 62/2026 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Târgu Cărbunești pe anul 2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279628",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-64-2026",
+   "path": "local/gorj/targu-carbunesti/2026/64",
+   "short": "HCL Târgu Cărbunești nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 64/2026 privind desfăşurarea „Zilelor Oraşului Târgu Cărbuneşti” și a Festivalului de Muzică Lăutărească ,,Gena Bârsan” - ediţia a-XX-a - 2026 în orașul Târgu Cărbunești în perioada 28-30 august 2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279630",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-65-2026",
+   "path": "local/gorj/targu-carbunesti/2026/65",
+   "short": "HCL Târgu Cărbunești nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 65/2026 privind aprobarea indicatorilor tehnico-economici cuprinși în devizul general pentru obiectivul de investiții ,,Execuție parcări și rigole str. Eroilor”",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279631",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-66-2026",
+   "path": "local/gorj/targu-carbunesti/2026/66",
+   "short": "HCL Târgu Cărbunești nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 66/2026 privind aprobarea Organigramei și a Statului de funcții ale Spitalului de Urgență Târgu Cărbunești începând cu data de 01.08.2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279632",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-67-2026",
+   "path": "local/gorj/targu-carbunesti/2026/67",
+   "short": "HCL Târgu Cărbunești nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 67/2026 privind atribuirea unui lot de teren pentru construirea unei locuințe proprietate personală pentru tineri, în condițiile Legii nr.15 din 2003, teren înscris în Cartea Funciară nr.38696, situat în strada Victoriei din satul Cojani, orașul Târgu Cărbunești, județul Gorj",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279633",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-70-2026",
+   "path": "local/gorj/targu-carbunesti/2026/70",
+   "short": "HCL Târgu Cărbunești nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 70/2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279636",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-71-2026",
+   "path": "local/gorj/targu-carbunesti/2026/71",
+   "short": "HCL Târgu Cărbunești nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 71/2026 privind aprobarea indicatorilor tehnico-economici cuprinși în devizul general pentru obiectivul de investiții ,,Modernizare strada Tudor Arghezi”, oraș Târgu Cărbunești, jud. Gorj",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279637",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/279637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-72-2026",
+   "path": "local/gorj/targu-carbunesti/2026/72",
+   "short": "HCL Târgu Cărbunești nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 72/2026 privind acordarea unui mandat special reprezentantului oraşului Târgu Cărbunești în cadrul Adunării Generale a Asociaţiei de Dezvoltare Intercomunitară „ADIA” Gorj",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/283348",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/283348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-75-2026",
+   "path": "local/gorj/targu-carbunesti/2026/75",
+   "short": "HCL Târgu Cărbunești nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 75/2026 privind modificarea Rețelei școlare ce urmează să funcționeze în anul școlar 2026-2027 pe raza orașului Târgu Cărbunești",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285332",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-76-2026",
+   "path": "local/gorj/targu-carbunesti/2026/76",
+   "short": "HCL Târgu Cărbunești nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 76/2026 privind aprobarea organizării manifestărilor prilejuite de sărbătoarea ”ZIUA CRUCII - 14 septembrie 2026”",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285333",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-78-2026",
+   "path": "local/gorj/targu-carbunesti/2026/78",
+   "short": "HCL Târgu Cărbunești nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 78/2026 privind aprobarea Planului Urbanistic Zonal (PUZ) și a Regulamentului Local de Urbanism (RLU) aferent pentru: „Reconversie funcțională din zonă unități industriale (I1) în zonă mixtă locuințe și servicii”",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285335",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-79-2026",
+   "path": "local/gorj/targu-carbunesti/2026/79",
+   "short": "HCL Târgu Cărbunești nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 79/2026 privind acordarea unui mandat special reprezentantului oraşului Târgu Cărbunești în cadrul Adunării Generale a Asociaţiei de Dezvoltare Intercomunitară „ADIA” Gorj",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285336",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-81-2026",
+   "path": "local/gorj/targu-carbunesti/2026/81",
+   "short": "HCL Târgu Cărbunești nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 81/2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285338",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/285338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-82-2026",
+   "path": "local/gorj/targu-carbunesti/2026/82",
+   "short": "HCL Târgu Cărbunești nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 82/2026 privind aprobarea contului de execuție al bugetului local al oraşului Târgu Cărbunești și al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri pe trimestrul II al anului 2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288509",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-83-2026",
+   "path": "local/gorj/targu-carbunesti/2026/83",
+   "short": "HCL Târgu Cărbunești nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 83/2026 privind rectificarea bugetului de venituri şi cheltuieli al oraşului Târgu Cărbunești pe anul 2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288510",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-84-2026",
+   "path": "local/gorj/targu-carbunesti/2026/84",
+   "short": "HCL Târgu Cărbunești nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 84/2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288511",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-85-2026",
+   "path": "local/gorj/targu-carbunesti/2026/85",
+   "short": "HCL Târgu Cărbunești nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 85/2026 privind organizarea și desfășurarea evenimentelor „Ziua Internațională a Persoanelor Vârstnice” și „Premierea cuplurilor care sărbătoresc 50 de ani de căsătorie”",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288512",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-88-2026",
+   "path": "local/gorj/targu-carbunesti/2026/88",
+   "short": "HCL Târgu Cărbunești nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 88/2026 privind aprobarea Documentația de atribuire a „Contractului de delegare prin concesiune a gestiunii activității de eliminare prin depozitare a deșeurilor reziduale din județul Gorj” și acordarea unui mandat special reprezentantului oraşului Târgu Cărbunești în cadrul Adunării Generale a Asociaţiei de Dezvoltare Intercomunitară în Domeniul Serviciilor Publice „ADIS” Gorj",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288515",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-89-2026",
+   "path": "local/gorj/targu-carbunesti/2026/89",
+   "short": "HCL Târgu Cărbunești nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 89/2026 privind aprobarea oportunității și necesității pregătirii documentațiilor tehnico-economice pentru renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Târgu Cărbunești și a inițierii procedurilor de achiziție directă a serviciilor aferente, în vederea accesării de fonduri europene prin Programul Dezvoltare Durabilă și Tranziție Justă 2021-2027",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288516",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-90-2026",
+   "path": "local/gorj/targu-carbunesti/2026/90",
+   "short": "HCL Târgu Cărbunești nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 90/2026 privind aprobarea Organigramei și a Statului de funcții ale Spitalului de Urgență Târgu Cărbunești începând cu data de 01.10.2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288517",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-92-2026",
+   "path": "local/gorj/targu-carbunesti/2026/92",
+   "short": "HCL Târgu Cărbunești nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 92/2026 privind aprobarea tarifului pentru activitatea de curățare și transport al zăpezii de pe căile publice și menținerea acestora în funcțiune pe timp de polei sau îngheț pe raza administrativ-teritorială a orașului Târgu Cărbunești",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288519",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-93-2026",
+   "path": "local/gorj/targu-carbunesti/2026/93",
+   "short": "HCL Târgu Cărbunești nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 93/2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288520",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-94-2026",
+   "path": "local/gorj/targu-carbunesti/2026/94",
+   "short": "HCL Târgu Cărbunești nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 94/2026 privind aprobarea actualizării Planului de Analiză și Acoperire a Riscurilor la nivelul Unității Administrativ-Teritoriale Oraș Târgu Cărbunești",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288521",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-95-2026",
+   "path": "local/gorj/targu-carbunesti/2026/95",
+   "short": "HCL Târgu Cărbunești nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 95/2026 privind organizarea și desfăşurarea Proiectului socio-cultural „GALA BOEMA CULTURALĂ A OLTENIEI” ediția a IV-a, în orașul Târgu Cărbunești în data de 10.10.2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288522",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--targu-carbunesti-96-2026",
+   "path": "local/gorj/targu-carbunesti/2026/96",
+   "short": "HCL Târgu Cărbunești nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Cărbunești nr. 96/2026 privind alegerea președintelui de ședință pe lunile octombrie, noiembrie și decembrie 2026",
+   "url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288523",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/targucarbunesti-gj/registru-hcl/288523",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

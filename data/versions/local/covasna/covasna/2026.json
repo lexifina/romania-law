@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2026",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-14-2026",
+   "path": "local/covasna/covasna/2026/14",
+   "short": "HCL Covasna nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 14/2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_14.pdf",
+     "sha256": "f353aef356f9f4455242ef4ceaa51174aaaee926722017b2c4aec756e5de041c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-28-2026",
+   "path": "local/covasna/covasna/2026/28",
+   "short": "HCL Covasna nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 28/2026",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_28.pdf",
+     "sha256": "8aa5980a7325324ad8f8db383cf32eff8fa1768b57c5985fb4f001e573dcdedf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-29-2026",
+   "path": "local/covasna/covasna/2026/29",
+   "short": "HCL Covasna nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 29/2026 privind aprobarea inițierii actualizării Planului Urbanistic General al orașului Covasna și a Regulamentului Local de Urbanism aferent",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 4,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2026/HCL_29.pdf",
+     "sha256": "dc975f2375f407da4b7ce10283f77a6acdeab7654d2c1e831074f1151c7baf1a"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,936 @@
  "shard": "profesii/2005",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2005-39",
+   "path": "profesii/cafr/hotarare/2005/39",
+   "short": "Hotărârea CAFR nr. 39/2005",
+   "title": "HOTĂRÂRE nr. 39 din 19 ianuarie 2005 pentru aprobarea Normelor privind perioada de pregătire profesională practică a stagiarilor în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59028",
+   "versions": [
+    {
+     "from": "2005-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59028",
+     "sha256": "4cffc3fdcb817bc0814e7236a6be09f25c13323b7e03e1d20e865377b1359d12"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-41",
+   "path": "profesii/cafr/hotarare/2005/41",
+   "short": "Hotărârea CAFR nr. 41/2005",
+   "title": "HOTĂRÂRE nr. 41 din 19 ianuarie 2005 privind modificarea și completarea Hotărârii nr. 9/2001 a Consiliului Camerei Auditorilor Financiari din România pentru aprobarea Regulilor privind pregătirea profesională continuă a auditorilor financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59154",
+   "versions": [
+    {
+     "from": "2005-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59154",
+     "sha256": "92f602e4a2feba388a507cb8c83f7b920575d245da2a62fb4798d605c3c5275a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-42",
+   "path": "profesii/cafr/hotarare/2005/42",
+   "short": "Hotărârea CAFR nr. 42/2005",
+   "title": "HOTĂRÂRE nr. 42 din 23 februarie 2005 pentru aprobarea Normelor privind atribuirea calității și a dreptului de exercitare a profesiei de auditor financiar pentru persoanele care posedă o calificare profesională în audit financiar sau profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60715",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60715",
+     "sha256": "ce9d08c353d51c0b360bf329f12c6f64a02525ed139bb600cd71869ce9ac30d5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-44",
+   "path": "profesii/cafr/hotarare/2005/44",
+   "short": "Hotărârea CAFR nr. 44/2005",
+   "title": "HOTĂRÂRE nr. 44 din 23 martie 2005 pentru aprobarea Normelor privind stabilirea numărului mediu minim de ore pentru finalizarea unei misiuni de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60526",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60526",
+     "sha256": "01ef7845fb9aaf7ab75908b862cd05707bafb3c89591cf4fe75c9c65d60567f4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-45",
+   "path": "profesii/cafr/hotarare/2005/45",
+   "short": "Hotărârea CAFR nr. 45/2005",
+   "title": "HOTĂRÂRE nr. 45 din 23 martie 2005 pentru aprobarea Normelor privind asigurarea pentru risc profesional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61070",
+   "versions": [
+    {
+     "from": "2005-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61070",
+     "sha256": "3be56fbef5bade363b1493dc46ddb01510fdba443e50c64399a7e332c4911448"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-46",
+   "path": "profesii/cafr/hotarare/2005/46",
+   "short": "Hotărârea CAFR nr. 46/2005",
+   "title": "HOTĂRÂRE nr. 46 din 23 aprilie 2005 a Conferinței Camerei Auditorilor Financiari din România cu privire la aprobarea materialelor prezentate în cadrul Conferinței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62114",
+   "versions": [
+    {
+     "from": "2005-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62114",
+     "sha256": "084db135f049cc4d7cfb4eb798899f445a7c16e604bb710068bf07e8aef3aa7c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-47",
+   "path": "profesii/cafr/hotarare/2005/47",
+   "short": "Hotărârea CAFR nr. 47/2005",
+   "title": "HOTĂRÂRE nr. 47 din 23 aprilie 2005 a Conferinței Camerei Auditorilor Financiari din România cu privire la adoptarea unor modificări și completări ale Regulamentului de organizare și funcționare a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62115",
+   "versions": [
+    {
+     "from": "2005-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62115",
+     "sha256": "12d3e47be322d945bc5d27b6d3cd3d50660580650d0b53d12a6c6052cf42fd0a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-51",
+   "path": "profesii/cafr/hotarare/2005/51",
+   "short": "Hotărârea CAFR nr. 51/2005",
+   "title": "HOTĂRÂRE nr. 51 din 27 iulie 2005 privind atribuirea calității și a dreptului de exercitare a profesiei de auditor financiar persoanelor fizice care posedă o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64213",
+   "versions": [
+    {
+     "from": "2005-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64213",
+     "sha256": "e94c2788069bb16b125b7e2eed2aff25bc039890eb8cbb9bb3e1098f6a3ac40b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-52",
+   "path": "profesii/cafr/hotarare/2005/52",
+   "short": "Hotărârea CAFR nr. 52/2005",
+   "title": "HOTĂRÂRE nr. 52 din 31 august 2005 privind modificarea și completarea Regulamentului de organizare și funcționare a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31582",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31582",
+     "sha256": "9d474cf85edc5bfb2ff50b8521e102f78cb8bbafc55f3bf533e9cfa5f511a785"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-54",
+   "path": "profesii/cafr/hotarare/2005/54",
+   "short": "Hotărârea CAFR nr. 54/2005",
+   "title": "HOTĂRÂRE nr. 54 din 14 decembrie 2005 privind acordarea calității și a dreptului de exercitare a profesiei de auditor financiar pentru persoanele care posedă o calificare profesională în audit financiar sau în profesii asimilate acestuia, atribuită de alt stat în acord cu reglementările specifice din acel stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67180",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67180",
+     "sha256": "59d3781942ec2253c70c14d19b6e696d89f95cd17a043901321ea0293e6f76f6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2005-55",
+   "path": "profesii/cafr/hotarare/2005/55",
+   "short": "Hotărârea CAFR nr. 55/2005",
+   "title": "HOTĂRÂRE nr. 55 din 14 decembrie 2005 privind aprobarea Regulilor de organizare și desfășurare a examenului de aptitudini profesionale pentru atribuirea calității de auditor financiar, sesiunea 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68184",
+   "versions": [
+    {
+     "from": "2006-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68184",
+     "sha256": "538dee122aa6b3b322cb917a26186747718dcd9b4fd9169f1d83541b1c1c841c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2005-53",
+   "path": "profesii/cafr/hotarare-consiliu/2005/53",
+   "short": "Hotărârea CAFR nr. 53/2005",
+   "title": "HOTĂRÂRE nr. 53 din 26 octombrie 2005 privind Ziua națională a auditorului financiar din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66139",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66139",
+     "sha256": "f04fe0c8eb34f3fd9715d9fad4ad88690b74c0b06b208ffae5dd2e446e20ae0c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-adunare-generala-2005-1",
+   "path": "profesii/cfr/decizie-adunare-generala/2005/1",
+   "short": "Decizia CFR nr. 1/2005",
+   "title": "DECIZIE nr. 1 din 10 mai 2005 privind adoptarea Statutului Colegiului Farmaciștilor din România și a Codului deontologic al farmacistului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64304",
+   "versions": [
+    {
+     "from": "2005-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64304",
+     "sha256": "7716accd6bde2ec2ae4dc38cb7c53565d570699f3d58ea2d91b172e86fc93fd5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2005-12",
+   "path": "profesii/cmdr/decizie/2005/12",
+   "short": "Decizia CMDR nr. 12/2005",
+   "title": "DECIZIE nr. 12 din 24 septembrie 2005 privind organizarea și funcționarea structurilor teritoriale ale Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31758",
+   "versions": [
+    {
+     "from": "2005-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31758",
+     "sha256": "319d936b96c8c258a1d75f4f636efd34486c7b42ddd829f8a92f06430331b6af"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2005-5",
+   "path": "profesii/cmdr/decizie/2005/5",
+   "short": "Decizia CMDR nr. 5/2005",
+   "title": "DECIZIE nr. 5 din 24 septembrie 2005 privind radiologia în specialitatea dentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31717",
+   "versions": [
+    {
+     "from": "2005-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31717",
+     "sha256": "87aa0849feb502d487bc95194ab9993460570beb7fbacfad4cd439f68a463fc8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-adunare-generala-2005-1",
+   "path": "profesii/cmdr/decizie-adunare-generala/2005/1",
+   "short": "Decizia CMDR nr. 1/2005",
+   "title": "DECIZIE nr. 1 din 25 iunie 2005 privind adoptarea Codului deontologic al medicului dentist și a Regulamentului de organizare și funcționare al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64419",
+   "versions": [
+    {
+     "from": "2005-08-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64419",
+     "sha256": "a7a56be1159fdffa44b4d47658d2cb86f12c62bfa475c59156cb5277de6ebfcd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2005-11",
+   "path": "profesii/cmdr/decizie-consiliu-national/2005/11",
+   "short": "Decizia CMDR nr. 11/2005",
+   "title": "DECIZIE nr. 11 din 24 septembrie 2005 privind stabilirea cuantumului cotizației de membru al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31757",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31757",
+     "sha256": "458d575c6a67c104cd4124feb04abb3cf18184aeb4669f72c5b360dbfe6e1b6d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2005-6",
+   "path": "profesii/cmdr/decizie-consiliu-national/2005/6",
+   "short": "Decizia CMDR nr. 6/2005",
+   "title": "DECIZIE nr. 6 din 24 septembrie 2005 privind exercitarea profesiei de către medicii dentiști care au împlinit vârsta de pensionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31718",
+   "versions": [
+    {
+     "from": "2005-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31718",
+     "sha256": "0dff612a9ce2b5406b8335681d9254cbe9607d69b689df858d718c1cc7f13df7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-adunare-generala-2005-3",
+   "path": "profesii/cmr/decizie-adunare-generala/2005/3",
+   "short": "Decizia CMR nr. 3/2005",
+   "title": "DECIZIE nr. 3 din 25 martie 2005 privind adoptarea Statutului și a Codului de deontologie medicală ale Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61721",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61721",
+     "sha256": "1edd8c3165fc27c558b95c9ac4bec777512926b5c3a51ab4654091dbad797420"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-2005-12",
+   "path": "profesii/cmr/decizie-consiliu/2005/12",
+   "short": "Decizia CMR nr. 12/2005",
+   "title": "DECIZIE nr. 12 din 6 mai 2005 privind stabilirea cuantumului cotizației de membru al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61802",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61802",
+     "sha256": "47c6d26d371769b575425a2cec6316cdbec0b0cb45eac3f08f76e66f4f73e2eb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-2005-67",
+   "path": "profesii/cmr/decizie-consiliu/2005/67",
+   "short": "Decizia CMR nr. 67/2005",
+   "title": "DECIZIE nr. 67 din 9 decembrie 2005 privind stabilirea sistemului de credite de educație medicală continuă, pe baza căruia se evaluează activitatea de perfecționare profesională a medicilor, a criteriilor și normelor de acreditare a educației medicale continue, precum și a criteriilor și normelor de acreditare a furnizorilor de educație medicală continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69000",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69000",
+     "sha256": "257e42548579c5ae64d9a150d50d52af5b6f4a089a05fd596eb0e1a7d46aeefb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-2005-68",
+   "path": "profesii/cmr/decizie-consiliu/2005/68",
+   "short": "Decizia CMR nr. 68/2005",
+   "title": "DECIZIE nr. 68 din 9 decembrie 2005 privind stabilirea procedurii de verificare și atestare a nivelului profesional al medicilor care au întrerupt exercitarea profesiei ori s-au aflat într-o situație de incompatibilitate pe o perioadă mai mare de 5 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69041",
+   "versions": [
+    {
+     "from": "2006-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69041",
+     "sha256": "07fa5c5c2976b01c062bddb18e1b83d5ac27513d6228b310b37dcc6388051cac"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2005-108",
+   "path": "profesii/csm/hotarare-consiliu/2005/108",
+   "short": "Hotărârea CSM nr. 108/2005",
+   "title": "HOTĂRÂRE nr. 108 din 23 martie 2005 privind aprobarea Regulamentului de organizare și desfășurare a concursului sau examenului pentru definitivare în funcție, promovare în grade sau trepte profesionale superioare în cadrul aceleiași instanțe sau aceluiași parchet, precum și în funcții de execuție a personalului auxiliar de specialitate la instanțe și parchete superioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60711",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60711",
+     "sha256": "b74dbcee3c8fec3838c8b49c464f86b87393cb820cf842840cded2cb62421d5c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2005-193",
+   "path": "profesii/csm/hotarare-consiliu/2005/193",
+   "short": "Hotărârea CSM nr. 193/2005",
+   "title": "HOTĂRÂRE nr. 193 din 25 mai 2005 pentru modificarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62175",
+   "versions": [
+    {
+     "from": "2005-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62175",
+     "sha256": "da3b76b77715f38c3d1f418c9b46e41d29d028053b154c65f93d52f9d64a0269"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2005-194",
+   "path": "profesii/csm/hotarare-consiliu/2005/194",
+   "short": "Hotărârea CSM nr. 194/2005",
+   "title": "HOTĂRÂRE nr. 194 din 25 mai 2005 pentru modificarea Regulamentului Institutului Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62313",
+   "versions": [
+    {
+     "from": "2005-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62313",
+     "sha256": "0ea68edf27485659207c2789def04e0af875c3ad192696f7480e19e3d9366ade"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2005-283",
+   "path": "profesii/csm/hotarare-consiliu/2005/283",
+   "short": "Hotărârea CSM nr. 283/2005",
+   "title": "HOTĂRÂRE nr. 283 din 10 august 2005 privind aprobarea Regulamentului de organizare a concursului sau examenului pentru numirea în funcții de conducere a judecătorilor și procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64486",
+   "versions": [
+    {
+     "from": "2005-08-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64486",
+     "sha256": "ba004c9ac589df841e4ffba0b38902361373119b05cc03bc1b71fe45927241ff"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2005-30",
+   "path": "profesii/csm/hotarare-consiliu/2005/30",
+   "short": "Hotărârea CSM nr. 30/2005",
+   "title": "HOTĂRÂRE nr. 30 din 2 februarie 2005 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de personal de specialitate juridică, asimilat magistraților, din aparatul tehnic administrativ al Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59305",
+   "versions": [
+    {
+     "from": "2005-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59305",
+     "sha256": "a861cb367cc11e19063b6622336f84cecb817ac67aee361adab010bc7032187e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2005-307",
+   "path": "profesii/csm/hotarare-consiliu/2005/307",
+   "short": "Hotărârea CSM nr. 307/2005",
+   "title": "HOTĂRÂRE nr. 307 din 17 august 2005 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64554",
+   "versions": [
+    {
+     "from": "2005-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64554",
+     "sha256": "8b3c4037f14dc1426721fbb314cbb39a59fcd987c0924ac7afebf9fd82deb63e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2005-320",
+   "path": "profesii/csm/hotarare-consiliu/2005/320",
+   "short": "Hotărârea CSM nr. 320/2005",
+   "title": "HOTĂRÂRE nr. 320 din 24 august 2005 pentru aprobarea Regulamentului Institutului Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65114",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65114",
+     "sha256": "742b732ca1045d889b810a61573a68d2eee620ba09785678bfeed10f1c552478"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2005-401",
+   "path": "profesii/csm/hotarare-consiliu/2005/401",
+   "short": "Hotărârea CSM nr. 401/2005",
+   "title": "HOTĂRÂRE nr. 401 din 28 septembrie 2005 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35079",
+   "versions": [
+    {
+     "from": "2005-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35079",
+     "sha256": "184326dd15488fd99324cb46a9a7d48f83b65d4b39b0a4b3781d670a70b8740c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2005-95",
+   "path": "profesii/csm/hotarare-consiliu/2005/95",
+   "short": "Hotărârea CSM nr. 95/2005",
+   "title": "HOTĂRÂRE nr. 95 din 16 martie 2005 pentru aprobarea Regulamentului privind condițiile de efectuare și de plată a concediului de odihnă al personalului auxiliar de specialitate și personalului conex al instanțelor judecătorești și al parchetelor de pe lângă acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60383",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60383",
+     "sha256": "b53f93517dbc948ade2197a7e94e2a5794f7e8503f23da0a5fd7f8d394206b44"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-128",
+   "path": "profesii/csm/hotarare-plen/2005/128",
+   "short": "Hotărârea CSM nr. 128/2005",
+   "title": "HOTĂRÂRE nr. 128 din 13 aprilie 2005 privind modificarea Hotărârii Consiliului Superior al Magistraturii nr. 157/2004 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61331",
+   "versions": [
+    {
+     "from": "2005-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61331",
+     "sha256": "ac7c763f5728bbcf3db694fba19334075951333e5a735f81d2abc264d8bb79b9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-145",
+   "path": "profesii/csm/hotarare-plen/2005/145",
+   "short": "Hotărârea CSM nr. 145/2005",
+   "title": "HOTĂRÂRE nr. 145 din 26 aprilie 2005 pentru aprobarea Codului deontologic al personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61385",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61385",
+     "sha256": "5e9422a9b5aad6baaa8e52824462119cbc2418a1c44a1ac9cd9d172a4f774678"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-146",
+   "path": "profesii/csm/hotarare-plen/2005/146",
+   "short": "Hotărârea CSM nr. 146/2005",
+   "title": "HOTĂRÂRE nr. 146 din 26 aprilie 2005 privind modificarea Regulamentului de ordine interioară a instanțelor judecătorești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61405",
+   "versions": [
+    {
+     "from": "2005-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61405",
+     "sha256": "e5d890a1b982f93e244a88ee3e7142e90ed8c97bb1885fa164d758e46a18956c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-163",
+   "path": "profesii/csm/hotarare-plen/2005/163",
+   "short": "Hotărârea CSM nr. 163/2005",
+   "title": "HOTĂRÂRE nr. 163 din 4 mai 2005 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61705",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61705",
+     "sha256": "59a94bb9ec9a0c5e65d21462dfca77f95ef8b3f93da9c1b89edaedff4ecb0022"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-230",
+   "path": "profesii/csm/hotarare-plen/2005/230",
+   "short": "Hotărârea CSM nr. 230/2005",
+   "title": "HOTĂRÂRE nr. 230 din 15 iunie 2005 pentru modificarea Regulamentului privind procedura de evaluare a activității profesionale a magistraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62891",
+   "versions": [
+    {
+     "from": "2005-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62891",
+     "sha256": "b49a09f2cc53a1f33911ac9e566f81bd350f4992043968cc74173daa48a83105"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-248",
+   "path": "profesii/csm/hotarare-plen/2005/248",
+   "short": "Hotărârea CSM nr. 248/2005",
+   "title": "HOTĂRÂRE nr. 248 din 24 iunie 2005 pentru modificarea Regulamentului privind concursul de admitere la Școala Națională de Grefieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63229",
+   "versions": [
+    {
+     "from": "2005-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63229",
+     "sha256": "2e2a375d0e6575f27a7b200d5eecd697657cdb3b728d7702eb87eae7d5d3cd62"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-305",
+   "path": "profesii/csm/hotarare-plen/2005/305",
+   "short": "Hotărârea CSM nr. 305/2005",
+   "title": "HOTĂRÂRE nr. 305 din 17 august 2005 pentru aprobarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64881",
+   "versions": [
+    {
+     "from": "2005-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64881",
+     "sha256": "98c5ed1389cf75cab0cb4ece02bbab948c3a59db18362007a08bdd588ff20134"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-306",
+   "path": "profesii/csm/hotarare-plen/2005/306",
+   "short": "Hotărârea CSM nr. 306/2005",
+   "title": "HOTĂRÂRE nr. 306 din 17 august 2005 pentru aprobarea Regulamentului privind examenul de capacitate al judecătorilor stagiari și procurorilor stagiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64839",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64839",
+     "sha256": "ef1ace8a11f35d74b6562197150363b757b11d3e595ff7eb2b3a4592a2f4aafb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-31",
+   "path": "profesii/csm/hotarare-plen/2005/31",
+   "short": "Hotărârea CSM nr. 31/2005",
+   "title": "HOTĂRÂRE nr. 31 din 2 februarie 2005 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de personal contractual din aparatul tehnic administrativ al Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59310",
+   "versions": [
+    {
+     "from": "2005-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59310",
+     "sha256": "b9671e6894025bc4b07c8e050813434f22534b531f240885097280bcbc6996f3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-321",
+   "path": "profesii/csm/hotarare-plen/2005/321",
+   "short": "Hotărârea CSM nr. 321/2005",
+   "title": "HOTĂRÂRE nr. 321 din 24 august 2005 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64850",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64850",
+     "sha256": "fb33b73e59c260309c7f247ba292ee41317c02c37f0a219ec74fc07484264dcc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-322",
+   "path": "profesii/csm/hotarare-plen/2005/322",
+   "short": "Hotărârea CSM nr. 322/2005",
+   "title": "HOTĂRÂRE nr. 322 din 24 august 2005 pentru aprobarea Regulamentului privind modul de desfășurare a cursurilor de formare profesională continuă a judecătorilor și procurorilor și atestare a rezultatelor obținute",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64853",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64853",
+     "sha256": "bf724a2cd0a4926cd448e21f81a27c6227414da8ed950d55d17c2a742fdd8ee7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-323",
+   "path": "profesii/csm/hotarare-plen/2005/323",
+   "short": "Hotărârea CSM nr. 323/2005",
+   "title": "HOTĂRÂRE nr. 323 din 24 august 2005 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64842",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64842",
+     "sha256": "4d35f778228c4ecb5d4bcf95c84f67484f167ea4691dec19dcd83de518b398a4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-324",
+   "path": "profesii/csm/hotarare-plen/2005/324",
+   "short": "Hotărârea CSM nr. 324/2005",
+   "title": "HOTĂRÂRE nr. 324 din 24 august 2005 pentru aprobarea Regulamentului privind evaluarea activității profesionale a judecătorilor și procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64886",
+   "versions": [
+    {
+     "from": "2005-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64886",
+     "sha256": "66f717ad942d51667b6cc13b8c5f420b77edd176c0075c16d100d648b1390cc4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-325",
+   "path": "profesii/csm/hotarare-plen/2005/325",
+   "short": "Hotărârea CSM nr. 325/2005",
+   "title": "HOTĂRÂRE nr. 325 din 24 august 2005 pentru aprobarea Regulamentului privind concediile judecătorilor și procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64847",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64847",
+     "sha256": "5e712aa60d0deec65c81d4692ee6b470df84bd35d29ab165df69b46f2fe96a26"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-326",
+   "path": "profesii/csm/hotarare-plen/2005/326",
+   "short": "Hotărârea CSM nr. 326/2005",
+   "title": "HOTĂRÂRE nr. 326 din 24 august 2005 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65277",
+   "versions": [
+    {
+     "from": "2005-09-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65277",
+     "sha256": "6ff25af82ef1087cc97b3eb5a41e11e698bbd1a908043b4beee1e27800f5c253"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-327",
+   "path": "profesii/csm/hotarare-plen/2005/327",
+   "short": "Hotărârea CSM nr. 327/2005",
+   "title": "HOTĂRÂRE nr. 327 din 24 august 2005 pentru aprobarea Regulamentului privind procedura alegerii membrilor Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64955",
+   "versions": [
+    {
+     "from": "2005-09-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64955",
+     "sha256": "4524500fa014a859617a94fd6eddbb2262a475135bb623a52096563558d368ca"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-328",
+   "path": "profesii/csm/hotarare-plen/2005/328",
+   "short": "Hotărârea CSM nr. 328/2005",
+   "title": "HOTĂRÂRE nr. 328 din 24 august 2005 pentru aprobarea Codului deontologic al judecătorilor și procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64828",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64828",
+     "sha256": "e7e0538f451bf837532704656d454d92e72f5fab6b340cc0b277a781b374a5db"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-335",
+   "path": "profesii/csm/hotarare-plen/2005/335",
+   "short": "Hotărârea CSM nr. 335/2005",
+   "title": "HOTĂRÂRE nr. 335 din 8 septembrie 2005 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64987",
+   "versions": [
+    {
+     "from": "2005-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64987",
+     "sha256": "2461f1e84e050623177a134f5233bcd3a89fe63f6a2f96917622cfe04befd51e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-387",
+   "path": "profesii/csm/hotarare-plen/2005/387",
+   "short": "Hotărârea CSM nr. 387/2005",
+   "title": "HOTĂRÂRE nr. 387 din 22 septembrie 2005 pentru aprobarea Regulamentului de ordine interioară al instanțelor judecătorești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35099",
+   "versions": [
+    {
+     "from": "2005-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35099",
+     "sha256": "ce7f703d886856d06de7918b7d251a9d28a0eda3b6c55983955c832b9c8418bd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-446",
+   "path": "profesii/csm/hotarare-plen/2005/446",
+   "short": "Hotărârea CSM nr. 446/2005",
+   "title": "HOTĂRÂRE nr. 446 din 12 octombrie 2005 pentru modificarea Regulamentului privind examenul de capacitate al judecătorilor stagiari și procurorilor stagiari, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 306/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35062",
+   "versions": [
+    {
+     "from": "2005-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35062",
+     "sha256": "28c422700ce394c7d06a50f6d940ea91090713ada4c7e5627bbd4f3000466d58"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-481",
+   "path": "profesii/csm/hotarare-plen/2005/481",
+   "short": "Hotărârea CSM nr. 481/2005",
+   "title": "HOTĂRÂRE nr. 481 din 19 octombrie 2005 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65623",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65623",
+     "sha256": "a9fe896168d5facc85e2ca3db671e6fe7b9b4b8405d79f7987fceb175da30961"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-490",
+   "path": "profesii/csm/hotarare-plen/2005/490",
+   "short": "Hotărârea CSM nr. 490/2005",
+   "title": "HOTĂRÂRE nr. 490 din 26 octombrie 2005 pentru modificarea Regulamentului privind concursul de admitere la Școala Națională de Grefieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65826",
+   "versions": [
+    {
+     "from": "2005-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65826",
+     "sha256": "ca0e36662f7e61790a156837bba0dc00cea063db3a931dc1ac183a31e08253d3"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-550",
+   "path": "profesii/csm/hotarare-plen/2005/550",
+   "short": "Hotărârea CSM nr. 550/2005",
+   "title": "HOTĂRÂRE nr. 550 din 23 noiembrie 2005 privind abrogarea Hotărârii Consiliului Superior al Magistraturii nr. 446/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66247",
+   "versions": [
+    {
+     "from": "2005-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66247",
+     "sha256": "f8fc18ce58d75d4abac0bfc3f3b2d703130ac39232cbb34330f46c307a6d475b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-595",
+   "path": "profesii/csm/hotarare-plen/2005/595",
+   "short": "Hotărârea CSM nr. 595/2005",
+   "title": "HOTĂRÂRE nr. 595 din 14 decembrie 2005 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67173",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67173",
+     "sha256": "49fe78a4bce772ad751d04911f2996bb702e4c9d67aac0f6d0e0ed0f45dc6a85"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-607",
+   "path": "profesii/csm/hotarare-plen/2005/607",
+   "short": "Hotărârea CSM nr. 607/2005",
+   "title": "HOTĂRÂRE nr. 607 din 14 decembrie 2005 pentru modificarea și completarea Regulamentului de organizare a concursului sau examenului pentru numirea în funcții de conducere a judecătorilor și procurorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68143",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68143",
+     "sha256": "0c6233bf5f91e23f2865e5abdb04f96da4ab1bd150e168648e1335a4d9fbb319"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-71",
+   "path": "profesii/csm/hotarare-plen/2005/71",
+   "short": "Hotărârea CSM nr. 71/2005",
+   "title": "HOTĂRÂRE nr. 71 din 9 martie 2005 pentru modificarea și completarea Regulamentului de ordine interioara a instanțelor judecătorești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60023",
+   "versions": [
+    {
+     "from": "2005-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60023",
+     "sha256": "d0d30526ab121a7cd91c59453698433d2cfe600dec12904c15e6accb93be1f1a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-91",
+   "path": "profesii/csm/hotarare-plen/2005/91",
+   "short": "Hotărârea CSM nr. 91/2005",
+   "title": "HOTĂRÂRE nr. 91 din 16 martie 2005 pentru aprobarea Regulamentului privind concursul de admitere la Școala Națională de Grefieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60377",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60377",
+     "sha256": "fa34cf87d37982ef6b387ffb13a46efee63489cef01e37f71923cd97aef434a2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-92",
+   "path": "profesii/csm/hotarare-plen/2005/92",
+   "short": "Hotărârea CSM nr. 92/2005",
+   "title": "HOTĂRÂRE nr. 92 din 16 martie 2005 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de informaticieni din cadrul instanțelor judecătorești și al parchetelor de pe lângă acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60379",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60379",
+     "sha256": "fbc742744b2d51d694c19e701f9c19441d6f90ceaa5cef3bf212abf4068acc51"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-93",
+   "path": "profesii/csm/hotarare-plen/2005/93",
+   "short": "Hotărârea CSM nr. 93/2005",
+   "title": "HOTĂRÂRE nr. 93 din 16 martie 2005 pentru aprobarea Regulamentului privind modul de organizare și desfășurare a concursului pentru recrutarea grefierilor arhivari, a registratorilor și a personalului conex",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60381",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60381",
+     "sha256": "bd990835dc0872cb7ac4874988e9eae07a0b44ae1f45d19fba5444b4478b4116"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-94",
+   "path": "profesii/csm/hotarare-plen/2005/94",
+   "short": "Hotărârea CSM nr. 94/2005",
+   "title": "HOTĂRÂRE nr. 94 din 16 martie 2005 pentru aprobarea Regulamentului de organizare și funcționare a Școlii Naționale de Grefieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60387",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60387",
+     "sha256": "4c2c4f70865ba9c969a664477eaabee48dd3a412d76e63cd1dedd1b615816d28"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2005-96",
+   "path": "profesii/csm/hotarare-plen/2005/96",
+   "short": "Hotărârea CSM nr. 96/2005",
+   "title": "HOTĂRÂRE nr. 96 din 16 martie 2005 pentru aprobarea Regulamentului privind condițiile de acordare a Diplomei Meritul Judiciar clasele II și III personalului auxiliar de specialitate din instanțele judecătorești și parchete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60385",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60385",
+     "sha256": "a29f58e648885d5bebf5e4bf45246e39f0dd154354547186c2b748e763b253d0"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unbr-decizie-cp-2005-76",
    "path": "profesii/unbr/decizie-cp/2005/76",
    "short": "UNBR decizie-cp 76/2005",

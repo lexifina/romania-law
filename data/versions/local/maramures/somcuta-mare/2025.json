@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/somcuta-mare/2025",
+ "acts": [
+  {
+   "slug": "hcl-maramures--somcuta-mare-116-2025",
+   "path": "local/maramures/somcuta-mare/2025/116",
+   "short": "HCL Șomcuta Mare nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 116/2025 privind aprobarea organizarii Retelei scolare a unitatilor de invatamant preuniversitar de stat ce va functiona in Orasul Somcuta Mare, cu localitatile componente si apartinatoare, in anul scolar 2026-2027",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/243187",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/243187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-118-2025",
+   "path": "local/maramures/somcuta-mare/2025/118",
+   "short": "HCL Șomcuta Mare nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 118/2025 privind completarea inventarului bunurilor care apartin domeniului privat al Orasului Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/243189",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/243189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-119-2025",
+   "path": "local/maramures/somcuta-mare/2025/119",
+   "short": "HCL Șomcuta Mare nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 119/2025",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/243190",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/243190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-120-2025",
+   "path": "local/maramures/somcuta-mare/2025/120",
+   "short": "HCL Șomcuta Mare nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 120/2025 privind aprobarea dezmembrarii terenului inscris in CF nr. 52203 Somcuta Mare, nr. cad. 52203 teren apartinand domeniului privat Orasului Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/243191",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/243191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-121-2025",
+   "path": "local/maramures/somcuta-mare/2025/121",
+   "short": "HCL Șomcuta Mare nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 121/2025 privind rectificarea bugetului local",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/243192",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/243192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-122-2025",
+   "path": "local/maramures/somcuta-mare/2025/122",
+   "short": "HCL Șomcuta Mare nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 122/2025 privind stabilirea impozitelor şi taxelor locale aferente anului 2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/243193",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/243193",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

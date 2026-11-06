@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/berca/2020",
+ "acts": [
+  {
+   "slug": "hcl-buzau--berca-10-2020",
+   "path": "local/buzau/berca/2020/10",
+   "short": "HCL Berca nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 10/2020 privind aprobarea tarifelor ce vor fi practicate de SC ROMPREST ENERGY SRL pentru prestarea serviciului de salubrizare privind “Colectarea, compactarea, transportul deseurilor reciclabile” din comuna Berca, judetul Buzau Consiliul local al comunei Berca, judetul Buzau, intrunit in sedinta ordinara, Avand in vedere: -referatul de aprobare al primarului inregistrat la nr.862/12.02.2020; -raportul co",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/hot-10.pdf",
+     "sha256": "55eb27633283fb955b695f69486e0596af2abdba010f456fe1614138a07ac0d8"
+    }
+   ]
+  }
+ ]
+}

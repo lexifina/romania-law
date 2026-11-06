@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/fantanele/2017",
+ "acts": [
+  {
+   "slug": "hcl-arad--fantanele-55-2017",
+   "path": "local/arad/fantanele/2017/55",
+   "short": "HCL Fântânele nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 55/2017 Privind aprobarea nivelurilor pentru valorile impozabilerimpozitele si taxele localeralte taxe asimilate acestora precum si amenzile aplicabile incepand cu anul fiscal 2O18rpe raza administrativ-teritoriala a comunei Fintinelerjudetul Arad",
+   "url": "https://primariafantanele-arad.ro/wp-content/uploads/2021/07/HCL-Fintinele-nr.-55-din-31.05.2017.pdf",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://primariafantanele-arad.ro/wp-content/uploads/2021/07/HCL-Fintinele-nr.-55-din-31.05.2017.pdf",
+     "sha256": "80e966edfb673594c13cf60d90240b657c259506f796a5230cd91fe9cf975e45"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/targu-bujor/2023",
+"acts": [
+{
+"slug": "hcl-galati--targu-bujor-85-2023",
+"path": "local/galati/targu-bujor/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Bujor nr. 85/2023 privind aprobarea impozitelor și taxelor locale pentru anul 2024",
+"short": "HCL Târgu Bujor nr. 85/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://www.primariatgbujor.ro/hotarari-cl/",
+"council": "galati/targu-bujor",
+"council_name": "Consiliul Local al Orașului Târgu Bujor",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

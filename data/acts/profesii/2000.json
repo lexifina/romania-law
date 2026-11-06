@@ -1,0 +1,86 @@
+{
+"country": "RO",
+"shard": "profesii/2000",
+"acts": [
+{
+"slug": "profesii-ceccar-hotarare-consiliu-2000-33",
+"path": "profesii/ceccar/hotarare-consiliu/2000/33",
+"kind": "profesii",
+"year": "2000",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 00/33 din 17 februarie 2000 pentru aprobarea Regulamentului privind efectuarea stagiului și examenul de aptitudini în vederea accesului la calitatea de expert contabil și de contabil autorizat",
+"short": "Hotărârea CECCAR nr. 33/2000",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2000-03-14",
+"latest": "2000-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/21421",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2000-36",
+"path": "profesii/ceccar/hotarare/2000/36",
+"kind": "profesii",
+"year": "2000",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 00/36 din 17 iunie 2000 privind modificarea și completarea Regulamentului de organizare și funcționare a Corpului Experților Contabili și Contabililor Autorizați din România",
+"short": "Hotărârea CECCAR nr. 36/2000",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2000-09-12",
+"latest": "2000-09-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/24255",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2000-39",
+"path": "profesii/ceccar/hotarare/2000/39",
+"kind": "profesii",
+"year": "2000",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 39 din 21 noiembrie 2000 pentru aprobarea Regulamentului privind controlul de calitate și a Normelor privind acordarea vizei anuale pentru exercitarea profesiei",
+"short": "Hotărârea CECCAR nr. 39/2000",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2001-01-23",
+"latest": "2001-01-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26271",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-norme-2000-6707",
+"path": "profesii/ceccar/norme/2000/6707",
+"kind": "profesii",
+"year": "2000",
+"number": "6707",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORMA nr. 6.707 din 29 decembrie 2000 privind acordarea vizei anuale pentru exercitarea profesiei",
+"short": "Normele CECCAR nr. 6707/2000",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2001-01-23",
+"latest": "2001-01-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26273",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

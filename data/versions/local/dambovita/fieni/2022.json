@@ -1,0 +1,396 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/fieni/2022",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--fieni-112-2022",
+   "path": "local/dambovita/fieni/2022/112",
+   "short": "HCL Fieni nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 112/2022 privind participarea orașului Fieni, județul Dâmbovița în cadrul Programului de realizare a pistelor pentru biciclete cu proiectul „Realizare piste pentru biciclete în orașul Fieni, județul Dâmbovița”",
+   "url": "https://emol.ro/fieni-db/registru-hcl/77962",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/77962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-113-2022",
+   "path": "local/dambovita/fieni/2022/113",
+   "short": "HCL Fieni nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 113/2022 privind actualizarea listei de investiții prin modificarea denumirii investiției ,,Achiziționare autoutilitară,, in ,,Achiziționare autoturism, care poate fi folosit si ca autoutilitară,,",
+   "url": "https://emol.ro/fieni-db/registru-hcl/77963",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/77963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-116-2022",
+   "path": "local/dambovita/fieni/2022/116",
+   "short": "HCL Fieni nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 116/2022 privind aprobarea indicatorilor cu privire la execuţia bugetului local de venituri şi cheltuieli pe trimestrul III 2022",
+   "url": "https://emol.ro/fieni-db/registru-hcl/79615",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/79615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-118-2022",
+   "path": "local/dambovita/fieni/2022/118",
+   "short": "HCL Fieni nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 118/2022 privind validarea Dispozitiei 320 din 26.10.2022 privind rectificarea bugetului local;",
+   "url": "https://emol.ro/fieni-db/registru-hcl/79617",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/79617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-120-2022",
+   "path": "local/dambovita/fieni/2022/120",
+   "short": "HCL Fieni nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 120/2022 privind .aprobarea rectificării bugetului pentru anul 2022",
+   "url": "https://emol.ro/fieni-db/registru-hcl/79619",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/79619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-126-2022",
+   "path": "local/dambovita/fieni/2022/126",
+   "short": "HCL Fieni nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 126/2022 privind aprobarea Regulamentului serviciului de salubrizare al orașului Fieni",
+   "url": "https://emol.ro/fieni-db/registru-hcl/79625",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/79625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-127-2022",
+   "path": "local/dambovita/fieni/2022/127",
+   "short": "HCL Fieni nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 127/2022 privind aprobarea Studiului de oportunitate si Caietului de sarcini , privind gestionarea directă a serviciului de „ Curăţarea şi transportul zăpezii de pe căile publice şi menţinerea în funcţiune a acestora pe timp de polei sau de îngheţ”",
+   "url": "https://emol.ro/fieni-db/registru-hcl/79626",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/79626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-128-2022",
+   "path": "local/dambovita/fieni/2022/128",
+   "short": "HCL Fieni nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 128/2022 privind modificare HCL nr.103/16.09.2021privind aprobarea înființării Serviciului Comunitar de Utilități Publice al orașului Fieni",
+   "url": "https://emol.ro/fieni-db/registru-hcl/79627",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/79627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-129-2022",
+   "path": "local/dambovita/fieni/2022/129",
+   "short": "HCL Fieni nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 129/2022 privind aprobarea prin transfer din bugetul local a sumelor pentru completarea fondurilor proprii pentru Parohia Berevoesti, in anul 2022",
+   "url": "https://emol.ro/fieni-db/registru-hcl/82533",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/82533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-130-2022",
+   "path": "local/dambovita/fieni/2022/130",
+   "short": "HCL Fieni nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 130/2022 privind aprobarea creditelor de angajament pentru acţiuni multianuale perioada 2023 –obiectiv de investitii finantat din fonduri AFM nerambursabile - Stații de reâncărcare pentru vehicule electrice",
+   "url": "https://emol.ro/fieni-db/registru-hcl/82534",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/82534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-131-2022",
+   "path": "local/dambovita/fieni/2022/131",
+   "short": "HCL Fieni nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 131/2022 privind aprobarea rectificării bugetului pentru anul 2022",
+   "url": "https://emol.ro/fieni-db/registru-hcl/82535",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/82535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-132-2022",
+   "path": "local/dambovita/fieni/2022/132",
+   "short": "HCL Fieni nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 132/2022 privind aprobarea rectificării bugetului activităţii finanţate din venituri proprii pe anul 2022",
+   "url": "https://emol.ro/fieni-db/registru-hcl/82536",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/82536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-133-2022",
+   "path": "local/dambovita/fieni/2022/133",
+   "short": "HCL Fieni nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 133/2022 privind actualizarea devizului general, a indicatorilor tehnico-economici si a valorii totale a investitiei pentru ,,Modernizare strazi oras Fieni-strazi adiacente strada Runcului (Coman-Neagu-str Padurari) -starzi adiacente Republicii (Marcu) si sat Costesti (Ungureanu) in raport cu Dispozitia de santier",
+   "url": "https://emol.ro/fieni-db/registru-hcl/82537",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/82537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-134-2022",
+   "path": "local/dambovita/fieni/2022/134",
+   "short": "HCL Fieni nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 134/2022 privind alocarea unei sume in vederea acordării de cadouri cu ocazia sarbătorilor de Craciun si Anul Nou",
+   "url": "https://emol.ro/fieni-db/registru-hcl/83159",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/83159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-135-2022",
+   "path": "local/dambovita/fieni/2022/135",
+   "short": "HCL Fieni nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 135/2022",
+   "url": "https://emol.ro/fieni-db/registru-hcl/83828",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/83828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-136-2022",
+   "path": "local/dambovita/fieni/2022/136",
+   "short": "HCL Fieni nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 136/2022 privind aprobarea anulării totalului creanţelor fiscale restante administrate de organul fiscal local, aflate în sold la data de 31 decembrie 2022, mai mici de 40 lei; aprobarea renunțării la stabilirea creanţei fiscale pentru anul 2023 în situaţia în care creanţa fiscală principală este mai mică de 20 de lei; stabilirea plafonului conform art.162 (2) din Legea 207/2015 privind Codul de procedură fiscală pentru debitori persoane juridice, obligaţii fiscale restante ce depășesc plafonul de 5.000 lei şi publicarea pe pagina de internet proprie a listei contribuabililor persoane juridice conform art.162¹ (3) din Legea 207/2015 privind Codul de procedură fiscală care au declarat, achitat la scadenţă obligaţiile fiscale de plată şi care nu au obligaţii restante",
+   "url": "https://emol.ro/fieni-db/registru-hcl/83829",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/83829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-137-2022",
+   "path": "local/dambovita/fieni/2022/137",
+   "short": "HCL Fieni nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 137/2022 privind aprobarea criteriilor și procedurilor pentru scutirirea de la plata impozitelor aferente clădirii folosită ca domiciliu, terenului intravilan categoria curți construcții aferent clădirii de domiciliu şi unui singur mijloc de transport la alegerea contribuabilului aflate în proprietatea sau coproprietatea persoanelor prevăzute la art. 3 alin. (1) lit. b) şi art. 4 alin. (1) din Legea nr. 341/2004, cu modificările şi completările ulterioare pentru anul 2023",
+   "url": "https://emol.ro/fieni-db/registru-hcl/83830",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/83830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-139-2022",
+   "path": "local/dambovita/fieni/2022/139",
+   "short": "HCL Fieni nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 139/2022 privind anularea obligaţiilor fiscale datorate de debitori, persoane juridice, radiate din Registrul Comerţului",
+   "url": "https://emol.ro/fieni-db/registru-hcl/83832",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/83832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-140-2022",
+   "path": "local/dambovita/fieni/2022/140",
+   "short": "HCL Fieni nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 140/2022 privind scăderea din evidenţa fiscală a creanţelor fiscale cuprinse în Anexa 1 şi 2 pentru care dreptul contribuabilului de a cere restituirea s-a prescris",
+   "url": "https://emol.ro/fieni-db/registru-hcl/83833",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/83833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-141-2022",
+   "path": "local/dambovita/fieni/2022/141",
+   "short": "HCL Fieni nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 141/2022 privind participarea la Programul privind dezvoltarea infrastructurii de reîncărcare pentru vehicule electrice şi/sau hibrid plug-in în localităţi, prin instalarea de staţii de reîncărcare cu putere normală\"pentru proiectul „Instalare statii de reincarcare cu putere normala pentru vehicule electrice si/sau hibrid plug-in in orasul Fieni, judetul Dambovita”",
+   "url": "https://emol.ro/fieni-db/registru-hcl/83834",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/83834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-143-2022",
+   "path": "local/dambovita/fieni/2022/143",
+   "short": "HCL Fieni nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 143/2022 privind aprobarea rectificării bugetului pentru anul 2022",
+   "url": "https://emol.ro/fieni-db/registru-hcl/83836",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/83836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-144-2022",
+   "path": "local/dambovita/fieni/2022/144",
+   "short": "HCL Fieni nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 144/2022 privind aprobarea prin transfer din bugetul local a sumelor pentru completarea fondurilor proprii pentru unitatile de cult in anul 2022",
+   "url": "https://emol.ro/fieni-db/registru-hcl/83837",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/83837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-145-2022",
+   "path": "local/dambovita/fieni/2022/145",
+   "short": "HCL Fieni nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 145/2022 privind aprobarea structurii retelei scolare a unitatilor de invatamant preuniversitar de stat de pe raza teritoriala a orasului Fieni , pentru anul scolar 2023 – 2024",
+   "url": "https://emol.ro/fieni-db/registru-hcl/84952",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/84952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-147-2022",
+   "path": "local/dambovita/fieni/2022/147",
+   "short": "HCL Fieni nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 147/2022 privind aprobarea indicatorilor cu privire la execuţia bugetului local de venituri şi cheltuieli pe trimestrul IV 2022",
+   "url": "https://emol.ro/fieni-db/registru-hcl/84954",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/84954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-149-2022",
+   "path": "local/dambovita/fieni/2022/149",
+   "short": "HCL Fieni nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 149/2022 stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului precum si pentru personalul contractual din cadrul Serviciului Comunitar de Utilitati Publice al orasului Fieni",
+   "url": "https://emol.ro/fieni-db/registru-hcl/84956",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/84956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--fieni-150-2022",
+   "path": "local/dambovita/fieni/2022/150",
+   "short": "HCL Fieni nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fieni nr. 150/2022 privind aprobarea organigramei si a statelor de functii din cadrul aparatului de specialitate al primarului, precum şi a SCUP valabile de 01.01.2023",
+   "url": "https://emol.ro/fieni-db/registru-hcl/84957",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fieni-db/registru-hcl/84957",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

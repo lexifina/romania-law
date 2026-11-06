@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/mihaileni/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--mihaileni-30-2025",
+   "path": "local/botosani/mihaileni/2025/30",
+   "short": "HCL Mihăileni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăileni nr. 30/2025 privind stabilirea impozitelor si taxe locale pentru anul 2026 Nr: 30 (Adaugat la data 29.12.2025) Vizualizare",
+   "url": "https://www.primariamihailenibt.ro/informatii-de-interes-public/hotarari-de-c-l/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://cbn-aplicatie-comune.appspot.com/download/ServeFile?blobKey=AMIfv97H4NgMtGkxSIDTvlo4hL4Sp0EvYTu1DAtqTU9jp4839TA1ON4G_bFyYnq8ApxuL-RhHwPakcetwhAtQGOmRe2ruJPoKUzrGc68S85tJgOgF1Rt_c9MJLX4P8QBI4N5GbWmL6cOfDtxtGZ5L0jqMjDfnGEMxTo7fGHIkLUl-O6J5VOUHOg",
+     "sha256": "b5cac7db7aa7bd00168b06cf7a92445431021485090916fe1233bdcc8f917df1"
+    }
+   ]
+  }
+ ]
+}

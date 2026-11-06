@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/dumitrita/2018",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-29-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/29",
+   "short": "HCL Dumitrița nr. 29/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 29/2018 Privind modificarea Hotararii Consiliului Local Dumitrita nr. 82/13.11.2017 privind stabilirea impozitelor si taxelor locale datorate de persoanele fizice si juridice din comuna Dumitrita in anul 2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-03-26",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_29_26.03.2018.pdf",
+     "sha256": "783c58cd10f9986cd8da871f88c844a14290c72ccea8a75da85ac94d0e881add"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--dumitrita-6-2018",
+   "path": "local/bistrita-nasaud/dumitrita/2018/6",
+   "short": "HCL Dumitrița nr. 6/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrița nr. 6/2018",
+   "url": "http://www.dumitrita.ro/hcl.html",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 1,
+     "source_url": "http://www.dumitrita.ro/documente/2018/hcl_2018/HCL_6_22.01.2018.pdf",
+     "sha256": "60dbbfa7a0aeae7ba487403a91537393e652a1e60890a9f4d18bfd9177fda9a9"
+    }
+   ]
+  }
+ ]
+}

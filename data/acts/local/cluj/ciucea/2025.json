@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/ciucea/2025",
+"acts": [
+{
+"slug": "hcl-cluj--ciucea-38-2025",
+"path": "local/cluj/ciucea/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 38/2025 pentru aprobarea regulamentului privind acordarea și valorificarea materialului lemnos către populația comunei Ciucea, județul Cluj",
+"short": "HCL Ciucea nr. 38/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://primariaciucea.ro/wp-content/uploads/2025/12/HCL-nr.38-_04.12.2025-pentru-aprobarea-regulamentului-privind-acordarea-si-valorificarea-materialului-lemnos-catre-populatia-comunei-Ciucea-judetul-Cluj.pdf",
+"council": "cluj/ciucea",
+"council_name": "Consiliul Local al Comunei Ciucea",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/dambovita/gaesti/2024",
+"acts": [
+{
+"slug": "hcl-dambovita--gaesti-128-2024",
+"path": "local/dambovita/gaesti/2024/128",
+"kind": "local",
+"year": "2024",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 128/2024 privind rectificarea bugetului local pe trimestrul IV al anului 2024",
+"short": "HCL Găești nr. 128/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/172745",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-133-2024",
+"path": "local/dambovita/gaesti/2024/133",
+"kind": "local",
+"year": "2024",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 133/2024 privind alegerea viceprimarului orașului Găești",
+"short": "HCL Găești nr. 133/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-02",
+"latest": "2024-11-02",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/174737",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--gaesti-139-2024",
+"path": "local/dambovita/gaesti/2024/139",
+"kind": "local",
+"year": "2024",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Găești nr. 139/2024 privind rectificarea bugetului local pe trimestrul IV al anului 2024",
+"short": "HCL Găești nr. 139/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/gaesti-db/registru-hcl/179264",
+"council": "dambovita/gaesti",
+"council_name": "Consiliul Local al Orașului Găești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

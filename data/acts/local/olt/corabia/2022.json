@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/olt/corabia/2022",
+"acts": [
+{
+"slug": "hcl-olt--corabia-141-2022",
+"path": "local/olt/corabia/2022/141",
+"kind": "local",
+"year": "2022",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Corabia nr. 141/2022 privind respingerea solicitării de reanalizare a HCL Corabia nr.118/29.09.2022",
+"short": "HCL Corabia nr. 141/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://emol.ro/corabia-ot/registru-hcl/80570",
+"council": "olt/corabia",
+"council_name": "Consiliul Local al Orașului Corabia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--corabia-142-2022",
+"path": "local/olt/corabia/2022/142",
+"kind": "local",
+"year": "2022",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Corabia nr. 142/2022 privind aprobarea sumelor indexate reprezentând impozitul pe mijloacele de transport de marfă pentru anul 2023",
+"short": "HCL Corabia nr. 142/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/corabia-ot/registru-hcl/81135",
+"council": "olt/corabia",
+"council_name": "Consiliul Local al Orașului Corabia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

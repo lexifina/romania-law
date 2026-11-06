@@ -3,6 +3,981 @@
  "shard": "profesii/2011",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2011-204",
+   "path": "profesii/cafr/hotarare/2011/204",
+   "short": "Hotărârea CAFR nr. 204/2011",
+   "title": "HOTĂRÂRE nr. 204 din 23 februarie 2011 privind aprobarea auditorilor financiari care au fost autorizați în alt stat membru al Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128643",
+   "versions": [
+    {
+     "from": "2011-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128643",
+     "sha256": "cc4ab4877d7aa585572aefcbe4a7c66ce380819cb48542a763d3b48199672612"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-206",
+   "path": "profesii/cafr/hotarare/2011/206",
+   "short": "Hotărârea CAFR nr. 206/2011",
+   "title": "HOTĂRÂRE nr. 206 din 23 februarie 2011 pentru aprobarea Procedurilor de înscriere la stagiu a persoanelor care au obținut diplomă de absolvire ACCA și nu au desfășurat activități de audit statutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128926",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128926",
+     "sha256": "d65e82ec99f2cc6d6ba7f95f04b14dba11c3184794d0cfd27bdd5fb5423f3ea2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-211",
+   "path": "profesii/cafr/hotarare/2011/211",
+   "short": "Hotărârea CAFR nr. 211/2011",
+   "title": "HOTĂRÂRE nr. 211 din 27 aprilie 2011 privind adoptarea Procedurilor de înscriere la stagiul organizat de Camera Auditorilor Financiari din România a studenților Asociației Contabililor Autorizați care au promovat o parte din examenele organizate de Asociația Contabililor Autorizați, dar nu au devenit încă membri cu drepturi depline",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130171",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130171",
+     "sha256": "58a9b1626d38b1b30b869122aa30e0fe4bc5d845c25f5cda9fdad0434a89e346"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-220",
+   "path": "profesii/cafr/hotarare/2011/220",
+   "short": "Hotărârea CAFR nr. 220/2011",
+   "title": "HOTĂRÂRE nr. 220 din 4 mai 2011 privind aprobarea Procedurilor pentru stabilirea tematicii pentru programul anual de pregătire profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130174",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130174",
+     "sha256": "56f70f87d11b5b779309b8d69670e8e8bffc2b4e88dce12cba3ec6a87647c61e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-231",
+   "path": "profesii/cafr/hotarare/2011/231",
+   "short": "Hotărârea CAFR nr. 231/2011",
+   "title": "HOTĂRÂRE nr. 231 din 15 iunie 2011 pentru aprobarea Procedurilor privind acordarea titlurilor de onoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130381",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130381",
+     "sha256": "49a7d79bdfac8c5ae9aa2a564492fab5421154c898c72656352a5b23189c5e24"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-234",
+   "path": "profesii/cafr/hotarare/2011/234",
+   "short": "Hotărârea CAFR nr. 234/2011",
+   "title": "HOTĂRÂRE nr. 234 din 15 iunie 2011 privind aprobarea Listei cuprinzând auditorii financiari care au fost autorizați în alt stat membru al Uniunii Europene și au dobândit calitatea și dreptul de exercitare a profesiei de auditor financiar în România, în urma testului de aptitudini organizat în data de 9 iunie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132224",
+   "versions": [
+    {
+     "from": "2011-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132224",
+     "sha256": "f507334a63f337078ee8924b6cddef0da4311b144a94cd0b032a95eae0abffa5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-237",
+   "path": "profesii/cafr/hotarare/2011/237",
+   "short": "Hotărârea CAFR nr. 237/2011",
+   "title": "HOTĂRÂRE nr. 237 din 15 iunie 2011 privind aprobarea cotizațiilor și tarifelor pentru membrii Camerei Auditorilor Financiari din România și pentru stagiarii în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130064",
+   "versions": [
+    {
+     "from": "2011-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130064",
+     "sha256": "13911544f27a793461d1b992eeb2e4f7609834db7e1514006b0909972438749a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-239",
+   "path": "profesii/cafr/hotarare/2011/239",
+   "short": "Hotărârea CAFR nr. 239/2011",
+   "title": "HOTĂRÂRE nr. 239 din 15 iunie 2011 pentru aprobarea formularelor de raport anual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130843",
+   "versions": [
+    {
+     "from": "2011-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130843",
+     "sha256": "f17ecca1c1ae89782195e2e883d7f02ed15960e42b02b59b91b4b850baf1402b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-240",
+   "path": "profesii/cafr/hotarare/2011/240",
+   "short": "Hotărârea CAFR nr. 240/2011",
+   "title": "HOTĂRÂRE nr. 240 din 28 iunie 2011 pentru alegerea membrilor Biroului permanent al Consiliului Camerei, acordarea titlurilor \"Președinte de onoare\" și \"Auditor financiar de onoare\", aprobarea Comitetului de excelență și a altor competențe ale membrilor Consiliului Camerei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130387",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130387",
+     "sha256": "34bc4a0e771d17f366137b84ffbc43b2fb784f7c92b7355b6ff69a055c22403b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-243",
+   "path": "profesii/cafr/hotarare/2011/243",
+   "short": "Hotărârea CAFR nr. 243/2011",
+   "title": "HOTĂRÂRE nr. 243 din 25 august 2011 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 164/2010 pentru adoptarea Normelor privind aprobarea auditorilor financiari și a firmelor de audit din alte state membre ale Uniunii Europene și din terțe țări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132307",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132307",
+     "sha256": "99477e4a5a51115855b360af350306ed8f3f630218371991ebada0fd1219aab5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-262",
+   "path": "profesii/cafr/hotarare/2011/262",
+   "short": "Hotărârea CAFR nr. 262/2011",
+   "title": "HOTĂRÂRE nr. 262 din 24 noiembrie 2011 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133635",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133635",
+     "sha256": "8afe0f97eed11b5e61353183c2be7c2ccf326bed31948d6472478575e3002bb8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-263",
+   "path": "profesii/cafr/hotarare/2011/263",
+   "short": "Hotărârea CAFR nr. 263/2011",
+   "title": "HOTĂRÂRE nr. 263 din 15 decembrie 2011 pentru aprobarea Normelor privind Programul de pregătire profesională a auditorilor financiari și a stagiarilor în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134361",
+   "versions": [
+    {
+     "from": "2012-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134361",
+     "sha256": "8f883279e84d1fc01f5bb94545ecd5b0402b0038c1cc204443d0ad835fbc1d9b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-264",
+   "path": "profesii/cafr/hotarare/2011/264",
+   "short": "Hotărârea CAFR nr. 264/2011",
+   "title": "HOTĂRÂRE nr. 264 din 15 decembrie 2011 privind aprobarea Listei cuprinzând auditorii financiari care au fost autorizați în alte state membre ale Uniunii Europene sau aparținând Spațiului Economic European ori Confederației Elveției și care au dobândit calitatea și dreptul de exercitare a profesiei de auditor financiar în România, în urma testului de aptitudini organizat în data de 25 noiembrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134294",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134294",
+     "sha256": "3e0e490f277bfd4409e39c37aa60a6411a1bae2b9999382b7cff10d983103612"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-265",
+   "path": "profesii/cafr/hotarare/2011/265",
+   "short": "Hotărârea CAFR nr. 265/2011",
+   "title": "HOTĂRÂRE nr. 265 din 15 decembrie 2011 pentru aprobarea Procedurilor privind acordarea de excepții de la vechimea în activitatea financiar-contabilă și de la testul de cunoștințe în domeniul financiar-contabil, pentru accesul la stagiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134441",
+   "versions": [
+    {
+     "from": "2012-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134441",
+     "sha256": "0211251ee11b1c858babdad50b8a9f880e2e7585ea05ad977b11a7abd51c721f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-266",
+   "path": "profesii/cafr/hotarare/2011/266",
+   "short": "Hotărârea CAFR nr. 266/2011",
+   "title": "HOTĂRÂRE nr. 266 din 15 decembrie 2011 privind aprobarea Procedurilor pentru înscrierea la Camera Auditorilor Financiari din România a stagiarilor care desfășoară stagiul la Corpul Experților Contabili și Contabililor Autorizați din România, potrivit protocolului încheiat între Corpul Experților Contabili și Contabililor Autorizați din România și Camera Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134565",
+   "versions": [
+    {
+     "from": "2012-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134565",
+     "sha256": "c1aeceb1c72c408698292973af4993ecb4fafa9041571cbc30ad6ac6c9c3ebe0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2011-274",
+   "path": "profesii/cafr/hotarare/2011/274",
+   "short": "Hotărârea CAFR nr. 274/2011",
+   "title": "HOTĂRÂRE nr. 274 din 15 decembrie 2011 privind modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 182/2010 pentru aprobarea procedurilor privind revizuirea calității activității de audit financiar și a altor activități desfășurate de auditorii financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134933",
+   "versions": [
+    {
+     "from": "2012-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134933",
+     "sha256": "b218c73a1ef07af34461392d7dbe68ba8765c8ac8de6badd93af677bfb06f6fd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-conferinta-2011-236",
+   "path": "profesii/cafr/hotarare-conferinta/2011/236",
+   "short": "Hotărârea CAFR nr. 236/2011",
+   "title": "HOTĂRÂRE nr. 236 din 18 iunie 2011 a Conferinței ordinare a Camerei Auditorilor Financiari din România cu privire la aprobarea materialelor prezentate în cadrul Conferinței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129866",
+   "versions": [
+    {
+     "from": "2011-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129866",
+     "sha256": "9adf02741f25ce91ed4e26bf2bc26b44bd7d5ab03c1340a6256039d8824e65bf"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2011-11",
+   "path": "profesii/ccf/hotarare/2011/11",
+   "short": "Hotărârea CCF nr. 11/2011",
+   "title": "HOTĂRÂRE nr. 11 din 26 august 2011 privind completarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 4/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131193",
+   "versions": [
+    {
+     "from": "2011-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131193",
+     "sha256": "9ffec20bc61f2f29ce7f8e6123e1705d313dbbacbbb561943f32af34e488d6b2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2011-13",
+   "path": "profesii/ccf/hotarare/2011/13",
+   "short": "Hotărârea CCF nr. 13/2011",
+   "title": "HOTĂRÂRE nr. 13 din 26 august 2011 pentru modificarea Normelor privind realizarea de expertize fiscale la solicitarea instanțelor judecătorești, organelor de cercetare penală, organelor fiscale sau a altor părți interesate, aprobate prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 13/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132082",
+   "versions": [
+    {
+     "from": "2011-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132082",
+     "sha256": "ddbd82f4d5bf5692e4c2ae7e17874b1fc1bd51de8d8e6aacf693449ab40e89e2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2011-14",
+   "path": "profesii/ccf/hotarare/2011/14",
+   "short": "Hotărârea CCF nr. 14/2011",
+   "title": "HOTĂRÂRE nr. 14 din 26 august 2011 pentru aprobarea Normelor procedurale privind monitorizarea și controlul activității consultanților fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132452",
+   "versions": [
+    {
+     "from": "2011-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132452",
+     "sha256": "7a02e8481134cbb048d09cb7bbe4df58ec56cfaca60497db92516a8762f1b53d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2011-16",
+   "path": "profesii/ccf/hotarare/2011/16",
+   "short": "Hotărârea CCF nr. 16/2011",
+   "title": "HOTĂRÂRE nr. 16 din 2 noiembrie 2011 pentru aprobarea Normelor metodologice privind legitimațiile de serviciu și legitimațiile de control pentru personalul angajat al Camerei Consultanților Fiscali",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133182",
+   "versions": [
+    {
+     "from": "2011-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133182",
+     "sha256": "6c94fea2d4aa6f59c4085586a34ce5891db3dea817b52c52614002e4a8b28327"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2011-2",
+   "path": "profesii/ccf/hotarare/2011/2",
+   "short": "Hotărârea CCF nr. 2/2011",
+   "title": "HOTĂRÂRE nr. 2 din 18 ianuarie 2011 privind aprobarea nivelului taxei de înscriere la examenul de atribuire a calității de consultant fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126014",
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126014",
+     "sha256": "0179737137150b77757ffc2b0173fb89e6066cb4ec545a95f4e907318174e39d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2011-4",
+   "path": "profesii/ccf/hotarare/2011/4",
+   "short": "Hotărârea CCF nr. 4/2011",
+   "title": "HOTĂRÂRE nr. 4 din 24 februarie 2011 pentru aprobarea Normelor de certificare a declarațiilor fiscale anuale ale contribuabililor persoane juridice, cu excepția celor pentru care este obligatorie auditarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126505",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126505",
+     "sha256": "92d079577497e58cc20eeb3823d53a967101e1781ee30d70c8b3439c47c922ad"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2011-5",
+   "path": "profesii/ccf/hotarare/2011/5",
+   "short": "Hotărârea CCF nr. 5/2011",
+   "title": "HOTĂRÂRE nr. 5 din 24 februarie 2011 pentru aprobarea Programului de pregătire profesională continuă aferent anului 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126694",
+   "versions": [
+    {
+     "from": "2011-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126694",
+     "sha256": "c845a1aaf0365dfdc8e60d81e4cfffb3ea1dbad922dfcf27446d98ec11b0de7a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2011-7",
+   "path": "profesii/ccf/hotarare-conferinta/2011/7",
+   "short": "Hotărârea CCF nr. 7/2011",
+   "title": "HOTĂRÂRE nr. 7 din 18 aprilie 2011 privind aprobarea documentelor prezentate spre dezbatere în Conferința națională a Camerei Consultanților Fiscali din 16 aprilie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128114",
+   "versions": [
+    {
+     "from": "2011-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128114",
+     "sha256": "20504d23044e0ed02834ca9df69ff714c1f82a84c34a270afa1d8da152e83543"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2011-8",
+   "path": "profesii/ccf/hotarare-conferinta/2011/8",
+   "short": "Hotărârea CCF nr. 8/2011",
+   "title": "HOTĂRÂRE nr. 8 din 18 aprilie 2011 privind nivelul cotizațiilor membrilor Camerei Consultanților Fiscali pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128115",
+   "versions": [
+    {
+     "from": "2011-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128115",
+     "sha256": "748a8bc5bb46b476d9548ea3424f720b9f483b5eb292375158f982c0c6e9078b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2011-9",
+   "path": "profesii/ccf/hotarare-conferinta/2011/9",
+   "short": "Hotărârea CCF nr. 9/2011",
+   "title": "HOTĂRÂRE nr. 9 din 18 aprilie 2011 privind organizarea Adunării Generale Ordinare a Confederației Fiscale Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128116",
+   "versions": [
+    {
+     "from": "2011-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128116",
+     "sha256": "50179996bcde6128914975cdf844c0eda1df541220e64e56a14789ab7aed647f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2011-12",
+   "path": "profesii/ccf/hotarare-consiliu/2011/12",
+   "short": "Hotărârea CCF nr. 12/2011",
+   "title": "HOTĂRÂRE nr. 12 din 26 august 2011 privind susținerea examenului pentru atribuirea calității de consultant fiscal sesiunea octombrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131199",
+   "versions": [
+    {
+     "from": "2011-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131199",
+     "sha256": "ed4e0bf9ab826fb5ee0e260c6da6ff2d72ddf4524858fb97bf6b0095300e784a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2011-15",
+   "path": "profesii/ccf/hotarare-consiliu/2011/15",
+   "short": "Hotărârea CCF nr. 15/2011",
+   "title": "HOTĂRÂRE nr. 15 din 23 septembrie 2011 privind prelungirea termenului de înscriere la examenul pentru atribuirea calității de consultant fiscal - sesiunea octombrie 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131711",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131711",
+     "sha256": "85617d21a6ef9e0023c75e51ede82637abfe292b4df4efff74f3013fe2aee631"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2011-3",
+   "path": "profesii/ccf/hotarare-consiliu/2011/3",
+   "short": "Hotărârea CCF nr. 3/2011",
+   "title": "HOTĂRÂRE nr. 3 din 18 ianuarie 2011 privind modalitatea și termenele de plată a cotizațiilor fixe în anul 2011 și a cotizațiilor variabile datorate de consultanții fiscali pentru veniturile realizate în anul 2010 și depunerea declarațiilor în anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126016",
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126016",
+     "sha256": "9337fac04b4d79f98b5a89648022e4bb7f7685fbad6bdf4c07c9886afd2128de"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2011-1",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2011/1",
+   "short": "Hotărârea CCF nr. 1/2011",
+   "title": "HOTĂRÂRE nr. 1 din 18 ianuarie 2011 privind aprobarea nivelului taxei de înscriere în evidențele Camerei Consultanților Fiscali pentru anul 2011 și al nivelului taxei de autorizare a societăților comerciale de consultanță fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126013",
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126013",
+     "sha256": "4026879a18773259b67ac96cedb00d01fbc3e8a1aa2be7b20da742e1d8524f4b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2011-6",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2011/6",
+   "short": "Hotărârea CCF nr. 6/2011",
+   "title": "HOTĂRÂRE nr. 6 din 28 februarie 2011 privind convocarea Conferinței naționale anuale a Camerei Consultanților Fiscali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126692",
+   "versions": [
+    {
+     "from": "2011-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126692",
+     "sha256": "2569e2ce06a5a958e161edecaf6fd55c3f7007ee10f957d2fea36b95a6d78356"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2011-214",
+   "path": "profesii/ceccar/hotarare/2011/214",
+   "short": "Hotărârea CECCAR nr. 214/2011",
+   "title": "HOTĂRÂRE nr. 11/214 din 27 ianuarie 2011 pentru aprobarea elaborării și publicării standardului profesional \"Controlul calității și managementul relațiilor cu clienții unui cabinet de expertiză contabilă sau de contabilitate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125810",
+   "versions": [
+    {
+     "from": "2011-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125810",
+     "sha256": "7937831d9e170facf1409968edf48c1efa7a81813ace8c6eb4a9a49168f28086"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ceccar-hotarare-2011-215",
+   "path": "profesii/ceccar/hotarare/2011/215",
+   "short": "Hotărârea CECCAR nr. 215/2011",
+   "title": "HOTĂRÂRE nr. 11/215 din 15 februarie 2011 pentru modificarea și completarea Regulamentului privind efectuarea stagiului și examenul de aptitudini în vederea accesului la calitatea de expert contabil și de contabil autorizat, aprobat prin Hotărârea Consiliului superior al Corpului Experților Contabili și Contabililor Autorizați din România nr. 00/33/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126421",
+   "versions": [
+    {
+     "from": "2011-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126421",
+     "sha256": "d05f4d1fe6cdfce991a8d81f44f8a94ee2a46cbaec87d817b3d7579555b724d8"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2011-1",
+   "path": "profesii/cfr/decizie-consiliu-national/2011/1",
+   "short": "Decizia CFR nr. 1/2011",
+   "title": "DECIZIE nr. 1 din 8 februarie 2011 privind aprobarea procedurilor de evaluare a farmaciilor cu privire la respectarea Regulilor de bună practică farmaceutică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126709",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126709",
+     "sha256": "ab23756b3f544ae5cdb25a13d5d967c6a6829c294c4744927c1ca24c93bdcb97"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2011-3",
+   "path": "profesii/cfr/decizie-consiliu-national/2011/3",
+   "short": "Decizia CFR nr. 3/2011",
+   "title": "DECIZIE nr. 3 din 19 septembrie 2011 privind aprobarea Regulamentului electoral al Colegiului Farmaciștilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131844",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131844",
+     "sha256": "0b7796738d5b51fc774034759e6d05079d87aa372a4fa5e720774bd582859b17"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2011-31",
+   "path": "profesii/cmdr/decizie/2011/31",
+   "short": "Decizia CMDR nr. 31/2011",
+   "title": "DECIZIE nr. 31 din 18 iunie 2011 privind componența comisiei de experți a Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130236",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130236",
+     "sha256": "22cb9647c9a6c928c7993e92444a32e51b4a659979082ca441270bb21c3b129c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-2011-59",
+   "path": "profesii/cmdr/decizie/2011/59",
+   "short": "Decizia CMDR nr. 59/2011",
+   "title": "DECIZIE nr. 59 din 19 noiembrie 2011 privind aprobarea Regulamentului electoral al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134411",
+   "versions": [
+    {
+     "from": "2012-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134411",
+     "sha256": "70cc1f3456f15951996ec3cea3c6b597e14689103e5ba32a0aaff70880162a9b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2011-1",
+   "path": "profesii/cmr/decizie/2011/1",
+   "short": "Decizia CMR nr. 1/2011",
+   "title": "DECIZIE nr. 1 din 28 ianuarie 2011 privind înființarea unei comisii de lucru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126265",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126265",
+     "sha256": "d94573ac392cfbae085d496c75ac4d7dfe1412f4fa700a19223f54c50de26506"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2011-3",
+   "path": "profesii/cmr/decizie/2011/3",
+   "short": "Decizia CMR nr. 3/2011",
+   "title": "DECIZIE nr. 3 din 28 aprilie 2011 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 1/2009 privind eliberarea certificatului de membru al Colegiului Medicilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128654",
+   "versions": [
+    {
+     "from": "2011-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128654",
+     "sha256": "111bf7fc38407f762fcb4972d57dad1cc22ec9f25582bfe8d5ac79e0493c4616"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-2011-4",
+   "path": "profesii/cmr/decizie/2011/4",
+   "short": "Decizia CMR nr. 4/2011",
+   "title": "DECIZIE nr. 4 din 20 mai 2011 privind stabilirea datei organizării alegerilor pentru comisiile de disciplină, adoptarea Regulamentului electoral privind alegerea membrilor comisiilor de disciplină și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129484",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129484",
+     "sha256": "e71b9776dc0fe85a6a8ecbc36a112517393375c54bf11e4188f3bde07179fe11"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2011-5",
+   "path": "profesii/cmr/decizie-consiliu-national/2011/5",
+   "short": "Decizia CMR nr. 5/2011",
+   "title": "DECIZIE nr. 5 din 15 iulie 2011 privind stabilirea datelor organizării alegerilor din mandatul 2012-2016, adoptarea Regulamentului electoral privind alegerea conducerii Colegiului Medicilor din România și aprobarea componenței Comisiei Electorale Centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130648",
+   "versions": [
+    {
+     "from": "2011-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130648",
+     "sha256": "810c73be02fba35a597799854f5a24fb74f80f74d747bb47cf4c17b31914c963"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-176",
+   "path": "profesii/csm/hotarare-plen/2011/176",
+   "short": "Hotărârea CSM nr. 176/2011",
+   "title": "HOTĂRÂRE nr. 176 din 24 martie 2011 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127800",
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127800",
+     "sha256": "08970eb34c2edf925cecb87dc9fafddee900eff687150a3c0f7ba8b3e87b8824"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-228",
+   "path": "profesii/csm/hotarare-plen/2011/228",
+   "short": "Hotărârea CSM nr. 228/2011",
+   "title": "HOTĂRÂRE nr. 228 din 14 aprilie 2011 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128617",
+   "versions": [
+    {
+     "from": "2011-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128617",
+     "sha256": "0c8e6eee87467f50fc4dcfc847cabc66239ce5f6fb0f7e906d79cffd29cf1a62"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-229",
+   "path": "profesii/csm/hotarare-plen/2011/229",
+   "short": "Hotărârea CSM nr. 229/2011",
+   "title": "HOTĂRÂRE nr. 229 din 14 aprilie 2011 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, precum și procedura de numire în funcțiile de judecător și procuror, fără concurs, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 152/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128618",
+   "versions": [
+    {
+     "from": "2011-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128618",
+     "sha256": "8f5b44d8657da33bcea3d67740658170619f5bc6bdee2e48dc32da30407c265e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-267",
+   "path": "profesii/csm/hotarare-plen/2011/267",
+   "short": "Hotărârea CSM nr. 267/2011",
+   "title": "HOTĂRÂRE nr. 267 din 28 aprilie 2011 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128670",
+   "versions": [
+    {
+     "from": "2011-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128670",
+     "sha256": "1874bf4c45e40a1274fe2c3447c4221b8aaf39a0389cfd15fc1a24e90e809a19"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-283",
+   "path": "profesii/csm/hotarare-plen/2011/283",
+   "short": "Hotărârea CSM nr. 283/2011",
+   "title": "HOTĂRÂRE nr. 283 din 5 mai 2011 pentru completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128491",
+   "versions": [
+    {
+     "from": "2011-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128491",
+     "sha256": "5b213a9799b9490460687b42262c57bd6ee3ed6032798a29d26311bb0891f342"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-355",
+   "path": "profesii/csm/hotarare-plen/2011/355",
+   "short": "Hotărârea CSM nr. 355/2011",
+   "title": "HOTĂRÂRE nr. 355 din 26 mai 2011 pentru modificarea și completarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129084",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129084",
+     "sha256": "f6fdd27e1e802249e7b84376c00c8ddacfdd2965134047257140cd32e0328f47"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-379",
+   "path": "profesii/csm/hotarare-plen/2011/379",
+   "short": "Hotărârea CSM nr. 379/2011",
+   "title": "HOTĂRÂRE nr. 379 din 6 iunie 2011 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129678",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129678",
+     "sha256": "105af39670d2ab92f4705993dcecd41caad9dc1a57ce6d8f23a541f8804271eb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-380",
+   "path": "profesii/csm/hotarare-plen/2011/380",
+   "short": "Hotărârea CSM nr. 380/2011",
+   "title": "HOTĂRÂRE nr. 380 din 6 iunie 2011 pentru modificarea Regulamentului de organizare și funcționare al Școlii Naționale de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 183/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129679",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129679",
+     "sha256": "faf819e3e3dbd9cc4548b4f1dcf6cfd6d88dbbc2e83328195295aac3ad7d8c74"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-381",
+   "path": "profesii/csm/hotarare-plen/2011/381",
+   "short": "Hotărârea CSM nr. 381/2011",
+   "title": "HOTĂRÂRE nr. 381 din 6 iunie 2011 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006 și a Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, precum și procedura de numire în funcțiile de judecător și procuror, fără concurs, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 152/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129451",
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129451",
+     "sha256": "48ee13c3f7aeb8e7284db0cadacc41ce4065fa759c5b05fc2bb61de49a63762c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-470",
+   "path": "profesii/csm/hotarare-plen/2011/470",
+   "short": "Hotărârea CSM nr. 470/2011",
+   "title": "HOTĂRÂRE nr. 470 din 12 iulie 2011 pentru modificarea și completarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130529",
+   "versions": [
+    {
+     "from": "2011-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130529",
+     "sha256": "116a561c6926e96e87e8f59dde18ff1ae321afd1176eac839c6be914d68aa3ce"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-484",
+   "path": "profesii/csm/hotarare-plen/2011/484",
+   "short": "Hotărârea CSM nr. 484/2011",
+   "title": "HOTĂRÂRE nr. 484 din 21 iulie 2011 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130434",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130434",
+     "sha256": "44f20b7b7c1747d2334f8100f7a9473bd4bb1564b3853c4b6e0f5d6ca9ae5515"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-504",
+   "path": "profesii/csm/hotarare-plen/2011/504",
+   "short": "Hotărârea CSM nr. 504/2011",
+   "title": "HOTĂRÂRE nr. 504 din 21 iulie 2011 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130651",
+   "versions": [
+    {
+     "from": "2011-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130651",
+     "sha256": "88f4dbc38df559a1636fc4501779d356fa6e0d20f5f9fe6680b62e91afe779d9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-749",
+   "path": "profesii/csm/hotarare-plen/2011/749",
+   "short": "Hotărârea CSM nr. 749/2011",
+   "title": "HOTĂRÂRE nr. 749 din 18 octombrie 2011 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133180",
+   "versions": [
+    {
+     "from": "2011-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133180",
+     "sha256": "20f98f4eb7cbde35d0a3869e269f77512248b7396717b3fdd02e67cca5e030ec"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-750",
+   "path": "profesii/csm/hotarare-plen/2011/750",
+   "short": "Hotărârea CSM nr. 750/2011",
+   "title": "HOTĂRÂRE nr. 750 din 18 octombrie 2011 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de promovare a judecătorilor și procurorilor, aprobat prin Hotărârea Consiliului Superior al Magistraturii nr. 621/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132927",
+   "versions": [
+    {
+     "from": "2011-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132927",
+     "sha256": "850b0fff14ed9c2471f90bacf3fc3fcbdff274200b8059eb70c5749ad1846bca"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-829",
+   "path": "profesii/csm/hotarare-plen/2011/829",
+   "short": "Hotărârea CSM nr. 829/2011",
+   "title": "HOTĂRÂRE nr. 829 din 15 noiembrie 2011 pentru completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133621",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133621",
+     "sha256": "bc4a1bb086eff58736fe319638e82776bc0a02c1b374d2e8f13e758e5df6c9df"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-830",
+   "path": "profesii/csm/hotarare-plen/2011/830",
+   "short": "Hotărârea CSM nr. 830/2011",
+   "title": "HOTĂRÂRE nr. 830 din 15 noiembrie 2011 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului sau examenului pentru definitivare în funcție, promovare în grade sau trepte profesionale superioare în cadrul aceleiași instanțe ori aceluiași parchet, precum și în funcții de execuție a personalului auxiliar de specialitate la instanțe și parchete superioare, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 181/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133355",
+   "versions": [
+    {
+     "from": "2011-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133355",
+     "sha256": "4b8269534eab42d074c473222a43077561d90bdde3badc1112b330437113103a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2011-832",
+   "path": "profesii/csm/hotarare-plen/2011/832",
+   "short": "Hotărârea CSM nr. 832/2011",
+   "title": "HOTĂRÂRE nr. 832 din 15 noiembrie 2011 pentru modificarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133508",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133508",
+     "sha256": "56449c3e810ecf2604fc862e6b25f71c5c277b64af20d16868c1497c1f4b6825"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2011-2247",
+   "path": "profesii/mediere/hotarare-consiliu/2011/2247",
+   "short": "Hotărârea Consiliul de mediere nr. 2247/2011",
+   "title": "HOTĂRÂRE nr. 2.247 din 29 iulie 2011 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130828",
+   "versions": [
+    {
+     "from": "2011-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130828",
+     "sha256": "60390e38ea5f2c74abd9d13395e280f63fe314b6b0204762698bc9512c9274a6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2011-2450",
+   "path": "profesii/mediere/hotarare-consiliu/2011/2450",
+   "short": "Hotărârea Consiliul de mediere nr. 2450/2011",
+   "title": "HOTĂRÂRE nr. 2.450 din 6 august 2011 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131246",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131246",
+     "sha256": "365264e40765d8b1f0654a85927f4ef981fab8321468801ba92034e7ad3f56b6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2011-2570",
+   "path": "profesii/mediere/hotarare-consiliu/2011/2570",
+   "short": "Hotărârea Consiliul de mediere nr. 2570/2011",
+   "title": "HOTĂRÂRE nr. 2.570 din 24 august 2011 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131767",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131767",
+     "sha256": "353694b301a548d14f615ff5dfb1e84eebe2d853ba3989813037e29e09fa1448"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2011-2670",
+   "path": "profesii/mediere/hotarare-consiliu/2011/2670",
+   "short": "Hotărârea Consiliul de mediere nr. 2670/2011",
+   "title": "HOTĂRÂRE nr. 2.670 din 16 septembrie 2011 pentru publicarea în Monitorul Oficial al României, Partea I, a Tabloului mediatorilor autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132200",
+   "versions": [
+    {
+     "from": "2011-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132200",
+     "sha256": "dc00ad8055d6e7bf66c2274c48aa89550ecc0e27566c9b4d35b442613f931c8e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2011-2826",
+   "path": "profesii/mediere/hotarare-consiliu/2011/2826",
+   "short": "Hotărârea Consiliul de mediere nr. 2826/2011",
+   "title": "HOTĂRÂRE nr. 2.826 din 22 octombrie 2011 privind modificarea și completarea Standardului de formare a mediatorului, aprobat prin Hotărârea Consiliului de mediere nr. 12/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133234",
+   "versions": [
+    {
+     "from": "2012-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133234",
+     "sha256": "f6d77cf53ef190063018250443dcc8b34422c7275df2ec933107e95479fbe8b6"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2011-2892",
+   "path": "profesii/mediere/hotarare-consiliu/2011/2892",
+   "short": "Hotărârea Consiliul de mediere nr. 2892/2011",
+   "title": "HOTĂRÂRE nr. 2.892 din 25 noiembrie 2011 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133686",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133686",
+     "sha256": "e6b611c49cb962688434cb1b11a0e971da835f9c23e4b4527fd7026bbbdc029a"
+    }
+   ]
+  },
+  {
    "slug": "profesii-unbr-decizie-consiliu-2011-69",
    "path": "profesii/unbr/decizie-consiliu/2011/69",
    "short": "DECIZIA NR. 69/03.12.2011",
@@ -29,6 +1004,21 @@
      "units": 1,
      "source_url": "https://unbr.ro/decizia-presedintelui-u-n-b-r-nr-62-din-21-februarie-2011/",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-congres-2011-15",
+   "path": "profesii/unbr/hotarare-congres/2011/15",
+   "short": "Hotărârea UNBR nr. 15/2011",
+   "title": "HOTĂRÂRE nr. 15 din 11 iunie 2011 pentru modificarea și completarea Statutului profesiei de avocat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131469",
+   "versions": [
+    {
+     "from": "2011-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131469",
+     "sha256": "0a87f8bf3f91e4c496191f95b7d42570f0b718097b59f550a4f2e50419cfd4dc"
     }
    ]
   },
@@ -104,6 +1094,81 @@
      "units": 1,
      "source_url": "https://unbr.ro/hotararea-consiliului-u-n-b-r-nr-61-din-03-decembrie-2011/",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unbr-hotarare-consiliu-2011-64",
+   "path": "profesii/unbr/hotarare-consiliu/2011/64",
+   "short": "Hotărârea UNBR nr. 64/2011",
+   "title": "HOTĂRÂRE nr. 64 din 3 decembrie 2011 privind adoptarea Statutului profesiei de avocat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133881",
+   "versions": [
+    {
+     "from": "2011-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133881",
+     "sha256": "ed8ca5427f01d95bfa69d0b961bca6431f426122b90d02d7dad22db0c87f3905"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-congres-2011-1",
+   "path": "profesii/unej/hotarare-congres/2011/1",
+   "short": "Hotărârea UNEJ nr. 1/2011",
+   "title": "HOTĂRÂRE nr. 1 din 10 mai 2011 pentru modificarea Statutului Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc, aprobat prin Hotărârea Congresului Extraordinar al Uniunii Naționale a Executorilor Judecătorești nr. 19/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128856",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128856",
+     "sha256": "abb18fb87e2c8b8c43c98f66c4dbd9316a956bd2708c7e9d63a5067f9f591929"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-consiliu-2011-55",
+   "path": "profesii/unej/hotarare-consiliu/2011/55",
+   "short": "Hotărârea UNEJ nr. 55/2011",
+   "title": "HOTĂRÂRE nr. 55 din 24 iunie 2011 privind completarea Tabloului executorilor judecătorești pe anul 2011, aprobat prin Hotărârea Consiliului Uniunii Naționale a Executorilor Judecătorești nr. 16/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130289",
+   "versions": [
+    {
+     "from": "2011-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130289",
+     "sha256": "0d2a2aa743d3d793d963fb2542633b3c0471cbd3c323725b82ce2a69033679fc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-act-adiional-2011-833",
+   "path": "profesii/unnpr/act-adiional/2011/833",
+   "short": "Act adițional UNNPR nr. 833/2011",
+   "title": "ACT ADIȚIONAL nr. 833 din 4 martie 2011 la Protocolul de colaborare încheiat între Agenția Națională de Cadastru și Publicitate Imobiliară și Uniunea Națională a Notarilor Publici din România privind modul de efectuare a operațiunilor de publicitate imobiliară în aplicarea Legii cadastrului și a publicității imobiliare nr. 7/1996 , republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127718",
+   "versions": [
+    {
+     "from": "2011-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127718",
+     "sha256": "0a0f1f51394f6569df9d22ce1acee5e32576d0e1feb9fe7a8bce83f85dea5bff"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2011-4",
+   "path": "profesii/unpir/hotarare/2011/4",
+   "short": "Hotărârea UNPIR nr. 4/2011",
+   "title": "HOTĂRÂRE nr. 4 din 28 mai 2011 pentru modificarea și completarea anexei nr. I la Hotărârea Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130557",
+   "versions": [
+    {
+     "from": "2011-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130557",
+     "sha256": "4d379a23d985bd2c50b053347aa78a59b9f423032de5d8574fa5fc8cf6b312bf"
     }
    ]
   }

@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "cnsc/2026",
+"acts": [
+{
+"slug": "cnsc-decizie-2026-3557",
+"path": "cnsc/decizie/2026/3557",
+"kind": "cnsc",
+"year": "2026",
+"number": "3557",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia CNSC nr. 3557/C3/2045 din 05.11.2026: contestația ASFAMIXT SRL în contradictoriu cu COMUNA SIRBI",
+"short": "Decizia CNSC nr. 3557/C3/2045 din 05.11.2026",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2026-11-05",
+"latest": "2026-11-05",
+"portal": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YjgwYzQ0MjItYmU4YS00OTNjLTg1MGQtOGVlZDRiZDE1Njk0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8zNTU3LnBkZg==&action=YXR0YWNobWVudA=="
+}
+]
+}

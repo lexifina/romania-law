@@ -1,0 +1,66 @@
+{
+"country": "RO",
+"shard": "profesii/2001",
+"acts": [
+{
+"slug": "profesii-cmr-ordin-2001-4188",
+"path": "profesii/cmr/ordin/2001/4188",
+"kind": "profesii",
+"year": "2001",
+"number": "4188",
+"withdrawn_by": null,
+"reason": null,
+"title": "ORDIN nr. 4.188 din 18 decembrie 2001 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate în asistența medicală primara",
+"short": "Ordinul CMR nr. 4188/2001",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2001-12-29",
+"latest": "2001-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/33086",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-ordin-2001-4189",
+"path": "profesii/cmr/ordin/2001/4189",
+"kind": "profesii",
+"year": "2001",
+"number": "4189",
+"withdrawn_by": null,
+"reason": null,
+"title": "ORDIN nr. 4.189 din 18 decembrie 2001 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate în asistența medicală ambulatorie de specialitate pentru specialitățile clinice, paraclinice și stomatologice",
+"short": "Ordinul CMR nr. 4189/2001",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2001-12-29",
+"latest": "2001-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/33083",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-ordin-2001-4233",
+"path": "profesii/cmr/ordin/2001/4233",
+"kind": "profesii",
+"year": "2001",
+"number": "4233",
+"withdrawn_by": null,
+"reason": null,
+"title": "ORDIN nr. 4.233 din 28 decembrie 2001 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării medicamentelor cu și fără contribuție personală în tratamentul ambulatoriu și a Contractului-cadru privind condițiile acordării dispozitivelor medicale destinate corectării și recuperării deficiențelor organice sau funcționale ori corectării unor deficiente fizice, în cadrul sistemului asigurărilor sociale de sănătate",
+"short": "Ordinul CMR nr. 4233/2001",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2002-02-01",
+"latest": "2002-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/33876",
+"flags": {
+"amendments_checked": false
+}
+}
+]
+}

@@ -3,6 +3,346 @@
 "shard": "profesii/2024",
 "acts": [
 {
+"slug": "profesii-cmdr-decizie-2024-1-2cn",
+"path": "profesii/cmdr/decizie/2024/1-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "1-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1/2CN din 31 ianuarie 2024 privind componența Comisiei superioare de disciplină a Colegiului Medicilor Stomatologi din România în mandatul 2024-2028",
+"short": "Decizia CMDR nr. 1/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-09",
+"latest": "2024-04-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279344",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2024-15-2cn",
+"path": "profesii/cmdr/decizie/2024/15-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "15-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 15/2CN din 24 mai 2024 pentru modificarea Deciziei Consiliului național al Colegiului Medicilor Stomatologi din România nr. 1/2CN/2024 privind componența Comisiei superioare de disciplină a Colegiului Medicilor Stomatologi din România în mandatul 2024-2028",
+"short": "Decizia CMDR nr. 15/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-06",
+"latest": "2024-06-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283786",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2024-18-2cn",
+"path": "profesii/cmdr/decizie/2024/18-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "18-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 18/2CN din 24 mai 2024 pentru aprobarea procedurilor de transfer în alt colegiu teritorial, de suspendare a calității de membru sau a dreptului de exercitare a profesiei și de constatare a încetării calității de membru",
+"short": "Decizia CMDR nr. 18/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283968",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2024-22-2cn",
+"path": "profesii/cmdr/decizie/2024/22-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "22-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 22/2CN din 27 septembrie 2024 pentru aprobarea Regulamentului de organizare și desfășurare a activității comisiilor de disciplină ale Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 22/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289304",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2024-25-2cn",
+"path": "profesii/cmdr/decizie/2024/25-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "25-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 25/2CN din 6 decembrie 2024 privind metodologia și condițiile de acordare a unor ajutoare medicilor stomatologi cu venituri mici ori în situații deosebite",
+"short": "Decizia CMDR nr. 25/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/292400",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-adunare-generala-2024-1-1agn",
+"path": "profesii/cmdr/decizie-adunare-generala/2024/1-1agn",
+"kind": "profesii",
+"year": "2024",
+"number": "1-1agn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1/1AGN din 29 martie 2024 privind adoptarea Regulamentului de organizare și funcționare a Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 1/1AGN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-01",
+"latest": "2024-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281682",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-10-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/10-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "10-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 10/2CN din 28 martie 2024 pentru completarea anexei nr. 3 la Decizia Consiliului național al Colegiului Medicilor Stomatologi din România nr. 16/2CN/2021 privind reglementarea sistemului de educație medicală continuă pentru medicii stomatologi, a criteriilor și normelor de acreditare a furnizorilor de educație medicală continuă și a lectorilor, precum și a procedurilor de evaluare și creditare a formelor de educație medicală continuă adresate medicilor stomatologi",
+"short": "Decizia CMDR nr. 10/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-19",
+"latest": "2024-04-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281955",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-11-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/11-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "11-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 11/2CN din 24 mai 2024 privind conținutul minim al trusei de urgență pentru cabinetul stomatologic",
+"short": "Decizia CMDR nr. 11/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283775",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-12-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/12-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "12-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 12/2CN din 24 mai 2024 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei de etică a cercetării științifice din cadrul Colegiului Medicilor Stomatologi din România, a modelului de elaborare a formularului de informare a subiectului (pacientului), precum și a clauzelor minime pentru avizarea formularului de obținere a consimțământului informat al participantului la studiul clinic",
+"short": "Decizia CMDR nr. 12/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283965",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-16-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/16-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "16-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 16/2CN din 24 mai 2024 privind eliberarea avizului pentru exercitarea activităților profesionale stomatologice cu caracter temporar sau ocazional pe teritoriul României",
+"short": "Decizia CMDR nr. 16/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283967",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-20-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/20-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "20-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 20/2CN din 24 mai 2024 pentru modificarea anexei nr. 1 din Decizia Consiliului național al Colegiului Medicilor Stomatologi din România nr. 24/2CN/2019 privind eliberarea certificatului de membru al Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 20/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-24",
+"latest": "2024-07-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/285902",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-23-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/23-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "23-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 23/2CN din 27 septembrie 2024 pentru aprobarea modalității de remunerare a persoanelor desemnate să emită opinii de specialitate în cauzele aflate pe rolul comisiilor de disciplină ale Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 23/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289306",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-24-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/24-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "24-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 24/2CN din 27 septembrie 2024 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Stomatologi din România nr. 16/2CN/2021 privind reglementarea sistemului de educație medicală continuă pentru medicii stomatologi, a criteriilor și normelor de acreditare a furnizorilor de educație medicală continuă și a lectorilor, precum și a procedurilor de evaluare și creditare a formelor de educație medicală continuă adresate medicilor stomatologi",
+"short": "Decizia CMDR nr. 24/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289425",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-4-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/4-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "4-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 4/2CN din 28 martie 2024 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Stomatologi din România nr. 16/2CN/2019 privind întocmirea și eliberarea certificatului profesional curent",
+"short": "Decizia CMDR nr. 4/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-12",
+"latest": "2024-04-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281684",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-5-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/5-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "5-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 5/2CN din 28 martie 2024 privind aprobarea Regulamentului de organizare și funcționare a comisiilor de litigii ale Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 5/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-01",
+"latest": "2024-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281685",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-6-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/6-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "6-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 6/2CN din 28 martie 2024 privind aprobarea Regulamentului de organizare și funcționare a comisiilor de lucru ale Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 6/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-01",
+"latest": "2024-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281870",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-consiliu-national-2024-8-2cn",
+"path": "profesii/cmdr/decizie-consiliu-national/2024/8-2cn",
+"kind": "profesii",
+"year": "2024",
+"number": "8-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 8/2CN din 28 martie 2024 privind aprobarea Regulamentului de organizare și desfășurare a ședințelor Consiliului național și ale Adunării generale naționale ale Colegiului Medicilor Stomatologi din România",
+"short": "Decizia CMDR nr. 8/2CN/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-01",
+"latest": "2024-05-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281746",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-act-2024-p24997",
 "path": "profesii/inppa/act/2024/p24997",
 "kind": "profesii",
@@ -103,6 +443,66 @@
 }
 },
 {
+"slug": "profesii-cafr-hotarare-2024-1",
+"path": "profesii/cafr/hotarare/2024/1",
+"kind": "profesii",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 27 aprilie 2024 privind aprobarea materialelor prezentate în cadrul Conferinței Camerei Auditorilor Financiari din România, organizată în data de 27 aprilie 2024",
+"short": "Hotărârea CAFR nr. 1/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282380",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2024-1",
+"path": "profesii/ccf/hotarare/2024/1",
+"kind": "profesii",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 1 februarie 2024 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2024",
+"short": "Hotărârea CCF nr. 1/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278820",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-consiliu-national-2024-1",
+"path": "profesii/cfr/decizie-consiliu-national/2024/1",
+"kind": "profesii",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 21 noiembrie 2024 pentru modificarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 1/2018 privind aprobarea unor taxe pentru serviciile prestate de către Colegiul Farmaciștilor din România",
+"short": "Decizia CFR nr. 1/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-11",
+"latest": "2024-12-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/292199",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-decizie-director-2024-1",
 "path": "profesii/inppa/decizie-director/2024/1",
 "kind": "profesii",
@@ -143,6 +543,126 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-consiliu-superior-2024-2",
+"path": "profesii/ccf/hotarare-consiliu-superior/2024/2",
+"kind": "profesii",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 11 martie 2024 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 2/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-14",
+"latest": "2024-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279959",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-consiliu-2024-2",
+"path": "profesii/cpr/hotarare-consiliu/2024/2",
+"kind": "profesii",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 22 august 2024 pentru aprobarea Procedurii privind organizarea și desfășurarea alegerilor pentru desemnarea forurilor de conducere și a reprezentanților în Convenția națională a Colegiului Psihologilor din România ai filialelor teritoriale înființate conform art. 45 alin. (1) din Regulamentul de organizare și funcționare internă al Colegiului Psihologilor din România, aprobat prin Hotărârea Convenției naționale a Colegiului Psihologilor din România nr. 4/2018",
+"short": "Hotărârea CPR nr. 2/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290546",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unpir-hotarare-2024-2",
+"path": "profesii/unpir/hotarare/2024/2",
+"kind": "profesii",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 27 septembrie 2024 pentru modificarea și completarea Hotărârii Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+"short": "Hotărârea UNPIR nr. 2/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289734",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2024-3",
+"path": "profesii/ccf/hotarare/2024/3",
+"kind": "profesii",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 11 martie 2024 pentru modificarea și completarea Programului anual de pregătire profesională continuă, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 2/2022",
+"short": "Hotărârea CCF nr. 3/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-14",
+"latest": "2024-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279960",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2024-3",
+"path": "profesii/cmr/decizie/2024/3",
+"kind": "profesii",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 3 din 16 februarie 2024 privind stabilirea datei organizării alegerilor pentru funcția de membru al biroului consiliului teritorial, de reprezentant al colegiului teritorial în Consiliul național al Colegiului Medicilor din România și de vicepreședinte al Biroului executiv al Colegiului Medicilor din România, a componenței Comisiei Electorale Centrale, precum și aprobarea Regulamentului electoral de organizare și desfășurare a alegerilor pentru funcția de membru în biroul consiliului colegiului teritorial, de reprezentant al colegiului teritorial în Consiliul național al Colegiului Medicilor din România și de vicepreședinte coordonator al Comisiei economico-sociale și de asigurări sociale de sănătate în Biroul executiv al Colegiului Medicilor din România, pentru un mandat incomplet",
+"short": "Decizia CMR nr. 3/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279465",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-consiliu-2024-3",
+"path": "profesii/cpr/hotarare-consiliu/2024/3",
+"kind": "profesii",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 17 decembrie 2024 privind modul de determinare a numărului membrilor comitetului filialei teritoriale",
+"short": "Hotărârea CPR nr. 3/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293200",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2024-3",
 "path": "profesii/unbr/hotarare-congres/2024/3",
 "kind": "profesii",
@@ -163,6 +683,46 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-consiliu-superior-2024-4",
+"path": "profesii/ccf/hotarare-consiliu-superior/2024/4",
+"kind": "profesii",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 11 martie 2024 pentru aprobarea Normelor profesionale sectoriale privind instituirea măsurilor de prevenire și combatere a spălării banilor și a finanțării terorismului, specifice activității de consultanță fiscală",
+"short": "Hotărârea CCF nr. 4/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-18",
+"latest": "2024-03-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280042",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2024-4",
+"path": "profesii/oamgmamr/hotarare/2024/4",
+"kind": "profesii",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 12 martie 2024 pentru modificarea și completarea Procedurii de suspendare și de retragere a calității de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 29/2017",
+"short": "Hotărârea OAMGMAMR nr. 4/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280542",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2024-4",
 "path": "profesii/unbr/hotarare-congres/2024/4",
 "kind": "profesii",
@@ -178,6 +738,46 @@
 "from": "2024-06-20",
 "latest": "2024-06-20",
 "portal": "https://unbr.ro/hotarari-adoptate-de-congresul-avocatilor-din-14-15-iunie-2024/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-conferinta-2024-5",
+"path": "profesii/ccf/hotarare-conferinta/2024/5",
+"kind": "profesii",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 19 aprilie 2024 privind aprobarea documentelor prezentate spre dezbatere în Conferința ordinară anuală a Camerei Consultanților Fiscali din 18 aprilie 2024",
+"short": "Hotărârea CCF nr. 5/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-24",
+"latest": "2024-04-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/282061",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2024-5",
+"path": "profesii/oamgmamr/hotarare/2024/5",
+"kind": "profesii",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 12 martie 2024 privind modificarea Procedurii de eliberare a avizului anual pentru exercitarea profesiilor de asistent medical generalist, de moașă și de asistent medical, în regim salarial, independent sau în regim de voluntariat pe teritoriul României, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 25/2023",
+"short": "Hotărârea OAMGMAMR nr. 5/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280543",
 "flags": {
 "amendments_checked": false
 }
@@ -205,6 +805,66 @@
 }
 },
 {
+"slug": "profesii-oamgmamr-hotarare-2024-6",
+"path": "profesii/oamgmamr/hotarare/2024/6",
+"kind": "profesii",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 12 martie 2024 pentru modificarea și completarea Statutului Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 1/2009",
+"short": "Hotărârea OAMGMAMR nr. 6/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280544",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2024-7",
+"path": "profesii/ccf/hotarare/2024/7",
+"kind": "profesii",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 4 iunie 2024 pentru completarea Programului anual de pregătire profesională continuă, aprobat prin Hotărârea Consiliului superior al Camerei Consultanților Fiscali nr. 2/2022",
+"short": "Hotărârea CCF nr. 7/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283986",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2024-7",
+"path": "profesii/cmr/decizie-consiliu-national/2024/7",
+"kind": "profesii",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 7 din 14 iunie 2024 privind adoptarea Regulamentului electoral de organizare și desfășurare a alegerilor organelor de conducere și control ale colegiilor teritoriale și ale Colegiului Medicilor din România pentru mandatul 2024-2028 și aprobarea componenței Comisiei Electorale Centrale",
+"short": "Decizia CMR nr. 7/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-21",
+"latest": "2024-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284196",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-congres-2024-7",
 "path": "profesii/unbr/hotarare-congres/2024/7",
 "kind": "profesii",
@@ -227,6 +887,246 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2024-9",
+"path": "profesii/ccf/hotarare/2024/9",
+"kind": "profesii",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 9 din 30 august 2024 privind aprobarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent",
+"short": "Hotărârea CCF nr. 9/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288001",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2024-9",
+"path": "profesii/cmr/decizie/2024/9",
+"kind": "profesii",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 9 din 31 mai 2024 pentru completarea anexei nr. 1 la Decizia Consiliului național al Colegiului Medicilor din România nr. 3/2022 privind reglementarea activității comisiilor de specialitate ale Colegiului Medicilor din România, precum și adoptarea regulamentului de organizare și funcționare a acestora",
+"short": "Decizia CMR nr. 9/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-05",
+"latest": "2024-07-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/285151",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-2024-10",
+"path": "profesii/ccf/hotarare-consiliu/2024/10",
+"kind": "profesii",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 30 august 2024 privind aprobarea domeniilor de examinare, a tematicii și bibliografiei corespunzătoare fiecărui domeniu pentru examenul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2024",
+"short": "Hotărârea CCF nr. 10/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288003",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2024-10",
+"path": "profesii/csm/hotarare-plen/2024/10",
+"kind": "profesii",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 10 din 30 ianuarie 2024 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcțiile de inspector-șef și inspector-șef adjunct ai Inspecției Judiciare",
+"short": "Hotărârea CSM nr. 10/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-07",
+"latest": "2024-02-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278882",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2024-11",
+"path": "profesii/csm/hotarare-plen/2024/11",
+"kind": "profesii",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 11 din 30 ianuarie 2024 pentru modificarea Regulamentului privind concursul de admitere în magistratură, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 115/2023",
+"short": "Hotărârea CSM nr. 11/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278736",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2024-14",
+"path": "profesii/cafr/hotarare/2024/14",
+"kind": "profesii",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 14 din 29 februarie 2024 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România, organizată în format fizic în data de 27 aprilie 2024",
+"short": "Hotărârea CAFR nr. 14/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279640",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2024-16",
+"path": "profesii/cafr/hotarare/2024/16",
+"kind": "profesii",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 16 din 29 februarie 2024 privind convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România, organizată în format fizic în data de 27 aprilie 2024",
+"short": "Hotărârea CAFR nr. 16/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279642",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-2024-17",
+"path": "profesii/cfzro/hotarare/2024/17",
+"kind": "profesii",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 17 din 16 februarie 2024 pentru modificarea și completarea unor acte normative ale Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 17/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279952",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2024-17",
+"path": "profesii/oamgmamr/hotarare/2024/17",
+"kind": "profesii",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 17 din 19 iunie 2024 pentru modificarea și completarea Hotărârii Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 31/2017 privind stabilirea cuantumului cotizației de membru, respectiv cotizației de membru asociat al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România și a unor taxe încasate de Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 17/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284715",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2024-18",
+"path": "profesii/oamgmamr/hotarare/2024/18",
+"kind": "profesii",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 18 din 19 iunie 2024 privind modificarea Normelor de creditare a formelor de educație medicală continuă, aprobate prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 10/2021",
+"short": "Hotărârea OAMGMAMR nr. 18/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284716",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2024-23",
+"path": "profesii/oamgmamr/hotarare/2024/23",
+"kind": "profesii",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 23 din 24 septembrie 2024 pentru modificarea și completarea Procedurii de suspendare și de retragere a calității de membru al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 29/2017",
+"short": "Hotărârea OAMGMAMR nr. 23/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289317",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2024-28",
+"path": "profesii/cafr/hotarare/2024/28",
+"kind": "profesii",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 28 din 3 aprilie 2024 pentru modificarea Normelor privind înscrierea ca membru al Camerei Auditorilor Financiari din România și înscrierea în Registrul membrilor Camerei Auditorilor Financiari din România, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 67/2018",
+"short": "Hotărârea CAFR nr. 28/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-08",
+"latest": "2024-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281093",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2024-28",
 "path": "profesii/inppa/hotarare-consiliu/2024/28",
 "kind": "profesii",
@@ -245,6 +1145,106 @@
 "flags": {
 "text_missing": true,
 "text_withheld": "personal_data",
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2024-29",
+"path": "profesii/cafr/hotarare/2024/29",
+"kind": "profesii",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 29 din 3 aprilie 2024 pentru modificarea și completarea Normelor privind retragerea, redobândirea și suspendarea calității de membru al Camerei Auditorilor Financiari din România pentru auditorii financiari și firmele de audit, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 86/2018",
+"short": "Hotărârea CAFR nr. 29/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-08",
+"latest": "2024-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281095",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2024-32",
+"path": "profesii/oamgmamr/hotarare/2024/32",
+"kind": "profesii",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 32 din 9 decembrie 2024 privind aprobarea Procedurii de verificare a îndeplinirii celorlalte cerințe prevăzute de lege pentru exercitarea profesiei în România de către asistenții medicali generaliști, moașele și asistenții medicali formați în profesie într-un stat terț în vederea finalizării procesului de recunoaștere/echivalare a calificării de către Centrul Național de Recunoaștere și Echivalare a Diplomelor",
+"short": "Hotărârea OAMGMAMR nr. 32/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293483",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2024-33",
+"path": "profesii/cpr/hotarare-comitet-director/2024/33",
+"kind": "profesii",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 33 din 27 mai 2024 privind modificarea și completarea anexei nr. 5 la Hotărârea Comitetului director al Colegiului Psihologilor din România nr. 1/2019 pentru aprobarea normelor privind competențele profesionale, educația, formarea și atestarea profesională ale psihologilor cu drept de liberă practică",
+"short": "Hotărârea CPR nr. 33/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-07",
+"latest": "2024-06-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283837",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2024-33",
+"path": "profesii/oamgmamr/hotarare/2024/33",
+"kind": "profesii",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 33 din 9 decembrie 2024 pentru modificarea și completarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 44/2023",
+"short": "Hotărârea OAMGMAMR nr. 33/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293223",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2024-37",
+"path": "profesii/oamgmamr/hotarare/2024/37",
+"kind": "profesii",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 37 din 9 decembrie 2024 privind stabilirea valorii minim asigurate pentru încheierea asigurării de răspundere civilă pentru greșeli în activitatea profesională pentru asistenții medicali generaliști, moașele și asistenții medicali care exercită profesia în regim salarial, independent sau de voluntariat",
+"short": "Hotărârea OAMGMAMR nr. 37/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294872",
+"flags": {
 "amendments_checked": false
 }
 },
@@ -284,6 +1284,26 @@
 "from": "2024-06-11",
 "latest": "2024-06-11",
 "portal": "https://unbr.ro/raportul-consiliului-uniunii-nationale-a-barourilor-din-romania-impreuna-cu-anexele-la-congresul-avocatilor-2024-proiect/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2024-52",
+"path": "profesii/cpr/hotarare-comitet-director/2024/52",
+"kind": "profesii",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 52 din 17 iulie 2024 privind modificarea și completarea anexei nr. 6 la Hotărârea Comitetului director al Colegiului Psihologilor din România nr. 1/2019 pentru aprobarea normelor privind competențele profesionale, educația, formarea și atestarea profesională ale psihologilor cu drept de liberă practică",
+"short": "Hotărârea CPR nr. 52/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-03",
+"latest": "2024-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287939",
 "flags": {
 "amendments_checked": false
 }
@@ -409,6 +1429,26 @@
 }
 },
 {
+"slug": "profesii-cpr-hotarare-comitet-director-2024-79",
+"path": "profesii/cpr/hotarare-comitet-director/2024/79",
+"kind": "profesii",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 79 din 22 august 2024 pentru aprobarea Procedurii privind constituirea filialelor teritoriale ale Colegiului Psihologilor din România",
+"short": "Hotărârea CPR nr. 79/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290305",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2024-80",
 "path": "profesii/unbr/hotarare-consiliu/2024/80",
 "kind": "profesii",
@@ -424,6 +1464,26 @@
 "from": "2024-07-01",
 "latest": "2024-07-01",
 "portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-80-din-13-iunie-2024-prin-care-se-aproba-rapoartele-de-evaluare-si-testare-pentru-platforma-ifep-si-recomandarile-propuse-in-cele-2-rapoarte/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2024-81",
+"path": "profesii/csm/hotarare-sectia-procurori/2024/81",
+"kind": "profesii",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 81 din 16 ianuarie 2024 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcția de inspector judiciar în cadrul Direcției de inspecție pentru procurori",
+"short": "Hotărârea CSM nr. 81/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-29",
+"latest": "2024-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278509",
 "flags": {
 "amendments_checked": false
 }
@@ -584,6 +1644,26 @@
 "from": "2024-09-12",
 "latest": "2024-09-12",
 "portal": "https://unbr.ro/hotararea-consiliului-unbr-nr-100-din-30-august-2024-privind-completarea-statutului-caa-adoptat-prin-hotararea-consiliului-u-n-b-r-nr-139-27-07-2016-cu-modificarile-si-completarile-ulterioare-in/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-comitet-director-2024-107",
+"path": "profesii/cpr/hotarare-comitet-director/2024/107",
+"kind": "profesii",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 107 din 17 decembrie 2024 pentru aprobarea Procedurii privind suspendarea dreptului de liberă practică pentru neplata cotizației anuale și a Procedurii privind renunțarea la exercițiul dreptului de liberă practică",
+"short": "Hotărârea CPR nr. 107/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293201",
 "flags": {
 "amendments_checked": false
 }
@@ -769,6 +1849,26 @@
 }
 },
 {
+"slug": "profesii-cfzro-hotarare-2024-117",
+"path": "profesii/cfzro/hotarare/2024/117",
+"kind": "profesii",
+"year": "2024",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 117 din 20 august 2024 privind modificarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 63/2023 pentru aprobarea Procedurii de avizare a cabinetelor de liberă practică pentru serviciile publice conexe actului medical de fizioterapie",
+"short": "Hotărârea CFZRO nr. 117/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-09",
+"latest": "2024-09-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288171",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2024-117",
 "path": "profesii/unbr/hotarare-consiliu/2024/117",
 "kind": "profesii",
@@ -789,6 +1889,46 @@
 }
 },
 {
+"slug": "profesii-csm-hotarare-plen-2024-121",
+"path": "profesii/csm/hotarare-plen/2024/121",
+"kind": "profesii",
+"year": "2024",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 121 din 6 iunie 2024 pentru modificarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 122/2023",
+"short": "Hotărârea CSM nr. 121/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283979",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2024-122",
+"path": "profesii/cfzro/hotarare-consiliu-national/2024/122",
+"kind": "profesii",
+"year": "2024",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 122 din 20 august 2024 privind modificarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 122/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-09",
+"latest": "2024-09-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288186",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-decizie-consiliu-2024-125",
 "path": "profesii/unbr/decizie-consiliu/2024/125",
 "kind": "profesii",
@@ -804,6 +1944,166 @@
 "from": "2025-02-24",
 "latest": "2025-02-24",
 "portal": "https://unbr.ro/decizia-consiliului-unbr-nr-125-din-13-14-decembrie-2024-cu-caracter-interpretativ-despre-interpretarea-si-aplicarea-corecta-a-dispozitiilor-art-8-2-si-8-3-din-anexa-xxxiv-a-statutului-profesiei-d/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2024-127",
+"path": "profesii/cfzro/hotarare-consiliu-national/2024/127",
+"kind": "profesii",
+"year": "2024",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 127 din 14 septembrie 2024 pentru modificarea și completarea unor acte normative ale Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 127/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-04",
+"latest": "2024-10-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289153",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2024-137",
+"path": "profesii/csm/hotarare-plen/2024/137",
+"kind": "profesii",
+"year": "2024",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 137 din 18 iunie 2024 pentru modificarea și completarea Regulamentului Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 92/2023",
+"short": "Hotărârea CSM nr. 137/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-21",
+"latest": "2024-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284201",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2024-138",
+"path": "profesii/csm/hotarare-plen/2024/138",
+"kind": "profesii",
+"year": "2024",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 138 din 18 iunie 2024 pentru modificarea Regulamentului de organizare și funcționare al Școlii Naționale de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 183/2007",
+"short": "Hotărârea CSM nr. 138/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284557",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2024-139",
+"path": "profesii/csm/hotarare-plen/2024/139",
+"kind": "profesii",
+"year": "2024",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 139 din 18 iunie 2024 pentru aprobarea Regulamentului de organizare și funcționare a Inspecției Judiciare",
+"short": "Hotărârea CSM nr. 139/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284558",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2024-140",
+"path": "profesii/csm/hotarare-plen/2024/140",
+"kind": "profesii",
+"year": "2024",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 140 din 18 iunie 2024 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 122/2023",
+"short": "Hotărârea CSM nr. 140/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-21",
+"latest": "2024-06-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284202",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2024-145",
+"path": "profesii/csm/hotarare-plen/2024/145",
+"kind": "profesii",
+"year": "2024",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 145 din 27 iunie 2024 pentru modificarea Regulamentului privind admiterea la Institutul Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 114/2023",
+"short": "Hotărârea CSM nr. 145/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-04",
+"latest": "2024-07-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284844",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2024-153",
+"path": "profesii/csm/hotarare-plen/2024/153",
+"kind": "profesii",
+"year": "2024",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 153 din 9 iulie 2024 pentru modificarea Regulamentului privind concursul de admitere în magistratură, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 115/2023",
+"short": "Hotărârea CSM nr. 153/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-07-12",
+"latest": "2024-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/285340",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2024-160",
+"path": "profesii/cfzro/hotarare-consiliu-national/2024/160",
+"kind": "profesii",
+"year": "2024",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 160 din 9 decembrie 2024 pentru aprobarea Procedurii privind prestarea temporară sau ocazională a activităților de fizioterapie pe teritoriul României și înregistrarea temporară automată la Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 160/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293106",
 "flags": {
 "amendments_checked": false
 }
@@ -873,6 +2173,26 @@
 }
 },
 {
+"slug": "profesii-csm-hotarare-plen-2024-208",
+"path": "profesii/csm/hotarare-plen/2024/208",
+"kind": "profesii",
+"year": "2024",
+"number": "208",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 208 din 14 noiembrie 2024 pentru modificarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 122/2023",
+"short": "Hotărârea CSM nr. 208/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-22",
+"latest": "2024-11-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291270",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-decizie-cp-2024-214",
 "path": "profesii/unbr/decizie-cp/2024/214",
 "kind": "profesii",
@@ -928,6 +2248,46 @@
 "from": "2024-11-04",
 "latest": "2024-11-04",
 "portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-218-din-01-02-noiembrie-2024-prin-care-se-amana-pana-la-16-12-2024-intrarea-in-vigoare-a-normelor-interne-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2024-246",
+"path": "profesii/csm/hotarare-sectia-judecatori/2024/246",
+"kind": "profesii",
+"year": "2024",
+"number": "246",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 246 din 1 februarie 2024 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcția de director al Direcției de inspecție pentru judecători din cadrul Inspecției Judiciare",
+"short": "Hotărârea CSM nr. 246/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-07",
+"latest": "2024-02-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278883",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2024-247",
+"path": "profesii/csm/hotarare-sectia-judecatori/2024/247",
+"kind": "profesii",
+"year": "2024",
+"number": "247",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 247 din 1 februarie 2024 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcția de inspector judiciar în cadrul Direcției de inspecție pentru judecători",
+"short": "Hotărârea CSM nr. 247/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-07",
+"latest": "2024-02-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278884",
 "flags": {
 "amendments_checked": false
 }
@@ -1028,6 +2388,146 @@
 "from": "2024-12-31",
 "latest": "2024-12-31",
 "portal": "https://unbr.ro/decizia-comisiei-permanente-a-unbr-nr-255-din-31-decembrie-2024-prin-care-se-amana-pana-la-20-01-2025-intrarea-in-vigoare-a-normelor-interne-ale-unbr-date-in-aplicarea-legii-nr-129-2019-pentru-pre/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2024-353",
+"path": "profesii/csm/hotarare-sectia-judecatori/2024/353",
+"kind": "profesii",
+"year": "2024",
+"number": "353",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 353 din 26 februarie 2024 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcția de inspector judiciar în cadrul Direcției de inspecție pentru judecători, aprobat prin Hotărârea Secției pentru judecători a Consiliului Superior al Magistraturii nr. 247/2024",
+"short": "Hotărârea CSM nr. 353/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279469",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2024-464",
+"path": "profesii/csm/hotarare-sectia-procurori/2024/464",
+"kind": "profesii",
+"year": "2024",
+"number": "464",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 464 din 5 martie 2024 pentru aprobarea Regulamentului de ordine interioară al Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism",
+"short": "Hotărârea CSM nr. 464/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-15",
+"latest": "2024-03-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/280025",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2024-780",
+"path": "profesii/csm/hotarare-sectia-procurori/2024/780",
+"kind": "profesii",
+"year": "2024",
+"number": "780",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 780 din 4 iunie 2024 pentru modificarea și completarea Regulamentului de ordine interioară al Direcției Naționale Anticorupție, aprobat prin Hotărârea nr. 1.169/2023 a Secției pentru procurori a Consiliului Superior al Magistraturii",
+"short": "Hotărârea CSM nr. 780/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-11",
+"latest": "2024-06-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283959",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2024-1189",
+"path": "profesii/csm/hotarare-sectia-judecatori/2024/1189",
+"kind": "profesii",
+"year": "2024",
+"number": "1189",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.189 din 28 mai 2024 pentru aprobarea Regulamentului privind recrutarea, formarea profesională și evaluarea asistenților judecătorului",
+"short": "Hotărârea CSM nr. 1189/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-31",
+"latest": "2024-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283421",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2024-1290",
+"path": "profesii/csm/hotarare-sectia-judecatori/2024/1290",
+"kind": "profesii",
+"year": "2024",
+"number": "1290",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.290 din 13 iunie 2024 pentru aprobarea Regulamentului privind evaluarea activității profesionale a judecătorilor",
+"short": "Hotărârea CSM nr. 1290/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-25",
+"latest": "2024-06-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284223",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-procurori-2024-1674",
+"path": "profesii/csm/hotarare-sectia-procurori/2024/1674",
+"kind": "profesii",
+"year": "2024",
+"number": "1674",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.674 din 10 decembrie 2024 pentru aprobarea Regulamentului privind evaluarea activității profesionale a procurorilor",
+"short": "Hotărârea CSM nr. 1674/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293194",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2024-1923",
+"path": "profesii/csm/hotarare-sectia-judecatori/2024/1923",
+"kind": "profesii",
+"year": "2024",
+"number": "1923",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.923 din 14 noiembrie 2024 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Secției pentru judecători a Consiliului Superior al Magistraturii nr. 3.243/2022",
+"short": "Hotărârea CSM nr. 1923/2024",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291356",
 "flags": {
 "amendments_checked": false
 }

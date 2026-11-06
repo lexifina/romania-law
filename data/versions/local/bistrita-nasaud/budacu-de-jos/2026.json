@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/budacu-de-jos/2026",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--budacu-de-jos-18-2026",
+   "path": "local/bistrita-nasaud/budacu-de-jos/2026/18",
+   "short": "HCL Budacu de Jos nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Budacu de Jos nr. 18/2026",
+   "url": "https://www.budacudejos.ro/",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://www.budacudejos.ro/",
+     "sha256": "9f4879098ddca1e9d321e54cdbed2003f6674c026e6bde8d9db6abd5a9e60e7f"
+    }
+   ]
+  }
+ ]
+}

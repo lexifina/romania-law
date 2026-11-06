@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/eforie/2026",
+ "acts": [
+  {
+   "slug": "hcl-constanta--eforie-206-2026",
+   "path": "local/constanta/eforie/2026/206",
+   "short": "HCL Eforie nr. 206/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 206/2026",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/284845",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/284845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-225-2026",
+   "path": "local/constanta/eforie/2026/225",
+   "short": "HCL Eforie nr. 225/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 225/2026",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/288181",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/288181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-226-2026",
+   "path": "local/constanta/eforie/2026/226",
+   "short": "HCL Eforie nr. 226/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 226/2026 privind aprobarea documentației tehnico-economice – faza Studiu de Fezabilitate și a indicatorilor tehnico-economici ai proiectului cu titlul„ Capacități de producere energie din surse regenerabile de energie, pentru consum propriu in Orasul Eforie, judetul Constanța ”",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/289837",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/289837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--eforie-227-2026",
+   "path": "local/constanta/eforie/2026/227",
+   "short": "HCL Eforie nr. 227/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Eforie nr. 227/2026 privind reglementarea acordării ajutoarelor de urgență, a ajutoarelor de înmormântare, precum și a altor tipuri de ajutoare acordate de la bugetul local al Orașului Eforie",
+   "url": "https://emol.ro/eforie-ct/registru-hcl/291536",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eforie-ct/registru-hcl/291536",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

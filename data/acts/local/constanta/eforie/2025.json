@@ -1,0 +1,74 @@
+{
+"country": "RO",
+"shard": "local/constanta/eforie/2025",
+"acts": [
+{
+"slug": "hcl-constanta--eforie-377-2025",
+"path": "local/constanta/eforie/2025/377",
+"kind": "local",
+"year": "2025",
+"number": "377",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 377/2025",
+"short": "HCL Eforie nr. 377/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/239263",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--eforie-380-2025",
+"path": "local/constanta/eforie/2025/380",
+"kind": "local",
+"year": "2025",
+"number": "380",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 380/2025",
+"short": "HCL Eforie nr. 380/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/241614",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--eforie-401-2025",
+"path": "local/constanta/eforie/2025/401",
+"kind": "local",
+"year": "2025",
+"number": "401",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Eforie nr. 401/2025 privind stabilirea nivelurilor impozitelor și taxelor locale aplicabile în orașul Eforie pentru anul fiscal 2026",
+"short": "HCL Eforie nr. 401/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/eforie-ct/registru-hcl/244749",
+"council": "constanta/eforie",
+"council_name": "Consiliul Local al Orașului Eforie",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/dambovita/fieni/2023",
+"acts": [
+{
+"slug": "hcl-dambovita--fieni-102-2023",
+"path": "local/dambovita/fieni/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 102/2023 privind aprobarea rectificării bugetului pentru anul 2023",
+"short": "HCL Fieni nr. 102/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/fieni-db/registru-hcl/125629",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-104-2023",
+"path": "local/dambovita/fieni/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 104/2023 privind aprobarea depunerii și implementării proiectului cu titlul,,Construirea unui parc fotovoltaic pentru autoconsum, in oraşul Fieni, judeţul Dâmboviţa, finanţator Ministerul Energiei prin Fondul de Modernizare,,",
+"short": "HCL Fieni nr. 104/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/fieni-db/registru-hcl/128472",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-105-2023",
+"path": "local/dambovita/fieni/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 105/2023 privind aprobarea Studiului de Fezabilitate aferent obiectivului de investiție cu titlul ,,Construirea unui parc fotovoltaic pentru autoconsum, in oraşul Fieni, judeţul Dâmboviţa, finanţator Ministerul Energiei prin Fondul de Modernizare,,",
+"short": "HCL Fieni nr. 105/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/fieni-db/registru-hcl/128473",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-106-2023",
+"path": "local/dambovita/fieni/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 106/2023 Proiect de hotărâre privind aprobarea transformării funcţiei publice vacante de inspector asistent in funcţia contractuală de inspector casier gradul II S",
+"short": "HCL Fieni nr. 106/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/fieni-db/registru-hcl/128987",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-107-2023",
+"path": "local/dambovita/fieni/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 107/2023 privind aprobarea rectificării bugetului pentru anul 2023",
+"short": "HCL Fieni nr. 107/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/fieni-db/registru-hcl/128988",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-108-2023",
+"path": "local/dambovita/fieni/2023/108",
+"kind": "local",
+"year": "2023",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 108/2023 privind modificarea HCL nr. 57 / 30.06.2020 privind aprobarea proiectului „Înfiinţare centru de zi pentru persoane vârstnice în oraşul Fieni, judeţul Dâmboviţa (POR 2014-2020)” și a cheltuielilor aferente implementării proiectului „Înfiinţare centru de zi pentru persoane vârstnice în oraşul Fieni, judeţul Dâmboviţa (POR 2014-2020)”",
+"short": "HCL Fieni nr. 108/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/fieni-db/registru-hcl/130174",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-116-2023",
+"path": "local/dambovita/fieni/2023/116",
+"kind": "local",
+"year": "2023",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 116/2023 privind încheierea unui act adițional la contractul de asociere nr.370 din 15.07.2021 pentru elaborarea documentației „ACTUALIZARE PLAN URBANISTIC GENERAL SI REGULAMENT LOCAL DE URBANISM AFERENT ” orașul Fieni",
+"short": "HCL Fieni nr. 116/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/fieni-db/registru-hcl/131417",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-124-2023",
+"path": "local/dambovita/fieni/2023/124",
+"kind": "local",
+"year": "2023",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 124/2023 privind aprobarea rectificării bugetului pentru anul 2023",
+"short": "HCL Fieni nr. 124/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/fieni-db/registru-hcl/132193",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-128-2023",
+"path": "local/dambovita/fieni/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 128/2023 privind aprobarea documentației tehnico-economice pentru investiția :’’Cresterea eficientei energetice a Primariei oras Fieni (corp nou) judetul Dambovita ”, Finanțată de către Administrația Fondului pentru Mediu, prin Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice",
+"short": "HCL Fieni nr. 128/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/fieni-db/registru-hcl/132548",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-129-2023",
+"path": "local/dambovita/fieni/2023/129",
+"kind": "local",
+"year": "2023",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 129/2023 privind aprobarea rectificării bugetului pentru anul 2023",
+"short": "HCL Fieni nr. 129/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://emol.ro/fieni-db/registru-hcl/133495",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-131-2023",
+"path": "local/dambovita/fieni/2023/131",
+"kind": "local",
+"year": "2023",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 131/2023 privind stabilirea și aprobarea taxei de salubrizare începând cu data de 01.01.2024, în cuantumul stabilit pentru anul 2023",
+"short": "HCL Fieni nr. 131/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/fieni-db/registru-hcl/134873",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-135-2023",
+"path": "local/dambovita/fieni/2023/135",
+"kind": "local",
+"year": "2023",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 135/2023 privind aprobarea indicatorilor cu privire la execuţia bugetului local de venituri şi cheltuieli pe trimestrul IV 2023",
+"short": "HCL Fieni nr. 135/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/fieni-db/registru-hcl/134877",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-136-2023",
+"path": "local/dambovita/fieni/2023/136",
+"kind": "local",
+"year": "2023",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 136/2023 privind aprobarea DOCUMENTATIEI SF, actualizarea devizului general precum si actualizarea indicatorilor tehnico economici pentru proiectul‚ ’’Construire pod peste raul Ialomita sat Berevoiesti oras Fieni’’ finantat prin Programul National de investitii ‘’Anghel Saligny’’",
+"short": "HCL Fieni nr. 136/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://emol.ro/fieni-db/registru-hcl/134878",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

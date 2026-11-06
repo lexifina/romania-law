@@ -1,0 +1,531 @@
+{
+ "country": "RO",
+ "shard": "anexa/1999",
+ "acts": [
+  {
+   "slug": "anexa-hg-1000-1999-anexa",
+   "path": "anexa/hg-1000-1999/anexa",
+   "short": "Anexa la HG nr. 1000/1999",
+   "title": "Criterii din 6 decembrie 1999 de stabilire a imobilelor cu destinație de reședințe oficiale și a celorlalte locuințe de protocol Reședințele oficiale și locuințele de protocol (anexa la Hotărârea Guvernului nr. 1000/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20169",
+   "versions": [
+    {
+     "from": "1999-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20169",
+     "sha256": "0c2b6a2c9abc6436f0cd5c2ee199ea104615c8fafbb239dbb30897dce7a547eb"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1031-1999-anexa",
+   "path": "anexa/hg-1031-1999/anexa",
+   "short": "Anexa la HG nr. 1031/1999",
+   "title": "Norme metodologice din 14 decembrie 1999 privind înregistrarea în contabilitate a bunurilor care alcătuiesc domeniul public al statului și al unităților administrativ-teritoriale (anexa la Hotărârea Guvernului nr. 1031/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20277",
+   "versions": [
+    {
+     "from": "1999-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20277",
+     "sha256": "84d08f7cb565b589391a43d0ad6887603b6d42f9a093d0003a386ea15ff1e174"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1066-1999-anexa",
+   "path": "anexa/hg-1066-1999/anexa",
+   "short": "Anexa la HG nr. 1066/1999",
+   "title": "Norme metodologice din 29 decembrie 1999 pentru aplicarea Ordonanței Guvernului nr. 73/1999 privind impozitul pe venit (anexa la Hotărârea Guvernului nr. 1066/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20515",
+   "versions": [
+    {
+     "from": "2000-01-05",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20515",
+     "sha256": "5fc87ab67d7a710739d1bb430881711562bb54c268a693b621ebdaa21c1a809e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1067-1999-anexa",
+   "path": "anexa/hg-1067-1999/anexa",
+   "short": "Anexa la HG nr. 1067/1999",
+   "title": "Metodologie din 29 decembrie 1999 privind introducerea în circuitul economic de către unitățile autorității vamale a bunurilor și mărfurilor intrate în proprietatea privată a statului, care îndeplinesc condițiile de valorificare (anexa la Hotărârea Guvernului nr. 1067/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20512",
+   "versions": [
+    {
+     "from": "2000-01-04",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20512",
+     "sha256": "f32f58d73f2b360c03f042dcdabb154aaade881acc35ceb3cc0a464919e4a17c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-1070-1999-anexa",
+   "path": "anexa/hg-1070-1999/anexa",
+   "short": "Anexa la HG nr. 1070/1999",
+   "title": "Norme metodologice din 29 decembrie 1999 de aplicare a dispozițiilor Legii nr. 142/1999 privind sprijinul statului pentru salarizarea clerului (anexa la Hotărârea Guvernului nr. 1070/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20498",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20498",
+     "sha256": "d3ef7f341d548388a8daddea70beb56f1d12412368fdc27c7e4fe18cfe5dc5d3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-216-1999-anexa",
+   "path": "anexa/hg-216-1999/anexa",
+   "short": "Anexa la HG nr. 216/1999",
+   "title": "Norme metodologice-cadru din 25 martie 1999 de aplicare a Legii nr. 219/1998 privind regimul concesiunilor (anexa la Hotărârea Guvernului nr. 216/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34489",
+   "versions": [
+    {
+     "from": "1999-04-06",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34489",
+     "sha256": "e0062101f756810014634495c242308b46f7e8cf0ae80ba6034e2e08e7c1c65e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-364-1999-anexa",
+   "path": "anexa/hg-364-1999/anexa",
+   "short": "Anexa la HG nr. 364/1999",
+   "title": "Norme metodologice din 10 mai 1999 privind încheierea contractelor de administrare a companiilor/societăților naționale, a societăților comerciale, la care statul sau o autoritate a administrației publice locale este acționar majoritar, precum și a regiilor autonome (anexa la Hotărârea Guvernului nr. 364/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158079",
+   "versions": [
+    {
+     "from": "1999-05-14",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158079",
+     "sha256": "21f72376c77de9cab2b319d787ba8b3a1af1743338425ba6a82f8f216ef31bd4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-443-1999-anexa",
+   "path": "anexa/hg-443-1999/anexa",
+   "short": "Anexa la HG nr. 443/1999",
+   "title": "Regulament din 3 iunie 1999 privind portul, condițiile de acordare și descrierea uniformei, echipamentului de protecție și insemnelor distinctive ale pompierilor civili (anexa la Hotărârea Guvernului nr. 443/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79836",
+   "versions": [
+    {
+     "from": "1999-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79836",
+     "sha256": "6dba0f10b9065d14ac24e6e919142c99975018437f257b2a4b7f63e10de0ea66"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-450-1999-anexa",
+   "path": "anexa/hg-450-1999/anexa",
+   "short": "Anexa la HG nr. 450/1999",
+   "title": "Norma din 10 iunie 1999 de aplicare a Ordonanței de urgență a Guvernului nr. 88/1997 privind privatizarea societăților comerciale, cu modificările și completările ulterioare (anexa la Hotărârea Guvernului nr. 450/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35864",
+   "versions": [
+    {
+     "from": "1999-06-26",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35864",
+     "sha256": "42265546426b7218812fe1d4370caf30481aa62da66084fa43d5af1d6e8ff37d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-5-1999-anexa",
+   "path": "anexa/hg-5-1999/anexa",
+   "short": "Anexa la HG nr. 5/1999",
+   "title": "Norma din 14 ianuarie 1999 de aplicare a Legii nr. 142/1998 privind acordarea tichetelor de masa (anexa la Hotărârea Guvernului nr. 5/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23812",
+   "versions": [
+    {
+     "from": "1999-01-25",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23812",
+     "sha256": "4fae274bf96ffb0232e011eb3d847a33bf20902bb20452cf3657f12bdcc12950"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-567-1999-anexa",
+   "path": "anexa/hg-567-1999/anexa",
+   "short": "Anexa la HG nr. 567/1999",
+   "title": "Regulament din 15 iulie 1999 pentru acordarea licențelor și autorizațiilor în sectorul energiei electrice și termice (anexa la Hotărârea Guvernului nr. 567/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64722",
+   "versions": [
+    {
+     "from": "1999-08-02",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64722",
+     "sha256": "54d6ecb4c1217c509ca483279c5267ec2c39effc32f01b99137a7bd141b6854e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-624-1999-anexa",
+   "path": "anexa/hg-624-1999/anexa",
+   "short": "Anexa la HG nr. 624/1999",
+   "title": "Norme metodologice din 2 august 1999 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 98/1999 privind protecția socială a persoanelor ale căror contracte individuale de muncă vor fi desfăcute ca urmare a concedierilor colective (anexa la Hotărârea Guvernului nr. 624/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36196",
+   "versions": [
+    {
+     "from": "1999-08-06",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36196",
+     "sha256": "21521a2f10303a3b2b9cd839d87a4a48844316257cdcef6d85c06918c1303e10"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-661-1999-anexa",
+   "path": "anexa/hg-661-1999/anexa",
+   "short": "Anexa la HG nr. 661/1999",
+   "title": "Norme metodologice din 16 august 1999 de aplicare a dispozițiilor Ordonanței de urgenta a Guvernului nr. 118/1999 privind înființarea și utilizarea Fondului național de solidaritate (anexa la Hotărârea Guvernului nr. 661/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47976",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47976",
+     "sha256": "fb09055d906b115d3e720028b91eeaa7551bc33b2fdc85863c222ee89e5ba6f9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-788-1999-anexa",
+   "path": "anexa/hg-788-1999/anexa",
+   "short": "Anexa la HG nr. 788/1999",
+   "title": "Regulament din 23 septembrie 1999 privind organizarea și funcționarea Fondului Proprietății de Stat (anexa la Hotărârea Guvernului nr. 788/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19440",
+   "versions": [
+    {
+     "from": "1999-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19440",
+     "sha256": "e25961b0f6a3d831de1e782d892b84caf6c1feedaeabba63f7eff581476f5489"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-802-1999-anexa",
+   "path": "anexa/hg-802-1999/anexa",
+   "short": "Anexa la HG nr. 802/1999",
+   "title": "Regulament din 30 septembrie 1999 pentru organizarea și funcționarea Arhivei Electronice de Garanții Reale Mobiliare (anexa la Hotărârea Guvernului nr. 802/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50956",
+   "versions": [
+    {
+     "from": "1999-10-15",
+     "units": 98,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50956",
+     "sha256": "6e0b03f23c5d517eb775032271076082c77c0a14f71f281081a3ba05ed8d8f97"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-867-1999-anexa",
+   "path": "anexa/hg-867-1999/anexa",
+   "short": "Anexa la HG nr. 867/1999",
+   "title": "Metodologie din 21 octombrie 1999 pentru stabilirea normelor de evaluare a performantelor profesionale individuale și de aplicare a criteriilor de stabilire a salariilor de baza între limite pentru personalul angajat în agențiile de protecție a mediului județene, respectiv a municipiului București, și în Administrația Rezervației Biosferei \"Delta Dunării\" (anexa la Hotărârea Guvernului nr. 867/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76506",
+   "versions": [
+    {
+     "from": "1999-11-04",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76506",
+     "sha256": "7a57672a4c3813f2a699f6596a8c7c5794ff9a46c955f6c27da72f2244f41269"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-906-1999-anexa",
+   "path": "anexa/hg-906-1999/anexa",
+   "short": "Anexa la HG nr. 906/1999",
+   "title": "Norma din 4 noiembrie 1999 referitoare la organizarea și desfășurarea activităților specifice pe linia aplicării prevederilor actelor internaționale la care România este parte cu privire la controlul armamentelor, creșterea încrederii și securității (anexa la Hotărârea Guvernului nr. 906/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19924",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19924",
+     "sha256": "6b61c1fbb4cb658946b8f49b3b95d405699f3684fee9fbec36c84303fb0b34f3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-997-1999-anexa",
+   "path": "anexa/hg-997-1999/anexa",
+   "short": "Anexa la HG nr. 997/1999",
+   "title": "Regulament din 2 decembrie 1999 privind constituirea, organizarea și funcționarea structurilor silvice proprii, necesare pentru gospodărirea pădurilor proprietate publică aparținând unităților administrativ-teritoriale și a celor proprietate privată (anexa la Hotărârea Guvernului nr. 997/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41730",
+   "versions": [
+    {
+     "from": "1999-12-08",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41730",
+     "sha256": "6c7c7f4971615fc4006d4778dd223d4aaba7a5ecca9e7a4ec2c64b4999911be0"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-131-1999-anexa",
+   "path": "anexa/ordin-agricultura-131-1999/anexa",
+   "short": "Anexa la Ordin agricultura nr. 131/1999",
+   "title": "Norme metodologice din 27 octombrie 1999 de aplicare a Ordonanței de urgenta a Guvernului nr. 142/1999 privind instituirea sistemului de plată pentru motorina, pe bază de bonuri valorice, în vederea înființării culturilor de cereale păioase și efectuării arăturilor din toamna anului 1999, modificată și completată prin Ordonanța de urgență a Guvernului nr. 177/1999 (anexa la Ordinul AGRICULTURA nr. 131/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19939",
+   "versions": [
+    {
+     "from": "1999-11-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19939",
+     "sha256": "e1dca03f6523f2e39aadf1a63bf637c5bea083020151fad7190f93a021bc9e6e"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-140-1999-anexa",
+   "path": "anexa/ordin-agricultura-140-1999/anexa",
+   "short": "Anexa la Ordin agricultura nr. 140/1999",
+   "title": "Metodologie din 12 noiembrie 1999 de atestare a persoanelor juridice care au capacitatea de a desfășura activități de îmbunătățiri funciare, în scopul participării acestora la licitațiile pentru adjudecarea studiilor de teren, a proiectării și executării lucrărilor de îmbunătățiri funciare de utilitate publică din domeniul agricol, organizate potrivit legii (anexa la Ordinul AGRICULTURA nr. 140/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20468",
+   "versions": [
+    {
+     "from": "1999-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20468",
+     "sha256": "7120e1e83054a8b4ec17084f4e10b5d5c59a0e5fc2b06d7e380903b7e8c874d3"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-156-1999-anexa",
+   "path": "anexa/ordin-agricultura-156-1999/anexa",
+   "short": "Anexa la Ordin agricultura nr. 156/1999",
+   "title": "Norma sanitară veterinara din 27 decembrie 1999 privind anunțarea, declararea și notificarea unor boli transmisibile ale animalelor (anexa la Ordinul AGRICULTURA nr. 156/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21567",
+   "versions": [
+    {
+     "from": "2000-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21567",
+     "sha256": "241d77154bb9e324584895346cb760216aab358a0b49c7a162f250ba6e672c65"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anci-190-1999-anexa",
+   "path": "anexa/ordin-anci-190-1999/anexa",
+   "short": "Anexa la Ordin anci nr. 190/1999",
+   "title": "Regulamentul din 4 iunie 1999 stațiilor de radiocomunicații din serviciul mobil terestru în banda de frecvențe 26.960 - 27.410 kHz (anexa la Ordinul ANCI nr. 190/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19985",
+   "versions": [
+    {
+     "from": "1999-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19985",
+     "sha256": "9cf671c87d4aa557457015f4f335c3222216f556921b3296d41c4f7dbb7b7181"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anci-398-1999-anexa",
+   "path": "anexa/ordin-anci-398-1999/anexa",
+   "short": "Anexa la Ordin anci nr. 398/1999",
+   "title": "Procedură de tarifare din 29 decembrie 1999 și Lista cuprinzând tarifele practicate de Regia Autonoma \"Inspectoratul General al Comunicațiilor\" în exercitarea atribuțiilor ce îi revin conform legislației în vigoare (anexa la Ordinul ANCI nr. 398/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92052",
+   "versions": [
+    {
+     "from": "2000-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92052",
+     "sha256": "f1bdae65571554a523f397700da44886d17fa815bf61deb5876b5ee911b97a64"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrm-6-1999-anexa",
+   "path": "anexa/ordin-anrm-6-1999/anexa",
+   "short": "Anexa la Ordin anrm nr. 6/1999",
+   "title": "Instrucțiuni tehnice din 26 ianuarie 1999 pentru aplicarea unitara a prevederilor art. 18-20 (Permisul de exploatare) din Legea minelor nr. 61/1998 (anexa la Ordinul ANRM nr. 6/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92218",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92218",
+     "sha256": "78533704263bd98fdd6d9585baf62d6ea05b7cb758497d2f16f840b59eeb9b36"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-exporturi-11-1999-anexa",
+   "path": "anexa/ordin-exporturi-11-1999/anexa",
+   "short": "Anexa la Ordin exporturi nr. 11/1999",
+   "title": "Norme metodologice din 19 iulie 1999 pentru declararea cantitaților de substanțe chimice înscrise în listele nr. 2 și 3, anexe la Legea nr. 56/1997 (anexa la Ordinul EXPORTURI nr. 11/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92220",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92220",
+     "sha256": "e21317bc7eca177ea0a6d4d08a73e14ed998444058a609f1d2aa10871fd86135"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-exporturi-25-1999-anexa",
+   "path": "anexa/ordin-exporturi-25-1999/anexa",
+   "short": "Anexa la Ordin exporturi nr. 25/1999",
+   "title": "Norme metodologice din 9 noiembrie 1999 de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul exporturilor și importurilor de produse strategice (anexa la Ordinul EXPORTURI nr. 25/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19960",
+   "versions": [
+    {
+     "from": "1999-11-18",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19960",
+     "sha256": "b4763dd57b6e7229254661c5638eb078f77ea633ae722e5d7ff21760502454fc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1496-1999-anexa",
+   "path": "anexa/ordin-finante-1496-1999/anexa",
+   "short": "Anexa la Ordin finante nr. 1496/1999",
+   "title": "Norme prudențiale din 3 decembrie 1999 privind acoperirea riscurilor de tip catastrofă (anexa la Ordinul FINANTE nr. 1496/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20342",
+   "versions": [
+    {
+     "from": "1999-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20342",
+     "sha256": "ee3696d1fce04b10afb2e384314015f2791f6b46bdd2fcea09137c6f34d3c759"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1631-1999-anexa",
+   "path": "anexa/ordin-finante-1631-1999/anexa",
+   "short": "Anexa la Ordin finante nr. 1631/1999",
+   "title": "Norme metodologice din 29 decembrie 1999 de aplicare a Legii datoriei publice nr. 81/1999 (anexa la Ordinul FINANTE nr. 1631/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20922",
+   "versions": [
+    {
+     "from": "2000-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20922",
+     "sha256": "9cf1a08a50554806b816668b1f142d21fdd847b70dac0d44d162d8e6a2059cb6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-30-1999-anexa",
+   "path": "anexa/ordin-finante-30-1999/anexa",
+   "short": "Anexa la Ordin finante nr. 30/1999",
+   "title": "Norme metodologice din 12 ianuarie 1999 privind virarea impozitului pe salarii la bugetul de stat, precum și a cotelor defalcate din acesta la bugetele locale potrivit Legii nr. 189/1998 (anexa la Ordinul FINANTE nr. 30/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47776",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47776",
+     "sha256": "be11f0ea2e9da8097513497a967442b9816cce2830819bb2371f0b9c8b280d0d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-3003-1999-anexa",
+   "path": "anexa/ordin-justitie-3003-1999/anexa",
+   "short": "Anexa la Ordin justitie nr. 3003/1999",
+   "title": "Regulament din 20 decembrie 1999 privind activitatea Arbitrajului de pe lângă Casa Naționala de Asigurări de Sănătate (anexa la Ordinul JUSTITIE nr. 3003/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23731",
+   "versions": [
+    {
+     "from": "2000-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23731",
+     "sha256": "e5f2b40a1f3e1caa05662302e45aea2a01d31e5050394305549dec5c865a2d12"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1098-1999-anexa",
+   "path": "anexa/ordin-mediu-1098-1999/anexa",
+   "short": "Anexa la Ordin mediu nr. 1098/1999",
+   "title": "Metodologie din 8 decembrie 1999 privind stabilirea categoriilor de importanța a lucrărilor hidrotehnice - NTLH-021 (anexa la Ordinul MEDIU nr. 1098/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21955",
+   "versions": [
+    {
+     "from": "2000-04-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21955",
+     "sha256": "60edd020b5042549d07cd020f0eb1d26aa639674b8aead0fdbcd8880afb01b76"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-782-1999-anexa",
+   "path": "anexa/ordin-mediu-782-1999/anexa",
+   "short": "Anexa la Ordin mediu nr. 782/1999",
+   "title": "Procedura din 1 septembrie 1999 de emitere a permisului de traversare a lucrărilor de gospodărire a apelor cu rol de apărare împotriva inundațiilor (anexa la Ordinul MEDIU nr. 782/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20019",
+   "versions": [
+    {
+     "from": "1999-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20019",
+     "sha256": "4381a3ee4f1c5540ccfcc2257282cf560ffd8a63227054888656241cfc52f16a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-747-1999-anexa",
+   "path": "anexa/ordin-munca-747-1999/anexa",
+   "short": "Anexa la Ordin munca nr. 747/1999",
+   "title": "Norma din 13 decembrie 1999 privind încasarea, evidenta și modul de utilizare a sumelor provenite din comisionul încasat de inspectoratele teritoriale de muncă și de direcțiile generale de muncă și protecție socială, potrivit art. 12 din Legea nr. 130/1999 , cu modificările și completările ulterioare (anexa la Ordinul MUNCA nr. 747/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20501",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20501",
+     "sha256": "0705da5ca375057f5c8cd41cf6ea05fbd49fa2ecbf5dc2ef30fa6551b2405e6c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-146-1999-anexa",
+   "path": "anexa/ordin-transporturi-146-1999/anexa",
+   "short": "Anexa la Ordin transporturi nr. 146/1999",
+   "title": "Norme din 17 martie 1999 de autorizare a funcționarii centrelor de pregătire a personalului din domeniul transporturilor rutiere (anexa la Ordinul TRANSPORTURI nr. 146/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76389",
+   "versions": [
+    {
+     "from": "1999-05-17",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76389",
+     "sha256": "ede47e14f30ae5a59419c2bbd3a44a4f8c4ca7c7a1e15867837c40ea865235db"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-oug-194-1999-anexa",
+   "path": "anexa/oug-194-1999/anexa",
+   "short": "Anexa la OUG nr. 194/1999",
+   "title": "Regulament din 9 decembrie 1999 pentru aplicarea Ordonanței de urgență a Guvernului privind instituirea medaliei comemorative \"150 de ani de la nașterea lui Mihai Eminescu\" (anexa la Ordonanța de urgență a Guvernului nr. 194/1999)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26336",
+   "versions": [
+    {
+     "from": "1999-12-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26336",
+     "sha256": "e7a3f7bdb81b09cdec888f54bbe9fa06d9f5bb2cc7e7539f49c314032a28d124"
+    }
+   ]
+  }
+ ]
+}

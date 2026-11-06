@@ -3,6 +3,1056 @@
  "shard": "profesii/2014",
  "acts": [
   {
+   "slug": "profesii-cafr-hotarare-2014-1",
+   "path": "profesii/cafr/hotarare/2014/1",
+   "short": "Hotărârea CAFR nr. 1/2014",
+   "title": "HOTĂRÂRE nr. 1 din 27 septembrie 2014 cu privire la aprobarea materialelor prezentate în cadrul Conferinței ordinare a Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161931",
+   "versions": [
+    {
+     "from": "2014-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161931",
+     "sha256": "0ae3671beb1fcc343d016ccaa7dd3bfa3eabbc7515cbedbc6ed871d536866769"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-15",
+   "path": "profesii/cafr/hotarare/2014/15",
+   "short": "Hotărârea CAFR nr. 15/2014",
+   "title": "HOTĂRÂRE nr. 15 din 21 februarie 2014 pentru aprobarea Procedurilor privind testul de verificare a cunoștințelor în domeniul financiar-contabil, pentru accesul la stagiu, pentru persoanele din cadrul Curții de Conturi care au calificarea de auditor public extern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156511",
+   "versions": [
+    {
+     "from": "2014-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156511",
+     "sha256": "8c01545e27ed2a5d25c9bde3639505a5a8c6b13a167a318d278052e2ad3c047a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-16",
+   "path": "profesii/cafr/hotarare/2014/16",
+   "short": "Hotărârea CAFR nr. 16/2014",
+   "title": "HOTĂRÂRE nr. 16 din 21 februarie 2014 privind aprobarea organizării cursului pentru auditarea proiectelor finanțate din fonduri europene și alte fonduri nerambursabile de la alți donatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159149",
+   "versions": [
+    {
+     "from": "2014-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159149",
+     "sha256": "afe296ab9e27142390cf4ea628d80929d35bf6705fba1b66037c4a5674de6fb9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-17",
+   "path": "profesii/cafr/hotarare/2014/17",
+   "short": "Hotărârea CAFR nr. 17/2014",
+   "title": "Hotărârea CAFR nr. 17/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156860",
+   "versions": [
+    {
+     "from": "2014-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156860",
+     "sha256": "7f0490972dc65d7c8d88dc40dca8a1f40c1838614d1c6dc743e6ce787d44cfda"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-2",
+   "path": "profesii/cafr/hotarare/2014/2",
+   "short": "Hotărârea CAFR nr. 2/2014",
+   "title": "HOTĂRÂRE nr. 2 din 27 septembrie 2014 cu privire la alegerea Consiliului Camerei Auditorilor Financiari din România, a Comisiei de auditori statutari și a Comisiei de disciplină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161932",
+   "versions": [
+    {
+     "from": "2014-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161932",
+     "sha256": "5eef3230126d87ee13d5b16045166e94f6cf2d2355bbed541245c73bf9f1f03d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-20",
+   "path": "profesii/cafr/hotarare/2014/20",
+   "short": "Hotărârea CAFR nr. 20/2014",
+   "title": "HOTĂRÂRE nr. 20 din 31 martie 2014 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\" la Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157396",
+   "versions": [
+    {
+     "from": "2014-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157396",
+     "sha256": "ddf1b89248e4845e2cff2bc3308412fc8037b3aacce31d2cec8ad4ef6b837552"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-21",
+   "path": "profesii/cafr/hotarare/2014/21",
+   "short": "Hotărârea CAFR nr. 21/2014",
+   "title": "HOTĂRÂRE nr. 21 din 24 aprilie 2014 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158401",
+   "versions": [
+    {
+     "from": "2014-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158401",
+     "sha256": "1e506d6c09c6dd71edc0008017d21f1b7a2c6c1c2e3eab492d8205d14e7c12b4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-22",
+   "path": "profesii/cafr/hotarare/2014/22",
+   "short": "Hotărârea CAFR nr. 22/2014",
+   "title": "HOTĂRÂRE nr. 22 din 24 aprilie 2014 privind stabilirea zilei pentru întrunirea Conferinței Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157818",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157818",
+     "sha256": "5d67bb98389c0beaec38e9296df8338c2d3a986171999de0e3b3974e81d3e05b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-24",
+   "path": "profesii/cafr/hotarare/2014/24",
+   "short": "Hotărârea CAFR nr. 24/2014",
+   "title": "HOTĂRÂRE nr. 24 din 24 aprilie 2014 privind aprobarea Procedurilor de organizare a cursului și a testului de verificare a cunoștințelor privind auditarea operațiunilor finanțate din fonduri europene și alte fonduri nerambursabile de la alți donatori, pentru auditorii financiari, membri ai Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158013",
+   "versions": [
+    {
+     "from": "2014-05-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158013",
+     "sha256": "dcca79fda01971af7203c9fcf28e180409c11962c4c3034447c704aee8a9cf2a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-28",
+   "path": "profesii/cafr/hotarare/2014/28",
+   "short": "Hotărârea CAFR nr. 28/2014",
+   "title": "HOTĂRÂRE nr. 28 din 24 aprilie 2014 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\" la Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158243",
+   "versions": [
+    {
+     "from": "2014-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158243",
+     "sha256": "c67b0052dba3c36aa04426be91bd4af90c12bd313f661b4566c4138582e4e6cb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-32",
+   "path": "profesii/cafr/hotarare/2014/32",
+   "short": "Hotărârea CAFR nr. 32/2014",
+   "title": "HOTĂRÂRE nr. 32 din 24 aprilie 2014 pentru modificarea și completarea Registrului public al auditorilor financiari din România, aprobat prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 3/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158439",
+   "versions": [
+    {
+     "from": "2014-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158439",
+     "sha256": "080855caeeaa12542666175c20b35393ef71f2b65bd0a6b3b1f367022e2e1b3f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-33",
+   "path": "profesii/cafr/hotarare/2014/33",
+   "short": "Hotărârea CAFR nr. 33/2014",
+   "title": "HOTĂRÂRE nr. 33 din 24 aprilie 2014 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\" la Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158248",
+   "versions": [
+    {
+     "from": "2014-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158248",
+     "sha256": "be58bb573aa4af105d59e2d3289c51b80550d34a7066a51ebdce41d1356a5460"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-35",
+   "path": "profesii/cafr/hotarare/2014/35",
+   "short": "Hotărârea CAFR nr. 35/2014",
+   "title": "HOTĂRÂRE nr. 35 din 24 aprilie 2014 privind aprobarea cotizațiilor și taxelor pentru membrii Camerei Auditorilor Financiari din România, persoane fizice și juridice, și pentru membrii stagiari în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158218",
+   "versions": [
+    {
+     "from": "2014-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158218",
+     "sha256": "d96ee2544f001d0153a92a0a3b711dfe3f6bd81e5d8cd8ff348d20db89757ea1"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-42",
+   "path": "profesii/cafr/hotarare/2014/42",
+   "short": "Hotărârea CAFR nr. 42/2014",
+   "title": "HOTĂRÂRE nr. 42 din 26 iunie 2014 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159717",
+   "versions": [
+    {
+     "from": "2014-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159717",
+     "sha256": "32ae52a498fd071eff59298ab737db7d59e5cd93fe46e7b9be2f422b0dac99be"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-44",
+   "path": "profesii/cafr/hotarare/2014/44",
+   "short": "Hotărârea CAFR nr. 44/2014",
+   "title": "HOTĂRÂRE nr. 44 din 26 iunie 2014 privind aprobarea auditorilor financiari care au fost autorizați în alt stat membru al Uniunii Europene sau aparținând Spațiului Economic European ori Confederației Elveției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160646",
+   "versions": [
+    {
+     "from": "2014-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160646",
+     "sha256": "565ab2f1ddcc120251fe451e7c9c62e96e514f74f7dd52fcf640a6fb99eb15eb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-48",
+   "path": "profesii/cafr/hotarare/2014/48",
+   "short": "Hotărârea CAFR nr. 48/2014",
+   "title": "HOTĂRÂRE nr. 48 din 26 iunie 2014 pentru adoptarea Normelor obligatorii din cadrul internațional de practici profesionale (IPPF), emise de Institutul Global al Auditorilor Interni (IIA Global), ediția 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159917",
+   "versions": [
+    {
+     "from": "2014-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159917",
+     "sha256": "4cc93c69abee9a8a6149b161bb8c25566032cdbb74c5b0d823a575c8e136da6b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-5",
+   "path": "profesii/cafr/hotarare/2014/5",
+   "short": "Hotărârea CAFR nr. 5/2014",
+   "title": "HOTĂRÂRE nr. 5 din 21 februarie 2014 pentru aprobarea Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156135",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156135",
+     "sha256": "321443fdaf96417c45ff5f1293f43cf011d9a6608cd7e03c0d5eeda493e4fb37"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-50",
+   "path": "profesii/cafr/hotarare/2014/50",
+   "short": "Hotărârea CAFR nr. 50/2014",
+   "title": "HOTĂRÂRE nr. 50 din 2 octombrie 2014 pentru aprobarea Biroului permanent al Consiliului Camerei Auditorilor Financiari din România, acordarea titlurilor de \"Președinte de onoare\" și \"Auditor financiar de onoare\" și numirea Comitetului de excelență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162026",
+   "versions": [
+    {
+     "from": "2014-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162026",
+     "sha256": "e39a2a95a21df0a48104bbd0f5ad97293f09095f8300852887f20d3708e8b112"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-51",
+   "path": "profesii/cafr/hotarare/2014/51",
+   "short": "Hotărârea CAFR nr. 51/2014",
+   "title": "HOTĂRÂRE nr. 51 din 6 noiembrie 2014 pentru modificarea și completarea anexei nr. 2 \"Lista auditorilor financiari, persoane fizice și juridice, care îndeplinesc cerințele Protocolului de colaborare încheiat între Camera Auditorilor Financiari din România și Ministerul Fondurilor Europene privind organizarea și desfășurarea activității de audit financiar pentru fonduri europene și alte fonduri nerambursabile de la alți donatori\", aprobată prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 5/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163025",
+   "versions": [
+    {
+     "from": "2014-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163025",
+     "sha256": "c7df6f5c4a9c10b2459b6e8c9c3a1eb2bb7de9c207ef4bb186983eead8f303fc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-6",
+   "path": "profesii/cafr/hotarare/2014/6",
+   "short": "Hotărârea CAFR nr. 6/2014",
+   "title": "HOTĂRÂRE nr. 6 din 21 februarie 2014 privind aprobarea Normelor de pregătire profesională continuă a auditorilor financiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156717",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156717",
+     "sha256": "4c7610650103679521710e6b5ef1c8ee05131021ba8e9ae772a0b751fe7eb0b4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-60",
+   "path": "profesii/cafr/hotarare/2014/60",
+   "short": "Hotărârea CAFR nr. 60/2014",
+   "title": "HOTĂRÂRE nr. 60 din 11 decembrie 2014 privind aprobarea Regulamentului de organizare și desfășurare a examenului de competență profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164594",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164594",
+     "sha256": "1168297209ccb37850c4bd5ad8cc8b8fab58338edcef674de8ee1e1f09a5a94e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-61",
+   "path": "profesii/cafr/hotarare/2014/61",
+   "short": "Hotărârea CAFR nr. 61/2014",
+   "title": "HOTĂRÂRE nr. 61 din 11 decembrie 2014 pentru aprobarea Normelor privind Programul de pregătire profesională a auditorilor financiari și a stagiarilor în activitatea de audit financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164600",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164600",
+     "sha256": "d3923b2228c28e2202a5518fc72bed851a38012f01931071da23ee1fc051e84f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-62",
+   "path": "profesii/cafr/hotarare/2014/62",
+   "short": "Hotărârea CAFR nr. 62/2014",
+   "title": "HOTĂRÂRE nr. 62 din 11 decembrie 2014 privind aprobarea auditorilor financiari care au fost autorizați în alt stat membru al Uniunii Europene sau aparținând Spațiului Economic European ori Confederației Elvețiene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166555",
+   "versions": [
+    {
+     "from": "2015-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166555",
+     "sha256": "4cb57b3c44b08d375cb779dfc23f9decdddd552aefa7c98c00454ebf4ad48645"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-64",
+   "path": "profesii/cafr/hotarare/2014/64",
+   "short": "Hotărârea CAFR nr. 64/2014",
+   "title": "HOTĂRÂRE nr. 64 din 11 decembrie 2014 pentru modificarea Normelor privind atribuirea calității de membru, înscrierea, evidența, retragerea și suspendarea persoanelor fizice și autorizarea, înscrierea, evidența, retragerea și suspendarea persoanelor juridice în și din Registrul public al auditorilor financiari, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 16/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166547",
+   "versions": [
+    {
+     "from": "2015-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166547",
+     "sha256": "627a41c3e00f7fa1cbca46bc3d8847ffbfd23b974a936c4fcc722a2e0699bee9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-7",
+   "path": "profesii/cafr/hotarare/2014/7",
+   "short": "Hotărârea CAFR nr. 7/2014",
+   "title": "HOTĂRÂRE nr. 7 din 21 februarie 2014 privind aprobarea Procedurilor de înscriere la examenul de competență profesională a persoanelor care au finalizat stagiul la Camera Auditorilor Financiari din România și sunt membri cu drepturi depline ai Asociației Contabililor Autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156384",
+   "versions": [
+    {
+     "from": "2014-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156384",
+     "sha256": "2ed70aeda1a84b92c678b1d432f46e753b7f15bc2c54514f8d50791048143d3a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-2014-73",
+   "path": "profesii/cafr/hotarare/2014/73",
+   "short": "Hotărârea CAFR nr. 73/2014",
+   "title": "HOTĂRÂRE nr. 73 din 11 decembrie 2014 privind modificarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 48/2014 pentru adoptarea Normelor obligatorii din cadrul internațional de practici profesionale (IPPF), emise de Institutul Global al Auditorilor Interni (IIA Global), ediția 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164155",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164155",
+     "sha256": "8ff20c43a6346073fc33a81cbae44b70b7c797f37fb75dfa26be2617a1cdf10c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cafr-hotarare-consiliu-2014-74",
+   "path": "profesii/cafr/hotarare-consiliu/2014/74",
+   "short": "Hotărârea CAFR nr. 74/2014",
+   "title": "HOTĂRÂRE nr. 74 din 18 decembrie 2014 privind aprobarea formularelor pentru raportarea anuală a membrilor Camerei Auditorilor Financiari din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164506",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164506",
+     "sha256": "db06e7673d373b2af1e35ca92690d10d9d1167661e1bbc0ec6ccfd719e7f4626"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2014-1",
+   "path": "profesii/ccf/hotarare/2014/1",
+   "short": "Hotărârea CCF nr. 1/2014",
+   "title": "HOTĂRÂRE nr. 1 din 24 ianuarie 2014 privind aprobarea cuantumului taxei pentru examen/interviu pentru atribuirea calității de consultant fiscal în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154962",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154962",
+     "sha256": "e57caab0505cf1ed044d488bf2a3da902151f815c47d1ed0c90cb6b33bf123c5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2014-2",
+   "path": "profesii/ccf/hotarare/2014/2",
+   "short": "Hotărârea CCF nr. 2/2014",
+   "title": "HOTĂRÂRE nr. 2 din 24 ianuarie 2014 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155220",
+   "versions": [
+    {
+     "from": "2014-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155220",
+     "sha256": "c754c3e16512a38a4bceb537caafa41401776c3d1c55f75c94d05d7a47009856"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2014-3",
+   "path": "profesii/ccf/hotarare/2014/3",
+   "short": "Hotărârea CCF nr. 3/2014",
+   "title": "HOTĂRÂRE nr. 3 din 21 februarie 2014 privind aprobarea Programului de pregătire profesională continuă aferent anului 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156342",
+   "versions": [
+    {
+     "from": "2014-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156342",
+     "sha256": "d5f33bc92aeb169eea41a2ffdf1d5cc75d018ffe81c7cf31f7c9acde0dba61da"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2014-6",
+   "path": "profesii/ccf/hotarare/2014/6",
+   "short": "Hotărârea CCF nr. 6/2014",
+   "title": "HOTĂRÂRE nr. 6 din 30 iulie 2014 pentru aprobarea Normelor de certificare a declarațiilor fiscale ale contribuabililor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163545",
+   "versions": [
+    {
+     "from": "2014-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163545",
+     "sha256": "3d854d3a3aefa810c44e5869faf26e1709bb2ec529f2ab4d364c777da9371e0e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-2014-7",
+   "path": "profesii/ccf/hotarare/2014/7",
+   "short": "Hotărârea CCF nr. 7/2014",
+   "title": "HOTĂRÂRE nr. 7 din 20 august 2014 privind aprobarea Regulamentului pentru organizarea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160877",
+   "versions": [
+    {
+     "from": "2014-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160877",
+     "sha256": "62ac7e915788458e629db76728fd3f876ad5ea9aa5b0d746e183b431aca0929d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-conferinta-2014-5",
+   "path": "profesii/ccf/hotarare-conferinta/2014/5",
+   "short": "Hotărârea CCF nr. 5/2014",
+   "title": "HOTĂRÂRE nr. 5 din 28 aprilie 2014 privind aprobarea documentelor prezentate spre dezbatere în Conferința anuală ordinară a Camerei Consultanților Fiscali din 26 aprilie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157887",
+   "versions": [
+    {
+     "from": "2014-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157887",
+     "sha256": "b70b3e85a980395a96a501b364ffcbf61d8f5164a12ecbddc9650a301ab47a3f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-2014-8",
+   "path": "profesii/ccf/hotarare-consiliu/2014/8",
+   "short": "Hotărârea CCF nr. 8/2014",
+   "title": "HOTĂRÂRE nr. 8 din 30 septembrie 2014 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161975",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161975",
+     "sha256": "715272a754cdacf2da2e7e393f10a28628621b2fe433a9055f6d6427e0484ce7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-ccf-hotarare-consiliu-superior-2014-4",
+   "path": "profesii/ccf/hotarare-consiliu-superior/2014/4",
+   "short": "Hotărârea CCF nr. 4/2014",
+   "title": "HOTĂRÂRE nr. 4 din 21 februarie 2014 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156347",
+   "versions": [
+    {
+     "from": "2014-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156347",
+     "sha256": "779e5b60da95e02bc31b2375a61b2d752a2386e459f15ea99cb24e3ff919966c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cfr-decizie-consiliu-national-2014-2",
+   "path": "profesii/cfr/decizie-consiliu-national/2014/2",
+   "short": "Decizia CFR nr. 2/2014",
+   "title": "DECIZIE nr. 2 din 29 aprilie 2014 pentru modificarea art. 15 din Decizia Consiliului național al Colegiului Farmaciștilor din România nr. 1/2011 privind aprobarea procedurilor de evaluare a farmaciilor cu privire la respectarea Regulilor de bună practică farmaceutică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158599",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158599",
+     "sha256": "4b6c2507cf68ca7477170431a1fbd8965d099b6570733c2b6da748a754ca269b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-adunare-generala-2014-3",
+   "path": "profesii/cmdr/decizie-adunare-generala/2014/3",
+   "short": "Decizia CMDR nr. 3/2014",
+   "title": "DECIZIE nr. 3 din 22 martie 2014 privind modificarea și completarea Regulamentului de organizare și funcționare a Colegiului Medicilor Dentiști din România, adoptat prin Decizia Adunării generale naționale a Colegiului Medicilor Dentiști din România nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160403",
+   "versions": [
+    {
+     "from": "2014-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160403",
+     "sha256": "604f192cfa9e24234a07e4cf60a6a2d34c962c4a5b9ae804e640a1637325ba5b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmdr-decizie-consiliu-national-2014-7",
+   "path": "profesii/cmdr/decizie-consiliu-national/2014/7",
+   "short": "Decizia CMDR nr. 7/2014",
+   "title": "DECIZIE nr. 7 din 28 iunie 2014 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor Dentiști din România nr. 58/2011 privind organizarea sistemului de educație medicală continuă pentru medicii dentiști și pentru aprobarea Regulamentului de educație medicală continuă al Colegiului Medicilor Dentiști din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160747",
+   "versions": [
+    {
+     "from": "2014-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160747",
+     "sha256": "f5fda566ce136b150b0af3cffafeb6639921b5fbb0c48006cf711a5ecdcaabdb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2014-1",
+   "path": "profesii/cmr/decizie-consiliu-national/2014/1",
+   "short": "Decizia CMR nr. 1/2014",
+   "title": "DECIZIE nr. 1 din 21 februarie 2014 pentru modificarea și completarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 4/2008 privind continuarea activității medicale peste vârsta legală de pensionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156280",
+   "versions": [
+    {
+     "from": "2014-03-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156280",
+     "sha256": "78246ed7ef71aca280da1e0a77d1f30d8603fae3e9f82b04eb0142b2f5211581"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cmr-decizie-consiliu-national-2014-9",
+   "path": "profesii/cmr/decizie-consiliu-national/2014/9",
+   "short": "Decizia CMR nr. 9/2014",
+   "title": "DECIZIE nr. 9 din 31 octombrie 2014 privind eliberarea Avizului de practică temporară/ocazională a profesiei pentru medicii străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163098",
+   "versions": [
+    {
+     "from": "2014-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163098",
+     "sha256": "25270eab9f96bf812c51f54cb508be81d99a3e19f51f5447301ab2fda4f8fd29"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-dispozitie-2014-8",
+   "path": "profesii/cpr/dispozitie/2014/8",
+   "short": "Dispoziția CPR nr. 8/2014",
+   "title": "DISPOZIȚIE nr. 8 din 25 iulie 2014 pentru aprobarea condițiilor minime generale privind formarea profesională în specialitățile psihologie clinică, consiliere psihologică și psihoterapie pentru treapta de specializare psiholog practicant",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161011",
+   "versions": [
+    {
+     "from": "2014-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161011",
+     "sha256": "fa3971739787042380cf72f86710729868d36dec82a1b2e2e35b4523f42f0b54"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2014-2",
+   "path": "profesii/cpr/hotarare-comitet-director/2014/2",
+   "short": "Hotărârea CPR nr. 2/2014",
+   "title": "HOTĂRÂRE nr. 2 din 21 martie 2014 privind aprobarea Standardelor de calitate în serviciile psihologice - Partea generală, Cartea I",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161361",
+   "versions": [
+    {
+     "from": "2014-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161361",
+     "sha256": "444e2b2db64ef675aa12feb01b5e5b78fc954e86f7bd84723e223966439a8e6b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-cpr-hotarare-comitet-director-2014-3",
+   "path": "profesii/cpr/hotarare-comitet-director/2014/3",
+   "short": "Hotărârea CPR nr. 3/2014",
+   "title": "HOTĂRÂRE nr. 3 din 3 octombrie 2014 pentru modificarea anexei la Standardele de calitate în serviciile psihologice - Partea generală, Cartea I, aprobate prin Hotărârea Comitetului director al Colegiului Psihologilor din România nr. 2/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162610",
+   "versions": [
+    {
+     "from": "2014-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162610",
+     "sha256": "a7ef3744324c0a2e9c0a693c394eff405e412bdce062837b9b4d2c564815a572"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2014-1260",
+   "path": "profesii/csm/hotarare-consiliu/2014/1260",
+   "short": "Hotărârea CSM nr. 1260/2014",
+   "title": "HOTĂRÂRE nr. 1.260 din 20 noiembrie 2014 pentru aprobarea Regulamentului privind organizarea și desfășurarea examenului de promovare în funcții de execuție a personalului de specialitate juridică asimilat judecătorilor și procurorilor din cadrul aparatului propriu al Consiliului Superior al Magistraturii și al Institutului Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164370",
+   "versions": [
+    {
+     "from": "2015-01-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164370",
+     "sha256": "0578be9c3731cac4f948ab9f340b65f26b0417b1adea9ae8e997761272bb8906"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-consiliu-2014-693",
+   "path": "profesii/csm/hotarare-consiliu/2014/693",
+   "short": "Hotărârea CSM nr. 693/2014",
+   "title": "HOTĂRÂRE nr. 693 din 18 iunie 2014 pentru modificarea Regulamentului privind concediile judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159454",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159454",
+     "sha256": "74029b3546555f1db5825361f1bbd21b24842b2d7f8266b2bbad953c7c94d49e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-1131",
+   "path": "profesii/csm/hotarare-plen/2014/1131",
+   "short": "Hotărârea CSM nr. 1131/2014",
+   "title": "HOTĂRÂRE nr. 1.131 din 6 noiembrie 2014 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163738",
+   "versions": [
+    {
+     "from": "2014-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163738",
+     "sha256": "93d7ee05f072d85035b5b8c57e6fabfbcf2997195f01bf653c72f36493e2d446"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-1174",
+   "path": "profesii/csm/hotarare-plen/2014/1174",
+   "short": "Hotărârea CSM nr. 1174/2014",
+   "title": "HOTĂRÂRE nr. 1.174 din 6 noiembrie 2014 pentru modificarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163077",
+   "versions": [
+    {
+     "from": "2014-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163077",
+     "sha256": "f012fb406e03d41f5c8e4282794122b53eed1d0664bbaf2f0706b8f24a78c938"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-1216",
+   "path": "profesii/csm/hotarare-plen/2014/1216",
+   "short": "Hotărârea CSM nr. 1216/2014",
+   "title": "HOTĂRÂRE nr. 1.216 din 6 noiembrie 2014 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 279/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163739",
+   "versions": [
+    {
+     "from": "2014-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163739",
+     "sha256": "d85f478f0041680376c39e1614c5675c5bda5ce8ad7afde4fdcd668f6c3f637d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-1255",
+   "path": "profesii/csm/hotarare-plen/2014/1255",
+   "short": "Hotărârea CSM nr. 1255/2014",
+   "title": "HOTĂRÂRE nr. 1.255 din 20 noiembrie 2014 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante de magistrat-asistent la Înalta Curte de Casație și Justiție, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 293/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164376",
+   "versions": [
+    {
+     "from": "2015-01-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164376",
+     "sha256": "675319f7365cb5b26e066480f7c3e2fe86f9ede3a317610d7dd770ab4610f763"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-129",
+   "path": "profesii/csm/hotarare-plen/2014/129",
+   "short": "Hotărârea CSM nr. 129/2014",
+   "title": "HOTĂRÂRE nr. 129 din 30 ianuarie 2014 pentru modificarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155238",
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155238",
+     "sha256": "463bc34bf9f3883bdb1205b94a2e8e5bf87e346b0a333a21d0017caa1b5f766f"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-130",
+   "path": "profesii/csm/hotarare-plen/2014/130",
+   "short": "Hotărârea CSM nr. 130/2014",
+   "title": "HOTĂRÂRE nr. 130 din 30 ianuarie 2014 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155306",
+   "versions": [
+    {
+     "from": "2014-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155306",
+     "sha256": "f94f9862e6c41231d85290fc1524104a8e3e46a76de89d71f4cd5db59ba083a0"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-176",
+   "path": "profesii/csm/hotarare-plen/2014/176",
+   "short": "Hotărârea CSM nr. 176/2014",
+   "title": "HOTĂRÂRE nr. 176 din 6 februarie 2014 pentru aprobarea Regulamentului comun privind numirea ca judecător sau procuror militar, transferul de la instanțele sau parchetele civile la instanțele ori parchetele militare, precum și acordarea gradelor militare și înaintarea în grad a judecătorilor și procurorilor militari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158424",
+   "versions": [
+    {
+     "from": "2014-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158424",
+     "sha256": "06576238439d832510176c5244f59adb4b2b90e4b4dfe79925d38114ea533f5d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-231",
+   "path": "profesii/csm/hotarare-plen/2014/231",
+   "short": "Hotărârea CSM nr. 231/2014",
+   "title": "HOTĂRÂRE nr. 231 din 6 martie 2014 pentru completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156455",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156455",
+     "sha256": "8a6ef3998813b30dba33f3d304114d2edc6e4b17725fdf9d9e55aa9aa80b24de"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-232",
+   "path": "profesii/csm/hotarare-plen/2014/232",
+   "short": "Hotărârea CSM nr. 232/2014",
+   "title": "HOTĂRÂRE nr. 232 din 6 martie 2014 pentru completarea Regulamentului privind modul de organizare și desfășurare a concursului pentru recrutarea grefierilor arhivari, a grefierilor registratori și a personalului conex, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 185/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156456",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156456",
+     "sha256": "3d9998e2124b5286892e091aa3bc57be6821e415888be2fa1ea11f2e7b32c090"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-338",
+   "path": "profesii/csm/hotarare-plen/2014/338",
+   "short": "Hotărârea CSM nr. 338/2014",
+   "title": "HOTĂRÂRE nr. 338 din 13 martie 2014 privind modificarea Regulamentului de organizare și desfășurare a concursului sau examenului pentru numirea în funcții de conducere a judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 320/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156498",
+   "versions": [
+    {
+     "from": "2014-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156498",
+     "sha256": "a50396e7ffac9d76fcc5456f360ddb1ad9e937662ebf445e802a7177568143bc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-510",
+   "path": "profesii/csm/hotarare-plen/2014/510",
+   "short": "Hotărârea CSM nr. 510/2014",
+   "title": "HOTĂRÂRE nr. 510 din 10 aprilie 2014 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 326/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157661",
+   "versions": [
+    {
+     "from": "2014-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157661",
+     "sha256": "be64bab89a0c4452f4a6109c734257120bbad79328aa09a9d6c4567990b69e8b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-511",
+   "path": "profesii/csm/hotarare-plen/2014/511",
+   "short": "Hotărârea CSM nr. 511/2014",
+   "title": "HOTĂRÂRE nr. 511 din 10 aprilie 2014 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158304",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158304",
+     "sha256": "78af4b3049965fa0e4c72a5ec9c29c6ebebe9457dc8498e83cada8718f2db1d7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-545",
+   "path": "profesii/csm/hotarare-plen/2014/545",
+   "short": "Hotărârea CSM nr. 545/2014",
+   "title": "HOTĂRÂRE nr. 545 din 6 mai 2014 pentru modificarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158429",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158429",
+     "sha256": "6fb0995417353a467f6892619914b3d47190918720c6b78ea7afa527c271462a"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-546",
+   "path": "profesii/csm/hotarare-plen/2014/546",
+   "short": "Hotărârea CSM nr. 546/2014",
+   "title": "HOTĂRÂRE nr. 546 din 6 mai 2014 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere la Școala Națională de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 173/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158814",
+   "versions": [
+    {
+     "from": "2014-06-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158814",
+     "sha256": "4be262bac961754ca5b071f68f1ae565f3482fe06c2b5b63b433039dfb4bc3e5"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-577",
+   "path": "profesii/csm/hotarare-plen/2014/577",
+   "short": "Hotărârea CSM nr. 577/2014",
+   "title": "HOTĂRÂRE nr. 577 din 6 mai 2014 pentru modificarea art. II din Hotărârea Plenului Consiliului Superior al Magistraturii nr. 176 din 6 februarie 2014 pentru aprobarea Regulamentului comun privind numirea ca judecător sau procuror militar, transferul de la instanțele sau parchetele civile la instanțele ori parchetele militare, precum și acordarea gradelor militare și înaintarea în grad a judecătorilor și procurorilor militari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158426",
+   "versions": [
+    {
+     "from": "2014-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158426",
+     "sha256": "1108a1527ef0d6971e1104628268fd598fffe94b70ee825b549640fe61792e1e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-604",
+   "path": "profesii/csm/hotarare-plen/2014/604",
+   "short": "Hotărârea CSM nr. 604/2014",
+   "title": "HOTĂRÂRE nr. 604 din 21 mai 2014 pentru aprobarea desfășurării concursului privind numirea în funcție a unor inspectori judiciari, precum și pentru aprobarea tematicii și bibliografiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158958",
+   "versions": [
+    {
+     "from": "2014-06-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158958",
+     "sha256": "340bc51aed10378cdbfeada72cf3eccf4555cd1ff8ea5661a930fee9896c2dfa"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-652",
+   "path": "profesii/csm/hotarare-plen/2014/652",
+   "short": "Hotărârea CSM nr. 652/2014",
+   "title": "HOTĂRÂRE nr. 652 din 10 iunie 2014 pentru modificarea și completarea Regulamentului privind concursul de admitere și examenul de absolvire a Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 439/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159107",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159107",
+     "sha256": "1a97a5d92cd6c224e30fd52fc99d2188106f8f0de6ab1e24c0572d15c349f40c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-653",
+   "path": "profesii/csm/hotarare-plen/2014/653",
+   "short": "Hotărârea CSM nr. 653/2014",
+   "title": "HOTĂRÂRE nr. 653 din 10 iunie 2014 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere în magistratură, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 279/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159103",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159103",
+     "sha256": "022fb197407e92fd46853de259bf91cc5ad77a6a2c31ce38aaf1a3ab4542f690"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-694",
+   "path": "profesii/csm/hotarare-plen/2014/694",
+   "short": "Hotărârea CSM nr. 694/2014",
+   "title": "HOTĂRÂRE nr. 694 din 18 iunie 2014 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului pentru numirea în funcție a inspectorilor judiciari, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 801/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159445",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159445",
+     "sha256": "c8f6c34c35e7b6ebf69a48c7d69fc91e23e90527188a0071b6b66496182b02bc"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-79",
+   "path": "profesii/csm/hotarare-plen/2014/79",
+   "short": "Hotărârea CSM nr. 79/2014",
+   "title": "HOTĂRÂRE nr. 79 din 16 ianuarie 2014 pentru modificarea și completarea Regulamentului de ordine interioară al instanțelor judecătorești, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 387/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154719",
+   "versions": [
+    {
+     "from": "2014-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154719",
+     "sha256": "441ba852ec0b7520161317b085e1614fc9df48bc12a115c73d33edaccb4cec8c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-827",
+   "path": "profesii/csm/hotarare-plen/2014/827",
+   "short": "Hotărârea CSM nr. 827/2014",
+   "title": "HOTĂRÂRE nr. 827 din 3 iulie 2014 pentru modificarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159910",
+   "versions": [
+    {
+     "from": "2014-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159910",
+     "sha256": "91c274e9624171b5f3ee65718a2e587421acb009bf4cbeb6cbbb11a60060dea4"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-828",
+   "path": "profesii/csm/hotarare-plen/2014/828",
+   "short": "Hotărârea CSM nr. 828/2014",
+   "title": "HOTĂRÂRE nr. 828 din 3 iulie 2014 pentru modificarea și completarea Regulamentului privind transferul și detașarea judecătorilor și procurorilor, delegarea judecătorilor, numirea judecătorilor și procurorilor în alte funcții de conducere, precum și numirea judecătorilor în funcția de procuror și a procurorilor în funcția de judecător, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 193/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159911",
+   "versions": [
+    {
+     "from": "2014-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159911",
+     "sha256": "8a8854cd0aedd102b72b7d61b2cd3858c09c2c3958139e1da17ea9b73f6a1e87"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-862",
+   "path": "profesii/csm/hotarare-plen/2014/862",
+   "short": "Hotărârea CSM nr. 862/2014",
+   "title": "HOTĂRÂRE nr. 862 din 3 iulie 2014 pentru aprobarea Regulamentului privind evaluarea activității profesionale a personalului de specialitate juridică asimilat judecătorilor și procurorilor din cadrul Consiliului Superior al Magistraturii și al Institutului Național al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159963",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159963",
+     "sha256": "83fc3a2b2abf956a3242e0064928b0e7c99d1f5aed43a70fbd870a518fd60541"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-866",
+   "path": "profesii/csm/hotarare-plen/2014/866",
+   "short": "Hotărârea CSM nr. 866/2014",
+   "title": "HOTĂRÂRE nr. 866 din 3 iulie 2014 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de ocupare a posturilor vacante de grefier la instanțele judecătorești și la parchetele de pe lângă acestea, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 126/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160064",
+   "versions": [
+    {
+     "from": "2014-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160064",
+     "sha256": "246642c14e482f5689b8a805acf63c289687dffb1e261705f605dd8f9ad8ea35"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-csm-hotarare-plen-2014-89",
+   "path": "profesii/csm/hotarare-plen/2014/89",
+   "short": "Hotărârea CSM nr. 89/2014",
+   "title": "HOTĂRÂRE nr. 89 din 23 ianuarie 2014 pentru aprobarea Regulamentului de organizare a activității judecătorului de supraveghere a privării de libertate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154963",
+   "versions": [
+    {
+     "from": "2014-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154963",
+     "sha256": "3cebb792f1f4c4e402a080cd4d2159966dd4f6bde52c644889364eca6e811e90"
+    }
+   ]
+  },
+  {
    "slug": "profesii-inppa-act-2014-p822",
    "path": "profesii/inppa/act/2014/p822",
    "short": "Hotărârea Consiliului de Conducere al INPPA privind începerea anului I de pregătire profesională iniţială",
@@ -104,6 +1154,111 @@
      "units": 1,
      "source_url": "https://inppa.ro/hotararea-nr-60-din-12-decembrie-2014-a-consiliului-de-conducere-al-inppa-privind-aprobarea-profilului-formatorului-in-cadrul-inppa/",
      "sha256": "230a7512d974f345966b46240f11562bffbf154140b15d5b2b3c1694a0b5e5fd"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2014-49",
+   "path": "profesii/mediere/hotarare-consiliu/2014/49",
+   "short": "Hotărârea Consiliul de mediere nr. 49/2014",
+   "title": "HOTĂRÂRE nr. 49 din 12 decembrie 2014 pentru publicarea în Monitorul Oficial al României, Partea I, a Tabloului mediatorilor autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164623",
+   "versions": [
+    {
+     "from": "2015-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164623",
+     "sha256": "248fa54ea7e7fa2b7b6facf6b88c7098432dc33b3a19deadfae24222982c90fe"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2014-5",
+   "path": "profesii/mediere/hotarare-consiliu/2014/5",
+   "short": "Hotărârea Consiliul de mediere nr. 5/2014",
+   "title": "HOTĂRÂRE nr. 5 din 3 martie 2014 privind modificarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157350",
+   "versions": [
+    {
+     "from": "2014-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157350",
+     "sha256": "a110787e9667fe555498249cf172ff9c4cc91fd5299e30171e75401d0058746d"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-mediere-hotarare-consiliu-2014-52",
+   "path": "profesii/mediere/hotarare-consiliu/2014/52",
+   "short": "Hotărârea Consiliul de mediere nr. 52/2014",
+   "title": "HOTĂRÂRE nr. 52 din 20 decembrie 2014 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului de mediere, aprobat prin Hotărârea Consiliului de mediere nr. 5/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164712",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164712",
+     "sha256": "30ef1c97d51d0b2c5334310ce0cab2b3eefd36476783edaf67c42484fd29ba9b"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oamgmamr-hotarare-2014-12",
+   "path": "profesii/oamgmamr/hotarare/2014/12",
+   "short": "Hotărârea OAMGMAMR nr. 12/2014",
+   "title": "HOTĂRÂRE nr. 12 din 11 decembrie 2014 privind completarea Metodologiei de reatestare a competenței profesionale a asistenților medicali generaliști, moașelor și a asistenților medicali, aprobată prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 32/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164826",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164826",
+     "sha256": "d7f205277ff5c04a9583f0bba003cc635cb5e3e555b4e0cd764eb38e8cbc33a7"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-hotarare-conferinta-2014-1285",
+   "path": "profesii/oar/hotarare-conferinta/2014/1285",
+   "short": "Hotărârea OAR nr. 1285/2014",
+   "title": "HOTĂRÂRE nr. 1.285 din 29 iunie 2014 privind alegerea membrilor Consiliului național al Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160334",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160334",
+     "sha256": "ed4e983aad1f9796f26b452ab1ea328f6f64f36fbde99e3c1307c1eb446e525c"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-hotarare-conferinta-2014-1286",
+   "path": "profesii/oar/hotarare-conferinta/2014/1286",
+   "short": "Hotărârea OAR nr. 1286/2014",
+   "title": "HOTĂRÂRE nr. 1.286 din 29 iunie 2014 privind alegerea membrilor Comisiei naționale de disciplină a Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160335",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160335",
+     "sha256": "06a59761c975ea55fb5bf6e4db8ed1c256e43b6c3e95a9a70f928167ce5d15a2"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-oar-hotarare-conferinta-2014-1287",
+   "path": "profesii/oar/hotarare-conferinta/2014/1287",
+   "short": "Hotărârea OAR nr. 1287/2014",
+   "title": "HOTĂRÂRE nr. 1.287 din 29 iunie 2014 privind alegerea membrilor Comisiei de cenzori a Ordinului Arhitecților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160337",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160337",
+     "sha256": "85df48a16ec1463df2f53dba27b2c91f82b729451df8d5e2703491a4563e9774"
     }
    ]
   },
@@ -329,6 +1484,141 @@
      "units": 1,
      "source_url": "https://unbr.ro/%e2%97%8f-hotararea-nr-966-din-24-mai-2014-a-consiliului-u-n-b-r-privind-completarea-statutului-profesiei-de-avocat-adoptat-prin-hotararea-consiliului-uniunii-nationale-a-barourilor-din-romania-nr/",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-congres-2014-1",
+   "path": "profesii/unej/hotarare-congres/2014/1",
+   "short": "Hotărârea UNEJ nr. 1/2014",
+   "title": "HOTĂRÂRE nr. 1 din 23 mai 2014 pentru modificarea Statutului Uniunii Naționale a Executorilor Judecătorești și al profesiei de executor judecătoresc, aprobat prin Hotărârea Congresului Extraordinar al Uniunii Naționale a Executorilor Judecătorești nr. 19/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158987",
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158987",
+     "sha256": "987ec488c0f598d4e1d68e278ffc6ae4d7e69752222606d3789af176ace7de0e"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unej-hotarare-congres-2014-2",
+   "path": "profesii/unej/hotarare-congres/2014/2",
+   "short": "Hotărârea UNEJ nr. 2/2014",
+   "title": "HOTĂRÂRE nr. 2 din 23 mai 2014 privind aprobarea Statutului Casei de Asigurări a Executorilor Judecătorești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159246",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159246",
+     "sha256": "a215fd494cd059b0fb8b68ba0a033b71cf6c95e3e46ef3ebc68fa0cd57d424eb"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-decizie-consiliu-2014-92",
+   "path": "profesii/unnpr/decizie-consiliu/2014/92",
+   "short": "Decizia UNNPR nr. 92/2014",
+   "title": "DECIZIE nr. 92 din 4 martie 2014 privind aprobarea Regulamentului de organizare și funcționare a Centrului Național de Administrare a Registrelor Naționale Notariale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156736",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156736",
+     "sha256": "0094bd325361f9ae882172f212d7185cd543fa8cbda77cb772529a3aa4b18874"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-congres-2014-10",
+   "path": "profesii/unnpr/hotarare-congres/2014/10",
+   "short": "Hotărârea UNNPR nr. 10/2014",
+   "title": "HOTĂRÂRE nr. 10 din 2 octombrie 2014 pentru aprobarea Statutului Uniunii Naționale a Notarilor Publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163172",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163172",
+     "sha256": "cab45cbd2a08bc679d47bb675652b37add49979d0a3775021f9158d60aeb4b54"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-congres-2014-11",
+   "path": "profesii/unnpr/hotarare-congres/2014/11",
+   "short": "Hotărârea UNNPR nr. 11/2014",
+   "title": "HOTĂRÂRE nr. 11 din 3 octombrie 2014 pentru aprobarea Statutului Casei de Asigurări a Notarilor Publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163108",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163108",
+     "sha256": "7b74f28e9422bff1b5b867ee0636b344d8ee72fccc860179922886864ce5fe16"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-consiliu-2014-16",
+   "path": "profesii/unnpr/hotarare-consiliu/2014/16",
+   "short": "Hotărârea UNNPR nr. 16/2014",
+   "title": "HOTĂRÂRE nr. 16 din 14 martie 2014 pentru aprobarea Regulamentului-cadru privind organizarea și funcționarea curților de arbitraj de pe lângă Camerele Notarilor Publici din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157403",
+   "versions": [
+    {
+     "from": "2014-04-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157403",
+     "sha256": "e1285dd58937f6bffd4fe0fdac7167eab98bf9cd023085a9daffd6eefed9d332"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-consiliu-2014-72",
+   "path": "profesii/unnpr/hotarare-consiliu/2014/72",
+   "short": "Hotărârea UNNPR nr. 72/2014",
+   "title": "HOTĂRÂRE nr. 72 din 11 iulie 2014 pentru aprobarea Statutului Institutului Notarial Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161059",
+   "versions": [
+    {
+     "from": "2014-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161059",
+     "sha256": "05095f239cf708795f6e26ea85cf0cd3e1d79a6c25cc2068b9b291d818af03ee"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unnpr-hotarare-consiliu-2014-79",
+   "path": "profesii/unnpr/hotarare-consiliu/2014/79",
+   "short": "Hotărârea UNNPR nr. 79/2014",
+   "title": "HOTĂRÂRE nr. 79 din 18 iulie 2014 pentru modificarea și completarea Regulamentului privind procedura de organizare și desfășurare a examenului sau concursului pentru dobândirea calității de notar stagiar, aprobat prin Hotărârea Consiliului Uniunii Naționale a Notarilor Publici din România nr. 72/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160188",
+   "versions": [
+    {
+     "from": "2014-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160188",
+     "sha256": "401b516fc96d53cd02caffd7c7a97953c5d5ee7ce36bcc0ec997828e009b7af9"
+    }
+   ]
+  },
+  {
+   "slug": "profesii-unpir-hotarare-2014-3",
+   "path": "profesii/unpir/hotarare/2014/3",
+   "short": "Hotărârea UNPIR nr. 3/2014",
+   "title": "HOTĂRÂRE nr. 3 din 6 septembrie 2014 pentru modificarea și completarea Statutului privind organizarea și exercitarea profesiei de practician în insolvență, aprobat prin Hotărârea Congresului Uniunii Naționale a Practicienilor în Insolvență din România nr. 3/2007 privind aprobarea Statutului de organizare și funcționare și a Codului de etică profesională și disciplină ale Uniunii Naționale a Practicienilor în Insolvență din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162714",
+   "versions": [
+    {
+     "from": "2014-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162714",
+     "sha256": "d531086e42ec5c91798ad567a405a18c249f7a03590f046accb63f179806265c"
     }
    ]
   }

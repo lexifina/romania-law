@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/runcu-salvei/2025",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-5-2025",
+   "path": "local/bistrita-nasaud/runcu-salvei/2025/5",
+   "short": "HCL Runcu Salvei nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 5/2025 privind participarea UAT Runcu-Salvei la programul multianual privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale ale localităților și regulamentelor locale de urbanism pentru perioada 2025-2028, conform Hotărârii Guvernului nr.1137/2023",
+   "url": "https://primariaruncusalvei.ro/registru_hcl25.html",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.05_24.02.2025.pdf",
+     "sha256": "21610b2c4fc28f553e9d84a853377fb33b5a38c71c91453626596a9fec7a21c8"
+    }
+   ]
+  }
+ ]
+}

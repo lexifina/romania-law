@@ -3,6 +3,46 @@
 "shard": "profesii/2022",
 "acts": [
 {
+"slug": "profesii-cmdr-decizie-2022-4-2cn",
+"path": "profesii/cmdr/decizie/2022/4-2cn",
+"kind": "profesii",
+"year": "2022",
+"number": "4-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 4/2CN din 3 martie 2022 privind aprobarea modelului unic la nivel național al firmei utilizate de formele de exercitare a profesiei de medic stomatolog",
+"short": "Decizia CMDR nr. 4/2CN/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-05",
+"latest": "2022-04-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253639",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2022-9-2cn",
+"path": "profesii/cmdr/decizie/2022/9-2cn",
+"kind": "profesii",
+"year": "2022",
+"number": "9-2cn",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 9/2CN din 15 aprilie 2022 privind aprobarea Ghidului de clasificare a instrumentarului, dispozitivelor și echipamentelor stomatologice",
+"short": "Decizia CMDR nr. 9/2CN/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-03",
+"latest": "2022-06-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255895",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-hotarare-consiliu-2022-281-2",
 "path": "profesii/unbr/hotarare-consiliu/2022/281-2",
 "kind": "profesii",
@@ -63,6 +103,66 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2022-1",
+"path": "profesii/ccf/hotarare/2022/1",
+"kind": "profesii",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 31 ianuarie 2022 privind aprobarea cuantumului taxei pentru examenul/interviul de atribuire a calității de consultant fiscal sau de consultant fiscal asistent în anul 2022",
+"short": "Hotărârea CCF nr. 1/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-04",
+"latest": "2022-02-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251397",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-consiliu-national-2022-1",
+"path": "profesii/cfr/decizie-consiliu-national/2022/1",
+"kind": "profesii",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 1 din 28 martie 2022 pentru modificarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 5/2021 privind aprobarea procedurii de control și evaluare a unităților farmaceutice cu privire la Regulile de bună practică farmaceutică",
+"short": "Decizia CFR nr. 1/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-02",
+"latest": "2022-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254572",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-hotarare-adunare-generala-2022-1",
+"path": "profesii/cmr/hotarare-adunare-generala/2022/1",
+"kind": "profesii",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 25 martie 2022 privind adoptarea Statutului Colegiului Medicilor din România",
+"short": "Hotărârea CMR nr. 1/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254631",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2022-1",
 "path": "profesii/inppa/hotarare-consiliu/2022/1",
 "kind": "profesii",
@@ -83,6 +183,46 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2022-2",
+"path": "profesii/ccf/hotarare/2022/2",
+"kind": "profesii",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 31 ianuarie 2022 privind aprobarea Programului anual de pregătire profesională continuă",
+"short": "Hotărârea CCF nr. 2/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-14",
+"latest": "2022-02-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251615",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfr-decizie-2022-2",
+"path": "profesii/cfr/decizie/2022/2",
+"kind": "profesii",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 2 din 24 noiembrie 2022 pentru modificarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 4/2021 privind avizarea certificatului de membru al Colegiului Farmaciștilor din România, precum și pentru modificarea și completarea Deciziei Consiliului național al Colegiului Farmaciștilor din România nr. 4/2004 privind acordarea certificatului de membru al Colegiului Farmaciștilor din România",
+"short": "Decizia CFR nr. 2/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263083",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-hotarare-consiliu-2022-2",
 "path": "profesii/inppa/hotarare-consiliu/2022/2",
 "kind": "profesii",
@@ -98,6 +238,26 @@
 "from": "2022-01-12",
 "latest": "2022-01-12",
 "portal": "https://inppa.ro/hotararea-consiliului-inppa-nr-2-10-01-2022-privind-inceperea-anului-i-de-pregatire-profesionala-initiala/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-unej-hotarare-consiliu-2022-2",
+"path": "profesii/unej/hotarare-consiliu/2022/2",
+"kind": "profesii",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 24 februarie 2022 privind aprobarea publicării Tabloului executorilor judecătorești pe anul 2022",
+"short": "Hotărârea UNEJ nr. 2/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-05",
+"latest": "2022-04-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253641",
 "flags": {
 "amendments_checked": false
 }
@@ -124,6 +284,726 @@
 }
 },
 {
+"slug": "profesii-ccf-hotarare-2022-3",
+"path": "profesii/ccf/hotarare/2022/3",
+"kind": "profesii",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 31 ianuarie 2022 pentru aprobarea Regulamentului de organizare și funcționare al Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 3/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251890",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2022-3",
+"path": "profesii/cmr/decizie/2022/3",
+"kind": "profesii",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 3 din 28 ianuarie 2022 privind reglementarea activității comisiilor de specialitate ale Colegiului Medicilor din România, precum și adoptarea regulamentului de organizare și funcționare a acestora",
+"short": "Decizia CMR nr. 3/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-11",
+"latest": "2022-03-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252542",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2022-4",
+"path": "profesii/ccf/hotarare-consiliu-superior/2022/4",
+"kind": "profesii",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 4 din 28 februarie 2022 privind convocarea Conferinței ordinare anuale a Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 4/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-08",
+"latest": "2022-03-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252454",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-superior-2022-5",
+"path": "profesii/ccf/hotarare-consiliu-superior/2022/5",
+"kind": "profesii",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 28 februarie 2022 privind aprobarea Regulamentului și a procedurii generale pentru organizarea și desfășurarea alegerilor pentru Consiliul superior al Camerei Consultanților Fiscali, Comisia de auditori statutari și Comisia de apel, prin vot electronic, din data de 14 aprilie 2022",
+"short": "Hotărârea CCF nr. 5/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-08",
+"latest": "2022-03-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252455",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2022-5",
+"path": "profesii/cmr/decizie/2022/5",
+"kind": "profesii",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 5 din 28 ianuarie 2022 privind înființarea, organizarea și funcționarea Corpului experților medicali al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 5/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-11",
+"latest": "2022-03-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252544",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-hotarare-consiliu-2022-5",
+"path": "profesii/cpr/hotarare-consiliu/2022/5",
+"kind": "profesii",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 5 din 21 iulie 2022 pentru aprobarea Normelor privind acordarea mandatelor de reprezentare președinților filialelor teritoriale ale Colegiului Psihologilor din România",
+"short": "Hotărârea CPR nr. 5/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258352",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2022-6",
+"path": "profesii/ccf/hotarare/2022/6",
+"kind": "profesii",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 6 din 14 aprilie 2022 privind aprobarea documentelor prezentate spre dezbatere și alegerea membrilor Consiliului superior al Camerei Consultanților Fiscali, Comisiei de auditori statutari și Comisiei de apel în Conferința ordinară anuală a Camerei Consultanților Fiscali din 14 aprilie 2022",
+"short": "Hotărârea CCF nr. 6/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254538",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2022-7",
+"path": "profesii/cafr/hotarare/2022/7",
+"kind": "profesii",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 7 din 26 ianuarie 2022 privind aprobarea derogării de la aplicare a art. 17 din Normele de pregătire profesională continuă a auditorilor financiari conform Ordonanței de urgență a Guvernului nr. 75/1999 privind activitatea de audit financiar, aprobate prin Hotărârea Consiliului Camerei Auditorilor Financiari din România nr. 98/2018 , pentru pregătirea profesională continuă aferentă anului 2021",
+"short": "Hotărârea CAFR nr. 7/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251188",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-2022-8",
+"path": "profesii/ccf/hotarare/2022/8",
+"kind": "profesii",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 8 din 31 mai 2022 pentru modificarea și completarea Hotărârii Consiliului superior al Camerei Consultanților Fiscali nr. 14/2021 privind aprobarea cotizațiilor, a termenelor de plată și a obligațiilor declarative pentru membrii Camerei Consultanților Fiscali",
+"short": "Hotărârea CCF nr. 8/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255990",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmdr-decizie-2022-8",
+"path": "profesii/cmdr/decizie/2022/8",
+"kind": "profesii",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 8/2CN. din 16 martie 2022 privind desfășurarea manifestărilor de educație medicală continuă",
+"short": "Decizia CMDR nr. 8/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-08",
+"latest": "2022-04-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253739",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ccf-hotarare-consiliu-2022-9",
+"path": "profesii/ccf/hotarare-consiliu/2022/9",
+"kind": "profesii",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 9 din 31 august 2022 privind susținerea examenului de atribuire a calității de consultant fiscal sau de consultant fiscal asistent - sesiunea noiembrie 2022",
+"short": "Hotărârea CCF nr. 9/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-15",
+"latest": "2022-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259384",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-consiliu-national-2022-12",
+"path": "profesii/cmr/decizie-consiliu-national/2022/12",
+"kind": "profesii",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 12 din 29 aprilie 2022 pentru abrogarea Deciziei Consiliului național al Colegiului Medicilor din România nr. 4/2008 privind continuarea activității medicale peste vârsta legală de pensionare",
+"short": "Decizia CMR nr. 12/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-09",
+"latest": "2022-06-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256051",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2022-13",
+"path": "profesii/cafr/hotarare/2022/13",
+"kind": "profesii",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 13 din 28 februarie 2022 privind stabilirea datei Conferinței Camerei Auditorilor Financiari din România în ziua de 29 aprilie 2022, prin vot la distanță",
+"short": "Hotărârea CAFR nr. 13/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-03",
+"latest": "2022-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252352",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2022-14",
+"path": "profesii/cafr/hotarare/2022/14",
+"kind": "profesii",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 14 din 28 februarie 2022 privind aprobarea Normelor pentru desemnarea reprezentanților auditorilor financiari la Conferința Camerei Auditorilor Financiari din România organizată prin vot la distanță în data de 29 aprilie 2022",
+"short": "Hotărârea CAFR nr. 14/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-03",
+"latest": "2022-03-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252353",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-decizie-2022-14",
+"path": "profesii/oamgmamr/decizie/2022/14",
+"kind": "profesii",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 14 din 20 decembrie 2022 pentru modificarea Regulamentului privind organizarea și desfășurarea activității Comisiei naționale/teritoriale de etică și deontologie a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Biroului executiv al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 26/2009",
+"short": "Decizia OAMGMAMR nr. 14/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263195",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2022-16",
+"path": "profesii/cafr/hotarare/2022/16",
+"kind": "profesii",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 16 din 28 februarie 2022 pentru aprobarea Regulamentului privind organizarea alegerilor pentru membrii Comisiei de disciplină care vor avea loc în cadrul Conferinței Camerei Auditorilor Financiari din România în anul 2022",
+"short": "Hotărârea CAFR nr. 16/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-04",
+"latest": "2022-03-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/252393",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2022-16",
+"path": "profesii/cmr/decizie/2022/16",
+"kind": "profesii",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 16 din 24 iunie 2022 pentru prorogarea termenului prevăzut de Decizia Consiliului național al Colegiului Medicilor din România nr. 5/2022 privind înființarea, organizarea și funcționarea Corpului experților medicali al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 16/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-28",
+"latest": "2022-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256804",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cpr-dispozitie-2022-16",
+"path": "profesii/cpr/dispozitie/2022/16",
+"kind": "profesii",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "DISPOZIȚIE nr. 16 din 30 mai 2022 privind înregistrarea rezultatelor alegerilor din 28.05.2022 pentru forurile de conducere ale Colegiului Psihologilor din România",
+"short": "Dispoziția CPR nr. 16/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256402",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cmr-decizie-2022-17",
+"path": "profesii/cmr/decizie/2022/17",
+"kind": "profesii",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "DECIZIE nr. 17 din 24 iunie 2022 privind aprobarea unor taxe pentru eliberarea documentelor solicitate de persoane care nu au calitatea de membru al Colegiului Medicilor din România",
+"short": "Decizia CMR nr. 17/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-14",
+"latest": "2022-07-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257535",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2022-23",
+"path": "profesii/oamgmamr/hotarare/2022/23",
+"kind": "profesii",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 23 din 28 iunie 2022 privind completarea Normelor de creditare a formelor de educație medicală continuă, aprobate prin Hotărârea Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 10/2021",
+"short": "Hotărârea OAMGMAMR nr. 23/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-27",
+"latest": "2022-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257854",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2022-28",
+"path": "profesii/cafr/hotarare/2022/28",
+"kind": "profesii",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 28 din 28 martie 2022 privind convocarea și aprobarea ordinii de zi a Conferinței Camerei Auditorilor Financiari din România, organizată în data de 29 aprilie 2022, prin vot la distanță",
+"short": "Hotărârea CAFR nr. 28/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253358",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2022-29",
+"path": "profesii/cafr/hotarare/2022/29",
+"kind": "profesii",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 29 din 28 martie 2022 pentru aprobarea Procedurii privind organizarea Conferinței Camerei Auditorilor Financiari din România, prin vot la distanță, în data de 29 aprilie 2022",
+"short": "Hotărârea CAFR nr. 29/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253515",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2022-30",
+"path": "profesii/oamgmamr/hotarare/2022/30",
+"kind": "profesii",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 30 din 6 decembrie 2022 pentru modificarea Regulamentului de organizare și funcționare al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România, adoptat prin Hotărârea Adunării generale naționale a Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România nr. 3/2009",
+"short": "Hotărârea OAMGMAMR nr. 30/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263001",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oamgmamr-hotarare-2022-32",
+"path": "profesii/oamgmamr/hotarare/2022/32",
+"kind": "profesii",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 32 din 6 decembrie 2022 pentru modificarea unor hotărâri ale Consiliului național al Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+"short": "Hotărârea OAMGMAMR nr. 32/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263696",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2022-54",
+"path": "profesii/csm/hotarare-plen/2022/54",
+"kind": "profesii",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 54 din 14 aprilie 2022 pentru modificarea și completarea Regulamentului privind modul de organizare și desfășurare a concursului pentru recrutarea grefierilor arhivari, a grefierilor registratori și a personalului conex, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 185/2007",
+"short": "Hotărârea CSM nr. 54/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-21",
+"latest": "2022-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254312",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-2022-73",
+"path": "profesii/cfzro/hotarare-consiliu/2022/73",
+"kind": "profesii",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 73 din 28 iunie 2022 pentru modificarea și completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 28/2018 pentru aprobarea Procedurii privind eliberarea certificatului de conformitate și pentru modificarea și completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 29/2018 pentru aprobarea Metodologiei privind întocmirea și eliberarea certificatului de status profesional curent pentru membrii Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 73/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-27",
+"latest": "2022-07-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257855",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2022-76",
+"path": "profesii/cfzro/hotarare-consiliu-national/2022/76",
+"kind": "profesii",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 76 din 28 iunie 2022 pentru modificarea și completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 36/2018 privind dobândirea calității de membru al Colegiului Fizioterapeuților din România și eliberarea autorizației de liberă practică pentru exercitarea profesiei de fizioterapeut",
+"short": "Hotărârea CFZRO nr. 76/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-26",
+"latest": "2022-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257846",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2022-77",
+"path": "profesii/cfzro/hotarare-consiliu-national/2022/77",
+"kind": "profesii",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 77 din 28 iunie 2022 pentru modificarea și completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 43/2018 privind suspendarea sau încetarea la cerere a calității de membru al Colegiului Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 77/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-26",
+"latest": "2022-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257847",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2022-78",
+"path": "profesii/cfzro/hotarare-consiliu-national/2022/78",
+"kind": "profesii",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 78 din 28 iunie 2022 pentru completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 41/2018 privind eliberarea de duplicate ale autorizației de liberă practică eliberate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 78/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-26",
+"latest": "2022-07-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257848",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2022-79",
+"path": "profesii/cfzro/hotarare-consiliu-national/2022/79",
+"kind": "profesii",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 79 din 28 iunie 2022 pentru modificarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 30/2018 privind aprobarea Procedurii pentru actualizarea datelor personale și profesionale ale fizioterapeuților aflați în evidențele Colegiului Fizioterapeuților din România și pentru actualizarea documentelor eliberate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 79/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257882",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2022-80",
+"path": "profesii/cfzro/hotarare-consiliu-national/2022/80",
+"kind": "profesii",
+"year": "2022",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 80 din 28 iunie 2022 privind modificarea și completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 11/2019 pentru aprobarea Procedurii privind transferul membrilor Colegiului Fizioterapeuților din România de la un colegiu teritorial la altul",
+"short": "Hotărârea CFZRO nr. 80/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257883",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2022-81",
+"path": "profesii/cfzro/hotarare-consiliu-national/2022/81",
+"kind": "profesii",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 81 din 28 iunie 2022 privind modificarea și completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 81/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257884",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2022-82",
+"path": "profesii/cafr/hotarare/2022/82",
+"kind": "profesii",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 82 din 29 octombrie 2022 pentru completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 74/2014 privind aprobarea formularelor pentru raportarea anuală a membrilor Camerei Auditorilor Financiari din România",
+"short": "Hotărârea CAFR nr. 82/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-03",
+"latest": "2022-11-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260975",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cafr-hotarare-2022-83",
+"path": "profesii/cafr/hotarare/2022/83",
+"kind": "profesii",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 83 din 29 octombrie 2022 pentru modificarea și completarea Hotărârii Consiliului Camerei Auditorilor Financiari din România nr. 99/2018 privind acordarea vizei anuale pentru desfășurarea activităților de audit financiar, altele decât auditul statutar, pentru auditorii financiari, membri ai Camerei Auditorilor Financiari din România, începând cu anul 2019",
+"short": "Hotărârea CAFR nr. 83/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-03",
+"latest": "2022-11-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260976",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-2022-85",
+"path": "profesii/csm/hotarare/2022/85",
+"kind": "profesii",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 85 din 2 iunie 2022 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului ori examenului pentru definitivare în funcție, promovare în grade sau trepte profesionale superioare ori din funcția de grefier cu studii medii în cea de grefier cu studii superioare, în cadrul aceleiași instanțe sau aceluiași parchet, precum și în funcții de execuție a personalului auxiliar de specialitate la instanțe și parchete superioare, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 181/2007",
+"short": "Hotărârea CSM nr. 85/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-10",
+"latest": "2022-06-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256105",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2022-123",
+"path": "profesii/cfzro/hotarare-consiliu-national/2022/123",
+"kind": "profesii",
+"year": "2022",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 123 din 26 octombrie 2022 pentru completarea anexei nr. 1 la Metodologia privind întocmirea și eliberarea certificatului de status profesional curent pentru membrii Colegiului Fizioterapeuților din România, aprobată prin Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 29/2018",
+"short": "Hotărârea CFZRO nr. 123/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261363",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-decizie-director-2022-128",
 "path": "profesii/inppa/decizie-director/2022/128",
 "kind": "profesii",
@@ -144,6 +1024,46 @@
 }
 },
 {
+"slug": "profesii-csm-hotarare-sectia-procurori-2022-130",
+"path": "profesii/csm/hotarare-sectia-procurori/2022/130",
+"kind": "profesii",
+"year": "2022",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 130 din 25 ianuarie 2022 pentru aprobarea Regulamentului privind evaluarea activității profesionale a procurorilor",
+"short": "Hotărârea CSM nr. 130/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251282",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2022-135",
+"path": "profesii/csm/hotarare-plen/2022/135",
+"kind": "profesii",
+"year": "2022",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 135 din 6 octombrie 2022 pentru modificarea Codului deontologic al judecătorilor și procurorilor, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 328/2005",
+"short": "Hotărârea CSM nr. 135/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/260578",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-inppa-decizie-director-2022-137",
 "path": "profesii/inppa/decizie-director/2022/137",
 "kind": "profesii",
@@ -159,6 +1079,246 @@
 "from": "2022-11-01",
 "latest": "2022-11-01",
 "portal": "https://inppa.ro/decizia-nr-137-din-31-10-2022-a-directorului-i-n-p-p-a-privind-organizarea-si-desfasurarea-examenului-de-absolvire-sesiunea-6-noiembrie-2022/",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2022-145",
+"path": "profesii/ceccar/hotarare/2022/145",
+"kind": "profesii",
+"year": "2022",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 22/145 din 4 aprilie 2022 pentru aprobarea rezultatului procesului electoral privind alegerile pentru consiliile filialelor, funcția de președinte al comisiei de disciplină și membrii comisiilor de disciplină ale filialelor Corpului Experților Contabili și Contabililor Autorizați din România, mandat 2022-2026",
+"short": "Hotărârea CECCAR nr. 145/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-26",
+"latest": "2022-04-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254343",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2022-149",
+"path": "profesii/ceccar/hotarare/2022/149",
+"kind": "profesii",
+"year": "2022",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 22/149 din 4 aprilie 2022 privind inițiativa legislativă PL-x nr. 596/2018 pentru reorganizarea activității de expertiză contabilă și a contabililor autorizați",
+"short": "Hotărârea CECCAR nr. 149/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254472",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2022-149",
+"path": "profesii/cfzro/hotarare-consiliu-national/2022/149",
+"kind": "profesii",
+"year": "2022",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 149 din 15 decembrie 2022 pentru modificarea și completarea Hotărârii Consiliului național al Colegiului Fizioterapeuților din România nr. 37/2018 privind stabilirea cuantumului cotizației de membru al Colegiului Fizioterapeuților din România și a unor taxe încasate de Colegiul Fizioterapeuților din România",
+"short": "Hotărârea CFZRO nr. 149/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263794",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2022-152",
+"path": "profesii/ceccar/hotarare/2022/152",
+"kind": "profesii",
+"year": "2022",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CECCAR nr. 152/2022",
+"short": "Hotărârea CECCAR nr. 152/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-26",
+"latest": "2022-04-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254344",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2022-153",
+"path": "profesii/ceccar/hotarare/2022/153",
+"kind": "profesii",
+"year": "2022",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea CECCAR nr. 153/2022",
+"short": "Hotărârea CECCAR nr. 153/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-20",
+"latest": "2022-04-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254281",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-cfzro-hotarare-consiliu-national-2022-153",
+"path": "profesii/cfzro/hotarare-consiliu-national/2022/153",
+"kind": "profesii",
+"year": "2022",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 153 din 28 decembrie 2022 privind completarea anexei la Hotărârea Consiliului național al Colegiului Fizioterapeuților din România nr. 92/2020 pentru aprobarea Procedurilor și criteriilor de evaluare a activităților de educație medicală continuă, precum și a criteriilor și normelor de acreditare, respectiv creditare a furnizorilor și formelor de educație medicală continuă",
+"short": "Hotărârea CFZRO nr. 153/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263837",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-ceccar-hotarare-2022-154",
+"path": "profesii/ceccar/hotarare/2022/154",
+"kind": "profesii",
+"year": "2022",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 22/154 din 4 aprilie 2022 privind aprobarea rezultatului alegerilor pentru funcția de membru în Consiliul superior al Corpului Experților Contabili și Contabililor Autorizați din România",
+"short": "Hotărârea CECCAR nr. 154/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-26",
+"latest": "2022-04-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254345",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2022-174",
+"path": "profesii/csm/hotarare-plen/2022/174",
+"kind": "profesii",
+"year": "2022",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 174 din 15 decembrie 2022 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Superior al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 1.073/2018",
+"short": "Hotărârea CSM nr. 174/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263126",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2022-175",
+"path": "profesii/csm/hotarare-plen/2022/175",
+"kind": "profesii",
+"year": "2022",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 175 din 15 decembrie 2022 pentru modificarea și completarea Regulamentului Institutului Național al Magistraturii, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 127/2007",
+"short": "Hotărârea CSM nr. 175/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263127",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2022-176",
+"path": "profesii/csm/hotarare-plen/2022/176",
+"kind": "profesii",
+"year": "2022",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 176 din 15 decembrie 2022 pentru modificarea și completarea Regulamentului de organizare și funcționare al Școlii Naționale de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 183/2007",
+"short": "Hotărârea CSM nr. 176/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263089",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2022-177",
+"path": "profesii/csm/hotarare-plen/2022/177",
+"kind": "profesii",
+"year": "2022",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 177 din 15 decembrie 2022 pentru modificarea și completarea Regulamentului privind organizarea și desfășurarea concursului de admitere la Școala Națională de Grefieri, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 173/2007",
+"short": "Hotărârea CSM nr. 177/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263092",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-plen-2022-178",
+"path": "profesii/csm/hotarare-plen/2022/178",
+"kind": "profesii",
+"year": "2022",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 178 din 15 decembrie 2022 pentru modificarea Regulamentului privind organizarea și desfășurarea concursului de ocupare a posturilor vacante de grefier la instanțele judecătorești și la parchetele de pe lângă acestea, aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 126/2007",
+"short": "Hotărârea CSM nr. 178/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263093",
 "flags": {
 "amendments_checked": false
 }
@@ -994,6 +2154,66 @@
 }
 },
 {
+"slug": "profesii-csm-hotarare-sectia-procurori-2022-759",
+"path": "profesii/csm/hotarare-sectia-procurori/2022/759",
+"kind": "profesii",
+"year": "2022",
+"number": "759",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 759 din 19 aprilie 2022 pentru abrogarea Hotărârii Secției pentru procurori a Consiliului Superior al Magistraturii nr. 817/2019 pentru aprobarea Regulamentului privind transferul, detașarea și delegarea procurorilor",
+"short": "Hotărârea CSM nr. 759/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254500",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2022-1029",
+"path": "profesii/oar/hotarare-conferinta/2022/1029",
+"kind": "profesii",
+"year": "2022",
+"number": "1029",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.029 din 3 iulie 2022 privind alegerea președintelui Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 1029/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-21",
+"latest": "2022-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257717",
+"flags": {
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-oar-hotarare-conferinta-2022-1032",
+"path": "profesii/oar/hotarare-conferinta/2022/1032",
+"kind": "profesii",
+"year": "2022",
+"number": "1032",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1.032 din 3 iulie 2022 privind alegerea membrilor Comisiei de cenzori a Ordinului Arhitecților din România",
+"short": "Hotărârea OAR nr. 1032/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-21",
+"latest": "2022-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257720",
+"flags": {
+"amendments_checked": false
+}
+},
+{
 "slug": "profesii-unbr-protocol-2022-1706",
 "path": "profesii/unbr/protocol/2022/1706",
 "kind": "profesii",
@@ -1012,6 +2232,26 @@
 "flags": {
 "needs_ocr": true,
 "text_missing": true,
+"amendments_checked": false
+}
+},
+{
+"slug": "profesii-csm-hotarare-sectia-judecatori-2022-3243",
+"path": "profesii/csm/hotarare-sectia-judecatori/2022/3243",
+"kind": "profesii",
+"year": "2022",
+"number": "3243",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3.243 din 22 decembrie 2022 pentru aprobarea Regulamentului de ordine interioară al instanțelor judecătorești",
+"short": "Hotărârea CSM nr. 3243/2022",
+"code": null,
+"status": "as published in the Monitorul Oficial, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263128",
+"flags": {
 "amendments_checked": false
 }
 }

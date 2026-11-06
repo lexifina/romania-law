@@ -1,0 +1,681 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/sacueni/2022",
+ "acts": [
+  {
+   "slug": "hcl-bihor--sacueni-119-2022",
+   "path": "local/bihor/sacueni/2022/119",
+   "short": "HCL Săcueni nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 119/2022 privind aprobarea afectării domeniului public al orașului Săcueni privind aprobarea executării lucrărilor pe domeniul public al orașului Săcueni, pentru terenurile identificate cu nr. cadastral 54124, 54100, 50403 respectiv nr. 52870",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/74900",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/74900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-124-2022",
+   "path": "local/bihor/sacueni/2022/124",
+   "short": "HCL Săcueni nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 124/2022 privind depunerea proiectului si cererea de finantare pentru obiectivul de investitie ,,Eficientizare energetica integrata a cladirilor rezidentiale multifamiliale din localitatea Sacueni, judetul Bihor\", in cadrul apelului de proiecte PNRR/2022/C5/1/A.3.1/1, componenta 5 -Valul renovarii, axa I -Schema de granturi pentru eficienta energetica si rezilienta in cladiri rezidentiale multifamiliale, operatiunca A.3 - Renovarea energetica moderata a cladirilor rezidentiale multifamiliale",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/74905",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/74905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-125-2022",
+   "path": "local/bihor/sacueni/2022/125",
+   "short": "HCL Săcueni nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 125/2022 privind aprobarea proceselor verbale ale ședințelor anterioare ale Consiliului Local al orașului Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77134",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-126-2022",
+   "path": "local/bihor/sacueni/2022/126",
+   "short": "HCL Săcueni nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 126/2022 privind aprobarea ordinei de zi al şedinţei ordinară a consiliului local Săcueni din data de 26.10.2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77135",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-127-2022",
+   "path": "local/bihor/sacueni/2022/127",
+   "short": "HCL Săcueni nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 127/2022 privind aprobarea obiectivului de investiții „SISTEM CENTRALIZAT DE PRODUCERE ȘI DISTRIBUȚIE A ENERGIEI TERMICE PENTRU CLĂDIRILE PUBLICE DIN LOCALITATEA SĂCUENI, UTILIZÂND SURSE REGENERABILE DE ENERGIE - ENERGIE GEOTERMALĂ”",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77136",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-128-2022",
+   "path": "local/bihor/sacueni/2022/128",
+   "short": "HCL Săcueni nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 128/2022 privind aprobarea obiectivului de investiții „INFIINTAREA SISTEMULUI DE PRODUCERE A ENERGIEI ELECTRICE DIN SURSE REGENERABILE PENTRU CONSUMUL PROPRIU IN ORASUL SACUENI JUDETUL BIHOR”",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77137",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-130-2022",
+   "path": "local/bihor/sacueni/2022/130",
+   "short": "HCL Săcueni nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 130/2022 privind demolarea construcției școală din orașul Săcueni, satul Cubulcut nr. 167",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77139",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-132-2022",
+   "path": "local/bihor/sacueni/2022/132",
+   "short": "HCL Săcueni nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 132/2022 privind actualizarea bunurilor care aparţin domeniului public al Oraşului Săcueni, judeţul Bihor",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77141",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-134-2022",
+   "path": "local/bihor/sacueni/2022/134",
+   "short": "HCL Săcueni nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 134/2022 privind aprobarea regulamentului actualizat și completat de organizare și funcționare al aparatului de specialitate al Primarului orașului Săcueni, județul Bihor",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77143",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-135-2022",
+   "path": "local/bihor/sacueni/2022/135",
+   "short": "HCL Săcueni nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 135/2022 privind aprobarea actualizarea și completarea Regulamentului de Ordine Interioară a aparatului de specialitate al primarului orașului Săcueni, județul Bihor",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77144",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-136-2022",
+   "path": "local/bihor/sacueni/2022/136",
+   "short": "HCL Săcueni nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 136/2022 privind aprobarea noului Regulament de organizare și funcționare al Consiliului Local al orașului Săcueni, județul Bihor",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77145",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-138-2022",
+   "path": "local/bihor/sacueni/2022/138",
+   "short": "HCL Săcueni nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 138/2022 privind privind trecerea unui imobil în domeniul public al orașului Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77147",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-140-2022",
+   "path": "local/bihor/sacueni/2022/140",
+   "short": "HCL Săcueni nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 140/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/77149",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/77149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-142-2022",
+   "path": "local/bihor/sacueni/2022/142",
+   "short": "HCL Săcueni nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 142/2022 privind aprobarea ordinei de zi al şedinţei extraordinare de îndată a consiliului local Săcueni din data de 02.11.2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/78024",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/78024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-143-2022",
+   "path": "local/bihor/sacueni/2022/143",
+   "short": "HCL Săcueni nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 143/2022 privind completarea HCL nr. 73/ 19.05.2022 privind depunerea proiectului Construire locuințe nZEB plus pentru tineri/locuințe de serviciu pentru specialiști din sănătate și învățământ în Orașul Săcueni, jud. Bihor, în cadrul apelurilor de proiecte din COMPONENTA 10 - Fondul Local în cadrul Planului Național de Redresare și Reziliență (PNRR)",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/78025",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/78025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-144-2022",
+   "path": "local/bihor/sacueni/2022/144",
+   "short": "HCL Săcueni nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 144/2022 privind aprobarea ordinei de zi a şedinţei extraordinare a consiliului local Săcueni din data de 17.11.2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/79741",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/79741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-145-2022",
+   "path": "local/bihor/sacueni/2022/145",
+   "short": "HCL Săcueni nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 145/2022 privind rectificarea bugetului local al oraşului Săcueni pe anul 2022 varianta 5",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/79742",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/79742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-146-2022",
+   "path": "local/bihor/sacueni/2022/146",
+   "short": "HCL Săcueni nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 146/2022 Privind achiziționarea de servicii de consultanță juridică conform art.1 alin 2 din OUG 26/2012 și aprobarea încheierii a două contracte de asistență juridică",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/79743",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/79743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-147-2022",
+   "path": "local/bihor/sacueni/2022/147",
+   "short": "HCL Săcueni nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 147/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/79744",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/79744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-148-2022",
+   "path": "local/bihor/sacueni/2022/148",
+   "short": "HCL Săcueni nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 148/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/79745",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/79745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-149-2022",
+   "path": "local/bihor/sacueni/2022/149",
+   "short": "HCL Săcueni nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 149/2022 privind aprobarea ordinei de zi a şedinţei extraordinare a consiliului local Săcueni din data de 29.11.2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/81362",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/81362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-150-2022",
+   "path": "local/bihor/sacueni/2022/150",
+   "short": "HCL Săcueni nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 150/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/81363",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/81363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-151-2022",
+   "path": "local/bihor/sacueni/2022/151",
+   "short": "HCL Săcueni nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 151/2022 privind aprobarea proiectului Sistem centralizat de producere si distributie a energiei termice pentru cladirile publice din localitatea Sacueni, utilizand surse regenerabile de energie -energie geotermala și a cheltuielilor legate de proiect, în vederea finanțării acestuia prin Programul Operaţional Infrastructură Mare 2014-2020, Axa Prioritară 11: Măsuri de îmbunătățire a eficienței energetice și stimularea utilizării energiei regenerabile, Obiectivul Specific 11.2: Utilizarea energiei din surse regenerabile la nivelul autorităților publice locale",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/81364",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/81364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-155-2022",
+   "path": "local/bihor/sacueni/2022/155",
+   "short": "HCL Săcueni nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 155/2022 privind aprobarea ordinei de zi a şedinţei extraordinare de îndată a consiliului local Săcueni din data de 08.12.2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/82022",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-157-2022",
+   "path": "local/bihor/sacueni/2022/157",
+   "short": "HCL Săcueni nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 157/2022 privind aprobare încheierii unui Acord de co-finanțare între Orașul Săcueni și ”ASOCIAȚIA ÉR HANGJA EGYESÜLET” în vederea depunerii și implementării unui proiect în cadrul programului PNRR/2022/Componenta 11 - Turism și cultură, Investiția I5 – 1: Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/82024",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-158-2022",
+   "path": "local/bihor/sacueni/2022/158",
+   "short": "HCL Săcueni nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 158/2022 privind aprobare încheierii unui Acord de co-finanțare între Orașul Săcueni și ”Fundația de Întrajutorare Venus” în vederea depunerii și implementării unui proiect în cadrul programului PNRR/2022/Componenta 11 - Turism și cultură, Investiția I5 – 1: Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/82025",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-159-2022",
+   "path": "local/bihor/sacueni/2022/159",
+   "short": "HCL Săcueni nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 159/2022 privind aprobare încheierii unui Acord de co-finanțare între Orașul Săcueni și ”Asociația Pro Cadea” în vederea depunerii și implementării unui proiect în cadrul programului PNRR/2022/Componenta 11 - Turism și cultură, Investiția I5 – 1: Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/82026",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-160-2022",
+   "path": "local/bihor/sacueni/2022/160",
+   "short": "HCL Săcueni nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 160/2022 privind aprobare încheierii unui Acord de co-finanțare între Orașul Săcueni și Asociația ”Pro Erolaszi” Egyesulet în vederea depunerii și implementării unui proiect în cadrul programului PNRR/2022/Componenta 11 - Turism și cultură, Investiția I5 – 1: Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/82027",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-161-2022",
+   "path": "local/bihor/sacueni/2022/161",
+   "short": "HCL Săcueni nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 161/2022 privind aprobare încheierii unui Acord de co-finanțare între Orașul Săcueni și ”Asociația Pro Ciocaia” în vederea depunerii și implementării unui proiect în cadrul programului PNRR/2022/Componenta 11 - Turism și cultură, Investiția I5 – 1: Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/82028",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-162-2022",
+   "path": "local/bihor/sacueni/2022/162",
+   "short": "HCL Săcueni nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 162/2022 privind aprobare încheierii unui Acord de co-finanțare între Orașul Săcueni și Asociația ”Societas Pro Educatione Partium”, Societatea Pro Educație Partium în vederea depunerii și implementării unui proiect în cadrul programului PNRR/2022/Componenta 11 - Turism și cultură, Investiția I5 – 1: Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/82029",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-163-2022",
+   "path": "local/bihor/sacueni/2022/163",
+   "short": "HCL Săcueni nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 163/2022 privind aprobare încheierii unui Acord de co-finanțare între Orașul Săcueni și Asociația ”Cultural Comunitară din Cubulcut - Korona Erkobolkut Kozossegi es Kulturalis Egyesulet”,în vederea depunerii și implementării unui proiect în cadrul programului PNRR/2022/Componenta 11 - Turism și cultură, Investiția I5 – 1: Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/82030",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/82030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-164-2022",
+   "path": "local/bihor/sacueni/2022/164",
+   "short": "HCL Săcueni nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 164/2022 privind aprobarea ordinei de zi a şedinţei extraordinare de îndată a consiliului local Săcueni din data de 20.12.2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/83396",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/83396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-165-2022",
+   "path": "local/bihor/sacueni/2022/165",
+   "short": "HCL Săcueni nr. 165/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 165/2022 privind rectificarea bugetului local al oraşului Săcueni pe anul 2022 varianta 6",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/83397",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/83397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-166-2022",
+   "path": "local/bihor/sacueni/2022/166",
+   "short": "HCL Săcueni nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 166/2022 privind aprobare încheierii unui Acord de co-finanțare între Orașul Săcueni și Asociația ”Asociația Szekelyhidi Roma Misszio - Asociația Misiunea Romă din Săcueni”,în vederea depunerii și implementării unui proiect în cadrul programului PNRR/2022/Componenta 11 - Turism și cultură, Investiția I5 – 1: Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/83398",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/83398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-167-2022",
+   "path": "local/bihor/sacueni/2022/167",
+   "short": "HCL Săcueni nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 167/2022 privind aprobare încheierii unui Acord de co-finanțare între Orașul Săcueni și ''Asociația Cultura Pălincii din Valea Ierului”,în vederea depunerii și implementării unui proiect în cadrul programului PNRR/2022/Componenta 11 - Turism și cultură, Investiția I5 – 1: Creșterea accesului la cultură în zonele defavorizate din punct de vedere cultural",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/83399",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/83399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-168-2022",
+   "path": "local/bihor/sacueni/2022/168",
+   "short": "HCL Săcueni nr. 168/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 168/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84849",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-169-2022",
+   "path": "local/bihor/sacueni/2022/169",
+   "short": "HCL Săcueni nr. 169/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 169/2022 privind aprobarea proceselor verbale ale ședințelor anterioare ale Consiliului Local al orașului Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84850",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-170-2022",
+   "path": "local/bihor/sacueni/2022/170",
+   "short": "HCL Săcueni nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 170/2022 privind aprobarea ordinei de zi al şedinţei ordinară a consiliului local Săcueni din data de 29.12.2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84851",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-171-2022",
+   "path": "local/bihor/sacueni/2022/171",
+   "short": "HCL Săcueni nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 171/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84852",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-172-2022",
+   "path": "local/bihor/sacueni/2022/172",
+   "short": "HCL Săcueni nr. 172/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 172/2022",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84853",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-173-2022",
+   "path": "local/bihor/sacueni/2022/173",
+   "short": "HCL Săcueni nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 173/2022 privind stabilirea impozitelor şi taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84854",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-174-2022",
+   "path": "local/bihor/sacueni/2022/174",
+   "short": "HCL Săcueni nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 174/2022 privind acordarea de subvenții de la bugetul local al orașului Săcueni pentru anul 2023, în baza Legii nr 34/1998, pentru asociațiile și fundațiile române cu personalitate juridică, care înființează și administrează unități de asistență socială pe raza orașului Săcueni",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84855",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-176-2022",
+   "path": "local/bihor/sacueni/2022/176",
+   "short": "HCL Săcueni nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 176/2022 privind aprobarea planului de acţiuni de interes local cu privire la venitul minim garantat respectiv pentru persoanele care prestează muncă în folosul comunității pentru anul 2023",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84857",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-177-2022",
+   "path": "local/bihor/sacueni/2022/177",
+   "short": "HCL Săcueni nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 177/2022 Privind achiziționarea de servicii de consultanță juridică conform art.1 alin 2 din OUG 26/2012 și aprobarea încheierii a unui contract de asistență juridică",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84858",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--sacueni-178-2022",
+   "path": "local/bihor/sacueni/2022/178",
+   "short": "HCL Săcueni nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Săcueni nr. 178/2022 privind aprobarea colaborării cu Ministerul Muncii și Solidarității Sociale în cadrul proiectului ”HUB de Servicii MMSS – SII MMSS”, Cod My Smis 130963",
+   "url": "https://emol.ro/sacueni-bh/registru-hcl/84859",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacueni-bh/registru-hcl/84859",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

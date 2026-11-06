@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/mihalt/2025",
+"acts": [
+{
+"slug": "hcl-alba--mihalt-71-2025",
+"path": "local/alba/mihalt/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 71/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Mihalț nr. 71/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

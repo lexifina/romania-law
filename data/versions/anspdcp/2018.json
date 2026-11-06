@@ -46,6 +46,36 @@
      "sha256": "799f80a0704d37d4ea723ce1b839ea957ce107e181ed35c1bbce43fa8d7896ca"
     }
    ]
+  },
+  {
+   "slug": "anspdcp-procedura-2018-0703",
+   "path": "anspdcp/procedura/2018/0703",
+   "short": "Procedura ANSPDCP din 3 iulie 2018",
+   "title": "PROCEDURĂ din 3 iulie 2018 de primire și soluționare a plângerilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202634",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202634",
+     "sha256": "ac7d07638d2ae1d8699fff8eb3f8f0362bfea9372e8276f50b7cfb2e578207f4"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-procedura-2018-1009",
+   "path": "anspdcp/procedura/2018/1009",
+   "short": "Procedura ANSPDCP din 9 octombrie 2018",
+   "title": "PROCEDURĂ din 9 octombrie 2018 de efectuare a investigațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206156",
+   "versions": [
+    {
+     "from": "2018-10-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206156",
+     "sha256": "51db733e203cb562f1a95989fd723611bc1cc121af94151d7c5615873d90c1c5"
+    }
+   ]
   }
  ]
 }

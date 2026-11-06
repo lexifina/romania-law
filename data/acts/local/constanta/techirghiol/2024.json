@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/constanta/techirghiol/2024",
+"acts": [
+{
+"slug": "hcl-constanta--techirghiol-194-2024",
+"path": "local/constanta/techirghiol/2024/194",
+"kind": "local",
+"year": "2024",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 194/2024 privind stabilirea impozitelor si taxelor locale pentru anul 2025",
+"short": "HCL Techirghiol nr. 194/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/183281",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-195-2024",
+"path": "local/constanta/techirghiol/2024/195",
+"kind": "local",
+"year": "2024",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 195/2024 privind acordarea unei reduceri procentuale de 20% la plata impozitului pe cladiri si a impozitului pe teren pentru persoanele fizice care fac dovada a cel putin trei donari de sange in cursul unui an calendaristic",
+"short": "HCL Techirghiol nr. 195/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/183282",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-197-2024",
+"path": "local/constanta/techirghiol/2024/197",
+"kind": "local",
+"year": "2024",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 197/2024 privind aprobarea acordarii de facilitati fiscale la plata accesoriilor aferente obligatiilor bugetare principale : taxe si impozite locale, concesiuni(redevente), chirii restante - anulare accesorii",
+"short": "HCL Techirghiol nr. 197/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/183284",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-202-2024",
+"path": "local/constanta/techirghiol/2024/202",
+"kind": "local",
+"year": "2024",
+"number": "202",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 202/2024 privind delegarea gestiunii prin concesiune a Serviciului public pentru gestionarea câinilor fără stăpân pe raza UAT Techirghiol",
+"short": "HCL Techirghiol nr. 202/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/183289",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--techirghiol-217-2024",
+"path": "local/constanta/techirghiol/2024/217",
+"kind": "local",
+"year": "2024",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Techirghiol nr. 217/2024 privind modificarea și completarea Hotărârii de Consiliu Local nr. 58/2023 privind aprobarea Regulamentului pentru stabilirea normelor de bună gospodărire pe teritoriul Orașului Techirghiol",
+"short": "HCL Techirghiol nr. 217/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://emol.ro/techirghiol-ct/registru-hcl/183304",
+"council": "constanta/techirghiol",
+"council_name": "Consiliul Local al Orașului Techirghiol",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

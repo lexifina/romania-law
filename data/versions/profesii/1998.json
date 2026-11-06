@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "profesii/1998",
+ "acts": [
+  {
+   "slug": "profesii-csm-hotarare-consiliu-1998-9",
+   "path": "profesii/csm/hotarare-consiliu/1998/9",
+   "short": "Hotărârea CSM nr. 9/1998",
+   "title": "HOTĂRÂRE nr. 9 din 14 octombrie 1998 privind adoptarea Regulamentului de funcționare a Consiliului Superior al Magistraturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16215",
+   "versions": [
+    {
+     "from": "1998-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16215",
+     "sha256": "8822c81c2a277d7589b4f508c0db67130223de197e656f5b4e7ea748f9096747"
+    }
+   ]
+  }
+ ]
+}

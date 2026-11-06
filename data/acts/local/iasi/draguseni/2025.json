@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/draguseni/2025",
+"acts": [
+{
+"slug": "hcl-iasi--draguseni-59-2025",
+"path": "local/iasi/draguseni/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 59/2025 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor și taxelor locale și a altor taxe asimilate acestora, aplicabile începând cu anul 2026 CONSILIUL LOCAL AL COMUNEI DRAGUSENI, județul Galati, întrunit în ședință ordinară din data de 29.12.2025 Luând act de:. - Referatul de aprobare nr. 9763/16.12.2025 prezentat de către primarul comunei Draguseni, în calitatea sa de inițiator",
+"short": "HCL Drăgușeni nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "http://www.primariadraguseni.ro/",
+"council": "iasi/draguseni",
+"council_name": "Consiliul Local al Comunei Drăgușeni",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

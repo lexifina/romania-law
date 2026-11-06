@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/maramures/tautii-magheraus/2026",
+"acts": [
+{
+"slug": "hcl-maramures--tautii-magheraus-168-2026",
+"path": "local/maramures/tautii-magheraus/2026/168",
+"kind": "local",
+"year": "2026",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 168/2026 Nr.168 din 30.09.2026 cu privire la aprobarea listei cuprinzând persoanele ale caror dosare au indeplinit toate conditiile impuse prin Regulamentului de atribuirea locuințelor din cadrul Ansamblului de locuințe sociale pentru tinerii aflați în dificultate din oraș Tăuții Măgherăuș, jud. Maramureș ( Nistru zona 1 și zona 2 ), finanțat prin PNRR C10, Contract de finanțare nr. 139259 / 30.12.2022 și care au fost admise in vederea atriubuirii unei locuinte, precum și la aprobarea listei cuprinzând persoanele ale caror dosare nu au indeplinit toate conditiile impuse prin Regulamentului de atribuirea locuințelor din cadrul Ansamblului de locuințe sociale pentru tinerii aflați în dificultate din oraș Tăuții Măgherăuș, jud. Maramureș ( Nistru zona 1 și zona 2 ), finanțat prin PNRR C10, Contract de finanțare nr. 139259 / 30.12.2022 și care au fost respinse.",
+"short": "HCL Tăuții-Măgherăuș nr. 168/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-maramures--tautii-magheraus-186-2026",
+"path": "local/maramures/tautii-magheraus/2026/186",
+"kind": "local",
+"year": "2026",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 186/2026 privind aprobarea inițierii elaborării documentației de actualizare a Planului Urbanistic General (PUG) și a Regulamentului Local de Urbanism (RLU) aferente orașului Tăuții- Măgherăuș, județul Maramureș",
+"short": "HCL Tăuții-Măgherăuș nr. 186/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/dambovita/fieni/2024",
+"acts": [
+{
+"slug": "hcl-dambovita--fieni-111-2024",
+"path": "local/dambovita/fieni/2024/111",
+"kind": "local",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 111/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+"short": "HCL Fieni nr. 111/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/fieni-db/registru-hcl/173065",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-123-2024",
+"path": "local/dambovita/fieni/2024/123",
+"kind": "local",
+"year": "2024",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 123/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+"short": "HCL Fieni nr. 123/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/fieni-db/registru-hcl/177724",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-126-2024",
+"path": "local/dambovita/fieni/2024/126",
+"kind": "local",
+"year": "2024",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 126/2024 privind aprobarea criteriilor și procedurilor pentru scutirirea de la plata impozitelor aferente clădiri folosită ca domiciliu, terenului intravilan categoria curți construcții aferent clădirii de domiciliu şi unui singur mijloc de transport la alegerea contribuabilului aflate în proprietatea sau coproprietatea persoanelor prevăzute la art. 3 alin. (1) lit. b) şi art. 4 alin. (1) din Legea nr. 341/2004, cu modificările şi completările ulterioare pentru anul 2025",
+"short": "HCL Fieni nr. 126/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/fieni-db/registru-hcl/181118",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-128-2024",
+"path": "local/dambovita/fieni/2024/128",
+"kind": "local",
+"year": "2024",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 128/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Fieni nr. 128/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/fieni-db/registru-hcl/181120",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-136-2024",
+"path": "local/dambovita/fieni/2024/136",
+"kind": "local",
+"year": "2024",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 136/2024 privind initierea procedurii de scoatere definitiva din circuitul agricol a parcelei de teren in suprafata de 1511 mp proprietate a Orasului Fieni situata in extravilanul orasului Fieni, sat Berevoiesti zona ,,Pod’’ identificata cu CF 73270, nr. cadastral 73270 pentru proiectul de investitii ,,Construirea unui parc fotovoltaic pentru autoconsum, in orasul Fieni, judetul Dambovita, finantator Minsiterul Energiei prin Fondul de Modernizare,, cod SMIS 315192",
+"short": "HCL Fieni nr. 136/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fieni-db/registru-hcl/182986",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-137-2024",
+"path": "local/dambovita/fieni/2024/137",
+"kind": "local",
+"year": "2024",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 137/2024 privind declararea de utilitate publica si interes public local a proiectului ,,Construirea unui parc fotovoltaic pentru autoconsum, in orasul Fieni, judetul Dambovita, finantator Minsiterul Energiei prin Fondul de Modernizare,, cod SMIS 315192",
+"short": "HCL Fieni nr. 137/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fieni-db/registru-hcl/182987",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--fieni-143-2024",
+"path": "local/dambovita/fieni/2024/143",
+"kind": "local",
+"year": "2024",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fieni nr. 143/2024",
+"short": "HCL Fieni nr. 143/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/fieni-db/registru-hcl/184841",
+"council": "dambovita/fieni",
+"council_name": "Consiliul Local al Orașului Fieni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

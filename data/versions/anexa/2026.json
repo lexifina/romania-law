@@ -1,0 +1,816 @@
+{
+ "country": "RO",
+ "shard": "anexa/2026",
+ "acts": [
+  {
+   "slug": "anexa-decizie-camera-8-2026-anexa",
+   "path": "anexa/decizie-camera-8-2026/anexa",
+   "short": "Anexa la Decizia camera nr. 8/2026",
+   "title": "Regulament din 24 iunie 2026 de organizare și funcționare a serviciilor Camerei Deputaților (anexa la Decizia CAMERA nr. 8/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311953",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 127,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311953",
+     "sha256": "f0fb07cf4175094a24b87919df4b898c2bcc57577f62ae47e773ce438514da36"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-dnsc-3-2026-anexa",
+   "path": "anexa/decizie-dnsc-3-2026/anexa",
+   "short": "Anexa la Decizia dnsc nr. 3/2026",
+   "title": "Norme din 14 septembrie 2026 de aplicabilitate a cerințelor de securitate cibernetică pentru entitățile care fac parte dintr-un grup de întreprinderi (anexa la Decizia DNSC nr. 3/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314699",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314699",
+     "sha256": "38a5f1bc27b3374497409928e5ab5b0363f8884059164c8ef219cc8aa15b326f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-183-2026-anexa",
+   "path": "anexa/hg-183-2026/anexa",
+   "short": "Anexa la HG nr. 183/2026",
+   "title": "Criterii proprii din 26 martie 2026 pentru identificarea operatorilor economici de interes strategic din domeniile de activitate ale Ministerului Economiei, Digitalizării, Antreprenoriatului și Turismului (anexa la Hotărârea Guvernului nr. 183/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308925",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308925",
+     "sha256": "477b09045c629ceeaf7dcb911403a769bfaf58fd0eae7de085c5f74c4064d805"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-373-2026-anexa",
+   "path": "anexa/hg-373-2026/anexa",
+   "short": "Anexa la HG nr. 373/2026",
+   "title": "Metodologie din 4 mai 2026 de ajustare a prețurilor în cadrul devizelor generale aferente proiectelor de infrastructură publică din domeniul apă și apă uzată etapizate din Programul operațional Infrastructură mare 2014-2020 (anexa la Hotărârea Guvernului nr. 373/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310388",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310388",
+     "sha256": "84fe9a1be80504de4a6c3cd44e3ae8763b4c370468895eb2a237621627f0a8a1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-476-2026-anexa",
+   "path": "anexa/hg-476-2026/anexa",
+   "short": "Anexa la HG nr. 476/2026",
+   "title": "Regulament din 18 iunie 2026 de organizare și funcționare a Consiliului interinstituțional pentru implementarea sancțiunilor internaționale, înființat pentru asigurarea cadrului general de cooperare în domeniul punerii în aplicare în România a sancțiunilor internaționale (anexa la Hotărârea Guvernului nr. 476/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311574",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311574",
+     "sha256": "28b9ab24ab3527efa096a1f48413452096948dd286829879a0cce743283d460b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-569-2026-anexa",
+   "path": "anexa/hg-569-2026/anexa",
+   "short": "Anexa la HG nr. 569/2026",
+   "title": "Procedură din 23 iulie 2026 de acordare a plăților, precum și situațiile de suspendare, modificare și încetare a dreptului la beneficiul pentru locuire și la beneficiul de tranziție pentru persoanele adulte cu handicap (anexa la Hotărârea Guvernului nr. 569/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312838",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312838",
+     "sha256": "9ed542d7797828694f88abb8e5d990f033a4088f9889db123968ab0d8eafa221"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-687-2026-anexa",
+   "path": "anexa/hg-687-2026/anexa",
+   "short": "Anexa la HG nr. 687/2026",
+   "title": "Procedură din 31 august 2026 de recepție a lucrărilor, inclusiv a celor executate pe uscat, pentru centralele electrice eoliene offshore (anexa la Hotărârea Guvernului nr. 687/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314362",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314362",
+     "sha256": "4912397178e7446e5c4a54e6499cb81ec0e70801286886460b56a78bfaf84825"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-688-2026-anexa",
+   "path": "anexa/hg-688-2026/anexa",
+   "short": "Anexa la HG nr. 688/2026",
+   "title": "Norme specifice din 31 august 2026 privind procedurile de concesionare a perimetrelor eoliene offshore, precum și a cuantumului redevențelor și taxelor (anexa la Hotărârea Guvernului nr. 688/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314363",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314363",
+     "sha256": "030dcad9a11d43677ff211ca6c802491a78623ce73b9d4faf91cab24dbd117d6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-743-2026-anexa",
+   "path": "anexa/hg-743-2026/anexa",
+   "short": "Anexa la HG nr. 743/2026",
+   "title": "Metodologie din 18 septembrie 2026 de concurs pentru ocuparea funcției de director general la institutele naționale de cercetare-dezvoltare (anexa la Hotărârea Guvernului nr. 743/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314752",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314752",
+     "sha256": "e7cedbf4fddc573014119f54fd0684e5a94ef10b9dd444ae12e2e98a8a625fdc"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-812-2026-anexa",
+   "path": "anexa/hg-812-2026/anexa",
+   "short": "Anexa la HG nr. 812/2026",
+   "title": "Norme metodologice din 9 octombrie 2026 de aplicare a Legii nr. 27/2018 pentru aprobarea Programului geologic la nivel național (anexa la Hotărârea Guvernului nr. 812/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315182",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315182",
+     "sha256": "b9237e2378759cbd3bde60ca5714bbf7de8f1f8ff10ba132f3a686bd404d2ca2"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-legea-178-2026-anexa",
+   "path": "anexa/legea-178-2026/anexa",
+   "short": "Anexa la Legea nr. 178/2026",
+   "title": "Procedură din 28 august 2026 de acordare a plăților, precum și situațiile de suspendare, modificare și încetare a dreptului la beneficiul pentru locuire și la beneficiul de tranziție pentru persoanele adulte cu handicap (anexa la Legea nr. 178/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313861",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313861",
+     "sha256": "aa8c529013796e9e42799d26dc752e96ffc2149491d1868ad1530bdeae0d225c"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-213-2026-anexa",
+   "path": "anexa/ordin-agricultura-213-2026/anexa",
+   "short": "Anexa la Ordin agricultura nr. 213/2026",
+   "title": "Regulament din 4 august 2026 privind recunoașterea organismelor delegate și supravegherea activității acestor organisme pentru băuturi spirtoase desemnate prin indicații geografice înregistrate sau care urmează să obțină protecția ca indicație geografică (anexa la Ordinul AGRICULTURA nr. 213/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313413",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313413",
+     "sha256": "ae36682a955ed8a0a8cef6c36c96e636f2158b35186c5a9cc87b15c7500aed97"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-agricultura-49-2026-anexa",
+   "path": "anexa/ordin-agricultura-49-2026/anexa",
+   "short": "Anexa la Ordin agricultura nr. 49/2026",
+   "title": "Regulament din 26 februarie 2026 privind recunoașterea organismelor delegate și supravegherea activității acestor organisme pentru produse agricole desemnate prin indicații geografice sau specialități tradiționale garantate înregistrate sau care urmează să obțină protecția pe un sistem de calitate (anexa la Ordinul AGRICULTURA nr. 49/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308118",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308118",
+     "sha256": "540f40bcaf647ecbdb99dd2945682d279e4e745a7d5f30413827eea0ddcca492"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrm-174-2026-anexa",
+   "path": "anexa/ordin-anrm-174-2026/anexa",
+   "short": "Anexa la Ordin anrm nr. 174/2026",
+   "title": "Instrucțiuni din 13 mai 2026 de organizare și desfășurare a sesiunilor de pregătire de specialitate și consultanță, precum și stabilirea tarifelor aferente acestora (anexa la Ordinul ANRM nr. 174/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310944",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310944",
+     "sha256": "6e4644d5a6b6998b2a4fbe639d9d2856dc6352fe233f8c4dfbed72fd9568cd9f"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-anrm-178-2026-anexa",
+   "path": "anexa/ordin-anrm-178-2026/anexa",
+   "short": "Anexa la Ordin anrm nr. 178/2026",
+   "title": "Instrucțiuni din 15 mai 2026 privind cercetarea geologică, protecția și exploatarea rațională a zăcămintelor de substanțe minerale utile solide (anexa la Ordinul ANRM nr. 178/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310947",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 131,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310947",
+     "sha256": "bb097a333b92e351cf325da629c5336cabfab52c5c43d8efc1956e12228cf7c9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-ansvsa-472-2026-anexa",
+   "path": "anexa/ordin-ansvsa-472-2026/anexa",
+   "short": "Anexa la Ordin ansvsa nr. 472/2026",
+   "title": "Norma sanitar-veterinară din 5 mai 2026 pentru punerea în aplicare a Regulamentului (UE) 2019/6 al Parlamentului European și al Consiliului din 11 decembrie 2018 privind produsele medicinale veterinare și de abrogare a Directivei 2001/82/CE, în ceea ce privește colectarea datelor privind volumul vânzărilor și utilizarea produselor medicinale antimicrobiene la animale (anexa la Ordinul ANSVSA nr. 472/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310407",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310407",
+     "sha256": "bc52e2d6ba7575c94c9e1a483ca30e56bef675234d84ec60de2815fc614c5c7b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-arice-191-2026-anexa",
+   "path": "anexa/ordin-arice-191-2026/anexa",
+   "short": "Anexa la Ordin arice nr. 191/2026",
+   "title": "Regulament din 3 iunie 2026 privind condițiile și modalitățile de desfășurare a concursului intern pentru trimiterea în misiune în străinătate în rețeaua externă a Agenției Române pentru Investiții și Comerț Exterior (anexa la Ordinul ARICE nr. 191/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311390",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311390",
+     "sha256": "5de58cbb0c566845eb4a08b532ac7dbaff11abd3c94e912626b56ccc995587f9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cear-80-2026-anexa",
+   "path": "anexa/ordin-cear-80-2026/anexa",
+   "short": "Anexa la Ordin cear nr. 80/2026",
+   "title": "Regulament din 28 mai 2026 de organizare și funcționare a Centrului Euro-Atlantic pentru Reziliență (anexa la Ordinul CEAR nr. 80/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312290",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312290",
+     "sha256": "d463d705070a15e28c99e12455aa8664e837fca7a03872d0ed3c6c1d72c9c4c9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-cncan-162-2026-anexa",
+   "path": "anexa/ordin-cncan-162-2026/anexa",
+   "short": "Anexa la Ordin cncan nr. 162/2026",
+   "title": "Normă din 16 octombrie 2026 de securitate nucleară privind protecția instalațiilor nucleare împotriva incendiilor și exploziilor (anexa la Ordinul CNCAN nr. 162/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315813",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 152,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315813",
+     "sha256": "04b9e97d558095f980a329197730a82482e2dab9215edaceb532e80dd69ae7ed"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dezvoltare-1037-2026-anexa",
+   "path": "anexa/ordin-dezvoltare-1037-2026/anexa",
+   "short": "Anexa la Ordin dezvoltare nr. 1037/2026",
+   "title": "Metodologie din 3 septembrie 2026 privind elaborarea hărților de risc seismic, indicativ RTC 18-2026 (anexa la Ordinul DEZVOLTARE nr. 1037/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314528",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314528",
+     "sha256": "ce7d4adf40598224261964465b9a33a664b9b01edc5512b24594b8f85a9f0bff"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-dizabilitati-784-2026-anexa",
+   "path": "anexa/ordin-dizabilitati-784-2026/anexa",
+   "short": "Anexa la Ordin dizabilitati nr. 784/2026",
+   "title": "Regulament din 20 august 2026 de organizare și funcționare a Comisiei superioare de evaluare a persoanelor adulte cu handicap (anexa la Ordinul DIZABILITATI nr. 784/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314014",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314014",
+     "sha256": "debce3b8a74c13d7f4c4519dbb5237db704c906ae14bb84ef917a1324d6a923a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1082-2026-anexa",
+   "path": "anexa/ordin-economie-1082-2026/anexa",
+   "short": "Anexa la Ordin economie nr. 1082/2026",
+   "title": "Metodologia de selecție și criteriile de reprezentativitate din 9 iulie 2026 pentru stabilirea componenței Consiliului consultativ strategic pentru transformare digitală și tehnologia informației (anexa la Ordinul ECONOMIE nr. 1082/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313938",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313938",
+     "sha256": "dbc06aa069efd542166faa2a1e8450d5c0129e12bd7a019195b97f77b98c240d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-1205-2026-anexa",
+   "path": "anexa/ordin-economie-1205-2026/anexa",
+   "short": "Anexa la Ordin economie nr. 1205/2026",
+   "title": "Procedură din 1 octombrie 2026 privind analiza, verificarea, validarea și plata cererilor de decontare, precum și alimentarea conturilor cu sumele necesare decontării compensației prevăzute de Ordonanța de urgență a Guvernului nr. 6/2025 privind măsurile aplicabile clienților finali din piața de energie electrică în perioada 1 aprilie 2025-30 iunie 2025, respectiv măsurile aplicabile clienților finali din piața de gaze naturale în perioada 1 aprilie 2025-31 martie 2026, precum și pentru modificarea și completarea unor acte normative din domeniul energiei și de Ordonanța de urgență a Guvernului nr. 27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei (anexa la Ordinul ECONOMIE nr. 1205/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315039",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315039",
+     "sha256": "3d2ed36b6fbd8ea03414bfbb2ee239cad6af1f4f68e9df3a9b7fad4a48d001d6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-economie-915-2026-anexa",
+   "path": "anexa/ordin-economie-915-2026/anexa",
+   "short": "Anexa la Ordin economie nr. 915/2026",
+   "title": "Ghidul solicitantului din 14 august 2026 Condiții specifice de accesare a finanțării din Fondul pentru modernizare - Sprijinirea investițiilor în dezvoltarea instalațiilor autonome (stand-alone) de stocare în baterii a energiei electrice, cu finanțare din Fondul pentru modernizare (anexa la Ordinul ECONOMIE nr. 915/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313994",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313994",
+     "sha256": "091f1a9c2c1c01afe20ab8eccadcae61eb099e0edef6c1dca134577bd46abdf5"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3008-2026-anexa",
+   "path": "anexa/ordin-educatie-3008-2026/anexa",
+   "short": "Anexa la Ordin educatie nr. 3008/2026",
+   "title": "Regulament-cadru din 8 ianuarie 2026 de organizare și funcționare a învățământului preuniversitar pedagogic (anexa la Ordinul EDUCATIE nr. 3008/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306722",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306722",
+     "sha256": "8ba0bfde9fa172572b64d3235eb3fb30efa3cbe1bc2080dcb95c6fb47816a43a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-3858-2026-anexa",
+   "path": "anexa/ordin-educatie-3858-2026/anexa",
+   "short": "Anexa la Ordin educatie nr. 3858/2026",
+   "title": "Metodologie-cadru din 30 aprilie 2026 privind elaborarea și gestionarea portofoliului profesional al cadrului didactic (anexa la Ordinul EDUCATIE nr. 3858/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310373",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310373",
+     "sha256": "ae3afea9f7928e06f36e02b9d095bcfc989c59ba5dffab05bed82221bc6ffd9b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4265-2026-anexa",
+   "path": "anexa/ordin-educatie-4265-2026/anexa",
+   "short": "Anexa la Ordin educatie nr. 4265/2026",
+   "title": "Metodologie din 26 iunie 2026 de organizare și desfășurare a concursului pentru ocuparea funcției de inspector școlar din direcțiile județene de învățământ preuniversitar/Direcția Municipiului București de Învățământ Preuniversitar, precum și de evaluare a inspectorilor școlari (anexa la Ordinul EDUCATIE nr. 4265/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312097",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312097",
+     "sha256": "9937b0334498fcb4ba44881bd8f8e1cc7ebe2d928c7911836edb5f3f7759cb91"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4650-2026-anexa",
+   "path": "anexa/ordin-educatie-4650-2026/anexa",
+   "short": "Anexa la Ordin educatie nr. 4650/2026",
+   "title": "Regulament din 12 august 2026 de organizare și funcționare a Comisiei Naționale de Statistică și Prognoză a Învățământului Superior (anexa la Ordinul EDUCATIE nr. 4650/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313662",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313662",
+     "sha256": "0fc212ab7f40c3b0c88fece066399ca6b2751c78e9bdab473f4bee1395768f62"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-4665-2026-anexa",
+   "path": "anexa/ordin-educatie-4665-2026/anexa",
+   "short": "Anexa la Ordin educatie nr. 4665/2026",
+   "title": "Regulament-cadru din 17 august 2026 privind organizarea și funcționarea comisiilor de etică din organizațiile de cercetare (anexa la Ordinul EDUCATIE nr. 4665/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313627",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313627",
+     "sha256": "517d6f2f7288dab05c7741c44f5bcaf17d004b82a6420e05eb250ad65541243d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5171-2026-anexa",
+   "path": "anexa/ordin-educatie-5171-2026/anexa",
+   "short": "Anexa la Ordin educatie nr. 5171/2026",
+   "title": "Metodologie-cadru din 27 august 2026 privind operaționalizarea unităților/compartimentelor/departamentelor de inovare și transfer tehnologic la nivelul agențiilor de finanțare (anexa la Ordinul EDUCATIE nr. 5171/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313838",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313838",
+     "sha256": "e0b48db7a058030cd61177c2909b47f0e68d2d026ec79598ea945b50b8746a63"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-educatie-5519-2026-anexa",
+   "path": "anexa/ordin-educatie-5519-2026/anexa",
+   "short": "Anexa la Ordin educatie nr. 5519/2026",
+   "title": "Norme metodologice din 31 august 2026 pentru stabilirea degrevării de normă didactică și a obligației de predare a personalului didactic de conducere, de îndrumare și control din învățământul preuniversitar (anexa la Ordinul EDUCATIE nr. 5519/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314493",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314493",
+     "sha256": "3fcbd52440b1241372da932b2f48e120f2bff27c7f7757009a29ec6c350d16ad"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1128-2026-anexa",
+   "path": "anexa/ordin-finante-1128-2026/anexa",
+   "short": "Anexa la Ordin finante nr. 1128/2026",
+   "title": "Procedură din 26 august 2026 privind emiterea soluției fiscale individuale anticipate, precum și conținutul cererii pentru emiterea soluției fiscale individuale anticipate (anexa la Ordinul FINANTE nr. 1128/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314029",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314029",
+     "sha256": "36f7f5d36d95620b45c854fe4aef2405753e89c67f1f75ef4626ac9f31a964e8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-169-2026-anexa",
+   "path": "anexa/ordin-finante-169-2026/anexa",
+   "short": "Anexa la Ordin finante nr. 169/2026",
+   "title": "Procedură din 17 februarie 2026 privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor pentru sumele cuprinse în dispoziția de plată întocmită conform prevederilor Hotărârii Guvernului nr. 1.094/2025 privind instituirea unei scheme de ajutor de stat pentru compensarea creșterii accizei la motorina utilizată drept combustibil pentru motor (anexa la Ordinul FINANTE nr. 169/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307586",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307586",
+     "sha256": "9674615bcb5bc83c4ed38d5e3c2d25821fed696533186c472f9c76be824e534a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-203-2026-anexa",
+   "path": "anexa/ordin-finante-203-2026/anexa",
+   "short": "Anexa la Ordin finante nr. 203/2026",
+   "title": "Precizări din 25 februarie 2026 referitoare la prezentarea impozitelor amânate stabilite de entitățile constitutive reglementate de Legea nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni, în condițiile aplicării reglementărilor contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014 pentru aprobarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate, și trecerea la aplicarea reglementărilor contabile aprobate prin Ordinul ministrului finanțelor publice nr. 2.844/2016 pentru aprobarea Reglementărilor contabile conforme cu Standardele Internaționale de Raportare Financiară (anexa la Ordinul FINANTE nr. 203/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308236",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308236",
+     "sha256": "5de1d03f5ffb786ef1a00aafdf29fc7a855b3f2c55704e4fe19c86700eded3e9"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-531-2026-anexa",
+   "path": "anexa/ordin-finante-531-2026/anexa",
+   "short": "Anexa la Ordin finante nr. 531/2026",
+   "title": "Norme metodologice din 12 mai 2026 privind mecanismul de acordare și derulare a împrumuturilor acordate unităților/subdiviziunilor administrativ-teritoriale, conform Ordonanței de urgență a Guvernului nr. 36/2026 privind aprobarea unor măsuri în vederea accelerării implementării investițiilor finanțate prin Planul național de redresare și reziliență la nivelul autorităților administrației publice locale, prin asigurarea lichidității temporare prin împrumuturi pe termen scurt, acordate de Ministerul Finanțelor, documentele în baza cărora se acordă împrumutul și cele care stau la baza obținerii avizului Comisiei de autorizare a împrumuturilor locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice locale (anexa la Ordinul FINANTE nr. 531/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310419",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310419",
+     "sha256": "12c3cd58c55dc5940f8028c5e50b3968928c45a520a5ebbd2975b86113e0a538"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-557-2026-anexa",
+   "path": "anexa/ordin-finante-557-2026/anexa",
+   "short": "Anexa la Ordin finante nr. 557/2026",
+   "title": "Norme metodologice din 20 mai 2026 privind mecanismul de acordare și derulare a împrumuturilor acordate unităților/subdiviziunilor administrativ-teritoriale conform Ordonanței de urgență a Guvernului nr. 35/2026 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului în vederea accelerării absorbției fondurilor nerambursabile de la Uniunea Europeană de către unitățile/subdiviziunile administrativ-teritoriale, documentele în baza cărora se acordă împrumutul și cele care stau la baza obținerii avizului Comisiei de autorizare a împrumuturilor locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice locale (anexa la Ordinul FINANTE nr. 557/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310883",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310883",
+     "sha256": "5eeb6bd4f4e1ff0e6de0adf8817b4293b1a780ca90bac6dde328da2dae5e5878"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-guvern-459-2026-anexa",
+   "path": "anexa/ordin-guvern-459-2026/anexa",
+   "short": "Anexa la Ordin guvern nr. 459/2026",
+   "title": "Ghid din 26 mai 2026 pentru aplicarea prevederilor capitolului IV^1 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ (anexa la Ordinul GUVERN nr. 459/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311489",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311489",
+     "sha256": "32539b716cd9aa472533187dd4fe4f466b39d9763b0e7ceb1c94d358a33bf6c6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1221-2026-anexa",
+   "path": "anexa/ordin-mediu-1221-2026/anexa",
+   "short": "Anexa la Ordin mediu nr. 1221/2026",
+   "title": "Ghid de finanțare din 9 iunie 2026 a Programului integrat de dezvoltare a infrastructurii sportive durabile pentru Festivalul Olimpic al Tineretului European 2027, în vederea creșterii eficienței energetice a domeniului schiabil din România (anexa la Ordinul MEDIU nr. 1221/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311326",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311326",
+     "sha256": "8fa9d2e82d42e8635136e8e8f565e750db3d863412cb5494f182cec182a0bbc6"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-mediu-1904-2026-anexa",
+   "path": "anexa/ordin-mediu-1904-2026/anexa",
+   "short": "Anexa la Ordin mediu nr. 1904/2026",
+   "title": "Ghid de finanțare din 11 septembrie 2026 a Programului privind instalarea sistemelor de stocare a energiei electrice produse din surse regenerabile, în vederea acumulării necesarului pentru consum propriu și livrării surplusului energetic în rețeaua națională (anexa la Ordinul MEDIU nr. 1904/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314479",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314479",
+     "sha256": "5a9f4859cc07cedaa54ffbec56ef088beffa70f6e2ba0c68913224c2f39f573b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-moldova-23-2026-anexa",
+   "path": "anexa/ordin-moldova-23-2026/anexa",
+   "short": "Anexa la Ordin moldova nr. 23/2026",
+   "title": "Ghid și documentar din 30 martie 2026 de finanțare nerambursabilă - D.R.R.M. 2026 (anexa la Ordinul MOLDOVA nr. 23/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309693",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309693",
+     "sha256": "e52f52ea7fb121b795654258bb6b34e79d23d38fc930e6d4e770e7b0e7c6a639"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-moldova-55-2026-anexa",
+   "path": "anexa/ordin-moldova-55-2026/anexa",
+   "short": "Anexa la Ordin moldova nr. 55/2026",
+   "title": "Ghidul din 9 iunie 2026 solicitantului și a documentarului - D.R.R.M. 2026 (anexa la Ordinul MOLDOVA nr. 55/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311364",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311364",
+     "sha256": "2d84fd6e3bb4d675a6ab6f34f4183e780490e27889ec272515689d2159a52a30"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-1135-2026-anexa",
+   "path": "anexa/ordin-munca-1135-2026/anexa",
+   "short": "Anexa la Ordin munca nr. 1135/2026",
+   "title": "Procedură din 17 august 2026 de evaluare medicală și de raportare a rezultatelor evaluării de către Institutul Național de Expertiză Medicală și Recuperare a Capacității de Muncă la solicitarea Autorității Naționale pentru Protecția Drepturilor Persoanelor cu Dizabilități, precum și cu privire la modalitatea de decontare a cheltuielilor (anexa la Ordinul MUNCA nr. 1135/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313512",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313512",
+     "sha256": "af234fa4374652cf1e80ae2f93649aee548f4cbd151f706d33678da93abb48e8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-652-2026-anexa",
+   "path": "anexa/ordin-munca-652-2026/anexa",
+   "short": "Anexa la Ordin munca nr. 652/2026",
+   "title": "Metodologie din 26 mai 2026 pentru Concursul național de proiecte de tineret și studenți (anexa la Ordinul MUNCA nr. 652/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311192",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311192",
+     "sha256": "6ede378cc1566d8845a9d5d127e72778245fe75c32e4f37f19c19daa9afc3c24"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-munca-653-2026-anexa",
+   "path": "anexa/ordin-munca-653-2026/anexa",
+   "short": "Anexa la Ordin munca nr. 653/2026",
+   "title": "Metodologie din 26 mai 2026 privind organizarea taberelor studențești (anexa la Ordinul MUNCA nr. 653/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311076",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311076",
+     "sha256": "382dcede36517e4ec55cc32e2c7b4635a8e4a1971747b52c466a1e07418195d4"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-oli-2-2026-anexa",
+   "path": "anexa/ordin-oli-2-2026/anexa",
+   "short": "Anexa la Ordin oli nr. 2/2026",
+   "title": "Instrucțiuni din 15 ianuarie 2026 privind procedura de acordare, modificare, reînnoire, suspendare și retragere a licenței industriale unice (anexa la Ordinul OLI nr. 2/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306577",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306577",
+     "sha256": "097b0948125748c0a230f8416f06c86bb2a101356740b98f492aff5a3b14de4a"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-rezervestat-89-2026-anexa",
+   "path": "anexa/ordin-rezervestat-89-2026/anexa",
+   "short": "Anexa la Ordin rezervestat nr. 89/2026",
+   "title": "Metodologia din 21 aprilie 2026 stabilirii tarifelor percepute de către Administrația Națională a Rezervelor de Stat și Probleme Speciale, în calitate de entitate centrală de stocare din România, pentru prestarea serviciilor necesare îndeplinirii obligațiilor de stocare delegate din partea titularilor obligațiilor de stocare, precum și din vânzarea stocurilor petroliere (anexa la Ordinul REZERVESTAT nr. 89/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309869",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309869",
+     "sha256": "976b356e9a45ce9a96f372f8fa63b88bd08917f0606f7a2c4ddcacf573d89f5b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-135-2026-anexa",
+   "path": "anexa/ordin-sanatate-135-2026/anexa",
+   "short": "Anexa la Ordin sanatate nr. 135/2026",
+   "title": "Regulament din 19 ianuarie 2026 de organizare și funcționare al Agenției Naționale pentru Dezvoltarea Infrastructurii în Sănătate (anexa la Ordinul SANATATE nr. 135/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306723",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306723",
+     "sha256": "5f2608e00dc4cbe0dea0ab825f33c79cd653c6c16a11f339fd1f297dd57ed6d1"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-218-2026-anexa",
+   "path": "anexa/ordin-sanatate-218-2026/anexa",
+   "short": "Anexa la Ordin sanatate nr. 218/2026",
+   "title": "Regulament din 26 ianuarie 2026 de organizare și funcționare al Institutului Inimii de Urgență pentru Boli Cardiovasculare \"N. Stăncioiu\" (anexa la Ordinul SANATATE nr. 218/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307226",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 94,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307226",
+     "sha256": "ccf01b7105c6b71fde7bf20914b9cf5fa711541614e553a11d6e5363a331a660"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-237-2026-anexa",
+   "path": "anexa/ordin-sanatate-237-2026/anexa",
+   "short": "Anexa la Ordin sanatate nr. 237/2026",
+   "title": "Regulament-cadru din 27 ianuarie 2026 de organizare și funcționare pentru serviciile de ambulanță județene (anexa la Ordinul SANATATE nr. 237/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307221",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307221",
+     "sha256": "cf04a5b040bc450b925be39a8940cfa0366858a230fae213b3a25c598b689790"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-sanatate-746-2026-anexa",
+   "path": "anexa/ordin-sanatate-746-2026/anexa",
+   "short": "Anexa la Ordin sanatate nr. 746/2026",
+   "title": "Regulamentul-cadru din 19 martie 2026 de organizare și funcționare pentru serviciile de ambulanță județene (anexa la Ordinul SANATATE nr. 746/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308841",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308841",
+     "sha256": "b5a5a966647a7e8637cbb20910b6b554b6b8bb783169e0df57ce691fecc97c7b"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-255-2026-anexa",
+   "path": "anexa/ordin-transporturi-255-2026/anexa",
+   "short": "Anexa la Ordin transporturi nr. 255/2026",
+   "title": "Norme metodologice din 19 martie 2026 pentru aplicarea de către Ministerul Transporturilor și Infrastructurii a prevederilor art. 25 alin. (4) din Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996 , pentru proiectele finanțate în cadrul schemelor de ajutor de stat/de minimis (anexa la Ordinul TRANSPORTURI nr. 255/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308408",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308408",
+     "sha256": "b2b5fc498857291f2997d719f37c5406edb92daba78ba85916971ec74fa77e01"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-427-2026-anexa",
+   "path": "anexa/ordin-transporturi-427-2026/anexa",
+   "short": "Anexa la Ordin transporturi nr. 427/2026",
+   "title": "Regulament din 23 aprilie 2026 privind cerințele minime de pregătire, precum și condițiile de obținere a certificatelor internaționale de conducător de ambarcațiune de agrement (anexa la Ordinul TRANSPORTURI nr. 427/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310307",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310307",
+     "sha256": "7e785ae48aa22e6e237bff72b78e00930bbfae26ddfa03a57a9c3580832a3691"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-824-2026-anexa",
+   "path": "anexa/ordin-transporturi-824-2026/anexa",
+   "short": "Anexa la Ordin transporturi nr. 824/2026",
+   "title": "Ghidul solicitantului din 1 septembrie 2026 privind sprijinirea investițiilor destinate achiziției de vehicule cu emisii zero pentru transportul rutier și feroviar de mărfuri, maritim și pe căi navigabile interioare de pasageri și mărfuri (anexa la Ordinul TRANSPORTURI nr. 824/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314654",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314654",
+     "sha256": "3f51bd0906bbad70ddd20b23615826c3ffeff887b1ef773c599309ff23dc1965"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-transporturi-886-2026-anexa",
+   "path": "anexa/ordin-transporturi-886-2026/anexa",
+   "short": "Anexa la Ordin transporturi nr. 886/2026",
+   "title": "Ghidul solicitantului din 21 septembrie 2026 privind dezvoltarea infrastructurii de reîncărcare a vehiculelor electrice pe rețeaua națională de autostrăzi, drumuri expres și naționale \"e-Mobility RO\", submăsura 1 (anexa la Ordinul TRANSPORTURI nr. 886/2026)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314947",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314947",
+     "sha256": "325f2302cc71803c0126f8af014fcc31596763ea4c424dcabe366ea21c2f47dd"
+    }
+   ]
+  }
+ ]
+}

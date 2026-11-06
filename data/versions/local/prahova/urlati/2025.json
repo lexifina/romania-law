@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/urlati/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--urlati-101-2025",
+   "path": "local/prahova/urlati/2025/101",
+   "short": "HCL Urlați nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 101/2025 privind rectificarea bugetului general al unităţii administrativ-teritoriale pe anul 2025",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/238479",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/238479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-102-2025",
+   "path": "local/prahova/urlati/2025/102",
+   "short": "HCL Urlați nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 102/2025 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții și de aprobare a proiectului „Reabilitare, modernizare, extindere și dotare Ambulatoriu integrat - Spitalul Orășenesc Urlați, județ Prahova” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/239441",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/239441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-104-2025",
+   "path": "local/prahova/urlati/2025/104",
+   "short": "HCL Urlați nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 104/2025 privind rectificarea bugetului general al unităţii administrativ-teritoriale pe anul 2025",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/240532",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/240532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-105-2025",
+   "path": "local/prahova/urlati/2025/105",
+   "short": "HCL Urlați nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 105/2025 privind aprobarea rezilierii Contractului de concesiune nr.5984/17.12.1998",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/242918",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/242918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-106-2025",
+   "path": "local/prahova/urlati/2025/106",
+   "short": "HCL Urlați nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 106/2025 privind stabilirea salariului de bază al funcției de referent din cadrul Clubului Sportiv „Unirea Urlați”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/242919",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/242919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-107-2025",
+   "path": "local/prahova/urlati/2025/107",
+   "short": "HCL Urlați nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 107/2025 privind trecerea din domeniul privat în domeniul public a unor imobile aparținând Orașului Urlați",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/242920",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/242920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-114-2025",
+   "path": "local/prahova/urlati/2025/114",
+   "short": "HCL Urlați nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 114/2025 privind rectificarea bugetului general al unităţii administrativ teritoriale pe anul 2025 conform Dispoziției Primarului orașului Urlați nr.505/16.12.2025",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/244153",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/244153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-115-2025",
+   "path": "local/prahova/urlati/2025/115",
+   "short": "HCL Urlați nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 115/2025 privind stabilirea impozitelor şi taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/244154",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/244154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-76-2025",
+   "path": "local/prahova/urlati/2025/76",
+   "short": "HCL Urlați nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 76/2025 privind însușirea/respingerea Raportului privind finalizarea procesului de informare și consultare publică aferent elaborării propunerilor de Plan Urbanistic general (PUG) și Planului de Mobilitate Urbană Durabilă (PMUD) al Orașului Urlați",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/226976",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/226976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-80-2025",
+   "path": "local/prahova/urlati/2025/80",
+   "short": "HCL Urlați nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 80/2025",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/226980",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/226980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-81-2025",
+   "path": "local/prahova/urlati/2025/81",
+   "short": "HCL Urlați nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 81/2025",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/226981",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/226981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-84-2025",
+   "path": "local/prahova/urlati/2025/84",
+   "short": "HCL Urlați nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 84/2025",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/226984",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/226984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-86-2025",
+   "path": "local/prahova/urlati/2025/86",
+   "short": "HCL Urlați nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 86/2025 privind aprobarea Documentației tehnico-economice, faza PT, a indicatorilor tehnico-economici și a Devizului general, aferente obiectivului de investiții ”Verde pentru viitor- Realizare Parc public și Amenajare lac în Orașul Urlați, județul Prahova”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/228973",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/228973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-87-2025",
+   "path": "local/prahova/urlati/2025/87",
+   "short": "HCL Urlați nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 87/2025 privind rectificarea bugetului general al unităţii administrativ-teritoriale pe anul 2025",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/228974",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/228974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-88-2025",
+   "path": "local/prahova/urlati/2025/88",
+   "short": "HCL Urlați nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 88/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul : „Amenajare spațiu de joacă”, beneficiar Grădinița cu program prelungit ”Clopoțica” Urlați",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/228975",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/228975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-91-2025",
+   "path": "local/prahova/urlati/2025/91",
+   "short": "HCL Urlați nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 91/2025 privind aprobarea Documentației tehnico-economice, faza SF, a indicatorilor tehnico-economici și a Devizului general, aferente obiectivului de investiții REPARAȚIE CAPITALĂ DISPENSAR UMAN - CONSOLIDARE, MODIFICARE FAȚADE, INLOCUIRE ȘARPANTĂ",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/232987",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/232987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-92-2025",
+   "path": "local/prahova/urlati/2025/92",
+   "short": "HCL Urlați nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 92/2025 privind rectificarea bugetului general al unităţii administrativ-teritoriale pe anul 2025",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/232988",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/232988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-94-2025",
+   "path": "local/prahova/urlati/2025/94",
+   "short": "HCL Urlați nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 94/2025 privind aprobarea alipirii a 2 imobile-teren, rezultând imobilul-teren cu numărul cadastral 28447, situat în Loc. Urlați, jud.Prahova, T31 ; P 1590/1, V 1590/2, UAT Urlați având suprafața măsurată 2226 mp",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/232990",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/232990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-96-2025",
+   "path": "local/prahova/urlati/2025/96",
+   "short": "HCL Urlați nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 96/2025 privind aprobarea Registrului local al spațiilor verzi al Orașului Urlați",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/234691",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/234691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--urlati-97-2025",
+   "path": "local/prahova/urlati/2025/97",
+   "short": "HCL Urlați nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Urlați nr. 97/2025 privind aprobarea cererii de suplimentare, a devizului general și indicatorilor tehnico-economici, actualizați, pentru obiectivul de investiții „Reabilitare și modernizare străzi, faza a III-a, străzile Arioneștii Noi, Liliacului, Lalelelor, Macului, Viorelelor, Măceșului, Fundătura Crizantemelor, Crizantemelor (Bretea), Mihai Viteazu și Socului, Orașul Urlați, Județul Prahova”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/urlati-ph/registru-hcl/238475",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/urlati-ph/registru-hcl/238475",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

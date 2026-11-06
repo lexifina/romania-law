@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "anexa/1990",
+"acts": [
+{
+"slug": "anexa-hg-487-1990-anexa",
+"path": "anexa/hg-487-1990/anexa",
+"kind": "anexa",
+"year": "1990",
+"number": "hg-487-1990/anexa",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme din 8 mai 1990 privind numirea și transferarea personalului didactic de predare din învățămîntul preuniversitar pentru anul școlar 1990-1991 (anexa la Hotărârea Guvernului nr. 487/1990)",
+"short": "Anexa la HG nr. 487/1990",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1990-05-10",
+"latest": "1990-05-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/92139"
+}
+]
+}
