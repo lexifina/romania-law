@@ -1,0 +1,16 @@
+# Către directorul general al Administrației Naționale a Penitenciarelor
+
+Recomandarea Avocatul Poporului nr. 25/2020 · 1 versions, from 2020-01-23 (latest in force: 2020-01-23) · <https://avp.ro/wp-content/uploads/2020/08/recomandare25_2020_1.pdf>
+
+**Status:** Published as the body published it; later changes to it, if any, are not yet recorded.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `avocatul-poporului-recomandare-25-2020` (tags `avocatul-poporului-recomandare-25-2020/<day>`; `python tools/on.py <day> avocatul-poporului-recomandare-25-2020`).
+
+## Decisions made by hand
+
+- Recomandarea Avocatul Poporului nr. 25/2020: added by Lexifina's ombudsman source lane from the document Avocatul Poporului publishes (https://avp.ro/wp-content/uploads/2020/08/recomandare25_2020_1.pdf). Published as the body published it; later changes to it, if any, are not yet recorded.
+- Recomandarea Avocatul Poporului nr. 25/2020: the body published it as a scanned PDF; its text here is the OCR reading (Tesseract, mean word confidence 0.91), checked by the personal-data scan.

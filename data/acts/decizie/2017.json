@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "decizie/2017",
+"acts": [
+{
+"slug": "decizie-cna-63-2017",
+"path": "decizie/cna/2017/63",
+"kind": "decizie",
+"year": "2017",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 63/2017 pentru modificarea și completarea Deciziei Consiliului Național al Audiovizualului nr. 220/2011 privind Codul de reglementare a conținutului audiovizual",
+"short": "Decizia cna nr. 63/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-24",
+"latest": "2017-02-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/186896",
+"issuer": "cna",
+"joint": []
+}
+]
+}

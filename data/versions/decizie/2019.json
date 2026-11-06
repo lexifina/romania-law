@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "decizie/2019",
+ "acts": [
+  {
+   "slug": "decizie-cna-614-2019",
+   "path": "decizie/cna/2019/614",
+   "short": "Decizia cna nr. 614/2019",
+   "title": "Decizia nr. 614/2019 pentru modificarea și completarea Deciziei Consiliului Național al Audiovizualului nr. 220/2011 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://media.cna.ro/Decizia_nr_614_din_11_iunie_2019_M_Of_nr_517_din_25_iunie_2019_4eb174de4b.pdf",
+   "versions": [
+    {
+     "from": "2019-06-25",
+     "units": 2,
+     "source_url": "https://media.cna.ro/Decizia_nr_614_din_11_iunie_2019_M_Of_nr_517_din_25_iunie_2019_4eb174de4b.pdf",
+     "sha256": "36f5c0bb07955c89214d48cb81386169584a3f339b159f8da3301fd9cad04357"
+    }
+   ]
+  }
+ ]
+}

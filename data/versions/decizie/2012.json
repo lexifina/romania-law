@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "decizie/2012",
+ "acts": [
+  {
+   "slug": "decizie-ancom-34-2012",
+   "path": "decizie/ancom/2012/34",
+   "short": "Decizia ancom nr. 34/2012",
+   "title": "Decizia nr. 34/2012 privind identificarea piețelor relevante din sectorul comunicațiilor electronice corespunzătoare serviciilor de terminare a apelurilor la puncte fixe, respectiv corespunzătoare serviciilor de terminare a apelurilor la puncte mobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134703",
+   "versions": [
+    {
+     "from": "2012-01-23",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizia-preedintelui-ancom-nr-34-2012-privind-identificarea-pieelor-relevante-din-sectorul-comunicaiilor-electronice-corespunztoare-serviciilor-de-terminare-a-apelurilor-la-pun/?link_id=decizia_2012_341327482354.pdf",
+     "sha256": "f57808c9847c4ad14f593da8d458db38d53afebe6c549d75881cb04450b88cc7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-351-2012",
+   "path": "decizie/ancom/2012/351",
+   "short": "Decizia ancom nr. 351/2012",
+   "title": "Decizia nr. 351/2012 privind modificarea unor reglementări din domeniul portabilității numerelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137482",
+   "versions": [
+    {
+     "from": "2012-05-02",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-351-2012-privind-modificarea-unor-reglementri-din-domeniul-portabilitii-numerelor/?link_id=Decizia_ANCOM_nr_351_2012_forma_MOF1343199310.pdf",
+     "sha256": "ad780fc79c32eb648932c0fae51c814d100da8c6d4cf0b0202d22c0d641ead3e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-392-2012",
+   "path": "decizie/ancom/2012/392",
+   "short": "Decizia ancom nr. 392/2012",
+   "title": "Decizia nr. 392/2012 privind modificarea și completarea Deciziei președintelui Inspectoratului General pentru Comunicații și Tehnologia Informației nr. 686/2005 pentru aprobarea Procedurii de tarifare și a Listei cuprinzând tarifele de utilizare a spectrului radio, datorate anual către Inspectoratul General pentru Comunicații și Tehnologia Informației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137411",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 2,
+     "source_url": "https://www.ancom.ro/decizie/decizie-nr-392-2012-privind-modificarea-i-completarea-deciziei-preedintelui-inspectoratului-general-pentru-comunicaii-i-tehnologia-informaiei-nr-686-2005-pentru-aprobare/?link_id=DECIZIA_392_2012_MODIFICARE_6861337764507.pdf",
+     "sha256": "e8aa50975f0e6f0444cdd5aff90eccb35c9492acf00abb904bc9548aca25c5db"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-541-2012",
+   "path": "decizie/ancom/2012/541",
+   "short": "Decizia ancom nr. 541/2012",
+   "title": "Decizia nr. 541/2012 privind organizarea procedurii de selecție pentru acordarea drepturilor de utilizare a frecvențelor radio",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139135",
+   "versions": [
+    {
+     "from": "2012-06-27",
+     "units": 14,
+     "source_url": "https://www.ancom.ro/decizie/decizia-nr-541-2012-privind-organizarea-procedurii-de-selecie-pentru-acordarea-drepturilor-de-utilizare-a-frecvenelor-radio/?link_id=decizie_2012_5411340876142.pdf",
+     "sha256": "e1c7ccdb7172cd5e90f8cb662749e57dce3b53d401b67f903afbb27a9c464094"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-801-2012",
+   "path": "decizie/ancom/2012/801",
+   "short": "Decizia ancom nr. 801/2012",
+   "title": "Decizia nr. 801/2012 pentru modificarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 459/2010 privind alocarea și utilizarea numerelor naționale scurte pentru servicii de interes public la nivel național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141934",
+   "versions": [
+    {
+     "from": "2012-10-11",
+     "units": 1,
+     "source_url": "https://www.ancom.ro/decizie/decizia-preedintelui-autoritii-naionale-pentru-administrare-i-reglementare-in-comunicaii-nr-801-2012-pentru-modificarea-deciziei-preedintelui-autorit/?link_id=decizie_2012_8011350042398.pdf",
+     "sha256": "7fc5660fae197d9d38e987754817f19eef617a0fae4faf0ea68dd9bb61379c24"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-ancom-975-2012",
+   "path": "decizie/ancom/2012/975",
+   "short": "Decizia ancom nr. 975/2012",
+   "title": "Decizia nr. 975/2012 pentru modificarea și completarea unor reglementări privind condițiile și procedura de desemnare, precum și desemnarea furnizorilor de serviciu universal în domeniul serviciilor poștale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143466",
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "units": 5,
+     "source_url": "https://www.ancom.ro/decizie/decizia-preedintelui-autoritii-naionale-pentru-administrare-i-reglementare-in-comunicaii-nr-975-2012-pentru-modificarea-i-completarea-unor-reglementri/?link_id=Decizia_975_procedura_modificare_293-3442_VARIANTA_FINALA1355231088.pdf",
+     "sha256": "8cec5e9cdea33a0317d1436c6fee9a56b61f4c6ef04d915dc813d098601b0cd1"
+    }
+   ]
+  }
+ ]
+}

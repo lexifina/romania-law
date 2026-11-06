@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "decizie/2013",
+"acts": [
+{
+"slug": "decizie-ancom-117-2013",
+"path": "decizie/ancom/2013/117",
+"kind": "decizie",
+"year": "2013",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 117/2013 pentru modificarea Deciziei președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 459/2010 privind alocarea și utilizarea numerelor naționale scurte pentru servicii de interes public la nivel național",
+"short": "Decizia ancom nr. 117/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-02-08",
+"latest": "2013-02-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/145410",
+"issuer": "ancom",
+"joint": []
+}
+]
+}

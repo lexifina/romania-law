@@ -1741,6 +1741,2616 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-168-2020",
+   "path": "avocatul-poporului/recomandare/2020/168",
+   "short": "Recomandarea Avocatul Poporului nr. 168/2020",
+   "title": "Către Școala Gimnazială Mireșu Mare, județul Maramureș",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Recomandarea-168-1.pdf",
+   "versions": [
+    {
+     "from": "2020-10-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Recomandarea-168-1.pdf",
+     "sha256": "698412832c4a024903f0e804ef5838e86dd24180f95c2e559fc677db33355bac"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-169-2020",
+   "path": "avocatul-poporului/recomandare/2020/169",
+   "short": "Recomandarea Avocatul Poporului nr. 169/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 169 din 2020-10-15",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/recomandare169_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/recomandare169_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-17-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/17-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-01-23",
+   "title": "Către prefectul județului Mureș",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare17_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare17_2020_2.pdf",
+     "sha256": "37fdb2608f8cc029e6266a70766b1e9c9b3b0362f907a00e86b2ca3804654ce5"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-17-2020",
+   "path": "avocatul-poporului/recomandare/2020/17",
+   "short": "Recomandarea Avocatul Poporului nr. 17/2020",
+   "title": "Către primarul comunei Ceuașu de Câmpie, județul Mureș",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare17_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare17_2020_1.pdf",
+     "sha256": "dc231e273ecc1865b098ad72ee818fe98812e62ab5291e07d4ff75b793d44b24"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-170-2020",
+   "path": "avocatul-poporului/recomandare/2020/170",
+   "short": "Recomandarea Avocatul Poporului nr. 170/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 170 din 2020-10-02",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/recomandare170-_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/recomandare170-_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-171-2020",
+   "path": "avocatul-poporului/recomandare/2020/171",
+   "short": "Recomandarea Avocatul Poporului nr. 171/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 171 din 2020-10-07",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-171-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-171-2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-172-2020",
+   "path": "avocatul-poporului/recomandare/2020/172",
+   "short": "Recomandarea Avocatul Poporului nr. 172/2020",
+   "title": "Către directorul Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/recomandare172_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/recomandare172_2020.pdf",
+     "sha256": "dbcc9cbfead31e7386d74af63c1d424ccf913059e9a26f378a16c98e984bd1c8"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-173-2020",
+   "path": "avocatul-poporului/recomandare/2020/173",
+   "short": "Recomandarea Avocatul Poporului nr. 173/2020",
+   "title": "Către directorul executiv al Agenției pentru Protecția Mediului Prahova",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/recomandare173_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/recomandare173_2020.pdf",
+     "sha256": "f1b85693a00d4007bbcb1c5d7ca216a8ab5e906d0b7a30386b41c7b1047ac883"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-174-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/174-2",
+   "short": "Recomandarea Avocatul Poporului din 2021-01-25",
+   "title": "Rezultatul demersurilor întreprinse de instituția Avocatul Poporului cu privire la elaborarea și implementarea unui program de conștientizare a populației sub aspectul gestionării și colectării medicamentelor expirate și nefolosite",
+   "url": "https://avp.ro/wp-content/uploads/2021/09/rezultat-demersuri-gestionare-si-colectare-medicamente-expirate-si-nefolosite.pdf",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2021/09/rezultat-demersuri-gestionare-si-colectare-medicamente-expirate-si-nefolosite.pdf",
+     "sha256": "0865192c5231059adf8c09441de4c9e59218b0f520d92b0fdfab72feab773bab"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-174-2020",
+   "path": "avocatul-poporului/recomandare/2020/174",
+   "short": "Recomandarea Avocatul Poporului nr. 174/2020",
+   "title": "Către ministrul sănătății",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-174-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-174-2020.pdf",
+     "sha256": "64c232b082ee6f86a5ae1a51862617ecaf9150fe580e292d7905e4fbad8bb02c"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-175-2020",
+   "path": "avocatul-poporului/recomandare/2020/175",
+   "short": "Recomandarea Avocatul Poporului nr. 175/2020",
+   "title": "Către primarul Municipiului Turda",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-175-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-175-2020.pdf",
+     "sha256": "8c6c0ab001e15c9c6927ce67d3bcac89bd6665209ca23a7cc0ba0c0a7d1eb5fe"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-176-2020",
+   "path": "avocatul-poporului/recomandare/2020/176",
+   "short": "Recomandarea Avocatul Poporului nr. 176/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 176 din 2020-10-12",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-176-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-176-2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-177-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/177-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-09-29",
+   "title": "Către directorul Direcției Generale de Asistență Socială și Protecția Copilului Olt",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/recomandare177_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/recomandare177_2020_2.pdf",
+     "sha256": "3988cffd833f6ec921a89d7a728b5ac67eeee2044aaa7f0ae57f6994c2f5edcf"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-177-2020",
+   "path": "avocatul-poporului/recomandare/2020/177",
+   "short": "Recomandarea Avocatul Poporului nr. 177/2020",
+   "title": "Către directorul Direcției Administrație Publică Locală, Juridic, Contencios, Servicii Asistență Socială din cadrul Primăriei Orașului Caracal",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/recomandare177_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/recomandare177_2020_1.pdf",
+     "sha256": "02c2f3f2aceec2e89c57e08386b5e9416948a4c1b302c61028b9fae82588caef"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-178-2020",
+   "path": "avocatul-poporului/recomandare/2020/178",
+   "short": "Recomandarea Avocatul Poporului nr. 178/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 178 din 2020-09-09",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/recomandare178_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-09-09",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/recomandare178_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-179-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/179-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-10-14",
+   "title": "Recomandarea Avocatului Poporului din 2020-10-14",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-ISJ-CT.pdf",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-ISJ-CT.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-179-2020",
+   "path": "avocatul-poporului/recomandare/2020/179",
+   "short": "Recomandarea Avocatul Poporului nr. 179/2020",
+   "title": "Către inspectorul șef al Inspectoratului de Poliție Județean Constanța",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-IPJ-CT.pdf",
+   "versions": [
+    {
+     "from": "2020-10-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-IPJ-CT.pdf",
+     "sha256": "24aaf183214ab89b62a5cbfc1076f57ad44ad1e9db82c0170f2b2919eb0343f3"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-179-3-2020",
+   "path": "avocatul-poporului/recomandare/2020/179-3",
+   "short": "Recomandarea Avocatul Poporului din 2020-10-02",
+   "title": "Recomandarea Avocatului Poporului din 2020-10-02",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-MAI.pdf",
+   "versions": [
+    {
+     "from": "2020-10-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-MAI.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-179-4-2020",
+   "path": "avocatul-poporului/recomandare/2020/179-4",
+   "short": "Recomandarea Avocatul Poporului din 2020-10-07",
+   "title": "Recomandarea Avocatului Poporului din 2020-10-07",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-Scoala-Mihai-Viteazul-CT.pdf",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-Scoala-Mihai-Viteazul-CT.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-179-5-2020",
+   "path": "avocatul-poporului/recomandare/2020/179-5",
+   "short": "Recomandarea Avocatul Poporului din 2020-10-14",
+   "title": "Recomandarea Avocatului Poporului din 2020-10-14",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-consiliul-local-CT.pdf",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-179-2020-consiliul-local-CT.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-18-2020",
+   "path": "avocatul-poporului/recomandare/2020/18",
+   "short": "Recomandarea Avocatul Poporului nr. 18/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 18 din 2020-01-23",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare18_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare18_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-180-2020",
+   "path": "avocatul-poporului/recomandare/2020/180",
+   "short": "Recomandarea Avocatul Poporului nr. 180/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 180 din 2020-09-18",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/recomandare180_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/recomandare180_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-181-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/181-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-10-12",
+   "title": "Către primarul comunei Valea Mare, județul Dâmbovița",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-181-2020-primar-Valea-Mare.pdf",
+   "versions": [
+    {
+     "from": "2020-10-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-181-2020-primar-Valea-Mare.pdf",
+     "sha256": "11a3e48e0cb670a23c245089c762fd40503cb8b6e6776ed94f1c3dc6af3c72f7"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-181-2020",
+   "path": "avocatul-poporului/recomandare/2020/181",
+   "short": "Recomandarea Avocatul Poporului nr. 181/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 181 din 2020-10-12",
+   "url": "https://avp.ro/wp-content/uploads/2020/10/Rec-181-2020-DGASPC-Dambovita.pdf",
+   "versions": [
+    {
+     "from": "2020-10-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/10/Rec-181-2020-DGASPC-Dambovita.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-182-2020",
+   "path": "avocatul-poporului/recomandare/2020/182",
+   "short": "Recomandarea Avocatul Poporului nr. 182/2020",
+   "title": "Către directorul Școlii Gimnaziale nr. 146 „I.G. Duca” București",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandare182_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandare182_2020.pdf",
+     "sha256": "c44c3e18cdf998267b533473de7748c7314042719d7dce84704e1ff748d2a680"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-183-2020",
+   "path": "avocatul-poporului/recomandare/2020/183",
+   "short": "Recomandarea Avocatul Poporului nr. 183/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 183 din 2020-11-02",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-183-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-183-2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-184-2020",
+   "path": "avocatul-poporului/recomandare/2020/184",
+   "short": "Recomandarea Avocatul Poporului nr. 184/2020",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-184-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-184-2020.pdf",
+     "sha256": "e28e317dc8ed30cc2b06933837944dc41bbdc5a118a60e8020d273fd647e56cf"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-185-2020",
+   "path": "avocatul-poporului/recomandare/2020/185",
+   "short": "Recomandarea Avocatul Poporului nr. 185/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 185 din 2020-11-06",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-185-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-185-2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-186-2020",
+   "path": "avocatul-poporului/recomandare/2020/186",
+   "short": "Recomandarea Avocatul Poporului nr. 186/2020",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Neamț",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandare186_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandare186_2020.pdf",
+     "sha256": "588ce015574a97b7eb53f686669d0a154001983acde242a2d250deae513f5931"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-187-2020",
+   "path": "avocatul-poporului/recomandare/2020/187",
+   "short": "Recomandarea Avocatul Poporului nr. 187/2020",
+   "title": "Către primarul comunei Gâdinți, județul Neamț",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandare187_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandare187_2020.pdf",
+     "sha256": "9ea5c274267364cc4f694d7a48dd3c4a619fd604cfe46a788df572d88f6d5877"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-188-2020",
+   "path": "avocatul-poporului/recomandare/2020/188",
+   "short": "Recomandarea Avocatul Poporului nr. 188/2020",
+   "title": "Către primarul orașului Dărmănești, județul Bacău",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandare188_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandare188_2020.pdf",
+     "sha256": "3235020483d8af25d2f23fee0a41a16e85591ba65b7a679d05b36b26674c79df"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-189-2020",
+   "path": "avocatul-poporului/recomandare/2020/189",
+   "short": "Recomandarea Avocatul Poporului nr. 189/2020",
+   "title": "Către președintele Consiliului Județean Constanța",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandare189_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandare189_2020.pdf",
+     "sha256": "9561036a3c6771e3b7a8bf3164aa6c0249a6f44b95bc080b08b28bea650e6f93"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-19-2020",
+   "path": "avocatul-poporului/recomandare/2020/19",
+   "short": "Recomandarea Avocatul Poporului nr. 19/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 19 din 2020-01-23",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare19_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare19_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-190-2020",
+   "path": "avocatul-poporului/recomandare/2020/190",
+   "short": "Recomandarea Avocatul Poporului nr. 190/2020",
+   "title": "Către primarul comunei Topolog, județul Tulcea",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-190-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-190-2020.pdf",
+     "sha256": "d1109c76b13188df551e72eb7355a65f7e378ff85fad0cdc92d46441a5777f49"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-191-2020",
+   "path": "avocatul-poporului/recomandare/2020/191",
+   "short": "Recomandarea Avocatul Poporului nr. 191/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 191 din 2020-11-11",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-191-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-191-2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-192-2020",
+   "path": "avocatul-poporului/recomandare/2020/192",
+   "short": "Recomandarea Avocatul Poporului nr. 192/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 192 din 2020-10-08",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-192-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-192-2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-193-2020",
+   "path": "avocatul-poporului/recomandare/2020/193",
+   "short": "Recomandarea Avocatul Poporului nr. 193/2020",
+   "title": "Către directorul Direcției Generale de Asistență Socială și Protecția Copilului Gorj",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-193-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-193-2020.pdf",
+     "sha256": "c3cbaff20be1dc4304ad94a2c98ca3284969d93dd601458d2587d4d3e0ffdbc9"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-194-2020",
+   "path": "avocatul-poporului/recomandare/2020/194",
+   "short": "Recomandarea Avocatul Poporului nr. 194/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 194 din 2020-11-18",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea194_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea194_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-195-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/195-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-10-30",
+   "title": "Către Directorul General al Direcției Generale de Asistență Socială și Protecția Copilului Neamț",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea195_2.pdf",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea195_2.pdf",
+     "sha256": "e610876cedf38998394471daeceb45b7501d28d53cf4f211e0a1d5f9c9ea0a7e"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-195-2020",
+   "path": "avocatul-poporului/recomandare/2020/195",
+   "short": "Recomandarea Avocatul Poporului nr. 195/2020",
+   "title": "Către Președintele Consiliului Județean Neamț",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea195_1.pdf",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea195_1.pdf",
+     "sha256": "08d27258e9e0dcf10b9e3320370266d8f4b30db8f5398b81063d32503e0f710c"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-196-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/196-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-11-04",
+   "title": "Către Directorul General al Direcției Generale de Asistență Socială și Protecția Copilului Bacău",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea196_2.pdf",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea196_2.pdf",
+     "sha256": "a7be0c86f4ef0a2587c05ab3e4da7f97e99caeff65c4c76c7d51025fbe8967f0"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-196-2020",
+   "path": "avocatul-poporului/recomandare/2020/196",
+   "short": "Recomandarea Avocatul Poporului nr. 196/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 196 din 2020-11-04",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea196_1.pdf",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea196_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-197-2020",
+   "path": "avocatul-poporului/recomandare/2020/197",
+   "short": "Recomandarea Avocatul Poporului nr. 197/2020",
+   "title": "Către Directorul General al Direcției Generale de Asistență Socială și Protecția Copilului Mehedinți",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea197_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea197_2020.pdf",
+     "sha256": "53edbd1c88620a80ed7a8195fbfcf7e29e0c2dedff9d64afa19cc0db3ca36460"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-198-2020",
+   "path": "avocatul-poporului/recomandare/2020/198",
+   "short": "Recomandarea Avocatul Poporului nr. 198/2020",
+   "title": "Către Directorul General al Direcției Generale de Asistență Socială și Protecția Copilului Olt",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea198_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/recomandarea198_2020.pdf",
+     "sha256": "d7074eaf3c1a1ed3d32ff363a319d6a1dc8828040c5f1cac74c2fae528704672"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-199-2020",
+   "path": "avocatul-poporului/recomandare/2020/199",
+   "short": "Recomandarea Avocatul Poporului nr. 199/2020",
+   "title": "Către președintele Autorității Electorale Permanente",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-199-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-199-2020.pdf",
+     "sha256": "0d3817f8f245c834a27fad62fc0a5a304ee623f335404eec03c54bb8f9aab4b3"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/2",
+   "short": "Recomandarea Avocatul Poporului nr. 2/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 2 din 2020-01-08",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare2_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare2_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-20-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/20-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-01-15",
+   "title": "Către directorul Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare20_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare20_2020_2.pdf",
+     "sha256": "a535d0a576ab86a1f28d0f5fe2c724726bcfe0d5bfecf73cba34d2c7b5aab8a3"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-20-2020",
+   "path": "avocatul-poporului/recomandare/2020/20",
+   "short": "Recomandarea Avocatul Poporului nr. 20/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 20 din 2020-01-15",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare20_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare20_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-200-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/200-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-10-13",
+   "title": "Recomandarea Avocatului Poporului din 2020-10-13",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-200-2020-Politia-de-frantiera.pdf",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-200-2020-Politia-de-frantiera.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-200-2020",
+   "path": "avocatul-poporului/recomandare/2020/200",
+   "short": "Recomandarea Avocatul Poporului nr. 200/2020",
+   "title": "Către ministrul afacerilor interne",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-200-2020-MAI.pdf",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-200-2020-MAI.pdf",
+     "sha256": "78ff140fc3445777b854c6db087578a8e5b4f03cf616611b519b15a619df49ac"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-200-3-2020",
+   "path": "avocatul-poporului/recomandare/2020/200-3",
+   "short": "Recomandarea Avocatul Poporului din 2020-10-13",
+   "title": "Către ministrul transporturilor, infrastructurii și comunicațiilor",
+   "url": "https://avp.ro/wp-content/uploads/2020/11/Rec-200-2020-ministrul-transpoturilor.pdf",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/11/Rec-200-2020-ministrul-transpoturilor.pdf",
+     "sha256": "7e2c60359636e6b6db89e8dc01fe149af985b79b0101a35a10db6317458130e3"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-201-2020",
+   "path": "avocatul-poporului/recomandare/2020/201",
+   "short": "Recomandarea Avocatul Poporului nr. 201/2020",
+   "title": "Către directorul executiv al Casei Locale de Pensii Sector 1",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/recomandarea201_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/recomandarea201_2020.pdf",
+     "sha256": "acd4359414fc5ba451fbdedcf951562cfb1593547b0c9cbc0bf02267fe6cd9fa"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-202-2020",
+   "path": "avocatul-poporului/recomandare/2020/202",
+   "short": "Recomandarea Avocatul Poporului nr. 202/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 202 din 2020-11-23",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/recomandarea202_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/recomandarea202_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-203-2020",
+   "path": "avocatul-poporului/recomandare/2020/203",
+   "short": "Recomandarea Avocatul Poporului nr. 203/2020",
+   "title": "Către primarul comunei Ogrezeni, județul Giurgiu",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/recomandarea203_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/recomandarea203_2020.pdf",
+     "sha256": "f1bbaeaa509f892108d4b67ee57a656932c6bc8a82d91b22e41d66bcf4f1599a"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-204-2020",
+   "path": "avocatul-poporului/recomandare/2020/204",
+   "short": "Recomandarea Avocatul Poporului nr. 204/2020",
+   "title": "Către primarul comunei Grebănu, județul Buzău",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-204-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-204-2020.pdf",
+     "sha256": "46073e1716144c88bf27a2312201d2dfcb78fdd838bb7d897610c3f77c5a2aa0"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-205-2020",
+   "path": "avocatul-poporului/recomandare/2020/205",
+   "short": "Recomandarea Avocatul Poporului nr. 205/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 205 din 2020-11-13",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-205-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-205-2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-206-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/206-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-11-03",
+   "title": "Recomandarea Avocatului Poporului din 2020-11-03",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-206-2020-consiliu-local-timisoara.pdf",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-206-2020-consiliu-local-timisoara.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-206-2020",
+   "path": "avocatul-poporului/recomandare/2020/206",
+   "short": "Recomandarea Avocatul Poporului nr. 206/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 206 din 2020-11-03",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-206-2020-Liceul-de-arte-plastice-TM.pdf",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-206-2020-Liceul-de-arte-plastice-TM.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-206-3-2020",
+   "path": "avocatul-poporului/recomandare/2020/206-3",
+   "short": "Recomandarea Avocatul Poporului din 2020-11-03",
+   "title": "Recomandarea Avocatului Poporului din 2020-11-03",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-206-2020-primar-Timisoara.pdf",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-206-2020-primar-Timisoara.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-207-2020",
+   "path": "avocatul-poporului/recomandare/2020/207",
+   "short": "Recomandarea Avocatul Poporului nr. 207/2020",
+   "title": "Către președintele Casei Naționale de Asigurări de Sănătate",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-207-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-207-2020.pdf",
+     "sha256": "983a1bc14641754a4a220f45a099040dc4b3c9384879b6dd30f9d1215603e4ef"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-208-2020",
+   "path": "avocatul-poporului/recomandare/2020/208",
+   "short": "Recomandarea Avocatul Poporului nr. 208/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 208 din 2020-10-23",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-208-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-208-2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-209-2020",
+   "path": "avocatul-poporului/recomandare/2020/209",
+   "short": "Recomandarea Avocatul Poporului nr. 209/2020",
+   "title": "Către primarul comunei Coșbuc, județul Bistrița-Năsăud",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-209-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-16",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-209-2020.pdf",
+     "sha256": "d63cf35e644b236278a9c173864fda7f3ba9f314d8d97ad3619a582191d083db"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-21-2020",
+   "path": "avocatul-poporului/recomandare/2020/21",
+   "short": "Recomandarea Avocatul Poporului nr. 21/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 21 din 2020-01-15",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare21_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare21_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-210-2020",
+   "path": "avocatul-poporului/recomandare/2020/210",
+   "short": "Recomandarea Avocatul Poporului nr. 210/2020",
+   "title": "Către primarul orașului Zărnești, județul Brașov",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-210-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-210-2020.pdf",
+     "sha256": "20e0da968a5f4929d33c60409c0aa4e7fe7ca9d985c8d0fe4ea1a01aea73518a"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-211-2020",
+   "path": "avocatul-poporului/recomandare/2020/211",
+   "short": "Recomandarea Avocatul Poporului nr. 211/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 211 din 2020-11-09",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-211-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-211-2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-212-2020",
+   "path": "avocatul-poporului/recomandare/2020/212",
+   "short": "Recomandarea Avocatul Poporului nr. 212/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 212 din 2020-11-25",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-212-2020-DGASPC-Neamt-2.pdf",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-212-2020-DGASPC-Neamt-2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-213-2020",
+   "path": "avocatul-poporului/recomandare/2020/213",
+   "short": "Recomandarea Avocatul Poporului nr. 213/2020",
+   "title": "Către Ministerul Transporturilor, Infrastructurii și Comunicațiilor",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Rec-213-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Rec-213-2020.pdf",
+     "sha256": "3ebe45c3d4fe7674cd8b3ba666ac78a5c1e3bfc7e4151f173e45163bebf43b11"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-214-2020",
+   "path": "avocatul-poporului/recomandare/2020/214",
+   "short": "Recomandarea Avocatul Poporului nr. 214/2020",
+   "title": "Către Primarul comunei Aghireșu, județul Cluj",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Recomandarea-214.pdf",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Recomandarea-214.pdf",
+     "sha256": "b1e7e0fc3f7d551521d78e4b1f5d8322fa3ea370ba06a33321c02bce0790a59f"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-215-2020",
+   "path": "avocatul-poporului/recomandare/2020/215",
+   "short": "Recomandarea Avocatul Poporului nr. 215/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 215 din 2020-12-24",
+   "url": "https://avp.ro/wp-content/uploads/2020/12/Recomandarea-215.pdf",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/12/Recomandarea-215.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-22-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/22-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-01-29",
+   "title": "Recomandarea Avocatului Poporului din 2020-01-29",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare22_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare22_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-22-2020",
+   "path": "avocatul-poporului/recomandare/2020/22",
+   "short": "Recomandarea Avocatul Poporului nr. 22/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 22 din 2020-01-29",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare22_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare22_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-23-2020",
+   "path": "avocatul-poporului/recomandare/2020/23",
+   "short": "Recomandarea Avocatul Poporului nr. 23/2020",
+   "title": "Către directorul Regionalei de Căi Ferate Timișoara",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare23_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare23_2020.pdf",
+     "sha256": "39a9b743d7d0b07c2ba0791d1bb828a0c29f0ed31e396cb92a5119f9d6e33cf5"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-24-2020",
+   "path": "avocatul-poporului/recomandare/2020/24",
+   "short": "Recomandarea Avocatul Poporului nr. 24/2020",
+   "title": "Către directorul Penitenciarului Miercurea Ciuc",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare24_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare24_2020.pdf",
+     "sha256": "f58b23a68b5617c0b692daa1b6d0456db7c7c99d0cbb2d1806c732f6e3d9901e"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-25-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/25-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-01-23",
+   "title": "Către directorul Penitenciarului București-Jilava",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare25_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare25_2020_2.pdf",
+     "sha256": "ff241d915a31806ae8c716ca4617f4164ba401ed4b5bc0ba46b5945af0073977"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-25-2020",
+   "path": "avocatul-poporului/recomandare/2020/25",
+   "short": "Recomandarea Avocatul Poporului nr. 25/2020",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare25_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare25_2020_1.pdf",
+     "sha256": "91d10f1a134f187f978f9e4fbfe23c77c30e6f503ffec87f8ea9f8a16e331f7b"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-26-2020",
+   "path": "avocatul-poporului/recomandare/2020/26",
+   "short": "Recomandarea Avocatul Poporului nr. 26/2020",
+   "title": "Către primarul comunei Pecineaga, județul Constanța",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare26_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare26_2020.pdf",
+     "sha256": "df115ef5b57e904784dc713a6993b818ef63889ee1c45803b3f86029ed76f009"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-27-2020",
+   "path": "avocatul-poporului/recomandare/2020/27",
+   "short": "Recomandarea Avocatul Poporului nr. 27/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 27 din 2020-01-13",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare27_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare27_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-28-2020",
+   "path": "avocatul-poporului/recomandare/2020/28",
+   "short": "Recomandarea Avocatul Poporului nr. 28/2020",
+   "title": "Către primarul comunei Țigănești, județul Teleorman",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare28_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare28_2020.pdf",
+     "sha256": "d6708839630575d8a5e063bc27c2e99219a02a4156c81298d35d9715c1d433d9"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-29-2020",
+   "path": "avocatul-poporului/recomandare/2020/29",
+   "short": "Recomandarea Avocatul Poporului nr. 29/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 29 din 2020-01-22",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare29_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare29_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-3-2020",
+   "path": "avocatul-poporului/recomandare/2020/3",
+   "short": "Recomandarea Avocatul Poporului nr. 3/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 3 din 2020-01-08",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare3_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare3_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-30-2020",
+   "path": "avocatul-poporului/recomandare/2020/30",
+   "short": "Recomandarea Avocatul Poporului nr. 30/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 30 din 2020-08-31",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare30_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare30_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-31-2020",
+   "path": "avocatul-poporului/recomandare/2020/31",
+   "short": "Recomandarea Avocatul Poporului nr. 31/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 31 din 2020-02-03",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare31_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare31_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-32-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/32-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-01-23",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare32_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare32_2020_2.pdf",
+     "sha256": "485651b7215fee925af13aab0c432b8fd9871c9918d8790715188968554beaaf"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-32-2020",
+   "path": "avocatul-poporului/recomandare/2020/32",
+   "short": "Recomandarea Avocatul Poporului nr. 32/2020",
+   "title": "Către directorul Penitenciarului Botoșani",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare32_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare32_2020_1.pdf",
+     "sha256": "8267741caf39dfbc50d6e8c6f42b90c0ba0a8a556fec960965b87ecb8a817910"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-33-2020",
+   "path": "avocatul-poporului/recomandare/2020/33",
+   "short": "Recomandarea Avocatul Poporului nr. 33/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 33 din 2020-02-03",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare33_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare33_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-34-2020",
+   "path": "avocatul-poporului/recomandare/2020/34",
+   "short": "Recomandarea Avocatul Poporului nr. 34/2020",
+   "title": "Către ministrul mediului, apelor și pădurilor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare34_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare34_2020.pdf",
+     "sha256": "005800552d22cf81d7a1648600f0aee425aecec79140da9c498cddb71f6f58e8"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-35-2020",
+   "path": "avocatul-poporului/recomandare/2020/35",
+   "short": "Recomandarea Avocatul Poporului nr. 35/2020",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare35_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare35_2020.pdf",
+     "sha256": "6af3958c998d745bbbc530112fe64b2e3e1f672b262b7b881181eb5a85695ce5"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-36-2020",
+   "path": "avocatul-poporului/recomandare/2020/36",
+   "short": "Recomandarea Avocatul Poporului nr. 36/2020",
+   "title": "Către ministrul sănătății",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare36_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare36_2020.pdf",
+     "sha256": "43b9fe03e6393e0c0c278336269025edf7dcea8ff557fd032d117f3996914d0f"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-37-2020",
+   "path": "avocatul-poporului/recomandare/2020/37",
+   "short": "Recomandarea Avocatul Poporului nr. 37/2020",
+   "title": "Către managerul Spitalului Județean de Urgență Pitești",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare37_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare37_2020.pdf",
+     "sha256": "95da6abedd16464e31697529b3e5249322d536c5715d94460b50bf64c2b274bd"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-38-2020",
+   "path": "avocatul-poporului/recomandare/2020/38",
+   "short": "Recomandarea Avocatul Poporului nr. 38/2020",
+   "title": "Către directorul Penitenciarului Timișoara",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare38_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare38_2020.pdf",
+     "sha256": "f53e88a31adbbc1d37f82fe1bc7c2a9424271f27aea7be298eac681795f53a61"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-39-2020",
+   "path": "avocatul-poporului/recomandare/2020/39",
+   "short": "Recomandarea Avocatul Poporului nr. 39/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 39 din 2020-02-11",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare39_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare39_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-4-2020",
+   "path": "avocatul-poporului/recomandare/2020/4",
+   "short": "Recomandarea Avocatul Poporului nr. 4/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 4 din 2020-01-06",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare4_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-06",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare4_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-40-2020",
+   "path": "avocatul-poporului/recomandare/2020/40",
+   "short": "Recomandarea Avocatul Poporului nr. 40/2020",
+   "title": "Către directorul Administrației Bazinale de Apă Mureș",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare40_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare40_2020.pdf",
+     "sha256": "ba9f24143e6dd1bb2d7851c77834377182fd816c4b6efd27afb08a93e5c881e1"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-41-2020",
+   "path": "avocatul-poporului/recomandare/2020/41",
+   "short": "Recomandarea Avocatul Poporului nr. 41/2020",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare41_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare41_2020.pdf",
+     "sha256": "163547afe1b40e9de0c701ff74f2a17b62d135a0b0d97e2258b5f07c5b5df3ee"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-42-2020",
+   "path": "avocatul-poporului/recomandare/2020/42",
+   "short": "Recomandarea Avocatul Poporului nr. 42/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 42 din 2020-02-07",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare42_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare42_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-43-2020",
+   "path": "avocatul-poporului/recomandare/2020/43",
+   "short": "Recomandarea Avocatul Poporului nr. 43/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 43 din 2020-02-11",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare43_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare43_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-44-2020",
+   "path": "avocatul-poporului/recomandare/2020/44",
+   "short": "Recomandarea Avocatul Poporului nr. 44/2020",
+   "title": "Către primarul Municipiului Lugoj, județul Timiș",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare44_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare44_2020.pdf",
+     "sha256": "d616f2476a68b6d5994bb8d0df10e2dd7889c8f6edb201cb358a88fe06c321d7"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-45-2020",
+   "path": "avocatul-poporului/recomandare/2020/45",
+   "short": "Recomandarea Avocatul Poporului nr. 45/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 45 din 2020-02-15",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare45_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare45_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-46-2020",
+   "path": "avocatul-poporului/recomandare/2020/46",
+   "short": "Recomandarea Avocatul Poporului nr. 46/2020",
+   "title": "Către directorul general al Direcției de Asistență Socială Brașov",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare46_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare46_2020.pdf",
+     "sha256": "8e902e1f8f362b0bc61dc625227294ded99be748c28532f5791f91d9523852ee"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-47-2020",
+   "path": "avocatul-poporului/recomandare/2020/47",
+   "short": "Recomandarea Avocatul Poporului nr. 47/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 47 din 2020-02-12",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare47_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare47_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-48-2020",
+   "path": "avocatul-poporului/recomandare/2020/48",
+   "short": "Recomandarea Avocatul Poporului nr. 48/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 48 din 2020-02-14",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare48_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare48_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-49-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/49-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-02-18",
+   "title": "Recomandarea Avocatului Poporului din 2020-02-18",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare49_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare49_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-49-2020",
+   "path": "avocatul-poporului/recomandare/2020/49",
+   "short": "Recomandarea Avocatul Poporului nr. 49/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 49 din 2020-02-18",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare49_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare49_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-5-2020",
+   "path": "avocatul-poporului/recomandare/2020/5",
+   "short": "Recomandarea Avocatul Poporului nr. 5/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 5 din 2020-01-14",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare5_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare5_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-50-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/50-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-01-28",
+   "title": "Recomandarea Avocatului Poporului din 2020-01-28",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare50_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare50_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-50-2020",
+   "path": "avocatul-poporului/recomandare/2020/50",
+   "short": "Recomandarea Avocatul Poporului nr. 50/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 50 din 2020-01-28",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare50_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare50_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-51-2020",
+   "path": "avocatul-poporului/recomandare/2020/51",
+   "short": "Recomandarea Avocatul Poporului nr. 51/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 51 din 2020-02-13",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare51_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare51_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-52-2020",
+   "path": "avocatul-poporului/recomandare/2020/52",
+   "short": "Recomandarea Avocatul Poporului nr. 52/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 52 din 2020-02-17",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare52_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare52_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-53-2020",
+   "path": "avocatul-poporului/recomandare/2020/53",
+   "short": "Recomandarea Avocatul Poporului nr. 53/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 53 din 2020-02-18",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare53_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare53_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-54-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/54-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-03-20",
+   "title": "Către Ministrul Justiției",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare54_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare54_2020_2.pdf",
+     "sha256": "5be5f135d167f74171c029f2ee078baffb72988e455f8240762cf1c704edf3ec"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-54-2020",
+   "path": "avocatul-poporului/recomandare/2020/54",
+   "short": "Recomandarea Avocatul Poporului nr. 54/2020",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare54_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare54_2020.pdf",
+     "sha256": "2b06df8447c71122ad4f41b6bf3e08b00f095ae088d72ab400a1865b494fa3f6"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-55-2020",
+   "path": "avocatul-poporului/recomandare/2020/55",
+   "short": "Recomandarea Avocatul Poporului nr. 55/2020",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare55_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare55_2020.pdf",
+     "sha256": "9a52ca542a6dea27cc7efa4e1fd195db435e00faf85155784fea8e69f5e36e86"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-56-2020",
+   "path": "avocatul-poporului/recomandare/2020/56",
+   "short": "Recomandarea Avocatul Poporului nr. 56/2020",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare56_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare56_2020.pdf",
+     "sha256": "c502b39532e895697be97a6f21ac339ef5b7595cdb5c36b5415957bf066c3b5a"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-57-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/57-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-03-06",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Sector 2, București",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare57_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare57_2020_2.pdf",
+     "sha256": "dcda22584d6828ca92c049ad4154e01c3b000a6111517b7e1ed73041053cf920"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-57-2020",
+   "path": "avocatul-poporului/recomandare/2020/57",
+   "short": "Recomandarea Avocatul Poporului nr. 57/2020",
+   "title": "Către directorul Centrului Regional de Cazare și Proceduri pentru Solicitanți de Azil București",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare57_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare57_2020_1.pdf",
+     "sha256": "46b4695bcce68ad01080db59ef3144fe1d0c2d86aceaa7b212c4ac17b325a9c5"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-58-2020",
+   "path": "avocatul-poporului/recomandare/2020/58",
+   "short": "Recomandarea Avocatul Poporului nr. 58/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 58 din 2020-02-12",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare58_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare58_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-59-2020",
+   "path": "avocatul-poporului/recomandare/2020/59",
+   "short": "Recomandarea Avocatul Poporului nr. 59/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 59 din 2020-02-25",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare59_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare59_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-6-2020",
+   "path": "avocatul-poporului/recomandare/2020/6",
+   "short": "Recomandarea Avocatul Poporului nr. 6/2020",
+   "title": "Către ministrul sănătății",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare6_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare6_2020.pdf",
+     "sha256": "4e6095527b6206b51e0307b584cb0d68c35745ae176f8217d34f13adb5e02b1c"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-60-2020",
+   "path": "avocatul-poporului/recomandare/2020/60",
+   "short": "Recomandarea Avocatul Poporului nr. 60/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 60 din 2020-02-20",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare60_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare60_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-61-2020",
+   "path": "avocatul-poporului/recomandare/2020/61",
+   "short": "Recomandarea Avocatul Poporului nr. 61/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 61 din 2020-02-14",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare61_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare61_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-62-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/62-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-02-20",
+   "title": "Recomandarea Avocatului Poporului din 2020-02-20",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare62_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare62_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-62-2020",
+   "path": "avocatul-poporului/recomandare/2020/62",
+   "short": "Recomandarea Avocatul Poporului nr. 62/2020",
+   "title": "Către directorul Centrului Școlar de Educație Incluzivă „Sfânta Filofteia”, orașul Ștefănești, județul Argeș",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare62_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare62_2020_1.pdf",
+     "sha256": "9f2ee62bd1bd71f3b83008b53a03067986465307999c6631c8864e5aba19704e"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-63-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/63-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-03-07",
+   "title": "Recomandarea Avocatului Poporului din 2020-03-07",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare63_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-03-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare63_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-63-2020",
+   "path": "avocatul-poporului/recomandare/2020/63",
+   "short": "Recomandarea Avocatul Poporului nr. 63/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 63 din 2020-03-04",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare63_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare63_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-63-3-2020",
+   "path": "avocatul-poporului/recomandare/2020/63-3",
+   "short": "Recomandarea Avocatul Poporului din 2020-03-04",
+   "title": "Către directorul Penitenciarului Slobozia",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare63_2020_3.pdf",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare63_2020_3.pdf",
+     "sha256": "52468096861ece1748a2ad83b78af5fedf83f70c285dd0a4e60cb8e62f96e3ac"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-64-2020",
+   "path": "avocatul-poporului/recomandare/2020/64",
+   "short": "Recomandarea Avocatul Poporului nr. 64/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 64 din 2020-03-02",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare64_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare64_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-65-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/65-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-03-03",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Sector 2, București",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare65_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare65_2020_2.pdf",
+     "sha256": "24627084d94a87c26e215f4b7032b24a071a1f410cf02dd3bf2b3f75ca9aba18"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-65-2020",
+   "path": "avocatul-poporului/recomandare/2020/65",
+   "short": "Recomandarea Avocatul Poporului nr. 65/2020",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Olt",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare65_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare65_2020_1.pdf",
+     "sha256": "d88a492ce54457bca08004f990f49fffde7374475fa9abdeb57527d9a8b04920"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-66-2020",
+   "path": "avocatul-poporului/recomandare/2020/66",
+   "short": "Recomandarea Avocatul Poporului nr. 66/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 66 din 2020-02-26",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare66_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare66_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-67-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/67-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-03-04",
+   "title": "Recomandarea Avocatului Poporului din 2020-03-04",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare67_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare67_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-67-2020",
+   "path": "avocatul-poporului/recomandare/2020/67",
+   "short": "Recomandarea Avocatul Poporului nr. 67/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 67 din 2020-03-04",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare67_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare67_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-68-2020",
+   "path": "avocatul-poporului/recomandare/2020/68",
+   "short": "Recomandarea Avocatul Poporului nr. 68/2020",
+   "title": "Către primarul comunei Vărgata, județul Mureș",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare68_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare68_2020.pdf",
+     "sha256": "0fd685f56168ee7ec55127a4cc0c09671c30a05ca29102064074426534885a9c"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-69-2020",
+   "path": "avocatul-poporului/recomandare/2020/69",
+   "short": "Recomandarea Avocatul Poporului nr. 69/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 69 din 2020-02-27",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare69_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare69_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-7-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/7-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-01-17",
+   "title": "Recomandarea Avocatului Poporului din 2020-01-17",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare7_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare7_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-7-2020",
+   "path": "avocatul-poporului/recomandare/2020/7",
+   "short": "Recomandarea Avocatul Poporului nr. 7/2020",
+   "title": "Către primarul comunei Cornățelu, județul Dâmbovița",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare7_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare7_2020.pdf",
+     "sha256": "09199338b9921144cfa6a885539ec1ee0ed28a2622e763ac9afcab4fdbfeb2e5"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-70-2020",
+   "path": "avocatul-poporului/recomandare/2020/70",
+   "short": "Recomandarea Avocatul Poporului nr. 70/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 70 din 2020-01-13",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare70_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare70_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-71-2020",
+   "path": "avocatul-poporului/recomandare/2020/71",
+   "short": "Recomandarea Avocatul Poporului nr. 71/2020",
+   "title": "Către directorul general al Administraţiei Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare71_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare71_2020.pdf",
+     "sha256": "4c00177c43c17f22cca71d2a7b341ab19323c5178c3d5d37b4b22417649f4bb7"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-72-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/72-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-03-06",
+   "title": "Recomandarea Avocatului Poporului din 2020-03-06",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare72_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare72_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-72-2020",
+   "path": "avocatul-poporului/recomandare/2020/72",
+   "short": "Recomandarea Avocatul Poporului nr. 72/2020",
+   "title": "Către primarul orașului Luduș, județul Mureș",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare72_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare72_2020_1.pdf",
+     "sha256": "5b96beb9a08911aa78fdc040d394377e6453c34c9c8314ba1154ca2f4307c1e2"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-73-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/73-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-03-10",
+   "title": "Recomandarea Avocatului Poporului din 2020-03-10",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare73_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare73_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-73-2020",
+   "path": "avocatul-poporului/recomandare/2020/73",
+   "short": "Recomandarea Avocatul Poporului nr. 73/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 73 din 2020-02-17",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare73_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare73_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-74-2020",
+   "path": "avocatul-poporului/recomandare/2020/74",
+   "short": "Recomandarea Avocatul Poporului nr. 74/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 74 din 2020-03-04",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare74_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare74_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-75-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/75-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-08-30",
+   "title": "Către inspectorul general școlar al Inspectoratului Județean Școlar Vâlcea",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare75_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-08-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare75_2020_2.pdf",
+     "sha256": "0329c943bfcc49be8a2f268b1d561c75354f920106ba1226ad001ac36d0da5d1"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-75-2020",
+   "path": "avocatul-poporului/recomandare/2020/75",
+   "short": "Recomandarea Avocatul Poporului nr. 75/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 75 din 2020-08-30",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare75_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-08-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare75_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-75-3-2020",
+   "path": "avocatul-poporului/recomandare/2020/75-3",
+   "short": "Recomandarea Avocatul Poporului din 2020-08-30",
+   "title": "Către prefectul județului Argeș",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare75_2020_3.pdf",
+   "versions": [
+    {
+     "from": "2020-08-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare75_2020_3.pdf",
+     "sha256": "a746a4cb88b1d170b1dea0f94a1989ae7a7ad2539adcf0f4f595e2da37b8b166"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-75-4-2020",
+   "path": "avocatul-poporului/recomandare/2020/75-4",
+   "short": "Recomandarea Avocatul Poporului din 2020-08-30",
+   "title": "Recomandarea Avocatului Poporului din 2020-08-30",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare75_2020_4.pdf",
+   "versions": [
+    {
+     "from": "2020-08-30",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare75_2020_4.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-76-2020",
+   "path": "avocatul-poporului/recomandare/2020/76",
+   "short": "Recomandarea Avocatul Poporului nr. 76/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 76 din 2020-02-26",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare76_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare76_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-77-2020",
+   "path": "avocatul-poporului/recomandare/2020/77",
+   "short": "Recomandarea Avocatul Poporului nr. 77/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 77 din 2020-03-12",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare77_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare77_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-78-2020",
+   "path": "avocatul-poporului/recomandare/2020/78",
+   "short": "Recomandarea Avocatul Poporului nr. 78/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 78 din 2020-03-12",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare78_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare78_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-79-2020",
+   "path": "avocatul-poporului/recomandare/2020/79",
+   "short": "Recomandarea Avocatul Poporului nr. 79/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 79 din 2020-03-05",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare79_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare79_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-8-2020",
+   "path": "avocatul-poporului/recomandare/2020/8",
+   "short": "Recomandarea Avocatul Poporului nr. 8/2020",
+   "title": "Către primarul Orașului Râșnov, județul Brașov",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare8_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare8_2020.pdf",
+     "sha256": "343e2390fad233bf4dcf635fe1662285e5e18eaf65cc285d5a112d5fbcec4223"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-80-2020",
+   "path": "avocatul-poporului/recomandare/2020/80",
+   "short": "Recomandarea Avocatul Poporului nr. 80/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 80 din 2020-01-23",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare80_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare80_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-81-2020",
+   "path": "avocatul-poporului/recomandare/2020/81",
+   "short": "Recomandarea Avocatul Poporului nr. 81/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 81 din 2020-03-12",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare81_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare81_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-82-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/82-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-03-17",
+   "title": "Recomandarea Avocatului Poporului din 2020-03-17",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare82_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare82_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-82-2020",
+   "path": "avocatul-poporului/recomandare/2020/82",
+   "short": "Recomandarea Avocatul Poporului nr. 82/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 82 din 2020-03-17",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare82_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare82_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-83-2-2020",
+   "path": "avocatul-poporului/recomandare/2020/83-2",
+   "short": "Recomandarea Avocatul Poporului din 2020-08-15",
+   "title": "Recomandarea Avocatului Poporului din 2020-08-15",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare83_2020_2.pdf",
+   "versions": [
+    {
+     "from": "2020-08-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare83_2020_2.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-83-2020",
+   "path": "avocatul-poporului/recomandare/2020/83",
+   "short": "Recomandarea Avocatul Poporului nr. 83/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 83 din 2020-08-15",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare83_2020_1.pdf",
+   "versions": [
+    {
+     "from": "2020-08-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare83_2020_1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-84-2020",
+   "path": "avocatul-poporului/recomandare/2020/84",
+   "short": "Recomandarea Avocatul Poporului nr. 84/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 84 din 2020-03-23",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare84_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare84_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-85-2020",
+   "path": "avocatul-poporului/recomandare/2020/85",
+   "short": "Recomandarea Avocatul Poporului nr. 85/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 85 din 2020-03-05",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare85_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare85_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-86-2020",
+   "path": "avocatul-poporului/recomandare/2020/86",
+   "short": "Recomandarea Avocatul Poporului nr. 86/2020",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Satu Mare",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare86_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare86_2020.pdf",
+     "sha256": "eacd5a22497f7a52a85f9d8bfa3cf1b9f9fc1e3625b8d0851776919e53cddb90"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-87-2020",
+   "path": "avocatul-poporului/recomandare/2020/87",
+   "short": "Recomandarea Avocatul Poporului nr. 87/2020",
+   "title": "Către primarul comunei Horodnic de Sus, județul Suceava",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare87_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare87_2020.pdf",
+     "sha256": "ab691c1dde71b6c5cd4e03ce2b1f221d518dfb8c7de8d4d9d7633c847066184f"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-88-2020",
+   "path": "avocatul-poporului/recomandare/2020/88",
+   "short": "Recomandarea Avocatul Poporului nr. 88/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 88 din 2020-03-20",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare88_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare88_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-89-2020",
+   "path": "avocatul-poporului/recomandare/2020/89",
+   "short": "Recomandarea Avocatul Poporului nr. 89/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 89 din 2020-04-03",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare89_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-04-03",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare89_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-9-2020",
+   "path": "avocatul-poporului/recomandare/2020/9",
+   "short": "Recomandarea Avocatul Poporului nr. 9/2020",
+   "title": "Către directorul executiv al Casei Județene de Pensii Gorj",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare9_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-20",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare9_2020.pdf",
+     "sha256": "5049a2f5408db083a6df557bc6a832dda535d7b48c30d06415bdbe51e97007ca"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-90-2020",
+   "path": "avocatul-poporului/recomandare/2020/90",
+   "short": "Recomandarea Avocatul Poporului nr. 90/2020",
+   "title": "Către directorul Liceului Tehnologic de transporturi Auto Târgoviște",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare90_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-16",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare90_2020.pdf",
+     "sha256": "d9f7af537799d8c6d5edf73e6fa60314a9ae529ebf8a91d906f511406da79bfe"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-91-2020",
+   "path": "avocatul-poporului/recomandare/2020/91",
+   "short": "Recomandarea Avocatul Poporului nr. 91/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 91 din 2020-04-05",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare91_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-04-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare91_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-92-2020",
+   "path": "avocatul-poporului/recomandare/2020/92",
+   "short": "Recomandarea Avocatul Poporului nr. 92/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 92 din 2020-02-18",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare92_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare92_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-93-2020",
+   "path": "avocatul-poporului/recomandare/2020/93",
+   "short": "Recomandarea Avocatul Poporului nr. 93/2020",
+   "title": "Către directorul Școlii Generale „Nichita Stănescu” comuna Ceptura, județul Prahova",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare93_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare93_2020.pdf",
+     "sha256": "91b36221c83e712a32ae6941d061489da866daea4e2bd13968d7f10a0bd5f01c"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-94-2020",
+   "path": "avocatul-poporului/recomandare/2020/94",
+   "short": "Recomandarea Avocatul Poporului nr. 94/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 94 din 2020-03-31",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare94_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare94_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-95-2020",
+   "path": "avocatul-poporului/recomandare/2020/95",
+   "short": "Recomandarea Avocatul Poporului nr. 95/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 95 din 2020-04-15",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare95_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare95_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-96-2020",
+   "path": "avocatul-poporului/recomandare/2020/96",
+   "short": "Recomandarea Avocatul Poporului nr. 96/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 96 din 2020-04-15",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare96_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare96_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-97-2020",
+   "path": "avocatul-poporului/recomandare/2020/97",
+   "short": "Recomandarea Avocatul Poporului nr. 97/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 97 din 2020-04-15",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare97_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare97_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-98-2020",
+   "path": "avocatul-poporului/recomandare/2020/98",
+   "short": "Recomandarea Avocatul Poporului nr. 98/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 98 din 2020-02-05",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare98_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare98_2020.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-99-2020",
+   "path": "avocatul-poporului/recomandare/2020/99",
+   "short": "Recomandarea Avocatul Poporului nr. 99/2020",
+   "title": "Recomandarea Avocatului Poporului nr. 99 din 2020-01-13",
+   "url": "https://avp.ro/wp-content/uploads/2020/08/recomandare99_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2020/08/recomandare99_2020.pdf",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

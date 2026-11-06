@@ -96,6 +96,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/132552",
 "issuer": "ancom",
 "joint": []
+},
+{
+"slug": "decizie-ancom-1813-2011",
+"path": "decizie/ancom/2011/1813",
+"kind": "decizie",
+"year": "2011",
+"number": "1813",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 1.813/2011 privind modificarea Deciziei președintelui Inspectoratului General pentru Comunicații și Tehnologia Informației nr. 686/2005 pentru aprobarea Procedurii de tarifare și a Listei cuprinzând tarifele de utilizare a spectrului radio, datorate anual către Inspectoratul General pentru Comunicații și Tehnologia Informației",
+"short": "Decizia ancom nr. 1813/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-12-29",
+"latest": "2011-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/134182",
+"issuer": "ancom",
+"joint": []
+},
+{
+"slug": "decizie-ancom-1816-2011",
+"path": "decizie/ancom/2011/1816",
+"kind": "decizie",
+"year": "2011",
+"number": "1816",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 1.816/2011 privind acordarea drepturilor de utilizare a frecvențelor radio în benzile de frecvențe 880-915 MHz/925-960 MHz, respectiv 1710-1747,5 MHz/1805-1842,5 MHz",
+"short": "Decizia ancom nr. 1816/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-12-28",
+"latest": "2011-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/134119",
+"issuer": "ancom",
+"joint": []
 }
 ]
 }

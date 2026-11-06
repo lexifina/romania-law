@@ -393,6 +393,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1005-2012",
+   "path": "ue/regulament/2012/1005",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1005/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1005/2012 al Comisiei din 25 octombrie 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Papas Antiguas de Canarias (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1005",
+   "versions": [
+    {
+     "from": "2012-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cb14d5f2-2760-11e2-9209-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "19bba473b3bc4cac1df86f2a8726e46d8ad69c8d76c602ed3a76a7cdecf0f95b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-101-2012",
    "path": "ue/regulament/2012/101",
    "short": "Regulamentul (UE) nr. 101/2012",
@@ -434,6 +449,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/53b804cf-28d5-11e2-9209-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "d7220c40e8b8199cd7350574ade4fb1776622005e24dcd3828a6ba06364252eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1022-2012",
+   "path": "ue/regulament/2012/1022",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1022/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1022/2012 al Comisiei din 6 noiembrie 2012 de modificare a Regulamentului de punere în aplicare (UE) nr. 700/2012 privind operarea de deduceri din cotele de pescuit disponibile pentru anumite stocuri în 2012 din cauza depășirii cotelor de pescuit din anii precedenți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1022",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ecfb4f9-28d6-11e2-9209-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "e9e927c2dba6d7f92c348afc1be1782bbec6cd6de4d1fb95b5f2d28e2d5e72c8"
     }
    ]
   },
@@ -494,6 +524,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c1ad51e2-2e32-11e2-ad46-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "846d267a6bf0a913b3717c900a4f61ba2b63f80aee43b6228341e5d48bf02e50"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1034-2012",
+   "path": "ue/regulament/2012/1034",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1034/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1034/2012 al Comisiei din 26 octombrie 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Cordeiro Mirandês/Canhono Mirandês (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1034",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a907d0d-29a2-11e2-9209-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "9b0d00ee4c9ce19f9bea2009c5f90ebf5516c0069cf1177319242b290d540596"
     }
    ]
   },
@@ -573,6 +618,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-105-2012",
+   "path": "ue/regulament/2012/105",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 105/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 105/2012 al Comisiei din 7 februarie 2012 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0105",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a3a6f972-4d5d-454d-b10b-453cea9616dd.0004.02/DOC_1",
+     "sha256": "cc5d543f7f5c1e4346feefc2440357c4ddcd9b8ba2a49e703484701957e6275c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1050-2012",
    "path": "ue/regulament/2012/1050",
    "short": "Regulamentul (UE) nr. 1050/2012",
@@ -648,6 +708,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1065-2012",
+   "path": "ue/regulament/2012/1065",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1065/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1065/2012 al Comisiei din 13 noiembrie 2012 privind autorizarea preparatelor pe bază de Lactobacillus plantarum (DSM 23375, CNCM I-3235, DSM 19457, DSM 16565, DSM 16568, LMG 21295, CNCM MA 18/5U, NCIMB 30094, VTT E-78076, ATCC PTSA-6139, DSM 18112, DSM 18113, DSM 18114, ATCC 55943 și ATCC 55944) ca aditivi furajeri pentru hrana tuturor speciilor de animale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1065",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/98303851-62b7-4bed-a9bf-e09400c44cc0.0002.03/DOC_1",
+     "sha256": "cb4cde737b7b9547cdb9da9cd5296797e6d918f8841a64eaac607d14a1d46746"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1067-2012",
    "path": "ue/regulament/2012/1067",
    "short": "Regulamentul (UE) nr. 1067/2012",
@@ -659,6 +734,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7612fa53-2f15-11e2-9b72-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "d2300e6e977707b149b976d581ac17cf849ab565ac23caa09d1365ae063794dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-107-2012",
+   "path": "ue/regulament/2012/107",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 107/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 107/2012 al Comisiei din 8 februarie 2012 de modificare a anexei la Regulamentul (UE) nr. 37/2010 privind substanțele active din punct de vedere farmacologic și clasificarea lor în funcție de limitele reziduale maxime din produsele alimentare de origine animală, în ceea ce privește substanța octenidină diclorhidrat Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0107",
+   "versions": [
+    {
+     "from": "2012-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8c819641-4c11-4884-b65c-7423d7cb33ac.0008.03/DOC_1",
+     "sha256": "cd3a9142610afa8602a01cafc526edffea0be918b36442cdc3b45e91bda5be93"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1076-2012",
+   "path": "ue/regulament/2012/1076",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1076/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1076/2012 al Comisiei din 14 noiembrie 2012 de aprobare a unor modificări care nu sunt minore ale caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Carne Marinhoa (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1076",
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/460dc293-33b5-11e2-84d0-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "2d38a53c9f28632a5559085435bb665ed1247e93b954cec932e27dfd3d15f614"
     }
    ]
   },
@@ -738,6 +843,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1127-2012",
+   "path": "ue/regulament/2012/1127",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1127/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1127/2012 al Comisiei din 26 noiembrie 2012 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1127",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c9701e02-3d42-11e2-b7ce-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "a8ee2870c085e5b383d0d6cfbdac1a7e0ff1fb8f652ced7977d019c2391776a6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-114-2012",
    "path": "ue/regulament/2012/114",
    "short": "Regulamentul (UE) nr. 114/2012",
@@ -813,6 +933,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1163-2012",
+   "path": "ue/regulament/2012/1163",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1163/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1163/2012 al Comisiei din 7 decembrie 2012 de stabilire a normelor privind gestionarea și distribuția de contingente pentru produse textile stabilite pentru anul 2013, în conformitate cu Regulamentul (CE) nr. 517/94 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1163",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b1c1e388-4373-11e2-9b3b-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "6dc1980538aeb896e5a9c421a3d150add5b82555438b13d9542914f76cbb7914"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1166-2012",
    "path": "ue/regulament/2012/1166",
    "short": "Regulamentul (UE) nr. 1166/2012",
@@ -884,6 +1019,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5af531f0-493c-11e2-8762-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "edc8d89b0b0e3faf30ef1e0baab855cfc618be7851335716b04600c94e0cfaed"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1197-2012",
+   "path": "ue/regulament/2012/1197",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1197/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1197/2012 al Comisiei din 13 decembrie 2012 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de autorizare a substanțelor active acetamiprid, alfa-cipermetrin, Ampelomyces quisqualis tulpina: AQ 10, benalaxil, bifezanat, bromoxinil, clorprofam, desmedifam, etoxazol, Gliocladium catenulatum tulpina: J1446, imazosulfuron, laminarină, mepanipirim, metoxifenozidă, milbemectină, fenmedifam, Pseudomonas chlororaphis tulpina: MA 342, quinoxifen, S-metolaclor, tepraloxidim, tiacloprid, tiram și ziram Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1197",
+   "versions": [
+    {
+     "from": "2012-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a1961ddd-4398-454d-9dab-796aac17595c.0012.03/DOC_1",
+     "sha256": "be0ac14533274853e667c66d5dd5498a550f2138963be66502f8d51aea3d9823"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1204-2012",
+   "path": "ue/regulament/2012/1204",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1204/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1204/2012 al Comisiei din 14 decembrie 2012 de aprobare a unor modificări la caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Castelmagno (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1204",
+   "versions": [
+    {
+     "from": "2013-01-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8950b3f7-4943-11e2-8762-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "578cb1f4b3a12650cf7cc0ce743d148d887cdf1d3a665c4bb604771f5b8f1d55"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1205-2012",
+   "path": "ue/regulament/2012/1205",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1205/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1205/2012 al Comisiei din 14 decembrie 2012 de modificare a Regulamentului (UE) nr. 802/2010 în ceea ce privește performanța companiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1205",
+   "versions": [
+    {
+     "from": "2013-01-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dfee6712-493a-11e2-8762-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "b0e0ec74e7e3126d38697f8ecb8f34ed425fe6a3a3ef7003bf0130e3d0776aca"
     }
    ]
   },
@@ -1019,6 +1199,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/17239830-b75d-4a1e-9600-294b218195ef.0022.02/DOC_1",
      "sha256": "f8f2f34fff608cc2872c876a7f3ab0318e65bfe8816951fb0966312aea0fd597"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1251-2012",
+   "path": "ue/regulament/2012/1251",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 1251/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 1251/2012 din 20 decembrie 2012",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R1251",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2945c88f-4fff-11e2-9294-01aa75ed71a1.0019.04/DOC_2",
+     "sha256": "c812ef516a1bf75578a8c64f2c53cb9a4e5018d7e0413e669cda5577d09a823e"
     }
    ]
   },
@@ -1188,6 +1383,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-170-2012",
+   "path": "ue/regulament/2012/170",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 170/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 170/2012 din 28 februarie 2012",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0170",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/584cc1e4-3639-4d26-b96a-9ce62715b6a0.0021.02/DOC_1",
+     "sha256": "81e0045894b387470c3757f324b2f1bff1f0775580b5518751e9b7bfd2c30aea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-181-2012",
+   "path": "ue/regulament/2012/181",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 181/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 181/2012 al Comisiei din 2 martie 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Melon de Guadeloupe (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0181",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ec282c6-2dba-4135-8221-621c2093626c.0010.03/DOC_1",
+     "sha256": "3554ebc3c502533b1bdcced93f0478ae06b4d0ba6d4009f4a356bc02789a4ef0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-186-2012",
+   "path": "ue/regulament/2012/186",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 186/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 186/2012 al Comisiei din 7 martie 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Schwäbische Spätzle / Schwäbische Knöpfle (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0186",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/278886a0-8e3d-447d-89b7-47e802a39862.0021.02/DOC_1",
+     "sha256": "344a9780d2df5a9253c4ff8d155cb97588ca788fbe1c1ad4d6eff98598d3bc19"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-200-2012",
    "path": "ue/regulament/2012/200",
    "short": "Regulamentul (UE) nr. 200/2012",
@@ -1203,6 +1443,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-201-2012",
+   "path": "ue/regulament/2012/201",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 201/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 201/2012 al Comisiei din 8 martie 2012 de modificare a anexei la Regulamentul (UE) nr. 37/2010 privind substanțele active din punct de vedere farmacologic și clasificarea lor în funcție de limitele reziduale maxime din produsele alimentare de origine animală, în ceea ce privește substanța nitroxinil Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0201",
+   "versions": [
+    {
+     "from": "2012-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bf14215b-ad92-46ce-a466-4e1f15e67dab.0015.03/DOC_1",
+     "sha256": "87bda3a8cfcabb0e556e590e7e0ec04f6d5af30f06782659c4b48cf49a90e66a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-206-2012",
    "path": "ue/regulament/2012/206",
    "short": "Regulamentul (UE) nr. 206/2012",
@@ -1214,6 +1469,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/07dc03ac-baf5-49f6-b12b-ea5fd52659c2.0015.02/DOC_1",
      "sha256": "6c5685976d1c0495ca3897c8be33a7388baaca05e917270b59ca65fef3dc364f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-218-2012",
+   "path": "ue/regulament/2012/218",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 218/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 218/2012 al Comisiei din 13 martie 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Béa du Roussillon (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0218",
+   "versions": [
+    {
+     "from": "2012-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/920614e8-42ee-4c2b-9abb-d66f60c2f5e4.0003.02/DOC_1",
+     "sha256": "1c381152ca509640ac1db209e4968d34f61b97edc178cda46306770ef9b06615"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-222-2012",
+   "path": "ue/regulament/2012/222",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 222/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 222/2012 al Comisiei din 14 martie 2012 de modificare a anexei la Regulamentul (UE) nr. 37/2010 privind substanțele active din punct de vedere farmacologic și clasificarea lor în funcție de limitele reziduale maxime din produsele alimentare de origine animală, în ceea ce privește substanța triclabendazol Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0222",
+   "versions": [
+    {
+     "from": "2012-03-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80fb16a5-2871-4c9a-99fb-29d60a9cc917.0022.03/DOC_1",
+     "sha256": "549c835184294bc1cfc651c5a11b03508604d3df0d479d0d8adaca0872f45038"
     }
    ]
   },
@@ -1443,6 +1728,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-297-2012",
+   "path": "ue/regulament/2012/297",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 297/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 297/2012 al Comisiei din 2 aprilie 2012 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0297",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c5603734-4acc-462e-91cd-cadd98edaa46.0011.02/DOC_1",
+     "sha256": "ad2d2a92e512733976a629e0a324e6a88112aef358fed4015c6e40d82baf8506"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-300-2012",
+   "path": "ue/regulament/2012/300",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 300/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 300/2012 al Comisiei din 2 aprilie 2012 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0300",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64cd0905-86f6-450b-8cff-2458897da3be.0012.02/DOC_1",
+     "sha256": "c9ca6ef4d9de35b2c064e35214cc4ba1c494ea2ee0501b78fe12614622b3dd8d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-301-2012",
+   "path": "ue/regulament/2012/301",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 301/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 301/2012 al Comisiei din 2 aprilie 2012 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0301",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/998e2b9b-db42-4841-b3ce-5b47098a9f1a.0014.02/DOC_1",
+     "sha256": "2afebc5d147ce289f03cbe417b6cc5ff23e9bd8dc064bfb03d157974a2773f37"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-310-2012",
    "path": "ue/regulament/2012/310",
    "short": "Regulamentul delegat CELEX 32012R0310",
@@ -1454,6 +1784,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c636fc6a-16d3-4319-8906-ed04b62f880e.0011.03/DOC_1",
      "sha256": "61eb38dd0403c5eb018ff6ebfed1c931c6b17e9d55574c49827c4bd09ec4fd7d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-314-2012",
+   "path": "ue/regulament/2012/314",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 314/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 314/2012 al Comisiei din 12 aprilie 2012 de modificare a Regulamentului (CE) nr. 555/2008 și a Regulamentului (CE) nr. 436/2009 în ceea ce privește documentele de însoțire a transportului de produse vitivinicole, precum și registrele care trebuie păstrate în sectorul vitivinicol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0314",
+   "versions": [
+    {
+     "from": "2012-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e8f75c2e-a9ef-48d0-bcda-6559ee588a00.0010.02/DOC_1",
+     "sha256": "a6556f3a51b74ef681f0fe3d8fea53baab69ae8619ca851c7de0881a808c5a6a"
     }
    ]
   },
@@ -1623,6 +1968,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-400-2012",
+   "path": "ue/regulament/2012/400",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 400/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 400/2012 al Comisiei din 7 mai 2012 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0400",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b75b0eb9-f4c5-4082-b070-b51c374a02fc.0021.02/DOC_1",
+     "sha256": "0984a2455089693937ac55eeb70e5e75a75b06ff7547b803b7f74058a72c42a4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-412-2012",
    "path": "ue/regulament/2012/412",
    "short": "Regulamentul (UE) nr. 412/2012",
@@ -1664,6 +2024,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e31cb3a8-910e-4225-a2fd-7bfd84713002.0019.02/DOC_1",
      "sha256": "c394acb588574aa350c96ade96d810537ea123be20ead8fa08caa1ff372c8cc4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-435-2012",
+   "path": "ue/regulament/2012/435",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 435/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 435/2012 al Comisiei din 16 mai 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Φασόλια Βανίλιες Φενεού (Fasolia Vanilies Feneou) (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0435",
+   "versions": [
+    {
+     "from": "2012-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3fc34560-5413-4db8-8123-021f46562919.0007.02/DOC_1",
+     "sha256": "c20ded6a7a8a389e2b280fd70546a52eb0d58956497076d85098bd59e51a9094"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-436-2012",
+   "path": "ue/regulament/2012/436",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 436/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 436/2012 al Comisiei din 23 mai 2012 de modificare a anexei la Regulamentul (UE) nr. 37/2010 privind substanțele active din punct de vedere farmacologic și clasificarea lor în funcție de limitele reziduale maxime din produsele alimentare de origine animală, în ceea ce privește substanța azametifos Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0436",
+   "versions": [
+    {
+     "from": "2012-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b4b90813-471b-4465-b4b1-975d540ce8cd.0018.03/DOC_1",
+     "sha256": "5aa1feb251dab364a893f55b1e344eb74377561160ee158b4dc9a1e43fed265a"
     }
    ]
   },
@@ -1739,6 +2129,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4be631da-7034-41fd-a7f0-f6c1b1ca7f2b.0011.03/DOC_1",
      "sha256": "fed6adc0e13dffcf6fa0ca0d8a9ee372411fc35c125ce0a91a3f5afc5d71585d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-451-2012",
+   "path": "ue/regulament/2012/451",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 451/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 451/2012 al Comisiei din 29 mai 2012 privind retragerea de pe piață a anumitor aditivi pentru hrana animalelor aparținând grupei funcționale a aditivilor pentru însilozare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0451",
+   "versions": [
+    {
+     "from": "2012-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6690bab2-da69-45aa-9e07-4ee4f6fbde58.0015.03/DOC_1",
+     "sha256": "f4d10ccebe4ad8afd89016d1d8482e04ef11aaf73d3e307d68b33ba08ae40b8e"
     }
    ]
   },
@@ -2028,6 +2433,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-554-2012",
+   "path": "ue/regulament/2012/554",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 554/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 554/2012 al Comisiei din 19 iunie 2012 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0554",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/38d8d1d6-c047-11e1-b84a-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "5ac225c23a9c5387262862a1078f0a46a35dd48567c86d189b153f25b5f4905e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-555-2012",
    "path": "ue/regulament/2012/555",
    "short": "Regulamentul (UE) nr. 555/2012",
@@ -2054,6 +2474,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/464a384b-2d3b-45a7-a487-0949e8f87b02.0007.03/DOC_1",
      "sha256": "68324a2c122c75c616da47f241117b5d1e3f2e054ddb460a61abfbf57ca637e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-562-2012",
+   "path": "ue/regulament/2012/562",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 562/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 562/2012 al Comisiei din 27 iunie 2012 de modificare a Regulamentului (UE) nr. 234/2011 al Comisiei în ceea ce privește datele specifice necesare pentru evaluarea riscurilor prezentate de enzimele alimentare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0562",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99268722-c10d-11e1-b84a-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "b00c5a84f3db959b6f14b20b2804312dd574399de5290052454b20ff9844a2c4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-568-2012",
+   "path": "ue/regulament/2012/568",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 568/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 568/2012 al Comisiei din 28 iunie 2012 de modificare a Regulamentului (CE) nr. 555/2008 în ceea ce privește depunerea programelor de sprijin în sectorul vitivinicol",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0568",
+   "versions": [
+    {
+     "from": "2012-07-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1f7e11fc-c1e6-11e1-b84a-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "02cf4ee7953cbb0bec4fa88e66008411fe20c17c92071a29f810c0f75ec73526"
     }
    ]
   },
@@ -2268,6 +2718,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-628-2012",
+   "path": "ue/regulament/2012/628",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 628/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 628/2012 al Comisiei din 6 iulie 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Rheinisches Zuckerrübenkraut / Rheinischer Zuckerrübensirup / Rheinisches Rübenkraut (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0628",
+   "versions": [
+    {
+     "from": "2012-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/61c90fa5-cd5b-11e1-96ce-01aa75ed71a1.0019.04/DOC_13",
+     "sha256": "fa70857e5b3de469fc510e54b22a9131a2f8f2655a21bf0cbd7b8bb0e912dbd3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-636-2012",
    "path": "ue/regulament/2012/636",
    "short": "Regulamentul (UE) nr. 636/2012",
@@ -2279,6 +2744,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f0fe1b65-cf6f-11e1-96ce-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "23b8b37f6357aa5817279492d236f058c34331550b1b59208c0334b0cedca51c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-637-2012",
+   "path": "ue/regulament/2012/637",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 637/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 637/2012 al Comisiei din 13 iulie 2012 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește condițiile de autorizare a substanțelor active sulfat de fier, insectifug după miros de origine animală sau vegetală/ulei brut de tal și insectifug după miros de origine animală sau vegetală/smoală ulei de tal Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0637",
+   "versions": [
+    {
+     "from": "2012-08-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c967d9e9-1ee4-4a57-b3d7-1f8b0423781e.0016.03/DOC_1",
+     "sha256": "e39941b14c81be0f17c4eadb23762dbb7175e3e7f09bbf0b6fdaec58462012a4"
     }
    ]
   },
@@ -2433,6 +2913,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-660-2012",
+   "path": "ue/regulament/2012/660",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 660/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 660/2012 al Comisiei din 19 iulie 2012 privind anumite măsuri de sprijinire a pieței în sectorul cărnii de pasăre din Italia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0660",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd023a4f-dcf7-4011-a04b-11ea2bc5f5e9.0012.03/DOC_1",
+     "sha256": "782a2c211ae1b089a77ea290943cc62539b01caa689102427ae1363c64e68900"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-674-2012",
    "path": "ue/regulament/2012/674",
    "short": "Regulamentul (UE) nr. 674/2012",
@@ -2459,6 +2954,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/29d24d32-d57a-11e1-905c-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "e3b1d28ad3bf82bcdff33e031d2057784e93c57d89882c975a66140cc04ca4e0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-678-2012",
+   "path": "ue/regulament/2012/678",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 678/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 678/2012 al Comisiei din 16 iulie 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Szőregi rózsatő (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0678",
+   "versions": [
+    {
+     "from": "2012-08-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/724d0db2-d647-11e1-905c-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "2ad3722dacae684b85b34290d74ac616dbb374dc685663327858902a557557ca"
     }
    ]
   },
@@ -2508,6 +3018,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-705-2012",
+   "path": "ue/regulament/2012/705",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 705/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 705/2012 al Consiliului din 1 august 2012 privind punerea în aplicare a articolului 11 alineatul (4) din Regulamentul (UE) nr. 753/2011 privind măsuri restrictive îndreptate împotriva anumitor persoane, grupuri, întreprinderi și entități având în vedere situația din Afganistan",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0705",
+   "versions": [
+    {
+     "from": "2012-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/81335811-84a5-436c-8435-bdfb8961b08c.0006.03/DOC_1",
+     "sha256": "06abf8076f3963024288e435d400960a32c9ceb46fa69f3d5f81db34a41ee681"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-706-2012",
+   "path": "ue/regulament/2012/706",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 706/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 706/2012 din 1 august 2012",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0706",
+   "versions": [
+    {
+     "from": "2012-08-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b0da6c2-40fa-4e50-a26f-a615e105533a.0008.03/DOC_1",
+     "sha256": "5bf2b30ea89156fb0d72277787492aac4bbfd655661ead29737d7848cb2a6c94"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-708-2012",
    "path": "ue/regulament/2012/708",
    "short": "Regulamentul (UE) nr. 708/2012",
@@ -2523,6 +3063,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-712-2012",
+   "path": "ue/regulament/2012/712",
+   "short": "Regulamentul (UE) nr. 712/2012",
+   "title": "Regulamentul (UE) nr. 712/2012 al Comisiei din 3 august 2012 de modificare a Regulamentului (CE) nr. 1234/2008 privind examinarea modificării termenilor autorizațiilor de introducere pe piață acordate pentru medicamentele de uz uman și veterinar Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0712",
+   "versions": [
+    {
+     "from": "2012-08-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/370e9528-dfb6-11e1-905c-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "2fc40106efd5f78a8ebc6732ee75f7ffd5cdcb2e7cdf750132dfc2ea06ae9c13"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-715-2012",
+   "path": "ue/regulament/2012/715",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 715/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 715/2012 al Comisiei din 30 iulie 2012 de modificare a Regulamentului (UE) nr. 42/2010 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0715",
+   "versions": [
+    {
+     "from": "2012-08-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a555c0e-e07b-11e1-905c-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "ce9c3db2b7be5bc9804c42c6cc170e3420e46a5770ae4efe3a5033f6786079b5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-718-2012",
+   "path": "ue/regulament/2012/718",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 718/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 718/2012 din 7 august 2012",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0718",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/844896f7-e148-11e1-905c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "16c2fd79240d8814c510d99d22596563c007b5a1fb07bd29ef5a090f50e3a5e0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-722-2012",
    "path": "ue/regulament/2012/722",
    "short": "Regulamentul (UE) nr. 722/2012",
@@ -2534,6 +3119,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7fdb9dff-e222-11e1-905c-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "1c4796b7255a12bad0f9099a742326f132d73f4e9095b15f195f9dff0981f7d5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-735-2012",
+   "path": "ue/regulament/2012/735",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 735/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 735/2012 al Comisiei din 14 august 2012 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește condițiile de autorizare a substanței active hidrogenocarbonat de potasiu Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0735",
+   "versions": [
+    {
+     "from": "2012-09-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9be8f63f-96c1-4a1d-aa91-69f40c43c5b2.0021.03/DOC_1",
+     "sha256": "21fa2fe6660c52fbce04e6532f997b9ff9dba4892448f08aa5bd1b659f4dbe1b"
     }
    ]
   },
@@ -2583,6 +3183,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-753-2012",
+   "path": "ue/regulament/2012/753",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 753/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 753/2012 al Comisiei din 14 august 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Bovški sir (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0753",
+   "versions": [
+    {
+     "from": "2012-09-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d0b6f1ba-f293-11e1-8e28-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "c661489ac9ff8a953ada6a5e2bad3906787ef54623a024a97ee1da70390ee600"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-76-2012",
+   "path": "ue/regulament/2012/76",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 76/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 76/2012 al Comisiei din 30 ianuarie 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Holsteiner Katenschinken / Holsteiner Schinken / Holsteiner Katenrauchschinken / Holsteiner Knochenschinken (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0076",
+   "versions": [
+    {
+     "from": "2012-02-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6eb8e3d4-058f-492a-a762-ba8049e087cf.0010.02/DOC_1",
+     "sha256": "2a82cf11b400604ae07460e2261b048c4c21e319f61cd464ed0c9cccb802c516"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-776-2012",
+   "path": "ue/regulament/2012/776",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 776/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 776/2012 al Comisiei din 27 august 2012 privind avansurile care trebuie plătite începând cu 16 octombrie 2012 din plățile directe enumerate în anexa I la Regulamentul (CE) nr. 73/2009 al Consiliului de stabilire a unor norme comune pentru sistemele de ajutor direct pentru agricultori în cadrul politicii agricole comune și de instituire a anumitor sisteme de ajutor pentru agricultori",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0776",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa187db5-f0f9-11e1-8e28-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "b81f4e98ca2296f8e5440f5300ca7a356fdcb979992fdf7d0b4463a6aa40b769"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-791-2012",
    "path": "ue/regulament/2012/791",
    "short": "Regulamentul (UE) nr. 791/2012",
@@ -2594,6 +3239,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4f6ce39e-4d77-4016-b2f4-aa36d53d15fe.0008.03/DOC_1",
      "sha256": "797266427bc22dd2e63a01d973191ddf7b53bc92569a2508c4fc310c73280e23"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-792-2012",
+   "path": "ue/regulament/2012/792",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 792/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 792/2012 al Comisiei din 23 august 2012 de stabilire a modelelor pentru permisele, certificatele și alte documente prevăzute în Regulamentul (CE) nr. 338/97 al Consiliului privind protecția speciilor faunei și florei sălbatice prin controlul comerțului cu acestea și de modificare a Regulamentului (CE) nr. 865/2006 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0792",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b40bf7b7-f82f-11e1-8e28-01aa75ed71a1.0019.04/DOC_11",
+     "sha256": "1bc8d965dcddbb63ab29819cb48ae87bfec9700564fe64f295aa7c47f7899dbb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-812-2012",
+   "path": "ue/regulament/2012/812",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 812/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 812/2012 al Comisiei din 12 septembrie 2012 de modificare a Regulamentului (CE) nr. 747/2001 al Consiliului în ceea ce privește contingentele tarifare ale Uniunii pentru anumite produse agricole și produse agricole procesate originare din Maroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0812",
+   "versions": [
+    {
+     "from": "2012-09-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6705852d-fd88-11e1-8e28-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "eac75f532f30eff760637160c007e7583f0765a99f5fed8ef3906ea548c6aedd"
     }
    ]
   },
@@ -2624,6 +3299,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0f92104e-0178-11e2-8e28-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "022f82ee9e9feb1429e088f517686a60af52bec401f829b1e7fe95855b4e25b3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-827-2012",
+   "path": "ue/regulament/2012/827",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 827/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 827/2012 al Comisiei din 29 iunie 2012 de stabilire a standardelor tehnice de punere în aplicare cu privire la mijloacele de publicare a pozițiilor nete pe acțiuni, la formatul informațiilor care trebuie furnizate Autorității europene pentru valori mobiliare și piețe în ceea ce privește pozițiile scurte nete, tipurile de acorduri, înțelegeri și măsuri pentru a garanta în mod adecvat că acțiunile sau instrumentele de datorie suverană sunt disponibile pentru decontare, precum și la datele și perioada pentru determinarea locului principal de tranzacționare al unei acțiuni în conformitate cu Regulamentul (UE) nr. 236/2012 al Parlamentului European și al Consiliului privind vânzarea în lipsă și anumite aspecte ale swapurilor pe riscul de credit Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0827",
+   "versions": [
+    {
+     "from": "2012-09-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ad50109-0177-11e2-8e28-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "dd57aeb9f1556c4392a12a093eca80163d548fe2eb2bc363211c9dcce4e8ad0f"
     }
    ]
   },
@@ -2778,6 +3468,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-901-2012",
+   "path": "ue/regulament/2012/901",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 901/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 901/2012 al Comisiei din 2 octombrie 2012 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Štajersko prekmursko bučno olje (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0901",
+   "versions": [
+    {
+     "from": "2012-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/70c0cbcb-0d3f-11e2-8e28-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "b3ca3de025d440c201fcea3f70c4b337b2a3f2cc87d3920ad45c0a79101d737e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-907-2012",
    "path": "ue/regulament/2012/907",
    "short": "Regulamentul (UE) nr. 907/2012",
@@ -2789,6 +3494,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/43338111-11f3-11e2-8e28-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "9b1085fc785314479467e2668faf9e62ea2867c72df8f0cb2dd8031c9cef0f53"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-91-2012",
+   "path": "ue/regulament/2012/91",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 91/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 91/2012 al Comisiei din 2 februarie 2012 privind autorizarea Bacillus subtilis (CBS 117162) ca aditiv pentru hrana purceilor înțărcați și a porcilor pentru îngrășat (titularul autorizației Krka d.d.) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0091",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1e22e27a-614d-48d4-a88c-394d1badaca7.0013.02/DOC_1",
+     "sha256": "d7206d392cd353c624662d2a2e39d5b68de99ce34577ef4c8b41783e74f3cdb1"
     }
    ]
   },
@@ -2819,6 +3539,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5ffd1fd0-11f5-11e2-8e28-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "5ba614d892e923ad6077d4023e631a6dcc2674ae63b5bd0bd9c83e3becadc8e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-921-2012",
+   "path": "ue/regulament/2012/921",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 921/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 921/2012 din 8 octombrie 2012",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0921",
+   "versions": [
+    {
+     "from": "2012-10-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b1cdcbc4-11f5-11e2-8e28-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "61ffe38774f380f868f381433ff813ad72413b03904a2dda1ab6420eb0cfb33b"
     }
    ]
   },
@@ -2898,6 +3633,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-968-2012",
+   "path": "ue/regulament/2012/968",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 968/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 968/2012 al Comisiei din 19 octombrie 2012 de adăugare la cotele de pescuit pentru hamsie în 2012/2013 în Golful Biscaia a cantităților reținute de Franța în sezonul de pescuit 2011/2012 în conformitate cu articolul 4 alineatul (2) din Regulamentul (CE) nr. 847/96 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0968",
+   "versions": [
+    {
+     "from": "2012-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e887d7cd-1c34-11e2-91ce-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "df10048a15f69bab50014c184649e3c4f390dcb91688fc592473087fee1bbda1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-972-2012",
    "path": "ue/regulament/2012/972",
    "short": "Regulamentul CELEX 32012R0972",
@@ -2939,6 +3689,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ee7e94db-2761-11e2-9209-01aa75ed71a1.0020.04/DOC_1",
      "sha256": "406eea51b8a3440782fff447973da6e487df2b32214f9d7f8d7d202652f726ac"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-984-2012",
+   "path": "ue/regulament/2012/984",
+   "short": "Regulamentul de punere în aplicare (UE) nr. 984/2012",
+   "title": "Regulamentul de punere în aplicare (UE) nr. 984/2012 al Comisiei din 24 octombrie 2012 de modificare a Regulamentului (CE) nr. 391/2007 de stabilire a unor reguli detaliate pentru punerea în aplicare a Regulamentului (CE) nr. 861/2006 al Consiliului în ceea ce privește cheltuielile suportate de statele membre în punerea în aplicare a sistemelor de monitorizare și control privind politica comună în domeniul pescuitului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0984",
+   "versions": [
+    {
+     "from": "2012-10-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0db8c9b5-bd4e-4aee-876a-b32be93a4aa6.0011.03/DOC_1",
+     "sha256": "93cdc2c5d3cbab9041706e57bb76e69b6cf69f7287f81100671758c56e5de1f2"
     }
    ]
   },

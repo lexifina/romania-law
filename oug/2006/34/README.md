@@ -1,6 +1,6 @@
 # Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii
 
-OUG nr. 34/2006 · 29 versions, from 2006-05-15 (latest in force: 2016-05-26) · <https://legislatie.just.ro/Public/DetaliiDocument/71663>
+OUG nr. 34/2006 · 30 versions, from 2006-05-15 (latest in force: 2016-05-26) · <https://legislatie.just.ro/Public/DetaliiDocument/71663>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

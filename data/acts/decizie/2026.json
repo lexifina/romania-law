@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "decizie/2026",
+"acts": [
+{
+"slug": "decizie-cna-116-2026",
+"path": "decizie/cna/2026/116",
+"kind": "decizie",
+"year": "2026",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 116/2026 privind procedura de licențiere, de autorizare și de notificare a serviciilor media audiovizuale",
+"short": "Decizia cna nr. 116/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/313815",
+"issuer": "cna",
+"joint": []
+}
+]
+}

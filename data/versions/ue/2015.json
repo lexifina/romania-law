@@ -10098,6 +10098,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-905-2015",
+   "path": "ue/regulament/2015/905",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/905",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/905 al Comisiei din 10 iunie 2015 de aprobare a unei modificări care nu este minoră din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Pecorino Toscano (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0905",
+   "versions": [
+    {
+     "from": "2015-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46201c02-1185-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ad6cc9f8290315aaa0571d34adcbca82979c8d286d68a3c26593aef9e2d0f9ea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-906-2015",
+   "path": "ue/regulament/2015/906",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/906",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/906 al Comisiei din 10 iunie 2015 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Ciliegia di Vignola (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0906",
+   "versions": [
+    {
+     "from": "2015-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8e73e314-1185-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f845af5b063f66a8fc669230a2283268d1d37c2440a711cd01e630f8314f1fce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-907-2015",
+   "path": "ue/regulament/2015/907",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/907",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/907 al Comisiei din 10 iunie 2015 de aprobare a unei modificări care nu este minoră din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Welsh Beef (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0907",
+   "versions": [
+    {
+     "from": "2015-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dd204496-1185-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e07e2f68115fae5e9e7bfb81811b439b7692a76b269c7894b6d4446fb2fdab25"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-909-2015",
+   "path": "ue/regulament/2015/909",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/909",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/909 al Comisiei din 12 iunie 2015 privind modalitățile de calculare a costurilor generate direct în urma exploatării serviciului de transport feroviar (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0909",
+   "versions": [
+    {
+     "from": "2015-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/89c95159-1186-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8e70f7e776dfcbdb87deac03b98aaf589e7b6c97844fd144a8561a003ba0890c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-923-2015",
    "path": "ue/regulament/2015/923",
    "short": "Regulamentul delegat CELEX 32015R0923",
@@ -10218,6 +10278,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-949-2015",
+   "path": "ue/regulament/2015/949",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/949",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/949 al Comisiei din 19 iunie 2015 de aprobare a controalelor anterioare exportului efectuate de anumite țări terțe la anumite produse alimentare în ceea ce privește prezența anumitor micotoxine (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0949",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bba1d2f1-1708-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dc0718ded33c34975011c1372a371029a5c279649756968f62e0d7ac61667654"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-960-2015",
    "path": "ue/regulament/2015/960",
    "short": "Regulamentul (UE) 2015/960",
@@ -10229,6 +10304,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6b8ca1f1-1973-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "0e8661b2bef949554506c2b0b8f0782ce977cfafe9863889445d3e6af99fa645"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-961-2015",
+   "path": "ue/regulament/2015/961",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/961",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/961 al Consiliului din 22 iunie 2015 privind punerea în aplicare a Regulamentului (UE) nr. 36/2012 privind măsuri restrictive având în vedere situația din Siria",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0961",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/98c10d03-1973-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6dd26c005448cfd53e3c5a8ce17ddec69f47b374d46dba1baf04f090290b6bdf"
     }
    ]
   },
@@ -10259,6 +10349,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/157f1bf2-a2cb-11e4-9f50-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "a166073b187c9a3680f354bcf5fcb98e11f6a8a5a30d583c3c804a907baff10c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-983-2015",
+   "path": "ue/regulament/2015/983",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/983",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/983 al Comisiei din 24 iunie 2015 privind procedura de eliberare a cardului profesional european și aplicarea mecanismului de alertă în temeiul Directivei 2005/36/CE a Parlamentului European și a Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0983",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c85318c-1b00-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "52a7c4b0ac833fb013cb903056921ffca6a7b2d551751fe9cc2a1d8e479d9dbf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-984-2015",
+   "path": "ue/regulament/2015/984",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/984",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/984 al Comisiei din 24 iunie 2015 de aprobare a piritionei de cupru ca substanță activă existentă destinată utilizării în produsele biocide pentru tipul de produs 21 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0984",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c23a03af-1b00-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "77ce3ee0ed280a819eae9150c24a8cb487afd3b9bfb76448eff21ad247eae99a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-985-2015",
+   "path": "ue/regulament/2015/985",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/985",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/985 al Comisiei din 24 iunie 2015 de autorizare a utilizării clotianidinului ca substanță activă existentă în produse biocide pentru tipul de produs 18 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0985",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/22c54912-1b01-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1c9ed10ce5d26c911ed592b65bcde4a1d909c393d66c8caf61a664abe9e3816a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-99-2015",
+   "path": "ue/regulament/2015/99",
+   "short": "Regulamentul de punere în aplicare (UE) 2015/99",
+   "title": "Regulamentul de punere în aplicare (UE) 2015/99 al Comisiei din 20 ianuarie 2015 de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [ „Arroz de Valencia” / „Arròs de València” (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015R0099",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5424b4f4-a2cb-11e4-9f50-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d9b2faeea31b67eebad8c149a11b933629247a72d7b63818658b82b616a9e453"
     }
    ]
   }

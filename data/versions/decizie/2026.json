@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "decizie/2026",
+ "acts": [
+  {
+   "slug": "decizie-cna-116-2026",
+   "path": "decizie/cna/2026/116",
+   "short": "Decizia cna nr. 116/2026",
+   "title": "Decizia nr. 116/2026 privind procedura de licențiere, de autorizare și de notificare a serviciilor media audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313815",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 11,
+     "source_url": "https://media.cna.ro/Decizia_CNA_nr_116_24_02_2026_Licentiere_autorizare_notificare_SMA_M_Of_nr_718_28_08_2026_1be0ae3966.pdf",
+     "sha256": "a01bd0045073fac5fe21dc8f17df1786825e0777fbedeac2e244f6096dcf3a51"
+    }
+   ]
+  }
+ ]
+}

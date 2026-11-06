@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "decizie/2025",
+ "acts": [
+  {
+   "slug": "decizie-cna-185-2025",
+   "path": "decizie/cna/2025/185",
+   "short": "Decizia cna nr. 185/2025",
+   "title": "Decizia nr. 185/2025 privind modificarea și completarea unor acte normative din domeniul audiovizualului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296020",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 3,
+     "source_url": "https://media.cna.ro/Decizie_CNA_nr_185_26_03_2025_M_Of_f038844251.pdf",
+     "sha256": "24a672e4f703b16303a4441e5b81ac9976257b421e6e20fd3a26d9ce216a17dc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-232-2025",
+   "path": "decizie/cna/2025/232",
+   "short": "Decizia cna nr. 232/2025",
+   "title": "Decizia nr. 232/2025 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerile locale parțiale din data de 4 mai 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296552",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 3,
+     "source_url": "https://media.cna.ro/Decizie_CNA_nr_232_2025_Alegeri_locale_partiale_publicare_M_Of_82a5c1dae2.pdf",
+     "sha256": "68179e62a607c2466190f5d772b3f2f75d3ec1bdd2181197a63ef348915bed4a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-86-2025",
+   "path": "decizie/cna/2025/86",
+   "short": "Decizia cna nr. 86/2025",
+   "title": "Decizia nr. 86/2025 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea Președintelui României din anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294974",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 3,
+     "source_url": "https://media.cna.ro/Decizie_CNA_nr_86_25_02_2025_Alegeri_Prezidentiale_2025_M_Of_2388a343e4.pdf",
+     "sha256": "52beb14a9d4edd42f6d9b5b97889826dffd1f2a295c57ffc9354bd4cb14841f8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-884-2025",
+   "path": "decizie/cna/2025/884",
+   "short": "Decizia cna nr. 884/2025",
+   "title": "Decizia nr. 884/2025 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerile locale parțiale din data de 7 decembrie 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304135",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 3,
+     "source_url": "https://media.cna.ro/Decizie_CNA_nr_884_11_11_2025_Alegeri_locale_partiale_7_decembrie_193bef1cf6.pdf",
+     "sha256": "5ec418cf1f5738dfc6fba89887d088eb72efc6685dc229a03146fb93bdd6abe5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-971-2025",
+   "path": "decizie/cna/2025/971",
+   "short": "Decizia cna nr. 971/2025",
+   "title": "Decizia nr. 971/2025 pentru modificarea art. 158 din Decizia Consiliului Național al Audiovizualului nr. 573/2025 privind Codul de reglementare a conținutului audiovizual",
+   "url": "https://media.cna.ro/Decizie_CNA_nr_971_09_12_2025_M_Of_4e73fab829.pdf",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 2,
+     "source_url": "https://media.cna.ro/Decizie_CNA_nr_971_09_12_2025_M_Of_4e73fab829.pdf",
+     "sha256": "0c73f47205ebd3844572d1c68a351401273b53dbd644e5b4c320c663d613e89b"
+    }
+   ]
+  }
+ ]
+}

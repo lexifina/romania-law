@@ -17,7 +17,7 @@
   "laws": "data/laws.csv",
   "list": "ACTS.md",
   "sources": "REPRODUCE.md",
-  "count": 16061
+  "count": 16334
  },
  "shards": [
   {
@@ -309,23 +309,23 @@
   {
    "shard": "avocatul-poporului/2020",
    "kind": "avocatul-poporului",
-   "count": 116,
+   "count": 290,
    "acts": "data/acts/avocatul-poporului/2020.json",
    "list": "data/acts/avocatul-poporului/2020.md",
    "versions": "data/versions/avocatul-poporului/2020.json",
    "laws": "data/laws/avocatul-poporului/2020.csv",
-   "laws_count": 116,
+   "laws_count": 290,
    "sources": "data/sources/avocatul-poporului/2020.csv"
   },
   {
    "shard": "avocatul-poporului/2021",
    "kind": "avocatul-poporului",
-   "count": 112,
+   "count": 218,
    "acts": "data/acts/avocatul-poporului/2021.json",
    "list": "data/acts/avocatul-poporului/2021.md",
    "versions": "data/versions/avocatul-poporului/2021.json",
    "laws": "data/laws/avocatul-poporului/2021.csv",
-   "laws_count": 112,
+   "laws_count": 218,
    "sources": "data/sources/avocatul-poporului/2021.csv"
   },
   {
@@ -384,14 +384,25 @@
    "sources": "data/sources/avocatul-poporului/2026.csv"
   },
   {
+   "shard": "circulara/2022",
+   "kind": "circulara",
+   "count": 30,
+   "acts": "data/acts/circulara/2022.json",
+   "list": "data/acts/circulara/2022.md",
+   "versions": "data/versions/circulara/2022.json",
+   "laws": "data/laws/circulara/2022.csv",
+   "laws_count": 30,
+   "sources": "data/sources/circulara/2022.csv"
+  },
+  {
    "shard": "circulara/2023",
    "kind": "circulara",
-   "count": 29,
+   "count": 57,
    "acts": "data/acts/circulara/2023.json",
    "list": "data/acts/circulara/2023.md",
    "versions": "data/versions/circulara/2023.json",
    "laws": "data/laws/circulara/2023.csv",
-   "laws_count": 29,
+   "laws_count": 57,
    "sources": "data/sources/circulara/2023.csv"
   },
   {
@@ -947,13 +958,57 @@
   {
    "shard": "decizie/2011",
    "kind": "decizie",
-   "count": 5,
+   "count": 7,
    "acts": "data/acts/decizie/2011.json",
    "list": "data/acts/decizie/2011.md",
    "versions": "data/versions/decizie/2011.json",
    "laws": "data/laws/decizie/2011.csv",
-   "laws_count": 5,
+   "laws_count": 7,
    "sources": "data/sources/decizie/2011.csv"
+  },
+  {
+   "shard": "decizie/2012",
+   "kind": "decizie",
+   "count": 6,
+   "acts": "data/acts/decizie/2012.json",
+   "list": "data/acts/decizie/2012.md",
+   "versions": "data/versions/decizie/2012.json",
+   "laws": "data/laws/decizie/2012.csv",
+   "laws_count": 6,
+   "sources": "data/sources/decizie/2012.csv"
+  },
+  {
+   "shard": "decizie/2013",
+   "kind": "decizie",
+   "count": 1,
+   "acts": "data/acts/decizie/2013.json",
+   "list": "data/acts/decizie/2013.md",
+   "versions": "data/versions/decizie/2013.json",
+   "laws": "data/laws/decizie/2013.csv",
+   "laws_count": 1,
+   "sources": "data/sources/decizie/2013.csv"
+  },
+  {
+   "shard": "decizie/2017",
+   "kind": "decizie",
+   "count": 1,
+   "acts": "data/acts/decizie/2017.json",
+   "list": "data/acts/decizie/2017.md",
+   "versions": "data/versions/decizie/2017.json",
+   "laws": "data/laws/decizie/2017.csv",
+   "laws_count": 1,
+   "sources": "data/sources/decizie/2017.csv"
+  },
+  {
+   "shard": "decizie/2019",
+   "kind": "decizie",
+   "count": 1,
+   "acts": "data/acts/decizie/2019.json",
+   "list": "data/acts/decizie/2019.md",
+   "versions": "data/versions/decizie/2019.json",
+   "laws": "data/laws/decizie/2019.csv",
+   "laws_count": 1,
+   "sources": "data/sources/decizie/2019.csv"
   },
   {
    "shard": "decizie/2023",
@@ -969,13 +1024,35 @@
   {
    "shard": "decizie/2024",
    "kind": "decizie",
-   "count": 4,
+   "count": 8,
    "acts": "data/acts/decizie/2024.json",
    "list": "data/acts/decizie/2024.md",
    "versions": "data/versions/decizie/2024.json",
    "laws": "data/laws/decizie/2024.csv",
-   "laws_count": 4,
+   "laws_count": 8,
    "sources": "data/sources/decizie/2024.csv"
+  },
+  {
+   "shard": "decizie/2025",
+   "kind": "decizie",
+   "count": 5,
+   "acts": "data/acts/decizie/2025.json",
+   "list": "data/acts/decizie/2025.md",
+   "versions": "data/versions/decizie/2025.json",
+   "laws": "data/laws/decizie/2025.csv",
+   "laws_count": 5,
+   "sources": "data/sources/decizie/2025.csv"
+  },
+  {
+   "shard": "decizie/2026",
+   "kind": "decizie",
+   "count": 1,
+   "acts": "data/acts/decizie/2026.json",
+   "list": "data/acts/decizie/2026.md",
+   "versions": "data/versions/decizie/2026.json",
+   "laws": "data/laws/decizie/2026.csv",
+   "laws_count": 1,
+   "sources": "data/sources/decizie/2026.csv"
   },
   {
    "shard": "hg/1990",
@@ -1145,34 +1222,34 @@
   {
    "shard": "hg/2005",
    "kind": "hg",
-   "count": 1369,
+   "count": 1687,
    "acts": "data/acts/hg/2005.json",
    "list": "data/acts/hg/2005.md",
    "versions": "data/versions/hg/2005.json",
    "laws": "data/laws/hg/2005.csv",
-   "laws_count": 1363,
+   "laws_count": 1681,
    "sources": "data/sources/hg/2005.csv"
   },
   {
    "shard": "hg/2006",
    "kind": "hg",
-   "count": 1380,
+   "count": 1818,
    "acts": "data/acts/hg/2006.json",
    "list": "data/acts/hg/2006.md",
    "versions": "data/versions/hg/2006.json",
    "laws": "data/laws/hg/2006.csv",
-   "laws_count": 1378,
+   "laws_count": 1816,
    "sources": "data/sources/hg/2006.csv"
   },
   {
    "shard": "hg/2007",
    "kind": "hg",
-   "count": 1433,
+   "count": 1524,
    "acts": "data/acts/hg/2007.json",
    "list": "data/acts/hg/2007.md",
    "versions": "data/versions/hg/2007.json",
    "laws": "data/laws/hg/2007.csv",
-   "laws_count": 1431,
+   "laws_count": 1522,
    "sources": "data/sources/hg/2007.csv"
   },
   {
@@ -12145,111 +12222,111 @@
   {
    "shard": "ue/2012",
    "kind": "ue",
-   "count": 198,
+   "count": 249,
    "acts": "data/acts/ue/2012.json",
    "list": "data/acts/ue/2012.md",
    "versions": "data/versions/ue/2012.json",
    "laws": "data/laws/ue/2012.csv",
-   "laws_count": 198,
+   "laws_count": 249,
    "sources": "data/sources/ue/2012.csv"
   },
   {
    "shard": "ue/2013",
    "kind": "ue",
-   "count": 277,
+   "count": 714,
    "acts": "data/acts/ue/2013.json",
    "list": "data/acts/ue/2013.md",
    "versions": "data/versions/ue/2013.json",
    "laws": "data/laws/ue/2013.csv",
-   "laws_count": 277,
+   "laws_count": 714,
    "sources": "data/sources/ue/2013.csv"
   },
   {
    "shard": "ue/2014",
    "kind": "ue",
-   "count": 493,
+   "count": 795,
    "acts": "data/acts/ue/2014.json",
    "list": "data/acts/ue/2014.md",
    "versions": "data/versions/ue/2014.json",
    "laws": "data/laws/ue/2014.csv",
-   "laws_count": 493,
+   "laws_count": 795,
    "sources": "data/sources/ue/2014.csv"
   },
   {
    "shard": "ue/2015",
    "kind": "ue",
-   "count": 684,
+   "count": 694,
    "acts": "data/acts/ue/2015.json",
    "list": "data/acts/ue/2015.md",
    "versions": "data/versions/ue/2015.json",
    "laws": "data/laws/ue/2015.csv",
-   "laws_count": 684,
+   "laws_count": 694,
    "sources": "data/sources/ue/2015.csv"
   },
   {
    "shard": "ue/2016",
    "kind": "ue",
-   "count": 636,
+   "count": 664,
    "acts": "data/acts/ue/2016.json",
    "list": "data/acts/ue/2016.md",
    "versions": "data/versions/ue/2016.json",
    "laws": "data/laws/ue/2016.csv",
-   "laws_count": 636,
+   "laws_count": 664,
    "sources": "data/sources/ue/2016.csv"
   },
   {
    "shard": "ue/2017",
    "kind": "ue",
-   "count": 740,
+   "count": 775,
    "acts": "data/acts/ue/2017.json",
    "list": "data/acts/ue/2017.md",
    "versions": "data/versions/ue/2017.json",
    "laws": "data/laws/ue/2017.csv",
-   "laws_count": 740,
+   "laws_count": 775,
    "sources": "data/sources/ue/2017.csv"
   },
   {
    "shard": "ue/2018",
    "kind": "ue",
-   "count": 661,
+   "count": 679,
    "acts": "data/acts/ue/2018.json",
    "list": "data/acts/ue/2018.md",
    "versions": "data/versions/ue/2018.json",
    "laws": "data/laws/ue/2018.csv",
-   "laws_count": 661,
+   "laws_count": 679,
    "sources": "data/sources/ue/2018.csv"
   },
   {
    "shard": "ue/2019",
    "kind": "ue",
-   "count": 729,
+   "count": 758,
    "acts": "data/acts/ue/2019.json",
    "list": "data/acts/ue/2019.md",
    "versions": "data/versions/ue/2019.json",
    "laws": "data/laws/ue/2019.csv",
-   "laws_count": 729,
+   "laws_count": 758,
    "sources": "data/sources/ue/2019.csv"
   },
   {
    "shard": "ue/2020",
    "kind": "ue",
-   "count": 762,
+   "count": 784,
    "acts": "data/acts/ue/2020.json",
    "list": "data/acts/ue/2020.md",
    "versions": "data/versions/ue/2020.json",
    "laws": "data/laws/ue/2020.csv",
-   "laws_count": 762,
+   "laws_count": 784,
    "sources": "data/sources/ue/2020.csv"
   },
   {
    "shard": "ue/2021",
    "kind": "ue",
-   "count": 863,
+   "count": 893,
    "acts": "data/acts/ue/2021.json",
    "list": "data/acts/ue/2021.md",
    "versions": "data/versions/ue/2021.json",
    "laws": "data/laws/ue/2021.csv",
-   "laws_count": 863,
+   "laws_count": 893,
    "sources": "data/sources/ue/2021.csv"
   },
   {

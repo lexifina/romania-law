@@ -61,6 +61,66 @@
      "sha256": "ed409a097e8a7019bb4042f6ea28cb375aa89b8260357ae0d580ffd81aa78682"
     }
    ]
+  },
+  {
+   "slug": "decizie-cna-149-2024",
+   "path": "decizie/cna/2024/149",
+   "short": "Decizia cna nr. 149/2024",
+   "title": "Decizia nr. 149/2024 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea membrilor din România în Parlamentul European din anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281090",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 24,
+     "source_url": "https://media.cna.ro/Decizie_CNA_nr_149_03_04_2024_Alegeri_Europarlamentare_2024_2fd5c574fc.pdf",
+     "sha256": "2b512b51b84d7eeb582471fcc2decbb769976ac76602704e0b022412f294a2bc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-150-2024",
+   "path": "decizie/cna/2024/150",
+   "short": "Decizia cna nr. 150/2024",
+   "title": "Decizia nr. 150/2024 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerile locale din anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281091",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 20,
+     "source_url": "https://media.cna.ro/Decizie_CNA_nr_150_03_04_2024_Alegeri_Locale_2024_aeb8f659fe.pdf",
+     "sha256": "d5f1a308b8654eef05aec56a80e96af7c5a654001cd0a01ccb947022e73de9c9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-587-2024",
+   "path": "decizie/cna/2024/587",
+   "short": "Decizia cna nr. 587/2024",
+   "title": "Decizia nr. 587/2024 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea Președintelui României din anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288760",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 19,
+     "source_url": "https://media.cna.ro/Decizie_CNA_nr_587_19_09_2024_Alegeri_Prezidentiale_2024_MOF_308c384be5.pdf",
+     "sha256": "1a2830e3cbb7783df05734a6919cfef6249ce00d431c32daca27a9fbbf3c44dd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cna-588-2024",
+   "path": "decizie/cna/2024/588",
+   "short": "Decizia cna nr. 588/2024",
+   "title": "Decizia nr. 588/2024 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea Senatului și a Camerei Deputaților din anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288761",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 21,
+     "source_url": "https://media.cna.ro/Decizie_CNA_nr_588_19_09_2024_Alegeri_Parlamentare_2024_MOF_e161d8f271.pdf",
+     "sha256": "7d1a7cacfb7c53a1376226df5f69c7cb15743e3d8f02fab5d721c524cc0d0bbd"
+    }
+   ]
   }
  ]
 }
