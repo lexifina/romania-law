@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**79.1%** of the plan is published, weighted by how binding each source is and how often it is used. **81.5%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 18:22 UTC.
+**79.1%** of the plan is published, weighted by how binding each source is and how often it is used. **81.5%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 18:43 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -27,8 +27,8 @@ This is the plan for this repository, part by part, with what is published so fa
 | Local acts: Bucharest (CGMB) | local/bucuresti/cgmb/ | 1.1% | 12,536 of 12,536 records · index pages 1,224/1,224 · listed 12,236/12,536 · texts 1 · 100.0% | the council's own register of decisions (PDF and text) | done |
 | Local acts: Bucharest sectors 1-6 | local/bucuresti/sector-1/ ... sector-6/ | 0.6% | 6 of 6 sectors · 100.0% | each council's Monitorul Oficial Local | done |
 | Local acts: county councils (41) | local/judet/<county>/ | 0.9% | 35 of 41 councils · 85.4% | each council's Monitorul Oficial Local | collecting |
-| Local acts: municipalities and towns | local/<county>/<municipality or town>/ | 0.7% | 131 of 320 councils · 40.9% | each council's Monitorul Oficial Local | collecting |
-| Local acts: communes | local/<county>/<commune>/ | 0.3% | 75 of 2,861 councils · 2.6% | each council's Monitorul Oficial Local | collecting |
+| Local acts: municipalities and towns | local/<county>/<municipality or town>/ | 0.7% | 141 of 320 councils · 44.1% | each council's Monitorul Oficial Local | collecting |
+| Local acts: communes | local/<county>/<commune>/ | 0.3% | 205 of 2,861 councils · 7.2% | each council's Monitorul Oficial Local | collecting |
 | Local acts: other local authorities (prefects' orders) | local/prefect/<county>/ | 0.2% | 0 of 42 prefects · 0.0% | each prefecture, where it publishes | no publication channel found yet |
 | Local taxes per locality | data/local-taxes.csv | 0.6% | 64 of 3,181 localities · 2.0% | each council's yearly decision on local taxes, indexed by locality and year | collecting |
 | **Oversight and elections** | | | | | |
@@ -36,16 +36,16 @@ This is the plan for this repository, part by part, with what is published so fa
 | Court of Accounts | curtea-de-conturi/ | 0.3% | target unknown | official texts as published | collecting |
 | Ombudsman (Avocatul Poporului) | avocatul-poporului/ | 0.2% | 1,776 of 1,807 documents · 98.3% | the Ombudsman's own publications | collecting |
 | **EU and international** | | | | | |
-| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 2,585 of 2,648 treaty texts; 3,604 of 3,500 acts · 84.6% | official texts, linked from the ratifying acts | planned |
+| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 2,585 of 2,648 treaty texts; 3,605 of 3,500 acts · 84.6% | official texts, linked from the ratifying acts | planned |
 | EU transposition links | data/eu-transposition.csv | 2.8% | 6,938 of 5,834 notification records · 100.0% | EU notification records and the transposition clauses in the acts | done |
 | EU law in Romanian | ue/<kind>/<year>/<number>/ | 0.5% | 16,409 of 16,415 EU acts · 100.0% | the Romanian Official Journal text of each regulation and directive in force | done |
 | **Parliament and President** | | | | | |
 | Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 9,090 of 9,678 decrees · 93.9% | promulgation data on each law; normative decrees as acts | collecting |
 | Parliament decisions | hotarare-parlament/ | 0.4% | 5,625 of 7,050 decisions · 79.8% | official texts as published | planned |
 | **Legislative history and publications** | | | | | |
-| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills-<year>.csv | 5.4% | 76,471 of 241,946 acts; 10,032 of 10,124 laws (+2 more) · 49.5% | the Chamber of Deputies' act sheets and bill files | collecting |
+| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills-<year>.csv | 5.4% | 76,471 of 245,139 acts; 10,032 of 10,124 laws (+2 more) · 49.2% | the Chamber of Deputies' act sheets and bill files | collecting |
 | Draft acts in public consultation | proiect/<initiator>/<year>/ | 0.9% | target unknown | official drafts and explanatory notes as published, each stage appended | collecting |
-| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 241,946 of 241,946 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
+| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 245,139 of 245,139 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
 | Collective labour agreements (MO Part V) | cct/ | 0.3% | 0 of 57 agreements · 0.0% | official texts as published | planned |
 | **Historical law** | | | | | |
 | Historical law | cod/ (old codes), decret-lege/, pre-1990 lege/ and decret/ | 2.4% | 9 of 10 codes and statutes; 111 of 200 decree-laws (+1 more) · 67.3% | built by hand from the official texts | collecting |
