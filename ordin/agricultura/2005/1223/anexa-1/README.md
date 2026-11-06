@@ -1,4 +1,4 @@
-# Anexa nr. 1: Lista cu gradatori autorizati Nr.crt Nume Prenume CNP 1 Adam Ioan 1550604221150 2 Albert Ildiko 2700401141044 3 Babiaș Eugenia-Dorina 2621214221131 4 Bacs Maria-Katalin 2550108141075 5 Bălăiță Mariana
+# Anexa nr. 1: Lista cu gradatori autorizati Nr.crt Nume Prenume CNP 1 Adam Ioan [CNP omis] 2 Albert Ildiko [CNP omis] 3 Babiaș Eugenia-Dorina [CNP omis] 4 Bacs Maria-Katalin [CNP omis] 5 Bălăiță Mariana
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
