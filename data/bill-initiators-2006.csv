@@ -1,9 +1,11 @@
 bill,law,initiator,role
 l1-2006,,Gheorghe Funar - senator PRM Verginia Vedinaş - senator PRM Valentin Dinescu - senator PRM Liviu Doru Bindea - senator PRM Petru Stan,senator PRM
 l10-2006,,Vasile Puşcaş,PSD
+l100-2006,,Paula Ivănescu - Alianţă PNL,PD
 l1000-2006,,Zamfir Dumitrescu - independent,
 l1001-2006,,Varujan Pambuccian - Grupul parlamentar al Minorităţilor Naţionale Ibram Iusein - Grupul parlamentar al Minorităţilor Naţionale,
 l1002-2006,,Mircia Giurgiu - independent,
+l1003-2006,,Pete Stefan - senator UDMR Puskas Valentin Zoltan,senator UDMR
 l1004-2006,,Dumitru Constantin - senator PNL Peres Alexandru - senator PD Pete Stefan - senator UDMR Tamas Sandor - deputat UDMR Hoinaru Marian,deputat PNL
 l1005-2006,,Toro Tiberiu - UDMR Erdei Doloczki Istvan - UDMR Kerekes Karoly,UDMR
 l1006-2006,,Daniela Popa - PC Bogdan Ciucă - PC Petru Călian - PC Constantin Faina,PC
@@ -17,6 +19,8 @@ l1012-2006,,Gheorghe Funar - senator PRM Aurel Ardelean - senator PRM Petru Stan
 l1013-2006,,Gheorghe Funar - senator PRM Aurel Ardelean - senator PRM Petru Stan - senator PRM Valentin Dinescu - senator PRM Ioan Corodan - senator PRM Ilie Petrescu - senator PRM Adrian Moisoiu - deputat PRM Dumitru D. Zamfirescu - deputat PRM Ioan Aurel Rus - deputat PRM Dumitru Avram,deputat PRM
 l1015-2006,,Titu Nicolae Gheorghiof - PNL Karoly Kerekeş,UDMR
 l1017-2006,,Petru Lificiu - independent,
+l1018-2006,,Ibram Iusein - Grupul Parlamentar al Minorităţilor Naţionale,
+l102-2006,,Dan Voiculescu,PC
 l1020-2006,,Sandu Gabriel - PNL Toma Horia Victor - PNL Preda Ion - PNL Hoinaru Marian - PNL Gerea Andrei Dominic,PNL
 l1024-2006,,Marius Marinescu,senator PD
 l1025-2006,,Iordache Florin,PSD
@@ -38,6 +42,7 @@ l106-2006,,Leonard Cazan,deputat PSD
 l107-2006,,Stoica Ilie,PC
 l109-2006,,Ştefan Valeriu Zgonea - PSD Diaconescu Marin - PSD Iordache Florin - PSD Matei Cătălin Lucian,PSD
 l110-2006,,Ştefan Valeriu Zgonea - PSD Diaconescu Marin - PSD Iordache Florin - PSD Matei Cătălin Lucian,PSD
+l111-2006,,Igaş Constantin - PD Iacob-Ridzi Monica,PD
 l112-2006,,Vasile Pruteanu - PNL Dorin Ursărescu,PNL
 l113-2006,,Marius Marinescu - senator PD Bogdan Olteanu,deputat PNL
 l114-2006,,Cristian Alexandru Boureanu,PNL
@@ -60,27 +65,34 @@ l131-2006,,Aledin Amet - Minorităţi Naţionale,
 l132-2006,,Vasile Puşcaş,PSD
 l133-2006,,Constantin Niţă,PSD
 l134-2006,,Senator: Rodica Mihaela Stănoiu - PSD Deputaţi: Aurelia Vasile - PSD Manuela Mitre - PSD Ştefan Valeriu Zgonea - PSD Diaconescu Marin - PSD Iordache Florin - PSD Matei Cătălin Lucian - PSD Bentu Dumitru,PSD
+l135-2006,,Florin Iordache - PSD Ovidiu Brânzan - PSD Nechita Aurel,PSD
+l136-2006,,Viorica Moisuc - PRM Gheorghe Funar - PRM Aurel Ardelean,PRM
 l137-2006,,Dan Ioan Popescu - PSD Aurelia Vasile - PSD Florin Iordache - PSD Dumitru Bentu - PSD Valeriu Ungureanu,PSD
 l138-2006,,Dan Ioan Popescu - PSD Aurelia Vasile - PSD Florin Iordache - PSD Dumitru Bentu - PSD Valeriu Ungureanu,PSD
 l139-2006,,Soporan Vasile Filip - PSD Sârbu Mugurel,PSD
 l140-2006,,Viorel Hrebenciuc - PSD Cindrea Ioan - PSD Chiş Filonaş - PSD Giurescu Ion - PSD Nosa Iuliu,PSD
 l141-2006,,Ştirbu Monica-Mihaela,PNL
 l142-2006,,Gheorghe Funar - PRM Constantin Găucan - PRM Nicolae Iorga - PRM Viorel Dumitrescu - PRM Aurel Ardelean - PRM Valentin Dinescu - PRM Petru Stan - PRM Ilie Petrescu - PRM Claudiu Tănăsescu,PRM
+l143-2006,,Gheorghe Funar - PRM Viorica Moisuc - PRM Valentin Dinescu - PRM Irina Loghin - PRM Constantin Găucan - PRM Aurel Ardelean - PRM Verginia Vedinaş - PRM Ilie Petrescu - PRM Viorel Dumitrescu - PRM Nicolae Iorga,PRM
 l144-2006,,Dan Horaţiu Buzatu,PNL
 l145-2006,,Stelian Duţu,PD
 l146-2006,,Stelian Duţu,PD
+l148-2006,,Mircia Giurgiu - Independent,
 l149-2006,,Marin Diaconescu - PSD Cătălin Lucian Matei - PSD Florin Iordache,PSD
 l150-2006,,Dan Ştefan Motreanu - PNL Gabriel Sandu,PNL
 l151-2006,,Rareş Mănescu - PNL Mihăiţă Calimente,PNL
+l152-2006,,Sever Şter,PSD
 l153-2006,,Mihai Tudose - PSD Aurel Gabriel Simionescu,PSD
 l154-2006,,Nicolae Popa - PC Bogdan Pascu,PC
 l155-2006,,Grigore Crăciunescu,PNL
 l157-2006,,Mircia Giurgiu - independent,
 l158-2006,,Marin Diaconescu - PSD Cătălin Lucian Matei - PSD Florin Iordache,PSD
 l159-2006,,Mircia Giurgiu - independent,
+l160-2006,,Senatori: Sever Şter - PSD Ilie Sârbu - PSD Petre Daea - PSD Doina Silistru - PSD Ion Florescu - PSD Deputaţi: Filip Georgescu - PSD Ion Dumitru - PSD Cătălin Matei,PSD
 l161-2006,,Viorel Dumitrescu - PRM Gheorghe Funar - PRM Ilie Petrescu - PRM Aurel Ardelean - PRM Verginia Vedinaş - PRM Liviu Doru Bindea - PRM Valentin Dinescu - PRM Nicolae Iorga,PRM
 l162-2006,,Senator: Ilie Sârbu - PSD Deputaţi: Vasile Filip Soporan - PSD Ioan Munteanu - PSD Mugurel Sârbu - PSD Liviu Timar,PSD
 l164-2006,,Senatori: Gheorghe Funar - PRM Aurel Ardelean - PRM Dan Claudiu Tănăsescu - PRM Petru Stan - PRM Ilie Ilaşcu - PRM Ilie Petrescu - PRM Deputaţi: Ioan Aurel Rus - PRM Zamfireacu Dan - PRM Dumitru Avram,PRM
+l165-2006,,Mircea Valer Puşcă,PNL
 l166-2006,,Ion Moraru,senator PSD
 l166-2006,,Geoană Mircea-Dan,senator PSD
 l166-2006,,Ion Iliescu,senator PSD
@@ -88,20 +100,26 @@ l166-2006,,Petru Şerban Mihăilescu,senator PSD
 l166-2006,,Miron Mitrea,deputat PSD
 l166-2006,,Gabriel Vasile,deputat PSD
 l166-2006,,Eugen Bejenariu,deputat PSD
+l167-2006,,Slavomir Gvozdenovici,
 l178-2006,,Lavinia Şandru - independent Aurelian Pavelescu - independent Cozmin Guşă - independent,
 l179-2006,,Gheorghe Funar - PRM Verginia Vedinaş - PRM Viorel Dumitrescu - PRM Valentin Dinescu - PRM Petru Stan - PRM Aurel Ardelean - PRM Dan Claudiu Tănăsescu - PRM Nicolae Iorga - PRM Ilie Petrescu - PRM Constantin Găucan,PRM
 l182-2006,,Adrian Semcu - PNL Dumitru Pardău - PNL Ionel Palăr,PNL
+l183-2006,,Emil Strungă,PNL
 l185-2006,,Senatori: Gheorghe Funar - PRM Dan-Claudiu Tănăsescu - PRM Aurel Ardelean - PRM Viorel Dumitrescu - PRM Nicolae Iorga - PRM Valentin Dinescu - PRM Ilie Ilaşcu - PRM Deputaţi: Ioan Aurel Rus - PRM Dumitru Avram,PRM
 l186-2006,,Senatori: Ion Toma - PSD Ovidiu Teodor Creţu - PSD Ştefan Mihail Antonie - Alianţa PNL - PD Viorel Arcaş - PSD Ion Florescu - PSD Deputat: Renică Diaconescu,PC
 l187-2006,,Senatori: Gheorghe Funar - PRM Dan Claudiu Tănăsescu - PRM Petru Stan - PRM Nicolae Iorga - PRM Aurel Ardelean - PRM Ilie Petrescu - PRM Valentin Dinescu - PRM Constantin Găucan - PRM Deputaţi: Ioan Aurel Rus - PRM Dan Zamfireacu,PRM
 l188-2006,,Ioan Olteanu - PD Augustin Zegrean - PD Daniel Buda,PD
 l189-2006,,Marian Sârbu - PSD Iulian Iancu - PSD Octavian Ştireanu - PSD Adrian Severin - PSD Victor Ponta - PSD Gabriel Oprea - PSD Ion Mocioalcă - PSD Eugen Bejinariu - PSD Bădălău Niculae - PSD Pop Claudiu,PSD
+l190-2006,,Giurgiu Mircia - independent,
 l191-2006,,Dan Horaţiu Buzatu - PNL Ovidiu Ioan Silaghi,PNL
+l192-2006,,Mircia Giurgiu - Independent,
 l193-2006,,Senatori: Gheorghe Funar - PRM Dan Claudiu Tănăsescu - PRM Viorel Dumitrescu - PRM Ilie Ilaşcu - PRM Aurel Ardelean - PRM Ilie Petrescu - PRM Dumitru Avram - PRM Adrian Moisiu - PRM Ioan Aurel Rus - PRM Dan Zamfirescu,PRM
 l194-2006,,Daniel Iluşcă - Alianţa PNL,PD
 l196-2006,,Filonaş Chiş - PSD Iuliu Nosa,PSD
 l197-2006,,Paul Magheru - PRM Ilie Merce - PRM Adrian Moisoiu - PRM Ştiucă Alcsandru,PSD
 l198-2006,,Senatori: Marius Marinescu - senator PD Teodor Meleşcanu - Alianţa PNL - PD Nicolae Neagu - Alianţa PNL - PD Virginia Şerbănescu - Alianţa PNL - PD Cristian Cucuian - Alianţa PNL - PD Ivan Cismaru - Alianţa PNL - PD Marin Bobeş - Alianţa PNL - PD Cristache Rădulescu - Alianţa PNL - PD Jan Vraciu - Alianţa PNL - PD Dorel Jurcan - Alianţa PNL - PD Dan Cârlan - Alianţa PNL - PD Ştefan Mihail Antonie - Alianţa PNL - PD Mario-Oprea Ovidiu - Alianţa PNL - PD Ioan Mihai Dumitrescu - Alianţa PNL - PD Radu Câmpeanu - Alianţa PNL - PD Ion Basgan - Alianţa PNL - PD Mihail Lupoi - Alianţa PNL - PD Alexandru Ioan Morţun - Alianţa PNL - PD Norica Nicolai - Alianţa PNL - PD Nicolae-Vlad Popa - Alianţa PNL - PD Constantin Dumitru - Alianţa PNL - PD Daniel Iluşcă - Alianţa PNL - PD Ionel Popescu - Alianţa PNL - PD Strătilă Şerban - Alianţa PNL - PD Radu Stroe - Alianţa PNL - PD Verestoz Attila - UDMR Gyorgy Frunda - UDMR Radu Terinte - PC Ilie Stoica - PC Deputaţi: Cezar Preda - PD Nicolae Bara - PD Romeo Raicu,PD
+l199-2006,,Monica Iacob-Ridzi - PD Constantin Traian Igaş,PD
+l200-2006,,Marius Marinescu,senator PD
 l201-2006,,Alexandru Ciocâlteu - independent Costel Ovidenie - independent Dan Mocănescu - independent Ion Stoica - independent Olguţa Cocrea - independent Bogdan Cataragiu - independent Dan Grigore - independent Daniel Ionescu - independent Mircia Giurgiu - independent,
 l202-2006,,Dan Ioan Popescu - PSD Aurelia Vasile - PSD Ioan Bivolaru,PSD
 l203-2006,,Mihai Cristian Apostolache - PSD Claudiu Iulian Mandea,PSD
@@ -109,6 +127,7 @@ l209-2006,,Lavinia Şandru - independent Aurelian Pavelescu - independent Cozmin
 l211-2006,,Senatori: Marius Marinescu - senator PD Nicolae Neagu - senator PD Cristache Rădulescu - senator PD Jan Vraciu - senator PD Romeo Raicu - deputat PD Nicolae Bara,deputat PD
 l212-2006,,Senatori: Stănoiu Rodica - PSD Moraru Ion - PSD Deputaţi: Nassar Rodica - PSD Iordache Florin - PSD Bejenariu Eugen,PSD
 l213-2006,,Rareş Mănescu - PNL Mihăiţă Calimente - PNL Dragoş Ujeniuc,PNL
+l215-2006,,Mate Andras Levente,UDMR
 l222-2006,,Crin Antonescu - PNL Titu Gheorghiof - PNL Dan Motreanu - PNL Cornel Ştirbeţ,PNL
 l223-2006,,Stelian Duţu,PD
 l229-2006,,Ioan Oltean,PD
@@ -141,25 +160,37 @@ l302-2006,,Antal Istvan - UDMR Erdei-Doloczki Istvan,UDMR
 l303-2006,,Senator: Mircea Mereuţă - PNL Deputat: Mihai Sandu-Capră,PNL
 l304-2006,,Ioan Olteanu - PD Augustin Zegrean - PD Daniel Buda,PD
 l306-2006,,Ţâbuleac Mihai,PNL
+l307-2006,,Alexandru Ioan Morţun,PNL
+l308-2006,,Marius Marinescu,senator PD
 l309-2006,,Minodora Cliveti - PSD Rodica Nassar - PSD Aura Vasile - PSD Sandor Tamas,UDMR
 l310-2006,,Viorel Arion -senator PNL,
+l311-2006,,Mircea Valer Puşcă,PNL
 l320-2006,,Cornelia Ardelean,PC
 l321-2006,,Viorel Oancea - PNL Petre Ungheanu - PNL Mario Ovidiu Oprea - Alianţa DA Emilian Frâncu,PNL
+l322-2006,,Marius Marinescu - senator PD Cristian David - senator PNL Bogdan Olteanu,deputat PNL
+l323-2006,,Marius Marinescu,senator PD
+l325-2006,,Marius Marinescu,senator PD
 l326-2006,,Marius Marinescu,senator PD
 l327-2006,,Alexandru Peres - PD Gheorghe David - PD Cornelia Cazacu,PD
 l328-2006,,Silvia-Adriana Ţicău - PSD Aurel Gabriel Simionescu,PSD
+l329-2006,,Gyorgy Frunda,UDMR
 l330-2006,,Radu Cătălin Drăguş - PD Laurenţiu Mironescu,PD
 l331-2006,,Băeşu George - PSD Iancu Iulian - PSD Corlăţean Titus - PSD Iordache Florin - PSD Brînzan Ovidiu - PSD Tănăsescu Mihai,PSD
 l334-2006,,Dan Mihalache - PSD Zamfir Dumitrescu - PSD Eugen Nicolicea - PSD Radu Podgoreanu - PSD Titus Corlăţeanu - PSD Răzvan Theodorescu - PSD Cristian Diaconescu -PSD Otilian Neagoe,PSD
 l335-2006,,Dan Voiculescu - PC Nicolae Popa - PC Constantin Faina,PC
+l336-2006,,Marius Marinescu,senator PD
 l341-2006,,Raluca Turcan - PNL Valentin Adrian Iliescu - PD Cristian Rădulescu,PD
 l351-2006,,Senatori: Ungureanu Vasile Dănuţ - PSD Vărgău Ion - PSD Deputaţi: Ciper Gheorghe - PSD Iordache Florin,PSD
 l352-2006,,Graţiela Iordache - PC Adrian Mihnei - PC Ioan Ţundrea,PC
+l353-2006,,Marius Marinescu - senator PD Cristian David - senator PNL Bogdan Olteanu,deputat PNL
+l354-2006,,Marius Marinescu,senator PD
+l355-2006,,Sever Şter  PSD,
 l356-2006,,Nicolae Popa,PC
 l357-2006,,Minodora Cliveti - PSD Tamas Sandor,UDMR
 l358-2006,,Cornelia Ardelean - PC Bogdan Ciucă,PC
 l360-2006,,Radu Cristian Georgescu - PSD Aurel Gabriel Simionescu - PSD Silvia-Adriana Ticău - PSD Angel Tîlvar,PSD
 l361-2006,,Oancea Viorel,PNL
+l362-2006,,Gyorgy Frunda,UDMR
 l364-2006,,Marius Marinescu,senator PD
 l370-2006,,Ştefan Pete - senator UDMR Fekete-Szabó András-Levente - senator UDMR Peter Lakatos - deputat UDMR Cornel Popa - deputat PNL Valeriu Victor Boieriu,deputat PNL
 l371-2006,,Tâbuleac Mihai,PNL
@@ -174,6 +205,8 @@ l389-2006,,Ştefan Bardan - PD Petru Movilă,PD
 l390-2006,,Doina Silistru - senator PSD Ilie Sârbu - senator PSD Petre Daea - senator PSD Sever Şter - senator PSD Ioan Munteanu - deputat PSD Ion Dumitru - deputat PSD Filip Georgescu - deputat PSD Vasile Mocanu - deputat PSD Ion Mocioalcă - deputat PSD Ioan Stan - deputat PSD Constantin Tămagă - deputat PSD Liviu Timar,deputat PSD
 l391-2006,,Doina Silistru - senator PSD Ilie Sârbu - senator PSD Petre Daea - senator PSD Sever Şter - senator PSD Ioan Munteanu - deputat PSD Ion Dumitru - deputat PSD Filip Georgescu - deputat PSD Vasile Mocanu - deputat PSD Ion Mocioalcă - deputat PSD Ioan Stan - deputat PSD Constantin Tămagă - deputat PSD Liviu Timar,deputat PSD
 l392-2006,,Doina Silistru - senator PSD Ilie Sârbu - senator PSD Petre Daea - senator PSD Sever Şter - senator PSD Ioan Munteanu - deputat PSD Ion Dumitru - deputat PSD Filip Georgescu - deputat PSD Vasile Mocanu - deputat PSD Ion Mocioalcă - deputat PSD Ioan Stan - deputat PSD Constantin Tămagă - deputat PSD Liviu Timar,deputat PSD
+l393-2006,,Marius Marinescu - senator PD Cezar Preda - deputat PD Cismaru Ivan - senator PD Bobeş Marin - senator PD Neagu Nicolae - senator PD Alexandru Pereş - senator PD Rădulescu Cristache - senator PD Şerbănescu Virginia - senator PD Jurcan Dorel - senator PD Ţîrle Radu - senator PD Zegrean Augustin - deputat PD Ioan Oltean - deputat PD Daniel Buda,deputat PD
+l395-2006,,Marius Marinescu,senator PD
 l396-2006,,Gheorghe Funar - senator PRM Dan Claudiu Tănăsescu - senator PRM Viorel Dumitrescu - senator PRM Aurel Ardelean - senator PRM Ilie Petrescu - senator PRM Ioan Aurel Rus - deputat PRM Dumitru Avram - deputat PRM Adrian Moisoiu - deputat PRM Iuliu Ioan Furo,deputat PRM
 l397-2006,,Romeo Marius Raicu,PD
 l398-2006,,Pruteanu Vasile - PNL Ursărescu Dorinel,PNL
@@ -188,30 +221,37 @@ l408-2006,,Petru Călin - PC Hellvig Eduard Raul - PC Popescu Ionica Constanţa 
 l409-2006,,Gheorghe Funar - senator PRM Viorel Dumitrescu - senator PRM Aurel Ardelean - senator PRM Valentin Dinescu - senator PRM Ioan Aurel Rus - deputat PRM Dumitru Avram,deputat PRM
 l421-2006,,Graţiela Iordache - PC Adrian Mihei,PC
 l423-2006,,Chiper Gheorghe - PSD Sârb Gheorghe - PSD Timar Liviu,PSD
+l424-2006,,Cornelia Ardelean,PC
 l425-2006,,Dan Voiculescu - senator PC Romeo Hanganu - deputat PC Constantin Faina - deputat PC Andrian Mihei Sirojea,deputat PC
+l426-2006,,Marius Marinescu,senator PD
 l427-2006,,Gheorghe Funar - senator PRM Carol Dina - senator PRM Dan Claudiu Tănăsescu - senator PRM Valentin Dinescu - senator PRM Ilie Ilaşcu - senator PRM Viorel Dumitrescu - senator PRM Aurel Ardelean - senator PRM Ilie Petrescu - senator PRM Ioan Aurel Rus - deputat PRM Dumitru Avram - deputat PRM Adrian Moisoiu,deputat PRM
 l428-2006,,Aledin Amet,deputat Grupul parlamentar al Minorităţilor Naţionale
 l429-2006,,Horea Uioreanu - PNL Mircea Puşcă - PNL Augustin Zegrean - PD Daniel Buda,PD
 l432-2006,,Sandu Gabriel - PNL Toma Horia - Victor,PNL
+l433-2006,,Avram Dumitru,PRM
 l435-2006,,Monica Iacob Ridzi - PD Petru Movilă - PD Cezar Preda - PD Mircea Man - PD Romeo Raicu - PD Traian Igaş - PD Ştefan Bardan - PD Liviu Miroşeanu - PD Laurenţiu Mironescu,PD
 l436-2006,,Ilie Sârbu - senator PSD Petre Daea - senator PSD Doina Silistru - senator PSD Sever Şter - senator PSD George Maior - senator PSD Mihaela Rusu - deputat PSD Mihai Tănăsescu - deputat PSD Ioan Munteanu - deputat PSD Ion Dumitru - deputat PSD Filip Georgescu - deputat PSD Vasile Mocanu - deputat PSD Ion Mocioalcă - deputat PSD Ioan Stan - deputat PSD Constantin Tămagă - deputat PSD Liviu Timar,deputat PSD
 l437-2006,,Dan Voiculescu - senator PC Nicolae Popa - deputat PC Bogdan Ciucă - deputat PC Constantin Faina - deputat PC Atilla Kelemen - deputat UDMR Valeriu Tabără - deputat PD Ioan Munteanu,deputat PSD
+l439-2006,,Gabriel Vlase - deputat PSD Eugen Bejinariu - deputat PSD Ioan Munteanu - deputat PSD Ion Moraru - senator PSD Dan Mircea Popescu - senator PSD Doru Ioan Tărăcilă - senator PSD Ilie Sârbu - senator PSD Ion Solcanu - senator PSD Otilian Neagoe - senator PSD Viorel Ştefan - senator PSD Petre Şerban Mihăilescu,senator PSD
 l440-2006,,Senatori şi Deputaţi: Gheorghe Funar - senator PRM Aurel Ardelean - senator PRM Dan Claudiu Tănăsescu - senator PRM Valentin Dinescu - senator PRM Ioan Aurel Rus - deputat PRM Adrian Moisoiu - deputat PRM Dumitru Avram - deputat PRM Dan Dumitru Zamfirescu - deputat PRM Viorel Dumitrescu,senator PRM
 l441-2006,,Dan Voiculescu - senator PC Daniela Popa,deputat PC
 l443-2006,,Minodora Cliveti - deputat PSD Rodica Nassar - deputat PSD Aurelia Vasile - deputat PSD Marian Sârbu,deputat PSD
 l444-2006,,Florin Popescu,deputat PNL
 l445-2006,,Relu Fenechiu,deputat PNL
+l446-2006,,Marius Marinescu,senator PD
 l447-2006,,Gheorghe Funar - senator PRM Viorel Dumitrescu - senator PRM Valentin Dinescu - senator PRM Dan Claudiu Tănăsescu - senator PRM Vasile Dan Ungureanu - senator PSD Ioan Aurel Rus - deputat PRM Dumitru Avram - deputat PRM Adrian Moisoiu,deputat PRM
 l449-2006,,Moldovan Emil Radu - PSD Matei Cătălin,PSD
 l450-2006,,Gheorghe Funar - PRM Tiberiu Aurelian Prodan - PNL Verginia Vedinaş - PRM Aurel Gabriel Simionescu,PSD
 l452-2006,,Manta Pantelimon - PC Romanescu Marcel - PD Stoica Ion - independent,
 l453-2006,,Ecaterina Andronescu - PSD Mihai Dumitriu - PSD Petru Andea - PSD Găleteanu Monalisa - PSD Alexandru Ştiucă - PSD Dumitru Bentu - PSD Mircia Giurgiu - independent Pantelimon Manta - PC Anghel Stanciu - PSD Marcel Laurenţiu Romanescu - PD Gabriela Nedelcu - PSD Ioan Buda - PSD Ion Preda - PNL Horia Victor Toma,PNL
+l461-2006,,Giurgiu Mircia - independent,
 l463-2006,,Cornelia Ardelean - PC Petru Călian,PC
 l464-2006,,Aurelia Vasile - PSD Minodora Cliveti - PSD Rodica Nassar - PSD Ioan Bivolaru,PSD
 l465-2006,,Viorel Arion,PNL
 l466-2006,,Iulian Iancu - deputat PSD Ioan Bivolaru - deputat PSD Ioan Munteanu - deputat PSD Aurelia Vasile - deputat PSD Ioan Chelaru,senator PSD
 l467-2006,,Silvia Adriana Ticău - PSD Csaba Sogor - UDMR Dan Mircea Popescu - PSD Cornelia Cazacu - PD Radu Cristian Georgescu - PSD Paul Păcuraru - PNL Aurel Simionescu - PSD Irina Loghin - PRM Angel Tâlvar - PSD Nicolae Iorga - PRM Silvia Ciornei,PC
 l468-2006,,Szekely Levente - UDMR Bonis Istvan - UDMR Emil Strungă - PNL Mate Andras Levente,UDMR
+l469-2006,,Mircia Giurgiu - independent,
 l470-2006,,Cosmin Gabriel Popp - PD Augustin Zegrean - PD Daniel Buda - PD Iulian Gabriel Bârsan - PD Constantin Traian Igaş,PD
 l478-2006,,Gheorghe Funar - senator PRM Aurel Ardelean - senator PRM Dan Claudiu Tănăsescu - senator PRM Viorel Gheorghe Dumitrescu - senator PRM Valentin Dinescu - senator PRM Petru Stan - senator PRM Constantin Găucan - senator PRM Ilie Petrescu - senator PRM Ioan Aurel Rus - deputat PRM Adrian Moisoiu - deputat PRM Dan Dumitru Zamfirescu - deputat PRM Dumitru Avram,deputat PRM
 l487-2006,,Stroe Radu - senator PNL Boeriu Valeriu-Victor - deputat PNL Buzatu Dan Horaţiu - deputat PNL Motreanu Dan Ştefan - deputat PNL Scutaru George - deputat PNL Zaharia Claudius,deputat PNL
@@ -224,8 +264,10 @@ l495-2006,,Rareş Mănescu - PNL Mihăiţă Calimente - PNL Frâncu Emilian-Vale
 l496-2006,,Gheorghe Funar - senator PRM Aurel Ardelean - senator PRM Petru Stan - senator PRM Dan Claudiu Tănăsescu - senator PRM Viorel Dumitrescu - senator PRM Adrian Moisoiu,deputat PRM
 l497-2006,,Gheorghe Funar - PRM Aurel Ardelean - PRM Petru Stan - PRM Dan Claudiu Tănăsescu - PRM Viorel Dumitrescu - PRM Nicolae Iorga - senator PRM Valentin Dinescu,PRM
 l498-2006,,Horea Dorin Uioreanu - PNL Sandu Gabriel,PNL
+l499-2006,,Mircea Mereuţă - PNL Alexandru Pereş - PD Ştefan Pete,UDMR
 l5-2006,,Mircea Grosaru - Grup minorităţi naţionale,
 l500-2006,,Ivan Cismaru,PD
+l501-2006,,Petru Călian,PC
 l502-2006,,Florin Popescu - PNL Emilian Frâncu,PNL
 l503-2006,,Preda Ion,PNL
 l504-2006,,Daniel Buda - PD Mircea Man - PD Ioan Oltean - PD Augustin Zegrean,PD
@@ -249,6 +291,7 @@ l556-2006,,Sen. Verestoi Attila - UDMR Dep. Antal Istvan - UDMR Dep. Asztalos Fe
 l561-2006,,Mircea Mereuţă -denator PNL Pardău Dumitru -deputat PNL Kelemen Atilla -deputat UDMR,
 l563-2006,,Viorel Arcaş - senator PSD Ion Florescu - senator PSD Constantin Amarie - deputat PSD Amet Aledin - deputat Minorităţi Naţionale Ibram Iusein,deputat Minorităţi Naţionale
 l564-2006,,Valeriu Tabără - deputat PD Cristian Rădulescu - deputat PD Ghiorghioni Ionesie - deputat PD Traian Igaş - deputat PD Adrian Semcu - deputat PNL Nicolae Popa - deputat PC Corneliu Pascu - senator PC Nicolae Petru Ioţcu,senator PD
+l565-2006,,Mihai Ţâbuleac,PNL
 l566-2006,,Lavinia Şandru Cozmin Guşă,
 l567-2006,,Seres Denes - UDMR Antal Arpad Andras,UDMR
 l569-2006,,Rareş Mănescu - PNL Mihăiţă Calimente - PNL Emilian Frâncu,PNL
@@ -256,6 +299,8 @@ l570-2006,,Ioan Ghişe - PNL Adrian Miuţescu - PNL Emil Strungă - PNL Gheorghe
 l572-2006,,Ioan Munteanu - PSD Vasile Mocanu - PSD Ioan Stan - PSD Ioan Mocioalcă - PSD Ion Dumitru - PSD Liviu Timar,PSD
 l573-2006,,Puskas Zoltan - UDMR Pete Istvan - UDMR Nemeth Csaba - UDMR Fekete-Szabó András-Levente,UDMR
 l574-2006,,Puskas Zoltan - UDMR Pete Istvan - UDMR Nemeth Csaba - UDMR Fekete-Szabó András-Levente,UDMR
+l575-2006,,Gyorgy Frunda,UDMR
+l581-2006,,Cornelia Ardelean,PC
 l583-2006,,Dan Horaţiu Buzatu - PNL Adrian Gheorghe Miuţescu - PNL Ioan Ghişe - PNL Ionel Palăr,PNL
 l584-2006,,Varujan Pambuccian - Grupul parlamentar al Minorităţilor Naţionale,
 l585-2006,,Varujan Pambuccian - Grupul parlamentar al Minorităţilor Naţionale,
@@ -277,10 +322,13 @@ l590-2006,,Puskas Zoltan - UDMR Pete Istvan - UDMR Nemeth Csaba - UDMR Fekete-Sz
 l591-2006,,Paul Magheru - PRM Adrian Moisoiu - PRM Merce Ilie - PRM Claudiu Pop,PSD
 l592-2006,,Nicolae Popa - PC Cornelia Ardelean - PC Renică Diaconescu - PC Sergiu Andon - PC Tudor Constantin - PC Ciucă Bogdan - PC Romeo Hanganu - PC Constantin Faina,PC
 l597-2006,,Paul Magheru - PRM Adrian Moisoiu - PRM Claudiu Pop - PSD Petru Andea - PSD Marcel Romanescu - PD Iulian-G. Bârsan - PD Pantelimon Manta,PC
+l6-2006,,Cristian Alexandru Boureanu,PNL
+l656-2006,,Marius Marinescu,senator PD
 l658-2006,,Marius Marinescu - senator PD Ţîrle Radu - senator PD Şerbănescu Verginia - senator PD Vraciu Jan,senator PD
 l662-2006,,Ghişe Ioan - PNL Momamu Corneliu - PNL Silaghi Ovidiu - PNL Buzatu Horaţiu - PNL Strungă Emil - PNL Andreica Romica - PNL Antonescu Crin - PNL Văleanu Adina Ioana - PNL Miuţescu Adrian - PNL Sandu Gabriel - PNL Mircea Valer Puşcă - PNL Săpunaru Nini - PNL Uioreanu Horea Dorin - PNL Coşea Mircea - PNL Bărbuleţiu Tiberiu - PNL Craciunescu Grigore - PNL Gerea Andrei Dominic - PNL Zaharia Claudius - PNL Pruteanu Vasile - PNL Frâncu Emilian-Valentin - PNL Mircea Cinteză,senator PNL
 l663-2006,,Viorel Arion,PNL
 l664-2006,,Viorel Arion - PNL Puiu Haşotti,PNL
+l665-2006,,Giurgiu Mircia - independent,
 l666-2006,,Sorin Paveliu - PNL Ioan Ghişe - PNL Emilian Frâncu - PNL Nini Săpunaru,PNL
 l667-2006,,Ion Solcanu - PSD Mihai Ungheanu - PRM Sabin Cutaş - PC Răzvan Theodorescu - PSD Gheorghe Funar - PRM Viorica Moisuc,PRM
 l668-2006,,Preda Ion - PNL Luchian Ion,PNL
@@ -310,6 +358,7 @@ l690-2006,,Varujan Vosganian,PNL
 l691-2006,,Pascu Corneliu - senator PC David Gheorghe - senator PD Dumitru Constantin - senator PNL Pereş Alexandru - senator PD Daea Petre - senator PSD Pete Stefan - senator UDMR Mircea Mereuţă - senator PNL Silistru Doina - senator PSD Popa Nicolae - deputat PC Semcu Adrian - deputat PNL Kelleman Atilla,deputat UDMR
 l692-2006,,Moldovan Emil Radu - PSD Matei Cătălin,PSD
 l693-2006,,Mircea Costache - PRM Moisoiu Adrian - PRM Mînzînă Ion - PRM Magheru Paul,PRM
+l694-2006,,Mircia Giurgiu - independent,
 l695-2006,,Mircia Giurgiu - independent,
 l696-2006,,Gheorghe Funar - PRM Dan Claudiu Tănăsescu - PRM Valentin Dinescu,PRM
 l697-2006,,Dan Iosif - PSD Săniuţă Marian - PSD Voicu Cătălin - PSD Ionescu Daniel - PSD Amarie Constantin - PSD Iordache Florin - PSD Tărniceru Petru,PSD
@@ -317,8 +366,10 @@ l698-2006,,Olguţa Cocrea - independent Mircia Giurgiu - independent Dan Mocăne
 l699-2006,,Olguţa Cocrea - independent Mircia Giurgiu - independent Dan Mocănescu - independent Costel Ovidenie - independent Ion Stoica - independent,
 l7-2006,,Senatori: Pete Ştefan - UDMR Puscas Valentin Zoltan - UDMR Fekete-Szabó András-Levente - UDMR Deputaţi: Seres Denes,UDMR
 l700-2006,,Minodora Cliveti - PSD Ioan Timiş,PSD
+l701-2006,,Paula Maria Ivănescu,PD
 l702-2006,,Paul Păcuraru,PNL
 l704-2006,,Ovidiu Brânzan - PSD Nechita Aurel - PSD Vasile Puşcaş,PSD
+l706-2006,,Paul Păcuraru,PNL
 l707-2006,,Mircia Giurgiu - independent,
 l708-2006,,Valeriu Tabără,PD
 l709-2006,,Romeo Raicu - deputat PD Mihai Stănişoară - deputat PD Constantin Niţă - deputat PSD Daniela Buruiană - Aprodu - deputat PRM George Cristian Maior - senator PSD Daniel Iluşcă,senator PNL
@@ -360,6 +411,7 @@ l78-2006,,Gheorghe Funar - PRM Nicolae Iorga - PRM Verginia Vedinaş - PRM Carol
 l781-2006,,Seres Denes - UDMR Kiraly Andrei,UDMR
 l784-2006,,Ovidiu Rădoi - senator PNL Mircea Mereuţă,senator PNL
 l79-2006,,Giurgiu Mircia - independent,
+l797-2006,,Dan Voiculescu,PC
 l798-2006,,Nicula Cosmin - deputat PSD Tudose Mihai - deputat PSD Manda Claudiu - deputat PSD Zgonea Valeriu Ştefan - deputat PSD Mitrea Miron-Tudor - deputat PSD Hrebenciuc Viorel - deputat PSD Bobeanu Răzvan Petrică - deputat PSD Martin Eduard Stelian - deputat PSD Mazăre Alexandru - deputat PSD Dorneanu Valer - deputat PSD Nicolae Şerban,senator PSD
 l799-2006,,Viorel Arion,PNL
 l8-2006,,Senatori: Gheorghe Funar - PRM Constantin Găucan - PRM Aurel Ardelean - PRM Dan Claudiu Tănăsescu - PRM Ilie Ilaşcu - PRM Viorel Dumitrescu - PRM Deputaţi: Dragoş Dumitriu,PRM
@@ -371,10 +423,12 @@ l801-2006,,Ion Sasu,deputat PSD
 l801-2006,,Monalisa găleteanu,PSD
 l801-2006,,Valeriu Zgonea,deputat PSD
 l801-2006,,Florea Voinea,deputat PSD
+l806-2006,,Mate Andras-Levente,UDMR
 l807-2006,,Becsek-Garda Dezso,UDMR
 l809-2006,,Adrian Moisoiu Mircea Costache Paul Magheru Alexandru Ştiucă Petru Călian Petru Movilă Gheorghe Funar Ilie Petrescu,
 l810-2006,,Olguţa Cocrea Mircia Giurgiu Leonida Lari Iorga Dan Mocănescu Costel Ovidenie Ion Stoica,
 l811-2006,,Gheorghe Funar - senator PRM Aurel Ardelean - senator PRM Valentin Dinescu - senator PRM Dan Claudiu Tănăsescu,senator PRM
+l816-2006,,Danie Buda,PD
 l818-2006,,Sorin Marian Paveliu,PNL
 l819-2006,,Viorel Arion,PNL
 l82-2006,,Rareş Mănescu - PNL Mihăiţă Calimente,PNL
@@ -385,6 +439,7 @@ l83-2006,,Horaţiu Dan Buzatu,PNL
 l834-2006,,Ion Moraru - PSD Otilian Neagoe,PSD
 l836-2006,,Mate Andras Levente - deputat UDMR Bonis Istvan - deputat UDMR Nemeth Csaba - senator UDMR Fekete-Szabó András-Levente,senator UDMR
 l837-2006,,Varujan Vosganian - senator PNL Adrian Păunescu - senator PSD Mihai Mălaimare,deputat PNL
+l839-2006,,Mircia Giurgiu - independent,
 l84-2006,,Radu-Cătălin Drăguş - PD Cristian Rădulescu,PD
 l841-2006,,Paul Păcuraru - senator PNL Emil Strungă - deputat PNL Silvia Adriana Ţicău,deputat PNL
 l842-2006,,Rareş Mănescu - deputat PNL Mihăiţă Calimente - deputat PNL Dan Motreanu - deputat PNL Mario Ovidiu Oprea,senator PNL
@@ -397,6 +452,7 @@ l851-2006,,Aurel Vainer - deputat Grupul Minorităţilor Naţionale Nicolae Pău
 l852-2006,,Angela Buciu - deputat PRM Adrian Moisoiu - deputat PRM Vladimir Fârşirotu - deputat PRM Petru Călian - deputat PC Florin Iordache - deputat PSD Verginia Vedinaş - senator PRM Mihai Ungheanu,senator PRM
 l853-2006,,Gabriel Sandu - PNL Dan Ştefan Motreanu - PNL Dan Mihai Marian - PNL Cristian Alexandru Boureanu,PNL
 l854-2006,,Dan Voiculescu - senator PC Daniela Popa - deputat PC Petre Călian,deputat PC
+l856-2006,,Ion Florescu,PSD
 l857-2006,,Garda Deszo - UDMR Atilla Kelemen - UDMR Valeriu Tabără - PD Ioan Munteanu - PSD Nicolae Popa,PC
 l858-2006,,Vasile Filip Soporan,PSD
 l859-2006,,Vasile Filip Soporan,PSD
@@ -404,14 +460,18 @@ l86-2006,,Senatori: Gheorghe Funar - PRM Dan-Claudiu Tănăsescu - PRM Constanti
 l860-2006,,Vasile Filip Soporan,PSD
 l861-2006,,Popa Aron Ioan,senator PNL
 l862-2006,,Viorel Arion,senator PNL
+l863-2006,,Paula Ivănescu,senator PD
 l864-2006,,Alecsandru Ştiucă - PSD Ion Călin - PSD Ioan Buda - PSD Vladimir Alexandru Mănăstireanu - PSD Mihai Dumitriu - PSD Monalisa Găleteanu,PSD
 l865-2006,,Alexandru Mazăre - PSD Martin Eduard Stelian - PSD Dida Corneliu Ioan,PSD
+l866-2006,,Ovidiu Ganţ - minorităţi Aurel Vainer - minorităţi,
 l867-2006,,Nati Meir - independent,
+l868-2006,,Cristian Mihai Adomniţei,PNL
 l869-2006,,Dan Voiculescu - senator PC Daniela Popa - deputat PC Bogdan Ciucă,deputat PC
 l87-2006,,Gheorghe Funar - PRM Dan-Claudiu Tănăsescu - PRM Ilie petrescu,PRM
 l870-2006,,Mircia Giurgiu - independent Cocrea Olguţa - independent Mocănescu Coloros Dan Constantin - independent Ovidenie Costel - independent Stoica Ion - independent Dumitriu Mihai - PSD Mircea Puşcă,PNL
 l871-2006,,Dan Mircea Popescu - senator PSD Viorel Ştefan - senator PSD Radu Cătălin Mardare - senator PSD Ion Florescu - senator PSD Viorel Arcaş,senator PSD
 l874-2006,,Şerban Nicolae - Senator PSD Puiu Haşotti - Senator PNL Gavrilă Vasilescu - Senator PC Hrebenciuc Viorel - deputat PSD Antonescu Crin Laurenţiu - deputat PNL Mînzînă Ion - deputat PRM Marton Arpad Francisc - deputat UDMR Ciucă Liviu Bogdan,deputat PC
+l875-2006,,Mihai Radan - Grupul parlamentar al Minoritaţilor naţionale,
 l877-2006,,Lupoi Mihail,senator PNL
 l877-2006,,Popa Aron Ioan,senator PNL
 l879-2006,,Eugen Nicolicea,deputat PSD
@@ -419,13 +479,19 @@ l88-2006,,Paul Magheru - PRM Ilie Merce - PRM Claudiu Pop,PSD
 l880-2006,,Gabriel Sandu,PNL
 l881-2006,,Adrian Moisoiu - PRM Paul Magheru - PRM Costache Mircea - PRM Florin Iordache - PSD Kerekes Karoly - UDMR Constantin Traian Igaş - PD Ştefan Cornel Bardan - PD Romeo Raicu - PD Ionesie Ghiorghioni - PD Dumitru Bentu,PSD
 l882-2006,,Gabriela Creţu,PSD
+l890-2006,,Puiu Haşotti,senator PNL-PD
 l891-2006,,Horea Dorin Uioreanu - PNL Mircea Valer Puşcă,PNL
+l892-2006,,Mircea Valer Puşcă PNL Horea Dorin Uioreanu,
 l893-2006,,Buşoi Cristian PNL Luchian Ion PNL Câmpanu Liviu PNL Boeriu Valeriu Victor PNL Movilă Petru PD Bonis Istvan UDMR,
+l894-2006,,Nicolae Vlad Popa -senator PNL-PD Viorel Arion -senator PNL-PD,
 l895-2006,,Zoltan Puskas-senator UDMR Arpad Andras Antal -deputat UDMR,
+l896-2006,,Puskas V Zoltan- senator UDMR Pete Stefan- senator UDMR,
+l897-2006,,Silvia Ciornei - senator PC Gheorghe Copos - senator PC George Sabin Cutaş -senator PC Constantin Gheorghe - senator PC Corneliu Pascu - senator PC Irinel Popescu - senator PC Ioan Codruţ Sereş -senator PC Ilie Stoica -senator  PC Radu Terinte - senator PC Gavrilă Vasilescu,senator PC Dan Voiculescu -senator  PC
 l898-2006,,Kerekes Karoly -UDMR,
 l899-2006,,Aurel Simionescu -senator PSD Mihai Tudose -deputat PSD,
 l90-2006,,Ioan Oltean - PD Augustin Zegrean - PD Daniel Buda,PD
 l900-2006,,Cătălin Micula -deputat PNL Cornel Popa -deputat PNL Cristian Boureanu -deputat PNL Relu Fenechiu -deputat PNL,
+l901-2006,,Varujan Vosganian -senator DA PNL-PD Viorel Ştefan -senator PSD,
 l902-2006,,Silvia Ciornei - PC George Copos,PC
 l903-2006,,Atilla Kelemen - UDMR Florin Iordache - PSD Csaba Levente Szekely - UDMR Ioan Munteanu - PSD Adrian Semcu - PNL Nicolae Popa - PC Petre Dragoş Dumitriu - PRM Valeriu Tabără,PD
 l904-2006,,Daniel Buda - PD Ioan Oltean - PD Monica Iacob Ridzi - PD Augustin Zegrean,PD
@@ -437,19 +503,24 @@ l91-2006,,Igaş Constantin Traian - PD Rădulescu Cristian - PD Albu Gheorghe - 
 l911-2006,,Gabriel Sandu,PNL
 l912-2006,,Mihai Dumitriu - PSD Monalisa Găleteanu - PSD Alecsandru Ştiucă - PSD Mircia Giurgiu - independent,
 l913-2006,,Mircia Giurgiu - independent,
+l914-2006,,Mircia Giurgiu - independent,
 l917-2006,,Viorel Arion - senator PNL Ovidiu Ioan Silaghi,deputat PNL
 l919-2006,,Marius Marinescu,senator PD
 l92-2006,,Marian Sorin Paveliu - PNL Rădulescu Cristian,PD
 l920-2006,,Marius Marinescu,senator PD
+l921-2006,,Marius Marinescu,senator PD
 l922-2006,,Daniela Popa - PC Bogdan Ciucă,PD Petru Călin- PC
 l923-2006,,Mircia Giurgiu - independent,
 l924-2006,,Florin Iordache - PSD Adrian Moisoiu - PRM Dumitru Bentu - PSD Minodora Cliveti,PSD
 l93-2006,,Relu Fenechiu - PNL Cornel Ştirbeţ,PNL
 l932-2006,,Varujan Vosganian - senator PNL Marko Bela - senator UDMR Popa Aron Ioan - senator PNL Duţu Stelian - deputat PD Adrian Păunescu,senator PSD
+l933-2006,,Liana Dumitrescu - Grupul parlamentar al Minorităţilor Naţionale,
 l935-2006,,Rareş Mănescu - deputat PNL Mihăiţă Calimente - deputat PNL Nini Săpunaru - deputat PNL Emilian Frâncu - deputat PNL Mario-Ovidiu Oprea,senator PNL
 l942-2006,,Gheorghe Funar - senator PRM Adrian Moisoiu - deputat PRM Ştefan Baban - deputat PRM Ion Mînzînă,deputat PRM
 l943-2006,,Adrian Semcu - PNL Dumitru Pardău - PNL Ionel Palăr - PNL Romică Andreica,PNL
 l944-2006,,Minodora Cliveti,PSD
+l945-2006,,Mircia Giurgiu - independent,
+l946-2006,,Mircia Giurgiu - independent,
 l947-2006,,Aurel Vlădoiu - PSD Ioan Cindrea - PSD Marian Sârbu,PSD
 l948-2006,,Gabriel Sandu,PNL
 l949-2006,,Gabriel Sandu,PNL
@@ -476,16 +547,61 @@ l983-2006,,Rareş Mănescu - deputat PNL Mihăiţă Calimente - deputat PNL Nini
 l984-2006,,Victor-Viorel Ponta - PSD Daciana Octavia Sârbu - PSD Radu-Emil Moldovan,PSD
 l989-2006,,Nini Săpunaru - deputat PNL Corneliu Momanu - deputat PNL Dragoş Ujeniuc,deputat PNL
 l99-2006,,Senatori: Gheorghe Funar - PRM Verginica Vedinaş - PRM Dan-Claudiu Tănăsescu - PRM Nicolae Iorga - PRM Ilie Petrescu - PRM Aurel Ardelean - PRM Doru Liviu Bindea - PRM Valentin Dinescu - PRM Petru Stan - PRM Deputaţi: Dumitru Avram,PRM
+l990-2006,,Deputaţi,
 l997-2006,,Ioan Stan,PSD
 l998-2006,,Mircia Giurgiu - independent,
-plx-109-2006,legea-250-2006,Senatori: Marius Marinescu - senator PD Teodor Meleşcanu - Alianţa PNL - PD Nicolae Neagu - Alianţa PNL - PD Virginia Şerbănescu - Alianţa PNL - PD Cristian Cucuian - Alianţa PNL - PD Ivan Cismaru - Alianţa PNL - PD Marin Bobeş - Alianţa PNL - PD Cristache Rădulescu - Alianţa PNL - PD Jan Vraciu - Alianţa PNL - PD Dorel Jurcan - Alianţa PNL - PD Dan Cârlan - Alianţa PNL - PD Ştefan Mihail Antonie - Alianţa PNL - PD Mario-Oprea Ovidiu - Alianţa PNL - PD Ioan Mihai Dumitrescu - Alianţa PNL - PD Radu Câmpeanu - Alianţa PNL - PD Ion Basgan - Alianţa PNL - PD Mihail Lupoi - Alianţa PNL - PD Alexandru Ioan Morţun - Alianţa PNL - PD Norica Nicolai - Alianţa PNL - PD Nicolae-Vlad Popa - Alianţa PNL - PD Constantin Dumitru - Alianţa PNL - PD Daniel Iluşcă - Alianţa PNL - PD Ionel Popescu - Alianţa PNL - PD Strătilă Şerban - Alianţa PNL - PD Radu Stroe - Alianţa PNL - PD Verestoz Attila - UDMR Gyorgy Frunda - UDMR Radu Terinte - PC Ilie Stoica - PC Deputaţi: Nicolae Bara - PD Romeo Raicu,PD
-plx-113-2006,legea-215-2006,Asztalos Ferenc,UDMR
+plx-109-2006,legea-250-2006,Bobeş Marin,
+plx-109-2006,legea-250-2006,Antonie Ştefan-Mihail,
+plx-109-2006,legea-250-2006,Cârlan Dan,
+plx-109-2006,legea-250-2006,Cismaru Ivan,
+plx-109-2006,legea-250-2006,Cucuian Cristian,
+plx-109-2006,legea-250-2006,Dumitru Constantin,
+plx-109-2006,legea-250-2006,Jurcan Dorel,
+plx-109-2006,legea-250-2006,Popescu Ionel,
+plx-109-2006,legea-250-2006,Şerbănescu Verginia,
+plx-109-2006,legea-250-2006,Vraciu Jan,
+plx-109-2006,legea-250-2006,Frunda György,
+plx-109-2006,legea-250-2006,Verestóy Attila,
+plx-109-2006,legea-250-2006,Marinescu Marius,
+plx-109-2006,legea-250-2006,Basgan Ion,
+plx-109-2006,legea-250-2006,Câmpeanu Radu Anton,
+plx-109-2006,legea-250-2006,Dumitrescu Ion Mihai,
+plx-109-2006,legea-250-2006,Iluşcă Daniel,
+plx-109-2006,legea-250-2006,Lupoi Mihail,
+plx-109-2006,legea-250-2006,Meleşcanu Teodor Viorel,
+plx-109-2006,legea-250-2006,Morţun Alexandru Ioan,
+plx-109-2006,legea-250-2006,Nicolai Norica,
+plx-109-2006,legea-250-2006,Oprea Mario-Ovidiu,
+plx-109-2006,legea-250-2006,Stoica Ilie,
+plx-109-2006,legea-250-2006,Strătilă Şerban-Cezar,
+plx-109-2006,legea-250-2006,Stroe Radu,
+plx-109-2006,legea-250-2006,Terinte Radu,
+plx-113-2006,legea-215-2006,Asztalos Ferenc,
 plx-124-2006,legea-36-2007,Dan Horaţiu Buzatu,PNL
 plx-128-2006,legea-17-2007,Bogdan Pascu,PC
 plx-148-2006,legea-132-2006,Varujan Vosganian - Alianţa PNL,PD
-plx-170-2006,legea-333-2006,Roberta Anastase - PD Cristian Adomniţei - PNL Antal Andras - UDMR Cristian Boureanu - PNL Kovacs Atilla - UDMR Monica Iacob Ridzi - PD Cosmin Popp - PD Ştefan Motreanu - PNL Liviu Nistoran,PD
+plx-170-2006,legea-333-2006,Adomniţei Cristian Mihai,
+plx-170-2006,legea-333-2006,Boureanu Cristian Alexandru,
+plx-170-2006,legea-333-2006,Motreanu Dan-Ştefan,
+plx-170-2006,legea-333-2006,Anastase Roberta Alma,
+plx-170-2006,legea-333-2006,Iacob Ridzi Monica Maria,
+plx-170-2006,legea-333-2006,Nistoran Dorin-Liviu,
+plx-170-2006,legea-333-2006,Popp Cosmin Gabriel,
+plx-170-2006,legea-333-2006,Antal Árpád-András,
+plx-170-2006,legea-333-2006,Kovacs Attila,
 plx-173-2006,legea-183-2006,Varujan Pambuccian - Minoritati Nationale,
-plx-175-2006,legea-351-2006,Daciana Sârbu - PSD Gabriela Nedelcu - PSD Victor Ponta - PSD Claudiu Manda - PSD Claudiu Pop - PSD Radu Moldovan - PSD Cătălin Buhăianu - PSD Nicolae Bănicioiu - PSD Cosmin Nicula - PSD Răzvan Bobeanu - PSD Mihai Apostolache - PSD Vladimir Mănăstireanu - PSD Cătălin Matei,PSD
+plx-175-2006,legea-351-2006,Apostolache Mihai Cristian,
+plx-175-2006,legea-351-2006,Bănicioiu Nicolae,
+plx-175-2006,legea-351-2006,Bobeanu Răzvan-Petrică,
+plx-175-2006,legea-351-2006,Manda Iulian Claudiu,
+plx-175-2006,legea-351-2006,Matei Cătălin Lucian,
+plx-175-2006,legea-351-2006,Mănăstireanu Vladimir Alexandru,
+plx-175-2006,legea-351-2006,Moldovan Emil Radu,
+plx-175-2006,legea-351-2006,Nedelcu Gabriela,
+plx-175-2006,legea-351-2006,Nicula Vasile Cosmin,
+plx-175-2006,legea-351-2006,Ponta Victor-Viorel,
+plx-175-2006,legea-351-2006,Pop Claudiu Adrian,
+plx-175-2006,legea-351-2006,Buhăianu-Obuf Cătălin Ovidiu,
 plx-178-2006,legea-96-2007,Nechita Aurel,
 plx-178-2006,legea-96-2007,Buşoi Cristian Silviu,
 plx-178-2006,legea-96-2007,Câmpanu Liviu,
@@ -494,9 +610,24 @@ plx-178-2006,legea-96-2007,Ifrim Mircea,
 plx-178-2006,legea-96-2007,Bónis István,
 plx-182-2006,legea-257-2006,Maria Petre Marian Hoinaru Dan Grigore,
 plx-183-2006,legea-291-2006,Kiraly Andrei - UDMR Seres Denes,UDMR
-plx-191-2006,legea-129-2006,Deputaţi:Romeo Raicu - PD Mihai Stănişoara - PD Daniel Buda - PD Traian Igaş - PD Radu Lambrino - PD Mircea Man - PD Petru Movilă,PD Senator:Nicolae Ioţcu -Alianţa PNL-PD
-plx-192-2006,legea-201-2006,Roberta Anastase- PD Cristian Adomniţei -PNL Antal Andras -UDMR Cristian Boureanu -PNL Kovacs Atilla -UDMR Monica Iacob Ridzi -PD Cosmin Popp - PD Ştefan Motreanu- PNL Liviu Nistoran,PD
-plx-194-2006,legea-232-2006,Alexandru Ioan Morţun,PNL
+plx-191-2006,legea-129-2006,Buda Daniel,
+plx-191-2006,legea-129-2006,Igaş Traian Constantin,
+plx-191-2006,legea-129-2006,Lambrino Radu,
+plx-191-2006,legea-129-2006,Man Mircea,
+plx-191-2006,legea-129-2006,Movilă Petru,
+plx-191-2006,legea-129-2006,Raicu Romeo Marius,
+plx-191-2006,legea-129-2006,Stănişoară Mihai,
+plx-191-2006,legea-129-2006,Ioţcu Petru Nicolae,
+plx-192-2006,legea-201-2006,Adomniţei Cristian Mihai,
+plx-192-2006,legea-201-2006,Boureanu Cristian Alexandru,
+plx-192-2006,legea-201-2006,Motreanu Dan-Ştefan,
+plx-192-2006,legea-201-2006,Anastase Roberta Alma,
+plx-192-2006,legea-201-2006,Iacob Ridzi Monica Maria,
+plx-192-2006,legea-201-2006,Nistoran Dorin-Liviu,
+plx-192-2006,legea-201-2006,Popp Cosmin Gabriel,
+plx-192-2006,legea-201-2006,Antal Árpád-András,
+plx-192-2006,legea-201-2006,Kovacs Attila,
+plx-194-2006,legea-232-2006,Morţun Alexandru Ioan,
 plx-199-2006,legea-265-2007,Bivolaru Ioan,
 plx-199-2006,legea-265-2007,Vasile Aurelia,
 plx-199-2006,legea-265-2007,Calimente Mihăiţă,
@@ -507,10 +638,17 @@ plx-199-2006,legea-265-2007,Eserghep Gelil,
 plx-199-2006,legea-265-2007,Buda Daniel,
 plx-199-2006,legea-265-2007,Zegrean Augustin,
 plx-199-2006,legea-265-2007,Tănăsescu Dan Claudiu,
-plx-214-2006,legea-340-2006,Minodira Cliveti- PSD Cornelia Ardelean- PC Gheorghe Firczak- Minorităţi Olguţa Cocrea- independent Doina Dreţcanu- PSD Marius Iriza - PRM Sandor Tamaş,UDMR
+plx-214-2006,legea-340-2006,Cocrea Olguţa,
+plx-214-2006,legea-340-2006,Cliveti Minodora,
+plx-214-2006,legea-340-2006,Dreţcanu Doina Micşunica,
+plx-214-2006,legea-340-2006,Iriza Marius,
+plx-214-2006,legea-340-2006,Tamás Sándor,
+plx-214-2006,legea-340-2006,Ardelean Lia,
+plx-214-2006,legea-340-2006,Firczak Gheorghe,
 plx-221-2006,legea-194-2006,Ion Basgan - Alianţa PNL - PD Varujan Vosganian - Alianţa PNL - PD Ion Solcanu - PSD Sabin Cutaş - PC Gheorghe Funar - PRM Ştefan Pete,UDMR
 plx-223-2006,legea-228-2006,Gheorghe Gabor - PNL Petre Ungureanu,PNL
 plx-227-2006,legea-63-2007,Senator Tiberiu Aurelian Prodan - PNL deputat Mihai Sandu Capră,PNL
+plx-240-2006,legea-229-2006,Alexandru Pereş -senator PD Gheorghe David -senator PD,
 plx-242-2006,legea-315-2006,Alexandru Athanasiu - PSD Angel Tîlvăr,PSD
 plx-253-2006,legea-16-2007,Mircovici Niculae,
 plx-256-2006,legea-482-2006,Anastase Roberta Alma,
@@ -518,8 +656,11 @@ plx-256-2006,legea-482-2006,Boagiu Anca-Daniela,
 plx-256-2006,legea-482-2006,Bruchental-Pop Ionela,
 plx-256-2006,legea-482-2006,Petre Maria,
 plx-256-2006,legea-482-2006,Popa Dan Gabriel,
+plx-258-2006,legea-276-2006,Petru Călian,PRM
 plx-260-2006,legea-272-2006,Claudiu Iulian Manda - PSD Victor Viorel Ponta - PSD Dan Nica - PSD Alin George Teodorescu - PSD Cosmin Vasile Nicula - PSD Radu Emil Moldovan - PSD Vladimir Alexandru Mănăstireanu,PSD
-plx-29-2006,legea-163-2006,Aurel Gabriel Simionescu -senator PSD Mihai Tudose -deputat PSD,
+plx-288-2006,legea-465-2006,Mate Andras Levente,UDMR
+plx-29-2006,legea-163-2006,Tudose Mihai,
+plx-29-2006,legea-163-2006,Simionescu Aurel Gabriel,
 plx-300-2006,legea-461-2006,Valeriu Tabără,PD
 plx-301-2006,legea-423-2006,Godja Petru,
 plx-31-2006,legea-193-2006,Norica Nicolai - PNL Mihail Antonie,PNL
@@ -528,8 +669,13 @@ plx-311-2006,legea-281-2006,Maria Petre-senator PD,
 plx-314-2006,legea-309-2006,Rareş Mănescu - PNL Mihăiţă Calimente,PNL
 plx-315-2006,legea-339-2006,Viorel Arion - PNL Puiu Haşotti,PNL
 plx-316-2006,legea-287-2006,Eugen Nicolăescu - PNL Mihai Sandu-Capră,PNL
-plx-322-2006,legea-341-2006,Gabriel Sorin Zamfir,PNL
-plx-334-2006,legea-320-2006,Ioan Muntean - PSD Vasile Mocanu - PSD Ioan Stan - PSD Ion Mocioalcă - PSD Liviu Timar - PSD Ion Dumitru,PSD
+plx-322-2006,legea-341-2006,Zamfir Gabriel Sorin,
+plx-334-2006,legea-320-2006,Dumitru Ion,
+plx-334-2006,legea-320-2006,Mocanu Vasile,
+plx-334-2006,legea-320-2006,Mocioalcă Ion,
+plx-334-2006,legea-320-2006,Munteanu Ioan,
+plx-334-2006,legea-320-2006,Stan Ioan,
+plx-334-2006,legea-320-2006,Timar Liviu,
 plx-335-2006,legea-342-2006,Ion Dumitru - PSD Ioan Munteanu,PSD
 plx-345-2006,legea-380-2006,Marius Marinescu,senator PD
 plx-353-2006,legea-442-2006,Rareş Mănescu - PNL Mihăiţă Calimente,PNL
@@ -550,7 +696,16 @@ plx-392-2006,legea-129-2007,Zgonea Valeriu Ştefan,
 plx-408-2006,legea-349-2006,Radu Câmpeanu - Alianţa PNL - PD Ion Basgan - Alianţa PNL,PD
 plx-410-2006,legea-336-2006,Silistru Doina - PSD Ilie Sârbu,PSD
 plx-42-2006,legea-239-2006,Dorin-Liviu Nistoran - PD Costică Canacheu,PD
-plx-434-2006,legea-292-2006,Lia Olguţa Vasilescu - PRM Horia Toma Victor - PNL Ion Preda - PNL Daniel Buda - PD Marcel Laurenţiu Romanescu - PD Pantelimon Manta - PC Damian Florea - PC Iulian Claudiu Manda - PSD Florin Iordache,PSD
+plx-432-2006,legea-398-2006,Irinel Popescu - PC Aurel Ardelean,PRM
+plx-434-2006,legea-292-2006,Iordache Florin,
+plx-434-2006,legea-292-2006,Manda Iulian Claudiu,
+plx-434-2006,legea-292-2006,Preda Ion,
+plx-434-2006,legea-292-2006,Toma Horia-Victor,
+plx-434-2006,legea-292-2006,Vasilescu Lia Olguţa,
+plx-434-2006,legea-292-2006,Buda Daniel,
+plx-434-2006,legea-292-2006,Romanescu Marcel Laurenţiu,
+plx-434-2006,legea-292-2006,Florea Damian,
+plx-434-2006,legea-292-2006,Manta Pantelimon,
 plx-452-2006,legea-435-2006,Atilla Kelemen - UDMR Csaba Szekely - UDMR Adrian Semcu - PNL Valeriu Tabără - PD Ioan Munteanu - PSD Nicolae Popa - PC Mircia Giurgiu - independent,
 plx-463-2006,legea-365-2006,Wiliam Brânză - independent,
 plx-472-2006,legea-394-2006,Marius Marinescu,senator PD
@@ -560,13 +715,13 @@ plx-482-2006,legea-335-2007,Nicula Vasile Cosmin,
 plx-482-2006,legea-335-2007,Ponta Victor-Viorel,
 plx-482-2006,legea-335-2007,Tudose Mihai,
 plx-483-2006,legea-266-2008,Senatori: Mircea Cinteză - PNL Deputaţi: Cristian Silviu Buşoi - PNL Marian Sorin Paveliu - PNL Bogdan Olteanu - PNL Mihai Voicu - PNL Valeriu Victor Boeriu - PNL Ion Luchian - PNL Liviu Câmpanu - PNL Emilian Valentin Frâncu - PNL Grigore Crăciunescu - PNL Cristian Rădulescu - PD Bonis Istvan - UDMR Renică Diaconescu,PC
-plx-490-2006,legea-348-2006,David Gheorghe,senator PD
-plx-490-2006,legea-348-2006,Haşotti Puiu,senator PNL
-plx-490-2006,legea-348-2006,Ioţcu Petru Nicolae,senator PD
-plx-490-2006,legea-348-2006,Pereş Alexandru,senator PD
-plx-490-2006,legea-348-2006,Popa Dan Gabriel,senator PD
+plx-490-2006,legea-348-2006,David Gheorghe,
+plx-490-2006,legea-348-2006,Pereş Alexandru,
+plx-490-2006,legea-348-2006,Popa Dan Gabriel,
+plx-490-2006,legea-348-2006,Haşotti Puiu,
 plx-499-2006,legea-290-2006,Attila Kelemen - UDMR Adrian Semcu - PNL Marian Hoinaru,PNL
 plx-500-2006,legea-345-2006,Cornel Popa,PNL
+plx-509-2006,legea-376-2006,Rareş Mănescu - PNL Mihăiţă Calimente,PNL
 plx-510-2006,legea-35-2007,Adrian Năstase - PSD Petru Andea - PSD Mihai Dumitriu - PSD Anghel Stanciu - PRM Alecsandru Ştiucă - PSD Ecaterina Andronescu - PSD Monalisa Gălăeteanu,PSD
 plx-519-2006,legea-258-2007,Cismaru Ivan,
 plx-519-2006,legea-258-2007,David Gheorghe,
@@ -579,24 +734,51 @@ plx-519-2006,legea-258-2007,Tîlvăr Angel,
 plx-519-2006,legea-258-2007,Ardelean Aurel,
 plx-519-2006,legea-258-2007,Sógor Csaba,
 plx-519-2006,legea-258-2007,Popescu Irinel,
+plx-525-2006,legea-360-2006,Cornelia Ardelean,PC
 plx-527-2006,legea-377-2006,Bogdan Pascu,PC
-plx-528-2006,legea-402-2006,Cornel Popa - deputat PNL Eduard Hellvig - deputat PC Radu Ţârle - senator PD Peter Lakatos - deputat UDMR Claudiu Pop,deputat PSD
+plx-528-2006,legea-402-2006,Pop Claudiu Adrian,
+plx-528-2006,legea-402-2006,Popa Cornel,
+plx-528-2006,legea-402-2006,Lakatos Petru,
+plx-528-2006,legea-402-2006,Hellvig Eduard Raul,
+plx-528-2006,legea-402-2006,Ţîrle Radu,
 plx-529-2006,legea-371-2006,Corneliu Momanu,PNL
 plx-530-2006,legea-178-2009,Buda Daniel,
 plx-530-2006,legea-178-2009,Oltean Ioan,
 plx-544-2006,legea-230-2007,Cezar Preda,PD
-plx-565-2006,legea-390-2006,Ioan Stan - PSD Ioan Munteanu - PSD Ion Dumitru - PSD Vasile Mocanu,PSD
-plx-567-2006,legea-372-2006,Silvia Ciornei,PC
+plx-565-2006,legea-390-2006,Dumitru Ion,
+plx-565-2006,legea-390-2006,Mocanu Vasile,
+plx-565-2006,legea-390-2006,Munteanu Ioan,
+plx-565-2006,legea-390-2006,Stan Ioan,
+plx-567-2006,legea-372-2006,Ciornei Silvia,
 plx-575-2006,legea-81-2007,Bejinariu Eugen,
 plx-575-2006,legea-81-2007,Oancea Viorel,
 plx-575-2006,legea-81-2007,Scutaru Adrian George,
 plx-575-2006,legea-81-2007,Zaharia Claudius Mihail,
 plx-575-2006,legea-81-2007,Stănişoară Mihai,
 plx-575-2006,legea-81-2007,Văsioiu Horia,
-plx-589-2006,legea-357-2006,Norica Nicolai - senator PNL-PD Radu Stroe - senator PNL-PD Iluşcă Daniel - senator PNL-PD Mihaiţă Calimente - deputat PNL Oancea Viorel - deputat PNL Scutaru George - deputat PNL Zaharia Claudius Mihail,deputat PNL
+plx-588-2006,legea-330-2006,Marius Marinescu - senator PD Nicolae-Vlad Popa,senator PNL
+plx-589-2006,legea-357-2006,Calimente Mihăiţă,
+plx-589-2006,legea-357-2006,Oancea Viorel,
+plx-589-2006,legea-357-2006,Scutaru Adrian George,
+plx-589-2006,legea-357-2006,Zaharia Claudius Mihail,
+plx-589-2006,legea-357-2006,Iluşcă Daniel,
+plx-589-2006,legea-357-2006,Nicolai Norica,
+plx-589-2006,legea-357-2006,Stroe Radu,
+plx-590-2006,legea-393-2006,Gvozdenovici Slavomir - Grupul parlamentar al Minorităţilor Naţionale,
 plx-591-2006,legea-406-2006,Strungă Emil,PNL
-plx-62-2006,legea-138-2006,Dorinel Ursărescu - PNL Gabriel Sandu,PNL
-plx-633-2006,legea-395-2006,Dan Horaţiu Buzatu - PNL Liviu Câmpan - PNL Gheorghe Dragomir - PNL Ioan Hoban - PNL Mircea Iustian - PNL Mihai Sandu Capră - PNL Ioan Ovidiu Silaghi - PNL Emil Strungă - PNL Mihai Mălaimare - PNL Dan Mihai Marian - PNL Adina Vălean,PNL
+plx-62-2006,legea-138-2006,Sandu Gabriel,
+plx-62-2006,legea-138-2006,Ursărescu Dorinel,
+plx-633-2006,legea-395-2006,Buzatu Dan Horaţiu,
+plx-633-2006,legea-395-2006,Câmpanu Liviu,
+plx-633-2006,legea-395-2006,Dragomir Gheorghe,
+plx-633-2006,legea-395-2006,Hoban Ioan,
+plx-633-2006,legea-395-2006,Iustian Mircea Teodor,
+plx-633-2006,legea-395-2006,Marian Dan Mihai,
+plx-633-2006,legea-395-2006,Mălaimare Mihai Adrian,
+plx-633-2006,legea-395-2006,Sandu-Capră Mihai,
+plx-633-2006,legea-395-2006,Silaghi Ovidiu Ioan,
+plx-633-2006,legea-395-2006,Strungă Emil,
+plx-633-2006,legea-395-2006,Vălean Adina Ioana,
 plx-641-2006,legea-480-2006,Andea Petru,
 plx-641-2006,legea-480-2006,Andronescu Ecaterina,
 plx-641-2006,legea-480-2006,Diaconescu Renică,
@@ -654,15 +836,16 @@ plx-652-2006,legea-490-2006,Moisoiu Adrian,
 plx-652-2006,legea-490-2006,Buhăianu-Obuf Cătălin Ovidiu,
 plx-652-2006,legea-490-2006,Solcanu Ion,
 plx-670-2006,legea-425-2006,Mihai Ţâbuleac - PNL Şerban Cezar Strătilă,PNL
-plx-685-2006,legea-391-2006,Gabriel Sandu - PNL Mircea Ciopraga - PNL Rareş Mănescu,PNL
+plx-685-2006,legea-391-2006,Ciopraga Mircea,
+plx-685-2006,legea-391-2006,Mănescu Rareş Şerban,
+plx-685-2006,legea-391-2006,Sandu Gabriel,
 plx-686-2006,legea-453-2006,Frâncu Emilian Valentin,
 plx-686-2006,legea-453-2006,Amet Aledin,
 plx-687-2006,legea-509-2006,Silistru Doina - PSD David Gheorghe,PD
-plx-688-2006,legea-403-2006,David Gheorghe,senator PD
-plx-688-2006,legea-403-2006,Haşotti Puiu,senator PNL
-plx-688-2006,legea-403-2006,Ioţcu Petru Nicolae,senator PD
-plx-688-2006,legea-403-2006,Pereş Alexandru,senator PD
-plx-688-2006,legea-403-2006,Popa Dan Gabriel,senator PD
+plx-688-2006,legea-403-2006,David Gheorghe,
+plx-688-2006,legea-403-2006,Pereş Alexandru,
+plx-688-2006,legea-403-2006,Popa Dan Gabriel,
+plx-688-2006,legea-403-2006,Haşotti Puiu,
 plx-689-2006,legea-424-2006,Victor Sanda - PSD Stan Ion - PSD Dumitru Ion - PSD Hanganu Romeo - PC Petrea Constantin,PD
 plx-690-2006,legea-516-2006,Paveliu Marian Sorin,
 plx-70-2006,legea-308-2006,Dep. Viorel Oancea - PNL Dep. Ungureanu Petre - PNL Sen. Gheorghe David,PNL
@@ -676,6 +859,7 @@ plx-723-2006,legea-88-2010,Iordache Graţiela Denisa,
 plx-73-2006,legea-362-2006,Kerekes Karoly - UDMR Borbely Laszlo - UDMR Kelemen Atilla,UDMR
 plx-74-2006,legea-361-2006,Kerekes Karoly - UDMR Borbely Laszlo - UDMR Kelemen Atilla - UDMR Georgescu Radu Cristian - PSD Nicolăescu Gheorghe-Eugen - PNL Timar Liviu - PSD Antonie Ştefan Mihail,PNL
 plx-742-2006,legea-108-2007,Ioan Oltean,PD
+plx-749-2006,legea-24-2007,Petru Lificiu - independent,
 plx-759-2006,legea-485-2006,Ştirbu Monica Mihaela - deputat PNL Motreanu Dan Ştefan - deputat PNL Norica Nicolai - senator PNL Teodor Meleşcanu,senator PNL
 plx-772-2006,legea-15-2007,Ionica Popescu - PC Liviu Almăşan - PC Romeo Hanganu,PC
 plx-778-2006,legea-148-2007,Asztalos Ferenc,
@@ -784,6 +968,7 @@ plx-868-2006,legea-48-2007,Rădulescu Cristian,
 plx-868-2006,legea-48-2007,Străchinaru Petre,
 plx-868-2006,legea-48-2007,Găucan Constantin,
 plx-868-2006,legea-48-2007,Popa Dan Gabriel,
+plx-88-2006,legea-164-2006,Máté András-Levente,
 plx-884-2006,legea-501-2006,Gheorghiof Titu Nicolae,
 plx-884-2006,legea-501-2006,Iorgovan Antonie,
 plx-886-2006,legea-321-2007,Dan Sabău,PNL

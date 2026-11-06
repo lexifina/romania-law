@@ -74,6 +74,7 @@ l113-2008,,Oltean Ioan,deputat PD
 l113-2008,,Preda Cezar Florin,deputat PD
 l113-2008,,Rădulescu Cristian,deputat PD
 l113-2008,,Rogin Marius,deputat PD
+l114-2008,,Ardelean Lia,deputat PC
 l115-2008,,Cutaş George Sabin,senator PC
 l115-2008,,Vasilescu Gavrilă,senator PC
 l115-2008,,Andon Sergiu,deputat PC
@@ -87,6 +88,7 @@ l116-2008,,Luchian Ion,deputat PNL
 l116-2008,,Movilă Petru,deputat PD
 l116-2008,,Nechita Aurel,deputat PSD
 l116-2008,,Nicolăescu Gheorghe-Eugen,deputat PNL
+l117-2008,,Meir Nati,deputat Independent
 l118-2008,,Movilă Petru,deputat PD
 l119-2008,,Ardelean Aurel,senator PRM
 l119-2008,,Funar Gheorghe,senator PRM
@@ -112,6 +114,7 @@ l133-2008,,Niţulescu Teodor,deputat PC
 l133-2008,,Pascu Bogdan,deputat PC
 l133-2008,,Popa Daniela,deputat PC
 l134-2008,,Giurgiu Mircia,deputat Independent
+l135-2008,,Giurgiu Mircia,deputat Independent
 l136-2008,,Canacheu Costică,deputat PD
 l137-2008,,Antonie Ştefan-Mihail,senator PD
 l137-2008,,Berceanu Radu-Mircea,senator PD
@@ -246,6 +249,9 @@ l152-2008,,Puşcă Mircea Valer,deputat PNL
 l152-2008,,Radan Mihai,deputat UCR (minoritãti)
 l152-2008,,Sóki Béla,deputat UDMR
 l153-2008,,Cârlan Dan,senator PD
+l155-2008,,Buda Daniel,deputat PD-L
+l155-2008,,Călian Petru,deputat PD-L
+l155-2008,,Vasilescu Lia-Olguţa,deputat PSD
 l156-2008,,Bîrsan Iulian-Gabriel,deputat PD-L
 l156-2008,,Movilă Petru,deputat PD-L
 l157-2008,,Cantaragiu Bogdan,deputat PD-L
@@ -309,6 +315,7 @@ l196-2008,,Marinescu Marius,senator PC
 l196-2008,,Dumitriu Dragoş Petre,deputat PC
 l196-2008,,Faina Constantin,deputat PC
 l197-2008,,Theodorescu Răzvan Emil,senator PSD
+l198-2008,,Giurgiu Mircia,deputat Independent
 l199-2008,,Cutaş George Sabin,senator PC
 l199-2008,,Şereş Ioan-Codruţ,senator PC
 l199-2008,,Vasilescu Gavrilă,senator PC
@@ -400,6 +407,7 @@ l224-2008,,Moisoiu Adrian,deputat PRM
 l224-2008,,Purceld Octavian-Mircea,deputat PRM
 l224-2008,,Rus Ioan Aurel,deputat PRM
 l224-2008,,Zamfirescu Dan Dumitru,deputat PRM
+l226-2008,,Giurgiu Mircia,deputat Independent
 l227-2008,,Dumitru Ion,deputat PSD
 l228-2008,,Cliveti Minodora,deputat PSD
 l228-2008,,Nassar Rodica,deputat PSD
@@ -445,6 +453,13 @@ l233-2008,,Olarean Aurel,deputat PD
 l233-2008,,Sârb Gheorghe,deputat PD
 l233-2008,,Sârbu Mugurel Liviu,deputat PD
 l233-2008,,Tudor Constantin,deputat PD
+l234-2008,,Ardelean Aurel,senator PRM
+l234-2008,,Funar Gheorghe,senator PRM
+l234-2008,,Nasleu Ioan,senator PRM
+l234-2008,,Stan Petru,senator PRM
+l234-2008,,Buzea Cristian Valeriu,deputat PRM
+l234-2008,,Mircea Costache,deputat PRM
+l234-2008,,Rus Ioan Aurel,deputat PRM
 l235-2008,,Ardelean Aurel,senator PRM
 l235-2008,,Dina Carol,senator PRM
 l235-2008,,Funar Gheorghe,senator PRM
@@ -517,6 +532,8 @@ l247-2008,,Ovidenie Costel,deputat Independent
 l247-2008,,Popeangă Petre,deputat PRM
 l247-2008,,Purceld Octavian-Mircea,deputat PRM
 l247-2008,,Sârbu Marian,deputat PSD
+l249-2008,,Buda Daniel,deputat PD-L
+l249-2008,,Călian Petru,deputat PD-L
 l250-2008,,Călian Petru,deputat PD-L
 l251-2008,,Drăguş Radu-Cătălin,deputat PD-L
 l251-2008,,Mironescu Laurenţiu,deputat PD-L
@@ -821,6 +838,7 @@ l294-2008,,Rusu Mihaela Adriana,deputat PSD
 l294-2008,,Soporan Vasile Filip,deputat PSD
 l294-2008,,Străchinaru Petre,deputat PD-L
 l294-2008,,Ştiucă Alecsandru,deputat PSD
+l295-2008,,Giurgiu Mircia,deputat Independent
 l296-2008,,Dumitru Ion,deputat PSD
 l296-2008,,Georgescu Filip,deputat PSD
 l296-2008,,Mocanu Vasile,deputat PSD
@@ -1200,6 +1218,12 @@ l37-2008,,Diaconescu Marin,deputat PRM
 l37-2008,,Mircea Costache,deputat PRM
 l37-2008,,Rus Ioan Aurel,deputat PRM
 l379-2008,,Sârbu Ilie,senator PSD
+l38-2008,,Funar Gheorghe,senator PRM
+l38-2008,,Petrescu Ilie,senator PRM
+l38-2008,,Stan Petru,senator PRM
+l38-2008,,Buzea Cristian Valeriu,deputat PRM
+l38-2008,,Mircea Costache,deputat PRM
+l38-2008,,Rus Ioan Aurel,deputat PRM
 l380-2008,,Cutaş George Sabin,senator PC
 l380-2008,,Marinescu Marius,senator PC
 l380-2008,,Dumitriu Dragoş Petre,deputat PC
@@ -1285,6 +1309,20 @@ l396-2008,,Mircea Costache,deputat PRM
 l396-2008,,Moisoiu Adrian,deputat PRM
 l396-2008,,Purceld Octavian-Mircea,deputat PRM
 l396-2008,,Rus Ioan Aurel,deputat PRM
+l397-2008,,Ardelean Aurel,senator PRM
+l397-2008,,Dina Carol,senator PRM
+l397-2008,,Funar Gheorghe,senator PRM
+l397-2008,,Iorga Nicolae-Marian,senator PRM
+l397-2008,,Nasleu Ioan,senator PRM
+l397-2008,,Petrescu Ilie,senator PRM
+l397-2008,,Stan Petru,senator PRM
+l397-2008,,Avram Dumitru,deputat PRM
+l397-2008,,Buzea Cristian Valeriu,deputat PRM
+l397-2008,,Ifrim Mircea,deputat PRM
+l397-2008,,Mircea Costache,deputat PRM
+l397-2008,,Moisoiu Adrian,deputat PRM
+l397-2008,,Purceld Octavian-Mircea,deputat PRM
+l397-2008,,Rus Ioan Aurel,deputat PRM
 l398-2008,,Fekete-Szabó András-Levente,senator UDMR
 l398-2008,,Pete Ştefan,senator UDMR
 l398-2008,,Szabó Ilona,senator UDMR
@@ -1315,6 +1353,13 @@ l408-2008,,Popa Dan Gabriel,senator PD-L
 l408-2008,,Tomoiagă Liliana Lucia,senator PSD
 l408-2008,,Bardan Cornel Ştefan,deputat PD-L
 l408-2008,,Sârbu Mugurel Liviu,deputat PD-L
+l409-2008,,Cazacu Cornelia,senator PD-L
+l409-2008,,David Gheorghe,senator PD-L
+l409-2008,,Pereş Alexandru,senator PD-L
+l409-2008,,Popa Dan Gabriel,senator PD-L
+l409-2008,,Tomoiagă Liliana Lucia,senator PSD
+l409-2008,,Bardan Cornel Ştefan,deputat PD-L
+l409-2008,,Sârbu Mugurel Liviu,deputat PD-L
 l41-2008,,Amet Aledin,deputat UDTTMR (minoritãti)
 l41-2008,,Cocrea Olguţa,deputat Independent
 l41-2008,,Dumitriu Mihai,deputat PSD
@@ -1571,6 +1616,7 @@ l509-2008,,Mărăşescu Niculae,senator PSD
 l509-2008,,Marinescu Marius,senator PC
 l509-2008,,Nicolae Şerban,senator PSD
 l509-2008,,Tănăsescu Dan Claudiu,senator Independent
+l51-2008,,Apostolache Mihai Cristian,deputat PSD
 l511-2008,,Dina Carol,senator PRM
 l511-2008,,Funar Gheorghe,senator PRM
 l511-2008,,Păunescu Adrian,senator PSD
@@ -1887,6 +1933,7 @@ l66-2008,,Tabără Valeriu,deputat PD
 l67-2008,,Buda Daniel,deputat PD
 l67-2008,,Man Mircea,deputat PD
 l67-2008,,Oltean Ioan,deputat PD
+l68-2008,,Brînză William Gabriel,deputat PD
 l70-2008,,Ardelean Lia,deputat PC
 l72-2008,,Cinteză Mircea,senator Independent
 l72-2008,,Sabău Dan,senator Independent
@@ -1959,6 +2006,7 @@ l91-2008,,Terinte Radu,senator PC
 l91-2008,,Vasilescu Gavrilă,senator PC
 l91-2008,,Dumitriu Dragoş Petre,deputat PC
 l91-2008,,Ţundrea Ioan,deputat PC
+l92-2008,,Antal István,deputat UDMR
 l93-2008,,Iliescu Ion,senator PSD
 l93-2008,,Iordache Florin,deputat PSD
 l93-2008,,Munteanu Ioan,deputat PSD
@@ -2129,6 +2177,9 @@ plx-207-2008,legea-167-2008,Hoban Ioan,deputat PNL
 plx-207-2008,legea-167-2008,Motreanu Dan Ştefan,deputat PNL
 plx-207-2008,legea-167-2008,Popa Nicolae,deputat PNL
 plx-207-2008,legea-167-2008,Semcu Adrian Emanuil,deputat PNL
+plx-208-2008,legea-170-2008,Iliescu Ion,senator PSD
+plx-208-2008,legea-170-2008,Marinescu Marius,senator PD
+plx-208-2008,legea-170-2008,Văcăroiu Nicolae,senator PSD
 plx-236-2008,legea-155-2008,Dumitrescu Ion Mihai,senator PNL
 plx-236-2008,legea-155-2008,Păunescu Adrian,senator PSD
 plx-236-2008,legea-155-2008,Ungheanu Mihai,senator PRM
@@ -2206,6 +2257,7 @@ plx-281-2008,legea-175-2009,Preda Cezar-Florin,
 plx-281-2008,legea-175-2009,Rădulescu Cristian,
 plx-281-2008,legea-175-2009,Grigore Dan,
 plx-281-2008,legea-175-2009,Blaga Vasile,
+plx-303-2008,legea-208-2008,Funar Gheorghe,senator PRM
 plx-304-2008,legea-240-2008,Rus Ioan Aurel,deputat PRM
 plx-305-2008,legea-176-2008,Ignat Miron,deputat CRLR (minoritãti)
 plx-305-2008,legea-176-2008,Mircovici Niculae,deputat UBBR (minoritãti)
@@ -2420,6 +2472,7 @@ plx-57-2008,legea-143-2008,Cârlan Dan,
 plx-57-2008,legea-143-2008,Cismaru Ivan,
 plx-57-2008,legea-143-2008,Szabó Ilona,
 plx-57-2008,legea-143-2008,Lupoi Mihail,
+plx-587-2008,legea-53-2009,Călian Petru,deputat PD-L
 plx-609-2008,legea-296-2009,Kerekes Károly,deputat UDMR
 plx-609-2008,legea-296-2009,Máté András-Levente,deputat UDMR
 plx-629-2008,legea-74-2011,Cantaragiu Bogdan,deputat PD-L
