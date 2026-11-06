@@ -113966,6 +113966,21 @@
    ]
   },
   {
+   "slug": "legea-1-1990",
+   "path": "lege/1990/1",
+   "short": "Legea nr. 1/1990",
+   "title": "Legea nr. 1/1990 privind organizarea şi funcţionarea serviciilor Preşedinţiei României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/711",
+   "versions": [
+    {
+     "from": "1990-07-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/711",
+     "sha256": "8037689aae41494b356c3bf4faeec257a4b00db3e177fb0967ec2e25abfa3cda"
+    }
+   ]
+  },
+  {
    "slug": "legea-1-1992",
    "path": "lege/1992/1",
    "short": "Legea nr. 1/1992",
@@ -114343,6 +114358,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277922",
      "sha256": "2d043051ff788d5789b3b7c46916eca1d432280aabfe62e307fe6803a0e30bb6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-10-1991",
+   "path": "lege/1991/10",
+   "short": "Legea nr. 10/1991",
+   "title": "Legea nr. 10/1991 LEGE privind finanţele publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1437",
+   "versions": [
+    {
+     "from": "1991-01-30",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1437",
+     "sha256": "b55e283b080749a501d7e67028ea75102f4ddbfd22106ef76fd5e03362054e21"
     }
    ]
   },
@@ -121031,6 +121061,21 @@
    ]
   },
   {
+   "slug": "legea-113-1947",
+   "path": "lege/1947/113",
+   "short": "Legea nr. 113/1947",
+   "title": "Legea nr. 113/1947 privind ratificarea Tratatului de Comerţ şi Navigaţie între România şi Uniunea Republicilor Sovietice Socialiste, încheiat la Moscova la 20 februarie 1947",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34509",
+   "versions": [
+    {
+     "from": "1947-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34509",
+     "sha256": "912f91ed27cd544b8bb307543fec28cd3f6d96b7908e0191780d47c1dcdeebb4"
+    }
+   ]
+  },
+  {
    "slug": "legea-113-1992",
    "path": "lege/1992/113",
    "short": "Legea nr. 113/1992",
@@ -122287,6 +122332,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311983",
      "sha256": "3377987469761c4d4e9846e37cb20ceaa2264b87c693c88a126db4efe01f55e8"
+    }
+   ]
+  },
+  {
+   "slug": "legea-116-1948",
+   "path": "lege/1948/116",
+   "short": "Legea nr. 116/1948",
+   "title": "Legea nr. 116/1948 pentru ratificarea Convenţiunii de Colaborare Culturală între România şi Republica Ungariei, semnată la Bucureşti la 25 Noemvrie 1947",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26582",
+   "versions": [
+    {
+     "from": "1948-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26582",
+     "sha256": "8d7f36eb6239173d84b2b7e18456d8ef3d1d59e148596b04d3200e9f005d5bae"
     }
    ]
   },
@@ -134288,6 +134348,27 @@
    ]
   },
   {
+   "slug": "legea-14-1990",
+   "path": "lege/1990/14",
+   "short": "Legea nr. 14/1990",
+   "title": "Legea nr. 14/1990 privind salarizarea membrilor Curţii Supreme de Justiţie şi a aparatului acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/753",
+   "versions": [
+    {
+     "from": "1990-08-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/753",
+     "sha256": "e406515a1d2546ca1269a1fa548af8c9dcc4bf5d7400ca917131a606dddf9a5b"
+    },
+    {
+     "from": "1991-08-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1520",
+     "sha256": "344e4f90b31140ac243170b70ccac252b6e6441d4f13df43e7d541593a39ab4c"
+    }
+   ]
+  },
+  {
    "slug": "legea-14-1991",
    "path": "lege/1991/14",
    "short": "Legea nr. 14/1991",
@@ -139013,6 +139094,36 @@
    ]
   },
   {
+   "slug": "legea-15-1948",
+   "path": "lege/1948/15",
+   "short": "Legea nr. 15/1948",
+   "title": "Legea nr. 15/1948 pentru declararea de utilitate publică şi interes cultural şi exproprierea unui teren în folosul şcoalei primare mixte din satul Barzesti comuna Bodeşti, judeţul Valcea*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22738",
+   "versions": [
+    {
+     "from": "1948-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22738",
+     "sha256": "eb12db5b3e63149cbaeb6135cffafb07b14c9cc46de97998bb3e3794d8e2409e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-15-1991",
+   "path": "lege/1991/15",
+   "short": "Legea nr. 15/1991",
+   "title": "Legea nr. 15/1991 LEGE pentru soluţionarea conflictelor colective de muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1450",
+   "versions": [
+    {
+     "from": "1991-02-11",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1450",
+     "sha256": "390d92875c02c092ce8c28dbdcf1abc1bb5657322bbf74ab4b7c9b79280e78fb"
+    }
+   ]
+  },
+  {
    "slug": "legea-15-1992",
    "path": "lege/1992/15",
    "short": "Legea nr. 15/1992",
@@ -143561,6 +143672,21 @@
    ]
   },
   {
+   "slug": "legea-16-1948",
+   "path": "lege/1948/16",
+   "short": "Legea nr. 16/1948",
+   "title": "Legea nr. 16/1948 pentru modificarea şi completarea Legii Nr. 3 din 19 Ianuarie 1948 pentru desfiinţarea Birourilor şi înfiinţarea Colegiilor de avocaţi din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22739",
+   "versions": [
+    {
+     "from": "1948-02-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22739",
+     "sha256": "22d75a698d17349695a6c97551efbe1b2fb33441d9b018ef1e7312640e0a215a"
+    }
+   ]
+  },
+  {
    "slug": "legea-16-1949",
    "path": "lege/1949/16",
    "short": "Legea nr. 16/1949",
@@ -143587,6 +143713,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/757",
      "sha256": "a0b04c7ad3963349ffaf18ba905e6d537db8a353869e647b18f3367fd5925fcd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-16-1991",
+   "path": "lege/1991/16",
+   "short": "Legea nr. 16/1991",
+   "title": "Legea nr. 16/1991 pentru aprobarea volumului de masa lemnoasă ce se va recolta în anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1453",
+   "versions": [
+    {
+     "from": "1991-02-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1453",
+     "sha256": "f818d25ef067bee1f699dbb49d4d8059feb66f804d0274d9f471564d29b064b1"
     }
    ]
   },
@@ -144866,6 +145007,21 @@
    ]
   },
   {
+   "slug": "legea-162-1947",
+   "path": "lege/1947/162",
+   "short": "Legea nr. 162/1947",
+   "title": "Legea nr. 162/1947 pentru reglementarea cetăţeniei unor categorii de locuitori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34511",
+   "versions": [
+    {
+     "from": "1947-05-30",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34511",
+     "sha256": "b1fb7ae535d52eeab2b2004301d37df51082e33249677bcd27dfe3493aaad5d3"
+    }
+   ]
+  },
+  {
    "slug": "legea-162-1997",
    "path": "lege/1997/162",
    "short": "Legea nr. 162/1997",
@@ -145984,6 +146140,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303649",
      "sha256": "6ee3cb164ace29d8e9c91aa427c57f426ee63262707041a513af88c5a703af06"
+    }
+   ]
+  },
+  {
+   "slug": "legea-165-1944",
+   "path": "lege/1944/165",
+   "short": "Legea nr. 165/1944",
+   "title": "Legea nr. 165/1944 pentru adăugirea unor dispoziţiuni la art. 26 şi 27 din Codul Comercial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22708",
+   "versions": [
+    {
+     "from": "1944-03-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22708",
+     "sha256": "01b370a37bd53ea358f8c6e5b3502e41c8487bf75c7667c899c593c288ba16bc"
     }
    ]
   },
@@ -147863,6 +148034,21 @@
    ]
   },
   {
+   "slug": "legea-17-1991",
+   "path": "lege/1991/17",
+   "short": "Legea nr. 17/1991",
+   "title": "Legea nr. 17/1991 privind scutirea de plată a valorii neamortizate aferente autovehiculelor scoase din funcţiune în anii 1983 şi 1985 de către întreprinderile de transport local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1455",
+   "versions": [
+    {
+     "from": "1991-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1455",
+     "sha256": "086e0f1d4e715fb8adc2ce477bf05eae6e727b364d2d5a1f7b86c5490fe29195"
+    }
+   ]
+  },
+  {
    "slug": "legea-17-1992",
    "path": "lege/1992/17",
    "short": "Legea nr. 17/1992",
@@ -148297,6 +148483,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278184",
      "sha256": "3973d84ddcd31576d0418fbe0dd1335b86119f098253be29b7b5bb112a4c1c5c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-170-1944",
+   "path": "lege/1944/170",
+   "short": "Legea nr. 170/1944",
+   "title": "Legea nr. 170/1944 privind organizarea şi executarea prestaţiei în natura pentru drumuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22879",
+   "versions": [
+    {
+     "from": "1944-03-29",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22879",
+     "sha256": "3ec1ebea9b1a170472ad17f478da9c27bb7863a6b0c2f6f6d401a53828f8c3d3"
     }
    ]
   },
@@ -152870,6 +153071,21 @@
    ]
   },
   {
+   "slug": "legea-180-1947",
+   "path": "lege/1947/180",
+   "short": "Legea nr. 180/1947",
+   "title": "Legea nr. 180/1947 pentru modificarea art. 1.191-1.195, 1.621, 1.686 din Codul civil, art. 478 din Codul comercial şi art. 35 din Legea nr. 358 din 3 iulie 1944",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19338",
+   "versions": [
+    {
+     "from": "1947-06-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19338",
+     "sha256": "b23eebb99f4d5262cc1502f95405fac2f83773407c0619549933fc41af27fe45"
+    }
+   ]
+  },
+  {
    "slug": "legea-180-1997",
    "path": "lege/1997/180",
    "short": "Legea nr. 180/1997",
@@ -156856,6 +157072,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314875",
      "sha256": "3e5a8af80ae0b230a9e16999a6713e1379f12a9ab57dc24af365ea22b9d806bf"
+    }
+   ]
+  },
+  {
+   "slug": "legea-19-1991",
+   "path": "lege/1991/19",
+   "short": "Legea nr. 19/1991",
+   "title": "Legea nr. 19/1991 privind acoperirea pierderilor înregistrate de întreprinderile de stat din activitatea anilor 1982-1988 şi parţial a celor din anul 1989, precum şi regularizarea financiară a unor cheltuieli rămase nereglementate la 31 decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1462",
+   "versions": [
+    {
+     "from": "1991-03-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1462",
+     "sha256": "3bc8213d82dbe159392b52e71d1f2388f0bc99e8e24d3ecd75379c2c68e83aa9"
     }
    ]
   },
@@ -160946,6 +161177,21 @@
    ]
   },
   {
+   "slug": "legea-2-1990",
+   "path": "lege/1990/2",
+   "short": "Legea nr. 2/1990",
+   "title": "Legea nr. 2/1990 privind aprobarea bugetului Preşedinţiei României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/714",
+   "versions": [
+    {
+     "from": "1990-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/714",
+     "sha256": "f7afe6ba1fc76b2affb82a9658906ef12cf5962368dc481c36d1218ecc5e0e5d"
+    }
+   ]
+  },
+  {
    "slug": "legea-2-1993",
    "path": "lege/1993/2",
    "short": "Legea nr. 2/1993",
@@ -161347,6 +161593,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263617",
      "sha256": "2d683740d749e3982022b0fe468e98829b9c9097509e5b0f44dd270eb2c11f66"
+    }
+   ]
+  },
+  {
+   "slug": "legea-20-1990",
+   "path": "lege/1990/20",
+   "short": "Legea nr. 20/1990",
+   "title": "Legea nr. 20/1990 pentru modificarea şi completarea unor dispoziţii din Codul penal şi Codul de procedură penală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/766",
+   "versions": [
+    {
+     "from": "1990-10-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/766",
+     "sha256": "dda2d5c4a30196b62ea239edea7f102d3b8ab5442c74f13b2ff1adddc8bb605b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-20-1991",
+   "path": "lege/1991/20",
+   "short": "Legea nr. 20/1991",
+   "title": "Legea nr. 20/1991 rectificativa asupra bugetului de stat pe anul 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1463",
+   "versions": [
+    {
+     "from": "1991-03-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1463",
+     "sha256": "76472178582624be84bba1253beb6aecf13cafcbd2d80f71eb88e06957d21aac"
     }
    ]
   },
@@ -165578,6 +165854,21 @@
    ]
   },
   {
+   "slug": "legea-21-1990",
+   "path": "lege/1990/21",
+   "short": "Legea nr. 21/1990",
+   "title": "Legea nr. 21/1990 pentru trecerea Direcţiei generale a penitenciarelor din cadrul Ministerului de Interne în subordinea Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/768",
+   "versions": [
+    {
+     "from": "1991-01-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/768",
+     "sha256": "b950fb4474a3bee2ebee20846530d8f45a3e34e2ffc510173189c8d3914e828b"
+    }
+   ]
+  },
+  {
    "slug": "legea-21-1994",
    "path": "lege/1994/21",
    "short": "Legea nr. 21/1994",
@@ -169531,6 +169822,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285440",
      "sha256": "60051b11a0a076f778a3a0085bec94e8ad9602e6059dc050d4fb4e6a861e69f0"
+    }
+   ]
+  },
+  {
+   "slug": "legea-22-1990",
+   "path": "lege/1990/22",
+   "short": "Legea nr. 22/1990",
+   "title": "Legea nr. 22/1990 pentru modificarea Decretului-lege nr. 100/1990 privind atribuirea sau schimbarea de denumiri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/771",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/771",
+     "sha256": "e762e8b0f690e3123c89710f1f9e75ec65aa8e7a28be192a7eb613c5fb640174"
     }
    ]
   },
@@ -173516,6 +173822,36 @@
    ]
   },
   {
+   "slug": "legea-23-1990",
+   "path": "lege/1990/23",
+   "short": "Legea nr. 23/1990",
+   "title": "Legea nr. 23/1990 privind abrogarea Decretului nr. 367/1981 pentru înfiinţarea centrelor industrial-agrare Motru şi Rovinari, în judeţul Gorj, şi a direcţiilor administrativ-economice Motru şi Rovinari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/775",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/775",
+     "sha256": "7773e96f85c1b2edac36fb47dd3f07f6e7ef5ef74177688331781d81211e8e9e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-23-1991",
+   "path": "lege/1991/23",
+   "short": "Legea nr. 23/1991",
+   "title": "Legea nr. 23/1991 pentru ratificarea Acordului dintre România, pe de o parte, şi Comunitatea Economică Europeană şi Comunitatea Europeană pentru Energie Atomică, pe de altă parte, privind comerţul şi cooperarea comercială şi economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1468",
+   "versions": [
+    {
+     "from": "1991-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1468",
+     "sha256": "879b6bbe42a1229269382b589fbcab1cf37072488aa5283234462c02057e3bad"
+    }
+   ]
+  },
+  {
    "slug": "legea-23-1993",
    "path": "lege/1993/23",
    "short": "Legea nr. 23/1993",
@@ -177260,6 +177596,36 @@
    ]
   },
   {
+   "slug": "legea-24-1990",
+   "path": "lege/1990/24",
+   "short": "Legea nr. 24/1990",
+   "title": "Legea nr. 24/1990 privind ratificarea Acordului de înfiinţare a Băncii Europene pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/778",
+   "versions": [
+    {
+     "from": "1990-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/778",
+     "sha256": "01eae8bb8821494e86059e5ed1928277dac82dc7bc0a2beb825c0d0dcc502086"
+    }
+   ]
+  },
+  {
+   "slug": "legea-24-1991",
+   "path": "lege/1991/24",
+   "short": "Legea nr. 24/1991",
+   "title": "Legea nr. 24/1991 pentru aderarea României la Convenţia Naţiunilor Unite asupra contractelor de vînzare internaţionala de mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1470",
+   "versions": [
+    {
+     "from": "1991-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1470",
+     "sha256": "e705bcb42079e7d9d1dc3a2791a58a29790165e0af040fbe4966869573bf8f79"
+    }
+   ]
+  },
+  {
    "slug": "legea-24-1993",
    "path": "lege/1993/24",
    "short": "Legea nr. 24/1993",
@@ -179936,6 +180302,21 @@
    ]
   },
   {
+   "slug": "legea-247-1947",
+   "path": "lege/1947/247",
+   "short": "Legea nr. 247/1947",
+   "title": "Legea nr. 247/1947 pentru finanţarea operaţiunilor necesitate de aşezarea definitivă în Banat a îndreptăţiţilor la împroprietărire şi a populaţiei transferate din alte regiuni ale tarii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37665",
+   "versions": [
+    {
+     "from": "1947-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37665",
+     "sha256": "9e7c6fd632664611d67a8f04e3900d412d692c5fa3d06cbca5722682b3fbcc74"
+    }
+   ]
+  },
+  {
    "slug": "legea-247-1998",
    "path": "lege/1998/247",
    "short": "Legea nr. 247/1998",
@@ -180943,6 +181324,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/289180",
      "sha256": "5bbd513be94d07f34ba206b7ea176fbead2b77b88989c26830ba0b3ae32dc5c6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-25-1991",
+   "path": "lege/1991/25",
+   "short": "Legea nr. 25/1991",
+   "title": "Legea nr. 25/1991 pentru acceptarea de către România a Statutului Conferinţei de la Haga de drept internaţional privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1472",
+   "versions": [
+    {
+     "from": "1991-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1472",
+     "sha256": "03d79883963bd50199fe09283e0a201b63fcb40361addf8b65cdcbd23153cdf0"
     }
    ]
   },
@@ -182609,6 +183005,21 @@
    ]
   },
   {
+   "slug": "legea-254-1941",
+   "path": "lege/1941/254",
+   "short": "Legea nr. 254/1941",
+   "title": "Legea nr. 254/1941 pentru trecerea proprietăţilor urbane evreesti în patrimoniul Statului şi pentru oprirea evreilor de a dobândi proprietăţi imobiliare urbane sau anumite drepturi reale asupra acestor imobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22857",
+   "versions": [
+    {
+     "from": "1941-03-28",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22857",
+     "sha256": "af0e440aa10de2a9bef6c3f5e5922160369e4e07a52d0ea59dc3c1759064728f"
+    }
+   ]
+  },
+  {
    "slug": "legea-254-1998",
    "path": "lege/1998/254",
    "short": "Legea nr. 254/1998",
@@ -182890,6 +183301,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289218",
      "sha256": "3653f84797fe5109c981cc5ea2f26b53c3362d9c7e19753e0629edbd2ad5b585"
+    }
+   ]
+  },
+  {
+   "slug": "legea-255-1941",
+   "path": "lege/1941/255",
+   "short": "Legea nr. 255/1941",
+   "title": "Legea nr. 255/1941 pentru autorizarea prefecţilor, primarilor şi ajutorilor de primar, proveniţi dintre pensionari, de a primi jumătate din salariul aferent funcţiunii ce îndeplinesc, precum şi autorizarea prefecţilor, primarilor şi ajutorilor de primar de a primi indemnizaţii lunare de reprezentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30648",
+   "versions": [
+    {
+     "from": "1941-03-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30648",
+     "sha256": "1c1c88918a637b3a512a5eb7e6515fd50e670af84b163f60a3c21b3dfe4c2a7b"
     }
    ]
   },
@@ -185150,6 +185576,21 @@
    ]
   },
   {
+   "slug": "legea-261-1941",
+   "path": "lege/1941/261",
+   "short": "Legea nr. 261/1941",
+   "title": "Legea nr. 261/1941 pentru autorizarea unui schimb de terenuri între Regia Autonomă a Căilor Ferate Române şi Primăria comunei Curtea de Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30729",
+   "versions": [
+    {
+     "from": "1941-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30729",
+     "sha256": "25fc7bda25bcff2b1ea394181c5f4a1e464ea785818ba6bde1afcd87d268d9d3"
+    }
+   ]
+  },
+  {
    "slug": "legea-261-1998",
    "path": "lege/1998/261",
    "short": "Legea nr. 261/1998",
@@ -185450,6 +185891,21 @@
    ]
   },
   {
+   "slug": "legea-262-1941",
+   "path": "lege/1941/262",
+   "short": "Legea nr. 262/1941",
+   "title": "Legea nr. 262/1941 pentru vînzarea suprafeţei de 24.054 mp. pe malul Dunării la Galaţi, lîngă Arsenalul Marinei, către societatea anonima \"Şantierele Navale Galaţi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30730",
+   "versions": [
+    {
+     "from": "1941-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30730",
+     "sha256": "fa941cae15deff7315a7276aea908b9a3ae28440f7da7edfc8ec30058c29a60c"
+    }
+   ]
+  },
+  {
    "slug": "legea-262-2001",
    "path": "lege/2001/262",
    "short": "Legea nr. 262/2001",
@@ -185731,6 +186187,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289781",
      "sha256": "a27f1fa8cf90a980fb71498a5490b8b4154fb4e9d9190949f41d91a99c440a69"
+    }
+   ]
+  },
+  {
+   "slug": "legea-263-1941",
+   "path": "lege/1941/263",
+   "short": "Legea nr. 263/1941",
+   "title": "Legea nr. 263/1941 pentru expropriere de proprietăţi imobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30728",
+   "versions": [
+    {
+     "from": "1941-03-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30728",
+     "sha256": "898505df73eb08f1f563063ff815853ec307700a549a0115ad7f3758176ca7e7"
     }
    ]
   },
@@ -187450,6 +187921,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290173",
      "sha256": "163a1fa6e34ec6dd7804a0955460e0b975301004fc81af3b00c42ad4ece404f8"
+    }
+   ]
+  },
+  {
+   "slug": "legea-27-1990",
+   "path": "lege/1990/27",
+   "short": "Legea nr. 27/1990",
+   "title": "Legea nr. 27/1990 pentru modificarea Decretului-lege nr. 43/1990 privind unele măsuri pentru stimularea ţărănimii şi activităţii economice a unităţilor agricole cooperatiste şi de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/786",
+   "versions": [
+    {
+     "from": "1990-11-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/786",
+     "sha256": "db32e92ac06a6186f6acfaf2bb656205ca803411536674a1a8b0ef9c278db4b5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-27-1991",
+   "path": "lege/1991/27",
+   "short": "Legea nr. 27/1991",
+   "title": "Legea nr. 27/1991 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Franceze privind statutul şi modalităţile de funcţionare a centrelor culturale în cele doua tari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1475",
+   "versions": [
+    {
+     "from": "1991-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1475",
+     "sha256": "616c1fc80802b3b1b029f08baf21b83ce41458739d1be128df2249b3c1df700d"
     }
    ]
   },
@@ -193496,6 +193997,36 @@
    ]
   },
   {
+   "slug": "legea-29-1990",
+   "path": "lege/1990/29",
+   "short": "Legea nr. 29/1990",
+   "title": "Legea nr. 29/1990 LEGEA contenciosului administrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/793",
+   "versions": [
+    {
+     "from": "1990-12-08",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/793",
+     "sha256": "e1cad839787785afa374c61f82a73243448a5d9745fe2c66ced78bcee1e95885"
+    }
+   ]
+  },
+  {
+   "slug": "legea-29-1991",
+   "path": "lege/1991/29",
+   "short": "Legea nr. 29/1991",
+   "title": "Legea nr. 29/1991 pentru prelungirea unor termene din Legea fondului funciar, nr. 18/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1477",
+   "versions": [
+    {
+     "from": "1991-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1477",
+     "sha256": "79d7d4a6fa2ae960a2958602ab75dc62121f1eaf3228d8ebadd62a0e4a2f3c85"
+    }
+   ]
+  },
+  {
    "slug": "legea-29-1993",
    "path": "lege/1993/29",
    "short": "Legea nr. 29/1993",
@@ -196364,6 +196895,21 @@
    ]
   },
   {
+   "slug": "legea-3-1991",
+   "path": "lege/1991/3",
+   "short": "Legea nr. 3/1991",
+   "title": "Legea nr. 3/1991 pentru modificarea şi completarea Legii nr. 6/1990 privind reorganizarea ministerelor şi salarizarea funcţiilor din Guvernul României şi a unor funcţii de nivel guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1421",
+   "versions": [
+    {
+     "from": "1991-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1421",
+     "sha256": "a96eb820e95ee9018843e1c3b726c30e1f2ece6b45310839f227b43950d21e95"
+    }
+   ]
+  },
+  {
    "slug": "legea-3-1992",
    "path": "lege/1992/3",
    "short": "Legea nr. 3/1992",
@@ -197917,6 +198463,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291965",
      "sha256": "b862166da1f705ffe5ddb68fac993fa5612f49b17719fa5cce909b4eeabb719d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-303-1947",
+   "path": "lege/1947/303",
+   "short": "Legea nr. 303/1947",
+   "title": "Legea nr. 303/1947 privind recalcularea patrimoniului societăţilor pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43605",
+   "versions": [
+    {
+     "from": "1947-08-27",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43605",
+     "sha256": "ab6f8aa228bc181dda44704b152af986a38a4006241f5db84049064b39f6ae96"
     }
    ]
   },
@@ -209027,6 +209588,21 @@
    ]
   },
   {
+   "slug": "legea-351-1945",
+   "path": "lege/1945/351",
+   "short": "Legea nr. 351/1945",
+   "title": "Legea nr. 351/1945 pentru reprimirea speculei ilicite şi a sabotajului economic*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47353",
+   "versions": [
+    {
+     "from": "1945-05-03",
+     "units": 74,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47353",
+     "sha256": "b72f4c26b39489005671b40561e622811ddc40247c2b10af36eaf71eafec4a9c"
+    }
+   ]
+  },
+  {
    "slug": "legea-351-2002",
    "path": "lege/2002/351",
    "short": "Legea nr. 351/2002",
@@ -209188,6 +209764,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/276864",
      "sha256": "102da5542ff3f6d3bcd349f8ff3c25dea2927209a52a91ede2efcbcea3a4ee7e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-352-1945",
+   "path": "lege/1945/352",
+   "short": "Legea nr. 352/1945",
+   "title": "Legea nr. 352/1945 pentru înfiinţarea organelor de control cetatenesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46864",
+   "versions": [
+    {
+     "from": "1945-05-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46864",
+     "sha256": "57f68ab830e09ddab3c9dceada120b1e63f1568c992e6d6cdf8bc95288650626"
     }
    ]
   },
@@ -209359,6 +209950,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276932",
      "sha256": "2cb408bfee946e95734dc0adb398eca39ce9043d32004520de9debe8375b7c24"
+    }
+   ]
+  },
+  {
+   "slug": "legea-353-1945",
+   "path": "lege/1945/353",
+   "short": "Legea nr. 353/1945",
+   "title": "Legea nr. 353/1945 pentru modificarea art. 11 din Legea Nr. 91, pentru înfiinţarea Casei de Administrare şi Supraveghere a Bunurilor Inamice, publicată în Monitorul Oficial Nr. 33 din 10 Februarie 1945",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46601",
+   "versions": [
+    {
+     "from": "1945-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46601",
+     "sha256": "5c687c5c85ce1ab884076f097f3e09a4e703ba38ac5d6089d31ed6f1b8dfb687"
     }
    ]
   },
@@ -211501,6 +212107,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277009",
      "sha256": "d4e439740ba6743d16efed37880443ea2b5436ba62e8bad4b9e1999978d582a7"
+    }
+   ]
+  },
+  {
+   "slug": "legea-363-1947",
+   "path": "lege/1947/363",
+   "short": "Legea nr. 363/1947",
+   "title": "Legea nr. 363/1947 pentru constituirea Statului Român în Republica Populară Română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19339",
+   "versions": [
+    {
+     "from": "1947-12-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19339",
+     "sha256": "51258618a3f5bc897a12b757dd9effc488aa95250b2705c1e8e5aa41e74d76d3"
     }
    ]
   },
@@ -216176,6 +216797,21 @@
    ]
   },
   {
+   "slug": "legea-389-1943",
+   "path": "lege/1943/389",
+   "short": "Legea nr. 389/1943",
+   "title": "Legea nr. 389/1943 privind extinderea legislaţiei civile şi comerciale în România de peste Carpaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22956",
+   "versions": [
+    {
+     "from": "1943-06-22",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22956",
+     "sha256": "afbba1e4c1b0357b53a4069d2845566c669e6ea9bc790fdfe4560354af24e39e"
+    }
+   ]
+  },
+  {
    "slug": "legea-389-2001",
    "path": "lege/2001/389",
    "short": "Legea nr. 389/2001",
@@ -218218,6 +218854,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306326",
      "sha256": "c38ee0a69b586a0bdb55064e9a6172f9647e2db3839fd7d5f0cb7605c096956c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-40-1990",
+   "path": "lege/1990/40",
+   "short": "Legea nr. 40/1990",
+   "title": "Legea nr. 40/1990 privind organizarea şi funcţionarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/817",
+   "versions": [
+    {
+     "from": "1990-12-18",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/817",
+     "sha256": "a48e014468868b112444d1e3675841b941fef272a28f46bc4c74d4ca00146997"
     }
    ]
   },
@@ -223309,6 +223960,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77838",
      "sha256": "3b7538dcb2917bb8f8354fe223f70b56315a4a76887b5ec097caa722258ed8d8"
+    }
+   ]
+  },
+  {
+   "slug": "legea-439-1945",
+   "path": "lege/1945/439",
+   "short": "Legea nr. 439/1945",
+   "title": "Legea nr. 439/1945 pentru efectuarea de rechiziţii pentru cartiruirea de persoane, autorităţi şi instituţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22937",
+   "versions": [
+    {
+     "from": "1945-06-05",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22937",
+     "sha256": "7b9af7c5c87deb9fe838bbbf591fb2ba23925e8e22e825548e13f33ca08a67fd"
     }
    ]
   },
@@ -240650,6 +241316,21 @@
    ]
   },
   {
+   "slug": "legea-590-1945",
+   "path": "lege/1945/590",
+   "short": "Legea nr. 590/1945",
+   "title": "Legea nr. 590/1945 pentru modificarea unor texte din legea pentru organizarea şi reglementarea comerţului de banca din 8 Mai 1934, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22925",
+   "versions": [
+    {
+     "from": "1945-07-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22925",
+     "sha256": "ccee42bd91d4c8ee44cc79a519954e699e5b1d124e300444e229b5fd717a9dd8"
+    }
+   ]
+  },
+  {
    "slug": "legea-590-2001",
    "path": "lege/2001/590",
    "short": "Legea nr. 590/2001",
@@ -242300,6 +242981,21 @@
    ]
   },
   {
+   "slug": "legea-602-1943",
+   "path": "lege/1943/602",
+   "short": "Legea nr. 602/1943",
+   "title": "Legea nr. 602/1943 pentru completarea art. 5 din legea nr. 80 din 1942 , pentru desfiinţarea comisiei centrale de judecată şi organizarea completelor speciale pentru judecarea litigiilor isvorate de aplicarea legilor de trecerea bunurilor evreieşti în patrimoniul Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22924",
+   "versions": [
+    {
+     "from": "1943-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22924",
+     "sha256": "f2c57d4505c41f169448f8c6d0e0cd551a0bc3bb943dffa0ad8c049b21a54dd9"
+    }
+   ]
+  },
+  {
    "slug": "legea-602-2001",
    "path": "lege/2001/602",
    "short": "Legea nr. 602/2001",
@@ -242356,6 +243052,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58183",
      "sha256": "8539331fe2ec8b0b2c729b629f81bef76e78409a7f34401840ab9cc7ef7fe243"
+    }
+   ]
+  },
+  {
+   "slug": "legea-603-1943",
+   "path": "lege/1943/603",
+   "short": "Legea nr. 603/1943",
+   "title": "Legea nr. 603/1943 pentru simplificarea procedurii impartelilor judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30",
+   "versions": [
+    {
+     "from": "1943-09-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30",
+     "sha256": "7110447becf4d15b6bdbaf3b055e11c68cbe9fc6a0d2e1b85a00bf7f084d7487"
     }
    ]
   },
@@ -249167,6 +249878,51 @@
    ]
   },
   {
+   "slug": "legea-7-1948",
+   "path": "lege/1948/7",
+   "short": "Legea nr. 7/1948",
+   "title": "Legea nr. 7/1948 pentru ratificarea Convenţiei privind schimburile de mărfuri între România şi Polonia precum şi Protocolului privind aranjamentul de plăti între România şi Republica Polona, semnate la Bucureşti, la 9 septemvrie 1947",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26939",
+   "versions": [
+    {
+     "from": "1948-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26939",
+     "sha256": "d3abe4e9b04b5a69d3cd145a1b1e36ed3184704910b74b969e32fb48d51ca755"
+    }
+   ]
+  },
+  {
+   "slug": "legea-7-1990",
+   "path": "lege/1990/7",
+   "short": "Legea nr. 7/1990",
+   "title": "Legea nr. 7/1990 pentru aderarea României la Convenţia privind Organizaţia europeană de telecomunicaţii prin satelit \"EUTELSAT\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/730",
+   "versions": [
+    {
+     "from": "1990-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/730",
+     "sha256": "c7fe0f897b82c88c35cd79f6632417377035203f5fcdff00850820d336f64604"
+    }
+   ]
+  },
+  {
+   "slug": "legea-7-1991",
+   "path": "lege/1991/7",
+   "short": "Legea nr. 7/1991",
+   "title": "Legea nr. 7/1991 pentru ratificarea celui de-al doilea Protocol facultativ la Pactul internaţional relativ la drepturile civile şi politice, vizind abolirea pedepsei cu moartea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1431",
+   "versions": [
+    {
+     "from": "1991-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1431",
+     "sha256": "5c6b667501eddf8fa39e91eaeacee33bd4701b286ad33edf240072b6e4e86fb5"
+    }
+   ]
+  },
+  {
    "slug": "legea-7-1992",
    "path": "lege/1992/7",
    "short": "Legea nr. 7/1992",
@@ -250753,6 +251509,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32755",
      "sha256": "b2574ab0ff219010c1fcb594d73f8eaa33076434e014e3250aa889295b0b7054"
+    }
+   ]
+  },
+  {
+   "slug": "legea-715-1946",
+   "path": "lege/1946/715",
+   "short": "Legea nr. 715/1946",
+   "title": "Legea nr. 715/1946 privind stabilirea despăgubirilor cuvenite populaţiei evacuate din Dobrogea de Sud, în urma tratatului Româno-Bulgar din 7 Septemvrie 1940 ( Decretul Nr. 2.723 din 4 Septemvrie 1946 )",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98177",
+   "versions": [
+    {
+     "from": "1946-09-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98177",
+     "sha256": "5ff82abd2591bea3aa96cf4d072533770b80539167ba5933228e04b49973c13b"
     }
    ]
   },
@@ -253723,6 +254494,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33279",
      "sha256": "26607839fe90de59e642b81075dfcb341426b7d837eeb2538efe19cc9d3509c1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-766-1941",
+   "path": "lege/1941/766",
+   "short": "Legea nr. 766/1941",
+   "title": "Legea nr. 766/1941 pentru colonizarea în Dobrogea a proprietarilor agricoli evacuaţi din Dobrogea-Nouă, în baza Tratatului Româno-Bulgar din 7 Septemvrie 1940",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113587",
+   "versions": [
+    {
+     "from": "1941-08-26",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113587",
+     "sha256": "ce830e7cc49604e77dbe889010a27bdb78160a441ae53570de820cf642ad252d"
     }
    ]
   },

@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "hg/1989",
+"acts": [
+{
+"slug": "hg-1-1989",
+"path": "hg/1989/1",
+"kind": "hg",
+"year": "1989",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 1/1989 privind numirea primului-adjunct al ministrului energiei electrice",
+"short": "HG nr. 1/1989",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1989-12-31",
+"latest": "1989-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/96568"
+}
+]
+}

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-18051 acts, 29,632 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+18103 acts, 29,685 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (10639, of which 3277 amending acts)
+## Laws (legi) (10691, of which 3277 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -51,49 +51,101 @@
 | Legea nr. 59/1934 | [`lege/1934/59/`](lege/1934/59/) | in force | 8 | 1934-06-01 | 2022-06-23 |
 | Legea nr. 153/1937 | [`lege/1937/153/`](lege/1937/153/) | in force | 2 | 1937-04-07 | 2011-01-01 |
 | Legea nr. 139/1940 asupra rechizitiilor*) | [`lege/1940/139/`](lege/1940/139/) | amended, not consolidated | 1 | 1940-02-27 | 1940-02-27 |
+| Legea nr. 254/1941 pentru trecerea proprietăţilor urbane evreesti în patrimoniul Statului şi pentru oprirea evreilor de a dobândi proprietăţi imobiliare urbane sau anumite drepturi reale asupra acestor imobile | [`lege/1941/254/`](lege/1941/254/) | as published, amendments not yet checked | 1 | 1941-03-28 | 1941-03-28 |
+| Legea nr. 255/1941 pentru autorizarea prefecţilor, primarilor şi ajutorilor de primar, proveniţi dintre pensionari, de a primi jumătate din salariul aferent funcţiunii ce îndeplinesc, precum şi autorizarea prefecţilor, primarilor şi ajutorilor de primar de a primi indemnizaţii lunare de reprezentare | [`lege/1941/255/`](lege/1941/255/) | as published, amendments not yet checked | 1 | 1941-03-28 | 1941-03-28 |
+| Legea nr. 261/1941 pentru autorizarea unui schimb de terenuri între Regia Autonomă a Căilor Ferate Române şi Primăria comunei Curtea de Argeş | [`lege/1941/261/`](lege/1941/261/) | as published, amendments not yet checked | 1 | 1941-03-29 | 1941-03-29 |
+| Legea nr. 262/1941 pentru vînzarea suprafeţei de 24.054 mp. pe malul Dunării la Galaţi, lîngă Arsenalul Marinei, către societatea anonima "Şantierele Navale Galaţi" | [`lege/1941/262/`](lege/1941/262/) | as published, amendments not yet checked | 1 | 1941-03-29 | 1941-03-29 |
+| Legea nr. 263/1941 pentru expropriere de proprietăţi imobiliare | [`lege/1941/263/`](lege/1941/263/) | as published, amendments not yet checked | 1 | 1941-03-30 | 1941-03-30 |
 | Legea nr. 609/1941 pentru măsurile excepţionale aplicabile în timpul cât armata se află în stare de răsboiu | [`lege/1941/609/`](lege/1941/609/) | amended, not consolidated | 1 | 1941-07-01 | 1941-07-01 |
+| Legea nr. 766/1941 pentru colonizarea în Dobrogea a proprietarilor agricoli evacuaţi din Dobrogea-Nouă, în baza Tratatului Româno-Bulgar din 7 Septemvrie 1940 | [`lege/1941/766/`](lege/1941/766/) | as published, amendments not yet checked | 1 | 1941-08-26 | 1941-08-26 |
+| Legea nr. 389/1943 privind extinderea legislaţiei civile şi comerciale în România de peste Carpaţi | [`lege/1943/389/`](lege/1943/389/) | amended, not consolidated | 1 | 1943-06-22 | 1943-06-22 |
+| Legea nr. 602/1943 pentru completarea art. 5 din legea nr. 80 din 1942 , pentru desfiinţarea comisiei centrale de judecată şi organizarea completelor speciale pentru judecarea litigiilor isvorate de aplicarea legilor de trecerea bunurilor evreieşti în patrimoniul Statului | [`lege/1943/602/`](lege/1943/602/) | as published, amendments not yet checked | 1 | 1943-09-10 | 1943-09-10 |
+| Legea nr. 603/1943 pentru simplificarea procedurii impartelilor judiciare | [`lege/1943/603/`](lege/1943/603/) | amended, not consolidated | 1 | 1943-09-15 | 1943-09-15 |
+| Legea nr. 165/1944 pentru adăugirea unor dispoziţiuni la art. 26 şi 27 din Codul Comercial | [`lege/1944/165/`](lege/1944/165/) | as published, amendments not yet checked | 1 | 1944-03-28 | 1944-03-28 |
+| Legea nr. 170/1944 privind organizarea şi executarea prestaţiei în natura pentru drumuri | [`lege/1944/170/`](lege/1944/170/) | as published, amendments not yet checked | 1 | 1944-03-29 | 1944-03-29 |
 | Legea nr. 319/1944 pentru dreptul de moştenire al soţului supravieţuitor | [`lege/1944/319/`](lege/1944/319/) | repealed 2011-06-13 | 2 | 1944-06-10 | 2011-06-13 |
 | Legea nr. 641/1944 | [`lege/1944/641/`](lege/1944/641/) | in force | 1 | 1944-12-19 | 1944-12-19 |
 | Legea nr. 63/1945 | [`lege/1945/63/`](lege/1945/63/) | in force | 1 | 1945-02-01 | 1945-02-01 |
+| Legea nr. 351/1945 pentru reprimirea speculei ilicite şi a sabotajului economic*) | [`lege/1945/351/`](lege/1945/351/) | amended, not consolidated | 1 | 1945-05-03 | 1945-05-03 |
+| Legea nr. 352/1945 pentru înfiinţarea organelor de control cetatenesc | [`lege/1945/352/`](lege/1945/352/) | as published, amendments not yet checked | 1 | 1945-05-03 | 1945-05-03 |
+| Legea nr. 353/1945 pentru modificarea art. 11 din Legea Nr. 91, pentru înfiinţarea Casei de Administrare şi Supraveghere a Bunurilor Inamice, publicată în Monitorul Oficial Nr. 33 din 10 Februarie 1945 | [`lege/1945/353/`](lege/1945/353/) | as published, amendments not yet checked | 1 | 1945-05-04 | 1945-05-04 |
+| Legea nr. 439/1945 pentru efectuarea de rechiziţii pentru cartiruirea de persoane, autorităţi şi instituţii | [`lege/1945/439/`](lege/1945/439/) | as published, amendments not yet checked | 1 | 1945-06-05 | 1945-06-05 |
+| Legea nr. 590/1945 pentru modificarea unor texte din legea pentru organizarea şi reglementarea comerţului de banca din 8 Mai 1934, cu modificările ulterioare | [`lege/1945/590/`](lege/1945/590/) | as published, amendments not yet checked | 1 | 1945-07-26 | 1945-07-26 |
 | Legea nr. 596/1946 pentru contractul de ediţiune şi dreptul de autor în materie literară | [`lege/1946/596/`](lege/1946/596/) | amended, not consolidated | 1 | 1946-07-24 | 1946-07-24 |
 | Legea nr. 638/1946 pentru controlul producţiei, prelucrării şi circulaţiei metalelor preţioase | [`lege/1946/638/`](lege/1946/638/) | amended, not consolidated | 1 | 1946-08-12 | 1946-08-12 |
+| Legea nr. 715/1946 privind stabilirea despăgubirilor cuvenite populaţiei evacuate din Dobrogea de Sud, în urma tratatului Româno-Bulgar din 7 Septemvrie 1940 ( Decretul Nr. 2.723 din 4 Septemvrie 1946 ) | [`lege/1946/715/`](lege/1946/715/) | as published, amendments not yet checked | 1 | 1946-09-07 | 1946-09-07 |
+| Legea nr. 113/1947 privind ratificarea Tratatului de Comerţ şi Navigaţie între România şi Uniunea Republicilor Sovietice Socialiste, încheiat la Moscova la 20 februarie 1947 | [`lege/1947/113/`](lege/1947/113/) | as published, amendments not yet checked | 1 | 1947-04-11 | 1947-04-11 |
+| Legea nr. 162/1947 pentru reglementarea cetăţeniei unor categorii de locuitori | [`lege/1947/162/`](lege/1947/162/) | as published, amendments not yet checked | 1 | 1947-05-30 | 1947-05-30 |
+| Legea nr. 180/1947 pentru modificarea art. 1.191-1.195, 1.621, 1.686 din Codul civil, art. 478 din Codul comercial şi art. 35 din Legea nr. 358 din 3 iulie 1944 | [`lege/1947/180/`](lege/1947/180/) | as published, amendments not yet checked | 1 | 1947-06-10 | 1947-06-10 |
 | Legea nr. 190/1947 pentru portul şi vînzarea armelor de foc | [`lege/1947/190/`](lege/1947/190/) | amended, not consolidated | 1 | 1947-06-16 | 1947-06-16 |
 | Legea nr. 241/1947 pentru punerea în aplicare în Transilvania a legii pentru unificarea dispoziţiunilor privitoare la cărţile funciare din 27 aprilie 1938 | [`lege/1947/241/`](lege/1947/241/) | amended, not consolidated | 1 | 1947-07-12 | 1947-07-12 |
+| Legea nr. 247/1947 pentru finanţarea operaţiunilor necesitate de aşezarea definitivă în Banat a îndreptăţiţilor la împroprietărire şi a populaţiei transferate din alte regiuni ale tarii | [`lege/1947/247/`](lege/1947/247/) | as published, amendments not yet checked | 1 | 1947-07-14 | 1947-07-14 |
 | Legea nr. 284/1947 pentru cedarea către Banca Naţionala a României a aurului, valutelor efective şi altor mijloace de plată străine | [`lege/1947/284/`](lege/1947/284/) | amended, not consolidated | 1 | 1947-08-15 | 1947-08-15 |
 | Legea nr. 285/1947 pentru modificarea şi completarea unor dispoziţiuni din legea pentru comerţul de devize din 1 Octomvrie 1932 şi a altor legi pentru reglementarea schimburilor cu străinătatea | [`lege/1947/285/`](lege/1947/285/) | amended, not consolidated | 1 | 1947-08-15 | 1947-08-15 |
+| Legea nr. 303/1947 privind recalcularea patrimoniului societăţilor pe acţiuni | [`lege/1947/303/`](lege/1947/303/) | amended, not consolidated | 1 | 1947-08-27 | 1947-08-27 |
 | Legea nr. 304/1947 pentru ratificarea Tratatului de Pace între România şi Puterile Aliate şi Asociate | [`lege/1947/304/`](lege/1947/304/) | amended, not consolidated | 1 | 1947-08-30 | 1947-08-30 |
+| Legea nr. 363/1947 pentru constituirea Statului Român în Republica Populară Română | [`lege/1947/363/`](lege/1947/363/) | amended, not consolidated | 1 | 1947-12-30 | 1947-12-30 |
 | Legea nr. 3/1948 pentru desfiinţarea Barourilor şi înfiinţarea Colegiilor de Avocaţi din România | [`lege/1948/3/`](lege/1948/3/) | amended, not consolidated | 1 | 1948-01-17 | 1948-01-17 |
 | Legea nr. 6/1948 pentru completarea art. 1 şi 2 ale Legii Nr. 877 din 9 Decemvrie 1940 | [`lege/1948/6/`](lege/1948/6/) | amended, not consolidated | 1 | 1948-01-20 | 1948-01-20 |
+| Legea nr. 7/1948 pentru ratificarea Convenţiei privind schimburile de mărfuri între România şi Polonia precum şi Protocolului privind aranjamentul de plăti între România şi Republica Polona, semnate la Bucureşti, la 9 septemvrie 1947 | [`lege/1948/7/`](lege/1948/7/) | amended, not consolidated | 1 | 1948-01-20 | 1948-01-20 |
+| Legea nr. 15/1948 pentru declararea de utilitate publică şi interes cultural şi exproprierea unui teren în folosul şcoalei primare mixte din satul Barzesti comuna Bodeşti, judeţul Valcea*) | [`lege/1948/15/`](lege/1948/15/) | as published, amendments not yet checked | 1 | 1948-02-05 | 1948-02-05 |
+| Legea nr. 16/1948 pentru modificarea şi completarea Legii Nr. 3 din 19 Ianuarie 1948 pentru desfiinţarea Birourilor şi înfiinţarea Colegiilor de avocaţi din România | [`lege/1948/16/`](lege/1948/16/) | as published, amendments not yet checked | 1 | 1948-02-10 | 1948-02-10 |
+| Legea nr. 116/1948 pentru ratificarea Convenţiunii de Colaborare Culturală între România şi Republica Ungariei, semnată la Bucureşti la 25 Noemvrie 1947 | [`lege/1948/116/`](lege/1948/116/) | as published, amendments not yet checked | 1 | 1948-04-21 | 1948-04-21 |
 | Legea nr. 16/1949 pentru sancţionarea unor crime care primejduiesc securitatea Statului şi propăşirea economiei naţionale | [`lege/1949/16/`](lege/1949/16/) | amended, not consolidated | 1 | 1949-01-15 | 1949-01-15 |
 | Codul familiei din 1953 (Legea nr. 4/1953) | [`lege/1953/4/`](lege/1953/4/) | repealed 2011-10-01 | 8 | 1956-04-18 | 2011-10-01 |
 | Codul penal din 21 iunie 1968 (Legea nr. 15/1968) | [`lege/1968/15/`](lege/1968/15/) | repealed 2014-02-01 | 22 | 1969-01-01 | 2014-02-01 |
 | Codul de procedură penală din 12 noiembrie 1968 (Legea nr. 29/1968) | [`lege/1968/29/`](lege/1968/29/) | repealed 2014-02-01 | 35 | 1969-01-01 | 2014-02-01 |
+| Legea nr. 1/1990 privind organizarea şi funcţionarea serviciilor Preşedinţiei României | [`lege/1990/1/`](lege/1990/1/) | amended, not consolidated | 1 | 1990-07-02 | 1990-07-02 |
+| Legea nr. 2/1990 privind aprobarea bugetului Preşedinţiei României | [`lege/1990/2/`](lege/1990/2/) | amended, not consolidated | 1 | 1990-07-05 | 1990-07-05 |
 | Legea nr. 5/1990 privind administrarea judeţelor, municipiilor, oraşelor şi comunelor pînă la organizarea de alegeri locale | [`lege/1990/5/`](lege/1990/5/) | amended, not consolidated | 1 | 1990-07-20 | 1990-07-20 |
 | Legea nr. 6/1990 privind reorganizarea ministerelor şi salarizarea funcţiilor din Guvernul României şi a unor funcţii de nivel guvernamental | [`lege/1990/6/`](lege/1990/6/) | amended, not consolidated | 1 | 1990-07-20 | 1990-07-20 |
+| Legea nr. 7/1990 pentru aderarea României la Convenţia privind Organizaţia europeană de telecomunicaţii prin satelit "EUTELSAT" | [`lege/1990/7/`](lege/1990/7/) | amended, not consolidated | 1 | 1990-08-01 | 1990-08-01 |
 | Legea nr. 13/1990 pentru abrogarea şi modificarea unor dispoziţii ale Legii nr. 2/1987 | [`lege/1990/13/`](lege/1990/13/) | amended, not consolidated | 1 | 1990-08-08 | 1990-08-08 |
+| Legea nr. 14/1990 privind salarizarea membrilor Curţii Supreme de Justiţie şi a aparatului acesteia | [`lege/1990/14/`](lege/1990/14/) | repealed 1991-08-07 | 2 | 1990-08-08 | 1991-08-07 |
 | Legea nr. 15/1990 | [`lege/1990/15/`](lege/1990/15/) | in force | 12 | 1990-09-07 | 2019-11-02 |
 | Legea nr. 16/1990 privind salarizarea funcţiilor de conducere a prefecturilor şi primăriilor | [`lege/1990/16/`](lege/1990/16/) | amended, not consolidated | 1 | 1990-08-09 | 1990-08-09 |
 | Legea nr. 17/1990 | [`lege/1990/17/`](lege/1990/17/) | in force | 7 | 1990-11-07 | 2021-04-23 |
+| Legea nr. 20/1990 pentru modificarea şi completarea unor dispoziţii din Codul penal şi Codul de procedură penală | [`lege/1990/20/`](lege/1990/20/) | amended, not consolidated | 1 | 1990-10-10 | 1990-10-10 |
+| Legea nr. 21/1990 pentru trecerea Direcţiei generale a penitenciarelor din cadrul Ministerului de Interne în subordinea Ministerului Justiţiei | [`lege/1990/21/`](lege/1990/21/) | amended, not consolidated | 1 | 1991-01-14 | 1991-01-14 |
+| Legea nr. 22/1990 pentru modificarea Decretului-lege nr. 100/1990 privind atribuirea sau schimbarea de denumiri | [`lege/1990/22/`](lege/1990/22/) | amended, not consolidated | 1 | 1990-10-16 | 1990-10-16 |
+| Legea nr. 23/1990 privind abrogarea Decretului nr. 367/1981 pentru înfiinţarea centrelor industrial-agrare Motru şi Rovinari, în judeţul Gorj, şi a direcţiilor administrativ-economice Motru şi Rovinari | [`lege/1990/23/`](lege/1990/23/) | as published, amendments not yet checked | 1 | 1990-10-16 | 1990-10-16 |
+| Legea nr. 24/1990 privind ratificarea Acordului de înfiinţare a Băncii Europene pentru Reconstrucţie şi Dezvoltare | [`lege/1990/24/`](lege/1990/24/) | amended, not consolidated | 1 | 1990-10-25 | 1990-10-25 |
 | Legea nr. 26/1990 privind registrul comerțului | [`lege/1990/26/`](lege/1990/26/) | repealed 2022-11-26 | 27 | 1990-12-07 | 2022-11-26 |
+| Legea nr. 27/1990 pentru modificarea Decretului-lege nr. 43/1990 privind unele măsuri pentru stimularea ţărănimii şi activităţii economice a unităţilor agricole cooperatiste şi de stat | [`lege/1990/27/`](lege/1990/27/) | amended, not consolidated | 1 | 1990-11-08 | 1990-11-08 |
 | Legea nr. 28/1990 pentru modificarea Decretului nr. 251/1978 privind pensiile şi alte drepturi de asigurări sociale ale avocaţilor | [`lege/1990/28/`](lege/1990/28/) | amended, not consolidated | 1 | 1990-11-08 | 1990-11-08 |
+| Legea nr. 29/1990 LEGEA contenciosului administrativ | [`lege/1990/29/`](lege/1990/29/) | amended, not consolidated | 1 | 1990-12-08 | 1990-12-08 |
 | Legea societăților nr. 31/1990 | [`lege/1990/31/`](lege/1990/31/) | in force | 43 | 1990-12-17 | 2025-12-18 |
 | Legea nr. 34/1990 pentru modificarea Legii gospodăriei comunale nr. 4/1981 | [`lege/1990/34/`](lege/1990/34/) | amended, not consolidated | 1 | 1991-01-01 | 1991-01-01 |
 | Legea nr. 35/1990 privind Statutul personalului aeronautic din aviaţia militară a României | [`lege/1990/35/`](lege/1990/35/) | amended, not consolidated | 1 | 1990-12-05 | 1990-12-05 |
 | Legea nr. 36/1990 privind autorizarea guvernului de a stabili sau modifica taxe şi impozite | [`lege/1990/36/`](lege/1990/36/) | amended, not consolidated | 1 | 1990-12-08 | 1990-12-08 |
 | Legea nr. 39/1990 privind înfiinţarea, organizarea şi funcţionarea Consiliului Suprem de Apărare a Tarii | [`lege/1990/39/`](lege/1990/39/) | amended, not consolidated | 1 | 1990-12-13 | 1990-12-13 |
+| Legea nr. 40/1990 privind organizarea şi funcţionarea Ministerului de Interne | [`lege/1990/40/`](lege/1990/40/) | amended, not consolidated | 1 | 1990-12-18 | 1990-12-18 |
 | Legea nr. 41/1990 privind organizarea şi funcţionarea Ministerului Apărării Naţionale | [`lege/1990/41/`](lege/1990/41/) | amended, not consolidated | 1 | 1990-12-19 | 1990-12-19 |
 | Legea nr. 1/1991 | [`lege/1991/1/`](lege/1991/1/) | repealed 2002-03-01 | 6 | 1991-02-07 | 2002-03-01 |
+| Legea nr. 3/1991 pentru modificarea şi completarea Legii nr. 6/1990 privind reorganizarea ministerelor şi salarizarea funcţiilor din Guvernul României şi a unor funcţii de nivel guvernamental | [`lege/1991/3/`](lege/1991/3/) | amended, not consolidated | 1 | 1991-01-08 | 1991-01-08 |
 | Legea nr. 4/1991 privind încheierea şi ratificarea tratatelor | [`lege/1991/4/`](lege/1991/4/) | amended, not consolidated | 1 | 1991-01-12 | 1991-01-12 |
 | Legea nr. 5/1991 | [`lege/1991/5/`](lege/1991/5/) | in force | 1 | 1991-01-26 | 1991-01-26 |
 | Legea nr. 6/1991 pentru aderarea României la Convenţia de la Basel privind controlul transportului peste frontiere al deşeurilor periculoase şi al eliminării acestora | [`lege/1991/6/`](lege/1991/6/) | amended, not consolidated | 1 | 1991-01-26 | 1991-01-26 |
+| Legea nr. 7/1991 pentru ratificarea celui de-al doilea Protocol facultativ la Pactul internaţional relativ la drepturile civile şi politice, vizind abolirea pedepsei cu moartea | [`lege/1991/7/`](lege/1991/7/) | as published, amendments not yet checked | 1 | 1991-01-26 | 1991-01-26 |
 | Legea nr. 8/1991 | [`lege/1991/8/`](lege/1991/8/) | in force | 1 | 1991-01-26 | 1991-01-26 |
 | Legea nr. 9/1991 | [`lege/1991/9/`](lege/1991/9/) | in force | 1 | 1991-01-30 | 1991-01-30 |
+| Legea nr. 10/1991 LEGE privind finanţele publice | [`lege/1991/10/`](lege/1991/10/) | amended, not consolidated | 1 | 1991-01-30 | 1991-01-30 |
 | Legea nr. 11/1991 | [`lege/1991/11/`](lege/1991/11/) | in force | 10 | 1991-01-30 | 2022-07-20 |
 | Legea nr. 13/1991 LEGE privind contractul colectiv de muncă | [`lege/1991/13/`](lege/1991/13/) | amended, not consolidated | 1 | 1991-02-09 | 1991-02-09 |
 | Legea nr. 14/1991 LEGEA salarizării | [`lege/1991/14/`](lege/1991/14/) | amended, not consolidated | 1 | 1991-03-11 | 1991-03-11 |
+| Legea nr. 15/1991 LEGE pentru soluţionarea conflictelor colective de muncă | [`lege/1991/15/`](lege/1991/15/) | amended, not consolidated | 1 | 1991-02-11 | 1991-02-11 |
+| Legea nr. 16/1991 pentru aprobarea volumului de masa lemnoasă ce se va recolta în anul 1991 | [`lege/1991/16/`](lege/1991/16/) | as published, amendments not yet checked | 1 | 1991-02-18 | 1991-02-18 |
+| Legea nr. 17/1991 privind scutirea de plată a valorii neamortizate aferente autovehiculelor scoase din funcţiune în anii 1983 şi 1985 de către întreprinderile de transport local | [`lege/1991/17/`](lege/1991/17/) | as published, amendments not yet checked | 1 | 1991-02-18 | 1991-02-18 |
 | Legea fondului funciar nr. 18/1991 | [`lege/1991/18/`](lege/1991/18/) | in force | 37 | 1991-02-20 | 2025-07-20 |
+| Legea nr. 19/1991 privind acoperirea pierderilor înregistrate de întreprinderile de stat din activitatea anilor 1982-1988 şi parţial a celor din anul 1989, precum şi regularizarea financiară a unor cheltuieli rămase nereglementate la 31 decembrie 1989 | [`lege/1991/19/`](lege/1991/19/) | as published, amendments not yet checked | 1 | 1991-03-01 | 1991-03-01 |
+| Legea nr. 20/1991 rectificativa asupra bugetului de stat pe anul 1990 | [`lege/1991/20/`](lege/1991/20/) | as published, amendments not yet checked | 1 | 1991-03-01 | 1991-03-01 |
 | Legea cetățeniei române nr. 21/1991 | [`lege/1991/21/`](lege/1991/21/) | in force | 24 | 1991-04-05 | 2025-03-15 |
+| Legea nr. 23/1991 pentru ratificarea Acordului dintre România, pe de o parte, şi Comunitatea Economică Europeană şi Comunitatea Europeană pentru Energie Atomică, pe de altă parte, privind comerţul şi cooperarea comercială şi economică | [`lege/1991/23/`](lege/1991/23/) | as published, amendments not yet checked | 1 | 1991-03-15 | 1991-03-15 |
+| Legea nr. 24/1991 pentru aderarea României la Convenţia Naţiunilor Unite asupra contractelor de vînzare internaţionala de mărfuri | [`lege/1991/24/`](lege/1991/24/) | as published, amendments not yet checked | 1 | 1991-03-19 | 1991-03-19 |
+| Legea nr. 25/1991 pentru acceptarea de către România a Statutului Conferinţei de la Haga de drept internaţional privat | [`lege/1991/25/`](lege/1991/25/) | amended, not consolidated | 1 | 1991-03-19 | 1991-03-19 |
+| Legea nr. 27/1991 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Franceze privind statutul şi modalităţile de funcţionare a centrelor culturale în cele doua tari | [`lege/1991/27/`](lege/1991/27/) | as published, amendments not yet checked | 1 | 1991-03-19 | 1991-03-19 |
 | Legea nr. 28/1991 | [`lege/1991/28/`](lege/1991/28/) | in force | 1 | 1991-03-30 | 1991-03-30 |
+| Legea nr. 29/1991 pentru prelungirea unor termene din Legea fondului funciar, nr. 18/1991 | [`lege/1991/29/`](lege/1991/29/) | amended, not consolidated | 1 | 1991-03-22 | 1991-03-22 |
 | Legea nr. 30/1991 | [`lege/1991/30/`](lege/1991/30/) | in force | 2 | 1991-04-26 | 2003-11-04 |
 | Legea nr. 31/1991 | [`lege/1991/31/`](lege/1991/31/) | in force | 1 | 1991-05-26 | 1991-05-26 |
 | Legea nr. 33/1991 privind activitatea bancară | [`lege/1991/33/`](lege/1991/33/) | amended, not consolidated | 1 | 1991-05-03 | 1991-05-03 |
@@ -18117,7 +18169,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 41438 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 41946 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 29723 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 816 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 666 | [`data/acts/regulament/`](data/acts/regulament/) |

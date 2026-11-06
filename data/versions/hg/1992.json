@@ -2151,6 +2151,21 @@
    ]
   },
   {
+   "slug": "hg-290-1992",
+   "path": "hg/1992/290",
+   "short": "HG nr. 290/1992",
+   "title": "Hotărârea Guvernului nr. 290/1992 privind cantinele de ajutor social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2598",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2598",
+     "sha256": "6447f2483263ed691694f6614f7b281503abca0fa5207e86d6807200f7a91bc1"
+    }
+   ]
+  },
+  {
    "slug": "hg-291-1992",
    "path": "hg/1992/291",
    "short": "HG nr. 291/1992",
