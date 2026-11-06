@@ -114005,6 +114005,21 @@
    ]
   },
   {
+   "slug": "legea-1-1997",
+   "path": "lege/1997/1",
+   "short": "Legea nr. 1/1997",
+   "title": "Legea nr. 1/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 6/1996 privind regimul deductibilităţii sumelor plătite cu titlu de salarii şi alte drepturi salariale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10739",
+   "versions": [
+    {
+     "from": "1997-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10739",
+     "sha256": "b2972803b679d8fec3d010b9e50093f551ae73f2e1a931e34eec247ef7a69984"
+    }
+   ]
+  },
+  {
    "slug": "legea-1-1999",
    "path": "lege/1999/1",
    "short": "Legea nr. 1/1999",
@@ -114322,6 +114337,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3861",
      "sha256": "93335fdc484c4465d33cde673e2077991ee5a1627707b65d41f22bb0d00f3a1c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-10-1997",
+   "path": "lege/1997/10",
+   "short": "Legea nr. 10/1997",
+   "title": "Legea nr. 10/1997 privind aprobarea Ordonanţei Guvernului nr. 37/1996 pentru modificarea şi completarea reglementărilor privind formarea şi utilizarea resurselor derulate prin trezoreria statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10916",
+   "versions": [
+    {
+     "from": "1997-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10916",
+     "sha256": "ebae69de1251c1e9daa79b1c4dd8846d248fa163fe5bbd510098e8b96668b8b9"
     }
    ]
   },
@@ -117170,6 +117200,21 @@
    ]
   },
   {
+   "slug": "legea-106-1996",
+   "path": "lege/1996/106",
+   "short": "Legea nr. 106/1996",
+   "title": "Legea nr. 106/1996 Legea protecţiei civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8561",
+   "versions": [
+    {
+     "from": "1996-10-03",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8561",
+     "sha256": "7ba921df2cae45aaf43d7c9d7980c8c402d7b2433f3cc9b1c90a3fc7e1c52010"
+    }
+   ]
+  },
+  {
    "slug": "legea-106-1997",
    "path": "lege/1997/106",
    "short": "Legea nr. 106/1997",
@@ -118457,6 +118502,21 @@
    ]
   },
   {
+   "slug": "legea-109-1998",
+   "path": "lege/1998/109",
+   "short": "Legea nr. 109/1998",
+   "title": "Legea nr. 109/1998 a bugetului de stat pe 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14888",
+   "versions": [
+    {
+     "from": "1998-06-03",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14888",
+     "sha256": "06f7887f33e8a1e9d2c698e3601ca1bbb644289251d1966c745901e81c20525f"
+    }
+   ]
+  },
+  {
    "slug": "legea-109-1999",
    "path": "lege/1999/109",
    "short": "Legea nr. 109/1999",
@@ -118817,6 +118877,21 @@
    ]
   },
   {
+   "slug": "legea-11-1997",
+   "path": "lege/1997/11",
+   "short": "Legea nr. 11/1997",
+   "title": "Legea nr. 11/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Statului Qatar privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 6 iunie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10933",
+   "versions": [
+    {
+     "from": "1997-02-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10933",
+     "sha256": "084bbb42ea037b1db6a60cad041cddd2b5d2063b9d74605f9bc140200ea364fd"
+    }
+   ]
+  },
+  {
    "slug": "legea-11-1998",
    "path": "lege/1998/11",
    "short": "Legea nr. 11/1998",
@@ -118828,6 +118903,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14020",
      "sha256": "fd473917d003b695bed14cfaa6ddf7e73ac51152a27fdabdd83ed93a3887291a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-11-1999",
+   "path": "lege/1999/11",
+   "short": "Legea nr. 11/1999",
+   "title": "Legea nr. 11/1999 privind aprobarea Ordonanţei Guvernului nr. 109/1998 pentru modificarea anexei la Legea nr. 156/1998 pentru ratificarea Acordului de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţionala, Japonia, privind Proiectul de reabilitare a drumurilor, semnat la Tokyo la 27 februarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16711",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16711",
+     "sha256": "35481ebc815ebec57482330a05e35d75edacd3c8bf2be94387d295442f887f20"
     }
    ]
   },
@@ -119194,6 +119284,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306421",
      "sha256": "165d84595f4d07ed414b0e641277eeb8c0b5b2926ae7a7d3fc6864310c53940c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-110-1996",
+   "path": "lege/1996/110",
+   "short": "Legea nr. 110/1996",
+   "title": "Legea nr. 110/1996 privind ratificarea Convenţiei Naţiunilor Unite asupra dreptului marii, încheiată la Montego Bay (Jamaica) la 10 decembrie 1982, şi aderarea la Acordul referitor la aplicarea părţii a XI-a a Convenţiei Naţiunilor Unite asupra dreptului marii, încheiat la New York la 28 iulie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8579",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8579",
+     "sha256": "1eb280ee33c6d7c87650c38437c7e1f8ddb0cd48fa16ce8ff05ac1a9b31478f2"
     }
    ]
   },
@@ -121685,6 +121790,21 @@
    ]
   },
   {
+   "slug": "legea-116-1996",
+   "path": "lege/1996/116",
+   "short": "Legea nr. 116/1996",
+   "title": "Legea nr. 116/1996 privind acordarea de despăgubiri producătorilor agricoli pentru suprafeţele agricole calamitate în anul 1995-1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8607",
+   "versions": [
+    {
+     "from": "1996-10-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8607",
+     "sha256": "ed595672b95da8f68f7e48210351335d4f8949a59666ee8cb05fcaea89958049"
+    }
+   ]
+  },
+  {
    "slug": "legea-116-1997",
    "path": "lege/1997/116",
    "short": "Legea nr. 116/1997",
@@ -121696,6 +121816,27 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11678",
      "sha256": "e54c9326aab94916fba9f0e7ac91cdc88b1495392559d9e908901e9304323984"
+    }
+   ]
+  },
+  {
+   "slug": "legea-116-1998",
+   "path": "lege/1998/116",
+   "short": "Legea nr. 116/1998",
+   "title": "Legea nr. 116/1998 privind organizarea şi funcţionarea Jandarmeriei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14970",
+   "versions": [
+    {
+     "from": "1998-06-18",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14970",
+     "sha256": "d1618f0f665d17697312f5948b7904f7a6e27ef489387f022d062fe3fa00b487"
+    },
+    {
+     "from": "2005-03-13",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/57610",
+     "sha256": "91a270810726273fc7c1965c402790e5c3e20c9d564c3bf23004a7fc92255ccd"
     }
    ]
   },
@@ -122590,6 +122731,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6319",
      "sha256": "e03c9c33a75ec61970bd8ac39afc97b1203c20235fd16c1209950ec29cf3a2c6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-118-1997",
+   "path": "lege/1997/118",
+   "short": "Legea nr. 118/1997",
+   "title": "Legea nr. 118/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Ucrainei în domeniul transporturilor internaţionale rutiere şi a Acordului dintre Guvernul României şi Guvernul Ucrainei privind serviciile aeriene, semnate la Ismail la 29 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11687",
+   "versions": [
+    {
+     "from": "1997-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11687",
+     "sha256": "9d83fd0d5a80d2213329239f11f7478c34fefe688e6ef595467cd2a47c1c9c25"
     }
    ]
   },
@@ -125273,6 +125429,21 @@
    ]
   },
   {
+   "slug": "legea-123-1998",
+   "path": "lege/1998/123",
+   "short": "Legea nr. 123/1998",
+   "title": "Legea nr. 123/1998 privind acceptarea de către România a Constituţiei Organizaţiei Internaţionale pentru Migrari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14996",
+   "versions": [
+    {
+     "from": "1998-06-24",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14996",
+     "sha256": "f2b34734678ecf6b47362a91ffe16182b528006b2c22cac84cf6bb333eb25d2a"
+    }
+   ]
+  },
+  {
    "slug": "legea-123-1999",
    "path": "lege/1999/123",
    "short": "Legea nr. 123/1999",
@@ -126161,6 +126332,21 @@
    ]
   },
   {
+   "slug": "legea-125-1998",
+   "path": "lege/1998/125",
+   "short": "Legea nr. 125/1998",
+   "title": "Legea nr. 125/1998 pentru completarea articolului 33 din Legea nr. 35/1997 privind organizarea şi funcţionarea instituţiei Avocatul Poporului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14985",
+   "versions": [
+    {
+     "from": "1998-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14985",
+     "sha256": "4ab8b6ba945d241f2cee23b4047882189d97cc3a4abeb7f27d23d21414b84e02"
+    }
+   ]
+  },
+  {
    "slug": "legea-125-1999",
    "path": "lege/1999/125",
    "short": "Legea nr. 125/1999",
@@ -127022,6 +127208,21 @@
    ]
   },
   {
+   "slug": "legea-127-1998",
+   "path": "lege/1998/127",
+   "short": "Legea nr. 127/1998",
+   "title": "Legea nr. 127/1998 privind respingerea Ordonanţei de urgenta a Guvernului nr. 55/1997 pentru modificarea unor prevederi din Ordonanţa de urgenţă a Guvernului nr. 47/1997 privind modificarea şi completarea unor acte normative în vederea eliminării legăturilor dintre nivelul unor drepturi salariale, de asigurări sau de asistenţa socială şi nivelul salariului de baza minim brut pe ţara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14989",
+   "versions": [
+    {
+     "from": "1998-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14989",
+     "sha256": "32c0984bb899df15279b576c23edf9862fe4c86fecde5e302ba135de928b8b93"
+    }
+   ]
+  },
+  {
    "slug": "legea-127-1999",
    "path": "lege/1999/127",
    "short": "Legea nr. 127/1999",
@@ -127438,6 +127639,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8661",
      "sha256": "37829db45eedb70d09d285917ed5b4baba9ecb5c49a45c19ce6e7e46d80a0931"
+    }
+   ]
+  },
+  {
+   "slug": "legea-128-1998",
+   "path": "lege/1998/128",
+   "short": "Legea nr. 128/1998",
+   "title": "Legea nr. 128/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 69/1997 privind acordarea unui ajutor pentru plata cheltuielilor suplimentare, determinate de creşterea consumului de energie termica în lunile sezonului rece şi de majorarea preţului acesteia, pentru unele categorii ale populaţiei, precum şi modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 3/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15028",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15028",
+     "sha256": "e0503f843c75d86255c5d3efa51198397dcf6368ae01dfa9d102a73580a56cfc"
     }
    ]
   },
@@ -128372,6 +128588,21 @@
    ]
   },
   {
+   "slug": "legea-13-1999",
+   "path": "lege/1999/13",
+   "short": "Legea nr. 13/1999",
+   "title": "Legea nr. 13/1999 privind aprobarea Ordonanţei Guvernului nr. 74/1998 pentru ratificarea Protocolului la Acordul european din anul 1991 privind marile linii de transport internaţional combinat şi instalaţii conexe (AGTC), privind transportul combinat pe cai navigabile interioare, adoptat la Geneva la 17 ianuarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16656",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16656",
+     "sha256": "a90357638bb2c69280a763385df672d83a991cfc41a5dec61c7a4bb27b5c4752"
+    }
+   ]
+  },
+  {
    "slug": "legea-13-2000",
    "path": "lege/2000/13",
    "short": "Legea nr. 13/2000",
@@ -128773,6 +129004,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11737",
      "sha256": "680010ad2dc07e1423d72985eb9aad48ce348189cf3170841fc5ec3086898dc1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-130-1998",
+   "path": "lege/1998/130",
+   "short": "Legea nr. 130/1998",
+   "title": "Legea nr. 130/1998 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Macedoniei privind cadrul juridic bilateral, semnat la Skopje la 8 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15097",
+   "versions": [
+    {
+     "from": "1998-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15097",
+     "sha256": "768f717c6ca3e8e7e78484261eed45ee7f0d40ac5136584b243c993af517d19c"
     }
    ]
   },
@@ -129632,6 +129878,42 @@
    ]
   },
   {
+   "slug": "legea-132-1996",
+   "path": "lege/1996/132",
+   "short": "Legea nr. 132/1996",
+   "title": "Legea nr. 132/1996 privind modificarea şi completarea Legii nr. 61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8676",
+   "versions": [
+    {
+     "from": "1996-10-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8676",
+     "sha256": "b1abd1149ef1fd29404f155e38bb5b64c0fab7d360823b9566581afee15df49c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-132-1997",
+   "path": "lege/1997/132",
+   "short": "Legea nr. 132/1997",
+   "title": "Legea nr. 132/1997 privind rechiziţiile de bunuri şi prestările de servicii în interes public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11745",
+   "versions": [
+    {
+     "from": "1997-10-16",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11745",
+     "sha256": "c96985177607803463e479ea984bbdb0cf58f4eacdc011c692e9762131a36298"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/268150",
+     "sha256": "a9f6675a4149406a0c849fa6d5ba6440479a4274f02e84d406add9a120d61eb1"
+    }
+   ]
+  },
+  {
    "slug": "legea-132-1998",
    "path": "lege/1998/132",
    "short": "Legea nr. 132/1998",
@@ -130426,6 +130708,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11752",
      "sha256": "6fe1f9366ba978e222571863bc4917f2264b48e77cb83ddc53074943966db99b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-134-1998",
+   "path": "lege/1998/134",
+   "short": "Legea nr. 134/1998",
+   "title": "Legea nr. 134/1998 pentru ratificarea Acordului privind cooperarea în domeniul militar dintre Ministerul Apărării Naţionale al României şi Ministerul Apărării al Republicii Italiene, semnat la Roma la 26 februarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15102",
+   "versions": [
+    {
+     "from": "1998-07-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15102",
+     "sha256": "a68f5705342087712bc8bc918c3eac95b43bc7f5bcd3d12c5e5417e9162eeb07"
     }
    ]
   },
@@ -132218,6 +132515,21 @@
    ]
   },
   {
+   "slug": "legea-138-1998",
+   "path": "lege/1998/138",
+   "short": "Legea nr. 138/1998",
+   "title": "Legea nr. 138/1998 privind contul general anual de execuţie a bugetului de stat pe anul 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15211",
+   "versions": [
+    {
+     "from": "1998-07-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15211",
+     "sha256": "8552ee581f4e0b350dc174674f2d6340fa4bf465be42b0ed02d926daac7ab8b3"
+    }
+   ]
+  },
+  {
    "slug": "legea-138-1999",
    "path": "lege/1999/138",
    "short": "Legea nr. 138/1999",
@@ -132673,6 +132985,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11775",
      "sha256": "ec1a6c1cae106488210cfd1c37318a07aa1f8c0cd124bcc1cb5753a77355a350"
+    }
+   ]
+  },
+  {
+   "slug": "legea-139-1998",
+   "path": "lege/1998/139",
+   "short": "Legea nr. 139/1998",
+   "title": "Legea nr. 139/1998 pentru aderarea României la Convenţia cu privire la marcajul explozibililor plastici şi în folie în scopul detectării, adoptată la Montreal la 1 martie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15137",
+   "versions": [
+    {
+     "from": "1998-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15137",
+     "sha256": "77c3ec67f020cbd840e72b6e7d3de28b6d4be5813ed3911793dd6a803e49a6cb"
     }
    ]
   },
@@ -137759,6 +138086,21 @@
    ]
   },
   {
+   "slug": "legea-15-1997",
+   "path": "lege/1997/15",
+   "short": "Legea nr. 15/1997",
+   "title": "Legea nr. 15/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi al Irlandei de Nord privind serviciile aeriene, semnat la Londra la 28 martie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10988",
+   "versions": [
+    {
+     "from": "1997-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10988",
+     "sha256": "b8139a88d0e3f1a70c508bea761634613434f0c6f7ee643ba997d72e6a0f3f59"
+    }
+   ]
+  },
+  {
    "slug": "legea-15-1999",
    "path": "lege/1999/15",
    "short": "Legea nr. 15/1999",
@@ -138160,6 +138502,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11827",
      "sha256": "532cb21d781f574540b976bfff3ffa59815d49185f8320b3334df66afbb366bd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-150-1998",
+   "path": "lege/1998/150",
+   "short": "Legea nr. 150/1998",
+   "title": "Legea nr. 150/1998 privind acordarea de sprijin comunităţilor româneşti de pretutindeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15218",
+   "versions": [
+    {
+     "from": "1998-07-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15218",
+     "sha256": "76cde643b286432cc1975738e0b16d083093b33236e04322e456d204b167ee0b"
     }
    ]
   },
@@ -138958,6 +139315,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312379",
      "sha256": "eb2744902d7439b18ae717ace4e14464d19f103c694a15fd546402adbdd3250d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-152-1997",
+   "path": "lege/1997/152",
+   "short": "Legea nr. 152/1997",
+   "title": "Legea nr. 152/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 19/1997 privind aprobarea anexei A - Document convenit între statele părţi la Tratatul cu privire la forţele armate convenţionale din Europa din 19 noiembrie 1990 - din Documentul final adoptat cu ocazia primei Conferinţe de evaluare a aplicării Tratatului privind forţele armate convenţionale în Europa, Viena, 15-31 mai 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11834",
+   "versions": [
+    {
+     "from": "1997-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11834",
+     "sha256": "41333c6c209d4bc33bf730f847c4ebd69e6308da7019b23e3b9f4bb911cc139f"
     }
    ]
   },
@@ -140638,6 +141010,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312390",
      "sha256": "5dc325c3a752bb72de1f260636515dd274be6873b2488ce85a3eb58191be1c37"
+    }
+   ]
+  },
+  {
+   "slug": "legea-156-1997",
+   "path": "lege/1997/156",
+   "short": "Legea nr. 156/1997",
+   "title": "Legea nr. 156/1997 privind acoperirea financiară a datoriilor fata de stat şi de alte persoane juridice, rămase în urma desfiinţării fostelor cooperative agricole de producţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11853",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11853",
+     "sha256": "862bd8d8907a2a3d6ebc0550445b32763e0cf46c103ba3c6949c5357e95899df"
     }
    ]
   },
@@ -143861,6 +144248,21 @@
    ]
   },
   {
+   "slug": "legea-163-1997",
+   "path": "lege/1997/163",
+   "short": "Legea nr. 163/1997",
+   "title": "Legea nr. 163/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 4/1996 şi a Ordonanţei de urgenţă a Guvernului nr. 24/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11882",
+   "versions": [
+    {
+     "from": "1997-10-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11882",
+     "sha256": "b76ef3d69f040fdc57fbefdc76c089cfaac25522fc8abeeba0211c2a8e3b59e6"
+    }
+   ]
+  },
+  {
    "slug": "legea-163-1998",
    "path": "lege/1998/163",
    "short": "Legea nr. 163/1998",
@@ -144202,6 +144604,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11886",
      "sha256": "9c06e5a5950bd72da703894d6403e0c7773873e0dd325242e3d23c58cc4e4a38"
+    }
+   ]
+  },
+  {
+   "slug": "legea-164-1998",
+   "path": "lege/1998/164",
+   "short": "Legea nr. 164/1998",
+   "title": "Legea nr. 164/1998 pentru modificarea şi completarea unor prevederi ale Legii nr. 70/1991 privind alegerile locale, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15329",
+   "versions": [
+    {
+     "from": "1998-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15329",
+     "sha256": "1a7d354498deaf7406118294f133fb01861ae1c469c2258ae92146b7599f1660"
     }
    ]
   },
@@ -144559,6 +144976,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11890",
      "sha256": "1d1f3b76e2f33638d5cd3479fb6e5789a1a1cfc7e826f533f6f9f8a4f4c2f965"
+    }
+   ]
+  },
+  {
+   "slug": "legea-165-1998",
+   "path": "lege/1998/165",
+   "short": "Legea nr. 165/1998",
+   "title": "Legea nr. 165/1998 privind constituirea la dispoziţia Ministerului Agriculturii şi Alimentaţiei a fondului pentru finanţarea cheltuielilor aferente lucrărilor agricole din sectorul vegetal şi a celor pentru creşterea animalelor, în perioada 1998-2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15396",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15396",
+     "sha256": "3ad0e5645feea0a3e82e1b6f235b87cfd231155e278b101668b118d2daec6723"
     }
    ]
   },
@@ -146495,6 +146927,36 @@
    ]
   },
   {
+   "slug": "legea-17-1998",
+   "path": "lege/1998/17",
+   "short": "Legea nr. 17/1998",
+   "title": "Legea nr. 17/1998 pentru completarea pct. II al anexei nr. V/1 la Ordonanţa Guvernului nr. 39/1994 privind stabilirea unor coeficienţi de ierarhizare a salariilor de baza pentru personalul din sectorul bugetar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14051",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14051",
+     "sha256": "af8dfe13773b498d19a1341aba9f0f56340a96359a28ba4f83f3835e9a10548b"
+    }
+   ]
+  },
+  {
+   "slug": "legea-17-1999",
+   "path": "lege/1999/17",
+   "short": "Legea nr. 17/1999",
+   "title": "Legea nr. 17/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 78/1997 pentru completarea articolului 1 din Legea nr. 2/1992 privind acordarea de indemnizaţii membrilor Academiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16668",
+   "versions": [
+    {
+     "from": "1999-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16668",
+     "sha256": "7983cc0955f27f6c22d846a4b94959884ab9a773253fe853ab61cc973cb1a5b2"
+    }
+   ]
+  },
+  {
    "slug": "legea-17-2001",
    "path": "lege/2001/17",
    "short": "Legea nr. 17/2001",
@@ -147244,6 +147706,21 @@
      "units": 8,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/11916",
      "sha256": "cbd5601c26f6dc5c63cc6ae44d1c9d687f4a5cbbae0bc47fb01a32a67cb2a088"
+    }
+   ]
+  },
+  {
+   "slug": "legea-171-1998",
+   "path": "lege/1998/171",
+   "short": "Legea nr. 171/1998",
+   "title": "Legea nr. 171/1998 pentru ratificarea Convenţiei împotriva dopajului, adoptată, în cadrul Consiliului Europei, la Strasbourg la 16 noiembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15829",
+   "versions": [
+    {
+     "from": "1998-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15829",
+     "sha256": "72290c929ab4c7024e3ab124d92f1c8321871bb0545d51d7a7504de1adfd30ff"
     }
    ]
   },
@@ -150473,6 +150950,21 @@
    ]
   },
   {
+   "slug": "legea-179-1997",
+   "path": "lege/1997/179",
+   "short": "Legea nr. 179/1997",
+   "title": "Legea nr. 179/1997 pentru completarea Legii nr. 26/1994 privind organizarea şi funcţionarea Poliţiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11948",
+   "versions": [
+    {
+     "from": "1997-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11948",
+     "sha256": "e6816f76a4602482faecb233b43e3e24fb1b8be4652332160d9b8c5848f5c932"
+    }
+   ]
+  },
+  {
    "slug": "legea-179-1998",
    "path": "lege/1998/179",
    "short": "Legea nr. 179/1998",
@@ -150899,6 +151391,21 @@
    ]
   },
   {
+   "slug": "legea-18-1997",
+   "path": "lege/1997/18",
+   "short": "Legea nr. 18/1997",
+   "title": "Legea nr. 18/1997 pentru modificarea Ordonanţei Guvernului nr. 29/1994 privind constituirea şi utilizarea Fondului special pentru dezvoltarea sistemului energetic, aprobată prin Legea nr. 136/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11026",
+   "versions": [
+    {
+     "from": "1997-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11026",
+     "sha256": "a4442b344fe5b85b94f44a669279ee1c3ccbf8339d8c133fefa73e57bcdb3ec0"
+    }
+   ]
+  },
+  {
    "slug": "legea-18-1998",
    "path": "lege/1998/18",
    "short": "Legea nr. 18/1998",
@@ -150910,6 +151417,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14057",
      "sha256": "f79adeffe47c1db9955341e4c49aa1c6b44290df640a756587fcf38c228f1b68"
+    }
+   ]
+  },
+  {
+   "slug": "legea-18-1999",
+   "path": "lege/1999/18",
+   "short": "Legea nr. 18/1999",
+   "title": "Legea nr. 18/1999 pentru ratificarea celui de-al cincilea Protocol, anexa la Acordul general privind comerţul cu servicii, adoptat la Geneva la 27 februarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16718",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16718",
+     "sha256": "492278ca59c9309688363f58d27a934147b28c9160253aa43fd06bd3d01c2d4f"
     }
    ]
   },
@@ -151276,6 +151798,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306429",
      "sha256": "b09a706b97b3623a869aabf53cbabf11e2a33f4ade13c7ede0c2b52decdad20c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-180-1997",
+   "path": "lege/1997/180",
+   "short": "Legea nr. 180/1997",
+   "title": "Legea nr. 180/1997 pentru aprobarea Ordonanţei Guvernului nr. 47/1997 privind impunerea unor venituri realizate din România de persoanele fizice şi juridice nerezidente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11952",
+   "versions": [
+    {
+     "from": "1997-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11952",
+     "sha256": "b141c1ba0ac75669d55c8e42a26bbfad1b9998c720692146f295456d31c6d248"
     }
    ]
   },
@@ -152453,6 +152990,21 @@
    ]
   },
   {
+   "slug": "legea-183-1998",
+   "path": "lege/1998/183",
+   "short": "Legea nr. 183/1998",
+   "title": "Legea nr. 183/1998 pentru aprobarea Ordonanţei Guvernului nr. 29/1998 privind plata contribuţiei de 8% din valoarea asistenţei tehnice primite de la Agenţia Internaţionala pentru Energia Atomică - Viena (A.I.E.A.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15866",
+   "versions": [
+    {
+     "from": "1998-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15866",
+     "sha256": "86fefc4f2eec6f8aa97f4aa30f7e7d9b9a21a07daef1640827026d3f6c6a4a4c"
+    }
+   ]
+  },
+  {
    "slug": "legea-183-1999",
    "path": "lege/1999/183",
    "short": "Legea nr. 183/1999",
@@ -152873,6 +153425,36 @@
    ]
   },
   {
+   "slug": "legea-184-1997",
+   "path": "lege/1997/184",
+   "short": "Legea nr. 184/1997",
+   "title": "Legea nr. 184/1997 privind aprobarea Ordonanţei Guvernului nr. 23/1997 pentru ratificarea Acordului de împrumut (Proiectul privind reabilitarea drumurilor - etapa a II-a) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington D.C. la 1 iulie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11968",
+   "versions": [
+    {
+     "from": "1997-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11968",
+     "sha256": "a429bd5326a877a83f4bef3131a7d4e0db25963bae338108c2a5f2b047729e30"
+    }
+   ]
+  },
+  {
+   "slug": "legea-184-1998",
+   "path": "lege/1998/184",
+   "short": "Legea nr. 184/1998",
+   "title": "Legea nr. 184/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 3/1998 privind modificarea accizelor la produsele petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15868",
+   "versions": [
+    {
+     "from": "1998-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15868",
+     "sha256": "b2f413f021014c42c1ae5fe84e966497a1c1e7fb8416ccd055041078603a9e05"
+    }
+   ]
+  },
+  {
    "slug": "legea-184-1999",
    "path": "lege/1999/184",
    "short": "Legea nr. 184/1999",
@@ -153280,6 +153862,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313844",
      "sha256": "098a7eaf422c8bdc95d7c59503875cee18d827bfc09a0058bb826184022150c9"
+    }
+   ]
+  },
+  {
+   "slug": "legea-185-1997",
+   "path": "lege/1997/185",
+   "short": "Legea nr. 185/1997",
+   "title": "Legea nr. 185/1997 privind aprobarea Ordonanţei Guvernului nr. 28/1997 pentru modificarea Ordonanţei Guvernului nr. 35/1994 privind ratificarea Acordului de împrumut dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, în valoare de 25 milioane dolari S.U.A., destinat finanţării proiectului \"Piaţa de gros\" Bucureşti, semnat la Bucureşti la 9 iunie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11973",
+   "versions": [
+    {
+     "from": "1997-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11973",
+     "sha256": "bd2b87ac311d1d04430cb8277224aa4b120f4b50c970e81c4b774b3c2d275666"
     }
    ]
   },
@@ -153718,6 +154315,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314375",
      "sha256": "762967a4502f3bfa3e3ffd990427221abb14c688399f1f406af30580a6fd199a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-186-1997",
+   "path": "lege/1997/186",
+   "short": "Legea nr. 186/1997",
+   "title": "Legea nr. 186/1997 privind aprobarea Ordonanţei Guvernului nr. 37/1997 pentru ratificarea Acordului de împrumut - Programul de dezvoltare a utilităţilor municipale, etapa a II-a, dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 4 august 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11977",
+   "versions": [
+    {
+     "from": "1997-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11977",
+     "sha256": "2dd0dc68e5e55bdcf3b527f83f2e354d854344004d44a08ec18cdf1c5c8f5230"
     }
    ]
   },
@@ -155210,6 +155822,21 @@
    ]
   },
   {
+   "slug": "legea-19-1997",
+   "path": "lege/1997/19",
+   "short": "Legea nr. 19/1997",
+   "title": "Legea nr. 19/1997 privind ratificarea Convenţiei europene pentru reprimarea terorismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11041",
+   "versions": [
+    {
+     "from": "1997-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11041",
+     "sha256": "d2e6f2759221c06f6daf82996cc39f78de34053fb1ff445dc894b788148b01f4"
+    }
+   ]
+  },
+  {
    "slug": "legea-19-1998",
    "path": "lege/1998/19",
    "short": "Legea nr. 19/1998",
@@ -155911,6 +156538,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304598",
      "sha256": "5d4a728e2df1303560a4e6525aaae7f7a4c56550bbdedad451ef8e9fb50668f9"
+    }
+   ]
+  },
+  {
+   "slug": "legea-191-1997",
+   "path": "lege/1997/191",
+   "short": "Legea nr. 191/1997",
+   "title": "Legea nr. 191/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 45/1997 privind alocarea de la bugetul de stat a fondurilor necesare acoperirii cheltuielilor pentru depozitarea graului din recolta anului 1997, proprietate a producătorilor agricoli şi a arendaşilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11998",
+   "versions": [
+    {
+     "from": "1997-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11998",
+     "sha256": "4a74404736e915f8daf2723dd40cb2ee99d9346d49c07a3d138acd58461fcc95"
     }
    ]
   },
@@ -157057,6 +157699,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12011",
      "sha256": "f6d5aad3562cbb4a37ac5d48b845c1eb4cc9acb887f664504e13489f525fb32a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-194-1998",
+   "path": "lege/1998/194",
+   "short": "Legea nr. 194/1998",
+   "title": "Legea nr. 194/1998 pentru modificarea şi completarea unor dispoziţii din Legea nr. 80/1992 privind pensiile şi alte drepturi de asigurări sociale ale agricultorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15973",
+   "versions": [
+    {
+     "from": "1998-10-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15973",
+     "sha256": "fd1f6387a59eba56e5cb981d22459bb0afd6328ceac5c4e8a674b51551cd9a13"
     }
    ]
   },
@@ -158827,6 +159484,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12032",
      "sha256": "a6d9d86aee53a55642e46b60c51e7dfeae07888e8c7183f3c637e572e4bb4786"
+    }
+   ]
+  },
+  {
+   "slug": "legea-199-1998",
+   "path": "lege/1998/199",
+   "short": "Legea nr. 199/1998",
+   "title": "Legea nr. 199/1998 privind dreptul absolvenţilor învăţământului particular liceal, profesional şi postliceal de a susţine examenul de finalizare a studiilor la unităţi similare din învăţământul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16070",
+   "versions": [
+    {
+     "from": "1998-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16070",
+     "sha256": "fe0bd12e61f9537d707cab31949c52d8d83fc95886f7140a45b082e4d91b93c6"
     }
    ]
   },
@@ -161453,6 +162125,21 @@
    ]
   },
   {
+   "slug": "legea-204-1998",
+   "path": "lege/1998/204",
+   "short": "Legea nr. 204/1998",
+   "title": "Legea nr. 204/1998 privind declararea ca municipiu a oraşului Câmpia Turzii, judeţul Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16088",
+   "versions": [
+    {
+     "from": "1998-11-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16088",
+     "sha256": "db3097e42a5a76566237c8f37a342c8c3dfb171d2fe6ee99189e5d9c811d914b"
+    }
+   ]
+  },
+  {
    "slug": "legea-204-1999",
    "path": "lege/1999/204",
    "short": "Legea nr. 204/1999",
@@ -162563,6 +163250,21 @@
    ]
   },
   {
+   "slug": "legea-207-1997",
+   "path": "lege/1997/207",
+   "short": "Legea nr. 207/1997",
+   "title": "Legea nr. 207/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 30/1997 privind reorganizarea regiilor autonome",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12064",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12064",
+     "sha256": "a4b38b6c485fd8f70ebaef33175dcfdb044c81852581be373d76a3199f734163"
+    }
+   ]
+  },
+  {
    "slug": "legea-207-1998",
    "path": "lege/1998/207",
    "short": "Legea nr. 207/1998",
@@ -163316,6 +164018,21 @@
    ]
   },
   {
+   "slug": "legea-209-1997",
+   "path": "lege/1997/209",
+   "short": "Legea nr. 209/1997",
+   "title": "Legea nr. 209/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 42/1997 cu privire la îmbunătăţirea protecţiei sociale pentru persoanele care şi-au pierdut total sau parţial capacitatea de muncă şi pentru urmaşii celor care au decedat, ca urmare a participării la lupta pentru victoria Revoluţiei anticomuniste din decembrie 1989 ori în legătură cu evenimentele revoluţionare din decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12072",
+   "versions": [
+    {
+     "from": "1997-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12072",
+     "sha256": "c0d35e805559219e57f5fc2b0829cbb401cd03fd7d3e4cee4cca1f58086d29c4"
+    }
+   ]
+  },
+  {
    "slug": "legea-209-1998",
    "path": "lege/1998/209",
    "short": "Legea nr. 209/1998",
@@ -163669,6 +164386,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305022",
      "sha256": "4cafaa3f0c6da83c3bc1e6b196eec2e042ced805435973b83aa0eedfceb60689"
+    }
+   ]
+  },
+  {
+   "slug": "legea-21-1997",
+   "path": "lege/1997/21",
+   "short": "Legea nr. 21/1997",
+   "title": "Legea nr. 21/1997 privind aderarea României la Acordul dintre Republica Austria, Republica Bulgaria, Republica Ungaria, Republica Polonia, Republica Slovaca şi Republica Slovenia pentru stabilirea cooperării în domeniul educaţiei şi formării în cadrul Programului de schimburi pentru studii universitare în Europa Centrala (CEEPUS), semnat la Budapesta la 8 decembrie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11065",
+   "versions": [
+    {
+     "from": "1997-03-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11065",
+     "sha256": "66185547b757373b2ea38a7ab503dc2f9ced3e59f6c1fc1fe216840c4315867b"
     }
    ]
   },
@@ -164059,6 +164791,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306409",
      "sha256": "5945831c86d0f1c421f93ffaeef3ad8b0c78e77b0ca60ad851f3d87232b5369a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-210-1997",
+   "path": "lege/1997/210",
+   "short": "Legea nr. 210/1997",
+   "title": "Legea nr. 210/1997 pentru aprobarea Ordonanţei Guvernului nr. 15/1997 privind stabilirea termenului de convocare a adunării generale extraordinare a acţionarilor la societăţile comerciale pentru care Fondul Proprietăţii de Stat a dispus dizolvarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12077",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12077",
+     "sha256": "00bf6c80c54469edfd6171fe8d17e158af008e8f67ae5aaed2310c5463b9b98c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-210-1998",
+   "path": "lege/1998/210",
+   "short": "Legea nr. 210/1998",
+   "title": "Legea nr. 210/1998 pentru aprobarea Ordonanţei Guvernului nr. 49/1998 privind alocarea de la bugetul de stat a fondurilor necesare acoperirii cheltuielilor pentru recepţionarea, depozitarea şi păstrarea graului din recolta anului 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16152",
+   "versions": [
+    {
+     "from": "1998-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16152",
+     "sha256": "2feec94ea331cbd30d2c4ece499bc8ad18b98c3ffe3181e010bd531195480055"
     }
    ]
   },
@@ -164818,6 +165580,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12087",
      "sha256": "02388da23c2814f5a33426063f8e183db663a66d2cf3254bbd18babb2e6b312c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-212-1998",
+   "path": "lege/1998/212",
+   "short": "Legea nr. 212/1998",
+   "title": "Legea nr. 212/1998 pentru completarea anexei nr. 1 la Ordonanţa Guvernului nr. 20/1992 privind activitatea de metrologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16170",
+   "versions": [
+    {
+     "from": "1998-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16170",
+     "sha256": "f0243e79415ba4c47253bcf392981bc1c28eb0c247344eb7a6baa9f1a2d607f6"
     }
    ]
   },
@@ -165875,6 +166652,21 @@
    ]
   },
   {
+   "slug": "legea-215-1998",
+   "path": "lege/1998/215",
+   "short": "Legea nr. 215/1998",
+   "title": "Legea nr. 215/1998 privind aprobarea Ordonanţei Guvernului nr. 106/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 9/1998 privind instituirea sistemului de cupoane pentru agricultori în anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16194",
+   "versions": [
+    {
+     "from": "1998-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16194",
+     "sha256": "2f3b1b2b846a291a5e2f56e96d8483b0988612989f584be48a8781e6a919ffff"
+    }
+   ]
+  },
+  {
    "slug": "legea-215-2000",
    "path": "lege/2000/215",
    "short": "Legea nr. 215/2000",
@@ -166519,6 +167311,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305141",
      "sha256": "47ee9df454b4870958ad0dd8afa63c3287b004754bc2f1f56fe3e48ff7d3ec94"
+    }
+   ]
+  },
+  {
+   "slug": "legea-217-1998",
+   "path": "lege/1998/217",
+   "short": "Legea nr. 217/1998",
+   "title": "Legea nr. 217/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 39/1997 privind modificarea şi completarea Legii contractului de management nr. 66/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16198",
+   "versions": [
+    {
+     "from": "1998-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16198",
+     "sha256": "b9380831e0db320866d6793482ff8f011687083d443d1e67c02915225574ad09"
     }
    ]
   },
@@ -167555,6 +168362,21 @@
    ]
   },
   {
+   "slug": "legea-22-1998",
+   "path": "lege/1998/22",
+   "short": "Legea nr. 22/1998",
+   "title": "Legea nr. 22/1998 pentru ratificarea Convenţiei europene cu privire la echivalarea diplomelor ce permit accesul în instituţii universitare, adoptată la Paris la 11 decembrie 1953",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14080",
+   "versions": [
+    {
+     "from": "1998-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14080",
+     "sha256": "eccc914871bf19f8f66969abe28822cf46198d136b40da07648094b7cc315d25"
+    }
+   ]
+  },
+  {
    "slug": "legea-22-1999",
    "path": "lege/1999/22",
    "short": "Legea nr. 22/1999",
@@ -167956,6 +168778,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306449",
      "sha256": "bffe484b45a75bae270a46886864523f5a14287a4c3999eecde866444f172299"
+    }
+   ]
+  },
+  {
+   "slug": "legea-220-1997",
+   "path": "lege/1997/220",
+   "short": "Legea nr. 220/1997",
+   "title": "Legea nr. 220/1997 pentru aprobarea Ordonanţei Guvernului nr. 18/1997 privind stabilirea cuantumurilor plăţilor compensatorii pentru persoanele ale căror contracte individuale de muncă vor fi desfăcute ca urmare a concedierilor colective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12122",
+   "versions": [
+    {
+     "from": "1997-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12122",
+     "sha256": "dd0304bf0eff8297bd8af48c49bd403c22815150bf1cf2fba3d0c12af89b85e3"
     }
    ]
   },
@@ -171491,6 +172328,21 @@
    ]
   },
   {
+   "slug": "legea-23-1998",
+   "path": "lege/1998/23",
+   "short": "Legea nr. 23/1998",
+   "title": "Legea nr. 23/1998 pentru ratificarea Protocolului adiţional la Convenţia europeană cu privire la echivalarea diplomelor ce permit accesul în instituţii universitare, adoptat la Strasbourg la 3 iunie 1964",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14086",
+   "versions": [
+    {
+     "from": "1998-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14086",
+     "sha256": "837c1c486cddd34e69b02091b1da21adf7d55d7e39aadfb9b927fbbdc6d3a996"
+    }
+   ]
+  },
+  {
    "slug": "legea-23-1999",
    "path": "lege/1999/23",
    "short": "Legea nr. 23/1999",
@@ -173615,6 +174467,21 @@
    ]
   },
   {
+   "slug": "legea-235-1998",
+   "path": "lege/1998/235",
+   "short": "Legea nr. 235/1998",
+   "title": "Legea nr. 235/1998 pentru ratificarea Convenţiei dintre România şi Spania - complementara la Convenţia privind procedura civilă, încheiată la Haga la 1 martie 1954 -, semnată la Bucureşti la 17 noiembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16390",
+   "versions": [
+    {
+     "from": "1998-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16390",
+     "sha256": "40b6d6f610d4c6ee8e64b0778f3035b8aedf8413723c45793c56b96f2c8ef6b8"
+    }
+   ]
+  },
+  {
    "slug": "legea-235-2001",
    "path": "lege/2001/235",
    "short": "Legea nr. 235/2001",
@@ -174539,6 +175406,21 @@
    ]
   },
   {
+   "slug": "legea-238-1998",
+   "path": "lege/1998/238",
+   "short": "Legea nr. 238/1998",
+   "title": "Legea nr. 238/1998 privind conferirea Ordinului \"Meritul Militar\" pensionarilor militari, veterani de război",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16392",
+   "versions": [
+    {
+     "from": "1998-12-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16392",
+     "sha256": "3246f65b55729f7c04eab007b0c8138d6039be8c73ac540cac3e26ce06f49fea"
+    }
+   ]
+  },
+  {
    "slug": "legea-238-2001",
    "path": "lege/2001/238",
    "short": "Legea nr. 238/2001",
@@ -174820,6 +175702,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/285769",
      "sha256": "ee10ebbfae2c09e8044021fd7db260edace3ccb225dfd164c60b2e531525a6de"
+    }
+   ]
+  },
+  {
+   "slug": "legea-239-1998",
+   "path": "lege/1998/239",
+   "short": "Legea nr. 239/1998",
+   "title": "Legea nr. 239/1998 pentru aprobarea Ordonanţei Guvernului nr. 23/1998 privind finanţarea şi din alte surse decât bugetul de stat a unor activităţi specifice de administrare a rezervelor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16394",
+   "versions": [
+    {
+     "from": "1998-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16394",
+     "sha256": "7c95723cd2aafa75f29f95b7e8b1f0a3a1dd126d6e1157857b07efa9ed131056"
     }
    ]
   },
@@ -176776,6 +177673,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/public/DetaliiDocument/286989",
      "sha256": "04906204358efcd5fe7e47094f115486a3b6d8eaf4190b4ed26fd07fde445c80"
+    }
+   ]
+  },
+  {
+   "slug": "legea-244-1998",
+   "path": "lege/1998/244",
+   "short": "Legea nr. 244/1998",
+   "title": "Legea nr. 244/1998 pentru aprobarea Ordonanţei Guvernului nr. 45/1998 privind abilitarea Băncii Naţionale a României de a pune în circulaţie emisiuni monetare cu caracter numismatic din metale preţioase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16403",
+   "versions": [
+    {
+     "from": "1998-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16403",
+     "sha256": "9345666afac913c7c2063a20f174f0aea27eaa147acbd52677263def69778f09"
     }
    ]
   },
@@ -179162,6 +180074,21 @@
    ]
   },
   {
+   "slug": "legea-250-1998",
+   "path": "lege/1998/250",
+   "short": "Legea nr. 250/1998",
+   "title": "Legea nr. 250/1998 pentru modificarea şi completarea Legii nr. 66/1996 privind reorganizarea Casei de Economii şi Consemnaţiuni din România în societate bancară pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16564",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16564",
+     "sha256": "0b51fc6937937b7ac7be617b98afc21fa3efad1d1b7c02734357e7a50006ae95"
+    }
+   ]
+  },
+  {
    "slug": "legea-250-2002",
    "path": "lege/2002/250",
    "short": "Legea nr. 250/2002",
@@ -179449,6 +180376,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289110",
      "sha256": "e3313ae9e45ede33ce45ee7024408fafca5b5a4b06c03f42425bab02345c9f30"
+    }
+   ]
+  },
+  {
+   "slug": "legea-251-1998",
+   "path": "lege/1998/251",
+   "short": "Legea nr. 251/1998",
+   "title": "Legea nr. 251/1998 privind aprobarea Ordonanţei Guvernului nr. 110/1998 pentru ratificarea Convenţiei privind înfiinţarea Biroului European de Telecomunicaţii (ETO), adoptată la Copenhaga la 1 septembrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16566",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16566",
+     "sha256": "fd641649ea3e41da4f858ddfbb836342bec423863f84f446324c57da728c006d"
     }
    ]
   },
@@ -185159,6 +186101,21 @@
    ]
   },
   {
+   "slug": "legea-27-1998",
+   "path": "lege/1998/27",
+   "short": "Legea nr. 27/1998",
+   "title": "Legea nr. 27/1998 privind aprobarea Ordonanţei Guvernului nr. 35/1997 pentru ratificarea Acordului suplimentar de împrumut dintre România, Banca Naţionala a României şi Comunitatea Europeană, precum şi a Memorandumului de înţelegere suplimentar dintre România şi Comunitatea Europeană, semnate la 10 iulie 1997 la Bucureşti şi la 24 iulie 1997 la Bruxelles",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14108",
+   "versions": [
+    {
+     "from": "1998-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14108",
+     "sha256": "807924e0a60aa6a15d2088044d39d291d0f0d8ebcc929c8727899de771bd270e"
+    }
+   ]
+  },
+  {
    "slug": "legea-27-1999",
    "path": "lege/1999/27",
    "short": "Legea nr. 27/1999",
@@ -188207,6 +189164,21 @@
    ]
   },
   {
+   "slug": "legea-28-1998",
+   "path": "lege/1998/28",
+   "short": "Legea nr. 28/1998",
+   "title": "Legea nr. 28/1998 privind aprobarea Ordonanţei Guvernului nr. 13/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind ajustarea sectorului agricol, în suma de 350 milioane dolari S.U.A. echivalent, semnat la Washington la data de 1 iulie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14115",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14115",
+     "sha256": "8ec282165636fb126344a89a91b729134ccf415e7eb6e1667a04a7b188ee833f"
+    }
+   ]
+  },
+  {
    "slug": "legea-28-1999",
    "path": "lege/1999/28",
    "short": "Legea nr. 28/1999",
@@ -191111,6 +192083,21 @@
    ]
   },
   {
+   "slug": "legea-29-1998",
+   "path": "lege/1998/29",
+   "short": "Legea nr. 29/1998",
+   "title": "Legea nr. 29/1998 pentru aprobarea Ordonanţei Guvernului nr. 14/1997 cu privire la rectificarea bugetului de stat pe anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14120",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14120",
+     "sha256": "e1dd57b5e96570c11f2af4b6f0a82a1da47c7a4fd8dcbcd668ebba707c08f8c6"
+    }
+   ]
+  },
+  {
    "slug": "legea-29-1999",
    "path": "lege/1999/29",
    "short": "Legea nr. 29/1999",
@@ -193885,6 +194872,36 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37675",
      "sha256": "05b5383bc2110a0d6c2d43ff2875bd3a3899cb946c49bce33ba9b473583cc057"
+    }
+   ]
+  },
+  {
+   "slug": "legea-3-1997",
+   "path": "lege/1997/3",
+   "short": "Legea nr. 3/1997",
+   "title": "Legea nr. 3/1997 privind ratificarea Convenţiei dintre Guvernul României şi Guvernul Regatului Thailandei pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnată la Bucureşti la 26 iunie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10790",
+   "versions": [
+    {
+     "from": "1997-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10790",
+     "sha256": "38a620858d33cb09b962b6dd69de28ee978b5c2ed2c1e1b1083accb7526058b1"
+    }
+   ]
+  },
+  {
+   "slug": "legea-3-1999",
+   "path": "lege/1999/3",
+   "short": "Legea nr. 3/1999",
+   "title": "Legea nr. 3/1999 pentru ratificarea Convenţiei dintre România şi Spania privind competenţa judiciară, recunoaşterea şi executarea hotărârilor în materie civilă şi comercială, semnată la Bucureşti la 17 noiembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16673",
+   "versions": [
+    {
+     "from": "1999-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16673",
+     "sha256": "45496b09ce50b573dc56264b16072ebdf3070c839508c5dc3d95c6cce9da1910"
     }
    ]
   },
@@ -196786,6 +197803,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5906",
      "sha256": "7042bef7c89b1b256823f5e6cf5985ea548c84690cec56efa6d0caee39b17ff6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-31-1997",
+   "path": "lege/1997/31",
+   "short": "Legea nr. 31/1997",
+   "title": "Legea nr. 31/1997 pentru aprobarea Ordonanţei Guvernului nr. 29/1996 privind asigurarea surselor financiare necesare pentru continuarea participării României la construirea Combinatului de produse cu conţinut de nichel plus cobalt de la Las Camariocas - Republica Cuba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11165",
+   "versions": [
+    {
+     "from": "1997-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11165",
+     "sha256": "767e2c1b4748afbfec197a1c565f856f7cb1fd29a9e1f024375a35d73c13858c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-31-1998",
+   "path": "lege/1998/31",
+   "short": "Legea nr. 31/1998",
+   "title": "Legea nr. 31/1998 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 54/1997 privind modificarea art. 63 alin. (4) din Legea telecomunicaţiilor nr. 74/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14129",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14129",
+     "sha256": "fe857b7bdd3da1bd504a2bfc18afedddbc75d0990affbfca04b12337efe40abf"
+    }
+   ]
+  },
+  {
+   "slug": "legea-31-1999",
+   "path": "lege/1999/31",
+   "short": "Legea nr. 31/1999",
+   "title": "Legea nr. 31/1999 privind aprobarea Ordonanţei Guvernului nr. 115/1998 pentru aderarea României la Convenţia internaţionala din 1979 privind căutarea şi salvarea pe mare, adoptată de Conferinţa internaţionala din 1979 privind căutarea şi salvarea pe mare, organizată de Organizaţia Maritima Internaţionala la Hamburg în perioada 9- 27 aprilie 1979",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16806",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16806",
+     "sha256": "55e83f862714cfffbba517e8f643771d9df6a32c40e7b7aaec2c9f440375a6d5"
     }
    ]
   },
@@ -209795,6 +210857,21 @@
    ]
   },
   {
+   "slug": "legea-37-1998",
+   "path": "lege/1998/37",
+   "short": "Legea nr. 37/1998",
+   "title": "Legea nr. 37/1998 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Statului Bahrain privind serviciile aeriene, semnat la Bucureşti la 19 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14159",
+   "versions": [
+    {
+     "from": "1998-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14159",
+     "sha256": "f99b01a5a7e1013c6e425e4ad7fbe3398a94a6e656cdb34f963985ac5a157823"
+    }
+   ]
+  },
+  {
    "slug": "legea-37-1999",
    "path": "lege/1999/37",
    "short": "Legea nr. 37/1999",
@@ -211655,6 +212732,36 @@
    ]
   },
   {
+   "slug": "legea-38-1997",
+   "path": "lege/1997/38",
+   "short": "Legea nr. 38/1997",
+   "title": "Legea nr. 38/1997 privind aprobarea Ordonanţei Guvernului nr. 35/1996 pentru completarea Legii nr. 118/1995 privind abilitarea Ministerului Finanţelor şi Băncii Naţionale a României de a efectua împrumuturi externe pe termen mediu şi lung, precum şi aprobarea plafonului de îndatorare publică externa pe anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11228",
+   "versions": [
+    {
+     "from": "1997-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11228",
+     "sha256": "44c10f834ca85e1972d3d34dbb8983397a696176010e5561c4b795a6f777a84c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-38-1998",
+   "path": "lege/1998/38",
+   "short": "Legea nr. 38/1998",
+   "title": "Legea nr. 38/1998 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Belarus cu privire la transporturile rutiere internaţionale de persoane şi de mărfuri, semnat la Bucureşti la 31 mai 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14163",
+   "versions": [
+    {
+     "from": "1998-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14163",
+     "sha256": "91d3431680e3ce7ab89c69d97f401443b02da0f450763fa89b5ffba64496d598"
+    }
+   ]
+  },
+  {
    "slug": "legea-38-1999",
    "path": "lege/1999/38",
    "short": "Legea nr. 38/1999",
@@ -213416,6 +214523,36 @@
    ]
   },
   {
+   "slug": "legea-39-1997",
+   "path": "lege/1997/39",
+   "short": "Legea nr. 39/1997",
+   "title": "Legea nr. 39/1997 pentru aprobarea Ordonanţei Guvernului nr. 28/1996 privind scutirea de la plata taxelor prevăzute la art. 71 alin. 3 din Legea fondului funciar nr. 18/1991 , pentru realizarea obiectivului de investiţii \"Piaţa de Gros Bucureşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11236",
+   "versions": [
+    {
+     "from": "1997-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11236",
+     "sha256": "bb6fd8ebebb7eb9f84129a2f34fc7176c9083ce0f8a86be919fb042f7fa9fca0"
+    }
+   ]
+  },
+  {
+   "slug": "legea-39-1998",
+   "path": "lege/1998/39",
+   "short": "Legea nr. 39/1998",
+   "title": "Legea nr. 39/1998 privind ratificarea Convenţiei dintre Guvernul României şi Guvernul Statului Israel pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit, semnată la Ierusalim la 15 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14166",
+   "versions": [
+    {
+     "from": "1998-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14166",
+     "sha256": "7126e8af9fc2da18f73a1f5966954a5402e055372f5c93dc8b529dfb3b92162a"
+    }
+   ]
+  },
+  {
    "slug": "legea-39-1999",
    "path": "lege/1999/39",
    "short": "Legea nr. 39/1999",
@@ -214837,6 +215974,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3806",
      "sha256": "113ebad8fe5920aeb66d2c2604dcd3ea10e04e4b00e1a44204b5ad480f2c7c33"
+    }
+   ]
+  },
+  {
+   "slug": "legea-4-1998",
+   "path": "lege/1998/4",
+   "short": "Legea nr. 4/1998",
+   "title": "Legea nr. 4/1998 pentru aderarea României la Tratatul privind dreptul mărcilor, adoptat la Geneva la 27 octombrie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13956",
+   "versions": [
+    {
+     "from": "1998-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13956",
+     "sha256": "ed47252e1a9e4c1e9b14e20ca5d804ec0b48df1910f8a90843a0413320cb4f85"
+    }
+   ]
+  },
+  {
+   "slug": "legea-4-1999",
+   "path": "lege/1999/4",
+   "short": "Legea nr. 4/1999",
+   "title": "Legea nr. 4/1999 privind aprobarea Ordonanţei Guvernului nr. 77/1998 pentru aderarea României la Protocolul de amendare a articolelor 1 a), 14(1) şi 14(3) b) ale Acordului european din 30 septembrie 1957 referitor la transportul rutier internaţional de mărfuri periculoase (ADR), încheiat la Geneva la 28 octombrie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16675",
+   "versions": [
+    {
+     "from": "1999-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16675",
+     "sha256": "f687e08eb15a312e6266b760d50c09a518d9bdc604d1902b546d65387a07880a"
     }
    ]
   },
@@ -221303,6 +222470,21 @@
    ]
   },
   {
+   "slug": "legea-45-1998",
+   "path": "lege/1998/45",
+   "short": "Legea nr. 45/1998",
+   "title": "Legea nr. 45/1998 privind respingerea Ordonanţei de urgenţă a Guvernului nr. 53/1997 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 30/1997 privind reorganizarea regiilor autonome",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14188",
+   "versions": [
+    {
+     "from": "1998-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14188",
+     "sha256": "698f7b413d6ea850a1afe6ce683c4ee1400836a982c223affd624df85e555531"
+    }
+   ]
+  },
+  {
    "slug": "legea-45-1999",
    "path": "lege/1999/45",
    "short": "Legea nr. 45/1999",
@@ -222412,6 +223594,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3166",
      "sha256": "2e7c47fde791d4df178f858ecc9daec1d172c1c0e9cdcac0f78cd31c84b93190"
+    }
+   ]
+  },
+  {
+   "slug": "legea-46-1997",
+   "path": "lege/1997/46",
+   "short": "Legea nr. 46/1997",
+   "title": "Legea nr. 46/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 8/1996 privind unele măsuri de protecţie socială a personalului din sectorul producţiei de apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11287",
+   "versions": [
+    {
+     "from": "1997-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11287",
+     "sha256": "69beba7736404f8bb059b321cd85ea930780806a53f3d4d7e0a912a53454c38a"
     }
    ]
   },
@@ -223531,6 +224728,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11293",
      "sha256": "48530588c34728d4590e0e1ce550dc6fd026b3fd0db1bfd19218271f65d1fb40"
+    }
+   ]
+  },
+  {
+   "slug": "legea-47-1998",
+   "path": "lege/1998/47",
+   "short": "Legea nr. 47/1998",
+   "title": "Legea nr. 47/1998 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 52/1997 privind contractarea de către Ministerul Finanţelor a unui credit extern pentru achiziţionarea de hardware, software, elemente de comunicaţie şi asistenţa tehnică pentru dezvoltarea sistemului de gestionare a finanţelor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14194",
+   "versions": [
+    {
+     "from": "1998-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14194",
+     "sha256": "2f8ee334cf4d6c8f8ae430d11c9e358bdd8e3741ca14f8c2a9cdfee6d244e8a8"
     }
    ]
   },
@@ -224662,6 +225874,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1513",
      "sha256": "30502c0e1d85946e931316d0e44a0a59220f9d41b3abe9a679ac9e6ae35de8c2"
+    }
+   ]
+  },
+  {
+   "slug": "legea-48-1997",
+   "path": "lege/1997/48",
+   "short": "Legea nr. 48/1997",
+   "title": "Legea nr. 48/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 11/1996 privind modificarea şi completarea anexei la Ordonanţa de urgenţă a Guvernului nr. 7/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11299",
+   "versions": [
+    {
+     "from": "1997-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11299",
+     "sha256": "3df6d3c4e0f41fb9344251a14a2ee758ca40a2152586afa8e7d72574a2900469"
     }
    ]
   },
@@ -226894,6 +228121,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3002",
      "sha256": "a008b5d0dad214d9fc9836c36a1c9723ba033495f856955be405d918b3c04c17"
+    }
+   ]
+  },
+  {
+   "slug": "legea-5-1997",
+   "path": "lege/1997/5",
+   "short": "Legea nr. 5/1997",
+   "title": "Legea nr. 5/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Arabe Egipt privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 24 noiembrie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10828",
+   "versions": [
+    {
+     "from": "1997-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10828",
+     "sha256": "46922df0859f1832c630a484c7a158bade4685406333421d85e583426867020a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-5-1998",
+   "path": "lege/1998/5",
+   "short": "Legea nr. 5/1998",
+   "title": "Legea nr. 5/1998 pentru ratificarea Protocolului referitor la Aranjamentul de la Madrid privind înregistrarea internaţionala a mărcilor, adoptat la Madrid la 27 iunie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13969",
+   "versions": [
+    {
+     "from": "1998-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13969",
+     "sha256": "f98ff22aa11751b4693c75473adcd64161d20a45c4d872a39020804d9d7bbba8"
     }
    ]
   },
@@ -233399,6 +234656,21 @@
    ]
   },
   {
+   "slug": "legea-56-1998",
+   "path": "lege/1998/56",
+   "short": "Legea nr. 56/1998",
+   "title": "Legea nr. 56/1998 privind aprobarea Ordonanţei Guvernului nr. 24/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 68/1994 privind protejarea patrimoniului cultural naţional, aprobată prin Legea nr. 41/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14227",
+   "versions": [
+    {
+     "from": "1998-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14227",
+     "sha256": "bb9aa01a14e696f65c10ff81591cb44a1713a4138ffac019f2960d41493d2eab"
+    }
+   ]
+  },
+  {
    "slug": "legea-56-1999",
    "path": "lege/1999/56",
    "short": "Legea nr. 56/1999",
@@ -236414,6 +237686,21 @@
    ]
   },
   {
+   "slug": "legea-59-1997",
+   "path": "lege/1997/59",
+   "short": "Legea nr. 59/1997",
+   "title": "Legea nr. 59/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Uzbekistan privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 6 iunie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11372",
+   "versions": [
+    {
+     "from": "1997-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11372",
+     "sha256": "0a2c0eef11dccb14066358cccf681318572a635ee1b6d7808cc9a5ebccaa3f63"
+    }
+   ]
+  },
+  {
    "slug": "legea-59-1998",
    "path": "lege/1998/59",
    "short": "Legea nr. 59/1998",
@@ -237470,6 +238757,21 @@
    ]
   },
   {
+   "slug": "legea-6-1997",
+   "path": "lege/1997/6",
+   "short": "Legea nr. 6/1997",
+   "title": "Legea nr. 6/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Canadei pentru promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 17 aprilie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10846",
+   "versions": [
+    {
+     "from": "1997-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10846",
+     "sha256": "e18974d3f0a2851a089f1e39ae1e9a408b031f52a9eaebaa91074da97edd93f6"
+    }
+   ]
+  },
+  {
    "slug": "legea-6-1998",
    "path": "lege/1998/6",
    "short": "Legea nr. 6/1998",
@@ -237481,6 +238783,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13979",
      "sha256": "26bd92da301486ff7cca38fcbc3956fd39d87d4f6cf354ca98cf72cccee1528f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-6-1999",
+   "path": "lege/1999/6",
+   "short": "Legea nr. 6/1999",
+   "title": "Legea nr. 6/1999 pentru ratificarea celui de-al 6-lea Protocol adiţional la Acordul general privind privilegiile şi imunităţile Consiliului Europei, adoptat la Strasbourg la 5 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16699",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16699",
+     "sha256": "9b07082197eb284f71c93704645d4cb86d06cc81e5aba3b7149b77608706c177"
     }
    ]
   },
@@ -237826,6 +239143,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293474",
      "sha256": "95b78a41aa7bfd8017455fdd7d307cb038539e6dac6179194b1cbc8e90898b9c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-60-1997",
+   "path": "lege/1997/60",
+   "short": "Legea nr. 60/1997",
+   "title": "Legea nr. 60/1997 pentru ratificarea Acordului de cooperare economică, ştiinţifică şi tehnică dintre Guvernul României şi Guvernul Republicii Tunisiene, semnat la Tunis la 16 octombrie 1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11379",
+   "versions": [
+    {
+     "from": "1997-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11379",
+     "sha256": "805dd0d1536e7bd8f7316c26942c9941819b749ea0d0ad703b0d52ca9d74b201"
     }
    ]
   },
@@ -238768,6 +240100,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11386",
      "sha256": "11c701e31bf05d2dda51282a8c87ff4743d0714ed32f9629a7203c282bb46b30"
+    }
+   ]
+  },
+  {
+   "slug": "legea-61-1998",
+   "path": "lege/1998/61",
+   "short": "Legea nr. 61/1998",
+   "title": "Legea nr. 61/1998 Legea minelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14244",
+   "versions": [
+    {
+     "from": "1998-06-14",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14244",
+     "sha256": "14fecc76482818d3b777a698c9236156b30f8c1b1b9d65ae8013464d7e41d1b2"
     }
    ]
   },
@@ -240848,6 +242195,21 @@
    ]
   },
   {
+   "slug": "legea-64-1997",
+   "path": "lege/1997/64",
+   "short": "Legea nr. 64/1997",
+   "title": "Legea nr. 64/1997 privind dreptul absolvenţilor învăţământului particular liceal, postliceal şi superior de a susţine examenul de finalizare a studiilor la unităţile şi instituţiile din învăţământul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11405",
+   "versions": [
+    {
+     "from": "1997-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11405",
+     "sha256": "06be1c62f5236dca87cd89c3e502b2b7e31a0e99e4b68136f89770c7f0b3d487"
+    }
+   ]
+  },
+  {
    "slug": "legea-64-1998",
    "path": "lege/1998/64",
    "short": "Legea nr. 64/1998",
@@ -242339,6 +243701,21 @@
    ]
   },
   {
+   "slug": "legea-66-1998",
+   "path": "lege/1998/66",
+   "short": "Legea nr. 66/1998",
+   "title": "Legea nr. 66/1998 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 77/1997 cu privire la rectificarea bugetului de stat pe anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14261",
+   "versions": [
+    {
+     "from": "1998-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14261",
+     "sha256": "7956279a483a9f602ae2f7c6b35a09ad1ec85434c4b49d93f3971d853ea7258c"
+    }
+   ]
+  },
+  {
    "slug": "legea-66-1999",
    "path": "lege/1999/66",
    "short": "Legea nr. 66/1999",
@@ -243044,6 +244421,51 @@
    ]
   },
   {
+   "slug": "legea-67-1996",
+   "path": "lege/1996/67",
+   "short": "Legea nr. 67/1996",
+   "title": "Legea nr. 67/1996 pentru ratificarea Acordului de înfiinţare a Băncii pentru Comerţ şi Dezvoltare a Marii Negre, semnat la Atena la 30 decembrie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8370",
+   "versions": [
+    {
+     "from": "1996-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8370",
+     "sha256": "e668553926d07a256983ef4ac8c68eaa9e0f30f0dc41023b3763f223ca8e0c9d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-67-1997",
+   "path": "lege/1997/67",
+   "short": "Legea nr. 67/1997",
+   "title": "Legea nr. 67/1997 viei şi vinului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11425",
+   "versions": [
+    {
+     "from": "1997-08-03",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11425",
+     "sha256": "038b388b9880a4428071cb8f8fdaa9b98036e419a9ff9f0540fe8d96e2574663"
+    }
+   ]
+  },
+  {
+   "slug": "legea-67-1998",
+   "path": "lege/1998/67",
+   "short": "Legea nr. 67/1998",
+   "title": "Legea nr. 67/1998 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 80/1997 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14264",
+   "versions": [
+    {
+     "from": "1998-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14264",
+     "sha256": "950e4757c8e87bea1a1585b3819c36fddca988e24fb2937860c1774eb4082ed1"
+    }
+   ]
+  },
+  {
    "slug": "legea-67-1999",
    "path": "lege/1999/67",
    "short": "Legea nr. 67/1999",
@@ -243691,6 +245113,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/3222",
      "sha256": "2097ca655579f2648524a7832c203cc2353f9b3d73d2fc270edfa964a79d369f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-68-1996",
+   "path": "lege/1996/68",
+   "short": "Legea nr. 68/1996",
+   "title": "Legea nr. 68/1996 pentru aprobarea Ordonanţei Guvernului nr. 17/1996 privind compensarea creanţelor şi angajamentelor la Fondul special pentru dezvoltarea sistemului energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8375",
+   "versions": [
+    {
+     "from": "1996-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8375",
+     "sha256": "b99fa3195ee8dece4bba567a25352f63c85279422a5aa9f62824fdb06317a503"
+    }
+   ]
+  },
+  {
+   "slug": "legea-68-1997",
+   "path": "lege/1997/68",
+   "short": "Legea nr. 68/1997",
+   "title": "Legea nr. 68/1997 pentru completarea Legii nr. 35/1991 privind regimul investiţiilor străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11431",
+   "versions": [
+    {
+     "from": "1997-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11431",
+     "sha256": "30e4076bb742091c520bc87c86a5c9d452761be8c88d0ce2fde6a04c6f231ca3"
     }
    ]
   },
@@ -244352,6 +245804,21 @@
    ]
   },
   {
+   "slug": "legea-69-1998",
+   "path": "lege/1998/69",
+   "short": "Legea nr. 69/1998",
+   "title": "Legea nr. 69/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 89/1997 pentru abrogarea punctului 3 al literei A din anexa nr. 1 la Legea nr. 41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14270",
+   "versions": [
+    {
+     "from": "1998-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14270",
+     "sha256": "7cc143c3a201955d31da3ba6430cf59a2523192ab425f0b1cf84bb48636aacda"
+    }
+   ]
+  },
+  {
    "slug": "legea-69-1999",
    "path": "lege/1999/69",
    "short": "Legea nr. 69/1999",
@@ -244862,6 +246329,21 @@
    ]
   },
   {
+   "slug": "legea-7-1998",
+   "path": "lege/1998/7",
+   "short": "Legea nr. 7/1998",
+   "title": "Legea nr. 7/1998 privind declararea ca abrogate a unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13988",
+   "versions": [
+    {
+     "from": "1998-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13988",
+     "sha256": "2d866b3a000d0649b680f70b045bf81d074c569077293ff796047fa86f322f70"
+    }
+   ]
+  },
+  {
    "slug": "legea-7-1999",
    "path": "lege/1999/7",
    "short": "Legea nr. 7/1999",
@@ -245188,6 +246670,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3229",
      "sha256": "872a0daac206758f7be3ee93374e5108a3c96fa6353c066d52819e63bc35650a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-70-1996",
+   "path": "lege/1996/70",
+   "short": "Legea nr. 70/1996",
+   "title": "Legea nr. 70/1996 pentru modificarea Legii nr. 42/1990 pentru cinstirea eroilor-martiri şi acordarea unor drepturi urmaşilor acestora, răniţilor, precum şi luptătorilor pentru victoria Revoluţiei din decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8387",
+   "versions": [
+    {
+     "from": "1996-07-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8387",
+     "sha256": "f21c0482a238f089724c9608138079017fdfc568714ac7a47b4247beff1bae21"
+    }
+   ]
+  },
+  {
+   "slug": "legea-70-1997",
+   "path": "lege/1997/70",
+   "short": "Legea nr. 70/1997",
+   "title": "Legea nr. 70/1997 privind acordarea despăgubirilor pentru cazurile de invaliditate sau de deces produse gradaţilor şi soldaţilor din Ministerul Apărării Naţionale ca urmare a unor misiuni în cadrul forţelor internaţionale destinate menţinerii păcii ori constituite în scopuri umanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11444",
+   "versions": [
+    {
+     "from": "1997-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11444",
+     "sha256": "c1ca31d97abe1bed2d39c118a1af496ecae1f4f502d15036e8306fa50447631a"
     }
    ]
   },
@@ -245816,6 +247328,21 @@
    ]
   },
   {
+   "slug": "legea-71-1998",
+   "path": "lege/1998/71",
+   "short": "Legea nr. 71/1998",
+   "title": "Legea nr. 71/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 65/1997 pentru modificarea şi completarea Legii nr. 91/1996 cu privire la asigurarea facultativă a autovehiculelor Camerei Deputaţilor, Senatului, Curţii Constituţionale, Curţii de Conturi şi Consiliului Legislativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14275",
+   "versions": [
+    {
+     "from": "1998-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14275",
+     "sha256": "1af6d3f19d95272686933964a3feddd7ebcd3482f83bd6579c46c0776f30afa9"
+    }
+   ]
+  },
+  {
    "slug": "legea-71-1999",
    "path": "lege/1999/71",
    "short": "Legea nr. 71/1999",
@@ -246328,6 +247855,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4289",
      "sha256": "96efca7a6e42a270125527f65acbd150f18d77cd8b1a2da225a8e78ac354407f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-72-1996",
+   "path": "lege/1996/72",
+   "short": "Legea nr. 72/1996",
+   "title": "Legea nr. 72/1996 privind finanţele publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8400",
+   "versions": [
+    {
+     "from": "1996-07-17",
+     "units": 85,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8400",
+     "sha256": "bc4e47dd0a96936ec5c88040068a9094fde8aa22c390781945bb65c03a68b308"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/188971",
+     "sha256": "755a8326752d455dd56dc1aa82986a7f7001d4e1602d9d5d5ca8387e7c598503"
     }
    ]
   },
@@ -247436,6 +248984,21 @@
    ]
   },
   {
+   "slug": "legea-74-1996",
+   "path": "lege/1996/74",
+   "short": "Legea nr. 74/1996",
+   "title": "Legea nr. 74/1996 privind telecomunicaţiile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8412",
+   "versions": [
+    {
+     "from": "1996-09-20",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8412",
+     "sha256": "0a96c5f316d2080dca3015174a30ed6b3d37b18c3a714c5796c83cae2dff3c60"
+    }
+   ]
+  },
+  {
    "slug": "legea-74-1997",
    "path": "lege/1997/74",
    "short": "Legea nr. 74/1997",
@@ -247927,6 +249490,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33002",
      "sha256": "e08764da26e6f703eb6ec46702ab361e4ef9f22a9a604286c25f5defc38d958a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-75-1997",
+   "path": "lege/1997/75",
+   "short": "Legea nr. 75/1997",
+   "title": "Legea nr. 75/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 9/1996 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11472",
+   "versions": [
+    {
+     "from": "1997-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11472",
+     "sha256": "e043af4f811e9166800abd22b0730a4fb68431dbf27167b57e582fb21158867f"
     }
    ]
   },
@@ -248458,6 +250036,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6133",
      "sha256": "d6f6b199b676639b766dabd194b8d4f7ff28c02a6c1a482bec4ef0cececef514"
+    }
+   ]
+  },
+  {
+   "slug": "legea-76-1996",
+   "path": "lege/1996/76",
+   "short": "Legea nr. 76/1996",
+   "title": "Legea nr. 76/1996 pentru ratificarea Convenţiei europene asupra transferării persoanelor condamnate, adoptată la Strasbourg la 21 martie 1983",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8422",
+   "versions": [
+    {
+     "from": "1996-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8422",
+     "sha256": "f9bf56ab2999538e8f07441ef8e5be424eae1f20bf1ed13ad81e054c6a980f7c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-76-1997",
+   "path": "lege/1997/76",
+   "short": "Legea nr. 76/1997",
+   "title": "Legea nr. 76/1997 privind aprobarea Ordonanţei Guvernului nr. 43/1996 cu privire la rectificarea bugetului de stat pe anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11477",
+   "versions": [
+    {
+     "from": "1997-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11477",
+     "sha256": "ca39c252a393b310f80717c87d836d4cec7b8f86b8513edce9308c3003d775ae"
     }
    ]
   },
@@ -249041,6 +250649,36 @@
    ]
   },
   {
+   "slug": "legea-77-1996",
+   "path": "lege/1996/77",
+   "short": "Legea nr. 77/1996",
+   "title": "Legea nr. 77/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Georgiei în domeniul transporturilor internaţionale rutiere, a Acordului dintre Guvernul României şi Guvernul Georgiei privind serviciile aeriene şi a Acordului dintre Guvernul României şi Guvernul Georgiei privind navigaţia maritima comercială, semnate la Tbilisi la 26 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8427",
+   "versions": [
+    {
+     "from": "1996-07-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8427",
+     "sha256": "f951d63603eb1ac20b19d6b4474cfce7b8047767864ce299ef9913be3e1dc335"
+    }
+   ]
+  },
+  {
+   "slug": "legea-77-1997",
+   "path": "lege/1997/77",
+   "short": "Legea nr. 77/1997",
+   "title": "Legea nr. 77/1997 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 13/1996 cu privire la rectificarea bugetului de stat pe anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11482",
+   "versions": [
+    {
+     "from": "1997-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11482",
+     "sha256": "fccb0a906ea645657b6a71068fa3d8968c73146acedf16e48131246fb4426890"
+    }
+   ]
+  },
+  {
    "slug": "legea-77-2000",
    "path": "lege/2000/77",
    "short": "Legea nr. 77/2000",
@@ -249547,6 +251185,21 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6142",
      "sha256": "d4195e98fe1980ed77fe318df32606e81fe0281030f5c101672b0c7da30c75f3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-78-1996",
+   "path": "lege/1996/78",
+   "short": "Legea nr. 78/1996",
+   "title": "Legea nr. 78/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Azerbaidjan în domeniul transporturilor internaţionale rutiere, a Acordului dintre Guvernul României şi Guvernul Republicii Azerbaidjan privind serviciile aeriene şi a Acordului dintre Guvernul României şi Guvernul Republicii Azerbaidjan privind navigaţia maritima comercială, semnate la Baku la 27 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8433",
+   "versions": [
+    {
+     "from": "1996-07-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8433",
+     "sha256": "b22c0eaf5a1d45d97e045b00e4d5ba061bc6c87424affcbfda3ae1b34285584f"
     }
    ]
   },
@@ -250139,6 +251792,21 @@
    ]
   },
   {
+   "slug": "legea-79-1996",
+   "path": "lege/1996/79",
+   "short": "Legea nr. 79/1996",
+   "title": "Legea nr. 79/1996 pentru modificarea şi completarea Legii Curţii Supreme de Justiţie nr. 56/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8437",
+   "versions": [
+    {
+     "from": "1996-07-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8437",
+     "sha256": "dd353efda9bba0fe54e7e853a07dd457002acd199da0cae49ca117c615e48b0b"
+    }
+   ]
+  },
+  {
    "slug": "legea-79-1997",
    "path": "lege/1997/79",
    "short": "Legea nr. 79/1997",
@@ -250721,6 +252389,36 @@
    ]
   },
   {
+   "slug": "legea-8-1998",
+   "path": "lege/1998/8",
+   "short": "Legea nr. 8/1998",
+   "title": "Legea nr. 8/1998 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Indonezia privind promovarea şi protejarea investiţiilor, semnat la Bucureşti la 26 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13998",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13998",
+     "sha256": "172fe8de5512944bb68f183b48051812e6f8e7a158aff66a7662592f43df68d8"
+    }
+   ]
+  },
+  {
+   "slug": "legea-8-1999",
+   "path": "lege/1999/8",
+   "short": "Legea nr. 8/1999",
+   "title": "Legea nr. 8/1999 privind aprobarea Ordonanţei Guvernului nr. 119/1998 pentru ratificarea Acordului sub forma de schimb de scrisori modificând Acordul sub forma de schimb de scrisori dintre România şi Comunitatea Europeană privind stabilirea reciprocă de contingente tarifare pentru anumite vinuri, efectuat la Bruxelles la 7 aprilie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16705",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16705",
+     "sha256": "3068328b30a66811cbecbd1872898c87661c822ed3f17cb28207a4d5aac2dc58"
+    }
+   ]
+  },
+  {
    "slug": "legea-8-2000",
    "path": "lege/2000/8",
    "short": "Legea nr. 8/2000",
@@ -251071,6 +252769,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294634",
      "sha256": "f3b47214a0e990708cb39eca839e0b857ab97c24637ddeb9209a0431d1ef6023"
+    }
+   ]
+  },
+  {
+   "slug": "legea-80-1996",
+   "path": "lege/1996/80",
+   "short": "Legea nr. 80/1996",
+   "title": "Legea nr. 80/1996 privind aprobarea Ordonanţei Guvernului nr. 1/1996 pentru aderarea României la Statutul Fondului Consiliului Europei de Restabilire pentru Refugiaţii Naţionali şi Excedentele de Populaţie în Europa şi la Statutul Fondului de Dezvoltare Socială al Consiliului Europei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8442",
+   "versions": [
+    {
+     "from": "1996-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8442",
+     "sha256": "6a0cf852c57ab47805eb443e6cdeafb9a24a3c06da72cb4e6b4d4d9339cd8adf"
     }
    ]
   },
@@ -251555,6 +253268,42 @@
    ]
   },
   {
+   "slug": "legea-81-1996",
+   "path": "lege/1996/81",
+   "short": "Legea nr. 81/1996",
+   "title": "Legea nr. 81/1996 privind aprobarea Ordonanţei Guvernului nr. 7/1996 pentru ratificarea Acordului de împrumut dintre România, în calitate de împrumutat, şi Banca Naţionala a României, în calitate de agent al împrumutatului, pe de o parte, şi AB Svensk Exportkredit-Suedia, în calitate de împrumutător, pe de altă parte, garantat de Regatul Suediei, reprezentat prin Riksgaldskontoret, semnat la Bucureşti la 12 ianuarie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8447",
+   "versions": [
+    {
+     "from": "1996-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8447",
+     "sha256": "e9946d9a91e50438e8378c1a3a2a0ebb05c5a7017fc889df7e85b128864fd3f6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-81-1997",
+   "path": "lege/1997/81",
+   "short": "Legea nr. 81/1997",
+   "title": "Legea nr. 81/1997 privind exercitarea profesiunii de farmacist, înfiinţarea, organizarea şi funcţionarea Colegiului Farmaciştilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11505",
+   "versions": [
+    {
+     "from": "1997-06-13",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11505",
+     "sha256": "7efc2e417d086b42bce9c0c2e41bfaded6eebec2fcaa28aefac04e0c00ff439e"
+    },
+    {
+     "from": "2004-08-02",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/53098",
+     "sha256": "bf37ab5bcaa5c83a64c69f6de15caf2f0418ee056a1aa0b1963c0718d2da58c3"
+    }
+   ]
+  },
+  {
    "slug": "legea-81-1998",
    "path": "lege/1998/81",
    "short": "Legea nr. 81/1998",
@@ -252008,6 +253757,51 @@
    ]
   },
   {
+   "slug": "legea-82-1996",
+   "path": "lege/1996/82",
+   "short": "Legea nr. 82/1996",
+   "title": "Legea nr. 82/1996 privind aprobarea Ordonanţei Guvernului nr. 45/1994 pentru modificarea şi completarea Ordonanţei Guvernului nr. 7/1994 privind asigurarea surselor de finanţare necesare pentru continuarea participării României la construirea Combinatului de produse cu conţinut de nichel plus cobalt de la Las Camariocas - Republica Cuba şi a Termocentralei electrice de 3 x 12 MW de la Cao-Cun - Republica Populară Chineză",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8451",
+   "versions": [
+    {
+     "from": "1996-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8451",
+     "sha256": "8ad1675ceaa949a2c47ebd58619eb851df815048eed4b87499fc1721d2fe5b7f"
+    }
+   ]
+  },
+  {
+   "slug": "legea-82-1997",
+   "path": "lege/1997/82",
+   "short": "Legea nr. 82/1997",
+   "title": "Legea nr. 82/1997 pentru aprobarea Ordonanţei Guvernului nr. 44/1996 referitoare la prelungirea aplicării unor măsuri prevăzute la art. 25 alin. (1) şi la art. 27 din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare, astfel cum a fost aprobată şi modificată prin Legea nr. 51/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11510",
+   "versions": [
+    {
+     "from": "1997-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11510",
+     "sha256": "2e65a2200fd613b5837a15e017328bc6644242d288ff959fbb8544250ddfe1a5"
+    }
+   ]
+  },
+  {
+   "slug": "legea-82-1998",
+   "path": "lege/1998/82",
+   "short": "Legea nr. 82/1998",
+   "title": "Legea nr. 82/1998 pentru aprobarea Ordonanţei Guvernului nr. 43/1997 privind regimul juridic al drumurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14582",
+   "versions": [
+    {
+     "from": "1998-04-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14582",
+     "sha256": "ae6b45e9b981e7a74e9bf1af6724295d2078d89450017f29c8e664c2dd5db31c"
+    }
+   ]
+  },
+  {
    "slug": "legea-82-1999",
    "path": "lege/1999/82",
    "short": "Legea nr. 82/1999",
@@ -252439,6 +254233,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4334",
      "sha256": "0e4886cb6e8176bdfd94a9fe42be1e4e9ab32f87be5a006a8b08eb64ab85c60e"
+    }
+   ]
+  },
+  {
+   "slug": "legea-83-1996",
+   "path": "lege/1996/83",
+   "short": "Legea nr. 83/1996",
+   "title": "Legea nr. 83/1996 a serviciilor poştale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8456",
+   "versions": [
+    {
+     "from": "1996-09-20",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8456",
+     "sha256": "6dbf81615dfc714402b3f14cacfff598ea72ab7dc3de2357ec8a67c26a6a1117"
+    }
+   ]
+  },
+  {
+   "slug": "legea-83-1998",
+   "path": "lege/1998/83",
+   "short": "Legea nr. 83/1998",
+   "title": "Legea nr. 83/1998 privind procedura falimentului băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14313",
+   "versions": [
+    {
+     "from": "1998-05-22",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14313",
+     "sha256": "83137386d7f7735a132c0bebadfcc202c2a8105d33a268f71291aff186bef078"
     }
    ]
   },
@@ -252886,6 +254710,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156854",
      "sha256": "f6fa3f90975b7435ae8fa8ac8c982c8a19d13ac1d04116b72b53c1bf9aad4ea2"
+    }
+   ]
+  },
+  {
+   "slug": "legea-84-1996",
+   "path": "lege/1996/84",
+   "short": "Legea nr. 84/1996",
+   "title": "Legea nr. 84/1996 a îmbunătăţirilor funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8461",
+   "versions": [
+    {
+     "from": "1996-07-24",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8461",
+     "sha256": "069a66fb18a72643c75f1cdbe6aa7709b097ce133bdf64fd548b28aac2f86afa"
     }
    ]
   },
@@ -254504,6 +256343,21 @@
    ]
   },
   {
+   "slug": "legea-88-1996",
+   "path": "lege/1996/88",
+   "short": "Legea nr. 88/1996",
+   "title": "Legea nr. 88/1996 pentru modificarea Legii privatizării societăţilor comerciale nr. 58/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8482",
+   "versions": [
+    {
+     "from": "1996-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8482",
+     "sha256": "d7150bb765784baa47396497942f0d5b9eead1616b8822a78cd9f783aa6c7609"
+    }
+   ]
+  },
+  {
    "slug": "legea-88-1997",
    "path": "lege/1997/88",
    "short": "Legea nr. 88/1997",
@@ -254515,6 +256369,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11546",
      "sha256": "24ab88cb1f494e729464059db81f899c7c23fca56f773be968781336ff5399dd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-88-1998",
+   "path": "lege/1998/88",
+   "short": "Legea nr. 88/1998",
+   "title": "Legea nr. 88/1998 privind aprobarea Ordonanţei Guvernului nr. 26/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14622",
+   "versions": [
+    {
+     "from": "1998-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14622",
+     "sha256": "ba2df0e762ce810c4ec902af485dd82273522a9261c767ba1dcb73efb88d3606"
     }
    ]
   },
@@ -254945,6 +256814,21 @@
    ]
   },
   {
+   "slug": "legea-89-1996",
+   "path": "lege/1996/89",
+   "short": "Legea nr. 89/1996",
+   "title": "Legea nr. 89/1996 pentru modificarea articolului 129 alineatul 2 din Legea nr. 92/1992 pentru organizarea judecătorească",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8487",
+   "versions": [
+    {
+     "from": "1996-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8487",
+     "sha256": "3a44c8f33abc589d48c7d223a0cd253bf285f3931682e2c24deb2dc5a78ea889"
+    }
+   ]
+  },
+  {
    "slug": "legea-89-1997",
    "path": "lege/1997/89",
    "short": "Legea nr. 89/1997",
@@ -255350,6 +257234,21 @@
    ]
   },
   {
+   "slug": "legea-9-1997",
+   "path": "lege/1997/9",
+   "short": "Legea nr. 9/1997",
+   "title": "Legea nr. 9/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Kazahstan privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bucureşti la 25 aprilie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10899",
+   "versions": [
+    {
+     "from": "1997-02-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10899",
+     "sha256": "a55853ef39810b7a992e527482b5d30fc27b7207d8da2533120ea8e578c5c98b"
+    }
+   ]
+  },
+  {
    "slug": "legea-9-1999",
    "path": "lege/1999/9",
    "short": "Legea nr. 9/1999",
@@ -255706,6 +257605,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306417",
      "sha256": "7a5e96d74c093cb37a2cda3462cff54574683958e8478f1a0e59d6a5177494d4"
+    }
+   ]
+  },
+  {
+   "slug": "legea-90-1996",
+   "path": "lege/1996/90",
+   "short": "Legea nr. 90/1996",
+   "title": "Legea nr. 90/1996 a protecţiei muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8493",
+   "versions": [
+    {
+     "from": "1996-09-21",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8493",
+     "sha256": "97cff28410e8bb8c25afe33342199025bac264c1543a7c68749bfa602c56f53a"
     }
    ]
   },
@@ -256583,6 +258497,21 @@
    ]
   },
   {
+   "slug": "legea-92-1997",
+   "path": "lege/1997/92",
+   "short": "Legea nr. 92/1997",
+   "title": "Legea nr. 92/1997 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 7/1997 privind aprobarea Protocolului încheiat între Ministerul Finanţelor din România şi Ministerul Finanţelor din Republica Polona în problema lichidării datoriei în valută convertibilă a României fata de Republica Polona, semnat la Bucureşti la 25 februarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11570",
+   "versions": [
+    {
+     "from": "1997-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11570",
+     "sha256": "dbb4868603df08767d74a8bf05365cadb02b1249448a84d05a3f348d5b5e9e7e"
+    }
+   ]
+  },
+  {
    "slug": "legea-92-1998",
    "path": "lege/1998/92",
    "short": "Legea nr. 92/1998",
@@ -257020,6 +258949,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8507",
      "sha256": "d91f175514d72f790e7e4eba2d9d06aae288c7f00ce85ba4fa07ab89f099f7ed"
+    }
+   ]
+  },
+  {
+   "slug": "legea-93-1997",
+   "path": "lege/1997/93",
+   "short": "Legea nr. 93/1997",
+   "title": "Legea nr. 93/1997 privind declararea ca erou-martir a lui Liviu Cornel Babeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11575",
+   "versions": [
+    {
+     "from": "1997-06-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11575",
+     "sha256": "b8d7c93e4190bb5a75ded0b84d5ffebcb80685b3b824c7bd78661a13ef395f75"
     }
    ]
   },
@@ -258301,6 +260245,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6225",
      "sha256": "905df10b8b3f8d989a5f399704eed0cab8d8fe5ebe31e3291ac8bb8f34fe00d8"
+    }
+   ]
+  },
+  {
+   "slug": "legea-96-1996",
+   "path": "lege/1996/96",
+   "short": "Legea nr. 96/1996",
+   "title": "Legea nr. 96/1996 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Armenia în domeniul transporturilor internaţionale rutiere şi a Acordului dintre Guvernul României şi Guvernul Republicii Armenia privind serviciile aeriene, semnate la Erevan la 25 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8521",
+   "versions": [
+    {
+     "from": "1996-09-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8521",
+     "sha256": "8b8604f341b2e16fd7b1e49514363ad8fc1ee08fedbcdb1c941ce1408e39b4e1"
     }
    ]
   },
@@ -259976,6 +261935,36 @@
    ]
   },
   {
+   "slug": "og-1-1997",
+   "path": "og/1997/1",
+   "short": "OG nr. 1/1997",
+   "title": "Ordonanța Guvernului nr. 1/1997 privind stabilirea plafonului de îndatorare externa a României pentru anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10760",
+   "versions": [
+    {
+     "from": "1997-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10760",
+     "sha256": "e31ead222ebca3a53db2fa528a773c50d4a42169cfd70edc22c8355790f68abf"
+    }
+   ]
+  },
+  {
+   "slug": "og-1-1998",
+   "path": "og/1998/1",
+   "short": "OG nr. 1/1998",
+   "title": "Ordonanța Guvernului nr. 1/1998 pentru acceptarea Protocolului 4 la Acordul general pentru comerţul cu servicii, adoptat la Geneva la 15 aprilie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13920",
+   "versions": [
+    {
+     "from": "1998-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13920",
+     "sha256": "81187e3d9f903a5fd5ee6c25b181765cd14a7b0b26911f56b20590bc2c60f050"
+    }
+   ]
+  },
+  {
    "slug": "og-1-2001",
    "path": "og/2001/1",
    "short": "OG nr. 1/2001",
@@ -260374,6 +262363,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14018",
      "sha256": "cf8665bb75faaa5fa9836a6dad5e0b19c0d301740847c74f64bbc5a62f5de0e9"
+    }
+   ]
+  },
+  {
+   "slug": "og-10-1999",
+   "path": "og/1999/10",
+   "short": "OG nr. 10/1999",
+   "title": "Ordonanța Guvernului nr. 10/1999 pentru completarea Ordonanţei Guvernului nr. 32/1995 privind timbrul judiciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16826",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16826",
+     "sha256": "8d710347cf91862760b99b8d16457933acb39cd84bf63eda042ec14b92171ffd"
     }
    ]
   },
@@ -260798,6 +262802,21 @@
    ]
   },
   {
+   "slug": "og-101-1998",
+   "path": "og/1998/101",
+   "short": "OG nr. 101/1998",
+   "title": "Ordonanța Guvernului nr. 101/1998 privind reglementarea plăţii unor tarife pentru serviciile prestate de Oficiul Naţional de Cadastru, Geodezie şi Cartografie şi oficiile judeţene de cadastru, geodezie şi cartografie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15536",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15536",
+     "sha256": "6f79bda14623ebaa53e289668b9fd7703e81a371b2a95a95ed2ffef92da1f845"
+    }
+   ]
+  },
+  {
    "slug": "og-101-2000",
    "path": "og/2000/101",
    "short": "OG nr. 101/2000",
@@ -260809,6 +262828,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24194",
      "sha256": "0f03fa42060f1ef299e1697e8e9269edc52513e97b7826dbd41d083ffb0a3220"
+    }
+   ]
+  },
+  {
+   "slug": "og-102-1998",
+   "path": "og/1998/102",
+   "short": "OG nr. 102/1998",
+   "title": "Ordonanța Guvernului nr. 102/1998 privind formarea profesională continua prin sistemul educaţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15535",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15535",
+     "sha256": "617e70a53c57e579e287f39b515ecb2977c766827712e2ff95837bc13b7fc2c4"
     }
    ]
   },
@@ -260894,6 +262928,21 @@
    ]
   },
   {
+   "slug": "og-105-1998",
+   "path": "og/1998/105",
+   "short": "OG nr. 105/1998",
+   "title": "Ordonanța Guvernului nr. 105/1998 privind acordarea de credite bancare pentru studenţii din învăţământul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15532",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15532",
+     "sha256": "84c23861033a7496be7650e69cbb955a2876fcfa77aad148153783fc3bdf1e11"
+    }
+   ]
+  },
+  {
    "slug": "og-105-2000",
    "path": "og/2000/105",
    "short": "OG nr. 105/2000",
@@ -260920,6 +262969,21 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24142",
      "sha256": "8895a94fb63f369f8e51a751bbc3e380a72f838d0f9abe6afbb9e0ef2a9fbe6d"
+    }
+   ]
+  },
+  {
+   "slug": "og-107-1998",
+   "path": "og/1998/107",
+   "short": "OG nr. 107/1998",
+   "title": "Ordonanța Guvernului nr. 107/1998 privind asigurarea unor facilităţi furnizorilor de îngrăşăminte chimice şi produse de uz fitosanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15553",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15553",
+     "sha256": "3902ef291b87b03951409de7963ad442adc0c345c78c4146c5251a10732f9229"
     }
    ]
   },
@@ -261061,6 +263125,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5747",
      "sha256": "5c75dc85dc6ec335cc51a5658bead9085bf7cd51db736995a96578f579bea2fb"
+    }
+   ]
+  },
+  {
+   "slug": "og-11-1997",
+   "path": "og/1997/11",
+   "short": "OG nr. 11/1997",
+   "title": "Ordonanța Guvernului nr. 11/1997 privind acordarea unor facilităţi agenţilor economici din domeniul transporturilor, la scoaterea din funcţiune a mijloacelor fixe uzate fizic sau moral, neamortizate integral",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10944",
+   "versions": [
+    {
+     "from": "1997-08-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10944",
+     "sha256": "147a8f199c908c888608c179c6dd9b8fa1011b23e4297ec19b00b38bdbc3bc83"
+    }
+   ]
+  },
+  {
+   "slug": "og-11-1999",
+   "path": "og/1999/11",
+   "short": "OG nr. 11/1999",
+   "title": "Ordonanța Guvernului nr. 11/1999 privind aprobarea plafonului de îndatorare publică externa a României pentru anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16843",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16843",
+     "sha256": "568f9033c87e02ea3cc3b94c79d6366c95b501478d18b10f703763078b7efc74"
     }
    ]
   },
@@ -261494,6 +263588,21 @@
    ]
   },
   {
+   "slug": "og-112-1998",
+   "path": "og/1998/112",
+   "short": "OG nr. 112/1998",
+   "title": "Ordonanța Guvernului nr. 112/1998 privind restituirea unor bunuri imobile care au aparţinut comunităţilor (organizaţii, culte religioase) minorităţilor naţionale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15528",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15528",
+     "sha256": "fd826161a58145514fba27edbe80a1778ab4c37c7b0f9d855d6934c33c21e57e"
+    }
+   ]
+  },
+  {
    "slug": "og-112-2000",
    "path": "og/2000/112",
    "short": "OG nr. 112/2000",
@@ -261505,6 +263614,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/24082",
      "sha256": "106df64eb3755db349bc0616e7ac14f53b98d1cea4baf227c0d15c5da540082f"
+    }
+   ]
+  },
+  {
+   "slug": "og-113-1998",
+   "path": "og/1998/113",
+   "short": "OG nr. 113/1998",
+   "title": "Ordonanța Guvernului nr. 113/1998 privind acoperirea debitelor externe rezultate din importul de pesticide, realizat în anul 1991 în cadrul Programului guvernamental de importuri critice, şi a diferenţelor de preţ şi de curs, aferente importului de ulei brut, realizat în baza prevederilor Hotărârii Guvernului nr. 274/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15529",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15529",
+     "sha256": "64825ec7bc777b45e760bf3569dcee86a8dd37a283e24bba4b954118d220cb80"
     }
    ]
   },
@@ -262145,6 +264269,21 @@
    ]
   },
   {
+   "slug": "og-122-1998",
+   "path": "og/1998/122",
+   "short": "OG nr. 122/1998",
+   "title": "Ordonanța Guvernului nr. 122/1998 privind acumularea, scoaterea şi împrospătarea produselor din rezervele proprii ale forţelor destinate apărării naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15558",
+   "versions": [
+    {
+     "from": "1998-09-28",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15558",
+     "sha256": "f8add9c71533971a60de631ba7d81dcfd799eecf1d4d19f815cda6a9fb9d8f6a"
+    }
+   ]
+  },
+  {
    "slug": "og-122-2000",
    "path": "og/2000/122",
    "short": "OG nr. 122/2000",
@@ -262156,6 +264295,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/24103",
      "sha256": "bca2bcd40b6b1110d1eff88d7d767258437703f532095a7db0eeb75a97934ebe"
+    }
+   ]
+  },
+  {
+   "slug": "og-123-1998",
+   "path": "og/1998/123",
+   "short": "OG nr. 123/1998",
+   "title": "Ordonanța Guvernului nr. 123/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 31/1998 pentru aprobarea scutirii de la plata taxei pe valoarea adăugată la unele produse şi echipamente importate pentru înzestrarea Ministerului Apărării Naţionale, Serviciului de Telecomunicaţii Speciale, Serviciului Român de Informaţii, Serviciului de Informaţii Externe şi industriei de apărare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15570",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15570",
+     "sha256": "af91c26be65fde039c5f136bddb9e23a0b94d7cb75459e93338a29b906d16f57"
     }
    ]
   },
@@ -262235,6 +264389,21 @@
    ]
   },
   {
+   "slug": "og-127-1998",
+   "path": "og/1998/127",
+   "short": "OG nr. 127/1998",
+   "title": "Ordonanța Guvernului nr. 127/1998 privind măsuri pentru oprirea subcapitalizării prin rectificarea bilanţului contabil pe anul 1997 la Banca Română de Comerţ Exterior - S.A. (Bancorex)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15573",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15573",
+     "sha256": "6026001c784e166a3ffe81b788fa61d317725fb70f0cd8f42803ec86399e3253"
+    }
+   ]
+  },
+  {
    "slug": "og-128-2000",
    "path": "og/2000/128",
    "short": "OG nr. 128/2000",
@@ -262280,6 +264449,21 @@
    ]
   },
   {
+   "slug": "og-129-1998",
+   "path": "og/1998/129",
+   "short": "OG nr. 129/1998",
+   "title": "Ordonanța Guvernului nr. 129/1998 privind declararea ca zona de interes naţional a unui ansamblu din perimetrul central al municipiului Bucureşti, incluzând Noul Centru Civic şi Centrul Istoric, şi stabilirea condiţiilor de realizare a investiţiilor pentru ansamblul urbanistic din aceasta zona",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15575",
+   "versions": [
+    {
+     "from": "1998-08-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15575",
+     "sha256": "4d40e08d36617ca71deba9afa36534b5113b13a9425f91b135e565ce752d05e0"
+    }
+   ]
+  },
+  {
    "slug": "og-13-1994",
    "path": "og/1994/13",
    "short": "OG nr. 13/1994",
@@ -262291,6 +264475,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3900",
      "sha256": "bf7d585adb203db6cd279806ac5430af769a3fc146c8cb2a9261c6827b6c996a"
+    }
+   ]
+  },
+  {
+   "slug": "og-13-1998",
+   "path": "og/1998/13",
+   "short": "OG nr. 13/1998",
+   "title": "Ordonanța Guvernului nr. 13/1998 privind modificarea şi completarea Codului de procedura civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14034",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14034",
+     "sha256": "7694a93e0bf84680fb8a6afeb00da71b0c320be32c2da394f70515e2e7f0e1de"
     }
    ]
   },
@@ -262718,6 +264917,21 @@
    ]
   },
   {
+   "slug": "og-14-1999",
+   "path": "og/1999/14",
+   "short": "OG nr. 14/1999",
+   "title": "Ordonanța Guvernului nr. 14/1999 privind unele măsuri specifice pentru asigurarea resurselor Fondului special al drumurilor publice şi executarea silită a creanţelor la bugetul acestui fond",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16827",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16827",
+     "sha256": "70a407bedd1e38ee2983c4f59bed693b6870720823a252b51a765258edc3ace3"
+    }
+   ]
+  },
+  {
    "slug": "og-14-2000",
    "path": "og/2000/14",
    "short": "OG nr. 14/2000",
@@ -262996,6 +265210,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2151",
      "sha256": "255c3b05d49d11119cfed02e425a33a7beaa4c6c729208ce6aa234f214b13d72"
+    }
+   ]
+  },
+  {
+   "slug": "og-15-1997",
+   "path": "og/1997/15",
+   "short": "OG nr. 15/1997",
+   "title": "Ordonanța Guvernului nr. 15/1997 privind stabilirea termenului de convocare a adunării generale extraordinare a acţionarilor la societăţile comerciale pentru care Fondul Proprietăţii de Stat a dispus dizolvarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10997",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10997",
+     "sha256": "40df517d3436fe951915c2e5771fc41a640bd0cbce5018b781c2af8fbab4f294"
+    }
+   ]
+  },
+  {
+   "slug": "og-15-1999",
+   "path": "og/1999/15",
+   "short": "OG nr. 15/1999",
+   "title": "Ordonanța Guvernului nr. 15/1999 privind înfiinţarea Academiei Române de Aviaţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16847",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16847",
+     "sha256": "caa485579a6084a0c1d97510c64e2756fe8f6f044d5c3fa0f57d335bc0932174"
     }
    ]
   },
@@ -263789,6 +266033,21 @@
    ]
   },
   {
+   "slug": "og-17-1997",
+   "path": "og/1997/17",
+   "short": "OG nr. 17/1997",
+   "title": "Ordonanța Guvernului nr. 17/1997 cu privire la unele măsuri de protecţie pentru unele persoane ale căror contracte individuale de muncă au fost desfăcute ca urmare a concedierilor colective prin aplicarea programelor de restructurare, privatizare, lichidare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11022",
+   "versions": [
+    {
+     "from": "1997-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11022",
+     "sha256": "8908836f718ee5cd4c9f5dc8825bff2b93f3b25c5dfe4a5b0221dffe039f33e2"
+    }
+   ]
+  },
+  {
    "slug": "og-17-1998",
    "path": "og/1998/17",
    "short": "OG nr. 17/1998",
@@ -263800,6 +266059,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14055",
      "sha256": "bc78b61ed6b5065c433d3fb1ed127b448e14303891b266e83078ff824b9ec36b"
+    }
+   ]
+  },
+  {
+   "slug": "og-17-1999",
+   "path": "og/1999/17",
+   "short": "OG nr. 17/1999",
+   "title": "Ordonanța Guvernului nr. 17/1999 privind constituirea, organizarea şi funcţionarea \"Serviciului Public de Radiocomunicaţii Navale de Apel, Pericol şi Salvare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16855",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16855",
+     "sha256": "07568a4f9d0736640046608d2cb95387c9cf97b4e8b26f7fbebbcc9fb0131795"
     }
    ]
   },
@@ -264160,6 +266434,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7976",
      "sha256": "9be397b7bf7411536dd7a9f3de0355576fc136dbd267e27574cfbec9e0f317cb"
+    }
+   ]
+  },
+  {
+   "slug": "og-18-1997",
+   "path": "og/1997/18",
+   "short": "OG nr. 18/1997",
+   "title": "Ordonanța Guvernului nr. 18/1997 privind stabilirea cuantumurilor plăţilor compensatorii pentru persoanele ale căror contracte individuale de muncă vor fi desfăcute ca urmare a concedierilor colective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11036",
+   "versions": [
+    {
+     "from": "1997-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11036",
+     "sha256": "40499879439e2d74cda4df36219e7c0411175265257229c2f036590e29443315"
     }
    ]
   },
@@ -264869,6 +267158,36 @@
    ]
   },
   {
+   "slug": "og-2-1997",
+   "path": "og/1997/2",
+   "short": "OG nr. 2/1997",
+   "title": "Ordonanța Guvernului nr. 2/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului de reforma a învăţământului superior şi cercetării ştiinţifice universitare, în valoare de 50 milioane dolari S.U.A., semnat la Washington la 2 octombrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10784",
+   "versions": [
+    {
+     "from": "1997-01-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10784",
+     "sha256": "20189575d5db79a4bb01740ff17863cc4a388249ee8e3b44e0244d327f376a43"
+    }
+   ]
+  },
+  {
+   "slug": "og-2-1999",
+   "path": "og/1999/2",
+   "short": "OG nr. 2/1999",
+   "title": "Ordonanța Guvernului nr. 2/1999 pentru aprobarea Rezoluţiei nr. 53/2 din 30 ianuarie 1998, adoptată la Washington de Consiliul Guvernatorilor Fondului Monetar Internaţional, privind majorarea cotelor membrilor fondului - cea de-a 11-a revizuire generală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16726",
+   "versions": [
+    {
+     "from": "1999-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16726",
+     "sha256": "8a8d8ce71a6269c3e4688107aea77014cfb46e28c55df705d07659fc1d64943f"
+    }
+   ]
+  },
+  {
    "slug": "og-2-2002",
    "path": "og/2002/2",
    "short": "OG nr. 2/2002",
@@ -265202,6 +267521,21 @@
    ]
   },
   {
+   "slug": "og-20-1997",
+   "path": "og/1997/20",
+   "short": "OG nr. 20/1997",
+   "title": "Ordonanța Guvernului nr. 20/1997 privind stabilirea orarului de vara şi a orei oficiale de vara pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11061",
+   "versions": [
+    {
+     "from": "1997-08-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11061",
+     "sha256": "679d3ef469fc8d54c6197a48c23c852933a640b1e15b137c2005e9a5fa9ab0f8"
+    }
+   ]
+  },
+  {
    "slug": "og-20-2000",
    "path": "og/2000/20",
    "short": "OG nr. 20/2000",
@@ -265502,6 +267836,21 @@
    ]
   },
   {
+   "slug": "og-21-1997",
+   "path": "og/1997/21",
+   "short": "OG nr. 21/1997",
+   "title": "Ordonanța Guvernului nr. 21/1997 privind instituirea sistemului de cupoane pentru agricultori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11073",
+   "versions": [
+    {
+     "from": "1997-08-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11073",
+     "sha256": "570ed89330963c925918c82f3defeb4b4aaaf534a4a56a741142be7df7f4b826"
+    }
+   ]
+  },
+  {
    "slug": "og-21-1998",
    "path": "og/1998/21",
    "short": "OG nr. 21/1998",
@@ -265513,6 +267862,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14078",
      "sha256": "1fe2c0f42b7c39d0f9da13976d1d720d7468fd60d2238e16c0e09a1ded8ed782"
+    }
+   ]
+  },
+  {
+   "slug": "og-21-1999",
+   "path": "og/1999/21",
+   "short": "OG nr. 21/1999",
+   "title": "Ordonanța Guvernului nr. 21/1999 pentru ratificarea Protocolului armonizand Convenţia internaţionala privind cooperarea pentru siguranţa navigaţiei aeriene EUROCONTROL din 13 decembrie 1960, după efectuarea unor modificări, adoptat la Bruxelles la 27 iunie 1997, şi a Protocolului adiţional privind trecerea de la regimul Acordului multilateral privind tarifele de ruta din 12 februarie 1981 la regimul Anexei IV (\"Dispoziţii privind sistemul comun de tarife de ruta\") la Convenţia internaţionala privind cooperarea pentru siguranţa navigaţiei aeriene EUROCONTROL, armonizata prin Protocolul adoptat la Bruxelles la 27 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16864",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16864",
+     "sha256": "3fb61d8c8adb8176ea09160d745a949b9d31f280350678974d68d5108f4c8ffb"
     }
    ]
   },
@@ -266153,6 +268517,21 @@
    ]
   },
   {
+   "slug": "og-23-1996",
+   "path": "og/1996/23",
+   "short": "OG nr. 23/1996",
+   "title": "Ordonanța Guvernului nr. 23/1996 privind repartizarea profitului la regiile autonome",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8041",
+   "versions": [
+    {
+     "from": "1996-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8041",
+     "sha256": "1d2d87811f1a761daa72e50bac15a57aeb621c6642204511dfb134ed5ab3632e"
+    }
+   ]
+  },
+  {
    "slug": "og-23-1997",
    "path": "og/1997/23",
    "short": "OG nr. 23/1997",
@@ -266164,6 +268543,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11097",
      "sha256": "6899f4160c54624fcc5570400840df2068f0bd5f860611d0bbfd8c09601c2ff7"
+    }
+   ]
+  },
+  {
+   "slug": "og-23-1998",
+   "path": "og/1998/23",
+   "short": "OG nr. 23/1998",
+   "title": "Ordonanța Guvernului nr. 23/1998 privind finanţarea şi din alte surse decât bugetul de stat a unor activităţi specifice de administrare a rezervelor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14089",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14089",
+     "sha256": "5742ead9322b8550d78869bdb699cd002fe24f408c1224941c2b7a866dd7cee0"
+    }
+   ]
+  },
+  {
+   "slug": "og-23-1999",
+   "path": "og/1999/23",
+   "short": "OG nr. 23/1999",
+   "title": "Ordonanța Guvernului nr. 23/1999 privind constituirea fondurilor de garantare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16849",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16849",
+     "sha256": "471256e170cded966a9eaf1ff96d53f6a0a6b353159e42049721d163a0fcbef7"
     }
    ]
   },
@@ -266467,6 +268876,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11110",
      "sha256": "9950a6ba1d2eb0a23c7d0df09ad86cda255b52c0b915b0f5e89409059c6d87cc"
+    }
+   ]
+  },
+  {
+   "slug": "og-24-1998",
+   "path": "og/1998/24",
+   "short": "OG nr. 24/1998",
+   "title": "Ordonanța Guvernului nr. 24/1998 privind aprobarea plafonului de indatorare publica externa a României pentru anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14095",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14095",
+     "sha256": "b133a12c1a94875edfbcff54a1164f96f7d133a5f2040271a0c76e8ff98b5f16"
+    }
+   ]
+  },
+  {
+   "slug": "og-24-1999",
+   "path": "og/1999/24",
+   "short": "OG nr. 24/1999",
+   "title": "Ordonanța Guvernului nr. 24/1999 pentru ratificarea Memorandumului de finanţare privind Programul Naţional PHARE 1998, semnat la Bruxelles la 20 octombrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16856",
+   "versions": [
+    {
+     "from": "1999-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16856",
+     "sha256": "d640b7cad36081403ecc63fcbb7f294f886e2da4138d961300f4fb5c0fd3064b"
     }
    ]
   },
@@ -267467,6 +269906,21 @@
    ]
   },
   {
+   "slug": "og-27-1999",
+   "path": "og/1999/27",
+   "short": "OG nr. 27/1999",
+   "title": "Ordonanța Guvernului nr. 27/1999 privind reglementarea rulării resurselor financiare ale universităţilor prin bănci comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16852",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16852",
+     "sha256": "81447e6e8a63f9e454e17729abed77cbf4e8aa8d2fdb2b42393941f29554ca33"
+    }
+   ]
+  },
+  {
    "slug": "og-27-2003",
    "path": "og/2003/27",
    "short": "OG nr. 27/2003",
@@ -267760,6 +270214,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11146",
      "sha256": "75f1e2947ca16d7973d52ddf5b6f42e03eec97907b6f00ab6027f48c0d3504c5"
+    }
+   ]
+  },
+  {
+   "slug": "og-28-1998",
+   "path": "og/1998/28",
+   "short": "OG nr. 28/1998",
+   "title": "Ordonanța Guvernului nr. 28/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 59/1997 cu privire la finanţarea, în sistem descentralizat, în domeniul ştiinţei, tehnologiei şi inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14118",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14118",
+     "sha256": "ef8d4bb49665baf9a5873a739ea1827b964ab2697907b0e9761cb80c9b472b38"
     }
    ]
   },
@@ -268271,6 +270740,36 @@
    ]
   },
   {
+   "slug": "og-3-1998",
+   "path": "og/1998/3",
+   "short": "OG nr. 3/1998",
+   "title": "Ordonanța Guvernului nr. 3/1998 pentru abrogarea art. 27 din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13950",
+   "versions": [
+    {
+     "from": "1998-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13950",
+     "sha256": "1fc98dd27ea5879334e40ad9dfb80c4a7fd119ba75d32370bfba90f2e3168822"
+    }
+   ]
+  },
+  {
+   "slug": "og-3-1999",
+   "path": "og/1999/3",
+   "short": "OG nr. 3/1999",
+   "title": "Ordonanța Guvernului nr. 3/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Statelor Unite ale Americii privind cooperarea în domeniul contracarării proliferării armelor de distrugere în masa şi promovarea relaţiilor militare şi de apărare, semnat la Washington la 30 martie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16764",
+   "versions": [
+    {
+     "from": "1999-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16764",
+     "sha256": "1808af37d7f249870e256afb0b9d89a7e2ebd2e584634f50f4f6cf22ace6a4cc"
+    }
+   ]
+  },
+  {
    "slug": "og-3-2000",
    "path": "og/2000/3",
    "short": "OG nr. 3/2000",
@@ -268661,6 +271160,21 @@
    ]
   },
   {
+   "slug": "og-30-1997",
+   "path": "og/1997/30",
+   "short": "OG nr. 30/1997",
+   "title": "Ordonanța Guvernului nr. 30/1997 privind aprobarea Aranjamentului de credit stand-by şi a Memorandumului privind politica economică a Guvernului României pe perioada 1997-1998, convenit cu Fondul Monetar Internaţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11162",
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11162",
+     "sha256": "ef1ae5db25331ce25407ce950156151bf02a2c1be1e51e5c95708444cb187683"
+    }
+   ]
+  },
+  {
    "slug": "og-30-1998",
    "path": "og/1998/30",
    "short": "OG nr. 30/1998",
@@ -268672,6 +271186,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14127",
      "sha256": "0e64cdc8cb54f7f8c0f0c115cd855da39b8edd96f2490192f678249f5d209bf2"
+    }
+   ]
+  },
+  {
+   "slug": "og-30-1999",
+   "path": "og/1999/30",
+   "short": "OG nr. 30/1999",
+   "title": "Ordonanța Guvernului nr. 30/1999 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru şi a Ordonanţei Guvernului nr. 12/1998 privind taxele de timbru pentru activitatea notarială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16838",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16838",
+     "sha256": "36ff25df151876753f07ac79fcd5f6579e38d5508b50403ab0caf680969b1343"
     }
    ]
   },
@@ -268862,6 +271391,21 @@
    ]
   },
   {
+   "slug": "og-31-1996",
+   "path": "og/1996/31",
+   "short": "OG nr. 31/1996",
+   "title": "Ordonanța Guvernului nr. 31/1996 pentru ratificarea Acordului de garanţie (Proiect privind reabilitarea căilor ferate) dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 23 iulie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8122",
+   "versions": [
+    {
+     "from": "1996-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8122",
+     "sha256": "9476e39ac4600885a9fa13043f7bb5490bb2f38dff023a507171b59b37c43937"
+    }
+   ]
+  },
+  {
    "slug": "og-31-1997",
    "path": "og/1997/31",
    "short": "OG nr. 31/1997",
@@ -268888,6 +271432,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14132",
      "sha256": "2f945673245d74726cce8f25dbbef24b04fc58e99ff88713908beb5508f1bb5b"
+    }
+   ]
+  },
+  {
+   "slug": "og-31-1999",
+   "path": "og/1999/31",
+   "short": "OG nr. 31/1999",
+   "title": "Ordonanța Guvernului nr. 31/1999 privind aprobarea primei de export la grâu şi porumb boabe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16831",
+   "versions": [
+    {
+     "from": "1999-01-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16831",
+     "sha256": "72a328e109655f857c254a892dfaf3887bb531dd4a8a2f81103ae54228543a66"
     }
    ]
   },
@@ -269105,6 +271664,21 @@
    ]
   },
   {
+   "slug": "og-32-1999",
+   "path": "og/1999/32",
+   "short": "OG nr. 32/1999",
+   "title": "Ordonanța Guvernului nr. 32/1999 privind instituirea sistemului de cupoane pentru agricultori în anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16832",
+   "versions": [
+    {
+     "from": "1999-01-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16832",
+     "sha256": "ef9b6470e41baff5ac12fbf327ec3751a1e8bd40162f02fabfdcbf437da28f4e"
+    }
+   ]
+  },
+  {
    "slug": "og-32-2003",
    "path": "og/2003/32",
    "short": "OG nr. 32/2003",
@@ -269269,6 +271843,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11189",
      "sha256": "a1b27a7f59bf9a3e25ee3eebeaf6a2e74b49000d237080843648fb69e46a4245"
+    }
+   ]
+  },
+  {
+   "slug": "og-33-1998",
+   "path": "og/1998/33",
+   "short": "OG nr. 33/1998",
+   "title": "Ordonanța Guvernului nr. 33/1998 pentru aderarea României la Statutul Organizaţiei Intereuropene a Administraţiilor Fiscale, adoptat la Casta Papiernicka, Slovacia, la 29 septembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14142",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14142",
+     "sha256": "299ec473a2663fca00ff33d2436c6f1c7d5d1960d9f3a206f6d3b2a0fa09b60c"
     }
    ]
   },
@@ -269479,6 +272068,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8155",
      "sha256": "2926c7cfef2e6b00dc5bf1185cf60d328cd70a751b2259b8a87f90ced8f2f164"
+    }
+   ]
+  },
+  {
+   "slug": "og-34-1998",
+   "path": "og/1998/34",
+   "short": "OG nr. 34/1998",
+   "title": "Ordonanța Guvernului nr. 34/1998 privind majorarea salariilor personalului din unităţile sanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14148",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14148",
+     "sha256": "026c5f8c29ee1af0233459f105dc594dcbd29a4a4e3441ef62f6570b32108372"
     }
    ]
   },
@@ -269923,6 +272527,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5948",
      "sha256": "558bf113a640294a3032fffc61624b5f8d4b1c18a2d05fd13725aeb12a242b76"
+    }
+   ]
+  },
+  {
+   "slug": "og-36-1996",
+   "path": "og/1996/36",
+   "short": "OG nr. 36/1996",
+   "title": "Ordonanța Guvernului nr. 36/1996 privind unele măsuri specifice pentru împrospătarea stocurilor de produse petroliere din rezervele de mobilizare ale armatei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8174",
+   "versions": [
+    {
+     "from": "1996-08-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8174",
+     "sha256": "0ce7994d6f3f79bb758ac62bec86ab5508479413db364711703af9b198fb22ed"
     }
    ]
   },
@@ -270605,6 +273224,21 @@
    ]
   },
   {
+   "slug": "og-4-1998",
+   "path": "og/1998/4",
+   "short": "OG nr. 4/1998",
+   "title": "Ordonanța Guvernului nr. 4/1998 privind participarea României la Cooperarea europeană în domeniul cercetării ştiinţifice şi tehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13965",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13965",
+     "sha256": "ac92c8d07af9e366f4a497ed619f60501098b69db07f6dee0c5ae778cef74163"
+    }
+   ]
+  },
+  {
    "slug": "og-4-2000",
    "path": "og/2000/4",
    "short": "OG nr. 4/2000",
@@ -270989,6 +273623,21 @@
    ]
   },
   {
+   "slug": "og-40-1998",
+   "path": "og/1998/40",
+   "short": "OG nr. 40/1998",
+   "title": "Ordonanța Guvernului nr. 40/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 70/1994 privind impozitul pe profit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14172",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14172",
+     "sha256": "c0c2be2c086a9de3e0d9b632ce7a0c3fcedad9810dbd30881bae375e9413ef70"
+    }
+   ]
+  },
+  {
    "slug": "og-40-1999",
    "path": "og/1999/40",
    "short": "OG nr. 40/1999",
@@ -271166,6 +273815,21 @@
    ]
   },
   {
+   "slug": "og-41-1996",
+   "path": "og/1996/41",
+   "short": "OG nr. 41/1996",
+   "title": "Ordonanța Guvernului nr. 41/1996 privind unele măsuri pentru conversia capacităţilor de producţie militară în producţie civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8221",
+   "versions": [
+    {
+     "from": "1996-08-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8221",
+     "sha256": "212d2d58f0768bffa792aeb277fb7af255874111be2bb77320be564205c5cc77"
+    }
+   ]
+  },
+  {
    "slug": "og-41-1997",
    "path": "og/1997/41",
    "short": "OG nr. 41/1997",
@@ -271336,6 +274000,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274178",
      "sha256": "c9a0df94888a5738e6a1ab244914a5e3680f5e4e89e0dd41a92bcea1a631322e"
+    }
+   ]
+  },
+  {
+   "slug": "og-42-1996",
+   "path": "og/1996/42",
+   "short": "OG nr. 42/1996",
+   "title": "Ordonanța Guvernului nr. 42/1996 privind regularizarea influenţelor financiare înregistrate de Agenţia Naţională a Produselor Agricole - R.A. ca urmare a reorganizării şi restructurării Regiei Autonome \"Romcereal\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8229",
+   "versions": [
+    {
+     "from": "1996-08-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8229",
+     "sha256": "434cb8b170a4927aa639ef9e09b3b72690961783bd633d58197590d897ebdadf"
     }
    ]
   },
@@ -271754,6 +274433,21 @@
    ]
   },
   {
+   "slug": "og-45-1998",
+   "path": "og/1998/45",
+   "short": "OG nr. 45/1998",
+   "title": "Ordonanța Guvernului nr. 45/1998 privind abilitarea Băncii Naţionale a României de a pune în circulaţie emisiuni monetare cu caracter numismatic din metale preţioase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15276",
+   "versions": [
+    {
+     "from": "1998-07-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15276",
+     "sha256": "d68fa75918dcf0a85d1956555d9ea2dc150858f7c1346415a5780a44c62fd7e8"
+    }
+   ]
+  },
+  {
    "slug": "og-45-1999",
    "path": "og/1999/45",
    "short": "OG nr. 45/1999",
@@ -272153,6 +274847,21 @@
    ]
   },
   {
+   "slug": "og-48-1997",
+   "path": "og/1997/48",
+   "short": "OG nr. 48/1997",
+   "title": "Ordonanța Guvernului nr. 48/1997 privind stabilirea unor măsuri de protecţie socială a salariaţilor în cazul transferului dreptului de proprietate asupra acţiunilor sau părţilor sociale ale societăţilor comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11302",
+   "versions": [
+    {
+     "from": "1997-08-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11302",
+     "sha256": "d52d59a4bc4f8798e9fa36a7a55f52066e54adda12e3d1f8d696be778264c5f7"
+    }
+   ]
+  },
+  {
    "slug": "og-48-1999",
    "path": "og/1999/48",
    "short": "OG nr. 48/1999",
@@ -272266,6 +274975,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11309",
      "sha256": "e391737c07b8f1b03aea085c4c484f89b92384d910a39be6d1569bac5697eddf"
+    }
+   ]
+  },
+  {
+   "slug": "og-49-1998",
+   "path": "og/1998/49",
+   "short": "OG nr. 49/1998",
+   "title": "Ordonanța Guvernului nr. 49/1998 privind alocarea de la bugetul de stat a fondurilor necesare acoperirii cheltuielilor pentru recepţionarea, depozitarea şi păstrarea graului din recolta anului 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15374",
+   "versions": [
+    {
+     "from": "1998-08-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15374",
+     "sha256": "6943660fafd9d2b6b7ea5a5f437bcf3495b43d2bdb93d637f342ec805fddfc98"
     }
    ]
   },
@@ -272425,6 +275149,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5676",
      "sha256": "38af83c4c95a680ee39ceee827828995da45130521ba1963d7af63d0e0f536bb"
+    }
+   ]
+  },
+  {
+   "slug": "og-5-1997",
+   "path": "og/1997/5",
+   "short": "OG nr. 5/1997",
+   "title": "Ordonanța Guvernului nr. 5/1997 pentru amânarea plăţii ultimei tranşe din cota majorată a capitalului autorizat al României la Corporaţia Financiară Internaţională - C.F.I. -, prevăzută de Legea nr. 11/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10840",
+   "versions": [
+    {
+     "from": "1997-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10840",
+     "sha256": "cb182c9449cbebaffb868c94e341da2faf5d6ee6169faa5ab97046e38be5e0c8"
+    }
+   ]
+  },
+  {
+   "slug": "og-5-1998",
+   "path": "og/1998/5",
+   "short": "OG nr. 5/1998",
+   "title": "Ordonanța Guvernului nr. 5/1998 privind participarea României la iniţiativa europeană EUREKA, în condiţiile Declaraţiei de la Hanovra şi ale Memorandumului de înţelegere dintre membrii EUREKA, din 6 noiembrie 1985",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13976",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13976",
+     "sha256": "4ba119802a2f98c0b30ed5707c696e0ee559d5d1521243a23390ededa268090d"
+    }
+   ]
+  },
+  {
+   "slug": "og-5-1999",
+   "path": "og/1999/5",
+   "short": "OG nr. 5/1999",
+   "title": "Ordonanța Guvernului nr. 5/1999 privind declararea municipiului Sibiu şi a zonei înconjurătoare ca obiectiv de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16842",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16842",
+     "sha256": "5b57459aff2dceb92b2baf7e1acb1e64a2195c97843ea9d17b4ac738b3a2ea64"
     }
    ]
   },
@@ -272764,6 +275533,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4172",
      "sha256": "46eec1a643ec72a79cdc9ed940ee2166db3c6eab70ef2edc177e94506dd21b87"
+    }
+   ]
+  },
+  {
+   "slug": "og-50-1997",
+   "path": "og/1997/50",
+   "short": "OG nr. 50/1997",
+   "title": "Ordonanța Guvernului nr. 50/1997 pentru completarea Ordonanţei Guvernului nr. 65/1994 privind organizarea activităţii de expertiza contabila şi a contabililor autorizaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11316",
+   "versions": [
+    {
+     "from": "1997-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11316",
+     "sha256": "dc05a29f7943a795ad4ca90aa44d59ec12c70799a909ba6601424479b7694d9e"
     }
    ]
   },
@@ -273172,6 +275956,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207218",
      "sha256": "5d6e8e683e40d317d65bf8d0b4065a04bd18be836bb2dadfecc0c0f06388e40e"
+    }
+   ]
+  },
+  {
+   "slug": "og-54-1998",
+   "path": "og/1998/54",
+   "short": "OG nr. 54/1998",
+   "title": "Ordonanța Guvernului nr. 54/1998 privind admiterea, cu taxa, în învăţământul superior de stat peste locurile finanţate de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15433",
+   "versions": [
+    {
+     "from": "1998-08-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15433",
+     "sha256": "82fbe8fb5572e23564f3df70ac26057f7a980766b35fb9d9dfcd0ed577196fdc"
     }
    ]
   },
@@ -273812,6 +276611,21 @@
    ]
   },
   {
+   "slug": "og-6-1999",
+   "path": "og/1999/6",
+   "short": "OG nr. 6/1999",
+   "title": "Ordonanța Guvernului nr. 6/1999 pentru ratificarea Acordului de împrumut dintre România şi Banca Europeană de Investiţii şi Societatea Naţionala a Căilor Ferate Române (S.N.C.F.R.) pentru finanţarea Proiectului de modernizare a căilor ferate, semnat la Luxemburg şi Bucureşti la 30 iunie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16857",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16857",
+     "sha256": "621b4fcfea3cc164ec436d136fabc02352838a40575b46bcd2f48900224e306f"
+    }
+   ]
+  },
+  {
    "slug": "og-6-2000",
    "path": "og/2000/6",
    "short": "OG nr. 6/2000",
@@ -274124,6 +276938,21 @@
    ]
   },
   {
+   "slug": "og-60-1998",
+   "path": "og/1998/60",
+   "short": "OG nr. 60/1998",
+   "title": "Ordonanța Guvernului nr. 60/1998 privind înfiinţarea de extensiuni universitare ale României în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15547",
+   "versions": [
+    {
+     "from": "1998-08-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15547",
+     "sha256": "c2725dc920f4049845b821299d483d5aaa22c2cf657121590f2f3c2692d43aca"
+    }
+   ]
+  },
+  {
    "slug": "og-60-1999",
    "path": "og/1999/60",
    "short": "OG nr. 60/1999",
@@ -274244,6 +277073,21 @@
    ]
   },
   {
+   "slug": "og-61-1998",
+   "path": "og/1998/61",
+   "short": "OG nr. 61/1998",
+   "title": "Ordonanța Guvernului nr. 61/1998 privind finanţarea acţiunilor de consultanţa şi formare profesională destinate agricultorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15548",
+   "versions": [
+    {
+     "from": "1998-08-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15548",
+     "sha256": "e29ee87b10a1e9bb5740c20dc88a316b81a52a6c10e38611b9f7fa4ffb8757b7"
+    }
+   ]
+  },
+  {
    "slug": "og-61-1999",
    "path": "og/1999/61",
    "short": "OG nr. 61/1999",
@@ -274351,6 +277195,27 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19109",
      "sha256": "bc22773d068c6379dc7f4e27fc60668d537eaaaec66899a75dec1714cc9c540f"
+    }
+   ]
+  },
+  {
+   "slug": "og-62-1998",
+   "path": "og/1998/62",
+   "short": "OG nr. 62/1998",
+   "title": "Ordonanța Guvernului nr. 62/1998 privind instituirea taxei pentru eliberarea autorizaţiei de înfiinţare şi funcţionare a magazinelor \"duty-free\" şi \"duty-free diplomatic\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15549",
+   "versions": [
+    {
+     "from": "1998-08-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15549",
+     "sha256": "b5561cd4a692441aaf711e3bbaae8c38516801697751f069a9adaeb3775d0afe"
+    },
+    {
+     "from": "2000-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/20436",
+     "sha256": "a31e7243aab59cfbc617b77a57bd443aea0746adf028df874cbaf3bd1a26145a"
     }
    ]
   },
@@ -274733,6 +277598,21 @@
    ]
   },
   {
+   "slug": "og-66-1998",
+   "path": "og/1998/66",
+   "short": "OG nr. 66/1998",
+   "title": "Ordonanța Guvernului nr. 66/1998 privind finanţarea instituţiilor de învăţământ superior aflate în coordonarea Ministerului Educaţiei Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15550",
+   "versions": [
+    {
+     "from": "1998-08-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15550",
+     "sha256": "2f5861a8e53da461c6d1ca083e195b67f16fc128bc57b16c863f5568b146af1b"
+    }
+   ]
+  },
+  {
    "slug": "og-66-1999",
    "path": "og/1999/66",
    "short": "OG nr. 66/1999",
@@ -274822,6 +277702,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54566",
      "sha256": "c6ce871c0108774ca8db82625101c72e10797c4ea8293bc80d78018a246df1cb"
+    }
+   ]
+  },
+  {
+   "slug": "og-67-1997",
+   "path": "og/1997/67",
+   "short": "OG nr. 67/1997",
+   "title": "Ordonanța Guvernului nr. 67/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 20/1994 privind punerea în siguranţa a fondului construit existent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11428",
+   "versions": [
+    {
+     "from": "1997-08-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11428",
+     "sha256": "e4cc2b2e29b01e6e8e61379a276689c97fc28d5c5122b0e1e2ead1f237ed4c41"
     }
    ]
   },
@@ -274976,6 +277871,21 @@
    ]
   },
   {
+   "slug": "og-69-1997",
+   "path": "og/1997/69",
+   "short": "OG nr. 69/1997",
+   "title": "Ordonanța Guvernului nr. 69/1997 privind bursele de mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11441",
+   "versions": [
+    {
+     "from": "1997-08-30",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11441",
+     "sha256": "31904b84d0cf1c71c1976bfa4859c763943c53e46f70da6c21a8aa49a09379c9"
+    }
+   ]
+  },
+  {
    "slug": "og-69-1999",
    "path": "og/1999/69",
    "short": "OG nr. 69/1999",
@@ -275074,6 +277984,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10877",
      "sha256": "8aa5353e1ca4027be8b9601c0491e481750d201141b8151acc26672623d15ead"
+    }
+   ]
+  },
+  {
+   "slug": "og-7-1998",
+   "path": "og/1998/7",
+   "short": "OG nr. 7/1998",
+   "title": "Ordonanța Guvernului nr. 7/1998 privind unele măsuri de protecţie socială a personalului militar şi civil, care se vor aplica în perioada restructurării marilor unităţi, unităţilor şi formaţiunilor din compunerea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13994",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13994",
+     "sha256": "6099ce6d62028d3ec9d833a9b5df7250eaf46e6a439d6fdb19ca09466efb653d"
+    }
+   ]
+  },
+  {
+   "slug": "og-7-1999",
+   "path": "og/1999/7",
+   "short": "OG nr. 7/1999",
+   "title": "Ordonanța Guvernului nr. 7/1999 pentru ratificarea Acordului de împrumut dintre România şi Banca Europeană de Investiţii şi Administraţia Naţionala a Drumurilor (A.N.D.) pentru finanţarea Proiectului de reabilitare a drumurilor, etapa a III-a, semnat la Luxemburg la 21 iulie 1998, şi la Bucureşti, la 24 iulie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16853",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16853",
+     "sha256": "f5383a4a470357d01a29ec64ac59bff0f11fc55a6a70cc0155790513e95616c9"
     }
    ]
   },
@@ -275914,6 +278854,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54791",
      "sha256": "8808059c9678af8d225f4210dcc6856d1d1ccbaf68829651964a9385ebb1b40c"
+    }
+   ]
+  },
+  {
+   "slug": "og-77-1998",
+   "path": "og/1998/77",
+   "short": "OG nr. 77/1998",
+   "title": "Ordonanța Guvernului nr. 77/1998 pentru aderarea României la Protocolul de amendare a articolelor 1a), 14(1) şi 14(3)b) ale Acordului european din 30 septembrie 1957 referitor la transportul rutier internaţional de mărfuri periculoase (ADR), încheiat la Geneva la 28 octombrie 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15568",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15568",
+     "sha256": "f62174d208e85b9517e94927232e24dd2ef84689ce53c057c6b62b956a48a9ec"
     }
    ]
   },
@@ -277646,6 +280601,21 @@
    ]
   },
   {
+   "slug": "og-91-1998",
+   "path": "og/1998/91",
+   "short": "OG nr. 91/1998",
+   "title": "Ordonanța Guvernului nr. 91/1998 privind acoperirea şi restituirea diferenţelor de curs valutar pentru sumele în valută depuse de cetăţenii români în contul Băncii Române de Comerţ Exterior - S.A., potrivit legislaţiei în vigoare, până la data de 31 decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15505",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15505",
+     "sha256": "8debaf3e98ed7068c09a208f236ef5ee265e21c4558d52ac673bbe6ae3059eb7"
+    }
+   ]
+  },
+  {
    "slug": "og-91-1999",
    "path": "og/1999/91",
    "short": "OG nr. 91/1999",
@@ -277912,6 +280882,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24150",
      "sha256": "484e53d76c519de214044411094be173dc4f0a311c20caf004a53b6a42ebeec5"
+    }
+   ]
+  },
+  {
+   "slug": "og-99-1998",
+   "path": "og/1998/99",
+   "short": "OG nr. 99/1998",
+   "title": "Ordonanța Guvernului nr. 99/1998 pentru modificarea Ordonanţei Guvernului nr. 48/1998 privind majorarea capitalului social al societăţilor comerciale bancare la care statul este acţionar majoritar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15537",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15537",
+     "sha256": "3d55b46ae9dc26b5bab388dbb9f39e8c4702583b97e187486a66b7c3d2a45ef8"
     }
    ]
   },
@@ -278191,6 +281176,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306783",
      "sha256": "16842ab041603f60cda56292812c89861c9bcc6cd7932bb5a4e342153f349924"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-1998",
+   "path": "oug/1998/10",
+   "short": "OUG nr. 10/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/1998 pentru stabilirea unor măsuri referitoare la datoria Societăţii Comerciale \"Petrotel\" - S.A. Ploieşti, prevăzută în Ordonanţa de urgenţă a Guvernului nr. 72/1997 , şi la protecţia mediului înconjurător din arealul petrolier Ploieşti ca urmare a declanşării procesului de privatizare a societăţilor comerciale din domeniul petrolier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14698",
+   "versions": [
+    {
+     "from": "1998-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14698",
+     "sha256": "d474453f4b0019245d63bc82438be124a630b49c7f4eda127eed61c78885d5b1"
+    }
+   ]
+  },
+  {
+   "slug": "oug-10-1999",
+   "path": "oug/1999/10",
+   "short": "OUG nr. 10/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 10/1999 privind prorogarea termenului prevăzut la art. II alin. 1 din Ordonanţa Guvernului nr. 1/1999 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 82/1997 privind regimul accizelor şi al altor impozite indirecte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17024",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17024",
+     "sha256": "9963f765cb8a0fab3c463e9c410c4e57a7a6cd70a40b2587be95b43215dc032b"
     }
    ]
   },
@@ -281233,6 +284248,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/277148",
      "sha256": "151b3c1f11a4f59cc98ee5237b2625ac0d6a52c11a4fb50d6defb516a14ab222"
+    }
+   ]
+  },
+  {
+   "slug": "oug-11-1999",
+   "path": "oug/1999/11",
+   "short": "OUG nr. 11/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 11/1999 privind acordarea de facilităţi fiscale agenţilor economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17036",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17036",
+     "sha256": "9b73e778268a3c9ab78c0a4113917b64d0894c78c7fe7329ef47932b68aca716"
     }
    ]
   },
@@ -286609,6 +289639,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277854",
      "sha256": "9fafe870a9fa98eead1008656e7a42a734e65bd312a1887811f12095c6759d1a"
+    }
+   ]
+  },
+  {
+   "slug": "oug-13-1997",
+   "path": "oug/1997/13",
+   "short": "OUG nr. 13/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 13/1997 privind transferul cu titlu gratuit al unui imobil în proprietatea Republicii Federale Germania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10974",
+   "versions": [
+    {
+     "from": "1997-04-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10974",
+     "sha256": "94a27c4323b38101bd021f1e5a35f8075027eb2f74c33b71867eae47f9b441e5"
+    }
+   ]
+  },
+  {
+   "slug": "oug-13-1999",
+   "path": "oug/1999/13",
+   "short": "OUG nr. 13/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 13/1999 pentru acordarea unor înlesniri la plata obligaţiilor bugetare unor agenţi economici din minerit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17065",
+   "versions": [
+    {
+     "from": "1999-03-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17065",
+     "sha256": "08bdfb10da4c1294f4508e9b4c4929119797f01cab776de0aa011e0a31f8e25a"
     }
    ]
   },
@@ -292205,6 +295265,21 @@
    ]
   },
   {
+   "slug": "oug-16-1998",
+   "path": "oug/1998/16",
+   "short": "OUG nr. 16/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 16/1998 pentru prorogarea termenului prevăzut la art. VI alin. 1 din Ordonanţa de urgenţă a Guvernului nr. 32/1997 pentru modificarea şi completarea Legii nr. 31/1990 privind societăţile comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15808",
+   "versions": [
+    {
+     "from": "1998-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15808",
+     "sha256": "a078885b03836ad1d38b171951b2f1c27f1283138f050a237671fc5d5d7b7778"
+    }
+   ]
+  },
+  {
    "slug": "oug-16-1999",
    "path": "oug/1999/16",
    "short": "OUG nr. 16/1999",
@@ -296384,6 +299459,21 @@
    ]
   },
   {
+   "slug": "oug-19-1998",
+   "path": "oug/1998/19",
+   "short": "OUG nr. 19/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 19/1998 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15799",
+   "versions": [
+    {
+     "from": "1998-09-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15799",
+     "sha256": "0e5574ac0e649995a0a1ecf784d1b25262ae115b447dca2fd8fcdc64dbf773c3"
+    }
+   ]
+  },
+  {
    "slug": "oug-19-1999",
    "path": "oug/1999/19",
    "short": "OUG nr. 19/1999",
@@ -297607,6 +300697,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10789",
      "sha256": "86850e670d9f94375733ad30e23886dfa0c36ed20fabbdf6b13926a7f973aa4e"
+    }
+   ]
+  },
+  {
+   "slug": "oug-2-1998",
+   "path": "oug/1998/2",
+   "short": "OUG nr. 2/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 2/1998 privind finanţarea unor obiective de investiţii din programul \"Reţea de transmisiuni permanenta din sistemul de transmisiuni al armatei\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13940",
+   "versions": [
+    {
+     "from": "1998-02-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13940",
+     "sha256": "60424720c9d455bae43f00a0eae809d32c89a15c919d68b0adff52af06ef8cf5"
     }
    ]
   },
@@ -299099,6 +302204,21 @@
    ]
   },
   {
+   "slug": "oug-21-1998",
+   "path": "oug/1998/21",
+   "short": "OUG nr. 21/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 21/1998 privind modificarea Ordonanţei de urgenţă a Guvernului nr. 43/1997 pentru întocmirea bilanţului contabil special şi regularizarea unor credite şi dobânzi clasificate în categoria \"pierdere\" la Banca Agricolă - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15801",
+   "versions": [
+    {
+     "from": "1998-09-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15801",
+     "sha256": "5e9a470ab7a9ecfbe68faaa8acc3905d8dcda65f18c5bb90811ec5609fe55296"
+    }
+   ]
+  },
+  {
    "slug": "oug-21-1999",
    "path": "oug/1999/21",
    "short": "OUG nr. 21/1999",
@@ -300109,6 +303229,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235799",
      "sha256": "891b0e15d7d45816caeb561b106991a1f02da3e16ea56bd1f62e9f49a7836d30"
+    }
+   ]
+  },
+  {
+   "slug": "oug-22-1998",
+   "path": "oug/1998/22",
+   "short": "OUG nr. 22/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 22/1998 privind instituirea, cu caracter temporar, a unei suprataxe vamale la importul de bunuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15734",
+   "versions": [
+    {
+     "from": "1998-10-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15734",
+     "sha256": "cf01b39f4e46efb3d3016862d12b2fcd2eedcf09d817513de1b50293ab90140c"
     }
    ]
   },
@@ -304706,6 +307841,27 @@
    ]
   },
   {
+   "slug": "oug-31-1997",
+   "path": "oug/1997/31",
+   "short": "OUG nr. 31/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 31/1997 privind regimul investiţiilor străine în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11172",
+   "versions": [
+    {
+     "from": "1997-06-19",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11172",
+     "sha256": "7210372a721c40302d656590a69098cf26487c33b5d56276eddb042cb5fe552d"
+    },
+    {
+     "from": "1998-12-16",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16387",
+     "sha256": "4011b7e6744abf3bd4eea52e4028a608e65ca78a8c8807dd48983816fd31318b"
+    }
+   ]
+  },
+  {
    "slug": "oug-31-1999",
    "path": "oug/1999/31",
    "short": "OUG nr. 31/1999",
@@ -304987,6 +308143,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270112",
      "sha256": "0be880801ecad28b6f9b8e726298c2f93d32dd28686afdbdc9816ca9576906e2"
+    }
+   ]
+  },
+  {
+   "slug": "oug-32-1998",
+   "path": "oug/1998/32",
+   "short": "OUG nr. 32/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 32/1998 privind privatizarea societăţilor comerciale din turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16144",
+   "versions": [
+    {
+     "from": "1998-12-02",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16144",
+     "sha256": "4f21d6512f6be81e359bca65a1c4d7ddf8b9879b9dc706bedd31aa0ca71eaca1"
     }
    ]
   },
@@ -305731,6 +308902,27 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11199",
      "sha256": "eeb525efe2818d3ed832a36c204a6b0020a92e44e4e4825d527a2f2488c4f34e"
+    }
+   ]
+  },
+  {
+   "slug": "oug-34-1998",
+   "path": "oug/1998/34",
+   "short": "OUG nr. 34/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 34/1998 privind reorganizarea Departamentului pentru Protecţia Copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16157",
+   "versions": [
+    {
+     "from": "1998-11-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16157",
+     "sha256": "a798ef223a404abb1fbd26073321455bed20f1e4f7dae279b20d97d1450e1ce7"
+    },
+    {
+     "from": "1999-12-08",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20166",
+     "sha256": "19b502d313b00641c72210ccb8734cb5cbcf02e2b6f743b2a3b5f62f577168e3"
     }
    ]
   },
@@ -307013,6 +310205,21 @@
    ]
   },
   {
+   "slug": "oug-37-1998",
+   "path": "oug/1998/37",
+   "short": "OUG nr. 37/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 37/1998 privind desfăşurarea bacalaureatului în sesiunea iunie-iulie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16141",
+   "versions": [
+    {
+     "from": "1998-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16141",
+     "sha256": "b0e831fe3f44114d5a9bfe0ff8e46bdad5017c7c999e47fd31825d2a9feac4e5"
+    }
+   ]
+  },
+  {
    "slug": "oug-37-1999",
    "path": "oug/1999/37",
    "short": "OUG nr. 37/1999",
@@ -307387,6 +310594,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310289",
      "sha256": "535fd061588bb386cd860635fda103b1b5cd9bfc02383243305ceb463f97bcd2"
+    }
+   ]
+  },
+  {
+   "slug": "oug-38-1998",
+   "path": "oug/1998/38",
+   "short": "OUG nr. 38/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 38/1998 privind completarea şi modificarea Ordonanţei Guvernului nr. 128/1998 pentru reglementarea modului şi condiţiilor de valorificare a bunurilor legal confiscate sau intrate, potrivit legii, în proprietatea privată a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16159",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16159",
+     "sha256": "e14996dd9a084ada4bc0c9bbea433ba1b4d617abd7f0c08167f0ec3888cd1380"
     }
    ]
   },
@@ -307841,6 +311063,21 @@
    ]
   },
   {
+   "slug": "oug-39-1998",
+   "path": "oug/1998/39",
+   "short": "OUG nr. 39/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 39/1998 privind regimul premiilor anuale sau al altor sume de aceasta natura, suportate din fondul de salarii, pentru activitatea anului 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16160",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16160",
+     "sha256": "3b71a76f3eb8324861ca2e666560380a6fae3c577c90e630f13ce7396404534d"
+    }
+   ]
+  },
+  {
    "slug": "oug-39-2000",
    "path": "oug/2000/39",
    "short": "OUG nr. 39/2000",
@@ -308230,6 +311467,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310290",
      "sha256": "9ed15f29dd2e72c92d261330cbdbeca45521cc4d6e91eb8b70ffe1b8680444af"
+    }
+   ]
+  },
+  {
+   "slug": "oug-4-1998",
+   "path": "oug/1998/4",
+   "short": "OUG nr. 4/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 4/1998 privind reglementarea amortizării activelor corporale pentru anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13968",
+   "versions": [
+    {
+     "from": "1998-03-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13968",
+     "sha256": "ccdf4420d94c580c312bf72b4935a3127c50e218814aaae762b27623f8767e90"
+    }
+   ]
+  },
+  {
+   "slug": "oug-4-1999",
+   "path": "oug/1999/4",
+   "short": "OUG nr. 4/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 4/1999 privind unele măsuri de protecţie pentru personalul al cărui contract individual de muncă va fi desfăcut ca urmare a concedierilor colective determinate de reorganizarea Regiei Naţionale a Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16917",
+   "versions": [
+    {
+     "from": "1999-02-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16917",
+     "sha256": "32bd0e7a25fcd63276c4dc08a2114232342cad1a7a5af2b75edae86f425e9ff0"
     }
    ]
   },
@@ -308674,6 +311941,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202869",
      "sha256": "ebd0b111c4a70a23d1f32464532d92a053e25e3808255d1c73f700b06be7d8ea"
+    }
+   ]
+  },
+  {
+   "slug": "oug-40-1998",
+   "path": "oug/1998/40",
+   "short": "OUG nr. 40/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 40/1998 privind stabilirea ca zi nelucrătoare a zilei de 30 noiembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16232",
+   "versions": [
+    {
+     "from": "1998-11-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16232",
+     "sha256": "970e998882e1f160e6ed233c7b499f699e53c27bef76c02a38d2fc95d221c0b0"
     }
    ]
   },
@@ -309926,6 +313208,21 @@
    ]
   },
   {
+   "slug": "oug-43-1998",
+   "path": "oug/1998/43",
+   "short": "OUG nr. 43/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 43/1998 privind acordarea unor facilităţi la plata creanţelor fiscale către bugetul de stat şi către bugetul asigurărilor sociale de stat în cazul încheierii contractului de vânzare-cumpărare de acţiuni ale Societăţii Comerciale \"Tractorul\" - S.A. Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16254",
+   "versions": [
+    {
+     "from": "1998-11-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16254",
+     "sha256": "608bf9cd27eacfb29ff79933829a1debd5236d6da2a010c523d45d93eaba6ae9"
+    }
+   ]
+  },
+  {
    "slug": "oug-43-1999",
    "path": "oug/1999/43",
    "short": "OUG nr. 43/1999",
@@ -310634,6 +313931,21 @@
    ]
   },
   {
+   "slug": "oug-45-1997",
+   "path": "oug/1997/45",
+   "short": "OUG nr. 45/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 45/1997 privind alocarea de la bugetul de stat a fondurilor necesare acoperirii cheltuielilor pentru depozitarea graului din recolta anului 1997, proprietate a producătorilor agricoli şi a arendaşilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11285",
+   "versions": [
+    {
+     "from": "1997-07-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11285",
+     "sha256": "9534e7568cc0156998c7014663aa76a30f945bc2516d785449c0d9876701559d"
+    }
+   ]
+  },
+  {
    "slug": "oug-45-1999",
    "path": "oug/1999/45",
    "short": "OUG nr. 45/1999",
@@ -310969,6 +314281,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270769",
      "sha256": "e0e2f4a0294feb1431c3c58e9b704294b13a73a3eb31d94c9eb38e01679427cf"
+    }
+   ]
+  },
+  {
+   "slug": "oug-46-1997",
+   "path": "oug/1997/46",
+   "short": "OUG nr. 46/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 46/1997 privind constituirea fondului pentru preluarea graului din recolta anului 1997, necesar consumului intern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11292",
+   "versions": [
+    {
+     "from": "1997-07-14",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11292",
+     "sha256": "79ab19b3125d3c1dc28dd83197fd93cf538c820c9586010f7ded2995a480b60f"
     }
    ]
   },
@@ -311347,6 +314674,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11298",
      "sha256": "e4c1930e0e293f313832df794c6923aa821cb37ef862ed826e9d13a8e679a2bb"
+    }
+   ]
+  },
+  {
+   "slug": "oug-47-1998",
+   "path": "oug/1998/47",
+   "short": "OUG nr. 47/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 47/1998 privind reglementarea financiară a dobânzilor pe perioada 1 ianuarie 1997-8 februarie 1998, aferente creditelor angajate pentru acoperirea pierderilor înregistrate de Agenţia Naţionala a Produselor Agricole - R.A. din activitatea anilor 1994-1996, şi anularea unei datorii în grâu a Republicii Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16321",
+   "versions": [
+    {
+     "from": "1998-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16321",
+     "sha256": "11e0f499af89ea8242b3413ea3b92abac97be3b02c56a633c50d091a5d5feda4"
     }
    ]
   },
@@ -312058,6 +315400,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302505",
      "sha256": "2a513d40acb67feb1c392dcaa8eec6b716161c62a562267aa48de5d42d0814f9"
+    }
+   ]
+  },
+  {
+   "slug": "oug-49-1997",
+   "path": "oug/1997/49",
+   "short": "OUG nr. 49/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 49/1997 privind înfiinţarea Societăţii Naţionale a Petrolului \"Petrom\" - S.A. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11312",
+   "versions": [
+    {
+     "from": "1997-09-15",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11312",
+     "sha256": "013199f644fc010e9a593a98791be878bd73496a1276b8c92f08f5829bc62338"
     }
    ]
   },
@@ -313445,6 +316802,21 @@
    ]
   },
   {
+   "slug": "oug-52-1997",
+   "path": "oug/1997/52",
+   "short": "OUG nr. 52/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 52/1997 privind contractarea de către Ministerul Finanţelor a unui credit extern pentru achiziţionarea de hardware, software, elemente de comunicaţie şi asistenţa tehnică pentru dezvoltarea sistemului de gestionare a finanţelor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11330",
+   "versions": [
+    {
+     "from": "1997-09-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11330",
+     "sha256": "e5a39fee1b9a21edad370c2a98a7b34f114404d5287c504fc7750b9eb2146c14"
+    }
+   ]
+  },
+  {
    "slug": "oug-52-1998",
    "path": "oug/1998/52",
    "short": "OUG nr. 52/1998",
@@ -313897,6 +317269,21 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302698",
      "sha256": "41b7e1c8e866f0173b6e7783875b2dcb9b743c01bab0d8c81830aa5f85749d5d"
+    }
+   ]
+  },
+  {
+   "slug": "oug-53-1998",
+   "path": "oug/1998/53",
+   "short": "OUG nr. 53/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 53/1998 cu privire la acordarea unor înlesniri la plata obligaţiilor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16449",
+   "versions": [
+    {
+     "from": "1998-12-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16449",
+     "sha256": "91af7ac77519f8625a4f913cba1b9e1c7bef6d902090672a86a87d559327c6f5"
     }
    ]
   },
@@ -314654,6 +318041,21 @@
    ]
   },
   {
+   "slug": "oug-55-1998",
+   "path": "oug/1998/55",
+   "short": "OUG nr. 55/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 55/1998 pentru ratificarea Protocolului de adaptare a aspectelor comerciale ale Acordului european dintre România, pe de o parte, şi Comunităţile Europene şi statele membre ale acestora, pe de altă parte, pentru a tine seama de aderarea Republicii Austria, Republicii Finlanda şi Regatului Suediei la Uniunea Europeană şi de rezultatele negocierilor agricole din Runda Uruguay, inclusiv îmbunătăţirile regimului preferenţial existent, semnat la Bruxelles la 13 octombrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16489",
+   "versions": [
+    {
+     "from": "1998-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16489",
+     "sha256": "ddfef519efa98855a81bcbdafa491979b16db0d1317d041f3b9019f9c42f85a0"
+    }
+   ]
+  },
+  {
    "slug": "oug-55-1999",
    "path": "oug/1999/55",
    "short": "OUG nr. 55/1999",
@@ -315008,6 +318410,21 @@
    ]
   },
   {
+   "slug": "oug-56-1998",
+   "path": "oug/1998/56",
+   "short": "OUG nr. 56/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 56/1998 privind unele măsuri pentru restructurarea Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16545",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16545",
+     "sha256": "5c244c9d936b7a4a33f1ffd3c343a2cb4df46fbcf54f21835cbcf618d4934cb7"
+    }
+   ]
+  },
+  {
    "slug": "oug-56-2000",
    "path": "oug/2000/56",
    "short": "OUG nr. 56/2000",
@@ -315326,6 +318743,21 @@
    ]
   },
   {
+   "slug": "oug-57-1998",
+   "path": "oug/1998/57",
+   "short": "OUG nr. 57/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 57/1998 privind acordarea de către stat, prin intermediul Ministerului Finanţelor, de garanţii pentru emisiuni de obligaţiuni pe pieţele financiare externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16596",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16596",
+     "sha256": "f86bd05768fe1e7d4ecfb1e0a12daf96e56c0239894e4a779d782b4892de64e6"
+    }
+   ]
+  },
+  {
    "slug": "oug-57-1999",
    "path": "oug/1999/57",
    "short": "OUG nr. 57/1999",
@@ -315592,6 +319024,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303827",
      "sha256": "eddef135f9bc5e7122f8e59dc2cd680cdfecd57f3691e489259de52233293d22"
+    }
+   ]
+  },
+  {
+   "slug": "oug-58-1998",
+   "path": "oug/1998/58",
+   "short": "OUG nr. 58/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 58/1998 pentru prelungirea termenului prevăzut la art. 25 alin. (1) din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16601",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16601",
+     "sha256": "236249e9099222cf9784fdc7891e75787b61947e6f758592b8f0933eba9c068a"
     }
    ]
   },
@@ -316319,6 +319766,21 @@
    ]
   },
   {
+   "slug": "oug-6-1996",
+   "path": "oug/1996/6",
+   "short": "OUG nr. 6/1996",
+   "title": "Ordonanța de urgență a Guvernului nr. 6/1996 privind regimul deductibilităţii sumelor plătite cu titlu de salarii şi alte drepturi salariale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7797",
+   "versions": [
+    {
+     "from": "1996-09-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7797",
+     "sha256": "1e45851fa15c5722f3928e0e278b9c22322d0dd831eed9e9a9fc49b8318000b6"
+    }
+   ]
+  },
+  {
    "slug": "oug-6-2001",
    "path": "oug/2001/6",
    "short": "OUG nr. 6/2001",
@@ -316630,6 +320092,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307523",
      "sha256": "69c931162603a7afa34ce8c310526899ac3f3f9020d2d91f0074e4aae8de79e7"
+    }
+   ]
+  },
+  {
+   "slug": "oug-60-1997",
+   "path": "oug/1997/60",
+   "short": "OUG nr. 60/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 60/1997 privind stabilirea numărului mediu de personal din industria miniera şi din activităţile de prospecţiuni şi explorări geologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11385",
+   "versions": [
+    {
+     "from": "1997-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11385",
+     "sha256": "858cf3635a182e92a70b908479a55418e54a91357347748a5c76e433d1e57464"
+    }
+   ]
+  },
+  {
+   "slug": "oug-60-1998",
+   "path": "oug/1998/60",
+   "short": "OUG nr. 60/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 60/1998 pentru modificarea art. 1 alin. 1 din Legea nr. 51/1993 privind acordarea unor drepturi magistraţilor care au fost înlăturaţi din justiţie pentru considerente politice în perioada anilor 1945-1952",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16603",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16603",
+     "sha256": "d6637488e61892b4a6e935fa80450b63c7eee0e0af84649421faafe0a990f449"
     }
    ]
   },
@@ -317395,6 +320887,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304187",
      "sha256": "54bd9ec8995905c4f1a8d3128ef017a1fd45c5a77dd75071f1718066363d71c1"
+    }
+   ]
+  },
+  {
+   "slug": "oug-62-1997",
+   "path": "oug/1997/62",
+   "short": "OUG nr. 62/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 62/1997 cu privire la rectificarea bugetului de stat pe anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11397",
+   "versions": [
+    {
+     "from": "1997-10-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11397",
+     "sha256": "f06f715d54d054527f6438495079d8e95d1a01f3fce1fc8916e6bf8b0e4bc42c"
     }
    ]
   },
@@ -318551,6 +322058,21 @@
    ]
   },
   {
+   "slug": "oug-65-1997",
+   "path": "oug/1997/65",
+   "short": "OUG nr. 65/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 65/1997 pentru modificarea şi completarea Legii nr. 91/1996 cu privire la asigurarea facultativă a autovehiculelor Camerei Deputaţilor, Senatului, Curţii Constituţionale, Curţii de Conturi şi Consiliului Legislativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11417",
+   "versions": [
+    {
+     "from": "1997-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11417",
+     "sha256": "8548163fa07254aab554ff6179206243e4fa57282018970c6e4a30086cd50728"
+    }
+   ]
+  },
+  {
    "slug": "oug-65-1999",
    "path": "oug/1999/65",
    "short": "OUG nr. 65/1999",
@@ -319250,6 +322772,21 @@
    ]
   },
   {
+   "slug": "oug-67-1997",
+   "path": "oug/1997/67",
+   "short": "OUG nr. 67/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 67/1997 privind înfiinţarea, organizarea şi funcţionarea Oficiului Naţional al Cinematografiei şi constituirea Fondului cinematografic naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11430",
+   "versions": [
+    {
+     "from": "1997-10-30",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11430",
+     "sha256": "3872983e8a2897df6b2b07dd5a0f88e2ec01dd87f4dcb40be6769429a4cc791f"
+    }
+   ]
+  },
+  {
    "slug": "oug-67-1998",
    "path": "oug/1998/67",
    "short": "OUG nr. 67/1998",
@@ -319708,6 +323245,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304971",
      "sha256": "4e41f0e869fd3c53ebb1e11155a4ec7e9ae985201291ac1fa97ae5668ebf3e63"
+    }
+   ]
+  },
+  {
+   "slug": "oug-68-1997",
+   "path": "oug/1997/68",
+   "short": "OUG nr. 68/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 68/1997 pentru aplicarea unor articole din Legea învăţământului nr. 84/1995 începând cu anul şcolar 1998/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11437",
+   "versions": [
+    {
+     "from": "1997-10-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11437",
+     "sha256": "e5c543b139b641456dd750423f2ed35e767d2abab2a84103e97fb12b66748432"
     }
    ]
   },
@@ -320564,6 +324116,21 @@
    ]
   },
   {
+   "slug": "oug-7-1997",
+   "path": "oug/1997/7",
+   "short": "OUG nr. 7/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 7/1997 privind aprobarea Protocolului încheiat între Ministerul Finanţelor din România şi Ministerul Finanţelor din Republica Polona în problema lichidării datoriei în valută convertibilă a României fata de Republica Polona, semnat la Bucureşti la 25 februarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10881",
+   "versions": [
+    {
+     "from": "1997-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10881",
+     "sha256": "a9520e148aca75e4064d1eb91cdca06f3d1d9cec62aee3c35138e53c49ecd3d3"
+    }
+   ]
+  },
+  {
    "slug": "oug-7-1998",
    "path": "oug/1998/7",
    "short": "OUG nr. 7/1998",
@@ -320581,6 +324148,21 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188245",
      "sha256": "33d0aa2685b4e04ff23db232b08101ba8a92806cd11985210831e2db24a17491"
+    }
+   ]
+  },
+  {
+   "slug": "oug-7-1999",
+   "path": "oug/1999/7",
+   "short": "OUG nr. 7/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 7/1999 pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 57/1998 privind acordarea de către stat, prin intermediul Ministerului Finanţelor, de garanţii pentru emisiuni de obligaţiuni pe pieţele financiare externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16969",
+   "versions": [
+    {
+     "from": "1999-02-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16969",
+     "sha256": "b56da3df0d0eefb19536b94d03bd1d04e9b322c31140f42f778e4f3b37a070f1"
     }
    ]
   },
@@ -320917,6 +324499,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11449",
      "sha256": "5953d2698d26eba32b86f359b81c1d235750f67746655346181f0ba8a8af0e8e"
+    }
+   ]
+  },
+  {
+   "slug": "oug-70-1998",
+   "path": "oug/1998/70",
+   "short": "OUG nr. 70/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 70/1998 privind ratificarea Protocolului adiţional nr. 7 la Acordul central european de comerţ liber, semnat la Praga la 10 decembrie 1998, precum şi pentru rectificarea versiunii în limba română a paragrafului 6 al articolului 15 din protocol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16599",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16599",
+     "sha256": "5a80821518f73eb537fa52bb1778cb45143c2ba8119b47d6e26703be92a0582a"
     }
    ]
   },
@@ -321260,6 +324857,21 @@
    ]
   },
   {
+   "slug": "oug-71-1998",
+   "path": "oug/1998/71",
+   "short": "OUG nr. 71/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 71/1998 privind aprobarea amendării Protocolului nr. 4 la Acordul european instituind o asociere între România, pe de o parte, şi Comunităţile Europene şi statele membre ale acestora, pe de altă parte, precum şi pentru rectificarea versiunii în limba română a paragrafului 6 al articolului 15 din protocol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16600",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16600",
+     "sha256": "d666b2e9495e1a4345255d6e88fd08352501d0e6656f17042fdb3ebe9723e832"
+    }
+   ]
+  },
+  {
    "slug": "oug-71-1999",
    "path": "oug/1999/71",
    "short": "OUG nr. 71/1999",
@@ -321592,6 +325204,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305122",
      "sha256": "8986ed16202e4d7267cb185ccc0999b989a037b4c658ccad2918fbcce6482d72"
+    }
+   ]
+  },
+  {
+   "slug": "oug-72-1997",
+   "path": "oug/1997/72",
+   "short": "OUG nr. 72/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 72/1997 privind regularizarea datoriei fostei Companii Române de Petrol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11462",
+   "versions": [
+    {
+     "from": "1997-11-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11462",
+     "sha256": "ed3db1c708b3b8b14fb2cb16a48098fb5869b00f3af1b8b8c7e20d288b9f4d29"
     }
    ]
   },
@@ -321979,6 +325606,21 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305146",
      "sha256": "e2671250dc4dbd799ac83f1987e3f66e8f9b0e640bb99481bd269b8bc028f056"
+    }
+   ]
+  },
+  {
+   "slug": "oug-73-1997",
+   "path": "oug/1997/73",
+   "short": "OUG nr. 73/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 73/1997 privind asigurarea şi creditarea stocurilor de aprovizionare pentru perioada de toamna-iarna, destinate localităţilor izolate din Delta Dunării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11466",
+   "versions": [
+    {
+     "from": "1997-11-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11466",
+     "sha256": "e67fc092f886003e9a1858bc7c04a22ddcf229c8a7b07e89157063f7939c0c9b"
     }
    ]
   },
@@ -323933,6 +327575,21 @@
    ]
   },
   {
+   "slug": "oug-79-1997",
+   "path": "oug/1997/79",
+   "short": "OUG nr. 79/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 79/1997 pentru constituirea Comisiei speciale de verificare a certificatelor eliberate în baza Legii nr. 42/1990 pentru cinstirea eroilor-martiri şi acordarea unor drepturi urmaşilor acestora, răniţilor, precum şi luptătorilor pentru victoria Revoluţiei din decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11498",
+   "versions": [
+    {
+     "from": "1997-12-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11498",
+     "sha256": "813d9ef5c84c8b322b4d6e9719b81de6bc871a1f9494d11a975c60b8e83954d3"
+    }
+   ]
+  },
+  {
    "slug": "oug-79-1999",
    "path": "oug/1999/79",
    "short": "OUG nr. 79/1999",
@@ -324272,6 +327929,36 @@
    ]
   },
   {
+   "slug": "oug-8-1998",
+   "path": "oug/1998/8",
+   "short": "OUG nr. 8/1998",
+   "title": "Ordonanța de urgență a Guvernului nr. 8/1998 pentru ratificarea Memorandumului de finanţare a Programului Operaţional de Ţara PHARE 1997, semnat la Bucureşti la 19 decembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14005",
+   "versions": [
+    {
+     "from": "1998-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14005",
+     "sha256": "f25b42b8050630fa2da4eedf442b13c84033310a652fa0aef98caae289561a18"
+    }
+   ]
+  },
+  {
+   "slug": "oug-8-1999",
+   "path": "oug/1999/8",
+   "short": "OUG nr. 8/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 8/1999 privind unele măsuri pentru susţinerea Programului de restructurare prin garantarea unui credit la Societatea Comercială \"Sidex\" - S.A. Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16970",
+   "versions": [
+    {
+     "from": "1999-02-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16970",
+     "sha256": "881795db9e2d132afbb97b0e2c7ed57711a1530f72f1d03966800b3f3cc63486"
+    }
+   ]
+  },
+  {
    "slug": "oug-8-2000",
    "path": "oug/2000/8",
    "short": "OUG nr. 8/2000",
@@ -324535,6 +328222,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295218",
      "sha256": "b89bc9dc38ebbe228272b18351ed7ce73e491ba9510507ff57b3fecdbb807810"
+    }
+   ]
+  },
+  {
+   "slug": "oug-80-1997",
+   "path": "oug/1997/80",
+   "short": "OUG nr. 80/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 80/1997 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11504",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11504",
+     "sha256": "e4fd4709a9ddd402f3ffc920480885d61a9f2245fd5f2bc7e269e34a088f714a"
     }
    ]
   },
@@ -326233,6 +329935,27 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305672",
      "sha256": "13c595d90934a75656dae0ae18315d99bd82b27d2f908b00189d2577c63b07e0"
+    }
+   ]
+  },
+  {
+   "slug": "oug-85-1997",
+   "path": "oug/1997/85",
+   "short": "OUG nr. 85/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 85/1997 privind impunerea veniturilor realizate de persoanele fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11532",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11532",
+     "sha256": "eb7b07b98b8b65c5fe992a1836d437e61b4d2e2f114322a6dbea0535ce185a81"
+    },
+    {
+     "from": "2000-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19109",
+     "sha256": "bc22773d068c6379dc7f4e27fc60668d537eaaaec66899a75dec1714cc9c540f"
     }
    ]
   },
@@ -328394,6 +332117,21 @@
    ]
   },
   {
+   "slug": "oug-90-1999",
+   "path": "oug/1999/90",
+   "short": "OUG nr. 90/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 90/1999 privind modificarea art. 4 din Legea nr. 236/1998 pentru ratificarea Convenţiei europene de asistenţa judiciară în materie penală, adoptată la Strasbourg la 20 aprilie 1959, şi a Protocolului adiţional la Convenţia europeană de asistenţa judiciară în materie penală, adoptat la Strasbourg la 17 martie 1978",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18402",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18402",
+     "sha256": "6784c04bfbebb9d03c90c7a27b9a821c5710ff48a4634c4cbfd165f278782cf3"
+    }
+   ]
+  },
+  {
    "slug": "oug-90-2000",
    "path": "oug/2000/90",
    "short": "OUG nr. 90/2000",
@@ -329371,6 +333109,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306241",
      "sha256": "402b5c7fc0427c1407f9e4864ae628f1961807313d70b3a36f00cc765a2c0ab9"
+    }
+   ]
+  },
+  {
+   "slug": "oug-93-1997",
+   "path": "oug/1997/93",
+   "short": "OUG nr. 93/1997",
+   "title": "Ordonanța de urgență a Guvernului nr. 93/1997 privind utilizarea disponibilităţilor existente în urma execuţiei bugetare pe anul 1997 a fondurilor constituite în baza Ordonanţei de urgenţă a Guvernului nr. 45/1997 şi a Ordonanţei Guvernului nr. 21/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11580",
+   "versions": [
+    {
+     "from": "1997-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11580",
+     "sha256": "5b9b9e5df0d7ea8370a4398a98b9989a39e4a8e5cf569db14860a6ee9c329f5b"
     }
    ]
   },

@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "hg-1-1998",
+   "path": "hg/1998/1",
+   "short": "HG nr. 1/1998",
+   "title": "Hotărârea Guvernului nr. 1/1998 privind stabilirea datei pentru alegerea consiliului local în Circumscripţia electorală Blejoi, judeţul Prahova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13911",
+   "versions": [
+    {
+     "from": "1998-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13911",
+     "sha256": "2605c7def670732e5ea54093aa9052b2547c6b536405a50f66597a7b7e5ca82a"
+    }
+   ]
+  },
+  {
    "slug": "hg-10-1998",
    "path": "hg/1998/10",
    "short": "HG nr. 10/1998",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hg-101-1998",
+   "path": "hg/1998/101",
+   "short": "HG nr. 101/1998",
+   "title": "Hotărârea Guvernului nr. 101/1998 pentru modificarea Hotărârii Guvernului nr. 508/1997 cu privire la înfiinţarea Consiliului Interministerial pentru Ştiinţa, Tehnologie şi Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14350",
+   "versions": [
+    {
+     "from": "1998-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14350",
+     "sha256": "ff10a481c2e25bfdff5e26fdf7a3253fd29cff2e088b5e12a3ea2d172a13e7e3"
+    }
+   ]
+  },
+  {
    "slug": "hg-102-1998",
    "path": "hg/1998/102",
    "short": "HG nr. 102/1998",
@@ -254,6 +284,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14352",
      "sha256": "d490ce5ecbe7fa8cf21a46c68914a6b7b1e87d58e369a0880106ac0d9fcdc9b2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-103-1998",
+   "path": "hg/1998/103",
+   "short": "HG nr. 103/1998",
+   "title": "Hotărârea Guvernului nr. 103/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Conversia cazanelor de 420 t/h din CET Suceava, de la funcţionarea pe lignit la funcţionarea pe huila, judeţul Suceava\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14354",
+   "versions": [
+    {
+     "from": "1998-03-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14354",
+     "sha256": "0640e400c2f531074a269b47e740c1a6af7e6758eb9ee49a3eb345fb9511b8f2"
     }
    ]
   },
@@ -288,6 +333,21 @@
    ]
   },
   {
+   "slug": "hg-106-1998",
+   "path": "hg/1998/106",
+   "short": "HG nr. 106/1998",
+   "title": "Hotărârea Guvernului nr. 106/1998 privind organizarea şi funcţionarea Departamentului pentru Administraţie Publică Locală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14360",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14360",
+     "sha256": "2e8e3e89ab588ac073ec8eb54a17061927284976fc7fd92b2aadc8a7503e2d3e"
+    }
+   ]
+  },
+  {
    "slug": "hg-107-1998",
    "path": "hg/1998/107",
    "short": "HG nr. 107/1998",
@@ -299,6 +359,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14362",
      "sha256": "cf73c8c206061befe9435adaa430b8930ec34065fc0ba395c4f5c38c128450c8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-108-1998",
+   "path": "hg/1998/108",
+   "short": "HG nr. 108/1998",
+   "title": "Hotărârea Guvernului nr. 108/1998 privind executarea creanţelor la Fondul iniţial de asigurări sociale de sănătate şi Fondul special pentru sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14365",
+   "versions": [
+    {
+     "from": "1998-03-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14365",
+     "sha256": "827e1546f9b5a69fc0dcdd41c19676ec11ebd3b6b2adbbd886e5c0ee181f337e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-109-1998",
+   "path": "hg/1998/109",
+   "short": "HG nr. 109/1998",
+   "title": "Hotărârea Guvernului nr. 109/1998 pentru înfiinţarea, organizarea şi funcţionarea Departamentului de Analiza Social-Politica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14367",
+   "versions": [
+    {
+     "from": "1998-03-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14367",
+     "sha256": "86391b49750b8edf8034312985dbfc8ec0495a69812eb46635c1f21789bec298"
+    }
+   ]
+  },
+  {
+   "slug": "hg-11-1998",
+   "path": "hg/1998/11",
+   "short": "HG nr. 11/1998",
+   "title": "Hotărârea Guvernului nr. 11/1998 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 132/1997 privind rechiziţiile de bunuri şi prestările de servicii în interes public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14021",
+   "versions": [
+    {
+     "from": "1998-02-06",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14021",
+     "sha256": "0146e669dbe6b2381fa614b4852f3d4e81c20258a4d80971a424491578f55c8e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-112-1998",
+   "path": "hg/1998/112",
+   "short": "HG nr. 112/1998",
+   "title": "Hotărârea Guvernului nr. 112/1998 pentru aprobarea Acordului de colaborare dintre Ministerul Justiţiei din România şi Ministerul Justiţiei din Spania în domeniul publicităţii imobiliare şi al înregistrării proprietăţii, semnat la Bucureşti la 17 noiembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14373",
+   "versions": [
+    {
+     "from": "1998-03-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14373",
+     "sha256": "84819bbcebcb71de856c0dc33a7ee2016c365790c65f75b90fd944a591f1ae9d"
     }
    ]
   },
@@ -348,6 +468,21 @@
    ]
   },
   {
+   "slug": "hg-119-1998",
+   "path": "hg/1998/119",
+   "short": "HG nr. 119/1998",
+   "title": "Hotărârea Guvernului nr. 119/1998 privind elaborarea Programului naţional de aderare a României la Uniunea Europeană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14387",
+   "versions": [
+    {
+     "from": "1998-03-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14387",
+     "sha256": "00aec90f13a2a73e720c7b8a27dd5cbc5838dd4f97b52976bc65817f31330a1a"
+    }
+   ]
+  },
+  {
    "slug": "hg-12-1998",
    "path": "hg/1998/12",
    "short": "HG nr. 12/1998",
@@ -378,6 +513,36 @@
    ]
   },
   {
+   "slug": "hg-121-1998",
+   "path": "hg/1998/121",
+   "short": "HG nr. 121/1998",
+   "title": "Hotărârea Guvernului nr. 121/1998 privind aprobarea unui amendament la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, încheiat la Washington la 15 iunie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14391",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14391",
+     "sha256": "78e99d2c02bb6df19f3bebf4c1c318e9881aa54ff25cc911020a39f78c92923b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-122-1998",
+   "path": "hg/1998/122",
+   "short": "HG nr. 122/1998",
+   "title": "Hotărârea Guvernului nr. 122/1998 pentru aprobarea unui amendament la Acordul de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 23 mai 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14393",
+   "versions": [
+    {
+     "from": "1998-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14393",
+     "sha256": "512a807a5066e2201d6849c28e1831a6637b1b765a482b2c0cdd258ce5f9a605"
+    }
+   ]
+  },
+  {
    "slug": "hg-123-1998",
    "path": "hg/1998/123",
    "short": "HG nr. 123/1998",
@@ -389,6 +554,96 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14395",
      "sha256": "3d88a7f3090b375895a6e7ac731b805fbc0302dd7ea18e989bfe1188dd56e016"
+    }
+   ]
+  },
+  {
+   "slug": "hg-124-1998",
+   "path": "hg/1998/124",
+   "short": "HG nr. 124/1998",
+   "title": "Hotărârea Guvernului nr. 124/1998 pentru aprobarea Programului de participare a României cu pavilion naţional la târguri şi expoziţii internaţionale în anul 1998, cu finanţare de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14397",
+   "versions": [
+    {
+     "from": "1998-03-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14397",
+     "sha256": "a7185d8849d455355c85843ce8b2acca983fba48273a25dedb22e249199adf58"
+    }
+   ]
+  },
+  {
+   "slug": "hg-125-1998",
+   "path": "hg/1998/125",
+   "short": "HG nr. 125/1998",
+   "title": "Hotărârea Guvernului nr. 125/1998 privind aprobarea unor cheltuieli pentru evacuarea temporară a personalului neangajat al Ambasadei României la Bagdad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14399",
+   "versions": [
+    {
+     "from": "1998-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14399",
+     "sha256": "d58c9f992d6d06ba8a7b7da38bbed5c016a6e8d8db8632fcf1972400a98ba81e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-126-1998",
+   "path": "hg/1998/126",
+   "short": "HG nr. 126/1998",
+   "title": "Hotărârea Guvernului nr. 126/1998 privind transmiterea unei construcţii şi a terenului aferent, proprietate publică a statului, situate în comuna Podu Turcului, judeţul Bacău, în administrarea Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14401",
+   "versions": [
+    {
+     "from": "1998-03-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14401",
+     "sha256": "c5f07bd3024f3a8bf842bc81b8613ae6d84af18920568b4d1e8a9e2b90356894"
+    }
+   ]
+  },
+  {
+   "slug": "hg-128-1998",
+   "path": "hg/1998/128",
+   "short": "HG nr. 128/1998",
+   "title": "Hotărârea Guvernului nr. 128/1998 privind acordarea unui ajutor de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14407",
+   "versions": [
+    {
+     "from": "1998-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14407",
+     "sha256": "1b3570470994ebe500d894d14903a5ce81cb2af9a2464d493dfc2977d3640283"
+    }
+   ]
+  },
+  {
+   "slug": "hg-129-1998",
+   "path": "hg/1998/129",
+   "short": "HG nr. 129/1998",
+   "title": "Hotărârea Guvernului nr. 129/1998 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14408",
+   "versions": [
+    {
+     "from": "1998-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14408",
+     "sha256": "2b80594e6b638e0a66f3ef70f3a5c236af93fab23abe6388f3f65263d80f96ca"
+    }
+   ]
+  },
+  {
+   "slug": "hg-13-1998",
+   "path": "hg/1998/13",
+   "short": "HG nr. 13/1998",
+   "title": "Hotărârea Guvernului nr. 13/1998 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14032",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14032",
+     "sha256": "b66c7cb06a0fd161306919e30e894ab58560c45f5cdad9e18f2828966f715b72"
     }
    ]
   },
@@ -438,6 +693,51 @@
    ]
   },
   {
+   "slug": "hg-134-1998",
+   "path": "hg/1998/134",
+   "short": "HG nr. 134/1998",
+   "title": "Hotărârea Guvernului nr. 134/1998 privind organizarea şi funcţionarea Ministerului Culturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14415",
+   "versions": [
+    {
+     "from": "1998-03-19",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14415",
+     "sha256": "23ad1a28ccce8378c3b229ca5c32118a3619953cb3fae93a80cdaeb4a5289267"
+    }
+   ]
+  },
+  {
+   "slug": "hg-135-1998",
+   "path": "hg/1998/135",
+   "short": "HG nr. 135/1998",
+   "title": "Hotărârea Guvernului nr. 135/1998 privind aprobarea Regulamentului de compensare a datoriilor nerambursate la scadenţă ale agenţilor economici din industrie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14549",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14549",
+     "sha256": "6aa58381d31ca4730de2bc297640b107dc1d1a9b9e7700dbad03856a4f091290"
+    }
+   ]
+  },
+  {
+   "slug": "hg-136-1998",
+   "path": "hg/1998/136",
+   "short": "HG nr. 136/1998",
+   "title": "Hotărârea Guvernului nr. 136/1998 privind eliberarea din funcţia de prefect al judeţului Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14416",
+   "versions": [
+    {
+     "from": "1998-03-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14416",
+     "sha256": "db2ba2547d47983e8b0a0495856d402bc2c14b5565b54da9ac3488f37263d9ad"
+    }
+   ]
+  },
+  {
    "slug": "hg-137-1998",
    "path": "hg/1998/137",
    "short": "HG nr. 137/1998",
@@ -464,6 +764,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14418",
      "sha256": "4acfd98d6a50bd08eb95a01e88bac52268be711bd681f3b1a325df6061820b84"
+    }
+   ]
+  },
+  {
+   "slug": "hg-140-1998",
+   "path": "hg/1998/140",
+   "short": "HG nr. 140/1998",
+   "title": "Hotărârea Guvernului nr. 140/1998 pentru aprobarea Strategiei de privatizare a societăţilor comerciale pentru anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14419",
+   "versions": [
+    {
+     "from": "1998-04-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14419",
+     "sha256": "01f60d07511eaa6337ceb481444d6ffa139545817f6045ec70f04f593e7b3bec"
+    }
+   ]
+  },
+  {
+   "slug": "hg-142-1998",
+   "path": "hg/1998/142",
+   "short": "HG nr. 142/1998",
+   "title": "Hotărârea Guvernului nr. 142/1998 privind scoaterea definitivă din circuitul agricol a terenului agricol în suprafaţa de 32.500 mp, pentru realizarea obiectivului de investiţii \"Staţie de betoane şi mixturi asfaltice\", în comuna Giroc, judeţul Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14421",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14421",
+     "sha256": "ae0552945fd07e5aa678d7f9ee9bbd9e6b83ac5b56a770ecc5b33e512cd098f0"
     }
    ]
   },
@@ -543,6 +873,21 @@
    ]
   },
   {
+   "slug": "hg-148-1998",
+   "path": "hg/1998/148",
+   "short": "HG nr. 148/1998",
+   "title": "Hotărârea Guvernului nr. 148/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizare depozit de deşeuri menajere în oraşul Luduş, judeţul Mureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14428",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14428",
+     "sha256": "d223c70e862fe37091d2d79a7084fc49327f1c156e30ca53b0fb4e41040d396f"
+    }
+   ]
+  },
+  {
    "slug": "hg-149-1998",
    "path": "hg/1998/149",
    "short": "HG nr. 149/1998",
@@ -588,6 +933,36 @@
    ]
   },
   {
+   "slug": "hg-151-1998",
+   "path": "hg/1998/151",
+   "short": "HG nr. 151/1998",
+   "title": "Hotărârea Guvernului nr. 151/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentare cu apa în oraşul Abrud, judeţul Alba\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14431",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14431",
+     "sha256": "68acb23aab60eb212ae8f809a62ecdd319827fe2d8c0464335eec2d65f7c6cd9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-152-1998",
+   "path": "hg/1998/152",
+   "short": "HG nr. 152/1998",
+   "title": "Hotărârea Guvernului nr. 152/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Retehnologizarea Staţiei de epurare din municipiul Sfîntu Gheorghe, judeţul Covasna\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14432",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14432",
+     "sha256": "de3dbf08a532b42262218280afc4aa7dde5006f6626d0aa3e878d21ebe815758"
+    }
+   ]
+  },
+  {
    "slug": "hg-153-1998",
    "path": "hg/1998/153",
    "short": "HG nr. 153/1998",
@@ -599,6 +974,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14433",
      "sha256": "afcdf82b849d565e594ebaf6fddaf9443cd208ad74b131641f25681de7d70605"
+    }
+   ]
+  },
+  {
+   "slug": "hg-154-1998",
+   "path": "hg/1998/154",
+   "short": "HG nr. 154/1998",
+   "title": "Hotărârea Guvernului nr. 154/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentare cu apa în comuna Bertea, judeţul Prahova\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14434",
+   "versions": [
+    {
+     "from": "1998-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14434",
+     "sha256": "fa838371fa21715f0fb8d5c349385f7584908b124ed0a5b2dd7f04852910da89"
     }
    ]
   },
@@ -684,6 +1074,21 @@
    ]
   },
   {
+   "slug": "hg-162-1998",
+   "path": "hg/1998/162",
+   "short": "HG nr. 162/1998",
+   "title": "Hotărârea Guvernului nr. 162/1998 privind înfiinţarea Centrului \"Eudoxiu Hurmuzachi\" pentru Românii de Pretutindeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14439",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14439",
+     "sha256": "63377bf1ba5423c48dd62bf1475eb9f3fd267611dae66dd5c52d3e8d443b0e41"
+    }
+   ]
+  },
+  {
    "slug": "hg-163-1998",
    "path": "hg/1998/163",
    "short": "HG nr. 163/1998",
@@ -695,6 +1100,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14440",
      "sha256": "7f2bcbaaa7ad0c32b929f30dd3347fd854eba5fc23c4ce8ef361fa8ca00be78e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-164-1998",
+   "path": "hg/1998/164",
+   "short": "HG nr. 164/1998",
+   "title": "Hotărârea Guvernului nr. 164/1998 privind modificarea prevederilor Hotărârii Guvernului nr. 3/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14441",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14441",
+     "sha256": "43c24a1a53ad64c2f2f1ea91f2927d30c2a962e6b6e3aeb11815529aaa111c49"
     }
    ]
   },
@@ -759,6 +1179,21 @@
    ]
   },
   {
+   "slug": "hg-17-1998",
+   "path": "hg/1998/17",
+   "short": "HG nr. 17/1998",
+   "title": "Hotărârea Guvernului nr. 17/1998 pentru aprobarea rectificării bugetelor de venituri şi cheltuieli pe anul 1997 ale institutelor naţionale de cercetare-dezvoltare aflate în coordonarea Ministerului Cercetării şi Tehnologiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14052",
+   "versions": [
+    {
+     "from": "1998-01-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14052",
+     "sha256": "df8c82fab98e8ae2d0384ca31aa5ee7c2a9346f123a6febbf9684c4d63efbfe6"
+    }
+   ]
+  },
+  {
    "slug": "hg-170-1998",
    "path": "hg/1998/170",
    "short": "HG nr. 170/1998",
@@ -770,6 +1205,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14449",
      "sha256": "21a2549cc44c44f91617a58f90f15597aad3463f11214afa17d087b6981a5109"
+    }
+   ]
+  },
+  {
+   "slug": "hg-171-1998",
+   "path": "hg/1998/171",
+   "short": "HG nr. 171/1998",
+   "title": "Hotărârea Guvernului nr. 171/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea sistemului de producere şi distribuţie a energiei termice în ansambluri de locuinţe din municipiul Târgu Mureş, etapa I - cartierul Aleea Carpaţi, judeţul Mureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14450",
+   "versions": [
+    {
+     "from": "1998-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14450",
+     "sha256": "4a9f4a9f830839b90d42424101dac181dbbe27da658709484ee973306f63727a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-172-1998",
+   "path": "hg/1998/172",
+   "short": "HG nr. 172/1998",
+   "title": "Hotărârea Guvernului nr. 172/1998 privind derularea Programului CEEPUS în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14451",
+   "versions": [
+    {
+     "from": "1998-03-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14451",
+     "sha256": "acdaa9c0dd52c6620586707fd77e690bee5d054663b6dd64a49554074e8a3e78"
+    }
+   ]
+  },
+  {
+   "slug": "hg-173-1998",
+   "path": "hg/1998/173",
+   "short": "HG nr. 173/1998",
+   "title": "Hotărârea Guvernului nr. 173/1998 privind măsuri de protecţie socială aplicabile pensiilor şi altor drepturi de asigurări sociale, alocaţiilor de stat pentru copii, precum şi altor venituri ale populaţiei în anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14452",
+   "versions": [
+    {
+     "from": "1998-03-30",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14452",
+     "sha256": "5072b9f03badaa1d7d04c022f28c2f6879c5012e92b9ba243c13e242ed04e39d"
     }
    ]
   },
@@ -969,6 +1449,21 @@
    ]
   },
   {
+   "slug": "hg-187-1998",
+   "path": "hg/1998/187",
+   "short": "HG nr. 187/1998",
+   "title": "Hotărârea Guvernului nr. 187/1998 pentru aprobarea alocării unor fonduri necesare funcţionarii Consiliului Economic şi Social în perioada cuprinsă între data de 1 aprilie 1998 şi data intrării în vigoare a legii bugetului de stat pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14466",
+   "versions": [
+    {
+     "from": "1998-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14466",
+     "sha256": "1896ad29418eda546d823b9775d6311309efacafda7d69a62381a3d4783002cd"
+    }
+   ]
+  },
+  {
    "slug": "hg-188-1998",
    "path": "hg/1998/188",
    "short": "HG nr. 188/1998",
@@ -980,6 +1475,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14468",
      "sha256": "173e550378962aa19af474e0ef48989db7e71738c308a5d666ac914f98e9c70e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-189-1998",
+   "path": "hg/1998/189",
+   "short": "HG nr. 189/1998",
+   "title": "Hotărârea Guvernului nr. 189/1998 pentru acordarea cetăţeniei române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14469",
+   "versions": [
+    {
+     "from": "1998-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14469",
+     "sha256": "5a46271c61099a279796662d82686cad2659186ecbdfca4aeb341dbccd09ecf2"
     }
    ]
   },
@@ -1010,6 +1520,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14470",
      "sha256": "4d005ce41cbcf625d60c9d53a9b99629157baafe5c4446f9b292cac59da0d58a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-191-1998",
+   "path": "hg/1998/191",
+   "short": "HG nr. 191/1998",
+   "title": "Hotărârea Guvernului nr. 191/1998 privind înfiinţarea Centrului Naţional pentru Programul de Formare Profesională \"Leonardo da Vinci\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14471",
+   "versions": [
+    {
+     "from": "1998-04-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14471",
+     "sha256": "1d46891452b62709836a8513c1434a560b41d005137878fa802d992c4c084e0f"
     }
    ]
   },
@@ -1074,6 +1599,21 @@
    ]
   },
   {
+   "slug": "hg-196-1998",
+   "path": "hg/1998/196",
+   "short": "HG nr. 196/1998",
+   "title": "Hotărârea Guvernului nr. 196/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în oraşul Slănic Prahova, judeţul Prahova\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14476",
+   "versions": [
+    {
+     "from": "1998-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14476",
+     "sha256": "edcf2c6fcc359bb99b30351b46a76efdc985f05877ab3fb6b1a34f4e74bd7275"
+    }
+   ]
+  },
+  {
    "slug": "hg-197-1998",
    "path": "hg/1998/197",
    "short": "HG nr. 197/1998",
@@ -1104,6 +1644,66 @@
    ]
   },
   {
+   "slug": "hg-199-1998",
+   "path": "hg/1998/199",
+   "short": "HG nr. 199/1998",
+   "title": "Hotărârea Guvernului nr. 199/1998 privind transmiterea lucrării \"Staţie de epurare\" din patrimoniul Regiei Autonome de Electricitate \"Renel\" în proprietatea comunei Berca, judeţul Buzău, şi în administrarea Consiliului Local al Comunei Berca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14479",
+   "versions": [
+    {
+     "from": "1998-04-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14479",
+     "sha256": "1cd8b03910d7bee485a4293641624043181381731aaa6888834d36c9088d4f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2-1998",
+   "path": "hg/1998/2",
+   "short": "HG nr. 2/1998",
+   "title": "Hotărârea Guvernului nr. 2/1998 pentru modificarea articolului 1 din Hotărârea Guvernului nr. 342/1997 privind modificarea componentei Comisiei mixte permanente româno-iugoslave pentru micul trafic de călători în zona de frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13927",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13927",
+     "sha256": "090c7a8cb9678495da6bc207006405e08e7dbaf3a105c0d635008d853610b737"
+    }
+   ]
+  },
+  {
+   "slug": "hg-20-1998",
+   "path": "hg/1998/20",
+   "short": "HG nr. 20/1998",
+   "title": "Hotărârea Guvernului nr. 20/1998 privind alocarea, din fondul la dispoziţia Guvernului, a sumei de 20 miliarde lei pentru finanţarea modernizării liniei de fabricăţie autoturisme la Societatea Comercială \"Autoturisme Dacia\" - S.A. Piteşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14070",
+   "versions": [
+    {
+     "from": "1998-01-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14070",
+     "sha256": "843e5cdb80ad8762b58b021f834fa5a160e48e9a2bfeb5a49b8280be35652731"
+    }
+   ]
+  },
+  {
+   "slug": "hg-200-1998",
+   "path": "hg/1998/200",
+   "short": "HG nr. 200/1998",
+   "title": "Hotărârea Guvernului nr. 200/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în oraşul Negreşti, judeţul Vaslui\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14480",
+   "versions": [
+    {
+     "from": "1998-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14480",
+     "sha256": "15ef61f31b1239d60e522b751c9e8d339bfc908c1d95a46d0a6d9f36194cb77f"
+    }
+   ]
+  },
+  {
    "slug": "hg-201-1998",
    "path": "hg/1998/201",
    "short": "HG nr. 201/1998",
@@ -1130,6 +1730,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14482",
      "sha256": "dd3894a3a2e300f76bdbd52d286ccc614f18ca20c71cd36a1004390fa53b80cd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-204-1998",
+   "path": "hg/1998/204",
+   "short": "HG nr. 204/1998",
+   "title": "Hotărârea Guvernului nr. 204/1998 pentru aprobarea Normelor metodologice privind acordarea ajutoarelor pentru procurarea de dispozitive medicale, precum şi pentru gestionarea fondurilor din care se suporta acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14550",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14550",
+     "sha256": "249148136b203ff345b6762030a37c5b04e3cae4f8e992b82cad1a42796785f3"
     }
    ]
   },
@@ -1209,6 +1824,21 @@
    ]
   },
   {
+   "slug": "hg-21-1998",
+   "path": "hg/1998/21",
+   "short": "HG nr. 21/1998",
+   "title": "Hotărârea Guvernului nr. 21/1998 privind stabilirea cotei majorărilor de întârziere datorate pentru neplata la termen a obligaţiilor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14076",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14076",
+     "sha256": "8e61a00edf64bc603fca4b33348102a0f5702cde02571d2daa4cce960741b17f"
+    }
+   ]
+  },
+  {
    "slug": "hg-210-1998",
    "path": "hg/1998/210",
    "short": "HG nr. 210/1998",
@@ -1239,6 +1869,21 @@
    ]
   },
   {
+   "slug": "hg-213-1998",
+   "path": "hg/1998/213",
+   "short": "HG nr. 213/1998",
+   "title": "Hotărârea Guvernului nr. 213/1998 privind numirea în funcţia de prefect al judeţului Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14491",
+   "versions": [
+    {
+     "from": "1998-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14491",
+     "sha256": "74a7eb5f48df1028b2db162f078879db6082aff3415e7ab5350ab081aa2a02e6"
+    }
+   ]
+  },
+  {
    "slug": "hg-214-1998",
    "path": "hg/1998/214",
    "short": "HG nr. 214/1998",
@@ -1254,6 +1899,36 @@
    ]
   },
   {
+   "slug": "hg-216-1998",
+   "path": "hg/1998/216",
+   "short": "HG nr. 216/1998",
+   "title": "Hotărârea Guvernului nr. 216/1998 privind organizarea în România, în anul 1998, a celei de-a 5-a Conferinţe a Miniştrilor de Tineret din Europa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14539",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14539",
+     "sha256": "8bb27b4016775041fb46965878b5c522c649eedbbc183ed2351d607b524520ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-217-1998",
+   "path": "hg/1998/217",
+   "short": "HG nr. 217/1998",
+   "title": "Hotărârea Guvernului nr. 217/1998 cu privire la condiţiile de obţinere a atestatului, procedurile de atestare şi statutul asistentului maternal profesionist",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14540",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14540",
+     "sha256": "b24691e18d3cca5672e3c250c446103213259db1850e08cb83ba10f49ce0de04"
+    }
+   ]
+  },
+  {
    "slug": "hg-218-1998",
    "path": "hg/1998/218",
    "short": "HG nr. 218/1998",
@@ -1265,6 +1940,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14493",
      "sha256": "45ec2e98c9776fdc249bd94ef87a4700fd20d09da3941d07f9e13c1609386988"
+    }
+   ]
+  },
+  {
+   "slug": "hg-219-1998",
+   "path": "hg/1998/219",
+   "short": "HG nr. 219/1998",
+   "title": "Hotărârea Guvernului nr. 219/1998 pentru modificarea anexei nr. 2 la Regulamentul-cadru privind autorizarea, organizarea şi exploatarea jocurilor de noroc, precum şi actualizarea tarifelor de licenţa percepute acestora, aprobat prin Hotărârea Guvernului nr. 130/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14494",
+   "versions": [
+    {
+     "from": "1998-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14494",
+     "sha256": "778beda89b5abf64f7330590f2954b7eebcada890f4eee13433b07037732b017"
     }
    ]
   },
@@ -1310,6 +2000,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14497",
      "sha256": "98b7699064ffbb20419cac320579d0cb41291b24312ef9347d857cf289b7fa3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-223-1998",
+   "path": "hg/1998/223",
+   "short": "HG nr. 223/1998",
+   "title": "Hotărârea Guvernului nr. 223/1998 privind aprobarea cifrei de şcolarizare pentru anul şcolar 1998/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14551",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14551",
+     "sha256": "5de87d6c5ad5dd7712d62ad5dc31d879e80432d9b651bc04b2f9bb6fc15166ec"
     }
    ]
   },
@@ -1539,6 +2244,21 @@
    ]
   },
   {
+   "slug": "hg-24-1998",
+   "path": "hg/1998/24",
+   "short": "HG nr. 24/1998",
+   "title": "Hotărârea Guvernului nr. 24/1998 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 1997 al Regiei Autonome \"Unifarm\", regie autonomă de interes naţional de sub autoritatea Ministerului Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14092",
+   "versions": [
+    {
+     "from": "1998-01-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14092",
+     "sha256": "ac554ee70a639292118ac0bb632d3d3cfa603b270ecdf7d700b0cf7ef3584491"
+    }
+   ]
+  },
+  {
    "slug": "hg-240-1998",
    "path": "hg/1998/240",
    "short": "HG nr. 240/1998",
@@ -1550,6 +2270,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14564",
      "sha256": "df434ec3a4ee5212bd6016b321500b347c82b4f9cc484d44d27e1a54fb90d82d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-241-1998",
+   "path": "hg/1998/241",
+   "short": "HG nr. 241/1998",
+   "title": "Hotărârea Guvernului nr. 241/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţare distribuţie de gaze naturale în satele Ruginoasa, Dumbrăviţa şi Rediu, comuna Ruginoasa, judeţul Iaşi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14565",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14565",
+     "sha256": "df0645400aa1b7435ee4b6b69806d5333bca2af90fe4bd36600f487d70b6e0f0"
     }
    ]
   },
@@ -1580,6 +2315,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14567",
      "sha256": "54e30f548270587677a80dc246de507f493e9102833d5377f74a5d9f7de26a12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-244-1998",
+   "path": "hg/1998/244",
+   "short": "HG nr. 244/1998",
+   "title": "Hotărârea Guvernului nr. 244/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţare distribuţie gaze naturale în satele Ruşeţu şi Sergent Ionel Ştefan, comuna Ruşeţu, judeţul Buzău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14568",
+   "versions": [
+    {
+     "from": "1998-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14568",
+     "sha256": "428be881723e5baaad29da7901ff878628fcf4beef03882c69a16d33e36743f2"
     }
    ]
   },
@@ -1719,6 +2469,21 @@
    ]
   },
   {
+   "slug": "hg-255-1998",
+   "path": "hg/1998/255",
+   "short": "HG nr. 255/1998",
+   "title": "Hotărârea Guvernului nr. 255/1998 pentru aprobarea actului adiţional la Contractul de explorare, dezvoltare şi împărţire a producţiei din perimetrul 6 Moineşti, aprobat prin Hotărârea Guvernului nr. 341/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14720",
+   "versions": [
+    {
+     "from": "1998-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14720",
+     "sha256": "0b1b8155f4fdf4c29b10f8848f4302119726114f1253cfc839889ee1c3b4d263"
+    }
+   ]
+  },
+  {
    "slug": "hg-256-1998",
    "path": "hg/1998/256",
    "short": "HG nr. 256/1998",
@@ -1760,6 +2525,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14676",
      "sha256": "09d26778c4ff79293e59ae9eb7811cf1c1033d63a38c8770690cc4dbd81ba609"
+    }
+   ]
+  },
+  {
+   "slug": "hg-259-1998",
+   "path": "hg/1998/259",
+   "short": "HG nr. 259/1998",
+   "title": "Hotărârea Guvernului nr. 259/1998 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14716",
+   "versions": [
+    {
+     "from": "1998-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14716",
+     "sha256": "838193d50f4f001b19f3f3b9ca8c437f162ff485c0554022d4967fe1209cf8d8"
     }
    ]
   },
@@ -1809,6 +2589,21 @@
    ]
   },
   {
+   "slug": "hg-263-1998",
+   "path": "hg/1998/263",
+   "short": "HG nr. 263/1998",
+   "title": "Hotărârea Guvernului nr. 263/1998 privind procedurile şi modalităţile de plată aferente majorării capitalului autorizat al României la Banca Europeană pentru Reconstrucţie şi Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14705",
+   "versions": [
+    {
+     "from": "1998-05-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14705",
+     "sha256": "9fb84027031030ec0464745db8f10804e9c9656825bf8120ef8100169149f01d"
+    }
+   ]
+  },
+  {
    "slug": "hg-264-1998",
    "path": "hg/1998/264",
    "short": "HG nr. 264/1998",
@@ -1824,6 +2619,21 @@
    ]
   },
   {
+   "slug": "hg-265-1998",
+   "path": "hg/1998/265",
+   "short": "HG nr. 265/1998",
+   "title": "Hotărârea Guvernului nr. 265/1998 privind alocarea unor fonduri din bugetul de stat pe anul 1998 pentru sărbătorirea a 150 de ani de la desfăşurarea Marii Adunări Naţionale din 3-15 mai 1848 de pe Câmpia Libertăţii de la Blaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14680",
+   "versions": [
+    {
+     "from": "1998-05-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14680",
+     "sha256": "fd1f15dd0de3e7f72b7b33798268bb293d66242e5c47a97b60a76b8ef891f984"
+    }
+   ]
+  },
+  {
    "slug": "hg-266-1998",
    "path": "hg/1998/266",
    "short": "HG nr. 266/1998",
@@ -1835,6 +2645,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14706",
      "sha256": "65cb66b41443ba2e2e3ed4f02d0b295fbd207de20a77e82c8405a0bd1dab3504"
+    }
+   ]
+  },
+  {
+   "slug": "hg-267-1998",
+   "path": "hg/1998/267",
+   "short": "HG nr. 267/1998",
+   "title": "Hotărârea Guvernului nr. 267/1998 privind împuternicirea Ministerului Lucrărilor Publice şi Amenajării Teritoriului de a solicita date referitoare la situaţia imobilelor cu destinaţia de locuinţe, trecute în proprietatea statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14710",
+   "versions": [
+    {
+     "from": "1998-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14710",
+     "sha256": "55ccfeea99261905f3e267c77b4efc64182b70fcf2cfa658e181aff7ae708313"
     }
    ]
   },
@@ -2034,6 +2859,21 @@
    ]
   },
   {
+   "slug": "hg-28-1998",
+   "path": "hg/1998/28",
+   "short": "HG nr. 28/1998",
+   "title": "Hotărârea Guvernului nr. 28/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în comuna Petreşti, judeţul Dâmboviţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14116",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14116",
+     "sha256": "007c72b7933f7c3a1e4d0787b692a49c44b2a300716ab13acf4d23d690c558fd"
+    }
+   ]
+  },
+  {
    "slug": "hg-280-1998",
    "path": "hg/1998/280",
    "short": "HG nr. 280/1998",
@@ -2060,6 +2900,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14795",
      "sha256": "0d3fbfe1469e7cce4a83bcb3e22c87a4fbffb18b4b1d3eedca3d0c2a28e8521b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-282-1998",
+   "path": "hg/1998/282",
+   "short": "HG nr. 282/1998",
+   "title": "Hotărârea Guvernului nr. 282/1998 privind înfiinţarea societăţilor comerciale \"Agertrans\" - S.A. Constanţa, \"Repec\" - S.A. Ovidiu şi \"Cons-Canal\" - S.A. Basarabi prin divizarea parţială a Regiei Autonome \"Administraţia Canalelor Navigabile\" Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15001",
+   "versions": [
+    {
+     "from": "1998-06-15",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15001",
+     "sha256": "264656f645aa0853d81a6b5b69e03219f01d8b008db6ddbdcda6b41f1c8c453f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-283-1998",
+   "path": "hg/1998/283",
+   "short": "HG nr. 283/1998",
+   "title": "Hotărârea Guvernului nr. 283/1998 privind înfiinţarea societăţilor comerciale \"Resalv\" - S.A. Galaţi \"Fluvdrag\" - S.A. Giurgiu şi \"Draf\" - S.A. Brăila prin divizarea parţială a Regiei Autonome \"Administraţia Fluviala a Dunării de Jos\" Galaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14910",
+   "versions": [
+    {
+     "from": "1998-06-15",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14910",
+     "sha256": "c5a3d4b62eeb72bf33cf47f14d56bab89e683bc42b57832d7c7c7541483247b0"
     }
    ]
   },
@@ -2109,6 +2979,21 @@
    ]
   },
   {
+   "slug": "hg-287-1998",
+   "path": "hg/1998/287",
+   "short": "HG nr. 287/1998",
+   "title": "Hotărârea Guvernului nr. 287/1998 privind aprobarea Regulamentului de organizare şi funcţionare a Comisiei Naţionale pentru Controlul Activităţilor Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14895",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14895",
+     "sha256": "fc85cb812ff880f249c631c62f020da74989e44eca76cbc698406ca87b66e97e"
+    }
+   ]
+  },
+  {
    "slug": "hg-288-1998",
    "path": "hg/1998/288",
    "short": "HG nr. 288/1998",
@@ -2135,6 +3020,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14954",
      "sha256": "0b1bed3cf63c18bef44a1e6578729221c6bf5d2a47d0ddc939d7a60e513ec028"
+    }
+   ]
+  },
+  {
+   "slug": "hg-29-1998",
+   "path": "hg/1998/29",
+   "short": "HG nr. 29/1998",
+   "title": "Hotărârea Guvernului nr. 29/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Îmbunătăţirea alimentării cu apa a satului Bordeni, comuna Scorţeni, judeţul Prahova\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14121",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14121",
+     "sha256": "f530a4ca23e60fe52f7609309e393d5fdebce15600a5c294a21087cd0e296066"
     }
    ]
   },
@@ -2259,6 +3159,21 @@
    ]
   },
   {
+   "slug": "hg-299-1998",
+   "path": "hg/1998/299",
+   "short": "HG nr. 299/1998",
+   "title": "Hotărârea Guvernului nr. 299/1998 pentru completarea anexei la Hotărârea Guvernului nr. 118/1998 pentru aprobarea mandatului Fondului Proprietăţii de Stat privind negocierea actului adiţional la contractul de vânzare-cumpărare a unui pachet de acţiuni deţinute de stat la Societatea Comercială \"I.M.G.B.\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14840",
+   "versions": [
+    {
+     "from": "1998-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14840",
+     "sha256": "776855687f87a90f304f5b5cb80e7467b9a7be210a90eb48cc3ec0fc380b3a7c"
+    }
+   ]
+  },
+  {
    "slug": "hg-3-1998",
    "path": "hg/1998/3",
    "short": "HG nr. 3/1998",
@@ -2274,6 +3189,21 @@
    ]
   },
   {
+   "slug": "hg-30-1998",
+   "path": "hg/1998/30",
+   "short": "HG nr. 30/1998",
+   "title": "Hotărârea Guvernului nr. 30/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Staţie de epurare şi canalizare a apelor menajere din localitatea Peciu Nou, comuna Peciu Nou, judeţul Timiş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14125",
+   "versions": [
+    {
+     "from": "1998-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14125",
+     "sha256": "4bdd77a388b71f295183aff7815cc898db3903005c523dbdda3a8502ed2c9859"
+    }
+   ]
+  },
+  {
    "slug": "hg-300-1998",
    "path": "hg/1998/300",
    "short": "HG nr. 300/1998",
@@ -2285,6 +3215,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14893",
      "sha256": "fd8cb2d6f8e80f13debdcad6d4d7b689b492cac3843af0ec795d1c6b31d46ead"
+    }
+   ]
+  },
+  {
+   "slug": "hg-301-1998",
+   "path": "hg/1998/301",
+   "short": "HG nr. 301/1998",
+   "title": "Hotărârea Guvernului nr. 301/1998 privind profilurile, specializările, durata studiilor, precum şi titlurile obţinute de absolvenţii învăţământului universitar, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14894",
+   "versions": [
+    {
+     "from": "1998-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14894",
+     "sha256": "5a9f06d8f9002d7a7c1b2c74541bc3ffa06783e626a271777c9441ee479a1bf1"
     }
    ]
   },
@@ -2394,6 +3339,21 @@
    ]
   },
   {
+   "slug": "hg-31-1998",
+   "path": "hg/1998/31",
+   "short": "HG nr. 31/1998",
+   "title": "Hotărârea Guvernului nr. 31/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea străzii Gheorghe Grigore Cantacuzino din municipiul Ploieşti, judeţul Prahova\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14130",
+   "versions": [
+    {
+     "from": "1998-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14130",
+     "sha256": "fa404a16c44a5c6b787796ba2904db09e5454db990cf6d48863a90782bbb818c"
+    }
+   ]
+  },
+  {
    "slug": "hg-310-1998",
    "path": "hg/1998/310",
    "short": "HG nr. 310/1998",
@@ -2405,6 +3365,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14920",
      "sha256": "442f3461cd0d4aa63b780612e5c0459078f9d05d0c0a97cd267586d59c2f7ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-311-1998",
+   "path": "hg/1998/311",
+   "short": "HG nr. 311/1998",
+   "title": "Hotărârea Guvernului nr. 311/1998 privind organizarea şi funcţionarea Oficiului Naţional al Cinematografiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14904",
+   "versions": [
+    {
+     "from": "1998-06-17",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14904",
+     "sha256": "6312cea234ac309b3c3ca963e85578ba551a6218cab38e67863ec01740df090a"
     }
    ]
   },
@@ -2465,6 +3440,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14908",
      "sha256": "cc26a30758483f08ac959c348e70f738518f014873715c06701e5311a17a6684"
+    }
+   ]
+  },
+  {
+   "slug": "hg-316-1998",
+   "path": "hg/1998/316",
+   "short": "HG nr. 316/1998",
+   "title": "Hotărârea Guvernului nr. 316/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentare cu apa în comuna Teliu, judeţul Braşov\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15031",
+   "versions": [
+    {
+     "from": "1998-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15031",
+     "sha256": "1c5861174846fac08118c95d808f7c7ad89fc6b2ba144123dbb5314a7e8f8386"
+    }
+   ]
+  },
+  {
+   "slug": "hg-317-1998",
+   "path": "hg/1998/317",
+   "short": "HG nr. 317/1998",
+   "title": "Hotărârea Guvernului nr. 317/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Canalizare menajera în comuna Sanmartin, judeţul Harghita\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15033",
+   "versions": [
+    {
+     "from": "1998-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15033",
+     "sha256": "744fdc6095002f416058315a83d566e46b90741c22019929f0ac0eb1a632af0c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-318-1998",
+   "path": "hg/1998/318",
+   "short": "HG nr. 318/1998",
+   "title": "Hotărârea Guvernului nr. 318/1998 privind aprobarea instrucţiunilor de metrologie legală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15061",
+   "versions": [
+    {
+     "from": "1998-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15061",
+     "sha256": "398291d0d7ddb117e9075f3ee65a6846f8c7cc95b815b9a02fdb4d3c2e778174"
     }
    ]
   },
@@ -2724,6 +3744,36 @@
    ]
   },
   {
+   "slug": "hg-337-1998",
+   "path": "hg/1998/337",
+   "short": "HG nr. 337/1998",
+   "title": "Hotărârea Guvernului nr. 337/1998 privind reorganizarea şi funcţionarea Arhivei Naţionale de Filme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15171",
+   "versions": [
+    {
+     "from": "1998-07-08",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15171",
+     "sha256": "b42516e2427aa3f27530349ac9935249c750c231f86733c5545fdf972165ebfa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-338-1998",
+   "path": "hg/1998/338",
+   "short": "HG nr. 338/1998",
+   "title": "Hotărârea Guvernului nr. 338/1998 pentru aprobarea mandatului Fondului Proprietăţii de Stat privind condiţiile de negociere pentru privatizarea Societăţii Naţionale de Telecomunicaţii \"Romtelecom\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15096",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15096",
+     "sha256": "3d5baeeeb0a0225749d3ce05743db12dc91f9836a49b11c16a00f823e9bd9172"
+    }
+   ]
+  },
+  {
    "slug": "hg-339-1998",
    "path": "hg/1998/339",
    "short": "HG nr. 339/1998",
@@ -2735,6 +3785,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15069",
      "sha256": "64ee5eb5df8bad6de353741ccdcfd105e4f314ff8554d53bfb669dee9e8aa41f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-34-1998",
+   "path": "hg/1998/34",
+   "short": "HG nr. 34/1998",
+   "title": "Hotărârea Guvernului nr. 34/1998 privind numirea în funcţia de prefect al judeţului Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14146",
+   "versions": [
+    {
+     "from": "1998-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14146",
+     "sha256": "7c53746c78eda9cf40b6d8efdf92d4e9093bac1de4779beba673349715f922b8"
     }
    ]
   },
@@ -2829,6 +3894,21 @@
    ]
   },
   {
+   "slug": "hg-346-1998",
+   "path": "hg/1998/346",
+   "short": "HG nr. 346/1998",
+   "title": "Hotărârea Guvernului nr. 346/1998 privind transferul unui avion al Companiei Române de Aviaţie \"Romavia\" - R.A. în administrarea Universităţii din Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15119",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15119",
+     "sha256": "755466d93fe86721126d161c72e4e03f2dd0c7cdfa557538d19a8a3e3f1f4bc8"
+    }
+   ]
+  },
+  {
    "slug": "hg-347-1998",
    "path": "hg/1998/347",
    "short": "HG nr. 347/1998",
@@ -2844,6 +3924,21 @@
    ]
   },
   {
+   "slug": "hg-348-1998",
+   "path": "hg/1998/348",
+   "short": "HG nr. 348/1998",
+   "title": "Hotărârea Guvernului nr. 348/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Amenajare construcţii pentru învăţământ universitar, bloc S 200, calea Bucureşti, la Universitatea Craiova, judeţul Dolj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15169",
+   "versions": [
+    {
+     "from": "1998-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15169",
+     "sha256": "59a82b3854ccaa700ec5073fc1a8abab4045e94df103304745466f5c6e4fad39"
+    }
+   ]
+  },
+  {
    "slug": "hg-349-1998",
    "path": "hg/1998/349",
    "short": "HG nr. 349/1998",
@@ -2855,6 +3950,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15123",
      "sha256": "b3ca8c5590452e9aff6d9765761cc097b3dfd0a7a4cf444ecf2ccd957476f4f2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-35-1998",
+   "path": "hg/1998/35",
+   "short": "HG nr. 35/1998",
+   "title": "Hotărârea Guvernului nr. 35/1998 cu privire la plafoanele pe baza cărora se calculează costurile salariale directe la contractele de finanţare încheiate cu Ministerul Cercetării şi Tehnologiei din fonduri bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14151",
+   "versions": [
+    {
+     "from": "1998-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14151",
+     "sha256": "bdff6aba726f0e083945e8f921ab84620e330e161189270adbfdb64b81a5e57a"
     }
    ]
   },
@@ -3009,6 +4119,66 @@
    ]
   },
   {
+   "slug": "hg-360-1998",
+   "path": "hg/1998/360",
+   "short": "HG nr. 360/1998",
+   "title": "Hotărârea Guvernului nr. 360/1998 privind unele măsuri pentru reorganizarea regiilor autonome de interes local care beneficiază de împrumuturi externe de la organismele financiare internaţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15091",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15091",
+     "sha256": "2e30cce870a97880e38ad0ca7f1380d2eaf20a2e9c5fa9f77f5a73c4553905c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-361-1998",
+   "path": "hg/1998/361",
+   "short": "HG nr. 361/1998",
+   "title": "Hotărârea Guvernului nr. 361/1998 privind modificarea şi completarea Hotărârii Guvernului nr. 55/1998 pentru aprobarea Normelor metodologice privind privatizarea societăţilor comerciale şi vânzarea de active, precum şi a Regulamentului de organizare şi funcţionare a Fondului Proprietăţii de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15092",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15092",
+     "sha256": "c01f7583fe9115cd902d0aef9b189f3889a763dcb0b316958bae2d9da49245bc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-362-1998",
+   "path": "hg/1998/362",
+   "short": "HG nr. 362/1998",
+   "title": "Hotărârea Guvernului nr. 362/1998 pentru aprobarea Strategiei de privatizare a societăţilor comerciale pentru anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15150",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15150",
+     "sha256": "81ff10938d60bdae694a13b62c64d2c1c7ee3b05599c11217d3a131f3c9f5ce7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-363-1998",
+   "path": "hg/1998/363",
+   "short": "HG nr. 363/1998",
+   "title": "Hotărârea Guvernului nr. 363/1998 privind aprobarea Programului de privatizare a societăţilor comerciale pentru anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15151",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15151",
+     "sha256": "223b9f12f4c487d6d264a0562d1dc399fd3971b708acc9ed1940b9905b147758"
+    }
+   ]
+  },
+  {
    "slug": "hg-364-1998",
    "path": "hg/1998/364",
    "short": "HG nr. 364/1998",
@@ -3024,6 +4194,36 @@
    ]
   },
   {
+   "slug": "hg-365-1998",
+   "path": "hg/1998/365",
+   "short": "HG nr. 365/1998",
+   "title": "Hotărârea Guvernului nr. 365/1998 privind înfiinţarea Companiei Naţionale de Electricitate - S.A., a Societăţii Naţionale \"Nuclearelectrica\" - S.A. şi a Regiei Autonome pentru Activităţi Nucleare prin reorganizarea Regiei Autonome de Electricitate \"Renel\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15142",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15142",
+     "sha256": "8e81cfedc92fe036441467d4ad54d23693b692d0810dfcbe52f7429fca2dd455"
+    }
+   ]
+  },
+  {
+   "slug": "hg-366-1998",
+   "path": "hg/1998/366",
+   "short": "HG nr. 366/1998",
+   "title": "Hotărârea Guvernului nr. 366/1998 privind acordarea unui ajutor de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15131",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15131",
+     "sha256": "61809c259fc61b2636c10b26ce3bb716f4d49c4150182534310a552452c0ace8"
+    }
+   ]
+  },
+  {
    "slug": "hg-367-1998",
    "path": "hg/1998/367",
    "short": "HG nr. 367/1998",
@@ -3035,6 +4235,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15178",
      "sha256": "812fee13a32369db860a818c3d921b7836858a2da78f323de7a5c41ce26c51fb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-369-1998",
+   "path": "hg/1998/369",
+   "short": "HG nr. 369/1998",
+   "title": "Hotărârea Guvernului nr. 369/1998 privind aprobarea programelor pentru sprijinirea revoluţionarilor din decembrie 1989 şi cinstirea eroilor-martiri ai Revoluţiei din Decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15133",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15133",
+     "sha256": "da584871c3f27a21deed7013ee410783715a6b296caf5eed1a7e04d2e0d6a307"
+    }
+   ]
+  },
+  {
+   "slug": "hg-37-1998",
+   "path": "hg/1998/37",
+   "short": "HG nr. 37/1998",
+   "title": "Hotărârea Guvernului nr. 37/1998 cu privire la importul de gaze naturale şi păcura, efectuat de Regia Autonomă de Electricitate \"Renel\" pentru anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14160",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14160",
+     "sha256": "acaba6dcedb2b23edb6e971be41bd7c40107e50d9365f52580f8def395ef54d4"
     }
    ]
   },
@@ -3174,6 +4404,21 @@
    ]
   },
   {
+   "slug": "hg-38-1998",
+   "path": "hg/1998/38",
+   "short": "HG nr. 38/1998",
+   "title": "Hotărârea Guvernului nr. 38/1998 privind transmiterea unui teren, proprietate publică a statului, situat în municipiul Bucureşti, în administrarea Regiei Autonome \"Romtehnica\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14164",
+   "versions": [
+    {
+     "from": "1998-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14164",
+     "sha256": "33bb17d9e98986862745485c379c9a5d9e216d79d5f6905829d504b5f4742101"
+    }
+   ]
+  },
+  {
    "slug": "hg-380-1998",
    "path": "hg/1998/380",
    "short": "HG nr. 380/1998",
@@ -3230,6 +4475,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15263",
      "sha256": "9771a5aaee68c5ad6dc8ae006a3d9b55e56f1626a5550caa526d756f254d3cd7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-384-1998",
+   "path": "hg/1998/384",
+   "short": "HG nr. 384/1998",
+   "title": "Hotărârea Guvernului nr. 384/1998 privind recunoaşterea etaloanelor naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15285",
+   "versions": [
+    {
+     "from": "1998-07-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15285",
+     "sha256": "b8ce9452c4dabc68dba372f4e7b616385e9dcb81179940e41316295f71a01e01"
     }
    ]
   },
@@ -3459,6 +4719,36 @@
    ]
   },
   {
+   "slug": "hg-399-1998",
+   "path": "hg/1998/399",
+   "short": "HG nr. 399/1998",
+   "title": "Hotărârea Guvernului nr. 399/1998 privind aprobarea decontării la intern a operaţiunilor aferente creditului comercial acordat României de către Guvernul Republicii Populare Chineze în baza acordului semnat la 8 iulie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15251",
+   "versions": [
+    {
+     "from": "1998-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15251",
+     "sha256": "d0a6f9eb3fc901b77eab8255a3b0a6b460bf58adce82aca90ee4501eea89eee5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-4-1998",
+   "path": "hg/1998/4",
+   "short": "HG nr. 4/1998",
+   "title": "Hotărârea Guvernului nr. 4/1998 privind eliberarea din funcţia de prefect al judeţului Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13958",
+   "versions": [
+    {
+     "from": "1998-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13958",
+     "sha256": "701cf9604aa0a9e6065fec898ea37aa986be0cbcf1456defcafdf184f8526276"
+    }
+   ]
+  },
+  {
    "slug": "hg-400-1998",
    "path": "hg/1998/400",
    "short": "HG nr. 400/1998",
@@ -3534,6 +4824,21 @@
    ]
   },
   {
+   "slug": "hg-406-1998",
+   "path": "hg/1998/406",
+   "short": "HG nr. 406/1998",
+   "title": "Hotărârea Guvernului nr. 406/1998 privind înfiinţarea Institutului Naţional de Cercetare-Dezvoltare pentru Protecţia Muncii - I.N.C.D.P.M. - Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15270",
+   "versions": [
+    {
+     "from": "1998-07-23",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15270",
+     "sha256": "33b10517b974e4e140580a49843412d4ec37dbefec1a74c492be6a68abe19c31"
+    }
+   ]
+  },
+  {
    "slug": "hg-408-1998",
    "path": "hg/1998/408",
    "short": "HG nr. 408/1998",
@@ -3560,6 +4865,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15273",
      "sha256": "1f02673fb95d8e27ee5e62b1849ebbb6f510a77e40a3587cb1e537475bb64b2d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-41-1998",
+   "path": "hg/1998/41",
+   "short": "HG nr. 41/1998",
+   "title": "Hotărârea Guvernului nr. 41/1998 pentru modificarea şi completarea art. 9 din Hotărârea Guvernului nr. 417/1991 privind constituirea Comitetului Român pentru Probleme de Migrari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14174",
+   "versions": [
+    {
+     "from": "1998-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14174",
+     "sha256": "2f892e2be93f620b08794f60a5f13904e0b196c37c25ec33a8391437f4ecdf7a"
     }
    ]
   },
@@ -3669,6 +4989,21 @@
    ]
   },
   {
+   "slug": "hg-417-1998",
+   "path": "hg/1998/417",
+   "short": "HG nr. 417/1998",
+   "title": "Hotărârea Guvernului nr. 417/1998 privind transmiterea Complexului \"Parc\" din administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" în administrarea Consiliului Judeţean Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15277",
+   "versions": [
+    {
+     "from": "1998-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15277",
+     "sha256": "52263849ae8d28185d42162a8ea67891a777efba9bc51c584fcc157508ee635d"
+    }
+   ]
+  },
+  {
    "slug": "hg-418-1998",
    "path": "hg/1998/418",
    "short": "HG nr. 418/1998",
@@ -3699,6 +5034,21 @@
    ]
   },
   {
+   "slug": "hg-42-1998",
+   "path": "hg/1998/42",
+   "short": "HG nr. 42/1998",
+   "title": "Hotărârea Guvernului nr. 42/1998 privind reorganizarea Departamentului Informaţiilor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14179",
+   "versions": [
+    {
+     "from": "1998-02-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14179",
+     "sha256": "ff5d13fae66acdd655177d2e23665bfecb54bfd860f4d4789559103540efeb10"
+    }
+   ]
+  },
+  {
    "slug": "hg-420-1998",
    "path": "hg/1998/420",
    "short": "HG nr. 420/1998",
@@ -3710,6 +5060,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15324",
      "sha256": "e7e0fe1e254f896bd0ce6aa10c5291a0479fee30460ca728b8defdba77a1778e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-421-1998",
+   "path": "hg/1998/421",
+   "short": "HG nr. 421/1998",
+   "title": "Hotărârea Guvernului nr. 421/1998 privind înfiinţarea distribuţiilor de gaze naturale în unele localităţi din ţara, precum şi extinderea consumului de gaze naturale la gospodăriile populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15325",
+   "versions": [
+    {
+     "from": "1998-07-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15325",
+     "sha256": "1848b8e74e39a02ee326c3c6d3b7b076c4097982aa481388dfe1a1d1e791988f"
     }
    ]
   },
@@ -3924,6 +5289,21 @@
    ]
   },
   {
+   "slug": "hg-44-1998",
+   "path": "hg/1998/44",
+   "short": "HG nr. 44/1998",
+   "title": "Hotărârea Guvernului nr. 44/1998 privind asistenţa cu medicamente pentru tratamentul ambulatoriu, în anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14186",
+   "versions": [
+    {
+     "from": "1998-02-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14186",
+     "sha256": "df80b8da82a27f216723ff88a23c477ffd3f73305f9db6f8ef6af9f21c4525a3"
+    }
+   ]
+  },
+  {
    "slug": "hg-440-1998",
    "path": "hg/1998/440",
    "short": "HG nr. 440/1998",
@@ -4025,6 +5405,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15371",
      "sha256": "d87d3b6c6a5c3051b03cb04f58bd00ddc3251f3124b0ab415980940a1859e8b1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-45-1998",
+   "path": "hg/1998/45",
+   "short": "HG nr. 45/1998",
+   "title": "Hotărârea Guvernului nr. 45/1998 pentru prelungirea aplicării şi în anul 1998 a prevederilor Hotărârii Guvernului nr. 59/1993 privind modul de suportare a cheltuielilor de cazare în unele situaţii speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14189",
+   "versions": [
+    {
+     "from": "1998-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14189",
+     "sha256": "2e2e81753ab7cdf9ddc76cb7abf678fa857955ff5a85d35e79d7f5ef9c8f5354"
     }
    ]
   },
@@ -4149,6 +5544,36 @@
    ]
   },
   {
+   "slug": "hg-459-1998",
+   "path": "hg/1998/459",
+   "short": "HG nr. 459/1998",
+   "title": "Hotărârea Guvernului nr. 459/1998 privind înfiinţarea, organizarea şi funcţionarea Comitetului Interministerial pentru Minorităţi Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15378",
+   "versions": [
+    {
+     "from": "1998-08-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15378",
+     "sha256": "2b47b9878d485bcec0ec1e6fb520b3aaa23fafad9d699df3ddffce842c46697a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-46-1998",
+   "path": "hg/1998/46",
+   "short": "HG nr. 46/1998",
+   "title": "Hotărârea Guvernului nr. 46/1998 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 1997 al Regiei Autonome \"Locato\", regie autonomă de interes naţional, de sub autoritatea Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14192",
+   "versions": [
+    {
+     "from": "1998-02-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14192",
+     "sha256": "baca15b97f8909f101d2ca531d6624ab3893661a4893583c25dffd8cbaf53b61"
+    }
+   ]
+  },
+  {
    "slug": "hg-460-1998",
    "path": "hg/1998/460",
    "short": "HG nr. 460/1998",
@@ -4269,6 +5694,36 @@
    ]
   },
   {
+   "slug": "hg-469-1998",
+   "path": "hg/1998/469",
+   "short": "HG nr. 469/1998",
+   "title": "Hotărârea Guvernului nr. 469/1998 pentru autorizarea Ministerului Culturii de a accepta o donaţie cu sarcini în favoarea statului român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15448",
+   "versions": [
+    {
+     "from": "1998-08-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15448",
+     "sha256": "8dde84193f9b4699f8888d3467d70878b8473b44fe9eabff0bc4736af3c97a60"
+    }
+   ]
+  },
+  {
+   "slug": "hg-47-1998",
+   "path": "hg/1998/47",
+   "short": "HG nr. 47/1998",
+   "title": "Hotărârea Guvernului nr. 47/1998 pentru aprobarea Memorandumului de înţelegere privind colaborarea dintre Ministerul Învăţământului din România şi Ministerul Educaţiei din Thailanda, pentru perioada 1997-1999, semnat la Bucureşti la 7 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14195",
+   "versions": [
+    {
+     "from": "1998-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14195",
+     "sha256": "e6ffe6e0ae32600661672b4d1c4eca10b141d0faea5a79ab801208276ded1748"
+    }
+   ]
+  },
+  {
    "slug": "hg-470-1998",
    "path": "hg/1998/470",
    "short": "HG nr. 470/1998",
@@ -4385,6 +5840,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15435",
      "sha256": "823ebcef8bbbdc15a6f777fa9580d6ea3b038d0965d163d32bfa8ef14cd2d7f8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-48-1998",
+   "path": "hg/1998/48",
+   "short": "HG nr. 48/1998",
+   "title": "Hotărârea Guvernului nr. 48/1998 pentru aprobarea Normelor metodologice privind finanţarea, elaborarea, atribuirea şi implementarea, în sistem descentralizat, a programelor/proiectelor de cercetare-dezvoltare şi de stimulare a inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14199",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14199",
+     "sha256": "afff43fda5b9c8a36781e7cc05112b4d0a2a2ea1fdde6b02fdd9af5d2198a44d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-480-1998",
+   "path": "hg/1998/480",
+   "short": "HG nr. 480/1998",
+   "title": "Hotărârea Guvernului nr. 480/1998 privind garantarea unui credit extern în favoarea Regiei Autonome \"Societatea Naţionala a Căilor Ferate Române\" pentru reabilitarea parcului de locomotive Diesel electrice de 2.100 CP",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15419",
+   "versions": [
+    {
+     "from": "1998-08-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15419",
+     "sha256": "867665b7dce6537b6436c33859b6c1d2cc2aaed0273dc50309a4a73b993f452d"
     }
    ]
   },
@@ -4599,6 +6084,51 @@
    ]
   },
   {
+   "slug": "hg-497-1998",
+   "path": "hg/1998/497",
+   "short": "HG nr. 497/1998",
+   "title": "Hotărârea Guvernului nr. 497/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţare distribuţie de gaze naturale în comuna Bărbăteşti, judeţul Valcea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15472",
+   "versions": [
+    {
+     "from": "1998-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15472",
+     "sha256": "ede87d9a655f23e55d0e2a44f22a1b6106df31883fa33322c316c958aefd0060"
+    }
+   ]
+  },
+  {
+   "slug": "hg-498-1998",
+   "path": "hg/1998/498",
+   "short": "HG nr. 498/1998",
+   "title": "Hotărârea Guvernului nr. 498/1998 privind transmiterea unor mijloace fixe din patrimoniul Universităţii \"Petrol-Gaze\" Ploieşti în patrimoniul Regiei Autonome \"Administraţia Fluviala a Dunării de Jos Galaţi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15473",
+   "versions": [
+    {
+     "from": "1998-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15473",
+     "sha256": "f2e1350f95a228766637f85e747ebae0919ade12aa37ff4b53bc21c849e0ae24"
+    }
+   ]
+  },
+  {
+   "slug": "hg-499-1998",
+   "path": "hg/1998/499",
+   "short": "HG nr. 499/1998",
+   "title": "Hotărârea Guvernului nr. 499/1998 privind transmiterea unui imobil proprietate publică a statului din administrarea Ministerului Apărării Naţionale în administrarea Consiliului Local al Comunei Furculeşti, judeţul Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15474",
+   "versions": [
+    {
+     "from": "1998-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15474",
+     "sha256": "efcff69899d915ccdd926e3c7c891031c3ee0d43b7e51cda1c9b3c40face7001"
+    }
+   ]
+  },
+  {
    "slug": "hg-5-1998",
    "path": "hg/1998/5",
    "short": "HG nr. 5/1998",
@@ -4610,6 +6140,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13971",
      "sha256": "7d8bf50e9a9beac83547c2c5dc81e20b4fcf0c47e45e9ef22584dfe9a0e354ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-50-1998",
+   "path": "hg/1998/50",
+   "short": "HG nr. 50/1998",
+   "title": "Hotărârea Guvernului nr. 50/1998 privind deţinerea şi utilizarea de autoturisme de către unităţi din subordinea Academiei Române şi normarea consumului de carburanţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14205",
+   "versions": [
+    {
+     "from": "1998-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14205",
+     "sha256": "8eac043320d4764b59125c6f317af7c7e8bdd5e53e7aacb5dbf6c5465d564dab"
     }
    ]
   },
@@ -4689,6 +6234,21 @@
    ]
   },
   {
+   "slug": "hg-505-1998",
+   "path": "hg/1998/505",
+   "short": "HG nr. 505/1998",
+   "title": "Hotărârea Guvernului nr. 505/1998 pentru modificarea Hotărârii Guvernului nr. 389/1996 privind transmiterea unor spaţii comerciale aflate în administrarea consiliilor locale şi a regiilor autonome către actualii deţinători şi pentru aprobarea Normelor metodologice de aplicare a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15483",
+   "versions": [
+    {
+     "from": "1998-08-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15483",
+     "sha256": "bec6def3d5f20b9af5c57f174ab9f857470b11e32c12915acf303d0a9b9161d8"
+    }
+   ]
+  },
+  {
    "slug": "hg-506-1998",
    "path": "hg/1998/506",
    "short": "HG nr. 506/1998",
@@ -4700,6 +6260,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15488",
      "sha256": "ef8e536daa5ca0e06f3b0ed88d5508774b280d587cae23ccfba38cd878b97d56"
+    }
+   ]
+  },
+  {
+   "slug": "hg-507-1998",
+   "path": "hg/1998/507",
+   "short": "HG nr. 507/1998",
+   "title": "Hotărârea Guvernului nr. 507/1998 pentru aprobarea Normelor metodologice privind constituirea şi utilizarea fondurilor destinate stimulării personalului vamal din sistemul instituţional al autorităţii vamale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15541",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15541",
+     "sha256": "e6c3f20be39abb802d317e5075d64871d11529fccdcedfdcd51b8ca1a4c3d7ac"
     }
    ]
   },
@@ -4785,6 +6360,27 @@
    ]
   },
   {
+   "slug": "hg-513-1998",
+   "path": "hg/1998/513",
+   "short": "HG nr. 513/1998",
+   "title": "Hotărârea Guvernului nr. 513/1998 privind activitatea de comercializare a serviciilor turistice şi de acordare a brevetelor şi licenţelor de turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15514",
+   "versions": [
+    {
+     "from": "1998-10-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15514",
+     "sha256": "467e18e08a93358bdbc8ab60b129d0bafa0af12b2b545406a5b8a3679231d7c7"
+    },
+    {
+     "from": "2001-03-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70397",
+     "sha256": "185d270cd3d0c7f178fe225b849ecbe80c2572aafecbc9cb3425fad239045ba5"
+    }
+   ]
+  },
+  {
    "slug": "hg-514-1998",
    "path": "hg/1998/514",
    "short": "HG nr. 514/1998",
@@ -4796,6 +6392,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15515",
      "sha256": "9c2c5d49fb58069874cc893c9276f063cd34b25f625740e33918337b8d4b527f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-515-1998",
+   "path": "hg/1998/515",
+   "short": "HG nr. 515/1998",
+   "title": "Hotărârea Guvernului nr. 515/1998 privind înfiinţarea, organizarea şi funcţionarea Oficiului pentru Administrare şi Operare al Infrastructurii de Comunicaţii de Date \"Roedunet\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15516",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15516",
+     "sha256": "d89200d75f5eb83a21a85770601d55fafaf5abe144558d7beb2f1340cc8c878a"
     }
    ]
   },
@@ -4860,6 +6471,21 @@
    ]
   },
   {
+   "slug": "hg-529-1998",
+   "path": "hg/1998/529",
+   "short": "HG nr. 529/1998",
+   "title": "Hotărârea Guvernului nr. 529/1998 privind suplimentarea bugetului Ministerului Educaţiei Naţionale pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15517",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15517",
+     "sha256": "e7bfe56d0d4dd4bcaabe5e7cb1f22f5f5b0cc0da7c36af12f58bb5ef9c8d6554"
+    }
+   ]
+  },
+  {
    "slug": "hg-53-1998",
    "path": "hg/1998/53",
    "short": "HG nr. 53/1998",
@@ -4871,6 +6497,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14216",
      "sha256": "d90ebddf81c5a611bbd656c8d889c6431201e2546b548bbf722d828fb8b84bae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-530-1998",
+   "path": "hg/1998/530",
+   "short": "HG nr. 530/1998",
+   "title": "Hotărârea Guvernului nr. 530/1998 privind suplimentarea bugetului Preşedinţiei României pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15518",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15518",
+     "sha256": "a4a9577e02d2728823689dd1dfbc8a1c0e706a536931e410821ec2ba383a6bb3"
     }
    ]
   },
@@ -4982,6 +6623,66 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15592",
      "sha256": "8b44a9cfb586c1f513f37b6b73f2b1087414c44b26a1bb1963c67f28c22e77c6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-538-1998",
+   "path": "hg/1998/538",
+   "short": "HG nr. 538/1998",
+   "title": "Hotărârea Guvernului nr. 538/1998 privind înfiinţarea Agenţiei Naţionale Socrates",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15610",
+   "versions": [
+    {
+     "from": "1998-09-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15610",
+     "sha256": "b25ec1c0c56047eb74c737f052b835dd3610d1390230901219e3f9408d8d4b33"
+    }
+   ]
+  },
+  {
+   "slug": "hg-539-1998",
+   "path": "hg/1998/539",
+   "short": "HG nr. 539/1998",
+   "title": "Hotărârea Guvernului nr. 539/1998 pentru aprobarea Normelor metodologice privind stabilirea criteriilor de acordare a unor subvenţii asociaţiilor şi fundaţiilor rromâne cu personalitate juridică care înfiinţează şi administrează unităţi de asistenţă socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15656",
+   "versions": [
+    {
+     "from": "1998-09-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15656",
+     "sha256": "6f646d54c8ead53316950b79d45d85d17241584aa95bfbb9588f4f4315ddd6f3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-54-1998",
+   "path": "hg/1998/54",
+   "short": "HG nr. 54/1998",
+   "title": "Hotărârea Guvernului nr. 54/1998 pentru modificarea art. 2 din Hotărârea Guvernului nr. 39/1991 privind autorizarea funcţionării unei filiale a Societăţii Internaţionale de Telecomunicaţii Aeronautice - S.I.T.A. în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14221",
+   "versions": [
+    {
+     "from": "1998-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14221",
+     "sha256": "cdde69305d6265783abcb4c99b89ef5951535c0d79b7a3215680057fea0f6896"
+    }
+   ]
+  },
+  {
+   "slug": "hg-540-1998",
+   "path": "hg/1998/540",
+   "short": "HG nr. 540/1998",
+   "title": "Hotărârea Guvernului nr. 540/1998 privind constituirea şi funcţionarea Comitetului interministerial pentru promovarea şi urmărirea Planului naţional de acţiuni pentru protecţia mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15593",
+   "versions": [
+    {
+     "from": "1998-09-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15593",
+     "sha256": "187ca4c542556fa021d6a0182aa012e5e5773c14bbb652d2af6d7222923acb2c"
     }
    ]
   },
@@ -5106,6 +6807,27 @@
    ]
   },
   {
+   "slug": "hg-55-1998",
+   "path": "hg/1998/55",
+   "short": "HG nr. 55/1998",
+   "title": "Hotărârea Guvernului nr. 55/1998 pentru aprobarea Normelor metodologice privind privatizarea societăţilor comerciale şi vânzarea de active, precum şi a Regulamentului de organizare şi funcţionare a Fondului Proprietăţii de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14225",
+   "versions": [
+    {
+     "from": "1998-02-12",
+     "units": 129,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14225",
+     "sha256": "7e94b58b9f852fd9478e2e8491773c9e3e02db483f1d423b685261b480055f1a"
+    },
+    {
+     "from": "1999-06-26",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/18560",
+     "sha256": "aed22eaa120eb6cfe6ea8e1814ed6fbc0defa41074aad19a37be89d78c3e4341"
+    }
+   ]
+  },
+  {
    "slug": "hg-550-1998",
    "path": "hg/1998/550",
    "short": "HG nr. 550/1998",
@@ -5207,6 +6929,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15641",
      "sha256": "853efff4f001ea4a86d52ff2269a7e237b38d78c17f8c7c8e6c637f77e9312ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-559-1998",
+   "path": "hg/1998/559",
+   "short": "HG nr. 559/1998",
+   "title": "Hotărârea Guvernului nr. 559/1998 pentru aprobarea bugetelor de venituri şi cheltuieli pe anul 1998 ale institutelor naţionale de cercetare-dezvoltare aflate în coordonarea Ministerului Cercetării şi Tehnologiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15628",
+   "versions": [
+    {
+     "from": "1998-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15628",
+     "sha256": "a8ff5c1d12825e8b807adda9fd54880d7caf04e5dd7589e4166c7c80daec027a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-56-1998",
+   "path": "hg/1998/56",
+   "short": "HG nr. 56/1998",
+   "title": "Hotărârea Guvernului nr. 56/1998 privind trecerea din regim de mic trafic în regim de trafic internaţional a Punctului de control pentru trecerea frontierei Galaţi-Giurgiulesti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14228",
+   "versions": [
+    {
+     "from": "1998-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14228",
+     "sha256": "6c5c1c9884402d969bdfa527caac775f21b8c081bbb369734f4f2afe1fc8aec9"
     }
    ]
   },
@@ -5316,6 +7068,21 @@
    ]
   },
   {
+   "slug": "hg-567-1998",
+   "path": "hg/1998/567",
+   "short": "HG nr. 567/1998",
+   "title": "Hotărârea Guvernului nr. 567/1998 privind modelul etichetei autocolante, condiţiile de tipărire, de gestionare şi de utilizare a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15651",
+   "versions": [
+    {
+     "from": "1998-09-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15651",
+     "sha256": "85d1cea2ed46cc510d26898a3102f85e36b4659c4def016635b13e69eb1e2e56"
+    }
+   ]
+  },
+  {
    "slug": "hg-568-1998",
    "path": "hg/1998/568",
    "short": "HG nr. 568/1998",
@@ -5327,6 +7094,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15652",
      "sha256": "41756d1ef853c72ab5f212fea1e5f3bfe2c60669f3a5fa8af88ce3356d6fc761"
+    }
+   ]
+  },
+  {
+   "slug": "hg-569-1998",
+   "path": "hg/1998/569",
+   "short": "HG nr. 569/1998",
+   "title": "Hotărârea Guvernului nr. 569/1998 privind alocarea unei sume Ministerului Educaţiei Naţionale din Fondul de rezerva bugetară la dispoziţia Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15612",
+   "versions": [
+    {
+     "from": "1998-09-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15612",
+     "sha256": "aa2c8c1f269aea64406cdf8415f6e988db4993f9d0792ba2ca581249791597be"
     }
    ]
   },
@@ -5361,6 +7143,27 @@
    ]
   },
   {
+   "slug": "hg-571-1998",
+   "path": "hg/1998/571",
+   "short": "HG nr. 571/1998",
+   "title": "Hotărârea Guvernului nr. 571/1998 pentru aprobarea categoriilor de construcţii, instalaţii tehnologice şi alte amenajări care se supun avizării şi/sau autorizării privind prevenirea şi stingerea incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15653",
+   "versions": [
+    {
+     "from": "1998-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15653",
+     "sha256": "6588759927f609836923e718889e9925a2498e598d6fd2bd286fafaff7288afd"
+    },
+    {
+     "from": "2002-06-23",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/36176",
+     "sha256": "0f12a1c43590a310ecc97c8a3469075db33279cba66104f7d8a672a5fb3d1087"
+    }
+   ]
+  },
+  {
    "slug": "hg-572-1998",
    "path": "hg/1998/572",
    "short": "HG nr. 572/1998",
@@ -5372,6 +7175,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15657",
      "sha256": "64beb86a097c77add98a6fc155275d65c531dda5eb8f9e39efb6c3be11e09718"
+    }
+   ]
+  },
+  {
+   "slug": "hg-574-1998",
+   "path": "hg/1998/574",
+   "short": "HG nr. 574/1998",
+   "title": "Hotărârea Guvernului nr. 574/1998 privind înfiinţarea unei comisii interdisciplinare pentru evaluarea unui sistem de monitorizare, teledetecţie şi comunicaţii de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15654",
+   "versions": [
+    {
+     "from": "1998-09-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15654",
+     "sha256": "240727bb889f46f86174a896a005eb857c16ffdf981a4136c2af7aaadfe36f15"
     }
    ]
   },
@@ -5391,6 +7209,21 @@
    ]
   },
   {
+   "slug": "hg-578-1998",
+   "path": "hg/1998/578",
+   "short": "HG nr. 578/1998",
+   "title": "Hotărârea Guvernului nr. 578/1998 privind instituirea burselor de cercetare şi formare postuniversitară şi postdoctorală \"Vasile Pârvan\" la Accademia di România din Roma şi \"Nicolae Iorga\" la Istituto Romeno di Cultura din Veneţia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15678",
+   "versions": [
+    {
+     "from": "1998-09-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15678",
+     "sha256": "3342a88355b54519e38e4c16c6974522c04d10862c6bc7d08fcd011a58faf1ee"
+    }
+   ]
+  },
+  {
    "slug": "hg-579-1998",
    "path": "hg/1998/579",
    "short": "HG nr. 579/1998",
@@ -5402,6 +7235,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15679",
      "sha256": "e2307ecf7d44da2aeb9435fd16b818f1078d616f2b6f627a19227099d3e6ebbf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-58-1998",
+   "path": "hg/1998/58",
+   "short": "HG nr. 58/1998",
+   "title": "Hotărârea Guvernului nr. 58/1998 pentru aprobarea Strategiei naţionale de informatizare şi implementare în ritm accelerat a societăţii informaţionale şi a Programului de acţiuni privind utilizarea pe scara larga şi dezvoltarea sectorului tehnologiilor informaţiei în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14234",
+   "versions": [
+    {
+     "from": "1998-02-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14234",
+     "sha256": "5e3c5c528e03f89c6234493c7d231742a7ce11fb690a85d2ce71981908700762"
     }
    ]
   },
@@ -5502,6 +7350,21 @@
    ]
   },
   {
+   "slug": "hg-584-1998",
+   "path": "hg/1998/584",
+   "short": "HG nr. 584/1998",
+   "title": "Hotărârea Guvernului nr. 584/1998 privind înfiinţarea Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A. prin reorganizarea Societăţii Naţionale a Căilor Ferate Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15663",
+   "versions": [
+    {
+     "from": "1998-09-15",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15663",
+     "sha256": "b1f326278ee154eb49db5bc735830f5bce447f97535ce6d9fb364247d77849ed"
+    }
+   ]
+  },
+  {
    "slug": "hg-585-1998",
    "path": "hg/1998/585",
    "short": "HG nr. 585/1998",
@@ -5555,6 +7418,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15716",
      "sha256": "ba290b1285c102f87829f9549be6f5f71fd9167448ec69c55d4ef5f0fd0c0766"
+    }
+   ]
+  },
+  {
+   "slug": "hg-588-1998",
+   "path": "hg/1998/588",
+   "short": "HG nr. 588/1998",
+   "title": "Hotărârea Guvernului nr. 588/1998 privind instituirea regimului de supraveghere fiscală a producţiei interne, importului, circulaţiei şi comercializării alcoolului şi a băuturilor alcoolice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15717",
+   "versions": [
+    {
+     "from": "1998-09-24",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15717",
+     "sha256": "2f4c8270e5721533e4b1fefcabc23edc5f9d749bd9e46206c149e57c4e5c05e3"
     }
    ]
   },
@@ -5889,6 +7767,21 @@
    ]
   },
   {
+   "slug": "hg-61-1998",
+   "path": "hg/1998/61",
+   "short": "HG nr. 61/1998",
+   "title": "Hotărârea Guvernului nr. 61/1998 pentru prelungirea, în anul 1998, a aplicării Hotărârii Guvernului nr. 196/1997 privind exceptarea temporară de la plata taxelor vamale a unor produse din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14245",
+   "versions": [
+    {
+     "from": "1998-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14245",
+     "sha256": "3b5046ba674319e62d93ebaffba8379b1b461cd5ee0ed560cddfc2fc23309d32"
+    }
+   ]
+  },
+  {
    "slug": "hg-610-1998",
    "path": "hg/1998/610",
    "short": "HG nr. 610/1998",
@@ -5949,6 +7842,21 @@
    ]
   },
   {
+   "slug": "hg-614-1998",
+   "path": "hg/1998/614",
+   "short": "HG nr. 614/1998",
+   "title": "Hotărârea Guvernului nr. 614/1998 privind aprobarea garantării la extern de către Ministerul Finanţelor, în numele statului român, a creditului comercial în produse tip GSM 103/1998, în valoare de 25 milioane dolari S.U.A., acordat Guvernului României de către Guvernul Statelor Unite ale Americii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15703",
+   "versions": [
+    {
+     "from": "1998-09-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15703",
+     "sha256": "f5cb5d394a72c5387e5fa50f50d2c80a891cdbab3b9103d48331f66db2fe3ce4"
+    }
+   ]
+  },
+  {
    "slug": "hg-615-1998",
    "path": "hg/1998/615",
    "short": "HG nr. 615/1998",
@@ -5960,6 +7868,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15710",
      "sha256": "fd8230184c73882f29f0aea8cc6634201e63f2be736514ba68db76e36c12cc3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-616-1998",
+   "path": "hg/1998/616",
+   "short": "HG nr. 616/1998",
+   "title": "Hotărârea Guvernului nr. 616/1998 privind normarea parcului auto şi a consumului maxim de carburanţi pentru instituţiile publice din subordinea Ministerului Culturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15718",
+   "versions": [
+    {
+     "from": "1998-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15718",
+     "sha256": "5f289d5b992c5994d21e5ea557eb07279d101a303f48a195405bc6c0b5edeb07"
     }
    ]
   },
@@ -5990,6 +7913,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15731",
      "sha256": "15e1954653ea5ca5bc6de0954ad2ac3cc6c44f4b10485119b41790016243b87e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-620-1998",
+   "path": "hg/1998/620",
+   "short": "HG nr. 620/1998",
+   "title": "Hotărârea Guvernului nr. 620/1998 privind înfiinţarea Institutului de Cercetare-Dezvoltare pentru Industrializarea şi Marketingul Produselor Horticole \"Horting\" şi a Societăţii Comerciale \"Berser\" - S.A. prin reorganizarea Regiei Autonome \"Institutul de Cercetare şi Dezvoltare pentru Valorificarea Produselor Horticole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15690",
+   "versions": [
+    {
+     "from": "1998-09-24",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15690",
+     "sha256": "f32174f78f550bee00d99aef961e1828387424ff6ac848701d3b2aa8dd082947"
     }
    ]
   },
@@ -6069,6 +8007,21 @@
    ]
   },
   {
+   "slug": "hg-631-1998",
+   "path": "hg/1998/631",
+   "short": "HG nr. 631/1998",
+   "title": "Hotărârea Guvernului nr. 631/1998 pentru sprijinirea participării României la iniţiativa europeană EUREKA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15742",
+   "versions": [
+    {
+     "from": "1998-10-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15742",
+     "sha256": "f05eda2038229e98044428a346efca89ad3580e08b65dbf8015b1af3a81b9ae1"
+    }
+   ]
+  },
+  {
    "slug": "hg-632-1998",
    "path": "hg/1998/632",
    "short": "HG nr. 632/1998",
@@ -6080,6 +8033,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15760",
      "sha256": "2a3253d8fee26db3b6c53483a8cd49d2798c8b0e36809dbca453ef875a343b35"
+    }
+   ]
+  },
+  {
+   "slug": "hg-633-1998",
+   "path": "hg/1998/633",
+   "short": "HG nr. 633/1998",
+   "title": "Hotărârea Guvernului nr. 633/1998 pentru aprobarea Amendamentului convenit la Acordul de împrumut (Împrumutul de ajustare a sectorului financiar şi al întreprinderilor - FESAL) dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Washington la 19 ianuarie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15761",
+   "versions": [
+    {
+     "from": "1998-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15761",
+     "sha256": "eb3921a94bf65f97261dbb599cf09e016b41f0c939f109217cafcc5736a6765d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-634-1998",
+   "path": "hg/1998/634",
+   "short": "HG nr. 634/1998",
+   "title": "Hotărârea Guvernului nr. 634/1998 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 151/1998 privind dezvoltarea regionala în România şi a Regulamentului-cadru de organizare şi funcţionare a consiliilor pentru dezvoltare regionala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15782",
+   "versions": [
+    {
+     "from": "1998-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15782",
+     "sha256": "9dd2ba9cfa0b051012b9792da0934027975095e9015cd5421d043b5479c4cb1e"
     }
    ]
   },
@@ -6099,6 +8082,42 @@
    ]
   },
   {
+   "slug": "hg-636-1998",
+   "path": "hg/1998/636",
+   "short": "HG nr. 636/1998",
+   "title": "Hotărârea Guvernului nr. 636/1998 privind înfiinţarea Societăţii Comerciale de Cercetare-Dezvoltare Rurală \"Ceder\" -S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15818",
+   "versions": [
+    {
+     "from": "1998-10-01",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15818",
+     "sha256": "7456ccfc7541778dc72938dbb8a6e1814fcc6ec2b5ee8d63a4ab5c7f7f9b8730"
+    }
+   ]
+  },
+  {
+   "slug": "hg-637-1998",
+   "path": "hg/1998/637",
+   "short": "HG nr. 637/1998",
+   "title": "Hotărârea Guvernului nr. 637/1998 privind înfiinţarea Societăţii Naţionale \"Cai de Rasa\" - S.A. prin reorganizarea Regiei Autonome \"Cai de Rasa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15835",
+   "versions": [
+    {
+     "from": "1998-10-01",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15835",
+     "sha256": "56b18c673f5655cf77f846184d0947d0effb590389e39c361d170f04790cbf1d"
+    },
+    {
+     "from": "2002-10-29",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213196",
+     "sha256": "11eec0577ce61c7e79bf13b81623f30bbb24b5a5ec1581dca186d26f1427804d"
+    }
+   ]
+  },
+  {
    "slug": "hg-638-1998",
    "path": "hg/1998/638",
    "short": "HG nr. 638/1998",
@@ -6110,6 +8129,36 @@
      "units": 39,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15836",
      "sha256": "5299dca518242085bc8a58ce4c55ad7b5ae7645dedfa81b01b70fcb5cb9c6f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-639-1998",
+   "path": "hg/1998/639",
+   "short": "HG nr. 639/1998",
+   "title": "Hotărârea Guvernului nr. 639/1998 privind aprobarea Normelor pentru aplicarea Legii minelor nr. 61/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15814",
+   "versions": [
+    {
+     "from": "1998-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15814",
+     "sha256": "46eda353a19e24637375e751e34faa6eaca8c8c3b15c701c6a983c93abdeeb24"
+    }
+   ]
+  },
+  {
+   "slug": "hg-64-1998",
+   "path": "hg/1998/64",
+   "short": "HG nr. 64/1998",
+   "title": "Hotărârea Guvernului nr. 64/1998 privind stabilirea datei pentru alegerea unor primari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14255",
+   "versions": [
+    {
+     "from": "1998-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14255",
+     "sha256": "73ed5ad6539f43dc0e49842ccf5d101134031ae11f31ccd5e2b91daf7eb12fbf"
     }
    ]
   },
@@ -6249,6 +8298,51 @@
    ]
   },
   {
+   "slug": "hg-649-1998",
+   "path": "hg/1998/649",
+   "short": "HG nr. 649/1998",
+   "title": "Hotărârea Guvernului nr. 649/1998 pentru aprobarea Normelor metodologice privind derularea, utilizarea şi decontarea prin băncile comerciale a fondului pentru finanţarea cheltuielilor aferente lucrărilor agricole din sectorul vegetal şi a celor pentru creşterea animalelor, în perioada 1998-2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15726",
+   "versions": [
+    {
+     "from": "1998-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15726",
+     "sha256": "72a378b74c2431ed2a8cfe674ebe38b0e3a8a4922f102920ec529c748077adf4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-65-1998",
+   "path": "hg/1998/65",
+   "short": "HG nr. 65/1998",
+   "title": "Hotărârea Guvernului nr. 65/1998 pentru declararea anului 1998 an jubiliar, cu ocazia împlinirii a 150 de ani de la Revoluţia de la 1848",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14258",
+   "versions": [
+    {
+     "from": "1998-02-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14258",
+     "sha256": "51fc1189d7bf0531bf1e91ec76ae2f728484f98ccd659c859faa75b63f3b0eb6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-650-1998",
+   "path": "hg/1998/650",
+   "short": "HG nr. 650/1998",
+   "title": "Hotărârea Guvernului nr. 650/1998 pentru aprobarea finanţării cu prioritate, în anul 1998, a unor culturi vegetale şi specii de animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15727",
+   "versions": [
+    {
+     "from": "1998-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15727",
+     "sha256": "7b31898a04cebe444dbac998bd22617ad3b6d25e5b8c916c8fc7824a74cef471"
+    }
+   ]
+  },
+  {
    "slug": "hg-651-1998",
    "path": "hg/1998/651",
    "short": "HG nr. 651/1998",
@@ -6384,6 +8478,21 @@
    ]
   },
   {
+   "slug": "hg-66-1998",
+   "path": "hg/1998/66",
+   "short": "HG nr. 66/1998",
+   "title": "Hotărârea Guvernului nr. 66/1998 privind abrogarea Hotărârii Guvernului nr. 699/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14262",
+   "versions": [
+    {
+     "from": "1998-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14262",
+     "sha256": "1bd71d093e0e3d917f51912da544a5f2a4d200417fdc2e207afa89959fc58001"
+    }
+   ]
+  },
+  {
    "slug": "hg-660-1998",
    "path": "hg/1998/660",
    "short": "HG nr. 660/1998",
@@ -6504,6 +8613,21 @@
    ]
   },
   {
+   "slug": "hg-67-1998",
+   "path": "hg/1998/67",
+   "short": "HG nr. 67/1998",
+   "title": "Hotărârea Guvernului nr. 67/1998 privind transmiterea unui teren, situat în municipiul Bucureşti, în administrarea Ministerului Tineretului şi Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14265",
+   "versions": [
+    {
+     "from": "1998-02-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14265",
+     "sha256": "f5a1e0fe59e84f173470a14eb15501c2e675832f2ecd3c8f72ea2bf4ab9a286f"
+    }
+   ]
+  },
+  {
    "slug": "hg-671-1998",
    "path": "hg/1998/671",
    "short": "HG nr. 671/1998",
@@ -6515,6 +8639,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15777",
      "sha256": "69a66d69707a0d38b9a2e30d3a586fb491474ae1f1a6a7273047fc363b2cec8e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-672-1998",
+   "path": "hg/1998/672",
+   "short": "HG nr. 672/1998",
+   "title": "Hotărârea Guvernului nr. 672/1998 privind organizarea şi funcţionarea Departamentului de Control al Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15788",
+   "versions": [
+    {
+     "from": "1998-10-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15788",
+     "sha256": "4c4dbc267abc60831c193a17849d6b05d9202b9c8ff0f120b855f1768cd4249b"
     }
    ]
   },
@@ -6560,6 +8699,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15815",
      "sha256": "cb9ba6001ffdbb6ee3e5f32cfcb6e8ad6af9d50e0e63cb931f16ffada0e9a1a4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-677-1998",
+   "path": "hg/1998/677",
+   "short": "HG nr. 677/1998",
+   "title": "Hotărârea Guvernului nr. 677/1998 privind organizarea şi funcţionarea Comisiei Naţionale pentru Statistica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15817",
+   "versions": [
+    {
+     "from": "1998-11-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15817",
+     "sha256": "91811a3db54506109f18635833bd7998e3c1aef543d67ddf1ccca1591e5180af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-678-1998",
+   "path": "hg/1998/678",
+   "short": "HG nr. 678/1998",
+   "title": "Hotărârea Guvernului nr. 678/1998 privind stabilirea şi sancţionarea contravenţiilor la normele de prevenire şi stingere a incendiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15849",
+   "versions": [
+    {
+     "from": "1998-11-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15849",
+     "sha256": "3d9a0f505536660fb0f8f886f006b07822a635ba192218997b19be46c63cbe8c"
     }
    ]
   },
@@ -6819,6 +8988,21 @@
    ]
   },
   {
+   "slug": "hg-695-1998",
+   "path": "hg/1998/695",
+   "short": "HG nr. 695/1998",
+   "title": "Hotărârea Guvernului nr. 695/1998 pentru aprobarea Regulamentului de vânzare de către Regia Naţionala a Pădurilor a masei lemnoase destinate agenţilor economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15915",
+   "versions": [
+    {
+     "from": "1998-10-19",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15915",
+     "sha256": "a8eebe12b6850008b02da96c07d8627fd2dca50c47d87ce4114b46cf6430a79d"
+    }
+   ]
+  },
+  {
    "slug": "hg-696-1998",
    "path": "hg/1998/696",
    "short": "HG nr. 696/1998",
@@ -6875,6 +9059,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15886",
      "sha256": "fac9e678cc1786499300fc9e41260caa59db91ce865a0e865c79fec778216e74"
+    }
+   ]
+  },
+  {
+   "slug": "hg-7-1998",
+   "path": "hg/1998/7",
+   "short": "HG nr. 7/1998",
+   "title": "Hotărârea Guvernului nr. 7/1998 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13989",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13989",
+     "sha256": "01791ebbbbfb17abd4c78b6ebf89f3a9c689058fcc03bdf954935d24d6aebaaa"
     }
    ]
   },
@@ -6954,6 +9153,21 @@
    ]
   },
   {
+   "slug": "hg-705-1998",
+   "path": "hg/1998/705",
+   "short": "HG nr. 705/1998",
+   "title": "Hotărârea Guvernului nr. 705/1998 privind înfiinţarea Societăţii Naţionale \"Romarm\" - S.A., a Societăţii Comerciale \"Uzina Mecanică Mârşa\" - S.A. şi a Societăţii Comerciale \"Uzina Mecanică Ramnicu Valcea\" - S.A., prin reorganizarea Regiei Autonome pentru Producţia de Tehnica Militară - RATMIL",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15947",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15947",
+     "sha256": "15abe30054faa13eb7372f7e4b296a861172f4a2bb9d0d9256a2133bbcee4c99"
+    }
+   ]
+  },
+  {
    "slug": "hg-706-1998",
    "path": "hg/1998/706",
    "short": "HG nr. 706/1998",
@@ -7029,6 +9243,36 @@
    ]
   },
   {
+   "slug": "hg-710-1998",
+   "path": "hg/1998/710",
+   "short": "HG nr. 710/1998",
+   "title": "Hotărârea Guvernului nr. 710/1998 privind aprobarea prealabilă, în vederea recunoaşterii funcţionarii în România a Fundaţiei americane FREEDOM HOUSE, INC",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15945",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15945",
+     "sha256": "b104755c12cfbb538576b357af2d3cbdac701a72dc77d4b126260c49d132c8f7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-711-1998",
+   "path": "hg/1998/711",
+   "short": "HG nr. 711/1998",
+   "title": "Hotărârea Guvernului nr. 711/1998 pentru modificarea alin. (1) al art. 1 din Hotărârea Guvernului nr. 239/1997 privind stabilirea nivelului maxim al preţului la care energia termica poate fi livrata populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15930",
+   "versions": [
+    {
+     "from": "1998-10-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15930",
+     "sha256": "abd9f3ee81022401df9e303b4f2b55c66210381066d79d04e8b7dae543d31120"
+    }
+   ]
+  },
+  {
    "slug": "hg-714-1998",
    "path": "hg/1998/714",
    "short": "HG nr. 714/1998",
@@ -7070,6 +9314,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15952",
      "sha256": "cc5b1a5a997d02f62413200bd4f771040e4f8dc451d56398c66bb2b25c78ea9a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-717-1998",
+   "path": "hg/1998/717",
+   "short": "HG nr. 717/1998",
+   "title": "Hotărârea Guvernului nr. 717/1998 privind aprobarea derulării operaţiunilor de import în contul de cooperare constituit din exporturile efectuate de Societatea Comercială \"Unirea\" - S.A. Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15953",
+   "versions": [
+    {
+     "from": "1998-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15953",
+     "sha256": "1ab8a99d0d45643fce3da147ae00381b7124f46ba03e69e6f3a4fd8f078b6f6f"
     }
    ]
   },
@@ -7266,6 +9525,21 @@
    ]
   },
   {
+   "slug": "hg-73-1998",
+   "path": "hg/1998/73",
+   "short": "HG nr. 73/1998",
+   "title": "Hotărârea Guvernului nr. 73/1998 privind constituirea şi utilizarea fondului seminţelor de rezerva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14284",
+   "versions": [
+    {
+     "from": "1998-02-27",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14284",
+     "sha256": "2658a8f312b2e9129ea4fa21163e7a0b3b29d941a141819b1c4e5ba46ca6fcda"
+    }
+   ]
+  },
+  {
    "slug": "hg-730-1998",
    "path": "hg/1998/730",
    "short": "HG nr. 730/1998",
@@ -7307,6 +9581,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16026",
      "sha256": "e119d2cbc88349f4177452c0098d55d9dd603fd25af32850afb342f6120c45f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-733-1998",
+   "path": "hg/1998/733",
+   "short": "HG nr. 733/1998",
+   "title": "Hotărârea Guvernului nr. 733/1998 cu privire la tipurile de diplome, certificate şi atestate acordate în învăţământul superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15991",
+   "versions": [
+    {
+     "from": "1998-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15991",
+     "sha256": "05e5d689e63f376db8659474e2482d24cf9ff9d6564d096798cf662cf3a1d5b5"
     }
    ]
   },
@@ -7641,6 +9930,21 @@
    ]
   },
   {
+   "slug": "hg-762-1998",
+   "path": "hg/1998/762",
+   "short": "HG nr. 762/1998",
+   "title": "Hotărârea Guvernului nr. 762/1998 pentru aprobarea finanţării Programului de restructurare şi reforma în agricultura în anul 1998 din Fondul la dispoziţia Guvernului, constituit din vărsăminte din privatizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16032",
+   "versions": [
+    {
+     "from": "1998-11-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16032",
+     "sha256": "4fb4127a1affe47d6d75063b08d7cf21e5cb63e3963b541e9040361a4acb38ee"
+    }
+   ]
+  },
+  {
    "slug": "hg-763-1998",
    "path": "hg/1998/763",
    "short": "HG nr. 763/1998",
@@ -7671,6 +9975,21 @@
    ]
   },
   {
+   "slug": "hg-765-1998",
+   "path": "hg/1998/765",
+   "short": "HG nr. 765/1998",
+   "title": "Hotărârea Guvernului nr. 765/1998 privind transmiterea unui imobil, proprietate a statului, situat în judeţul Prahova, în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16033",
+   "versions": [
+    {
+     "from": "1998-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16033",
+     "sha256": "f628b0966beee5202cde48c0a59b25024007a4dbdad175f200762c335b60c4d1"
+    }
+   ]
+  },
+  {
    "slug": "hg-766-1998",
    "path": "hg/1998/766",
    "short": "HG nr. 766/1998",
@@ -7686,6 +10005,72 @@
    ]
   },
   {
+   "slug": "hg-767-1998",
+   "path": "hg/1998/767",
+   "short": "HG nr. 767/1998",
+   "title": "Hotărârea Guvernului nr. 767/1998 privind înfiinţarea distribuţiei de gaze naturale în comuna Petru Rareş, judeţul Bistriţa-Năsăud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16050",
+   "versions": [
+    {
+     "from": "1998-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16050",
+     "sha256": "258c0ea2378d33242b94ec831e18cd7064c6fa1247de4c39c6921efb9e4c0433"
+    }
+   ]
+  },
+  {
+   "slug": "hg-768-1998",
+   "path": "hg/1998/768",
+   "short": "HG nr. 768/1998",
+   "title": "Hotărârea Guvernului nr. 768/1998 privind înfiinţarea distribuţiei de gaze naturale în comuna Păuşeşti-Măglaşi, judeţul Valcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16035",
+   "versions": [
+    {
+     "from": "1998-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16035",
+     "sha256": "ee45a37129604adbe5d89c0d46a80c2c77c6fa890934a87c779f09c6b0a946b2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-769-1998",
+   "path": "hg/1998/769",
+   "short": "HG nr. 769/1998",
+   "title": "Hotărârea Guvernului nr. 769/1998 pentru aprobarea procentelor diferenţiate ale indemnizaţiilor care se acordă personalului didactic calificat cu reşedinţa sau domiciliul în mediul rural ori în localităţi izolate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16165",
+   "versions": [
+    {
+     "from": "1998-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16165",
+     "sha256": "a5f24eedd3e354b71c6b24500d553daa3aaa6ed3532bd7316130448ec292c108"
+    },
+    {
+     "from": "2002-03-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34414",
+     "sha256": "1224577e068dca9b0d24ccd58b7b4baea78db3a4d9c16b235481c604ac61776d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-77-1998",
+   "path": "hg/1998/77",
+   "short": "HG nr. 77/1998",
+   "title": "Hotărârea Guvernului nr. 77/1998 pentru înfiinţarea Departamentului Purtătorului de Cuvânt al Guvernului şi Relaţiilor cu Presa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14296",
+   "versions": [
+    {
+     "from": "1998-02-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14296",
+     "sha256": "6b1e4adf66d45a21aeb39bce4488ec3a342bc1d65a2d21d978f8bc222d3333cb"
+    }
+   ]
+  },
+  {
    "slug": "hg-771-1998",
    "path": "hg/1998/771",
    "short": "HG nr. 771/1998",
@@ -7697,6 +10082,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16057",
      "sha256": "f045f5e1bfa84d844c17eba98faa45d396781ffbbf1f41b0ed21ef219985c1df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-772-1998",
+   "path": "hg/1998/772",
+   "short": "HG nr. 772/1998",
+   "title": "Hotărârea Guvernului nr. 772/1998 pentru autorizarea efectuării unor operaţiuni refuzate la viza de către controlul preventiv al Curţii de Conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16051",
+   "versions": [
+    {
+     "from": "1998-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16051",
+     "sha256": "313f51b5173b0736048c010f350960ea23db2d23c71cfa0792c6a348ff068556"
     }
    ]
   },
@@ -7727,6 +10127,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16053",
      "sha256": "c50aeb4657830619f7585265fe484caf0fecab640b1dfdc78bd86c05c88fd0be"
+    }
+   ]
+  },
+  {
+   "slug": "hg-776-1998",
+   "path": "hg/1998/776",
+   "short": "HG nr. 776/1998",
+   "title": "Hotărârea Guvernului nr. 776/1998 privind modificarea Normelor metodologice de aplicare a Legii nr. 83/1997 pentru privatizarea societăţilor comerciale bancare la care statul este acţionar, aprobate prin Hotărârea Guvernului nr. 458/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16074",
+   "versions": [
+    {
+     "from": "1998-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16074",
+     "sha256": "ff351a220c2c67086c37f90eca889f81f7e430c926fb6fac5ecda7a1d4a6aa82"
     }
    ]
   },
@@ -7866,6 +10281,36 @@
    ]
   },
   {
+   "slug": "hg-788-1998",
+   "path": "hg/1998/788",
+   "short": "HG nr. 788/1998",
+   "title": "Hotărârea Guvernului nr. 788/1998 privind aprobarea Programului de dezvoltare a sectorului întreprinderilor mici şi mijlocii \"Stimularea înfiinţării de întreprinderi mici şi mijlocii şi sprijinirea noilor întreprinderi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16132",
+   "versions": [
+    {
+     "from": "1998-11-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16132",
+     "sha256": "5b97f0e7cf73e999b22254426ce35590feed03fa06de525586b9bfd36e291581"
+    }
+   ]
+  },
+  {
+   "slug": "hg-789-1998",
+   "path": "hg/1998/789",
+   "short": "HG nr. 789/1998",
+   "title": "Hotărârea Guvernului nr. 789/1998 privind aprobarea Programului de sprijinire a întreprinderilor mici şi mijlocii în domeniul marketingului şi stimulării exporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16133",
+   "versions": [
+    {
+     "from": "1998-11-17",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16133",
+     "sha256": "a1746e12e41e5f7c43c9a4c1a186afc9cc6bb22f13980daf3a9d1212c6f6daed"
+    }
+   ]
+  },
+  {
    "slug": "hg-79-1998",
    "path": "hg/1998/79",
    "short": "HG nr. 79/1998",
@@ -7907,6 +10352,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16097",
      "sha256": "b011599d1e6cd0d56bb00fc88e26a56c686500b7da0451428144ad128a50193d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-793-1998",
+   "path": "hg/1998/793",
+   "short": "HG nr. 793/1998",
+   "title": "Hotărârea Guvernului nr. 793/1998 pentru completarea cadrului dezvoltării în continuare a sectorului telecomunicaţiilor şi al finalizării procesului de privatizare a Societăţii Naţionale de Telecomunicaţii \"Romtelecom\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16099",
+   "versions": [
+    {
+     "from": "1998-11-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16099",
+     "sha256": "b5f14fdaa4f6c7cd09389634b27b66c4e1cf7efdd8fadc93c6005cc4f245e363"
     }
    ]
   },
@@ -7956,6 +10416,21 @@
    ]
   },
   {
+   "slug": "hg-8-1998",
+   "path": "hg/1998/8",
+   "short": "HG nr. 8/1998",
+   "title": "Hotărârea Guvernului nr. 8/1998 privind dotarea Ministerului Lucrărilor Publice şi Amenajării Teritoriului cu autovehicule pentru activităţi specifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13999",
+   "versions": [
+    {
+     "from": "1998-01-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13999",
+     "sha256": "5eb0ed19fcf10ec0c447436af4d688d80a5997841d0bc758e67c8c76b5671d97"
+    }
+   ]
+  },
+  {
    "slug": "hg-80-1998",
    "path": "hg/1998/80",
    "short": "HG nr. 80/1998",
@@ -7982,6 +10457,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16143",
      "sha256": "1497dce9bfb90cdd1e6a0a2489175223cfe6159f265e347ca8ebe50aa9878931"
+    }
+   ]
+  },
+  {
+   "slug": "hg-801-1998",
+   "path": "hg/1998/801",
+   "short": "HG nr. 801/1998",
+   "title": "Hotărârea Guvernului nr. 801/1998 privind modificarea anexei la Hotărârea Guvernului nr. 528/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16161",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16161",
+     "sha256": "8a650c584d4cc436d7320cfe8ed2b3f61f00642ddb9b117f08ac0050940afd85"
     }
    ]
   },
@@ -8121,6 +10611,21 @@
    ]
   },
   {
+   "slug": "hg-810-1998",
+   "path": "hg/1998/810",
+   "short": "HG nr. 810/1998",
+   "title": "Hotărârea Guvernului nr. 810/1998 privind aprobarea Normelor metodologice pentru punerea în aplicare a prevederilor Legii nr. 152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16180",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16180",
+     "sha256": "11f4ecbba3aee41b4491aff7ad478d194c20800052036fd7121b2bf43588183e"
+    }
+   ]
+  },
+  {
    "slug": "hg-811-1998",
    "path": "hg/1998/811",
    "short": "HG nr. 811/1998",
@@ -8147,6 +10652,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16181",
      "sha256": "584f158e438d41e801482586fdacf8766e9f6e516bf0c48e7d6f46530b065b05"
+    }
+   ]
+  },
+  {
+   "slug": "hg-816-1998",
+   "path": "hg/1998/816",
+   "short": "HG nr. 816/1998",
+   "title": "Hotărârea Guvernului nr. 816/1998 privind conservarea şi închiderea definitivă a unor mine şi cariere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16175",
+   "versions": [
+    {
+     "from": "1998-11-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16175",
+     "sha256": "b886a823c3db0f1d032f5361b49fb61dae959ce25147de1a04fe63e8757687c6"
     }
    ]
   },
@@ -8196,6 +10716,36 @@
    ]
   },
   {
+   "slug": "hg-82-1998",
+   "path": "hg/1998/82",
+   "short": "HG nr. 82/1998",
+   "title": "Hotărârea Guvernului nr. 82/1998 privind reactualizarea cuantumului despăgubirilor pentru daune aduse fondului cinegetic prin fapte ilicite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14311",
+   "versions": [
+    {
+     "from": "1998-03-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14311",
+     "sha256": "ca851a0cfedbbf8576cc801a8855f2281e4b317845f33123c950a56bacf99ff1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-820-1998",
+   "path": "hg/1998/820",
+   "short": "HG nr. 820/1998",
+   "title": "Hotărârea Guvernului nr. 820/1998 privind autorizarea Comitetului Interministerial de Garanţii şi Credite de Comerţ Exterior de a aproba garantarea unui credit pentru finanţarea unor proiecte de modernizare la Societatea Comercială \"Oltchim\" - S.A. Ramnicu Valcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16203",
+   "versions": [
+    {
+     "from": "1998-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16203",
+     "sha256": "514b3aeccc58e70a389408436e3b7748a8552c9967bc808354a5a75009dd0f11"
+    }
+   ]
+  },
+  {
    "slug": "hg-821-1998",
    "path": "hg/1998/821",
    "short": "HG nr. 821/1998",
@@ -8207,6 +10757,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16204",
      "sha256": "9edffbf34bda95257c9a0f494c589cc9c9ef0a3179ec43b179f905263c1f404c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-822-1998",
+   "path": "hg/1998/822",
+   "short": "HG nr. 822/1998",
+   "title": "Hotărârea Guvernului nr. 822/1998 pentru aprobarea bugetului de venituri şi cheltuieli rectificativ pe anul 1998 al Regiei Autonome \"Monitorul Oficial\", regie autonomă de interes naţional de sub autoritatea Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16176",
+   "versions": [
+    {
+     "from": "1998-11-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16176",
+     "sha256": "11af4f3cbf586bfd00a0512092bdd66930ae99bc47bde2c899cc336659d65dcf"
     }
    ]
   },
@@ -8301,6 +10866,21 @@
    ]
   },
   {
+   "slug": "hg-83-1998",
+   "path": "hg/1998/83",
+   "short": "HG nr. 83/1998",
+   "title": "Hotărârea Guvernului nr. 83/1998 privind aprobarea Programului cercetărilor statistice pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14314",
+   "versions": [
+    {
+     "from": "1998-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14314",
+     "sha256": "1d5a92869441b7721426a579732c5455dd92a25e805b6ae15a95581793c54c41"
+    }
+   ]
+  },
+  {
    "slug": "hg-830-1998",
    "path": "hg/1998/830",
    "short": "HG nr. 830/1998",
@@ -8342,6 +10922,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16224",
      "sha256": "fbe4867344270475f3d31f8705a80ea296c7f1f1009d3cbc13d4a979380cd73d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-833-1998",
+   "path": "hg/1998/833",
+   "short": "HG nr. 833/1998",
+   "title": "Hotărârea Guvernului nr. 833/1998 pentru aprobarea Regulamentului de aplicare a Legii nr. 84/1998 privind mărcile şi indicaţiile geografice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16251",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16251",
+     "sha256": "c94dbc89d3c12aac694be471dd9661c80a658ca007808b0d68c71a74105d3364"
     }
    ]
   },
@@ -8421,6 +11016,21 @@
    ]
   },
   {
+   "slug": "hg-84-1998",
+   "path": "hg/1998/84",
+   "short": "HG nr. 84/1998",
+   "title": "Hotărârea Guvernului nr. 84/1998 privind suplimentarea numărului de autoturisme şi stabilirea consumului de carburanţi pentru activităţile specifice desfăşurate de Agenţia Naţionala de Presa \"ROMPRES\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14316",
+   "versions": [
+    {
+     "from": "1998-02-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14316",
+     "sha256": "dd9a64c004514ee0003a312ae29aaf1cd659f4bcad9c6bc7491e09c93a2f4ffd"
+    }
+   ]
+  },
+  {
    "slug": "hg-840-1998",
    "path": "hg/1998/840",
    "short": "HG nr. 840/1998",
@@ -8496,6 +11106,51 @@
    ]
   },
   {
+   "slug": "hg-846-1998",
+   "path": "hg/1998/846",
+   "short": "HG nr. 846/1998",
+   "title": "Hotărârea Guvernului nr. 846/1998 privind nivelul taxei de abonament pentru Societatea Română de Radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16246",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16246",
+     "sha256": "97745c3d22f767cc35501f565dbe4de483921a1befc1c1c5eb5bf63b526d10ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-847-1998",
+   "path": "hg/1998/847",
+   "short": "HG nr. 847/1998",
+   "title": "Hotărârea Guvernului nr. 847/1998 pentru aprobarea bugetelor de venituri şi cheltuieli rectificate pe anul 1998 ale regiilor autonome de interes naţional de sub autoritatea Ministerului Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16269",
+   "versions": [
+    {
+     "from": "1998-11-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16269",
+     "sha256": "f6cbb43d21d7e05b2ec7e2b68d76a9fb4d2d55a7981f2109a3abdb61bac05d55"
+    }
+   ]
+  },
+  {
+   "slug": "hg-849-1998",
+   "path": "hg/1998/849",
+   "short": "HG nr. 849/1998",
+   "title": "Hotărârea Guvernului nr. 849/1998 pentru aprobarea finanţării în vederea funcţionarii în condiţii de siguranţă a unor nave maritime de transport aflate sub arest/reţinere din patrimoniul unor companii de navigaţie cu capital majoritar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16286",
+   "versions": [
+    {
+     "from": "1998-11-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16286",
+     "sha256": "2838d15f2ee3db1e4738b7cee5ab9f583bb524902830e1a55ee57749395737b0"
+    }
+   ]
+  },
+  {
    "slug": "hg-85-1998",
    "path": "hg/1998/85",
    "short": "HG nr. 85/1998",
@@ -8507,6 +11162,51 @@
      "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14318",
      "sha256": "d3db56e02cba9a0bc29ca59e730bc66b085df726f68e98597f3a69f816941494"
+    }
+   ]
+  },
+  {
+   "slug": "hg-850-1998",
+   "path": "hg/1998/850",
+   "short": "HG nr. 850/1998",
+   "title": "Hotărârea Guvernului nr. 850/1998 privind organizarea şi funcţionarea Centrului Naţional de Formare Continua pentru Administraţia Publică Locală şi a centrelor teritoriale de formare continua pentru administraţia publică locală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16285",
+   "versions": [
+    {
+     "from": "1998-12-02",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16285",
+     "sha256": "a87f4271cef2108ea0730df496a841ef0eac163189400d49e81b19a4a60bfd92"
+    }
+   ]
+  },
+  {
+   "slug": "hg-851-1998",
+   "path": "hg/1998/851",
+   "short": "HG nr. 851/1998",
+   "title": "Hotărârea Guvernului nr. 851/1998 privind transmiterea, cu justa despăgubire, a unui activ din patrimoniul Societăţii Naţionale a Petrolului \"Petrom\" - S.A. Bucureşti în patrimoniul Societăţii Comerciale \"Oltchim\" - S.A. Ramnicu Valcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16268",
+   "versions": [
+    {
+     "from": "1998-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16268",
+     "sha256": "f5b7dca16a46f4b48bff726dfe11a924b71013cc74fc64d889199d1351eee396"
+    }
+   ]
+  },
+  {
+   "slug": "hg-852-1998",
+   "path": "hg/1998/852",
+   "short": "HG nr. 852/1998",
+   "title": "Hotărârea Guvernului nr. 852/1998 privind garantarea de către Ministerul Finanţelor a unui credit extern pentru Ministerul Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16287",
+   "versions": [
+    {
+     "from": "1998-11-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16287",
+     "sha256": "a9875c378bd5f9348c61442a9331f5a70162db500cb3c3ec2c9f39d9c264338f"
     }
    ]
   },
@@ -8766,6 +11466,21 @@
    ]
   },
   {
+   "slug": "hg-866-1998",
+   "path": "hg/1998/866",
+   "short": "HG nr. 866/1998",
+   "title": "Hotărârea Guvernului nr. 866/1998 privind înfiinţarea Institutului Naţional de Cercetare-Dezvoltare în Turism - I.N.C.D.T. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16381",
+   "versions": [
+    {
+     "from": "1998-12-15",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16381",
+     "sha256": "f0634e3d5dcc7dfbfa999319d518b4e9e6742b3193b43961ed450b96de6ff8cc"
+    }
+   ]
+  },
+  {
    "slug": "hg-867-1998",
    "path": "hg/1998/867",
    "short": "HG nr. 867/1998",
@@ -8811,6 +11526,21 @@
    ]
   },
   {
+   "slug": "hg-87-1998",
+   "path": "hg/1998/87",
+   "short": "HG nr. 87/1998",
+   "title": "Hotărârea Guvernului nr. 87/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în comuna Pomi, judeţul Satu Mare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14322",
+   "versions": [
+    {
+     "from": "1998-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14322",
+     "sha256": "1934b22286dcf2035c1dba6f75df50e51deef2913fe25025ca33a18968d30b29"
+    }
+   ]
+  },
+  {
    "slug": "hg-870-1998",
    "path": "hg/1998/870",
    "short": "HG nr. 870/1998",
@@ -8837,6 +11567,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16417",
      "sha256": "af3f95cb0cbde37758040f9c48789b77455f7df1d7457b986a5f2bc06b325e9e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-873-1998",
+   "path": "hg/1998/873",
+   "short": "HG nr. 873/1998",
+   "title": "Hotărârea Guvernului nr. 873/1998 privind înfiinţarea, organizarea şi funcţionarea Departamentului pentru Dialog Social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16409",
+   "versions": [
+    {
+     "from": "1998-12-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16409",
+     "sha256": "0dcf2489e533a01417f832d65b62798c37a4f77be30c08f20d6949997169eb3a"
     }
    ]
   },
@@ -8922,6 +11667,21 @@
    ]
   },
   {
+   "slug": "hg-879-1998",
+   "path": "hg/1998/879",
+   "short": "HG nr. 879/1998",
+   "title": "Hotărârea Guvernului nr. 879/1998 privind transmiterea unor imobile situate în municipiul Oradea, judeţul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16348",
+   "versions": [
+    {
+     "from": "1998-12-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16348",
+     "sha256": "8574d583256da78b20916642fec5f36f771893e1e65db41f6addbfc93d3ef8ae"
+    }
+   ]
+  },
+  {
    "slug": "hg-88-1998",
    "path": "hg/1998/88",
    "short": "HG nr. 88/1998",
@@ -8948,6 +11708,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16349",
      "sha256": "e8e7adbdfcf7310d813185eab0495d626047b195f458753e65254d8e1468f218"
+    }
+   ]
+  },
+  {
+   "slug": "hg-881-1998",
+   "path": "hg/1998/881",
+   "short": "HG nr. 881/1998",
+   "title": "Hotărârea Guvernului nr. 881/1998 pentru declararea zilei de 18 decembrie Ziua Minorităţilor Naţionale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16350",
+   "versions": [
+    {
+     "from": "1998-12-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16350",
+     "sha256": "6542222fedeaa1a29d73154a35aefd766f3612a0680dae86214d68f1cee06efb"
     }
    ]
   },
@@ -9027,6 +11802,51 @@
    ]
   },
   {
+   "slug": "hg-888-1998",
+   "path": "hg/1998/888",
+   "short": "HG nr. 888/1998",
+   "title": "Hotărârea Guvernului nr. 888/1998 privind garantarea de către Ministerul Finanţelor a unui credit extern pentru achiziţionarea unei construcţii şi a terenului aferent, necesare funcţionarii Ambasadei României la Berlin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16440",
+   "versions": [
+    {
+     "from": "1998-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16440",
+     "sha256": "fe6f35bcb19a6f23c6b56a7d6995dc117f3480bc81a2c853b45439302fe368ab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-89-1998",
+   "path": "hg/1998/89",
+   "short": "HG nr. 89/1998",
+   "title": "Hotărârea Guvernului nr. 89/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Introducerea apei potabile în localităţile Santimbru, Totoi, Galtiu, Coslariu şi Dumitra din comuna Santimbru, judeţul Alba\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14326",
+   "versions": [
+    {
+     "from": "1998-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14326",
+     "sha256": "7b03d9fdf152e60497a97a9ea8370836f0bbd63bdcf932e84f8b91e5897a30d5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-890-1998",
+   "path": "hg/1998/890",
+   "short": "HG nr. 890/1998",
+   "title": "Hotărârea Guvernului nr. 890/1998 de modificare şi completare a Regulamentului pentru aplicarea Decretului nr. 328/1966 privind circulaţia pe drumurile publice şi pentru stabilirea şi sancţionarea contravenţiilor în acest sector",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16655",
+   "versions": [
+    {
+     "from": "1999-03-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16655",
+     "sha256": "07d1d210df168774f28cd20546a5f36a655cde8f1e23633bdc046b8d571c8453"
+    }
+   ]
+  },
+  {
    "slug": "hg-891-1998",
    "path": "hg/1998/891",
    "short": "HG nr. 891/1998",
@@ -9053,6 +11873,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16415",
      "sha256": "b20228f3cac615865230dfd152fc21fb1b64f0e650de978962a2fdae39262403"
+    }
+   ]
+  },
+  {
+   "slug": "hg-894-1998",
+   "path": "hg/1998/894",
+   "short": "HG nr. 894/1998",
+   "title": "Hotărârea Guvernului nr. 894/1998 privind transmiterea, cu justa despăgubire, a unui imobil situat în municipiul Brăila, judeţul Brăila, din patrimoniul Societăţii Comerciale \"Promex\" - S.A. în proprietatea publică a statului şi în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16561",
+   "versions": [
+    {
+     "from": "1998-12-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16561",
+     "sha256": "d8d976288da8f3c7d7cb259b589a27cdeb572283a26f358ffcd10014a17131b6"
     }
    ]
   },
@@ -9132,6 +11967,21 @@
    ]
   },
   {
+   "slug": "hg-9-1998",
+   "path": "hg/1998/9",
+   "short": "HG nr. 9/1998",
+   "title": "Hotărârea Guvernului nr. 9/1998 pentru modificarea şi completarea Hotărârii Guvernului nr. 735/1992 privind transmiterea unei construcţii proprietate de stat, situata în municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14007",
+   "versions": [
+    {
+     "from": "1998-01-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14007",
+     "sha256": "d0411f1dd71eced7227f70a065d7e01797359fc92a90822d22057921665d76eb"
+    }
+   ]
+  },
+  {
    "slug": "hg-90-1998",
    "path": "hg/1998/90",
    "short": "HG nr. 90/1998",
@@ -9207,6 +12057,21 @@
    ]
   },
   {
+   "slug": "hg-904-1998",
+   "path": "hg/1998/904",
+   "short": "HG nr. 904/1998",
+   "title": "Hotărârea Guvernului nr. 904/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa a localităţilor Blejeşti, Baciu şi Sericu, comuna Blejeşti, judeţul Teleorman\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16558",
+   "versions": [
+    {
+     "from": "1998-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16558",
+     "sha256": "b627accbea0ba1318f7ed104116e9f562b835a3cb1421fc22a2ef0aafe29f060"
+    }
+   ]
+  },
+  {
    "slug": "hg-905-1998",
    "path": "hg/1998/905",
    "short": "HG nr. 905/1998",
@@ -9218,6 +12083,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16559",
      "sha256": "667ce6b3aeb4c253ca04a67159eec81ae3271c9a446b20038c65f410f48b8e2c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-906-1998",
+   "path": "hg/1998/906",
+   "short": "HG nr. 906/1998",
+   "title": "Hotărârea Guvernului nr. 906/1998 privind unele măsuri în legătură cu asigurarea obligatorie de răspundere civilă pentru pagube produse terţilor prin accidente de autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16481",
+   "versions": [
+    {
+     "from": "1998-12-21",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16481",
+     "sha256": "a170cf252ac7d1488ed935018b6ae6b1b70b2b62503fcff0edbb2f25047cdc38"
+    }
+   ]
+  },
+  {
+   "slug": "hg-907-1998",
+   "path": "hg/1998/907",
+   "short": "HG nr. 907/1998",
+   "title": "Hotărârea Guvernului nr. 907/1998 privind aprobarea Normelor metodologice pentru aplicarea Ordonanţei de urgenţă a Guvernului nr. 24/1998 privind regimul zonelor defavorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16426",
+   "versions": [
+    {
+     "from": "1998-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16426",
+     "sha256": "1763dbb8c7fe8fee8b9e1900dc71a4d1d47d28ae2122153a856c0f5c72a1ed51"
     }
    ]
   },
@@ -9263,6 +12158,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14331",
      "sha256": "8389c08ae692a82670c797c0450efd128a9a19e4833786b45d993e0ee74a3e76"
+    }
+   ]
+  },
+  {
+   "slug": "hg-910-1998",
+   "path": "hg/1998/910",
+   "short": "HG nr. 910/1998",
+   "title": "Hotărârea Guvernului nr. 910/1998 pentru aprobarea modificării denumirii şi clasificării mărfurilor din Tariful vamal de import al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16487",
+   "versions": [
+    {
+     "from": "1998-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16487",
+     "sha256": "8696fad63227eff01450b91febc0e0ccdf90efe00934717425783097c5afdc3a"
     }
    ]
   },
@@ -9432,6 +12342,36 @@
    ]
   },
   {
+   "slug": "hg-922-1998",
+   "path": "hg/1998/922",
+   "short": "HG nr. 922/1998",
+   "title": "Hotărârea Guvernului nr. 922/1998 privind plata contribuţiei României în anii 1998 şi 1999 la programele Comunităţii Europene \"Kaleidoscope\", \"Raphael\" şi \"Ariane\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16471",
+   "versions": [
+    {
+     "from": "1998-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16471",
+     "sha256": "ae43f8019fb18163f4b6114b7a5d540b3fbc8225ef1d9c9d3401c2a392a2ce35"
+    }
+   ]
+  },
+  {
+   "slug": "hg-923-1998",
+   "path": "hg/1998/923",
+   "short": "HG nr. 923/1998",
+   "title": "Hotărârea Guvernului nr. 923/1998 privind alocarea unor sume din bugetul de stat pe anul 1998 pentru execuţia de lucrări în vederea punerii în siguranţa a nodului hidrotehnic Costei, judeţul Timiş, afectat de calamităţile produse în perioada mai-iunie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16472",
+   "versions": [
+    {
+     "from": "1998-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16472",
+     "sha256": "78401d162ba1c8213aedab65de00317bc40588b364eb1125408cc01ee9b043d8"
+    }
+   ]
+  },
+  {
    "slug": "hg-925-1998",
    "path": "hg/1998/925",
    "short": "HG nr. 925/1998",
@@ -9443,6 +12383,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16475",
      "sha256": "f10c4b986f81d0f3dc54697d1df34b12971aa54770d1e801f6b3a60b163c4d33"
+    }
+   ]
+  },
+  {
+   "slug": "hg-926-1998",
+   "path": "hg/1998/926",
+   "short": "HG nr. 926/1998",
+   "title": "Hotărârea Guvernului nr. 926/1998 pentru aprobarea bugetului Biroului de schimburi româno-americane în domeniile învăţământului şi ştiinţei pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16474",
+   "versions": [
+    {
+     "from": "1998-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16474",
+     "sha256": "aedd9c20f73d2fb9e3bfa87998dd665d2f7be70dd38a9aebdde27a761e9e95e5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-927-1998",
+   "path": "hg/1998/927",
+   "short": "HG nr. 927/1998",
+   "title": "Hotărârea Guvernului nr. 927/1998 privind suplimentarea bugetului Secretariatului General al Guvernului pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16476",
+   "versions": [
+    {
+     "from": "1998-12-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16476",
+     "sha256": "1ef08207bc39096aa34eb773846f7d0a06ae072530c24157410aee7c6f21214f"
     }
    ]
   },
@@ -9582,6 +12552,21 @@
    ]
   },
   {
+   "slug": "hg-936-1998",
+   "path": "hg/1998/936",
+   "short": "HG nr. 936/1998",
+   "title": "Hotărârea Guvernului nr. 936/1998 privind înfiinţarea Institutului Naţional de Cercetare-Dezvoltare în Informatica - ICI Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16562",
+   "versions": [
+    {
+     "from": "1998-12-29",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16562",
+     "sha256": "1085ba40bb8dc7ec5fea8a75b94865d0ad92ec454770686f959347ef7e621f8c"
+    }
+   ]
+  },
+  {
    "slug": "hg-937-1998",
    "path": "hg/1998/937",
    "short": "HG nr. 937/1998",
@@ -9593,6 +12578,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16515",
      "sha256": "29d321457acab44674a873e34d56df77a743bbb7f548417acb9a4051c31395c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-938-1998",
+   "path": "hg/1998/938",
+   "short": "HG nr. 938/1998",
+   "title": "Hotărârea Guvernului nr. 938/1998 privind înfiinţarea Centrului de Informare şi Consultanţa pentru Familie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16563",
+   "versions": [
+    {
+     "from": "1998-12-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16563",
+     "sha256": "acc557612d63e3cccb8dcbfc0d60dee1ca381070b002e6b04b0078e0a20a21ce"
     }
    ]
   },
@@ -9627,6 +12627,36 @@
    ]
   },
   {
+   "slug": "hg-940-1998",
+   "path": "hg/1998/940",
+   "short": "HG nr. 940/1998",
+   "title": "Hotărârea Guvernului nr. 940/1998 privind modalităţile de subordonare şi de numire în funcţie a comisarului general al Gărzii financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16517",
+   "versions": [
+    {
+     "from": "1998-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16517",
+     "sha256": "8a1545fa1b452d1a5bda1cf53d95487ad0e3f74134190877b5e629b727aa1c53"
+    }
+   ]
+  },
+  {
+   "slug": "hg-942-1998",
+   "path": "hg/1998/942",
+   "short": "HG nr. 942/1998",
+   "title": "Hotărârea Guvernului nr. 942/1998 pentru acordarea cetăţeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16658",
+   "versions": [
+    {
+     "from": "1999-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16658",
+     "sha256": "8c89cee944c8962fa0e496a9ec63ea9d1ced778b6c943dbce0ff0e4261aeab65"
+    }
+   ]
+  },
+  {
    "slug": "hg-943-1998",
    "path": "hg/1998/943",
    "short": "HG nr. 943/1998",
@@ -9638,6 +12668,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16552",
      "sha256": "1fe22efcfceabc050f20341553422c74cd272de81a5e1ca5a0c9ccd79c9183af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-944-1998",
+   "path": "hg/1998/944",
+   "short": "HG nr. 944/1998",
+   "title": "Hotărârea Guvernului nr. 944/1998 privind acordarea unui ajutor de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16604",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16604",
+     "sha256": "acb1a0e375f06c170a8664895237ca9585cac311ae741f485602a4817700e1e1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-945-1998",
+   "path": "hg/1998/945",
+   "short": "HG nr. 945/1998",
+   "title": "Hotărârea Guvernului nr. 945/1998 privind acordarea unui ajutor de urgenta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16605",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16605",
+     "sha256": "e922b24ecb59e1eea2f4e2133d45067c8fe3e224cb15f313fac8d5c8bdc8a2f2"
     }
    ]
   },
@@ -9657,6 +12717,36 @@
    ]
   },
   {
+   "slug": "hg-947-1998",
+   "path": "hg/1998/947",
+   "short": "HG nr. 947/1998",
+   "title": "Hotărârea Guvernului nr. 947/1998 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 1998 al Institutului Naţional de Cercetare Ştiinţifică în Domeniul Muncii şi Protecţiei Sociale, aflat în coordonarea Ministerului Muncii şi Protecţiei Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16606",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16606",
+     "sha256": "62ce99a60fefcce8e1f787f5dfe8f9929471aec01560d451aa923262663f9bda"
+    }
+   ]
+  },
+  {
+   "slug": "hg-948-1998",
+   "path": "hg/1998/948",
+   "short": "HG nr. 948/1998",
+   "title": "Hotărârea Guvernului nr. 948/1998 pentru aprobarea bugetului de venituri şi cheltuieli rectificat pe anul 1998 al Regiei Autonome \"Locato\", regie autonomă de interes naţional de sub autoritatea Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16607",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16607",
+     "sha256": "534301d4a3221dbf5bd0cb0e000f21b9c36100ec7a4219f4f296096dc269109a"
+    }
+   ]
+  },
+  {
    "slug": "hg-949-1998",
    "path": "hg/1998/949",
    "short": "HG nr. 949/1998",
@@ -9672,6 +12762,21 @@
    ]
   },
   {
+   "slug": "hg-95-1998",
+   "path": "hg/1998/95",
+   "short": "HG nr. 95/1998",
+   "title": "Hotărârea Guvernului nr. 95/1998 privind eliberarea din funcţia de prefect al judeţului Călăraşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14337",
+   "versions": [
+    {
+     "from": "1998-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14337",
+     "sha256": "aa64fe780b282614d1f3ca07dd1c552abd3dc80d12f0a41fe0ea654f69619a6f"
+    }
+   ]
+  },
+  {
    "slug": "hg-950-1998",
    "path": "hg/1998/950",
    "short": "HG nr. 950/1998",
@@ -9683,6 +12788,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16537",
      "sha256": "86c37ca68ea54bb119eec3200430053e855fc5b2b57dd93c505b5d37c936fae1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-951-1998",
+   "path": "hg/1998/951",
+   "short": "HG nr. 951/1998",
+   "title": "Hotărârea Guvernului nr. 951/1998 privind alocarea unor fonduri din bugetul de stat pe anul 1998 în vederea acoperirii cheltuielilor efectuate cu cazarea şi cu masa persoanelor sinistrate din imobilul situat în bd. Dacia nr. 33, sectorul 1, Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16608",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16608",
+     "sha256": "fc21de4e5c05512489f017c3b605863c5af2976a5d44c90b8e0163fd95c45910"
     }
    ]
   },
@@ -9732,6 +12852,66 @@
    ]
   },
   {
+   "slug": "hg-959-1998",
+   "path": "hg/1998/959",
+   "short": "HG nr. 959/1998",
+   "title": "Hotărârea Guvernului nr. 959/1998 privind participarea României la Expoziţia Mondială EXPO-2000 \"Om - Natura - Tehnologie\", Hanovra 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16613",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16613",
+     "sha256": "3f1879e077471ae7c2bbd810c90b362d91af81b9e21556e66fe169f19f0a9470"
+    }
+   ]
+  },
+  {
+   "slug": "hg-96-1998",
+   "path": "hg/1998/96",
+   "short": "HG nr. 96/1998",
+   "title": "Hotărârea Guvernului nr. 96/1998 privind numirea în funcţia de prefect al judeţului Călăraşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14340",
+   "versions": [
+    {
+     "from": "1998-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14340",
+     "sha256": "2a6a15ccacd37ef71d031539f9cee817f2cee1959a806666b17953975a7b9d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-960-1998",
+   "path": "hg/1998/960",
+   "short": "HG nr. 960/1998",
+   "title": "Hotărârea Guvernului nr. 960/1998 pentru modificarea Hotărârii Guvernului nr. 560/1994 privind organizarea şi funcţionarea Agenţiei Naţionale de Presa \"Rompres\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16626",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16626",
+     "sha256": "70fe551a8a11866a12591be1d66d9c9fd2f8e06945653024461c54e7808a76cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-961-1998",
+   "path": "hg/1998/961",
+   "short": "HG nr. 961/1998",
+   "title": "Hotărârea Guvernului nr. 961/1998 privind alocarea unor sume din bugetul de stat pe anul 1998 pentru înlăturarea efectelor calamităţilor naturale produse în comuna Dragalina, judeţul Călăraşi, în perioada ianuarie-februarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16609",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16609",
+     "sha256": "c562af92db188d33e4a6cf8bbf807442ef980997a08bf860f211417d40c1116f"
+    }
+   ]
+  },
+  {
    "slug": "hg-962-1998",
    "path": "hg/1998/962",
    "short": "HG nr. 962/1998",
@@ -9758,6 +12938,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16591",
      "sha256": "e3837438bf984614399baf53af231333bf9f445b197a6b0f7aa5d2cf547f05bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-964-1998",
+   "path": "hg/1998/964",
+   "short": "HG nr. 964/1998",
+   "title": "Hotărârea Guvernului nr. 964/1998 pentru aprobarea clasificaţiei şi a duratelor normale de funcţionare a mijloacelor fixe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16651",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16651",
+     "sha256": "db42d2f64af469d752c1b75666796abe96a39e84671ac0372f0c35065c4d6a98"
     }
    ]
   },
@@ -9822,6 +13017,21 @@
    ]
   },
   {
+   "slug": "hg-97-1998",
+   "path": "hg/1998/97",
+   "short": "HG nr. 97/1998",
+   "title": "Hotărârea Guvernului nr. 97/1998 privind finanţarea de la bugetul de stat a cheltuielilor de protecţie socială ce se acordă pentru unele activităţi din sectorul minier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14341",
+   "versions": [
+    {
+     "from": "1998-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14341",
+     "sha256": "6b775833c28efb7d20ab2f41a56d88ab1e02bdb867af5bf627bef2658be0921e"
+    }
+   ]
+  },
+  {
    "slug": "hg-970-1998",
    "path": "hg/1998/970",
    "short": "HG nr. 970/1998",
@@ -9837,6 +13047,36 @@
    ]
   },
   {
+   "slug": "hg-971-1998",
+   "path": "hg/1998/971",
+   "short": "HG nr. 971/1998",
+   "title": "Hotărârea Guvernului nr. 971/1998 pentru înfiinţarea, organizarea şi funcţionarea Departamentului pentru Relaţiile cu Românii de Peste Hotare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16634",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16634",
+     "sha256": "40d1dd19ebd4ef5f8be8b6e9037030388a272a07dfd20ef0805cc09fd96e6bc4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-972-1998",
+   "path": "hg/1998/972",
+   "short": "HG nr. 972/1998",
+   "title": "Hotărârea Guvernului nr. 972/1998 privind organizarea şi funcţionarea Autorităţii Naţionale pentru Turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16635",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16635",
+     "sha256": "a76f269616252a21cfd34a22fa5790dfc9f6719a55097420464489d6f78bf712"
+    }
+   ]
+  },
+  {
    "slug": "hg-973-1998",
    "path": "hg/1998/973",
    "short": "HG nr. 973/1998",
@@ -9848,6 +13088,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16636",
      "sha256": "6e657b9053bab596881a31fabe67b15f6096bd74c2b2511f389536f9e201b38d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-974-1998",
+   "path": "hg/1998/974",
+   "short": "HG nr. 974/1998",
+   "title": "Hotărârea Guvernului nr. 974/1998 privind organizarea şi funcţionarea Agenţiei Naţionale pentru Ştiinţa, Tehnologie şi Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16648",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16648",
+     "sha256": "b13eef86e32da1a256768af7a755dda48bb344b970a6bcf078bd208f9634d374"
     }
    ]
   },
@@ -9882,6 +13137,21 @@
    ]
   },
   {
+   "slug": "hg-977-1998",
+   "path": "hg/1998/977",
+   "short": "HG nr. 977/1998",
+   "title": "Hotărârea Guvernului nr. 977/1998 privind organizarea şi funcţionarea Agenţiei Române de Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16639",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16639",
+     "sha256": "cd2760688c2ce6bb56280ad8b75362b2e99d9732a29e0b72103e58e265f20fd0"
+    }
+   ]
+  },
+  {
    "slug": "hg-978-1998",
    "path": "hg/1998/978",
    "short": "HG nr. 978/1998",
@@ -9893,6 +13163,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16629",
      "sha256": "311338cbfb2f9855291fe5bcbc736cf7d1f5466c32c4612e31d11e4c1d9a1050"
+    }
+   ]
+  },
+  {
+   "slug": "hg-979-1998",
+   "path": "hg/1998/979",
+   "short": "HG nr. 979/1998",
+   "title": "Hotărârea Guvernului nr. 979/1998 pentru desemnarea reprezentanţilor Guvernului în Consiliul Naţional pentru Dezvoltare Regionala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16637",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16637",
+     "sha256": "47ab43ac0a2ed526491032261f67ddd463120164d52f199bfce9d3b2f4d4e77f"
     }
    ]
   },
@@ -9912,6 +13197,21 @@
    ]
   },
   {
+   "slug": "hg-980-1998",
+   "path": "hg/1998/980",
+   "short": "HG nr. 980/1998",
+   "title": "Hotărârea Guvernului nr. 980/1998 pentru înfiinţarea Companiei Naţionale \"Institutul Naţional de Meteorologie, Hidrologie şi Gospodărire a Apelor\" - S.A. (I.N.M.H.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16683",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16683",
+     "sha256": "9a72c6855a438a5b47b5131c129afaecb6620ab919188bbf3455093a7be1c266"
+    }
+   ]
+  },
+  {
    "slug": "hg-981-1998",
    "path": "hg/1998/981",
    "short": "HG nr. 981/1998",
@@ -9923,6 +13223,21 @@
      "units": 46,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16684",
      "sha256": "e68bcc34e1b503e8f1930c2fd2a97fc80d02c04fd89096934110b6546132d166"
+    }
+   ]
+  },
+  {
+   "slug": "hg-983-1998",
+   "path": "hg/1998/983",
+   "short": "HG nr. 983/1998",
+   "title": "Hotărârea Guvernului nr. 983/1998 privind reevaluarea clădirilor, construcţiilor speciale şi a terenurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16652",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16652",
+     "sha256": "34c451d9b16f3ab9da11047dc621158fd4cb3431bf785ad8d9f5ec67fa0a8d8c"
     }
    ]
   },
@@ -9942,6 +13257,21 @@
    ]
   },
   {
+   "slug": "hg-985-1998",
+   "path": "hg/1998/985",
+   "short": "HG nr. 985/1998",
+   "title": "Hotărârea Guvernului nr. 985/1998 privind aprobarea mandatului Fondului Proprietăţii de Stat referitor la privatizarea Societăţii Comerciale \"Petromidia\" - S.A. Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16628",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16628",
+     "sha256": "92b21ebfc6fcd3d9d568b31a2ab2a164093a8f66c32de1afad385b1c7f7b710f"
+    }
+   ]
+  },
+  {
    "slug": "hg-986-1998",
    "path": "hg/1998/986",
    "short": "HG nr. 986/1998",
@@ -9953,6 +13283,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16585",
      "sha256": "5faf2307e51ebebcc6fe07a3d70e87055ca88cdc16cced4405c10bc17a39a14f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-987-1998",
+   "path": "hg/1998/987",
+   "short": "HG nr. 987/1998",
+   "title": "Hotărârea Guvernului nr. 987/1998 privind alocarea unor sume din bugetul de stat pe anul 1998 pentru înlăturarea efectelor accidentului tehnic produs la obiectivul de investiţii \"Instalaţia de utilizare a gazelor naturale la blocul A1 din str. Carpaţi nr. 2, municipiul Bârlad, judeţul Vaslui\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16586",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16586",
+     "sha256": "ee67f9ff90cf8b874496bd82d2885ca1190cc35847f70ecfc5fab6a5485e9096"
     }
    ]
   },
@@ -10103,6 +13448,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16677",
      "sha256": "b05cd53c1af345dcecfa767225225d8b80b6c1e3c194dec4535a12575c2d88eb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-997-1998",
+   "path": "hg/1998/997",
+   "short": "HG nr. 997/1998",
+   "title": "Hotărârea Guvernului nr. 997/1998 pentru înfiinţarea Oficiului Naţional al Burselor de Studii în Străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16678",
+   "versions": [
+    {
+     "from": "1999-01-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16678",
+     "sha256": "e9cd8e30de9f7d200985baf535948a857ead60e728dca4c538fb8ee6918c27ed"
     }
    ]
   }

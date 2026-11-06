@@ -1,0 +1,17 @@
+# Hotărârea Guvernului nr. 401/1997 pentru aprobarea Normelor privind categoriile de cheltuieli care se suporta din bugetul Ministerului Cercetării şi Tehnologiei în vederea realizării programelor cuprinse în Planul naţional pentru cercetare-dezvoltare şi inovare
+
+HG nr. 401/1997 · 1 versions, from 1997-08-06 (latest in force: 1997-08-06) · <https://legislatie.just.ro/Public/DetaliiDocument/12629>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul UNIC | [art-001.md](art-001.md) | 0 |  |
+
+Act id: `hg-401-1997` (tags `hg-401-1997/<day>`; `python tools/on.py <day> hg-401-1997`).
+
+## Decisions made by hand
+
+- HG nr. 401/1997: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 12629, retrieved 2026-11-02).
+- HG nr. 401/1997: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- HG nr. 401/1997: the first version is the Government decision as published in Monitorul Oficial nr. 186 of 6 August 1997 (document 12629 of the official web service), dated 6 August 1997: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
+- HG nr. 401/1997: the Government decision has a single article ("Articol unic"), filed as art-001.
+- HG nr. 401/1997: AMENDMENTS NOT APPLIED. Later acts change this act (by: HOTĂRÂRE nr. 1.579 din 18 decembrie 2002 pentru aprobarea Normelor metodologice privind stabilirea categoriilor de che; HOTĂRÂRE nr. 48 din 2 februarie 1998 pentru aprobarea Normelor metodologice privind finanţarea, elaborarea, atribuirea), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 12629, retrieved 2026-11-02; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.

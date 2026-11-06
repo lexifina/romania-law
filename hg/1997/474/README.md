@@ -1,0 +1,17 @@
+# Hotărârea Guvernului nr. 474/1997 privind unele măsuri pentru creşterea gradului de siguranţă în funcţionare şi a puterii instalate la Centrala Hidroelectrica Porţile de Fier I
+
+HG nr. 474/1997 · 1 versions, from 1997-09-03 (latest in force: 1997-09-03) · <https://legislatie.just.ro/Public/DetaliiDocument/12812>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+
+Act id: `hg-474-1997` (tags `hg-474-1997/<day>`; `python tools/on.py <day> hg-474-1997`).
+
+## Decisions made by hand
+
+- HG nr. 474/1997: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 12812, retrieved 2026-11-02).
+- HG nr. 474/1997: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, issuer, number and in-force day confirmed by the service, and no act changing it found by the full-text search.
+- HG nr. 474/1997: the first version is the Government decision as published in Monitorul Oficial nr. 228 of 3 September 1997 (document 12812 of the official web service), dated 3 September 1997: a Government decision with no day of its own, in force on publication (Legea nr. 24/2000 art. 12 alin. (3)). Later acts change it, but no consolidated form of it is held, so this record holds only the text as published; no page of the act is held.
+- HG nr. 474/1997: AMENDMENTS NOT APPLIED. Later acts change this act (by: HOTĂRÂRE nr. 11 din 11 martie 2025 În temeiul prevederilor art. 6 din Regulamentul activităților comune ale Camerei Depu), but no consolidated text of it is held: the Portalul legislativ has not answered since 5 November 2026 and no complete archive capture of a consolidated form is held. This record therefore holds only the act as published, as the official web service returns it (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 12812, retrieved 2026-11-02; read the amending acts for the text in force. The consolidated versions are to be added when a source for them is available.
