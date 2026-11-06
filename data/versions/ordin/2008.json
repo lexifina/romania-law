@@ -2538,6 +2538,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-477-2008",
+   "path": "ordin/anaf/2008/477",
+   "short": "Ordin anaf nr. 477/2008",
+   "title": "Ordinul nr. 477/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90715",
+   "versions": [
+    {
+     "from": "2008-03-26",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406220522id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/90715",
+     "sha256": "469363004f765cb67251435a02a4660e9cf0b7ca6c6889d89521860aadbe2a11"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-5198-2008",
    "path": "ordin/anaf/2008/5198",
    "short": "Ordin anaf nr. 5198/2008",
@@ -4724,6 +4739,21 @@
      "units": 6,
      "source_url": "https://web.archive.org/web/20250406131234id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/100012",
      "sha256": "53221d5ee339d0c49820b074f8a0b388085f12830925f88a860d7cbf13bf2c0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-antidoping-7-2008",
+   "path": "ordin/antidoping/2008/7",
+   "short": "Ordin antidoping nr. 7/2008",
+   "title": "Ordinul nr. 7/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89706",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250407152736id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/89706",
+     "sha256": "83ae2e39c480e77395722f421bb8e640f2e46f24129d27ed7966bf7dbbc3e345"
     }
    ]
   },
@@ -8268,6 +8298,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-169-2008",
+   "path": "ordin/finante/2008/169",
+   "short": "Ordin finante nr. 169/2008",
+   "title": "Ordinul nr. 169/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89734",
+   "versions": [
+    {
+     "from": "2008-02-20",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250407132926id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/89734",
+     "sha256": "78d2e4d8913028b1257f2dfea4bd749323c6e96a6e3cc0e8eae34acdaf620f98"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1706-2008",
    "path": "ordin/finante/2008/1706",
    "short": "Ordin finante nr. 1706/2008",
@@ -11399,6 +11444,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91988",
      "sha256": "85ee11250238ad64c6bcc7855449139ac31af72ef373ed6d680add7674357122"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1240-c-2008",
+   "path": "ordin/justitie/2008/1240-c",
+   "short": "Ordin justitie nr. 1240/C/2008",
+   "title": "Ordinul nr. 1.240/C/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92568",
+   "versions": [
+    {
+     "from": "2008-05-09",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250406103116id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/92568",
+     "sha256": "e135d4f7a33e6d5a1d3b6015192c03d6aa34bdc78b1dcd55e3d263b8c5ff6de6"
     }
    ]
   },

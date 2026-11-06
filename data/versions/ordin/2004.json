@@ -3543,6 +3543,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-1-2004",
+   "path": "ordin/anre/2004/1",
+   "short": "Ordin anre nr. 1/2004",
+   "title": "Ordinul nr. 1/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49324",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407142600id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/49324",
+     "sha256": "12df992e69fa363bd2bcb579fc436551d80b98693cb82ec06d5f3857c1e3da96"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-10-2004",
    "path": "ordin/anre/2004/10",
    "short": "Ordin anre nr. 10/2004",
@@ -5838,6 +5853,36 @@
    ]
   },
   {
+   "slug": "ordin-cncan-361-2004",
+   "path": "ordin/cncan/2004/361",
+   "short": "Ordin cncan nr. 361/2004",
+   "title": "Ordinul nr. 361/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57683",
+   "versions": [
+    {
+     "from": "2004-12-13",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20250406214422id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/57683",
+     "sha256": "e4b412eba2644f259152db7dc687512d1c30c9cf5f8dbcba4f6558d15c443cba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cncan-368-2004",
+   "path": "ordin/cncan/2004/368",
+   "short": "Ordin cncan nr. 368/2004",
+   "title": "Ordinul nr. 368/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59109",
+   "versions": [
+    {
+     "from": "2005-02-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406214420id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/59109",
+     "sha256": "8a4326aa0dac96c3a7754db1d515121ccc3cecd020fcf5a8302e342cd5166305"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cncan-407-2004",
    "path": "ordin/cncan/2004/407",
    "short": "Ordin cncan nr. 407/2004",
@@ -6708,6 +6753,21 @@
    ]
   },
   {
+   "slug": "ordin-concurenta-501-2004",
+   "path": "ordin/concurenta/2004/501",
+   "short": "Ordin concurenta nr. 501/2004",
+   "title": "Ordinul nr. 501/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57873",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406100239id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/57873",
+     "sha256": "ef6cfa431cd2e52f7c6657cbe980eef160b0d2660d642de11981c895de8ee70a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-51-2004",
    "path": "ordin/concurenta/2004/51",
    "short": "Ordin concurenta nr. 51/2004",
@@ -6959,6 +7019,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51898",
      "sha256": "18cee6a1c1239ca68d4dab4eaa73e427ac17c3a8cc4102f877854276f09956ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-concurenta-94-2004",
+   "path": "ordin/concurenta/2004/94",
+   "short": "Ordin concurenta nr. 94/2004",
+   "title": "Ordinul nr. 94/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51968",
+   "versions": [
+    {
+     "from": "2004-05-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406225342id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/51968",
+     "sha256": "36d9ed96b24a70199adefed9d589d439a320ac5dc0537b89c94a74de5b8780b1"
     }
    ]
   },
@@ -7589,6 +7664,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52860",
      "sha256": "060d0e84a1b025d99e8617d9699880a2b7ca9045160b43552332a5c2711953a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-360-2004",
+   "path": "ordin/economie/2004/360",
+   "short": "Ordin economie nr. 360/2004",
+   "title": "Ordinul nr. 360/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52861",
+   "versions": [
+    {
+     "from": "2004-06-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406061242id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/52861",
+     "sha256": "c917ac0c727be3fb195321629be496038c4ab353b03b72766f3370ebc06427d9"
     }
    ]
   },
@@ -11658,6 +11748,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-289-2004",
+   "path": "ordin/finante/2004/289",
+   "short": "Ordin finante nr. 289/2004",
+   "title": "Ordinul nr. 289/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49868",
+   "versions": [
+    {
+     "from": "2004-02-19",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250407170049id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/49868",
+     "sha256": "db4b54481a26c835cfd92f5facbfa01e7c562ac1a68490abf18241c759792dcc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-300-2004",
    "path": "ordin/finante/2004/300",
    "short": "Ordin finante nr. 300/2004",
@@ -14654,6 +14759,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55352",
      "sha256": "f8e061b130530a9a62d47e296253de0e62c3fb1ba807d56ccc0fb6de88da1aaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1144-2004",
+   "path": "ordin/sanatate/2004/1144",
+   "short": "Ordin sanatate nr. 1144/2004",
+   "title": "Ordinul nr. 1.144/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55276",
+   "versions": [
+    {
+     "from": "2004-09-20",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20240810211405id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/55276",
+     "sha256": "c5ff1fc38fedf60d6ebd4bb285516f3f0a2cb52b59e3b6f6466684a22947b54c"
     }
    ]
   },

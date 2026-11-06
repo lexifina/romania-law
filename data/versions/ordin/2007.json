@@ -4023,6 +4023,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-57-2007",
+   "path": "ordin/anre/2007/57",
+   "short": "Ordin anre nr. 57/2007",
+   "title": "Ordinul nr. 57/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88133",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407134804id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/88133",
+     "sha256": "28edc43cce6afbb7ef0f9f60e1d2efc600e99cad80de654f469385920be3ed49"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-58-2007",
    "path": "ordin/anre/2007/58",
    "short": "Ordin anre nr. 58/2007",
@@ -5958,6 +5973,21 @@
    ]
   },
   {
+   "slug": "ordin-antidoping-27-2007",
+   "path": "ordin/antidoping/2007/27",
+   "short": "Ordin antidoping nr. 27/2007",
+   "title": "Ordinul nr. 27/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81018",
+   "versions": [
+    {
+     "from": "2007-04-10",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20250406091644id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/81018",
+     "sha256": "f7a650b22f120871fc7acd1132637f3f85bb09ca5d488488d90543c5d9591e87"
+    }
+   ]
+  },
+  {
    "slug": "ordin-antidoping-28-2007",
    "path": "ordin/antidoping/2007/28",
    "short": "Ordin antidoping nr. 28/2007",
@@ -7413,6 +7443,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-858-2007",
+   "path": "ordin/dezvoltare/2007/858",
+   "short": "Ordin dezvoltare nr. 858/2007",
+   "title": "Ordinul nr. 858/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86597",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406232134id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/86597",
+     "sha256": "d8a433e7b1df30c6f5d7184384bdacf6817ddee6209e33f0daa9f1b5742a9c88"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-910-2007",
    "path": "ordin/dezvoltare/2007/910",
    "short": "Ordin dezvoltare nr. 910/2007",
@@ -7589,6 +7634,21 @@
      "units": 87,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81161",
      "sha256": "397efdb077d3b3afbec971e706a205a2fe1b9737a9f0340642c51c1a77685416"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1610-2007",
+   "path": "ordin/economie/2007/1610",
+   "short": "Ordin economie nr. 1610/2007",
+   "title": "Ordinul nr. 1.610/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81329",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407112443id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/81329",
+     "sha256": "3c28e22997e10e63c495fc4042f37b5af56ff16c0c7bfda28c90436c8b575d78"
     }
    ]
   },
@@ -15498,6 +15558,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1071-2007",
+   "path": "ordin/transporturi/2007/1071",
+   "short": "Ordin transporturi nr. 1071/2007",
+   "title": "Ordinul nr. 1.071/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87513",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250428223241id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/87513",
+     "sha256": "29f32d5f436d8e37ca673227c666c8d3eccf03e0b3eeba7203480d9e35014d08"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1090-2007",
    "path": "ordin/transporturi/2007/1090",
    "short": "Ordin transporturi nr. 1090/2007",
@@ -15869,6 +15944,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82417",
      "sha256": "1e4050dc3782feb68be49405acbac2e52a17c99ad1922799315d1f86bfffc4fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-262-2007",
+   "path": "ordin/transporturi/2007/262",
+   "short": "Ordin transporturi nr. 262/2007",
+   "title": "Ordinul nr. 262/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82507",
+   "versions": [
+    {
+     "from": "2007-06-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251015201043id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/82507",
+     "sha256": "dadfb77ba4b6b67211df5a7b3daa7f939e7a73360bd7d1e470683e14d2d3644f"
     }
    ]
   },

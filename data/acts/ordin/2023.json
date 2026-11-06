@@ -2159,6 +2159,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-1106-2023",
+"path": "ordin/anaf/2023/1106",
+"kind": "ordin",
+"year": "2023",
+"number": "1106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.106/2023 pentru aprobarea modelului și conținutului formularului tipizat \"Proces-verbal de constatare și sancționare a contravențiilor\", utilizat de personalul Direcției generale de informații fiscale și al structurilor de informații fiscale",
+"short": "Ordin anaf nr. 1106/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-07-21",
+"latest": "2023-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/272331",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-1107-2023",
 "path": "ordin/anaf/2023/1107",
 "kind": "ordin",
@@ -25436,6 +25455,25 @@
 "alias": "ordin-dezvoltare-873-2023"
 }
 ]
+},
+{
+"slug": "ordin-transporturi-976-2023",
+"path": "ordin/transporturi/2023/976",
+"kind": "ordin",
+"year": "2023",
+"number": "976",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 976/2023 pentru adoptarea amendamentelor necesare adaptării la progresul științific și tehnic a prevederilor anexelor la Hotărârea Guvernului nr. 1.326/2009 privind transportul mărfurilor periculoase în România",
+"short": "Ordin transporturi nr. 976/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/270006",
+"issuer": "transporturi",
+"joint": []
 },
 {
 "slug": "ordin-transporturi-994-2023",

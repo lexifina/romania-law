@@ -2478,6 +2478,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-23-2002",
+   "path": "ordin/agricultura/2002/23",
+   "short": "Ordin agricultura nr. 23/2002",
+   "title": "Ordinul nr. 23/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33662",
+   "versions": [
+    {
+     "from": "2002-02-08",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20190531011437id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/33662",
+     "sha256": "e21fc59fb17bc8e1374d31afdb9b47140ec81724091c4846a282ba6d442d270c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-230-2002",
    "path": "ordin/agricultura/2002/230",
    "short": "Ordin agricultura nr. 230/2002",
@@ -3959,6 +3974,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39912",
      "sha256": "be7eb5e7f04a878edc73088a5fe48d518e9e40ca72d6b82c7a1d197ac16a82b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-499-2002",
+   "path": "ordin/agricultura/2002/499",
+   "short": "Ordin agricultura nr. 499/2002",
+   "title": "Ordinul nr. 499/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/39943",
+   "versions": [
+    {
+     "from": "2002-11-18",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407125105id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/39943",
+     "sha256": "44e94339e996e7259c1e53b22944cef1e91366dd116b52e14eaa83529db91fad"
     }
    ]
   },
@@ -7323,6 +7353,21 @@
    ]
   },
   {
+   "slug": "ordin-dezvoltare-57-2002",
+   "path": "ordin/dezvoltare/2002/57",
+   "short": "Ordin dezvoltare nr. 57/2002",
+   "title": "Ordinul nr. 57/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35340",
+   "versions": [
+    {
+     "from": "2002-04-17",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250406223806id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/35340",
+     "sha256": "56aa186aa7f4bf924a76cd5c3a02365518e6032a1a687df6db75c15f3798d075"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-58-2002",
    "path": "ordin/dezvoltare/2002/58",
    "short": "Ordin dezvoltare nr. 58/2002",
@@ -8579,6 +8624,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41003",
      "sha256": "e07112187ef19be3284f13da2da9f3bb19357f1f5b25e1ae103c6ff41d1e6584"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-76-2002",
+   "path": "ordin/economie/2002/76",
+   "short": "Ordin economie nr. 76/2002",
+   "title": "Ordinul nr. 76/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35834",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406034303id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/35834",
+     "sha256": "c23ac307e7d5aa3e4440073f6fcef597f60b590a13696667afa460ef2b7cbbf3"
     }
    ]
   },

@@ -1188,6 +1188,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-1106-2023",
+   "path": "ordin/anaf/2023/1106",
+   "short": "Ordin anaf nr. 1106/2023",
+   "title": "Ordinul nr. 1.106/2023 pentru aprobarea modelului și conținutului formularului tipizat \"Proces-verbal de constatare și sancționare a contravențiilor\", utilizat de personalul Direcției generale de informații fiscale și al structurilor de informații fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272331",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20240714235457id_/https://legislatie.just.ro/Public/DetaliiDocument/272331",
+     "sha256": "edfa45979d14a0b59aa93f320f5d72ef16b7a785810258df56e079b432e1ce17"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-1107-2023",
    "path": "ordin/anaf/2023/1107",
    "short": "Ordin anaf nr. 1107/2023",
@@ -19094,6 +19109,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270561",
      "sha256": "5720b24bfe12d5d7092ab64d2dd63f4392503ce5b079c9008778aab5cbe6fe33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-976-2023",
+   "path": "ordin/transporturi/2023/976",
+   "short": "Ordin transporturi nr. 976/2023",
+   "title": "Ordinul nr. 976/2023 pentru adoptarea amendamentelor necesare adaptării la progresul științific și tehnic a prevederilor anexelor la Hotărârea Guvernului nr. 1.326/2009 privind transportul mărfurilor periculoase în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270006",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406130014id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/270006",
+     "sha256": "5e1c76d30d3b8f63970c51bcfcfe768d89050974387fd37ce5a5594b745d8fa3"
     }
    ]
   },

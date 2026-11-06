@@ -3378,6 +3378,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-219-2018",
+   "path": "ordin/anre/2018/219",
+   "short": "Ordin anre nr. 219/2018",
+   "title": "Ordinul nr. 219/2018 privind aprobarea Metodologiei pentru stabilirea venitului unitar aferent activității de furnizare reglementată, desfășurată într-un an de reglementare, și de aprobare a prețurilor reglementate în sectorul gazelor naturale, începând cu anul 2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209362",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407114234id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/209362",
+     "sha256": "3c4d7a31f025f04b3d2d413d279165b3b2982e058e214ef6ed51b247c77ef283"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-22-2018",
    "path": "ordin/anre/2018/22",
    "short": "Ordin anre nr. 22/2018",
@@ -3899,6 +3914,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199543",
      "sha256": "d4121f51c1cee057983f1acdfbec9e499cdb0833091d906c2cf198329f6dd7cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-70-2018",
+   "path": "ordin/anre/2018/70",
+   "short": "Ordin anre nr. 70/2018",
+   "title": "Ordinul nr. 70/2018 privind aprobarea Condițiilor-cadru de valabilitate asociate licenței pentru activitatea de furnizare de GPL",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202049",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407133002id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/202049",
+     "sha256": "3cb027226a7bdf6759fe1502485586a94cf4d581813abba2289c5c996b816e23"
     }
    ]
   },
@@ -8219,6 +8249,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201430",
      "sha256": "7d0bee3cf5ea7c95fd3fdc105d28098d511c2dc6ae7ab10b52db0dc9f71d9d64"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3755-2018",
+   "path": "ordin/educatie/2018/3755",
+   "short": "Ordin educatie nr. 3755/2018",
+   "title": "Ordinul nr. 3.755/2018 pentru modificarea Ordinului ministrului educației naționale nr. 4.796/2017 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201471",
+   "versions": [
+    {
+     "from": "2018-06-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20220702143011id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/201471",
+     "sha256": "baba47a25f667fd94de7c4aa4801035789b2e4d0be9c990b213dffea30ff5190"
     }
    ]
   },
@@ -15014,6 +15059,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202141",
      "sha256": "0ba885debf57277092d952acdd59b89c5ac67dcf9680206861d01618b6dc2a88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1052-2018",
+   "path": "ordin/transporturi/2018/1052",
+   "short": "Ordin transporturi nr. 1052/2018",
+   "title": "Ordinul nr. 1.052/2018 privind modificarea anexei la Ordinul ministrului transporturilor nr. 1.064/2007 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviația civilă din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201462",
+   "versions": [
+    {
+     "from": "2018-06-13",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407001904id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/201462",
+     "sha256": "f1ecc8fb2897d4bdf8efe0f53d6585a1c0c9745463495db54d14fa6a5fee0378"
     }
    ]
   },

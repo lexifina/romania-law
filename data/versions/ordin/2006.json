@@ -3408,6 +3408,21 @@
    ]
   },
   {
+   "slug": "ordin-anfp-7660-2006",
+   "path": "ordin/anfp/2006/7660",
+   "short": "Ordin anfp nr. 7660/2006",
+   "title": "Ordinul nr. 7.660/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74751",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20250407063042id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/74751",
+     "sha256": "1e3fe0ddc736375e33feab9e2246cd7d0c64a5c9ccb6d4e9f5c1147b3fd4dbd2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anfp-968-2006",
    "path": "ordin/anfp/2006/968",
    "short": "Ordin anfp nr. 968/2006",
@@ -5448,6 +5463,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-291-2006",
+   "path": "ordin/ansvsa/2006/291",
+   "short": "Ordin ansvsa nr. 291/2006",
+   "title": "Ordinul nr. 291/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78250",
+   "versions": [
+    {
+     "from": "2007-01-04",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407065647id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/78250",
+     "sha256": "7b5069f1593b7bcbf4bf60f06b3e9242320484975eb39fcb2a998b382b3c1c81"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-292-2006",
    "path": "ordin/ansvsa/2006/292",
    "short": "Ordin ansvsa nr. 292/2006",
@@ -7473,6 +7503,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-113105-2006",
+   "path": "ordin/csa/2006/113105",
+   "short": "Ordin csa nr. 113105/2006",
+   "title": "Ordinul nr. 113.105/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70212",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407025034id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/70212",
+     "sha256": "3c01c35d4f2cbf41769387257c18f50ee922a31b1c350d6a41c07d6c0d248e60"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-113107-2006",
    "path": "ordin/csa/2006/113107",
    "short": "Ordin csa nr. 113107/2006",
@@ -7574,6 +7619,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72986",
      "sha256": "de0efd5d5a0aa4686f7d3c336b0d552e18f890ce400a1cece5a3d504908ef17b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-113114-2006",
+   "path": "ordin/csa/2006/113114",
+   "short": "Ordin csa nr. 113114/2006",
+   "title": "Ordinul nr. 113.114/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72993",
+   "versions": [
+    {
+     "from": "2006-06-28",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250406163459id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/72993",
+     "sha256": "fd4874c6e692b85fbebbe580b4c17d2dadef5c8882e29d8c15deec0640f71aea"
     }
    ]
   },
@@ -7889,6 +7949,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78361",
      "sha256": "37a72bad8f30bf28e1426a759d7b5fa5759a4aca0216bd2bdae5f45c9938a2eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-113140-2006",
+   "path": "ordin/csa/2006/113140",
+   "short": "Ordin csa nr. 113140/2006",
+   "title": "Ordinul nr. 113.140/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78502",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20250406223407id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/78502",
+     "sha256": "98076a43da8e780e1fd7c8853599aa0d74002e070c1edeef08fb1e8c077af41f"
     }
    ]
   },
@@ -10293,6 +10368,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1610-2006",
+   "path": "ordin/finante/2006/1610",
+   "short": "Ordin finante nr. 1610/2006",
+   "title": "Ordinul nr. 1.610/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75758",
+   "versions": [
+    {
+     "from": "2006-10-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250407142201id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/75758",
+     "sha256": "ec63b32b387a5b800cfe535e11e7f4bc0e49cd7f17b2bf42bdf5369cf69645c8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1614-2006",
    "path": "ordin/finante/2006/1614",
    "short": "Ordin finante nr. 1614/2006",
@@ -10889,6 +10979,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/78628",
      "sha256": "73648e57aba392175fe82465d6003d8a62c2350440806d4181869fbb8e259b2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-230-2006",
+   "path": "ordin/finante/2006/230",
+   "short": "Ordin finante nr. 230/2006",
+   "title": "Ordinul nr. 230/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69228",
+   "versions": [
+    {
+     "from": "2006-02-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406221329id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/69228",
+     "sha256": "2c4184eb3288f3a3ff3271d5d25400d6e295f4c6ab467cdb6c4b678f26aba44f"
     }
    ]
   },
@@ -16668,6 +16773,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-636-2006",
+   "path": "ordin/sanatate/2006/636",
+   "short": "Ordin sanatate nr. 636/2006",
+   "title": "Ordinul nr. 636/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73078",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250407112655id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/73078",
+     "sha256": "c9b80e31e08e9217aff2a074e436be484cafee97f1129f43a375402341f21ec9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-639-2006",
    "path": "ordin/sanatate/2006/639",
    "short": "Ordin sanatate nr. 639/2006",
@@ -16934,6 +17054,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74064",
      "sha256": "3e23c40b59ad8ff9c6bbc3115aedd88b17423ac7988700414ee23af95909c293"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-86-2006",
+   "path": "ordin/sanatate/2006/86",
+   "short": "Ordin sanatate nr. 86/2006",
+   "title": "Ordinul nr. 86/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69259",
+   "versions": [
+    {
+     "from": "2006-02-23",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250407025019id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/69259",
+     "sha256": "0d4d8128edf38a96dd7eea6adaa99fbb0019f04b19c166e0d0533fb516a6c75a"
     }
    ]
   },

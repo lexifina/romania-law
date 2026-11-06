@@ -4288,6 +4288,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-70-2018",
+"path": "ordin/anre/2018/70",
+"kind": "ordin",
+"year": "2018",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 70/2018 privind aprobarea Condițiilor-cadru de valabilitate asociate licenței pentru activitatea de furnizare de GPL",
+"short": "Ordin anre nr. 70/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-05-02",
+"latest": "2018-05-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/202049",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-71-2018",
 "path": "ordin/anre/2018/71",
 "kind": "ordin",
@@ -6887,6 +6906,25 @@
 "from": "2019-01-09",
 "latest": "2019-01-09",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209700",
+"issuer": "anre",
+"joint": []
+},
+{
+"slug": "ordin-anre-219-2018",
+"path": "ordin/anre/2018/219",
+"kind": "ordin",
+"year": "2018",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 219/2018 privind aprobarea Metodologiei pentru stabilirea venitului unitar aferent activității de furnizare reglementată, desfășurată într-un an de reglementare, și de aprobare a prețurilor reglementate în sectorul gazelor naturale, începând cu anul 2019",
+"short": "Ordin anre nr. 219/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-01",
+"latest": "2019-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/209362",
 "issuer": "anre",
 "joint": []
 },
@@ -12508,6 +12546,25 @@
 "alias": "ordin-munca-1721-2018"
 }
 ]
+},
+{
+"slug": "ordin-educatie-3755-2018",
+"path": "ordin/educatie/2018/3755",
+"kind": "ordin",
+"year": "2018",
+"number": "3755",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.755/2018 pentru modificarea Ordinului ministrului educației naționale nr. 4.796/2017 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2017-2018",
+"short": "Ordin educatie nr. 3755/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-06-13",
+"latest": "2018-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201471",
+"issuer": "educatie",
+"joint": []
 },
 {
 "slug": "ordin-educatie-3764-2018",
@@ -22135,6 +22192,25 @@
 "from": "2018-07-02",
 "latest": "2018-07-02",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202141",
+"issuer": "transporturi",
+"joint": []
+},
+{
+"slug": "ordin-transporturi-1052-2018",
+"path": "ordin/transporturi/2018/1052",
+"kind": "ordin",
+"year": "2018",
+"number": "1052",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.052/2018 privind modificarea anexei la Ordinul ministrului transporturilor nr. 1.064/2007 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviația civilă din România",
+"short": "Ordin transporturi nr. 1052/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-06-13",
+"latest": "2018-06-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/201462",
 "issuer": "transporturi",
 "joint": []
 },

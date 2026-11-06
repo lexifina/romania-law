@@ -2900,6 +2900,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-477-2008",
+"path": "ordin/anaf/2008/477",
+"kind": "ordin",
+"year": "2008",
+"number": "477",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 477/2008",
+"short": "Ordin anaf nr. 477/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-03-26",
+"latest": "2008-03-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90715",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-605-2008",
 "path": "ordin/anaf/2008/605",
 "kind": "ordin",
@@ -7567,6 +7586,25 @@
 "joint": []
 },
 {
+"slug": "ordin-antidoping-7-2008",
+"path": "ordin/antidoping/2008/7",
+"kind": "ordin",
+"year": "2008",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 7/2008",
+"short": "Ordin antidoping nr. 7/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-02-19",
+"latest": "2008-02-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/89706",
+"issuer": "antidoping",
+"joint": []
+},
+{
 "slug": "ordin-antidoping-64-2008",
 "path": "ordin/antidoping/2008/64",
 "kind": "ordin",
@@ -12094,6 +12132,25 @@
 "from": "2008-01-29",
 "latest": "2008-01-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/89138",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-169-2008",
+"path": "ordin/finante/2008/169",
+"kind": "ordin",
+"year": "2008",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 169/2008",
+"short": "Ordin finante nr. 169/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-02-20",
+"latest": "2008-02-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/89734",
 "issuer": "finante",
 "joint": []
 },
@@ -16655,6 +16712,25 @@
 "alias": "ordin-parchet-2010-c-2008"
 }
 ]
+},
+{
+"slug": "ordin-justitie-1240-c-2008",
+"path": "ordin/justitie/2008/1240-c",
+"kind": "ordin",
+"year": "2008",
+"number": "1240-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.240/C/2008",
+"short": "Ordin justitie nr. 1240/C/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-05-09",
+"latest": "2008-05-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/92568",
+"issuer": "justitie",
+"joint": []
 },
 {
 "slug": "ordin-justitie-1270-2008",

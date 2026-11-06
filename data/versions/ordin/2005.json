@@ -5433,6 +5433,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-81-2005",
+   "path": "ordin/ansvsa/2005/81",
+   "short": "Ordin ansvsa nr. 81/2005",
+   "title": "Ordinul nr. 81/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64889",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250407142007id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/64889",
+     "sha256": "4ad329a0de5f987718756244d48cced62570036f1d87ceea62c5682143b130f3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-82-2005",
    "path": "ordin/ansvsa/2005/82",
    "short": "Ordin ansvsa nr. 82/2005",

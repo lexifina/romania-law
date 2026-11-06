@@ -1908,6 +1908,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-2670-2017",
+   "path": "ordin/anaf/2017/2670",
+   "short": "Ordin anaf nr. 2670/2017",
+   "title": "Ordinul nr. 2.670/2017 pentru aprobarea Normelor tehnice privind autorizarea pentru amânarea plății taxelor la import datorate în legătură cu două sau mai multe operațiuni vamale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193226",
+   "versions": [
+    {
+     "from": "2017-09-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251108195057id_/https://legislatie.just.ro/Public/DetaliiDocument/193226",
+     "sha256": "ddf5cba9bd0ba738ca15ade2665140c68190b73bf03492513d502f8c4e195271"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-2671-2017",
    "path": "ordin/anaf/2017/2671",
    "short": "Ordin anaf nr. 2671/2017",
@@ -10818,6 +10833,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-103-c-2017",
+   "path": "ordin/justitie/2017/103-c",
+   "short": "Ordin justitie nr. 103/C/2017",
+   "title": "Ordinul nr. 103/C/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185805",
+   "versions": [
+    {
+     "from": "2017-01-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406215214id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/185805",
+     "sha256": "44b41a4b37e545c1c5146fe2ba6f88fbf377f49034d74db9083c660d0759f3cc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-1042-c-2017",
    "path": "ordin/justitie/2017/1042-c",
    "short": "Ordin justitie nr. 1042/C/2017",
@@ -11039,6 +11069,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191775",
      "sha256": "cd7b1eac29aa5dbfcfb530d4d71df999190bbbeb413c5eb764e2a4ab2bb3670a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2340-c-2017",
+   "path": "ordin/justitie/2017/2340-c",
+   "short": "Ordin justitie nr. 2340/C/2017",
+   "title": "Ordinul nr. 2.340/C/2017 privind modificarea Regulamentului de organizare și funcționare a Ministerului Justiției, aprobat prin Ordinul ministrului justiției nr. 120/C/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193399",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406143509id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/193399",
+     "sha256": "7b80fe52203888463d822c17b9017927d443a104cf8ebb4fbd61b30d495106f9"
     }
    ]
   },
@@ -13079,6 +13124,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196055",
      "sha256": "2bb0f353d95e43b930be121b57fe232067886bec162d82c1aab01f04699cf506"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-146-2017",
+   "path": "ordin/sanatate/2017/146",
+   "short": "Ordin sanatate nr. 146/2017",
+   "title": "Ordinul nr. 146/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186772",
+   "versions": [
+    {
+     "from": "2017-02-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250805051841id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/186772",
+     "sha256": "b1695736650057710d337da53131df4acafd653edf153047816b7f32eba85abc"
     }
    ]
   },

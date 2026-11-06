@@ -2208,6 +2208,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-259-2003",
+   "path": "ordin/agricultura/2003/259",
+   "short": "Ordin agricultura nr. 259/2003",
+   "title": "Ordinul nr. 259/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43911",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250407042656id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/43911",
+     "sha256": "631016235337ee1ac035d339368e935e00eb3e53e5a61e74164b99ef836ff39d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-261-2003",
    "path": "ordin/agricultura/2003/261",
    "short": "Ordin agricultura nr. 261/2003",
@@ -6779,6 +6794,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43957",
      "sha256": "f773c808852dbf419f414e0378f9e6dbd1c91bc26ce93aa86b66aecddb5246c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-3101-2003",
+   "path": "ordin/csa/2003/3101",
+   "short": "Ordin csa nr. 3101/2003",
+   "title": "Ordinul nr. 3.101/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41801",
+   "versions": [
+    {
+     "from": "2003-02-17",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250406034119id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/41801",
+     "sha256": "76caf0ab5a8145da2971f20ef325640434e9780d138e7b89da8efd23e0857740"
     }
    ]
   },
@@ -12438,6 +12468,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-3352-c-2003",
+   "path": "ordin/justitie/2003/3352-c",
+   "short": "Ordin justitie nr. 3352/C/2003",
+   "title": "Ordinul nr. 3.352/C/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48014",
+   "versions": [
+    {
+     "from": "2003-11-26",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20250406075041id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/48014",
+     "sha256": "868d60718b0cd1e098c1bac4b7803414b2673bfb760b3604e2913ccac8d07e65"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-105-2003",
    "path": "ordin/mediu/2003/105",
    "short": "Ordin mediu nr. 105/2003",
@@ -15299,6 +15344,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45723",
      "sha256": "505890567041580ebb135c3e06487f9f84e307c9c30248cb2fe9f8c8fa290a42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-905-2003",
+   "path": "ordin/transporturi/2003/905",
+   "short": "Ordin transporturi nr. 905/2003",
+   "title": "Ordinul nr. 905/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48198",
+   "versions": [
+    {
+     "from": "2003-12-05",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406173847id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/48198",
+     "sha256": "b7d36262e7732c5ec922cd9eaf3460ac0afbd81ea3c87983f1be67b28f182b12"
     }
    ]
   },

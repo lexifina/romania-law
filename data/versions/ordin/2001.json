@@ -888,6 +888,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-356-2001",
+   "path": "ordin/agricultura/2001/356",
+   "short": "Ordin agricultura nr. 356/2001",
+   "title": "Ordinul nr. 356/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32872",
+   "versions": [
+    {
+     "from": "2002-01-02",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250906191918id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/32872",
+     "sha256": "eacd4a2997a481b0baecf0d281c0a385559d4299ffb0e2a8424b0926e15b30f0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-357-2001",
    "path": "ordin/agricultura/2001/357",
    "short": "Ordin agricultura nr. 357/2001",
@@ -1784,6 +1799,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30347",
      "sha256": "81cca9c11d88120cf31cf4a5ced1ace14320d1de2bb81f7660a67aa57cd75dc0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-16-2001",
+   "path": "ordin/anre/2001/16",
+   "short": "Ordin anre nr. 16/2001",
+   "title": "Ordinul nr. 16/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30348",
+   "versions": [
+    {
+     "from": "2001-08-31",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407003433id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/30348",
+     "sha256": "3e05542c0a4aec3aeab1ba169022f6f2a897fc255a46d845b0fb769d263d75a9"
     }
    ]
   },
@@ -3554,6 +3584,21 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31531",
      "sha256": "c3c20f37c3ea0ba4db1a5b897bece4fe0d5e7b4b2303676adf2645b8790ea710"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-1408-2001",
+   "path": "ordin/dezvoltare/2001/1408",
+   "short": "Ordin dezvoltare nr. 1408/2001",
+   "title": "Ordinul nr. 1.408/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30910",
+   "versions": [
+    {
+     "from": "2002-01-26",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250407121640id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/30910",
+     "sha256": "86d3ab34589f9415e22e9ee8559ad7ade9b4a60f7dc2424e9b9ec360d8441fa3"
     }
    ]
   },
@@ -5684,6 +5729,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31237",
      "sha256": "0da0533a5f124597d1aebc4523a86fdcea1eef13f0c7034742defaa92b269d1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1982-2001",
+   "path": "ordin/finante/2001/1982",
+   "short": "Ordin finante nr. 1982/2001",
+   "title": "Ordinul nr. 1.982/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31996",
+   "versions": [
+    {
+     "from": "2001-11-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250406081854id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/31996",
+     "sha256": "2505dab9e3d2926cd26dd7b9c19e7b5462f98e87fe43c3b61895be4f0c5fc2d4"
     }
    ]
   },
