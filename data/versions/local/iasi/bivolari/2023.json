@@ -3,6 +3,66 @@
  "shard": "local/iasi/bivolari/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--bivolari-140-2023",
+   "path": "local/iasi/bivolari/2023/140",
+   "short": "HCL Bivolari nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 140/2023 privind rectificare buget local pe anul 2023",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/129069",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/129069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-141-2023",
+   "path": "local/iasi/bivolari/2023/141",
+   "short": "HCL Bivolari nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 141/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Bivolari, județul Iași, cât și stabilirea indemnizațiilor pentru demnitari, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/129070",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/129070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-142-2023",
+   "path": "local/iasi/bivolari/2023/142",
+   "short": "HCL Bivolari nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 142/2023 privind completarea listei bunurilor ce aparțin Domeniului Privat al comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/129071",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/129071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-143-2023",
+   "path": "local/iasi/bivolari/2023/143",
+   "short": "HCL Bivolari nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 143/2023",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/129072",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/129072",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bivolari-144-2023",
    "path": "local/iasi/bivolari/2023/144",
    "short": "HCL Bivolari nr. 144/2023",
@@ -28,6 +88,66 @@
      "from": "2023-11-16",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/129074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-146-2023",
+   "path": "local/iasi/bivolari/2023/146",
+   "short": "HCL Bivolari nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 146/2023 privind achiziția de brazi artificiali pentru sărbătorile de iarnă",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/129075",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/129075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-147-2023",
+   "path": "local/iasi/bivolari/2023/147",
+   "short": "HCL Bivolari nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 147/2023 privind rectificare buget local pe anul 2023",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/134486",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/134486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-148-2023",
+   "path": "local/iasi/bivolari/2023/148",
+   "short": "HCL Bivolari nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 148/2023 privind reactualizarea-Programului anual de achiziții publice pe anul 2023",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/134487",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/134487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-149-2023",
+   "path": "local/iasi/bivolari/2023/149",
+   "short": "HCL Bivolari nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 149/2023 privind aprobarea Programului anual de achiziții publice pe anul 2024 și a Strategiei anuale de achiziție publică pentru anul 2024",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/134488",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/134488",
      "sha256": null
     }
    ]
@@ -133,6 +253,36 @@
      "from": "2023-12-20",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/134495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-157-2023",
+   "path": "local/iasi/bivolari/2023/157",
+   "short": "HCL Bivolari nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 157/2023 privind completarea listei bunurilor ce aparțin Domeniului Privat al comunei Bivolari, județul Iași",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/134496",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/134496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-158-2023",
+   "path": "local/iasi/bivolari/2023/158",
+   "short": "HCL Bivolari nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 158/2023 privind scoaterea din evidențele fiscale a sumelor reprezetând amenzi contravenționale care aparțin dobitorilor ce nu pot fi executați silit (fără bunuri urmăribile) și/sau decedați la data prezentei, înregistrați la data de 31.12.2022 cu debite restante/până la data prezentei",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/134497",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/134497",
      "sha256": null
     }
    ]

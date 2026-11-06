@@ -3,6 +3,51 @@
  "shard": "local/hunedoara/zam/2024",
  "acts": [
   {
+   "slug": "hcl-hunedoara--zam-10-2024",
+   "path": "local/hunedoara/zam/2024/10",
+   "short": "HCL Zam nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 10/2024",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157301",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-11-2024",
+   "path": "local/hunedoara/zam/2024/11",
+   "short": "HCL Zam nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 11/2024 privind aprobarea contului de execuție bugetară pe trim. IV/2023",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157331",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-12-2024",
+   "path": "local/hunedoara/zam/2024/12",
+   "short": "HCL Zam nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 12/2024 privind reactualizarea Planului de analiză și acoperire a riscurilor (PAAR) al comunei Zam",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157332",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157332",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--zam-13-2024",
    "path": "local/hunedoara/zam/2024/13",
    "short": "HCL Zam nr. 13/2024",
@@ -13,6 +58,246 @@
      "from": "2024-05-28",
      "units": 1,
      "source_url": "https://emol.ro/zam-hd/registru-hcl/157333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-14-2024",
+   "path": "local/hunedoara/zam/2024/14",
+   "short": "HCL Zam nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 14/2024 privind aprobarea Programului anual al achizițiilor publice al comunei Zam pe anul 2024",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157334",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-15-2024",
+   "path": "local/hunedoara/zam/2024/15",
+   "short": "HCL Zam nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 15/2024 privind modificarea și completarea HCL Zam nr. 7/2024 pentru aprobarea participării comunei Zam, județul Hunedoara, în calitate de membru fondator, la înființarea Asociației de Dezvoltare Intercomunitară „GAZ VALEA MURESULUI ”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157335",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-16-2024",
+   "path": "local/hunedoara/zam/2024/16",
+   "short": "HCL Zam nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 16/2024 privind stabilirea cotizației/locuitor/an și a tarifelor serviciilor oferite de către Asociația de Dezvoltare Intercomunitară „Serviciul județean pentru ocrotirea animalelor fără stăpân”, în anul 2024, pentru UAT Zam",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157336",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-17-2024",
+   "path": "local/hunedoara/zam/2024/17",
+   "short": "HCL Zam nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 17/2024 privind participarea la „Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici referitor la proiectul: „EXTINDERE SISTEM DE CANALIZARE, COMUNA ZAM, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157337",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-18-2024",
+   "path": "local/hunedoara/zam/2024/18",
+   "short": "HCL Zam nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 18/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157358",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-19-2024",
+   "path": "local/hunedoara/zam/2024/19",
+   "short": "HCL Zam nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 19/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157359",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-20-2024",
+   "path": "local/hunedoara/zam/2024/20",
+   "short": "HCL Zam nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 20/2024 privind aprobarea analizei studiului de înscriere a datelor în Registrul agricol al comunei Zam, pentru trimestrul I al anului 2024 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157360",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-21-2024",
+   "path": "local/hunedoara/zam/2024/21",
+   "short": "HCL Zam nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 21/2024 privind însușirea Documentelor suport și a Documentației pentru atribuirea contractului de achiziție publică având ca obiect delegarea gestiunii serviciului de salubrizare în zona de colectare 1 Brad +2 Hateg+3 Centru, județul Hunedoara, mandatarea Asociației de Dezvoltare Intercomunitară „Sistemul integrat de Gestionare a Deșeurilor Județul Hunedoara să organizeze procedura de achiziție până la finalizarea acesteia, precum și mandatarea Președintelui Asociației să semneze contractul de delegare",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157361",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-22-2024",
+   "path": "local/hunedoara/zam/2024/22",
+   "short": "HCL Zam nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 22/2024 privind aprobarea modului de implementare a Programului național „Masă Sănătoasă”, la nivelul unității de învățământ Școala Gimnazială Zam",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157362",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-23-2024",
+   "path": "local/hunedoara/zam/2024/23",
+   "short": "HCL Zam nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 23/2024 privind aprobarea aderării Comunei Bătrâna prin Consiliul Local al Comunei Bătrâna la Asociația de Dezvoltare Intercomunitară „AQUA PREST HUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157363",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-24-2024",
+   "path": "local/hunedoara/zam/2024/24",
+   "short": "HCL Zam nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 24/2024 privind darea în folosință gratuită către Parohia Ortodoxa Pojoga a imobilului „Clădire administrativă”, înscris în domeniul public al comunei Zam, situat în sat Salciva, județul Hunedoara, în scopul utilizării acesteia ca și capelă mortuară",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157364",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-25-2024",
+   "path": "local/hunedoara/zam/2024/25",
+   "short": "HCL Zam nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 25/2024 privind închirierea, prin atribuire directă, a pajistilor aparținând domeniului privat al comunei Zam",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157365",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-26-2024",
+   "path": "local/hunedoara/zam/2024/26",
+   "short": "HCL Zam nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 26/2024 privind aprobarea Programului de acțiune comunitară destinate prevederii și combaterii riscului de sărăcie și excluziune socală la nivelul comunei Zam, aferent anului 2024",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157366",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-7-2024",
+   "path": "local/hunedoara/zam/2024/7",
+   "short": "HCL Zam nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 7/2024 privind aprobarea participării comunei Zam, județul Hunedoara, în calitate de membru fondator, la înființarea Asociației de Dezvoltare Intercomunitară „GAZ VALEA MUREȘULUI ”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157291",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-8-2024",
+   "path": "local/hunedoara/zam/2024/8",
+   "short": "HCL Zam nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 8/2024 privind angajarea unui avocat care să reprezinte interesele Comunei Zam aflate pe rolul instanțelor de judecată",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157292",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-9-2024",
+   "path": "local/hunedoara/zam/2024/9",
+   "short": "HCL Zam nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 9/2024",
+   "url": "https://emol.ro/zam-hd/registru-hcl/157300",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/157300",
      "sha256": null
     }
    ]

@@ -3,6 +3,140 @@
 "shard": "local/iasi/aroneanu/2021",
 "acts": [
 {
+"slug": "hcl-iasi--aroneanu-139-2021",
+"path": "local/iasi/aroneanu/2021/139",
+"kind": "local",
+"year": "2021",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 139/2021 privind aprobarea aprobarea vânzării suprafeţei de teren de 5.000 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 139/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49824",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-140-2021",
+"path": "local/iasi/aroneanu/2021/140",
+"kind": "local",
+"year": "2021",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 140/2021 privind aprobarea vânzării suprafeţei de teren de 4.873 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 140/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49826",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-141-2021",
+"path": "local/iasi/aroneanu/2021/141",
+"kind": "local",
+"year": "2021",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 141/2021",
+"short": "HCL Aroneanu nr. 141/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49825",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-142-2021",
+"path": "local/iasi/aroneanu/2021/142",
+"kind": "local",
+"year": "2021",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 142/2021 privind aprobarea unui schimb de terenuri între Comuna Aroneanu și Parohia ,,Sf. Ilie” din satul Rediu Aldei",
+"short": "HCL Aroneanu nr. 142/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49827",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-143-2021",
+"path": "local/iasi/aroneanu/2021/143",
+"kind": "local",
+"year": "2021",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 143/2021",
+"short": "HCL Aroneanu nr. 143/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49828",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-144-2021",
+"path": "local/iasi/aroneanu/2021/144",
+"kind": "local",
+"year": "2021",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 144/2021 privind îndreptarea erorii materiale din cuprinsul Hotărârii Consiliului Local nr. 16 din 28 ianuarie 2021 cu privire la aprobarea vânzării suprafeţei de teren de 710 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 144/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49829",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-145-2021",
 "path": "local/iasi/aroneanu/2021/145",
 "kind": "local",
@@ -22,6 +156,50 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-146-2021",
+"path": "local/iasi/aroneanu/2021/146",
+"kind": "local",
+"year": "2021",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 146/2021 privind aprobarea acceptării ofertelor de donație pentru terenul în suprafață de 995 mp. cu destinația cale de acces având nr. cadastral 65249, situat în intravilanul satului Aroneanu, comuna Aroneanu",
+"short": "HCL Aroneanu nr. 146/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49831",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-147-2021",
+"path": "local/iasi/aroneanu/2021/147",
+"kind": "local",
+"year": "2021",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 147/2021 privind aprobarea alegerii unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul I –al anului 2022",
+"short": "HCL Aroneanu nr. 147/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49832",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +225,29 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-149-2021",
+"path": "local/iasi/aroneanu/2021/149",
+"kind": "local",
+"year": "2021",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 149/2021",
+"short": "HCL Aroneanu nr. 149/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49834",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-150-2021",
 "path": "local/iasi/aroneanu/2021/150",
 "kind": "local",
@@ -66,6 +267,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-151-2021",
+"path": "local/iasi/aroneanu/2021/151",
+"kind": "local",
+"year": "2021",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 151/2021 privind aprobarea vânzării suprafeţei de teren de 516 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 151/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/49836",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -108,6 +108,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--letcani-61-2020",
+   "path": "local/iasi/letcani/2020/61",
+   "short": "HCL Lețcani nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 61/2020 privind desemnarea reprezentantului legal al comunei Lețcani și a persoanelor care pot înlocui reprezentantul legal al comunei Lețcani în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal-ARSACIS",
+   "url": "https://emol.ro/letcani-is/registru-hcl/12663",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/12663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-62-2020",
+   "path": "local/iasi/letcani/2020/62",
+   "short": "HCL Lețcani nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 62/2020 privind desemnarea reprezentantului legal și a persoanei/persoanelor care pot înlocui reprezentantul legal al UAT Comuna Lețcani, județul Iași, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate A.D.I.S Iași",
+   "url": "https://emol.ro/letcani-is/registru-hcl/12664",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/12664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-63-2020",
+   "path": "local/iasi/letcani/2020/63",
+   "short": "HCL Lețcani nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 63/2020 privind desemnare reprezentanți ai Consiliului Local Lețcani în Consiliul de Administrație a școlilor din comuna Lețcani, și reprezentant CEAC pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/letcani-is/registru-hcl/12665",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/12665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-64-2020",
+   "path": "local/iasi/letcani/2020/64",
+   "short": "HCL Lețcani nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 64/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/12666",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/12666",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--letcani-65-2020",
    "path": "local/iasi/letcani/2020/65",
    "short": "HCL Lețcani nr. 65/2020",
@@ -118,6 +178,126 @@
      "from": "2020-11-26",
      "units": 1,
      "source_url": "https://emol.ro/letcani-is/registru-hcl/12667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-66-2020",
+   "path": "local/iasi/letcani/2020/66",
+   "short": "HCL Lețcani nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 66/2020 privind actualizarea/modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.48/2009, prin Actul Adițional nr.40",
+   "url": "https://emol.ro/letcani-is/registru-hcl/13327",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/13327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-67-2020",
+   "path": "local/iasi/letcani/2020/67",
+   "short": "HCL Lețcani nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 67/2020 privind revizuirea și consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 41",
+   "url": "https://emol.ro/letcani-is/registru-hcl/13328",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/13328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-68-2020",
+   "path": "local/iasi/letcani/2020/68",
+   "short": "HCL Lețcani nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 68/2020 privind acordare acces pe domeniul public al comunei a SC RCS&RDS SA cu lucrările necesare în vederea realizării investiției „Amplasare infrastructură cablu cu fibră optică aerian în comuna Lețcani (Bogonos, Cogeasca, Cucuteni, Lețcani), județul Iași”",
+   "url": "https://emol.ro/letcani-is/registru-hcl/13329",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/13329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-69-2020",
+   "path": "local/iasi/letcani/2020/69",
+   "short": "HCL Lețcani nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 69/2020 privind aprobarea impozitelor și taxelor locale pentru anul fiscal 2021",
+   "url": "https://emol.ro/letcani-is/registru-hcl/13330",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/13330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-70-2020",
+   "path": "local/iasi/letcani/2020/70",
+   "short": "HCL Lețcani nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 70/2020 privind aprobarea modificării și completării Organigramei, Statului de funcții și nr. de personal pe anul 2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/13331",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/13331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-71-2020",
+   "path": "local/iasi/letcani/2020/71",
+   "short": "HCL Lețcani nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 71/2020 privind aprobarea rectificării bugetului local și a listei de investiții pe anul 2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/13332",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/13332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-72-2020",
+   "path": "local/iasi/letcani/2020/72",
+   "short": "HCL Lețcani nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 72/2020 privind darea în administrare către APAVITAL SA a unui nr. de 6 SPAU situate în comuna Lețcani",
+   "url": "https://emol.ro/letcani-is/registru-hcl/13333",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/13333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-73-2020",
+   "path": "local/iasi/letcani/2020/73",
+   "short": "HCL Lețcani nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 73/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/13334",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/13334",
      "sha256": null
     }
    ]

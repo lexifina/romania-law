@@ -3,6 +3,249 @@
 "shard": "local/hunedoara/zam/2023",
 "acts": [
 {
+"slug": "hcl-hunedoara--zam-1-2023",
+"path": "local/hunedoara/zam/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 1/2023 privind invalidarea propunerii din nota de fundamentare nr.2469/06.12.2022 a ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ „Sistemul Integrat de Gestionare a Deșeurilor Județul Hunedoara” și acordarea unui mandat special reprezentantului Comunei Zam în Adunarea Generală a ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ pentru aplicarea colectării deșeurilor pe raza UAT Zam prin tarif/taxă specială",
+"short": "HCL Zam nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94727",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-2-2023",
+"path": "local/hunedoara/zam/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 2/2023 privind utilizarea excedentului bugetar rezultat în bugetul comunei Zam la finele anului 2022",
+"short": "HCL Zam nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94746",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-3-2023",
+"path": "local/hunedoara/zam/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 3/2023 privind aprobarea bugetului local pe anul 2023 și estimări pe anii 2024-2026",
+"short": "HCL Zam nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94747",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-4-2023",
+"path": "local/hunedoara/zam/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 4/2023 privind organizarea rețelei școlare a unităților de învățământ de pe raza comunei Zam pentru anul de învățmânt 2023 - 2024",
+"short": "HCL Zam nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94748",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-5-2023",
+"path": "local/hunedoara/zam/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 5/2023 privind aprobarea Planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă, pentru anul 2023, pentru persoanele apte de muncă care beneficiază de ajutor social",
+"short": "HCL Zam nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94749",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-6-2023",
+"path": "local/hunedoara/zam/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 6/2023 privind aprobarea valorificării masei lemnoase în volum total de 51,3 mc, din fondul forestier, proprietatea publică a comunei Zam și a prețului de pornire la licitație/negociere pentru masa lemnoasă pe picior, prin licitație publică organizată de administratorul fondului forestier, pentru anul de producție 2023",
+"short": "HCL Zam nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94750",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-7-2023",
+"path": "local/hunedoara/zam/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 7/2023",
+"short": "HCL Zam nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94751",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-8-2023",
+"path": "local/hunedoara/zam/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 8/2023 privind aprobarea Protocolului de colaborare interinstituționale între Ministerul Muncii și Solidarității Sociale și UAT Zam, în cadrul Proiectului „HUB de Servicii MMSS - SII MMSS”, Cod MySmis 130963 în cadrul programului Operațional competitivitatea 2014 - 2020",
+"short": "HCL Zam nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94752",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-9-2023",
+"path": "local/hunedoara/zam/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 9/2023 privind alegerea președintelui de ședință",
+"short": "HCL Zam nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94753",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-10-2023",
+"path": "local/hunedoara/zam/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 10/2023 privind aprobarea unor documentații - Studiu de oportunitate pentru delegarea activitățiilor serviciului de salubrizare în cadrul SMID Județul Hunedoara și a anexelor, Strategice de contractare, a Planului Tarifar actualizat - Analiza pragului de suportabilitate al tarifelor actualizate la noiembrie 2022, a Regulamentului serviciului de salubrizare privind deșeurile menajere și similare din județul Hunedoara, a Documentației de atribuire a Contractului de achiziție publică având ca obiect „Delegarea gestiunii serviciului de saliubrizare în zona de colectare 1 Brad+2 Hațeg +3 Centru, județul Hunedoara”, mandatarea Asociației să organizeze procedura de achiziției până la finalizarea acesteia, precum și mandatarea Președintelui să semneze contractul de delegare",
+"short": "HCL Zam nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/zam-hd/registru-hcl/94754",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-11-2023",
+"path": "local/hunedoara/zam/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 11/2023 privind aprobarea contului de execuție bugetară pe trim.IV/2022",
+"short": "HCL Zam nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://emol.ro/zam-hd/registru-hcl/96515",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--zam-12-2023",
 "path": "local/hunedoara/zam/2023/12",
 "kind": "local",
@@ -22,6 +265,50 @@
 "council_name": "Consiliul Local al Comunei Zam",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-13-2023",
+"path": "local/hunedoara/zam/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 13/2023 privind aprobarea Programului anual al achizițiilor publice al comunei Zam pe anul 2023",
+"short": "HCL Zam nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://emol.ro/zam-hd/registru-hcl/96517",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--zam-14-2023",
+"path": "local/hunedoara/zam/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zam nr. 14/2023 privind abrogarea art.36 din HCL Zam nr. 71/2022 privind stabilirea impozitelor și taxelor locale pe anul 2023, la nivelul comunei Zam, județul Hunedoara",
+"short": "HCL Zam nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://emol.ro/zam-hd/registru-hcl/96518",
+"council": "hunedoara/zam",
+"council_name": "Consiliul Local al Comunei Zam",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-63-2026",
+"path": "local/ialomita/facaeni/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 63/2026 privind aprobarea indicatorilor tehnico-economici si a studiului de fezabilitate pentru proiectul „Instalare capacitate de stocare a energiei electrice „în spatele contorului” pentru UAT FĂCĂENI ” , finanțat prin Programul Fondul pentru Modernizare , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea proiectului",
+"short": "HCL Făcăeni nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/286927",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-64-2026",
 "path": "local/ialomita/facaeni/2026/64",
 "kind": "local",
@@ -44,6 +66,29 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-65-2026",
+"path": "local/ialomita/facaeni/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 65/2026",
+"short": "HCL Făcăeni nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/286929",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -70,6 +115,50 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-67-2026",
+"path": "local/ialomita/facaeni/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 67/2026 privind modificarea HCL nr. 63/10.09.2026 privind aprobarea indicatorilor tehnico-economici si a studiului de fezabilitate pentru proiectul „Instalare capacitate de stocare a energiei electrice „în spatele contorului” pentru UAT FĂCĂENI ” , finanțat prin Programul Fondul pentru Modernizare , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea proiectului",
+"short": "HCL Făcăeni nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/288596",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-68-2026",
+"path": "local/ialomita/facaeni/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 68/2026 privind desemnarea reprezentanților Consiliului Local Făcăeni (membru și membru supleant) în comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din cadrul unității de învățământ Școala Gimnazială Făcăeni, sesiunea august-decembrie 2026",
+"short": "HCL Făcăeni nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/290904",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-69-2026",
 "path": "local/ialomita/facaeni/2026/69",
 "kind": "local",
@@ -89,6 +178,28 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-70-2026",
+"path": "local/ialomita/facaeni/2026/70",
+"kind": "local",
+"year": "2026",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 70/2026 privind modificarea HCL nr. 54/18.08.2026 privind aprobarea implementării proiectului «Amenajare loc de joacă - Parc Central comuna Făcăeni», a documentației tehnico-economice - faza Studiu de fezabilitate, a indicatorilor tehnico-economici, a devizului general și a cheltuielilor ce vor fi suportate din bugetul local",
+"short": "HCL Făcăeni nr. 70/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/291860",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -114,6 +225,117 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-72-2026",
+"path": "local/ialomita/facaeni/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 72/2026 privind alegerea presedintelui de ședință",
+"short": "HCL Făcăeni nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/293998",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-73-2026",
+"path": "local/ialomita/facaeni/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 73/2026 privind aprobarea Regulamentului-cadru pentru înregistrarea și arhivarea contractelor de arenda depuse la Primăria/Consiliul Local al comunei Făcăeni, județul Ialomița",
+"short": "HCL Făcăeni nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/293999",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-74-2026",
+"path": "local/ialomita/facaeni/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 74/2026",
+"short": "HCL Făcăeni nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/294000",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-75-2026",
+"path": "local/ialomita/facaeni/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 75/2026 privind interzicerea organizării și desfășurării activităților de jocuri de noroc pe raza administrativ-teritorială a comunei Făcăeni, cu excepția pariurilor cu cotă fixă și instituirea taxei locale de funcționare",
+"short": "HCL Făcăeni nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/294001",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-76-2026",
+"path": "local/ialomita/facaeni/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 76/2026 privind aprobarea Proiectului Tehnic și a Devizului General pentru obiectivul de investiții „Creșterea eficienței energetice a infrastructurii de iluminat public din Comuna Făcăeni, Județul Ialomița”",
+"short": "HCL Făcăeni nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/294002",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-77-2026",
 "path": "local/ialomita/facaeni/2026/77",
 "kind": "local",
@@ -133,6 +355,51 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-78-2026",
+"path": "local/ialomita/facaeni/2026/78",
+"kind": "local",
+"year": "2026",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 78/2026",
+"short": "HCL Făcăeni nr. 78/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/294482",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-79-2026",
+"path": "local/ialomita/facaeni/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 79/2026 privind revocarea HCL nr. 68/30.09.2026 privind desemnarea reprezentanților Consiliului Local Făcăeni (membru și membru supleant) în comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din cadrul unității de învățământ Școala Gimnazială Făcăeni, sesiunea august-decembrie 2026",
+"short": "HCL Făcăeni nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/294483",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

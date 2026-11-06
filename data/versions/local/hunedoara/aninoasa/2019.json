@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/aninoasa/2019",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--aninoasa-10-2019",
+   "path": "local/hunedoara/aninoasa/2019/10",
+   "short": "HCL Aninoasa nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Aninoasa nr. 10/2019 privind aprobarea Actului aditional nr.2 la Acordul de parteneriat",
+   "url": "https://orasulaninoasa.ro/wp-content/uploads/2019/03/HCL-10-privind-aprobarea-Actului-aditional-nr.2-la-Acordul-de-parteneriat.pdf",
+   "versions": [
+    {
+     "from": "2019-02-15",
+     "units": 1,
+     "source_url": "https://orasulaninoasa.ro/wp-content/uploads/2019/03/HCL-10-privind-aprobarea-Actului-aditional-nr.2-la-Acordul-de-parteneriat.pdf",
+     "sha256": "d4b3abd36349fe555d476ff90c69388e4c01a94876fffaf38a9d8ec7526f18e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--aninoasa-19-2019",
+   "path": "local/hunedoara/aninoasa/2019/19",
+   "short": "HCL Aninoasa nr. 19/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Aninoasa nr. 19/2019 pentru modificarea Hotărârii Consiliului Local nr 8 din 2019 privind aprobarea documentatiei tehnice Green Line componenta 2",
+   "url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-19-pentru-modificarea-Hot%C4%83r%C3%A2rii-Consiliului-Local-nr-8-din-2019-privind-aprobarea-documentatiei-tehnice-Green-Line-componenta-2.pdf",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-19-pentru-modificarea-Hot%C4%83r%C3%A2rii-Consiliului-Local-nr-8-din-2019-privind-aprobarea-documentatiei-tehnice-Green-Line-componenta-2.pdf",
+     "sha256": "65e144cf92b69bd29b7b4afdd6d1517b36b1cba099fc60dda6df31bd5f063286"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--aninoasa-20-2019",
+   "path": "local/hunedoara/aninoasa/2019/20",
+   "short": "HCL Aninoasa nr. 20/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Aninoasa nr. 20/2019 privind aprobarea Actului aditional nr 3 la Acordul de parteneriat pentru Green Line",
+   "url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-20-privind-aprobarea-Actului-aditional-nr-3-la-Acordul-de-parteneriat-pentru-Green-Line.pdf",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-20-privind-aprobarea-Actului-aditional-nr-3-la-Acordul-de-parteneriat-pentru-Green-Line.pdf",
+     "sha256": "56a0e37af3f094c82488deb807e5e8e065f8cde393aec4bcde7e13cb922a2f00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--aninoasa-37-2019",
+   "path": "local/hunedoara/aninoasa/2019/37",
+   "short": "HCL Aninoasa nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Aninoasa nr. 37/2019 pentru modificarea HCL 7 din 2019 Green Line componenta 1",
+   "url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-37-pentru-modificarea-HCL-7-din-2019-Green-Line-componenta-1.pdf",
+   "versions": [
+    {
+     "from": "2019-06-14",
+     "units": 1,
+     "source_url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-37-pentru-modificarea-HCL-7-din-2019-Green-Line-componenta-1.pdf",
+     "sha256": "dd4a31b12b7deda4112a1258ce33151e696c80011979eaf008dfbf902230e710"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--aninoasa-38-2019",
+   "path": "local/hunedoara/aninoasa/2019/38",
+   "short": "HCL Aninoasa nr. 38/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Aninoasa nr. 38/2019 privind modificare HCL 8 din 2019 Green Line componenta 2",
+   "url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-38-privind-modificare-HCL-8-din-2019-Green-Line-componenta-2.pdf",
+   "versions": [
+    {
+     "from": "2019-06-14",
+     "units": 1,
+     "source_url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-38-privind-modificare-HCL-8-din-2019-Green-Line-componenta-2.pdf",
+     "sha256": "2c5e92c95b1080a7e00629336833cfd49966b323d83db9243d39209927832fce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--aninoasa-39-2019",
+   "path": "local/hunedoara/aninoasa/2019/39",
+   "short": "HCL Aninoasa nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Aninoasa nr. 39/2019 Privind rectificarea bugetului local al orașului Aninoasa pe anul 2019",
+   "url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-39-privind-rectificarea-bugetului-local-al-orasului-Aninoasa-pe-anul-2019.pdf",
+   "versions": [
+    {
+     "from": "2019-06-14",
+     "units": 1,
+     "source_url": "https://orasulaninoasa.ro/wp-content/uploads/2019/07/HCL-39-privind-rectificarea-bugetului-local-al-orasului-Aninoasa-pe-anul-2019.pdf",
+     "sha256": "e2b06ba65a0a2d47795d539f6528cd13dcd26166e7e7996e1524ec89797d004e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--aninoasa-58-2019",
+   "path": "local/hunedoara/aninoasa/2019/58",
+   "short": "HCL Aninoasa nr. 58/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Aninoasa nr. 58/2019 privind instituirea indicatorilor tehnico-economici",
+   "url": "https://orasulaninoasa.ro/wp-content/uploads/2019/10/HCL-58-2019-privind-instituirea-indicatorilor-tehnico-economici.pdf",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://orasulaninoasa.ro/wp-content/uploads/2019/10/HCL-58-2019-privind-instituirea-indicatorilor-tehnico-economici.pdf",
+     "sha256": "ac7ed4bd245444846cf5259cb48ecd556975565b95c8f0877088c1d618f0f034"
+    }
+   ]
+  }
+ ]
+}

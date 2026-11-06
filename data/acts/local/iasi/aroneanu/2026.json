@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-141-2026",
+"path": "local/iasi/aroneanu/2026/141",
+"kind": "local",
+"year": "2026",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 141/2026",
+"short": "HCL Aroneanu nr. 141/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/293655",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-142-2026",
 "path": "local/iasi/aroneanu/2026/142",
 "kind": "local",
@@ -66,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-144-2026",
+"path": "local/iasi/aroneanu/2026/144",
+"kind": "local",
+"year": "2026",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 144/2026 privind alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul al IV- lea al anului 2026",
+"short": "HCL Aroneanu nr. 144/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/293658",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -225,6 +270,51 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-152-2026",
+"path": "local/iasi/aroneanu/2026/152",
+"kind": "local",
+"year": "2026",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 152/2026 privind completării Hotărârii Consiliului Local nr. 143 din 4.11.2024 cu privire la constituirea comisiilor de specialitate, stabilirea numărului şi a denumirii acestora, stabilirea numărului şi a membrilor fiecărei comisii şi modalitatea de atribuire a locurilor ce îi revin fiecărui grup de consilieri , precum şi componenţa nominală a acestora",
+"short": "HCL Aroneanu nr. 152/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/293666",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-153-2026",
+"path": "local/iasi/aroneanu/2026/153",
+"kind": "local",
+"year": "2026",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 153/2026",
+"short": "HCL Aroneanu nr. 153/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/297607",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-154-2026",
 "path": "local/iasi/aroneanu/2026/154",
 "kind": "local",
@@ -310,6 +400,50 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-158-2026",
+"path": "local/iasi/aroneanu/2026/158",
+"kind": "local",
+"year": "2026",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 158/2026 privind studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeței de teren de 605 mp. identificată cadastral cu nr. 72.326 și a suprafeței de teren de 1.086 mp. identificată cadastral cu nr. 72.366, în vederea desfășurării unor activități de agrement",
+"short": "HCL Aroneanu nr. 158/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/297612",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-159-2026",
+"path": "local/iasi/aroneanu/2026/159",
+"kind": "local",
+"year": "2026",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 159/2026 privind completarea inventarului domeniului privat al Comunei Aroneanu, județul Iași, aprobat prin Hotărârea Consiliului Local Aroneanu nr. 137 din 28.09.2023",
+"short": "HCL Aroneanu nr. 159/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/297613",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

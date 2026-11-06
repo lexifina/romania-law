@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--toplita-28-2026",
+   "path": "local/hunedoara/toplita/2026/28",
+   "short": "HCL Toplița nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 28/2026 privind acordarea unui sprijin financiar în sumă de 14400 lei Parohiei Ortodoxe Hășdău, din satul Hășdău, comuna Toplița, județul Hunedoara, în vederea achiziționării și montării unei mochete la Biserica Ortodoxă Dăbâca – filie, din satul Dăbâca, comuna Toplița",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/277796",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/277796",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--toplita-29-2026",
    "path": "local/hunedoara/toplita/2026/29",
    "short": "HCL Toplița nr. 29/2026",
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--toplita-36-2026",
+   "path": "local/hunedoara/toplita/2026/36",
+   "short": "HCL Toplița nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 36/2026 privind rectificarea bugetului local al comunei Topliţa, pe anul 2026",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/285768",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/285768",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--toplita-37-2026",
    "path": "local/hunedoara/toplita/2026/37",
    "short": "HCL Toplița nr. 37/2026",
@@ -148,6 +178,21 @@
      "from": "2026-10-15",
      "units": 1,
      "source_url": "https://emol.ro/toplita-hd/registru-hcl/292499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-39-2026",
+   "path": "local/hunedoara/toplita/2026/39",
+   "short": "HCL Toplița nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 39/2026 privind desemnarea reprezentantului Consiliului Local al comunei Toplita, în Consiliul de Administrație al Școlii Primare Hășdău, în anul scolar 2026 - 2027",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/292500",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/292500",
      "sha256": null
     }
    ]
@@ -183,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--toplita-42-2026",
+   "path": "local/hunedoara/toplita/2026/42",
+   "short": "HCL Toplița nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 42/2026",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/292996",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/292996",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--toplita-43-2026",
    "path": "local/hunedoara/toplita/2026/43",
    "short": "HCL Toplița nr. 43/2026",
@@ -208,6 +268,21 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/toplita-hd/registru-hcl/297479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-45-2026",
+   "path": "local/hunedoara/toplita/2026/45",
+   "short": "HCL Toplița nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 45/2026 privind acordarea unui sprijin financiar în sumă de 15000 lei Bisericii Penticostale din localitatea Hasdau, comuna Toplița, județul Hunedoara, pentru construire filigorie și finalizarea lucrărilor la terasa exterioară;",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/297480",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/297480",
      "sha256": null
     }
    ]

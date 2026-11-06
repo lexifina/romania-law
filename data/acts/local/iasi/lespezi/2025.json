@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/lespezi/2025",
+"acts": [
+{
+"slug": "hcl-iasi--lespezi-7-2025",
+"path": "local/iasi/lespezi/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lespezi nr. 7/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Lespezi, pentru perioada februarie 2025 - aprilie 2025 Consiliul local al comunei Lespezi, județul lași Având în vedere: - Referatul de aprobare nr.180/27.01.2025 a primarului Comunei Lespezi - Raportul de specialitate nr. 181/27.01.2025a Secretarului General al Comunei Lespezi - prevederile art. 123 alin. (1)",
+"short": "HCL Lespezi nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://www.primarialespezi.ro/wp-content/uploads/2025/05/hcl_Redacted.pdf",
+"council": "iasi/lespezi",
+"council_name": "Consiliul Local al Comunei Lespezi",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/batrana/2023",
+"acts": [
+{
+"slug": "hcl-hunedoara--batrana-11-2023",
+"path": "local/hunedoara/batrana/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 11/2023 privind aprobarea Strategiei de dezvoltare locală a comunei Batrana ,judetul Hunedoara ,pentru perioada 2023-2027 Consiliul Local al comunei Batrana,judetul Hunedoara Având în vedere referatul de aprobare al Primarului comunei Bătrana cu nr.27/22.02.2023 din care rezultă necesitatea și oportunitatea adoptării unei hotărâri privind aprobarea Strategiei de dezvoltare locală a comunei Bătrana pentru",
+"short": "HCL Bătrâna nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://primaria-batrina.ro/wp-content/uploads/2023/03/HCL-nr.11-din-28-martie-2023.pdf",
+"council": "hunedoara/batrana",
+"council_name": "Consiliul Local al Comunei Bătrâna",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-61-2022",
+"path": "local/ialomita/facaeni/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 61/2022 privind alegerea presedintelui de ședință",
+"short": "HCL Făcăeni nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/82476",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-62-2022",
 "path": "local/ialomita/facaeni/2022/62",
 "kind": "local",

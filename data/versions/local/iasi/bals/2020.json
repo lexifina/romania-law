@@ -213,6 +213,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bals-94-2020",
+   "path": "local/iasi/bals/2020/94",
+   "short": "HCL Balș nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 94/2020 privind desemnarea reprezentantului comunei Balș și a persoanelor care pot înlocui reprezentantul comunei Balș în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal - ARSACIS",
+   "url": "https://emol.ro/bals-is/registru-hcl/20527",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/20527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-95-2020",
+   "path": "local/iasi/bals/2020/95",
+   "short": "HCL Balș nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 95/2020",
+   "url": "https://emol.ro/bals-is/registru-hcl/20528",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/20528",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bals-96-2020",
    "path": "local/iasi/bals/2020/96",
    "short": "HCL Balș nr. 96/2020",

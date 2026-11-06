@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-94-2021",
+   "path": "local/iasi/belcesti/2021/94",
+   "short": "HCL Belcești nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 94/2021 privind acordarea unui sprijin financiar parohiei Sf. Nicolae Munteni",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/62995",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/62995",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-95-2021",
    "path": "local/iasi/belcesti/2021/95",
    "short": "HCL Belcești nr. 95/2021",

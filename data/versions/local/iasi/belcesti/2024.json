@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--belcesti-85-2024",
+   "path": "local/iasi/belcesti/2024/85",
+   "short": "HCL Belcești nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 85/2024 privind alegerea preşedintelui de şedinţă pentru lunile noiembrie-decembrie 2024 și ianuarie 2025",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/191805",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/191805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-86-2024",
+   "path": "local/iasi/belcesti/2024/86",
+   "short": "HCL Belcești nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 86/2024 privind stabilirea și organizarea comisiilor de specialitate din cadrul Consiliului Local al comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/191806",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/191806",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--belcesti-87-2024",
    "path": "local/iasi/belcesti/2024/87",
    "short": "HCL Belcești nr. 87/2024",
@@ -88,6 +118,81 @@
      "from": "2024-11-06",
      "units": 1,
      "source_url": "https://emol.ro/belcesti-is/registru-hcl/191807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-88-2024",
+   "path": "local/iasi/belcesti/2024/88",
+   "short": "HCL Belcești nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 88/2024 Privind modificarea art.2 alin 2 a HCL nr.15/29.02.2024 aprobarea susținerii financiare a instituției publice de interes local „CLUB SPORTIV VIITORUL BELCEȘTI”",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/191808",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/191808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-89-2024",
+   "path": "local/iasi/belcesti/2024/89",
+   "short": "HCL Belcești nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 89/2024",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/191809",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/191809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-90-2024",
+   "path": "local/iasi/belcesti/2024/90",
+   "short": "HCL Belcești nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 90/2024 privind numire reprezentant ai Consiliului Local în Consiliul de Administrație si in comisia pentru evaluarea și asigurarea calității a Scolii Gimnaziale Liteni",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/191810",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/191810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-91-2024",
+   "path": "local/iasi/belcesti/2024/91",
+   "short": "HCL Belcești nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 91/2024 privind numire reprezentanți ai Consiliului Local în Consiliul de Administrație și în Comisia de Evaluare și Asigurarea Calității a Școlii Gimnaziale Ruși",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/191811",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/191811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--belcesti-92-2024",
+   "path": "local/iasi/belcesti/2024/92",
+   "short": "HCL Belcești nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Belcești nr. 92/2024 privind alegerea Viceprimarului Comunei Belcești",
+   "url": "https://emol.ro/belcesti-is/registru-hcl/191812",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/belcesti-is/registru-hcl/191812",
      "sha256": null
     }
    ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ialomita/perieti/2021",
+"acts": [
+{
+"slug": "hcl-ialomita--perieti-203-2021",
+"path": "local/ialomita/perieti/2021/203",
+"kind": "local",
+"year": "2021",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Perieți nr. 203/2021",
+"short": "HCL Perieți nr. 203/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-11",
+"latest": "2021-10-11",
+"portal": "http://primaria-perieti.ro/",
+"council": "ialomita/perieti",
+"council_name": "Consiliul Local al Comunei Perieți",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

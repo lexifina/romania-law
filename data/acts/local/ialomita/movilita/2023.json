@@ -1466,6 +1466,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--movilita-67-2023",
+"path": "local/ialomita/movilita/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movilița nr. 67/2023 privind desemnarea reprezentantilor Consiliului Local al comunei Moviliţa în cadrul Consiliului de administraţie al Scolii Gimnaziale Moviliţa",
+"short": "HCL Movilița nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-20",
+"latest": "2023-09-20",
+"portal": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#61478",
+"council": "ialomita/movilita",
+"council_name": "Consiliul Local al Comunei Movilița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--movilita-68-2023",
 "path": "local/ialomita/movilita/2023/68",
 "kind": "local",
@@ -1485,6 +1507,28 @@
 "council_name": "Consiliul Local al Comunei Movilița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--movilita-69-2023",
+"path": "local/ialomita/movilita/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movilița nr. 69/2023 privind aprobarea Raportului de evaluare și concesionarea, unui spațiu dintr-un imobil proprietate publică a comunei, prin atribuire directă către Compania Națională Poșta Română",
+"short": "HCL Movilița nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-20",
+"latest": "2023-09-20",
+"portal": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#61486",
+"council": "ialomita/movilita",
+"council_name": "Consiliul Local al Comunei Movilița",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

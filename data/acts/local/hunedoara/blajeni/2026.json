@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--blajeni-26-2026",
+"path": "local/hunedoara/blajeni/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 26/2026 privind aprobarea unui contract de asistență juridică în vederea redactare și reprezentare plângere contravențională împotriva Procesului Verbal seria GNM nr. 022198 din 28.05.2026",
+"short": "HCL Blăjeni nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/277929",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--blajeni-27-2026",
 "path": "local/hunedoara/blajeni/2026/27",
 "kind": "local",
@@ -220,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Blăjeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-28-2026",
+"path": "local/hunedoara/blajeni/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 28/2026 privind alegerea președintelui de ședință",
+"short": "HCL Blăjeni nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/280173",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -311,6 +355,50 @@
 }
 },
 {
+"slug": "hcl-hunedoara--blajeni-33-2026",
+"path": "local/hunedoara/blajeni/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 33/2026 privind desemnarea reprezentantului Consiliului local Blăjeni în Consiliul de Administrație al Școlii Primare Blăjeni pentru anul școlar 2026-2027",
+"short": "HCL Blăjeni nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/291212",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-34-2026",
+"path": "local/hunedoara/blajeni/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 34/2026 privind alegerea președintelui de ședință",
+"short": "HCL Blăjeni nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/296963",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--blajeni-35-2026",
 "path": "local/hunedoara/blajeni/2026/35",
 "kind": "local",
@@ -330,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Blăjeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-36-2026",
+"path": "local/hunedoara/blajeni/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 36/2026 privind rectificarea bugetului local al comunei Blăjeni, județul Hunedoara, pentru anul 2026",
+"short": "HCL Blăjeni nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/297267",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,21 @@
  "shard": "local/iasi/miroslovesti/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--miroslovesti-105-2024",
+   "path": "local/iasi/miroslovesti/2024/105",
+   "short": "HCL Miroslovești nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 105/2024 privind aprobarea desemnării în Consiliul de Administrare al Școlii Gimnaziale Miroslovești atât a primarului cât și a doi reprezentanți din consiliul local Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/188130",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/188130",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-106-2024",
    "path": "local/iasi/miroslovesti/2024/106",
    "short": "HCL Miroslovești nr. 106/2024",

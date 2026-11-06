@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/pestisu-mic/2024",
+"acts": [
+{
+"slug": "hcl-hunedoara--pestisu-mic-76-2024",
+"path": "local/hunedoara/pestisu-mic/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pestișu Mic nr. 76/2024",
+"short": "HCL Pestișu Mic nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": "https://primariapestisumic.ro/arhiva-hcl/",
+"council": "hunedoara/pestisu-mic",
+"council_name": "Consiliul Local al Comunei Pestișu Mic",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

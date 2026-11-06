@@ -3,6 +3,351 @@
  "shard": "local/iasi/draguseni/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--draguseni-10-2026",
+   "path": "local/iasi/draguseni/2026/10",
+   "short": "HCL Drăgușeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 10/2026 privind aprobarea documentatiei tehnico-economice Hotararea nr. 10 din 27.03.2026 privind aprobarea documentatiei tehnico-economice",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991408/Hotarareanr.10din27.03.2026privindaprobareadocumentatieitehnico-economice-AP42YVFIfPMfHTqcjSqTQg.pdf",
+     "sha256": "b9e1fe4be3535703035dc9d0f8b2bbe2b47b0970c31829c08481b6d790c23db5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-11-2026",
+   "path": "local/iasi/draguseni/2026/11",
+   "short": "HCL Drăgușeni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 11/2026 privind aprobarea inscrierii in cartea funciara a unei suprafete de teren intravilan Hotararea nr. 11 din 27.03.2026 privind aprobarea inscrierii in cartea funciara a unei suprafete de teren intravilan",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991431/Hotarareanr.11din27.03.2026privindaprobareainscrieriiincarteafunciaraauneisuprafetedeterenintravilan-wJc6MnkJ7hTdHu2iIWCXvA.pdf",
+     "sha256": "c6d58de2d2b1ecdb72545c3ad57b35fe8ccc608587877158b7306e35b264b111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-12-2026",
+   "path": "local/iasi/draguseni/2026/12",
+   "short": "HCL Drăgușeni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 12/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991443/Hotarareanr.12din27.03.2026privindalegereapresedinteluidesedinta-LwYrnrdNbEbMdPKLCQ35Uw.pdf",
+     "sha256": "3b4f3c5bd37ef890ffa08977a2fc04e1998f051be7b35d95b4ecaa59723d994a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-13-2026",
+   "path": "local/iasi/draguseni/2026/13",
+   "short": "HCL Drăgușeni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 13/2026 privind reorganizarea structurii organizatorice a institutiei Hotararea nr. 13 din 14.04.2026 privind reorganizarea structurii organizatorice a institutiei",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991458/Hotarareanr.13din14.04.2026privindreorganizareastructuriiorganizatoriceainstitutiei-KXH4ipxG38wMYdWH_5dcaQ.pdf",
+     "sha256": "fd1dff3a19c10a67de82bb10740fe9f1095b4a623f664369197343cd57247787"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-14-2026",
+   "path": "local/iasi/draguseni/2026/14",
+   "short": "HCL Drăgușeni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 14/2026 privind aprobarea bugetului local Hotărârea nr. 14 din 11.05.2026 privind aprobarea bugetului local",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800320/HCLNR.14DIN11.05.2026PRIVINDAPROBAREBUGETLOCAL-MZoUAK9yofc7lB784qCYLA.pdf",
+     "sha256": "0dfa96239581e3b32c1932d41a723b669e947021a6e246b26392cb99e20007d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-15-2026",
+   "path": "local/iasi/draguseni/2026/15",
+   "short": "HCL Drăgușeni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 15/2026 privind modificarea și completarea HCL nr. 11/2026 Hotărârea nr. 15 din 11.05.2026 privind modificarea și completarea HCL nr. 11/2026",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800327/HCLNR.15DIN11.05.2026PRIVINDMODIFICAREASICOMPLETAREAHCLNR.11DIN27.03.2026-n9cQP3aDADQ14_8ahiHKmA.pdf",
+     "sha256": "95516d5d93961c4ec016d30db1770a0b12266c64d38628ca0c596b64b729c1ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-16-2026",
+   "path": "local/iasi/draguseni/2026/16",
+   "short": "HCL Drăgușeni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 16/2026 privind aprobarea unui acord de parteneriat Hotărârea nr. 16 din 11.05.2026 privind aprobarea unui acord de parteneriat",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800339/HCLNR.16DIN11.05.2026PRIVINDAPROBAREAACORDULUIDEPARTENERIAT-kCuKhTRiMhjqfCohAucgPQ.pdf",
+     "sha256": "4ce302333f086a10e317206be983dff9b32087bed0af70cfa7d0f7b2f3b65b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-17-2026",
+   "path": "local/iasi/draguseni/2026/17",
+   "short": "HCL Drăgușeni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 17/2026 privind rectificarea bugetului local pe anul 2026 Hotărârea nr. 17 din 25.05.2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800364/HCLNR.17DIN25.05.2026PRIVINDRECTIFICAREABUGETULUILOCALPEANUL2026-9IN8HicL4v5t95Lr9Qi9tw.pdf",
+     "sha256": "d078ce68b568f907f0ddb69156fb38786a3a072a579547628bab499385f39c47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-18-2026",
+   "path": "local/iasi/draguseni/2026/18",
+   "short": "HCL Drăgușeni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 18/2026 privind modificarea și completarea HCL nr. 13/2026 Hotărârea nr. 18 din 25.05.2026 privind modificarea și completarea HCL nr. 13/2026",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800390/HCLNR.18DIN25.05.2026PRIVINDMODIFICAREASICOMPLETAREAHCLNR.13DIN14.04.2026-7MghQjhhZtkAB4tQ6EsIxQ.pdf",
+     "sha256": "1a2fc3fa5a8d95a97ac0a48b2f68cebe062d683bd0f40fab0e2b3728e56e9ff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-19-2026",
+   "path": "local/iasi/draguseni/2026/19",
+   "short": "HCL Drăgușeni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 19/2026 privind aprobarea indicatorilor tehnico-economici Hotărârea nr. 19 din 25.05.2026 privind aprobarea indicatorilor tehnico-economici",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800417/HCLNR.19DIN25.05.2026PRIVINDAPROBAREAINDICATORILORTEHNICO-ECONOMICI-QzvnMhV1RHrIOvUgzgsLcw.pdf",
+     "sha256": "e28d391ea89346b63b4c34a0e8484b8d7077243749271504e7fe4874e4f504dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-2-2026",
+   "path": "local/iasi/draguseni/2026/2",
+   "short": "HCL Drăgușeni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 2/2026 privind acordul CL de a utiliza sume din excedentul bugetar Hotararea nr. 2 din 08.01.2026 privind acordul CL de a utiliza sume din excedentul bugetar",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/23579560/Hotarareanr.2din08.01.2026privindacordulCLdeautilizasumedinexcedentulbugetar-botKUwgUZC2eF0_b_iO7Nw.pdf",
+     "sha256": "85c613467837379ec897e211db8c6e46c308b50c03e02f42e5e80af3c9e483e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-20-2026",
+   "path": "local/iasi/draguseni/2026/20",
+   "short": "HCL Drăgușeni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 20/2026 privind aprobarea finanțării lucrărilor de extindere rețea Hotărârea nr. 20 din 09.06.2026 privind aprobarea finanțării lucrărilor de extindere rețea",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800447/HCLNR.20DIN09.06.2026PRIVINDAPROBAREAFINANTARIILUCRARILORDEEXTINDERERETEA-cHMO8jAS_eqKNdUqfgBuFg.pdf",
+     "sha256": "9d80d6f1bb3a30c6d7a719bdf7bc041c3af5aae0204cc5bf11654a8e411e1584"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-21-2026",
+   "path": "local/iasi/draguseni/2026/21",
+   "short": "HCL Drăgușeni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 21/2026 privind rectificarea bugetului local pe anul 2026 Hotărârea nr. 21 din 09.06.2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800455/HCLNR.21DIN09.06.2026PRIVINDRECTIFICAREABUGETULUILOCALPEANUL2026-Ny-Xu7wlatJw8adNRh9Quw.pdf",
+     "sha256": "6fe7a7bbe7d8e3bee45eeb7975be7c0a18c4728a65168bc9d9f3f11b504e67fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-22-2026",
+   "path": "local/iasi/draguseni/2026/22",
+   "short": "HCL Drăgușeni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 22/2026 privind aprobarea solicitării de trecere a imobilului canton din domeniul public al statului în domeniul privat al UATC Drăgușeni Hotărârea nr. 22 din 09.06.2026 privind aprobarea solicitării de trecere a imobilului canton din domeniul public al statului în domeniul privat al UATC Drăgușeni",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800498/HCLNR.22DIN09.06.2026PRIVINDAPROBAREASOLICITARIIDETRECEREAIMOBILULUICANTONDINDOMENIULPUBLICALSTATULUIINDOMENIULPRIVATALUAT-WiIgjYJEqDlksYhcGC03Tw.pdf",
+     "sha256": "9bb88e896e26ea2c91076a3c8c3104c121e8fba874a486d620ab5cf96e4cef91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-23-2026",
+   "path": "local/iasi/draguseni/2026/23",
+   "short": "HCL Drăgușeni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 23/2026 privind aprobarea studiului de fundamentare Hotărârea nr. 23 din 09.06.2026 privind aprobarea studiului de fundamentare",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800516/HCLNR.23DIN09.06.2026PRIVINDAPROBAREASTUDIULUIDEFUNDAMENTARE-xLXUOuFL7mQ3eh3JNYIw1A.pdf",
+     "sha256": "153b5c0198c84146a5cf5b91fd6b258f2265657ff2752831fafb1db9eddfac26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-24-2026",
+   "path": "local/iasi/draguseni/2026/24",
+   "short": "HCL Drăgușeni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 24/2026 privind aprobare document poziție Hotărârea nr. 24 din 09.06.2026 privind aprobare document poziție",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800520/HCLNR.24DIN09.06.2026PRIVINDAPROBAREDOCUMENTPOZITIE-dFgWQemmJaxSCT4IFWZhcw.pdf",
+     "sha256": "d8b554744471180eacee7f804af5766d2f10821d47e28d7253e26e055fc258c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-25-2026",
+   "path": "local/iasi/draguseni/2026/25",
+   "short": "HCL Drăgușeni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 25/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800521/HCLNR.25DIN06.07.2026PRIVINDALEGEREAPRESEDINTELUIDESEDINTA-fmywaSSR2OWZsUbTSPBKlg.pdf",
+     "sha256": "ec752b86e4a1f264d3bfd97da940c1372676ead3db81a5e8c865158aa34983ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-26-2026",
+   "path": "local/iasi/draguseni/2026/26",
+   "short": "HCL Drăgușeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 26/2026 privind modificarea organigramei și a statului de funcții Hotărârea nr. 26 din 06.07.2026 privind modificarea organigramei și a statului de funcții",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800528/HCLNR.26DIN06.07.2026PRIVINDMODIFICAREAORGANIGRAMEISISTATULUIDEFUNCTII-sE_JiddvbisEeUjb7R3dYA.pdf",
+     "sha256": "c1fa542f67268ef5f3bac558c6b1023a1a2a2a0641a228c0fa5170ff2e8f4ecd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-27-2026",
+   "path": "local/iasi/draguseni/2026/27",
+   "short": "HCL Drăgușeni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 27/2026 privind aprobarea P.A.A.C",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800534/HCLNR.27DIN06.07.2026PRIVINDAPROBAREAPAAC-Hd7x280GzhBvEXpDoXVSQw.pdf",
+     "sha256": "d2ee64b4498af4638521653ebe56bd3124ad1ca9f2f660ca9fb4205db43c8654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-28-2026",
+   "path": "local/iasi/draguseni/2026/28",
+   "short": "HCL Drăgușeni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 28/2026 privind aprobarea raportului de informare a publicului Hotărârea nr. 28 din 06.07.2026 privind aprobarea raportului de informare a publicului",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800540/HCLNR.28DIN06.07.2026PRIVINDAPROBAREARAPORTULUIDEINFORMAREAPUBLICULUI-hXpAqKG2_6brcb3KfjT5bQ.pdf",
+     "sha256": "b5479e616de62daf4500ecb403665d33c5575707c2a57204d9661b143d907d1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-29-2026",
+   "path": "local/iasi/draguseni/2026/29",
+   "short": "HCL Drăgușeni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 29/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800544/HCLNR.29DIN21.07.2026PRIVINDADERAREAUATLAADIAPACANALGALATI-PdkMCOZY7hug3nMS0To2UQ.pdf",
+     "sha256": "ce7a9579653eda7b857247e5a8d7e792f14d8a18086933f69a0da67cd397baf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-3-2026",
+   "path": "local/iasi/draguseni/2026/3",
+   "short": "HCL Drăgușeni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 3/2026 privind aprobarea retelei scolare 2026-2027 Hotararea nr. 3 din 22.01.2026 privind aprobarea retelei scolare 2026-2027",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/23579577/Hotarareanr.3din22.01.2026privindaprobareareteleiscolare2026-2027-vHV-8h3qQN7OEaT7_77HHg.pdf",
+     "sha256": "94936b70dd3b81cc941f90d93829986797d86d37d035b50857062e34713391b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-30-2026",
+   "path": "local/iasi/draguseni/2026/30",
+   "short": "HCL Drăgușeni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 30/2026 privind delegarea serviciului de alimentare cu apă către Apă Canal Hotărârea nr. 30 din 28.08.2026 privind delegarea serviciului de alimentare cu apă către Apă Canal",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800567/HCLNR.30DIN28.08.2026PRIVINDDELEGAREASERVICIULUIDEALIMENTARECUAPACATREAPACANAL-Bi7aPDX0wMNXzDfhE8RjUg.pdf",
+     "sha256": "88a038d5ca207a0b6a7394ab4ece92ddb31198d5cddb96e44872a76137008e5d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--draguseni-31-2026",
    "path": "local/iasi/draguseni/2026/31",
    "short": "HCL Drăgușeni nr. 31/2026",
@@ -14,6 +359,306 @@
      "units": 5,
      "source_url": "http://www.primariadraguseni.ro/images/document/28800576/HCLNR.31DIN28.08.2026PRIVINDAPROBAREPLANDEEVOLUTIEATARIFELOR-bgDsO8uSI3u6t9Qwu_VV_w.pdf",
      "sha256": "0f90c3858a1ee69a354972ea91ba5feffbdac3fe2098d7a62b1bc5f4bcdfd0ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-32-2026",
+   "path": "local/iasi/draguseni/2026/32",
+   "short": "HCL Drăgușeni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 32/2026 privind rectificarea bugetului local pe anul 2026 Hotărârea nr. 32 din 28.08.2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800581/HCLNR.32DIN28.08.2026PRIVINDRECTIFICAREABUGETULUILOCALPEANUL2026-j3ZLYukv88vP6wtjl01fPw.pdf",
+     "sha256": "bdeae523ecdb521867b702e6ba3698e288c5efe3dd20a7bf2670bad8c72b9098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-33-2026",
+   "path": "local/iasi/draguseni/2026/33",
+   "short": "HCL Drăgușeni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 33/2026 privind rectificarea bugetului și modificarea listei de investiții Hotărârea nr. 33 din 28.08.2026 privind rectificarea bugetului și modificarea listei de investiții",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800594/HCLNR.33DIN28.08.2026PRIVINDRECTIFICAREABUGETULUISIMODIFICAREALISTEIDEINVESTITII-fYe4Oort87KINFa7HxHcSw.pdf",
+     "sha256": "f87f5ccaa169cd0c8f63bc936a9c7ce99cade182e14cc8254582d43a66dd7d2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-34-2026",
+   "path": "local/iasi/draguseni/2026/34",
+   "short": "HCL Drăgușeni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 34/2026 privind trecerea unui teren din domeniul privat în domeniul public Hotărârea nr. 34 din 28.08.2026 privind trecerea unui teren din domeniul privat în domeniul public",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800606/HCLNR.34DIN11.09.2026PRIVINDTRECEREAUNUITERENDINDOMENIULPRIVATINDOMENIULPUBLIC-QT--lWTYstnWnyFCeriZ-g.pdf",
+     "sha256": "58d54300cc5ab1ac1c87c364154ea0ae26e97ec56bdb6646a5a2efede8e608ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-35-2026",
+   "path": "local/iasi/draguseni/2026/35",
+   "short": "HCL Drăgușeni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 35/2026 privind modificarea și completarea inventarului domeniului privat Hotărârea nr. 35 din 21.09.2026 privind modificarea și completarea inventarului domeniului privat",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800642/HCLNR.35DIN21.09.2026PRIVINDMODIFICAREASICOMPLETAREAINVENTARULUIDOMENIULUIPRIVAT-sqFXctuQBe27sKaQbPsVMQ.pdf",
+     "sha256": "e70d35c4db004fd90e56d832a20114639bf91ce43d1fc8d8c211b2b234b8ce4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-36-2026",
+   "path": "local/iasi/draguseni/2026/36",
+   "short": "HCL Drăgușeni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 36/2026 privind rectificarea bugetului local Hotărârea nr. 36 din 25.09.2026 privind rectificarea bugetului local",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800650/HCLNR.36DIN25.09.2026PRIVINDRECTIFICAREABUGETULUILOCAL-Av9fx_-7ImmPeAmZKK-9AQ.pdf",
+     "sha256": "6755fec5248db6e8401e5e19c661d2c153fc3f59adcd06db81dcbec87da695ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-37-2026",
+   "path": "local/iasi/draguseni/2026/37",
+   "short": "HCL Drăgușeni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 37/2026 privind participarea la Programul-Cheie 1 Hotărârea nr. 37 din 25.09.2026 privind participarea la Programul-Cheie 1",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800659/HCLNR.37DIN25.09.2026PRIVINDPARTICIPAREALAPROGRAMUL-CHEIE1-pnDORMF2N4iPgU6pu9YooQ.pdf",
+     "sha256": "82e4e41b11a63d34376bf4c6abae62ae1563c5ed736915b93be78aeafb0a6887"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-38-2026",
+   "path": "local/iasi/draguseni/2026/38",
+   "short": "HCL Drăgușeni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 38/2026 privind aprobarea modificării organigramei Hotărârea nr. 38 din 30.09.2026 privind aprobarea modificării organigramei",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800671/HCLNR.38DIN30.09.2026PRIVINDAPROBAREAMODIFICARIIORGANIGRAMEI-Jc05gtQbRBbYa1ZR3MCYXA.pdf",
+     "sha256": "338d921cbc327bc5a7bd52275e2de6cd31b13d22025e54b9e2d58e5b434beb9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-39-2026",
+   "path": "local/iasi/draguseni/2026/39",
+   "short": "HCL Drăgușeni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 39/2026 privind stabilirea salariilor Hotărârea nr. 39 din 30.09.2026 privind stabilirea salariilor",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800677/HCLNR.39DIN30.09.2026PRIVINDSTABILIREASALARIILOR-74bHZkg6OTyHZf_jiPRtSg.pdf",
+     "sha256": "f8c0c0a325da8dd5d2a0498b1efe8389110cf8b4acf2478dad8138da799bee2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-4-2026",
+   "path": "local/iasi/draguseni/2026/4",
+   "short": "HCL Drăgușeni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 4/2026 privind aprobarea intervalelor orare, traseelor si statiilor microbuzelor scolare Hotararea nr. 4 din 27.02.2026 privind aprobarea intervalelor orare, traseelor si statiilor microbuzelor scolare",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991341/Hotarareanr.4din27.02.2026privindaprobareaintervalelororaretraseelorsistatiilormicrobuzelorscolare-mNqmxEufMk-rW8u3seEiwA.pdf",
+     "sha256": "4cc7dc559307702ffb3f153db46bb36c91eb020182e3a1c272b6610d85700027"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-40-2026",
+   "path": "local/iasi/draguseni/2026/40",
+   "short": "HCL Drăgușeni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 40/2026 privind desemnarea reprezentanților din comisia de concurs Hotărârea nr. 40 din 30.09.2026 privind desemnarea reprezentanților din comisia de concurs",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800683/HCLNR.40DIN30.09.2026PRIVINDDESEMNAREREPREZENTANTICOMISIECONCURS-YOxkmFSHnwWHQLd_6tzpYw.pdf",
+     "sha256": "59040b97c7071829a67179ceb2ab7be25d2fa7574c2505d7ceacbb8722580dc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-41-2026",
+   "path": "local/iasi/draguseni/2026/41",
+   "short": "HCL Drăgușeni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 41/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800693/HCLNR.41DIN30.09.2026PRIVINDDESEMNARECASCOALA-Lq0zl9YtshKbzBN_fpJXiA.pdf",
+     "sha256": "d5310b3aabfc2a555f154811765b2c1a32fd4e7eaac9b714e229916a2ca36d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-42-2026",
+   "path": "local/iasi/draguseni/2026/42",
+   "short": "HCL Drăgușeni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 42/2026 privind asigurarea unui spațiu pentru deșeurile periculoase Hotărârea nr. 42 din 30.09.2026 privind asigurarea unui spațiu pentru deșeurile periculoase",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800708/HCLNR.42DIN30.09.2026PRIVINDASIGURARESPATIUDESEURIPERICULOASE-NHZOFlJ5lq-Pu-VCn6j1tw.pdf",
+     "sha256": "99b2386a86c28b3ab1f35252339f1bda1c1396dc3659185ee0a162b81f1f4812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-43-2026",
+   "path": "local/iasi/draguseni/2026/43",
+   "short": "HCL Drăgușeni nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 43/2026 privind asigurarea unor spații pentru colectarea separată a deșeurilor Hotărârea nr. 43 din 30.09.2026 privind asigurarea unor spații pentru colectarea separată a deșeurilor",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800721/HCLNR.43DIN30.09.2026PRIVINDASIGURARESPATIICOLECTARESEPARATADESEURI-Swrq3uhwD-h6KL2Bzci4Qw.pdf",
+     "sha256": "d32b92f7a88e329665a69620b313581589d6386a716adb8df542d7242eee05bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-44-2026",
+   "path": "local/iasi/draguseni/2026/44",
+   "short": "HCL Drăgușeni nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 44/2026 privind predarea obiectelor de inventar Hotărârea nr. 44 din 30.09.2026 privind predarea obiectelor de inventar",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800726/HCLNR.44DIN30.09.2026PRIVINDPREDAREOB.INV-izqTGmFoFMZdbgZ6bIy_4g.pdf",
+     "sha256": "54470ccb57742d1b24fc39ea855868f1f08afd1f0a11100f54cec8f6de265631"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-45-2026",
+   "path": "local/iasi/draguseni/2026/45",
+   "short": "HCL Drăgușeni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 45/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/28800733/HCLNR.45IN30.09.2026PRIVINDALEGEREAPRESEDINTELUIDESEDINTA-SIersvuJPztJvwG9N4P1MQ.pdf",
+     "sha256": "d0e5392600c98e13dfa69618e8437a5ffa49fb81f0ef59cef8cb0ca3f7365f55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-5-2026",
+   "path": "local/iasi/draguseni/2026/5",
+   "short": "HCL Drăgușeni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 5/2026 privind modificarea organigramei si statului de functii Hotararea nr. 5 din 10.03.2026 privind modificarea organigramei si statului de functii",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991359/Hotarareanr.5din10.03.2026privindmodificareaorganigrameisistatuluidefunctii-0Fyv0buPntO2qDdjfBjYHw.pdf",
+     "sha256": "ea52b3f89f48162b00641eb953a2c10c50cc61526a1bd9efa31f2dabb2fb9b68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-6-2026",
+   "path": "local/iasi/draguseni/2026/6",
+   "short": "HCL Drăgușeni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 6/2026 privind aprobarea raportului privind activitatea asistentilor personali pe sem. II al anului 2025 Hotararea nr. 6 din 10.03.2026 privind aprobarea raportului privind activitatea asistentilor personali pe sem. II al anului 2025",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991368/Hotarareanr.6din10.03.2026privindaprobarearaportuluiprivindactivitateaasistentilorpersonalipesem.IIalanului2025-1SLQebnN0i8PbUHMgl1zgg.pdf",
+     "sha256": "33ff11447a75804c95149da42da5c667df6a8ca9775cfb852173a4d18756efb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-7-2026",
+   "path": "local/iasi/draguseni/2026/7",
+   "short": "HCL Drăgușeni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 7/2026 privind aprobare plan servicii sociale Hotararea nr. 7 din 10.03.2026 privind aprobare plan servicii sociale",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991383/Hotarareanr.7din10.03.2026privindaprobareplanserviciisociale-UIB5vUsWVrmh-6LWlRi8wg.pdf",
+     "sha256": "5372293b29fa5b47c6447b98676868881bcd87acf5579249ddb7811c0204b8b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-8-2026",
+   "path": "local/iasi/draguseni/2026/8",
+   "short": "HCL Drăgușeni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 8/2026 privind aprobarea planului de dezvoltare a serviciilor sociale Hotararea nr. 8 din 10.03.2026 privind aprobarea planului de dezvoltare a serviciilor sociale",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991396/Hotarareanr.8din10.03.2026privindaprobareaplanuluidedezvoltareaserviciilorsociale-RhNP_MiqAdraWhDCyjwuTA.pdf",
+     "sha256": "8d2206adae61e4c4d813d3c2808802354a0bbfd2c8ed7d4abde6b44b159b3726"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--draguseni-9-2026",
+   "path": "local/iasi/draguseni/2026/9",
+   "short": "HCL Drăgușeni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgușeni nr. 9/2026 privind modificarea organigramei si statului de functii Hotararea nr. 9 din 27.03.2026 privind modificarea organigramei si statului de functii",
+   "url": "http://www.primariadraguseni.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "http://www.primariadraguseni.ro/images/document/24991403/Hotarareanr.9din27.03.2026privindmodificareaorganigrameisistatuluidefunctii-PZbKkqP8YAB8MqJASnF9TA.pdf",
+     "sha256": "f045967f24fa3953d820d229cb096a7baed949242feb3149705eac5a3cd0f947"
     }
    ]
   }

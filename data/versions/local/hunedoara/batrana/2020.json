@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/batrana/2020",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--batrana-10-2020",
+   "path": "local/hunedoara/batrana/2020/10",
+   "short": "HCL Bătrâna nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 10/2020 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+   "url": "https://primaria-batrina.ro/wp-content/uploads/2020/04/HCL-nr-10-din-2020-privind-alegerea-presedintelui-de-sedinta-pe-o-perioada-de-3-luni.pdf",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://primaria-batrina.ro/wp-content/uploads/2020/04/HCL-nr-10-din-2020-privind-alegerea-presedintelui-de-sedinta-pe-o-perioada-de-3-luni.pdf",
+     "sha256": "9c31f11101ee75afc71f445ea67d332daef099be1a110c999769483f420838e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--batrana-2-2020",
+   "path": "local/hunedoara/batrana/2020/2",
+   "short": "HCL Bătrâna nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 2/2020 privind stabilirea salariilor de baza pentru functionarii publici si pers contractual din cadrul aparatului de spec al primarului com Batrana",
+   "url": "https://primaria-batrina.ro/wp-content/uploads/2020/02/HCL-nr-2-din-2020-privind-stabilirea-salariilor-de-baza-pentru-functionarii-publici-si-pers-contractual-din-cadrul-aparatului-de-spec-al-primarului-com-Batrana.pdf",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 1,
+     "source_url": "https://primaria-batrina.ro/wp-content/uploads/2020/02/HCL-nr-2-din-2020-privind-stabilirea-salariilor-de-baza-pentru-functionarii-publici-si-pers-contractual-din-cadrul-aparatului-de-spec-al-primarului-com-Batrana.pdf",
+     "sha256": "bf5085162e5726d08aa5267008538c72aabdac8952ce52dfdc453ca8ad235c40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--batrana-3-2020",
+   "path": "local/hunedoara/batrana/2020/3",
+   "short": "HCL Bătrâna nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 3/2020 privind aprobarea executiei bugetare pe trim IV 2019 a bugetului local al comunei Batrana",
+   "url": "https://primaria-batrina.ro/wp-content/uploads/2020/02/HCL-nr-3-din-2020-privind-aprobarea-executiei-bugetare-pe-trim-IV-2019-a-bugetului-local-al-comunei-Batrana.pdf",
+   "versions": [
+    {
+     "from": "2020-01-04",
+     "units": 1,
+     "source_url": "https://primaria-batrina.ro/wp-content/uploads/2020/02/HCL-nr-3-din-2020-privind-aprobarea-executiei-bugetare-pe-trim-IV-2019-a-bugetului-local-al-comunei-Batrana.pdf",
+     "sha256": "3928a815a39328acf847ba27afd1b4afe17bcc6cdd0ef35e8637b04fca8ba1a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--batrana-9-2020",
+   "path": "local/hunedoara/batrana/2020/9",
+   "short": "HCL Bătrâna nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 9/2020 privind aprobarea valorificarii masei lemnoase din fondul forestier al comunei Batrana in anul 2020",
+   "url": "https://primaria-batrina.ro/wp-content/uploads/2020/04/HCL-9-din-2020-privind-aprobarea-valorificarii-masei-lemnoase-din-fondul-forestier-al-comunei-Batrana-in-anul-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://primaria-batrina.ro/wp-content/uploads/2020/04/HCL-9-din-2020-privind-aprobarea-valorificarii-masei-lemnoase-din-fondul-forestier-al-comunei-Batrana-in-anul-2020.pdf",
+     "sha256": "605e90dd7717039789740c145fc2b98570d6001e332a5fd29fb4778102a6107f"
+    }
+   ]
+  }
+ ]
+}

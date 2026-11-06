@@ -92,6 +92,29 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-56-2022",
+"path": "local/iasi/focuri/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 56/2022",
+"short": "HCL Focuri nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://emol.ro/focuri-is/registru-hcl/89114",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--focuri-57-2022",
 "path": "local/iasi/focuri/2022/57",
 "kind": "local",
@@ -111,6 +134,50 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-58-2022",
+"path": "local/iasi/focuri/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 58/2022 privind acordare ajutoare de urgentă pentru completarea cheltuielilor de înmormantare",
+"short": "HCL Focuri nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://emol.ro/focuri-is/registru-hcl/89116",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-59-2022",
+"path": "local/iasi/focuri/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 59/2022 privind desemnarea unui nou presedinte de sedinta pentru urmatoarele trei luni",
+"short": "HCL Focuri nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://emol.ro/focuri-is/registru-hcl/89117",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -354,6 +421,28 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-71-2022",
+"path": "local/iasi/focuri/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 71/2022 (privind aprobarea vânzării prin licitatie publică a buldoexcavatorului JCB 3CX din domeniul privat al comunei, însușirea raportului de evaliuare, cât și aprobarea caietului de sarcini întocmit pentru vânzarea utilajului)",
+"short": "HCL Focuri nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-20",
+"latest": "2023-06-20",
+"portal": "https://emol.ro/focuri-is/registru-hcl/89129",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

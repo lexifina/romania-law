@@ -3,6 +3,94 @@
 "shard": "local/hunedoara/blajeni/2024",
 "acts": [
 {
+"slug": "hcl-hunedoara--blajeni-17-2024",
+"path": "local/hunedoara/blajeni/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 17/2024 privind alegerea președintelui de ședință",
+"short": "HCL Blăjeni nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/160364",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-18-2024",
+"path": "local/hunedoara/blajeni/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 18/2024 privind aprobarea contului de închiriere a exercițiului bugetar pe anul 2023",
+"short": "HCL Blăjeni nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/160365",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-19-2024",
+"path": "local/hunedoara/blajeni/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 19/2024 privind rectificarea bugetului local al comunei Blăjeni pentru anul 2024",
+"short": "HCL Blăjeni nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/160366",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-20-2024",
+"path": "local/hunedoara/blajeni/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 20/2024 privind aprobarea unui contract de asistență juridică de redactare și reprezentare în apel-întâmpinare Dosar 16/195/2024/a 1 Tribunalului Hunedoara, Dosar 4009/97/2023-redactare și reprezentare Tribunalul Hunedoara",
+"short": "HCL Blăjeni nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/160367",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--blajeni-21-2024",
 "path": "local/hunedoara/blajeni/2024/21",
 "kind": "local",
@@ -22,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Blăjeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-22-2024",
+"path": "local/hunedoara/blajeni/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 22/2024 privind rectificarea bugetului local al comunei Blăjeni pentru anul 2024",
+"short": "HCL Blăjeni nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-11",
+"latest": "2024-09-11",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/168525",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-hunedoara--blajeni-24-2024",
+"path": "local/hunedoara/blajeni/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 24/2024 privind prelungirea valabilității scrisorii de garanție de la FNGCIMM SA IFN în vederea garantării obligaților de plată a avansului din fonduri nerambursabile pentru implementarea Proiectului privind „Înființare centru pentru păstrarea tradițiilor și a meșteșugurilor, comuna Blăjeni, județul Hunedoara”, în baza contractului de finanțare nerambursabilă, în favoarea Agenției pentru Finanțarea Investițiilor Rurale (AFIR)",
+"short": "HCL Blăjeni nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/173482",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-25-2024",
+"path": "local/hunedoara/blajeni/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 25/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza teritorială a comunei Blăjeni, județul Hunedoara, pentru anul școlar 2025-2026",
+"short": "HCL Blăjeni nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/173483",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--blajeni-26-2024",
 "path": "local/hunedoara/blajeni/2024/26",
 "kind": "local",
@@ -69,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--blajeni-27-2024",
+"path": "local/hunedoara/blajeni/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 27/2024 privind rectificarea bugetului local al comunei Blăjeni pentru anul 2024",
+"short": "HCL Blăjeni nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/173485",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--blajeni-28-2024",
 "path": "local/hunedoara/blajeni/2024/28",
 "kind": "local",
@@ -88,6 +264,182 @@
 "council_name": "Consiliul Local al Comunei Blăjeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-29-2024",
+"path": "local/hunedoara/blajeni/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 29/2024 privind aprobarea contractelor de asistență juridică de redactare și reprezentare în apel-întâmpinare Dosar 335/195/2024 Judecătoria Brad, Dosar 2164/195/2024-redactare și reprezentare Judecătoria Brad",
+"short": "HCL Blăjeni nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/173487",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-30-2024",
+"path": "local/hunedoara/blajeni/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 30/2024 privind alegerea președintelui de ședință",
+"short": "HCL Blăjeni nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/176357",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-31-2024",
+"path": "local/hunedoara/blajeni/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 31/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Blăjeni",
+"short": "HCL Blăjeni nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/176358",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-32-2024",
+"path": "local/hunedoara/blajeni/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 32/2024 privind rectificarea bugetului local al comunei Blăjeni pentru anul 2024",
+"short": "HCL Blăjeni nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/182346",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-33-2024",
+"path": "local/hunedoara/blajeni/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 33/2024 privind aprobarea alocării unei sume de la bugetul local în vederea organizării activităților cultural-educative ce se vor desfășura pe raza comunei Blăjeni, județul Hunedoara, în cursul lunii decembrie 2024",
+"short": "HCL Blăjeni nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/182347",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-34-2024",
+"path": "local/hunedoara/blajeni/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 34/2024 privind rectificarea bugetului local al comunei Blăjeni pentru anul 2024",
+"short": "HCL Blăjeni nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/185537",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-35-2024",
+"path": "local/hunedoara/blajeni/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 35/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025, precum și a taxelor speciale pentru anul 2025",
+"short": "HCL Blăjeni nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/185538",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-36-2024",
+"path": "local/hunedoara/blajeni/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 36/2024 privind alegerea viceprimarului comunei Blăjeni, județul Hunedoara",
+"short": "HCL Blăjeni nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/185539",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-22-2026",
+   "path": "local/iasi/lungani/2026/22",
+   "short": "HCL Lungani nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 22/2026 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/278536",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/278536",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-23-2026",
    "path": "local/iasi/lungani/2026/23",
    "short": "HCL Lungani nr. 23/2026",
@@ -123,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-30-2026",
+   "path": "local/iasi/lungani/2026/30",
+   "short": "HCL Lungani nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 30/2026 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/279810",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/279810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-31-2026",
+   "path": "local/iasi/lungani/2026/31",
+   "short": "HCL Lungani nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 31/2026 privind acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/279811",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/279811",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-32-2026",
    "path": "local/iasi/lungani/2026/32",
    "short": "HCL Lungani nr. 32/2026",
@@ -178,6 +223,21 @@
      "from": "2026-08-11",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/291254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-36-2026",
+   "path": "local/iasi/lungani/2026/36",
+   "short": "HCL Lungani nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 36/2026 privind acordarea unor premii în bani pentru un număr de 5 copii din comuna Lungani care au obținut merite deosebite la competițiile sportive",
+   "url": "https://emol.ro/lungani-is/registru-hcl/291255",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/291255",
      "sha256": null
     }
    ]

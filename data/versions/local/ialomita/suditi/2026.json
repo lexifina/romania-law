@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--suditi-34-2026",
+   "path": "local/ialomita/suditi/2026/34",
+   "short": "HCL Sudiți nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 34/2026 privind desemnarea reprezentantului Consiliului local Sudiți in Comisia pentru Evaluarea si Asigurarea Calității din cadrul Școlii gimnaziale „Apostol D Culea” Sudiți pentru anul școlar 2026/2027",
+   "url": "https://emol.ro/suditi-il/registru-hcl/283837",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/suditi-il/registru-hcl/283837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--suditi-35-2026",
+   "path": "local/ialomita/suditi/2026/35",
+   "short": "HCL Sudiți nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 35/2026 privind desemnarea reprezentantului Consiliului local Sudiți in Consiliul de Administrație al Școlii gimnaziale „Apostol D Culea „ Sudiți",
+   "url": "https://emol.ro/suditi-il/registru-hcl/283838",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/suditi-il/registru-hcl/283838",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--suditi-36-2026",
    "path": "local/ialomita/suditi/2026/36",
    "short": "HCL Sudiți nr. 36/2026",
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--suditi-39-2026",
+   "path": "local/ialomita/suditi/2026/39",
+   "short": "HCL Sudiți nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 39/2026 privind instituirea dreptului de superficie cu titlu oneros asupra terenului în suprafață de 1.000 mp, aparținând domeniului privat al comunei Sudiți, situat în str. Azur, nr.5, în favoarea numitului Neagu Ioniță-Aurelian, ca urmare a dobândirii dreptului de proprietate asupra construcției edificate pe acesta",
+   "url": "https://emol.ro/suditi-il/registru-hcl/283842",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/suditi-il/registru-hcl/283842",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--suditi-40-2026",
    "path": "local/ialomita/suditi/2026/40",
    "short": "HCL Sudiți nr. 40/2026",
@@ -88,6 +133,21 @@
      "from": "2026-08-20",
      "units": 1,
      "source_url": "https://emol.ro/suditi-il/registru-hcl/283843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--suditi-41-2026",
+   "path": "local/ialomita/suditi/2026/41",
+   "short": "HCL Sudiți nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sudiți nr. 41/2026 privind acordarea dreptului de folosință gratuită a unui teren, în conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/suditi-il/registru-hcl/283844",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/suditi-il/registru-hcl/283844",
      "sha256": null
     }
    ]

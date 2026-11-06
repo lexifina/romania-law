@@ -1,0 +1,184 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/branisca/2022",
+"acts": [
+{
+"slug": "hcl-hunedoara--branisca-1-2022",
+"path": "local/hunedoara/branisca/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 1/2022 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunii de dezvoltare in anul 2021",
+"short": "HCL Brănișca nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-07",
+"latest": "2022-01-07",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/54855",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-2-2022",
+"path": "local/hunedoara/branisca/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 2/2022 privind aprobarea propunerii rețelei școlare a unităților de învățământ din Comuna Brănișca, județul Hunedoara, pentru anul școlar 2022-2023",
+"short": "HCL Brănișca nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/54875",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-3-2022",
+"path": "local/hunedoara/branisca/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 3/2022",
+"short": "HCL Brănișca nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/54876",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-4-2022",
+"path": "local/hunedoara/branisca/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 4/2022",
+"short": "HCL Brănișca nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/54877",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-5-2022",
+"path": "local/hunedoara/branisca/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 5/2022 privind însușirea Raportului de audit financiar nr. 56906/4616/03.12.2021 și a Deciziei nr. 41/2021 emise de Camera de Conturi Hunedoara, în urma acțiunii de audit financiar pe care camera de conturi a efectuat-o în perioada 01.11.2021-03.12.2021 la nivelul Comunei Brănișca, județul Hunedoara",
+"short": "HCL Brănișca nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/54878",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-6-2022",
+"path": "local/hunedoara/branisca/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 6/2022 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Brănișca nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/54879",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-7-2022",
+"path": "local/hunedoara/branisca/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 7/2022 privind aprobarea documentației tehnico-economice(faza D.A.L.I.) și a indicatorilor tehnico economici pentru proiectul de investiție ”MODERNIZARE ȘI EXTINDERE SISTEM DE SUPRAVEGHERE VIDEO ÎN COMUNA BRĂNIȘCA, JUDEȚUL HUNEDOARA”",
+"short": "HCL Brănișca nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/54880",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-8-2022",
+"path": "local/hunedoara/branisca/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 8/2022 privind implementarea proiectului de investiție ”MODERNIZARE ȘI EXTINDERE SISTEM DE SUPRAVEGHERE VIDEO ÎN COMUNA BRĂNIȘCA, JUDEȚUL HUNEDOARA”",
+"short": "HCL Brănișca nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/54881",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

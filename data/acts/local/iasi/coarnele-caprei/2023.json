@@ -113,6 +113,29 @@
 }
 },
 {
+"slug": "hcl-iasi--coarnele-caprei-101-2023",
+"path": "local/iasi/coarnele-caprei/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 101/2023",
+"short": "HCL Coarnele Caprei nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/134553",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--coarnele-caprei-102-2023",
 "path": "local/iasi/coarnele-caprei/2023/102",
 "kind": "local",
@@ -289,6 +312,28 @@
 }
 },
 {
+"slug": "hcl-iasi--coarnele-caprei-110-2023",
+"path": "local/iasi/coarnele-caprei/2023/110",
+"kind": "local",
+"year": "2023",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 110/2023 privind aprobarea proces-verbal al ședinței din data de 15.12.2023",
+"short": "HCL Coarnele Caprei nr. 110/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/143441",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--coarnele-caprei-111-2023",
 "path": "local/iasi/coarnele-caprei/2023/111",
 "kind": "local",
@@ -308,6 +353,94 @@
 "council_name": "Consiliul Local al Comunei Coarnele Caprei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-112-2023",
+"path": "local/iasi/coarnele-caprei/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 112/2023 privind actualizarea indicatorilor tehnico-economici și asigurarea cofinanțării pentru obiectivul de investiții „EXTINDEREA SISTEMULUI DE APĂ ȘI APĂ UZATĂ ÎN COMUNA COARNELE CAPREI, JUDEȚUL IAȘI” la nivelul anului 2023 ca urmare a aplicării OUG 47/2022",
+"short": "HCL Coarnele Caprei nr. 112/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/143443",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-113-2023",
+"path": "local/iasi/coarnele-caprei/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 113/2023 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APA VITAL S.A",
+"short": "HCL Coarnele Caprei nr. 113/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/143444",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-114-2023",
+"path": "local/iasi/coarnele-caprei/2023/114",
+"kind": "local",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 114/2023 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr. 5",
+"short": "HCL Coarnele Caprei nr. 114/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/143445",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-115-2023",
+"path": "local/iasi/coarnele-caprei/2023/115",
+"kind": "local",
+"year": "2023",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 115/2023 privind aprobarea reorganizarea rețea școlară în localitate prntru anul școlar 2024-2025",
+"short": "HCL Coarnele Caprei nr. 115/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/143446",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

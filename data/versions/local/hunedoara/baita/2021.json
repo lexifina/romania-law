@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/baita/2021",
  "acts": [
   {
+   "slug": "hcl-hunedoara--baita-55-2021",
+   "path": "local/hunedoara/baita/2021/55",
+   "short": "HCL Băița nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 55/2021 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/43040",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/43040",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-56-2021",
    "path": "local/hunedoara/baita/2021/56",
    "short": "HCL Băița nr. 56/2021",
@@ -268,6 +283,21 @@
      "from": "2021-12-30",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/46925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-74-2021",
+   "path": "local/hunedoara/baita/2021/74",
+   "short": "HCL Băița nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 74/2021 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/46926",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/46926",
      "sha256": null
     }
    ]

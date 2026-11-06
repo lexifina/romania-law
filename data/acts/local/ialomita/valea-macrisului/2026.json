@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--valea-macrisului-3-2026",
+"path": "local/ialomita/valea-macrisului/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 3/2026 Alegerea președintelui de ședință, pentru perioada februarie -aprilie 2026",
+"short": "HCL Valea Măcrișului nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#115235",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-4-2026",
 "path": "local/ialomita/valea-macrisului/2026/4",
 "kind": "local",
@@ -180,6 +202,50 @@
 }
 },
 {
+"slug": "hcl-ialomita--valea-macrisului-10-2026",
+"path": "local/ialomita/valea-macrisului/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 10/2026 Prelungirea contractului de închiriere cu Parohia Sf Gheorghe și comuna Valea Măcrişului",
+"short": "HCL Valea Măcrișului nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#119094",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-11-2026",
+"path": "local/ialomita/valea-macrisului/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 11/2026 Modificarea art.2 din HCL nr 74 din 09.12.2025privind închirierea suprafeței de 17, 7196 ha",
+"short": "HCL Valea Măcrișului nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#119093",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-12-2026",
 "path": "local/ialomita/valea-macrisului/2026/12",
 "kind": "local",
@@ -199,6 +265,29 @@
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-13-2026",
+"path": "local/ialomita/valea-macrisului/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 13/2026",
+"short": "HCL Valea Măcrișului nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": null,
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

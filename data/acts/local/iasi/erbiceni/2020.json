@@ -137,6 +137,29 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-88-2020",
+"path": "local/iasi/erbiceni/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 88/2020",
+"short": "HCL Erbiceni nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/17008",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-89-2020",
 "path": "local/iasi/erbiceni/2020/89",
 "kind": "local",
@@ -178,6 +201,28 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-91-2020",
+"path": "local/iasi/erbiceni/2020/91",
+"kind": "local",
+"year": "2020",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 91/2020 privind aprobarea modificării bugetului local de venituri și cheltuieli pe trim IV 2020",
+"short": "HCL Erbiceni nr. 91/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-04",
+"latest": "2020-12-04",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/17031",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -247,6 +292,50 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-95-2020",
+"path": "local/iasi/erbiceni/2020/95",
+"kind": "local",
+"year": "2020",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 95/2020 privind desemnarea reprezentantului legal și a persoanei/persoanelor care pot înlocui reprezentantul legal al UAT Comuna Erbiceni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate A.D.I.S Iași",
+"short": "HCL Erbiceni nr. 95/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-04",
+"latest": "2020-12-04",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/17035",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-96-2020",
+"path": "local/iasi/erbiceni/2020/96",
+"kind": "local",
+"year": "2020",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 96/2020 privind desemnarea reprezentantului comunei Erbiceni și a persoanelor care pot înlocui reprezentantul comunei Erbiceni în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal-ARSACIS",
+"short": "HCL Erbiceni nr. 96/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-04",
+"latest": "2020-12-04",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/17036",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-97-2020",
 "path": "local/iasi/erbiceni/2020/97",
 "kind": "local",
@@ -288,6 +377,29 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-99-2020",
+"path": "local/iasi/erbiceni/2020/99",
+"kind": "local",
+"year": "2020",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 99/2020",
+"short": "HCL Erbiceni nr. 99/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-04",
+"latest": "2020-12-04",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/17039",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

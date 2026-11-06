@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--bacia-87-2024",
+   "path": "local/hunedoara/bacia/2024/87",
+   "short": "HCL Băcia nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 87/2024 privind desemnarea reprezentantului Consiliului Local Băcia în Adunarea Generală a CLUBULUI SPORTIV AGRO COMPANY BĂCIA",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/178968",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/178968",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-88-2024",
    "path": "local/hunedoara/bacia/2024/88",
    "short": "HCL Băcia nr. 88/2024",
@@ -268,6 +283,21 @@
      "from": "2025-01-16",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/186931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-99-2024",
+   "path": "local/hunedoara/bacia/2024/99",
+   "short": "HCL Băcia nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 99/2024 cu privire la nominalizarea reprezentantului Consiliului local al comunei Băcia în Consiliul de Administraţie al Şcolii Gimnaziale Băcia",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/186932",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/186932",
      "sha256": null
     }
    ]

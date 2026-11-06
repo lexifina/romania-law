@@ -3,6 +3,21 @@
  "shard": "local/iasi/miroslovesti/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--miroslovesti-100-2020",
+   "path": "local/iasi/miroslovesti/2020/100",
+   "short": "HCL Miroslovești nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 100/2020 privind aprobarea acordării unui sprijin financiar unităților de cult, de pe teritoriul administrativ al comunei Miroslovești, județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28960",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28960",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-101-2020",
    "path": "local/iasi/miroslovesti/2020/101",
    "short": "HCL Miroslovești nr. 101/2020",
@@ -88,6 +103,51 @@
      "from": "2020-11-16",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-87-2020",
+   "path": "local/iasi/miroslovesti/2020/87",
+   "short": "HCL Miroslovești nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 87/2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28933",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-88-2020",
+   "path": "local/iasi/miroslovesti/2020/88",
+   "short": "HCL Miroslovești nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 88/2020 privind desemnarea reprezentantului comunei Miroslovești și a persoanelor care pot înlocui reprezentantul comunei Miroslovești în adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal - ARSACIS",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28934",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-89-2020",
+   "path": "local/iasi/miroslovesti/2020/89",
+   "short": "HCL Miroslovești nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 89/2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28935",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28935",
      "sha256": null
     }
    ]

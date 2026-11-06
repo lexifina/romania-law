@@ -3,6 +3,28 @@
 "shard": "local/iasi/erbiceni/2023",
 "acts": [
 {
+"slug": "hcl-iasi--erbiceni-113-2023",
+"path": "local/iasi/erbiceni/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 113/2023 privind acordare ajutor de urgenta Tici marian",
+"short": "HCL Erbiceni nr. 113/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/140685",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-114-2023",
 "path": "local/iasi/erbiceni/2023/114",
 "kind": "local",
@@ -110,6 +132,29 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-119-2023",
+"path": "local/iasi/erbiceni/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 119/2023",
+"short": "HCL Erbiceni nr. 119/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-22",
+"latest": "2023-11-22",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/140691",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -224,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-50-2020",
+"path": "local/iasi/focuri/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 50/2020 privind desemnare reprezentant comuna pentru a participa la sedinte ARSACIS",
+"short": "HCL Focuri nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-23",
+"latest": "2020-11-23",
+"portal": "https://emol.ro/focuri-is/registru-hcl/22956",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-51-2020",
 "path": "local/iasi/focuri/2020/51",
 "kind": "local",

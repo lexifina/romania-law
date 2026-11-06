@@ -158,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-8-2026",
+"path": "local/iasi/focuri/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 8/2026 (privind acordare ajutoare de urgență)",
+"short": "HCL Focuri nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/focuri-is/registru-hcl/258225",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-9-2026",
 "path": "local/iasi/focuri/2026/9",
 "kind": "local",
@@ -177,6 +199,72 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-10-2026",
+"path": "local/iasi/focuri/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 10/2026 (privind schimbarea denumirii unității de învățământ Școala Profesională cu sediul în comuna Focuri, judetul Iasi, în Liceul Tehnologic Focuri, cât și stabilirea formei de învățământ, pentru anul școlar 2026-2027)",
+"short": "HCL Focuri nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://emol.ro/focuri-is/registru-hcl/258628",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-11-2026",
+"path": "local/iasi/focuri/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 11/2026 privind aprobarea Programului anual al achizitiilor publice pentru anul 2026",
+"short": "HCL Focuri nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://emol.ro/focuri-is/registru-hcl/258629",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-12-2026",
+"path": "local/iasi/focuri/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 12/2026 privind desemnarea unui nou președinte de ședință pentru următoarele 3 luni",
+"short": "HCL Focuri nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://emol.ro/focuri-is/registru-hcl/258630",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -266,6 +354,28 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-17-2026",
+"path": "local/iasi/focuri/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 17/2026 (privind acordare ajutoare de urgentă)",
+"short": "HCL Focuri nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/focuri-is/registru-hcl/261667",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

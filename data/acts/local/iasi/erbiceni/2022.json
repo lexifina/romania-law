@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-117-2022",
+"path": "local/iasi/erbiceni/2022/117",
+"kind": "local",
+"year": "2022",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 117/2022 privind acordare ajutor de urgenta",
+"short": "HCL Erbiceni nr. 117/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-22",
+"latest": "2023-09-22",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/87585",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-118-2022",
 "path": "local/iasi/erbiceni/2022/118",
 "kind": "local",

@@ -3,6 +3,73 @@
 "shard": "local/iasi/horlesti/2020",
 "acts": [
 {
+"slug": "hcl-iasi--horlesti-84-2020",
+"path": "local/iasi/horlesti/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 84/2020",
+"short": "HCL Horlești nr. 84/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17344",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-85-2020",
+"path": "local/iasi/horlesti/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 85/2020 privind acordarea unui ajutor de urgență, d-lui Ioniță Răzvan-Iulian",
+"short": "HCL Horlești nr. 85/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17345",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-86-2020",
+"path": "local/iasi/horlesti/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 86/2020 privind desemnarea reprezentantului primăriei și a consiliului local în Consiliul de Administrație al unității de învățământ Școala Gimnazială Horlești",
+"short": "HCL Horlești nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17346",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-87-2020",
 "path": "local/iasi/horlesti/2020/87",
 "kind": "local",
@@ -22,6 +89,50 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-88-2020",
+"path": "local/iasi/horlesti/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 88/2020 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Horlești nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17366",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-89-2020",
+"path": "local/iasi/horlesti/2020/89",
+"kind": "local",
+"year": "2020",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 89/2020 privind aprobarea procesului verbal al ședinței anterioare a consiliului local",
+"short": "HCL Horlești nr. 89/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17367",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +158,183 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-91-2020",
+"path": "local/iasi/horlesti/2020/91",
+"kind": "local",
+"year": "2020",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 91/2020 privind desemnarea reprezentantului legal și a persoanei/persoanelor care poate înlocui reprezentantul legal al UAT Comuna Horlești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate ADIS Iași",
+"short": "HCL Horlești nr. 91/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17369",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-92-2020",
+"path": "local/iasi/horlesti/2020/92",
+"kind": "local",
+"year": "2020",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 92/2020 privind actualizarea bunurilor aferente sistemului de ''Alimentare cu apă în sistem centralizat a comunei Horlești, județul Iași'' date în administrare și exploatare către SC APAVITAL SA",
+"short": "HCL Horlești nr. 92/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17370",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-93-2020",
+"path": "local/iasi/horlesti/2020/93",
+"kind": "local",
+"year": "2020",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 93/2020 privind însușirea și aprobarea documentației cadastrale de dezmembrare a terenului în suprafață totală de 3029 mp aparținând domeniului public al comunei Horlești",
+"short": "HCL Horlești nr. 93/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17371",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-94-2020",
+"path": "local/iasi/horlesti/2020/94",
+"kind": "local",
+"year": "2020",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 94/2020 privind aprobarea completării Registrului Agricol pentru perioada 2020-2024, în format electronic",
+"short": "HCL Horlești nr. 94/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17372",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-95-2020",
+"path": "local/iasi/horlesti/2020/95",
+"kind": "local",
+"year": "2020",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 95/2020",
+"short": "HCL Horlești nr. 95/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17373",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-96-2020",
+"path": "local/iasi/horlesti/2020/96",
+"kind": "local",
+"year": "2020",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 96/2020 privind acordarea unei recompense bănești cuplului care a împlinit 50 de ani de la încheierea căsătoriei cu domiciliul stabil în comuna Horlești, județul Iași, familia Gherghel",
+"short": "HCL Horlești nr. 96/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17374",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-97-2020",
+"path": "local/iasi/horlesti/2020/97",
+"kind": "local",
+"year": "2020",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 97/2020 privind aprobarea ordinii de zi a ședinței Consiliului local",
+"short": "HCL Horlești nr. 97/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17390",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-98-2020",
+"path": "local/iasi/horlesti/2020/98",
+"kind": "local",
+"year": "2020",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 98/2020 privind aprobarea procesului verbal al ședinței ordinare din data de 27.11.2020",
+"short": "HCL Horlești nr. 98/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17391",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-99-2020",
 "path": "local/iasi/horlesti/2020/99",
 "kind": "local",
@@ -69,6 +357,50 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-100-2020",
+"path": "local/iasi/horlesti/2020/100",
+"kind": "local",
+"year": "2020",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 100/2020 privind aprobarea programului de realizare a unor lucrări de interes comunitar ce se va realiza cu persoanele beneficiare de ajutor social cf. Legii nr. 416/2001 din comuna Horlești, județul Iași, pentru anul 2021",
+"short": "HCL Horlești nr. 100/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17393",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-101-2020",
+"path": "local/iasi/horlesti/2020/101",
+"kind": "local",
+"year": "2020",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 101/2020 privind revizuirea și consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+"short": "HCL Horlești nr. 101/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17394",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-102-2020",
 "path": "local/iasi/horlesti/2020/102",
 "kind": "local",
@@ -88,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-103-2020",
+"path": "local/iasi/horlesti/2020/103",
+"kind": "local",
+"year": "2020",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 103/2020 privind acordarea unei prime cu ocazia împlinirii a 50 de ani de la încheierea căsătoriei",
+"short": "HCL Horlești nr. 103/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/17396",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

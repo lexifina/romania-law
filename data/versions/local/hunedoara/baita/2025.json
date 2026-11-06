@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--baita-50-2025",
+   "path": "local/hunedoara/baita/2025/50",
+   "short": "HCL Băița nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 50/2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/227303",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/227303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-51-2025",
    "path": "local/hunedoara/baita/2025/51",
    "short": "HCL Băița nr. 51/2025",
@@ -43,6 +58,21 @@
      "from": "2025-10-30",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/232787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-52-2025",
+   "path": "local/hunedoara/baita/2025/52",
+   "short": "HCL Băița nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 52/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/baita-hd/registru-hcl/232788",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/232788",
      "sha256": null
     }
    ]
@@ -108,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--baita-57-2025",
+   "path": "local/hunedoara/baita/2025/57",
+   "short": "HCL Băița nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 57/2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/232793",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/232793",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-58-2025",
    "path": "local/hunedoara/baita/2025/58",
    "short": "HCL Băița nr. 58/2025",
@@ -118,6 +163,36 @@
      "from": "2025-10-30",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/232794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-59-2025",
+   "path": "local/hunedoara/baita/2025/59",
+   "short": "HCL Băița nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 59/2025 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/239026",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/239026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-60-2025",
+   "path": "local/hunedoara/baita/2025/60",
+   "short": "HCL Băița nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 60/2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/239027",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/239027",
      "sha256": null
     }
    ]
@@ -168,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--baita-64-2025",
+   "path": "local/hunedoara/baita/2025/64",
+   "short": "HCL Băița nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 64/2025 privind aprobarea modificării organigramei și a statului de funcții a aparatului de specialitate al Primarului comunei Băița",
+   "url": "https://emol.ro/baita-hd/registru-hcl/245143",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/245143",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-65-2025",
    "path": "local/hunedoara/baita/2025/65",
    "short": "HCL Băița nr. 65/2025",
@@ -193,6 +283,21 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/245145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-67-2025",
+   "path": "local/hunedoara/baita/2025/67",
+   "short": "HCL Băița nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 67/2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/245146",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/245146",
      "sha256": null
     }
    ]

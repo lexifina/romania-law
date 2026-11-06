@@ -3,6 +3,117 @@
 "shard": "local/ialomita/valea-macrisului/2024",
 "acts": [
 {
+"slug": "hcl-ialomita--valea-macrisului-8-2024",
+"path": "local/ialomita/valea-macrisului/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 8/2024 Alegerea preşedintelui de şedinţă pentru perioada martie-mai 2024",
+"short": "HCL Valea Măcrișului nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-12",
+"latest": "2024-02-12",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#70211",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-13-2024",
+"path": "local/ialomita/valea-macrisului/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 13/2024 aprobarea Raportului privind activitatea desfășurată de asistenții personali ai pers.cu handicap , pe semestrul II al anului 2023",
+"short": "HCL Valea Măcrișului nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-30",
+"latest": "2024-03-30",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#73392",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-16-2024",
+"path": "local/ialomita/valea-macrisului/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 16/2024",
+"short": "HCL Valea Măcrișului nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-30",
+"latest": "2024-03-30",
+"portal": null,
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-29-2024",
+"path": "local/ialomita/valea-macrisului/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 29/2024 Alegerea preşedintelui de şedinţă pentru perioada iunie-august 2024",
+"short": "HCL Valea Măcrișului nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#76631",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-32-2024",
+"path": "local/ialomita/valea-macrisului/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 32/2024 Acordarea unui mandat special reprezentantului legal al UAT Comuna Valea Măcrișului în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ”ECOO 2009”, să voteze favorabil la propunerea de aprobare a Strategiei de Dezvoltare a Serviciului de salubrizare",
+"short": "HCL Valea Măcrișului nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#76669",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-34-2024",
 "path": "local/ialomita/valea-macrisului/2024/34",
 "kind": "local",
@@ -110,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-39-2024",
+"path": "local/ialomita/valea-macrisului/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 39/2024 Modificarea contractului de închiriere nr. 89/11.11.2009 încheiat între UAT Valea Măcrișului și SC OMV Petrom SA",
+"short": "HCL Valea Măcrișului nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-10",
+"latest": "2024-07-10",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#78877",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -312,6 +445,96 @@
 }
 },
 {
+"slug": "hcl-ialomita--valea-macrisului-49-2024",
+"path": "local/ialomita/valea-macrisului/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 49/2024 Alegerea președintelui de ședință, pentru perioada septembrie-octombrie 2024",
+"short": "HCL Valea Măcrișului nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#80934",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-50-2024",
+"path": "local/ialomita/valea-macrisului/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 50/2024",
+"short": "HCL Valea Măcrișului nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": null,
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-51-2024",
+"path": "local/ialomita/valea-macrisului/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 51/2024",
+"short": "HCL Valea Măcrișului nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": null,
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-52-2024",
+"path": "local/ialomita/valea-macrisului/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 52/2024 Alegerea preşedintelui de şedinţă , pentru ședința din data de 26.08.2024",
+"short": "HCL Valea Măcrișului nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#81985",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-53-2024",
 "path": "local/ialomita/valea-macrisului/2024/53",
 "kind": "local",
@@ -353,6 +576,28 @@
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-55-2024",
+"path": "local/ialomita/valea-macrisului/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 55/2024 Desemnarea reprezentanților Consiliului local, în Consiliul de Administraţie al Şcolii Gimnaziale Valea Măcrişului și în Comisia pentru Evaluarea și Asigurarea Calității Educației, pentru anul şcolar 2024/2025",
+"short": "HCL Valea Măcrișului nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#81990",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -530,6 +775,72 @@
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-69-2024",
+"path": "local/ialomita/valea-macrisului/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 69/2024 Desemnarea reprezentanților Consiliului local, în Consiliul de Administraţie al Şcolii Gimnaziale Valea Măcrişului și în Comisia pentru Evaluarea și Asigurarea Calității Educației, pentru anul şcolar 2024/2025",
+"short": "HCL Valea Măcrișului nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#87515",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-70-2024",
+"path": "local/ialomita/valea-macrisului/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 70/2024 Prelungirea contractului de închiriere pentru spaţiul în care funcţionează Ghişeul Poştal Valea Măcrişului",
+"short": "HCL Valea Măcrișului nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#87519",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-71-2024",
+"path": "local/ialomita/valea-macrisului/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 71/2024 Aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Valea Măcrișului nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#87556",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -728,6 +1039,28 @@
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-81-2024",
+"path": "local/ialomita/valea-macrisului/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 81/2024 Prelungirea contractului de închiriere pentru spaţiul în care funcţionează magazinul -SC MAGAZIN LA STANA SRL Valea Măcrişului",
+"short": "HCL Valea Măcrișului nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#90350",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -157,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-iasi--coarnele-caprei-75-2026",
+"path": "local/iasi/coarnele-caprei/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 75/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Coarnele Caprei în Consiliul de administrație al Școlii Profesionale Coarnele Caprei, pentru anul școlar 2026-2027",
+"short": "HCL Coarnele Caprei nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/290333",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-76-2026",
+"path": "local/iasi/coarnele-caprei/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 76/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Coarnele Caprei în Comisia pentru evaluarea și asigurarea calității din cadrul Școlii Profesionale Coarnele Caprei, pentru anul școlar 2026-2027",
+"short": "HCL Coarnele Caprei nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/290334",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--coarnele-caprei-77-2026",
 "path": "local/iasi/coarnele-caprei/2026/77",
 "kind": "local",
@@ -289,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-iasi--coarnele-caprei-83-2026",
+"path": "local/iasi/coarnele-caprei/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 83/2026 privind desemnarea reprezentantului Consiliului Local al comunei Coarnele Caprei și a membrului supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției vacante de director la Școala Profesională Coarnele Caprei",
+"short": "HCL Coarnele Caprei nr. 83/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/292295",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--coarnele-caprei-84-2026",
 "path": "local/iasi/coarnele-caprei/2026/84",
 "kind": "local",
@@ -330,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Coarnele Caprei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-86-2026",
+"path": "local/iasi/coarnele-caprei/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 86/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Coarnele Caprei nr. 86/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/295245",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-iasi--madarjac-42-2024",
+"path": "local/iasi/madarjac/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 42/2024",
+"short": "HCL Mădârjac nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/194751",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--madarjac-43-2024",
 "path": "local/iasi/madarjac/2024/43",
 "kind": "local",
@@ -66,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Mădârjac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-44-2024",
+"path": "local/iasi/madarjac/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 44/2024 privind modificarea Hătărârii Consiliului Local nr.33 din 27.06.2024 pentru majorarea indemnizației primarului și viceprimarului comunei Mădărjac cu un procent de 5% față de nivelul acordat pentru luna decembrie 2023 conform O.U.G nr.115/14.12.2023",
+"short": "HCL Mădârjac nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/194767",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

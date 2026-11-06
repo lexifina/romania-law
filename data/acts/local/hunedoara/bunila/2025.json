@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/bunila/2025",
+"acts": [
+{
+"slug": "hcl-hunedoara--bunila-5-2025",
+"path": "local/hunedoara/bunila/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunila nr. 5/2025",
+"short": "HCL Bunila nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://primariacomuneibunila.ro/primaria/monitorul-oficial-local/hotarari-autoritate-deliberativa-2/",
+"council": "hunedoara/bunila",
+"council_name": "Consiliul Local al Comunei Bunila",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

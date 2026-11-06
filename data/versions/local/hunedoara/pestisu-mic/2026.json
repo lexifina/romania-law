@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/pestisu-mic/2026",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--pestisu-mic-1-2026",
+   "path": "local/hunedoara/pestisu-mic/2026/1",
+   "short": "HCL Pestișu Mic nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pestișu Mic nr. 1/2026 pentru stabilirea dreptului de proprietate privata asupra terenurilor a comunei Pestișu Mic",
+   "url": "https://primariapestisumic.ro/wp-content/uploads/2026/04/Hotarare-nr.-1-din-9-aprilie-2026-a-Comisiei-locale-pentru-stabilirea-dreptului-de-proprietate-privata-asupra-terenurilor-a-comunei-Pestisu-Mic.pdf",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primariapestisumic.ro/wp-content/uploads/2026/04/Hotarare-nr.-1-din-9-aprilie-2026-a-Comisiei-locale-pentru-stabilirea-dreptului-de-proprietate-privata-asupra-terenurilor-a-comunei-Pestisu-Mic.pdf",
+     "sha256": "d37b2216290af5cc2f7c3de96d7c2a5bb33b354dc1fa26d2b8a28a07a8a810a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--pestisu-mic-2-2026",
+   "path": "local/hunedoara/pestisu-mic/2026/2",
+   "short": "HCL Pestișu Mic nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pestișu Mic nr. 2/2026 pentru stabilirea dreptului de proprietate privata asupra terenurilor a comunei Pestișu Mic",
+   "url": "https://primariapestisumic.ro/wp-content/uploads/2026/06/Hotarare-nr.-2-din-24-iunie-2026-a-Comisiei-locale-pentru-stabilirea-dreptului-de-proprietate-privata-asupra-terenurilor-a-comunei-Pestisu-Mic.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://primariapestisumic.ro/wp-content/uploads/2026/06/Hotarare-nr.-2-din-24-iunie-2026-a-Comisiei-locale-pentru-stabilirea-dreptului-de-proprietate-privata-asupra-terenurilor-a-comunei-Pestisu-Mic.pdf",
+     "sha256": "06a5908ff84e9c34cd24ebe5cc1c0d1a6dd02f7bfc0215b586ab3fc36d49cfd0"
+    }
+   ]
+  }
+ ]
+}

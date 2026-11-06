@@ -3,6 +3,36 @@
  "shard": "local/ialomita/valea-macrisului/2021",
  "acts": [
   {
+   "slug": "hcl-ialomita--valea-macrisului-39-2021",
+   "path": "local/ialomita/valea-macrisului/2021/39",
+   "short": "HCL Valea Măcrișului nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 39/2021 privind aprobarea închirierii imobilului proprietatea Parohiei Valea Măcrișului și a modelului contractului de închiriere",
+   "url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#350",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--valea-macrisului-41-2021",
+   "path": "local/ialomita/valea-macrisului/2021/41",
+   "short": "HCL Valea Măcrișului nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 41/2021 privind alegerea președintelui de ședință pentru perioada august-octombrie 2021",
+   "url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#269",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#269",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--valea-macrisului-43-2021",
    "path": "local/ialomita/valea-macrisului/2021/43",
    "short": "HCL Valea Măcrișului nr. 43/2021",
@@ -58,6 +88,21 @@
      "from": "2021-08-31",
      "units": 1,
      "source_url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#3052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--valea-macrisului-47-2021",
+   "path": "local/ialomita/valea-macrisului/2021/47",
+   "short": "HCL Valea Măcrișului nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 47/2021 Proiect hotărâre privind desemnarea reprezentanţilor Consiliului local, în Consiliul de administraţie al Şcolii Gimnaziale Valea Măcrişului si în Comisia de evaluare a calităţii educaţiei, pentru anul şcolar 2021/2022",
+   "url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#4342",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#4342",
      "sha256": null
     }
    ]
@@ -183,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--valea-macrisului-56-2021",
+   "path": "local/ialomita/valea-macrisului/2021/56",
+   "short": "HCL Valea Măcrișului nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 56/2021 Alegerea președintelui de ședință pentru perioada noiembrie 2021-ianuarie 2022",
+   "url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#6410",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#6410",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--valea-macrisului-57-2021",
    "path": "local/ialomita/valea-macrisului/2021/57",
    "short": "HCL Valea Măcrișului nr. 57/2021",
@@ -193,6 +253,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#6955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--valea-macrisului-58-2021",
+   "path": "local/ialomita/valea-macrisului/2021/58",
+   "short": "HCL Valea Măcrișului nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 58/2021 Desemnarea reprezentantului Consiliului local, în Comisia de evaluare a probei de interviu din cadrul Concursului pentru ocuparea funcției de director la Școala Gimnazială Valea Măcrișului",
+   "url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#6956",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#6956",
      "sha256": null
     }
    ]

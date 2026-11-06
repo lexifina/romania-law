@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/lunca-cernii-de-jos/2020",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-1-2020",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2020/1",
+   "short": "HCL Lunca Cernii de Jos nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 1/2020 privind alegerea viceprimarului comunei Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18807",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-2-2020",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2020/2",
+   "short": "HCL Lunca Cernii de Jos nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 2/2020 privind constituirea Comisiilor de specialitate ale Consiliului Local Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18808",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-3-2020",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2020/3",
+   "short": "HCL Lunca Cernii de Jos nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 3/2020 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2020",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18809",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-4-2020",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2020/4",
+   "short": "HCL Lunca Cernii de Jos nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 4/2020 privind aprobarea unui sprijin financiar pentru unitățile de cult aparținând cultelor religioase recunoscute din România de pe raza Comunei Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18810",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-5-2020",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2020/5",
+   "short": "HCL Lunca Cernii de Jos nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 5/2020 privind aprobarea burselor școlare pentru elevii Școlii Gimnaziale Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18821",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-6-2020",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2020/6",
+   "short": "HCL Lunca Cernii de Jos nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 6/2020 privind aprobarea modificării Organigramei și Statului de funcții al aparatului de specialitate al Primarului comunei Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18822",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-7-2020",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2020/7",
+   "short": "HCL Lunca Cernii de Jos nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 7/2020 privind stabilirea impozitelor și taxelor locale aplicabile în anul fiscal 2021",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18835",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-8-2020",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2020/8",
+   "short": "HCL Lunca Cernii de Jos nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 8/2020 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2020",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18836",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/18836",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

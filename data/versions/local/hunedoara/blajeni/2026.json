@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--blajeni-26-2026",
+   "path": "local/hunedoara/blajeni/2026/26",
+   "short": "HCL Blăjeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 26/2026 privind aprobarea unui contract de asistență juridică în vederea redactare și reprezentare plângere contravențională împotriva Procesului Verbal seria GNM nr. 022198 din 28.05.2026",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/277929",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/277929",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--blajeni-27-2026",
    "path": "local/hunedoara/blajeni/2026/27",
    "short": "HCL Blăjeni nr. 27/2026",
@@ -148,6 +163,21 @@
      "from": "2026-07-09",
      "units": 1,
      "source_url": "https://emol.ro/blajeni-hd/registru-hcl/277930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-28-2026",
+   "path": "local/hunedoara/blajeni/2026/28",
+   "short": "HCL Blăjeni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 28/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/280173",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/280173",
      "sha256": null
     }
    ]
@@ -213,6 +243,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--blajeni-33-2026",
+   "path": "local/hunedoara/blajeni/2026/33",
+   "short": "HCL Blăjeni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 33/2026 privind desemnarea reprezentantului Consiliului local Blăjeni în Consiliul de Administrație al Școlii Primare Blăjeni pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/291212",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/291212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-34-2026",
+   "path": "local/hunedoara/blajeni/2026/34",
+   "short": "HCL Blăjeni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 34/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/296963",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/296963",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--blajeni-35-2026",
    "path": "local/hunedoara/blajeni/2026/35",
    "short": "HCL Blăjeni nr. 35/2026",
@@ -223,6 +283,21 @@
      "from": "2026-11-02",
      "units": 1,
      "source_url": "https://emol.ro/blajeni-hd/registru-hcl/296964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-36-2026",
+   "path": "local/hunedoara/blajeni/2026/36",
+   "short": "HCL Blăjeni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 36/2026 privind rectificarea bugetului local al comunei Blăjeni, județul Hunedoara, pentru anul 2026",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/297267",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/297267",
      "sha256": null
     }
    ]

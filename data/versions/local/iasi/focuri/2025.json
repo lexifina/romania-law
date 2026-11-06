@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--focuri-57-2025",
+   "path": "local/iasi/focuri/2025/57",
+   "short": "HCL Focuri nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 57/2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/225341",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/225341",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--focuri-58-2025",
    "path": "local/iasi/focuri/2025/58",
    "short": "HCL Focuri nr. 58/2025",
@@ -28,6 +43,51 @@
      "from": "2025-10-09",
      "units": 1,
      "source_url": "https://emol.ro/focuri-is/registru-hcl/225342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-59-2025",
+   "path": "local/iasi/focuri/2025/59",
+   "short": "HCL Focuri nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 59/2025 (privind desemnarea unui nou președinte de ședință pentru următoarele trei luni)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/225343",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/225343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-60-2025",
+   "path": "local/iasi/focuri/2025/60",
+   "short": "HCL Focuri nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 60/2025 privind modificarea bugetului local de venituri și cheltuieli pe trimestrul III si IV anul 2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/229221",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/229221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-61-2025",
+   "path": "local/iasi/focuri/2025/61",
+   "short": "HCL Focuri nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 61/2025 (privind ȋnfiinţarea şi stabilirea componenţei echipei mobile pentru intervenţia de urgenţă ȋn cazurile de violenţă domestică la nivelul comunei Focuri, judeţul Iaşi)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/229222",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/229222",
      "sha256": null
     }
    ]
@@ -58,6 +118,21 @@
      "from": "2025-10-15",
      "units": 1,
      "source_url": "https://emol.ro/focuri-is/registru-hcl/229224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-64-2025",
+   "path": "local/iasi/focuri/2025/64",
+   "short": "HCL Focuri nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 64/2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/229225",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/229225",
      "sha256": null
     }
    ]
@@ -193,6 +268,21 @@
      "from": "2026-01-28",
      "units": 1,
      "source_url": "https://emol.ro/focuri-is/registru-hcl/248696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-74-2025",
+   "path": "local/iasi/focuri/2025/74",
+   "short": "HCL Focuri nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 74/2025 privind desemnarea unui nou președinte de ședință pentru următoarele tre luni",
+   "url": "https://emol.ro/focuri-is/registru-hcl/248697",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/248697",
      "sha256": null
     }
    ]

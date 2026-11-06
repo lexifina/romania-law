@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/ilia/2022",
+"acts": [
+{
+"slug": "hcl-hunedoara--ilia-16-2022",
+"path": "local/hunedoara/ilia/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilia nr. 16/2022",
+"short": "HCL Ilia nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-07",
+"latest": "2022-03-07",
+"portal": "https://emol.ro/ilia-hd/registru-hcl/56775",
+"council": "hunedoara/ilia",
+"council_name": "Consiliul Local al Comunei Ilia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

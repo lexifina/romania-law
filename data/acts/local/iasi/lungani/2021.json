@@ -3,6 +3,28 @@
 "shard": "local/iasi/lungani/2021",
 "acts": [
 {
+"slug": "hcl-iasi--lungani-45-2021",
+"path": "local/iasi/lungani/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 45/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani pe trimestrul III 2021",
+"short": "HCL Lungani nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/lungani-is/registru-hcl/36093",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--lungani-46-2021",
 "path": "local/iasi/lungani/2021/46",
 "kind": "local",
@@ -47,6 +69,139 @@
 }
 },
 {
+"slug": "hcl-iasi--lungani-48-2021",
+"path": "local/iasi/lungani/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 48/2021 privind desemnarea reprezentanților Consiliului Local Lungani în cadrul Comisiilor de Administrație și în cadrul Comisiei de Asigurare și Evaluare a Calității constituită la nivelulȘcolii Profesionale Lungani, satul Lungani, Școlii Gimnaziale Zmeu, satul Zmeu, comuna Lungani și a Școlii Gimnaziale Crucea , satul Crucea, comuna Lungani",
+"short": "HCL Lungani nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/lungani-is/registru-hcl/36961",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-49-2021",
+"path": "local/iasi/lungani/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 49/2021 privind implementarea proiectului ,,MODERNIZARE DRUMURI DE INTERES LOCAL ÎN SATELE LUNGANI, CRUCEA, GOEȘTI, ZMEU COMUNA LUNGANI, JUDEȚUL IAȘI",
+"short": "HCL Lungani nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/lungani-is/registru-hcl/36962",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-50-2021",
+"path": "local/iasi/lungani/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 50/2021 privind acordarea unui ajutor de urgență",
+"short": "HCL Lungani nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/lungani-is/registru-hcl/36963",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-51-2021",
+"path": "local/iasi/lungani/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 51/2021",
+"short": "HCL Lungani nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-07",
+"latest": "2021-10-07",
+"portal": "https://emol.ro/lungani-is/registru-hcl/37474",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--lungani-52-2021",
+"path": "local/iasi/lungani/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 52/2021 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/lungani-is/registru-hcl/39672",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-53-2021",
+"path": "local/iasi/lungani/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 53/2021 privind rectificatrea bugetului de venituri și cheltuieli al comunei Lungani, județul Iași pe trimestrul IV 2021",
+"short": "HCL Lungani nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/lungani-is/registru-hcl/39673",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--lungani-54-2021",
 "path": "local/iasi/lungani/2021/54",
 "kind": "local",
@@ -66,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Lungani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-55-2021",
+"path": "local/iasi/lungani/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 55/2021 privind desemnarea unui consilier local în Comisia de evaluare a probei de interviu, din cadrul Concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat din Comuna Lungani",
+"short": "HCL Lungani nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/lungani-is/registru-hcl/40009",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Lungani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-58-2021",
+"path": "local/iasi/lungani/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 58/2021 privind trecerea în evidență separată a creanțelor debitorilor declarați insolvabili",
+"short": "HCL Lungani nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-09",
+"latest": "2021-12-09",
+"portal": "https://emol.ro/lungani-is/registru-hcl/44230",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

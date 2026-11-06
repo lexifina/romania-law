@@ -3,6 +3,28 @@
 "shard": "local/ialomita/balaciu/2022",
 "acts": [
 {
+"slug": "hcl-ialomita--balaciu-42-2022",
+"path": "local/ialomita/balaciu/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 42/2022 privind aprobarea vânzării unui teren intravilan având categoria de folosinţă curţi-construcţii, aflat în proprietatea privată a comunei Balaciu",
+"short": "HCL Balaciu nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/74198",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--balaciu-43-2022",
 "path": "local/ialomita/balaciu/2022/43",
 "kind": "local",
@@ -176,6 +198,251 @@
 "council_name": "Consiliul Local al Comunei Balaciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-51-2022",
+"path": "local/ialomita/balaciu/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 51/2022 privind însuşirea Raportului referitor la stadiul de înscriere a datelor în registrul agricol pe trimestrul III al anului 2022 şi de stabilire a unor măsuri pentru eficientizarea înscrierii datelor şi ţinerea la zi a registrului agricol",
+"short": "HCL Balaciu nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/82320",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-52-2022",
+"path": "local/ialomita/balaciu/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 52/2022 privind aprobarea indicatorilor tehnico-economici actualizaţi şi a devizului general actualizat, conform Ordonantei de Urgenţă a Guvernului nr.47/2022, pentru obiectivul de investiţii :MODERNIZAREA DRUMURILOR PUBLICE IN COMUNA BALACIU CU SATELE COMPONENTE, JUD. IALOMITA",
+"short": "HCL Balaciu nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/82321",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-53-2022",
+"path": "local/ialomita/balaciu/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 53/2022",
+"short": "HCL Balaciu nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/82322",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-54-2022",
+"path": "local/ialomita/balaciu/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 54/2022",
+"short": "HCL Balaciu nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/82323",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-55-2022",
+"path": "local/ialomita/balaciu/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 55/2022",
+"short": "HCL Balaciu nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/82324",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-56-2022",
+"path": "local/ialomita/balaciu/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 56/2022 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Balaciu nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/82615",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-57-2022",
+"path": "local/ialomita/balaciu/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 57/2022 privind aprobarea rectificarii bugetului local al comunei Balaciu pe anul 2022",
+"short": "HCL Balaciu nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/82616",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-58-2022",
+"path": "local/ialomita/balaciu/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 58/2022 privind aprobarea implementării proiectului „Sistem fotovoltaic, comuna Balaciu, judetul Ialomita”",
+"short": "HCL Balaciu nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/82617",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-59-2022",
+"path": "local/ialomita/balaciu/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 59/2022 privind organizarea reţelei şcolare de pe raza comunei Balaciu, în anul şcolar 2023-2024",
+"short": "HCL Balaciu nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/84344",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-60-2022",
+"path": "local/ialomita/balaciu/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 60/2022 privind aprobarea Actului adiţional nr.3 la Contractului de delegare, prin încredințare directă, a gestiunii, prin concesiune a serviciului public de colectare si transport a deșeurilor municipale solide în Județul Ialomița nr. 14/10.03.2022 cu modificările și completările ulterioare",
+"short": "HCL Balaciu nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/84352",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-61-2022",
+"path": "local/ialomita/balaciu/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 61/2022 privind rectificarea bugetului local al comunei Balaciu pe anul 2022",
+"short": "HCL Balaciu nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/84353",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

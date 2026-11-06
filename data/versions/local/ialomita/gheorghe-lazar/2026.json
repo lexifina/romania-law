@@ -3,6 +3,21 @@
  "shard": "local/ialomita/gheorghe-lazar/2026",
  "acts": [
   {
+   "slug": "hcl-ialomita--gheorghe-lazar-24-2026",
+   "path": "local/ialomita/gheorghe-lazar/2026/24",
+   "short": "HCL Gheorghe Lazăr nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gheorghe Lazăr nr. 24/2026 de modificare a art.6 din Hotarărea Consiliului local nr.41/29.04.2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "http://www.primariagheorghelazar.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "http://www.primariagheorghelazar.ro/z_Consiliul%20Local/Sedinte_CL/2026/HCL%20nr.%2024%20din%2029.04.pdf",
+     "sha256": "b201df0e0051b60c9f5ae37a4ebbea1a64a4e4d5f69bd5de5000ff1cbcf5a657"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--gheorghe-lazar-3-2026",
    "path": "local/ialomita/gheorghe-lazar/2026/3",
    "short": "HCL Gheorghe Lazăr nr. 3/2026",
@@ -14,6 +29,66 @@
      "units": 7,
      "source_url": "http://www.primariagheorghelazar.ro/z_Consiliul%20Local/Sedinte_CL/2026/HCL%20nr.%2003%20din%2028.01.pdf",
      "sha256": "1824d509740f5bb038855a280e6cddb4ca90cbab9761a56056c1a8e2b8bfd24f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--gheorghe-lazar-31-2026",
+   "path": "local/ialomita/gheorghe-lazar/2026/31",
+   "short": "HCL Gheorghe Lazăr nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gheorghe Lazăr nr. 31/2026",
+   "url": "http://www.primariagheorghelazar.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "http://www.primariagheorghelazar.ro/z_Consiliul%20Local/Sedinte_CL/2026/HCL%20nr.%2031%20din%2027.05.pdf",
+     "sha256": "f89ab1a52e6b412492f7f67f7af38f7978a226cd7f9f70c8440c504b6326f9da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--gheorghe-lazar-35-2026",
+   "path": "local/ialomita/gheorghe-lazar/2026/35",
+   "short": "HCL Gheorghe Lazăr nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gheorghe Lazăr nr. 35/2026",
+   "url": "http://www.primariagheorghelazar.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "http://www.primariagheorghelazar.ro/z_Consiliul%20Local/Sedinte_CL/2026/HCL%20nr.%2035%20din%2027.05.pdf",
+     "sha256": "35e5178157bda2151cac060ecf008999483d3932a36124d391d8a21347b06a15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--gheorghe-lazar-48-2026",
+   "path": "local/ialomita/gheorghe-lazar/2026/48",
+   "short": "HCL Gheorghe Lazăr nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gheorghe Lazăr nr. 48/2026",
+   "url": "http://www.primariagheorghelazar.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "http://www.primariagheorghelazar.ro/z_Consiliul%20Local/Sedinte_CL/2026/HCL%20nr.%2048%20din%2027.07.pdf",
+     "sha256": "2dc68c187b1849668f2db8acda7244eb2c16ff90d4cb2ff10f961eb5a69f8af9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--gheorghe-lazar-49-2026",
+   "path": "local/ialomita/gheorghe-lazar/2026/49",
+   "short": "HCL Gheorghe Lazăr nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gheorghe Lazăr nr. 49/2026",
+   "url": "http://www.primariagheorghelazar.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "http://www.primariagheorghelazar.ro/z_Consiliul%20Local/Sedinte_CL/2026/HCL%20nr.%2049%20din%2027.07.pdf",
+     "sha256": "ee8af29a6e095938e480ce010404b5154583ec8f4d4bdbd73b115c61dde95f1f"
     }
    ]
   }

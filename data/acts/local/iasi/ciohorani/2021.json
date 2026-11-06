@@ -47,6 +47,138 @@
 }
 },
 {
+"slug": "hcl-iasi--ciohorani-48-2021",
+"path": "local/iasi/ciohorani/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 48/2021 privind desemnarea reprezentantului Consiliului Local Ciohorăni în Comisia pentru evaluarea şi asigurarea calităţii în unităţile de învăţământ preuniversitar de pe raza comunei Ciohorăni, pentru anul şcolar 2021-2022",
+"short": "HCL Ciohorăni nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/39752",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-49-2021",
+"path": "local/iasi/ciohorani/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 49/2021 privind alegerea presedintelui de ședintă",
+"short": "HCL Ciohorăni nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/39753",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-50-2021",
+"path": "local/iasi/ciohorani/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 50/2021 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat, prin Act Adițional",
+"short": "HCL Ciohorăni nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/40284",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-51-2021",
+"path": "local/iasi/ciohorani/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 51/2021 privind validarea rectificării bugetului de venituri si cheltuieli al comunei Ciohorăni adusă prin dispozitia primarului nr.244 /2021",
+"short": "HCL Ciohorăni nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/40285",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-52-2021",
+"path": "local/iasi/ciohorani/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 52/2021 privind desemnarea reprezentantului Consiliului Local Ciohorăni în cadrul comisiei de evaluarea a probei de interviu, pentru ocuparea funcției de director la Școala Gimnazială Ciohorăni",
+"short": "HCL Ciohorăni nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/40286",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-53-2021",
+"path": "local/iasi/ciohorani/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 53/2021 privind alegerea presedintelui de sedinţă",
+"short": "HCL Ciohorăni nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/40287",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciohorani-54-2021",
 "path": "local/iasi/ciohorani/2021/54",
 "kind": "local",
@@ -66,6 +198,249 @@
 "council_name": "Consiliul Local al Comunei Ciohorăni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-55-2021",
+"path": "local/iasi/ciohorani/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 55/2021 privind aprobarea execuţiei bugetului de venituri şi cheltuieli al comunei Ciohorăni, pentru trimestrul III anul 2021",
+"short": "HCL Ciohorăni nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45432",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-56-2021",
+"path": "local/iasi/ciohorani/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 56/2021 privind aprobarea transformării funcției publice vacante de referent, grad profesional superior în funcția publică de consilier grad profesional asistent",
+"short": "HCL Ciohorăni nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45433",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-57-2021",
+"path": "local/iasi/ciohorani/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 57/2021 privind aprobarea alocării din bugetul local a sumelor necesare pentru acordarea de cadouri preşcolarilor şi elevilor din cadrul Școlii Gimnaziale Ciohorăni cu ocazia sărbătorilor de iarnă",
+"short": "HCL Ciohorăni nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45434",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-58-2021",
+"path": "local/iasi/ciohorani/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 58/2021 privind acordarea unor ajutore de urgență constând în pachete alimentare, persoanelor aflate în nevoie socială",
+"short": "HCL Ciohorăni nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45435",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-59-2021",
+"path": "local/iasi/ciohorani/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 59/2021 privind aprobarea graficului de sedintă al Consiliului local Ciohorăni pe trimestrul I, anul 2022",
+"short": "HCL Ciohorăni nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45436",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-60-2021",
+"path": "local/iasi/ciohorani/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 60/2021 privind aprobarea numărului asistenților personali ai persoanelor cu handicap grav pentru anul 2022",
+"short": "HCL Ciohorăni nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45437",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-61-2021",
+"path": "local/iasi/ciohorani/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 61/2021 privind alegerea presedintelui de sedinţă",
+"short": "HCL Ciohorăni nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45438",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-62-2021",
+"path": "local/iasi/ciohorani/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 62/2021",
+"short": "HCL Ciohorăni nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45439",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-63-2021",
+"path": "local/iasi/ciohorani/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 63/2021 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Ciohorăni",
+"short": "HCL Ciohorăni nr. 63/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45440",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-64-2021",
+"path": "local/iasi/ciohorani/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 64/2021 privind validarea rectificării bugetului de venituri si cheltuieli al comunei Ciohorăni adusă prin dispozitia primarului nr.497 /2021",
+"short": "HCL Ciohorăni nr. 64/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45441",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciohorani-65-2021",
+"path": "local/iasi/ciohorani/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 65/2021 privind aprobarea acordării unui sprijin finaciar unităților de cult de pe raza comunei Ciohorăni",
+"short": "HCL Ciohorăni nr. 65/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/ciohorani-is/registru-hcl/45442",
+"council": "iasi/ciohorani",
+"council_name": "Consiliul Local al Comunei Ciohorăni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

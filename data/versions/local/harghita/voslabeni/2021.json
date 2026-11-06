@@ -3,6 +3,81 @@
  "shard": "local/harghita/voslabeni/2021",
  "acts": [
   {
+   "slug": "hcl-harghita--voslabeni-54-2021",
+   "path": "local/harghita/voslabeni/2021/54",
+   "short": "HCL Voșlăbeni nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 54/2021 privind aprobarea devizului general și actualizarea indicatorilor tehnico-economici la faza de Proiect Tehnic ai obiectivului de investiții „ Modernizarea drumurilor aflate în intravilanul comunei Voșlăbeni,sateleVoslabeni si Izvoru Muresului,județul Harghita”",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65363",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-55-2021",
+   "path": "local/harghita/voslabeni/2021/55",
+   "short": "HCL Voșlăbeni nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 55/2021 privind aprobarea ocupării temporare a terenului aflat în domeniul public al comunei Voșlăbeni, județul Harghita, pe perioada execuției lucrărilor de construcții pentru realizarea obiectivului propus ''Schimbare de destinație din magazie în Centru multifuncțional și Bibliotecă''",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65364",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-56-2021",
+   "path": "local/harghita/voslabeni/2021/56",
+   "short": "HCL Voșlăbeni nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 56/2021 privind stabilirea și aprobarea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65365",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-57-2021",
+   "path": "local/harghita/voslabeni/2021/57",
+   "short": "HCL Voșlăbeni nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 57/2021",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65366",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-58-2021",
+   "path": "local/harghita/voslabeni/2021/58",
+   "short": "HCL Voșlăbeni nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 58/2021 privind acordarea unui sprijin financiar pentru Manastirea Ortodoxă ,, Adormirea Maicii Domnului ” din localitatea Izvoru Muresului si Bisericii Maranata Penticostala din Voșlăbeni",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65367",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65367",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--voslabeni-59-2021",
    "path": "local/harghita/voslabeni/2021/59",
    "short": "HCL Voșlăbeni nr. 59/2021",
@@ -13,6 +88,216 @@
      "from": "2022-07-06",
      "units": 1,
      "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-60-2021",
+   "path": "local/harghita/voslabeni/2021/60",
+   "short": "HCL Voșlăbeni nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 60/2021 privind RECTIFICAREA BUGETULUI GENERAL AL COMUNEI VOSLABENI SI A LISTEI DE INVESTITII PE TRIMESTRUL IV ANUL 2021",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65369",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-61-2021",
+   "path": "local/harghita/voslabeni/2021/61",
+   "short": "HCL Voșlăbeni nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 61/2021 privind aprobarea destinației și a prețului de vânzare a masei lemnoase pusă în valoare prin APV nr. 01657/Acc/I, constituită în UP V Voșlăbeni - Bilbor u.a 73B, 74A, 75, 76B, suprapus la prtizile 01594 și 01595, din fondul forestier proprietate publică a Comunei Voșlăbeni, aflat în administrarea Direcției Silvice Harghita pe raza Ocolului Silvic Borsec",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65370",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-62-2021",
+   "path": "local/harghita/voslabeni/2021/62",
+   "short": "HCL Voșlăbeni nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 62/2021 privind modificarea Hotararii nr. 54/2021 privind aprobareadevizuluigeneralșiactualizareaindicatorilortehnico-economici la faza de ProiectTehnic ai obiectivului de investiții „ Modernizarea drumuriloraflateîn intravilanulcomunei Voșlăbeni,sateleVoslabeni si Izvoru Muresului, județul Harghita”",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65543",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-63-2021",
+   "path": "local/harghita/voslabeni/2021/63",
+   "short": "HCL Voșlăbeni nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 63/2021 privind aprobarea destinației a prețului de pornire la licitație și a prețului de vânzare a masei lemnoase pusă în valoare din fondul forestier proprietate privată a Comunei Voșlăbeni, aflate în administrarea Direcției Silvice Harghita pe raza Ocolului Silvic Mirecurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65544",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-64-2021",
+   "path": "local/harghita/voslabeni/2021/64",
+   "short": "HCL Voșlăbeni nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 64/2021",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65545",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-65-2021",
+   "path": "local/harghita/voslabeni/2021/65",
+   "short": "HCL Voșlăbeni nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 65/2021 privind rectificarea bugetului general al comunei Voșlăbeni pe teimestrul IV anul 2021",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65546",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-66-2021",
+   "path": "local/harghita/voslabeni/2021/66",
+   "short": "HCL Voșlăbeni nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 66/2021 privind rectificarea bugetului general al comunei Voșlăbeni și a Listei de investiții pe trimestrul IV anul 2021",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65555",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-67-2021",
+   "path": "local/harghita/voslabeni/2021/67",
+   "short": "HCL Voșlăbeni nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 67/2021 privind aprobarea Planului de lucrări de interes local pentru persoanele care beneficiază de ajutor social și efectuează muncă utilă conform Legii",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65556",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-68-2021",
+   "path": "local/harghita/voslabeni/2021/68",
+   "short": "HCL Voșlăbeni nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 68/2021 privind aprobarea ,, Programului de dezapezire si combaterea poleiului pe drumurile comunale si strazile din comuna Voslabeni , in perioada de iarna 15 noiembrie 2021- 15 martie 2022”",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65557",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-69-2021",
+   "path": "local/harghita/voslabeni/2021/69",
+   "short": "HCL Voșlăbeni nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 69/2021 privind aprobarea destinației și a prețului de vânzare a masei lemnoase pusă în valoare prin APV nr. 01688/Acc/I, constituită în UP V Voșlăbeni - Bilbor u.a 73B, 74A, suprapusă la partida -1657/Acc/I, din fondul forestier proprietate publică a Comunei Voșlăbeni, aflat în administrarea Direcției Silvice Harghita pe raza Ocolului Silvic Borsec",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65558",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-70-2021",
+   "path": "local/harghita/voslabeni/2021/70",
+   "short": "HCL Voșlăbeni nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 70/2021 privind aprobarea structurii retelei scolare a comunei Voslabeni pentru anul scolar 2022-2023",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65554",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-71-2021",
+   "path": "local/harghita/voslabeni/2021/71",
+   "short": "HCL Voșlăbeni nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 71/2021 privind privinddemararea procedurilor necesare dezmembrării în vederea dării în administrare a unei suprafețe de 168 mp teren aflat în domeniul privat al Comunei Voșlăbeni, județul Harghita",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65559",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-72-2021",
+   "path": "local/harghita/voslabeni/2021/72",
+   "short": "HCL Voșlăbeni nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 72/2021 privind atribuirea de denumi strazilor de pe administrativul comunei Voslabeni si aprobarea nomenclaturii stradale a comunei Voslabeni judetul Harghita",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65560",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-73-2021",
+   "path": "local/harghita/voslabeni/2021/73",
+   "short": "HCL Voșlăbeni nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 73/2021 privind aprobarea întabulârii si cuprinderii în domeniul public al comunei Voslabeni a unor strazi si poduri situate pe teritoriul administrative- teritorial al comunei Voslabeni judetul Harghita",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65561",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65561",
      "sha256": null
     }
    ]

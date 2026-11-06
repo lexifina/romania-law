@@ -47,6 +47,52 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-76-2026",
+"path": "local/iasi/horlesti/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 76/2026",
+"short": "HCL Horlești nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/287934",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-77-2026",
+"path": "local/iasi/horlesti/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 77/2026",
+"short": "HCL Horlești nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/287935",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-78-2026",
 "path": "local/iasi/horlesti/2026/78",
 "kind": "local",
@@ -135,6 +181,28 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-82-2026",
+"path": "local/iasi/horlesti/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 82/2026 privind însușirea raportului de evaluare în vederea vânzării cu drept de preempțiune prin atribuire directă a terenului intravilan categoria de folosință curți-construcții în suprafață de 162 mp proprietate privată a Comunei Horlești, aferent imobilului casă de locuit, situat în Comuna Horlești, strada Principală, nr. 37 respectiv a terenului intravilan categoria de folosință curți-construcții în suprafață de 665 mp proprietate privată a Comunei Horlești, aferent imobilului casă de locuit, situat în Comuna Horlești, strada Principală, nr. 43",
+"short": "HCL Horlești nr. 82/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/293803",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-83-2026",
 "path": "local/iasi/horlesti/2026/83",
 "kind": "local",
@@ -198,6 +266,28 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-86-2026",
+"path": "local/iasi/horlesti/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 86/2026 privind vânzărea cu drept de preempțiune prin atribuire directă a terenului intravilan în suprafață de 162 mp proprietate privată a Comunei Horlești, aferent imobilului casă de locuit, situat în Comuna Horlești, strada Principală, nr. 37",
+"short": "HCL Horlești nr. 86/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/293807",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-90-2026",
+"path": "local/iasi/horlesti/2026/90",
+"kind": "local",
+"year": "2026",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 90/2026 Privind desemnarea unui reprezentant al consiliului local în Consiliul Consultativ de Guvernanță al Școlii Gimnaziale Horlești",
+"short": "HCL Horlești nr. 90/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/293811",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-91-2026",
 "path": "local/iasi/horlesti/2026/91",
 "kind": "local",
@@ -308,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-93-2026",
+"path": "local/iasi/horlesti/2026/93",
+"kind": "local",
+"year": "2026",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 93/2026 Privind desemnarea reprezentantilor consiliului local în Comisia de evaluare a probei de interviu în calitate de membru și membru supliant",
+"short": "HCL Horlești nr. 93/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/293814",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

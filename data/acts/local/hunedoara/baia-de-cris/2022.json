@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/baia-de-cris/2022",
+"acts": [
+{
+"slug": "hcl-hunedoara--baia-de-cris-57-2022",
+"path": "local/hunedoara/baia-de-cris/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 57/2022 desemnarea reprezentantului Consiliului local al comunei Baia de Criș în Consiliul de Administrație al Școlii Gimnaziale ‘’Avram Iancu’’ Baia de Criș pentru anul școlar 2022-2023",
+"short": "HCL Baia de Criș nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#29687",
+"council": "hunedoara/baia-de-cris",
+"council_name": "Consiliul Local al Comunei Baia de Criș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

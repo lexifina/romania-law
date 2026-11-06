@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/mircesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--mircesti-1-2026",
+   "path": "local/iasi/mircesti/2026/1",
+   "short": "HCL Mircești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 1/2026",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-1-din-28.01.2026-Plan-de-Ac-iuni-i-lucr-ri-pe-2026.pdf",
+     "sha256": "3bbd91ef7d799ccd8524e077c554e8dfd64209423ff1309679d6ca8c582399c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-10-2026",
+   "path": "local/iasi/mircesti/2026/10",
+   "short": "HCL Mircești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 10/2026",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-10-din-16.04.2026.pdf",
+     "sha256": "dd3df10f24eed5ebbd56599de6ff0307f1146d802c5d5c872ee0a9f0e2ff3c4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-11-2026",
+   "path": "local/iasi/mircesti/2026/11",
+   "short": "HCL Mircești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 11/2026 privind rezilierea contractului de servicii de publicitate încheiat între UAT Comuna Mircești, județul Iași și SC MPress Investment și a actelor adiționale aferente",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-11-din-16.04.2026.pdf",
+     "sha256": "cbfd99f201b734964162be92ef9501df76d7dfd83d7e4f948d174bbfa7987274"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-12-2026",
+   "path": "local/iasi/mircesti/2026/12",
+   "short": "HCL Mircești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 12/2026 privind stabilirea modului de utilizare și garare a autoturismelor aparținând comunei Mircești, precum și aprobarea modelului de raport lunar de utilizare (NEAVIZAT DE LEGALITATE)",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-12-din-16.04.2026.pdf",
+     "sha256": "a44dd9b8906069c9545e9f74f343ac7b6d93566176014e710a7325fa4e312dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-13-2026",
+   "path": "local/iasi/mircesti/2026/13",
+   "short": "HCL Mircești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 13/2026 privind aprobarea organigramei și a statului de funcții al aparatului de specialitate al Primarului comunei Mircești, ca urmare a reorganizării prevăzută de art. XL din OUG nr. 7/2026, pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măs",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/05/HCL-nr-13-din-27.04.2026.pdf",
+     "sha256": "5883f0e64a29953be6c511e7a0f61d99bc3084f4bc0f6019660dac196fe458aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-18-2026",
+   "path": "local/iasi/mircesti/2026/18",
+   "short": "HCL Mircești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 18/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția procedurilor aferente Programului pentru școli al României și a contractelor/acordurilor-cadru pentru achiziția produselor aferente prog",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/08/HCL-18-din-2026-2.pdf",
+     "sha256": "a82d6756ad2bdd05765ba60412d5c64ac93ee70f676e1c7f43bdce123f64301d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-19-2026",
+   "path": "local/iasi/mircesti/2026/19",
+   "short": "HCL Mircești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 19/2026 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 11 (07.07.2026)",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/08/HCL-19-din-2026-2.pdf",
+     "sha256": "b2e1b3226891507320aaa40595dbc9bd987e39f106c362d0a3822d3bc276cfd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-2-2026",
+   "path": "local/iasi/mircesti/2026/2",
+   "short": "HCL Mircești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 2/2026 pentru perioada anilor 2019 – 2022",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-2-din-26.02.2026-1.pdf",
+     "sha256": "6c57441b61b6945fd5235326fe5f480ccd283adef2cfc834472f315f5c0c7fe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-20-2026",
+   "path": "local/iasi/mircesti/2026/20",
+   "short": "HCL Mircești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 20/2026 privind aprobarea premierii elevilor care au obținut locul III la etapa națională a competiției ”Cupa satelor U11” (postat 07.07.2026)",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/08/HCL-20-din-2026-2.pdf",
+     "sha256": "0987296ab62514adbd9536b23c2009f42d26c9d81be741a1c670a83c0077df60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-30-2026",
+   "path": "local/iasi/mircesti/2026/30",
+   "short": "HCL Mircești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 30/2026 privind aprobarea bugetului de venituri și cheltuieli și a listei obiectivelor de investiții a comunei Mircești, pentru anul 2026, cu amendamente (publicat 04.08.2026)",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/08/H.C.L.-nr.-30-din-03.08.2026-anonimizat-1.pdf",
+     "sha256": "318c8d46573191868a70f6bfffe588e9f1ed445a67b3563d28857134b6c73ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-31-2026",
+   "path": "local/iasi/mircesti/2026/31",
+   "short": "HCL Mircești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 31/2026",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/08/H.C.L.-nr.-31-din-03.08.2026-anonimizat-1.pdf",
+     "sha256": "6c085f2bab5f274066debebf4763568b35708a363479955f07647e80d0f53875"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-5-2026",
+   "path": "local/iasi/mircesti/2026/5",
+   "short": "HCL Mircești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 5/2026 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-5-din-18.03.2026.pdf",
+     "sha256": "f7361ddbfd580040246a08d30c4d46a6a8f6ec999591445be2a6b3bfd7dbf4b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-6-2026",
+   "path": "local/iasi/mircesti/2026/6",
+   "short": "HCL Mircești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 6/2026 privind trecerea în domeniul public al comunei Mircești, județul Iași, ca urmare a exproprierii, a terenurilor ce constituie coridorul de expropriere al lucrărilor de utilitate publică și interes local",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-6-din-16.04.2026.pdf",
+     "sha256": "f1522c3927a3aeedb1e3d15d18b641cdd4c88f6cd7e5372a5af984d7a4e4520c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-7-2026",
+   "path": "local/iasi/mircesti/2026/7",
+   "short": "HCL Mircești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 7/2026 privind aprobarea necesității și oportunității a depunerii cererii de finanțare în cadrul Apelului de selecție pentru Intervenția 1 din SDL, Anul 2 de implementare , Trimestrul 1",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-7-din-16.04.2026.pdf",
+     "sha256": "dfd51a718582708f72aca7ce2933892871c4888be1a496b07211e6a600640828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-8-2026",
+   "path": "local/iasi/mircesti/2026/8",
+   "short": "HCL Mircești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 8/2026 privind reactualizarea devizului general al obiectivului de investiții și aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiții: ”Reabilitarea și modernizare Școală Gimnaziala Vasile Alecsandri Mircesti”",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-8-din-16.04.2026-1.pdf",
+     "sha256": "e47ba02be24890e47f9c77552a8a9ac380bd8099ae68ee030d61ada6b358c911"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mircesti-9-2026",
+   "path": "local/iasi/mircesti/2026/9",
+   "short": "HCL Mircești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mircești nr. 9/2026 privind reactualizarea devizului general al obiectivului de investiții și aprobarea indicatorilor tehnico economici actualizați pentru obiectivul de investiții ”Renovare Bibliotecă Comuna Mircești, județul Iași",
+   "url": "https://mircesti.ro/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://mircesti.ro/wp-content/uploads/2026/04/HCL-nr.-9-din-16.04.2026-1.pdf",
+     "sha256": "debd0cb683b8693750ed158433dfd6d47b4c5eb785ead4c20267cacfec41f51e"
+    }
+   ]
+  }
+ ]
+}

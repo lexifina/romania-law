@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-29-2022",
+   "path": "local/iasi/lungani/2022/29",
+   "short": "HCL Lungani nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 29/2022 privind ajustarea prețului contractului de achiziție publică al obiectivului de investiție ,,REABILITARE ȘCOALĂ GIMNAZIALĂ GOEȘTI\"",
+   "url": "https://emol.ro/lungani-is/registru-hcl/67918",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/67918",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-30-2022",
    "path": "local/iasi/lungani/2022/30",
    "short": "HCL Lungani nr. 30/2022",
@@ -33,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-31-2022",
+   "path": "local/iasi/lungani/2022/31",
+   "short": "HCL Lungani nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 31/2022",
+   "url": "https://emol.ro/lungani-is/registru-hcl/67920",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/67920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-32-2022",
+   "path": "local/iasi/lungani/2022/32",
+   "short": "HCL Lungani nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 32/2022",
+   "url": "https://emol.ro/lungani-is/registru-hcl/67921",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/67921",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-33-2022",
    "path": "local/iasi/lungani/2022/33",
    "short": "HCL Lungani nr. 33/2022",
@@ -43,6 +88,21 @@
      "from": "2022-07-21",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/67922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-34-2022",
+   "path": "local/iasi/lungani/2022/34",
+   "short": "HCL Lungani nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 34/2022 privind acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/67923",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/67923",
      "sha256": null
     }
    ]
@@ -73,6 +133,156 @@
      "from": "2022-07-21",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/67925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-37-2022",
+   "path": "local/iasi/lungani/2022/37",
+   "short": "HCL Lungani nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 37/2022",
+   "url": "https://emol.ro/lungani-is/registru-hcl/67926",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/67926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-38-2022",
+   "path": "local/iasi/lungani/2022/38",
+   "short": "HCL Lungani nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 38/2022 privind alegerea președintelui de ședință pentru perioada 26 august - 26 noiembrie 2022",
+   "url": "https://emol.ro/lungani-is/registru-hcl/69794",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/69794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-39-2022",
+   "path": "local/iasi/lungani/2022/39",
+   "short": "HCL Lungani nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 39/2022 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/69795",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/69795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-40-2022",
+   "path": "local/iasi/lungani/2022/40",
+   "short": "HCL Lungani nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 40/2022 privind acordarea unor premii persaoanelor care au împlinit vârsta de 100 de ani și au domiciliul pe raza comunei Lungani, județul Iași",
+   "url": "https://emol.ro/lungani-is/registru-hcl/69796",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/69796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-41-2022",
+   "path": "local/iasi/lungani/2022/41",
+   "short": "HCL Lungani nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 41/2022 privind aprobarea prelungirii duratei contractului nr. 2776 din 09.07.2018, privind concesiunea spațiului medical în suprafață de 24,38 mp și spații de folosință comună",
+   "url": "https://emol.ro/lungani-is/registru-hcl/70953",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/70953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-42-2022",
+   "path": "local/iasi/lungani/2022/42",
+   "short": "HCL Lungani nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 42/2022 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/79209",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/79209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-43-2022",
+   "path": "local/iasi/lungani/2022/43",
+   "short": "HCL Lungani nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 43/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani, județul Iași pe trim. IV 2022",
+   "url": "https://emol.ro/lungani-is/registru-hcl/79210",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/79210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-44-2022",
+   "path": "local/iasi/lungani/2022/44",
+   "short": "HCL Lungani nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 44/2022 privind validarea Dispoziției nr.1390/27.09.2022 a primarului comunei Lungani privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/lungani-is/registru-hcl/79211",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/79211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-45-2022",
+   "path": "local/iasi/lungani/2022/45",
+   "short": "HCL Lungani nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 45/2022 privind validarea Dispoziției nr.1365/09.09.2022 a primarului comunei Lungani privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/lungani-is/registru-hcl/79212",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/79212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-46-2022",
+   "path": "local/iasi/lungani/2022/46",
+   "short": "HCL Lungani nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 46/2022 privind aprobarea salariilor de bază pentru aparatul de specialitate al primarului comunei Lungani, județul Iași, în conformitate cu prevederile Legii nr.153 din 2017 privind salarizarea personalului plătit din fonduri publice",
+   "url": "https://emol.ro/lungani-is/registru-hcl/79213",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/79213",
      "sha256": null
     }
    ]

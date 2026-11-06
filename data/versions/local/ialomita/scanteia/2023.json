@@ -3,6 +3,66 @@
  "shard": "local/ialomita/scanteia/2023",
  "acts": [
   {
+   "slug": "hcl-ialomita--scanteia-1-2023",
+   "path": "local/ialomita/scanteia/2023/1",
+   "short": "HCL Scânteia nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 1/2023 privind modificarea Hotărârii Consiliului local nr. 35/27.05.2022 privind aprobarea Contractului de delegare, prin încredințare directă, a gestiunii, prin concesiune a serviciului public de colectare si transport a deșeurilor municipale solide în Județul Ialomița nr. 14/10.03.2022 cu modificările și completările ulterioare",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/270166",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/270166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-12-2023",
+   "path": "local/ialomita/scanteia/2023/12",
+   "short": "HCL Scânteia nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 12/2023 privind aprobarea prelungirii contractelor de închiriere și încheierea unui act adițional",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/270278",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/270278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-14-2023",
+   "path": "local/ialomita/scanteia/2023/14",
+   "short": "HCL Scânteia nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 14/2023 privind aprobarea prelungirii contractului de închiriere și încheierea unui act adițional a spatiului farmacie situat in incinta dispensarului uman Scanteia",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/270383",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/270383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-16-2023",
+   "path": "local/ialomita/scanteia/2023/16",
+   "short": "HCL Scânteia nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 16/2023 privind alegerea preşedintelui de şedinţă a Consiliului Local Scânteia, judetul Ialomiţa",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/270327",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/270327",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--scanteia-17-2023",
    "path": "local/ialomita/scanteia/2023/17",
    "short": "HCL Scânteia nr. 17/2023",
@@ -13,6 +73,21 @@
      "from": "2023-03-01",
      "units": 1,
      "source_url": "https://emol.ro/scanteia-il/registru-hcl/270307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-19-2023",
+   "path": "local/ialomita/scanteia/2023/19",
+   "short": "HCL Scânteia nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 19/2023 privind aprobarea inchirierii prin atribuire directa a suprafetei de pajiste comunala aflata in extravilan, apartinand domeniului privat al comunei Scânteia, judetul Ialomița potrivit art. 9, alin. (2) din OUG nr. 34 / 2013 privind organizarea, administrarea si exploatarea pajistilor permanente si pentru modificarea si completareea Legii fondului funciar nr. 18 / 1991",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/270385",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/270385",
      "sha256": null
     }
    ]
@@ -153,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--scanteia-4-2023",
+   "path": "local/ialomita/scanteia/2023/4",
+   "short": "HCL Scânteia nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 4/2023 privind aprobarea dezmembrării unor imobile aparţinând domeniului public al unităţii administrativ-teritoriale Scânteia, judeţul Ialomiţa",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/270333",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/270333",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--scanteia-5-2023",
    "path": "local/ialomita/scanteia/2023/5",
    "short": "HCL Scânteia nr. 5/2023",
@@ -163,6 +253,36 @@
      "from": "2023-02-02",
      "units": 1,
      "source_url": "https://emol.ro/scanteia-il/registru-hcl/270386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-7-2023",
+   "path": "local/ialomita/scanteia/2023/7",
+   "short": "HCL Scânteia nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 7/2023",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/270382",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/270382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-8-2023",
+   "path": "local/ialomita/scanteia/2023/8",
+   "short": "HCL Scânteia nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 8/2023",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/270306",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/270306",
      "sha256": null
     }
    ]

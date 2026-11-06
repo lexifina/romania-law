@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--horlesti-111-2021",
+   "path": "local/iasi/horlesti/2021/111",
+   "short": "HCL Horlești nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 111/2021 privind desemnarea reprezentanților Consiliului Local Horlești în comisia de de inventarierea anuală respectiv comisia de casare a bunurilor aflate în patrimoniul comunei",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/46021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/46021",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--horlesti-112-2021",
    "path": "local/iasi/horlesti/2021/112",
    "short": "HCL Horlești nr. 112/2021",
@@ -118,6 +133,21 @@
      "from": "2021-12-14",
      "units": 1,
      "source_url": "https://emol.ro/horlesti-is/registru-hcl/46027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-118-2021",
+   "path": "local/iasi/horlesti/2021/118",
+   "short": "HCL Horlești nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 118/2021 Privind acordarea unui ajutor de urgenţă",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/46028",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/46028",
      "sha256": null
     }
    ]

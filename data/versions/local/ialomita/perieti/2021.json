@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/perieti/2021",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--perieti-203-2021",
+   "path": "local/ialomita/perieti/2021/203",
+   "short": "HCL Perieți nr. 203/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Perieți nr. 203/2021",
+   "url": "http://primaria-perieti.ro/",
+   "versions": [
+    {
+     "from": "2021-10-11",
+     "units": 1,
+     "source_url": "http://primaria-perieti.ro/documente/HOTARARE%20203%20din%2011.10.2021%20CJSU%20-%20masuri%20Perieti.pdf",
+     "sha256": "5ff133328bea78c6ed93a0979b6e46e4e63704359b632329b0c5819c33345a96"
+    }
+   ]
+  }
+ ]
+}

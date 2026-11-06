@@ -3,6 +3,156 @@
  "shard": "local/hunedoara/criscior/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--criscior-55-2025",
+   "path": "local/hunedoara/criscior/2025/55",
+   "short": "HCL Crișcior nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 55/2025 privind aprobarea contului de execuție al bugetului local al comunei Crișcior pe trimestrul II al anului 2025",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237662",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-56-2025",
+   "path": "local/hunedoara/criscior/2025/56",
+   "short": "HCL Crișcior nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 56/2025 privind rectificarea bugetului local al Comunei Crișcior pentru anul 2025",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237679",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-57-2025",
+   "path": "local/hunedoara/criscior/2025/57",
+   "short": "HCL Crișcior nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 57/2025 privind aprobarea unui angajament de plată a creanțelor către firma SC Brai-Cata SRL",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237680",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-58-2025",
+   "path": "local/hunedoara/criscior/2025/58",
+   "short": "HCL Crișcior nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 58/2025 privind desemnarea a doi reprezentanți ai Consiliului Local al Comunei Crișcior în Consiliul de Administrație al Liceului Tehnologic „Crișan” Crișcior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237687",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-59-2025",
+   "path": "local/hunedoara/criscior/2025/59",
+   "short": "HCL Crișcior nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 59/2025 privind aprobarea deplasării delegației Comunei Crișcior în Republica Moldova, în perioada 11-15 octombrie 2025",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237688",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-60-2025",
+   "path": "local/hunedoara/criscior/2025/60",
+   "short": "HCL Crișcior nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 60/2025 privind rectificarea bugetului local al Comunei Crișcior pe anul 2025",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237689",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-61-2025",
+   "path": "local/hunedoara/criscior/2025/61",
+   "short": "HCL Crișcior nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 61/2025",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237864",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-62-2025",
+   "path": "local/hunedoara/criscior/2025/62",
+   "short": "HCL Crișcior nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 62/2025 privind aprobarea inventarului bunurilor care aparțin domeniului privat al Comunei Crișcior, județul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237869",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-63-2025",
+   "path": "local/hunedoara/criscior/2025/63",
+   "short": "HCL Crișcior nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 63/2025 privind însușirea Actului adițional nr. 2 la Contractul nr.34/61 din 13.03.2025 privind „Prestarea serviciului de salubrizare în zona de colectare 1 Brad, județul Hunedoara” și mandatarea președintelui Asociației să semneze acest document",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237871",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-64-2025",
+   "path": "local/hunedoara/criscior/2025/64",
+   "short": "HCL Crișcior nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 64/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/237875",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/237875",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--criscior-65-2025",
    "path": "local/hunedoara/criscior/2025/65",
    "short": "HCL Crișcior nr. 65/2025",
@@ -13,6 +163,36 @@
      "from": "2026-02-17",
      "units": 1,
      "source_url": "https://emol.ro/criscior-hd/registru-hcl/253406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-66-2025",
+   "path": "local/hunedoara/criscior/2025/66",
+   "short": "HCL Crișcior nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 66/2025 privind modificarea Hotărârii Consiliului Local nr. 39/2023 privind constituirea Asociației de Dezvoltare Intercomunitară de Transport Public Zarand, astfel cum a fost modificată prin Hotărârea Consiliului Local nr. 43/2023",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/253412",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/253412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-67-2025",
+   "path": "local/hunedoara/criscior/2025/67",
+   "short": "HCL Crișcior nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 67/2025 privind modificarea organigramei și a statului de funcții a aparatului de specialitate al primarului comunei Crișcior, județul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/253413",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/253413",
      "sha256": null
     }
    ]

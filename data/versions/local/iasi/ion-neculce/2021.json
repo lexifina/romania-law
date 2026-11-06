@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-107-2021",
+   "path": "local/iasi/ion-neculce/2021/107",
+   "short": "HCL Ion Neculce nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 107/2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/46950",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/46950",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-108-2021",
    "path": "local/iasi/ion-neculce/2021/108",
    "short": "HCL Ion Neculce nr. 108/2021",
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-112-2021",
+   "path": "local/iasi/ion-neculce/2021/112",
+   "short": "HCL Ion Neculce nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 112/2021 aprobarea suportarii din bugetului local al comunei Ion Neculce, trecerii pe cheltuieli si achitarea sumei de 13.604.68 lei reprezentand cheltuieli de judecata către reclamanții",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/46980",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/46980",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-113-2021",
    "path": "local/iasi/ion-neculce/2021/113",
    "short": "HCL Ion Neculce nr. 113/2021",
@@ -133,6 +163,36 @@
      "from": "2021-12-15",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/46981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-114-2021",
+   "path": "local/iasi/ion-neculce/2021/114",
+   "short": "HCL Ion Neculce nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 114/2021 privind acordarea unui sprijin financiar pentru Parohia Pogorârea Sfântului Duh Dadesti, comuna Ion Neculce, județul Iași",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/46982",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/46982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-115-2021",
+   "path": "local/iasi/ion-neculce/2021/115",
+   "short": "HCL Ion Neculce nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 115/2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/46983",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/46983",
      "sha256": null
     }
    ]

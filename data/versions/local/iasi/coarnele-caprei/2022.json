@@ -3,6 +3,156 @@
  "shard": "local/iasi/coarnele-caprei/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--coarnele-caprei-100-2022",
+   "path": "local/iasi/coarnele-caprei/2022/100",
+   "short": "HCL Coarnele Caprei nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 100/2022 privind reorganizarea comisiilor de specialitate pe principalele domenii de activitate și componenta acestora",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90839",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-101-2022",
+   "path": "local/iasi/coarnele-caprei/2022/101",
+   "short": "HCL Coarnele Caprei nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 101/2022 privind aprobarea proces-verbal al ședinței din data de 31.10.2022",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90849",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-102-2022",
+   "path": "local/iasi/coarnele-caprei/2022/102",
+   "short": "HCL Coarnele Caprei nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 102/2022 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL S.A",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90850",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-103-2022",
+   "path": "local/iasi/coarnele-caprei/2022/103",
+   "short": "HCL Coarnele Caprei nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 103/2022 privind înființarea Serviciului de gestionare a câinilor fără stăpân al comunei Coarnele Caprei, județul Iași",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90851",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-104-2022",
+   "path": "local/iasi/coarnele-caprei/2022/104",
+   "short": "HCL Coarnele Caprei nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 104/2022 privind implementarea proiectului ''Extindere sitem de alimentare cu apă și canalizare în comuna Coarnele Caprei, județul Iași''",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90852",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-105-2022",
+   "path": "local/iasi/coarnele-caprei/2022/105",
+   "short": "HCL Coarnele Caprei nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 105/2022 privind aprobarea alocării unor sume de bani cu ocazia sărbătorilor de iarnă pentru activități culturale, achiziții, premii, comemorări, cadouri",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90853",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-106-2022",
+   "path": "local/iasi/coarnele-caprei/2022/106",
+   "short": "HCL Coarnele Caprei nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 106/2022 privind achiziționarea serviciului de efectuare a analizei de risc la securitatea fizică pentru obiectivele aparținând UAT Coarnele Caprei",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90854",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-107-2022",
+   "path": "local/iasi/coarnele-caprei/2022/107",
+   "short": "HCL Coarnele Caprei nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 107/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90855",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-108-2022",
+   "path": "local/iasi/coarnele-caprei/2022/108",
+   "short": "HCL Coarnele Caprei nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 108/2022 privind aprobare proces-verbal al ședinței din data de 28.11.2022",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90874",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-109-2022",
+   "path": "local/iasi/coarnele-caprei/2022/109",
+   "short": "HCL Coarnele Caprei nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 109/2022 privind revocarea HCL 97 din 31.10.2022 - rezilierea - ''Acordului de cooperare pentru organizarea și exercitarea funcției de audit intern - ACOR Iași''",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90875",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90875",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-110-2022",
    "path": "local/iasi/coarnele-caprei/2022/110",
    "short": "HCL Coarnele Caprei nr. 110/2022",
@@ -18,6 +168,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-111-2022",
+   "path": "local/iasi/coarnele-caprei/2022/111",
+   "short": "HCL Coarnele Caprei nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 111/2022 privind adoptare grafic ședință Consiliul Local Trim. I-2023",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90877",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-112-2022",
+   "path": "local/iasi/coarnele-caprei/2022/112",
+   "short": "HCL Coarnele Caprei nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 112/2022 privind aprobare proces-verbal al ședinței din data de 12.12.2022",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90891",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-113-2022",
+   "path": "local/iasi/coarnele-caprei/2022/113",
+   "short": "HCL Coarnele Caprei nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 113/2022 privind completarea Caietului de Sarcini privind activitatea de distribuție a apei potabile pentru aria de operare Coarnele Caprei, jud. Iași",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90892",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-114-2022",
+   "path": "local/iasi/coarnele-caprei/2022/114",
+   "short": "HCL Coarnele Caprei nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 114/2022 privind rectificare buget pe trim. IV-2022",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90893",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90893",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-115-2022",
    "path": "local/iasi/coarnele-caprei/2022/115",
    "short": "HCL Coarnele Caprei nr. 115/2022",
@@ -28,6 +238,66 @@
      "from": "2023-02-20",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-96-2022",
+   "path": "local/iasi/coarnele-caprei/2022/96",
+   "short": "HCL Coarnele Caprei nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 96/2022 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții 'țReabilitare și modernizare drumui în comuna Coarnele Caprei, județul Iași''",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90835",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-97-2022",
+   "path": "local/iasi/coarnele-caprei/2022/97",
+   "short": "HCL Coarnele Caprei nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 97/2022 privind rezilierea ''Acordului de cooperare pentru organizarea și exercitarea funcției de audit intern din data de 17.02.2017''",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90836",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-98-2022",
+   "path": "local/iasi/coarnele-caprei/2022/98",
+   "short": "HCL Coarnele Caprei nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 98/2022 privind rectificare buget pe trim. IV 2022",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90837",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-99-2022",
+   "path": "local/iasi/coarnele-caprei/2022/99",
+   "short": "HCL Coarnele Caprei nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 99/2022 privind acordarea unui stimulent financiar familiilor pentru nou-născuți",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90838",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/90838",
      "sha256": null
     }
    ]

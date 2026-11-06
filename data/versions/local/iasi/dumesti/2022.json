@@ -3,6 +3,126 @@
  "shard": "local/iasi/dumesti/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--dumesti-1-2022",
+   "path": "local/iasi/dumesti/2022/1",
+   "short": "HCL Dumești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 1/2022 privind modificarea, începând cu anul fiscal 2022, a nivelului valorilor impozabile, impozitelor, taxelor locale și a altor taxe asimilate acestora, precum și a amenzilor prevăzute de Legea nr.227/2015 privind Codul fiscal, prin indexarea cu rata inflației în procent de 2,6%",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62775",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-10-2022",
+   "path": "local/iasi/dumesti/2022/10",
+   "short": "HCL Dumești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 10/2022 privind utilizarea excedentului aferent anilor precedenți",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62812",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-11-2022",
+   "path": "local/iasi/dumesti/2022/11",
+   "short": "HCL Dumești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 11/2022 privind aprobarea bugetului general de venituri și cheltuieli al comunei Dumești pentru anul 2022 și estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62813",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-12-2022",
+   "path": "local/iasi/dumesti/2022/12",
+   "short": "HCL Dumești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 12/2022 privind aprobarea Planului anual de acțiuni sau lucrări de interes local pentru repartizarea orelor de muncă în cazul persoanelor care prestează acțiuni sau lucrări de interes local pe baza Legii nr.416/2001 privind venitul minim garantat, cu modificările și completările ulterioare, pentru anul 2022",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62834",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-13-2022",
+   "path": "local/iasi/dumesti/2022/13",
+   "short": "HCL Dumești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 13/2022 privind organizarea pășunatului și închirierea suprafețelor de pășune pentru anul 2022",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62835",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-14-2022",
+   "path": "local/iasi/dumesti/2022/14",
+   "short": "HCL Dumești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 14/2022 privind aprobarea încheierii unui acord de parteneriat între comuna Dumești și Asociația Culturală Geto Dacii din Moldova",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62836",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-15-2022",
+   "path": "local/iasi/dumesti/2022/15",
+   "short": "HCL Dumești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 15/2022 privind achiziționarea unor table de șah pentru desfășurarea activităților extrașcolare",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62837",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-16-2022",
+   "path": "local/iasi/dumesti/2022/16",
+   "short": "HCL Dumești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 16/2022 privind aprobarea cheltuielilor eligibile și neeligibile, pentru obiectivul de investiții ”CREAREA UNUI SISTEM INTELIGENT DE MANAGEMENT ÎN COMUNA DUMEȘTI, PRIN INTEGRAREA DATELOR SPAȚIALE DIN TEREN ÎNTR-O SOLUȚIE GEOSPAȚIALĂ (G.I.S.) PRIN PNRR/2022/C10 ACȚIUNEA 1.1.2",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62838",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62838",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--dumesti-17-2022",
    "path": "local/iasi/dumesti/2022/17",
    "short": "HCL Dumești nr. 17/2022",
@@ -13,6 +133,141 @@
      "from": "2022-04-20",
      "units": 1,
      "source_url": "https://emol.ro/dumesti-is/registru-hcl/62845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-18-2022",
+   "path": "local/iasi/dumesti/2022/18",
+   "short": "HCL Dumești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 18/2022 privind implementarea proiectului „ACHIZIȚIE ACCESORII PENTRU BULDOEXCAVATOR MECALAC-TLB 850, COMUNA DUMEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62846",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-2-2022",
+   "path": "local/iasi/dumesti/2022/2",
+   "short": "HCL Dumești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 2/2022 privind aprobarea impozitului pe mijloace de transport prin indezarea sumelor prevăzute la art.470, alin (5) și (6) din Codul fiscal, pentru anul 2022",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62776",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-3-2022",
+   "path": "local/iasi/dumesti/2022/3",
+   "short": "HCL Dumești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 3/2022 privind introducere teren proprietate din extravilan în intravilan sat Dumești, comuna Dumești în vederea construirii unei locuințe unifamilială, aferent terenului în suprafață de 453,00 mp",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62785",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-4-2022",
+   "path": "local/iasi/dumesti/2022/4",
+   "short": "HCL Dumești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 4/2022 privind organizarea rețelei școlare pentru unitățile de învățământ preuniversitar de stat, în anul școlar 2022-2023",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62786",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-5-2022",
+   "path": "local/iasi/dumesti/2022/5",
+   "short": "HCL Dumești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 5/2022 privind aprobarea ajustării prețului pentru apă industrială pentru întreagă arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62787",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-6-2022",
+   "path": "local/iasi/dumesti/2022/6",
+   "short": "HCL Dumești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 6/2022 privind înființarea ”Clubului Sportiv Dumești” și aprobarea Regulamentului de organizare și funcționare",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62788",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-7-2022",
+   "path": "local/iasi/dumesti/2022/7",
+   "short": "HCL Dumești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 7/2022 privind aprobarea studiului de oportunitate și a documentației de atribuire, în vederea concesionării/închirierii spațiilor de cabinet medical și spațiilor comune aferente cabinetelor medicale situate în dispensar uman sat Dumești, comuna Dumești, județul Iași",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62789",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-8-2022",
+   "path": "local/iasi/dumesti/2022/8",
+   "short": "HCL Dumești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 8/2022 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile martie-aprilie anul 2022",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62810",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-9-2022",
+   "path": "local/iasi/dumesti/2022/9",
+   "short": "HCL Dumești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 9/2022 privind ameliorarea prin împădurire a terenurilor degradate aparținând comunei Dumești, administrative de Consiliul local al comunei Dumești",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/62811",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/62811",
      "sha256": null
     }
    ]

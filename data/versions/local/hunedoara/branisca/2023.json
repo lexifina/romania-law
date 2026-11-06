@@ -3,6 +3,66 @@
  "shard": "local/hunedoara/branisca/2023",
  "acts": [
   {
+   "slug": "hcl-hunedoara--branisca-40-2023",
+   "path": "local/hunedoara/branisca/2023/40",
+   "short": "HCL Brănișca nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 40/2023 nr. 43/2023 Privind aprobare modificarii Organigramei si a Statului de functii a aparatului de specialitate al Primarului comunei Branisca",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/111382",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/111382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-41-2023",
+   "path": "local/hunedoara/branisca/2023/41",
+   "short": "HCL Brănișca nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 41/2023 nr. 44/2023 privind aprobarea indicatorilor tehnico-economici ai investiției în contextul prevederilor Ordonanței de Urgență a Guvernului nr. 64/2022 pentru proiectul,, Reabilitarea, modernizarea si dotarea Caminelor culturale din satele Brănișca și Boz , comuna Brănișca, judetul Hunedoara,,",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/111383",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/111383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-42-2023",
+   "path": "local/hunedoara/branisca/2023/42",
+   "short": "HCL Brănișca nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 42/2023 NR.45/2023 privind implementarea proiectului și aprobarea majorării valorii de investiție a proiectului ” ,, Reabilitarea, modernizarea si dotarea Caminelor culturale din satele Brănișcasi Boz , comuna Brănișca, judetul Hunedoara",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/111384",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/111384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-43-2023",
+   "path": "local/hunedoara/branisca/2023/43",
+   "short": "HCL Brănișca nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 43/2023 NR.46/2023 privind aprobarea Regulamentului de Organizare și Funcționare, a Asociației de Dezvoltare Intercomunitară “Serviciul județean pentru ocrotirea animalelor fără stăpan”",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/111385",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/111385",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--branisca-44-2023",
    "path": "local/hunedoara/branisca/2023/44",
    "short": "HCL Brănișca nr. 44/2023",
@@ -13,6 +73,231 @@
      "from": "2023-07-13",
      "units": 1,
      "source_url": "https://emol.ro/branisca-hd/registru-hcl/113769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-45-2023",
+   "path": "local/hunedoara/branisca/2023/45",
+   "short": "HCL Brănișca nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 45/2023 privind aprobarea indicatorilor tehnico-economici ai investiției în contextul prevederilor Ordonanței de Urgență a Guvernului nr. 64/2022 pentru proiectul,, Reabilitarea, modernizarea si dotarea Caminelor culturale din satele Brănișca și Boz , comuna Brănișca, judetul Hunedoara,, rivind",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/113770",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/113770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-46-2023",
+   "path": "local/hunedoara/branisca/2023/46",
+   "short": "HCL Brănișca nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 46/2023 nr.51/2023 privind implementarea proiectului de investiție ,, Achiziționare utilaje si echipamente pentru dotarea Compartimentul Serviciul comunitar de administrare a domeniului public si privat al comunei Brănișca ,,",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/113771",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/113771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-47-2023",
+   "path": "local/hunedoara/branisca/2023/47",
+   "short": "HCL Brănișca nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 47/2023 privind aprobarea valorificării masei lemnoase pe picior din proprietatea privată a comunei Brănișca -pășune, aflată în afara fondului forestier și stabilirea prețului de pornire la negociere",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/115438",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/115438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-48-2023",
+   "path": "local/hunedoara/branisca/2023/48",
+   "short": "HCL Brănișca nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 48/2023 privind aprobarea contractării unui împrumut în valoare de 250.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/115439",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/115439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-49-2023",
+   "path": "local/hunedoara/branisca/2023/49",
+   "short": "HCL Brănișca nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 49/2023 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul II al anului 2023 şi a stabilirii măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/115440",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/115440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-50-2023",
+   "path": "local/hunedoara/branisca/2023/50",
+   "short": "HCL Brănișca nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 50/2023 privind alegerea președintelui de ședință pentru lunile august 2023 - octombrie 2023",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/115441",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/115441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-51-2023",
+   "path": "local/hunedoara/branisca/2023/51",
+   "short": "HCL Brănișca nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 51/2023 privind aprobarea unor măsuri vizând masa lemnoasă supusă exploatării în anul 2023 din pădurea proprietate publică a Comunei Brănișca",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/115442",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/115442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-52-2023",
+   "path": "local/hunedoara/branisca/2023/52",
+   "short": "HCL Brănișca nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 52/2023 nr.59/2023 privind aprobarea rectificării bugetului local al comunei Brănișca pe anul 2023",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/128023",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/128023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-53-2023",
+   "path": "local/hunedoara/branisca/2023/53",
+   "short": "HCL Brănișca nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 53/2023 nr. 60/2023 privind desemnarea reprezentantului Consiliului Local Brănișca în consiliul de administrație al Școlii Gimnaziale ”Nicola Țic” din Brănișca pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/128024",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/128024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-54-2023",
+   "path": "local/hunedoara/branisca/2023/54",
+   "short": "HCL Brănișca nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 54/2023 nr. 61/2023 privind aprobarea aprobarea trecerii din domeniul public in domeniul privat al comunei Brănișca, județul Hunedoara a unui imobil ,,STAȚIE DE AUTOBUZ DIN SAT BOZ,, în vederea scoaterii din funcțiune , casării și demolării acestuia",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/128025",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/128025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-55-2023",
+   "path": "local/hunedoara/branisca/2023/55",
+   "short": "HCL Brănișca nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 55/2023 NR.58/2023 privind reorganizarea componentei echipei mobile pentru interventia de urgenta in cazurile de violenta domestica in comuna Branisca , judetul Hunedoara",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/128026",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/128026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-56-2023",
+   "path": "local/hunedoara/branisca/2023/56",
+   "short": "HCL Brănișca nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 56/2023 NR.62/2023 Pentru aprobarea Strategiei de contractare si a documentatiei de atribuire pentru organizarea procedurii de ,, negociere fara publicare prealabila a unui anunt de participare,, in vederea atribuirii contractului de achizitie avand ca obiect : ,,Prestarea serviciului de salubrizare in zona de colectare 3 Centru , Judetul Hunedoara ,,precum si acordarea de mandate,,",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/128027",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/128027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-57-2023",
+   "path": "local/hunedoara/branisca/2023/57",
+   "short": "HCL Brănișca nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 57/2023 NR.63/2023 Pentru aprobarea Actului Aditional nr.2 la CONTRACTUL Nr. 44/167 din 10.10.2022 privind „Prestarea serviciului de salubrizare în zona de colectare 3 Centru, Județul Hunedoara”",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/128041",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/128041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-58-2023",
+   "path": "local/hunedoara/branisca/2023/58",
+   "short": "HCL Brănișca nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 58/2023 NR.64/2023privind aprobarea rectificarii bugetului local al Comunei Branisca pe anul 2023 si aprobarea bugetului centralizat al creditelor interne pe anul 2023 si estimari pentru anii 2024-2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/128042",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/128042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-59-2023",
+   "path": "local/hunedoara/branisca/2023/59",
+   "short": "HCL Brănișca nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 59/2023 NR.65/2023 privind aprobarea modificarii Statutului Asociatiei de Dezvoltare Intercomunitară ,,Sistemul Integrat de Gestionare a Deșeurilor judetul Hunedoara,",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/128043",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/128043",
      "sha256": null
     }
    ]

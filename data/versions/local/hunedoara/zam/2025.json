@@ -3,6 +3,36 @@
  "shard": "local/hunedoara/zam/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--zam-27-2025",
+   "path": "local/hunedoara/zam/2025/27",
+   "short": "HCL Zam nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 27/2025 privind desemnarea reprezentantului Consiliului Local al comunei Zam în Consiliul de Administrație al Școlii Gimnaziale Zam, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/zam-hd/registru-hcl/229205",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/229205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-28-2025",
+   "path": "local/hunedoara/zam/2025/28",
+   "short": "HCL Zam nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 28/2025 privind aprobarea încheierii unui Contract de comodat între UAT Comuna Zam și Școala Gimnazială Zam pentru darea în folosință gratuită a microbuzului marca Ford Transit cu scopul asigurării transportului elevilor",
+   "url": "https://emol.ro/zam-hd/registru-hcl/229206",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/229206",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--zam-29-2025",
    "path": "local/hunedoara/zam/2025/29",
    "short": "HCL Zam nr. 29/2025",
@@ -108,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--zam-36-2025",
+   "path": "local/hunedoara/zam/2025/36",
+   "short": "HCL Zam nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 36/2025 privind alegerea dintre membrii Consiliului local Zam a unui președinte de ședință pentru o perioadă de trei luni, respectiv noiembrie 2025-ianuarie 2026",
+   "url": "https://emol.ro/zam-hd/registru-hcl/251687",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/251687",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--zam-37-2025",
    "path": "local/hunedoara/zam/2025/37",
    "short": "HCL Zam nr. 37/2025",
@@ -138,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--zam-39-2025",
+   "path": "local/hunedoara/zam/2025/39",
+   "short": "HCL Zam nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 39/2025 privind aprobarea încheierii unui Contract de comodat între UAT Comuna Zam și Școala Gimnazială Zam pentru darea în folosință gratuită a microbuzului electric marca AVEURO",
+   "url": "https://emol.ro/zam-hd/registru-hcl/251702",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/251702",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--zam-40-2025",
    "path": "local/hunedoara/zam/2025/40",
    "short": "HCL Zam nr. 40/2025",
@@ -148,6 +208,51 @@
      "from": "2026-02-05",
      "units": 1,
      "source_url": "https://emol.ro/zam-hd/registru-hcl/251727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-41-2025",
+   "path": "local/hunedoara/zam/2025/41",
+   "short": "HCL Zam nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 41/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza comunei Zam pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/zam-hd/registru-hcl/251730",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/251730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-42-2025",
+   "path": "local/hunedoara/zam/2025/42",
+   "short": "HCL Zam nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 42/2025 privind aprobarea Programului anual al achizițiilor publice al comunei Zam pe anul 2026, forma inițială",
+   "url": "https://emol.ro/zam-hd/registru-hcl/251731",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/251731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-43-2025",
+   "path": "local/hunedoara/zam/2025/43",
+   "short": "HCL Zam nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 43/2025 privind aprobarea modificării organigramei și a statului de funcții al aparatului de specialitate al primarului comunei și a serviciilor și instituțiilor publice, fără personalitate juridică, aflate în subordinea Consiliului local al comunei Zam",
+   "url": "https://emol.ro/zam-hd/registru-hcl/251734",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/251734",
      "sha256": null
     }
    ]

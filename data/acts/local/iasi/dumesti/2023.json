@@ -3,6 +3,28 @@
 "shard": "local/iasi/dumesti/2023",
 "acts": [
 {
+"slug": "hcl-iasi--dumesti-55-2023",
+"path": "local/iasi/dumesti/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 55/2023 privind externalizarea serviciilor de contabilitate din aparatul de specialitate al primarului comunei Dumești, județul Iași",
+"short": "HCL Dumești nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/132800",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-56-2023",
 "path": "local/iasi/dumesti/2023/56",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-iasi--dumesti-61-2023",
+"path": "local/iasi/dumesti/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 61/2023 privind desemnarea a doi reprezentanți ai Consiliului local Dumești în Consiliul de Administrație al Școlii Gimnaziale Dumești",
+"short": "HCL Dumești nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/132806",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-62-2023",
 "path": "local/iasi/dumesti/2023/62",
 "kind": "local",
@@ -198,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Dumești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-66-2023",
+"path": "local/iasi/dumesti/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 66/2023 privind alegerea presedintelui de sedință pentru sedintele Consiliului local al comunei Dumesti din lunile noiembrie-decembrie anul 2023",
+"short": "HCL Dumești nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/132815",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

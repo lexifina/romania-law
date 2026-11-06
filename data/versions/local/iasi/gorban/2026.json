@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/gorban/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--gorban-27-2026",
+   "path": "local/iasi/gorban/2026/27",
+   "short": "HCL Gorban nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gorban nr. 27/2026 privind aprobarea înregistrării comunei Gorban",
+   "url": "https://primariagorban.ro/documente/hotararea-nr-27-din-25-08-2026-privind-aprobarea-inregistrarii-comunei-gorban/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://primariagorban.ro/wp-content/uploads/2026/09/Hotararea-NR.-27-din-25.08.2026-privind-aprobarea-inregistrarii-comunei-Gorban.pdf",
+     "sha256": "1dc2103e54259241de1d7f985219a0bbbefef6a81ec57e79f57508fa82a59515"
+    }
+   ]
+  }
+ ]
+}

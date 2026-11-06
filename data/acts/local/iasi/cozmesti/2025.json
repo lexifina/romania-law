@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cozmesti-32-2025",
+"path": "local/iasi/cozmesti/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 32/2025 privind scoaterea din funcțiune și casarea automobilului mixt marca Dacia Pick-up aflat în proprietatea privată a UAT Cozmești",
+"short": "HCL Cozmești nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-01",
+"latest": "2025-10-01",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/225400",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cozmesti-33-2025",
 "path": "local/iasi/cozmesti/2025/33",
 "kind": "local",
@@ -69,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cozmesti-34-2025",
+"path": "local/iasi/cozmesti/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 34/2025 privind desemnarea reprezentanților Consiliului Local al Comunei Cozmești în Consiliul de administrație al Școlii Profesionale Cozmești, pentru anul școlar 2025-2026",
+"short": "HCL Cozmești nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/231844",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cozmesti-35-2025",
 "path": "local/iasi/cozmesti/2025/35",
 "kind": "local",
@@ -88,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Cozmești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cozmesti-36-2025",
+"path": "local/iasi/cozmesti/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 36/2025 privind aprobarea organigramei și a statului de funcții ale Primăriei comunei Cozmești, județul Iași",
+"short": "HCL Cozmești nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/231846",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +311,72 @@
 }
 },
 {
+"slug": "hcl-iasi--cozmesti-44-2025",
+"path": "local/iasi/cozmesti/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 44/2025 privind alegerea președintelui de ședință al Consiliului Local al Comunei Cozmești, pentru trimestrul I al anului 2026 în mandatul 2024-2028",
+"short": "HCL Cozmești nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/245000",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cozmesti-45-2025",
+"path": "local/iasi/cozmesti/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 45/2025 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Cozmești",
+"short": "HCL Cozmești nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/245001",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cozmesti-46-2025",
+"path": "local/iasi/cozmesti/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 46/2025 privind aprobarea numărului posturilor de asistenți personali ai persoanelor cu handicap grav pentru anul 2026",
+"short": "HCL Cozmești nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/245002",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cozmesti-47-2025",
 "path": "local/iasi/cozmesti/2025/47",
 "kind": "local",
@@ -264,6 +396,50 @@
 "council_name": "Consiliul Local al Comunei Cozmești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cozmesti-48-2025",
+"path": "local/iasi/cozmesti/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 48/2025 privind înființarea a două posturi de natură contractuală, în afara organigramei, în vederea implementării proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate” – PIDS/586/PO4/339395, finanțat din Fondul Social European Plus, prin Programul Incluziune și Demnitate Socială, Prioritatea 4: Sprijinirea comunităților rurale fără acces sau cu acces limitat la servicii sociale",
+"short": "HCL Cozmești nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/245004",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--cozmesti-49-2025",
+"path": "local/iasi/cozmesti/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 49/2025 privind alocarea unei sume din bugetul local pentru acordarea de cadouri preșcolarilor/elevilor de la Școala Profesională Cozmești, cu ocazia sărbătorilor de iarnă",
+"short": "HCL Cozmești nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/cozmesti-is/registru-hcl/245005",
+"council": "iasi/cozmesti",
+"council_name": "Consiliul Local al Comunei Cozmești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

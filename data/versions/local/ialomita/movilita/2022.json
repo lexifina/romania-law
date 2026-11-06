@@ -3,6 +3,36 @@
  "shard": "local/ialomita/movilita/2022",
  "acts": [
   {
+   "slug": "hcl-ialomita--movilita-10-2022",
+   "path": "local/ialomita/movilita/2022/10",
+   "short": "HCL Movilița nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movilița nr. 10/2022 privind însușirea prețului, rezultat în urma negocierii, privind vânzarea terenului întravilan în suprafață de 1264 mp către concesionarii acestuia",
+   "url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#34289",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#34289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--movilita-11-2022",
+   "path": "local/ialomita/movilita/2022/11",
+   "short": "HCL Movilița nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movilița nr. 11/2022 privind însușirea prețului, rezultat în urma negocierii, privind cumpărarea a două terenuri întravilane în suprafață de 1700 mp și 2415 mp",
+   "url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#34291",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#34291",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--movilita-12-2022",
    "path": "local/ialomita/movilita/2022/12",
    "short": "HCL Movilița nr. 12/2022",
@@ -408,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--movilita-39-2022",
+   "path": "local/ialomita/movilita/2022/39",
+   "short": "HCL Movilița nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movilița nr. 39/2022 privind desemnarea reprezentantilor Consiliului Local al comunei Moviliţa în cadrul Consiliului de administraţie al Scolii Gimnaziale Moviliţa",
+   "url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#36211",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#36211",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--movilita-40-2022",
    "path": "local/ialomita/movilita/2022/40",
    "short": "HCL Movilița nr. 40/2022",
@@ -573,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--movilita-50-2022",
+   "path": "local/ialomita/movilita/2022/50",
+   "short": "HCL Movilița nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movilița nr. 50/2022 privind revocare HCL21/24-02-2022 cu privire la decontarea cheltuielilor de transport de la și la locul de muncă pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Movilița",
+   "url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#36243",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#36243",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--movilita-51-2022",
    "path": "local/ialomita/movilita/2022/51",
    "short": "HCL Movilița nr. 51/2022",
@@ -613,6 +673,21 @@
      "from": "2022-02-24",
      "units": 1,
      "source_url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#34284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--movilita-8-2022",
+   "path": "local/ialomita/movilita/2022/8",
+   "short": "HCL Movilița nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movilița nr. 8/2022 privind decontarea cheltuielilor de transport de la domiciliu la serviciu pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Movilița",
+   "url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#34286",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://movilita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5063#34286",
      "sha256": null
     }
    ]

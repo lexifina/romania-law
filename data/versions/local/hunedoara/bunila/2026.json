@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/bunila/2026",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--bunila-7-2026",
+   "path": "local/hunedoara/bunila/2026/7",
+   "short": "HCL Bunila nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bunila nr. 7/2026",
+   "url": "https://primariacomuneibunila.ro/primaria/monitorul-oficial-local/hotarari-autoritate-deliberativa-2/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://primariacomuneibunila.ro/primaria/wp-content/uploads/2026/09/Hotararea_nr.7-25.02.2026.pdf",
+     "sha256": "75e97dc3c4f42d54c3d3bf11477923f0cfdfc746e52ea021573ddb3ee248ef0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bunila-8-2026",
+   "path": "local/hunedoara/bunila/2026/8",
+   "short": "HCL Bunila nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bunila nr. 8/2026",
+   "url": "https://primariacomuneibunila.ro/primaria/monitorul-oficial-local/hotarari-autoritate-deliberativa-2/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://primariacomuneibunila.ro/primaria/wp-content/uploads/2026/09/Hotararea_nr.8-25.02.2026.pdf",
+     "sha256": "7f99d8b0dd0dc5be0ef904f8fa1a889d84cecb43af79ed971dfc48eff37334a6"
+    }
+   ]
+  }
+ ]
+}

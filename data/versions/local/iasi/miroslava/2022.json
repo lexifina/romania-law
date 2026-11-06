@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/miroslava/2022",
+ "acts": [
+  {
+   "slug": "hcl-iasi--miroslava-70-2022",
+   "path": "local/iasi/miroslava/2022/70",
+   "short": "HCL Miroslava nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslava nr. 70/2022",
+   "url": "https://www.primariamiroslava.ro/wp-content/uploads/2022/06/hcj-70-2020-rectificare-emitere-duplicate-09.05.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://www.primariamiroslava.ro/wp-content/uploads/2022/06/hcj-70-2020-rectificare-emitere-duplicate-09.05.2022.pdf",
+     "sha256": "a6911a2a43e6aacf05f74d3eecd46fc9330bdf62c33814574ee7213c3a26b4c4"
+    }
+   ]
+  }
+ ]
+}

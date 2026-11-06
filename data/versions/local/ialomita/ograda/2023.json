@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/ograda/2023",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--ograda-47-2023",
+   "path": "local/ialomita/ograda/2023/47",
+   "short": "HCL Ograda nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 47/2023",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2023/HCL%20nr.47%20%20din%2025.09.2023.pdf",
+     "sha256": "da9535a34c1dc076ea79ea09e7f0054a61386bfb306b622295c8a5c508b95255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-48-2023",
+   "path": "local/ialomita/ograda/2023/48",
+   "short": "HCL Ograda nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 48/2023",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2023/HCL%20nr.48%20%20din%2025.09.2023.pdf",
+     "sha256": "8de6f19643281f6d29adcaa82da7cc8aedaa744f42af2bf4d66ba5068a95c8f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-49-2023",
+   "path": "local/ialomita/ograda/2023/49",
+   "short": "HCL Ograda nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 49/2023",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2023/HCL%20NR.49%20%20din%2025.09.2023.pdf",
+     "sha256": "da949edf75e4f3aabbeeaf1b7d298b40d04442ba1fd84193f0c75911081e6b62"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/ograda/2016",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--ograda-1-2016",
+   "path": "local/ialomita/ograda/2016/1",
+   "short": "HCL Ograda nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 1/2016 privind acoperire definitiva deficit bugetar",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-01-13",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot01.pdf",
+     "sha256": "a818a4831bc0dd8a5b2b0beff09139bffa59c816b1d24eeee7015c234d899a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-10-2016",
+   "path": "local/ialomita/ograda/2016/10",
+   "short": "HCL Ograda nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 10/2016 privind revocarea HCL nr. 35/26.11.2015",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-03-24",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot10.pdf",
+     "sha256": "d480bc6df03ebbc2ac307d9575151009a7077980d9a8c6d6f670e919ff317c63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-11-2016",
+   "path": "local/ialomita/ograda/2016/11",
+   "short": "HCL Ograda nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 11/2016 privind modificarea HCL nr. 32/26.11.2015",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-03-24",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot11.pdf",
+     "sha256": "5d16657cc3ef93bddb662576e4aa427715fe80fa670c3658f772b1fc1ae289a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-12-2016",
+   "path": "local/ialomita/ograda/2016/12",
+   "short": "HCL Ograda nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 12/2016 privind modificarea HCL nr. 38/28.12.2015",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-03-24",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot12.pdf",
+     "sha256": "c3ac73ac06608b62f68369eddcdad849d028bc460a67faead944a3703d31f81b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-13-2016",
+   "path": "local/ialomita/ograda/2016/13",
+   "short": "HCL Ograda nr. 13/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 13/2016 privind esalonarea la plata a obligatiilor fiscale restante pe anul 2015 a SC TRANSMIM SRL",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-03-24",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot13.pdf",
+     "sha256": "f8d6cff1178304964f40d6f8af5d9aafd3ad0ad5a9ed4a876a5dcb4e9d9c5726"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-14-2016",
+   "path": "local/ialomita/ograda/2016/14",
+   "short": "HCL Ograda nr. 14/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 14/2016 privind aprobarea planului de ocupare a functiilor publice",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot%2014%20.pdf",
+     "sha256": "ac4964b8cd7d8663c852b219c8b894c4d6e299f0fe6a56dd1c3b75b62ef0a192"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-15-2016",
+   "path": "local/ialomita/ograda/2016/15",
+   "short": "HCL Ograda nr. 15/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 15/2016 privind aprobarea plafonului minim al obligatiilor fiscale restante",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot%2015%20.pdf",
+     "sha256": "296973bd365826aa70523e96106d00054e171dfa8eda2335b6ea35f2a252f78f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-16-2016",
+   "path": "local/ialomita/ograda/2016/16",
+   "short": "HCL Ograda nr. 16/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 16/2016 privind actualizarea planului de analiza si acoperire a riscurilor",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot%2016%20.pdf",
+     "sha256": "9ed30e8fded4461781ecb06f58ecb1b70a399c01cb9e4ed9d41520d82e28a9f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-2-2016",
+   "path": "local/ialomita/ograda/2016/2",
+   "short": "HCL Ograda nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 2/2016 privind alegere presedinte de sedinta",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot02.pdf",
+     "sha256": "260f8780edf7831437f686b2847724af058f6ed0066ab57efa9bd67b3eaa8972"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-3-2016",
+   "path": "local/ialomita/ograda/2016/3",
+   "short": "HCL Ograda nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 3/2016 privind aprobare buget local pe anul 2016",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot03.pdf",
+     "sha256": "afea7ea3707c06de2f1abea26c06335b7f4d3edf464b077bc165aa0a5f05d8c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-4-2016",
+   "path": "local/ialomita/ograda/2016/4",
+   "short": "HCL Ograda nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 4/2016 privind aprobare plan de actiuni si interes local pe anul 2016",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot04.pdf",
+     "sha256": "c07728238461989da5878b19a00d4cd987cc32e99bc1cd4ff80feca6b48e25d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-5-2016",
+   "path": "local/ialomita/ograda/2016/5",
+   "short": "HCL Ograda nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 5/2016 privind aprobare organigrama si stat de functiuni",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot05.pdf",
+     "sha256": "81418df69a8dc82eff4cff6e564b04049975607e8524946983b7d5d41565bcc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-6-2016",
+   "path": "local/ialomita/ograda/2016/6",
+   "short": "HCL Ograda nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 6/2016 privind indexarea cu indicele de inflatie a nivelurilor redeventelor si chiriilor",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot06.pdf",
+     "sha256": "3f6f353e89a1e7c6f26332da31da16ebeaf2e398b478952309877913932be061"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-7-2016",
+   "path": "local/ialomita/ograda/2016/7",
+   "short": "HCL Ograda nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 7/2016 privind aprobarea participarii comunei Ograda la sustinere proiect",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot07.pdf",
+     "sha256": "266ab129aa7ac5b7c4d6701228a5fe4b7f90605874e36f3dad92fc8efda597f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-8-2016",
+   "path": "local/ialomita/ograda/2016/8",
+   "short": "HCL Ograda nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 8/2016 privind aprobare rectificare buget pe anul 2016",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-03-07",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot08.pdf",
+     "sha256": "274488bb01c8323ebf5700e7e32e2e1a3f75e7989875f8329dd9f4aa54bbe56d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-9-2016",
+   "path": "local/ialomita/ograda/2016/9",
+   "short": "HCL Ograda nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 9/2016 privind aprobare inventar bunuri care alcatuiesc domeniul public al comunei Ograda",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2016-03-07",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2016/hot09.pdf",
+     "sha256": "f18402618cefb0fe5f09af9539b4072a36e9965b1d9a0ae9103c8904b13f8189"
+    }
+   ]
+  }
+ ]
+}

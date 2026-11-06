@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-179-2025",
+   "path": "local/iasi/aroneanu/2025/179",
+   "short": "HCL Aroneanu nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 179/2025 privind alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul I al anului 2026",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/245663",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/245663",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-180-2025",
    "path": "local/iasi/aroneanu/2025/180",
    "short": "HCL Aroneanu nr. 180/2025",
@@ -148,6 +163,36 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/245667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-184-2025",
+   "path": "local/iasi/aroneanu/2025/184",
+   "short": "HCL Aroneanu nr. 184/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 184/2025 privind aprobarea Acordului de Parteneriat dintre Comuna Aroneanu, Asociația de Interes Comunitar Aroneanu și Școala Gimnazială ,,Aron-Vodă Aroneanu”, în vederea derulării proiectului „VINE, VINE MOȘ CRĂCIUN!\"",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/245668",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/245668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-185-2025",
+   "path": "local/iasi/aroneanu/2025/185",
+   "short": "HCL Aroneanu nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 185/2025 privind aprobarea Acordului de Parteneriat dintre Comuna Aroneanu și Asociația RUNCORP, în vederea organizării evenimentului „Asaltul Lupilor\"",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/245669",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/245669",
      "sha256": null
     }
    ]
@@ -223,6 +268,21 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/245674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-191-2025",
+   "path": "local/iasi/aroneanu/2025/191",
+   "short": "HCL Aroneanu nr. 191/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 191/2025 privind alegerea președintelui de ședință în vederea derulării lucrărilor ședinței ordinare din data de 30 decembrie 2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/245683",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/245683",
      "sha256": null
     }
    ]

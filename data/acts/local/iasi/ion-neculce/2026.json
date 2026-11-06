@@ -358,6 +358,29 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-114-2026",
+"path": "local/iasi/ion-neculce/2026/114",
+"kind": "local",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 114/2026",
+"short": "HCL Ion Neculce nr. 114/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/292618",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-115-2026",
 "path": "local/iasi/ion-neculce/2026/115",
 "kind": "local",
@@ -377,6 +400,52 @@
 "council_name": "Consiliul Local al Comunei Ion Neculce",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-116-2026",
+"path": "local/iasi/ion-neculce/2026/116",
+"kind": "local",
+"year": "2026",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 116/2026",
+"short": "HCL Ion Neculce nr. 116/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/292620",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-117-2026",
+"path": "local/iasi/ion-neculce/2026/117",
+"kind": "local",
+"year": "2026",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 117/2026",
+"short": "HCL Ion Neculce nr. 117/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-12",
+"latest": "2026-10-12",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/292621",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

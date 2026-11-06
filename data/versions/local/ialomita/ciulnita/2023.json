@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--ciulnita-131-2023",
+   "path": "local/ialomita/ciulnita/2023/131",
+   "short": "HCL Ciulnița nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 131/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/143866",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/143866",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--ciulnita-132-2023",
    "path": "local/ialomita/ciulnita/2023/132",
    "short": "HCL Ciulnița nr. 132/2023",

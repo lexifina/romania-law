@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-139-2022",
+"path": "local/iasi/barnova/2022/139",
+"kind": "local",
+"year": "2022",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 139/2022 privind realizare studiu de oportunitate și raport de evaluare în vederea concesionării clădirii Centrului de Mediu pentru realizare complex de joaca copii, restaurant, activități copii",
+"short": "HCL Bârnova nr. 139/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/barnova-is/registru-hcl/81305",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--barnova-140-2022",
 "path": "local/iasi/barnova/2022/140",
 "kind": "local",
@@ -132,6 +154,50 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-144-2022",
+"path": "local/iasi/barnova/2022/144",
+"kind": "local",
+"year": "2022",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 144/2022 privind prezentare raport asistenți personali și indemnizații lunare nete semestrul I anul 2022",
+"short": "HCL Bârnova nr. 144/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/barnova-is/registru-hcl/83378",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-145-2022",
+"path": "local/iasi/barnova/2022/145",
+"kind": "local",
+"year": "2022",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 145/2022 privind acordare ajutor de urgență în cuantum de 408 lei familiei aflate în dificultate Cioabă Claudia-Monica",
+"short": "HCL Bârnova nr. 145/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/barnova-is/registru-hcl/83379",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -330,6 +396,50 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-155-2022",
+"path": "local/iasi/barnova/2022/155",
+"kind": "local",
+"year": "2022",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 155/2022 privind aprobarea introducerii în domeniul privat al Comunei Bârnova a suprafeței de teren de 78 mp amplasată în sat Vișan și stabilire destinație, scoatere la vânzare",
+"short": "HCL Bârnova nr. 155/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/barnova-is/registru-hcl/83389",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-156-2022",
+"path": "local/iasi/barnova/2022/156",
+"kind": "local",
+"year": "2022",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 156/2022 privind aprobare acordare ajutor de urgență familiei aflate în dificultate Leahu Lăcrămioara",
+"short": "HCL Bârnova nr. 156/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-11",
+"latest": "2023-09-11",
+"portal": "https://emol.ro/barnova-is/registru-hcl/83390",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

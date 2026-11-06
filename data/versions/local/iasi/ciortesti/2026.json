@@ -123,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-68-2026",
+   "path": "local/iasi/ciortesti/2026/68",
+   "short": "HCL Ciortești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 68/2026",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/293334",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/293334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-69-2026",
+   "path": "local/iasi/ciortesti/2026/69",
+   "short": "HCL Ciortești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 69/2026 privind aprobarea închirierii prin licitație publică a terenului intravilan în suprafață de 1.000 mp, având numărul cadastral 61429, aflat în domeniul privat al Comunei Ciortești, județul Iași, situat în sat Șerbești, T72, P 1767/3, comuna Ciortești, județul Iași, în vederea construirii unei locuințe proprietate personală",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/293338",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/293338",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-70-2026",
    "path": "local/iasi/ciortesti/2026/70",
    "short": "HCL Ciortești nr. 70/2026",
@@ -153,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciortesti-72-2026",
+   "path": "local/iasi/ciortesti/2026/72",
+   "short": "HCL Ciortești nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 72/2026 privind numirea a doi consilieri locali reprezentanti in cadrul Consiliul de Administratie, respectiv un reprezentant în cadrul Comisiei de Evaluare și Asigurare a Calitatii pentru Scoala Gimnazială Ciortesti, în anul școlar 2026-2027",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/293353",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/293353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-73-2026",
+   "path": "local/iasi/ciortesti/2026/73",
+   "short": "HCL Ciortești nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 73/2026",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/293355",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/293355",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciortesti-74-2026",
    "path": "local/iasi/ciortesti/2026/74",
    "short": "HCL Ciortești nr. 74/2026",
@@ -163,6 +223,21 @@
      "from": "2026-09-16",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/293357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-75-2026",
+   "path": "local/iasi/ciortesti/2026/75",
+   "short": "HCL Ciortești nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 75/2026 privind privind desemnarea reprezentantilor din partea Consiliului Local Ciortești în Comisia de evaluare a probei de interviu, în calitate de membru, respectiv membru supleant",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/293359",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/293359",
      "sha256": null
     }
    ]
@@ -208,6 +283,21 @@
      "from": "2026-09-30",
      "units": 1,
      "source_url": "https://emol.ro/ciortesti-is/registru-hcl/293385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciortesti-79-2026",
+   "path": "local/iasi/ciortesti/2026/79",
+   "short": "HCL Ciortești nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 79/2026 privind aprobarea închirierii prin licitație publică a unui teren extravilan în suprafață de 16.3600 mp, aflat în domeniul privat al Comunei Ciortești, județul Iași, identificat cu CF 62506",
+   "url": "https://emol.ro/ciortesti-is/registru-hcl/293386",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciortesti-is/registru-hcl/293386",
      "sha256": null
     }
    ]

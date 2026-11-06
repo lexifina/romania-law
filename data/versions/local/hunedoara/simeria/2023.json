@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/simeria/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--simeria-63-2023",
+   "path": "local/hunedoara/simeria/2023/63",
+   "short": "HCL Simeria nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 63/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/2024/05/ceaccf69-4a89-454f-be85-2bbd51236a80.pdf",
+     "sha256": "21b550df849fa98d62d0ca523cd3fb5382945d9eedc0cd66da016ba59b6ca78b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-7-2023",
+   "path": "local/hunedoara/simeria/2023/7",
+   "short": "HCL Simeria nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 7/2023 pentru aprobarea Planului anual de acțiune privind serviciile sociale ale orașului Simeria pentru anul 2023 Consiliul local al orașului Simeria, județul Hunedoara. întrunit în ședință ordinară în data de 31 ianuarie 2023; Având în \\ edere Referatul de aprobare înregistrat sub nr.440 din data de 10.01.2023 prezentat de donului Bedea Iulius-Gelu. primarul orașului Simeria prin care propune aprobarea",
+   "url": "https://primariasimeria.ro/consiliul-local/servicii-publice-subordonate/directia-de-asistenta-sociala/despre-noi/programe-strategii-conventii/",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/2024/05/dc7aa6df-bc9b-4107-b935-4408081ac504.pdf",
+     "sha256": "ea64bc3b519993307ee32638c86642c10f7cd02ed92f795aea81f8330d75f843"
+    }
+   ]
+  }
+ ]
+}

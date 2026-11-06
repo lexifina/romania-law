@@ -135,6 +135,50 @@
 }
 },
 {
+"slug": "hcl-hunedoara--criscior-7-2026",
+"path": "local/hunedoara/criscior/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 7/2026 privind alegerea președintelui de ședință",
+"short": "HCL Crișcior nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/criscior-hd/registru-hcl/253490",
+"council": "hunedoara/criscior",
+"council_name": "Consiliul Local al Comunei Crișcior",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--criscior-8-2026",
+"path": "local/hunedoara/criscior/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 8/2026 privind respingerea plângerii prealabile formulată de către TOMUȘ IERONIM-ARTEMON și GLIGOR COSMIN-ANDREI, înregistrată sub nr. 57/09.01.2026, referitoare la revocarea Hotărârii Consiliului local nr. 75/2025 privind stabilirea nivelurilor impozitelor și taxelor locale în comuna Crișcior pentru anul 2026",
+"short": "HCL Crișcior nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/criscior-hd/registru-hcl/253493",
+"council": "hunedoara/criscior",
+"council_name": "Consiliul Local al Comunei Crișcior",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--criscior-9-2026",
 "path": "local/hunedoara/criscior/2026/9",
 "kind": "local",

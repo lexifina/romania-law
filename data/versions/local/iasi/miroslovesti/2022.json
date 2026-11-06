@@ -198,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-113-2022",
+   "path": "local/iasi/miroslovesti/2022/113",
+   "short": "HCL Miroslovești nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 113/2022 privind întocmire studii oportunitate imobil si teren circumscripție veterinară în vederea concesionării prin licitație publică",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/127593",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/127593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-114-2022",
+   "path": "local/iasi/miroslovesti/2022/114",
+   "short": "HCL Miroslovești nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 114/2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/127594",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/127594",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-115-2022",
    "path": "local/iasi/miroslovesti/2022/115",
    "short": "HCL Miroslovești nr. 115/2022",

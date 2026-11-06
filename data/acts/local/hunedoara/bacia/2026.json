@@ -180,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--bacia-92-2026",
+"path": "local/hunedoara/bacia/2026/92",
+"kind": "local",
+"year": "2026",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 92/2026 privind desemnarea reprezentanților Consiliului Local în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director la Școala Gimnazială Băcia",
+"short": "HCL Băcia nr. 92/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/291794",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-93-2026",
 "path": "local/hunedoara/bacia/2026/93",
 "kind": "local",

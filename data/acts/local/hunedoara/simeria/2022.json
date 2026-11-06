@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/simeria/2022",
+"acts": [
+{
+"slug": "hcl-hunedoara--simeria-6-2022",
+"path": "local/hunedoara/simeria/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Simeria nr. 6/2022",
+"short": "HCL Simeria nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": null,
+"council": "hunedoara/simeria",
+"council_name": "Consiliul Local al Orașului Simeria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

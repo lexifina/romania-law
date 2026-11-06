@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-38-2025",
+"path": "local/hunedoara/lunca-cernii-de-jos/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 38/2025 privind aprobarea acordarii unui sprijin financiar de la bugetul local al comunei Lunca Cernii de Jos , Parohiei Ortodoxe Române Lunca Cernii pentru biserica din satul Lunca Cernii de Jos, comuna Lunca Cernii de Jos, judetul Hunedoara",
+"short": "HCL Lunca Cernii de Jos nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-26",
+"latest": "2025-12-26",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/244086",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--lunca-cernii-de-jos-39-2025",
 "path": "local/hunedoara/lunca-cernii-de-jos/2025/39",
 "kind": "local",
@@ -220,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-41-2025",
+"path": "local/hunedoara/lunca-cernii-de-jos/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 41/2025 Privind alegerea presedintelui de sedinta al Consiliului Local al Comunei Lunca Cernii de Jos, judetul Hunedoara , pe o perioada de 3 luni, incepand cu luna Ianuarie 2026",
+"short": "HCL Lunca Cernii de Jos nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/245083",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-48-2025",
+"path": "local/hunedoara/lunca-cernii-de-jos/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 48/2025 privind aprobarea volumului de masă lemnoasă estimat pentru recoltare în anul 2026 și prețurile de referință pentru masa lemnoasă provenită din fondul forestier proprietate publică a Comunei Lunca Cernii de Jos",
+"short": "HCL Lunca Cernii de Jos nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/245090",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

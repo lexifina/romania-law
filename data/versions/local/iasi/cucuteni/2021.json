@@ -3,6 +3,21 @@
  "shard": "local/iasi/cucuteni/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--cucuteni-78-2021",
+   "path": "local/iasi/cucuteni/2021/78",
+   "short": "HCL Cucuteni nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 78/2021",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/38443",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/38443",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-79-2021",
    "path": "local/iasi/cucuteni/2021/79",
    "short": "HCL Cucuteni nr. 79/2021",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-85-2021",
+   "path": "local/iasi/cucuteni/2021/85",
+   "short": "HCL Cucuteni nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 85/2021",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/42256",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/42256",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-86-2021",
    "path": "local/iasi/cucuteni/2021/86",
    "short": "HCL Cucuteni nr. 86/2021",
@@ -103,6 +133,21 @@
      "from": "2021-11-23",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/42257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-87-2021",
+   "path": "local/iasi/cucuteni/2021/87",
+   "short": "HCL Cucuteni nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 87/2021 privind solicitarea acordului Consiliului local în vederea contractării unor plafoane de credite bancare până în suma maximă de 2.000.000 RON de către SC Gaz Nord Est SA",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/42258",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/42258",
      "sha256": null
     }
    ]

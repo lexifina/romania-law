@@ -356,6 +356,29 @@
 }
 },
 {
+"slug": "hcl-iasi--grozesti-50-2024",
+"path": "local/iasi/grozesti/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 50/2024",
+"short": "HCL Grozești nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/grozesti-is/registru-hcl/196570",
+"council": "iasi/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--grozesti-51-2024",
 "path": "local/iasi/grozesti/2024/51",
 "kind": "local",

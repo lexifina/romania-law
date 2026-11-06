@@ -3,6 +3,95 @@
 "shard": "local/iasi/bivolari/2023",
 "acts": [
 {
+"slug": "hcl-iasi--bivolari-140-2023",
+"path": "local/iasi/bivolari/2023/140",
+"kind": "local",
+"year": "2023",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 140/2023 privind rectificare buget local pe anul 2023",
+"short": "HCL Bivolari nr. 140/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/129069",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-141-2023",
+"path": "local/iasi/bivolari/2023/141",
+"kind": "local",
+"year": "2023",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 141/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Bivolari, județul Iași, cât și stabilirea indemnizațiilor pentru demnitari, începând cu 1 ianuarie 2024",
+"short": "HCL Bivolari nr. 141/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/129070",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-142-2023",
+"path": "local/iasi/bivolari/2023/142",
+"kind": "local",
+"year": "2023",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 142/2023 privind completarea listei bunurilor ce aparțin Domeniului Privat al comunei Bivolari, județul Iași",
+"short": "HCL Bivolari nr. 142/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/129071",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-143-2023",
+"path": "local/iasi/bivolari/2023/143",
+"kind": "local",
+"year": "2023",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 143/2023",
+"short": "HCL Bivolari nr. 143/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/129072",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--bivolari-144-2023",
 "path": "local/iasi/bivolari/2023/144",
 "kind": "local",
@@ -44,6 +133,94 @@
 "council_name": "Consiliul Local al Comunei Bivolari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-146-2023",
+"path": "local/iasi/bivolari/2023/146",
+"kind": "local",
+"year": "2023",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 146/2023 privind achiziția de brazi artificiali pentru sărbătorile de iarnă",
+"short": "HCL Bivolari nr. 146/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/129075",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-147-2023",
+"path": "local/iasi/bivolari/2023/147",
+"kind": "local",
+"year": "2023",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 147/2023 privind rectificare buget local pe anul 2023",
+"short": "HCL Bivolari nr. 147/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/134486",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-148-2023",
+"path": "local/iasi/bivolari/2023/148",
+"kind": "local",
+"year": "2023",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 148/2023 privind reactualizarea-Programului anual de achiziții publice pe anul 2023",
+"short": "HCL Bivolari nr. 148/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/134487",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-149-2023",
+"path": "local/iasi/bivolari/2023/149",
+"kind": "local",
+"year": "2023",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 149/2023 privind aprobarea Programului anual de achiziții publice pe anul 2024 și a Strategiei anuale de achiziție publică pentru anul 2024",
+"short": "HCL Bivolari nr. 149/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/134488",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +375,50 @@
 "council_name": "Consiliul Local al Comunei Bivolari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-157-2023",
+"path": "local/iasi/bivolari/2023/157",
+"kind": "local",
+"year": "2023",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 157/2023 privind completarea listei bunurilor ce aparțin Domeniului Privat al comunei Bivolari, județul Iași",
+"short": "HCL Bivolari nr. 157/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/134496",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-158-2023",
+"path": "local/iasi/bivolari/2023/158",
+"kind": "local",
+"year": "2023",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 158/2023 privind scoaterea din evidențele fiscale a sumelor reprezetând amenzi contravenționale care aparțin dobitorilor ce nu pot fi executați silit (fără bunuri urmăribile) și/sau decedați la data prezentei, înregistrați la data de 31.12.2022 cu debite restante/până la data prezentei",
+"short": "HCL Bivolari nr. 158/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/134497",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

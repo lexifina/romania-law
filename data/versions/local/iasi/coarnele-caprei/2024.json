@@ -3,6 +3,96 @@
  "shard": "local/iasi/coarnele-caprei/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--coarnele-caprei-80-2024",
+   "path": "local/iasi/coarnele-caprei/2024/80",
+   "short": "HCL Coarnele Caprei nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 80/2024 privind aprobarea obligațiilor financiare rezultate din Acordul de cooperare nr.31 din 9.10.2012",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180569",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-81-2024",
+   "path": "local/iasi/coarnele-caprei/2024/81",
+   "short": "HCL Coarnele Caprei nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 81/2024 privind aprobarea întocmirii unui Raport de evaluare pentru un imobil aparținând domeniului public al comunei Coarnele Caprei, județul Iași",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180570",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-82-2024",
+   "path": "local/iasi/coarnele-caprei/2024/82",
+   "short": "HCL Coarnele Caprei nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 82/2024 privind rectificare buget pe trim. IV-2024",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180571",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-83-2024",
+   "path": "local/iasi/coarnele-caprei/2024/83",
+   "short": "HCL Coarnele Caprei nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 83/2024",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180572",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-84-2024",
+   "path": "local/iasi/coarnele-caprei/2024/84",
+   "short": "HCL Coarnele Caprei nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 84/2024 privind aprobarea realizării obiectivului de investiții „Construire teren de sport în sat Coarnele Caprei, Comuna Coarnele Caprei, Județul Iași” și a confinanțării Proiectului pin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2021-2024",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180573",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-85-2024",
+   "path": "local/iasi/coarnele-caprei/2024/85",
+   "short": "HCL Coarnele Caprei nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 85/2024 privind aprobare proces-verbal al ședinței din data de 11.11.2024",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180579",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180579",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-86-2024",
    "path": "local/iasi/coarnele-caprei/2024/86",
    "short": "HCL Coarnele Caprei nr. 86/2024",
@@ -13,6 +103,21 @@
      "from": "2024-12-04",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-87-2024",
+   "path": "local/iasi/coarnele-caprei/2024/87",
+   "short": "HCL Coarnele Caprei nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 87/2024 privind rectificare buget pe trim. IV-2024",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180581",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/180581",
      "sha256": null
     }
    ]
@@ -33,6 +138,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-89-2024",
+   "path": "local/iasi/coarnele-caprei/2024/89",
+   "short": "HCL Coarnele Caprei nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 89/2024 privind aprobare proces-verbal al ședinței din data de 16.11.2024",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191581",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-90-2024",
+   "path": "local/iasi/coarnele-caprei/2024/90",
+   "short": "HCL Coarnele Caprei nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 90/2024 privind alocarea unor sume de bani cu ocazia sărbătorilor de iarnă pentru activități culturale, achiziții, comemorări, cadouri",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191582",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-91-2024",
+   "path": "local/iasi/coarnele-caprei/2024/91",
+   "short": "HCL Coarnele Caprei nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 91/2024 privind stabilirea taxei speciale de salubrizare pentru anul 2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191583",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-92-2024",
+   "path": "local/iasi/coarnele-caprei/2024/92",
+   "short": "HCL Coarnele Caprei nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 92/2024 privind achiziționarea a 100 metri cubi material aniderapant pentru combaterea poleiului pe drumurile din administrarea comunei Coarnele Caprei în perioada de iarnă",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191584",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191584",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-93-2024",
    "path": "local/iasi/coarnele-caprei/2024/93",
    "short": "HCL Coarnele Caprei nr. 93/2024",
@@ -43,6 +208,21 @@
      "from": "2025-02-10",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-94-2024",
+   "path": "local/iasi/coarnele-caprei/2024/94",
+   "short": "HCL Coarnele Caprei nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 94/2024",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191586",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191586",
      "sha256": null
     }
    ]
@@ -103,6 +283,21 @@
      "from": "2025-02-10",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-99-2024",
+   "path": "local/iasi/coarnele-caprei/2024/99",
+   "short": "HCL Coarnele Caprei nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 99/2024 privind aprobarea devizului de lucrări pentru obiectivul de investiție „Lucrări de reparații și întreținere drumuri în comuna Coarnele caprei, județul Iași”",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191591",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/191591",
      "sha256": null
     }
    ]

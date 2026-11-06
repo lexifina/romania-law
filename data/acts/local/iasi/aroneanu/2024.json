@@ -223,6 +223,50 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-184-2024",
+"path": "local/iasi/aroneanu/2024/184",
+"kind": "local",
+"year": "2024",
+"number": "184",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 184/2024 privind alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul I al anului 2025",
+"short": "HCL Aroneanu nr. 184/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/185092",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-185-2024",
+"path": "local/iasi/aroneanu/2024/185",
+"kind": "local",
+"year": "2024",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 185/2024 privind aprobarea Strategiei anuale de achiziții publice a Comunei Aroneanu, județul Iași, pentru anul 2025",
+"short": "HCL Aroneanu nr. 185/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/185093",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-186-2024",
 "path": "local/iasi/aroneanu/2024/186",
 "kind": "local",
@@ -242,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-187-2024",
+"path": "local/iasi/aroneanu/2024/187",
+"kind": "local",
+"year": "2024",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 187/2024 privind restrângerea obiectului Contractului de concesiune nr. 10.172 din 26.11.2018 pentru lucrări de interes public",
+"short": "HCL Aroneanu nr. 187/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/185095",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -287,6 +353,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-190-2024",
+"path": "local/iasi/aroneanu/2024/190",
+"kind": "local",
+"year": "2024",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 190/2024 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare pentru concesionarea suprafeței de teren de 500 mp. identificată cadastral cu nr. 61.119 și a suprafeței de teren de 500 mp. identificată cadastral cu nr. 61.121 în vederea construirii unei hale de depozitare",
+"short": "HCL Aroneanu nr. 190/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/186271",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-191-2024",
+"path": "local/iasi/aroneanu/2024/191",
+"kind": "local",
+"year": "2024",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 191/2024 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare pentru concesionarea suprafeței de teren de 300 mp. identificată cadastral cu nr. 63.744 și a suprafeței de teren de 300 mp. identificată cadastral cu nr. 63.745 în vederea desfășurării activității de depozitare, colectare, procesare și comercializare materiale reciclabile",
+"short": "HCL Aroneanu nr. 191/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/186272",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

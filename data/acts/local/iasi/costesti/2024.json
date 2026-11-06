@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-76-2024",
+"path": "local/iasi/costesti/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 76/2024 aprobarea acordării unui ajutor financiar în valoare de 25.000 lei PAROHIEI TĂIEREA CAPULUI SF. IOAN BOTEZĂTORUL din sat Giurgeşti, Comuna Costeşti, jud. Iaşi",
+"short": "HCL Costești nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-24",
+"latest": "2024-12-24",
+"portal": "https://emol.ro/costesti-is/registru-hcl/184988",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-77-2024",
 "path": "local/iasi/costesti/2024/77",
 "kind": "local",
@@ -220,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Costești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costesti-83-2024",
+"path": "local/iasi/costesti/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 83/2024 privind desemnarea reprezentantului legal al comunei Costeşti, jud. Iaşi, în cadrul parteneriatului Asociația Grupul de Acțiune Locală (G.A.L.) Iași Sud-Vest",
+"short": "HCL Costești nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/costesti-is/registru-hcl/189409",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

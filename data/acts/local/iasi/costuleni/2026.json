@@ -3,6 +3,138 @@
 "shard": "local/iasi/costuleni/2026",
 "acts": [
 {
+"slug": "hcl-iasi--costuleni-38-2026",
+"path": "local/iasi/costuleni/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 38/2026 privind aprobarea Devizului general pentru obiectivul de investiții ” Refacere în regim de urgență a zonei afectate de pe DC 800 în sat Covasna, comuna Costuleni, județul Iași ”",
+"short": "HCL Costuleni nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/280862",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-39-2026",
+"path": "local/iasi/costuleni/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 39/2026 privind aprobarea devizului general actualizat după finalizarea procedurilor de achiziție publică și încheierea contractului de execuție lucrări pentru obiectivul de investiții ”Modernizarea sistemului de iluminat public în comuna Costuleni, județul Iași ”",
+"short": "HCL Costuleni nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/282744",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-40-2026",
+"path": "local/iasi/costuleni/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 40/2026 privind aprobarea solicitării transferului dreptului de proprietate de la UAT Județul Iași- Consiliul Județean Iași către UAT Comuna Costuleni -Consiliul Local al Comunei Costuleni a bunului mobil- mijloc fix (microbuz electric 16+1) achiziționat prin proiectul ”ACHIZIȚIA DE MICROBUZE ELECTRICE PENTRU ELEVI ÎN JUD. IAȘI” finanțat prin Programul Național de Redresare și Reziliență - Componenta C15 Educație, Reforma 6, Cod 14",
+"short": "HCL Costuleni nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/282745",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-41-2026",
+"path": "local/iasi/costuleni/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 41/2026 privind rectificarea bugetului local de venituri și cheltuieli , anul 2026",
+"short": "HCL Costuleni nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/282746",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-42-2026",
+"path": "local/iasi/costuleni/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 42/2026 privind modificarea Devizului general la obiectivul de investiții ”Amenajare parc de agrement cu loc de joacă pentru copii, sat Covasna, comuna Costuleni”",
+"short": "HCL Costuleni nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/283284",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-43-2026",
+"path": "local/iasi/costuleni/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 43/2026 privind includerea in domeniul public al Comunei Costuleni, judeţul Iasi a imobilului construcție edificat în cadrul obiectivului de investiții ” Construirea de locuințe nZeb plus pentru tineri /locuințe de serviciu pentru specialiști din sănătate și învățământ ”",
+"short": "HCL Costuleni nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/285635",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costuleni-44-2026",
 "path": "local/iasi/costuleni/2026/44",
 "kind": "local",
@@ -25,6 +157,72 @@
 }
 },
 {
+"slug": "hcl-iasi--costuleni-45-2026",
+"path": "local/iasi/costuleni/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 45/2026 privind darea în folosință gratuită Școlii Gimnaziale Costuleni a unui spațiu în suprafață de 129,95 mp din cadrul Dispensarului medical din satul Costuleni și a terenului aferent spațiului , aflate în domeniul privat al comunei Costuleni, pentru desfășurarea activităților de învățământ preșcolar ( program normal și prelungit )",
+"short": "HCL Costuleni nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/285637",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-46-2026",
+"path": "local/iasi/costuleni/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 46/2026 privind desemnarea reprezentanților Consiliului Local al comunei Costuleni în Comisia de evaluare a probei de interviu din cadrul concursului organizat pentru ocuparea funcției de director al Școlii Gimnaziale Costuleni",
+"short": "HCL Costuleni nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/288779",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-47-2026",
+"path": "local/iasi/costuleni/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 47/2026 privind aprobarea Acordului de parteneriat în vederea realizării în comun a achiziției publice pentru atribuirea contractului de concesiune a serviciului de utilitate publică de distribuție a gazelor naturale in comunele Comarna, Prisăcani, Costuleni și Schitu-Duca in cadrul proiectului de investiție „Înființare sistem de distribuție gaze naturale în comunele Comarna, Prisăcani, Costuleni, județul Iași, asociate în Asociația de Dezvoltare Intercomunitară Gaz-3”",
+"short": "HCL Costuleni nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/288780",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costuleni-48-2026",
 "path": "local/iasi/costuleni/2026/48",
 "kind": "local",
@@ -44,6 +242,204 @@
 "council_name": "Consiliul Local al Comunei Costuleni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-49-2026",
+"path": "local/iasi/costuleni/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 49/2026 privind aprobarea Studiului de fundamentare a deciziei de concesionare conform cu Ghidul Solicitantului și aplicația de finanțare, a serviciului de utilitate publică de distributie a gazelor naturale in comuna Costuleni, județul Iasi in cadrul proiectului „Înființare sistem de distribuție gaze naturale în comunele Comarna, Prisăcani, Costuleni, județul Iași, asociate în Asociația de Dezvoltare Intercomunitară Gaz-3”",
+"short": "HCL Costuleni nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/288782",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-50-2026",
+"path": "local/iasi/costuleni/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 50/2026 privind aprobarea documentației de atribuire a contractului de concesiune a serviciului de utilitate publică de distribuție a gazelor naturale in comunele Comarna, Prisăcani, Costuleni și Schitu-Duca în cadrul proiectului de investiție „Înființare sistem de distribuție gaze naturale în comunele Comarna, Prisăcani, Costuleni, județul Iași, asociate în Asociația de Dezvoltare Intercomunitară Gaz-3”",
+"short": "HCL Costuleni nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/288783",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-51-2026",
+"path": "local/iasi/costuleni/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 51/2026 privind includerea în domeniul privat al Comunei Costuleni a bunului mobil- mijloc fix (microbuz electric 16+1) achiziționat prin proiectul ”ACHIZIȚIA DE MICROBUZE ELECTRICE PENTRU ELEVI ÎN JUD. IAȘI” și darea în folosință gratuită către Școala Gimnazială Costuleni",
+"short": "HCL Costuleni nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/288784",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-52-2026",
+"path": "local/iasi/costuleni/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 52/2026 privind rectificarea bugetului local de venituri și cheltuieli , anul 2026",
+"short": "HCL Costuleni nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/288785",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-53-2026",
+"path": "local/iasi/costuleni/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 53/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Costuleni, pentru trimestrul IV al anului 2026",
+"short": "HCL Costuleni nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/288786",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-54-2026",
+"path": "local/iasi/costuleni/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 54/2026 privind modificarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 67 din 25.09.2025 privind implementarea proiectului “Modernizarea activităților de gospodărire comunală în Comuna Costuleni, județul Iași, prin achiziția de echipamente specializate”",
+"short": "HCL Costuleni nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/291190",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-55-2026",
+"path": "local/iasi/costuleni/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 55/2026 privind aprobarea depunerii și implementării proiectului „CEF AUTOCONSUM CU SISTEM DE STOCARE ” și a cheltuielilor aferente acestuia",
+"short": "HCL Costuleni nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/291191",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-56-2026",
+"path": "local/iasi/costuleni/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 56/2026 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „CEF AUTOCONSUM CU SISTEM DE STOCARE ”",
+"short": "HCL Costuleni nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/291192",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--costuleni-57-2026",
+"path": "local/iasi/costuleni/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costuleni nr. 57/2026 privind darea în folosință gratuită către parohiile din comuna Costuleni a unor imobile ( cimitire ) aflate în proprietatea publică a Comunei Costuleni",
+"short": "HCL Costuleni nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/costuleni-is/registru-hcl/295915",
+"council": "iasi/costuleni",
+"council_name": "Consiliul Local al Comunei Costuleni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

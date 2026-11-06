@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/sarateni/2024",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--sarateni-26-2024",
+   "path": "local/ialomita/sarateni/2024/26",
+   "short": "HCL Sărățeni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sărățeni nr. 26/2024",
+   "url": "http://www.primariasarateni.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "http://www.primariasarateni.ro/z_Consiliul%20Local/Hotarari/2024-2025/HCL%20nr.%2026%20din%2029.10.2024.pdf",
+     "sha256": "c63e5490dcd34b23146ee087fc03bbb45784c3a40b54cf5de70d60b104966116"
+    }
+   ]
+  }
+ ]
+}

@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--deleni-145-2020",
+"path": "local/iasi/deleni/2020/145",
+"kind": "local",
+"year": "2020",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 145/2020 privind aprobarea decontarii cheltuielilor privind naveta cadrelor didactice, din comuna Deleni",
+"short": "HCL Deleni nr. 145/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19823",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--deleni-146-2020",
 "path": "local/iasi/deleni/2020/146",
 "kind": "local",
@@ -201,6 +223,139 @@
 }
 },
 {
+"slug": "hcl-iasi--deleni-152-2020",
+"path": "local/iasi/deleni/2020/152",
+"kind": "local",
+"year": "2020",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 152/2020 privind alegerea presedintelui de sedinta al Consiliului Local Deleni, judetul Iasi , pentru lunile ianuarie, februarie, martie 2021",
+"short": "HCL Deleni nr. 152/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19831",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--deleni-153-2020",
+"path": "local/iasi/deleni/2020/153",
+"kind": "local",
+"year": "2020",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 153/2020 privind aprobarea dezmembrarii imobilului teren , înscris în cartea funciară cu nr. 61528 şi nr. cadastral 61528 în suprafaţă de 651572,00 mp, în doua loturi cu numere cadastrale şi cărţi funciare distincte, conform documentaţiei cadastrale de dezmembrare inregistrata la Primaria comunei Deleni sub nr. 12010/10.11.2020",
+"short": "HCL Deleni nr. 153/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19832",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--deleni-154-2020",
+"path": "local/iasi/deleni/2020/154",
+"kind": "local",
+"year": "2020",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 154/2020 privind aprobarea decontarii cheltuielilor privind naveta cadrelor didactice, din comuna Deleni",
+"short": "HCL Deleni nr. 154/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19833",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--deleni-155-2020",
+"path": "local/iasi/deleni/2020/155",
+"kind": "local",
+"year": "2020",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 155/2020 privind luare act, de catre Consiliul Local Deleni, despre Dosarul nr. 2193/ 239/2020 ,inregistrat la Judecatoria Hirlau",
+"short": "HCL Deleni nr. 155/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19835",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--deleni-156-2020",
+"path": "local/iasi/deleni/2020/156",
+"kind": "local",
+"year": "2020",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 156/2020 privind aprobarea Graficului de sedinte ordinare al Consiliului Local Deleni, pentru trimestrul I -2021",
+"short": "HCL Deleni nr. 156/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19836",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--deleni-157-2020",
+"path": "local/iasi/deleni/2020/157",
+"kind": "local",
+"year": "2020",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 157/2020",
+"short": "HCL Deleni nr. 157/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19837",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--deleni-158-2020",
 "path": "local/iasi/deleni/2020/158",
 "kind": "local",
@@ -242,6 +397,50 @@
 "council_name": "Consiliul Local al Comunei Deleni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--deleni-160-2020",
+"path": "local/iasi/deleni/2020/160",
+"kind": "local",
+"year": "2020",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 160/2020 privind aprobarea modificării și completării Contractului de delegare gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 40",
+"short": "HCL Deleni nr. 160/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19838",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--deleni-161-2020",
+"path": "local/iasi/deleni/2020/161",
+"kind": "local",
+"year": "2020",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Deleni nr. 161/2020 privind revizuirea și consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+"short": "HCL Deleni nr. 161/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/deleni-is/registru-hcl/19839",
+"council": "iasi/deleni",
+"council_name": "Consiliul Local al Comunei Deleni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

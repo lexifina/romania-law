@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-88-2020",
+   "path": "local/iasi/erbiceni/2020/88",
+   "short": "HCL Erbiceni nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 88/2020",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17008",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17008",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-89-2020",
    "path": "local/iasi/erbiceni/2020/89",
    "short": "HCL Erbiceni nr. 89/2020",
@@ -148,6 +163,21 @@
      "from": "2020-12-04",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-91-2020",
+   "path": "local/iasi/erbiceni/2020/91",
+   "short": "HCL Erbiceni nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 91/2020 privind aprobarea modificării bugetului local de venituri și cheltuieli pe trim IV 2020",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17031",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17031",
      "sha256": null
     }
    ]
@@ -198,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--erbiceni-95-2020",
+   "path": "local/iasi/erbiceni/2020/95",
+   "short": "HCL Erbiceni nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 95/2020 privind desemnarea reprezentantului legal și a persoanei/persoanelor care pot înlocui reprezentantul legal al UAT Comuna Erbiceni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate A.D.I.S Iași",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17035",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-96-2020",
+   "path": "local/iasi/erbiceni/2020/96",
+   "short": "HCL Erbiceni nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 96/2020 privind desemnarea reprezentantului comunei Erbiceni și a persoanelor care pot înlocui reprezentantul comunei Erbiceni în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal-ARSACIS",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17036",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17036",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-97-2020",
    "path": "local/iasi/erbiceni/2020/97",
    "short": "HCL Erbiceni nr. 97/2020",
@@ -223,6 +283,21 @@
      "from": "2020-12-04",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-99-2020",
+   "path": "local/iasi/erbiceni/2020/99",
+   "short": "HCL Erbiceni nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 99/2020",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/17039",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/17039",
      "sha256": null
     }
    ]

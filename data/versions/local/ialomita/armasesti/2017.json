@@ -3,6 +3,141 @@
  "shard": "local/ialomita/armasesti/2017",
  "acts": [
   {
+   "slug": "hcl-ialomita--armasesti-1-2017",
+   "path": "local/ialomita/armasesti/2017/1",
+   "short": "HCL Armășești nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 1/2017 privind alegerea presedintelui de sedinta",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2001.pdf",
+     "sha256": "2956f27b89d477b2ed54d23c198e52d7c17495089a733922d149c0fb4cf86076"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-10-2017",
+   "path": "local/ialomita/armasesti/2017/10",
+   "short": "HCL Armășești nr. 10/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 10/2017 privind finantare activitati cultural-artistice",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2010.pdf",
+     "sha256": "998a3aae59825d0fc28a67d7d585da877d261e783e0480f8cf9a7c789867608d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-11-2017",
+   "path": "local/ialomita/armasesti/2017/11",
+   "short": "HCL Armășești nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 11/2017 privind finantare de la bugetul local a cotizatiei anuale la ''Asociatia GAL NAPARIS''",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2011.pdf",
+     "sha256": "d4671ac5c208823e865f223e957c86ef3fb67244146d2ae9313e38f561ccde39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-12-2017",
+   "path": "local/ialomita/armasesti/2017/12",
+   "short": "HCL Armășești nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 12/2017 privind aprobare indicatori tehnico-economici obiectiv de investitii",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2012.pdf",
+     "sha256": "092fbed9378d7689a8156bd5c6d7073df35f60b89416b9cf709b2a22fdcb5ddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-13-2017",
+   "path": "local/ialomita/armasesti/2017/13",
+   "short": "HCL Armășești nr. 13/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 13/2017 privind alegerea presedintelui de sedinta",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotararea%20nr.13%20privind%20alegerea%20%20%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "de2b68f89aa63be3f92df4aa53a17ddbf6d884a9fda154d432718918e1db110c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-14-2017",
+   "path": "local/ialomita/armasesti/2017/14",
+   "short": "HCL Armășești nr. 14/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 14/2017 privind insusire inventar domeniu privat",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%20nr.14%20insusire%20inventar%20domeniu%20privat.pdf",
+     "sha256": "f4f727e8f2677c769d9d85005dedb74a119805f27b74f3f4e415f915d377d875"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-15-2017",
+   "path": "local/ialomita/armasesti/2017/15",
+   "short": "HCL Armășești nr. 15/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 15/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f125a568f8003ba76b5ea643158c0f3e208a9cdcf120a85c940c38d94b6cb39c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-16-2017",
+   "path": "local/ialomita/armasesti/2017/16",
+   "short": "HCL Armășești nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 16/2017 privind stabilirea cuantumului orar S.V.S.U",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotarare%20nr.16%20privind%20stabilirea%20cuantumului%20orar%20svsu.pdf",
+     "sha256": "47550ffeae704c294326fca16765c81b80c6de093e987ff2b8eeabc044cc909f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-17-2017",
+   "path": "local/ialomita/armasesti/2017/17",
+   "short": "HCL Armășești nr. 17/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 17/2017 privind revocarea hcl nr. 03 si 06 din 2017",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-04-25",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotararea%20nr.17%20privind%20revocarea%20%20%20hcl%20nr.%203%20si%206%20din%202017.pdf",
+     "sha256": "73b0fceedc23185dcfbf6e6f191e26aad6e667e8028e61549c9b35748acb0680"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--armasesti-18-2017",
    "path": "local/ialomita/armasesti/2017/18",
    "short": "HCL Armășești nr. 18/2017",
@@ -29,6 +164,336 @@
      "units": 1,
      "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%20nr.19%20instituire%20taxa%20speciala.pdf",
      "sha256": "5701c333eae73e50d3eb8dc55a6dad7f3ebdd9eeda9b559c0f64009d8b93c7d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-2-2017",
+   "path": "local/ialomita/armasesti/2017/2",
+   "short": "HCL Armășești nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 2/2017 privind aprobarea acoperirii definive a deficitului sectiunii dezvoltare",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2002.pdf",
+     "sha256": "2c6bf2bd01b22242f5dc3eca00f7bb258f9a28caa9a3a342806b90b08dc1a6a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-20-2017",
+   "path": "local/ialomita/armasesti/2017/20",
+   "short": "HCL Armășești nr. 20/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 20/2017 privind aprobare asociere la Asociatia de Dezvoltare Intercomunitara",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+     "sha256": "0544bf93aba492feda5686e106021c96ba4081eefb8addd3e13078fada40f116"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-21-2017",
+   "path": "local/ialomita/armasesti/2017/21",
+   "short": "HCL Armășești nr. 21/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 21/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cdff7aef384bbe1b260a29b355ab2b896257f8d3e0bc62697e08d08c6824ce77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-22-2017",
+   "path": "local/ialomita/armasesti/2017/22",
+   "short": "HCL Armășești nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 22/2017 privind rectificare buget local",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%20nr%2022%20rectificare%20buget%20local.pdf",
+     "sha256": "c2d612d4c23271a203523164b8158edd26e07ce63ac45c810244e649b13e8f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-23-2017",
+   "path": "local/ialomita/armasesti/2017/23",
+   "short": "HCL Armășești nr. 23/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 23/2017 privind vanzare teren aferen locuintei",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%20nr%2023%20vanzare%20teren%20aferen%20locuintei.pdf",
+     "sha256": "0b4be5ad71026e9ed3537e8d1e7cd6eb13a9087d1c902bec91e4bb39b296437f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-24-2017",
+   "path": "local/ialomita/armasesti/2017/24",
+   "short": "HCL Armășești nr. 24/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 24/2017 privind concesionarea directa a unui teren",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%20nr%2024%20concesionare%20directa%20a%20unui%20teren%20catr.pdf",
+     "sha256": "38e720b1c5c3f7bbbd3da1feaa14b9ab6483fc16c344b8e86785c3589ba814be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-25-2017",
+   "path": "local/ialomita/armasesti/2017/25",
+   "short": "HCL Armășești nr. 25/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 25/2017 privind regulament de organizare si functionare a celor doua stadioane din com. Armasesti",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%20nr%2025%20priv%20regulament%20de%20organizare%20si%20funct.pdf",
+     "sha256": "406a5f9903d0ee8b9492b940293222db7a2efcf15500a8042985d76c303a53e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-26-2017",
+   "path": "local/ialomita/armasesti/2017/26",
+   "short": "HCL Armășești nr. 26/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 26/2017 privind rectificare buget local am 2017",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotararea%20nr.26%20rectificare%20buget%20local%20am%202017.pdf",
+     "sha256": "aa3aa7e6be4cf6d46a21dc5c55ee08aef20162046ad6572054f2676f5d224bcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-27-2017",
+   "path": "local/ialomita/armasesti/2017/27",
+   "short": "HCL Armășești nr. 27/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 27/2017 privind modificare plan achizitii publice",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotararea%20nr.27%20modificare%20plan%20achizitii%20publice.pdf",
+     "sha256": "37ad9edb4b58734ac8f7d6ef40e1561e0e8a6d427170c70b610f3799054d9e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-28-2017",
+   "path": "local/ialomita/armasesti/2017/28",
+   "short": "HCL Armășești nr. 28/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 28/2017 privind executia bugetara trim IV an 2016",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotararea%20nr.28%20executia%20bugetara%20trim%20IV%20an%202016.pdf",
+     "sha256": "5515e193129f5484d67d6e44bb4eab6b87eba12a64e857a94390fbfef3a20fc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-29-2017",
+   "path": "local/ialomita/armasesti/2017/29",
+   "short": "HCL Armășești nr. 29/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 29/2017 privind executie bugetara trim I an 2017",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotararea%20nr.29%20executie%20bugetara%20trim%20I%20an%202017.pdf",
+     "sha256": "0e6961c1217b77cadefb08156932de703e192b5a0ab669431c4d85afd6502a54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-3-2017",
+   "path": "local/ialomita/armasesti/2017/3",
+   "short": "HCL Armășești nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 3/2017 privind functionarea retelei scolare",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-02-27",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2003.pdf",
+     "sha256": "6631d3a239afa3aa85c0e8fe69a2d2d6ae2d39edda22e7ee34bd78964f9942b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-30-2017",
+   "path": "local/ialomita/armasesti/2017/30",
+   "short": "HCL Armășești nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 30/2017 privind modificare inventar domeniul public",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotararea%20nr.30%20modificare%20inv%20dom%20public.pdf",
+     "sha256": "abaea7ee5391d3f78e026b1480e0af88c4e53e42e133c8ea49addbe83b4f233c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-31-2017",
+   "path": "local/ialomita/armasesti/2017/31",
+   "short": "HCL Armășești nr. 31/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 31/2017 privind desemnare reprezentanti consiliu",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotararea%20nr.31%20desemnare%20reprezentanti%20consiliu.pdf",
+     "sha256": "1105fa3f00999a91294c1f8d36a4d73fb80132af9b5046f3fb8cb5bf15496c8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-32-2017",
+   "path": "local/ialomita/armasesti/2017/32",
+   "short": "HCL Armășești nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 32/2017 privind rectificarea bugetului local pe anul 2017",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hotararea%20nr.32%20rectificarea%20bugetului%20local%20pe%20.pdf",
+     "sha256": "70c22abe47b0cd4890a8bda438d0f66757b59cf27e77d1387ba2b13f323886bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-34-2017",
+   "path": "local/ialomita/armasesti/2017/34",
+   "short": "HCL Armășești nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 34/2017",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2034_38.pdf",
+     "sha256": "718838e619501add708012089de4eb187fbc87a4ccf41c387b631504abcea900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-4-2017",
+   "path": "local/ialomita/armasesti/2017/4",
+   "short": "HCL Armășești nr. 4/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 4/2017 privind aprobarea cotizatiei pt",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-02-27",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2004.pdf",
+     "sha256": "dd548feef96fbf2d6b8ca8e695064abcb518c08040ad8e04e207a24d4c247dbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-5-2017",
+   "path": "local/ialomita/armasesti/2017/5",
+   "short": "HCL Armășești nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 5/2017 privind aprobarea decontarii cheltuielilor de transport pt. cadrele didactice - Luceul Iordache Zossima",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-02-27",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2005.pdf",
+     "sha256": "1a57e85819b16cb7658f1c4db5a0c94521cf358f352106ab9fc578a491125dc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-6-2017",
+   "path": "local/ialomita/armasesti/2017/6",
+   "short": "HCL Armășești nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 6/2017 privind aprobare decontare cheltuieli naveta",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2006.pdf",
+     "sha256": "1684843b735deabae735d28d0e95d0fa8758840d7bd0d4eb9b88bcca2b500091"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-7-2017",
+   "path": "local/ialomita/armasesti/2017/7",
+   "short": "HCL Armășești nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 7/2017 privind adoptare buget local",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2007.pdf",
+     "sha256": "ffe7988ff4466723bf369917e968823534a3644c33db85cc75475e106e05545c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-8-2017",
+   "path": "local/ialomita/armasesti/2017/8",
+   "short": "HCL Armășești nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 8/2017 privind aprobare program anual de achizitii publice",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2008.pdf",
+     "sha256": "b79fb2094569effb48bb842e6965bafc4d1e1359713113f25197b479d202b696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-9-2017",
+   "path": "local/ialomita/armasesti/2017/9",
+   "short": "HCL Armășești nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 9/2017 privind finantare activitati sportive",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2017/hot%2009.pdf",
+     "sha256": "0d0128951c3339361b571a5ef4cb8b09b0c4637374eb044e7ea14d2d117060d6"
     }
    ]
   }

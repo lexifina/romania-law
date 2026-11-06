@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-127-2025",
+"path": "local/iasi/ion-neculce/2025/127",
+"kind": "local",
+"year": "2025",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 127/2025 privind alocarea din Bugetul Local de Venituri și Cheltuieli al comunei Ion Neculce a sumei de 1.000 lei pentru acordarea unui premiu în valoare de 500 lei/cuplu din comuna Ion Neculce care a împlinit 50 de ani de căsătorie",
+"short": "HCL Ion Neculce nr. 127/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/244861",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-128-2025",
 "path": "local/iasi/ion-neculce/2025/128",
 "kind": "local",
@@ -181,6 +203,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-133-2025",
+"path": "local/iasi/ion-neculce/2025/133",
+"kind": "local",
+"year": "2025",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 133/2025 privind notarea în cartea funciară a comunei Ion Neculce nr. 61313, nr. cadastral 61313 a regimului juridic de proprietate publică asupra imobilului teren situat în intravilanul satului Războieni, str. Vasile Rusu, nr. 2, comuna Ion Neculce, județul Iași în suprafață de 3018 mp și a construcțiilor C1 – Centrală termică (CAS) cu suprafața construită de 26 mp și C2 – Primărie (CAS) cu suprafața construită de 358 mp, suprafața desfășurată de 713 mp situate în intravilanul satului Războieni, str. Vasile Rusu, nr. 2, comuna Ion Neculce, județul Iași",
+"short": "HCL Ion Neculce nr. 133/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/244867",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-134-2025",
 "path": "local/iasi/ion-neculce/2025/134",
 "kind": "local",
@@ -288,6 +332,29 @@
 "council_name": "Consiliul Local al Comunei Ion Neculce",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-139-2025",
+"path": "local/iasi/ion-neculce/2025/139",
+"kind": "local",
+"year": "2025",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 139/2025",
+"short": "HCL Ion Neculce nr. 139/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/246115",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

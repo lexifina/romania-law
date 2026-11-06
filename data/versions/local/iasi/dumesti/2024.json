@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--dumesti-59-2024",
+   "path": "local/iasi/dumesti/2024/59",
+   "short": "HCL Dumești nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 59/2024 privind modificarea Hotărârii Consiliului local al comunei Dumești nr. 56 din 06.11.2024 privind desemnarea a doi reprezentanți ai Consiliului local Dumești în Consiliul de Administrație al Școlii Gimnaziale Dumești și a unui reprezentant al Consiliului local Dumești în Comisia de evaluare și asigurarea calității",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/224399",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/224399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-60-2024",
+   "path": "local/iasi/dumesti/2024/60",
+   "short": "HCL Dumești nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 60/2024 privind reorganizarea componenței Consiliului de administrație al Clubului Sportiv Dumești",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/224401",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/224401",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--dumesti-61-2024",
    "path": "local/iasi/dumesti/2024/61",
    "short": "HCL Dumești nr. 61/2024",
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--dumesti-69-2024",
+   "path": "local/iasi/dumesti/2024/69",
+   "short": "HCL Dumești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 69/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile ianuarie-februarie anul 2025",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/224454",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/224454",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--dumesti-70-2024",
    "path": "local/iasi/dumesti/2024/70",
    "short": "HCL Dumești nr. 70/2024",
@@ -163,6 +208,21 @@
      "from": "2025-09-10",
      "units": 1,
      "source_url": "https://emol.ro/dumesti-is/registru-hcl/224462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-72-2024",
+   "path": "local/iasi/dumesti/2024/72",
+   "short": "HCL Dumești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 72/2024 privind aprobarea acordării unui sprijin financiar Parohiilor de pe raza comunei Dumești, județul Iași",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/224463",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/224463",
      "sha256": null
     }
    ]

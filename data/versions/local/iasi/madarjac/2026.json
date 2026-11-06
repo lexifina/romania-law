@@ -3,6 +3,126 @@
  "shard": "local/iasi/madarjac/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--madarjac-24-2026",
+   "path": "local/iasi/madarjac/2026/24",
+   "short": "HCL Mădârjac nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 24/2026 privind alegerea președintelui de sedință a Consiliului Local Mădârjac Județul Iași,pentru lunile Mai ,Iunie,Iulie,an 2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/264958",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/264958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-25-2026",
+   "path": "local/iasi/madarjac/2026/25",
+   "short": "HCL Mădârjac nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 25/2026 privind aprobarea bugetului de venituri si cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/267272",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/267272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-26-2026",
+   "path": "local/iasi/madarjac/2026/26",
+   "short": "HCL Mădârjac nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 26/2026 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 11",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/273927",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/273927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-27-2026",
+   "path": "local/iasi/madarjac/2026/27",
+   "short": "HCL Mădârjac nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 27/2026 privind aprobarea suplimentarii programului de investitii al comunei Madarjac pe anul 2026 prin adaugarea obiectivului ,,Dotarea serviciului de gospodarire comunala cu o autobasculanta cu bena in Comuna Madarjac judetul Iasi''",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/273928",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/273928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-28-2026",
+   "path": "local/iasi/madarjac/2026/28",
+   "short": "HCL Mădârjac nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 28/2026 privind implementarea proiectului “Dotarea serviciului de gospodărire comunală cu o autobasculantă cu benă în comuna Mădârjac, județul Iași”",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/273929",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/273929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-29-2026",
+   "path": "local/iasi/madarjac/2026/29",
+   "short": "HCL Mădârjac nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 29/2026 privind aprobarea achiziției de servicii specializate de dezinsecție și dezinfecție în vederea prevenirii infecției cu virusul West Nile în comuna Mădărjac, județul Iași",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/273930",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/273930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-30-2026",
+   "path": "local/iasi/madarjac/2026/30",
+   "short": "HCL Mădârjac nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 30/2026 privind modificarea și completarea Anexelor 1,2,3 la HCL nr. 22/16.04.2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/277611",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/277611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-31-2026",
+   "path": "local/iasi/madarjac/2026/31",
+   "short": "HCL Mădârjac nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 31/2026 privind aprobarea oportunității si necesității înfiintării Obiectivului de investiții ''Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produse din surse regenerabile pentru autoconsum, pentru entitățile publice din comuna Mădârjac ,județul Iași",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/277612",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/277612",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-32-2026",
    "path": "local/iasi/madarjac/2026/32",
    "short": "HCL Mădârjac nr. 32/2026",
@@ -28,6 +148,156 @@
      "from": "2026-07-21",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/277614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-34-2026",
+   "path": "local/iasi/madarjac/2026/34",
+   "short": "HCL Mădârjac nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 34/2026 privind alegerea președintelui de sedință a Consiliului Local Mădârjac Județul Iași,pentru lunile august ,septembrie ,octombrie,an 2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/277615",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/277615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-35-2026",
+   "path": "local/iasi/madarjac/2026/35",
+   "short": "HCL Mădârjac nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 35/2026 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire contractelor/acordurilor cadru pentru achiziția produselor aferente și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative Programului pentru școli a României pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/282191",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/282191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-36-2026",
+   "path": "local/iasi/madarjac/2026/36",
+   "short": "HCL Mădârjac nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 36/2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/282192",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/282192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-37-2026",
+   "path": "local/iasi/madarjac/2026/37",
+   "short": "HCL Mădârjac nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 37/2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/288023",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/288023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-38-2026",
+   "path": "local/iasi/madarjac/2026/38",
+   "short": "HCL Mădârjac nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 38/2026 privind modificarea și completarea Anexelor 1,2,3 la HCL nr. 30/06.07.2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/288024",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/288024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-39-2026",
+   "path": "local/iasi/madarjac/2026/39",
+   "short": "HCL Mădârjac nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 39/2026 privind însușirea Dispoziției Primarului nr. 159 din 16.09.2026 privind modificarea bugetului local al comunei Mădărjac prin modificarea repartizării pe trimestre a sumelor defalcate din TVA",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/288025",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/288025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-40-2026",
+   "path": "local/iasi/madarjac/2026/40",
+   "short": "HCL Mădârjac nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 40/2026 privind desemnarea consilierului local din Consiliul Local Madarjac pentru a face parte din Consiliul de Administrație a Școlii Gimnaziale Madarjac în anul școlar 2026-2027",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/288026",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/288026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-41-2026",
+   "path": "local/iasi/madarjac/2026/41",
+   "short": "HCL Mădârjac nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 41/2026 privind acordarea mandatului special reprezentantului UAT Comuna Mădârjac în AGA ADIS Iași în vederea aprobării ajustării tarifelor de sortare, compostare, transfer și tratare mecano-biologică a deșeurilor aferente activităților de salubrizare din Contractul de delegare prin concesiune a operării stațiilor de transfer și a instalațiilor de tratare a deșeurilor municipale în județul Iași nr. 371/22.05.2019, în cadrul Proiectului „Sistem de Management Integrat al Deșeurilor din județul Iași”",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/294522",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/294522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-42-2026",
+   "path": "local/iasi/madarjac/2026/42",
+   "short": "HCL Mădârjac nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 42/2026 privind alegerea președintelui de sedință a Consiliului Local Mădârjac Județul Iași,pentru lunile Noiembrie,Decembrie,an 2026 si Ianuarie,an 2027",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/294523",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/294523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-43-2026",
+   "path": "local/iasi/madarjac/2026/43",
+   "short": "HCL Mădârjac nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 43/2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/294524",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/294524",
      "sha256": null
     }
    ]

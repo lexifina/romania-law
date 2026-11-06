@@ -3,6 +3,201 @@
  "shard": "local/hunedoara/zam/2021",
  "acts": [
   {
+   "slug": "hcl-hunedoara--zam-41-2021",
+   "path": "local/hunedoara/zam/2021/41",
+   "short": "HCL Zam nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 41/2021 privind rectificarea bugetului local pe anul 2021 și estimări pe anii 2022-2024",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48068",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-42-2021",
+   "path": "local/hunedoara/zam/2021/42",
+   "short": "HCL Zam nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 42/2021 privind aprobarea devizului general de lucrări, a indicatorilor tehnico-economici și a cheltuielilor care nu se finanțează de la bugetul de stat prin Programul Național de Investiții ”Anghel Saligny” pentru obiectivul de investiții „MODERNIZAREA REȚELEI DE DRUMURI DE INTERES LOCAL, COMUNA ZAM, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48069",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-43-2021",
+   "path": "local/hunedoara/zam/2021/43",
+   "short": "HCL Zam nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 43/2021 privind aprobarea Cererii de finanțare și a Devizului general estimativ pentru obiectivul de investiții „MODERNIZARE REȚEA DE DRUMURI PRIN PIETRUIRE ÎN COMUNA ZAM, JUDEȚUL hUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48075",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-44-2021",
+   "path": "local/hunedoara/zam/2021/44",
+   "short": "HCL Zam nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 44/2021 privind participarea la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” pentru obiectivul de investiții „EFICIENTIZARE ENERGETICĂ CĂMIN CULTURAL ALMAS-SALISTE, COMUNA ZAM, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48076",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-45-2021",
+   "path": "local/hunedoara/zam/2021/45",
+   "short": "HCL Zam nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 45/2021 privind aprobarea Cererii de finanțare și a Devizului general estimativ pentru obiectivul de investiții „ MODERNIZARE REȚEA DE DRUMURI COMUNALE DE INTERES LOCAL ÎN COMUNA ZAM, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48077",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-46-2021",
+   "path": "local/hunedoara/zam/2021/46",
+   "short": "HCL Zam nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 46/2021 privind aprobarea Cererii de finanțare și a Devizului general estimativ pentru obiectivul de investiții „MODERNIZARE REȚEA DE DRUMURI SĂTEȘTI ÎN COMUNA ZAM, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48078",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-47-2021",
+   "path": "local/hunedoara/zam/2021/47",
+   "short": "HCL Zam nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 47/2021 privind aprobarea modificării prin act adițional a Contractului nr.785/11.08.2021 pentru obiectivul de investiție „Reabilitare și dotare Școala Gimnazială cu clasele I-VIII localitatea Zam, comuna Zam, județul Hunedoara”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48079",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-48-2021",
+   "path": "local/hunedoara/zam/2021/48",
+   "short": "HCL Zam nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 48/2021 privind aprobarea modificării prin act adițional a Contractului nr.162/25.02.2019 pentru obiectivul de investiție „ Modernizare rețea de drumuri de interes local în comuna Zam, județul Hunedoara”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48080",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-49-2021",
+   "path": "local/hunedoara/zam/2021/49",
+   "short": "HCL Zam nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 49/2021 privind aprobarea actualizării documentației tehnice Studiu de Fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Grădiniță cu program normal-2 săli de grupă, localitatea Zam, județul Hunedoara”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48081",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-50-2021",
+   "path": "local/hunedoara/zam/2021/50",
+   "short": "HCL Zam nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 50/2021 privind aprobarea valorificării masei lemnoase, în volum de 340,60 mc, de pe terenul proprietate privată a comunei Zam, situat în extravilanul satului Salciva, indentificat în UA 180B, conform APV nr.2100126502810 din 12.10.2021 emis de Ocolul Silvic Dobra",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48082",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-51-2021",
+   "path": "local/hunedoara/zam/2021/51",
+   "short": "HCL Zam nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 51/2021 privind rectificarea bugetului local pe anul 2021 și estimări pe anii 2022-2024",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48083",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-52-2021",
+   "path": "local/hunedoara/zam/2021/52",
+   "short": "HCL Zam nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 52/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48084",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-53-2021",
+   "path": "local/hunedoara/zam/2021/53",
+   "short": "HCL Zam nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 53/2021 privind aprobarea Cererii de finanțare și a Devizului general estimativ pentru obiectivul de investiții „CANALIZARE MENAJERĂ ÎN SATUL ZAM, COMUNA ZAM, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48085",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48085",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--zam-54-2021",
    "path": "local/hunedoara/zam/2021/54",
    "short": "HCL Zam nr. 54/2021",
@@ -28,6 +223,81 @@
      "from": "2021-11-08",
      "units": 1,
      "source_url": "https://emol.ro/zam-hd/registru-hcl/48087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-56-2021",
+   "path": "local/hunedoara/zam/2021/56",
+   "short": "HCL Zam nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 56/2021 privind aprobarea burselor școalre pentru anul școlar 2021-2022, semestrul I",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48088",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-57-2021",
+   "path": "local/hunedoara/zam/2021/57",
+   "short": "HCL Zam nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 57/2021 privind avizarea contractului-cadru vizând acoperirea costurilor nete pentru colectarea și transportul, solicitarea temporară, sortarea și încredințarea în vederea valorificării deșeurilor care fac obiectul răspunderii extinse a producătorului din județul Hunedoara și diferite organizații de preluare a responsabilității (OIREP)",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48089",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-58-2021",
+   "path": "local/hunedoara/zam/2021/58",
+   "short": "HCL Zam nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 58/2021 privind punerea la dispoziția Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Hunedoara, în perioada 2014-2020 a terenului/terenurilor pentru construcția/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48102",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-59-2021",
+   "path": "local/hunedoara/zam/2021/59",
+   "short": "HCL Zam nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 59/2021 privind rectificarea bugetului local pe anul 2021 și estimări pe anii 2022-2024",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48103",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-60-2021",
+   "path": "local/hunedoara/zam/2021/60",
+   "short": "HCL Zam nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 60/2021 privind aprobarea cumpărării unui imobil-fostul magazin sătesc și a terenului aferent acestuia, situate în satul Micanesti, comuna Zam, județul Hunedoara",
+   "url": "https://emol.ro/zam-hd/registru-hcl/48104",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/48104",
      "sha256": null
     }
    ]

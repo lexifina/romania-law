@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/geoagiu/2026",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--geoagiu-140-2026",
+   "path": "local/hunedoara/geoagiu/2026/140",
+   "short": "HCL Geoagiu nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 140/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-08-31/140.pdf",
+     "sha256": "f8af253397637c7c461dd98446464a4c82065068b96cd51c74bcd85bc2c252df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-141-2026",
+   "path": "local/hunedoara/geoagiu/2026/141",
+   "short": "HCL Geoagiu nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 141/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-08-31/141.pdf",
+     "sha256": "c4c3332f0c7d38f1a4329a0e795ff5489e3608173e5bb64a3adde65ee4aae37c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-148-2026",
+   "path": "local/hunedoara/geoagiu/2026/148",
+   "short": "HCL Geoagiu nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 148/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-09-04/148.pdf",
+     "sha256": "8786da7d9325fe4ba20a86e5555c3a2546c6809b2b4f975a55f6f49011718248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-149-2026",
+   "path": "local/hunedoara/geoagiu/2026/149",
+   "short": "HCL Geoagiu nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 149/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-09-22/149.pdf",
+     "sha256": "a99eb00d6732641088a510d04d57861933497d6af91e69e2c8495fc12eafa6f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-167-2026",
+   "path": "local/hunedoara/geoagiu/2026/167",
+   "short": "HCL Geoagiu nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 167/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-10-30/167.pdf",
+     "sha256": "9253a33b97bf3ea7fee3958465ae829f814578930550038042ef2886813bd482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-17-2026",
+   "path": "local/hunedoara/geoagiu/2026/17",
+   "short": "HCL Geoagiu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 17/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-02-02/017.pdf",
+     "sha256": "efe2347281db37a76dca801676fd9f1eb829b036cab92b503bd36dc974ed53f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-171-2026",
+   "path": "local/hunedoara/geoagiu/2026/171",
+   "short": "HCL Geoagiu nr. 171/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 171/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-10-30/171.pdf",
+     "sha256": "9d42359d2441a745b94680f7561f47b945f21a98eaab6aaf3949879551ce40e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-24-2026",
+   "path": "local/hunedoara/geoagiu/2026/24",
+   "short": "HCL Geoagiu nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 24/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-02-27/024.pdf",
+     "sha256": "d2a1e9b08b41b81a0a0ab38bf8e819f3f010b81ad6a30c154e52de194dc44e0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-43-2026",
+   "path": "local/hunedoara/geoagiu/2026/43",
+   "short": "HCL Geoagiu nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 43/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-03-26/043.pdf",
+     "sha256": "c5e21cc3d5410d82a3b77f598d7db907f95123e77b61154d82ddb6a2b5088c99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-53-2026",
+   "path": "local/hunedoara/geoagiu/2026/53",
+   "short": "HCL Geoagiu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 53/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-03-26/053.pdf",
+     "sha256": "845c0510b863c1a5c7eedaacb76b6813fcdbdc1f345fcba837010e1536e527a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-60-2026",
+   "path": "local/hunedoara/geoagiu/2026/60",
+   "short": "HCL Geoagiu nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 60/2026",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-04-03/060.pdf",
+     "sha256": "906059b7ed00efe9aed9ecc7ef2f67e9a91b8718224fd88e2237447b340a2ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--geoagiu-92-2026",
+   "path": "local/hunedoara/geoagiu/2026/92",
+   "short": "HCL Geoagiu nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Geoagiu nr. 92/2026 privind aprobarea documentației tehnico – economice faza PT actualizată, a indicatorilor tehnico-economici și a devizului general aferente obiectivului de investiții „Creșterea eficienței energetice a blocului de locuințe nr. 1, nr. 2 si nr. 3 din stațiunea Geoagiu Bai, oraș Geoagiu, jud",
+   "url": "http://www.geoagiu.ro/ova_doc/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "http://www.geoagiu.ro/dbmol/files/hotarari/hcl/2026/2026-05-22/092.pdf",
+     "sha256": "9d9f9d0e0c04edeed96c5b4f28d7b64db019b92b7736c33317bc35277ca428f4"
+    }
+   ]
+  }
+ ]
+}

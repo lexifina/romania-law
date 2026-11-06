@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-157-2020",
+"path": "local/iasi/aroneanu/2020/157",
+"kind": "local",
+"year": "2020",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 157/2020 privind desemnarea reprezentantului legal și a persoanei/persoanelor care pot înlocui reprezentantul legal al unității administrative teritoriale Comuna Aroneanu în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal – A.R.S.A.C.I.S",
+"short": "HCL Aroneanu nr. 157/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/14998",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-158-2020",
 "path": "local/iasi/aroneanu/2020/158",
 "kind": "local",
@@ -246,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-166-2020",
+"path": "local/iasi/aroneanu/2020/166",
+"kind": "local",
+"year": "2020",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 166/2020 privind alegerea unui președinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul I al anului 2021",
+"short": "HCL Aroneanu nr. 166/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/15037",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-167-2020",
 "path": "local/iasi/aroneanu/2020/167",
 "kind": "local",
@@ -309,6 +353,95 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-170-2020",
+"path": "local/iasi/aroneanu/2020/170",
+"kind": "local",
+"year": "2020",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 170/2020",
+"short": "HCL Aroneanu nr. 170/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/15044",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-171-2020",
+"path": "local/iasi/aroneanu/2020/171",
+"kind": "local",
+"year": "2020",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 171/2020 privind aprobarea alocării unui sprijin financiar Parohiilor din satele Aroneanu și Şorogari, din comuna Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 171/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/15041",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-172-2020",
+"path": "local/iasi/aroneanu/2020/172",
+"kind": "local",
+"year": "2020",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 172/2020 privind aprobarea desemnării unui reprezentant din partea Consiliului Local Aroneanu în Consiliul de Administraţie al Școlii Gimnaziale”Aron-Vodă”, din comuna Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 172/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/15042",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-173-2020",
+"path": "local/iasi/aroneanu/2020/173",
+"kind": "local",
+"year": "2020",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 173/2020 privind aprobarea desemnării unui reprezentant din partea Consiliului Local Aroneanu în Comisia de Evaluare şi Asigurare a Calităţii Şcolii Gimnaziale „Aron-Vodă”din comuna Aroneanu, judeţul Iaşi",
+"short": "HCL Aroneanu nr. 173/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/15043",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

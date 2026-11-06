@@ -377,6 +377,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-122-2025",
+"path": "local/iasi/ciortesti/2025/122",
+"kind": "local",
+"year": "2025",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 122/2025 privind aprobarea rezilierii contractului de inchiriere pentru suprafetele de pajisti aflate in domeniul privat al comunei Ciortesti nr.16 din data de 12.05.2017",
+"short": "HCL Ciortești nr. 122/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/252668",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-123-2025",
 "path": "local/iasi/ciortesti/2025/123",
 "kind": "local",

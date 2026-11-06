@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--toplita-50-2025",
+"path": "local/hunedoara/toplita/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 50/2025 privind desemnarea reprezentantului Consiliului Local al comunei Toplita, in Consiliul de Administratie al Scolii Primare Hasdau, in anul scolar 2025 - 2026",
+"short": "HCL Toplița nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/233862",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--toplita-51-2025",
 "path": "local/hunedoara/toplita/2025/51",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--toplita-53-2025",
+"path": "local/hunedoara/toplita/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 53/2025 privind rectificarea bugetului local al comunei Topliţa, pe anul 2025",
+"short": "HCL Toplița nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/233865",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--toplita-54-2025",
 "path": "local/hunedoara/toplita/2025/54",
 "kind": "local",
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Toplița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-56-2025",
+"path": "local/hunedoara/toplita/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 56/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Toplita pentru o perioadă de trei luni (noiembrie 2025 – ianuarie 2026 )",
+"short": "HCL Toplița nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/233868",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

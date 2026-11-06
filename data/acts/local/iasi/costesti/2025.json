@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-55-2025",
+"path": "local/iasi/costesti/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 55/2025 privind aprobarea acordării unui ajutor financiar în valoare de 15.000 lei PAROHIEI PIETRIȘURILE din sat Costeşti, Comuna Costeşti, jud. Iaşi",
+"short": "HCL Costești nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/costesti-is/registru-hcl/239207",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-56-2025",
 "path": "local/iasi/costesti/2025/56",
 "kind": "local",

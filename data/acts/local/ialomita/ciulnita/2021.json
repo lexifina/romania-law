@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-112-2021",
+"path": "local/ialomita/ciulnita/2021/112",
+"kind": "local",
+"year": "2021",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 112/2021 privind aprobarea fuziunii prin absorbție a Asociaţiei de Dezvoltare Intercomunitară SALUBRIS GROUP 2010 de către Asociaţia de Dezvoltare Intercomunitară ”ECOO 2009”",
+"short": "HCL Ciulnița nr. 112/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/79285",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-113-2021",
 "path": "local/ialomita/ciulnita/2021/113",
 "kind": "local",
@@ -155,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-116-2021",
+"path": "local/ialomita/ciulnita/2021/116",
+"kind": "local",
+"year": "2021",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 116/2021 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public pentru proiectul „Creșterea eficienței energetice a sistemului de iluminat public în Comuna Ciulnița, județul Ialomița”",
+"short": "HCL Ciulnița nr. 116/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/79289",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -332,6 +376,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-125-2021",
+"path": "local/ialomita/ciulnita/2021/125",
+"kind": "local",
+"year": "2021",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 125/2021 privind aprobarea salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale „Administratie”, pentru aparatul de specialitate al primarului comunei Ciulnița",
+"short": "HCL Ciulnița nr. 125/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/79298",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-126-2021",
+"path": "local/ialomita/ciulnita/2021/126",
+"kind": "local",
+"year": "2021",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 126/2021 privind modificarea organigramei și statului de funcții al Serviciului de salubrizare Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 126/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/79299",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-127-2021",
+"path": "local/ialomita/ciulnita/2021/127",
+"kind": "local",
+"year": "2021",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 127/2021 privind stabilirea salariilor de bază pentru personalul din cadrul Serviciului de salubrizare Ciulnița",
+"short": "HCL Ciulnița nr. 127/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/79300",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

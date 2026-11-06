@@ -3,6 +3,21 @@
  "shard": "local/iasi/cucuteni/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--cucuteni-100-2024",
+   "path": "local/iasi/cucuteni/2024/100",
+   "short": "HCL Cucuteni nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 100/2024 privind modificarea organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Cucuteni",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/187781",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/187781",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-101-2024",
    "path": "local/iasi/cucuteni/2024/101",
    "short": "HCL Cucuteni nr. 101/2024",
@@ -28,6 +43,36 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/187783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-103-2024",
+   "path": "local/iasi/cucuteni/2024/103",
+   "short": "HCL Cucuteni nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 103/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/187784",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/187784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-84-2024",
+   "path": "local/iasi/cucuteni/2024/84",
+   "short": "HCL Cucuteni nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 84/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/177803",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/177803",
      "sha256": null
     }
    ]
@@ -118,6 +163,21 @@
      "from": "2024-11-26",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/180489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-91-2024",
+   "path": "local/iasi/cucuteni/2024/91",
+   "short": "HCL Cucuteni nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 91/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/180490",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/180490",
      "sha256": null
     }
    ]

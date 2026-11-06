@@ -3,6 +3,81 @@
  "shard": "local/hunedoara/balsa/2026",
  "acts": [
   {
+   "slug": "hcl-hunedoara--balsa-16-2026",
+   "path": "local/hunedoara/balsa/2026/16",
+   "short": "HCL Balșa nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 16/2026 privind aprobarea bugetului local al comunei Balşa, pe anul 2026 Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/016.pdf",
+     "sha256": "f8c04d87bb3093ac3a7441cfa62a6f5679bcac3c5e16534d73cbaa4f9c041cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-18-2026",
+   "path": "local/hunedoara/balsa/2026/18",
+   "short": "HCL Balșa nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 18/2026 privind aprobarea retragerii UAT - comuna Balșa, județul Hunedoara din cadrul proiectului „Furnizare de Servicii integrate în comunitățile rurale — facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate” Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/018.pdf",
+     "sha256": "9fa4bf6dc618efa37eb270f821d628ab2e6af5eccd8c0901a71b90be4ac41e77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-19-2026",
+   "path": "local/hunedoara/balsa/2026/19",
+   "short": "HCL Balșa nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 19/2026 privind aprobarea cuantumului cotizaţiei de membru a Comunei Balșa în A.D.I „Sistemul Integrat de Gestionare a Deşeurilor Judeţul Hunedoara”, pentru anul 2026 Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/019.pdf",
+     "sha256": "bbe63dd9fac653b462b904ab8b5d17869a610b0ebc9cc8db4d4fb729eb8dc0da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-20-2026",
+   "path": "local/hunedoara/balsa/2026/20",
+   "short": "HCL Balșa nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 20/2026 privind alegerea președintelui de şedinţă Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/020.pdf",
+     "sha256": "846afe242be076078d449616e7c2e4e7901966a1fd2e87c48102a7e8a4205f17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-21-2026",
+   "path": "local/hunedoara/balsa/2026/21",
+   "short": "HCL Balșa nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 21/2026 privind modificarea și completarea Hotărârii Consiliului Local al comunei Balșa nr. 16/2026 privind aprobarea bugetului local al comunei Balşa, pe anul 2026 Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/021.pdf",
+     "sha256": "5b662ef5e779f77cf40176580a686abf4624932dbeedac4b31bcbf53ecdd9e2b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--balsa-22-2026",
    "path": "local/hunedoara/balsa/2026/22",
    "short": "HCL Balșa nr. 22/2026",
@@ -18,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--balsa-25-2026",
+   "path": "local/hunedoara/balsa/2026/25",
+   "short": "HCL Balșa nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 25/2026 privind aprobarea încheierii contului de execuţie bugetară, pe anul 2025 Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/025.pdf",
+     "sha256": "43deebb7c5da75fd09bacbd046cabc3dfbc12b4a9ea3e54ebf2217701cab281b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--balsa-28-2026",
    "path": "local/hunedoara/balsa/2026/28",
    "short": "HCL Balșa nr. 28/2026",
@@ -29,6 +119,111 @@
      "units": 1,
      "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/028.pdf",
      "sha256": "ec294f7b9da6c5f8aaeae6f42068649e21a8a8af30a1ad10d5493efc7786c9de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-29-2026",
+   "path": "local/hunedoara/balsa/2026/29",
+   "short": "HCL Balșa nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 29/2026 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical veterinar, situat în sat Balșa, nr. 175, comuna Balșa, județul Hunedoara, înscris în CF 61397-C2 Balșa Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/029.pdf",
+     "sha256": "6d980c084086366d762a97924cf904ba4110a3cfe7cce674bc88eb97672ca98f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-30-2026",
+   "path": "local/hunedoara/balsa/2026/30",
+   "short": "HCL Balșa nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 30/2026 privind alegerea președintelui de şedinţă Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/030.pdf",
+     "sha256": "6700b8fe9cdb2055aeeded68928b907dcc56e186fc97f5d2f3ba6b644e959e1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-34-2026",
+   "path": "local/hunedoara/balsa/2026/34",
+   "short": "HCL Balșa nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 34/2026 privind desemnarea reprezentantului Consiliului Local al comunei Balșa,în Consiliul de administrație al Școlii Primare Balșa, pentru anul școlar 2026-2027 Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/034.pdf",
+     "sha256": "57cd98a37364be2e55916898d358c97954899b8b927ea535f130b542051dd03a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-35-2026",
+   "path": "local/hunedoara/balsa/2026/35",
+   "short": "HCL Balșa nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 35/2026 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor şi a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative aferente pentru Programul pentru școli al României, la nivel local, pentru anii şcolari 2026-2027, 2027-2028, 2028-2029 Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/035.pdf",
+     "sha256": "c04fd675cf8bcbcb457429a12c4bf7a4cc1b0a341107cb24cc3ebaf6c70dee40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-37-2026",
+   "path": "local/hunedoara/balsa/2026/37",
+   "short": "HCL Balșa nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 37/2026 privind aprobarea actului adițional nr. 15/2026 de modificare și completare a Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 5400/223/2009 și acordarea unor mandate Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/037.pdf",
+     "sha256": "818d630ef9633e0f2313cd579ec1ab17c8ba63c5ad082644371222547b11fe3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-38-2026",
+   "path": "local/hunedoara/balsa/2026/38",
+   "short": "HCL Balșa nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 38/2026 privind aprobarea studiului de fezabilitate revizuit pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Hunedoara, în perioada 2021 - 2027” Primar",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/038.pdf",
+     "sha256": "2386a55f89c5e93facddaffd15bb50f69f433a4e982bdc75f98e7865a8bb9164"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--balsa-39-2026",
+   "path": "local/hunedoara/balsa/2026/39",
+   "short": "HCL Balșa nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balșa nr. 39/2026",
+   "url": "https://www.balsa.ro/index.php/transparenta/hcl",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.balsa.ro/dbmol/files/hotarari/hcl/2026/039.pdf",
+     "sha256": "f0c1bb9c43332f42fa8ceebe538684a8540a9df7ad31643387d260e118a8d797"
     }
    ]
   }

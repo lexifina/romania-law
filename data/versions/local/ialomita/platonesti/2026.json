@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/platonesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--platonesti-1-2026",
+   "path": "local/ialomita/platonesti/2026/1",
+   "short": "HCL Platonești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 1/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%201%20din%2009.01.2026.pdf",
+     "sha256": "96ff95aca5a44a67a6b221d766adf527a089e4f22ad2e1a5d5021853a29db074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-10-2026",
+   "path": "local/ialomita/platonesti/2026/10",
+   "short": "HCL Platonești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 10/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2010%20din%2006.04.2026.pdf",
+     "sha256": "aa5e29e2d8bf36012995386fe345d296b3521a6d5082d49228fb6d9d8a3dac5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-11-2026",
+   "path": "local/ialomita/platonesti/2026/11",
+   "short": "HCL Platonești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 11/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2011%20din%2006.04.2026.pdf",
+     "sha256": "b0d8bb5ded9ad82ee22041f72203d0cc93589249fd880f5e653602345a351d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-13-2026",
+   "path": "local/ialomita/platonesti/2026/13",
+   "short": "HCL Platonești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 13/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2013%20din%2004.05.2026.pdf",
+     "sha256": "4a9a32e17ab05526d36e3b7779eaba601d6a0d1b7b35941601115cd4b46dfc9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-14-2026",
+   "path": "local/ialomita/platonesti/2026/14",
+   "short": "HCL Platonești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 14/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2014%20din%2004.05.2026.pdf",
+     "sha256": "41d26ee66a3582f18b44db326846f89ff16049337dda524e3ba096109e48ca60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-20-2026",
+   "path": "local/ialomita/platonesti/2026/20",
+   "short": "HCL Platonești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 20/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2020%20din%2004.05.2026.pdf",
+     "sha256": "2c676a518d83ce8e904cbf4244eb1c2c7ce2ee0f1541a968a47bc1161f64ef01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-21-2026",
+   "path": "local/ialomita/platonesti/2026/21",
+   "short": "HCL Platonești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 21/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2021%20din%2004.05.2026.pdf",
+     "sha256": "d73a9222aff2186acfe109c1d86b46eefd55303f0af3f8db73eccf7e17c5986a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-22-2026",
+   "path": "local/ialomita/platonesti/2026/22",
+   "short": "HCL Platonești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 22/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2022%20din%2004.05.2026.pdf",
+     "sha256": "c8e2dee9e981029d22c401188561deacf04d141d3c27728fe335ab34db3fe248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-23-2026",
+   "path": "local/ialomita/platonesti/2026/23",
+   "short": "HCL Platonești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 23/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2023%20din%2018.05.2026.pdf",
+     "sha256": "7a4798d81591c7761b1afa9040752e4f4b9f0b49e7a8969570fdd0e441418072"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-24-2026",
+   "path": "local/ialomita/platonesti/2026/24",
+   "short": "HCL Platonești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 24/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2024%20din%2018.05.2026.pdf",
+     "sha256": "0ff7d59c6babdee64f213f689fd8369e6680b264e674b4c9c581c5331c00fb05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-25-2026",
+   "path": "local/ialomita/platonesti/2026/25",
+   "short": "HCL Platonești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 25/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%2025%20din%2018.05.2026.pdf",
+     "sha256": "94fbed2aeebfb48b4e68d84a4ee7f9960f770f50d56e08d221fa53417e4e3f73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-3-2026",
+   "path": "local/ialomita/platonesti/2026/3",
+   "short": "HCL Platonești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 3/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%203%20din%2019.03.2026.pdf",
+     "sha256": "96ef76638a560e0c31610e263dd2eaed43ce26284e8613cc5ef6447926a1b10a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-4-2026",
+   "path": "local/ialomita/platonesti/2026/4",
+   "short": "HCL Platonești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 4/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%204%20din%2019.03.2026.pdf",
+     "sha256": "5a73a208fdabb099943d0cf64d5d3145f4d68822ebf8dbfd68383a802880a8bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-5-2026",
+   "path": "local/ialomita/platonesti/2026/5",
+   "short": "HCL Platonești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 5/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%205%20din%2019.03.2026.pdf",
+     "sha256": "8db1989acf672ae5934882b6c6bab02ad59ef536f0eac8691e98952b6220608e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-6-2026",
+   "path": "local/ialomita/platonesti/2026/6",
+   "short": "HCL Platonești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 6/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%206%20din%2019.03.2026.pdf",
+     "sha256": "9ce8fd683ff2048925fad36ab1912734c45c57df1dce984ffc840f800b721ea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-7-2026",
+   "path": "local/ialomita/platonesti/2026/7",
+   "short": "HCL Platonești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 7/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%207%20din%2019.03.2026.pdf",
+     "sha256": "7dc657b59fb889d15ae779dadec7e9b88b451e352268cb434ddb21c0ff550171"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-9-2026",
+   "path": "local/ialomita/platonesti/2026/9",
+   "short": "HCL Platonești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 9/2026",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2026/HCL%20nr.%209%20din%2019.03.2026.pdf",
+     "sha256": "490460abc88750b7ac74fd57aad974afdda61251bde4622c72d627976fe4561c"
+    }
+   ]
+  }
+ ]
+}

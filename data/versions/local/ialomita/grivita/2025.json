@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--grivita-70-2025",
+   "path": "local/ialomita/grivita/2025/70",
+   "short": "HCL Grivița nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 70/2025 privind aprobarea vânzării cu drept de preemțiune a unei suprafețe de teren de 1563 mp",
+   "url": "https://emol.ro/grivita-il/registru-hcl/234534",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/234534",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--grivita-71-2025",
    "path": "local/ialomita/grivita/2025/71",
    "short": "HCL Grivița nr. 71/2025",
@@ -43,6 +58,21 @@
      "from": "2025-11-06",
      "units": 1,
      "source_url": "https://emol.ro/grivita-il/registru-hcl/234535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--grivita-72-2025",
+   "path": "local/ialomita/grivita/2025/72",
+   "short": "HCL Grivița nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 72/2025 privind aprobarea închirieri prin licitație publică a unui spațiu de 135 mp. din Bloc SMA și a suprafeței de teren de 302 mp. aferente spațiului din Bloc SMA",
+   "url": "https://emol.ro/grivita-il/registru-hcl/234536",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-il/registru-hcl/234536",
      "sha256": null
     }
    ]

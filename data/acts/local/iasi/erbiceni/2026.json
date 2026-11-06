@@ -268,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-139-2026",
+"path": "local/iasi/erbiceni/2026/139",
+"kind": "local",
+"year": "2026",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 139/2026 privind Aprobarea trecerii din domeniul privat în domeniul public al Comunei Erbiceni a unor terenuri care constituie coridorul de expropriere al lucrării de utilitate publică „Lucrări pentru reducerea riscului la inundații în bazinul hidrografic Prut–Bârlad”",
+"short": "HCL Erbiceni nr. 139/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/295657",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-140-2026",
 "path": "local/iasi/erbiceni/2026/140",
 "kind": "local",
@@ -309,6 +331,29 @@
 "council_name": "Consiliul Local al Comunei Erbiceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--erbiceni-142-2026",
+"path": "local/iasi/erbiceni/2026/142",
+"kind": "local",
+"year": "2026",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 142/2026",
+"short": "HCL Erbiceni nr. 142/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/295660",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

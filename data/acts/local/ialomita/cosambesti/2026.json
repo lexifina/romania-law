@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-ialomita--cosambesti-38-2026",
+"path": "local/ialomita/cosambesti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cosâmbești nr. 38/2026 privind revocarea hotararii consiliului local nr.33 din 10.07.2026,privind aprobarea regulamentului de organizare si efectuare a activitatilor de interes local de catre beneficiarii venitului minim de incluziune, aprobarea Planului anual de actiuni si lucrari de interes local si aprobarea modelului adeverintei privind efectuarea orelor de munca",
+"short": "HCL Cosâmbești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-21",
+"latest": "2026-08-21",
+"portal": "https://emol.ro/cosambesti-il/registru-hcl/283220",
+"council": "ialomita/cosambesti",
+"council_name": "Consiliul Local al Comunei Cosâmbești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--cosambesti-39-2026",
+"path": "local/ialomita/cosambesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cosâmbești nr. 39/2026 privind aprobarea Regulamentului de organizare și efectuare a activităților de interes local de către beneficiarii venitului minim de incluziune, aprobarea Planului anual de acțiuni și lucrări de interes local și aprobarea modelului Adeverinței privind efectuarea orelor de muncă",
+"short": "HCL Cosâmbești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-21",
+"latest": "2026-08-21",
+"portal": "https://emol.ro/cosambesti-il/registru-hcl/283221",
+"council": "ialomita/cosambesti",
+"council_name": "Consiliul Local al Comunei Cosâmbești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--cosambesti-40-2026",
+"path": "local/ialomita/cosambesti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cosâmbești nr. 40/2026 privind actualizarea salariului de bază pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Cosambesti, începând cu 1 iulie 2026",
+"short": "HCL Cosâmbești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-21",
+"latest": "2026-08-21",
+"portal": "https://emol.ro/cosambesti-il/registru-hcl/283222",
+"council": "ialomita/cosambesti",
+"council_name": "Consiliul Local al Comunei Cosâmbești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--cosambesti-41-2026",
 "path": "local/ialomita/cosambesti/2026/41",
 "kind": "local",
@@ -115,6 +181,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--cosambesti-45-2026",
+"path": "local/ialomita/cosambesti/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cosâmbești nr. 45/2026 privind desemnarea reprezentantului Consiliului Local al comunei Cosâmbești și a membrului supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director la Școala Gimnazială Cosâmbești, sesiunea august-decembrie 2026",
+"short": "HCL Cosâmbești nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/cosambesti-il/registru-hcl/287633",
+"council": "ialomita/cosambesti",
+"council_name": "Consiliul Local al Comunei Cosâmbești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--cosambesti-46-2026",
 "path": "local/ialomita/cosambesti/2026/46",
 "kind": "local",
@@ -156,6 +244,28 @@
 "council_name": "Consiliul Local al Comunei Cosâmbești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--cosambesti-48-2026",
+"path": "local/ialomita/cosambesti/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cosâmbești nr. 48/2026 privind revocarea HCL 45 din data de 16.09.2026, privind desemnarea reprezentantului Consiliului Local al comunei Cosâmbești și a membrului supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director la Școala Gimnazială Cosâmbești, sesiunea august-decembrie 2026",
+"short": "HCL Cosâmbești nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/cosambesti-il/registru-hcl/294233",
+"council": "ialomita/cosambesti",
+"council_name": "Consiliul Local al Comunei Cosâmbești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -222,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Cosâmbești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--cosambesti-52-2026",
+"path": "local/ialomita/cosambesti/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cosâmbești nr. 52/2026 privind desemnarea reprezentantului Consiliului Local al comunei Cosâmbești și a membrului supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director la Școala Gimnazială Cosâmbești, sesiunea august-decembrie 2026",
+"short": "HCL Cosâmbești nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cosambesti-il/registru-hcl/294237",
+"council": "ialomita/cosambesti",
+"council_name": "Consiliul Local al Comunei Cosâmbești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

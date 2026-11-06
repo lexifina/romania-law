@@ -223,6 +223,94 @@
 }
 },
 {
+"slug": "hcl-hunedoara--vorta-46-2026",
+"path": "local/hunedoara/vorta/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 46/2026 privind aprobarea schimbării destinației unor imobile aparținând domeniul public al comunei Vorța din imobile cu destinația unități de învățământ, în imobile cu alta destinație",
+"short": "HCL Vorța nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/297242",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-47-2026",
+"path": "local/hunedoara/vorta/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 47/2026 privind actualizarea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică în comuna Vorța, județul Hunedoara",
+"short": "HCL Vorța nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/297250",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-48-2026",
+"path": "local/hunedoara/vorta/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 48/2026 privind revocarea Hotărârii Consiliului Local Vorța nr.37/01.07.2026 privind aprobarea documentației tehnice și atestarea apartenenței unui imobil (teren) la domeniul public al comunei Vorța, județul Huneodara",
+"short": "HCL Vorța nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/297441",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-49-2026",
+"path": "local/hunedoara/vorta/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 49/2026 privind alegerea președintelui de ședință pentru lunile octombrie 2026-decembrie 2026",
+"short": "HCL Vorța nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/297442",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--vorta-50-2026",
 "path": "local/hunedoara/vorta/2026/50",
 "kind": "local",
@@ -245,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--vorta-51-2026",
+"path": "local/hunedoara/vorta/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 51/2026 privind aprobarea instrumentării obiectivului de investiții „Dezvoltarea surselor de energie regenerabilă pentru persoane vulnerabile în comuna Vorța, județul Hunedoara”",
+"short": "HCL Vorța nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/297444",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--vorta-52-2026",
 "path": "local/hunedoara/vorta/2026/52",
 "kind": "local",
@@ -264,6 +374,72 @@
 "council_name": "Consiliul Local al Comunei Vorța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-53-2026",
+"path": "local/hunedoara/vorta/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 53/2026 privind analiza studiului de înscriere a datelor în registrul agricol pentru trimestrul III al anului 2026 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Vorța nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/297446",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-54-2026",
+"path": "local/hunedoara/vorta/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 54/2026 privind rectificarea bugetului local al comunei Vorța pe anul 2026",
+"short": "HCL Vorța nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/297447",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vorta-55-2026",
+"path": "local/hunedoara/vorta/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorța nr. 55/2026 privind aprobarea solicitării transferului unui microbuz școlar din domeniul privat al comunei Vorța, județul Hunedoara către Liceul „Silviu Dragomir”, Ilia, situat în comuna Ilia, județul Hunedoara",
+"short": "HCL Vorța nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/vorta-hd/registru-hcl/297448",
+"council": "hunedoara/vorta",
+"council_name": "Consiliul Local al Comunei Vorța",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/axintele/2021",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--axintele-126-2021",
+   "path": "local/ialomita/axintele/2021/126",
+   "short": "HCL Axintele nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Axintele nr. 126/2021",
+   "url": "http://www.axintele.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "http://www.axintele.ro/z_Consiliul%20Local/Hotarari/2020/Hotararea%20nr.%20126%20din%2021.12.2021.pdf",
+     "sha256": "8dae5df1c0087840117ad25bac911a6fc392be6785e43784a23d36fd69b1c836"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/simeria/2016",
+"acts": [
+{
+"slug": "hcl-hunedoara--simeria-196-2016",
+"path": "local/hunedoara/simeria/2016/196",
+"kind": "local",
+"year": "2016",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Simeria nr. 196/2016",
+"short": "HCL Simeria nr. 196/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-10-31",
+"latest": "2016-10-31",
+"portal": "https://primariasimeria.ro/consiliul-local/servicii-publice-subordonate/directia-de-asistenta-sociala/acte-necesare-si-formulare/venitul-minim-de-incluziune-vmi/",
+"council": "hunedoara/simeria",
+"council_name": "Consiliul Local al Orașului Simeria",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

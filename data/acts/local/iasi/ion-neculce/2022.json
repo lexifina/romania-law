@@ -3,6 +3,29 @@
 "shard": "local/iasi/ion-neculce/2022",
 "acts": [
 {
+"slug": "hcl-iasi--ion-neculce-102-2022",
+"path": "local/iasi/ion-neculce/2022/102",
+"kind": "local",
+"year": "2022",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 102/2022",
+"short": "HCL Ion Neculce nr. 102/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-13",
+"latest": "2022-12-13",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/81900",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-103-2022",
 "path": "local/iasi/ion-neculce/2022/103",
 "kind": "local",
@@ -312,6 +335,29 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-117-2022",
+"path": "local/iasi/ion-neculce/2022/117",
+"kind": "local",
+"year": "2022",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 117/2022",
+"short": "HCL Ion Neculce nr. 117/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/84739",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-118-2022",
 "path": "local/iasi/ion-neculce/2022/118",
 "kind": "local",
@@ -353,6 +399,52 @@
 "council_name": "Consiliul Local al Comunei Ion Neculce",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-120-2022",
+"path": "local/iasi/ion-neculce/2022/120",
+"kind": "local",
+"year": "2022",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 120/2022",
+"short": "HCL Ion Neculce nr. 120/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/84742",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-121-2022",
+"path": "local/iasi/ion-neculce/2022/121",
+"kind": "local",
+"year": "2022",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 121/2022",
+"short": "HCL Ion Neculce nr. 121/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/84743",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

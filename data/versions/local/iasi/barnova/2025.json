@@ -48,6 +48,96 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-156-2025",
+   "path": "local/iasi/barnova/2025/156",
+   "short": "HCL Bârnova nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 156/2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243115",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-157-2025",
+   "path": "local/iasi/barnova/2025/157",
+   "short": "HCL Bârnova nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 157/2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243116",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-158-2025",
+   "path": "local/iasi/barnova/2025/158",
+   "short": "HCL Bârnova nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 158/2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243117",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-159-2025",
+   "path": "local/iasi/barnova/2025/159",
+   "short": "HCL Bârnova nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 159/2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243118",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-160-2025",
+   "path": "local/iasi/barnova/2025/160",
+   "short": "HCL Bârnova nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 160/2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243119",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-161-2025",
+   "path": "local/iasi/barnova/2025/161",
+   "short": "HCL Bârnova nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 161/2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/243120",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/243120",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-162-2025",
    "path": "local/iasi/barnova/2025/162",
    "short": "HCL Bârnova nr. 162/2025",

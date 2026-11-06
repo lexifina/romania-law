@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-113-2024",
+"path": "local/iasi/ion-neculce/2024/113",
+"kind": "local",
+"year": "2024",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 113/2024 privind alegerea viceprimarului comunei Ion Neculce",
+"short": "HCL Ion Neculce nr. 113/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/180141",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-114-2024",
+"path": "local/iasi/ion-neculce/2024/114",
+"kind": "local",
+"year": "2024",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 114/2024 privind desemnarea reprezentantului legal și a persoanei care poate înlocui reprezentantul legal al UAT Comuna Ion Neculce în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate A.D.I.S Iaşi",
+"short": "HCL Ion Neculce nr. 114/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-03",
+"latest": "2024-12-03",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/180142",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-115-2024",
 "path": "local/iasi/ion-neculce/2024/115",
 "kind": "local",
@@ -245,6 +289,50 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-124-2024",
+"path": "local/iasi/ion-neculce/2024/124",
+"kind": "local",
+"year": "2024",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 124/2024 privind organizarea festivităților de acordare și înmânare a „Diplomei de Onoare” şi plata unui premiu în valoare de 500 lei, cuplurilor din comuna Ion Neculce care au împlinit 50 de ani de căsătorie",
+"short": "HCL Ion Neculce nr. 124/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/185631",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-125-2024",
+"path": "local/iasi/ion-neculce/2024/125",
+"kind": "local",
+"year": "2024",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 125/2024 privindaprobarea premierii elevilor și cadrelor didactice din unitățile de învățământ preuniversitar din comuna Ion Neculce, care au obținut rezultate deosebite la concursurile și olimpiadele școlare județene/naționale și internaționale, respectiv campionatele sportive școlare județene/naționale și internaționale",
+"short": "HCL Ion Neculce nr. 125/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/185632",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-126-2024",
 "path": "local/iasi/ion-neculce/2024/126",
 "kind": "local",
@@ -330,6 +418,29 @@
 "council_name": "Consiliul Local al Comunei Ion Neculce",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-130-2024",
+"path": "local/iasi/ion-neculce/2024/130",
+"kind": "local",
+"year": "2024",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 130/2024",
+"short": "HCL Ion Neculce nr. 130/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/185637",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

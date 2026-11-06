@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--miroslovesti-56-2025",
+"path": "local/iasi/miroslovesti/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 56/2025 privind aprobarea studiului de oportunitate pentru imobilele: teren - 310.000 mp și teren - 280.000 mp, suprafețe ce sunt cuprinse în Domeniul Public al Comunei Miroslovești, în vederea concesionări acestora prin licitație publică",
+"short": "HCL Miroslovești nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235957",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--miroslovesti-57-2025",
 "path": "local/iasi/miroslovesti/2025/57",
 "kind": "local",

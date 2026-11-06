@@ -3,6 +3,28 @@
 "shard": "local/harghita/voslabeni/2020",
 "acts": [
 {
+"slug": "hcl-harghita--voslabeni-53-2020",
+"path": "local/harghita/voslabeni/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 53/2020 privind aprobarea destinației a prețului de pornire la licitație și a prețului de vânzare a masei lemnoase pusă în valoare prin APV 13.279, 13.335, 13,336, 13.337 și 13.338/2020, din fondul forestier proprietate publică a comunei Voșlăbeni, aflat în administrarea Direcției Silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+"short": "HCL Voșlăbeni nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-10",
+"latest": "2020-09-10",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/16306",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--voslabeni-54-2020",
 "path": "local/harghita/voslabeni/2020/54",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-harghita--voslabeni-58-2020",
+"path": "local/harghita/voslabeni/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 58/2020 privind rectificarea bugetului general al comunei Voșlăbeni pe Trimestrul III anul 2020",
+"short": "HCL Voșlăbeni nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-23",
+"latest": "2020-09-23",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/20114",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--voslabeni-59-2020",
 "path": "local/harghita/voslabeni/2020/59",
 "kind": "local",
@@ -132,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Voșlăbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-61-2020",
+"path": "local/harghita/voslabeni/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 61/2020 privind alegerea președintelui de ședință",
+"short": "HCL Voșlăbeni nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/20346",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-harghita--voslabeni-64-2020",
+"path": "local/harghita/voslabeni/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 64/2020 privind alegerea viceprimarului comunei Voșlăbeni, județul Harghita",
+"short": "HCL Voșlăbeni nr. 64/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/20349",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--voslabeni-65-2020",
 "path": "local/harghita/voslabeni/2020/65",
 "kind": "local",
@@ -223,6 +311,50 @@
 }
 },
 {
+"slug": "hcl-harghita--voslabeni-67-2020",
+"path": "local/harghita/voslabeni/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 67/2020 privind Regulamentul de organizare și funcționare a Consiliului Local al Comunei Voșlăbeni",
+"short": "HCL Voșlăbeni nr. 67/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/20358",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-68-2020",
+"path": "local/harghita/voslabeni/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 68/2020 privind numirea administratorului societății ” Cocoselul CLV” societatea cu răspundere limitată, având ca asociat majoritar Consiliului Local Voșlăbeni",
+"short": "HCL Voșlăbeni nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/20359",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--voslabeni-69-2020",
 "path": "local/harghita/voslabeni/2020/69",
 "kind": "local",
@@ -264,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Voșlăbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-71-2020",
+"path": "local/harghita/voslabeni/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 71/2020 privind aprobarea planului de lucrări de interes local pentru persoanele care beneficiază de ajutor social și efectuează muncă utilă conform Legii 276/2010",
+"short": "HCL Voșlăbeni nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/20362",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

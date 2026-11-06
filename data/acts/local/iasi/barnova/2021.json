@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-98-2021",
+"path": "local/iasi/barnova/2021/98",
+"kind": "local",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 98/2021 privind aprobare dezmembrare teren în suprafață de 4385 mp pentru realizare obiectiv de investiții \"Construire și dotări aferente pentru grădiniță în sat Vișan, comuna Bârnova, județul Iași\" și dezmembrare teren în suprafață de 350 mp atribuit tinerilor în temeiul Legii nr. 15/2003 și desemnare persoană pentru semnare acte notariale",
+"short": "HCL Bârnova nr. 98/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/barnova-is/registru-hcl/42681",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--barnova-99-2021",
 "path": "local/iasi/barnova/2021/99",
 "kind": "local",

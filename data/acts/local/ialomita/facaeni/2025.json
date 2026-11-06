@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-87-2025",
+"path": "local/ialomita/facaeni/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 87/2025 privind modificarea Anexei la HCL nr. 71 din 21.10.2025 privind aprobarea Regulamentului pentru conferirea titlului de „Cetățean de Onoare al Comunei Făcăeni”",
+"short": "HCL Făcăeni nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/236099",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-88-2025",
 "path": "local/ialomita/facaeni/2025/88",
 "kind": "local",
@@ -157,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-92-2025",
+"path": "local/ialomita/facaeni/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 92/2025 privind alegerea presedintelui de ședință",
+"short": "HCL Făcăeni nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/239325",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-93-2025",
 "path": "local/ialomita/facaeni/2025/93",
 "kind": "local",
@@ -176,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-94-2025",
+"path": "local/ialomita/facaeni/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 94/2025 privind valorificare prin vânzare a unor bunuri scoase din funcțiune aparținând patrimoniului privat al Comunei Făcăeni",
+"short": "HCL Făcăeni nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/239327",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

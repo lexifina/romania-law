@@ -69,6 +69,72 @@
 }
 },
 {
+"slug": "hcl-iasi--lungani-42-2023",
+"path": "local/iasi/lungani/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 42/2023 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/lungani-is/registru-hcl/137519",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-43-2023",
+"path": "local/iasi/lungani/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 43/2023 privind acordarea unui premiu în sumă netă de 500 lei, de la bugetul local pe anul 2023, cuplurilor care au împlinit 50 de ani de căsătorie neîntreruptă",
+"short": "HCL Lungani nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/lungani-is/registru-hcl/137520",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-44-2023",
+"path": "local/iasi/lungani/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 44/2023 privind reorganizarea Serviciului Voluntar pentru Situații de urgență al comunei Lungani",
+"short": "HCL Lungani nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-27",
+"latest": "2023-10-27",
+"portal": "https://emol.ro/lungani-is/registru-hcl/137521",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--lungani-45-2023",
 "path": "local/iasi/lungani/2023/45",
 "kind": "local",
@@ -267,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-iasi--lungani-54-2023",
+"path": "local/iasi/lungani/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 54/2023 privind acordarea unui premiu în sumă netă de 500 lei, de la bugetul local pe anul 2023 cuplurilor care au împlinit 50 de ani de căsătorie neîntreruptă",
+"short": "HCL Lungani nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/lungani-is/registru-hcl/137646",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--lungani-55-2023",
 "path": "local/iasi/lungani/2023/55",
 "kind": "local",
@@ -308,6 +396,51 @@
 "council_name": "Consiliul Local al Comunei Lungani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-57-2023",
+"path": "local/iasi/lungani/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 57/2023 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/lungani-is/registru-hcl/137649",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-58-2023",
+"path": "local/iasi/lungani/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 58/2023",
+"short": "HCL Lungani nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/lungani-is/registru-hcl/137650",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

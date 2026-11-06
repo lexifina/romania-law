@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--luncoiu-de-jos-81-2024",
+"path": "local/hunedoara/luncoiu-de-jos/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 81/2024 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local al comunei Luncoiu de Jos, județul Hunedoara",
+"short": "HCL Luncoiu de Jos nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/176467",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--luncoiu-de-jos-82-2024",
 "path": "local/hunedoara/luncoiu-de-jos/2024/82",
 "kind": "local",
@@ -286,6 +308,51 @@
 "council_name": "Consiliul Local al Comunei Luncoiu de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-93-2024",
+"path": "local/hunedoara/luncoiu-de-jos/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 93/2024",
+"short": "HCL Luncoiu de Jos nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/182925",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-94-2024",
+"path": "local/hunedoara/luncoiu-de-jos/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 94/2024 privind desemnarea unui reprezentant al Consiliului Local al Comunei Luncoiu de Jos în Consiliul de Administrație al Școlii Gimnaziale Luncoiu de Jos, județul Hunedoara",
+"short": "HCL Luncoiu de Jos nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/182926",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

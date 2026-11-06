@@ -224,6 +224,29 @@
 }
 },
 {
+"slug": "hcl-iasi--erbiceni-93-2024",
+"path": "local/iasi/erbiceni/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 93/2024",
+"short": "HCL Erbiceni nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/erbiceni-is/registru-hcl/177743",
+"council": "iasi/erbiceni",
+"council_name": "Consiliul Local al Comunei Erbiceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--erbiceni-94-2024",
 "path": "local/iasi/erbiceni/2024/94",
 "kind": "local",

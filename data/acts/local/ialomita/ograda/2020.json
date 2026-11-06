@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/ialomita/ograda/2020",
+"acts": [
+{
+"slug": "hcl-ialomita--ograda-1-2020",
+"path": "local/ialomita/ograda/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ograda nr. 1/2020",
+"short": "HCL Ograda nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariaograda.ro/hotarari_cl.html",
+"council": "ialomita/ograda",
+"council_name": "Consiliul Local al Comunei Ograda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ograda-2-2020",
+"path": "local/ialomita/ograda/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ograda nr. 2/2020",
+"short": "HCL Ograda nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariaograda.ro/hotarari_cl.html",
+"council": "ialomita/ograda",
+"council_name": "Consiliul Local al Comunei Ograda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ograda-3-2020",
+"path": "local/ialomita/ograda/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ograda nr. 3/2020",
+"short": "HCL Ograda nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariaograda.ro/hotarari_cl.html",
+"council": "ialomita/ograda",
+"council_name": "Consiliul Local al Comunei Ograda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ograda-4-2020",
+"path": "local/ialomita/ograda/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ograda nr. 4/2020",
+"short": "HCL Ograda nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariaograda.ro/hotarari_cl.html",
+"council": "ialomita/ograda",
+"council_name": "Consiliul Local al Comunei Ograda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ograda-5-2020",
+"path": "local/ialomita/ograda/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ograda nr. 5/2020",
+"short": "HCL Ograda nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariaograda.ro/hotarari_cl.html",
+"council": "ialomita/ograda",
+"council_name": "Consiliul Local al Comunei Ograda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ograda-6-2020",
+"path": "local/ialomita/ograda/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ograda nr. 6/2020",
+"short": "HCL Ograda nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariaograda.ro/hotarari_cl.html",
+"council": "ialomita/ograda",
+"council_name": "Consiliul Local al Comunei Ograda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ograda-7-2020",
+"path": "local/ialomita/ograda/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ograda nr. 7/2020",
+"short": "HCL Ograda nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariaograda.ro/hotarari_cl.html",
+"council": "ialomita/ograda",
+"council_name": "Consiliul Local al Comunei Ograda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ograda-8-2020",
+"path": "local/ialomita/ograda/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ograda nr. 8/2020",
+"short": "HCL Ograda nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariaograda.ro/hotarari_cl.html",
+"council": "ialomita/ograda",
+"council_name": "Consiliul Local al Comunei Ograda",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ograda-9-2020",
+"path": "local/ialomita/ograda/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ograda nr. 9/2020",
+"short": "HCL Ograda nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "http://www.primariaograda.ro/hotarari_cl.html",
+"council": "ialomita/ograda",
+"council_name": "Consiliul Local al Comunei Ograda",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

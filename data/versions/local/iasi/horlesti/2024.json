@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--horlesti-111-2024",
+   "path": "local/iasi/horlesti/2024/111",
+   "short": "HCL Horlești nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 111/2024 Privind acordarea unui ajutor de urgenţă familiei Grampierre Argentina",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/182659",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/182659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-112-2024",
+   "path": "local/iasi/horlesti/2024/112",
+   "short": "HCL Horlești nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 112/2024",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/182660",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/182660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-113-2024",
+   "path": "local/iasi/horlesti/2024/113",
+   "short": "HCL Horlești nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 113/2024",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/182661",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/182661",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--horlesti-114-2024",
    "path": "local/iasi/horlesti/2024/114",
    "short": "HCL Horlești nr. 114/2024",
@@ -43,6 +88,51 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/horlesti-is/registru-hcl/182662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-115-2024",
+   "path": "local/iasi/horlesti/2024/115",
+   "short": "HCL Horlești nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 115/2024 privind concesionarea prin licitație a spațiului cu destinația de cabinet medical în vederea desfășurării de activități medicină de familie",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/182663",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/182663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-116-2024",
+   "path": "local/iasi/horlesti/2024/116",
+   "short": "HCL Horlești nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 116/2024",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/182664",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/182664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-117-2024",
+   "path": "local/iasi/horlesti/2024/117",
+   "short": "HCL Horlești nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 117/2024 Privind acordarea unei recompense băneşti în sumă netă de 200 lei cuplului care a împlinit 50 de ani de la încheierea căsătoriei cu domiciliul stabil în comuna Horlesti, judetul Iasi",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/182665",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/182665",
      "sha256": null
     }
    ]
@@ -148,6 +238,36 @@
      "from": "2025-01-15",
      "units": 1,
      "source_url": "https://emol.ro/horlesti-is/registru-hcl/185515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-125-2024",
+   "path": "local/iasi/horlesti/2024/125",
+   "short": "HCL Horlești nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 125/2024",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185516",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-126-2024",
+   "path": "local/iasi/horlesti/2024/126",
+   "short": "HCL Horlești nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 126/2024",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/185517",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/185517",
      "sha256": null
     }
    ]

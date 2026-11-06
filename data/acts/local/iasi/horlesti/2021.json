@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-111-2021",
+"path": "local/iasi/horlesti/2021/111",
+"kind": "local",
+"year": "2021",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 111/2021 privind desemnarea reprezentanților Consiliului Local Horlești în comisia de de inventarierea anuală respectiv comisia de casare a bunurilor aflate în patrimoniul comunei",
+"short": "HCL Horlești nr. 111/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/46021",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-112-2021",
 "path": "local/iasi/horlesti/2021/112",
 "kind": "local",
@@ -176,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-118-2021",
+"path": "local/iasi/horlesti/2021/118",
+"kind": "local",
+"year": "2021",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 118/2021 Privind acordarea unui ajutor de urgenţă",
+"short": "HCL Horlești nr. 118/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-14",
+"latest": "2021-12-14",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/46028",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

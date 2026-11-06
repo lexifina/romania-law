@@ -3,6 +3,51 @@
  "shard": "local/iasi/ciohorani/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--ciohorani-15-2020",
+   "path": "local/iasi/ciohorani/2020/15",
+   "short": "HCL Ciohorăni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 15/2020 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3789",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-16-2020",
+   "path": "local/iasi/ciohorani/2020/16",
+   "short": "HCL Ciohorăni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 16/2020 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/3790",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/3790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-64-2020",
+   "path": "local/iasi/ciohorani/2020/64",
+   "short": "HCL Ciohorăni nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 64/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/19534",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19534",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-65-2020",
    "path": "local/iasi/ciohorani/2020/65",
    "short": "HCL Ciohorăni nr. 65/2020",
@@ -18,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ciohorani-66-2020",
+   "path": "local/iasi/ciohorani/2020/66",
+   "short": "HCL Ciohorăni nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 66/2020 privind alegerea viceprimarului comunei Ciohorăni",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/19536",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19536",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ciohorani-67-2020",
    "path": "local/iasi/ciohorani/2020/67",
    "short": "HCL Ciohorăni nr. 67/2020",
@@ -28,6 +88,36 @@
      "from": "2020-11-27",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-68-2020",
+   "path": "local/iasi/ciohorani/2020/68",
+   "short": "HCL Ciohorăni nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 68/2020 privind desemnarea reprezentantului comunei Ciohorăni și a persoanei care poate înlocui reprezentantul comunei Ciohorăni în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal - ARSACIS",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/19538",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-69-2020",
+   "path": "local/iasi/ciohorani/2020/69",
+   "short": "HCL Ciohorăni nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 69/2020",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/19539",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19539",
      "sha256": null
     }
    ]
@@ -88,6 +178,21 @@
      "from": "2020-11-27",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-74-2020",
+   "path": "local/iasi/ciohorani/2020/74",
+   "short": "HCL Ciohorăni nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 74/2020 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/19544",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19544",
      "sha256": null
     }
    ]
@@ -163,6 +268,21 @@
      "from": "2020-12-28",
      "units": 1,
      "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ciohorani-80-2020",
+   "path": "local/iasi/ciohorani/2020/80",
+   "short": "HCL Ciohorăni nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciohorăni nr. 80/2020 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/ciohorani-is/registru-hcl/19550",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciohorani-is/registru-hcl/19550",
      "sha256": null
     }
    ]

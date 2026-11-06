@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-110-2023",
+   "path": "local/iasi/cucuteni/2023/110",
+   "short": "HCL Cucuteni nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 110/2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165774",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165774",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-111-2023",
    "path": "local/iasi/cucuteni/2023/111",
    "short": "HCL Cucuteni nr. 111/2023",
@@ -48,6 +63,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--cucuteni-113-2023",
+   "path": "local/iasi/cucuteni/2023/113",
+   "short": "HCL Cucuteni nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 113/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Cucuteni, judeţul Iași, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165777",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-114-2023",
+   "path": "local/iasi/cucuteni/2023/114",
+   "short": "HCL Cucuteni nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 114/2023 privind reorganizarea aparatului de specialitate al primarului comunei Cucuteni, precum și aprobarea organigramei și statului de funcții conform prevederilor Legii nr.296/2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165778",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-115-2023",
+   "path": "local/iasi/cucuteni/2023/115",
+   "short": "HCL Cucuteni nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 115/2023 privind rectificare bugetul local de venituri şi cheltuieli anul 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165779",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165779",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--cucuteni-116-2023",
    "path": "local/iasi/cucuteni/2023/116",
    "short": "HCL Cucuteni nr. 116/2023",
@@ -73,6 +133,21 @@
      "from": "2024-08-13",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-118-2023",
+   "path": "local/iasi/cucuteni/2023/118",
+   "short": "HCL Cucuteni nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 118/2023 privind rectificare bugetul local de venituri şi cheltuieli anul 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165782",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165782",
      "sha256": null
     }
    ]
@@ -163,6 +238,66 @@
      "from": "2024-08-13",
      "units": 1,
      "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-125-2023",
+   "path": "local/iasi/cucuteni/2023/125",
+   "short": "HCL Cucuteni nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 125/2023 privind aprobarea modificării contractului de concesiune nr.1151/2006 referitor la ștrand din satul Băiceni, comuna Cucuteni, județul Iași",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165789",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-126-2023",
+   "path": "local/iasi/cucuteni/2023/126",
+   "short": "HCL Cucuteni nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 126/2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165790",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-127-2023",
+   "path": "local/iasi/cucuteni/2023/127",
+   "short": "HCL Cucuteni nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 127/2023 privind prelungire PUG",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165791",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--cucuteni-128-2023",
+   "path": "local/iasi/cucuteni/2023/128",
+   "short": "HCL Cucuteni nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 128/2023 privind rectificare bugetul local de venituri şi cheltuieli anul 2023",
+   "url": "https://emol.ro/cucuteni-is/registru-hcl/165792",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cucuteni-is/registru-hcl/165792",
      "sha256": null
     }
    ]

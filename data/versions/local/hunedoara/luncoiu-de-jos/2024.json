@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-81-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/81",
+   "short": "HCL Luncoiu de Jos nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 81/2024 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local al comunei Luncoiu de Jos, județul Hunedoara",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/176467",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/176467",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-82-2024",
    "path": "local/hunedoara/luncoiu-de-jos/2024/82",
    "short": "HCL Luncoiu de Jos nr. 82/2024",
@@ -193,6 +208,36 @@
      "from": "2025-01-08",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/182924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-93-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/93",
+   "short": "HCL Luncoiu de Jos nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 93/2024",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/182925",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/182925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-94-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/94",
+   "short": "HCL Luncoiu de Jos nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 94/2024 privind desemnarea unui reprezentant al Consiliului Local al Comunei Luncoiu de Jos în Consiliul de Administrație al Școlii Gimnaziale Luncoiu de Jos, județul Hunedoara",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/182926",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/182926",
      "sha256": null
     }
    ]

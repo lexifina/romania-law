@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--bacia-98-2025",
+"path": "local/hunedoara/bacia/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 98/2025 privind încetarea contractului de închiriere nr. 12 din 08 09 2019 încheiat între Comuna Băcia,prin Primar şi Asociația Crescătorilor de Animale și Păsări ,,Bălțata Românească” Băcia, pentru închirierea unei suprafeţei de pajişti permanente (păşuni) , din păşunea aflată în proprietatea privată a comunei Băcia",
+"short": "HCL Băcia nr. 98/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/247693",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-99-2025",
 "path": "local/hunedoara/bacia/2025/99",
 "kind": "local",
@@ -111,6 +133,29 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-102-2025",
+"path": "local/hunedoara/bacia/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 102/2025",
+"short": "HCL Băcia nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/247697",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -309,6 +354,29 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-112-2025",
+"path": "local/hunedoara/bacia/2025/112",
+"kind": "local",
+"year": "2025",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 112/2025",
+"short": "HCL Băcia nr. 112/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/247836",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

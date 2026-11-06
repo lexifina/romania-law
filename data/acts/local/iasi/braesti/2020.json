@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/iasi/braesti/2020",
+"acts": [
+{
+"slug": "hcl-iasi--braesti-2-2020",
+"path": "local/iasi/braesti/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 2/2020 Privind admiterea propunerii de candidatura pentru functia de PRIMAR al Comunei Braesti, judetul Iasi, depusa de Partidul Pro Romania",
+"short": "HCL Brăești nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://primariabraesti.ro/wp-content/uploads/2020/08/Hotararea-nr.2-din-17.08.2020-Privind-admiterea-propunerii-de-candidatura-pentru-functia-de-PRIMAR-al-Comunei-Braesti-judetul-Iasi-depusa-de-Partidul-Pro-Romania.pdf",
+"council": "iasi/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--braesti-3-2020",
+"path": "local/iasi/braesti/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 3/2020 Privind admiterea propunerii de candidatura pentru functiile de CONSILIER LOCAL In Cadrul Consiliului Local al Comunei Braesti, judetul Iasi, depusa de Partidul Pro Romania",
+"short": "HCL Brăești nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://primariabraesti.ro/wp-content/uploads/2020/08/Hotararea-nr.3-din-17.08.2020-Privind-admiterea-propunerii-de-candidatura-pentru-functiile.pdf",
+"council": "iasi/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--braesti-4-2020",
+"path": "local/iasi/braesti/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 4/2020 Privind admiterea propunerii de candidatura pentru functia de PRIMAR al Comunei Braesti, judetul Iasi, depusa de Partidul National Liberal",
+"short": "HCL Brăești nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://primariabraesti.ro/wp-content/uploads/2020/08/Hotararea-nr.4-din-17.08.2020-Privind-admiterea-propunerii-de-candidatura-pentru-functia-de-PRIMAR-al-Comunei-Braesti-judetul-Iasi-depusa-de-Partidul-National-Liberal.pdf",
+"council": "iasi/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--braesti-5-2020",
+"path": "local/iasi/braesti/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 5/2020 Privind admiterea propunerii de candidatura pentru functiile de CONSILIER LOCAL In Cadrul Consiliului Local al Comunei Braesti, judetul Iasi, depusa de Partidul National Liberal",
+"short": "HCL Brăești nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://primariabraesti.ro/wp-content/uploads/2020/08/Hotararea-nr.5-din-17.08.2020-Privind-admiterea-propunerii-de-candidatura-pentru-functiile-de-CONSILIER-LOCAL-In-Cadrul-Consiliului-Local-al.pdf",
+"council": "iasi/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--braesti-6-2020",
+"path": "local/iasi/braesti/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 6/2020 Privind admiterea propunerii de candidatura pentru functia de PRIMAR al Comunei Braesti, judetul Iasi, depusa de Partidul Miscarea Populara",
+"short": "HCL Brăești nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://primariabraesti.ro/wp-content/uploads/2020/08/Hotararea-nr.6-din-17.08.2020-Privind-admiterea-propunerii-de-candidatura-pentru-functia-de-PRIMAR-al-Comunei-Braesti-judetul-Iasi-depusa-de-Partidul-Miscarea-Populara.pdf",
+"council": "iasi/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--braesti-7-2020",
+"path": "local/iasi/braesti/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 7/2020 Privind admiterea propunerii de candidatura pentru functiile de CONSILIER LOCAL In Cadrul Consiliului Local al Comunei Braesti, judetul Iasi, depusa de Partidul Miscarea Populara",
+"short": "HCL Brăești nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://primariabraesti.ro/wp-content/uploads/2020/08/Hotararea-nr.7-din-17.08.2020-Privind-admiterea-propunerii-de-candidatura-pentru-functiile-de-CONSILIER-LOCAL-In-Cadrul-Consiliului-Local-al-Comunei-B.pdf",
+"council": "iasi/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--braesti-8-2020",
+"path": "local/iasi/braesti/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 8/2020 Privind admiterea propunerii de candidatura pentru functia de PRIMAR al Comunei Braesti, judetul Iasi, depusa de Partidul Social Democrat",
+"short": "HCL Brăești nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://primariabraesti.ro/wp-content/uploads/2020/08/Hotararea-nr.8-din-17.08.2020-Privind-admiterea-propunerii-de-candidatura-pentru-functia-de-PRIMAR-al-Comunei-Braesti-judetul-Iasi-depusa-de-Partidul-Social-Democrat.pdf",
+"council": "iasi/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--braesti-9-2020",
+"path": "local/iasi/braesti/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 9/2020 Privind admiterea propunerii de candidatura pentru functiile de CONSILIER LOCAL In Cadrul Consiliului Local al Comunei Braesti, judetul Iasi, depusa de Partidul Social Democrat",
+"short": "HCL Brăești nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://primariabraesti.ro/wp-content/uploads/2020/08/Hotararea-nr.9-din-17.08.2020-Privind-admiterea-propunerii-de-candidatura-pentru-functiile-de-CONSILIER-LOCAL-In-Cadrul-Consiliului-Local-al-Comun.pdf",
+"council": "iasi/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

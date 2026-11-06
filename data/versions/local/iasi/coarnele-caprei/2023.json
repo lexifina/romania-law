@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-101-2023",
+   "path": "local/iasi/coarnele-caprei/2023/101",
+   "short": "HCL Coarnele Caprei nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 101/2023",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/134553",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/134553",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-102-2023",
    "path": "local/iasi/coarnele-caprei/2023/102",
    "short": "HCL Coarnele Caprei nr. 102/2023",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-110-2023",
+   "path": "local/iasi/coarnele-caprei/2023/110",
+   "short": "HCL Coarnele Caprei nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 110/2023 privind aprobarea proces-verbal al ședinței din data de 15.12.2023",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143441",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143441",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-111-2023",
    "path": "local/iasi/coarnele-caprei/2023/111",
    "short": "HCL Coarnele Caprei nr. 111/2023",
@@ -148,6 +178,66 @@
      "from": "2024-02-15",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-112-2023",
+   "path": "local/iasi/coarnele-caprei/2023/112",
+   "short": "HCL Coarnele Caprei nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 112/2023 privind actualizarea indicatorilor tehnico-economici și asigurarea cofinanțării pentru obiectivul de investiții „EXTINDEREA SISTEMULUI DE APĂ ȘI APĂ UZATĂ ÎN COMUNA COARNELE CAPREI, JUDEȚUL IAȘI” la nivelul anului 2023 ca urmare a aplicării OUG 47/2022",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143443",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-113-2023",
+   "path": "local/iasi/coarnele-caprei/2023/113",
+   "short": "HCL Coarnele Caprei nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 113/2023 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APA VITAL S.A",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143444",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-114-2023",
+   "path": "local/iasi/coarnele-caprei/2023/114",
+   "short": "HCL Coarnele Caprei nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 114/2023 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr. 5",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143445",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-115-2023",
+   "path": "local/iasi/coarnele-caprei/2023/115",
+   "short": "HCL Coarnele Caprei nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 115/2023 privind aprobarea reorganizarea rețea școlară în localitate prntru anul școlar 2024-2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143446",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/143446",
      "sha256": null
     }
    ]

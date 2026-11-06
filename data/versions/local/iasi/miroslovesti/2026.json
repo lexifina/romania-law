@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-12-2026",
+   "path": "local/iasi/miroslovesti/2026/12",
+   "short": "HCL Miroslovești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 12/2026 privind modificarea art. 4 din Hotărârea Consiliului Local nr. 2/30.01.2026",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/273256",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/273256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-13-2026",
+   "path": "local/iasi/miroslovesti/2026/13",
+   "short": "HCL Miroslovești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 13/2026 privind alegerea președintelui de ședință al Consiliului Local Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/273257",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/273257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-14-2026",
+   "path": "local/iasi/miroslovesti/2026/14",
+   "short": "HCL Miroslovești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 14/2026 privind aprobarea susținerii financiare a echipei de fotbal Asociația Sportivă ''Biruința'' Miroslovești, din comuna Miroslovești, județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/273258",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/273258",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-15-2026",
    "path": "local/iasi/miroslovesti/2026/15",
    "short": "HCL Miroslovești nr. 15/2026",
@@ -63,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-16-2026",
+   "path": "local/iasi/miroslovesti/2026/16",
+   "short": "HCL Miroslovești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 16/2026 privind alegerea președintelui de ședință al Consiliului Local Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/273265",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/273265",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-2-2026",
    "path": "local/iasi/miroslovesti/2026/2",
    "short": "HCL Miroslovești nr. 2/2026",
@@ -73,6 +133,21 @@
      "from": "2026-06-10",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/273237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-3-2026",
+   "path": "local/iasi/miroslovesti/2026/3",
+   "short": "HCL Miroslovești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 3/2026 privind alegerea președintelui de ședință al Consiliului Local Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/273239",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/273239",
      "sha256": null
     }
    ]
@@ -108,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-6-2026",
+   "path": "local/iasi/miroslovesti/2026/6",
+   "short": "HCL Miroslovești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 6/2026 privind alegerea președintelui de ședință al Consiliului Local Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/273250",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/273250",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-7-2026",
    "path": "local/iasi/miroslovesti/2026/7",
    "short": "HCL Miroslovești nr. 7/2026",
@@ -118,6 +208,21 @@
      "from": "2026-06-10",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/273251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-8-2026",
+   "path": "local/iasi/miroslovesti/2026/8",
+   "short": "HCL Miroslovești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 8/2026 privind transformarea unei funcții publice de execuție din cadrul aparatului de specialitate al primarului Comunei Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/273252",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/273252",
      "sha256": null
     }
    ]

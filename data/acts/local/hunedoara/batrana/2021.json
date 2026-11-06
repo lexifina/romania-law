@@ -3,6 +3,51 @@
 "shard": "local/hunedoara/batrana/2021",
 "acts": [
 {
+"slug": "hcl-hunedoara--batrana-1-2021",
+"path": "local/hunedoara/batrana/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 1/2021 privind aprobarea valorificarii masei lemnoase din fondul forestier al com Batrana,pe anul 2021",
+"short": "HCL Bătrâna nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://primaria-batrina.ro/wp-content/uploads/2021/01/HCL-1-din-26-ian-2021-privind-aprobarea-valorificarii-masei-lemnoase-din-fondul-forestier-al-com-Batranape-anul-2021.pdf",
+"council": "hunedoara/batrana",
+"council_name": "Consiliul Local al Comunei Bătrâna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--batrana-3-2021",
+"path": "local/hunedoara/batrana/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 3/2021",
+"short": "HCL Bătrâna nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://primaria-batrina.ro/wp-content/uploads/2021/02/HCL-3-din-26-ian-2021.pdf",
+"council": "hunedoara/batrana",
+"council_name": "Consiliul Local al Comunei Bătrâna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--batrana-40-2021",
 "path": "local/hunedoara/batrana/2021/40",
 "kind": "local",

@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--gurasada-73-2021",
+"path": "local/hunedoara/gurasada/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 73/2021 privind aprobarea cumpărării unui imobil (teren intravilan) în suprafață de 2295 mp situat în satul Câmpuri-Surduc, comuna Gurasada, înscris în CF 65404 Gurasada, număr cadastral 65404/UAT Gurasada, pentru obiectivul de investiții amenajare loc de joacă pentru copii în satul Câmpuri-Surduc, comuna Gurasada",
+"short": "HCL Gurasada nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/gurasada-hd/registru-hcl/43013",
+"council": "hunedoara/gurasada",
+"council_name": "Consiliul Local al Comunei Gurasada",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--gurasada-74-2021",
 "path": "local/hunedoara/gurasada/2021/74",
 "kind": "local",

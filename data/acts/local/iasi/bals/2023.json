@@ -25,6 +25,94 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-151-2023",
+"path": "local/iasi/bals/2023/151",
+"kind": "local",
+"year": "2023",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 151/2023 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 151/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154339",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-152-2023",
+"path": "local/iasi/bals/2023/152",
+"kind": "local",
+"year": "2023",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 152/2023 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 152/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154340",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-153-2023",
+"path": "local/iasi/bals/2023/153",
+"kind": "local",
+"year": "2023",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 153/2023 privind aprobarea documentației de avizare a lucrărilor de intervenție (DALI) a indicatorilor tehnico-economici actualizație și devizul general actualizat pentru obiectivul de investiții AMENAJARE PODEȚE, ȘANȚURI ȘI RIGOLE BETONATE ÎN COMUNA BALȘ, JUDEȚUL IAȘI”",
+"short": "HCL Balș nr. 153/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154341",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-154-2023",
+"path": "local/iasi/bals/2023/154",
+"kind": "local",
+"year": "2023",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 154/2023 privind validarea Dispoziției Primarului Comunei Balș, nr. 315 din 03.11.2023 privind rectificarea bugetului de venituri și cheltuieli al Comunei Balș, trimestrul IV anul 2023",
+"short": "HCL Balș nr. 154/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154342",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-155-2023",
 "path": "local/iasi/bals/2023/155",
 "kind": "local",
@@ -66,6 +154,72 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-157-2023",
+"path": "local/iasi/bals/2023/157",
+"kind": "local",
+"year": "2023",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 157/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al Primarului Comunei Balș, județul Iași, începând cu data de 01 ianuarie 2024",
+"short": "HCL Balș nr. 157/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154345",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-158-2023",
+"path": "local/iasi/bals/2023/158",
+"kind": "local",
+"year": "2023",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 158/2023 privind aprobarea modificării branșamentului și instalației de gaze naturale la obiectivul Post Poliție și Cabinet Veterinar, situat în satul Balș, str. 1 Decembrie 1918, nr. 11, comuna Balș, județul Iași",
+"short": "HCL Balș nr. 158/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154346",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-159-2023",
+"path": "local/iasi/bals/2023/159",
+"kind": "local",
+"year": "2023",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 159/2023 privind alocarea unor fonduri bănești pentru achiziționarea de produse/servicii privind organizarea Sărbătorilor de iarnă și Pomul de Crăciun, pe rit vechi, copiilor școlari și preșcolari din comuna Balș, județul Iași, în data de 07 ianuarie anul 2024",
+"short": "HCL Balș nr. 159/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154347",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -133,6 +287,94 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-163-2023",
+"path": "local/iasi/bals/2023/163",
+"kind": "local",
+"year": "2023",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 163/2023 privind modificarea și completarea Inventarului bunurilor care aparțin domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 163/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154351",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-164-2023",
+"path": "local/iasi/bals/2023/164",
+"kind": "local",
+"year": "2023",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 164/2023 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 164/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154384",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-165-2023",
+"path": "local/iasi/bals/2023/165",
+"kind": "local",
+"year": "2023",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 165/2023 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 165/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154385",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-166-2023",
+"path": "local/iasi/bals/2023/166",
+"kind": "local",
+"year": "2023",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 166/2023 privind participarea la Programul privind creșterea eficienței energetice și gestionarea inteligentă în clădirile publice - Administrația Fondului pentru Mediu a obiectivului de investiții „REABILITARE ENERGETICĂ CLĂDIRE DE INTERES PUBLIC LOCAL PENTRU COMUNA BALȘ, JUDEȚUL IAȘI” precum și aprobarea documentației tehnico-economice și a indicatorilor asociați acesteia",
+"short": "HCL Balș nr. 166/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/154386",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

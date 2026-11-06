@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--horlesti-128-2023",
+   "path": "local/iasi/horlesti/2023/128",
+   "short": "HCL Horlești nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 128/2023 privind aprobarea scoaterii din circuitul agricol a suprafetei de 1801 mp. teren extravilan pentru construirea stațiilor de pompare la obiectivul „Extindere rețea de canalizare în comuna Horlești, județul Iași”",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/133380",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/133380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-129-2023",
+   "path": "local/iasi/horlesti/2023/129",
+   "short": "HCL Horlești nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 129/2023 privind prelungirea valabilității Planului Urbanistic General al comunei Horlești, județul Iași",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/133381",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/133381",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--horlesti-130-2023",
    "path": "local/iasi/horlesti/2023/130",
    "short": "HCL Horlești nr. 130/2023",
@@ -58,6 +88,21 @@
      "from": "2024-01-05",
      "units": 1,
      "source_url": "https://emol.ro/horlesti-is/registru-hcl/136489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-133-2023",
+   "path": "local/iasi/horlesti/2023/133",
+   "short": "HCL Horlești nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 133/2023 privind actualizarea indicatorilor tehnico- economici şi asigurarea cofinanțării pentru obiectivul de investiţii “ Lucrări de modernizare la Şcoala Horleşti în vederea obţinerii autorizaţiei sanitare de funcţionare, comuna Horleşti, judeţul Iaşi” la nivelul anului 2022, ca urmare a aplicării O.U.G.47/2022",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/136490",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/136490",
      "sha256": null
     }
    ]

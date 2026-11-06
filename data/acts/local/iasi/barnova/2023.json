@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-120-2023",
+"path": "local/iasi/barnova/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 120/2023 privind aprobarea vânzării directe către d-nul Ciobanu Tudor-Adrian a terenului în suprafaţă de 1000 mp cu nr. cadastral 72660 amplasat în sat Todirel, teren atribuit în temeiul Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, cu modificările ulterioare, prin Hotărârea Consiliului Local Bârnova cu nr. 52 din 24.05.2021",
+"short": "HCL Bârnova nr. 120/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-02",
+"latest": "2024-02-02",
+"portal": "https://emol.ro/barnova-is/registru-hcl/134153",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--barnova-121-2023",
 "path": "local/iasi/barnova/2023/121",
 "kind": "local",
@@ -157,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-122-2023",
+"path": "local/iasi/barnova/2023/122",
+"kind": "local",
+"year": "2023",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 122/2023 privind Aprobarea de către Consiliul Local al comunei Bârnova a raportului cu privire la asistenții personali și indemnizațiile nete la sfârșitul lunii decembrie 2023 după finalizarea semestrului II al anului 2023",
+"short": "HCL Bârnova nr. 122/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-02",
+"latest": "2024-02-02",
+"portal": "https://emol.ro/barnova-is/registru-hcl/134155",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--barnova-123-2023",
 "path": "local/iasi/barnova/2023/123",
 "kind": "local",
@@ -176,6 +220,52 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-124-2023",
+"path": "local/iasi/barnova/2023/124",
+"kind": "local",
+"year": "2023",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 124/2023",
+"short": "HCL Bârnova nr. 124/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-02",
+"latest": "2024-02-02",
+"portal": "https://emol.ro/barnova-is/registru-hcl/134157",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-125-2023",
+"path": "local/iasi/barnova/2023/125",
+"kind": "local",
+"year": "2023",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 125/2023",
+"short": "HCL Bârnova nr. 125/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-02",
+"latest": "2024-02-02",
+"portal": "https://emol.ro/barnova-is/registru-hcl/136570",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -308,6 +398,29 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-132-2023",
+"path": "local/iasi/barnova/2023/132",
+"kind": "local",
+"year": "2023",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 132/2023",
+"short": "HCL Bârnova nr. 132/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-02",
+"latest": "2024-02-02",
+"portal": "https://emol.ro/barnova-is/registru-hcl/136577",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

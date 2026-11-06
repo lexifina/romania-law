@@ -16,6 +16,126 @@
      "sha256": "3d4b58a625a41844df254efd0bd96073067e21be5fda9658d7dc7ab996b94faa"
     }
    ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-2-2017",
+   "path": "local/ialomita/platonesti/2017/2",
+   "short": "HCL Platonești nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 2/2017 privind aprobarea contului de executie bugetara pentru anul 2016",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2017/HCL%202.pdf",
+     "sha256": "b8e02fda6ba46eb4933be2807eb2dda5de4853ec3b8b758e1fb9c0f5650f25ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-3-2017",
+   "path": "local/ialomita/platonesti/2017/3",
+   "short": "HCL Platonești nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 3/2017 privind aprob. acop. definitive din excedentul bug. loc. an precedent a deficitului sectiunii de dezv",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2017/HCL%203.pdf",
+     "sha256": "6319cfad1d2b8b4aa47d8a80e02e8425105af43de39700a08e06ac91e5761a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-4-2017",
+   "path": "local/ialomita/platonesti/2017/4",
+   "short": "HCL Platonești nr. 4/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 4/2017 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru anul 2017",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2017/HCL%204.pdf",
+     "sha256": "2a23781aa2fef8d142b6de486624e8aa4db217054b40ad754489c12c886eccb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-5-2017",
+   "path": "local/ialomita/platonesti/2017/5",
+   "short": "HCL Platonești nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 5/2017 privind num. pers. cu atrib. in dom. ap. impotriva incendiilor la niv. obiectivelor subord. CL Platonesti",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2017/HCL%205.pdf",
+     "sha256": "4f2e98342866ed22e1fd7d1a6eb86a09564613dca2daebf7768a3a03346ba40d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-6-2017",
+   "path": "local/ialomita/platonesti/2017/6",
+   "short": "HCL Platonești nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 6/2017 privind reactualizarea planului de analiza si acoperire a riscurilor aferent comunei Platonesti",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2017/HCL%206.pdf",
+     "sha256": "12394fab49818530384593847cc2399a3e580ce160ff48a177f86857f84f28d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-7-2017",
+   "path": "local/ialomita/platonesti/2017/7",
+   "short": "HCL Platonești nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 7/2017 privind stabilirea pretului de inchiriere buldoexcavator",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2017/HCL%207.pdf",
+     "sha256": "5835c57a1ec51ef3af6a17806836b1331e8abb153e496fa4e0b5789ddfb0bc16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-8-2017",
+   "path": "local/ialomita/platonesti/2017/8",
+   "short": "HCL Platonești nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 8/2017 privind insusirea rap. de eval. privind activele fixe corporale din dom. public si privat com. Platonesti",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2017/HCL%208.pdf",
+     "sha256": "cc4e41bed9152f200bfbad2c1ac6e0aea9072a92b4444b08e7887ab6ce6ee255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--platonesti-9-2017",
+   "path": "local/ialomita/platonesti/2017/9",
+   "short": "HCL Platonești nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Platonești nr. 9/2017 privind aprob. mentinerii retelei şc. a unitătilor de înv. preuniv. de stat pt. anul scolar 2017-2018",
+   "url": "http://www.platonesti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "http://www.platonesti.ro/z_Consiliul%20Local/Hotarari/2017/HCL%209.pdf",
+     "sha256": "03ecf32338d44c34d58dec37aa746a5a159c5142d2617fbaad9479e24389e273"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/batrana/2019",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--batrana-23-2019",
+   "path": "local/hunedoara/batrana/2019/23",
+   "short": "HCL Bătrâna nr. 23/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 23/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ee949c0aaef3850ae84f5c8574c6dd8e13a94f50972ff6aa6d5662233b0b1092"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--batrana-26-2019",
+   "path": "local/hunedoara/batrana/2019/26",
+   "short": "HCL Bătrâna nr. 26/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 26/2019 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+   "url": "https://primaria-batrina.ro/wp-content/uploads/2019/10/HCL-nr-26-din-2019-privind-alegerea-presedintelui-de-sedinta-pe-o-perioada-de-3-luni-.pdf",
+   "versions": [
+    {
+     "from": "2019-08-26",
+     "units": 1,
+     "source_url": "https://primaria-batrina.ro/wp-content/uploads/2019/10/HCL-nr-26-din-2019-privind-alegerea-presedintelui-de-sedinta-pe-o-perioada-de-3-luni-.pdf",
+     "sha256": "d6fe324c35dbeda66c6b26ecda56abc19ee33ea26ee47a7aadaa94d4b8b665fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--batrana-31-2019",
+   "path": "local/hunedoara/batrana/2019/31",
+   "short": "HCL Bătrâna nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 31/2019 privind aprobarea valorificarii masei lemnoase din fondul forestier al om Batrana,jud.Hunedoara,in anul 2019",
+   "url": "https://primaria-batrina.ro/wp-content/uploads/2019/11/HCL-nr-31-din-2019-privind-aprobarea-valorificarii-masei-lemnoase-din-fondul-forestier-al-om-Batranajud.Hunedoarain-anul-2019-.pdf",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 1,
+     "source_url": "https://primaria-batrina.ro/wp-content/uploads/2019/11/HCL-nr-31-din-2019-privind-aprobarea-valorificarii-masei-lemnoase-din-fondul-forestier-al-om-Batranajud.Hunedoarain-anul-2019-.pdf",
+     "sha256": "25fafec3cfceff32124813c248e1684c05c5b5d8eb24ce0acc1e4f46735a2a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--batrana-32-2019",
+   "path": "local/hunedoara/batrana/2019/32",
+   "short": "HCL Bătrâna nr. 32/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 32/2019 privind infiintarea Serviciului de iluminat public al comunei Batrana",
+   "url": "https://primaria-batrina.ro/wp-content/uploads/2020/02/HCL-nr.32-din-2019-privind-infiintarea-Serviciului-de-iluminat-public-al-comunei-Batrana.pdf",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primaria-batrina.ro/wp-content/uploads/2020/02/HCL-nr.32-din-2019-privind-infiintarea-Serviciului-de-iluminat-public-al-comunei-Batrana.pdf",
+     "sha256": "fb82db311f47a867119d2e0243efba4130dad421d74de6d35bcb549e24d2bd63"
+    }
+   ]
+  }
+ ]
+}

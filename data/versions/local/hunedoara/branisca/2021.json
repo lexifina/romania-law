@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/branisca/2021",
  "acts": [
   {
+   "slug": "hcl-hunedoara--branisca-10-2021",
+   "path": "local/hunedoara/branisca/2021/10",
+   "short": "HCL Brănișca nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 10/2021",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/24646",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/24646",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--branisca-11-2021",
    "path": "local/hunedoara/branisca/2021/11",
    "short": "HCL Brănișca nr. 11/2021",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--branisca-13-2021",
+   "path": "local/hunedoara/branisca/2021/13",
+   "short": "HCL Brănișca nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 13/2021 privind aprobarea bugetului local al comunei Brănișca pe anul 2021 si estimările pe anii 2022-2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/25099",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/25099",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--branisca-14-2021",
    "path": "local/hunedoara/branisca/2021/14",
    "short": "HCL Brănișca nr. 14/2021",
@@ -43,6 +73,21 @@
      "from": "2021-04-21",
      "units": 1,
      "source_url": "https://emol.ro/branisca-hd/registru-hcl/25100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-15-2021",
+   "path": "local/hunedoara/branisca/2021/15",
+   "short": "HCL Brănișca nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 15/2021 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul I al anului 2021 si a stabilirii masurilor pentru eficentizarea acestei activități",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/25101",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/25101",
      "sha256": null
     }
    ]
@@ -63,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--branisca-17-2021",
+   "path": "local/hunedoara/branisca/2021/17",
+   "short": "HCL Brănișca nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 17/2021 privind însusirea procesului verbal al comisiei de negociere a redevenței pentru concesionara unui spațiu având destinația de cabinet medical individual si înctocmirea unui act adițional la contractual de concesiune nr. 4/15.10.2004",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/25103",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/25103",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--branisca-18-2021",
    "path": "local/hunedoara/branisca/2021/18",
    "short": "HCL Brănișca nr. 18/2021",
@@ -78,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--branisca-19-2021",
+   "path": "local/hunedoara/branisca/2021/19",
+   "short": "HCL Brănișca nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 19/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/25105",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/25105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--branisca-20-2021",
    "path": "local/hunedoara/branisca/2021/20",
    "short": "HCL Brănișca nr. 20/2021",
@@ -88,6 +163,21 @@
      "from": "2021-05-26",
      "units": 1,
      "source_url": "https://emol.ro/branisca-hd/registru-hcl/54846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-21-2021",
+   "path": "local/hunedoara/branisca/2021/21",
+   "short": "HCL Brănișca nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 21/2021",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/54847",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/54847",
      "sha256": null
     }
    ]

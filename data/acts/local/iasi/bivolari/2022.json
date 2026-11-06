@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bivolari-136-2022",
+"path": "local/iasi/bivolari/2022/136",
+"kind": "local",
+"year": "2022",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 136/2022 privind sprijin financiar pentru parohiile din comuna Bivolari, județul Iași",
+"short": "HCL Bivolari nr. 136/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/85731",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bivolari-137-2022",
 "path": "local/iasi/bivolari/2022/137",
 "kind": "local",
@@ -154,6 +176,50 @@
 "council_name": "Consiliul Local al Comunei Bivolari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-138-2022",
+"path": "local/iasi/bivolari/2022/138",
+"kind": "local",
+"year": "2022",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 138/2022 privind reactualizarea-Programului anual de achiziții publice pe anul 2022",
+"short": "HCL Bivolari nr. 138/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/85737",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-139-2022",
+"path": "local/iasi/bivolari/2022/139",
+"kind": "local",
+"year": "2022",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 139/2022 privind aprobarea Programului anual de achiziții publice pe anul 2023 și a Strategiei anuale de achiziție publică pentru anul 2023",
+"short": "HCL Bivolari nr. 139/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/85738",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +311,50 @@
 }
 },
 {
+"slug": "hcl-iasi--bivolari-144-2022",
+"path": "local/iasi/bivolari/2022/144",
+"kind": "local",
+"year": "2022",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 144/2022 privind achiziția de servicii consultanță achiziții publice pentru obiectivul: „Extindere corp școală în vederea amenajării de grupuri sanitare”",
+"short": "HCL Bivolari nr. 144/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/85743",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-145-2022",
+"path": "local/iasi/bivolari/2022/145",
+"kind": "local",
+"year": "2022",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 145/2022 privind achiziția de servicii de consultanță în domeniul SSM și PSI",
+"short": "HCL Bivolari nr. 145/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/85744",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bivolari-146-2022",
 "path": "local/iasi/bivolari/2022/146",
 "kind": "local",
@@ -264,6 +374,50 @@
 "council_name": "Consiliul Local al Comunei Bivolari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-147-2022",
+"path": "local/iasi/bivolari/2022/147",
+"kind": "local",
+"year": "2022",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 147/2022 privind conferirea titlului de CETĂȚEAN DE ONOARE AL COMUNEI BIVOLARI",
+"short": "HCL Bivolari nr. 147/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/85746",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-148-2022",
+"path": "local/iasi/bivolari/2022/148",
+"kind": "local",
+"year": "2022",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 148/2022 privind achiziție Licență aplicație e-MOL",
+"short": "HCL Bivolari nr. 148/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/85747",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

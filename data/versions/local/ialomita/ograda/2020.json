@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/ograda/2020",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--ograda-1-2020",
+   "path": "local/ialomita/ograda/2020/1",
+   "short": "HCL Ograda nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 1/2020",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2020/HCL%20nr.%2001%20din%2018.02.2020.pdf",
+     "sha256": "ead8c59fb897fb1d7d4d91b9648c70d22c9117395048c9a56d6a1c7ba3ab03de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-2-2020",
+   "path": "local/ialomita/ograda/2020/2",
+   "short": "HCL Ograda nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 2/2020",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2020/HCL%20nr.%2002%20din%2018.02.2020.pdf",
+     "sha256": "e1354251eba3741de946869c103c145eb8280e8ef1d7c10c71eaf32a91f4e2b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-3-2020",
+   "path": "local/ialomita/ograda/2020/3",
+   "short": "HCL Ograda nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 3/2020",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2020/HCL%20nr.%2003%20din%2018.02.2020.pdf",
+     "sha256": "95cad50494da7a19b661eb47e701b23321d4d7ccfa60a14cf583ac095c24687d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-4-2020",
+   "path": "local/ialomita/ograda/2020/4",
+   "short": "HCL Ograda nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 4/2020",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2020/HCL%20nr.%2004%20din%2018.02.2020.pdf",
+     "sha256": "fc87096d868bfc06594b3ec1549bf13b1fec77bb1c30592d4e7d505daab6cd4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-5-2020",
+   "path": "local/ialomita/ograda/2020/5",
+   "short": "HCL Ograda nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 5/2020",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2020/HCL%20nr.%2005%20din%2018.02.2020.pdf",
+     "sha256": "07130ecee5add2dcba5c127d60913032d411bb549570f3fe316be8c79f3ff214"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-6-2020",
+   "path": "local/ialomita/ograda/2020/6",
+   "short": "HCL Ograda nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 6/2020",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2020/HCL%20nr.%2006%20din%2018.02.2020.pdf",
+     "sha256": "5b50461a472d036bc856fef3b302fd4ee5343692abd47a7d8bffe17cf216b792"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-7-2020",
+   "path": "local/ialomita/ograda/2020/7",
+   "short": "HCL Ograda nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 7/2020",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2020/HCL%20nr.%2007%20din%2018.02.2020.pdf",
+     "sha256": "1c23ce688b6a0be2386108e9f96eed1fd3a73a8d18dd2482de561137254fc070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-8-2020",
+   "path": "local/ialomita/ograda/2020/8",
+   "short": "HCL Ograda nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 8/2020",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2020/HCL%20nr.%2008%20din%2018.02.2020.pdf",
+     "sha256": "c98570f32364d2ed14f3dc59741b26633cf24ccb955a1e5db417f9fb1524868c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ograda-9-2020",
+   "path": "local/ialomita/ograda/2020/9",
+   "short": "HCL Ograda nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ograda nr. 9/2020",
+   "url": "http://www.primariaograda.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://www.primariaograda.ro/z_Consiliul%20Local/Hotarari/2020/HCL%20nr.%2009%20din%2018.02.2020.pdf",
+     "sha256": "9bad85288d97d3a7dc94c8d540bc66ccc2032be3d27ed0ffb160186a07f6e50f"
+    }
+   ]
+  }
+ ]
+}

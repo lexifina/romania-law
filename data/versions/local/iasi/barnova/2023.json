@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-120-2023",
+   "path": "local/iasi/barnova/2023/120",
+   "short": "HCL Bârnova nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 120/2023 privind aprobarea vânzării directe către d-nul Ciobanu Tudor-Adrian a terenului în suprafaţă de 1000 mp cu nr. cadastral 72660 amplasat în sat Todirel, teren atribuit în temeiul Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, cu modificările ulterioare, prin Hotărârea Consiliului Local Bârnova cu nr. 52 din 24.05.2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/134153",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/134153",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-121-2023",
    "path": "local/iasi/barnova/2023/121",
    "short": "HCL Bârnova nr. 121/2023",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-122-2023",
+   "path": "local/iasi/barnova/2023/122",
+   "short": "HCL Bârnova nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 122/2023 privind Aprobarea de către Consiliul Local al comunei Bârnova a raportului cu privire la asistenții personali și indemnizațiile nete la sfârșitul lunii decembrie 2023 după finalizarea semestrului II al anului 2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/134155",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/134155",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-123-2023",
    "path": "local/iasi/barnova/2023/123",
    "short": "HCL Bârnova nr. 123/2023",
@@ -118,6 +148,36 @@
      "from": "2024-02-02",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/134156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-124-2023",
+   "path": "local/iasi/barnova/2023/124",
+   "short": "HCL Bârnova nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 124/2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/134157",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/134157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-125-2023",
+   "path": "local/iasi/barnova/2023/125",
+   "short": "HCL Bârnova nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 125/2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/136570",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/136570",
      "sha256": null
     }
    ]
@@ -208,6 +268,21 @@
      "from": "2024-02-02",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/136576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-132-2023",
+   "path": "local/iasi/barnova/2023/132",
+   "short": "HCL Bârnova nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 132/2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/136577",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/136577",
      "sha256": null
     }
    ]

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/baia-de-cris/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-16-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/16",
+   "short": "HCL Baia de Criș nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 16/2023 nominalizarea consilierilor locali, care să facă parte din comisia pentru evaluarea activităţii secretarului general al unităţii administrativ-teritoriale comuna Baia de Cris, pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44500",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44500",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

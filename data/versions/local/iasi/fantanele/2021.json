@@ -3,6 +3,51 @@
  "shard": "local/iasi/fantanele/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--fantanele-100-2021",
+   "path": "local/iasi/fantanele/2021/100",
+   "short": "HCL Fântânele nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 100/2021 privind aprobarea ordinii de zi al ședinței extraordinare a Consiliului Local - Fântânele din data de 17.11.2021",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50346",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-101-2021",
+   "path": "local/iasi/fantanele/2021/101",
+   "short": "HCL Fântânele nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 101/2021 privind aderarea Comunei Fântânele, județul Iași prin Consiliul Local Fântânele la ''Asociația de Dezvoltare Intercomunitară - Dezvoltare Sustenabilă și Integrată în Țara de Sus''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50347",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-102-2021",
+   "path": "local/iasi/fantanele/2021/102",
+   "short": "HCL Fântânele nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 102/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local - Fântânele din data de 29.11.2021",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50348",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50348",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-103-2021",
    "path": "local/iasi/fantanele/2021/103",
    "short": "HCL Fântânele nr. 103/2021",
@@ -13,6 +58,96 @@
      "from": "2021-11-29",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/50349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-104-2021",
+   "path": "local/iasi/fantanele/2021/104",
+   "short": "HCL Fântânele nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 104/2021",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50350",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-105-2021",
+   "path": "local/iasi/fantanele/2021/105",
+   "short": "HCL Fântânele nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 105/2021 privind alocarea unor fonduri bănești pentru organizarea Pomului de Crăciun, copiilor școlari și preșcolari din comuna Fântânele, județul Iași în anul 2021",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50351",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-106-2021",
+   "path": "local/iasi/fantanele/2021/106",
+   "short": "HCL Fântânele nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 106/2021 privind achiziționarea de servicii pentru intervenții cu autospeciala de stingere cu apă și spumă pentru limitarea și înlăturarea urmărilor incendiilor care se pot produce pe raza administrativa a UAT Fântânele",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50352",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-107-2021",
+   "path": "local/iasi/fantanele/2021/107",
+   "short": "HCL Fântânele nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 107/2021 privind aprobarea amplasării unui cămin pentru montare apometru pe domeniul public al comunei Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50353",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-108-2021",
+   "path": "local/iasi/fantanele/2021/108",
+   "short": "HCL Fântânele nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 108/2021 privind înregistrarea comunei Fântânele în Sistemul național electronic de plată onlice a taxelor și impozitelor utilizând cardul bancar",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50354",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-109-2021",
+   "path": "local/iasi/fantanele/2021/109",
+   "short": "HCL Fântânele nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 109/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local - Fântânele din data de 23.12.2021",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50487",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50487",
      "sha256": null
     }
    ]
@@ -33,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-111-2021",
+   "path": "local/iasi/fantanele/2021/111",
+   "short": "HCL Fântânele nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 111/2021",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50489",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50489",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-112-2021",
    "path": "local/iasi/fantanele/2021/112",
    "short": "HCL Fântânele nr. 112/2021",
@@ -48,6 +198,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-113-2021",
+   "path": "local/iasi/fantanele/2021/113",
+   "short": "HCL Fântânele nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 113/2021 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50491",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-114-2021",
+   "path": "local/iasi/fantanele/2021/114",
+   "short": "HCL Fântânele nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 114/2021 privind stabilirea datelor de ședință pentru trimestrul I Ianuarie, Februarie, Martie 2022 și stabilirea președintelui de ședință",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50492",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-115-2021",
+   "path": "local/iasi/fantanele/2021/115",
+   "short": "HCL Fântânele nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 115/2021 privind modificarea HCL nr. 52/31.05.2021",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50493",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-116-2021",
+   "path": "local/iasi/fantanele/2021/116",
+   "short": "HCL Fântânele nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 116/2021 privind solicitarea de prelungire a scrisorii de garanție din partea Fondului de garantare",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50494",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50494",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-97-2021",
    "path": "local/iasi/fantanele/2021/97",
    "short": "HCL Fântânele nr. 97/2021",
@@ -58,6 +268,21 @@
      "from": "2021-11-05",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/50343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-98-2021",
+   "path": "local/iasi/fantanele/2021/98",
+   "short": "HCL Fântânele nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 98/2021 privind aprobarea ordinii de zi al ședinței extraordinare a Consiliului Local - Fântânele din data de 15.11.2021",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/50344",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/50344",
      "sha256": null
     }
    ]

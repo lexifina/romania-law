@@ -3,6 +3,21 @@
  "shard": "local/iasi/coarnele-caprei/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--coarnele-caprei-69-2025",
+   "path": "local/iasi/coarnele-caprei/2025/69",
+   "short": "HCL Coarnele Caprei nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 69/2025 privind asigurarea suportului IT în vederea implementării și actualizării Registrului Local al Spațiilor Verzi",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234516",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234516",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-70-2025",
    "path": "local/iasi/coarnele-caprei/2025/70",
    "short": "HCL Coarnele Caprei nr. 70/2025",
@@ -13,6 +28,36 @@
      "from": "2025-11-06",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-71-2025",
+   "path": "local/iasi/coarnele-caprei/2025/71",
+   "short": "HCL Coarnele Caprei nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 71/2025 privind rectificare buget pe trim. IV-2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234521",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/234521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-72-2025",
+   "path": "local/iasi/coarnele-caprei/2025/72",
+   "short": "HCL Coarnele Caprei nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 72/2025 privind aprobare proces-verbal al ședinței din data de 24.10.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/238593",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/238593",
      "sha256": null
     }
    ]
@@ -43,6 +88,21 @@
      "from": "2025-12-02",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/238595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-75-2025",
+   "path": "local/iasi/coarnele-caprei/2025/75",
+   "short": "HCL Coarnele Caprei nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 75/2025 privind aprobarea proces-verbal al ședinței din data de 21.11.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/238596",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/238596",
      "sha256": null
     }
    ]
@@ -108,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--coarnele-caprei-80-2025",
+   "path": "local/iasi/coarnele-caprei/2025/80",
+   "short": "HCL Coarnele Caprei nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 80/2025 privind aprobare proces-verbal al ședinței din data de 28.11.2025",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/243095",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/243095",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--coarnele-caprei-81-2025",
    "path": "local/iasi/coarnele-caprei/2025/81",
    "short": "HCL Coarnele Caprei nr. 81/2025",
@@ -163,6 +238,21 @@
      "from": "2025-12-22",
      "units": 1,
      "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/243109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--coarnele-caprei-85-2025",
+   "path": "local/iasi/coarnele-caprei/2025/85",
+   "short": "HCL Coarnele Caprei nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 85/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coarnelecaprei-is/registru-hcl/243110",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/coarnelecaprei-is/registru-hcl/243110",
      "sha256": null
     }
    ]

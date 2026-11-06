@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--scanteia-61-2025",
+"path": "local/ialomita/scanteia/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 61/2025 privind desemnarea reprezentantilor Consiliului Local al Comunei Scânteia în Consiliul de Administrație al Școlii Gimnaziale Scânteia, și in alte Comisii al Școlii Gimnaziale Scânteia in anul scolar 2025-2026",
+"short": "HCL Scânteia nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/254844",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--scanteia-62-2025",
 "path": "local/ialomita/scanteia/2025/62",
 "kind": "local",
@@ -133,6 +155,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-64-2025",
+"path": "local/ialomita/scanteia/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 64/2025 privind modificarea Hotărârii Consiliului Local al comunei Scânteia nr. 37/2025 privind concesionarea prin licitație publică a suprafeței de 45,7164 ha teren situat în extravilanul comunei Scânteia, sat Scânteia, județul Ialomița",
+"short": "HCL Scânteia nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/254847",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -354,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Scânteia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-75-2025",
+"path": "local/ialomita/scanteia/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 75/2025 privind modificarea HCL nr.38/2025 concesionarea prin licitație publică deschisă a 3 loturi de teren situate în intravilanul comunei Scânteia, sat Scânteia și sat Iazu, aparţinând domeniului privat al comunei Scânteia, judeţul Ialomiţa",
+"short": "HCL Scânteia nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/254866",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

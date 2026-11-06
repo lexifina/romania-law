@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-90-2023",
+   "path": "local/hunedoara/luncoiu-de-jos/2023/90",
+   "short": "HCL Luncoiu de Jos nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 90/2023",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/130852",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/130852",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-91-2023",
    "path": "local/hunedoara/luncoiu-de-jos/2023/91",
    "short": "HCL Luncoiu de Jos nr. 91/2023",
@@ -208,6 +223,36 @@
      "from": "2024-03-18",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/132208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-95-2023",
+   "path": "local/hunedoara/luncoiu-de-jos/2023/95",
+   "short": "HCL Luncoiu de Jos nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 95/2023 privind aprobarea participării la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” pentru obiectivul de investiții ,,Reabilitare si eficientizare energetica a sediului Primariei Luncoiu de Jos”",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/132688",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/132688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-96-2023",
+   "path": "local/hunedoara/luncoiu-de-jos/2023/96",
+   "short": "HCL Luncoiu de Jos nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 96/2023 privind aprobarea participării la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” pentru obiectivul de investiții ,,Reabilitare si eficientizare energetica a Școlii Primare Podele”",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/132689",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/132689",
      "sha256": null
     }
    ]

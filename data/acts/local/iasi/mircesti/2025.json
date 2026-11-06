@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/iasi/mircesti/2025",
+"acts": [
+{
+"slug": "hcl-iasi--mircesti-44-2025",
+"path": "local/iasi/mircesti/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mircești nr. 44/2025",
+"short": "HCL Mircești nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://mircesti.ro/hcl-2025/",
+"council": "iasi/mircesti",
+"council_name": "Consiliul Local al Comunei Mircești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

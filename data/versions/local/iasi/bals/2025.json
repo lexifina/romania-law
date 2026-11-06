@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bals-138-2025",
+   "path": "local/iasi/bals/2025/138",
+   "short": "HCL Balș nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 138/2025 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului local al comunei Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/264387",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/264387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-139-2025",
+   "path": "local/iasi/bals/2025/139",
+   "short": "HCL Balș nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 139/2025 privind aprobarea procesului verbal al ședinței ordinare al Consiliului local Balș, județul Iași, din data de 29.10.2025",
+   "url": "https://emol.ro/bals-is/registru-hcl/264388",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/264388",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bals-140-2025",
    "path": "local/iasi/bals/2025/140",
    "short": "HCL Balș nr. 140/2025",
@@ -28,6 +58,36 @@
      "from": "2025-11-10",
      "units": 1,
      "source_url": "https://emol.ro/bals-is/registru-hcl/264421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-141-2025",
+   "path": "local/iasi/bals/2025/141",
+   "short": "HCL Balș nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 141/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/264422",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/264422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-142-2025",
+   "path": "local/iasi/bals/2025/142",
+   "short": "HCL Balș nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 142/2025 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului local Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/264423",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/264423",
      "sha256": null
     }
    ]
@@ -73,6 +133,36 @@
      "from": "2025-11-26",
      "units": 1,
      "source_url": "https://emol.ro/bals-is/registru-hcl/264433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-146-2025",
+   "path": "local/iasi/bals/2025/146",
+   "short": "HCL Balș nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 146/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al comunei Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/264434",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/264434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-147-2025",
+   "path": "local/iasi/bals/2025/147",
+   "short": "HCL Balș nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 147/2025 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Balș, județul Iași, din data de 26.11.2025",
+   "url": "https://emol.ro/bals-is/registru-hcl/264435",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/264435",
      "sha256": null
     }
    ]

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-169-2023",
+   "path": "local/iasi/aroneanu/2023/169",
+   "short": "HCL Aroneanu nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 169/2023 privind acceptarea ofertelor de donație pentru terenul în suprafață de 50 mp. având nr. cadastral 68053 situat în extravilanul comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/135139",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/135139",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-170-2023",
    "path": "local/iasi/aroneanu/2023/170",
    "short": "HCL Aroneanu nr. 170/2023",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-179-2023",
+   "path": "local/iasi/aroneanu/2023/179",
+   "short": "HCL Aroneanu nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 179/2023 privind alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul I al anului 2024",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/136698",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/136698",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-180-2023",
    "path": "local/iasi/aroneanu/2023/180",
    "short": "HCL Aroneanu nr. 180/2023",
@@ -178,6 +208,21 @@
      "from": "2024-01-12",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/136700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-182-2023",
+   "path": "local/iasi/aroneanu/2023/182",
+   "short": "HCL Aroneanu nr. 182/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 182/2023 privind aprobarea vânzării suprafeţei de teren de 507 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/136701",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/136701",
      "sha256": null
     }
    ]

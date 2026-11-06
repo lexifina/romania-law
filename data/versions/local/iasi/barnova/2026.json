@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-106-2026",
+   "path": "local/iasi/barnova/2026/106",
+   "short": "HCL Bârnova nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 106/2026 privind aprobarea desemnării reprezentanților Consiliului Local Bârnova pentru Școala Gimnazială Bârnova care are vacantă postul de director pentru a face parte din Comisia de evaluare a probei de interviu în calitate de membru și de membru supleant",
+   "url": "https://emol.ro/barnova-is/registru-hcl/291530",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/291530",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-107-2026",
    "path": "local/iasi/barnova/2026/107",
    "short": "HCL Bârnova nr. 107/2026",
@@ -103,6 +118,21 @@
      "from": "2026-10-14",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/291531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-108-2026",
+   "path": "local/iasi/barnova/2026/108",
+   "short": "HCL Bârnova nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 108/2026 privind aprobare modificării hotărârii Consiliului Local Bârnova cu nr. 141 din 18.11.2024, în sensul declanșarii procedurii de expropriere a suprafeței totale de 32.475 mp, proprietate privată a SC AGROINDUSTRIALA BUCIUM SA",
+   "url": "https://emol.ro/barnova-is/registru-hcl/291532",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/291532",
      "sha256": null
     }
    ]
@@ -178,6 +208,21 @@
      "from": "2026-10-19",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/292524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-114-2026",
+   "path": "local/iasi/barnova/2026/114",
+   "short": "HCL Bârnova nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 114/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/292525",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/292525",
      "sha256": null
     }
    ]

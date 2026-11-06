@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-88-2021",
+"path": "local/iasi/costesti/2021/88",
+"kind": "local",
+"year": "2021",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 88/2021 privind desemnarea un membru din cadrul Consiliului Local Comuna Costeşti, jud. Iaşi, care va face parte din Comisia de evaluare a probei de interviu, privind organizarea şi desfăşurarea concursului pentru ocuparea funcţiei de director din unităţile de învăţământ preuniversitar de stat din Comuna Costeşti, jud. Iaşi",
+"short": "HCL Costești nr. 88/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/costesti-is/registru-hcl/41534",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-89-2021",
 "path": "local/iasi/costesti/2021/89",
 "kind": "local",
@@ -267,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-iasi--costesti-95-2021",
+"path": "local/iasi/costesti/2021/95",
+"kind": "local",
+"year": "2021",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 95/2021 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru lunile IANUARIE, FEBRUARIE şi MARTIE 2022",
+"short": "HCL Costești nr. 95/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/costesti-is/registru-hcl/46620",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--costesti-96-2021",
 "path": "local/iasi/costesti/2021/96",
 "kind": "local",
@@ -286,6 +330,51 @@
 "council_name": "Consiliul Local al Comunei Costești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--costesti-97-2021",
+"path": "local/iasi/costesti/2021/97",
+"kind": "local",
+"year": "2021",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 97/2021",
+"short": "HCL Costești nr. 97/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/costesti-is/registru-hcl/46622",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--costesti-98-2021",
+"path": "local/iasi/costesti/2021/98",
+"kind": "local",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costești nr. 98/2021 privind aprobarea vânzării cu drept de preempţiune a suprafeţei de 793 m2 teren situat în Tarlaua 40, Parcela A 2105 şi CC 2106-intravilanul comunei Costeşti, jud. Iaşi",
+"short": "HCL Costești nr. 98/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/costesti-is/registru-hcl/46623",
+"council": "iasi/costesti",
+"council_name": "Consiliul Local al Comunei Costești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

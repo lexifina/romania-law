@@ -3,6 +3,28 @@
 "shard": "local/iasi/ciortesti/2024",
 "acts": [
 {
+"slug": "hcl-iasi--ciortesti-90-2024",
+"path": "local/iasi/ciortesti/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 90/2024 privind îndreptarea erorii cap. VI art. 10 din Regulamentul anexa la HCL 78/24.09.2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+"short": "HCL Ciortești nr. 90/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/208776",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-91-2024",
 "path": "local/iasi/ciortesti/2024/91",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-94-2024",
+"path": "local/iasi/ciortesti/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 94/2024 privind aprobarea Regulamentului de organizare și funcționare al Consiliului local al comunei Ciortești",
+"short": "HCL Ciortești nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/209094",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -374,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-109-2024",
+"path": "local/iasi/ciortesti/2024/109",
+"kind": "local",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 109/2024 privind darea în folosință gratuită a unui spațiu din incinta apartamentului de serviciu, având numărul cadastral nr. 61299, pentru funcționarea unei substații a Serviciului de Ambulanță Județean Iași",
+"short": "HCL Ciortești nr. 109/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/209318",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

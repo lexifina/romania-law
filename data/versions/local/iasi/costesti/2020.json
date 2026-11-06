@@ -3,6 +3,21 @@
  "shard": "local/iasi/costesti/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--costesti-69-2020",
+   "path": "local/iasi/costesti/2020/69",
+   "short": "HCL Costești nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 69/2020 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru lunile noiembrie şi decembrie 2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/11411",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/11411",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-70-2020",
    "path": "local/iasi/costesti/2020/70",
    "short": "HCL Costești nr. 70/2020",
@@ -13,6 +28,21 @@
      "from": "2020-11-05",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/11412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-71-2020",
+   "path": "local/iasi/costesti/2020/71",
+   "short": "HCL Costești nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 71/2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/11413",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/11413",
      "sha256": null
     }
    ]
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-76-2020",
+   "path": "local/iasi/costesti/2020/76",
+   "short": "HCL Costești nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 76/2020 privind aprobarea acordării unui ajutor financiar în valoare de 3.000 (trei mii) lei parohiei tăierea capului sf. ioan botezătorul din sat giurgeşti, comuna costeşti, jud. iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/13355",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/13355",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-77-2020",
    "path": "local/iasi/costesti/2020/77",
    "short": "HCL Costești nr. 77/2020",
@@ -138,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-81-2020",
+   "path": "local/iasi/costesti/2020/81",
+   "short": "HCL Costești nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 81/2020 privind desemnarea reprezentantului comunei Costeşti, jud Iaşi și a persoanelor care pot înlocui reprezentantul comunei Costeşti, jud Iaşi, în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal - ARSACIS",
+   "url": "https://emol.ro/costesti-is/registru-hcl/13360",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/13360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-82-2020",
+   "path": "local/iasi/costesti/2020/82",
+   "short": "HCL Costești nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 82/2020 privind desemnarea reprezentantului legal și a persoanei/persoanelor care pot înlocui reprezentantul legal al UAT Comuna Costeşti, jud. Iaşi, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate A.D.I.S Iaşi",
+   "url": "https://emol.ro/costesti-is/registru-hcl/13361",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/13361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-83-2020",
+   "path": "local/iasi/costesti/2020/83",
+   "short": "HCL Costești nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 83/2020 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru lunile ianuarie, februarie şi martie 2021",
+   "url": "https://emol.ro/costesti-is/registru-hcl/15417",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/15417",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-84-2020",
    "path": "local/iasi/costesti/2020/84",
    "short": "HCL Costești nr. 84/2020",
@@ -148,6 +238,21 @@
      "from": "2020-12-17",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/15418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-85-2020",
+   "path": "local/iasi/costesti/2020/85",
+   "short": "HCL Costești nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 85/2020",
+   "url": "https://emol.ro/costesti-is/registru-hcl/15419",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/15419",
      "sha256": null
     }
    ]

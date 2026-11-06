@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/simeria/2019",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--simeria-57-2019",
+   "path": "local/hunedoara/simeria/2019/57",
+   "short": "HCL Simeria nr. 57/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 57/2019",
+   "url": "https://primariasimeria.ro/consiliul-local/servicii-publice-subordonate/directia-de-asistenta-sociala/despre-noi/legislatie/",
+   "versions": [
+    {
+     "from": "2019-07-03",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/2025/11/ORDONANTA-DE-URGENTA-nr.-57-din-3-iulie-2019_Codul-administartiv.pdf",
+     "sha256": "addd1c95938db5b367a4e2be6a425e912903f527bb34915aab7832b45106b8a4"
+    }
+   ]
+  }
+ ]
+}

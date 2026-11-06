@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/letcani/2026",
+ "acts": [
+  {
+   "slug": "hcl-iasi--letcani-101-2026",
+   "path": "local/iasi/letcani/2026/101",
+   "short": "HCL Lețcani nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 101/2026 privind aprobare dare în folosință gratuită către UAT Județul Iași - Consiliul Județean Iași a imobilului-teren în suprafață de 20.000 mp, identificat cadastral cu nr.61077 Lețcani, pe care este construit Parcul Agroindustrial TransAgropolis pentru asigurarea condițiilor juridice necesare exploatării eficace în regim de continuitate a acestui obiectiv",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296124",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-102-2026",
+   "path": "local/iasi/letcani/2026/102",
+   "short": "HCL Lețcani nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 102/2026 privind aprobarea vânzării, prin licitație publică, a bunului imobil ,,Buldoexcavator tip CASE 695”, cu nr. inventar 2100004, inregistrat in Balanta analitica Cont 213-Instalatii tehnice, mijloace de transport, animale si plantatii la 31.12.2025",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296125",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-103-2026",
+   "path": "local/iasi/letcani/2026/103",
+   "short": "HCL Lețcani nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 103/2026 privind aprobarea criteriilor de zonare a terenurilor, delimitarea acestora, încadrarea străzilor și a unor imobile situate în intravilanul și extravilanul comunei Lețcani în zonele de impozitare delimitate, în vederea stabilirii impozitelor și taxelor locale, la nivelul comunei Lețcani",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296126",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-104-2026",
+   "path": "local/iasi/letcani/2026/104",
+   "short": "HCL Lețcani nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 104/2026 privind aprobare acces pe domeniul public al comunei cu lucrările necesare pentru obiectivul de investiții „Alimentare cu energie electrică a obiectivului „Iași Industrial Park”",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296127",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-105-2026",
+   "path": "local/iasi/letcani/2026/105",
+   "short": "HCL Lețcani nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 105/2026 privind aprobare acces pe domeniul public al comunei cu lucrările necesare pentru obiectivul ,,Extindere conducta de distributie gaze naturale, bransament si PRM” in localitatea Letcani, Strada Nicolae Gane, nr. 7, comuna Letcani, judetul Iasi",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296128",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-106-2026",
+   "path": "local/iasi/letcani/2026/106",
+   "short": "HCL Lețcani nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 106/2026 privind aprobare acces pe domeniul public al comunei cu lucrările necesare pentru „Extindere conductă de distribuție gaze naturale, două branșamente și două PRM-uri” str. Holm , nr.20 și nr.20B, sat Lețcani, comuna Lețcani, județul Iași, în beneficiul cetățenilor din zonă",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296129",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-107-2026",
+   "path": "local/iasi/letcani/2026/107",
+   "short": "HCL Lețcani nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 107/2026",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296130",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-108-2026",
+   "path": "local/iasi/letcani/2026/108",
+   "short": "HCL Lețcani nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 108/2026 privind aprobare acces pe domeniul public al comunei cu lucrările necesare pentru „Extindere rețea de alimentare cu apă potabilă în localitatea Lețcani, str. Aleea Decebal, comuna Lețcani, județul Iași",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296131",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-109-2026",
+   "path": "local/iasi/letcani/2026/109",
+   "short": "HCL Lețcani nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 109/2026 privind aprobarea modului de derulare a campaniei de sterilizare și microcipare a câinilor de pe raza comunei Lețcani",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296132",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-110-2026",
+   "path": "local/iasi/letcani/2026/110",
+   "short": "HCL Lețcani nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 110/2026 privind alocare de fonduri din bugetul local pentru Asociația de Oină Suceava, având punct de lucru în comuna Lețcani, în vederea asigurării transportului tur/retur pe ruta Lețcani-Bușteni",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296133",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-111-2026",
+   "path": "local/iasi/letcani/2026/111",
+   "short": "HCL Lețcani nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 111/2026 privind rectificarea bugetului local și a listei de investiții pe anul 2026, luna octombrie",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296134",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-112-2026",
+   "path": "local/iasi/letcani/2026/112",
+   "short": "HCL Lețcani nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 112/2026",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296135",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-113-2026",
+   "path": "local/iasi/letcani/2026/113",
+   "short": "HCL Lețcani nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 113/2026 privind aprobarea indicatorilor tehnico-economici și a Devizului General pentru obiectivul de investiții „Extindere rețea de distribuție apă potabilă în localitatea Lețcani, str. Maria Filotti, comuna Lețcani, județul Iași”",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296136",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-114-2026",
+   "path": "local/iasi/letcani/2026/114",
+   "short": "HCL Lețcani nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 114/2026 privind acordarea mandatului special reprezentantului UAT Comuna Lețcani pentru a vota ajustarea tarifelor de sortare, compostare, transfer și tratare mecano-biologică a deșeurilor aferente activităților de salubrizare din Contractul de delegare prin concesiune a operării stațiilor de transfer și a instalațiilor de tratare a deșeurilor municipale în județul Iași nr. 371/22.05.2019, în cadrul Proiectului „Sistem de Management Integrat al Deșeurilor din județul Iași”",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296137",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-115-2026",
+   "path": "local/iasi/letcani/2026/115",
+   "short": "HCL Lețcani nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 115/2026 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,Modernizare prin asfaltare str. Spiru Haret, com. Letcani, jud. Iasi”",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296138",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-116-2026",
+   "path": "local/iasi/letcani/2026/116",
+   "short": "HCL Lețcani nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 116/2026 privind aprobarea DEVIZULUI GENERAL TOTAL privind cheltuielile necesare realizarii lucrarii ,,Racordarea la reteaua de energie electrica Statii de reîncărcare vehicule electrice” amplasate in sat Letcani: NC 64864, 64861 si 65590, comuna Letcani , judetul Iasi",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296139",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-117-2026",
+   "path": "local/iasi/letcani/2026/117",
+   "short": "HCL Lețcani nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 117/2026 privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investitii „AMPLASARE STATII DE REINCARCARE PENTRU VEHICULE ELECTRICE, IN COMUNA LETCANI, JUDETUL IASI”",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296140",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-118-2026",
+   "path": "local/iasi/letcani/2026/118",
+   "short": "HCL Lețcani nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 118/2026",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296141",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-119-2026",
+   "path": "local/iasi/letcani/2026/119",
+   "short": "HCL Lețcani nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 119/2026 privind inițierea proiectului de investiție „MODERNIZARE CABINETE MEDICALE ȘCOLARE ÎN COMUNA LEȚCANI JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296142",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-120-2026",
+   "path": "local/iasi/letcani/2026/120",
+   "short": "HCL Lețcani nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 120/2026 privind aprobarea Programului manifestărilor organizate cu prilejul sărbătorilor de iarnă din luna decembrie 2026",
+   "url": "https://emol.ro/letcani-is/registru-hcl/296143",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/296143",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--halaucesti-50-2021",
+"path": "local/iasi/halaucesti/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 50/2021 privind desemnarea reprezentanţilor Consiliului local al comunei Hălăuceşti în Consiliul de admninistraţie al Liceului Teoretic „Bogdan Vodă” Hălăuceşti",
+"short": "HCL Hălăucești nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/39489",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--halaucesti-51-2021",
 "path": "local/iasi/halaucesti/2021/51",
 "kind": "local",
@@ -44,6 +66,160 @@
 "council_name": "Consiliul Local al Comunei Hălăucești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-52-2021",
+"path": "local/iasi/halaucesti/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 52/2021 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Act Adițional",
+"short": "HCL Hălăucești nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/41753",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-53-2021",
+"path": "local/iasi/halaucesti/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 53/2021 privind validarea modificarii bugetului de venituri si cheltuieli al comunei Hălăucești pe anul 2021, aprobat prin Dispoziția nr. 162 din 13.10.2021",
+"short": "HCL Hălăucești nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/41754",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-54-2021",
+"path": "local/iasi/halaucesti/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 54/2021 privind validarea modificarii bugetului de venituri si cheltuieli al comunei Hălăucești pe anul 2021, aprobat prin Dispoziția nr. 163 din 13.10.2021",
+"short": "HCL Hălăucești nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/41755",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-55-2021",
+"path": "local/iasi/halaucesti/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 55/2021 privind completarea și modificarea Hotărârii Consiliului local al comunei Hălăucești nr.48 din 29.09.2021 privind stabilirea nivelului minim al redevenței pentru concesionarea/închirierea spațiilor din cadrul Dispensarului medical Hălăuceşti pentru desfașurarea de activităţi de servicii medicale",
+"short": "HCL Hălăucești nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/41756",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-56-2021",
+"path": "local/iasi/halaucesti/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 56/2021 privind închirierea unui spațiu din cadrul Punctului sanitar Luncași pentru instalarea unui echipament de telecomunicații",
+"short": "HCL Hălăucești nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/41757",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-57-2021",
+"path": "local/iasi/halaucesti/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 57/2021 privind aprobarea cuantumului si a numărului de burse acordate elevilor din unităţile de învăţământ preuniversitar de stat de pe raza comunei Hălăucești",
+"short": "HCL Hălăucești nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/41758",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-58-2021",
+"path": "local/iasi/halaucesti/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 58/2021 privind modificarea bugetului de venituri si cheltuieli pe anul 2021prin virarea de credite bugetare",
+"short": "HCL Hălăucești nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/41759",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +245,50 @@
 }
 },
 {
+"slug": "hcl-iasi--halaucesti-60-2021",
+"path": "local/iasi/halaucesti/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 60/2021 privind alegerea președintelui de ședinţă",
+"short": "HCL Hălăucești nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/44259",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-61-2021",
+"path": "local/iasi/halaucesti/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 61/2021 privind aprobarea Raportului de execuţie bugetara a veniturilor şi cheltuielilor pe la data de 30.09.2021",
+"short": "HCL Hălăucești nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/44260",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--halaucesti-62-2021",
 "path": "local/iasi/halaucesti/2021/62",
 "kind": "local",
@@ -88,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Hălăucești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-63-2021",
+"path": "local/iasi/halaucesti/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 63/2021 privind aprobarea DOCUMENTAȚIEI DE ATRIBUIRE pentru închirierea prin licitatie publică unui spațiu în suprafață de 2 mp. din cadrul Punctului sanitar Luncași pentru instalarea unui echipament de telecomunicații",
+"short": "HCL Hălăucești nr. 63/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-24",
+"latest": "2021-11-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/44262",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +377,28 @@
 }
 },
 {
+"slug": "hcl-iasi--halaucesti-66-2021",
+"path": "local/iasi/halaucesti/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 66/2021 privind validarea rectificării bugetului de venituri si cheltuieli al comunei Hălăucești pe anul 2021, aprobată prin Dispoziția nr. 187 din 09.12.2021",
+"short": "HCL Hălăucești nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/49469",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--halaucesti-67-2021",
 "path": "local/iasi/halaucesti/2021/67",
 "kind": "local",
@@ -154,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Hălăucești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-68-2021",
+"path": "local/iasi/halaucesti/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 68/2021 privind rectificarea bugetului de venituri si cheltuieli al comunei Hălăucești pe anul 2021 prin suplimentarea de credite",
+"short": "HCL Hălăucești nr. 68/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/49471",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

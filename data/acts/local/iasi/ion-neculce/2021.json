@@ -91,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-107-2021",
+"path": "local/iasi/ion-neculce/2021/107",
+"kind": "local",
+"year": "2021",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 107/2021",
+"short": "HCL Ion Neculce nr. 107/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/46950",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-108-2021",
 "path": "local/iasi/ion-neculce/2021/108",
 "kind": "local",
@@ -179,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-112-2021",
+"path": "local/iasi/ion-neculce/2021/112",
+"kind": "local",
+"year": "2021",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 112/2021 aprobarea suportarii din bugetului local al comunei Ion Neculce, trecerii pe cheltuieli si achitarea sumei de 13.604.68 lei reprezentand cheltuieli de judecata către reclamanții",
+"short": "HCL Ion Neculce nr. 112/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/46980",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-113-2021",
 "path": "local/iasi/ion-neculce/2021/113",
 "kind": "local",
@@ -198,6 +243,51 @@
 "council_name": "Consiliul Local al Comunei Ion Neculce",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-114-2021",
+"path": "local/iasi/ion-neculce/2021/114",
+"kind": "local",
+"year": "2021",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 114/2021 privind acordarea unui sprijin financiar pentru Parohia Pogorârea Sfântului Duh Dadesti, comuna Ion Neculce, județul Iași",
+"short": "HCL Ion Neculce nr. 114/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/46982",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-115-2021",
+"path": "local/iasi/ion-neculce/2021/115",
+"kind": "local",
+"year": "2021",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 115/2021",
+"short": "HCL Ion Neculce nr. 115/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/46983",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

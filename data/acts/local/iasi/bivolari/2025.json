@@ -113,6 +113,29 @@
 }
 },
 {
+"slug": "hcl-iasi--bivolari-134-2025",
+"path": "local/iasi/bivolari/2025/134",
+"kind": "local",
+"year": "2025",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 134/2025",
+"short": "HCL Bivolari nr. 134/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/240956",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--bivolari-135-2025",
 "path": "local/iasi/bivolari/2025/135",
 "kind": "local",
@@ -245,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bivolari-141-2025",
+"path": "local/iasi/bivolari/2025/141",
+"kind": "local",
+"year": "2025",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 141/2025 privind achiziția lucrări de conectare/decontare la rețeaua electrică a instalațiilor ornamentale pentru sărbătorile de iarnă",
+"short": "HCL Bivolari nr. 141/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/245537",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bivolari-142-2025",
 "path": "local/iasi/bivolari/2025/142",
 "kind": "local",
@@ -352,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Bivolari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bivolari-147-2025",
+"path": "local/iasi/bivolari/2025/147",
+"kind": "local",
+"year": "2025",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 147/2025 privind acordarea unui ajutor financiar de urgență, pentru acoperirea unor cheltuieli de inmormântare",
+"short": "HCL Bivolari nr. 147/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/bivolari-is/registru-hcl/245544",
+"council": "iasi/bivolari",
+"council_name": "Consiliul Local al Comunei Bivolari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

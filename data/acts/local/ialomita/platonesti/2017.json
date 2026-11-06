@@ -23,6 +23,182 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-ialomita--platonesti-2-2017",
+"path": "local/ialomita/platonesti/2017/2",
+"kind": "local",
+"year": "2017",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Platonești nr. 2/2017 privind aprobarea contului de executie bugetara pentru anul 2016",
+"short": "HCL Platonești nr. 2/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-09",
+"latest": "2017-01-09",
+"portal": "http://www.platonesti.ro/hotarari_cl.html",
+"council": "ialomita/platonesti",
+"council_name": "Consiliul Local al Comunei Platonești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--platonesti-3-2017",
+"path": "local/ialomita/platonesti/2017/3",
+"kind": "local",
+"year": "2017",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Platonești nr. 3/2017 privind aprob. acop. definitive din excedentul bug. loc. an precedent a deficitului sectiunii de dezv",
+"short": "HCL Platonești nr. 3/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-09",
+"latest": "2017-01-09",
+"portal": "http://www.platonesti.ro/hotarari_cl.html",
+"council": "ialomita/platonesti",
+"council_name": "Consiliul Local al Comunei Platonești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--platonesti-4-2017",
+"path": "local/ialomita/platonesti/2017/4",
+"kind": "local",
+"year": "2017",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Platonești nr. 4/2017 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru anul 2017",
+"short": "HCL Platonești nr. 4/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-26",
+"latest": "2017-01-26",
+"portal": "http://www.platonesti.ro/hotarari_cl.html",
+"council": "ialomita/platonesti",
+"council_name": "Consiliul Local al Comunei Platonești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--platonesti-5-2017",
+"path": "local/ialomita/platonesti/2017/5",
+"kind": "local",
+"year": "2017",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Platonești nr. 5/2017 privind num. pers. cu atrib. in dom. ap. impotriva incendiilor la niv. obiectivelor subord. CL Platonesti",
+"short": "HCL Platonești nr. 5/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-26",
+"latest": "2017-01-26",
+"portal": "http://www.platonesti.ro/hotarari_cl.html",
+"council": "ialomita/platonesti",
+"council_name": "Consiliul Local al Comunei Platonești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--platonesti-6-2017",
+"path": "local/ialomita/platonesti/2017/6",
+"kind": "local",
+"year": "2017",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Platonești nr. 6/2017 privind reactualizarea planului de analiza si acoperire a riscurilor aferent comunei Platonesti",
+"short": "HCL Platonești nr. 6/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-26",
+"latest": "2017-01-26",
+"portal": "http://www.platonesti.ro/hotarari_cl.html",
+"council": "ialomita/platonesti",
+"council_name": "Consiliul Local al Comunei Platonești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--platonesti-7-2017",
+"path": "local/ialomita/platonesti/2017/7",
+"kind": "local",
+"year": "2017",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Platonești nr. 7/2017 privind stabilirea pretului de inchiriere buldoexcavator",
+"short": "HCL Platonești nr. 7/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-26",
+"latest": "2017-01-26",
+"portal": "http://www.platonesti.ro/hotarari_cl.html",
+"council": "ialomita/platonesti",
+"council_name": "Consiliul Local al Comunei Platonești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--platonesti-8-2017",
+"path": "local/ialomita/platonesti/2017/8",
+"kind": "local",
+"year": "2017",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Platonești nr. 8/2017 privind insusirea rap. de eval. privind activele fixe corporale din dom. public si privat com. Platonesti",
+"short": "HCL Platonești nr. 8/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-26",
+"latest": "2017-01-26",
+"portal": "http://www.platonesti.ro/hotarari_cl.html",
+"council": "ialomita/platonesti",
+"council_name": "Consiliul Local al Comunei Platonești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--platonesti-9-2017",
+"path": "local/ialomita/platonesti/2017/9",
+"kind": "local",
+"year": "2017",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Platonești nr. 9/2017 privind aprob. mentinerii retelei şc. a unitătilor de înv. preuniv. de stat pt. anul scolar 2017-2018",
+"short": "HCL Platonești nr. 9/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-02-23",
+"latest": "2017-02-23",
+"portal": "http://www.platonesti.ro/hotarari_cl.html",
+"council": "ialomita/platonesti",
+"council_name": "Consiliul Local al Comunei Platonești",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

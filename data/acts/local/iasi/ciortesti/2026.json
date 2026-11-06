@@ -179,6 +179,51 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-68-2026",
+"path": "local/iasi/ciortesti/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 68/2026",
+"short": "HCL Ciortești nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/293334",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-69-2026",
+"path": "local/iasi/ciortesti/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 69/2026 privind aprobarea închirierii prin licitație publică a terenului intravilan în suprafață de 1.000 mp, având numărul cadastral 61429, aflat în domeniul privat al Comunei Ciortești, județul Iași, situat în sat Șerbești, T72, P 1767/3, comuna Ciortești, județul Iași, în vederea construirii unei locuințe proprietate personală",
+"short": "HCL Ciortești nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/293338",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-70-2026",
 "path": "local/iasi/ciortesti/2026/70",
 "kind": "local",
@@ -223,6 +268,51 @@
 }
 },
 {
+"slug": "hcl-iasi--ciortesti-72-2026",
+"path": "local/iasi/ciortesti/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 72/2026 privind numirea a doi consilieri locali reprezentanti in cadrul Consiliul de Administratie, respectiv un reprezentant în cadrul Comisiei de Evaluare și Asigurare a Calitatii pentru Scoala Gimnazială Ciortesti, în anul școlar 2026-2027",
+"short": "HCL Ciortești nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/293353",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-73-2026",
+"path": "local/iasi/ciortesti/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 73/2026",
+"short": "HCL Ciortești nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/293355",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--ciortesti-74-2026",
 "path": "local/iasi/ciortesti/2026/74",
 "kind": "local",
@@ -242,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-75-2026",
+"path": "local/iasi/ciortesti/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 75/2026 privind privind desemnarea reprezentantilor din partea Consiliului Local Ciortești în Comisia de evaluare a probei de interviu, în calitate de membru, respectiv membru supleant",
+"short": "HCL Ciortești nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/293359",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -308,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Ciortești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ciortesti-79-2026",
+"path": "local/iasi/ciortesti/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciortești nr. 79/2026 privind aprobarea închirierii prin licitație publică a unui teren extravilan în suprafață de 16.3600 mp, aflat în domeniul privat al Comunei Ciortești, județul Iași, identificat cu CF 62506",
+"short": "HCL Ciortești nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/ciortesti-is/registru-hcl/293386",
+"council": "iasi/ciortesti",
+"council_name": "Consiliul Local al Comunei Ciortești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

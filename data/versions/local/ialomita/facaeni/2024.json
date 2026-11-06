@@ -3,6 +3,36 @@
  "shard": "local/ialomita/facaeni/2024",
  "acts": [
   {
+   "slug": "hcl-ialomita--facaeni-61-2024",
+   "path": "local/ialomita/facaeni/2024/61",
+   "short": "HCL Făcăeni nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 61/2024",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/171579",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/171579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-62-2024",
+   "path": "local/ialomita/facaeni/2024/62",
+   "short": "HCL Făcăeni nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 62/2024 privind aprobarea concesionării, studiului de oportunitate, documentației de atribuire și a comisiei de evaluare pentru concesionarea prin licitație publică, a unor terenuri intravilane",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/171580",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/171580",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--facaeni-63-2024",
    "path": "local/ialomita/facaeni/2024/63",
    "short": "HCL Făcăeni nr. 63/2024",
@@ -18,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--facaeni-64-2024",
+   "path": "local/ialomita/facaeni/2024/64",
+   "short": "HCL Făcăeni nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 64/2024 privind modificarea HCL nr. 62 / 02.10.2024 privind aprobarea concesionării, studiului de oportunitate, documentației de atribuire și a comisiei de evaluare pentru concesionarea prin licitație publică, a unor terenuri intravilane",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/172971",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/172971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-65-2024",
+   "path": "local/ialomita/facaeni/2024/65",
+   "short": "HCL Făcăeni nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 65/2024 privind alegerea presedintelui de ședință",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/177535",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/177535",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--facaeni-66-2024",
    "path": "local/ialomita/facaeni/2024/66",
    "short": "HCL Făcăeni nr. 66/2024",
@@ -28,6 +88,21 @@
      "from": "2024-11-21",
      "units": 1,
      "source_url": "https://emol.ro/facaeni-il/registru-hcl/177536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-67-2024",
+   "path": "local/ialomita/facaeni/2024/67",
+   "short": "HCL Făcăeni nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 67/2024 privind organizarea comisiilor de specialitate din cadrul Consiliului local al comunei Facaeni pentru mandatul 2024-2028",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/177537",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/177537",
      "sha256": null
     }
    ]
@@ -93,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--facaeni-72-2024",
+   "path": "local/ialomita/facaeni/2024/72",
+   "short": "HCL Făcăeni nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 72/2024",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/180677",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/180677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-73-2024",
+   "path": "local/ialomita/facaeni/2024/73",
+   "short": "HCL Făcăeni nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 73/2024 privind modificarea si completarea componentei comisiilor de specialitate din cadrul Consiliului local al comunei Facaeni pentru mandatul 2024-2028",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/180678",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/180678",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--facaeni-74-2024",
    "path": "local/ialomita/facaeni/2024/74",
    "short": "HCL Făcăeni nr. 74/2024",
@@ -103,6 +208,36 @@
      "from": "2024-12-05",
      "units": 1,
      "source_url": "https://emol.ro/facaeni-il/registru-hcl/180679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-75-2024",
+   "path": "local/ialomita/facaeni/2024/75",
+   "short": "HCL Făcăeni nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 75/2024 privind alegerea viceprimarului comunei Facaeni, judeţul Ialomiţa",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/180680",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/180680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--facaeni-76-2024",
+   "path": "local/ialomita/facaeni/2024/76",
+   "short": "HCL Făcăeni nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 76/2024 privind nominalizarea reprezentanților Consiliului Local în Consiliul de Administrație a Scolii Gimnaziale Facaeni",
+   "url": "https://emol.ro/facaeni-il/registru-hcl/180681",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/facaeni-il/registru-hcl/180681",
      "sha256": null
     }
    ]

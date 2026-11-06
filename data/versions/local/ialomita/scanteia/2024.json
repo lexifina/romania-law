@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--scanteia-57-2024",
+   "path": "local/ialomita/scanteia/2024/57",
+   "short": "HCL Scânteia nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 57/2024 privind abrogarea HCL nr. 44/2024 privind sustinerea financiara a echipelor de fotbal",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/203064",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/203064",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--scanteia-58-2024",
    "path": "local/ialomita/scanteia/2024/58",
    "short": "HCL Scânteia nr. 58/2024",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--scanteia-60-2024",
+   "path": "local/ialomita/scanteia/2024/60",
+   "short": "HCL Scânteia nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 60/2024 privind alegerea presedintelui de sedinta pe urmatoarele 3 luni",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/203079",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/203079",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--scanteia-61-2024",
    "path": "local/ialomita/scanteia/2024/61",
    "short": "HCL Scânteia nr. 61/2024",
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--scanteia-62-2024",
+   "path": "local/ialomita/scanteia/2024/62",
+   "short": "HCL Scânteia nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 62/2024 privind alegerea viceprimarul comunei Scanteia",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/203081",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/203081",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--scanteia-63-2024",
    "path": "local/ialomita/scanteia/2024/63",
    "short": "HCL Scânteia nr. 63/2024",
@@ -73,6 +118,36 @@
      "from": "2024-11-21",
      "units": 1,
      "source_url": "https://emol.ro/scanteia-il/registru-hcl/203082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-64-2024",
+   "path": "local/ialomita/scanteia/2024/64",
+   "short": "HCL Scânteia nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 64/2024 privind inchiriere aprobata teren - piata",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/203083",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/203083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-65-2024",
+   "path": "local/ialomita/scanteia/2024/65",
+   "short": "HCL Scânteia nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 65/2024 privind mandatare primar sa voteze ADIECOO",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/203084",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/203084",
      "sha256": null
     }
    ]
@@ -193,6 +268,21 @@
      "from": "2024-12-20",
      "units": 1,
      "source_url": "https://emol.ro/scanteia-il/registru-hcl/203096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-74-2024",
+   "path": "local/ialomita/scanteia/2024/74",
+   "short": "HCL Scânteia nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 74/2024 privind aprobare",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/203097",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/203097",
      "sha256": null
     }
    ]

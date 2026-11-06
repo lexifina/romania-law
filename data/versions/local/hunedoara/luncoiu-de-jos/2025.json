@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-83-2025",
+   "path": "local/hunedoara/luncoiu-de-jos/2025/83",
+   "short": "HCL Luncoiu de Jos nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 83/2025",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/237867",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/237867",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-84-2025",
    "path": "local/hunedoara/luncoiu-de-jos/2025/84",
    "short": "HCL Luncoiu de Jos nr. 84/2025",

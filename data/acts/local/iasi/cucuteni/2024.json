@@ -3,6 +3,28 @@
 "shard": "local/iasi/cucuteni/2024",
 "acts": [
 {
+"slug": "hcl-iasi--cucuteni-84-2024",
+"path": "local/iasi/cucuteni/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 84/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/177803",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-85-2024",
 "path": "local/iasi/cucuteni/2024/85",
 "kind": "local",
@@ -133,6 +155,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-91-2024",
+"path": "local/iasi/cucuteni/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 91/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/180490",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -312,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-100-2024",
+"path": "local/iasi/cucuteni/2024/100",
+"kind": "local",
+"year": "2024",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 100/2024 privind modificarea organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Cucuteni",
+"short": "HCL Cucuteni nr. 100/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/187781",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-101-2024",
 "path": "local/iasi/cucuteni/2024/101",
 "kind": "local",
@@ -353,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-103-2024",
+"path": "local/iasi/cucuteni/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 103/2024 privind rectificare bugetul local de venituri şi cheltuieli anul 2024",
+"short": "HCL Cucuteni nr. 103/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/187784",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

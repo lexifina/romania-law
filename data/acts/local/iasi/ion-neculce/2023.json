@@ -3,6 +3,51 @@
 "shard": "local/iasi/ion-neculce/2023",
 "acts": [
 {
+"slug": "hcl-iasi--ion-neculce-127-2023",
+"path": "local/iasi/ion-neculce/2023/127",
+"kind": "local",
+"year": "2023",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 127/2023",
+"short": "HCL Ion Neculce nr. 127/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-17",
+"latest": "2023-11-17",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/129148",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-128-2023",
+"path": "local/iasi/ion-neculce/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 128/2023 privind acordarea unor cadouri in bani, cu ocazia Craciunului 2023, pentru angajatii din aparatul de specialitate al primarului comunei Ion Neculce, judetul Iasi",
+"short": "HCL Ion Neculce nr. 128/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-17",
+"latest": "2023-11-17",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/129149",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-129-2023",
 "path": "local/iasi/ion-neculce/2023/129",
 "kind": "local",
@@ -335,6 +380,29 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-144-2023",
+"path": "local/iasi/ion-neculce/2023/144",
+"kind": "local",
+"year": "2023",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 144/2023",
+"short": "HCL Ion Neculce nr. 144/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-07",
+"latest": "2024-03-07",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/146917",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-145-2023",
 "path": "local/iasi/ion-neculce/2023/145",
 "kind": "local",
@@ -354,6 +422,29 @@
 "council_name": "Consiliul Local al Comunei Ion Neculce",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-146-2023",
+"path": "local/iasi/ion-neculce/2023/146",
+"kind": "local",
+"year": "2023",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 146/2023",
+"short": "HCL Ion Neculce nr. 146/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-07",
+"latest": "2024-03-07",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/146919",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

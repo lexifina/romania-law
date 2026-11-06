@@ -3,6 +3,96 @@
  "shard": "local/iasi/aroneanu/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--aroneanu-139-2021",
+   "path": "local/iasi/aroneanu/2021/139",
+   "short": "HCL Aroneanu nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 139/2021 privind aprobarea aprobarea vânzării suprafeţei de teren de 5.000 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49824",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-140-2021",
+   "path": "local/iasi/aroneanu/2021/140",
+   "short": "HCL Aroneanu nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 140/2021 privind aprobarea vânzării suprafeţei de teren de 4.873 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49826",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-141-2021",
+   "path": "local/iasi/aroneanu/2021/141",
+   "short": "HCL Aroneanu nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 141/2021",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49825",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-142-2021",
+   "path": "local/iasi/aroneanu/2021/142",
+   "short": "HCL Aroneanu nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 142/2021 privind aprobarea unui schimb de terenuri între Comuna Aroneanu și Parohia ,,Sf. Ilie” din satul Rediu Aldei",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49827",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-143-2021",
+   "path": "local/iasi/aroneanu/2021/143",
+   "short": "HCL Aroneanu nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 143/2021",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49828",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-144-2021",
+   "path": "local/iasi/aroneanu/2021/144",
+   "short": "HCL Aroneanu nr. 144/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 144/2021 privind îndreptarea erorii materiale din cuprinsul Hotărârii Consiliului Local nr. 16 din 28 ianuarie 2021 cu privire la aprobarea vânzării suprafeţei de teren de 710 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49829",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49829",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-145-2021",
    "path": "local/iasi/aroneanu/2021/145",
    "short": "HCL Aroneanu nr. 145/2021",
@@ -13,6 +103,36 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-146-2021",
+   "path": "local/iasi/aroneanu/2021/146",
+   "short": "HCL Aroneanu nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 146/2021 privind aprobarea acceptării ofertelor de donație pentru terenul în suprafață de 995 mp. cu destinația cale de acces având nr. cadastral 65249, situat în intravilanul satului Aroneanu, comuna Aroneanu",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49831",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-147-2021",
+   "path": "local/iasi/aroneanu/2021/147",
+   "short": "HCL Aroneanu nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 147/2021 privind aprobarea alegerii unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul I –al anului 2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49832",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49832",
      "sha256": null
     }
    ]
@@ -33,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-149-2021",
+   "path": "local/iasi/aroneanu/2021/149",
+   "short": "HCL Aroneanu nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 149/2021",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49834",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49834",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-150-2021",
    "path": "local/iasi/aroneanu/2021/150",
    "short": "HCL Aroneanu nr. 150/2021",
@@ -43,6 +178,21 @@
      "from": "2021-12-29",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-151-2021",
+   "path": "local/iasi/aroneanu/2021/151",
+   "short": "HCL Aroneanu nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 151/2021 privind aprobarea vânzării suprafeţei de teren de 516 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49836",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49836",
      "sha256": null
     }
    ]

@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-110-2023",
+   "path": "local/iasi/miroslovesti/2023/110",
+   "short": "HCL Miroslovești nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 110/2023 privind aprobarea prețului de vânzare al compostului obținut de operatorul platformei de depozitare a gunoiului de grajd",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/141835",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/141835",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-111-2023",
    "path": "local/iasi/miroslovesti/2023/111",
    "short": "HCL Miroslovești nr. 111/2023",

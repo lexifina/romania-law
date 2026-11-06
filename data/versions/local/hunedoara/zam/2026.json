@@ -3,6 +3,51 @@
  "shard": "local/hunedoara/zam/2026",
  "acts": [
   {
+   "slug": "hcl-hunedoara--zam-1-2026",
+   "path": "local/hunedoara/zam/2026/1",
+   "short": "HCL Zam nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 1/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială la nivelul comunei Zam, aferent anului 2026",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272654",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-10-2026",
+   "path": "local/hunedoara/zam/2026/10",
+   "short": "HCL Zam nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 10/2026",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272686",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-11-2026",
+   "path": "local/hunedoara/zam/2026/11",
+   "short": "HCL Zam nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 11/2026 privind aprobarea numărului maxim de posturi pentru anul 2026 la nivelul Unității Administrativ – Teritoriale Comuna Zam",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272687",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272687",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--zam-12-2026",
    "path": "local/hunedoara/zam/2026/12",
    "short": "HCL Zam nr. 12/2026",
@@ -13,6 +58,36 @@
      "from": "2026-06-08",
      "units": 1,
      "source_url": "https://emol.ro/zam-hd/registru-hcl/272688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-13-2026",
+   "path": "local/hunedoara/zam/2026/13",
+   "short": "HCL Zam nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 13/2026 privind înscrierea imobilelor “Drumuri și canale” în evidențele de publicitate imobiliară, în proprietatea comunei Zam – domeniul public, conform lucrărilor de înregistrare sistematică a imobilelor pe sectoare cadastrale",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272689",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-14-2026",
+   "path": "local/hunedoara/zam/2026/14",
+   "short": "HCL Zam nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 14/2026 privind alegerea dintre membrii Consiliului local Zam a unui președinte de ședință pentru o perioadă de trei luni, respectiv mai 2026 – iulie 2026",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272690",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272690",
      "sha256": null
     }
    ]
@@ -63,6 +138,66 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--zam-2-2026",
+   "path": "local/hunedoara/zam/2026/2",
+   "short": "HCL Zam nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 2/2026 privind aprobarea analizei stadiului de înscriere a datelor in Registrul agricol al comunei Zam, pentru trimestru IV al anului 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272655",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-3-2026",
+   "path": "local/hunedoara/zam/2026/3",
+   "short": "HCL Zam nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 3/2026 privind aprobarea implementării Programului Național ”Masă Sănătoasă” în anul 2026 și tipul de suport alimentar acordat elevilor Școlii Gimnaziale Zam, în cadrul Programului Național ”Masă Sănătoasă” 2026 ( PNMS)",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272656",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-4-2026",
+   "path": "local/hunedoara/zam/2026/4",
+   "short": "HCL Zam nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 4/2026 privind alegerea dintre membrii Consiliului local Zam a unui președinte de ședință pentru o perioadă de trei luni, respectiv februarie 2026 – aprilie 2026",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272657",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-5-2026",
+   "path": "local/hunedoara/zam/2026/5",
+   "short": "HCL Zam nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 5/2026 privind actualizarea componenței Consiliului Comunitar Consultativ și a Regulamentului de Organizare și funcționare al acestuia",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272681",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272681",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--zam-6-2026",
    "path": "local/hunedoara/zam/2026/6",
    "short": "HCL Zam nr. 6/2026",
@@ -88,6 +223,36 @@
      "from": "2026-06-08",
      "units": 1,
      "source_url": "https://emol.ro/zam-hd/registru-hcl/272683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-8-2026",
+   "path": "local/hunedoara/zam/2026/8",
+   "short": "HCL Zam nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 8/2026 privind însușirea Actului Adițional nr.1 la Contractul de achiziție nr. 36/65 din 13.03.2025 având ca obiect ”Prestarea serviciului de salubrizare în zona de colectare 3 Centru, județul Hunedoara ”, precum și mandatarea președintelui Asociației să semneze acest document",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272684",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--zam-9-2026",
+   "path": "local/hunedoara/zam/2026/9",
+   "short": "HCL Zam nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Zam nr. 9/2026",
+   "url": "https://emol.ro/zam-hd/registru-hcl/272685",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/zam-hd/registru-hcl/272685",
      "sha256": null
     }
    ]

@@ -3,6 +3,66 @@
  "shard": "local/ialomita/ciulnita/2024",
  "acts": [
   {
+   "slug": "hcl-ialomita--ciulnita-113-2024",
+   "path": "local/ialomita/ciulnita/2024/113",
+   "short": "HCL Ciulnița nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 113/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193119",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-114-2024",
+   "path": "local/ialomita/ciulnita/2024/114",
+   "short": "HCL Ciulnița nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 114/2024 privind organizarea Comisiilor de specialitate al Consiliului local al comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193120",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-115-2024",
+   "path": "local/ialomita/ciulnita/2024/115",
+   "short": "HCL Ciulnița nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 115/2024 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2024",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193121",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-116-2024",
+   "path": "local/ialomita/ciulnita/2024/116",
+   "short": "HCL Ciulnița nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 116/2024 privind desemnarea comisiei de evaluare a ofertelor pentru concesionarea bunurilor proprietatea privată a comunei Ciulnița, județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193122",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193122",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--ciulnita-117-2024",
    "path": "local/ialomita/ciulnita/2024/117",
    "short": "HCL Ciulnița nr. 117/2024",
@@ -33,6 +93,141 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--ciulnita-119-2024",
+   "path": "local/ialomita/ciulnita/2024/119",
+   "short": "HCL Ciulnița nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 119/2024 privind aprobarea Regulamentului privind modul de utilizare a mirobuzelor de transport școlar pentru elevii din comuna Ciulnița, județul Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193125",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-120-2024",
+   "path": "local/ialomita/ciulnita/2024/120",
+   "short": "HCL Ciulnița nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 120/2024 privind acordarea unui mandat special reprezentantului legal al comunei Ciulnița, județul Ialomița, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOO 2009 să voteze favorabil la propunerea de aprobare a actul adițional nr.1 privind modificarea contractului de delegare a gestiunii activității de eliminare prin depozitare a deșeurilor reziduale din județul Ialomița nr. 948/28.12.2023",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193126",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-121-2024",
+   "path": "local/ialomita/ciulnita/2024/121",
+   "short": "HCL Ciulnița nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 121/2024 privind acordarea unui mandat special reprezentantului legal al comunei Ciulnița, județul Ialomița, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOO 2009 să să voteze favorabil la propunerea de aprobare a actul adițional nr.5 privind modificarea Contractul de delegare nr. 14/10.03.2022",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193127",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-122-2024",
+   "path": "local/ialomita/ciulnita/2024/122",
+   "short": "HCL Ciulnița nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 122/2024 privind revocarea Hotărârii Consiliului local nr. 82/2024 privind constituirea unui drept de administrare în favoarea Asociației Club Sportiv BC Ciulnița 2023, asupra unui imobil – teren, proprietatea publică a comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193128",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-123-2024",
+   "path": "local/ialomita/ciulnita/2024/123",
+   "short": "HCL Ciulnița nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 123/2024 privind modificarea Hotărârii Consiliului local nr. 90/2024 privind aprobarea închiderii activității Serviciului de salubrizare Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193129",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-124-2024",
+   "path": "local/ialomita/ciulnita/2024/124",
+   "short": "HCL Ciulnița nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 124/2024 privind aprobarea contului de execuție al bugetului local pentru trimestrul IV al anului 2024",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193132",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-125-2024",
+   "path": "local/ialomita/ciulnita/2024/125",
+   "short": "HCL Ciulnița nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 125/2024",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193133",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-126-2024",
+   "path": "local/ialomita/ciulnita/2024/126",
+   "short": "HCL Ciulnița nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 126/2024",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193134",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-127-2024",
+   "path": "local/ialomita/ciulnita/2024/127",
+   "short": "HCL Ciulnița nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 127/2024 privind modificarea Hotărârii Consiliului local nr.108/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31.08.2024 inclusiv, conform OUG nr.107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193135",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193135",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--ciulnita-128-2024",
    "path": "local/ialomita/ciulnita/2024/128",
    "short": "HCL Ciulnița nr. 128/2024",
@@ -43,6 +238,51 @@
      "from": "2025-02-21",
      "units": 1,
      "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-129-2024",
+   "path": "local/ialomita/ciulnita/2024/129",
+   "short": "HCL Ciulnița nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 129/2024 privind revocarea Hotărârii Consiliului local nr. 92/2024 privind stabilirea salariilor personalului contractual (muncitor necalificat) din cadrul aparatului de specialitate al primarului comunei Ciulnița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193137",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-130-2024",
+   "path": "local/ialomita/ciulnita/2024/130",
+   "short": "HCL Ciulnița nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 130/2024 privind înființarea Serviciului Public Local de Administrare a Domeniului Public și Privat al Comunei Ciulnița, jud.Ialomița",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193138",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--ciulnita-131-2024",
+   "path": "local/ialomita/ciulnita/2024/131",
+   "short": "HCL Ciulnița nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 131/2024 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2024",
+   "url": "https://emol.ro/ciulnita-il/registru-hcl/193139",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciulnita-il/registru-hcl/193139",
      "sha256": null
     }
    ]

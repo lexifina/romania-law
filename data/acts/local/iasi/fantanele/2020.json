@@ -3,6 +3,182 @@
 "shard": "local/iasi/fantanele/2020",
 "acts": [
 {
+"slug": "hcl-iasi--fantanele-106-2020",
+"path": "local/iasi/fantanele/2020/106",
+"kind": "local",
+"year": "2020",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 106/2020 privind aprobarea procesului verbal al ședinței din data de 30.10.2020 a Consiliului local - Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 106/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23633",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-107-2020",
+"path": "local/iasi/fantanele/2020/107",
+"kind": "local",
+"year": "2020",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 107/2020 privind aprobarea procesului verbal al ședinței din data de 03.11.2020 a Consiliului local - Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 107/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23634",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-109-2020",
+"path": "local/iasi/fantanele/2020/109",
+"kind": "local",
+"year": "2020",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 109/2020 privind desemnarea reprezentantului comunei Fântânele și a persoanelor care pot înlocui reprezentantul comunei Fântânele în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal - ARSACIS",
+"short": "HCL Fântânele nr. 109/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23635",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-110-2020",
+"path": "local/iasi/fantanele/2020/110",
+"kind": "local",
+"year": "2020",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 110/2020 privind alegerea viceprimarului comunei Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 110/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23636",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-111-2020",
+"path": "local/iasi/fantanele/2020/111",
+"kind": "local",
+"year": "2020",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 111/2020 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local Fântânele, din data de 30.11.2020",
+"short": "HCL Fântânele nr. 111/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23647",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-112-2020",
+"path": "local/iasi/fantanele/2020/112",
+"kind": "local",
+"year": "2020",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 112/2020 privind aprobarea procesului verbal al ședinței din data de 20.11.2020 a Consiliului local Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 112/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23648",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-113-2020",
+"path": "local/iasi/fantanele/2020/113",
+"kind": "local",
+"year": "2020",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 113/2020 privind desemnarea reprezentantului legal și a persoanelor care pot înlocui reprezentantul legal al UAT Comuna Fântânele în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate ADIS Iași",
+"short": "HCL Fântânele nr. 113/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23649",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-114-2020",
+"path": "local/iasi/fantanele/2020/114",
+"kind": "local",
+"year": "2020",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 114/2020 privind desemnarea reprezentantului Consiliului Local al comunei Fântânele, județul Iași în cadrul Consiliului de administrație al Școlii Profesionale Fântânele",
+"short": "HCL Fântânele nr. 114/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23650",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--fantanele-115-2020",
 "path": "local/iasi/fantanele/2020/115",
 "kind": "local",
@@ -22,6 +198,72 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-117-2020",
+"path": "local/iasi/fantanele/2020/117",
+"kind": "local",
+"year": "2020",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 117/2020 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Fântânele, din data de 23.12.2020",
+"short": "HCL Fântânele nr. 117/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23652",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-118-2020",
+"path": "local/iasi/fantanele/2020/118",
+"kind": "local",
+"year": "2020",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 118/2020 privind aprobarea procesului verbal al ședinței din data de 30.11.2020 a Consiliului Local Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 118/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23653",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-119-2020",
+"path": "local/iasi/fantanele/2020/119",
+"kind": "local",
+"year": "2020",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 119/2020 privind aprobarea procesului verbal al ședinței din data de 11.12.2020 a Consiliului Local Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 119/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23654",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -155,6 +397,29 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-126-2020",
+"path": "local/iasi/fantanele/2020/126",
+"kind": "local",
+"year": "2020",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 126/2020",
+"short": "HCL Fântânele nr. 126/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/23661",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

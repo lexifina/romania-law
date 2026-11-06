@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/harau/2024",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--harau-11-2024",
+   "path": "local/hunedoara/harau/2024/11",
+   "short": "HCL Hărău nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hărău nr. 11/2024",
+   "url": "https://primariaharau.ro/wp-content/uploads/2024/05/Hotararea-Nr-11-din-29.05.2024-1.pdf",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://primariaharau.ro/wp-content/uploads/2024/05/Hotararea-Nr-11-din-29.05.2024-1.pdf",
+     "sha256": "a1f515d900ed3a5ffa7d01ca3cd60ff5d61017d813a77afb172e5e4a2181cf00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--harau-12-2024",
+   "path": "local/hunedoara/harau/2024/12",
+   "short": "HCL Hărău nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hărău nr. 12/2024",
+   "url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-12-din-07.06.2024_compressed.pdf",
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 1,
+     "source_url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-12-din-07.06.2024_compressed.pdf",
+     "sha256": "60d593769251ac4859c658de7f05f12f46a33c9986e1eb163c1afa010a995049"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--harau-13-2024",
+   "path": "local/hunedoara/harau/2024/13",
+   "short": "HCL Hărău nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hărău nr. 13/2024",
+   "url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-13-din-11.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-13-din-11.06.2024.pdf",
+     "sha256": "ccccf4b70c18ef14009cb8b813154d7426a314cd842ef0b186f63a0205d42980"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--harau-14-2024",
+   "path": "local/hunedoara/harau/2024/14",
+   "short": "HCL Hărău nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hărău nr. 14/2024",
+   "url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-14-din-11.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-14-din-11.06.2024.pdf",
+     "sha256": "2ec0516453e2a220463cca995868de2404d5cdcff21697de6fcc4e5e88e0344e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--harau-15-2024",
+   "path": "local/hunedoara/harau/2024/15",
+   "short": "HCL Hărău nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hărău nr. 15/2024",
+   "url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-15-din-11.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-15-din-11.06.2024.pdf",
+     "sha256": "45b57eb47fb8ef4e7164bfc4aaac386c189a758c05446e681cb42fb85b7e7bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--harau-16-2024",
+   "path": "local/hunedoara/harau/2024/16",
+   "short": "HCL Hărău nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hărău nr. 16/2024",
+   "url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-16-din-11.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "https://primariaharau.ro/wp-content/uploads/2024/06/Hotararea-16-din-11.06.2024.pdf",
+     "sha256": "ff303bc2de7c1daba5e01a1652484b86a3ea011c5ecde92806a044597c4ce9ef"
+    }
+   ]
+  }
+ ]
+}

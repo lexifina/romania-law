@@ -3,6 +3,51 @@
  "shard": "local/iasi/mogosesti/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--mogosesti-10-2025",
+   "path": "local/iasi/mogosesti/2025/10",
+   "short": "HCL Mogoșești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 10/2025 privind alegerea preşedintelui de şedinţă pentru perioada februarie - aprilie 2025",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#92592",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#92592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-100-2025",
+   "path": "local/iasi/mogosesti/2025/100",
+   "short": "HCL Mogoșești nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 100/2025 privind aprobarea acordării de pachete de Crăciun pentru elevii Școlii Profesionale Mogoșești și pentru colindătorii Primăriei Comunei Mogoșești",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#110600",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#110600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-101-2025",
+   "path": "local/iasi/mogosesti/2025/101",
+   "short": "HCL Mogoșești nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 101/2025 privind alegerea preşedintelui de şedinţă pentru perioada decembrie 2025 februarie 2026",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#110602",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#110602",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--mogosesti-102-2025",
    "path": "local/iasi/mogosesti/2025/102",
    "short": "HCL Mogoșești nr. 102/2025",
@@ -13,6 +58,51 @@
      "from": "2025-11-28",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-103-2025",
+   "path": "local/iasi/mogosesti/2025/103",
+   "short": "HCL Mogoșești nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 103/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-104-2025",
+   "path": "local/iasi/mogosesti/2025/104",
+   "short": "HCL Mogoșești nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 104/2025 privind schimbarea destinației în vederea demolării construcției Școala Gimnazială Mânjești număr cadastral 64678, proprietate publică a comunei Mogoșești,situată în sat Mânjești, comuna Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#113761",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#113761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-105-2025",
+   "path": "local/iasi/mogosesti/2025/105",
+   "short": "HCL Mogoșești nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 105/2025 privind schimbarea destinației în vederea demolării construcției Școala Hadâmbu nr. 2, număr cadastral 61936, proprietate publică a comunei Mogoșești, situată în sat Hadâmbu, comuna Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#113762",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#113762",
      "sha256": null
     }
    ]
@@ -73,6 +163,66 @@
      "from": "2025-12-22",
      "units": 1,
      "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#112889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-11-2025",
+   "path": "local/iasi/mogosesti/2025/11",
+   "short": "HCL Mogoșești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 11/2025 privind aprobarea graficului ședințelor ordinare ce se vor organiza în perioada februarie –aprilie 2025 la Consiliul Local Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#92590",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#92590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-110-2025",
+   "path": "local/iasi/mogosesti/2025/110",
+   "short": "HCL Mogoșești nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 110/2025 privind aprobarea graficului ședințelor ordinare ce se vor organiza în perioada ianuarie - martie 2026 la Consiliul Local Mogoșești, județul Iași",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#113763",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#113763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-111-2025",
+   "path": "local/iasi/mogosesti/2025/111",
+   "short": "HCL Mogoșești nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 111/2025 privind modificarea Bugetului de venituri şi cheltuieli al Comunei Mogoșești, județul Iași, pe trimestrul al IV-lea anul 2025",
+   "url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#113766",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#113766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--mogosesti-112-2025",
+   "path": "local/iasi/mogosesti/2025/112",
+   "short": "HCL Mogoșești nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 112/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

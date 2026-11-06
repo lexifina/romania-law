@@ -3,6 +3,358 @@
 "shard": "local/iasi/dumesti/2022",
 "acts": [
 {
+"slug": "hcl-iasi--dumesti-1-2022",
+"path": "local/iasi/dumesti/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 1/2022 privind modificarea, începând cu anul fiscal 2022, a nivelului valorilor impozabile, impozitelor, taxelor locale și a altor taxe asimilate acestora, precum și a amenzilor prevăzute de Legea nr.227/2015 privind Codul fiscal, prin indexarea cu rata inflației în procent de 2,6%",
+"short": "HCL Dumești nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-07",
+"latest": "2022-01-07",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62775",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-2-2022",
+"path": "local/iasi/dumesti/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 2/2022 privind aprobarea impozitului pe mijloace de transport prin indezarea sumelor prevăzute la art.470, alin (5) și (6) din Codul fiscal, pentru anul 2022",
+"short": "HCL Dumești nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-07",
+"latest": "2022-01-07",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62776",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-3-2022",
+"path": "local/iasi/dumesti/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 3/2022 privind introducere teren proprietate din extravilan în intravilan sat Dumești, comuna Dumești în vederea construirii unei locuințe unifamilială, aferent terenului în suprafață de 453,00 mp",
+"short": "HCL Dumești nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62785",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-4-2022",
+"path": "local/iasi/dumesti/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 4/2022 privind organizarea rețelei școlare pentru unitățile de învățământ preuniversitar de stat, în anul școlar 2022-2023",
+"short": "HCL Dumești nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62786",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-5-2022",
+"path": "local/iasi/dumesti/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 5/2022 privind aprobarea ajustării prețului pentru apă industrială pentru întreagă arie de operare a APAVITAL SA",
+"short": "HCL Dumești nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62787",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-6-2022",
+"path": "local/iasi/dumesti/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 6/2022 privind înființarea ”Clubului Sportiv Dumești” și aprobarea Regulamentului de organizare și funcționare",
+"short": "HCL Dumești nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62788",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-7-2022",
+"path": "local/iasi/dumesti/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 7/2022 privind aprobarea studiului de oportunitate și a documentației de atribuire, în vederea concesionării/închirierii spațiilor de cabinet medical și spațiilor comune aferente cabinetelor medicale situate în dispensar uman sat Dumești, comuna Dumești, județul Iași",
+"short": "HCL Dumești nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62789",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-8-2022",
+"path": "local/iasi/dumesti/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 8/2022 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Dumești din lunile martie-aprilie anul 2022",
+"short": "HCL Dumești nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-15",
+"latest": "2022-02-15",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62810",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-9-2022",
+"path": "local/iasi/dumesti/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 9/2022 privind ameliorarea prin împădurire a terenurilor degradate aparținând comunei Dumești, administrative de Consiliul local al comunei Dumești",
+"short": "HCL Dumești nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-15",
+"latest": "2022-02-15",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62811",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-10-2022",
+"path": "local/iasi/dumesti/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 10/2022 privind utilizarea excedentului aferent anilor precedenți",
+"short": "HCL Dumești nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-15",
+"latest": "2022-02-15",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62812",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-11-2022",
+"path": "local/iasi/dumesti/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 11/2022 privind aprobarea bugetului general de venituri și cheltuieli al comunei Dumești pentru anul 2022 și estimările pentru anii 2023-2025",
+"short": "HCL Dumești nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-15",
+"latest": "2022-02-15",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62813",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-12-2022",
+"path": "local/iasi/dumesti/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 12/2022 privind aprobarea Planului anual de acțiuni sau lucrări de interes local pentru repartizarea orelor de muncă în cazul persoanelor care prestează acțiuni sau lucrări de interes local pe baza Legii nr.416/2001 privind venitul minim garantat, cu modificările și completările ulterioare, pentru anul 2022",
+"short": "HCL Dumești nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62834",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-13-2022",
+"path": "local/iasi/dumesti/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 13/2022 privind organizarea pășunatului și închirierea suprafețelor de pășune pentru anul 2022",
+"short": "HCL Dumești nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62835",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-14-2022",
+"path": "local/iasi/dumesti/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 14/2022 privind aprobarea încheierii unui acord de parteneriat între comuna Dumești și Asociația Culturală Geto Dacii din Moldova",
+"short": "HCL Dumești nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62836",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-15-2022",
+"path": "local/iasi/dumesti/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 15/2022 privind achiziționarea unor table de șah pentru desfășurarea activităților extrașcolare",
+"short": "HCL Dumești nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62837",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-16-2022",
+"path": "local/iasi/dumesti/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 16/2022 privind aprobarea cheltuielilor eligibile și neeligibile, pentru obiectivul de investiții ”CREAREA UNUI SISTEM INTELIGENT DE MANAGEMENT ÎN COMUNA DUMEȘTI, PRIN INTEGRAREA DATELOR SPAȚIALE DIN TEREN ÎNTR-O SOLUȚIE GEOSPAȚIALĂ (G.I.S.) PRIN PNRR/2022/C10 ACȚIUNEA 1.1.2",
+"short": "HCL Dumești nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62838",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-17-2022",
 "path": "local/iasi/dumesti/2022/17",
 "kind": "local",
@@ -22,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Dumești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-18-2022",
+"path": "local/iasi/dumesti/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 18/2022 privind implementarea proiectului „ACHIZIȚIE ACCESORII PENTRU BULDOEXCAVATOR MECALAC-TLB 850, COMUNA DUMEȘTI, JUDEȚUL IAȘI”",
+"short": "HCL Dumești nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-20",
+"latest": "2022-04-20",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/62846",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

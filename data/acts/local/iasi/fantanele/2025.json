@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--fantanele-60-2025",
+"path": "local/iasi/fantanele/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 60/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local - Fântânele din data de 30.10.2025",
+"short": "HCL Fântânele nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/235034",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--fantanele-61-2025",
 "path": "local/iasi/fantanele/2025/61",
 "kind": "local",
@@ -69,6 +91,51 @@
 }
 },
 {
+"slug": "hcl-iasi--fantanele-62-2025",
+"path": "local/iasi/fantanele/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 62/2025",
+"short": "HCL Fântânele nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/235036",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-63-2025",
+"path": "local/iasi/fantanele/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 63/2025 privind concesiunea prin licitație deschisă cu plic închis a spațiului din cadrul Dispensarului Uman: Spațiul nr. 1 în suprafață de 46,79 mp cu destinație Farmacie; concesionare cu încredințare directă a Spațiului nr. 3 în suprafață de 63.28 mp cu destinație Cabinet stomatologic, evidențiate în inventarul domeniului public al comunei Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/235062",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--fantanele-64-2025",
 "path": "local/iasi/fantanele/2025/64",
 "kind": "local",
@@ -88,6 +155,50 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-65-2025",
+"path": "local/iasi/fantanele/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 65/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Fântânele din data de 28.11.2025",
+"short": "HCL Fântânele nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/238206",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-66-2025",
+"path": "local/iasi/fantanele/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 66/2025 privind revocarea Hotărârii Consiliului Local Fântânele nr. 63/30.10.2025",
+"short": "HCL Fântânele nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/238213",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-iasi--fantanele-69-2025",
+"path": "local/iasi/fantanele/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 69/2025 privind aprobarea ordinii de zi ședinței extraordinare a Consiliului Local Fântânele din data de 12.12.2025",
+"short": "HCL Fântânele nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/246535",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--fantanele-70-2025",
 "path": "local/iasi/fantanele/2025/70",
 "kind": "local",
@@ -154,6 +287,50 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-71-2025",
+"path": "local/iasi/fantanele/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 71/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local Fântânele din data de 22.12.2025",
+"short": "HCL Fântânele nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/246537",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-72-2025",
+"path": "local/iasi/fantanele/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 72/2025 privind stabilirea datelor de ședință pentru trimestrul I Ianuarie - Februarie - Martie 2026 și stabilirea președintelui de ședință",
+"short": "HCL Fântânele nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/246541",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

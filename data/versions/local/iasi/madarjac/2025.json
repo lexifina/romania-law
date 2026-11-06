@@ -3,6 +3,21 @@
  "shard": "local/iasi/madarjac/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--madarjac-44-2025",
+   "path": "local/iasi/madarjac/2025/44",
+   "short": "HCL Mădârjac nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 44/2025 privind desemnarea viceprimarului comunei în consiliul de administrație al Școlii Gimnazilae Mădârjac pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/230878",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/230878",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-45-2025",
    "path": "local/iasi/madarjac/2025/45",
    "short": "HCL Mădârjac nr. 45/2025",
@@ -48,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-48-2025",
+   "path": "local/iasi/madarjac/2025/48",
+   "short": "HCL Mădârjac nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 48/2025 privind revocarea Hotărâri Consiliului Local Mădârjac județul Iași nr. 37/14.08.2025",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/238136",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/238136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-49-2025",
+   "path": "local/iasi/madarjac/2025/49",
+   "short": "HCL Mădârjac nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 49/2025 privind revocarea art.2 al Hotărârii Consiliului Local nr.36/14.08.2025",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/238137",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/238137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-50-2025",
+   "path": "local/iasi/madarjac/2025/50",
+   "short": "HCL Mădârjac nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 50/2025 privind aprobarea oportunității si necesității înfiintării Obiectivului de investiții ''Sprijinirea investițiilor in noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entitățile publice din comuna Mădârjac ,județul Iași",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/238138",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/238138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-51-2025",
+   "path": "local/iasi/madarjac/2025/51",
+   "short": "HCL Mădârjac nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 51/2025 privind alegerea președintelui de sedință a Consiliului Local Mădârjac Județul Iași,pentru lunile Noiembrie,Decembrie,an 2025 si ianuarie ,an 2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/238139",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/238139",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-52-2025",
    "path": "local/iasi/madarjac/2025/52",
    "short": "HCL Mădârjac nr. 52/2025",
@@ -58,6 +133,21 @@
      "from": "2025-12-16",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/238140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-53-2025",
+   "path": "local/iasi/madarjac/2025/53",
+   "short": "HCL Mădârjac nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 53/2025 privind insusirea raportului de evaluare: Cladire Dispensar Uman Mădârjac,sat Mădârjac,comuna Mădârjac județul Iași",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/238141",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/238141",
      "sha256": null
     }
    ]
@@ -78,6 +168,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-55-2025",
+   "path": "local/iasi/madarjac/2025/55",
+   "short": "HCL Mădârjac nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 55/2025 privind rectificarea si modificarea bugetara in vederea asigurari resurselor financiare pentru plata salariilor asistentilor personali,indemnizatiilor persoanelor incadrate in grad de handicap grav si a concediilor aferente anului 2025",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/239652",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/239652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-56-2025",
+   "path": "local/iasi/madarjac/2025/56",
+   "short": "HCL Mădârjac nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 56/2025 Aprobarea organizării rețelei de învățământ preuniversitar de stat pentru anul școlar 2026–2027, a școlilor din comuna Madarjac, Jud. Iași, conform Anexei nr. 1 ,emisă de Inspectoratul Școlar Județean Iași",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/243694",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/243694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-57-2025",
+   "path": "local/iasi/madarjac/2025/57",
+   "short": "HCL Mădârjac nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 57/2025 privind aprobarea sumei reprezentând ajutor de încălzire a locuinței, care va fi solicitată și suportată de la bugetul de stat",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/243695",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/243695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-58-2025",
+   "path": "local/iasi/madarjac/2025/58",
+   "short": "HCL Mădârjac nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 58/2025 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire contractelor/acordurilor cadru pentru achiziția produselor aferente și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative Programului pentru școli a României pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/243696",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/243696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-59-2025",
    "path": "local/iasi/madarjac/2025/59",
    "short": "HCL Mădârjac nr. 59/2025",
@@ -93,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-60-2025",
+   "path": "local/iasi/madarjac/2025/60",
+   "short": "HCL Mădârjac nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 60/2025 privind validarea și însușirea, Dispoziţiei Primarului Comunei Madarjac nr. 315/15.12.2025 privind rectificarea cu suma de 7 mii a bugetului local si modificarea acestuia prin virare de credite intre alineate din cadrul aceluiasi capitol",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/243698",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/243698",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-61-2025",
    "path": "local/iasi/madarjac/2025/61",
    "short": "HCL Mădârjac nr. 61/2025",
@@ -103,6 +268,36 @@
      "from": "2026-01-15",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/243699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-62-2025",
+   "path": "local/iasi/madarjac/2025/62",
+   "short": "HCL Mădârjac nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 62/2025 privind aprobarea dezmembrarii unui imobil - teren, aparținând domeniului privat,înscris în Cartea Funciară Madarjac, având numărul cadastral 60502",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/243700",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/243700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-63-2025",
+   "path": "local/iasi/madarjac/2025/63",
+   "short": "HCL Mădârjac nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 63/2025 privind aprobarea propunerilor de casare a unor obiecte de inventar si mijloace fixe degradate constatate cu ocazia inventarierii anuale a patrimoniului",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/243701",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/243701",
      "sha256": null
     }
    ]

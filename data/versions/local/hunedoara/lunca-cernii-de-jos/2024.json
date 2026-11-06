@@ -3,6 +3,81 @@
  "shard": "local/hunedoara/lunca-cernii-de-jos/2024",
  "acts": [
   {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-37-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/37",
+   "short": "HCL Lunca Cernii de Jos nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 37/2024 privind aprobarea indicatorilor tehnico - economici pentru obiectivul Modernizare Ulițe",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/163214",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/163214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-38-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/38",
+   "short": "HCL Lunca Cernii de Jos nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 38/2024 privind aprobare acordării unui sprijin financiar de la bugetul local al comunei Lunca Cernii de Jos pentru unitățile de cult aparținând cultelor religioase recunoscute din Romania",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/163215",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/163215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-39-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/39",
+   "short": "HCL Lunca Cernii de Jos nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 39/2024 privind modificarea și completarea art. 1 și art. 2 din hotărârea nr. 38/2024 privind aprobare acordării unui sprijin financiar de la bugetul local al comunei Lunca Cernii de Jos pentru unitățile de cult aparținând cultelor religioase recunoscute din Romania",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/167290",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/167290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-40-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/40",
+   "short": "HCL Lunca Cernii de Jos nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 40/2024 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2024",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/167291",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/167291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-41-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/41",
+   "short": "HCL Lunca Cernii de Jos nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 41/2024 privind aprobarea decontării cheltuielilor de transport și a regulamentului pentru decontarea cheltuielilor de transport pentru funcționarii publici și personalului contractual din cadrul aparatului de specialitate al Primarului comunei Lunca Cernii de Jos, județul Hunedoara",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/167292",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/167292",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lunca-cernii-de-jos-42-2024",
    "path": "local/hunedoara/lunca-cernii-de-jos/2024/42",
    "short": "HCL Lunca Cernii de Jos nr. 42/2024",
@@ -13,6 +88,21 @@
      "from": "2024-09-30",
      "units": 1,
      "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/172360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-43-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/43",
+   "short": "HCL Lunca Cernii de Jos nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 43/2024 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2024",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/172586",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/172586",
      "sha256": null
     }
    ]
@@ -33,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-45-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/45",
+   "short": "HCL Lunca Cernii de Jos nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 45/2024 privind constituirea Comisiilor de specialitate ale Consiliului Local Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/175766",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/175766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-46-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/46",
+   "short": "HCL Lunca Cernii de Jos nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 46/2024 privind alegerea viceprimarului comunei Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/175767",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/175767",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lunca-cernii-de-jos-47-2024",
    "path": "local/hunedoara/lunca-cernii-de-jos/2024/47",
    "short": "HCL Lunca Cernii de Jos nr. 47/2024",
@@ -43,6 +163,141 @@
      "from": "2024-10-25",
      "units": 1,
      "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/175768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-48-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/48",
+   "short": "HCL Lunca Cernii de Jos nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 48/2024 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2024",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/176595",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/176595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-49-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/49",
+   "short": "HCL Lunca Cernii de Jos nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 49/2024 privind aprobarea organizării rețelei școlare de pe raza teritorială a comunei Lunca Cernii de Jos, județul Hunedoara, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184440",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-50-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/50",
+   "short": "HCL Lunca Cernii de Jos nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 50/2024 privind finanţarea complementară a burselor sociale a elevilor Școlii Gimnaziale Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184441",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-51-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/51",
+   "short": "HCL Lunca Cernii de Jos nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 51/2024 privind stabilirea impozitelor şi taxelor locale aplicabile în anul fiscal 2025 pe raza administrativ-teritorială a Comunei Lunca Cernii de Jos, județul Hunedoara",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184442",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-52-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/52",
+   "short": "HCL Lunca Cernii de Jos nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 52/2024 privind aprobarea Programului anual de achizitii publice al comunei Lunca Cernii de Jos pentru anul 2025 – forma inițială",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184443",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-53-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/53",
+   "short": "HCL Lunca Cernii de Jos nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 53/2024 privind aprobarea listei partizilor ce vor fi scoase la licitație de Regia Publică Locală Ocolul Silvic Ținutul Pădurenilor R.A.pentru producția anului 2025",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184444",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-54-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/54",
+   "short": "HCL Lunca Cernii de Jos nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 54/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general ca urmare a finalizării achiziției de lucrări pentru obiectivul de investiții ,,Modernizare drum comunal și drumuri vicinale în comuna Lunca Cernii de Jos, județul Hunedoara”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny” precum și a sumei reprezentând cheltuielile finanțate de la Bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184445",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-55-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/55",
+   "short": "HCL Lunca Cernii de Jos nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 55/2024 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2024",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184446",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-56-2024",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2024/56",
+   "short": "HCL Lunca Cernii de Jos nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 56/2024 privind alegerea președintelui de ședință al Consiliului Local al comunei Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184447",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/184447",
      "sha256": null
     }
    ]

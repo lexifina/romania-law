@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--horlesti-113-2022",
+   "path": "local/iasi/horlesti/2022/113",
+   "short": "HCL Horlești nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 113/2022",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/86622",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/86622",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--horlesti-114-2022",
    "path": "local/iasi/horlesti/2022/114",
    "short": "HCL Horlești nr. 114/2022",

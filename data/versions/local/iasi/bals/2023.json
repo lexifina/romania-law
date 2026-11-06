@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bals-151-2023",
+   "path": "local/iasi/bals/2023/151",
+   "short": "HCL Balș nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 151/2023 privind aprobarea ordinii de zi a ședinței consiliului local",
+   "url": "https://emol.ro/bals-is/registru-hcl/154339",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-152-2023",
+   "path": "local/iasi/bals/2023/152",
+   "short": "HCL Balș nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 152/2023 privind aprobarea procesului verbal al ședinței consiliului local",
+   "url": "https://emol.ro/bals-is/registru-hcl/154340",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-153-2023",
+   "path": "local/iasi/bals/2023/153",
+   "short": "HCL Balș nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 153/2023 privind aprobarea documentației de avizare a lucrărilor de intervenție (DALI) a indicatorilor tehnico-economici actualizație și devizul general actualizat pentru obiectivul de investiții AMENAJARE PODEȚE, ȘANȚURI ȘI RIGOLE BETONATE ÎN COMUNA BALȘ, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/bals-is/registru-hcl/154341",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-154-2023",
+   "path": "local/iasi/bals/2023/154",
+   "short": "HCL Balș nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 154/2023 privind validarea Dispoziției Primarului Comunei Balș, nr. 315 din 03.11.2023 privind rectificarea bugetului de venituri și cheltuieli al Comunei Balș, trimestrul IV anul 2023",
+   "url": "https://emol.ro/bals-is/registru-hcl/154342",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154342",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bals-155-2023",
    "path": "local/iasi/bals/2023/155",
    "short": "HCL Balș nr. 155/2023",
@@ -43,6 +103,51 @@
      "from": "2024-04-29",
      "units": 1,
      "source_url": "https://emol.ro/bals-is/registru-hcl/154344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-157-2023",
+   "path": "local/iasi/bals/2023/157",
+   "short": "HCL Balș nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 157/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al Primarului Comunei Balș, județul Iași, începând cu data de 01 ianuarie 2024",
+   "url": "https://emol.ro/bals-is/registru-hcl/154345",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-158-2023",
+   "path": "local/iasi/bals/2023/158",
+   "short": "HCL Balș nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 158/2023 privind aprobarea modificării branșamentului și instalației de gaze naturale la obiectivul Post Poliție și Cabinet Veterinar, situat în satul Balș, str. 1 Decembrie 1918, nr. 11, comuna Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/154346",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-159-2023",
+   "path": "local/iasi/bals/2023/159",
+   "short": "HCL Balș nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 159/2023 privind alocarea unor fonduri bănești pentru achiziționarea de produse/servicii privind organizarea Sărbătorilor de iarnă și Pomul de Crăciun, pe rit vechi, copiilor școlari și preșcolari din comuna Balș, județul Iași, în data de 07 ianuarie anul 2024",
+   "url": "https://emol.ro/bals-is/registru-hcl/154347",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154347",
      "sha256": null
     }
    ]
@@ -88,6 +193,66 @@
      "from": "2024-04-29",
      "units": 1,
      "source_url": "https://emol.ro/bals-is/registru-hcl/154350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-163-2023",
+   "path": "local/iasi/bals/2023/163",
+   "short": "HCL Balș nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 163/2023 privind modificarea și completarea Inventarului bunurilor care aparțin domeniului privat al Comunei Balș, județul Iași",
+   "url": "https://emol.ro/bals-is/registru-hcl/154351",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-164-2023",
+   "path": "local/iasi/bals/2023/164",
+   "short": "HCL Balș nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 164/2023 privind aprobarea ordinii de zi a ședinței consiliului local",
+   "url": "https://emol.ro/bals-is/registru-hcl/154384",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-165-2023",
+   "path": "local/iasi/bals/2023/165",
+   "short": "HCL Balș nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 165/2023 privind aprobarea procesului verbal al ședinței consiliului local",
+   "url": "https://emol.ro/bals-is/registru-hcl/154385",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bals-166-2023",
+   "path": "local/iasi/bals/2023/166",
+   "short": "HCL Balș nr. 166/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balș nr. 166/2023 privind participarea la Programul privind creșterea eficienței energetice și gestionarea inteligentă în clădirile publice - Administrația Fondului pentru Mediu a obiectivului de investiții „REABILITARE ENERGETICĂ CLĂDIRE DE INTERES PUBLIC LOCAL PENTRU COMUNA BALȘ, JUDEȚUL IAȘI” precum și aprobarea documentației tehnico-economice și a indicatorilor asociați acesteia",
+   "url": "https://emol.ro/bals-is/registru-hcl/154386",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bals-is/registru-hcl/154386",
      "sha256": null
     }
    ]

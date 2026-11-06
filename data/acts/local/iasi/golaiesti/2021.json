@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-32-2021",
+"path": "local/iasi/golaiesti/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 32/2021 privind alegerea din rândul consilierilor a președintelui de ședință",
+"short": "HCL Golăiești nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/30587",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-33-2021",
 "path": "local/iasi/golaiesti/2021/33",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-34-2021",
+"path": "local/iasi/golaiesti/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 34/2021 privind aprobarea cuantumului burselor de performanță, de merit, de studiu și de ajutor social pentru elevii din învățământul preuniversitar de stat, cu frecvență, de pe raza comunei Golăiești, care se acordă în anul școlar 2020-2021",
+"short": "HCL Golăiești nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/30589",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +201,52 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-36-2021",
+"path": "local/iasi/golaiesti/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 36/2021",
+"short": "HCL Golăiești nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/30591",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-37-2021",
+"path": "local/iasi/golaiesti/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 37/2021",
+"short": "HCL Golăiești nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/30592",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-38-2021",
 "path": "local/iasi/golaiesti/2021/38",
 "kind": "local",
@@ -176,6 +266,183 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-39-2021",
+"path": "local/iasi/golaiesti/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 39/2021 privind privind actualizarea indicatorilor tehnico-economici pentru dotările la obiectivul de investiţii „Amenajare teren de sport în comuna Golăiești, județul Iaşi”",
+"short": "HCL Golăiești nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-14",
+"latest": "2021-07-14",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/30594",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-40-2021",
+"path": "local/iasi/golaiesti/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 40/2021 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor – cadru pentru achiziția produselor și a contractelor/acordurilor – cadru de prestare a serviciilor pentru derularea măsurilor educative prevăzute de Programul pentru școli al României pentru anii școlari 2021 – 2023",
+"short": "HCL Golăiești nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-14",
+"latest": "2021-07-14",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/30595",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-41-2021",
+"path": "local/iasi/golaiesti/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 41/2021 privind inventarierea și stabilirea consumului mediu de carburant pentru autoturismul OPEL MOKKA, identificat cu număr de identificare WOLJC7E87FB139248 și autoturismul HYUNDAI TUCSON, identificat cu număr de identificare KMHJN81VP7U688216, în patrimoniul comunei Golăiești, județul Iași",
+"short": "HCL Golăiești nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-14",
+"latest": "2021-07-14",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/30596",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-42-2021",
+"path": "local/iasi/golaiesti/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 42/2021 privind modificarea și completarea Programului anual al achizițiilor publice al comunei Golăieşti aferent anului 2021",
+"short": "HCL Golăiești nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-14",
+"latest": "2021-07-14",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/30597",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-43-2021",
+"path": "local/iasi/golaiesti/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 43/2021 privind rectificarea bugetului local al comunei Golăiești, județul Iași pe trimestrul III, anul 2021",
+"short": "HCL Golăiești nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-14",
+"latest": "2021-07-14",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/30598",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-44-2021",
+"path": "local/iasi/golaiesti/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 44/2021 privind modificarea și completarea Programului anual al achizițiilor publice al comunei Golăieşti aferent anului 2021",
+"short": "HCL Golăiești nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/31510",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-45-2021",
+"path": "local/iasi/golaiesti/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 45/2021",
+"short": "HCL Golăiești nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/31511",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-46-2021",
+"path": "local/iasi/golaiesti/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 46/2021 privind consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+"short": "HCL Golăiești nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/31512",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

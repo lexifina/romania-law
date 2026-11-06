@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--costesti-102-2022",
+   "path": "local/iasi/costesti/2022/102",
+   "short": "HCL Costești nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 102/2022",
+   "url": "https://emol.ro/costesti-is/registru-hcl/86359",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/86359",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--costesti-103-2022",
    "path": "local/iasi/costesti/2022/103",
    "short": "HCL Costești nr. 103/2022",
@@ -43,6 +58,21 @@
      "from": "2023-01-30",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/86360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-104-2022",
+   "path": "local/iasi/costesti/2022/104",
+   "short": "HCL Costești nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 104/2022 privind alegerea presedintelui de sedinta si aprobarea graficului de sedinta pentru lunile IANUARIE, FEBRUARIE şi MARTIE, anul 2023",
+   "url": "https://emol.ro/costesti-is/registru-hcl/86361",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/86361",
      "sha256": null
     }
    ]
@@ -208,6 +238,21 @@
      "from": "2023-01-30",
      "units": 1,
      "source_url": "https://emol.ro/costesti-is/registru-hcl/86352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--costesti-96-2022",
+   "path": "local/iasi/costesti/2022/96",
+   "short": "HCL Costești nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Costești nr. 96/2022",
+   "url": "https://emol.ro/costesti-is/registru-hcl/86353",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costesti-is/registru-hcl/86353",
      "sha256": null
     }
    ]

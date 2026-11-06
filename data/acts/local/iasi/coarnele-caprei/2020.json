@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-iasi--coarnele-caprei-22-2020",
+"path": "local/iasi/coarnele-caprei/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 22/2020",
+"short": "HCL Coarnele Caprei nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/10402",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--coarnele-caprei-23-2020",
 "path": "local/iasi/coarnele-caprei/2020/23",
 "kind": "local",
@@ -158,6 +181,50 @@
 }
 },
 {
+"slug": "hcl-iasi--coarnele-caprei-29-2020",
+"path": "local/iasi/coarnele-caprei/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 29/2020 privind adoptarea procesului verbal de ședință din data de 22.03.2020",
+"short": "HCL Coarnele Caprei nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/10410",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-30-2020",
+"path": "local/iasi/coarnele-caprei/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 30/2020 privind împrejmuire Școala Primară Coarnele Caprei (Școala Generală nr. 2 sat Coarnele Caprei)",
+"short": "HCL Coarnele Caprei nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/10411",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--coarnele-caprei-31-2020",
 "path": "local/iasi/coarnele-caprei/2020/31",
 "kind": "local",
@@ -180,6 +247,50 @@
 }
 },
 {
+"slug": "hcl-iasi--coarnele-caprei-32-2020",
+"path": "local/iasi/coarnele-caprei/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 32/2020 privind modificare HCL nr. 68/06.09.2017",
+"short": "HCL Coarnele Caprei nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/10412",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-36-2020",
+"path": "local/iasi/coarnele-caprei/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 36/2020 privind adoptare proces verbal de ședință din data de 31.03.2020",
+"short": "HCL Coarnele Caprei nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/10413",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--coarnele-caprei-37-2020",
 "path": "local/iasi/coarnele-caprei/2020/37",
 "kind": "local",
@@ -199,6 +310,72 @@
 "council_name": "Consiliul Local al Comunei Coarnele Caprei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-38-2020",
+"path": "local/iasi/coarnele-caprei/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 38/2020 privind modificarea Contractului de delegare ARSACIS",
+"short": "HCL Coarnele Caprei nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/10415",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-39-2020",
+"path": "local/iasi/coarnele-caprei/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 39/2020 privind acordare mandat ADIS",
+"short": "HCL Coarnele Caprei nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/10416",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--coarnele-caprei-40-2020",
+"path": "local/iasi/coarnele-caprei/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coarnele Caprei nr. 40/2020 privind concesionare Dispensar medical Coarnele Caprei",
+"short": "HCL Coarnele Caprei nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/coarnelecaprei-is/registru-hcl/10417",
+"council": "iasi/coarnele-caprei",
+"council_name": "Consiliul Local al Comunei Coarnele Caprei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

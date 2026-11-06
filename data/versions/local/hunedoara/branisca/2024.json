@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/branisca/2024",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--branisca-45-2024",
+   "path": "local/hunedoara/branisca/2024/45",
+   "short": "HCL Brănișca nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 45/2024 Proiect de hotarare nr.46/2024 privind aprobarea rectificarii bugetului local al Comunei Branisca pe anul 2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/167714",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/167714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-46-2024",
+   "path": "local/hunedoara/branisca/2024/46",
+   "short": "HCL Brănișca nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 46/2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/167715",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/167715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-47-2024",
+   "path": "local/hunedoara/branisca/2024/47",
+   "short": "HCL Brănișca nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 47/2024 Privind aprobare modificarii Organigramei si a Statului de functii a aparatului de specialitate al Primarului comunei Branisca",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/171611",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/171611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-48-2024",
+   "path": "local/hunedoara/branisca/2024/48",
+   "short": "HCL Brănișca nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 48/2024 privind aprobarea rectificarii bugetului local al Comunei Branisca pe anul 2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/171612",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/171612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-49-2024",
+   "path": "local/hunedoara/branisca/2024/49",
+   "short": "HCL Brănișca nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 49/2024 privind aprobarea rectificarii bugetului local al Comunei Branisca pe anul 2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/173676",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/173676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-50-2024",
+   "path": "local/hunedoara/branisca/2024/50",
+   "short": "HCL Brănișca nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 50/2024 nr.53/2024 privind alegerea preşedintelui de şedinţă pentru lunile octombrie 2024 – decembrie 2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/174759",
+   "versions": [
+    {
+     "from": "2024-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/174759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-51-2024",
+   "path": "local/hunedoara/branisca/2024/51",
+   "short": "HCL Brănișca nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 51/2024 nr.54/2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Branisca",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/174760",
+   "versions": [
+    {
+     "from": "2024-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/174760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-52-2024",
+   "path": "local/hunedoara/branisca/2024/52",
+   "short": "HCL Brănișca nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 52/2024 55/2024 privind alegerea viceprimarului comunei Branisca , judetul Hunedoara",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/174761",
+   "versions": [
+    {
+     "from": "2024-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/174761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-53-2024",
+   "path": "local/hunedoara/branisca/2024/53",
+   "short": "HCL Brănișca nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 53/2024 privind anularea accesoriilor aferente obligaţiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/180820",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/180820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-54-2024",
+   "path": "local/hunedoara/branisca/2024/54",
+   "short": "HCL Brănișca nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 54/2024 privind aprobarea documentației tehnico-economice – proiect tehnic, a indicatorilor tehnico-economici actualizați și a devizului general actualizat ca urmare a finalizării proiectului tehnic aferent obiectivului de investiții ,,ÎNFIINȚARE CANALIZARE MENAJERĂ ȘI STAȚIE DE EPURARE PENTRU SATELE BRĂNIȘCA, ROVINA, BOZ ȘI TÂRNĂVIȚA, COMUNA BRĂNIȘCA, JUDEȚUL HUNEDOARA\"",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/180831",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/180831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-55-2024",
+   "path": "local/hunedoara/branisca/2024/55",
+   "short": "HCL Brănișca nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 55/2024 PROIECT DE HOTĂRÂRE nr. 57/2024 privind aprobarea participarii Comunei Brănișca în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Modernizarea și eficientizarea sistemului de iluminat public stradal, în comuna Brănișca, județul Hunedoara”",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/180832",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/180832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-56-2024",
+   "path": "local/hunedoara/branisca/2024/56",
+   "short": "HCL Brănișca nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 56/2024 59/2024 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul III al anului 2024 si a stabilirii masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/180873",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/180873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-57-2024",
+   "path": "local/hunedoara/branisca/2024/57",
+   "short": "HCL Brănișca nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 57/2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/180874",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/180874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-58-2024",
+   "path": "local/hunedoara/branisca/2024/58",
+   "short": "HCL Brănișca nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 58/2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/180875",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/180875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-59-2024",
+   "path": "local/hunedoara/branisca/2024/59",
+   "short": "HCL Brănișca nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 59/2024 Privind modificarea si completarea Hotărârii 53 /2024 privind anularea accesoriilor aferente obligaţiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/180876",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/180876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-60-2024",
+   "path": "local/hunedoara/branisca/2024/60",
+   "short": "HCL Brănișca nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 60/2024 privind aprobarea rectificarii bugetului local al Comunei Branisca pe anul 2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/180877",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/180877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-61-2024",
+   "path": "local/hunedoara/branisca/2024/61",
+   "short": "HCL Brănișca nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 61/2024 nr. 66/2023 privind aprobarea nivelurilor impozitelor si taxelor locale pe anul 2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/185558",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/185558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-62-2024",
+   "path": "local/hunedoara/branisca/2024/62",
+   "short": "HCL Brănișca nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 62/2024 privindprivind aprobarea rețelei scolare a unităților de învățământ preuniversitar de stat de pe raza teritorială a Comunei Brănișca, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/185559",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/185559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-63-2024",
+   "path": "local/hunedoara/branisca/2024/63",
+   "short": "HCL Brănișca nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 63/2024 privind alegerea preşedintelui de şedinţă pentru lunile ianuarie 2025- martie 2025",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/185560",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/185560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-64-2024",
+   "path": "local/hunedoara/branisca/2024/64",
+   "short": "HCL Brănișca nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 64/2024 privind aprobarea rectificarii bugetului local al comunei Branisca pe anul 2024",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/185561",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/185561",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

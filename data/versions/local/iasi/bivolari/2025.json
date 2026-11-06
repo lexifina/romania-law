@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bivolari-134-2025",
+   "path": "local/iasi/bivolari/2025/134",
+   "short": "HCL Bivolari nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 134/2025",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/240956",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/240956",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bivolari-135-2025",
    "path": "local/iasi/bivolari/2025/135",
    "short": "HCL Bivolari nr. 135/2025",
@@ -168,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--bivolari-141-2025",
+   "path": "local/iasi/bivolari/2025/141",
+   "short": "HCL Bivolari nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 141/2025 privind achiziția lucrări de conectare/decontare la rețeaua electrică a instalațiilor ornamentale pentru sărbătorile de iarnă",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245537",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245537",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--bivolari-142-2025",
    "path": "local/iasi/bivolari/2025/142",
    "short": "HCL Bivolari nr. 142/2025",
@@ -238,6 +268,21 @@
      "from": "2025-12-18",
      "units": 1,
      "source_url": "https://emol.ro/bivolari-is/registru-hcl/245542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--bivolari-147-2025",
+   "path": "local/iasi/bivolari/2025/147",
+   "short": "HCL Bivolari nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bivolari nr. 147/2025 privind acordarea unui ajutor financiar de urgență, pentru acoperirea unor cheltuieli de inmormântare",
+   "url": "https://emol.ro/bivolari-is/registru-hcl/245544",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bivolari-is/registru-hcl/245544",
      "sha256": null
     }
    ]

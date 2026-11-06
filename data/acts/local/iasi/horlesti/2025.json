@@ -69,6 +69,74 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-99-2025",
+"path": "local/iasi/horlesti/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 99/2025",
+"short": "HCL Horlești nr. 99/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/236468",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-100-2025",
+"path": "local/iasi/horlesti/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 100/2025 Privind acordarea unei recompense băneşti în sumă netă de 200 lei cuplului care a împlinit 50 de ani de la încheierea căsătoriei cu domiciliul stabil în comuna Horlesti, judetul Iasi",
+"short": "HCL Horlești nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/236469",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-101-2025",
+"path": "local/iasi/horlesti/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 101/2025",
+"short": "HCL Horlești nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/236470",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-102-2025",
 "path": "local/iasi/horlesti/2025/102",
 "kind": "local",

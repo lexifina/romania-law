@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/luncoiu-de-jos/2022",
  "acts": [
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-61-2022",
+   "path": "local/hunedoara/luncoiu-de-jos/2022/61",
+   "short": "HCL Luncoiu de Jos nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 61/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/79805",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/79805",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-62-2022",
    "path": "local/hunedoara/luncoiu-de-jos/2022/62",
    "short": "HCL Luncoiu de Jos nr. 62/2022",

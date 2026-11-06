@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "cnsc-decizie-2025-620",
+   "path": "cnsc/decizie/2025/620",
+   "short": "Decizia CNSC nr. 620/C10/2549 din 04.03.2025",
+   "title": "Decizia CNSC nr. 620/C10/2549 din 04.03.2025: contestația PROIECT INVEST SRL, SAMUS TEC SRL în contradictoriu cu COMUNA SURDUC (PRIMARIA COMUNEI SURDUC)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDJmYjJjOWUtNTJkNy00MzU5LWE3MWMtMGQxMDg3YjU3YmRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MjAucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NDJmYjJjOWUtNTJkNy00MzU5LWE3MWMtMGQxMDg3YjU3YmRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82MjAucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "6496f6e140ca3a3024c6eda8de48baa9cb08fe8b23a46c4b5592d47d224d0bcc"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2025-913",
    "path": "cnsc/decizie/2025/913",
    "short": "Decizia CNSC nr. 913/C10/3384 din 25.03.2025",

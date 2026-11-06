@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-iasi--halaucesti-25-2022",
+"path": "local/iasi/halaucesti/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 25/2022 privind alegerea presedintelui de sedinţă",
+"short": "HCL Hălăucești nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/64478",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--halaucesti-26-2022",
 "path": "local/iasi/halaucesti/2022/26",
 "kind": "local",
@@ -291,6 +313,28 @@
 }
 },
 {
+"slug": "hcl-iasi--halaucesti-36-2022",
+"path": "local/iasi/halaucesti/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 36/2022 privind alegerea presedintelui de sedinţă",
+"short": "HCL Hălăucești nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/68279",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--halaucesti-37-2022",
 "path": "local/iasi/halaucesti/2022/37",
 "kind": "local",
@@ -354,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Hălăucești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-40-2022",
+"path": "local/iasi/halaucesti/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 40/2022 privind desemnarea reprezentanţilor Consiliului local al comunei Hălăuceşti în Consiliul de admninistraţie al Liceului Teoretic „Bogdan Vodă” Hălăuceşti",
+"short": "HCL Hălăucești nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/76073",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

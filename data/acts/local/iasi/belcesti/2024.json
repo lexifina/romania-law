@@ -3,6 +3,50 @@
 "shard": "local/iasi/belcesti/2024",
 "acts": [
 {
+"slug": "hcl-iasi--belcesti-85-2024",
+"path": "local/iasi/belcesti/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 85/2024 privind alegerea preşedintelui de şedinţă pentru lunile noiembrie-decembrie 2024 și ianuarie 2025",
+"short": "HCL Belcești nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191805",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-86-2024",
+"path": "local/iasi/belcesti/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 86/2024 privind stabilirea și organizarea comisiilor de specialitate din cadrul Consiliului Local al comunei Belcești",
+"short": "HCL Belcești nr. 86/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191806",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--belcesti-87-2024",
 "path": "local/iasi/belcesti/2024/87",
 "kind": "local",
@@ -22,6 +66,117 @@
 "council_name": "Consiliul Local al Comunei Belcești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-88-2024",
+"path": "local/iasi/belcesti/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 88/2024 Privind modificarea art.2 alin 2 a HCL nr.15/29.02.2024 aprobarea susținerii financiare a instituției publice de interes local „CLUB SPORTIV VIITORUL BELCEȘTI”",
+"short": "HCL Belcești nr. 88/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191808",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-89-2024",
+"path": "local/iasi/belcesti/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 89/2024",
+"short": "HCL Belcești nr. 89/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191809",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-90-2024",
+"path": "local/iasi/belcesti/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 90/2024 privind numire reprezentant ai Consiliului Local în Consiliul de Administrație si in comisia pentru evaluarea și asigurarea calității a Scolii Gimnaziale Liteni",
+"short": "HCL Belcești nr. 90/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191810",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-91-2024",
+"path": "local/iasi/belcesti/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 91/2024 privind numire reprezentanți ai Consiliului Local în Consiliul de Administrație și în Comisia de Evaluare și Asigurarea Calității a Școlii Gimnaziale Ruși",
+"short": "HCL Belcești nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191811",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--belcesti-92-2024",
+"path": "local/iasi/belcesti/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belcești nr. 92/2024 privind alegerea Viceprimarului Comunei Belcești",
+"short": "HCL Belcești nr. 92/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/belcesti-is/registru-hcl/191812",
+"council": "iasi/belcesti",
+"council_name": "Consiliul Local al Comunei Belcești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

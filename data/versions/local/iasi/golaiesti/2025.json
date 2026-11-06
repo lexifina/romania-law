@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--golaiesti-109-2025",
+   "path": "local/iasi/golaiesti/2025/109",
+   "short": "HCL Golăiești nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 109/2025 privind aprobarea raportului de evaluare privind executarea lucrărilor de construire a unui gard în vederea finalizării procedurii de expropriere pentru proiectul „Construire piste pentru biciclete în Comuna Golăiești, Județul Iași”",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256793",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256793",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--golaiesti-110-2025",
    "path": "local/iasi/golaiesti/2025/110",
    "short": "HCL Golăiești nr. 110/2025",
@@ -168,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--golaiesti-112-2025",
+   "path": "local/iasi/golaiesti/2025/112",
+   "short": "HCL Golăiești nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 112/2025 privind trecerea în domeniul privat al comunei Golăiești a imobilelor înscrise în Cărțile Funciare a Comunei Golăiești",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256801",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-113-2025",
+   "path": "local/iasi/golaiesti/2025/113",
+   "short": "HCL Golăiești nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 113/2025 Privind desemnarea președintelui de ședință pentru următoarele 3 luni",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256803",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256803",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--golaiesti-114-2025",
    "path": "local/iasi/golaiesti/2025/114",
    "short": "HCL Golăiești nr. 114/2025",
@@ -178,6 +223,21 @@
      "from": "2026-03-03",
      "units": 1,
      "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--golaiesti-115-2025",
+   "path": "local/iasi/golaiesti/2025/115",
+   "short": "HCL Golăiești nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 115/2025 Privind declanșarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică și interes local –”Înființare Teren Sport Pentru Tineret Și Copii În Comuna Golăiești Județul Iași”",
+   "url": "https://emol.ro/golaiesti-is/registru-hcl/256806",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/golaiesti-is/registru-hcl/256806",
      "sha256": null
     }
    ]

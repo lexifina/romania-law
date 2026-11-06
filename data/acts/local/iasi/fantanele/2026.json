@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--fantanele-43-2026",
+"path": "local/iasi/fantanele/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 43/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Fântânele din dta de 27.08.2026",
+"short": "HCL Fântânele nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/285698",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--fantanele-44-2026",
 "path": "local/iasi/fantanele/2026/44",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-iasi--fantanele-48-2026",
+"path": "local/iasi/fantanele/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 48/2026 privind aprobarea ordinii de zi ședinței extraordinare a Consiliului Local al Comunei Fântânele din data de 04.09.2026",
+"short": "HCL Fântânele nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/288579",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--fantanele-49-2026",
 "path": "local/iasi/fantanele/2026/49",
 "kind": "local",
@@ -135,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-iasi--fantanele-50-2026",
+"path": "local/iasi/fantanele/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 50/2026 privind aprobarea ordinii de zi a ședinței extraordinare din data de 24.09.2026",
+"short": "HCL Fântânele nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/288581",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--fantanele-51-2026",
 "path": "local/iasi/fantanele/2026/51",
 "kind": "local",
@@ -154,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-52-2026",
+"path": "local/iasi/fantanele/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 52/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Fântânele din data de 29.09.2026",
+"short": "HCL Fântânele nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/291124",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +289,72 @@
 }
 },
 {
+"slug": "hcl-iasi--fantanele-55-2026",
+"path": "local/iasi/fantanele/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 55/2026 privind desemnarea reprezentanților Consiliului Local al comunei Fântânele în Consiliul de administrație al Liceului Tehnologic Fântânele pentru anul școlar 2026-2027",
+"short": "HCL Fântânele nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/291138",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-56-2026",
+"path": "local/iasi/fantanele/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 56/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Fântânele și a membrului supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției vacante de director al Liceului Tehnologic Fântânele, sesiunea august-decembrie 2026",
+"short": "HCL Fântânele nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/291146",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-57-2026",
+"path": "local/iasi/fantanele/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 57/2026 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al Comunei Fântânele din data de 16.10.2026",
+"short": "HCL Fântânele nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/293529",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--fantanele-58-2026",
 "path": "local/iasi/fantanele/2026/58",
 "kind": "local",
@@ -242,6 +396,50 @@
 "council_name": "Consiliul Local al Comunei Fântânele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-60-2026",
+"path": "local/iasi/fantanele/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 60/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Fântânele din data de 29.10.2026",
+"short": "HCL Fântânele nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/296144",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--fantanele-61-2026",
+"path": "local/iasi/fantanele/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 61/2026 privind înființarea unui post contractual de asistent medical comunitar debutant și modificarea organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Fântânele, județul Iași",
+"short": "HCL Fântânele nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/fantanele-is/registru-hcl/296150",
+"council": "iasi/fantanele",
+"council_name": "Consiliul Local al Comunei Fântânele",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

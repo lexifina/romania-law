@@ -3,6 +3,29 @@
 "shard": "local/iasi/cucuteni/2021",
 "acts": [
 {
+"slug": "hcl-iasi--cucuteni-78-2021",
+"path": "local/iasi/cucuteni/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 78/2021",
+"short": "HCL Cucuteni nr. 78/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/38443",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-79-2021",
 "path": "local/iasi/cucuteni/2021/79",
 "kind": "local",
@@ -136,6 +159,29 @@
 }
 },
 {
+"slug": "hcl-iasi--cucuteni-85-2021",
+"path": "local/iasi/cucuteni/2021/85",
+"kind": "local",
+"year": "2021",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 85/2021",
+"short": "HCL Cucuteni nr. 85/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/42256",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--cucuteni-86-2021",
 "path": "local/iasi/cucuteni/2021/86",
 "kind": "local",
@@ -155,6 +201,28 @@
 "council_name": "Consiliul Local al Comunei Cucuteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--cucuteni-87-2021",
+"path": "local/iasi/cucuteni/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cucuteni nr. 87/2021 privind solicitarea acordului Consiliului local în vederea contractării unor plafoane de credite bancare până în suma maximă de 2.000.000 RON de către SC Gaz Nord Est SA",
+"short": "HCL Cucuteni nr. 87/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/cucuteni-is/registru-hcl/42258",
+"council": "iasi/cucuteni",
+"council_name": "Consiliul Local al Comunei Cucuteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

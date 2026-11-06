@@ -23,6 +23,29 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-hunedoara--batrana-35-2022",
+"path": "local/hunedoara/batrana/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâna nr. 35/2022",
+"short": "HCL Bătrâna nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://primaria-batrina.ro/wp-content/uploads/2022/10/HCL-nr.35-din-29-sept-2022.pdf",
+"council": "hunedoara/batrana",
+"council_name": "Consiliul Local al Comunei Bătrâna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

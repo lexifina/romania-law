@@ -179,6 +179,29 @@
 }
 },
 {
+"slug": "hcl-iasi--gropnita-9-2026",
+"path": "local/iasi/gropnita/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 9/2026",
+"short": "HCL Gropnița nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/gropnita-is/registru-hcl/261680",
+"council": "iasi/gropnita",
+"council_name": "Consiliul Local al Comunei Gropnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--gropnita-10-2026",
 "path": "local/iasi/gropnita/2026/10",
 "kind": "local",

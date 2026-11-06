@@ -92,6 +92,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--luncoiu-de-jos-90-2023",
+"path": "local/hunedoara/luncoiu-de-jos/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 90/2023",
+"short": "HCL Luncoiu de Jos nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-18",
+"latest": "2024-03-18",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/130852",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--luncoiu-de-jos-91-2023",
 "path": "local/hunedoara/luncoiu-de-jos/2023/91",
 "kind": "local",
@@ -177,6 +200,50 @@
 "council_name": "Consiliul Local al Comunei Luncoiu de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-95-2023",
+"path": "local/hunedoara/luncoiu-de-jos/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 95/2023 privind aprobarea participării la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” pentru obiectivul de investiții ,,Reabilitare si eficientizare energetica a sediului Primariei Luncoiu de Jos”",
+"short": "HCL Luncoiu de Jos nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-18",
+"latest": "2024-03-18",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/132688",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-96-2023",
+"path": "local/hunedoara/luncoiu-de-jos/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 96/2023 privind aprobarea participării la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” pentru obiectivul de investiții ,,Reabilitare si eficientizare energetica a Școlii Primare Podele”",
+"short": "HCL Luncoiu de Jos nr. 96/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-18",
+"latest": "2024-03-18",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/132689",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

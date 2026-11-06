@@ -47,6 +47,94 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-48-2024",
+"path": "local/iasi/focuri/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 48/2024 privind instituirea unor facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.08.2024 inclusiv, precum și a obligațiilor bugetare principale în procent de 50% sau 25% , după caz, datorate bugetului local de către contribuabili de pe raza administrativ teritorială a Comunei Focuri, județul Iași",
+"short": "HCL Focuri nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/focuri-is/registru-hcl/187113",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-49-2024",
+"path": "local/iasi/focuri/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 49/2024 privind acordare ajutoare de urgență pentru familiile aflate în situații de dificultate",
+"short": "HCL Focuri nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/focuri-is/registru-hcl/187114",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-50-2024",
+"path": "local/iasi/focuri/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 50/2024 privind desemnarea președintelui de ședință pentru următoarele trei luni",
+"short": "HCL Focuri nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/focuri-is/registru-hcl/187120",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-51-2024",
+"path": "local/iasi/focuri/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 51/2024 privind organizarea comisiilor de specialitate ale consiliului local",
+"short": "HCL Focuri nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/focuri-is/registru-hcl/187121",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-52-2024",
 "path": "local/iasi/focuri/2024/52",
 "kind": "local",
@@ -113,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-55-2024",
+"path": "local/iasi/focuri/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 55/2024 privind înființarea Clubului Sportiv Local Focuri",
+"short": "HCL Focuri nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/focuri-is/registru-hcl/187146",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-56-2024",
 "path": "local/iasi/focuri/2024/56",
 "kind": "local",
@@ -155,6 +265,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--focuri-58-2024",
+"path": "local/iasi/focuri/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 58/2024 privind acordare ajutoare de urgentă pentru familiile aflate în situații de dificultate",
+"short": "HCL Focuri nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/focuri-is/registru-hcl/187149",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-59-2024",
+"path": "local/iasi/focuri/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 59/2024 privind alegerea viceprimarului Comunei Focuri, Județul Iași",
+"short": "HCL Focuri nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/focuri-is/registru-hcl/187150",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -266,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-65-2024",
+"path": "local/iasi/focuri/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 65/2024 privind desemnarea unui nou președinte de ședință pentru următoarele trei luni",
+"short": "HCL Focuri nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/focuri-is/registru-hcl/187188",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

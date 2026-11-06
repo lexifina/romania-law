@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/armasesti/2016",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--armasesti-1-2016",
+   "path": "local/ialomita/armasesti/2016/1",
+   "short": "HCL Armășești nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 1/2016 privind alegerea presedintelui de sedinta",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2016/2016_hot_01.pdf",
+     "sha256": "e2bd917374fb30ac8240093c5a36261190914f3ba3db279286ee059b929a0f08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-2-2016",
+   "path": "local/ialomita/armasesti/2016/2",
+   "short": "HCL Armășești nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 2/2016 privind adoptarea bugetului local pe anul 2016",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2016/2016_hot_02.pdf",
+     "sha256": "d270d6108f968dfe7ccbae2ab83e5519a59a1ac4bd6bb9ffa62d5d96fafcbb78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-3-2016",
+   "path": "local/ialomita/armasesti/2016/3",
+   "short": "HCL Armășești nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 3/2016 privind aprobarea executiei bugetelor intocmite pe cele doua sectiuni, pe trim. IV 2015",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2016/2016_hot_03.pdf",
+     "sha256": "228ca3780b4f2a8abe15cfd95b8d0988a501420fa44aedbcf939e6b8cd342176"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--armasesti-4-2016",
+   "path": "local/ialomita/armasesti/2016/4",
+   "short": "HCL Armășești nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Armășești nr. 4/2016 privind insusirea inventarului bunurilor apartinand domeniului privat al com. Armasesti",
+   "url": "http://www.comunaarmasesti.ro/consiliul_local_hotarari.html",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://www.comunaarmasesti.ro/z_Consiliul%20Local/Hotarari/2016/2016_hot_04.pdf",
+     "sha256": "6cc08020a7c4b2cc2e65028162e83542797dfb6f582f441afa34ab69432bb17a"
+    }
+   ]
+  }
+ ]
+}

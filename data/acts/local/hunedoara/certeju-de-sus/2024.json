@@ -3,6 +3,28 @@
 "shard": "local/hunedoara/certeju-de-sus/2024",
 "acts": [
 {
+"slug": "hcl-hunedoara--certeju-de-sus-49-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 49/2024 privind aprobarea modificării organigramei și statului de funcții al aparatului de specialitate a primarului, comunei Certeju de Sus, județul Hunedoara",
+"short": "HCL Certeju de Sus nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192307",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--certeju-de-sus-50-2024",
 "path": "local/hunedoara/certeju-de-sus/2024/50",
 "kind": "local",
@@ -91,6 +113,94 @@
 }
 },
 {
+"slug": "hcl-hunedoara--certeju-de-sus-54-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 54/2024 privind aprobarea realizării STUDIULUI DE FEZABILITATE pentru investiția STAȚIE DE EPURARE ÎN LOCALITATEA CERTEJU DE SUS, COMUNA CERTEJU DE SUS, JUDEȚUL HUNEDOARA",
+"short": "HCL Certeju de Sus nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192312",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-55-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 55/2024 privind aprobarea modului de suportare a comisionului bancar la tranzacțiile cu cardul pentru plata impozitelor și taxelor locale",
+"short": "HCL Certeju de Sus nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192313",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-56-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 56/2024 privind aprobarea rectificării prin suplimentare și virare de credite a bugetului local pe trimestrul IV al anului 2024",
+"short": "HCL Certeju de Sus nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192314",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-57-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 57/2024 privind aprobarea modificării și completării Programului anual al achizițiilor publice pentru anul 2024",
+"short": "HCL Certeju de Sus nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192315",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--certeju-de-sus-58-2024",
 "path": "local/hunedoara/certeju-de-sus/2024/58",
 "kind": "local",
@@ -110,6 +220,29 @@
 "council_name": "Consiliul Local al Comunei Certeju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-59-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 59/2024",
+"short": "HCL Certeju de Sus nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192336",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -135,6 +268,50 @@
 }
 },
 {
+"slug": "hcl-hunedoara--certeju-de-sus-61-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 61/2024 privind aprobarea rectificării prin suplimentare a bugetului local pe trimestrul IV al anului 2024",
+"short": "HCL Certeju de Sus nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192338",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-62-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 62/2024 privind aprobarea modificării și completării Programului anual al achizițiilor publice pentru anul 2024",
+"short": "HCL Certeju de Sus nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192339",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--certeju-de-sus-63-2024",
 "path": "local/hunedoara/certeju-de-sus/2024/63",
 "kind": "local",
@@ -154,6 +331,50 @@
 "council_name": "Consiliul Local al Comunei Certeju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-64-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 64/2024 privind aprobarea modificării și completării Programului anual al achizițiilor publice pentru anul 2024",
+"short": "HCL Certeju de Sus nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192341",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-65-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 65/2024 privind aprobarea organizării Rețelei școlare la nivelul comunei Certeju de Sus, județul Hunedoara pentru anul școlar 2025-2026",
+"short": "HCL Certeju de Sus nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192342",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Certeju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-68-2024",
+"path": "local/hunedoara/certeju-de-sus/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 68/2024 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public de Gospodărire Comunală în comuna Certeju de Sus, județul Hunedoara",
+"short": "HCL Certeju de Sus nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/192345",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]
