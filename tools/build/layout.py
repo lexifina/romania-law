@@ -70,7 +70,12 @@ LANE_KINDS = {'decizie-bec': 'Central Electoral Bureau decisions, regulations an
               # bodies: unbr, inppa, unnpr, unej, ocjr, cscjr, unpir, mediere, csm, inm, ceccar, cafr;
               # ids profesii-<folder below the root, "/" -> "-"> (profesii-unbr-statut, profesii-unbr-hotarare-consiliu-2017-268)
               'profesii': "Legal professions' rules: statutes, codes of ethics, regulations and decisions of the "
-                          'professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR)'}
+                          'professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR)',
+              # Treaty texts (sources/treaties; 2026-11-06): the "Act Internațional" documents published in the
+              # Monitorul Oficial with the act that ratifies or approves them. A treaty has no number of its own, so the
+              # signing day and type name it: tratat/<year>/<MM-DD>-<type>[-<n>], id tratat-<year>-<MM-DD>-<type>[-<n>]
+              # (tratat/2024/05-21-acord); -2, -3 ... in service document order for one day's several of one type.
+              'tratat': 'Treaties and international agreements (texts published with their ratifying act)'}
 KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')}, **LANE_KINDS,
               'cod': KIND_NAMES['cod'], 'alte': KIND_NAMES['alte']}
 LANE_ROOTS = tuple(LANE_KINDS)

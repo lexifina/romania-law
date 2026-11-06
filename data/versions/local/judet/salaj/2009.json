@@ -3,6 +3,366 @@
  "shard": "local/judet/salaj/2009",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2009",
+   "path": "local/judet/salaj/2009/1",
+   "short": "HCJ Sălaj nr. 1/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot12009.pdf",
+     "sha256": "f92edec80f296b9b38bbd5b70f72dff798cd4c5c644e9536f0eb91ecbfe90f2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-10-2009",
+   "path": "local/judet/salaj/2009/10",
+   "short": "HCJ Sălaj nr. 10/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2009 privind darea in folosinta gratuita, pe termen limitat, Directiei de Paza, Protocol si Administrativ Salaj, a unor spatii apartinand domeniului public al judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot102009.pdf",
+     "sha256": "afff817212c37bfded950a5cad8da274fda52e5302652d0a7e3d3bc70649de31"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-100-2009",
+   "path": "local/judet/salaj/2009/100",
+   "short": "HCJ Sălaj nr. 100/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 100/2009 privind transmiterea unor bunuri mobile, din domeniul public al Judetului Salaj, in domeniul public al Comunei Cizer",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1002009.pdf",
+     "sha256": "e9fe247df95b66844de9fd1bdb0e7a1b520eabc42552dc9a12313d9a19e61ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-102-2009",
+   "path": "local/judet/salaj/2009/102",
+   "short": "HCJ Sălaj nr. 102/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 102/2009 privind alocarea unor sume din fondul de rulment al Judetului Salaj pe anul 2009, pentru finantarea unei lucrari de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1022009.pdf",
+     "sha256": "711a1a11af3c3c1fe463a2b11d99f50f691edbb7d421597b317c1dc76f3a0711"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-103-2009",
+   "path": "local/judet/salaj/2009/103",
+   "short": "HCJ Sălaj nr. 103/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 103/2009 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj pe anul 2009, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1032009.pdf",
+     "sha256": "41457eabbcf2d494c086e968552ea38dd618755f77cef5eed900323fcae884b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-104-2009",
+   "path": "local/judet/salaj/2009/104",
+   "short": "HCJ Sălaj nr. 104/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 104/2009 privind rectificarea bugetului propriu al judetului, pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1042009.pdf",
+     "sha256": "1e31e7a70a054188eaa8ed847a8f414fe2c2d5b0f9a5f86a83dade73fd0bc210"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-106-2009",
+   "path": "local/judet/salaj/2009/106",
+   "short": "HCJ Sălaj nr. 106/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 106/2009 privind aprobarea participarii judetului Salaj la licitatia publica, in vederea cumpararii a doua imobile situate in localitatea Sarmasag",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1062009.pdf",
+     "sha256": "4a7b5bc0729582e90d2be5e900340b1c46ab6e5f03195e1fd10da5afc5847330"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-107-2009",
+   "path": "local/judet/salaj/2009/107",
+   "short": "HCJ Sălaj nr. 107/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 107/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr. 125 din 12 septembrie 2008 privind vanzarea unor spatii aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1072009.pdf",
+     "sha256": "99d8fac7aa039a5bd7fa86ca7e8b123854ee00caae51c2ce80e74e0888937a90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-108-2009",
+   "path": "local/judet/salaj/2009/108",
+   "short": "HCJ Sălaj nr. 108/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2009 privind inchirierea unui spatiu din imobilul situat in municipiul Zalau, str. Lt.col.Pretorian, nr. 100, aflat in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1082009.pdf",
+     "sha256": "bdbd8d186038c308e4e67b9ec693e1269690f418da8d8115e8acdff12b259f29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-109-2009",
+   "path": "local/judet/salaj/2009/109",
+   "short": "HCJ Sălaj nr. 109/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 109/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1092009.pdf",
+     "sha256": "d69f85a13a5b04d58bf9ecfef8245050ec15b6934f4eb90fe267fc2516bdba75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2009",
+   "path": "local/judet/salaj/2009/11",
+   "short": "HCJ Sălaj nr. 11/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2009 privind darea in folosinta gratuita, pe termen limitat, Bibliotecii Judetene \"Ionita Scipione Badescu\" Salaj, a unor spatii din domeniul public al judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot112009.pdf",
+     "sha256": "00ff34534c8ec0891e0f99be18606f16f01fe452c2cb128ab3846cb7d1bb579a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-110-2009",
+   "path": "local/judet/salaj/2009/110",
+   "short": "HCJ Sălaj nr. 110/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 110/2009 privind aprobarea indicatorilor tehnico-economici la obiectivul de investitii \"Modernizare sala de sedinta si corp de legatura la sediul Consiliului judetean\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1102009.pdf",
+     "sha256": "1a1b9a748221b7f68896040db1bcfce84c1408f92c4f31f071289beca0eb7e47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2009",
+   "path": "local/judet/salaj/2009/111",
+   "short": "HCJ Sălaj nr. 111/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2009 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Reabilitare drum judetean DJ 110A km: 0+000-3+500, DN 1F-Guruslau\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1112009.pdf",
+     "sha256": "d87f4fe67431c6b1f83d740c10a430a599ee368ad9388063f77e5ae6a313169a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2009",
+   "path": "local/judet/salaj/2009/112",
+   "short": "HCJ Sălaj nr. 112/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2009 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Reabilitare drum judetean DJ 108A km: 30+000-40+000, Agrij-Romanasi\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1122009.pdf",
+     "sha256": "0397b1d52ca6dbcc2d194fc75beb95b2e4875d55fea36fa9749ab73356256782"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-113-2009",
+   "path": "local/judet/salaj/2009/113",
+   "short": "HCJ Sălaj nr. 113/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 113/2009 privind actualizarea Programului de transport rutier de persoane prin servicii regulate, in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1132009.pdf",
+     "sha256": "9421b86e28c2dbf0be930c48deebcbcc98a23faaebd51e7b096d65a745036f72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-114-2009",
+   "path": "local/judet/salaj/2009/114",
+   "short": "HCJ Sălaj nr. 114/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 114/2009 privind reactualizarea Comisiei tehnice de amenajare a teritoriului si urbanism",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1142009.pdf",
+     "sha256": "803b1f781fe4ea41ab3e7a3be2dab423688a4b87a3df699383119de1c682a15e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-115-2009",
+   "path": "local/judet/salaj/2009/115",
+   "short": "HCJ Sălaj nr. 115/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 115/2009 privind rectificarea bugetului propriu al judetului, pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1152009.pdf",
+     "sha256": "0aafd90b90c694c2b79bbca1539a63c3070651ccf87a3b0e8a22543a96536516"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-116-2009",
+   "path": "local/judet/salaj/2009/116",
+   "short": "HCJ Sălaj nr. 116/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 116/2009 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj pe anul 2009, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1162009.pdf",
+     "sha256": "10ec38bd9ba51a9c39f746537afde80b9152eafd986be15d193710045b59e493"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-117-2009",
+   "path": "local/judet/salaj/2009/117",
+   "short": "HCJ Sălaj nr. 117/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 117/2009 pentru modificarea anexei la Hatararea Consiliului Judetean Salaj nr. 43 din 17 martie 2009 privind alocarea unor sume din fondul de rulment al Consiliului Judetean Salaj, pentru finantarea unor lucrari de interes judetean in anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1172009.pdf",
+     "sha256": "bf0b5568d62fd12b92f41eb30219068fcf53947084e33d4917663714a86fc907"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-118-2009",
+   "path": "local/judet/salaj/2009/118",
+   "short": "HCJ Sălaj nr. 118/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 118/2009 privind inchirierea unui spatiu din domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1182009.pdf",
+     "sha256": "5a71f31ab5d79e818387ca4c5c96bc8adca1c58d62e2252ccbaec0b891d9cb20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-119-2009",
+   "path": "local/judet/salaj/2009/119",
+   "short": "HCJ Sălaj nr. 119/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 119/2009 privind cumpararea imobilului si a terenului aferent, situate in orasul Jibou, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1192009.pdf",
+     "sha256": "8f116a2046bb98133ac7b306407dd9985e3dcf058c2be6fcf13aadf721dd4e34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2009",
+   "path": "local/judet/salaj/2009/12",
+   "short": "HCJ Sălaj nr. 12/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2009 privind inchirierea unui spatiu din imobilul situat in municipiul Zalau, strada Unirii, nr.20, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot122009.pdf",
+     "sha256": "759b2f0f9280690666ceab2ade4736a7d628253849ab7c51714e354c5995d0db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-120-2009",
+   "path": "local/judet/salaj/2009/120",
+   "short": "HCJ Sălaj nr. 120/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 120/2009 privind retragerea dreptului de administrare conferit Muzeului Judetean de Istorie si Arta Zalau, asupra unor bunuri din domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1202009.pdf",
+     "sha256": "eb57129b2db0b6bba89819aad851389903b51ae591ade9ae0a916a437f37bdbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-121-2009",
+   "path": "local/judet/salaj/2009/121",
+   "short": "HCJ Sălaj nr. 121/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 121/2009 privind aprobarea Programului pentru pregatirea si intretinerea drumurilor judetene din administrarea Consiliului Judetean Salaj, pentru perioada de iarna 2009-2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1212009.pdf",
+     "sha256": "7bc1c3af574082c11a2af369900303ee901bd7cf97c0794ebd582a5ae90115f9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-123-2009",
    "path": "local/judet/salaj/2009/123",
    "short": "HCJ Sălaj nr. 123/2009",
@@ -14,6 +374,156 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1232009.pdf",
      "sha256": "753fd4d11d3ae3c39d64ea02b38e85f0e668ac4dbb79083202335c03cae7adca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-124-2009",
+   "path": "local/judet/salaj/2009/124",
+   "short": "HCJ Sălaj nr. 124/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 124/2009 privind actualizarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1242009.pdf",
+     "sha256": "d3f6a1b95308fd3a7c806cd730f66208d70677fa0b104b0546a412cc08b62c88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-125-2009",
+   "path": "local/judet/salaj/2009/125",
+   "short": "HCJ Sălaj nr. 125/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 125/2009 privind rectificarea bugetului propriu al judetului, pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1252009.pdf",
+     "sha256": "51484c63a8bf5e1425bff0c3e44266eda12f71cbd0dd1503319b24c07578ebd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-126-2009",
+   "path": "local/judet/salaj/2009/126",
+   "short": "HCJ Sălaj nr. 126/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 126/2009 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj, pe anul 2009, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1262009.pdf",
+     "sha256": "a2f59bc531a7c225b19832a041d3c1739a26a2059399938adce28bbdc10d5f6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-127-2009",
+   "path": "local/judet/salaj/2009/127",
+   "short": "HCJ Sălaj nr. 127/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 127/2009 privind alocarea unor sume din fondul de rulment al Judetului Salaj, pe anul 2009, pentru finantarea unor lucrari de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1272009.pdf",
+     "sha256": "ea993d48b5ca0499ccfabb629fd09ac5db3f84232cb24e46ceef52090ac8fcf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-128-2009",
+   "path": "local/judet/salaj/2009/128",
+   "short": "HCJ Sălaj nr. 128/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 128/2009 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Reabilitare drum judetean DJ 109E, km: 61+800 - 62+650, sector pod Ciocmani\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1282009.pdf",
+     "sha256": "5a81d48fbe42c74529dbfb63f2f5138a3700e1d0c60c443681934dd27c3d6d2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-129-2009",
+   "path": "local/judet/salaj/2009/129",
+   "short": "HCJ Sălaj nr. 129/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 129/2009 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Reabilitare drum judetean DJ 110A: Archid - limita cu judetul Satu Mare, km 12+600 - 14+800\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1292009.pdf",
+     "sha256": "58e23daadc53ab8869e9fbad03364e3ee9e2a0a2fdce558389fa388cd09e968d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2009",
+   "path": "local/judet/salaj/2009/13",
+   "short": "HCJ Sălaj nr. 13/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2009 privind inchirierea unui spatiu din imobilul situat in municipiul Zalau, P-ta 1 Decembrie 1918, nr.12, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot132009.pdf",
+     "sha256": "827efdddfc57eafebbe930dee26a65900a83df4660ef22ce89cce4be199a6de2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-132-2009",
+   "path": "local/judet/salaj/2009/132",
+   "short": "HCJ Sălaj nr. 132/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 132/2009 privind utilizarea temporara a sumei de 174,51 mii lei din fondul de rulment al judetului, pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1322009.pdf",
+     "sha256": "d6aa08c0423e0900d61d505b83c27b23a83a82e80e7b0c6ff376105d1581fb25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-133-2009",
+   "path": "local/judet/salaj/2009/133",
+   "short": "HCJ Sălaj nr. 133/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 133/2009 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj, pe anul 2009, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1332009.pdf",
+     "sha256": "58aea4a498aecedb52491045de30341d3b40ef7e8c6702c78935133354e30482"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-134-2009",
+   "path": "local/judet/salaj/2009/134",
+   "short": "HCJ Sălaj nr. 134/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 134/2009 privind rectificarea bugetului propriu al judetului pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1342009.pdf",
+     "sha256": "2e037f129b6859995ec28bb08c7f2510e15fdb6a6e380a554781e98df85b8795"
     }
    ]
   },
@@ -33,6 +543,141 @@
    ]
   },
   {
+   "slug": "hcj-salaj-14-2009",
+   "path": "local/judet/salaj/2009/14",
+   "short": "HCJ Sălaj nr. 14/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2009 privind modificarea si completarea Hotararii Consiliului Judetean Salaj nr.78 din 29.06.2006 privind trecerea unor bunuri din domeniul public in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot142009.pdf",
+     "sha256": "24c5d43f3bbe8a8645bbc650da426f01945a458e2f2852baf4f787ff94165dda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-140-2009",
+   "path": "local/judet/salaj/2009/140",
+   "short": "HCJ Sălaj nr. 140/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 140/2009 privind darea in administrarea Universitatii Tehnice Cluj-Napoca a unor spatii din imobilul situat in municipiul Zalau, str. Salcamilor, nr.1",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1402009.pdf",
+     "sha256": "0ea70d03ffb1b8e105015e4bb76bbc3d7080133a9a9c737120cc7577f19fb242"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-141-2009",
+   "path": "local/judet/salaj/2009/141",
+   "short": "HCJ Sălaj nr. 141/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 141/2009 pentru completarea Hotararii Consiliului Judetean Salaj nr.62 din 26 octombrie 1999, privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1412009.pdf",
+     "sha256": "599280c3d77229be4d4cb23ffe75c404f43afc50704f11fa654c0a6aa62a300e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-142-2009",
+   "path": "local/judet/salaj/2009/142",
+   "short": "HCJ Sălaj nr. 142/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 142/2009 privind darea in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj a unor bunuri aflate in domeniul public al Judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1422009.pdf",
+     "sha256": "a57c5f847a92ae6f0e889ef9c3737f4a590d6769a0eb412664fb89d1133d7e91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-143-2009",
+   "path": "local/judet/salaj/2009/143",
+   "short": "HCJ Sălaj nr. 143/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 143/2009 privind actualizarea Programului de transport rutier de persoane prin servicii regulate, in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1432009.pdf",
+     "sha256": "77d2b358c2af0ef5c11f5be5dfc87748a1eda560358598136533e5b1333f94eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-144-2009",
+   "path": "local/judet/salaj/2009/144",
+   "short": "HCJ Sălaj nr. 144/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 144/2009 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Punere in siguranta pod pe DJ 108 R, peste valea \"PE VALE\", in localitatea Agrij, judetul Salaj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1442009.pdf",
+     "sha256": "d4ca849c72dd2abb843ebd0f65bbe7288fbe03cfc814a1b2441bd23ac586c4ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-145-2009",
+   "path": "local/judet/salaj/2009/145",
+   "short": "HCJ Sălaj nr. 145/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 145/2009 privind aprobarea participarii Judetului Salaj la adunarea constitutiva a asociatiei \"Pactul Regional Nord-Vest pentru Ocupare si Incluziune Sociala\" Cluj-Napoca",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1452009.pdf",
+     "sha256": "9c44829892a3b1a532b9bd68e8d7abb4972431b409da85b287bdfe50195b937e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-146-2009",
+   "path": "local/judet/salaj/2009/146",
+   "short": "HCJ Sălaj nr. 146/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 146/2009 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj pe anul 2009, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1462009.pdf",
+     "sha256": "51c55346da84e2e750d116ea2e5342ad7ddadfc05ccec41e9e1a1bcf574f5021"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-147-2009",
+   "path": "local/judet/salaj/2009/147",
+   "short": "HCJ Sălaj nr. 147/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 147/2009 privind rectificarea bugetului propriu al judetului pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1472009.pdf",
+     "sha256": "b0812f2442034a886f725595c6018bf6c9d4a8ec60cc438e7529366985f0bcd3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-148-2009",
    "path": "local/judet/salaj/2009/148",
    "short": "HCJ Sălaj nr. 148/2009",
@@ -44,6 +689,81 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1482009.pdf",
      "sha256": "35e00d87e905686cd279d555a0ecc03331f0b44c3e4702e63ca41a5b70e47927"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-149-2009",
+   "path": "local/judet/salaj/2009/149",
+   "short": "HCJ Sălaj nr. 149/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 149/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1492009.pdf",
+     "sha256": "e22543f1ad034456a25bb8386e24742914207ec48b459a26ff02760eb6bec347"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2009",
+   "path": "local/judet/salaj/2009/15",
+   "short": "HCJ Sălaj nr. 15/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2009 pentru modificarea si completarea anexei la Hotararea Consiliului Judetean Salaj nr.24 din 24 mai 2001, privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot152009.pdf",
+     "sha256": "35775c6640ea4338dcc5fcd7e2635db66f06d29f5f9bd05081a257eff2304d73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-151-2009",
+   "path": "local/judet/salaj/2009/151",
+   "short": "HCJ Sălaj nr. 151/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 151/2009 privind actualizarea Programului de transport rutier de persoane prin servicii regulate, in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-11-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1512009.pdf",
+     "sha256": "c60ab70a30ca54aa497480d0539295913fe24e17dd481eb97524a99691e7d094"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-152-2009",
+   "path": "local/judet/salaj/2009/152",
+   "short": "HCJ Sălaj nr. 152/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 152/2009 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj pe anul 2009, pentru finantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1522009.pdf",
+     "sha256": "9f47e0b32216dd7c67d83359c0876d46fd56907bd5eb06a42b40b0cff8497374"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-153-2009",
+   "path": "local/judet/salaj/2009/153",
+   "short": "HCJ Sălaj nr. 153/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 153/2009 privind rectificarea bugetului propriu al judetului pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1532009.pdf",
+     "sha256": "d2beefd496b6467bb4ce3fd5bfe5547d709022424c004cce8431a609b054fb49"
     }
    ]
   },
@@ -63,6 +783,216 @@
    ]
   },
   {
+   "slug": "hcj-salaj-156-2009",
+   "path": "local/judet/salaj/2009/156",
+   "short": "HCJ Sălaj nr. 156/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 156/2009 privind aprobarea prelungirii duratei de derulare a Programului de finantare a activitatilor de asistenta sociala prestate de unitatile de cult in judet, pentru anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1562009.pdf",
+     "sha256": "d8a220a33a702d484956f98888f14fd6e0550d8963ad0125da91f0917c657c23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-157-2009",
+   "path": "local/judet/salaj/2009/157",
+   "short": "HCJ Sălaj nr. 157/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 157/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1572009.pdf",
+     "sha256": "ba294995041428b4d8bc5d0d0fa032d9b8532816dea9e6c256c9601ec7be80c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-158-2009",
+   "path": "local/judet/salaj/2009/158",
+   "short": "HCJ Sălaj nr. 158/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 158/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1582009.pdf",
+     "sha256": "449129cd1a84c1a905d37a1c466352bd1c5234fbf9585a716b7eb4a552ee38ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-159-2009",
+   "path": "local/judet/salaj/2009/159",
+   "short": "HCJ Sălaj nr. 159/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 159/2009 privind inchirierea unor spatii din imobilul situat in Zalau, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1592009.pdf",
+     "sha256": "a9ba6aed910b0ff29e0cfcd8cd2532dfba2260c2bba93631109bfbc9de791a55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2009",
+   "path": "local/judet/salaj/2009/16",
+   "short": "HCJ Sălaj nr. 16/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2009 privind actualizarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot162009.pdf",
+     "sha256": "418b719e348c2ab12a64c777d96c355823737ef40d9232e038c2f35498ac83bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-160-2009",
+   "path": "local/judet/salaj/2009/160",
+   "short": "HCJ Sălaj nr. 160/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 160/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1602009.pdf",
+     "sha256": "c542698c2fa6b49f0908992884d2dc9fb215f9ba37257d4eb3a5dfbc736837d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-161-2009",
+   "path": "local/judet/salaj/2009/161",
+   "short": "HCJ Sălaj nr. 161/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 161/2009 privind stabilirea nivelului minim al redeventei pentru spatiile din imobilele situate in municipiul Zalau, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1612009.pdf",
+     "sha256": "c88e657d608e52f9008e3a280f40fe26cc65e253065dd767019d991ce30ca696"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-162-2009",
+   "path": "local/judet/salaj/2009/162",
+   "short": "HCJ Sălaj nr. 162/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 162/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.62 din 26 octombrie 1999, privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1622009.pdf",
+     "sha256": "2acf11b498f8bc6222ea683ea09ce2c905b2278089aafe30b35b4bb2d662ff71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-163-2009",
+   "path": "local/judet/salaj/2009/163",
+   "short": "HCJ Sălaj nr. 163/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 163/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.24 din 24 mai 2001, privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1632009.pdf",
+     "sha256": "444a1bc996df3ddb07c76d70194b9dfc0c5567abaff7eea016429ba8d7dcdb81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-164-2009",
+   "path": "local/judet/salaj/2009/164",
+   "short": "HCJ Sălaj nr. 164/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 164/2009 privind aprobarea acordului de asociere intre Judetul Salaj si Comuna Cizer, pentru realizarea unor lucrari de reparatii a unor tronsoane de pe drumul judetean DJ 108G: Limita judet Cluj - Cizer, km 0+000-13+615",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1642009.pdf",
+     "sha256": "3a7a89087322f2161786ea9134fd865dad21d2078f9542fc6641a9a9da84f1ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-165-2009",
+   "path": "local/judet/salaj/2009/165",
+   "short": "HCJ Sălaj nr. 165/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 165/2009 privind aprobarea valorificarii materialului lemnos situat pe aliniamentele drumurilor judetene",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1652009.pdf",
+     "sha256": "3897de0547a1cf57f048be089dfe0c6d50cacc95d1830ddf9549558e58d7e4f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-166-2009",
+   "path": "local/judet/salaj/2009/166",
+   "short": "HCJ Sălaj nr. 166/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 166/2009 privind aprobarea prorogarii termenului de aplicare a hotararilor Consiliului Judetean Salaj privind aprobarea pentru anul 2009, a numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj, precum si",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1662009.pdf",
+     "sha256": "9170661aa9817cd44370aec529b587027e4a3ebb51ba0c1e25f0ce7747ce3b82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-167-2009",
+   "path": "local/judet/salaj/2009/167",
+   "short": "HCJ Sălaj nr. 167/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 167/2009 privind aprobarea Regulamentului de organizare si functionare al Directiei de Paza, Protocol si Administrativ Salaj, actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1672009.pdf",
+     "sha256": "6fc033673f9b463212801510a6813c456b51980d0f4b6e599d8bdc3791a4f9bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-168-2009",
+   "path": "local/judet/salaj/2009/168",
+   "short": "HCJ Sălaj nr. 168/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 168/2009 privind actualizarea Programului de transport rutier de persoane prin servicii regulate, in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot1682009.pdf",
+     "sha256": "0eb1cfe82be4fd2e10e19e01f905690cefde2866d886a01e24b77daa939652df"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-17-2009",
    "path": "local/judet/salaj/2009/17",
    "short": "HCJ Sălaj nr. 17/2009",
@@ -78,6 +1008,51 @@
    ]
   },
   {
+   "slug": "hcj-salaj-18-2009",
+   "path": "local/judet/salaj/2009/18",
+   "short": "HCJ Sălaj nr. 18/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot182009.pdf",
+     "sha256": "a3c1a46f2dc4f9b4bb8ce9607f856038044d98351e07be2742d10aae278e7797"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2009",
+   "path": "local/judet/salaj/2009/2",
+   "short": "HCJ Sălaj nr. 2/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2009 privind validarea mandatului unui consilier judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot22009.pdf",
+     "sha256": "e839a6008ad22122faaee000ec7ea8a9bc6ad37ec7fb7153205f7b787aef4357"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2009",
+   "path": "local/judet/salaj/2009/20",
+   "short": "HCJ Sălaj nr. 20/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2009 privind desemnarea unui consilier judetean ca reprezentant al Consiliului Judetean in Consiliul de administratie al Muzeului Judetean de Istorie si Arta Zalau",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot202009.pdf",
+     "sha256": "5b02990f469a08a04fa282e5700fb9bd59815df8967095a1ff40ca243adde016"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-21-2009",
    "path": "local/judet/salaj/2009/21",
    "short": "HCJ Sălaj nr. 21/2009",
@@ -89,6 +1064,1101 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot212009.pdf",
      "sha256": "2e70deede2b3745858aa487fef55b2d86a2b890365ad0339f008f504515487ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-22-2009",
+   "path": "local/judet/salaj/2009/22",
+   "short": "HCJ Sălaj nr. 22/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2009 privind aprobarea Devizului general si a indicatorilor tehnico-economici pentru Studiul de fezabilitate la obiectivul de investitii \"Reabilitare drum judetean DJ 191C: Nusfalau - Crasna - Zalau - Creaca\" precum si a cheltuielilor de cofinantare aferente obiectiv",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot222009.pdf",
+     "sha256": "dbed0d20fbe6b4348db5bab5ad993a2005184fe77d65e07979fc977173b07052"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2009",
+   "path": "local/judet/salaj/2009/24",
+   "short": "HCJ Sălaj nr. 24/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2009 privind declararea utilitatii publice a lucrarii de interes local \"Canal colector de evacuare a apelor in comuna Sarmasag\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot242009.pdf",
+     "sha256": "de36d9b49223399e6cffa6becf3394b3716461176274033513bf208bdd8e10ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2009",
+   "path": "local/judet/salaj/2009/25",
+   "short": "HCJ Sălaj nr. 25/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2009 privind trecerea unui imobil si a terenului aferent, din domeniul privat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot252009.pdf",
+     "sha256": "4f47b4ee0d03974f2c7b3e7f27aecf90f2647be3321c41998ab810403350f9a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2009",
+   "path": "local/judet/salaj/2009/26",
+   "short": "HCJ Sălaj nr. 26/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr. 89 din 28 iulie 2008, privind aprobarea listei spatiilor si a terenurilor aferente care urmeaza sa fie vandute, aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot262009.pdf",
+     "sha256": "c267f503c74631268112aedf78f110cc0aae49a168542bef67dc0cd60866bd30"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2009",
+   "path": "local/judet/salaj/2009/27",
+   "short": "HCJ Sălaj nr. 27/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot272009.pdf",
+     "sha256": "246dcb452507f056c562a73137b88aaf7a32c72408053a9f5d17c5727171c59c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2009",
+   "path": "local/judet/salaj/2009/28",
+   "short": "HCJ Sălaj nr. 28/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot282009.pdf",
+     "sha256": "0d1b4340b7ef9526826e2c509fcd033327b4ac2d982b04d0f0d191c807cb1dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2009",
+   "path": "local/judet/salaj/2009/29",
+   "short": "HCJ Sălaj nr. 29/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2009 privind concesionarea unor spatii situate in municipiul Zalau, str. Dumbrava, nr.48, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot292009.pdf",
+     "sha256": "3dd2a26462b5b4c32455e03e8e113c0a6f27ccc04125817efe5cc468c43395cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2009",
+   "path": "local/judet/salaj/2009/3",
+   "short": "HCJ Sălaj nr. 3/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2009 privind completarea componentei unei comisii de specialitate a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot32009.pdf",
+     "sha256": "6685cfdbd62e0d141ec852c77d33be8abf9a8b312cd076b45d0e35dd2a3e68ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2009",
+   "path": "local/judet/salaj/2009/30",
+   "short": "HCJ Sălaj nr. 30/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2009 privind actualizarea Programului de transport rutier de persoane prin servicii regulate, in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot302009.pdf",
+     "sha256": "5fb62ab4b185459ea743240bac4024a0eb941ef4f552ae7057c1b8d22f3c7fa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-31-2009",
+   "path": "local/judet/salaj/2009/31",
+   "short": "HCJ Sălaj nr. 31/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 31/2009 privind stabilirea criteriilor de repartizare pe unitati administrativ-teritoriale a cotei de 20% din impozitul pe venit si din sumele defalcate din unele venituri ale bugetului de stat pentru sustinerea programelor de dezvoltare locala si pentru sustinerea proi",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot312009.pdf",
+     "sha256": "1b72bc07e263686b845ec18201e9be42d2b28ba2305bb4c42ff364d2d38fd81b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-32-2009",
+   "path": "local/judet/salaj/2009/32",
+   "short": "HCJ Sălaj nr. 32/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 32/2009 privind aprobarea Contului de incheiere a exercitiului bugetar aferent bugetului propriu al judetului si al institutiilor si serviciilor publice subordonate Consiliului Judetean pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot322009.pdf",
+     "sha256": "2d3ce44666b49b8e570aec78b1c5a296d858d85416e81771860a4a23532f46a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-33-2009",
+   "path": "local/judet/salaj/2009/33",
+   "short": "HCJ Sălaj nr. 33/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 33/2009 privind trecerea unui bun din domeniul public in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot332009.pdf",
+     "sha256": "a59a0c2b5cc2e3140e97d50269feb29b71224e1e700aad82eedfaae3cc125e72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-34-2009",
+   "path": "local/judet/salaj/2009/34",
+   "short": "HCJ Sălaj nr. 34/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 34/2009 privind scoaterea din functiune, casarea si valorificarea unor bunuri aflate in patrimoniul judetului Salaj si concesionate de Compania de Apa Somes S.A.Cluj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot342009.pdf",
+     "sha256": "3af48d286b1798f3fbd2ceafbd10f2fb1d8532ca5b663963ca8061537920b508"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-35-2009",
+   "path": "local/judet/salaj/2009/35",
+   "short": "HCJ Sălaj nr. 35/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 35/2009 privind aprobarea Programului de finantare a activitatilor de asistenta sociala prestate de unitatile de cult in judet pentru anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot352009.pdf",
+     "sha256": "a816492bfaab058ad0747f167e8dd0650a3581986de8bc00be32dbb180e34886"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2009",
+   "path": "local/judet/salaj/2009/36",
+   "short": "HCJ Sălaj nr. 36/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2009 privind aprobarea asocierii Judetului Salaj cu cele 61 de unitati administrativ-teritoriale din judet pentru infiintarea Asociatiei de Dezvoltare Intercomunitara \"ECODES Salaj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot362009.pdf",
+     "sha256": "0da2aaa173081334f112f3fde4b55ae6b33e38d9e7af574ad15aaaccea0bcf7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2009",
+   "path": "local/judet/salaj/2009/37",
+   "short": "HCJ Sălaj nr. 37/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2009 privind aprobarea Planului Judetean de Analiza si Acoperire a Riscurilor",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot372009.pdf",
+     "sha256": "82bd398465c592fb6fe5ba720553c3a69966b71b55e9a783ff99ce89cc479de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-38-2009",
+   "path": "local/judet/salaj/2009/38",
+   "short": "HCJ Sălaj nr. 38/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 38/2009 privind aprobarea Actului constitutiv si a Statutului \"Asociatiei Regionale pentru Dezvoltarea Infrastructurii din Bazinul Hidrografic Somes-Tisa\", modificate",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot382009.pdf",
+     "sha256": "f7ce54511f8366991d3875b85195d5398f6c65806850790d3674f033a58abaee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2009",
+   "path": "local/judet/salaj/2009/43",
+   "short": "HCJ Sălaj nr. 43/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2009 privind alocarea unor sume din fondul de rulment al Consiliului Judetean Salaj, pentru finantarea unor lucrari de interes judetean in anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot432009.pdf",
+     "sha256": "8592038d70852d221236f352d717b59c290ef358d245022882c01505fd5141e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2009",
+   "path": "local/judet/salaj/2009/44",
+   "short": "HCJ Sălaj nr. 44/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2009 privind aprobarea bugetului propriu al judetului si al institutiilor si serviciilor publice subordonate Consiliului judetean pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot442009.pdf",
+     "sha256": "953e59e7e04aadb7f17e1d55a63c1878e5407387abe3f84219829d970868f17b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2009",
+   "path": "local/judet/salaj/2009/45",
+   "short": "HCJ Sălaj nr. 45/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.80 din 14 iulie 2008 privind aprobarea Comisiei pentru Protectia Copilului Salaj, reactualizata",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot452009.pdf",
+     "sha256": "295b376545c39f876eb88a2eee19a72852e6e9077d27646d4151f6a4fcd163cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-46-2009",
+   "path": "local/judet/salaj/2009/46",
+   "short": "HCJ Sălaj nr. 46/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 46/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.177 din 25.11.2008 privind aprobarea pentru anul 2009, a numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot462009.pdf",
+     "sha256": "2f3c0815155d7891c3e3a04a5249cdcfc00c636f6b39be6ef44622d4322d9e22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-47-2009",
+   "path": "local/judet/salaj/2009/47",
+   "short": "HCJ Sălaj nr. 47/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 47/2009 privind actualizarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot472009.pdf",
+     "sha256": "bb31be7c22d3c34b35537265abdadfeb0d874ea01b6c0c958aca57a27d113dc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2009",
+   "path": "local/judet/salaj/2009/48",
+   "short": "HCJ Sălaj nr. 48/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2009 privind constatarea incetarii mandatelor unor membri ai Autoritatii Tertitoriale de Ordine Publica Salaj si validarea mandatelor altor membri",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot482009.pdf",
+     "sha256": "46123bb7b06d64d68c00f2eed547f7eaff038d4899199fc0e6c4df87c17c6355"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2009",
+   "path": "local/judet/salaj/2009/49",
+   "short": "HCJ Sălaj nr. 49/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2009 privind reorganizarea Centrului de Ingrijire si Asistenta pentru Persoane Varstnice Boghis in Centru de Ingrijire si Asistenta pentru Persoane Adulte cu Handicap Boghis, in subordinea Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot492009.pdf",
+     "sha256": "ffca23b9d26eee65ddc9c449e2fd2fd9e8d6de09734ab230f31214b17a82bd68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2009",
+   "path": "local/judet/salaj/2009/50",
+   "short": "HCJ Sălaj nr. 50/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2009 privind stabilirea contributiei lunare de intretinere datorata de persoanele asistate aflate in Centrul de Ingrijire si Asistenta pentru Persoane Adulte cu Handicap Boghis",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot502009.pdf",
+     "sha256": "74f35c635d26bf0b08a1f96bc37eec609767361b13fa21ac9b44020b03f605ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-2009",
+   "path": "local/judet/salaj/2009/51",
+   "short": "HCJ Sălaj nr. 51/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/2009 privind alocarea unor sume din fondul de rulment al Judetului Salaj in anul 2009, pentru finantarea unei lucrari de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot512009.pdf",
+     "sha256": "a0b27856992b59ee7ddc5644af727d11021290ca3d4a65029083516fa7e24fca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2009",
+   "path": "local/judet/salaj/2009/52",
+   "short": "HCJ Sălaj nr. 52/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2009 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj pe anul 2009, pentru finantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot522009.pdf",
+     "sha256": "314db44eb197cb87d5d5c148dc8259b9630ae8f4b828773c7c789b70ca49f2cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-53-2009",
+   "path": "local/judet/salaj/2009/53",
+   "short": "HCJ Sălaj nr. 53/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 53/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.35/2009 privind aprobarea Programului de finantare a activitatilor de asistenta sociala prestate de unitatile de cult in judet pentru anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot532009.pdf",
+     "sha256": "92141ea29d74c36ea3f15af7553d2278c398d2481fd2687a496aa8b613dba21f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-54-2009",
+   "path": "local/judet/salaj/2009/54",
+   "short": "HCJ Sălaj nr. 54/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 54/2009 privind stabilirea indemnizatiei de sedinta a membrilor Comisiei pentru protectia copilului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot542009.pdf",
+     "sha256": "6f55bb5d48c583b50b4ca66d57c0cc5d2b4bc998b0153492934a8b9dc64c1970"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2009",
+   "path": "local/judet/salaj/2009/55",
+   "short": "HCJ Sălaj nr. 55/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot552009.pdf",
+     "sha256": "98f814cc51c5284a9e2c46ff866b2cadf78f108a69d2fc0dda19660a2a22b10f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-56-2009",
+   "path": "local/judet/salaj/2009/56",
+   "short": "HCJ Sălaj nr. 56/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 56/2009 privind aprobarea Devizului general si a indicatorilor tehnico-economici pentru Studiul de fezabilitate la obiectivul de investitie \"Reabilitare drum judetean DJ 191D: Nusfalau-Valcau-Sig-Tusa\", precum si a cheltuielilor de cofinantare aferente acestuia",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot562009.pdf",
+     "sha256": "e8287e5113f138cf6bbfc5547c71017504c1118eb25f04ce26b7c1b16aeba988"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2009",
+   "path": "local/judet/salaj/2009/57",
+   "short": "HCJ Sălaj nr. 57/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2009 privind aprobarea Devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitie \"Construire sediu Substatia Serviciului de Ambulanta Jibou\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot572009.pdf",
+     "sha256": "aa21dc4f8a90eb3dfee96f62ebd1d3e22443504237a3a32e26cafacb2f2ce5ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2009",
+   "path": "local/judet/salaj/2009/58",
+   "short": "HCJ Sălaj nr. 58/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2009 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, strada Simion Barnutiu, nr.67, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot582009.pdf",
+     "sha256": "18d9247721cba00aedfd949a6d72e1af6c95edcb60b81246f284c4d20e15364f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2009",
+   "path": "local/judet/salaj/2009/59",
+   "short": "HCJ Sălaj nr. 59/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2009 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, strada Kossuth, nr.71, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot592009.pdf",
+     "sha256": "1cc0216bc8c5dfd4a80f33db031f79d119929e2ac8f5753d8188bdf7f60b8347"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2009",
+   "path": "local/judet/salaj/2009/60",
+   "short": "HCJ Sălaj nr. 60/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2009 privind darea in folosinta gratuita, pe termen limitat, Comunei Crasna a unui imobil si a terenului aferent, situat in localitatea Crasna, aflat in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot602009.pdf",
+     "sha256": "d526235fa3b7c8511afdcc6acf3728d88aab4d0e8cac204b8719e581d7036e8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-61-2009",
+   "path": "local/judet/salaj/2009/61",
+   "short": "HCJ Sălaj nr. 61/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 61/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.202 din 22 decembrie 2008 privind darea in folosinta gratuita, pe termen limitat, a unor spatii din imobilul situat in municipiul Zalau, str.Unirii, nr.7, Clubului Sportiv \"Handbal Club Zalau\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot612009.pdf",
+     "sha256": "569c83162556c4c3a77261f7a68242bac434d73e7f54b8bde6540e3c9dc76242"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2009",
+   "path": "local/judet/salaj/2009/62",
+   "short": "HCJ Sălaj nr. 62/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2009 privind concesionarea unor spatii situate in orasul Simleu Silvaniei, str.Simion Barnutiu, nr.12, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot622009.pdf",
+     "sha256": "858904cd968b594b322605ca6c9c2bb027abd62a70ac398710144aabbf9cf9d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-63-2009",
+   "path": "local/judet/salaj/2009/63",
+   "short": "HCJ Sălaj nr. 63/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 63/2009 pentru completarea Hotararii Consiliului Judetean Salaj nr.62 din 26 octombrie 1999, privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot632009.pdf",
+     "sha256": "7f7c0a201c3bc36902259f18f22b53f5567a3964eeab31b3dbfd53c8c3cf1302"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2009",
+   "path": "local/judet/salaj/2009/64",
+   "short": "HCJ Sălaj nr. 64/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2009 privind aprobarea Programului de investitii, modernizari, reparatii, intretinere si inlocuire de bunuri la S.C.Compania de Apa Somes S.A.Cluj pentru anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot642009.pdf",
+     "sha256": "15f495c4ce79618f1769d79efef03470a6f60d8e4fc639dab8d54a0bbb3c1ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2009",
+   "path": "local/judet/salaj/2009/65",
+   "short": "HCJ Sălaj nr. 65/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2009 privind aprobarea acordului de asociere intre Judetul Salaj si comunele din judetul Salaj, pentru realizarea unor lucrari de toaletizare a drumurilor judetene",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot652009.pdf",
+     "sha256": "decb805a18a85f960857cf69b6077fb03e9a03955258bc85c3d32d0cdcdcab9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2009",
+   "path": "local/judet/salaj/2009/66",
+   "short": "HCJ Sălaj nr. 66/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2009 privind modificarea Actului constitutiv si a Statutului Asociatiei de Dezvoltare Intercomunitara \"Transilvania de Nord\" aprobate prin Hotararea Consiliului Judetean Salaj nr. 116/2007",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot662009.pdf",
+     "sha256": "ad523ea215635012381da7a71deb813d062b799e911aa383321b4293c30d20db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2009",
+   "path": "local/judet/salaj/2009/67",
+   "short": "HCJ Sălaj nr. 67/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2009 privind aprobarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot672009.pdf",
+     "sha256": "5bce3f31754e554fec28afaa9de2c1c614576e2a9e67356161d5f7951b44a494"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-68-2009",
+   "path": "local/judet/salaj/2009/68",
+   "short": "HCJ Sălaj nr. 68/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 68/2009 privind desemnarea reprezentantilor Consiliului Judetean Salaj in comisia de negociere a pretului de cumparare a imobilului situat in orasul Jibou, strada Stejarilor, nr.235",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot682009.pdf",
+     "sha256": "21bb192e8f7e82c4ef7bb7b67a08d619e0ba30c5582382fecd786a51301959b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-69-2009",
+   "path": "local/judet/salaj/2009/69",
+   "short": "HCJ Sălaj nr. 69/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 69/2009 privind desemnarea unui reprezentant al Consiliului Judetean Salaj in Adunarea Generala la \"Club Sportiv REMAT ZALAU\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot692009.pdf",
+     "sha256": "a093ec7758ff760ba3f19ecab018e0a8a7808cba11c64e1d0e66276ad61f2d75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2009",
+   "path": "local/judet/salaj/2009/7",
+   "short": "HCJ Sălaj nr. 7/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2009 privind stabilirea costului mediu lunar pentru persoanele asistate care beneficiaza de serviciile Centrului de Integrare prin Terapie Ocupationala Badacin, a Complexelor de Servicii Sociale pentru Persoane Adulte cu Handicap Jibou si Crasna",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot72009.pdf",
+     "sha256": "11d4ecb8cb02e2b429edd42670d430102a020f47a33ed589828aab9ece85c18d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-70-2009",
+   "path": "local/judet/salaj/2009/70",
+   "short": "HCJ Sălaj nr. 70/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 70/2009 privind desemnarea unui reprezentant al Consiliului Judetean in Adunarea generala la \"HANDBAL CLUB Zalau\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot702009.pdf",
+     "sha256": "70f436b5c95988b50c649a3a078ea3f43ead5e53d5eacf30b81afdf2cd4ca66c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-71-2009",
+   "path": "local/judet/salaj/2009/71",
+   "short": "HCJ Sălaj nr. 71/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 71/2009 privind mandatarea presedintelui Consiliului Judetean Salaj pentru negocierea si incheierea contractelor de management cu directorii institutiilor publice de cultura din subordinea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot712009.pdf",
+     "sha256": "ba62b4c803eb988ef8e8d51e5467b135136cf976ca3f71cbc1522d74f09ca7de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-72-2009",
+   "path": "local/judet/salaj/2009/72",
+   "short": "HCJ Sălaj nr. 72/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/2009 privind aprobarea Devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitie \"Stabilizare versant si inlaturarea efectelor alunecarilor de teren din zona drumului judetean DJ 108F: Simleu Silvaniei-Sarmasag-Chiesd, judetul Salaj; km 18+",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot722009.pdf",
+     "sha256": "4c6d1177e3835b175a4da4b637ff9ee97d1bb7e39fb2e4d4eff2fa9c4443469b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-73-2009",
+   "path": "local/judet/salaj/2009/73",
+   "short": "HCJ Sălaj nr. 73/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 73/2009 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj pe anul 2009, pentru finantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot732009.pdf",
+     "sha256": "94eb16d206d9ddd0e251a257d5dfbf00b6360fe1c1131d45345d9407769699bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2009",
+   "path": "local/judet/salaj/2009/74",
+   "short": "HCJ Sălaj nr. 74/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2009 privind reconstituirea fondului de rulment al Judetului Salaj, pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot742009.pdf",
+     "sha256": "14b446fc23386df9bb86797ef0d48963bf3ed8e648cbef85d7aeef4ea025510c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2009",
+   "path": "local/judet/salaj/2009/75",
+   "short": "HCJ Sălaj nr. 75/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2009 privind acceptarea unei donatii in favoarea Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot752009.pdf",
+     "sha256": "eb0e1dacc9b697bc725a46392a915e215c5208b17df0c66f6a0d4a48eb18f442"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2009",
+   "path": "local/judet/salaj/2009/76",
+   "short": "HCJ Sălaj nr. 76/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2009 privind rectificarea bugetului propriu al judetului pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot762009.pdf",
+     "sha256": "7b5af764bb03e4892f671569214abd8afae0ff746821cefa002a215d4aeb8b74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-77-2009",
+   "path": "local/judet/salaj/2009/77",
+   "short": "HCJ Sălaj nr. 77/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 77/2009 privind aprobarea Acordului Direct care urmeaza sa fie incheiat intre Banca Europeana de Investitii, Autoritatile Locale, Asociatia Regionala pentru Dezvoltarea Infrastructurii din Bazinul Somes-Tisa si SC Compania de Apa Somes SA",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot772009.pdf",
+     "sha256": "9d040340baa47a414a12e3320fadd517b12eff5c600c76bafeb282fe19b664f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-78-2009",
+   "path": "local/judet/salaj/2009/78",
+   "short": "HCJ Sălaj nr. 78/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 78/2009 pentru reactualizarea Hotararii Consiliului Judetean nr.56/2009 privind aprobarea Devizului General si a indicatorilor tehnico-economici pentru Studiul de fezabilitate la obiectivul de investitie \"Reabilitare drum judetean DJ 191D: Nusfalau-Valcau-Sig-Tusa\" precum si",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot782009.pdf",
+     "sha256": "8b7a9be667e249cc4f7a225d1d305eadc59863b7361dd9de772b62e6212290c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-79-2009",
+   "path": "local/judet/salaj/2009/79",
+   "short": "HCJ Sălaj nr. 79/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 79/2009 pentru reactualizarea Hotararii Consiliului Judetean nr.22/2009 privind aprobarea Devizului general si a indicatorilor tehnico-economici pentru Studiul de fezabilitate la obiectivul de investitie \"Reabilitare drum judetean DJ 191C: Nusfalau-Crasna-Zalau-Creaca\" precum",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot792009.pdf",
+     "sha256": "7e62b11e8e56134bd55372383276e21f5d55abe2fd34c5d6e74c4495dfc082d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-8-2009",
+   "path": "local/judet/salaj/2009/8",
+   "short": "HCJ Sălaj nr. 8/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2009 privind stabilirea contributiei lunare de intretinere datorata persoanelor asistate aflate in Centrul de Integrare prin Terapie Ocupationala Badacin si a Complexelor de Servicii Sociale pentru Persoanele Adulte cu Handicap Jibou si Crasna",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot82009.pdf",
+     "sha256": "793fcf4e647e8be02ac2c820c57caa8082d8948caaa6e9d897d568b0b93c0103"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-80-2009",
+   "path": "local/judet/salaj/2009/80",
+   "short": "HCJ Sălaj nr. 80/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 80/2009 privind darea in folosinta gratuita, pe termen limitat, a unui spatiu din imobilul situat in municipiul Zalau, str.Unirii, nr.7, Clubului Sportiv \"Remat Zalau\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot802009.pdf",
+     "sha256": "4e32540edad866158c8c08b920b536a29cb3dab47933bf07cbe083c8141dd4de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-81-2009",
+   "path": "local/judet/salaj/2009/81",
+   "short": "HCJ Sălaj nr. 81/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 81/2009 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, strada Kossuth, nr.71, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot812009.pdf",
+     "sha256": "7c9dc8635166909288072078e88e847fddd551288f8a3125dc2e3df4f2a0272b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2009",
+   "path": "local/judet/salaj/2009/82",
+   "short": "HCJ Sălaj nr. 82/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2009 privind aprobarea realizarii lucrarilor de reabilitare si modernizare a spatiului din imobilul situat in orasul Cehu-Silvaniei, strada Gh.Doja, nr.71 concesionat de catre S.C.Thanatos S.R.L",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot822009.pdf",
+     "sha256": "1f04b38b5138d0c31498da064cf97a0bb7ee7851a35af61883cf7effa124042c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-83-2009",
+   "path": "local/judet/salaj/2009/83",
+   "short": "HCJ Sălaj nr. 83/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 83/2009 privind reorganizarea Complexului de Servicii Comunitare Nr.2 Zalau in Serviciu rezidential de protectie din cadrul Complexului de Servicii Comunitare Simleu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot832009.pdf",
+     "sha256": "00f2d2c08f68bb9345b2ac4c4248a04e263c5ade0d35d77572cc2902abc07f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-84-2009",
+   "path": "local/judet/salaj/2009/84",
+   "short": "HCJ Sălaj nr. 84/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 84/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.178 din 25.11.2008 privind aprobarea pentru anul 2009, a numarului de posturi, organigramelor si statelor de functii ale serviciilor publice din subordinea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot842009.pdf",
+     "sha256": "b83673844cb3b8453253dbf63e10ba5ff472a6d4806dc2fb0bdc3a9c9942a059"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-85-2009",
+   "path": "local/judet/salaj/2009/85",
+   "short": "HCJ Sălaj nr. 85/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 85/2009 pentru modificarea si completarea Hotararii Consiliului Judetean Salaj nr.74/2008 privind aprobarea Regulamentului de organizare si functionare a Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot852009.pdf",
+     "sha256": "f82084f1e3c0688d698f2fc28ce069d234a9d8375763b02f2a23bb03962a6b7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-86-2009",
+   "path": "local/judet/salaj/2009/86",
+   "short": "HCJ Sălaj nr. 86/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 86/2009 privind actualizarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot862009.pdf",
+     "sha256": "8588e04a2cf4f285a273bf9efba480a32ce048b099a6491711223d74ca3d371d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2009",
+   "path": "local/judet/salaj/2009/87",
+   "short": "HCJ Sălaj nr. 87/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2009 privind incetarea mandatului unui membru al Autoritatii Teritoriale de Ordine Publica Salaj si validarea mandatului noului membru",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot872009.pdf",
+     "sha256": "a38a7d0aa982bd93a81c935ee60f0dac007eee198f09460d93b9c6f3f2be3a35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2009",
+   "path": "local/judet/salaj/2009/9",
+   "short": "HCJ Sălaj nr. 9/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2009 privind stabilirea costului anual pentru un copil care beneficiaza de servicii de zi",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-01-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot92009.pdf",
+     "sha256": "a3ddd60476af72fc084f5ba18dc1d90e141f1e6f542eb3805f483e95ead34783"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-90-2009",
+   "path": "local/judet/salaj/2009/90",
+   "short": "HCJ Sălaj nr. 90/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 90/2009 privind rectificarea bugetului propriu al judetului, pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot902009.pdf",
+     "sha256": "abdd33ea9f98de44d87cf06574880c95cb56009276202e2df7b704e67f6c2314"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2009",
+   "path": "local/judet/salaj/2009/91",
+   "short": "HCJ Sălaj nr. 91/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2009 privind alocarea unor sume din fondul de rezerva bugetara al judetului Salaj, pe anul 2009, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot912009.pdf",
+     "sha256": "51c57ccf86d9c9e22e118e53370ecb3e96024a24c477ad602d862d77605e286d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-92-2009",
+   "path": "local/judet/salaj/2009/92",
+   "short": "HCJ Sălaj nr. 92/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 92/2009 privind darea in folosinta gratuita Municipiului Zalau, pe termen limitat, a unui teren situat in municipiul Zalau, strada Salcamilor, nr.1, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot922009.pdf",
+     "sha256": "4978f03f5e50d18af3e6e8e228f819ca4a8f96602b92dce0d01e481366131fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-93-2009",
+   "path": "local/judet/salaj/2009/93",
+   "short": "HCJ Sălaj nr. 93/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 93/2009 pentru completarea Hotararii Consiliului Judetean Salaj nr.62 din 26 octombrie 1999, privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot932009.pdf",
+     "sha256": "72b05a4d20f75f0f6a1f43e0a2dc63fef2a12ae5c534f82f824b931d173b7ad2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-94-2009",
+   "path": "local/judet/salaj/2009/94",
+   "short": "HCJ Sălaj nr. 94/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 94/2009 privind aprobarea realizarii lucrarilor de inchidere si conservare a unor spatii situate in municipiul Zalau, strada Lt.Col.Pretorian, nr.100, concesionate de catre S.C.\"Cipricom\"S.R.L",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot942009.pdf",
+     "sha256": "76961158404eaf0e811bf67264bdf236a3608fd3cd870677467b278c97bd007e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-95-2009",
+   "path": "local/judet/salaj/2009/95",
+   "short": "HCJ Sălaj nr. 95/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 95/2009 privind aprobarea incheierii unei Conventii intre Judetul Salaj si 8 unitati administrativ-teritoriale din cadrul Asociatiei Regionale pentru Dezvoltarea Infrastructurii din Bazinul Hidrografic Somes-Tisa",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot952009.pdf",
+     "sha256": "e73b9241e416a6be0279a66ad7cccbab6eee864b2f77e4c54d2f7ae92783de77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-97-2009",
+   "path": "local/judet/salaj/2009/97",
+   "short": "HCJ Sălaj nr. 97/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 97/2009 privind actualizarea Programului de transport rutier de persoane prin curse regulate, in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot972009.pdf",
+     "sha256": "7a9dbcd0158478b307c8c0db4fcbc6c9c87c57e7427ad2bf55ceb37bc557de70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-98-2009",
+   "path": "local/judet/salaj/2009/98",
+   "short": "HCJ Sălaj nr. 98/2009",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 98/2009 pentru modificarea Hotararii Consiliului Judetean Salaj nr.80 din 14 iulie 2008, reactualizata, privind aprobarea Comisiei pentru Protectia Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=105:hotarari-2009&catid=2",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2009/hot982009.pdf",
+     "sha256": "692785076b4b1fb357f64a2754aaf4019915233e45d95c5d0ced553acda7ffc8"
     }
    ]
   }

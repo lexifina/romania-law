@@ -3,6 +3,36 @@
  "shard": "local/judet/salaj/2008",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2008",
+   "path": "local/judet/salaj/2008/1",
+   "short": "HCJ Sălaj nr. 1/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2008 privind stabilirea criteriilor si repartizarea pe unitati administrativ-teritoriale a cotei de 20% din impozitul pe venit pentru sustinerea programelor de dezvoltare locala si a sumelor defalcate din taxa pe valoarea adaugata pentru echilibrarea bugetelor locale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot12008.pdf",
+     "sha256": "1009fff7485835538a44bc89c78cd566595ce9e2e6387405b30b2089f55a8b45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-10-2008",
+   "path": "local/judet/salaj/2008/10",
+   "short": "HCJ Sălaj nr. 10/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2008 privind aprobarea prelungirii duratei de derulare a Programului de finantare a activitatilor de asistenta sociala prestate de unitati de cult in judet",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot102008.pdf",
+     "sha256": "1aab441824097b8f9bb4de8b544fc8a6374b960760e04ac622d2fc77624b6049"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-100-2008",
    "path": "local/judet/salaj/2008/100",
    "short": "HCJ Sălaj nr. 100/2008",
@@ -14,6 +44,756 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1002008.pdf",
      "sha256": "88b175591746334f82b04ed299a2938479e308ba1cb93e713c0175e27ee440ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-101-2008",
+   "path": "local/judet/salaj/2008/101",
+   "short": "HCJ Sălaj nr. 101/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 101/2008 pentru modificarea anexei la Hotararea Consiliului Judetean Salaj nr.19 din 28.02.2008 privind aprobarea Programului de finantare a activitatilor sportive din judetul Salaj \"SPORT SALAJ 2008\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1012008.pdf",
+     "sha256": "3006b40a2562b26a4580c28da494c7f409b65c647ddc388611624058b08e1baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-102-2008",
+   "path": "local/judet/salaj/2008/102",
+   "short": "HCJ Sălaj nr. 102/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 102/2008 privind modificarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1022008.pdf",
+     "sha256": "05f75e266c32bfe498760c0f168f85bd590e97f054f60831af138fe46ad6c27d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-103-2008",
+   "path": "local/judet/salaj/2008/103",
+   "short": "HCJ Sălaj nr. 103/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 103/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1032008.pdf",
+     "sha256": "747a5607a45dc59d198d35e9b182993fbd7bee36f0dcd9ff1100f93c3870230b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-104-2008",
+   "path": "local/judet/salaj/2008/104",
+   "short": "HCJ Sălaj nr. 104/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 104/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1042008.pdf",
+     "sha256": "bd593cc05df9548ad3ffd491d5bea21963eccab9132bd78b545a8345ee164a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-105-2008",
+   "path": "local/judet/salaj/2008/105",
+   "short": "HCJ Sălaj nr. 105/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 105/2008 privind vanzarea cotei-parti indivize din terasa aferenta blocului T5, situat in Zalau, str.Torentului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1052008.pdf",
+     "sha256": "05141373015448054c5cf57158855989550f50a9b6e2a6d41648ca19d4604f39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-106-2008",
+   "path": "local/judet/salaj/2008/106",
+   "short": "HCJ Sălaj nr. 106/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 106/2008 privind aprobarea de asociere intre judetul Salaj si comuna Plopis, pentru realizarea unor lucrari de reabilitare a drumului judetean DJ 110 E Fagetu-Plopis-Nusfalau, km:0+000-8+000",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1062008.pdf",
+     "sha256": "3db08719fff358dd201d621c980d1164fc54b99f56cf68a041e565907160e8d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-107-2008",
+   "path": "local/judet/salaj/2008/107",
+   "short": "HCJ Sălaj nr. 107/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 107/2008 privind imputernicirea presedintelui consiliului judetean de a efectua demersurile necesare in vederea organizarii concursului pentru ocuparea functiei de director al Muzeului Judetean de Istorie si Arta Zalau",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1072008.pdf",
+     "sha256": "1041bbcab8b0b72ec1110c063c5ca2cdd1c1cd43cf0c5419d28c62bd79b6c761"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-108-2008",
+   "path": "local/judet/salaj/2008/108",
+   "short": "HCJ Sălaj nr. 108/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2008 privind desemnarea unui reprezentant al Consiliului judetean in Consiliul de administratie al Casei de Asigurari de Sanatate Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1082008.pdf",
+     "sha256": "88b750a5ae91f7ebc8f2fd2459dd3dcae7613eb711a387904fef124ec0997422"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-109-2008",
+   "path": "local/judet/salaj/2008/109",
+   "short": "HCJ Sălaj nr. 109/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 109/2008 privind validarea Autoritatii de Ordine Publica Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1092008.pdf",
+     "sha256": "8f73f46f7f1df7c6c8db0f553ae50de74b7fcf250e38df05eb567f7c6f80371b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2008",
+   "path": "local/judet/salaj/2008/11",
+   "short": "HCJ Sălaj nr. 11/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2008 privind aprobarea documentatiei tehnico-economice pentru lucrarea \"Finalizarea reabilitarii cladirii situate in Zalau, str.lt.col.Pretorian, nr.100\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot112008.pdf",
+     "sha256": "06f6a1ab65f3d75aad03ecc0faaba5e0210e55c46dd839a3a0b2d299756ed655"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-110-2008",
+   "path": "local/judet/salaj/2008/110",
+   "short": "HCJ Sălaj nr. 110/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 110/2008 privind completarea anexei la Hotararea Consiliului Judetean Salaj nr.62 din 26 octombrie 1999 privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1102008.pdf",
+     "sha256": "247fe47cedf23d988c52640470e3a9a2e0eeb259b6e7bd4791365e19786f20d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2008",
+   "path": "local/judet/salaj/2008/111",
+   "short": "HCJ Sălaj nr. 111/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1112008.pdf",
+     "sha256": "27516a65dbf4e5e48e989381f49f831a1485c7c5c76cc97f15c1cd6f21354674"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2008",
+   "path": "local/judet/salaj/2008/112",
+   "short": "HCJ Sălaj nr. 112/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2008 privind numirea directorului interimar la Directia de Paza, Protocol si Administrativ",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1122008.pdf",
+     "sha256": "004096e23d63c350680445988600039cb095a30bc99d8f48828310bc3b5a5b12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-113-2008",
+   "path": "local/judet/salaj/2008/113",
+   "short": "HCJ Sălaj nr. 113/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 113/2008 privind desemnarea reprezentantilor consiliului judetean in Adunarea Generala la \"Club Sportiv REMAT ZALAU\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1132008.pdf",
+     "sha256": "12858dfc021980b91e4641b7df7064785fb12e993e950076fb6c008b20e110b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-114-2008",
+   "path": "local/judet/salaj/2008/114",
+   "short": "HCJ Sălaj nr. 114/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 114/2008 privind modificarea anexei nr.2 la Hotararea Consiliului Judetean Salaj nr.17 din 28 februarie 2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1142008.pdf",
+     "sha256": "30e44fa34fe26717b22a81e25a59e8a1400d921444ac3a67c9f42e67b9bcdadf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-115-2008",
+   "path": "local/judet/salaj/2008/115",
+   "short": "HCJ Sălaj nr. 115/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 115/2008 privind utilizarea temporara a sumei de 658.800 lei din fondul de rulment al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1152008.pdf",
+     "sha256": "6341752fef0bf38aba0959ed962a38ca536c10c3e6616269250d7e0e83a05400"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-116-2008",
+   "path": "local/judet/salaj/2008/116",
+   "short": "HCJ Sălaj nr. 116/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 116/2008 privind alocarea unor sume din fondul de rezerva bugetara al judetului Salaj pe anul 2008, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1162008.pdf",
+     "sha256": "e16154aaa0bf2c80337b86e996e30bd7a7c7a60174a60585012cb40ea9ac74e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-117-2008",
+   "path": "local/judet/salaj/2008/117",
+   "short": "HCJ Sălaj nr. 117/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 117/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1172008.pdf",
+     "sha256": "1c73b4a14aed92ef0a90704035212e2846708800caab93f563ea847b793e5f7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-118-2008",
+   "path": "local/judet/salaj/2008/118",
+   "short": "HCJ Sălaj nr. 118/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 118/2008 privind majorarea aportului Consiliului Judetean Salaj la constituirea Societatii Comerciale \"Institutul Regional pentru Educatie, Cercetare si Transfer Tehnologic\" S.A",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1182008.pdf",
+     "sha256": "fd3d7d154ccbc7dd55e55099e3c6603740b6a2989f4fa3c6bc9b7383683d136c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-119-2008",
+   "path": "local/judet/salaj/2008/119",
+   "short": "HCJ Sălaj nr. 119/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 119/2008 privind stabilirea cuantumului si a conditiilor de acordare a indemnizatiei membrilor comisiei de vanzare si a comisiei de solutionare a contestatiilor pentru vanzarea unor spatii cu destinatie de cabinete medicale, precum si a spatiilor in care se desfasoara",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1192008.pdf",
+     "sha256": "3d9fbd058b3f083ee4d0122a2956bb49419737386ee78520ae47f64a5fc1158f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2008",
+   "path": "local/judet/salaj/2008/12",
+   "short": "HCJ Sălaj nr. 12/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2008 privind aprobarea documentatiei tehnico-economice pentru lucrarea \"Reabilitare cladire, situata in Zalau, str.Unirii, nr.7\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot122008.pdf",
+     "sha256": "e0c40da312e953fb014802c973e75fa827211ec2a6dbf2aa586dea172201fca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-122-2008",
+   "path": "local/judet/salaj/2008/122",
+   "short": "HCJ Sălaj nr. 122/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 122/2008 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru studiul de fezabilitate la obiectivul de investitii \"Circuitul castrelor romane din judetul Salaj\", presum si a cheltuielilor de cofinantare si autofinantare aferente acestui proie",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1222008.pdf",
+     "sha256": "b3c2a11d5e953540b0c8e518938a12ae62b952060e1f61d0c61202f02e1c5f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-123-2008",
+   "path": "local/judet/salaj/2008/123",
+   "short": "HCJ Sălaj nr. 123/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 123/2008 privind aprobarea cheltuielilor de cofinantare aferente obiectivului de investitii \"Reabilitarea drumului judetean DJ 108 A: DN 1F Romanasi - Creaca - Jibou - Benesat\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1232008.pdf",
+     "sha256": "b28675895bdf5bebc3f95a3aee8ca831bf2aec80c76090eeb8b847a75337a805"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-124-2008",
+   "path": "local/judet/salaj/2008/124",
+   "short": "HCJ Sălaj nr. 124/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 124/2008 privind modificarea Hotararii Consiliului Judetean nr.13 din 31 ianuarie 2008 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Sediu Centrul de Integrare prin Terapie Ocupationala Jibou\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1242008.pdf",
+     "sha256": "63c80a8123e1b52b82dc5b9004aab799928a999da6032e756a1c7923799ec057"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-125-2008",
+   "path": "local/judet/salaj/2008/125",
+   "short": "HCJ Sălaj nr. 125/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 125/2008 privind vanzarea unor spatii aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1252008.pdf",
+     "sha256": "8da5f76c5000091b7c3dd50e1517a6b0a783ce601f09254273124f5bdd4d366c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-126-2008",
+   "path": "local/judet/salaj/2008/126",
+   "short": "HCJ Sălaj nr. 126/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 126/2008 privind darea in folosinta gratuita, pe termen limitat, Bibliotecii Judetene \"Ionita Scipione Badescu\" Salaj, a unui spatiu apartinand domeniului public al judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1262008.pdf",
+     "sha256": "f2f84487b74af39e41496f99ca0eef37da6d9898fc5491008df132b4ad3cba6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-127-2008",
+   "path": "local/judet/salaj/2008/127",
+   "short": "HCJ Sălaj nr. 127/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 127/2008 privind inchirierea unui spatiu, din imobilul situat in Zalau, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1272008.pdf",
+     "sha256": "d7babcd06ab748b88b53737a110733e8be21d53fd434c768876d15ae0ababa28"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-128-2008",
+   "path": "local/judet/salaj/2008/128",
+   "short": "HCJ Sălaj nr. 128/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 128/2008 privind inchirierea unor spatii situate in municipiul Zalau, strada Aleea Torentului, bl.P13-15, cu destinatia de activitati didactice, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1282008.pdf",
+     "sha256": "c42b8a181e98445f5e68f349d7c1098021750493825080d4dc683c02c3994eaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-129-2008",
+   "path": "local/judet/salaj/2008/129",
+   "short": "HCJ Sălaj nr. 129/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 129/2008 pentru modificarea si completarea anexei la Hotararea Consiliului Judetean Salaj nr.62 din 26 octombrie 1999, privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1292008.pdf",
+     "sha256": "dce07f0144f7cbdba05d813d85c1c9440256ea92e60c37f9c20ad0ccb2a4d689"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2008",
+   "path": "local/judet/salaj/2008/13",
+   "short": "HCJ Sălaj nr. 13/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2008 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Sediu Centrul de Integrare prin Terapie Ocupationala Jibou\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot132008.pdf",
+     "sha256": "32bb589c7d8b2ae5142aa65df1b622bb8e38bc1343ddd2081548254bbb60e6c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-130-2008",
+   "path": "local/judet/salaj/2008/130",
+   "short": "HCJ Sălaj nr. 130/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 130/2008 privind darea in administrarea Muzeului Judetean de Istorie si Arta Zalau a unor bunuri imobile din domeniul public al judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1302008.pdf",
+     "sha256": "84838062a8d758d981a1ff0b525ce966a01939f0bc0b42f9b8d87ad585bad93f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-131-2008",
+   "path": "local/judet/salaj/2008/131",
+   "short": "HCJ Sălaj nr. 131/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 131/2008 privind aprobarea realizarii lucrarilor de reabilitare a spatiilor situate in Zalau, strada Avram Iancu, nr. 29, concesionate de catre S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1312008.pdf",
+     "sha256": "79466654bdfc5ad66731a78561c3271524a7e255dd73bc7c3851161c4242d7a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-132-2008",
+   "path": "local/judet/salaj/2008/132",
+   "short": "HCJ Sălaj nr. 132/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 132/2008 privind aprobarea \"Programului pentru pregatirea si intretinerea drumurilor judetene din administrarea Consiliului Judetean Salaj, pentru perioada de iarna 2008-2009\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1322008.pdf",
+     "sha256": "39f23310d80dd312db176646996c537c362fc24e6559d66cfebf06b9b02a8e5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-133-2008",
+   "path": "local/judet/salaj/2008/133",
+   "short": "HCJ Sălaj nr. 133/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 133/2008 privind modificarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1332008.pdf",
+     "sha256": "8b46e1284cedd7c6c4419151ffa9feb8478a432d78467d82c38366e0abdb4a64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-134-2008",
+   "path": "local/judet/salaj/2008/134",
+   "short": "HCJ Sălaj nr. 134/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 134/2008 privind aprobarea pentru anul scolar 2008-2009, a numarului de posturi, organigramei si statului de functii ale Scolii Populare de Arte si Meserii Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1342008.pdf",
+     "sha256": "90c19c342579c3a4ebca9440c99d8d1d2ab67fc404e3f5d62f3e330f7475b21f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-135-2008",
+   "path": "local/judet/salaj/2008/135",
+   "short": "HCJ Sălaj nr. 135/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 135/2008 pentru modificarea Hotararii Consiliului Judetean Salaj nr. 102 din 20.11.2007 privind aprobarea pentru anul 2008, a numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1352008.pdf",
+     "sha256": "94b78cfd81c07e5ca914b7b4e9f53f9e23a1f9eb807d84adf77632f66c14d67c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-136-2008",
+   "path": "local/judet/salaj/2008/136",
+   "short": "HCJ Sălaj nr. 136/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 136/2008 privind desemnarea reprezentantilor Consiliului Judetean in Adunarea generala la \"HANDBAL CLUB Zalau\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1362008.pdf",
+     "sha256": "a7a0cc6a99da529c9f6c66749f313c2deca29a68a0f3b755a561717a02d3efde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-137-2008",
+   "path": "local/judet/salaj/2008/137",
+   "short": "HCJ Sălaj nr. 137/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 137/2008 privind desemnarea unui reprezentant al Consiliului Judetean Salaj in consiliul etic din cadrul Spitalului Judetean de Urgenta Zalau",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1372008.pdf",
+     "sha256": "7f2ece4d4b31ff97c619a913382f415ac7bf5e458904eb686f0572ca51be55af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-138-2008",
+   "path": "local/judet/salaj/2008/138",
+   "short": "HCJ Sălaj nr. 138/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 138/2008 privind numirea reprezentantilor Consiliului Judetean in Consiliul consultativ al Spitalului de Urgenta Zalau",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1382008.pdf",
+     "sha256": "7796518d74bbdc599675a164ba34924d145e843376c183ad53b2a2f3220810c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2008",
+   "path": "local/judet/salaj/2008/14",
+   "short": "HCJ Sălaj nr. 14/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2008 privind aprobarea documentatiei tehnico-economice pentru lucrarea \"Reabilitare cladire Centrul de educatie incluziva Simleu Silvaniei\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot142008.pdf",
+     "sha256": "ba78f8a7884b998dee96488ec4faed5b5e5552725aadbe91dd48306c6dc178b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-140-2008",
+   "path": "local/judet/salaj/2008/140",
+   "short": "HCJ Sălaj nr. 140/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 140/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1402008.pdf",
+     "sha256": "4b2479e8dfc93cc28b65f4e141d0b1723b9c5939292d62c3262bada2dc1a0d95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-141-2008",
+   "path": "local/judet/salaj/2008/141",
+   "short": "HCJ Sălaj nr. 141/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 141/2008 pentru reactualizarea Hotararii Consiliului Judetean nr. 122 din 12 septembrie 2008 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru studiul de fezabilitate la obiectivul de investitii \"Circuitul castrelor romane din judetul Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1412008.pdf",
+     "sha256": "f1cbe5d9927fec82404ef0340d1967ae07782aaab7179ac8a6714f3d85d0782d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-142-2008",
+   "path": "local/judet/salaj/2008/142",
+   "short": "HCJ Sălaj nr. 142/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 142/2008 pentru reactualizarea Hotararii Consiliului Judetean nr. 123/2008 privind aprobarea cheltuielilor aferente obiectivului de investitie \"Reabilitarea drumului judetean DJ 108 A: DN 1F Romanasi - Creaca - Jibou - Benesat\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1422008.pdf",
+     "sha256": "4dd725219aa3d055d8dc452121e12573df8600e236e63eb3b222dc2a9f20d1fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-144-2008",
+   "path": "local/judet/salaj/2008/144",
+   "short": "HCJ Sălaj nr. 144/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 144/2008 privind validarea mandatului unui consilier judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1442008.pdf",
+     "sha256": "8b4fe1dd06a9430103295af4c959a4d481f598fabd27f998218aae3a2d78ff22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-145-2008",
+   "path": "local/judet/salaj/2008/145",
+   "short": "HCJ Sălaj nr. 145/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 145/2008 privind completarea componentei unei comisii de specialitate a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1452008.pdf",
+     "sha256": "ca6c89305a1b9a331748e00cd403fc9e80af1f5700c2ce893c2d4acaaa2f1a49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-146-2008",
+   "path": "local/judet/salaj/2008/146",
+   "short": "HCJ Sălaj nr. 146/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 146/2008 pentru modificarea si completarea art.1 de la Hotararea Consiliului Judetean Salaj nr.1/2008 privind stabilirea criteriilor de repartizare pe unitati administrativ-teritoriale a cotei de 20% din impozitul pe venit pentru sustinerea programelor de dezvoltare loc",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1462008.pdf",
+     "sha256": "8e5cabba5f466d352d5f278e7c1838a50e31670c9e6931bc0acfd21a1ad80ecf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-147-2008",
+   "path": "local/judet/salaj/2008/147",
+   "short": "HCJ Sălaj nr. 147/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 147/2008 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj pe anul 2008, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1472008.pdf",
+     "sha256": "e535bc074644ebd2f30da2bb02ba0c80ff008a5ffff42aee1faa829ebb7d30b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-148-2008",
+   "path": "local/judet/salaj/2008/148",
+   "short": "HCJ Sălaj nr. 148/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 148/2008 privind utilizarea sumei de 682,56 mii lei din fondul de rulment al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1482008.pdf",
+     "sha256": "a12f794734de7b4b91d0014cdbf1326058e7aca289a6195599d47087ea2c4091"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-149-2008",
+   "path": "local/judet/salaj/2008/149",
+   "short": "HCJ Sălaj nr. 149/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 149/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1492008.pdf",
+     "sha256": "d4b0c1bd6d5e2521dfd77c2014f405af4f3b715b796fbce36593a61c4a78abf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2008",
+   "path": "local/judet/salaj/2008/15",
+   "short": "HCJ Sălaj nr. 15/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2008 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Amenajare cladire, situata in Zalau, Aleea Nazuintei, nr.10\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot152008.pdf",
+     "sha256": "641083c958fde356df2fb3c5219d7924d87bf87a9b99a3740db3843815b473d3"
     }
    ]
   },
@@ -33,6 +813,531 @@
    ]
   },
   {
+   "slug": "hcj-salaj-151-2008",
+   "path": "local/judet/salaj/2008/151",
+   "short": "HCJ Sălaj nr. 151/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 151/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1512008.pdf",
+     "sha256": "81bc86c91cfa7be724b37c0056d4c05e043315a5d64e9b4f2f9bf2d89598f1e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-153-2008",
+   "path": "local/judet/salaj/2008/153",
+   "short": "HCJ Sălaj nr. 153/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 153/2008 privind aprobarea realizarii lucrarilor de reabilitare a spatiilor situate in Zalau, strada Kossuth, nr.71, concesionat de catre Colegiul Medicilor Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1532008.pdf",
+     "sha256": "eb2b12a05a65e0dcfefac92cc170609c2b41ad1e739e9f614821364af02bbd4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-154-2008",
+   "path": "local/judet/salaj/2008/154",
+   "short": "HCJ Sălaj nr. 154/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 154/2008 pentru modificarea si completarea Hotararii Consiliului Judetean Salaj nr.69/2006 privind darea in administrarea Universitatii Tehnice Cluj-Napoca, a suprafetei de 574,84 mp din imobilul situat in Municipiul Zalau, str. Salcamilor, nr.1 si a terenului aferent i",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1542008.pdf",
+     "sha256": "6d38e21f31c3f2cb1dff057a22a106e8933d840ffd2adec6bfd77e85f5e693d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-155-2008",
+   "path": "local/judet/salaj/2008/155",
+   "short": "HCJ Sălaj nr. 155/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 155/2008 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, str.Lt.Col.Pretorian, nr.100, aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1552008.pdf",
+     "sha256": "ba61fea2a90bc76911d64f10c34c4b793f8250498af3589a9149baba2ddb988b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-156-2008",
+   "path": "local/judet/salaj/2008/156",
+   "short": "HCJ Sălaj nr. 156/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 156/2008 privind transmiterea unui imobil si a terenului aferent din domeniul privat al judetului Salaj in domeniul public al orasului Jibou",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1562008.pdf",
+     "sha256": "f5ce1b3d5874e214dcfbd50b3446db654134414518fcee6f81169e581338391e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-157-2008",
+   "path": "local/judet/salaj/2008/157",
+   "short": "HCJ Sălaj nr. 157/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 157/2008 privind Programul de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1572008.pdf",
+     "sha256": "59997f0cb5b1a38d94782526c7e1a9b811067cffa44be295341ec5298c6154e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-158-2008",
+   "path": "local/judet/salaj/2008/158",
+   "short": "HCJ Sălaj nr. 158/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 158/2008 privind adoptarea Planului Local de Actiune pentru Protectia Mediului, revizuit",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1582008.pdf",
+     "sha256": "76a54f8e52a5a6b09c7c1936f16080e5d0791d3464bfc942dff873b5352b7ab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-159-2008",
+   "path": "local/judet/salaj/2008/159",
+   "short": "HCJ Sălaj nr. 159/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 159/2008 privind modificarea componentei Comisiei de evaluare a persoanelor cu handicap pentru adulti Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1592008.pdf",
+     "sha256": "6c72d9ed8b9e14676e3a7f8901c9bb3b4a1c99d1a1f36f12e30144ce808c3208"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2008",
+   "path": "local/judet/salaj/2008/16",
+   "short": "HCJ Sălaj nr. 16/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2008 pentru modificarea Hotararii Consiliului Judetean Salaj nr.102, din 30.11.2007, privind aprobarea, pentru anul 2008, a numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot162008.pdf",
+     "sha256": "394300e0b2580513d532b0ef78bfe72562e791568e3296c162a098ef3e067dd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-160-2008",
+   "path": "local/judet/salaj/2008/160",
+   "short": "HCJ Sălaj nr. 160/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 160/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1602008.pdf",
+     "sha256": "d8681c85a8707b30aa2d0ecf76cf4b6d613009950eeae2ef25f5f59ee3a53460"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-161-2008",
+   "path": "local/judet/salaj/2008/161",
+   "short": "HCJ Sălaj nr. 161/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 161/2008 privind desemnarea reprezentantilor Consiliului Judetean Salaj in comisia de vanzare a unor spatii aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1612008.pdf",
+     "sha256": "63c5eec03c7dd4b01d371c4af53d7f079a557a44c79227316e4f56adb34a6615"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-162-2008",
+   "path": "local/judet/salaj/2008/162",
+   "short": "HCJ Sălaj nr. 162/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 162/2008 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru studiul de fezabilitate la obiectivul de investitii \"Circuitul bisericilor de lemn din Transilvania de Nord - judetul Salaj\", precum si a cheltuielilor de cofinantare si autofinanta",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1622008.pdf",
+     "sha256": "4d8aaa5781b2213cb6f0486a2d21126fd4863fb312387622fb0f9b67a9e2a04c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-163-2008",
+   "path": "local/judet/salaj/2008/163",
+   "short": "HCJ Sălaj nr. 163/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 163/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1632008.pdf",
+     "sha256": "2295425b49d720db8bccbd1b8dc8eb471030fe7743b7189ae61e6f4b45fc0916"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-164-2008",
+   "path": "local/judet/salaj/2008/164",
+   "short": "HCJ Sălaj nr. 164/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 164/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1642008.pdf",
+     "sha256": "5cea3fa21feff526f531c5072ccbaf03e306c80fb21cbab08b666e9dd4774d4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-165-2008",
+   "path": "local/judet/salaj/2008/165",
+   "short": "HCJ Sălaj nr. 165/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 165/2008 privind alocarea unor sume din fondul de rezerva bugetara al judetului Salaj pe anul 2008, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1652008.pdf",
+     "sha256": "8d9f9fbe5740a65e56241e344e24f8d6abc6ee8bad176b744b8604d18623435c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-166-2008",
+   "path": "local/judet/salaj/2008/166",
+   "short": "HCJ Sălaj nr. 166/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 166/2008 privind aprobarea principalilor indicatori tehnico-economici ai investitiei \"Centru de primire in regim de urgenta pentru copiii strazii - CPRU - 02/SJ\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1662008.pdf",
+     "sha256": "fb9ae30075257b5269ffdb63ac72c3559c883123bc90f2752b3eadb3e1225a85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2008",
+   "path": "local/judet/salaj/2008/17",
+   "short": "HCJ Sălaj nr. 17/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot172008.pdf",
+     "sha256": "d11ce97db440e3c5e2e9d3f66cc86dbf1ce89c13eb6f70aec908829a547c7d03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-170-2008",
+   "path": "local/judet/salaj/2008/170",
+   "short": "HCJ Sălaj nr. 170/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 170/2008 privind inchirierea unor spatii din imobilul situat in Zalau, strada Avram Iancu, nr. 29, aflat in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1702008.pdf",
+     "sha256": "2912e1c6dfa19fe319965f2640cf45cf30ccf2a710b60002856b79de953af9e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-171-2008",
+   "path": "local/judet/salaj/2008/171",
+   "short": "HCJ Sălaj nr. 171/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 171/2008 pentru modificarea Hotararii Consiliului Judetean Salaj nr. 45/2008 privind concesionarea unor spatii, a terenului aferent situate in Cehu Silvaniei, str.Gh. Doja, nr. 71, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1712008.pdf",
+     "sha256": "62be38b7e2825199734ca731caaa57e05429195f16a3dbf8d0bc61cdc9f0c5e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-172-2008",
+   "path": "local/judet/salaj/2008/172",
+   "short": "HCJ Sălaj nr. 172/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 172/2008 privind modificarea Hotararii Consiliului Judetean nr. 104 din 26 august 2005 privind darea in administrare a unor bunuri din domeniul privat al judetului Salaj, Directiei de Paza, Protocol si Administrativ Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1722008.pdf",
+     "sha256": "488ce9b266b6b0c604a99537f6ca5451c3a880a472fdbb7de5b65c1686d19dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-173-2008",
+   "path": "local/judet/salaj/2008/173",
+   "short": "HCJ Sălaj nr. 173/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 173/2008 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, strada Lt.Col. Pretorian, nr. 100, aflat in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1732008.pdf",
+     "sha256": "fb5d8ddae63abb950f6c00cd9aa7cbb583472aa7e1344f22fadbfba56943f477"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-174-2008",
+   "path": "local/judet/salaj/2008/174",
+   "short": "HCJ Sălaj nr. 174/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 174/2008 privind exercitarea dreptului de administrare al Consiliului Judetean Salaj de catre Spitalul Judetean de Urgenta Zalau, asupra unor bunuri din domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1742008.pdf",
+     "sha256": "904751dc0ab15416a3c6c01291d901fc696bc5ee1de72cfd8062b0f93745acc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-176-2008",
+   "path": "local/judet/salaj/2008/176",
+   "short": "HCJ Sălaj nr. 176/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 176/2008 privind modificarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1762008.pdf",
+     "sha256": "57017f635649e22bc94dae47d8297c9b0c0f5b46dfcc2e8f0662f8c6f2ffdfcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-177-2008",
+   "path": "local/judet/salaj/2008/177",
+   "short": "HCJ Sălaj nr. 177/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 177/2008 privind aprobarea, pentru anul 2009, a numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1772008.pdf",
+     "sha256": "9ca192be3ea5125199856451ad1e2e1a6518908bab51c357cc0ed8af73e2c72b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-178-2008",
+   "path": "local/judet/salaj/2008/178",
+   "short": "HCJ Sălaj nr. 178/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 178/2008 privind aprobarea pentru anul 2009, a numarului de posturi, organigramelor si statelor de functii ale institutiilor si serviciilor publice din subordinea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1782008.pdf",
+     "sha256": "85f770fe109fbb4481f6ef1714e3bc53386cde465b13e5063de1c579f03dd17e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-179-2008",
+   "path": "local/judet/salaj/2008/179",
+   "short": "HCJ Sălaj nr. 179/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 179/2008 privind modificarea denumirii Serviciului Public Comunitar Judetean de Evidenta a Persoanelor Salaj in Directia Judeteana de Evidenta a Persoanelor Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1792008.pdf",
+     "sha256": "dac81c4e4dc2c8fed5b65464034a5169ae50ad97965174592696cd8ae5f8889e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-18-2008",
+   "path": "local/judet/salaj/2008/18",
+   "short": "HCJ Sălaj nr. 18/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot182008.pdf",
+     "sha256": "01eacfee53e31b30b9afc38d2941a8d5d9c9b1c003d1ddcdcc9946fee124df0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-180-2008",
+   "path": "local/judet/salaj/2008/180",
+   "short": "HCJ Sălaj nr. 180/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 180/2008 privind aprobarea, pentru anul 2009, a numarului de posturi, organigramei si statului de functii ale Directiei Judetene de Evidenta a Persoanelor Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1802008.pdf",
+     "sha256": "f0dc2110acc4c6ee33cc19320e18398be045c6b082718634ab5013b0e7aae23e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-181-2008",
+   "path": "local/judet/salaj/2008/181",
+   "short": "HCJ Sălaj nr. 181/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 181/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1812008.pdf",
+     "sha256": "d2dd45a70495d94452e90c7149333d6ecd16feb2932d7db623514909e3deaaa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-182-2008",
+   "path": "local/judet/salaj/2008/182",
+   "short": "HCJ Sălaj nr. 182/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 182/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1822008.pdf",
+     "sha256": "dc4283b1338c963b45187dab654cb14cfc32fa81add2947befa62f9c737f7218"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-183-2008",
+   "path": "local/judet/salaj/2008/183",
+   "short": "HCJ Sălaj nr. 183/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 183/2008 privind alocarea unor sume din fondul de rezerva bugetara al judetului Salaj, pe anul 2008, pentru finantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1832008.pdf",
+     "sha256": "fca859d79cd1fc0d3e21abe75fdf281a2c525bfd10fcab76ea2e42b58bed1af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-184-2008",
+   "path": "local/judet/salaj/2008/184",
+   "short": "HCJ Sălaj nr. 184/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 184/2008 privind actualizarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1842008.pdf",
+     "sha256": "c254882cfe21f64e679862fc5c7ad495af7c6c8f4d553e30054b2c853608902a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-185-2008",
+   "path": "local/judet/salaj/2008/185",
+   "short": "HCJ Sălaj nr. 185/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 185/2008 privind aprobarea planurilor de ocupare a functiilor publice, pentru anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1852008.pdf",
+     "sha256": "873326ce9692a730a5901de3b8053687936ddb57b44b9f2a7f20ec8b7259c43c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-186-2008",
+   "path": "local/judet/salaj/2008/186",
+   "short": "HCJ Sălaj nr. 186/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 186/2008 privind stabilirea cotei lunare de carburanti pentru autoturismele din dotarea institutiilor si serviciilor publice aflate in subordinea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1862008.pdf",
+     "sha256": "27737243a9c6896de43e819630ece603d4bc376335b8bb06f2fcf8782a50603d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-187-2008",
+   "path": "local/judet/salaj/2008/187",
+   "short": "HCJ Sălaj nr. 187/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 187/2008 privind aprobarea Regulamentului de organizare si functionare al Muzeului Judetean de Istorie si Arta Zalau, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1872008.pdf",
+     "sha256": "d3aa2891534d66ff229cc8ae2afdf0af74180e934fe7fc7e17d399533b833bbf"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-188-2008",
    "path": "local/judet/salaj/2008/188",
    "short": "HCJ Sălaj nr. 188/2008",
@@ -44,6 +1349,246 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1882008.pdf",
      "sha256": "ac3b67531ff583cf446deb275ff87b31de280bcdaaa80dbcc21fa404d1a3eda4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2008",
+   "path": "local/judet/salaj/2008/19",
+   "short": "HCJ Sălaj nr. 19/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2008 privind aprobarea Programului de finantare a activitatilor sportive din judetul Salaj \"SPORT SALAJ 2008\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot192008.pdf",
+     "sha256": "24f7ad2156c596d53d857f238c340254309a1ca107ba2acb6d1a266231075900"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-190-2008",
+   "path": "local/judet/salaj/2008/190",
+   "short": "HCJ Sălaj nr. 190/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 190/2008 privind inchirierea unui spatiu din imobilul situat in Zalau, str.Kossuth, nr.71, aflat in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1902008.pdf",
+     "sha256": "d6d45a5a0b85b9fdf52ccbd137df633996ec933572b6126bb05f53e1254bfedf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-191-2008",
+   "path": "local/judet/salaj/2008/191",
+   "short": "HCJ Sălaj nr. 191/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 191/2008 privind darea in folosinta gratuita, pe termen limitat, Agentiei de Dezvoltare Regionala Nord-Vest, a unui spatiu din imobilul situat in municipiul Zalau, str.Unirii, nr.7, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1912008.pdf",
+     "sha256": "5c07b198a40a1643f6c6d8338278fe10a58202b3f888f8705d0deb5b591aabd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-192-2008",
+   "path": "local/judet/salaj/2008/192",
+   "short": "HCJ Sălaj nr. 192/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 192/2008 pentru modificarea Hotararii Consiliului Judetean nr.162 din 29 noiembrie 2008 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru studiul de fezabilitate la obiectivul de investitii \"Circuitul bisericilor de lemn din Transilvania de",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1922008.pdf",
+     "sha256": "1f699c9ce2adfa65b02cbfc984a2db08c43a43c5f8047da4ddf65d51172c649a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-193-2008",
+   "path": "local/judet/salaj/2008/193",
+   "short": "HCJ Sălaj nr. 193/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 193/2008 pentru modificarea Hotararii Consiliului Judetean nr.122 din 12 septembrie 2008, reactualizata, privind aprobarea devizului general si a indicatorilor tehnico-economici pentru studiul de fezabilitate la obiectivul de investitii \"Circuitul castrelor romane din j",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1932008.pdf",
+     "sha256": "11e25828c0593d4b0a34bfc0815da06410f4926fd455cea82509cd5b106b3c50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-198-2008",
+   "path": "local/judet/salaj/2008/198",
+   "short": "HCJ Sălaj nr. 198/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 198/2008 privind validarea mandatului unui consilier judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1982008.pdf",
+     "sha256": "9010376d305b8be9c8452f6b6044ecb32942e9899c9a8f17046170c61aa98823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-199-2008",
+   "path": "local/judet/salaj/2008/199",
+   "short": "HCJ Sălaj nr. 199/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 199/2008 privind completarea componentei unei comisii de specialitate a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot1992008.pdf",
+     "sha256": "490112f39d4a8e48bedf90a963e7fac41545f4f2029b78bd9ca24442e3949cd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2008",
+   "path": "local/judet/salaj/2008/2",
+   "short": "HCJ Sălaj nr. 2/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2008 privind utilizarea sumei de 4.082,78 mii lei din fondul de rulment al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot22008.pdf",
+     "sha256": "512faeaa793363a80196f2787244b1dfcbc050ec53b5f33a3c2030dfb621f888"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2008",
+   "path": "local/judet/salaj/2008/20",
+   "short": "HCJ Sălaj nr. 20/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2008 privind aprobarea Programului de finantare a activitatilor de asistenta sociala prestate de unitatile de cult in judet, pentru anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot202008.pdf",
+     "sha256": "eba50f456b95fd19b1a0fffbb19d7a584d8185aca9a9622d68da36e8222db9b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-200-2008",
+   "path": "local/judet/salaj/2008/200",
+   "short": "HCJ Sălaj nr. 200/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 200/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot2002008.pdf",
+     "sha256": "e48cd2da42eba02ab70aec2a38ad6a60cfd8a6a20ae9ef4d606ea4089e326ad5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-201-2008",
+   "path": "local/judet/salaj/2008/201",
+   "short": "HCJ Sălaj nr. 201/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 201/2008 privind alocarea unor sume din fondul de rezerva bugetara al judetului Salaj pe anul 2008, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot2012008.pdf",
+     "sha256": "aacaee384699c3f100448cfd500a37385d0ce81c4986d9c1383399f06fdc141e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-202-2008",
+   "path": "local/judet/salaj/2008/202",
+   "short": "HCJ Sălaj nr. 202/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 202/2008 privind darea in folosinta gratuita, pe termen limitat, a unor spatii din imobilul situat in municipiul Zalau, str.Unirii, nr.7, Clubului Sportiv \"Handbal Club Zalau\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot2022008.pdf",
+     "sha256": "7d2100cb6b12c657562f650bd868b9260c4fbc4c95bab56ee0a519dac4a66932"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-203-2008",
+   "path": "local/judet/salaj/2008/203",
+   "short": "HCJ Sălaj nr. 203/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 203/2008 privind transmiterea, din domeniul public al Judetului Salaj, in domeniul public al Municipiului Zalau, a unor spatii din imobilul situat in municipiul Zalau, Piata Iuliu Maniu, nr. 3-5, si a terenului aferent",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot2032008.pdf",
+     "sha256": "738fb0c77d5e3a876c89118290ed1b7131d9b86e12bd4618061e73dd73696b6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-204-2008",
+   "path": "local/judet/salaj/2008/204",
+   "short": "HCJ Sălaj nr. 204/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 204/2008 privind actualizarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot2042008.pdf",
+     "sha256": "5aa13a394d9f41b377da4188cbb940fc29bc23ae14b1ca9942e774052121af06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-205-2008",
+   "path": "local/judet/salaj/2008/205",
+   "short": "HCJ Sălaj nr. 205/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 205/2008 privind aprobarea prelungirii duratei de derulare a Programului de finantare a activitatilor de asistenta sociala prestate de unitatile de cult in judet, pentru anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot2052008.pdf",
+     "sha256": "0b627e522ebdd69f476187315c642d5fa3103ac0aab2c132d432c204a85235fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-21-2008",
+   "path": "local/judet/salaj/2008/21",
+   "short": "HCJ Sălaj nr. 21/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 21/2008 privind aprobarea Programului de cofinantare a lucrarilor de reparatii a lacasurilor de cult (biserici si case de rugaciuni) in anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot212008.pdf",
+     "sha256": "6f7aac6f9bd708494731eb243c5b4c6a2e6619740fff2306182128d74ccc9727"
     }
    ]
   },
@@ -63,6 +1608,21 @@
    ]
   },
   {
+   "slug": "hcj-salaj-23-2008",
+   "path": "local/judet/salaj/2008/23",
+   "short": "HCJ Sălaj nr. 23/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2008 privind aprobarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008 - 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot232008.pdf",
+     "sha256": "97f61651f445b3854ee96cdbc6c1f65b97a976bd04d9f380e3bbb27f0cafe280"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-24-2008",
    "path": "local/judet/salaj/2008/24",
    "short": "HCJ Sălaj nr. 24/2008",
@@ -74,6 +1634,696 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot242008.pdf",
      "sha256": "5edf99faf8e7a4f290697f6ac0132e02ed1d669391cc4b3aa61834ec96eec993"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2008",
+   "path": "local/judet/salaj/2008/25",
+   "short": "HCJ Sălaj nr. 25/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2008 privind aprobarea Planului Judetean de Gestionare a Deseurilor in judetul Salaj, pentru perioada 2008 - 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot252008.pdf",
+     "sha256": "c17ff596c65040146b61d096674a89d6f477120b1d9db944a949d7b13a5383fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2008",
+   "path": "local/judet/salaj/2008/27",
+   "short": "HCJ Sălaj nr. 27/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2008 privind aprobarea Contului de incheiere a exercitiului bugetar aferent bugetului propriu al judetului, pe anul 2007",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot272008.pdf",
+     "sha256": "2c0f5d7327976bb8743a2538ec2905a8fd72a912cd506fe4c0ccef17b3672455"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2008",
+   "path": "local/judet/salaj/2008/28",
+   "short": "HCJ Sălaj nr. 28/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2008 privind alocarea unor sume din fondul de rezerva bugetara al judetului Salaj pe anul 2008, pentru finantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot282008.pdf",
+     "sha256": "806447d4bf9fbb234e35fd8d864396fed6868231fc3d3a22461cd6497a7b29ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2008",
+   "path": "local/judet/salaj/2008/29",
+   "short": "HCJ Sălaj nr. 29/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot292008.pdf",
+     "sha256": "9ea17632425df4f3cd5594b7067b6c03f465fe8bc265a17ad52aadd68e523ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2008",
+   "path": "local/judet/salaj/2008/3",
+   "short": "HCJ Sălaj nr. 3/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2008 privind aprobarea bugetului propriu al judetului si al institutiilor si serviciilor publice subordonate acestuia, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot32008.pdf",
+     "sha256": "adeb0b9545d00f0891e7a46699c20bf803ca5c43eeaaae6a943ab9059c722855"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2008",
+   "path": "local/judet/salaj/2008/30",
+   "short": "HCJ Sălaj nr. 30/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2008 privind stabilirea costului anual pentru un copil care beneficiaza de serviciile centrelor de zi",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot302008.pdf",
+     "sha256": "665dc4b9b50b6906661ab7e838838df0ada7d999062fd273839b783f7ee93bb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-31-2008",
+   "path": "local/judet/salaj/2008/31",
+   "short": "HCJ Sălaj nr. 31/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 31/2008 privind stabilirea costului mediu lunar pentru persoanele cu handicap care beneficiaza de serviciile Centrului de Integrare prin Terapie Ocupationala Badacin, Complexului de Servicii Sociale pentru Persoane Adulte cu Handicap Jibou si Complexului de Servicii Social",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot312008.pdf",
+     "sha256": "34173ed0855fa1e34f71bff5aa0f2ce1a3aa113ea62865a8cc23c6cab8860a34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-32-2008",
+   "path": "local/judet/salaj/2008/32",
+   "short": "HCJ Sălaj nr. 32/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 32/2008 privind aprobarea Planului de restructurare a Centrului de Integrare prin Terapie Ocupationala pentru Persoane cu Handicap Badacin, inchiderea Centrului de Integrare prin Terapie Ocupationala din cadrul Complexului de Servicii Sociale pentru Persoane Adulte cu Hand",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot322008.pdf",
+     "sha256": "d3ad5f86e06c43cb08b5d06e54ef733cd1da9ab5b58a02fe45f2cbf5b10ed201"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-33-2008",
+   "path": "local/judet/salaj/2008/33",
+   "short": "HCJ Sălaj nr. 33/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 33/2008 privind modificarea si completarea Hotararii Consiliului Judetean Salaj nr.23 din 28.02.2008 privind aprobarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008 - 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot332008.pdf",
+     "sha256": "4f6d0ebd91aafc71084eafc632fcb160e599291d49f6dac714daf4c3c0500742"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-34-2008",
+   "path": "local/judet/salaj/2008/34",
+   "short": "HCJ Sălaj nr. 34/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 34/2008 privind modificarea si completarea Hotararii Consiliului Judetean nr.112 din 21.12.2007 privind darea in folosinta gratuita a S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot342008.pdf",
+     "sha256": "4afbd4b3449d8b0c79c5ff7954431ae5691bb7f5ac76d5320ad99110391832b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-35-2008",
+   "path": "local/judet/salaj/2008/35",
+   "short": "HCJ Sălaj nr. 35/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 35/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot352008.pdf",
+     "sha256": "1a7ccff58dada701b13794fd72dc144e455331f19f67fe35fa5891359e04a49c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2008",
+   "path": "local/judet/salaj/2008/36",
+   "short": "HCJ Sălaj nr. 36/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot362008.pdf",
+     "sha256": "8cf097831cdc732d4e22a2063e351da5fc6136260afd68c1f3445f90ccaa2556"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2008",
+   "path": "local/judet/salaj/2008/37",
+   "short": "HCJ Sălaj nr. 37/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2008 privind alocarea unor sume din fondul de rezerva bugetara al judetului Salaj pe anul 2008, pentru finantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot372008.pdf",
+     "sha256": "e57e0871fa07c898bb2ac1cfb4cfefc3dfe325529f7695bdee2037b032328b53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-38-2008",
+   "path": "local/judet/salaj/2008/38",
+   "short": "HCJ Sălaj nr. 38/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 38/2008 privind utilizarea sumei de 397 mii lei din fondul de rulment al judetului, in anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot382008.pdf",
+     "sha256": "33316b39e8408949165d743273cd50d71fbb60135f4b2ec8326983a46c8070ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-39-2008",
+   "path": "local/judet/salaj/2008/39",
+   "short": "HCJ Sălaj nr. 39/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 39/2008 pentru modificarea si completarea Hotararii Consiliului Judetean nr. 21/2008 privind aprobarea Programului de cofinantare a lucrarilor de reparatii a lacasurilor de cult (biserici si case de rugaciuni) in anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot392008.pdf",
+     "sha256": "b7168acf19499da343303d4aee6f981477a62ba2404921824eafcef6d6d80a4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2008",
+   "path": "local/judet/salaj/2008/4",
+   "short": "HCJ Sălaj nr. 4/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2008 privind darea in folosinta gratuita, pe termen limitat, Bibliotecii Judetene \"Ionita Scipione Badescu\" Salaj, a unor spatii apartinand domeniului public al judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot42008.pdf",
+     "sha256": "4a5933aaa3e6c8766520d1a07978921788cb525637e2c46db9f105358f2e934d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-40-2008",
+   "path": "local/judet/salaj/2008/40",
+   "short": "HCJ Sălaj nr. 40/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 40/2008 privind aprobarea acordului de asociere intre judetul Salaj si comuna Bobota, pentru realizarea unor lucrari de reabilitare a unor tronsoane de pe drumul judetean DJ 110B Sarmasag-Dersida-Bobota-Zalnoc",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot402008.pdf",
+     "sha256": "f5328e9f53e4de983043ec9fdfd7598c2907668153211cc160508c6347a29891"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-41-2008",
+   "path": "local/judet/salaj/2008/41",
+   "short": "HCJ Sălaj nr. 41/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 41/2008 privind retragerea dreptului de administrare conferit Consiliului Local Cehu Silvaniei, pentru imobilul si terenul aferent situate in orasul Cehu Silvaniei, strada Gh.Doja, nr.110, aflat in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot412008.pdf",
+     "sha256": "af93ec2277d9f7871f9dd13de249bb9cc30a930514b87fc5e8c987695128d965"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-42-2008",
+   "path": "local/judet/salaj/2008/42",
+   "short": "HCJ Sălaj nr. 42/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 42/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot422008.pdf",
+     "sha256": "7d8a26224fba9544f038e58da438667c241217e4720cdcce8c5ca25f310306d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2008",
+   "path": "local/judet/salaj/2008/43",
+   "short": "HCJ Sălaj nr. 43/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2008 privind darea in folosinta gratuita, pe termen limitat, Asociatiei \"Down Sindrom\" a unor spatii si a terenului aferent situate in Cehu Silvaniei, strada Gh.Doja, nr.110, apartinand domeniului privat al judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot432008.pdf",
+     "sha256": "7f2c3b13691d3a10ca35ffad28b81ef00f4198f4da12b1e4e7d96339d1818833"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2008",
+   "path": "local/judet/salaj/2008/44",
+   "short": "HCJ Sălaj nr. 44/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot442008.pdf",
+     "sha256": "068a2f4f9f6b555e233f226989b8a855fb84fae581529849f962052afee2bcbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2008",
+   "path": "local/judet/salaj/2008/45",
+   "short": "HCJ Sălaj nr. 45/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2008 privind concesionarea unor spatii si a terenului aferent situate in Cehu Silvaniei, str. Gh. Doja, nr.71, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot452008.pdf",
+     "sha256": "83935dd21c4daf48b4cb2a9a68ebefeda08c505a72e3aac61488ae59f952633a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-46-2008",
+   "path": "local/judet/salaj/2008/46",
+   "short": "HCJ Sălaj nr. 46/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 46/2008 privind aprobarea valorificarii materialului lemnos situat pe aliniamentele drumurilor judetene",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot462008.pdf",
+     "sha256": "0f83efc80f683b4157aea2d507ae4d24d360f71dd7b8d4a70c571363b2487a1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-47-2008",
+   "path": "local/judet/salaj/2008/47",
+   "short": "HCJ Sălaj nr. 47/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 47/2008 privind aprobarea Regulamentului de organizare si functionare al Consiliului Judetean Salaj, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot472008.pdf",
+     "sha256": "8fb181ecfb5a1df41357ca999785b9705fa7f2d28273dc53ee8e3188c31530d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2008",
+   "path": "local/judet/salaj/2008/48",
+   "short": "HCJ Sălaj nr. 48/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2008 privind aprobarea contractului si acordului colectiv de munca pe anul 2008, pentru salariatii din cadrul aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot482008.pdf",
+     "sha256": "69bf0d3a70910d7d1005051af6a6f81ca2065d7cb80e32de05d339359f69670f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2008",
+   "path": "local/judet/salaj/2008/49",
+   "short": "HCJ Sălaj nr. 49/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2008 privind aprobarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008 - 2011, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-04-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot492008.pdf",
+     "sha256": "0027da5fd715a6fd75e3c89b985e3af6a3b37c2aeb0c316a620eee83e399cdcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2008",
+   "path": "local/judet/salaj/2008/5",
+   "short": "HCJ Sălaj nr. 5/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2008 pentru modificarea Hotararii Consiliului Judetean nr.74 din 28 septembrie 2007, privind concesionarea, prin licitatie, a unor spatii situate in Zalau, str.Kossuth, nr.71, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot52008.pdf",
+     "sha256": "5abffeedfe352fb8799f32e9ee54b12a2845bfa2e5fa814a35733c39a51282aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2008",
+   "path": "local/judet/salaj/2008/50",
+   "short": "HCJ Sălaj nr. 50/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot502008.pdf",
+     "sha256": "8befbb69f4256a41ade54a38fd12cbe88f3401ae1da90cc1933c2f82fe8bc7d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-2008",
+   "path": "local/judet/salaj/2008/51",
+   "short": "HCJ Sălaj nr. 51/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/2008 privind modificarea Hotararii Consiliului Judetean Salaj nr.7 din 31.01.2008 privind stabilirea obiectivelor apartinand domeniului public si privat al judetului la care paza se efectueaza de catre agenti de paza apartinand Directiei de Paza, Protocol si Administrativ",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot512008.pdf",
+     "sha256": "5c283cd6cd891dbbe64553db870da2af00bda377823f4539d1d26b789263e602"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2008",
+   "path": "local/judet/salaj/2008/52",
+   "short": "HCJ Sălaj nr. 52/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2008 privind inchirierea unui spatiu din domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot522008.pdf",
+     "sha256": "f3112e45163f989dbbbe1dec9fbbe04ec3e6a97bc36340007e0c775775df0de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-54-2008",
+   "path": "local/judet/salaj/2008/54",
+   "short": "HCJ Sălaj nr. 54/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 54/2008 privind stabilirea autogarilor si a statiilor publice, pe traseele de transport public local de persoane, prin curse regulate",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot542008.pdf",
+     "sha256": "f800fd049219682479f13f8fce89ac311387ed5e7db97e3c2efc6e44f0071564"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2008",
+   "path": "local/judet/salaj/2008/55",
+   "short": "HCJ Sălaj nr. 55/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot552008.pdf",
+     "sha256": "7cbd6218b665bd9a1858566fdd72276ea85efb9677fdf62921de4d657b617660"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2008",
+   "path": "local/judet/salaj/2008/57",
+   "short": "HCJ Sălaj nr. 57/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2008 privind aprobarea Regulamentului de organizare si functionare a Comisiei de evaluare a persoanelor adulte cu handicap Salaj, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot572008.pdf",
+     "sha256": "724bcf2c860ead51272e1474f83230a92dd566cfe5cfa13c8d44495bd9613541"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2008",
+   "path": "local/judet/salaj/2008/58",
+   "short": "HCJ Sălaj nr. 58/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot582008.pdf",
+     "sha256": "50ff38ec4cadd7b1c859ebb117a5d8715dd2af4238a9f858fa88148d098ce915"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2008",
+   "path": "local/judet/salaj/2008/59",
+   "short": "HCJ Sălaj nr. 59/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-05-19",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot592008.pdf",
+     "sha256": "20585e2732e9843f92dd3c60e079dd01b6a58ec01c55c0e724c17170f5bc1580"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2008",
+   "path": "local/judet/salaj/2008/6",
+   "short": "HCJ Sălaj nr. 6/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2008 pentru modificarea si completarea Hotararii Consiliului Judetean nr.92 din 15.06.2005, privind infiintarea Directiei de Paza, Protocol si Administrativ, ca serviciu public de specialitate, cu personalitate juridica, in subordinea Consiliului judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot62008.pdf",
+     "sha256": "dae1a96fee46a94a6f627be03d8002f761e20562afe5735e537ff9f7fd40563a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2008",
+   "path": "local/judet/salaj/2008/60",
+   "short": "HCJ Sălaj nr. 60/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2008 privind alegerea Comisiei de validare a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-06-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot602008.pdf",
+     "sha256": "5ab00685cc29595eb10dd4751ed5c179fb5a1dc8f253478a3683af8c17515e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-61-2008",
+   "path": "local/judet/salaj/2008/61",
+   "short": "HCJ Sălaj nr. 61/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 61/2008 privind validarea mandatelor consilierilor din cadrul Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-06-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot612008.pdf",
+     "sha256": "df5998154a0e11596629bc14fe7e3058ab5f36ea39118542ac3408745b7c7bcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2008",
+   "path": "local/judet/salaj/2008/62",
+   "short": "HCJ Sălaj nr. 62/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2008 privind constituirea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-06-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot622008.pdf",
+     "sha256": "b4c52a32813b0731093d8247ecbf3140ff869d0169cb91b68ab65d5b2af47c27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-63-2008",
+   "path": "local/judet/salaj/2008/63",
+   "short": "HCJ Sălaj nr. 63/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 63/2008 privind alegerea vicepresedintilor Consiliului Judetean salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-06-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot632008.pdf",
+     "sha256": "95f9f85cd0021ef520112e2a65b9cd9edeb30ec626a3e0de31d46352f60fd2ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2008",
+   "path": "local/judet/salaj/2008/64",
+   "short": "HCJ Sălaj nr. 64/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2008 privind stabilirea numarului, denumirea si componenta comisiilor de specialitate ale Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-06-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot642008.pdf",
+     "sha256": "7220d1ea56937a64f588d73fe58e2501e07dc32b26711bb8878853fd9846692e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2008",
+   "path": "local/judet/salaj/2008/65",
+   "short": "HCJ Sălaj nr. 65/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot652008.pdf",
+     "sha256": "6e3c776224dc63589b589a16ce4439869af2ab6dd223a87921bbb921439b75fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2008",
+   "path": "local/judet/salaj/2008/66",
+   "short": "HCJ Sălaj nr. 66/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot662008.pdf",
+     "sha256": "78679920b0765319bf8226d653830115cd59f463f9fd6bcd674edcc899b17b86"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2008",
+   "path": "local/judet/salaj/2008/67",
+   "short": "HCJ Sălaj nr. 67/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2008 privind validarea mandatelor unor consilieri judeteni",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot672008.pdf",
+     "sha256": "638f7fc5188fe929378913eb878f8b02d47e80492408e59922e623d055384d43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-68-2008",
+   "path": "local/judet/salaj/2008/68",
+   "short": "HCJ Sălaj nr. 68/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 68/2008 privind completarea componentei unor comisii de specialitate ale Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot682008.pdf",
+     "sha256": "f5a86fb190d3de4b1347f32a9b0c8d6cbd396b9a2751d676947c466789bdca59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-69-2008",
+   "path": "local/judet/salaj/2008/69",
+   "short": "HCJ Sălaj nr. 69/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 69/2008 privind utilizarea sumei de 1.980,3 mii lei din fondul de rulment al judetului, in anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot692008.pdf",
+     "sha256": "96044fb279d0db54154d05ed3e568a82adf395bf58fc3a8471b4c3f0b320ddaf"
     }
    ]
   },
@@ -93,6 +2343,36 @@
    ]
   },
   {
+   "slug": "hcj-salaj-71-2008",
+   "path": "local/judet/salaj/2008/71",
+   "short": "HCJ Sălaj nr. 71/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 71/2008 privind aprobarea cheltuielilor de cofinantare aferente obiectivului de investitie \"Reabilitarea drumului Ciucea-Crasna-Virsolt\" pentru tronsonul de drum aflat pe teritoriul judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot712008.pdf",
+     "sha256": "aeddd94e4276bb4de44457911917cd777ad1cc9156513004c43505557e4990b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-72-2008",
+   "path": "local/judet/salaj/2008/72",
+   "short": "HCJ Sălaj nr. 72/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/2008 privind aprobarea Programului de transport rutier de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot722008.pdf",
+     "sha256": "68148eb7c09e7192e087e6c5130633875c53c74606d3a4fcea24abbf0c5c4fee"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-73-2008",
    "path": "local/judet/salaj/2008/73",
    "short": "HCJ Sălaj nr. 73/2008",
@@ -104,6 +2384,66 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot732008.pdf",
      "sha256": "7ee5a4a4f1aefd055a9666e53829b4086dd177960ee2a90edca7a171a75a7efe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2008",
+   "path": "local/judet/salaj/2008/74",
+   "short": "HCJ Sălaj nr. 74/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2008 privind aprobarea Regulamentului de organizare si functionare a Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot742008.pdf",
+     "sha256": "81de8c79a7979537a622407a144c08ed01da0dafa1aa943332928bceda0e4380"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2008",
+   "path": "local/judet/salaj/2008/75",
+   "short": "HCJ Sălaj nr. 75/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2008 pentru completarea Hotararii Consiliului Judetean Salaj nr.57/2008 privind aprobarea Regulamentului de organizare si functionare a Comisiei de evaluare a persoanelor adulte cu handicap Salaj, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot752008.pdf",
+     "sha256": "29cd8267987968811b7fb235768ce8adf288ad71c239650a57c7695955541906"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2008",
+   "path": "local/judet/salaj/2008/76",
+   "short": "HCJ Sălaj nr. 76/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2008 pentru modificarea Hotararii Consiliului Judetean Salaj nr.103 din 30 noiembrie 2007 privind aprobarea pentru anul 2008, a numarului de posturi, organigramelor si statelor de functii ale institutiilor si serviciilor publice din subordinea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot762008.pdf",
+     "sha256": "9bd097fd32108c1714a0f38bd8d0548826d389962f862fbf2732e4e3e5815c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-77-2008",
+   "path": "local/judet/salaj/2008/77",
+   "short": "HCJ Sălaj nr. 77/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 77/2008 pentru modificarea Hotararii Consiliului Judetean Salaj nr.102 din 30.11.2007 peivind aprobarea pentru anul 2008, a numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot772008.pdf",
+     "sha256": "254333fa37dd5c3406219e45b68eefeb1a81b90eb79745a26680d210a84109a6"
     }
    ]
   },
@@ -123,6 +2463,246 @@
    ]
   },
   {
+   "slug": "hcj-salaj-79-2008",
+   "path": "local/judet/salaj/2008/79",
+   "short": "HCJ Sălaj nr. 79/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 79/2008 privind desemnarea reprezentantului Consiliului Judetean Salaj in Adunarea Generala a \"Asociatiei Regionale pentru Dezvoltarea Infrastructurii din Bazinul Hidrografic Somes-Tisa\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot792008.pdf",
+     "sha256": "354c2ca1e2f10151e2c3b4517697fd08d02049941ecd588d7bf08377260bded5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-8-2008",
+   "path": "local/judet/salaj/2008/8",
+   "short": "HCJ Sălaj nr. 8/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2008 privind infiintarea autoritatii de autorizare ca si compartiment in cadrul Directiei juridice si administratie locala",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot82008.pdf",
+     "sha256": "f0b2f560d68927e4addd4264fa64b4805e05708a0ffc2cd0f0f33e6e61ca56a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-80-2008",
+   "path": "local/judet/salaj/2008/80",
+   "short": "HCJ Sălaj nr. 80/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 80/2008 privind aprobarea Comisiei pentru protectia Copilului Salaj, reactualizata",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot802008.pdf",
+     "sha256": "97670e1060b4f0b9f7e5df53bd059ce69532ee6740f4113e97f608d7b504b5f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-81-2008",
+   "path": "local/judet/salaj/2008/81",
+   "short": "HCJ Sălaj nr. 81/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 81/2008 privind desemnarea reprezentantilor Consiliului Judetean Salaj pentru a face parte din comitetul de organizare al Autoritatii Teritoriale de Ordine Publica",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot812008.pdf",
+     "sha256": "427d3a99180baeeb33a657b7e024edb63be6af512a6edf9961afe7b881ea9124"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2008",
+   "path": "local/judet/salaj/2008/82",
+   "short": "HCJ Sălaj nr. 82/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2008 pentru modificarea Hotararii Consiliului Judetean Salaj nr.45 din 17 aprilie 2008 privind concesionarea, prin licitatie, a unor spatii si a terenului aferent situate in Cehu Silvaniei, str.Gh.Doja, nr.71 aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot822008.pdf",
+     "sha256": "58d92e56df04cc7104a752d2efc1968cadf8a84c8cbbccb34e29ae600a34a701"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-83-2008",
+   "path": "local/judet/salaj/2008/83",
+   "short": "HCJ Sălaj nr. 83/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 83/2008 privind reactualizarea Comisiei tehnice de amenajare a teritoriului si urbanism",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot832008.pdf",
+     "sha256": "5dac7e7cd671e21b925ef767e7c320c7e9a3fbc6f5129f04cba43ac9fb3dff81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-84-2008",
+   "path": "local/judet/salaj/2008/84",
+   "short": "HCJ Sălaj nr. 84/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 84/2008 privind incetarea, prin demisie, a mandatului de consilier judetean al d-lui Ghiurco Mircea-Stefan",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot842008.pdf",
+     "sha256": "8555d2253368aa0e82b0824fb3039862e428060e577158c64778a9bef08d8dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-85-2008",
+   "path": "local/judet/salaj/2008/85",
+   "short": "HCJ Sălaj nr. 85/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 85/2008 privind validarea mandatului unui consilier judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot852008.pdf",
+     "sha256": "8f3d77c7e4f2addc0279e801c3751c296b0065280b136c73cff63da39b90a2bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-86-2008",
+   "path": "local/judet/salaj/2008/86",
+   "short": "HCJ Sălaj nr. 86/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 86/2008 privind completarea componentei unei comisii de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot862008.pdf",
+     "sha256": "2aeacc052c257a7e4c16fd026454c70365a3cf25993400125dce5155bedb1886"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2008",
+   "path": "local/judet/salaj/2008/87",
+   "short": "HCJ Sălaj nr. 87/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2008 privind rectificarea bugetului propriu al judetului, pe anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot872008.pdf",
+     "sha256": "e18803afdea68479dd695d22abbb63160fedac538a760d214d391ecdfa6be057"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-88-2008",
+   "path": "local/judet/salaj/2008/88",
+   "short": "HCJ Sălaj nr. 88/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 88/2008 privind trecerea unor bunuri din domeniul in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot882008.pdf",
+     "sha256": "56441f5313f2c8b09aebc6da99fc063e33c92d7e5d5e16af88d101bd65047a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-89-2008",
+   "path": "local/judet/salaj/2008/89",
+   "short": "HCJ Sălaj nr. 89/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 89/2008 privind aprobarea listei spatiilor si terenurilor aferente care urmeaza sa fie vandute, aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot892008.pdf",
+     "sha256": "2c62322254ac71c6aafc7020cd5919cd485b9cd464344a8cacbcd3113c397417"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2008",
+   "path": "local/judet/salaj/2008/9",
+   "short": "HCJ Sălaj nr. 9/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2008 privind insusirea infiintarii Centrului judetean de resurse si de asistenta educationala Salaj si aprobarea finantarii acestuia",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot92008.pdf",
+     "sha256": "156451c4c587420d0ab2fceb8720d1348acb9bcf801243468483b9940eb52d9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-90-2008",
+   "path": "local/judet/salaj/2008/90",
+   "short": "HCJ Sălaj nr. 90/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 90/2008 privind desemnarea reprezentantilor Consiliului Judetean Salaj in comisia de vanzare si in comisia de solutionare a contestatiilor, in vederea vanzarii unor spatii aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot902008.pdf",
+     "sha256": "f7a57aa54f6b2ab9f35e75aea06ea50438ee853d7e8f9b8391d4b7e8d36420e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2008",
+   "path": "local/judet/salaj/2008/91",
+   "short": "HCJ Sălaj nr. 91/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2008 pentru modificarea Hotararii Consiliului Judetean Salaj nr.78 din 29.06.2006 privind trecerea unor bunuri din domeniul public in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot912008.pdf",
+     "sha256": "41138c389132b665ab5cc1140611f8150ffbba893cb7d2699daea1dfe3003fd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-92-2008",
+   "path": "local/judet/salaj/2008/92",
+   "short": "HCJ Sălaj nr. 92/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 92/2008 pentru modificarea Hotararii Consiliului Judetean Salaj nr.88 din 28.07.2006 privind incetarea activitatii Directiei judetene pentru protectia plantelor Salaj, serviciu public specializat al Consiliului judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot922008.pdf",
+     "sha256": "fbfce997c38582f71034200f16f505f522004771e9a51ebf7e70724961c1dfed"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-93-2008",
    "path": "local/judet/salaj/2008/93",
    "short": "HCJ Sălaj nr. 93/2008",
@@ -134,6 +2714,66 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot932008.pdf",
      "sha256": "f86e93807bca6917791585d94b5ee9c8ef1d9935520bc88d5b0684200442b2a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-96-2008",
+   "path": "local/judet/salaj/2008/96",
+   "short": "HCJ Sălaj nr. 96/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 96/2008 privind aprobarea Devizului general si a indicatorilor tehnico-economici pentru Studiul de fezabilitate la obiectivul de investitie \"Reabilitare drum judetean DJ 108A: DN 1F-Romanasi-CreacaJibou-Benesat\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot962008.pdf",
+     "sha256": "7626c3cc9a15bd8801b7658bf61a79ace8b1ab68dcc729830325caaaece4a5fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-97-2008",
+   "path": "local/judet/salaj/2008/97",
+   "short": "HCJ Sălaj nr. 97/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 97/2008 privind desemnarea consilierilor judeteni ca membri ai Autoritatii Teritoriale de Ordine Publica Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot972008.pdf",
+     "sha256": "79e1390e5244ddc72c565dca97694ea2ed883cadf36d8fdae908b190e3bbf078"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-98-2008",
+   "path": "local/judet/salaj/2008/98",
+   "short": "HCJ Sălaj nr. 98/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 98/2008 privind alocarea unor sume din fondul de rezerva bugetara al judetului Salaj pe anul 2008, pentru finantarea unor actiuni de interes judetean si local",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot982008.pdf",
+     "sha256": "590afec464a9a7245d1ce853c5a53ae7a962978060f1476bce7b03f03a234a2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-99-2008",
+   "path": "local/judet/salaj/2008/99",
+   "short": "HCJ Sălaj nr. 99/2008",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 99/2008 privind utilizarea sumei de 46 mii lei din fondul de rulment al judetului, in anul 2008",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=106:hotarari-2008&catid=2",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2008/hot992008.pdf",
+     "sha256": "af1949185d29d842062a9a69aa1cdd5539d814e82b7943131cbc030d47876da2"
     }
    ]
   }

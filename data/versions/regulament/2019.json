@@ -241,6 +241,21 @@
      "sha256": "984abc9f4e4065b08ff21cae223c9bc3e632a566f42ffb80ddf6578a12e91266"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-2-2019",
+   "path": "regulament/bnr/2019/2",
+   "short": "Regulament bnr nr. 2/2019",
+   "title": "Regulamentul nr. 2/2019 privind prevenirea și combaterea spălării banilor și finanțării terorismului",
+   "url": "https://www.bnr.ro/20211-regulament-2-2019",
+   "versions": [
+    {
+     "from": "2019-09-09",
+     "units": 31,
+     "source_url": "https://www.bnr.ro/20211-regulament-2-2019",
+     "sha256": "44110451bb41d0394602fb1ac4a6c18e491e19960b44afdff94b4a172b0517a8"
+    }
+   ]
   }
  ]
 }

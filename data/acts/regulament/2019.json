@@ -250,6 +250,25 @@
 "joint": []
 },
 {
+"slug": "regulament-bnr-2-2019",
+"path": "regulament/bnr/2019/2",
+"kind": "regulament",
+"year": "2019",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 2/2019 privind prevenirea și combaterea spălării banilor și finanțării terorismului",
+"short": "Regulament bnr nr. 2/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-09-09",
+"latest": "2019-09-09",
+"portal": "https://www.bnr.ro/20211-regulament-2-2019",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "regulament-bnr-4-2019",
 "path": "regulament/bnr/2019/4",
 "kind": "regulament",

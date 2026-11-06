@@ -3,6 +3,501 @@
  "shard": "local/judet/salaj/2010",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2010",
+   "path": "local/judet/salaj/2010/1",
+   "short": "HCJ Sălaj nr. 1/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2010 privind infiintarea Camerei Agricole a Judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot12010.pdf",
+     "sha256": "c7252ab1104e62bc2ac847de7744093ae47cfe24b142b255340a4ec0daca6447"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-100-2010",
+   "path": "local/judet/salaj/2010/100",
+   "short": "HCJ Sălaj nr. 100/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 100/2010 privind desemnarea unui reprezentant in Consiliul de administratie al Centrului Scolar pentru Educatie Incluziva Speranta",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1002010.pdf",
+     "sha256": "1f0429521fea7ce6ac61bb97c0f5e946f7ec668033ebd2a5f608d2fea6bc4cad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-101-2010",
+   "path": "local/judet/salaj/2010/101",
+   "short": "HCJ Sălaj nr. 101/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 101/2010 privind desemnarea unui reprezentant in Consiliul de administratie al Centrului Scolar pentru Educatie Incluziva Simleu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1012010.pdf",
+     "sha256": "a48a8b9ad54e96fcbbb323f513bc6c37c7b626ddee01f1b14fbd9a6919fdd034"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-102-2010",
+   "path": "local/judet/salaj/2010/102",
+   "short": "HCJ Sălaj nr. 102/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 102/2010 privind numirea directorului interimar la Muzeul Judetean de Istorie si Arta Zalau",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1022010.pdf",
+     "sha256": "8905246406bf3fcfb1d5dd777517c52df25b6fd856d7eb53dde80fe857d7b0f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-103-2010",
+   "path": "local/judet/salaj/2010/103",
+   "short": "HCJ Sălaj nr. 103/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 103/2010 privind solicitarea transmiterii dreptului de administrare asupra unui imobil",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-15",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1032010.pdf",
+     "sha256": "8f33ef82fed8a83b53ad4944c4c844315abdc48a3584d2561351b0b894267122"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-104-2010",
+   "path": "local/judet/salaj/2010/104",
+   "short": "HCJ Sălaj nr. 104/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 104/2010 privind rectificarea bugetului propriu al judetului pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1042010.pdf",
+     "sha256": "d47b5c88cc0354bfc6727faa7e8aa2590d4c165adcb98a6de56ac30f4e9e32e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-105-2010",
+   "path": "local/judet/salaj/2010/105",
+   "short": "HCJ Sălaj nr. 105/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 105/2010 privind aprobarea bugetului de venituri si cheltuieli al Centrului de Cultura si Arta al Judetului Salaj pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1052010.pdf",
+     "sha256": "78f42bdb3c8e1e5bf124607649324eb663fd0369723ea4858d33f622159fb4f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-106-2010",
+   "path": "local/judet/salaj/2010/106",
+   "short": "HCJ Sălaj nr. 106/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 106/2010 privind aprobarea Programului pentru pregatirea si intretinerea drumurilor judetene din administrarea Consiliului Judetean Salaj, pentru perioada de iarna 2010-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1062010.pdf",
+     "sha256": "6e0a79f707d22a5e8b824388d02110efb2878c5f1df9c2aa7d4cfd4db77882ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-107-2010",
+   "path": "local/judet/salaj/2010/107",
+   "short": "HCJ Sălaj nr. 107/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 107/2010 privind aprobarea documentatiei tehnico-economice pentru realizarea lucrarilor de reabilitare si modernizare a unor spatii situate in municipiul Zalau, strada Unirii, nr.3, inchiriate Asociatiei Regionale pentru Dezvoltarea Infrastructurii din Bazinul Hidrogr",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1072010.pdf",
+     "sha256": "3665c216d87b19a3b64cacda34348324c90da0c5e4bd3bd20d1e23959465f648"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-108-2010",
+   "path": "local/judet/salaj/2010/108",
+   "short": "HCJ Sălaj nr. 108/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2010 privind numirea directorului interimar la Centrul de Cultura si Arta al Judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1082010.pdf",
+     "sha256": "1a906e24273757995ea8510b376fa6286bda338321635d3c11ec882644535372"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-109-2010",
+   "path": "local/judet/salaj/2010/109",
+   "short": "HCJ Sălaj nr. 109/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 109/2010 privind desemnarea reprezentantilor Consiliului Judetean in Consiliul de administratie al Muzeului Judetean de Istorie si Arta Zalau",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1092010.pdf",
+     "sha256": "7b0c4534ec9c4aa460586c2cb7887f082acd92d5a6cd3304ad70bef05c4b3f45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2010",
+   "path": "local/judet/salaj/2010/11",
+   "short": "HCJ Sălaj nr. 11/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2010 privind incetarea mandatului unui membru al Autoritatii Teritoriale de Ordine Publica Salaj, validarea mandatului noului membru si al presedintelui acesteia",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot112010.pdf",
+     "sha256": "58e5964bb9d22328e4aa5ad338e5e575d0f9d99418004f2b679beb166d59fe11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-110-2010",
+   "path": "local/judet/salaj/2010/110",
+   "short": "HCJ Sălaj nr. 110/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 110/2010 privind aprobarea pachetului minim social pe relatia de transport Marghita - Sarmasag, pentru anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1102010.pdf",
+     "sha256": "f85ce9976296c3d88b6197281702b506b4c01f9cd7b97cb864ea3afd530d3e24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2010",
+   "path": "local/judet/salaj/2010/111",
+   "short": "HCJ Sălaj nr. 111/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2010 privind actualizarea Programului judetean de transport public de persoane, prin servicii regulate in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1112010.pdf",
+     "sha256": "934075bbe06972492a9a00d602b7c38f186d9b081d35f977c82c5ffa3f38aac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2010",
+   "path": "local/judet/salaj/2010/112",
+   "short": "HCJ Sălaj nr. 112/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2010 pentru completarea Hotararii Consiliului Judetean Salaj nr. 62 din 26 octombrie 1999, privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1122010.pdf",
+     "sha256": "541d15855286e08a7c5265db3c62406b8aa5d171099b206bdb6542839c2228c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-113-2010",
+   "path": "local/judet/salaj/2010/113",
+   "short": "HCJ Sălaj nr. 113/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 113/2010 privind darea in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj a unor bunuri imobile aflate in domeniul public al Judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1132010.pdf",
+     "sha256": "1f73a448d9815988953502a1d0fae4624f834c5a2703516660d94511f00fbfca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-115-2010",
+   "path": "local/judet/salaj/2010/115",
+   "short": "HCJ Sălaj nr. 115/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 115/2010 privind rectificarea bugetului propriu al judetului, pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1152010.pdf",
+     "sha256": "13e81b536449fe227cf41083bd7cff8f9a52d38bd6d9e4ff921eeaad658974b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-117-2010",
+   "path": "local/judet/salaj/2010/117",
+   "short": "HCJ Sălaj nr. 117/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 117/2010 privind darea in folosinta gratuita, pe termen limitat, Agentiei de Dezvoltare Regionala Nord-Vest a unor spatii, din imobilul situat in municipiul Zalau, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1172010.pdf",
+     "sha256": "f2920eaa82ddcbbc8fffd6c1214e671fa31cbaee2e613fc95c1065f50a6bdb17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-118-2010",
+   "path": "local/judet/salaj/2010/118",
+   "short": "HCJ Sălaj nr. 118/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 118/2010 privind darea in folosinta gratuita, pe termen limitat, Muzeului Judetean de Istorie si Arta - Zalau, a unor spatii din imobilul situat in municipiul Zalau, str. Unirii, nr. 7, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1182010.pdf",
+     "sha256": "4eeb246de7509abe8dd64fb30c41e48fd5162e52ed4b76cf602df48e4227a3c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-119-2010",
+   "path": "local/judet/salaj/2010/119",
+   "short": "HCJ Sălaj nr. 119/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 119/2010 privind inchirierea unor spatii, in suprafata de 281 mp, si a terenului aferent, in suprafata de 1984 mp, situate in orasul Simleu Silvaniei, str. T.Vladimirescu, nr. 47, aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1192010.pdf",
+     "sha256": "b5dd96edd86c73042f89bbcb9284b6b409a57002c9168d32735a9a19d6f1978a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2010",
+   "path": "local/judet/salaj/2010/12",
+   "short": "HCJ Sălaj nr. 12/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2010 privind actualizarea Programului de transport rutier de persoane prin servicii regulate, in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot122010.pdf",
+     "sha256": "55dea6b781d14d4ae0ff7a4c0920104e347114755e51a8167be0fa911ba7b610"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-120-2010",
+   "path": "local/judet/salaj/2010/120",
+   "short": "HCJ Sălaj nr. 120/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 120/2010 pentru modificarea Hotararii Consiliului Judetean Salaj nr. 125 din 12 septembrie 2008 privind vanzarea unor spatii aflate in domeniul privat al judetului, cu modificarile ulterioare",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1202010.pdf",
+     "sha256": "f6295d1890bf541e277add9d735ee04861e95a9b78796ea67d0be93b0fdc38bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-121-2010",
+   "path": "local/judet/salaj/2010/121",
+   "short": "HCJ Sălaj nr. 121/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 121/2010 privind declararea utilitatii publice a lucrarilor de interes local \"Extindere si reabilitare retele de apa potabila la satele apartinatoare orasului Jibou\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1212010.pdf",
+     "sha256": "0ae4ebd8fa86fd56e10d5d4bf69f72e05faea583c2f725f30914fbffaf59dbe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-122-2010",
+   "path": "local/judet/salaj/2010/122",
+   "short": "HCJ Sălaj nr. 122/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 122/2010 privind actualizarea Programului judetean de transport public de persoane, prin curse regulate, pe perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1222010.pdf",
+     "sha256": "ad0ab5aa1b6b1aa2c7a7bc8514ecd174e6ba6ebe1287d7020ffbb475514550fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-124-2010",
+   "path": "local/judet/salaj/2010/124",
+   "short": "HCJ Sălaj nr. 124/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 124/2010 privind desemnarea reprezentantilor Consiliului judetean in Consiliul de administratie al Centrului de Cultura si Arta al Judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1242010.pdf",
+     "sha256": "87a5146bad412917a82565972951008bdc6ff63e6a09ebec3d9de9bccf2a16c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-125-2010",
+   "path": "local/judet/salaj/2010/125",
+   "short": "HCJ Sălaj nr. 125/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 125/2010 privind aprobarea Programului de investitii, modernizari, reparatii, intretinere si inlocuire de bunuri la S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1252010.pdf",
+     "sha256": "e5e03ecec26e170f201ee2be1f0bdf56cc3866ebd886eab0cc49f5e250e93bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-126-2010",
+   "path": "local/judet/salaj/2010/126",
+   "short": "HCJ Sălaj nr. 126/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 126/2010 pentru modificarea si completarea Hotararii Consiliului Judetean Salaj nr.27/2010 privind stabilirea criteriilor de repartizare pe unitati administrativ-teritoriale a cotei de 20% din impozitul pe venit si din sumele defalcate din unele venituri ale bugetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1262010.pdf",
+     "sha256": "3ff37b1434148d5cf554819aae4d58e7ae899e97d8aa21d592aa8a158b8d8c8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-127-2010",
+   "path": "local/judet/salaj/2010/127",
+   "short": "HCJ Sălaj nr. 127/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 127/2010 privind rectificarea bugetului propriu al judetului pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1272010.pdf",
+     "sha256": "286d71b543cf23c935a2b5f37fdb53637f623ea465fd7ec598dc3119f9fd9098"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-129-2010",
+   "path": "local/judet/salaj/2010/129",
+   "short": "HCJ Sălaj nr. 129/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 129/2010 privind solicitarea transmiterii dreptului de proprietate asupra unui imobil aflat in domeniul public al statului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1292010.pdf",
+     "sha256": "b24c8eb2efd6992c0d0b0cd9131c429fbc96e3832c1c723591ad50da897d6f13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2010",
+   "path": "local/judet/salaj/2010/13",
+   "short": "HCJ Sălaj nr. 13/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2010 privind insusirea propunerii Consiliului local al comunei Horoatu Crasnei de modificare a incadrarii unor ulite si drumuri vicinale in categoria functionala a drumurilor comunale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot132010.pdf",
+     "sha256": "ce4a53cf924d13b01a31b456bb0a204e4c79d6b48fca9cb8c6e83128529a2d44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-130-2010",
+   "path": "local/judet/salaj/2010/130",
+   "short": "HCJ Sălaj nr. 130/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 130/2010 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, str.Unirii, nr. 7, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1302010.pdf",
+     "sha256": "3fde4edee51b70b3457e94e3d985424c528888047e0e426034ed94cd956552ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-131-2010",
+   "path": "local/judet/salaj/2010/131",
+   "short": "HCJ Sălaj nr. 131/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 131/2010 privind darea in folosinta gratuita, pe termen limitat, Asociatiei Fostilor Detinuti Politici Salaj, a unui spatiu din imobilul situat in municipiul Zalau, strada Unirii, nr. 7, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1312010.pdf",
+     "sha256": "89d992863544b8fd02a2cc9571c1fe550d7dc04ce6f8791589cfe0602515ed81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-132-2010",
+   "path": "local/judet/salaj/2010/132",
+   "short": "HCJ Sălaj nr. 132/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 132/2010 privind concesionarea unor spatii si a terenului aferent, situate in orasul Cehu Silvaniei, strada Gh. Doja, nr. 71",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1322010.pdf",
+     "sha256": "9c9fca0e4a9e5035f447c93baab5368b3907d42a57fd0c4767a90730f0da57b8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-133-2010",
    "path": "local/judet/salaj/2010/133",
    "short": "HCJ Sălaj nr. 133/2010",
@@ -14,6 +509,36 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1332010.pdf",
      "sha256": "e506ebfe71f5f0d0ff15805ad7263ba03370be959f54576afb92476e8c753916"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-136-2010",
+   "path": "local/judet/salaj/2010/136",
+   "short": "HCJ Sălaj nr. 136/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 136/2010 privind actualizarea Programului judetean de transport public de persoane, prin curse regulate, pe perioada 2008 - 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1362010.pdf",
+     "sha256": "6f32750e77c6f791a5172298cc92e16f1d806ffc3e0d1b571720bcfb70eb16f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-137-2010",
+   "path": "local/judet/salaj/2010/137",
+   "short": "HCJ Sălaj nr. 137/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 137/2010 privind rectificarea bugetului propriu al judetului, pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1372010.pdf",
+     "sha256": "ecb4764b06be5970ebfb90f148e7e0b31c8e66c55b9668ebf4c1328b11de6a8c"
     }
    ]
   },
@@ -33,6 +558,156 @@
    ]
   },
   {
+   "slug": "hcj-salaj-139-2010",
+   "path": "local/judet/salaj/2010/139",
+   "short": "HCJ Sălaj nr. 139/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 139/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1392010.pdf",
+     "sha256": "83bb48c1cbf21bcca769e710a27d856b8b68204d9170223442bccc9c8aaf555c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2010",
+   "path": "local/judet/salaj/2010/14",
+   "short": "HCJ Sălaj nr. 14/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2010 privind alocarea unor sume din fondul de rulment al Judetului Salaj, pentru finantarea unor lucrari de interes judetean, pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot142010.pdf",
+     "sha256": "fe550b041ee9b52ea7de7459d3416a03e5768bab9c9e9b9c3a100ad8caf40132"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-140-2010",
+   "path": "local/judet/salaj/2010/140",
+   "short": "HCJ Sălaj nr. 140/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 140/2010 privind aprobarea prelungirii duratei de derulare a Programului de finantare a activitatilor de asistenta sociala prestate de unitatile de cult in judet, pentru anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1402010.pdf",
+     "sha256": "2458701e215ed4ae6f715b7a8054cd7dbaf022bafa9cd42bce909dbb411f1588"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-141-2010",
+   "path": "local/judet/salaj/2010/141",
+   "short": "HCJ Sălaj nr. 141/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 141/2010 privind infiintarea societatii comerciale cu raspundere limitata \"Paza Obiective si Interventie\", prin reorganizarea Directiei de Paza, Protocol si Administrativ Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1412010.pdf",
+     "sha256": "55a6eb31a4c1809871241f3cf2deccb530e6e17de5987a8902a0bb6070531e6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-142-2010",
+   "path": "local/judet/salaj/2010/142",
+   "short": "HCJ Sălaj nr. 142/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 142/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1422010.pdf",
+     "sha256": "6d77431b68e0584c5581eeb9b6c2246a5a07bb7800514e7cd9ce05d11abc89e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-143-2010",
+   "path": "local/judet/salaj/2010/143",
+   "short": "HCJ Sălaj nr. 143/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 143/2010 privind retragerea dreptului de administrare conferit Directiei de Paza, Protocol si Administrativ Salaj asupra unor bunuri din domeniul public si privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1432010.pdf",
+     "sha256": "6e3ae49b325725474267a2b7ce27c624a8493f4c38b553b3ed97536ddc486e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-144-2010",
+   "path": "local/judet/salaj/2010/144",
+   "short": "HCJ Sălaj nr. 144/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 144/2010 privind aprobarea unor masuri necesare reorganizarii Directiei de Paza, Protocol si Administrativ Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1442010.pdf",
+     "sha256": "0f33b54f86915b266d8e69ae59e078d50458aa63f32db9f72f0a031d573bb373"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-145-2010",
+   "path": "local/judet/salaj/2010/145",
+   "short": "HCJ Sălaj nr. 145/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 145/2010 privind delegarea unor servicii comunitare de utilitate publica catre S.C.\"Paza Obiective si Interventie\" S.R.L",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1452010.pdf",
+     "sha256": "31a12aa5fcd55c4fa6daff348c83e5555c190f7ec270540b8e63554902d86f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-146-2010",
+   "path": "local/judet/salaj/2010/146",
+   "short": "HCJ Sălaj nr. 146/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 146/2010 pentru modificarea Hotararii Consiliului Judetean Salaj nr.82 din 30.07.2010 privind aprobarea numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1462010.pdf",
+     "sha256": "dd66658e1bb7d60f465dfea2cb58152aa2b931658176b630f94cfda1e6c85184"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-147-2010",
+   "path": "local/judet/salaj/2010/147",
+   "short": "HCJ Sălaj nr. 147/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 147/2010 privind inlocuirea unui membru al Comisiei de Evaluare a Persoanelor Adulte cu Handicap Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot1472010.pdf",
+     "sha256": "1f94abafcc92866b0d91ddf2fbada629050ffb2914d38f964832c252f1bfe4e2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-15-2010",
    "path": "local/judet/salaj/2010/15",
    "short": "HCJ Sălaj nr. 15/2010",
@@ -44,6 +719,471 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot152010.pdf",
      "sha256": "3ef4a78a3a28431fd3b65efbd3a558266dcb9f5fd0d781b5fcc382b515f4197b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2010",
+   "path": "local/judet/salaj/2010/17",
+   "short": "HCJ Sălaj nr. 17/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2010 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Sediu Centru de Integrare prin Terapie ocupationala Jibou\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot172010.pdf",
+     "sha256": "d62d978578f4a3eaf93d06cfdd2f76e69ca6c810346e8baafd4293200d0f9338"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-18-2010",
+   "path": "local/judet/salaj/2010/18",
+   "short": "HCJ Sălaj nr. 18/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2010 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitii \"Sediu administrativ al judetului Salaj si biblioteca\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot182010.pdf",
+     "sha256": "10e4454d3d81ab4153fbc62c8acdf359bb702f032722948cef11d5200832303a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2010",
+   "path": "local/judet/salaj/2010/19",
+   "short": "HCJ Sălaj nr. 19/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2010 privind inchirierea unor spatii situate in municipiul Zalau, str.Pacii, nr.10, aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot192010.pdf",
+     "sha256": "f4c0e9a9c8e84adf4894f76156393126c892eec58bf806df0fd4e82543d5cd11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2010",
+   "path": "local/judet/salaj/2010/2",
+   "short": "HCJ Sălaj nr. 2/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2010 privind stabilirea contributiei lunare de intretinere in centrele rezidentiale pentru persoane cu handicap din structura Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot22010.pdf",
+     "sha256": "d8b295ffff49d6317042b110a348bb57d58500b72181576526067594216675eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2010",
+   "path": "local/judet/salaj/2010/20",
+   "short": "HCJ Sălaj nr. 20/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2010 privind inchirierea unui spatiu din imobilul situat in municipiul zalau, str. Unirii, nr.20, aflat in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot202010.pdf",
+     "sha256": "d69937989839d2c2b0eb129bd16e4cd6040c4d73a1e73fe5de98c4e5a08474f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-21-2010",
+   "path": "local/judet/salaj/2010/21",
+   "short": "HCJ Sălaj nr. 21/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 21/2010 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, str. Unirii, nr.7, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot212010.pdf",
+     "sha256": "e2841727214eac40c0887f4efcb35da6a2e667841d6e3157130196bf3b68be43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-22-2010",
+   "path": "local/judet/salaj/2010/22",
+   "short": "HCJ Sălaj nr. 22/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2010 privind aprobarea numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot222010.pdf",
+     "sha256": "aaee1d3ad92836d4f7b8a04c65f9b3a9fbf4bccb9e50ddabad798e6f823740d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-23-2010",
+   "path": "local/judet/salaj/2010/23",
+   "short": "HCJ Sălaj nr. 23/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2010 privind aprobarea numarului de posturi, organigramei si statului de functii la Directia Judeteana de Evidenta a Persoanelor Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot232010.pdf",
+     "sha256": "58d2141386e7e6941e26d01b12d8591b98337a7f9c30c5e4063ff4539e779b0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2010",
+   "path": "local/judet/salaj/2010/24",
+   "short": "HCJ Sălaj nr. 24/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2010 privind aprobarea numarului de posturi, organigramei si statului de functii ale Camerei Agricole a Judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot242010.pdf",
+     "sha256": "7bc2d8c8a8e53ff412b78930aa8e8e6aed38dee10575d494b634486d04ea9dba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2010",
+   "path": "local/judet/salaj/2010/25",
+   "short": "HCJ Sălaj nr. 25/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2010 privind aprobarea numarului de posturi, organigramei si statului de functii ale Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot252010.pdf",
+     "sha256": "62db1f228e1df8958f1e52e6a448fc2f48282597a048d0c76b5d3faaa27cbf75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2010",
+   "path": "local/judet/salaj/2010/26",
+   "short": "HCJ Sălaj nr. 26/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2010 privind aprobarea numarului de posturi, organigramelor si statelor de functii ale institutiilor si serviciilor din subordinea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot262010.pdf",
+     "sha256": "91c3fe491d94582af87e1f86c927e4363f73fd2989a835c798bb94271b752e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2010",
+   "path": "local/judet/salaj/2010/28",
+   "short": "HCJ Sălaj nr. 28/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2010 privind aprobarea bugetului propriu al judetului si al institutiilor si serviciilor publice subordonate Consiliului Judetean pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot282010.pdf",
+     "sha256": "fbcc37f355201e157effcde0c775aca916986629ce000fdf8bc508c3eb630e34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2010",
+   "path": "local/judet/salaj/2010/29",
+   "short": "HCJ Sălaj nr. 29/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2010 privind actualizarea Programului de transport rutier de persoane prin servicii regulate, in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot292010.pdf",
+     "sha256": "54e9fa6bf19882709d2daaf9423c3910c0da1ca18cdf06eab88eeaa293b77261"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2010",
+   "path": "local/judet/salaj/2010/3",
+   "short": "HCJ Sălaj nr. 3/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2010 privind reorganizarea Complexului de Servicii Sociale pentru Persoane Adulte cu Handicap Crasna in Centru de Ingrijire si Asistenta pentru Persoane Adulte cu Handicap Crasna",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot32010.pdf",
+     "sha256": "34a5af07064f831f399e3b868467a7dec9f6404e762a6d5a33d2c7e25213b8aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2010",
+   "path": "local/judet/salaj/2010/30",
+   "short": "HCJ Sălaj nr. 30/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2010 pentru modificarea Hotararii Consiliului Judetean Salaj nr.80 din 14 iulie 2008, reactualizata, privind aprobarea Comisiei pentru Protectia Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot302010.pdf",
+     "sha256": "cbd83ada7f7457e6916a027add04415e4752033dff46dcbedceb040a091b2fea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-31-2010",
+   "path": "local/judet/salaj/2010/31",
+   "short": "HCJ Sălaj nr. 31/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 31/2010 privind rectificarea bugetului propriu al judetului pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot312010.pdf",
+     "sha256": "be0a262df3996db831aa827d45fe6d46f12c7676a7bcdf4c1b150207fb79399e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-32-2010",
+   "path": "local/judet/salaj/2010/32",
+   "short": "HCJ Sălaj nr. 32/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 32/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot322010.pdf",
+     "sha256": "1623f24dde4e5f39f8b8e80c75126fa79a4e13760240d92e0e6f2ade4a07d012"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-33-2010",
+   "path": "local/judet/salaj/2010/33",
+   "short": "HCJ Sălaj nr. 33/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 33/2010 privind alocarea unor sume din fondul de rulment al Consiliului Judetean Salaj, pentru finantarea unei actiuni de interes judetean, pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot332010.pdf",
+     "sha256": "ada4dca4f00f3f4ba065cb94eaff86c3351b7b6723f1366d4f71bbafb324c89b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-34-2010",
+   "path": "local/judet/salaj/2010/34",
+   "short": "HCJ Sălaj nr. 34/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 34/2010 privind aprobarea Programului de finantare a activitatilor de asistenta sociala prestate de unitatile de cult din judet pentru anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot342010.pdf",
+     "sha256": "32210cf5a2516e5343211738a0d0b72585a53277a7b6fa77ae73540733621ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-35-2010",
+   "path": "local/judet/salaj/2010/35",
+   "short": "HCJ Sălaj nr. 35/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 35/2010 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Asfaltare Drum Judetean DJ 103 N, km 6+600 - 12+515, Sector Jebucu-Sfaras-DN 1G\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot352010.pdf",
+     "sha256": "c95680e0907fba4f6102e9d4283c76d2b9ec4db842b3d357b7454bbd72e245f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2010",
+   "path": "local/judet/salaj/2010/36",
+   "short": "HCJ Sălaj nr. 36/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2010 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Asfaltare Drum Judetean DJ 108N, km 18+900 - 28+000, Mesteacan\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot362010.pdf",
+     "sha256": "68cde4913f3bb992c3052b4e34335bedfe861d17de0a332871164e1742479472"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2010",
+   "path": "local/judet/salaj/2010/37",
+   "short": "HCJ Sălaj nr. 37/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2010 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Imbracaminte asfaltica usoara pe DJ 109 R: Galpiia-Romita, km 2+500 - 7+550\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot372010.pdf",
+     "sha256": "e1d51020f2a19d7be3d528dccc16f588b7f443d4d98b83b1803a860c31b4579f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-38-2010",
+   "path": "local/judet/salaj/2010/38",
+   "short": "HCJ Sălaj nr. 38/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 38/2010 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Imbracaminte asfaltica usoara pe Drumul Judetean DJ 110B, km 4+250 - 8+750, Badacin - Ilisua\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot382010.pdf",
+     "sha256": "f136c6229b36f09c2f46a2d69d0c469fc86250e5e24773667ba9ab0964e89499"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-39-2010",
+   "path": "local/judet/salaj/2010/39",
+   "short": "HCJ Sălaj nr. 39/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 39/2010 privind incredintarea executarii unor actiuni si lucrari, in regim de urgenta, Directiei de Paza, Protocol si Administrativ Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot392010.pdf",
+     "sha256": "30da2cce1bc4fad43a3db0ba9bf32b3c4c419a5e9699631c1158f7836c65f54b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2010",
+   "path": "local/judet/salaj/2010/4",
+   "short": "HCJ Sălaj nr. 4/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2010 privind reorganizarea Complexului de Servicii Sociale pentru Persoane Adulte cu handicap Neuropsihiatric Jibou in Centru de Recuperare si reabilitare Neuropsihiatrica Jibou",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot42010.pdf",
+     "sha256": "72a4cc1e2f9a3b31b84e25a89c2f805f3d9459b63154ceb49ed7f748f11891f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-40-2010",
+   "path": "local/judet/salaj/2010/40",
+   "short": "HCJ Sălaj nr. 40/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 40/2010 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, strada Kossuth, nr.71, aflat in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot402010.pdf",
+     "sha256": "13661f09270a3cbc3403e11d8ed8e4dbc3d3c2a9c6bf277da3cc5b4f895a7e6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-41-2010",
+   "path": "local/judet/salaj/2010/41",
+   "short": "HCJ Sălaj nr. 41/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 41/2010 privind darea in administrarea Directiei de Paza, Protocol si Administrativ Salaj, a imobilului situat in municipiul Zalau, str. Nazuintei, nr.10",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot412010.pdf",
+     "sha256": "89fb50c3da3205128681b92ca3d5fc428d764aed51479d5b94a031c7da55e509"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-42-2010",
+   "path": "local/judet/salaj/2010/42",
+   "short": "HCJ Sălaj nr. 42/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 42/2010 pentru completarea Hotararii Consiliului Judetean Salaj nr.21/2005 privind incetarea concesiunii unor bunuri, trecerea lor din domeniul public in domeniul privat al judetului si conservarea acestora pana la data valorificarii",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot422010.pdf",
+     "sha256": "e4a87eee777432f74525c9c40f32ed646290c496127a9d139b70d9d8f9e9b0a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2010",
+   "path": "local/judet/salaj/2010/43",
+   "short": "HCJ Sălaj nr. 43/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2010 pentru completarea Hotararii Consiliului Judetean Salaj nr.85/2006 privind transmiterea, fara plata, a bunurilor apartinand Statiei de apa industriala Jibou, aflate in proprietatea privata a judetului Salaj, catre municipiul Zalau, orasul Jibou si coumunele Mirsid",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot432010.pdf",
+     "sha256": "0cda315c0ec2e30bd344cc092885093ed4f77c14fbb75b20a0845e451b2affe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2010",
+   "path": "local/judet/salaj/2010/44",
+   "short": "HCJ Sălaj nr. 44/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2010 privind aprobarea statutului actualizat al asociatiei \"HANDBAL CLUB Zalau\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot442010.pdf",
+     "sha256": "0a4adb8d2c13b023e9591b6f58f0332bded3b7f9bd34627005c93dd88d3b4619"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2010",
+   "path": "local/judet/salaj/2010/45",
+   "short": "HCJ Sălaj nr. 45/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2010 privind aprobarea statutului actualizat al asociatiei \"Club Sportiv REMAT ZALAU\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot452010.pdf",
+     "sha256": "379d6a7fd6f54d2d662b9ca001483b0dedbeb81620b8ebb5a5ae42c6f2b5646f"
     }
    ]
   },
@@ -63,6 +1203,231 @@
    ]
   },
   {
+   "slug": "hcj-salaj-47-2010",
+   "path": "local/judet/salaj/2010/47",
+   "short": "HCJ Sălaj nr. 47/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 47/2010 privind aprobarea regulamentului de organizare si functionare al Directiei de Paza, Protocol si Administrativ Salaj, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot472010.pdf",
+     "sha256": "c85c951145cf7daad3e664f42025ced1d98a0719dfadd00383497414fc1dd559"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2010",
+   "path": "local/judet/salaj/2010/49",
+   "short": "HCJ Sălaj nr. 49/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2010 privind actualizarea Programului de transport rutier de persoane, prin servicii regulate, in trafic judetean, pentru perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot492010.pdf",
+     "sha256": "aa27b508ea6bcf9ac6fa174c450dbd70a38976e87b31797c822808d15abd2243"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2010",
+   "path": "local/judet/salaj/2010/5",
+   "short": "HCJ Sălaj nr. 5/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2010 privind aprobarea Planului Judetean de gestionare a Deseurilor pentru judetul Salaj, actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot52010.pdf",
+     "sha256": "f3a4fa737d4a5c1a60f3c6f9cf2153db6e12ef22afe91702281089cefe4bee05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2010",
+   "path": "local/judet/salaj/2010/50",
+   "short": "HCJ Sălaj nr. 50/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2010 privind aprobarea acordului de asociere intre Judetul Salaj si comunele din judet, pentru realizarea unor lucrari de toaletizare a drumurilor judetene",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot502010.pdf",
+     "sha256": "17162ebeb7a639fb32d0945cd5140f881630fe33f0a6bd9605c066a4fbdb46f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-2010",
+   "path": "local/judet/salaj/2010/51",
+   "short": "HCJ Sălaj nr. 51/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/2010 privind desemnarea a doli reprezentanti ai Judetului Salaj - Consiliului Judetean Salaj, in Consiliul director al Asociatiei \"Pactul Regional Nord-Vest pentru Ocupare si Incluziune Sociala\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot512010.pdf",
+     "sha256": "aa0d27bd0a0e2b46a4ba8e4f0e80ca6a66d4ea20e8e4f0229a52fdaec3b7bbcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2010",
+   "path": "local/judet/salaj/2010/52",
+   "short": "HCJ Sălaj nr. 52/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2010 privind aprobarea Contului de incheiere a exercitiului bugetar aferent bugetului propriu al judetului si al institutiilor si serviciilor publice subordonate Consiliului Judetean, pe anul 2009",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot522010.pdf",
+     "sha256": "e9836a6dadb410124a8e9d59377ba25faa746005a5531ae3e85d5e9668c20efa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-53-2010",
+   "path": "local/judet/salaj/2010/53",
+   "short": "HCJ Sălaj nr. 53/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 53/2010 privind rectificarea bugetului propriu al judetului, pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot532010.pdf",
+     "sha256": "14176c84af45beb654a9ae413cde0c6b99f2a6dd1a34b0a86daa564a8914f19f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-56-2010",
+   "path": "local/judet/salaj/2010/56",
+   "short": "HCJ Sălaj nr. 56/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 56/2010 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, str.Torentului, bl.T3-5, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot562010.pdf",
+     "sha256": "035e5213dbc879b5d5c2054e379003bcc64342890fb86ee4f9dfb635cca7bb3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2010",
+   "path": "local/judet/salaj/2010/57",
+   "short": "HCJ Sălaj nr. 57/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2010 privind aprobarea documentatiei tehnico-economice pentru realizarea lucrarilor de inchidere si conservare a unor spatii situate in municipiul Zalau, strada Lt.Col.Pretorian, nr.100, concesionate de catre S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot572010.pdf",
+     "sha256": "b72602c8956486f53b8d0c9d41a75c673072a76540acaa6b70cefb0839785e6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2010",
+   "path": "local/judet/salaj/2010/58",
+   "short": "HCJ Sălaj nr. 58/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2010 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Asfaltare Drum Judetean DJ 110B: km 26+507-43+855, Bobota-Zalnoc-Camar-DJ 109P, Judetul Salaj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot582010.pdf",
+     "sha256": "09e0984f2c931e624810a94aaf031b62f15c5743539463baf0272599e5dd4536"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2010",
+   "path": "local/judet/salaj/2010/59",
+   "short": "HCJ Sălaj nr. 59/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2010 privind aprobarea acordului de colaborare intre judetul Bihor si Judetul Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot592010.pdf",
+     "sha256": "04e4a5b6a68de09692154b36f81e95ea48c7b99fa0fd9fd1b59f30c60dcd278e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2010",
+   "path": "local/judet/salaj/2010/6",
+   "short": "HCJ Sălaj nr. 6/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2010 privind darea in folosinta gratuita, pe termen limitat, Agentiei de Dezvoltare Regionala Nord-Vest, a unui spatiu din imobilul situat in municipiul Zalau, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot62010.pdf",
+     "sha256": "019caa37b19dbd02832ac68d8893a0e42aa811aac16913496df1b1eb896ee77e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2010",
+   "path": "local/judet/salaj/2010/60",
+   "short": "HCJ Sălaj nr. 60/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2010 privind actualizarea Programului judetean de transport public de persoane, prin curse regulate, pe perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot602010.pdf",
+     "sha256": "56879a96268eecbbad08ccacba8b07709461bce13a59546bfe05225206f92b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-61-2010",
+   "path": "local/judet/salaj/2010/61",
+   "short": "HCJ Sălaj nr. 61/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 61/2010 privind aprobarea statutului actualizat al asociatiei \"HANDBAL CLUB Zalau\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot612010.pdf",
+     "sha256": "f27a8e581ccff3fc72e98e834b80e8bbb757e93af3092e23f409ef6d83f4f9ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2010",
+   "path": "local/judet/salaj/2010/62",
+   "short": "HCJ Sălaj nr. 62/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2010 privind rectificarea bugetului propriu al judetului pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot622010.pdf",
+     "sha256": "0315de35970e73ac7b7bfd639cc31e93c191ab5a4855984cb9fbc54038c310f8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-63-2010",
    "path": "local/judet/salaj/2010/63",
    "short": "HCJ Sălaj nr. 63/2010",
@@ -74,6 +1439,111 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot632010.pdf",
      "sha256": "eef26794131a9db4892f217d71fa5bf8d56aaeefe1024b4b4c3369dcc83f522a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2010",
+   "path": "local/judet/salaj/2010/64",
+   "short": "HCJ Sălaj nr. 64/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2010 privind inchirierea unui spatiu si a terenului aferent situate in orasul Simleu-Silvaniei, str. Horea, aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot642010.pdf",
+     "sha256": "978891d9ef1bdcc18049e782f5955f80e81305faa3007d49488bb2cfbd762700"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2010",
+   "path": "local/judet/salaj/2010/65",
+   "short": "HCJ Sălaj nr. 65/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2010 privind inchirierea unor terenuri situate in comuna Mirsid si comuna Creaca, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot652010.pdf",
+     "sha256": "304e08690398d75b4bc9b00ef17f153213f072631fe9fe7ac883828ab5e41510"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2010",
+   "path": "local/judet/salaj/2010/66",
+   "short": "HCJ Sălaj nr. 66/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2010 pentru completarea Hotararii Consiliului Judetean Salaj nr.125 din 12 septembrie 2008, privind vanzarea unor spatii aflate in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot662010.pdf",
+     "sha256": "88235ab5160cc677f3003017aea5b20033d7542de76124ffa4ee7b8316773eb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2010",
+   "path": "local/judet/salaj/2010/67",
+   "short": "HCJ Sălaj nr. 67/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2010 privind actualizarea Programului judetean de transport public de persoane, prin curse regulate, pe perioada 2008 - 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot672010.pdf",
+     "sha256": "39774c3aafcd5a94d5ce4e5f82159d7398031e961fecda1a95bb20ccebbd1d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-68-2010",
+   "path": "local/judet/salaj/2010/68",
+   "short": "HCJ Sălaj nr. 68/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 68/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot682010.pdf",
+     "sha256": "361555b40eb0a02e8684a75400ebb93ca2ac8ac4a3c400fe5ed70922c7da3006"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2010",
+   "path": "local/judet/salaj/2010/7",
+   "short": "HCJ Sălaj nr. 7/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2010 privind retragerea dreptului de administrare conferit Spitalului Judetean de Urgenta Zalau pentru spatiile situate in municipiul Zalau, str. Torentului, bl.T3-5, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot72010.pdf",
+     "sha256": "4fae2a4c1377c2806917cd842960ee976850cd715f652bd03fc45c0b8406af26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-70-2010",
+   "path": "local/judet/salaj/2010/70",
+   "short": "HCJ Sălaj nr. 70/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 70/2010 privind rectificarea bugetului propriu al judetului pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot702010.pdf",
+     "sha256": "05ff80f4f3b9649abd288310d3c1beeed7ba7b14ebe817f8597d9ba226fb56d6"
     }
    ]
   },
@@ -93,6 +1563,66 @@
    ]
   },
   {
+   "slug": "hcj-salaj-72-2010",
+   "path": "local/judet/salaj/2010/72",
+   "short": "HCJ Sălaj nr. 72/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/2010 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii \"Reabilitare drum judetean DJ 191C : ZALAU - CREACA, km 43+450-43+680\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot722010.pdf",
+     "sha256": "81688b47c48595869fc1e7f2f2c326ff18a950f639542d102b81f5f30d81e8e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-73-2010",
+   "path": "local/judet/salaj/2010/73",
+   "short": "HCJ Sălaj nr. 73/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 73/2010 privind aprobarea Planului Judetean de Analiza si Acoperire a Riscurilor, actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot732010.pdf",
+     "sha256": "abc7e0f745df9164ebc8708317b31575bf647a6ba1dcb9d67e106e4fb3403573"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2010",
+   "path": "local/judet/salaj/2010/74",
+   "short": "HCJ Sălaj nr. 74/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2010 pentru modificarea Anexei nr.2 la Hotararea Consiliului Judetean Salaj nr.22 din 23.02.2010 privind aprobarea numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot742010.pdf",
+     "sha256": "bc7a1ce74d65dbaaf6fbd1f73adc1aa25ac9bdac0dd89f5b197bee5c5a0ca48d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2010",
+   "path": "local/judet/salaj/2010/75",
+   "short": "HCJ Sălaj nr. 75/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2010 privind infiintarea Centrului de Cultura si Arta al Judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot752010.pdf",
+     "sha256": "5efc4a77990db0f1567540ffe1c701b377a38070946f78945d5d5d2ad73d2201"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-76-2010",
    "path": "local/judet/salaj/2010/76",
    "short": "HCJ Sălaj nr. 76/2010",
@@ -104,6 +1634,246 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot762010.pdf",
      "sha256": "3ac1937d6f958981f582e83702ced0a3a73e4a82f37c9a3f353cd5ca74b0e60f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-77-2010",
+   "path": "local/judet/salaj/2010/77",
+   "short": "HCJ Sălaj nr. 77/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 77/2010 privind actualizarea Programului judetean de transport public de persoane, prin curse regulate, pe perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot772010.pdf",
+     "sha256": "d49f74bd6282b54921a259ac6673339e101acfa2ef33452ae6a0b0b07f57a244"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-78-2010",
+   "path": "local/judet/salaj/2010/78",
+   "short": "HCJ Sălaj nr. 78/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 78/2010 privind numirea reprezentantilor Consiliului Judetean Salaj in Consiliul de administratie al Spitalului Judetean de Urgenta Zalau",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot782010.pdf",
+     "sha256": "4c6d6a5809d07737ab40874ccd5223b70dcff451d9b87ffbba0ee73f2fab1a49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-79-2010",
+   "path": "local/judet/salaj/2010/79",
+   "short": "HCJ Sălaj nr. 79/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 79/2010 privind alocarea unor sume din fondul de rezerva bugetara al Judetului Salaj pe anul 2010, pentru finantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot792010.pdf",
+     "sha256": "d5692c8a192396f75f38aa0a199a40a06ce03a166764114530be5632d65cac0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-8-2010",
+   "path": "local/judet/salaj/2010/8",
+   "short": "HCJ Sălaj nr. 8/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot82010.pdf",
+     "sha256": "f28e357745f8cebf3d5bca084221fac1fa698171f1e1da8f2e7c8c369a8ad78b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-80-2010",
+   "path": "local/judet/salaj/2010/80",
+   "short": "HCJ Sălaj nr. 80/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 80/2010 privind rectificarea bugetului propriu al judetului, pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot802010.pdf",
+     "sha256": "7ba8855689f5224c804e16e868e921b2b8a68380b83b4113ee3c75dad752d494"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-81-2010",
+   "path": "local/judet/salaj/2010/81",
+   "short": "HCJ Sălaj nr. 81/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 81/2010 pentru modificarea Hotararii Consiliului Judetean Salaj nr. 34/26.03.2010 privind aprobarea Programului de finantare a activitatilor de asistenta sociala prestate de unitatile de cult in judet pentru anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot812010.pdf",
+     "sha256": "db2ed6400091191fe6affc83501ca47596ed320013a246a0127e3a1bf8b8393d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2010",
+   "path": "local/judet/salaj/2010/82",
+   "short": "HCJ Sălaj nr. 82/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2010 privind aprobarea numarului de posturi, organigramei si statului de functii ale aparatului de specialitate al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot822010.pdf",
+     "sha256": "6f9c7729c1a54d556c501f158132701c04086176037fddd978c6e242c6810217"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-83-2010",
+   "path": "local/judet/salaj/2010/83",
+   "short": "HCJ Sălaj nr. 83/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 83/2010 privind aprobarea organigramei si a statului de functii pentru Directia Judeteana de Evidenta a Persoanelor Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot832010.pdf",
+     "sha256": "66067dd5e7b5e879489896bb6e5095f938a24bbc933f3f52f8c4ce75df4f2fa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-84-2010",
+   "path": "local/judet/salaj/2010/84",
+   "short": "HCJ Sălaj nr. 84/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 84/2010 privind aprobarea numarului de posturi, organigramei si statului de functii ale Camerei Agricole a Judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot842010.pdf",
+     "sha256": "39e3f5ffe421bbdc3c323e07b184ca54c700980a18dacda84b7cb86b30079f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-85-2010",
+   "path": "local/judet/salaj/2010/85",
+   "short": "HCJ Sălaj nr. 85/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 85/2010 privind aprobarea numarului de posturi, organigramelor si statelor de functii ale unor institutii si servicii publice din subordinea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot852010.pdf",
+     "sha256": "18ff1550c5f8b9c935dd97d4b91b0200bc16904b2baf21cd99d791e63c06b2db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2010",
+   "path": "local/judet/salaj/2010/87",
+   "short": "HCJ Sălaj nr. 87/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2010 privind actualizarea Programului judetean de transport public de persoane, prin curse regulate, pe perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot872010.pdf",
+     "sha256": "ba6a6c745aca1e9cd40167858c2fd1b14ebbda2bad814e45ddd2791d3d665e40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-88-2010",
+   "path": "local/judet/salaj/2010/88",
+   "short": "HCJ Sălaj nr. 88/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 88/2010 privind inlocuirea unui membru al Comisiei de Evaluare a Persoanelor Adulte cu Handicap Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot882010.pdf",
+     "sha256": "8f6435cfa60c9a8a392176c9a8fbb10c8de4cc5a83cd093b0e0dd3af21415073"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-89-2010",
+   "path": "local/judet/salaj/2010/89",
+   "short": "HCJ Sălaj nr. 89/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 89/2010 privind inchirierea unor spatii din imobilul situat in municipiul Zalau, Str.Unirii, nr.3, aflat in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot892010.pdf",
+     "sha256": "693b1a8c4e49e944af22f9d423caf759dbdb1f04e1982c90df83754db6213bbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2010",
+   "path": "local/judet/salaj/2010/9",
+   "short": "HCJ Sălaj nr. 9/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot92010.pdf",
+     "sha256": "905d156627218d740f2212b99d29c4fbb4b151e5646c54d95ad0a5a91d1e3ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-90-2010",
+   "path": "local/judet/salaj/2010/90",
+   "short": "HCJ Sălaj nr. 90/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 90/2010 privind alocarea unor sume din fondul de rezerva bugetara al judetului Salaj pe anul 2010, pentru acordarea unor ajutoare de urgenta privind inlaturarea pagubelor produse pe drumurile publice de inundatiile din lunile iunie - iulie - august 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot902010.pdf",
+     "sha256": "80941d6b181d496d360d1a6bce748251664ed75aebac2927ce2c80570b3427a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2010",
+   "path": "local/judet/salaj/2010/91",
+   "short": "HCJ Sălaj nr. 91/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2010 privind rectificarea bugetului propriu al judetului pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot912010.pdf",
+     "sha256": "d00ca68c97b4279e75ca59da5c4465f6d666b2a9cc2a59bfc3dba3125b132b2f"
     }
    ]
   },
@@ -123,6 +1893,36 @@
    ]
   },
   {
+   "slug": "hcj-salaj-93-2010",
+   "path": "local/judet/salaj/2010/93",
+   "short": "HCJ Sălaj nr. 93/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 93/2010 privind concesionarea unui teren si a unor spatii situate in municipiul Zalau, str. Salcamilor, nr.1, aflate in domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot932010.pdf",
+     "sha256": "7df3f0f6b1db4c23402f9ca2ecfe334af7c27d8063ef145e2849b51b6d011800"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-94-2010",
+   "path": "local/judet/salaj/2010/94",
+   "short": "HCJ Sălaj nr. 94/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 94/2010 privind mutarea Centrului Militar Judetean Salaj in imobilul situat in municipiul Zalau, str.Lt.Col.Pretorian, nr.100, aflat in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot942010.pdf",
+     "sha256": "0296c2b374e90dd0d69e8bf7bd0c1e89c23f3336f2bdb26f95de0610b5affdc4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-95-2010",
    "path": "local/judet/salaj/2010/95",
    "short": "HCJ Sălaj nr. 95/2010",
@@ -134,6 +1934,51 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot952010.pdf",
      "sha256": "a6fe0c9716ba0a8472700d5292a5d0322bb84e394bdb5705ccf8050b450ebaf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-96-2010",
+   "path": "local/judet/salaj/2010/96",
+   "short": "HCJ Sălaj nr. 96/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 96/2010 privind aprobarea regulamentului de organizare si functionare al Muzeului Judetean de Istorie si Arta Zalau, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot962010.pdf",
+     "sha256": "e1f129dc5ae26bf6b20a4ef9cca9611ea7650ad3c0b5036683b8197deeaa1021"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-97-2010",
+   "path": "local/judet/salaj/2010/97",
+   "short": "HCJ Sălaj nr. 97/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 97/2010 privind actualizarea programului judetean de transport public de persoane, prin curse regulate in trafic judetean, pe perioada 2008-2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot972010.pdf",
+     "sha256": "ff173e9a4fd7d87d9a34ae349de6571ac1aa02168cd7210925807dd10a29e4b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-98-2010",
+   "path": "local/judet/salaj/2010/98",
+   "short": "HCJ Sălaj nr. 98/2010",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 98/2010 pentru modificarea Hotararii Consiliului Judetean Salaj nr.80 din 14 iulie 2008, privind aprobarea Comisiei pentru Protectia Copilului Salaj, reactualizata",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=104:hotarari-2010&catid=2",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2010/hot982010.pdf",
+     "sha256": "25eb7346cf5cd3fc17747e683b456fa59346b5c412838ce6c0cc6ebc8bd65d9d"
     }
    ]
   }

@@ -496,6 +496,36 @@
      "sha256": "3db41080f880ef3c1d7248d0577a3f4f823f7149a881271afad5ee452288a607"
     }
    ]
+  },
+  {
+   "slug": "regulament-asf-5-2020",
+   "path": "regulament/asf/2020/5",
+   "short": "Regulament asf nr. 5/2020",
+   "title": "Regulamentul nr. 5/2020 pentru adoptarea unor măsuri referitoare la desfășurarea adunărilor generale ale emitenților pe perioada existenței stării de urgență generate de COVID-19 Formă aplicabilă la 13 aprilie 2020",
+   "url": "https://asfromania.ro/uploads/articole/attachments/606c1f4ad5d19935116509.pdf",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 2,
+     "source_url": "https://asfromania.ro/uploads/articole/attachments/606c1f4ad5d19935116509.pdf",
+     "sha256": "5b067f00c9c7f6bca5632253a3cc3568da78d275e60f060902266b7bdbd920d9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2020",
+   "path": "regulament/bnr/2020/5",
+   "short": "Regulament bnr nr. 5/2020",
+   "title": "Regulamentul nr. 5/2020 pentru modificarea Regulamentului Băncii Naționale a României nr. 17/2012 privind unele condiții de creditare, cu modificările și completările ulterioare, și a Regulamentului Băncii Naționale a României nr. 6/2018 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 17/2012 privind unele condiții de creditare",
+   "url": "https://www.bnr.ro/20319-regulament-5-2020",
+   "versions": [
+    {
+     "from": "2020-07-08",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/20319-regulament-5-2020",
+     "sha256": "045d355939f60f2856c434ad7d86a0db1e062383a4613e3f227f2e314dfb8eec"
+    }
+   ]
   }
  ]
 }

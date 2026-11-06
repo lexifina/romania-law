@@ -316,6 +316,21 @@
      "sha256": "692fdd95d48b4d25b6eead2f2e4f6530a885b60a1c3eb91f1e1b8ca7aecfb5fb"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-2-2023",
+   "path": "regulament/bnr/2023/2",
+   "short": "Regulament bnr nr. 2/2023",
+   "title": "Regulamentul nr. 2/2023 privind clasificarea creditelor și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit aplicabil instituțiilor de plată și instituțiilor emitente de monedă electronică, altele decât instituțiile financiare nebancare",
+   "url": "https://www.bnr.ro/19393-regulament-2-2023",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19393-regulament-2-2023",
+     "sha256": "f26f30000b2433befc52544efbbb0ac70c1c89b22f2d90b2816a49a4b4c21ab7"
+    }
+   ]
   }
  ]
 }

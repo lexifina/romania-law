@@ -3,6 +3,171 @@
  "shard": "local/judet/salaj/2002",
  "acts": [
   {
+   "slug": "hcj-salaj-10-2002",
+   "path": "local/judet/salaj/2002/10",
+   "short": "HCJ Sălaj nr. 10/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2002 privind aprobarea \"Programului de lucrari noi, reparatii capitale si modernizari pentru anul 2002\" ce se vor deconta din redeventa datorata de catre S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot102002.pdf",
+     "sha256": "1010acc63b806250ff1de98d4dad3a81e9ea8a033ceeec2397d4e32f4c17cd8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2002",
+   "path": "local/judet/salaj/2002/11",
+   "short": "HCJ Sălaj nr. 11/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2002 privind adoptarea Planului judetean de gestionare a deseurilor",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot112002.pdf",
+     "sha256": "776934114c45fcde52e80d43d37e7ec473407ed74cd060531395baf9f51a538f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2002",
+   "path": "local/judet/salaj/2002/12",
+   "short": "HCJ Sălaj nr. 12/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2002 privind repartizarea fondului special al drumurilor publice pentru anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot122002.pdf",
+     "sha256": "b79dc65d572d58c2797d98b68013d750074eda412ac00edb6b743f12fd96467a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2002",
+   "path": "local/judet/salaj/2002/13",
+   "short": "HCJ Sălaj nr. 13/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2002 privind aprobarea Contului de incheiere al exercitiului bugetar pe anul 2001 al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot132002.pdf",
+     "sha256": "e6de20e5b80c1949fc1d12d0ecbb16caad334f0d70266205f419d311af8ef893"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2002",
+   "path": "local/judet/salaj/2002/15",
+   "short": "HCJ Sălaj nr. 15/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2002 privind utilizarea fondului de rulment al Consiliului Judetean in anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot152002.pdf",
+     "sha256": "0bb54b4cea494721ca50bf34d125b4b77da768bfc0ab2d487fdd3e826ebee64a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2002",
+   "path": "local/judet/salaj/2002/16",
+   "short": "HCJ Sălaj nr. 16/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2002 privind modificarea si completarea Regulamentului de organizare si functionare al aparatului propriu al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot162002.pdf",
+     "sha256": "2464c46ad291b848235af99b48b2a89962030d5e4e311fee62d4af8765883a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2002",
+   "path": "local/judet/salaj/2002/17",
+   "short": "HCJ Sălaj nr. 17/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2002 privind aprobarea pe anul 2002, pentru functionarii publici din cadrul aparatului propriu al Consiliului Judetean Salaj, a numarului maxim de titulari pe categorii si clase",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot172002.pdf",
+     "sha256": "d89fd158e6e064c63d848cdb946d88094ea9100affd4a0e4727c7299fa2df819"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-18-2002",
+   "path": "local/judet/salaj/2002/18",
+   "short": "HCJ Sălaj nr. 18/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2002 privind aprobarea pe anul 2002 a organigramei, statului de functii si numarului de posturi ale Directiei pentru Administrarea Domeniului Public, Privat si Dezvoltare Rurala Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot182002.pdf",
+     "sha256": "7e24b56db9f9678673cc17dbd9e43946af6b87b249090bd109c67a4b99ded9f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2002",
+   "path": "local/judet/salaj/2002/19",
+   "short": "HCJ Sălaj nr. 19/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2002 privind aprobarea pe anul 2002 a organigramei, statului de functii si numarului de posturi, precum si modificarii si completarii Regulamentului de organizare si functionare ale Centrului de Conservare si Valorificare a Traditiei si Creatiei Populare Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot192002.pdf",
+     "sha256": "048f34f3a82c0efd63d07d3207694d81abf43cc39d1276212d57be5e46184ea4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2002",
+   "path": "local/judet/salaj/2002/2",
+   "short": "HCJ Sălaj nr. 2/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2002 privind majorarea indemnizatiilor lunare pentru membrii Ansamblului folcloric \"Mesesul\" al Centrului de conservare si valorificare a traditiei si creatiei populare Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot22002.pdf",
+     "sha256": "b2de503b72132b143d21f26c8d18778ace7287637d7f79674608133efc974508"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2002",
+   "path": "local/judet/salaj/2002/20",
+   "short": "HCJ Sălaj nr. 20/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2002 privind aprobarea organigramei, statului de functii si Regulamentului de organizare si functionare, ale Muzeului Judetean de Istorie si Arta Zalau pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot202002.pdf",
+     "sha256": "25e7643d77ce2b6237530df860ab447f95bf0caab8e797acc94818c452bd8375"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-21-2002",
    "path": "local/judet/salaj/2002/21",
    "short": "HCJ Sălaj nr. 21/2002",
@@ -14,6 +179,66 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot212002.pdf",
      "sha256": "ad5afde6ebc1274cd357b86496d5f7bed9106e8f48fe4c5ec083b3badf1f9f74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-22-2002",
+   "path": "local/judet/salaj/2002/22",
+   "short": "HCJ Sălaj nr. 22/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2002 privind stabilirea costului anual pentru un copil si pentru o persoana majora care beneficiaza de protectie in conditiile art.19 din Ordonanta de Urgenta a Guvernului nr.26/1997, republicata",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot222002.pdf",
+     "sha256": "2b3131481bf571243fd85927e426da14aacfb6dfd6e2df462b23b1e76d6f53ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-23-2002",
+   "path": "local/judet/salaj/2002/23",
+   "short": "HCJ Sălaj nr. 23/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2002",
+   "url": null,
+   "versions": [
+    {
+     "from": "2002-02-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot232002.pdf",
+     "sha256": "9224aabc7d72c6df7de3599ce7fcb4ec3fc017b7e0e53bb227960ce8f5b9004d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2002",
+   "path": "local/judet/salaj/2002/26",
+   "short": "HCJ Sălaj nr. 26/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2002 privind garantarea de catre",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-03-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot262002.pdf",
+     "sha256": "0a4b9c989bb7203987b8ff92a6e65822db398313e031bf61f305a11970af137b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2002",
+   "path": "local/judet/salaj/2002/28",
+   "short": "HCJ Sălaj nr. 28/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2002 privind repartizarea pe unitati administrativ-teritoriale a sumei de 24.793 milioane lei pentru ajutorul social si ajutorul pentru incalzirea locuintei, pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-04-24",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot282002.pdf",
+     "sha256": "50624021d41df2acad087bd496f182b9287c33c2ff13d3f13c0a3b3b36aed3ec"
     }
    ]
   },
@@ -33,6 +258,36 @@
    ]
   },
   {
+   "slug": "hcj-salaj-3-2002",
+   "path": "local/judet/salaj/2002/3",
+   "short": "HCJ Sălaj nr. 3/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2002 privind aprobarea modificarii si completarii organigramei, statului de functii si numarului de posturi ale aparatului propriu al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot32002.pdf",
+     "sha256": "cae4780e18ad9edebed080824807a9231e70c7376cb9ce760df50dc82015ced6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2002",
+   "path": "local/judet/salaj/2002/30",
+   "short": "HCJ Sălaj nr. 30/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2002 privind desemnarea persoanelor care vor face parte din Adunarea Generale a Actionarilor la S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-04-24",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot302002.pdf",
+     "sha256": "1d5e4b02e44d46cca1fec7da02609d07143d1b77b288edc1b7f6c46c7629a0e6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-32-2002",
    "path": "local/judet/salaj/2002/32",
    "short": "HCJ Sălaj nr. 32/2002",
@@ -48,6 +303,426 @@
    ]
   },
   {
+   "slug": "hcj-salaj-34-2002",
+   "path": "local/judet/salaj/2002/34",
+   "short": "HCJ Sălaj nr. 34/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 34/2002 pentru completarea Hotararii nr.62 din 26 octombrie 1999 a Consiliului Judetean Salaj privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot342002.pdf",
+     "sha256": "f89bd7502520e23503fb0bb70adab6d407cf8ee24669fa59fb3b1b9d191c2d36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-35-2002",
+   "path": "local/judet/salaj/2002/35",
+   "short": "HCJ Sălaj nr. 35/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 35/2002 privind aprobarea asocierii Consiliului Judetean Salaj cu S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot352002.pdf",
+     "sha256": "c2dfb7c8f55f065d6fded6ca82689aa4b70f97cd32fe77fd7f68410fcb077506"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2002",
+   "path": "local/judet/salaj/2002/36",
+   "short": "HCJ Sălaj nr. 36/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2002 privind modificarea prevederilor art.18 alin.1 din Anexa nr.1 la Hotararea nr.18 din 30 iunie 1998 a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-05-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot362002.pdf",
+     "sha256": "d07fb67b0dcc251d3e6f987b7edd0ecc6f9ae37888e26befe294e82d37c41825"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2002",
+   "path": "local/judet/salaj/2002/37",
+   "short": "HCJ Sălaj nr. 37/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2002 privind aprobarea regulamentului de Organizare si Functionare a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot372002.pdf",
+     "sha256": "05b7cae71e5a222128fcd6f8fd3eea248f0960b972528d5d76727df9953dca2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-39-2002",
+   "path": "local/judet/salaj/2002/39",
+   "short": "HCJ Sălaj nr. 39/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 39/2002 privind utilizarea fondului de rulment al Consiliului Judetean in anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot392002.pdf",
+     "sha256": "51dc81d45c1da4cbc5eae734cfe15c417962f5bdcc93ceceb7c3175e12cc56dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2002",
+   "path": "local/judet/salaj/2002/4",
+   "short": "HCJ Sălaj nr. 4/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2002 privind aprobarea organigramei, statului de functii si Regulamentului de organizare si functionare ale Directiei Judetene pentru Protectia Plantelor Salaj, pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot42002.pdf",
+     "sha256": "03d308848ba273848719b815f2bbd847ac13218a16046ccfe0666dd5277ab074"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-40-2002",
+   "path": "local/judet/salaj/2002/40",
+   "short": "HCJ Sălaj nr. 40/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 40/2002 privind transformarea centrului de plasament nr.1 Zalau, judetul Salaj, in subordinea Directiei Generale pentru Protectia Drepturilor Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot402002.pdf",
+     "sha256": "396b15db57a1147d927317cec8c48be0a78eb6a1e65b9f10b8890844354f8f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-41-2002",
+   "path": "local/judet/salaj/2002/41",
+   "short": "HCJ Sălaj nr. 41/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 41/2002 privind transformarea Centrului de plasament Simleu-Silvaniei in Centrul de servicii comunitare Simleu-Silvaniei, in subordinea Directiei Generale pentru Protectia Drepturilor Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot412002.pdf",
+     "sha256": "bc04e3d20077ab6d4d50804321513de0a5d392c3b97fc19167723f2e918644f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-42-2002",
+   "path": "local/judet/salaj/2002/42",
+   "short": "HCJ Sălaj nr. 42/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 42/2002 privind atribuirea, in folosinta gratuita, pe termen limitat, a unui spatiu apartinand domeniului public al judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot422002.pdf",
+     "sha256": "ad9898292bdecca7f1de5a1b55e7ed4c7e56017b12ec90228e0406f8310cd117"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2002",
+   "path": "local/judet/salaj/2002/43",
+   "short": "HCJ Sălaj nr. 43/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2002 privind desemnarea unui numar de 6 consilieri judeteni pentru a face parte din cadrul Autoritatii Teritoriale de Ordine Publica Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot432002.pdf",
+     "sha256": "acad5adcaa5a698bb21f05c1c625f9889be143654390f758265018c8789a1cbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2002",
+   "path": "local/judet/salaj/2002/44",
+   "short": "HCJ Sălaj nr. 44/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2002 privind infiintarea centrului de integrare prin terapie ocupationala pentru persoane cu handicap Badacin, in subordinea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot442002.pdf",
+     "sha256": "d9d81e5f275176bcdd9e0d26d2458c89af19964af88eb95a4e35f2d9256b992b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2002",
+   "path": "local/judet/salaj/2002/45",
+   "short": "HCJ Sălaj nr. 45/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2002 privind infiintarea Centrului de plasament pentru copii cu handicap Badacin, judetul Salaj, in subordinea Directiei Generale pentru Protectia Drepturilor Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot452002.pdf",
+     "sha256": "7d6080586541a901ce2f6dcb4a89cb83149daa17c035ed53307a0b134864faef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-46-2002",
+   "path": "local/judet/salaj/2002/46",
+   "short": "HCJ Sălaj nr. 46/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 46/2002 privind aprobarea organigramei Directiei Generale pentru Protectia Drepturilor Copilului Salaj, in urma infiintarii Centrului de plasament pentru copii cu handicap Badacin",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot462002.pdf",
+     "sha256": "dc3e8041f230e01148ff61219047f91e88ec1c295fb6cbd4380d2b4e92e2d3bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2002",
+   "path": "local/judet/salaj/2002/48",
+   "short": "HCJ Sălaj nr. 48/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2002 privind repartizarea pe unitati administrativ-teritoriale a influentelor alocate de la bugetul de stat, pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot482002.pdf",
+     "sha256": "414c0a19145f6b0d08d5b80ae54fdd7da51247d80d7fc5e78d6239a84d9c482c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2002",
+   "path": "local/judet/salaj/2002/49",
+   "short": "HCJ Sălaj nr. 49/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2002 privind rectificarea bugetului propriu al Consiliului Judetean pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot492002.pdf",
+     "sha256": "b650c418ed1d80356a8c322fdea2a337a39d9c00a02265aa149bfef8b21bd5d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2002",
+   "path": "local/judet/salaj/2002/5",
+   "short": "HCJ Sălaj nr. 5/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2002 privind aprobarea organigramei, statului de functii si Regulamentului de organizare si functionare ale Bibliotecii Judetene \"Ionita Scipione Badescu\" Salaj, pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot52002.pdf",
+     "sha256": "9350c69d7b9957dbd54d9f3502da8c5825b971b63e478fc2fa189096e5955b2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2002",
+   "path": "local/judet/salaj/2002/50",
+   "short": "HCJ Sălaj nr. 50/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2002 privind utilizarea fondului de rulment al Consiliului Judetean in anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot502002.pdf",
+     "sha256": "f811bff53325aa2a467dad2b35445de6cab8262676c89896b1c60b994a7febed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2002",
+   "path": "local/judet/salaj/2002/52",
+   "short": "HCJ Sălaj nr. 52/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2002 privind aprobarea modificarii organigramei si statului de functii ale aparatului propriu al Consiliului Judetean Salaj in urma reorganizarii Directiei Urbanism si Amenajarea Teritoriului prin schimbarea functiei de director in arhitect sef si modificarea atributiil",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot522002.pdf",
+     "sha256": "839b288511f0b2af2d4bb27014e5e07e26eea7c18ed6394ab2eb70f3e4f4e5d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-53-2002",
+   "path": "local/judet/salaj/2002/53",
+   "short": "HCJ Sălaj nr. 53/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 53/2002 privind aprobarea modificarii anexei nr.2 la Hotararea nr.82 din 27.12 2001 privind infiintarea, organizarea si functionarea Centrului de Consultanta Agricola Salaj, prin trecerea unei functii publice de executie vacanta la categoria personalului contractual",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot532002.pdf",
+     "sha256": "5ce974ba2a9b3e674866ea54872a0ea696103738930fed4c2a7dcbbcb68afa83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-54-2002",
+   "path": "local/judet/salaj/2002/54",
+   "short": "HCJ Sălaj nr. 54/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 54/2002 privind aprobarea numarului de personal, organigramei, statului de functii si Regulamentului de organizare si functionare ale Centrului de Integrare prin Terapie Ocupationala pentru Persoane cu Handicap Badacin",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot542002.pdf",
+     "sha256": "46e3e382455556e954caf98fcef216fb47068d66e3f036c7d3fea01f4d52c116"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2002",
+   "path": "local/judet/salaj/2002/55",
+   "short": "HCJ Sălaj nr. 55/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2002 privind modificarea si completarea art.83 din Regulamentul de organizare si functionare al Corpului Gardienilor Publici din Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot552002.pdf",
+     "sha256": "beeae054d7fda6ae4184eabf4bfda56ad24ceada94ae77abd5c88966a45bcfd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-56-2002",
+   "path": "local/judet/salaj/2002/56",
+   "short": "HCJ Sălaj nr. 56/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 56/2002 privind asocierea Consiliului Judetean Salaj cu Consiliul Local Sarmasag si Consiliul Local Bobota pentru realizarea in comun a unor lucrari de reparatii prin reciclarea structurii rutiere pe DJ 108B sectoarele Bobota-Zalnoc si Sarmasag-Ilisua",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot562002.pdf",
+     "sha256": "6a79684e7a585b1ccf8038ef6567e77d1dc2cf1394e6447820a34a0d543e9e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2002",
+   "path": "local/judet/salaj/2002/57",
+   "short": "HCJ Sălaj nr. 57/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2002 privind aprobarea \"Programului pentru pregatirea si intretinerea drumurilor judetene si comunale pentru perioada de iarna 2002-2003\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot572002.pdf",
+     "sha256": "a36703b9dfbcba9bf7cdcadc07cd2bd39b02cca01959ddfd1290c0175ff61586"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2002",
+   "path": "local/judet/salaj/2002/58",
+   "short": "HCJ Sălaj nr. 58/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2002 privind validarea Autoritatii Teritoriale de Ordine Publica Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot582002.pdf",
+     "sha256": "5fc370a4214a24385abd098e501c54cd1a62f51eca4f1976961f77a599c5533c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2002",
+   "path": "local/judet/salaj/2002/59",
+   "short": "HCJ Sălaj nr. 59/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2002 privind modificarea anexei la Hotararea Consiliului Judetean nr.62/1999 privind insusirea inventarului bunurilor care alcatuiesc domeniul public al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot592002.pdf",
+     "sha256": "c43d2d299935c215efd23db717200b94e0209410f25fde260c6bf7cbbf62e6a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2002",
+   "path": "local/judet/salaj/2002/6",
+   "short": "HCJ Sălaj nr. 6/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2002 privind aprobarea organigramei, statului de functii si Regulamentului de organizare si functionare ale Scolii Populare de Arta Zalau, pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot62002.pdf",
+     "sha256": "f76d91949db1eb5558dca6c4762b082732b15d93415eae32844abc943079e56f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2002",
+   "path": "local/judet/salaj/2002/60",
+   "short": "HCJ Sălaj nr. 60/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2002 privind utilizarea fondului de rulment al Consiliului Judetean in anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-09-03",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot602002.pdf",
+     "sha256": "c886c53668cde4984e9567804ab9c76422490e2b9180684d2faa4038bdbb62b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-63-2002",
+   "path": "local/judet/salaj/2002/63",
+   "short": "HCJ Sălaj nr. 63/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 63/2002 privind utilizarea fondului de rulment al Consiliului Judetean in anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot632002.pdf",
+     "sha256": "9f8c20eda940313beaa4499c67fbded75b7f83a5d877cc52f991a18a8c856303"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-64-2002",
    "path": "local/judet/salaj/2002/64",
    "short": "HCJ Sălaj nr. 64/2002",
@@ -59,6 +734,171 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot642002.pdf",
      "sha256": "f31b60584b6d12adda8650d5e4dad7b477cb42d2f2e661873b32b342819c0efc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2002",
+   "path": "local/judet/salaj/2002/65",
+   "short": "HCJ Sălaj nr. 65/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2002 privind aprobarea modificarii si completarii Regulamentului de organizare si functionare a aparatului propriu al Consiliului Judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot652002.pdf",
+     "sha256": "76ec5b53afae0bfa80af4bd394b2508c81f6351a1201b2e3d3e7c45f3069faa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2002",
+   "path": "local/judet/salaj/2002/66",
+   "short": "HCJ Sălaj nr. 66/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2002 privind aprobarea completarii Regulamentului de organizare si functionare al Directiei Generale pentru Protectia Drepturilor Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot662002.pdf",
+     "sha256": "11db4d53a74968a02dde178fa270ae51615537830b6089da89a8de2066fdce19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2002",
+   "path": "local/judet/salaj/2002/67",
+   "short": "HCJ Sălaj nr. 67/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2002 privind adoptarea Strategiei judetene in domeniul protectiei copilului in dificultate, pe anul 2003",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot672002.pdf",
+     "sha256": "db2e14a4c967eb458a9680813da24299b05dae80651efc99b7881038f8006776"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-68-2002",
+   "path": "local/judet/salaj/2002/68",
+   "short": "HCJ Sălaj nr. 68/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 68/2002 privind completarea Programului de transport rutier de persoane prin servicii regulate in trafic interjudetean, in anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot682002.pdf",
+     "sha256": "8165febee720607f4e5dfc072183b3e791b1a27aeb0bdc8b7e5dbfa65653498e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2002",
+   "path": "local/judet/salaj/2002/7",
+   "short": "HCJ Sălaj nr. 7/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2002 privind aprobarea organigramei, statului de functii, modificarii si completarii Regulamentului de organizare si functionare ale Corpului Gardienilor Publici Salaj, pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot72002.pdf",
+     "sha256": "ed3dc38d74f629bf579408ceae125c7e04b4596205a35e6179a431c2b1f55628"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-71-2002",
+   "path": "local/judet/salaj/2002/71",
+   "short": "HCJ Sălaj nr. 71/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 71/2002 privind aprobarea formularelor necesare acordarii ajutorului de incalzire a locuintelor",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot712002.pdf",
+     "sha256": "f37c7d40d38a86dda5192ec9b40d3ffec5a841b6d40f319b6224c5ca397c89a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-72-2002",
+   "path": "local/judet/salaj/2002/72",
+   "short": "HCJ Sălaj nr. 72/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/2002 privind trecerea unor bunuri imobile din domeniul public al judetului in domeniul privat al acesteia",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot722002.pdf",
+     "sha256": "8292f5336039c50a7ce96d8614d341d07e27d4eb002a2739b0e6c11baeb7c389"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-73-2002",
+   "path": "local/judet/salaj/2002/73",
+   "short": "HCJ Sălaj nr. 73/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 73/2002 pentru modificarea anexelor nr. 1 si 2- organigrama si statul de functii la Hotararea nr.54 din 28.08.2002 a C.J.Sj. privind aprobarea numarului de personal, organigramei, statului de functii si Regulamentului de organizare si functionare ale Centrului de Integr",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot732002.pdf",
+     "sha256": "87b3bedba5a414c6030fc76984c1c83f8fb11e5b26f4f584efc52bf8aa178045"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2002",
+   "path": "local/judet/salaj/2002/74",
+   "short": "HCJ Sălaj nr. 74/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2002 privind aprobarea documentatiei tehnico-economice pentru investitia \"Alimentarea cu apa a localitatilor Zalau, Simleu Silvaniei, Jibou, Cehu Silvaniei, din sursa Gilau- judetul Cluj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot742002.pdf",
+     "sha256": "0f103d1c2686beb3b25a1849041c4a961064b52342762f2cd417cc97de4b9210"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2002",
+   "path": "local/judet/salaj/2002/75",
+   "short": "HCJ Sălaj nr. 75/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2002 privind rectificarea bugetului propriu al Consiliului Judetean si repartizarea pe unitati administrativ-teritoriale a influentelor alocate de la bugetul de stat, pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot752002.pdf",
+     "sha256": "60b4bd17b722b80b7c38822a0ad2b5d261e038ecb986dea2d49b05199bf83e12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2002",
+   "path": "local/judet/salaj/2002/76",
+   "short": "HCJ Sălaj nr. 76/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2002 privind utilizarea fondului de rulment al Consiliului Judetean in anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-11-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot762002.pdf",
+     "sha256": "9b113090e587d431ec3539fab86586a292c67ac76597f5a6f9154907e4d62aed"
     }
    ]
   },
@@ -93,6 +933,126 @@
    ]
   },
   {
+   "slug": "hcj-salaj-8-2002",
+   "path": "local/judet/salaj/2002/8",
+   "short": "HCJ Sălaj nr. 8/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2002 privind aprobarea Regulamentului de organizare si functionare a Centrului de Consultanta Agricola Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot82002.pdf",
+     "sha256": "84cb576be968c7f2c1df23041a837c85b65e536644889622b4cb64ddf66d9460"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2002",
+   "path": "local/judet/salaj/2002/82",
+   "short": "HCJ Sălaj nr. 82/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2002 privind modificarea anexei nr.5 la Hotararea nr.81 din 27.12.2001 a Consiliului Judetean Salaj, cu privire la repartizarea sumelor defalcate din taxa pe valoarea adaugata pentru finantarea cheltuielilor de personal din invatamantul preuniversitar de stat, pe anul",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot822002.pdf",
+     "sha256": "4ae15db4282301745d587562666a0014341fdb82b7edbfd87f7200cdc58180b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-83-2002",
+   "path": "local/judet/salaj/2002/83",
+   "short": "HCJ Sălaj nr. 83/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 83/2002 privind acceptarea unei donatii",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot832002.pdf",
+     "sha256": "d0bc83cf72f4fac0e095df20cd9c94106d517f86450826a41c8d1549a5393555"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-84-2002",
+   "path": "local/judet/salaj/2002/84",
+   "short": "HCJ Sălaj nr. 84/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 84/2002 privind desemnarea reprezentantului asiguratilor din judetul Salaj in adunarea reprezentantilor Casei Nationale a Asigurarilor de Sanatate",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot842002.pdf",
+     "sha256": "488eae651879c82c31a01409aec15ea8c95a5d8d367f65452877c233dcb99bed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-85-2002",
+   "path": "local/judet/salaj/2002/85",
+   "short": "HCJ Sălaj nr. 85/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 85/2002 privind desemnarea unui membru in Consiliul de administratie al Casei judetene de asigurari de sanatate Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-12-09",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot852002.pdf",
+     "sha256": "e514c14d1af5172761ee0d37c7c993efff4573a5e1c9a9f8ef558cfd0ddd5cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-86-2002",
+   "path": "local/judet/salaj/2002/86",
+   "short": "HCJ Sălaj nr. 86/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 86/2002 privind aprobarea bugetului propriu al C.J.Sj. si ale institutiilor si serviciilor publice subordonate si repartizarea pe unitati administrativ-teritoriale a sumelor alocate de la bugetul de stat pe anul 2003",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-12-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot862002.pdf",
+     "sha256": "8f96e9cda91df8f3f7c352eed3b1742bba598521277e883a5c232daa127dacd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2002",
+   "path": "local/judet/salaj/2002/87",
+   "short": "HCJ Sălaj nr. 87/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2002 privind vizari de credite intre capitolele de cheltuieli ale bugetului propriu al C.J.Sj., pe anul 2002",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-12-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot872002.pdf",
+     "sha256": "e0d3470f94d69af2a87396009aadf8053ca874a1e7314b1a5d7e3c7c24e20d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-88-2002",
+   "path": "local/judet/salaj/2002/88",
+   "short": "HCJ Sălaj nr. 88/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 88/2002 privind constituirea Comisiei Judetene Anti-Saracie si Promovare a Incluziunii Sociale Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-12-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot882002.pdf",
+     "sha256": "f5dfce373537458d75ca0f46cf30f5b13eb507a49cb1734b0ae61be07f421db5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-89-2002",
    "path": "local/judet/salaj/2002/89",
    "short": "HCJ Sălaj nr. 89/2002",
@@ -104,6 +1064,36 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot892002.pdf",
      "sha256": "7dca7e5456b9c9b782442c8d0bf888828f7e547a48edd93afe21c3adbea93139"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2002",
+   "path": "local/judet/salaj/2002/9",
+   "short": "HCJ Sălaj nr. 9/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2002 privind aprobarea conditiilor pentru ocuparea functiilor publice de conducere",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot92002.pdf",
+     "sha256": "5f06686f20720820d9a6d0f64d3161556eecadd8e3e9e573054e09abb0aad110"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2002",
+   "path": "local/judet/salaj/2002/91",
+   "short": "HCJ Sălaj nr. 91/2002",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2002 privind suplimentare sumelor defalcate din impozitul pe venit pentru echilibrarea bugetelor locale pe anul 2002, cu suma de 11.397 milioane lei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=112:hotarari-2002&catid=2",
+   "versions": [
+    {
+     "from": "2002-12-14",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2002/hot912002.pdf",
+     "sha256": "82ae48a0711c958b903a48f9688e6be93105a2620f3e4aa2cccdb6fce94ad567"
     }
    ]
   }

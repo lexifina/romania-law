@@ -18496,6 +18496,51 @@
      "sha256": "5cce5dffaf5bd9e34d096633103e0dc8dbd8c6e2fd3e42c1af107ff98c1ecfcf"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-2-2023",
+   "path": "ordin/bnr/2023/2",
+   "short": "Ordin bnr nr. 2/2023",
+   "title": "Ordinul nr. 2/2023 pentru abrogarea Ordinului Băncii Naționale a României nr. 2/2022 privind raportarea informațiilor referitoare la expunerile care fac obiectul moratoriilor legislative conform Ordonanței de urgență a Guvernului nr. 90/2022 privind acordarea unor facilități pentru creditele acordate de bănci și instituții financiare nebancare anumitor categorii de debitori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267283",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/21896-ordin-2-2023",
+     "sha256": "880906b7d8edac11fcbedc709901bba8c9d512e2825618346bb7bf112f01c652"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-3-2023",
+   "path": "ordin/bnr/2023/3",
+   "short": "Ordin bnr nr. 3/2023",
+   "title": "Ordinul nr. 3/2023 referitor la raportarea situației privind clasificarea expunerilor din credite și necesarul de provizioane specifice de risc de credit aferent acestora, aplicabil instituțiilor de plată și instituțiilor emitente de monedă electronică, altele decât instituțiile financiare nebancare",
+   "url": "https://www.bnr.ro/21912-ordin-3-2023",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 10,
+     "source_url": "https://www.bnr.ro/21912-ordin-3-2023",
+     "sha256": "4f31940d77724c56b13f3f5af49771126bff835e73995253349981d5a9c2c995"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-9-2023",
+   "path": "ordin/bnr/2023/9",
+   "short": "Ordin bnr nr. 9/2023",
+   "title": "Ordinul nr. 9/2023 privind amortizorul aferent instituțiilor de credit autorizate în România și identificate drept alte instituții de importanță sistemică (O-SII)",
+   "url": "https://www.bnr.ro/19528-ordin-9-2023",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19528-ordin-9-2023",
+     "sha256": "48a3f6adc4c8f05582b899f29218bc04a57c549026ec4e06cf35648b6049b2a9"
+    }
+   ]
   }
  ]
 }

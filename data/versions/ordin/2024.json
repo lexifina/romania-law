@@ -17251,6 +17251,21 @@
      "sha256": "54608836738f801e3d2b54304dcc765261fb9215660ab0042afabc098203bd08"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-2-2024",
+   "path": "ordin/bnr/2024/2",
+   "short": "Ordin bnr nr. 2/2024",
+   "title": "Ordinul nr. 2/2024 privind modificarea și completarea anexei la Ordinul Băncii Naționale a României nr. 2/2020 pentru aprobarea Normelor metodologice privind întocmirea raportării contabile anuale pentru necesități de informații ale Ministerului Finanțelor Publice, aplicabile instituțiilor de credit",
+   "url": "https://www.bnr.ro/23518-ordin-2-2024",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/23518-ordin-2-2024",
+     "sha256": "bd46c035be951d6c129edb82e34b037242a660c19695e22af16c7f7d0c7e6fef"
+    }
+   ]
   }
  ]
 }

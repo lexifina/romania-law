@@ -1,2 +1,637 @@
 source,target,relation,provisions,captured,first_captured,label,source_cdep_ida,target_cdep_ida,evidence,pages
 legea-1-2025,legea-217-2003,amends,"- modifică art. 9 alin. (1) si (2); introduce lit. g) la art. 7 alin. (7), alin. (4) la art. 10, lit. k) - n) la art. 13 alin. (1) si alin. (2) la art. 25",2025-01-21,2025-01-21,Modificată,210759,43452,target sheet,1
+legea-46-2025,legea-46-2003,amends,,2021-04-11,,Propunere legislativa pentru modificarea L. nr. 46/2003,,,bill file; title,1
+legea-92-2025,legea-126-1995,amends,,2020-07-31,,Proiect de Lege pentru modificarea L. nr. 126/1995,,,bill file; title,1
+legea-71-2025,legea-95-2006,amends,,2025-05-07,,Propunere legislativa pentru modificarea L. nr. 95/2006,,,bill file; title,1
+legea-126-2025,oug-59-2019,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 59/2019,,,bill file; title,1
+legea-212-2025,oug-57-2020,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 57/2020,,,bill file,1
+legea-67-2025,oug-62-2020,approves,,2021-02-26,,Proiect de Lege pentru aprobarea O.U.G. nr. 62/2020,,,bill file; title,1
+legea-54-2025,oug-160-2020,approves,,2025-01-18,,Proiect de Lege pentru aprobarea O.U.G. nr. 160/2020,,,bill file,1
+legea-175-2025,oug-28-2021,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 28/2021,,,bill file; title,1
+legea-150-2025,og-6-2021,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 6/2021,,,bill file; title,1
+legea-223-2025,oug-71-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 71/2022,,,bill file,1
+legea-50-2025,legea-138-2004,amends,,2022-09-22,,Proiect de Lege pentru modificarea L. nr. 138/2004,,,bill file; title,1
+legea-172-2025,oug-93-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 93/2022,,,bill file; title,1
+legea-110-2025,oug-110-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 110/2022,,,bill file,1
+legea-213-2025,oug-118-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 118/2022 modificarea O.U.G. nr. 26/2013,,,bill file,1
+legea-174-2025,oug-99-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 99/2022,,,bill file; title,1
+legea-234-2025,legea-335-2007,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 335/2007,,,bill file; title,1
+legea-164-2025,oug-123-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 123/2022,,,bill file; title,1
+legea-103-2025,oug-162-2022,approves,,2025-01-19,,Proiect de Lege pentru aprobarea O.U.G. nr. 162/2022,,,bill file; title,1
+legea-41-2025,legea-199-2023,amends,,2023-11-27,,Propunere legislativa pentru modificarea L. nr. 199/2023,,,bill file; title,1
+legea-45-2025,legea-76-2002,amends,,2023-04-12,,Proiect de Lege pentru modificarea L. nr. 76/2002,,,bill file; title,1
+legea-83-2025,legea-69-2000,amends,,2025-01-17,,Proiect de Lege pentru modificarea L. nr. 69/2000,,,bill file; title,1
+legea-201-2025,legea-165-2018,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 165/2018,,,bill file; title,1
+legea-96-2025,oug-167-2022,approves,,2023-12-07,,Proiect de Lege pentru aprobarea O.U.G. nr. 167/2022,,,bill file; title,1
+legea-122-2025,oug-50-2023,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 50/2023,,,bill file; title,1
+legea-157-2025,oug-61-2023,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 61/2023,,,bill file; title,1
+legea-36-2025,oug-169-2022,approves,,2024-01-19,,Proiect de Lege pentru aprobarea O.U.G. nr. 169/2022,,,bill file,1
+legea-27-2025,legea-504-2002,amends,,2025-01-13,,Propunere legislativa pentru modificarea L. nr. 504/2002,,,bill file; title,1
+legea-221-2025,oug-63-2023,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 63/2023,,,bill file,1
+legea-35-2025,oug-64-2023,approves,,2024-01-19,,Proiect de Lege pentru aprobarea O.U.G. nr. 64/2023,,,bill file,1
+legea-37-2025,oug-66-2023,approves,,2023-11-24,,Proiect de Lege pentru aprobarea O.U.G. nr. 66/2023,,,bill file; title,1
+legea-57-2025,legea-134-2010,amends,,2024-01-19,,Proiect de Lege pentru modificarea L. nr. 134/2010,,,bill file,1
+legea-59-2025,oug-28-2013,amends,,2024-06-18,,Proiect de Lege pentru modificarea O.U.G. nr. 28/2013,,,bill file; title,1
+legea-245-2025,legea-273-2006,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 273/2006,,,bill file; title,1
+legea-70-2025,legea-135-2010,amends,,2025-05-06,,Propunere legislativa pentru modificarea L. nr. 135/2010,,,bill file; title,1
+legea-109-2025,oug-180-2022,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 180/2022,,,bill file; title,1
+legea-187-2025,legea-237-2015,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 237/2015,,,bill file,1
+legea-181-2025,legea-132-2017,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 132/2017,,,bill file; title,1
+legea-202-2025,legea-213-2015,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 213/2015,,,bill file; title,1
+legea-108-2025,oug-7-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 7/2024,,,bill file; title,1
+legea-88-2025,oug-10-2024,approves,,2024-09-21,,Proiect de Lege pentru aprobarea O.U.G. nr. 10/2024,,,bill file; title,1
+legea-89-2025,oug-14-2024,approves,,2024-08-25,,Proiect de Lege pentru aprobarea O.U.G. nr. 14/2024,,,bill file; title,1
+legea-138-2025,oug-30-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 30/2024,,,bill file; title,1
+legea-194-2025,oug-34-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 34/2024,,,bill file,1
+legea-230-2025,og-83-2001,amends,,2026-11-06,,Proiect de Lege pentru modificarea O.G. nr. 83/2001,,,bill file; title,1
+legea-1-2025,legea-21-2003,amends,,2025-01-20,,Proiect de Lege pentru modificarea L. nr. 21/2003,,,bill file,1
+legea-222-2025,oug-43-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 43/2024,,,bill file,1
+legea-184-2025,oug-50-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 50/2024,,,bill file; title,1
+legea-118-2025,oug-52-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 52/2024,,,bill file; title,1
+legea-204-2025,legea-290-2004,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 290/2004,,,bill file; title,1
+legea-14-2025,legea-21-1991,amends,,2025-01-19,,Proiect de Lege pentru modificarea L. nr. 21/1991,,,bill file; title,1
+legea-183-2025,oug-58-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 58/2024,,,bill file; title,1
+legea-152-2025,oug-61-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 61/2024,,,bill file; title,1
+legea-125-2025,oug-68-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 68/2024,,,bill file,1
+legea-129-2025,og-25-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 25/2024,,,bill file; title,1
+legea-186-2025,oug-74-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 74/2024,,,bill file,1
+legea-214-2025,oug-75-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 75/2024,,,bill file; title,1
+legea-148-2025,og-20-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 20/2024,,,bill file; title,1
+legea-127-2025,oug-82-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 82/2024,,,bill file; title,1
+legea-215-2025,oug-86-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 86/2024,,,bill file,1
+legea-173-2025,oug-87-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 87/2024,,,bill file; title,1
+legea-182-2025,oug-89-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 89/2024,,,bill file; title,1
+legea-120-2025,oug-97-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 97/2024,,,bill file; title,1
+legea-149-2025,legea-53-2003,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 53/2003,,,bill file; title,1
+legea-111-2025,oug-99-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 99/2024,,,bill file; title,1
+legea-168-2025,og-27-2014,amends,,2026-11-06,,Propunere legislativa pentru modificarea O.G. nr. 27/2014,,,bill file; title,1
+legea-153-2025,legea-448-2006,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 448/2006,,,bill file; title,1
+legea-135-2025,legea-69-2000,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 69/2000,,,bill file; title,1
+legea-226-2025,og-26-1994,amends,,2026-11-06,,Proiect de Lege pentru modificarea O.G. nr. 26/1994,,,bill file,1
+legea-191-2025,og-31-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 31/2024,,,bill file; title,1
+legea-155-2025,og-37-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 37/2024,,,bill file; title,1
+legea-171-2025,og-38-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 38/2024,,,bill file; title,1
+legea-117-2025,oug-105-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 105/2024,,,bill file; title,1
+legea-146-2025,oug-1-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 1/2024,,,bill file; title,1
+legea-167-2025,oug-112-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 112/2024,,,bill file,1
+legea-159-2025,legea-95-2006,amends,,2026-11-06,,Propunere legislativa pentru modificarea L. nr. 95/2006,,,bill file; title,1
+legea-203-2025,legea-237-2015,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 237/2015,,,bill file; title,1
+legea-121-2025,oug-120-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 120/2024,,,bill file; title,1
+legea-119-2025,oug-125-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 125/2024,,,bill file; title,1
+legea-160-2025,legea-72-2016,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 72/2016,,,bill file; title,1
+legea-209-2025,legea-176-2018,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 176/2018,,,bill file; title,1
+legea-136-2025,legea-18-1991,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 18/1991,,,bill file; title,1
+legea-228-2025,legea-122-2023,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 122/2023,,,bill file; title,1
+legea-193-2025,legea-255-2010,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 255/2010,,,bill file; title,1
+legea-12-2025,oug-109-2023,approves,,2024-07-21,,Proiect de Lege pentru aprobarea O.U.G. nr. 109/2023,,,bill file; title,1
+legea-112-2025,oug-110-2023,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 110/2023,,,bill file; title,1
+legea-123-2025,oug-112-2023,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 112/2023,,,bill file; title,1
+legea-7-2025,oug-116-2023,approves,,2024-07-21,,Proiect de Lege pentru aprobarea O.U.G. nr. 116/2023,,,bill file; title,1
+legea-165-2025,oug-148-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 148/2024,,,bill file; title,1
+legea-185-2025,oug-25-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 25/2025,,,bill file,1
+legea-131-2025,oug-26-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 26/2025,,,bill file,1
+legea-195-2025,oug-28-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 28/2025,,,bill file,1
+legea-113-2025,oug-16-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 16/2025,,,bill file; title,1
+legea-162-2025,legea-69-2000,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 69/2000,,,bill file; title,1
+legea-147-2025,legea-43-2014,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 43/2014,,,bill file; title,1
+legea-240-2025,oug-195-2002,amends,,2026-11-06,,Propunere legislativa pentru modificarea O.U.G. nr. 195/2002,,,bill file; title,1
+legea-190-2025,oug-140-2021,amends,,2026-11-06,,Proiect de Lege pentru modificarea O.U.G. nr. 140/2021,,,bill file; title,1
+legea-242-2025,og-1-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 1/2025,,,bill file,1
+legea-216-2025,legea-134-2010,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 134/2010,,,bill file,1
+legea-179-2025,og-39-2015,amends,,2026-11-06,,Proiect de Lege pentru modificarea O.G. nr. 39/2015,,,bill file; title,1
+legea-114-2025,og-2-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 2/2025,,,bill file; title,1
+legea-139-2025,legea-96-2006,amends,,2026-11-06,,Propunere legislativa pentru modificarea L. nr. 96/2006,,,bill file; title,1
+legea-231-2025,legea-287-2009,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 287/2009,,,bill file,1
+legea-107-2025,og-4-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 4/2025,,,bill file,1
+legea-178-2025,oug-41-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 41/2025,,,bill file,1
+legea-229-2025,oug-63-2008,amends,,2026-11-06,,Proiect de Lege pentru modificarea O.U.G. nr. 63/2008,,,bill file,1
+legea-196-2025,legea-535-2004,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 535/2004,,,bill file; title,1
+legea-115-2025,og-8-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.G. nr. 8/2025,,,bill file; title,1
+legea-199-2025,oug-80-2013,amends,,2026-11-06,,Proiect de Lege pentru modificarea O.U.G. nr. 80/2013,,,bill file; title,1
+legea-232-2025,legea-217-2003,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 217/2003,,,bill file,1
+legea-205-2025,oug-3-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 3/2025,,,bill file,1
+legea-156-2025,legea-319-2024,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 319/2024,,,bill file; title,1
+legea-243-2025,oug-32-2012,amends,,2026-11-06,,Proiect de Lege pentru modificarea O.U.G. nr. 32/2012,,,bill file,1
+legea-197-2025,legea-96-2006,amends,,2026-11-06,,Propunere legislativa pentru modificarea L. nr. 96/2006,,,bill file,1
+legea-224-2025,oug-202-2008,amends,,2026-11-06,,Proiect de Lege pentru modificarea O.U.G. nr. 202/2008,,,bill file; title,1
+legea-227-2025,legea-69-2000,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 69/2000,,,bill file; title,1
+legea-207-2025,legea-7-1996,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 7/1996 modificarea L. nr. 10/1995,,,bill file,1
+legea-210-2025,legea-41-1994,amends,,2026-11-06,,Propunere legislativa pentru modificarea L. nr. 41/1994,,,bill file,1
+legea-235-2025,legea-198-2023,amends,,2026-11-06,,Propunere legislativa pentru modificarea L. nr. 198/2023 modificarea L. nr. 199/2023,,,bill file,1
+legea-246-2025,legea-32-2025,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 32/2025,,,bill file,1
+legea-219-2025,oug-13-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 13/2025,,,bill file,1
+legea-124-2025,oug-155-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 155/2024,,,bill file; title,1
+legea-188-2025,oug-18-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 18/2025,,,bill file,1
+legea-142-2025,legea-286-2009,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 286/2009,,,bill file; title,1
+legea-233-2025,legea-448-2006,amends,,2026-11-06,,Proiect de Lege pentru modificarea L. nr. 448/2006,,,bill file; title,1
+legea-166-2025,oug-21-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 21/2025,,,bill file; title,1
+legea-237-2025,oug-23-2025,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 23/2025,,,bill file,1
+legea-137-2025,oug-137-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 137/2024,,,bill file; title,1
+legea-151-2025,oug-135-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 135/2024,,,bill file,1
+legea-176-2025,oug-136-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 136/2024,,,bill file; title,1
+legea-220-2025,oug-143-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 143/2024,,,bill file,1
+legea-236-2025,oug-147-2024,approves,,2026-11-06,,Proiect de Lege pentru aprobarea O.U.G. nr. 147/2024,,,bill file,1
+legea-3-2025,og-11-2024,approves,,,,ordonantei guvernului nr. 11/2024,,,title,0
+legea-5-2025,og-30-2024,approves,,,,ordonantei guvernului nr. 30/2024,,,title,0
+legea-6-2025,legea-46-2022,amends,,,,legea nr. 46/2022,,,title,0
+legea-11-2025,legea-24-2017,amends,,,,legii nr. 24/2017,,,title,0
+legea-19-2025,legea-286-2009,amends,,,,legii nr. 286/2009,,,title,0
+legea-20-2025,oug-94-2024,approves,,,,ordonantei de urgenta a guvernului nr. 94/2024,,,title,0
+legea-21-2025,oug-37-2024,approves,,,,ordonantei de urgenta a guvernului nr. 37/2024,,,title,0
+legea-22-2025,og-28-2024,approves,,,,ordonantei guvernului nr. 28/2024,,,title,0
+legea-23-2025,og-41-2024,approves,,,,ordonantei guvernului nr. 41/2024,,,title,0
+legea-28-2025,og-31-2023,approves,,,,ordonantei guvernului nr. 31/2023,,,title,0
+legea-30-2025,legea-143-2000,amends,,,,legea nr. 143/2000,,,title,0
+legea-33-2025,legea-95-2006,amends,,,,legea nr. 95/2006,,,title,0
+legea-34-2025,legea-96-2006,amends,,,,legii nr. 96/2006,,,title,0
+legea-38-2025,oug-92-2023,approves,,,,ordonantei de urgenta a guvernului nr. 92/2023,,,title,0
+legea-39-2025,oug-51-2024,approves,,,,ordonantei de urgenta a guvernului nr. 51/2024,,,title,0
+legea-40-2025,legea-312-2015,amends,,,,legii nr. 312/2015,,,title,0
+legea-43-2025,og-33-2024,approves,,,,ordonantei guvernului nr. 33/2024,,,title,0
+legea-44-2025,og-32-2024,approves,,,,ordonantei guvernului nr. 32/2024,,,title,0
+legea-47-2025,oug-66-2024,approves,,,,ordonantei de urgenta a guvernului nr. 66/2024,,,title,0
+legea-49-2025,oug-57-2019,amends,,,,ordonantei de urgenta a guvernului nr. 57/2019,,,title,0
+legea-52-2025,oug-111-2024,approves,,,,ordonantei de urgenta a guvernului nr. 111/2024,,,title,0
+legea-55-2025,og-6-2025,approves,,,,ordonantei guvernului nr. 6/2025,,,title,0
+legea-65-2025,oug-63-2024,approves,,,,ordonantei de urgenta a guvernului nr. 63/2024,,,title,0
+legea-66-2025,oug-49-2024,approves,,,,ordonantei de urgenta a guvernului nr. 49/2024,,,title,0
+legea-68-2025,oug-206-2020,approves,,,,ordonantei de urgenta a guvernului nr. 206/2020,,,title,0
+legea-74-2025,oug-213-2020,approves,,,,ordonantei de urgenta a guvernului nr. 213/2020,,,title,0
+legea-75-2025,oug-135-2021,approves,,,,ordonantei de urgenta a guvernului nr. 135/2021,,,title,0
+legea-76-2025,oug-31-2023,approves,,,,ordonantei de urgenta a guvernului nr. 31/2023,,,title,0
+legea-77-2025,oug-24-2024,approves,,,,ordonantei de urgenta a guvernului nr. 24/2024,,,title,0
+legea-78-2025,og-9-2025,approves,,,,ordonantei guvernului nr. 9/2025,,,title,0
+legea-80-2025,oug-127-2021,approves,,,,ordonantei de urgenta a guvernului nr. 127/2021,,,title,0
+legea-81-2025,oug-67-2024,approves,,,,ordonantei de urgenta a guvernului nr. 67/2024,,,title,0
+legea-82-2025,oug-195-2002,amends,,,,ordonanta de urgenta a guvernului nr. 195/2002,,,title,0
+legea-84-2025,legea-122-2006,amends,,,,legea nr. 122/2006,,,title,0
+legea-85-2025,og-37-2023,approves,,,,ordonantei guvernului nr. 37/2023,,,title,0
+legea-86-2025,legea-129-2019,amends,,,,legii nr. 129/2019,,,title,0
+legea-87-2025,legea-361-2022,amends,,,,legii nr. 361/2022,,,title,0
+legea-90-2025,og-39-2024,approves,,,,ordonantei guvernului nr. 39/2024,,,title,0
+legea-91-2025,legea-79-2019,amends,,,,legea nr. 79/2019,,,title,0
+legea-93-2025,oug-140-2024,approves,,,,ordonantei de urgenta a guvernului nr. 140/2024,,,title,0
+legea-94-2025,oug-45-2024,approves,,,,ordonantei de urgenta a guvernului nr. 45/2024,,,title,0
+legea-95-2025,oug-157-2022,approves,,,,ordonantei de urgenta a guvernului nr. 157/2022,,,title,0
+legea-101-2025,oug-149-2024,approves,,,,ordonantei de urgenta a guvernului nr. 149/2024,,,title,0
+legea-102-2025,oug-129-2024,approves,,,,ordonantei de urgenta a guvernului nr. 129/2024,,,title,0
+legea-105-2025,oug-130-2024,approves,,,,ordonantei de urgenta a guvernului nr. 130/2024,,,title,0
+legea-106-2025,oug-10-2023,approves,,,,ordonantei de urgenta a guvernului nr. 10/2023,,,title,0
+legea-116-2025,legea-286-2009,amends,,,,legii nr. 286/2009,,,title,0
+legea-207-2025,legea-10-1995,amends,,,,legea nr. 10/1995,,,title,0
+legea-241-2025,oug-31-2002,amends,,,,ordonantei de urgenta a guvernului nr. 31/2002,,,title,0
+legea-246-2025,oug-34-2013,amends,,,,ordonanta de urgenta a guvernului nr. 34/2013,,,title,0
+oug-2-2025,oug-52-2016,amends,,,,ordonantei de urgenta a guvernului nr. 52/2016,,,title,0
+oug-3-2025,oug-147-2024,amends,,,,ordonantei de urgenta a guvernului nr. 147/2024,,,title,0
+oug-7-2025,oug-57-2007,amends,,,,ordonantei de urgenta a guvernului nr. 57/2007,,,title,0
+oug-8-2025,legea-95-2006,amends,,,,legii nr. 95/2006,,,title,0
+oug-10-2025,legea-129-2019,amends,,,,legii nr. 129/2019,,,title,0
+oug-11-2025,legea-227-2015,amends,,,,legii nr. 227/2015,,,title,0
+oug-15-2025,oug-96-2024,amends,,,,ordonantei de urgenta a guvernului nr. 96/2024,,,title,0
+oug-17-2025,legea-119-1996,amends,,,,legii nr. 119/1996,,,title,0
+oug-18-2025,legea-255-2010,amends,,,,legea nr. 255/2010,,,title,0
+oug-21-2025,legea-227-2015,amends,,,,legea nr. 227/2015,,,title,0
+oug-22-2025,oug-109-2011,amends,,,,ordonantei de urgenta a guvernului nr. 109/2011,,,title,0
+oug-28-2025,oug-34-2024,amends,,,,ordonantei de urgenta a guvernului nr. 34/2024,,,title,0
+oug-29-2025,oug-41-2022,suspends,,,,ordonanta de urgenta a guvernului nr. 41/2022,,,title,0
+oug-37-2025,oug-74-2013,repeals,,,,ordonanta de urgenta a guvernului nr. 74/2013,,,title,0
+oug-40-2025,oug-202-2002,amends,,,,ordonantei de urgenta a guvernului nr. 202/2002,,,title,0
+oug-42-2025,oug-1-2020,amends,,,,ordonanta de urgenta a guvernului nr. 1/2020,,,title,0
+oug-43-2025,oug-87-2020,amends,,,,ordonantei de urgenta a guvernului nr. 87/2020,,,title,0
+oug-44-2025,legea-331-2024,amends,,,,legea nr. 331/2024,,,title,0
+oug-46-2025,oug-17-2005,amends,,,,ordonantei de urgenta a guvernului nr. 17/2005,,,title,0
+oug-48-2025,oug-67-2023,amends,,,,ordonanta de urgenta a guvernului nr. 67/2023,,,title,0
+oug-49-2025,og-71-2001,amends,,,,ordonantei guvernului nr. 71/2001,,,title,0
+oug-55-2025,oug-115-2011,amends,,,,ordonantei de urgenta a guvernului nr. 115/2011,,,title,0
+oug-66-2025,oug-202-2008,amends,,,,ordonantei de urgenta a guvernului nr. 202/2008,,,title,0
+oug-68-2025,legea-227-2015,amends,,,,legea nr. 227/2015,,,title,0
+oug-71-2025,legea-207-2015,amends,,,,legii nr. 207/2015,,,title,0
+oug-76-2025,oug-36-2023,amends,,,,ordonantei de urgenta a guvernului nr. 36/2023,,,title,0
+oug-78-2025,legea-239-2025,amends,,,,legii nr. 239/2025,,,title,0
+oug-84-2025,legea-95-2006,amends,,,,legii nr. 95/2006,,,title,0
+oug-85-2025,oug-49-2015,amends,,,,ordonantei de urgenta a guvernului nr. 49/2015,,,title,0
+oug-86-2025,oug-66-2011,amends,,,,ordonantei de urgenta a guvernului nr. 66/2011,,,title,0
+oug-88-2025,oug-108-2022,amends,,,,ordonantei de urgenta a guvernului nr. 108/2022,,,title,0
+oug-92-2025,oug-85-2024,amends,,,,ordonantei de urgenta a guvernului nr. 85/2024,,,title,0
+og-1-2025,oug-195-2002,amends,,,,ordonantei de urgenta a guvernului nr. 195/2002,,,title,0
+og-2-2025,legea-185-2017,amends,,,,legii nr. 185/2017,,,title,0
+og-4-2025,og-7-2012,amends,,,,ordonantei guvernului nr. 7/2012,,,title,0
+og-7-2025,legea-95-2006,amends,,,,legii nr. 95/2006,,,title,0
+og-8-2025,legea-152-1998,amends,,,,legii nr. 152/1998,,,title,0
+og-13-2025,oug-77-2021,amends,,,,ordonanta de urgenta a guvernului nr. 77/2021,,,title,0
+og-18-2025,og-40-2006,amends,,,,ordonanta guvernului nr. 40/2006,,,title,0
+og-21-2025,legea-431-2023,amends,,,,legii nr. 431/2023,,,title,0
+og-22-2025,legea-227-2015,amends,,,,legii nr. 227/2015,,,title,0
+curtea-de-conturi-hotarare-plen-746-2025,hotarare-629-2022,amends,,,,"regulamentului privind activitatea de audit public extern, aprobat prin hotararea plenului curtii de conturi nr. 629/202",,,title,0
+curtea-de-conturi-hotarare-plen-855-2025,hotarare-330-2024,amends,,,,hotararii plenului curtii de conturi nr. 330/2024,,,title,0
+curtea-de-conturi-hotarare-plen-940-2025,hotarare-87-2009,amends,,,,hotararii plenului curtii de conturi nr. 87/2009,,,title,0
+hg-16-2025,hg-1570-2022,amends,,,,hotararii guvernului nr. 1.570/2022,,,title,0
+hg-61-2025,hg-1174-2014,amends,,,,hotararii guvernului nr. 1.174/2014,,,title,0
+hg-64-2025,oug-53-2024,implements,,,,normelor de aplicare a prevederilor art. v alin. (1) si (2) din ordonanta de urgenta a guvernului nr. 53/2024,,,title,0
+hg-81-2025,hg-988-2022,amends,,,,hotararii guvernului nr. 988/2022,,,title,0
+hg-187-2025,hg-731-2024,amends,,,,hotararii guvernului nr. 731/2024,,,title,0
+hg-196-2025,hg-442-2013,amends,,,,hotararea guvernului nr. 442/2013,,,title,0
+hg-207-2025,hg-887-2022,amends,,,,hotararea guvernului nr. 887/2022,,,title,0
+hg-232-2025,hg-255-2024,amends,,,,hotararii guvernului nr. 255/2024,,,title,0
+hg-233-2025,hg-295-2021,amends,,,,hotararea guvernului nr. 295/2021,,,title,0
+hg-234-2025,hg-717-2009,amends,,,,hotararea guvernului nr. 717/2009,,,title,0
+hg-248-2025,hg-311-2022,amends,,,,hotararea guvernului nr. 311/2022,,,title,0
+hg-249-2025,hg-59-2023,amends,,,,hotararea guvernului nr. 59/2023,,,title,0
+hg-267-2025,hg-1178-2024,amends,,,,hotararii guvernului nr. 1.178/2024,,,title,0
+hg-269-2025,hg-857-2011,amends,,,,hotararii guvernului nr. 857/2011,,,title,0
+hg-281-2025,hg-68-2024,amends,,,,hotararii guvernului nr. 68/2024,,,title,0
+hg-282-2025,hg-69-2024,amends,,,,hotararii guvernului nr. 69/2024,,,title,0
+hg-292-2025,oug-29-2024,amends,,,,normele metodologice pentru punerea in aplicare a prevederilor ordonantei de urgenta a guvernului nr. 29/2024,,,title,0
+hg-293-2025,hg-144-2010,amends,,,,hotararii guvernului nr. 144/2010,,,title,0
+hg-296-2025,legea-156-2000,amends,,,,normelor metodologice de aplicare a prevederilor legii nr. 156/2000,,,title,0
+hg-299-2025,hg-5-2025,amends,,,,hotararea guvernului nr. 5/2025,,,title,0
+hg-312-2025,hg-34-2009,amends,,,,hotararii guvernului nr. 34/2009,,,title,0
+hg-323-2025,hg-52-2018,amends,,,,hotararii guvernului nr. 52/2018,,,title,0
+hg-324-2025,hg-592-2024,amends,,,,hotararii guvernului nr. 592/2024,,,title,0
+hg-326-2025,hg-30-2017,amends,,,,hotararii guvernului nr. 30/2017,,,title,0
+hg-331-2025,hg-731-2024,amends,,,,hotararii guvernului nr. 731/2024,,,title,0
+hg-332-2025,hg-43-2020,amends,,,,hotararii guvernului nr. 43/2020,,,title,0
+hg-335-2025,hg-16-2017,amends,,,,hotararii guvernului nr. 16/2017,,,title,0
+hg-359-2025,hg-178-2024,amends,,,,hotararii guvernului nr. 178/2024,,,title,0
+hg-371-2025,hg-90-2010,amends,,,,hotararii guvernului nr. 90/2010,,,title,0
+hg-382-2025,hg-37-2021,amends,,,,hotararea guvernului nr. 37/2021,,,title,0
+hg-388-2025,hg-272-2023,amends,,,,hotararii guvernului nr. 272/2023,,,title,0
+hg-398-2025,hg-1251-2023,amends,,,,hotararii guvernului nr. 1.251/2023,,,title,0
+hg-400-2025,hg-215-2009,amends,,,,"normelor metodologice privind acordarea voucherelor de vacanta, aprobate prin hotararea guvernului nr. 215/2009",,,title,0
+hg-408-2025,hg-688-2017,amends,,,,hotararii guvernului nr. 688/2017,,,title,0
+hg-409-2025,hg-957-2005,amends,,,,hotararii guvernului nr. 957/2005,,,title,0
+hg-410-2025,hg-1103-2022,amends,,,,hotararea guvernului nr. 1.103/2022,,,title,0
+hg-462-2025,hg-316-2021,amends,,,,hotararii guvernului nr. 316/2021,,,title,0
+hg-463-2025,hg-1705-2006,amends,,,,hotararea guvernului nr. 1.705/2006,,,title,0
+hg-476-2025,hg-416-2007,amends,,,,hotararii guvernului nr. 416/2007,,,title,0
+hg-490-2025,hg-52-2018,amends,,,,hotararea guvernului nr. 52/2018,,,title,0
+hg-496-2025,oug-133-2021,amends,,,,normelor metodologice de aplicare a ordonantei de urgenta a guvernului nr. 133/2021,,,title,0
+hg-511-2025,hg-523-2023,amends,,,,hotararii guvernului nr. 523/2023,,,title,0
+hg-512-2025,hg-259-2006,amends,,,,hotararii guvernului nr. 259/2006,,,title,0
+hg-514-2025,legea-333-2003,amends,,,,normelor metodologice de aplicare a legii nr. 333/2003,,,title,0
+hg-535-2025,hg-811-2023,amends,,,,"normelor metodologice privind acordarea facilitatilor de transport intern feroviar si cu metroul pentru studenti, aproba",,,title,0
+hg-563-2025,hg-30-2024,amends,,,,hotararea guvernului nr. 30/2024,,,title,0
+hg-569-2025,hg-1096-2013,amends,,,,hotararii guvernului nr. 1.096/2013,,,title,0
+hg-570-2025,hg-534-2007,amends,,,,hotararii guvernului nr. 534/2007,,,title,0
+hg-600-2025,legea-288-2024,implements,,,,normelor metodologice de aplicare a legii nr. 288/2024,,,title,0
+hg-601-2025,hg-137-2020,amends,,,,hotararea guvernului nr. 137/2020,,,title,0
+hg-602-2025,legea-227-2015,amends,,,,normele metodologice de aplicare a legii nr. 227/2015,,,title,0
+hg-605-2025,hg-1174-2014,amends,,,,hotararea guvernului nr. 1.174/2014,,,title,0
+hg-613-2025,hg-1080-2007,amends,,,,hotararii guvernului nr. 1.080/2007,,,title,0
+hg-626-2025,hg-425-2024,amends,,,,hotararea guvernului nr. 425/2024,,,title,0
+hg-644-2025,hg-428-2025,amends,,,,hotararea guvernului nr. 428/2025,,,title,0
+hg-645-2025,hg-412-2025,amends,,,,hotararea guvernului nr. 412/2025,,,title,0
+hg-650-2025,hg-856-2022,amends,,,,hotararii guvernului nr. 856/2022,,,title,0
+hg-658-2025,hg-1267-2010,amends,,,,hotararii guvernului nr. 1.267/2010,,,title,0
+hg-659-2025,hg-1074-2021,amends,,,,hotararii guvernului nr. 1.074/2021,,,title,0
+hg-660-2025,hg-1005-2012,amends,,,,hotararii guvernului nr. 1.005/2012,,,title,0
+hg-677-2025,hg-556-2006,amends,,,,hotararii guvernului nr. 556/2006,,,title,0
+hg-712-2025,hg-1596-2008,amends,,,,hotararea guvernului nr. 1.596/2008,,,title,0
+hg-784-2025,hg-1705-2006,amends,,,,hotararea guvernului nr. 1.705/2006,,,title,0
+hg-786-2025,hg-538-2011,repeals,,,,hotararii guvernului nr. 538/2011,,,title,0
+hg-788-2025,hg-354-2020,amends,,,,hotararea guvernului nr. 354/2020,,,title,0
+hg-797-2025,hg-1705-2006,amends,,,,hotararea guvernului nr. 1.705/2006,,,title,0
+hg-826-2025,hg-1875-2005,amends,,,,hotararii guvernului nr. 1.875/2005,,,title,0
+hg-854-2025,hg-325-2025,amends,,,,hotararea guvernului nr. 325/2025,,,title,0
+hg-867-2025,hg-1231-2010,amends,,,,hotararea guvernului nr. 1.231/2010,,,title,0
+hg-871-2025,hg-117-2010,amends,,,,hotararea guvernului nr. 117/2010,,,title,0
+hg-888-2025,hg-662-2022,amends,,,,hotararii guvernului nr. 662/2022,,,title,0
+hg-892-2025,hg-521-2023,amends,,,,hotararea guvernului nr. 521/2023,,,title,0
+hg-896-2025,hg-178-2024,amends,,,,hotararii guvernului nr. 178/2024,,,title,0
+hg-905-2025,oug-49-2015,amends,,,,normelor metodologice de aplicare a prevederilor ordonantei de urgenta a guvernului nr. 49/2015,,,title,0
+hg-925-2025,hg-1016-2010,amends,,,,hotararea guvernului nr. 1.016/2010,,,title,0
+hg-945-2025,oug-142-2008,amends,,,,ordonanta de urgenta a guvernului nr. 142/2008,,,title,0
+hg-946-2025,hg-265-2025,amends,,,,hotararea guvernului nr. 265/2025,,,title,0
+hg-951-2025,hg-1204-2022,amends,,,,hotararii guvernului nr. 1.204/2022,,,title,0
+hg-952-2025,hg-305-2024,amends,,,,hotararea guvernului nr. 305/2024,,,title,0
+hg-953-2025,hg-181-2020,amends,,,,hotararii guvernului nr. 181/2020,,,title,0
+hg-984-2025,hg-685-2022,amends,,,,hotararii guvernului nr. 685/2022,,,title,0
+hg-985-2025,hg-187-2011,repeals,,,,hotararii guvernului nr. 187/2011,,,title,0
+hg-987-2025,hg-360-2023,amends,,,,hotararea guvernului nr. 360/2023,,,title,0
+hg-1013-2025,hg-318-2024,amends,,,,hotararii guvernului nr. 318/2024,,,title,0
+hg-1038-2025,hg-1473-2024,amends,,,,hotararii guvernului nr. 1.473/2024,,,title,0
+hg-1050-2025,hg-811-2023,amends,,,,"normelor metodologice privind acordarea facilitatilor de transport intern feroviar si cu metroul pentru studenti, aproba",,,title,0
+hg-1076-2025,hg-1005-2012,amends,,,,hotararii guvernului nr. 1.005/2012,,,title,0
+hg-1095-2025,hg-1570-2022,amends,,,,hotararii guvernului nr. 1.570/2022,,,title,0
+hg-1096-2025,hg-1544-2024,amends,,,,hotararea guvernului nr. 1.544/2024,,,title,0
+hg-1147-2025,hg-1101-2025,amends,,,,hotararii guvernului nr. 1.101/2025,,,title,0
+hg-1164-2025,hg-1096-2013,amends,,,,hotararii guvernului nr. 1.096/2013,,,title,0
+hg-1167-2025,hg-972-2006,amends,,,,hotararea guvernului nr. 972/2006,,,title,0
+hotarare-aep-25-2025,hotarare-12-2025,amends,,,,hotararea autoritatii electorale permanente nr. 12/2025,,,title,0
+hotarare-aep-27-2025,hotarare-12-2025,amends,,,,hotararea autoritatii electorale permanente nr. 12/2025,,,title,0
+norma-asf-3-2025,norma-18-2018,amends,,,,normei autoritatii de supraveghere financiara nr. 18/2018,,,title,0
+norma-asf-4-2025,norma-19-2021,amends,,,,normei autoritatii de supraveghere financiara nr. 19/2021,,,title,0
+norma-asf-5-2025,norma-22-2015,amends,,,,normei autoritatii de supraveghere financiara nr. 22/2015,,,title,0
+norma-asf-6-2025,norma-23-2015,amends,,,,normei autoritatii de supraveghere financiara nr. 23/2015,,,title,0
+norma-asf-8-2025,norma-22-2020,amends,,,,norma autoritatii de supraveghere financiara nr. 22/2020,,,title,0
+norma-asf-9-2025,norma-34-2020,amends,,,,normei autoritatii de supraveghere financiara nr. 34/2020,,,title,0
+norma-asf-12-2025,norma-28-2017,amends,,,,normei autoritatii de supraveghere financiara nr. 28/2017,,,title,0
+norma-asf-13-2025,norma-13-2019,amends,,,,normei autoritatii de supraveghere financiara nr. 13/2019,,,title,0
+norma-asf-14-2025,norma-4-2018,amends,,,,normei autoritatii de supraveghere financiara nr. 4/2018,,,title,0
+norma-asf-15-2025,norma-13-2018,amends,,,,norma autoritatii de supraveghere financiara nr. 13/2018,,,title,0
+norma-asf-16-2025,norma-1-2015,amends,,,,normei autoritatii de supraveghere financiara nr. 1/2015,,,title,0
+norma-asf-17-2025,norma-7-2017,amends,,,,normei autoritatii de supraveghere financiara nr. 7/2017,,,title,0
+norma-asf-19-2025,norma-4-2024,amends,,,,norma autoritatii de supraveghere financiara nr. 4/2024,,,title,0
+norma-asf-21-2025,norma-34-2016,amends,,,,normei autoritatii de supraveghere financiara nr. 34/2016,,,title,0
+norma-asf-22-2025,norma-15-2009,amends,,,,normei nr. 15/2009,,,title,0
+norma-asf-23-2025,norma-18-2009,amends,,,,normei nr. 18/2009,,,title,0
+norma-asf-24-2025,norma-14-2024,amends,,,,norma autoritatii de supraveghere financiara nr. 14/2024,,,title,0
+norma-bnr-1-2025,norma-1-2022,amends,,,,normei bancii nationale a romaniei nr. 1/2022,,,title,0
+ordin-aaas-132-2025,oug-107-2024,approves,,,,ordonantei de urgenta a guvernului nr. 107/2024,,,title,0
+ordin-agricultura-4-2025,ordin-1366-2018,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 1.366/2018,,,title,0
+ordin-agricultura-14-2025,legea-195-2018,amends,,,,normelor metodologice pentru aplicarea prevederilor legii nr. 195/2018,,,title,0
+ordin-agricultura-22-2025,og-24-2010,implements,,,,normelor metodologice de aplicare a ordonantei guvernului nr. 24/2010,,,title,0
+ordin-agricultura-42-2025,ordin-106-2024,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 106/2024,,,title,0
+ordin-agricultura-50-2025,ordin-125-2024,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 125/2024,,,title,0
+ordin-agricultura-57-2025,ordin-1348-2005,amends,,,,"ordinul ministrului agriculturii, padurilor si dezvoltarii rurale nr. 1.348/2005",,,title,0
+ordin-agricultura-71-2025,ordin-105-2023,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 105/2023,,,title,0
+ordin-agricultura-72-2025,ordin-106-2024,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 106/2024,,,title,0
+ordin-agricultura-92-2025,ordin-784-2016,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 784/2016,,,title,0
+ordin-agricultura-99-2025,ordin-91-2023,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 91/2023,,,title,0
+ordin-agricultura-145-2025,ordin-107-2024,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 107/2024,,,title,0
+ordin-agricultura-147-2025,ordin-73-2025,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 73/2025,,,title,0
+ordin-agricultura-154-2025,ordin-1731-2015,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 1.731/2015,,,title,0
+ordin-agricultura-155-2025,ordin-107-2017,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 107/2017,,,title,0
+ordin-agricultura-159-2025,ordin-45-2022,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 45/2022,,,title,0
+ordin-agricultura-168-2025,ordin-91-2023,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 91/2023,,,title,0
+ordin-agricultura-178-2025,ordin-125-2024,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 125/2024,,,title,0
+ordin-agricultura-179-2025,ordin-106-2024,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 106/2024,,,title,0
+ordin-agricultura-188-2025,ordin-73-2025,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 73/2025,,,title,0
+ordin-agricultura-192-2025,ordin-278-2024,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 278/2024,,,title,0
+ordin-agricultura-203-2025,ordin-362-2021,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 362/2021,,,title,0
+ordin-agricultura-213-2025,ordin-117-2023,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 117/2023,,,title,0
+ordin-agricultura-218-2025,ordin-165-2025,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 165/2025,,,title,0
+ordin-agricultura-221-2025,ordin-185-2025,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 185/2025,,,title,0
+ordin-agricultura-288-2025,ordin-453-2009,amends,,,,"ordinului ministrului agriculturii, padurilor si dezvoltarii rurale nr. 453/2009",,,title,0
+ordin-agricultura-297-2025,ordin-393-2023,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 393/2023,,,title,0
+ordin-agricultura-298-2025,ordin-49-2025,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 49/2025,,,title,0
+ordin-agricultura-299-2025,ordin-148-2023,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 148/2023,,,title,0
+ordin-agricultura-332-2025,og-19-2025,approves,,,,ordonanta guvernului nr. 19/2025,,,title,0
+ordin-agricultura-336-2025,ordin-499-2023,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 499/2023,,,title,0
+ordin-agricultura-340-2025,ordin-1348-2005,amends,,,,"ordinul ministrului agriculturii, padurilor si dezvoltarii rurale nr. 1.348/2005",,,title,0
+ordin-agricultura-358-2025,ordin-286-2024,amends,,,,ordinului ministrului agriculturii si dezvoltarii rurale nr. 286/2024,,,title,0
+ordin-agricultura-362-2025,legea-195-2018,repeals,,,,normele metodologice pentru aplicarea prevederilor legii nr. 195/2018,,,title,0
+ordin-agricultura-371-2025,ordin-137-2020,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 137/2020,,,title,0
+ordin-agricultura-404-2025,ordin-1002-2016,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 1.002/2016,,,title,0
+ordin-agricultura-411-2025,ordin-71-2025,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 71/2025,,,title,0
+ordin-agricultura-417-2025,ordin-877-2016,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 877/2016,,,title,0
+ordin-agricultura-418-2025,ordin-1198-2018,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 1.198/2018,,,title,0
+ordin-agricultura-419-2025,ordin-107-2017,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 107/2017,,,title,0
+ordin-agricultura-420-2025,ordin-1731-2015,amends,,,,ordinul ministrului agriculturii si dezvoltarii rurale nr. 1.731/2015,,,title,0
+ordin-anaf-102-2025,ordin-179-2022,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 179/2022,,,title,0
+ordin-anaf-161-2025,ordin-114-2019,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 114/2019,,,title,0
+ordin-anaf-193-2025,ordin-587-2016,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 587/2016,,,title,0
+ordin-anaf-252-2025,ordin-1699-2021,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.699/2021,,,title,0
+ordin-anaf-402-2025,ordin-1155-2016,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.155/2016,,,title,0
+ordin-anaf-539-2025,ordin-1339-2008,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.339/2008,,,title,0
+ordin-anaf-541-2025,ordin-1194-2016,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.194/2016,,,title,0
+ordin-anaf-597-2025,ordin-90-2016,amends,,,,ordinul presedintelui agentiei nationale de administrare fiscala nr. 90/2016,,,title,0
+ordin-anaf-617-2025,ordin-3494-2013,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 3.494/2013,,,title,0
+ordin-anaf-623-2025,ordin-587-2016,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 587/2016,,,title,0
+ordin-anaf-649-2025,ordin-587-2016,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 587/2016,,,title,0
+ordin-anaf-755-2025,ordin-1029-2020,amends,,,,ordinul presedintelui agentiei nationale de administrare fiscala nr. 1.029/2020,,,title,0
+ordin-anaf-759-2025,ordin-1893-2016,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.893/2016,,,title,0
+ordin-anaf-1728-2025,ordin-81-2017,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 81/2017,,,title,0
+ordin-anaf-1779-2025,ordin-3177-2014,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 3.177/2014,,,title,0
+ordin-anaf-1780-2025,ordin-1947-2021,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.947/2021,,,title,0
+ordin-anaf-1810-2025,ordin-2080-2023,amends,,,,ordinul presedintelui agentiei nationale de administrare fiscala nr. 2.080/2023,,,title,0
+ordin-anaf-2149-2025,ordin-2080-2023,amends,,,,ordinul presedintelui agentiei nationale de administrare fiscala nr. 2.080/2023,,,title,0
+ordin-anaf-2194-2025,ordin-3769-2015,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 3.769/2015,,,title,0
+ordin-anaf-2200-2025,ordin-1241-2021,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.241/2021,,,title,0
+ordin-anaf-2201-2025,ordin-1019-2021,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.019/2021,,,title,0
+ordin-anaf-2202-2025,ordin-3077-2017,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 3.077/2017,,,title,0
+ordin-anaf-2221-2025,ordin-1892-2016,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.892/2016,,,title,0
+ordin-anaf-2222-2025,ordin-1885-2016,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.885/2016,,,title,0
+ordin-anaf-2394-2025,ordin-6234-2024,amends,,,,ordinul presedintelui agentiei nationale de administrare fiscala nr. 6.234/2024,,,title,0
+ordin-anaf-2420-2025,ordin-1699-2021,amends,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.699/2021,,,title,0
+ordin-anaf-2595-2025,ordin-1195-2016,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.195/2016,,,title,0
+ordin-anaf-2596-2025,ordin-1882-2016,repeals,,,,ordinului presedintelui agentiei nationale de administrare fiscala nr. 1.882/2016,,,title,0
+ordin-ancpi-441-2025,ordin-16-2019,amends,,,,ordinului directorului general al agentiei nationale de cadastru si publicitate imobiliara nr. 16/2019,,,title,0
+ordin-ancpi-1622-2025,ordin-1764-2019,amends,,,,ordinul directorului general al agentiei nationale de cadastru si publicitate imobiliara nr. 1.764/2019,,,title,0
+ordin-anmcs-10-2025,ordin-353-2019,amends,,,,ordinul presedintelui autoritatii nationale de management al calitatii in sanatate nr. 353/2019,,,title,0
+ordin-anmcs-177-2025,ordin-651-2016,amends,,,,ordinului presedintelui autoritatii nationale de management al calitatii in sanatate nr. 651/2016,,,title,0
+ordin-anpc-330-2025,ordin-579-2024,amends,,,,ordinului presedintelui autoritatii nationale pentru protectia consumatorilor nr. 579/2024,,,title,0
+ordin-anpc-919-2025,ordin-584-2022,amends,,,,ordinului presedintelui autoritatii nationale pentru protectia consumatorilor nr. 584/2022,,,title,0
+ordin-anpc-926-2025,ordin-423-2018,amends,,,,ordinului presedintelui autoritatii nationale pentru protectia consumatorilor nr. 423/2018,,,title,0
+ordin-anpc-929-2025,ordin-103-2010,amends,,,,ordinul presedintelui autoritatii nationale pentru protectia consumatorilor nr. 103/2010,,,title,0
+ordin-anpc-941-2025,ordin-480-2024,amends,,,,ordinului presedintelui autoritatii nationale pentru protectia consumatorilor nr. 480/2024,,,title,0
+ordin-anre-5-2025,ordin-52-2024,amends,,,,ordinului presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 52/2024,,,title,0
+ordin-anre-11-2025,ordin-91-2022,amends,,,,ordinului presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 91/2022,,,title,0
+ordin-anre-14-2025,ordin-124-2022,amends,,,,ordinului presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 124/2022,,,title,0
+ordin-anre-57-2025,ordin-93-2024,amends,,,,ordinului presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 93/2024,,,title,0
+ordin-anre-65-2025,ordin-105-2018,amends,,,,ordinului presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 105/2018,,,title,0
+ordin-anre-71-2025,ordin-52-2024,amends,,,,ordinul presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 52/2024,,,title,0
+ordin-anre-79-2025,ordin-53-2024,amends,,,,ordinului presedintelui autoritatii nationale de reglementare in domeniul energiei nr. 53/2024,,,title,0
+ordin-anrm-147-2025,ordin-32-2018,amends,,,,ordinul presedintelui agentiei nationale pentru resurse minerale nr. 32/2018,,,title,0
+ordin-ansvsa-652-2025,ordin-96-2014,amends,,,,ordinului presedintelui autoritatii nationale sanitare veterinare si pentru siguranta alimentelor nr. 96/2014,,,title,0
+ordin-ansvsa-953-2025,hg-1156-2013,amends,,,,hotararea guvernului nr. 1.156/2013,,,title,0
+ordin-ansvsa-1040-2025,ordin-35-2016,amends,,,,ordinul presedintelui autoritatii nationale sanitare veterinare si pentru siguranta alimentelor nr. 35/2016,,,title,0
+ordin-ansvsa-1131-2025,hg-1156-2013,amends,,,,hotararea guvernului nr. 1.156/2013,,,title,0
+ordin-ansvsa-1258-2025,hg-1156-2013,amends,,,,hotararea guvernului nr. 1.156/2013,,,title,0
+ordin-ansvsa-2263-2025,ordin-35-2016,amends,,,,ordinului presedintelui autoritatii nationale sanitare veterinare si pentru siguranta alimentelor nr. 35/2016,,,title,0
+ordin-ansvsa-2362-2025,hg-1156-2013,amends,,,,hotararea guvernului nr. 1.156/2013,,,title,0
+ordin-ansvsa-2363-2025,ordin-113-2008,amends,,,,ordinului presedintelui autoritatii nationale sanitare veterinare si pentru siguranta alimentelor nr. 113/2008,,,title,0
+ordin-ansvsa-2367-2025,ordin-64-2007,amends,,,,ordinului presedintelui autoritatii nationale sanitare veterinare si pentru siguranta alimentelor nr. 64/2007,,,title,0
+ordin-ansvsa-2400-2025,ordin-48-2021,amends,,,,ordinul presedintelui autoritatii nationale sanitare veterinare si pentru siguranta alimentelor nr. 48/2021,,,title,0
+ordin-aparare-112-2025,legea-168-2020,amends,,,,normele de aplicare in ministerul apararii nationale a legii nr. 168/2020,,,title,0
+ordin-aparare-125-2025,hg-1314-2004,implements,,,,normelor de aplicare a prevederilor hotararii guvernului nr. 1.314/2004,,,title,0
+ordin-aspaas-381-2025,legea-162-2017,amends,,,,normelor de stabilire a situatiilor in care se aplica prevederile art. 39 din legea nr. 162/2017,,,title,0
+ordin-aspaas-390-2025,ordin-340-2025,amends,,,,ordinului presedintelui autoritatii pentru supravegherea publica a activitatii de audit statutar nr. 340/2025,,,title,0
+ordin-aspaas-422-2025,ordin-287-2025,amends,,,,ordinului presedintelui autoritatii pentru supravegherea publica a activitatii de audit statutar nr. 287/2025,,,title,0
+ordin-aspaas-423-2025,ordin-90-2018,amends,,,,ordinului presedintelui autoritatii pentru supravegherea publica a activitatii de audit statutar nr. 90/2018,,,title,0
+ordin-bnr-2-2025,ordin-2-2020,amends,,,,ordinului bancii nationale a romaniei nr. 2/2020,,,title,0
+ordin-bnr-3-2025,ordin-3-2024,amends,,,,ordinului bancii nationale a romaniei nr. 3/2024,,,title,0
+ordin-bnr-6-2025,ordin-3-2022,amends,,,,ordinului bancii nationale a romaniei nr. 3/2022,,,title,0
+ordin-cnas-16-2025,ordin-141-2017,amends,,,,ordinul presedintelui casei nationale de asigurari de sanatate nr. 141/2017,,,title,0
+ordin-cnas-67-2025,ordin-141-2017,amends,,,,ordinul presedintelui casei nationale de asigurari de sanatate nr. 141/2017,,,title,0
+ordin-cnas-384-2025,ordin-234-2022,amends,,,,ordinului presedintelui casei nationale de asigurari de sanatate nr. 234/2022,,,title,0
+ordin-cnas-549-2025,ordin-516-2023,amends,,,,ordinului presedintelui casei nationale de asigurari de sanatate nr. 516/2023,,,title,0
+ordin-cnas-597-2025,ordin-141-2017,amends,,,,ordinul presedintelui casei nationale de asigurari de sanatate nr. 141/2017,,,title,0
+ordin-cnas-753-2025,ordin-180-2022,amends,,,,"normelor tehnice de realizare a programelor nationale de sanatate curative, aprobate prin ordinul presedintelui casei na",,,title,0
+ordin-cnas-762-2025,ordin-141-2017,amends,,,,ordinul presedintelui casei nationale de asigurari de sanatate nr. 141/2017,,,title,0
+ordin-cnas-835-2025,ordin-563-2023,amends,,,,ordinului presedintelui casei nationale de asigurari de sanatate nr. 563/2023,,,title,0
+ordin-cnas-895-2025,ordin-141-2017,amends,,,,ordinul presedintelui casei nationale de asigurari de sanatate nr. 141/2017,,,title,0
+ordin-cnas-1272-2025,ordin-180-2022,amends,,,,"normelor tehnice de realizare a programelor nationale de sanatate curative, aprobate prin ordinul presedintelui casei na",,,title,0
+ordin-cnas-1356-2025,ordin-563-2023,amends,,,,ordinului presedintelui casei nationale de asigurari de sanatate nr. 563/2023,,,title,0
+ordin-cnas-1431-2025,ordin-141-2017,amends,,,,ordinul presedintelui casei nationale de asigurari de sanatate nr. 141/2017,,,title,0
+ordin-cnas-1433-2025,ordin-234-2022,amends,,,,ordinului presedintelui casei nationale de asigurari de sanatate nr. 234/2022,,,title,0
+ordin-cnas-1833-2025,ordin-516-2023,amends,,,,ordinului presedintelui casei nationale de asigurari de sanatate nr. 516/2023,,,title,0
+ordin-cnas-1908-2025,ordin-180-2022,amends,,,,"normelor tehnice de realizare a programelor nationale de sanatate curative, aprobate prin ordinul presedintelui casei na",,,title,0
+ordin-cnas-1944-2025,ordin-141-2017,amends,,,,ordinul presedintelui casei nationale de asigurari de sanatate nr. 141/2017,,,title,0
+ordin-cncan-170-2025,ordin-336-2018,amends,,,,"normelor privind autorizarea instalatiilor nucleare, aprobate prin ordinul presedintelui comisiei nationale pentru contr",,,title,0
+ordin-cnpp-954-2025,regulament-883-2004,implements,,,,"instructiunilor de aplicare a prevederilor specifice pensiilor de invaliditate, in aplicarea regulamentului (ce) nr. 883",,,title,0
+ordin-cultura-2771-2025,ordin-2566-2020,amends,,,,ordinul ministrului culturii nr. 2.566/2020,,,title,0
+ordin-dezvoltare-564-2025,oug-7-2023,amends,,,,normelor metodologice de aplicare a prevederilor ordonantei de urgenta a guvernului nr. 7/2023,,,title,0
+ordin-dezvoltare-565-2025,ordin-435-2021,amends,,,,"ordinului ministrului dezvoltarii, lucrarilor publice si administratiei nr. 435/2021",,,title,0
+ordin-dezvoltare-566-2025,oug-49-2023,amends,,,,normelor metodologice de aplicare a prevederilor ordonantei de urgenta a guvernului nr. 49/2023,,,title,0
+ordin-dezvoltare-576-2025,legea-212-2022,amends,,,,normelor metodologice de aplicare a prevederilor legii nr. 212/2022,,,title,0
+ordin-dezvoltare-878-2025,oug-95-2021,amends,,,,normelor metodologice pentru punerea in aplicare a prevederilor ordonantei de urgenta a guvernului nr. 95/2021,,,title,0
+ordin-dezvoltare-881-2025,legea-212-2022,amends,,,,normelor metodologice de aplicare a prevederilor legii nr. 212/2022,,,title,0
+ordin-dezvoltare-989-2025,ordin-2319-2004,amends,,,,"ordinul ministrului transporturilor, constructiilor si turismului nr. 2.319/2004",,,title,0
+ordin-dezvoltare-1620-2025,ordin-745-2025,amends,,,,"ordinul ministrului dezvoltarii, lucrarilor publice si administratiei nr. 745/2025",,,title,0
+ordin-dezvoltare-1660-2025,oug-95-2021,amends,,,,normelor metodologice pentru punerea in aplicare a prevederilor ordonantei de urgenta a guvernului nr. 95/2021,,,title,0
+ordin-dezvoltare-1794-2025,oug-18-2009,amends,,,,normelor metodologice de aplicare a ordonantei de urgenta a guvernului nr. 18/2009,,,title,0
+ordin-dezvoltare-2025-2025,ordin-1254-2022,amends,,,,"ordinului ministrului dezvoltarii, lucrarilor publice si administratiei nr. 1.254/2022",,,title,0
+ordin-dnsc-3-2025,oug-155-2024,implements,,,,"normelor de aplicare a dispozitiilor privind supravegherea, verificarea si controlul respectarii prevederilor ordonantei",,,title,0
+ordin-economie-425-2025,ordin-1120-2024,amends,,,,ordinul ministrului energiei nr. 1.120/2024,,,title,0
+ordin-economie-1186-2025,ordin-1137-2023,amends,,,,ordinul ministrului energiei nr. 1.137/2023,,,title,0
+ordin-economie-1247-2025,ordin-1120-2024,amends,,,,ordinului ministrului energiei nr. 1.120/2024,,,title,0
+ordin-educatie-3185-2025,ordin-498-2021,amends,,,,"ordinul ministrului cercetarii, inovarii si digitalizarii nr. 498/2021",,,title,0
+ordin-educatie-3531-2025,ordin-3122-2019,amends,,,,ordinului ministrului educatiei nationale nr. 3.122/2019,,,title,0
+ordin-educatie-3537-2025,ordin-3998-2024,amends,,,,ordinul ministrului educatiei nr. 3.998/2024,,,title,0
+ordin-educatie-3599-2025,ordin-6216-2022,amends,,,,ordinul ministrului educatiei nr. 6.216/2022,,,title,0
+ordin-educatie-3712-2025,ordin-5219-2010,amends,,,,"ordinul ministrului educatiei, cercetarii, tineretului si sportului nr. 5.219/2010",,,title,0
+ordin-educatie-4273-2025,ordin-6477-2024,amends,,,,ordinului ministrului educatiei nr. 6.477/2024,,,title,0
+ordin-educatie-4498-2025,ordin-5726-2024,amends,,,,"regulamentului-cadru de organizare si functionare a unitatilor de invatamant preuniversitar, aprobat prin ordinul minist",,,title,0
+ordin-educatie-5415-2025,ordin-3036-2024,amends,,,,ordinul ministrului educatiei nr. 3.036/2024,,,title,0
+ordin-educatie-6035-2025,ordin-5516-2024,amends,,,,ordinul ministrului educatiei nr. 5.516/2024,,,title,0
+ordin-educatie-6055-2025,ordin-5726-2024,amends,,,,"regulamentului-cadru de organizare si functionare a unitatilor de invatamant preuniversitar, aprobat prin ordinul minist",,,title,0
+ordin-educatie-6226-2025,ordin-5726-2024,amends,,,,"regulamentului-cadru de organizare si functionare a unitatilor de invatamant preuniversitar, aprobat prin ordinul minist",,,title,0
+ordin-educatie-6427-2025,ordin-5205-2025,amends,,,,ordinului ministrului educatiei si cercetarii nr. 5.205/2025,,,title,0
+ordin-educatie-6586-2025,ordin-4620-2024,amends,,,,ordinul ministrului educatiei nr. 4.620/2024,,,title,0
+ordin-educatie-6815-2025,ordin-5219-2010,amends,,,,"ordinul ministrului educatiei, cercetarii, tineretului si sportului nr. 5.219/2010",,,title,0
+ordin-educatie-6823-2025,ordin-5414-2025,amends,,,,ordinului ministrului educatiei si cercetarii nr. 5.414/2025,,,title,0
+ordin-educatie-6855-2025,ordin-21451-2022,amends,,,,"ordinul ministrului cercetarii, inovarii si digitalizarii nr. 21.451/2022",,,title,0
+ordin-educatie-6882-2025,ordin-6869-2024,amends,,,,"regulamentului-cadru privind organizarea si functionarea comisiilor de etica universitara, aprobat prin ordinul ministru",,,title,0
+ordin-educatie-6884-2025,ordin-6469-2022,amends,,,,ordinului ministrului educatiei nr. 6.469/2022,,,title,0
+ordin-educatie-6912-2025,ordin-4500-2024,amends,,,,ordinul ministrului educatiei nr. 4.500/2024,,,title,0
+ordin-educatie-6975-2025,ordin-4262-2024,amends,,,,ordinul ministrului educatiei nr. 4.262/2024,,,title,0
+ordin-educatie-7106-2025,ordin-7844-2024,amends,,,,ordinului ministrului educatiei nr. 7.844/2024,,,title,0
+ordin-educatie-7119-2025,ordin-20466-2022,amends,,,,"ordinul ministrului cercetarii, inovarii si digitalizarii nr. 20.466/2022",,,title,0
+ordin-externe-392-2025,legea-270-2024,implements,,,,normelor metodologice de punere in aplicare a legii nr. 270/2024,,,title,0
+ordin-externe-2364-2025,ordin-1371-2023,amends,,,,ordinul ministrului afacerilor externe nr. 1.371/2023,,,title,0
+ordin-externe-2656-2025,ordin-1124-2015,amends,,,,ordinul ministrului afacerilor externe nr. 1.124/2015,,,title,0
+ordin-externe-3166-2025,ordin-1124-2015,amends,,,,ordinul ministrului afacerilor externe nr. 1.124/2015,,,title,0
+ordin-finante-109-2025,ordin-10-2024,amends,,,,ordinului ministrului finantelor nr. 10/2024,,,title,0
+ordin-finante-114-2025,ordin-3044-2024,amends,,,,ordinului ministrului finantelor nr. 3.044/2024,,,title,0
+ordin-finante-254-2025,ordin-1059-2008,amends,,,,"normelor metodologice pentru inregistrarea si raportarea datoriei publice, aprobate prin ordinul ministrului economiei s",,,title,0
+ordin-finante-483-2025,ordin-1054-2016,repeals,,,,ordinului ministrului finantelor publice nr. 1.054/2016,,,title,0
+ordin-finante-658-2025,ordin-2737-2020,amends,,,,ordinul ministrului finantelor publice nr. 2.737/2020,,,title,0
+ordin-finante-855-2025,ordin-1528-2022,repeals,,,,ordinului ministrului finantelor nr. 1.528/2022,,,title,0
+ordin-finante-1192-2025,ordin-1801-2020,amends,,,,ordinului ministrului finantelor publice nr. 1.801/2020,,,title,0
+ordin-finante-1224-2025,oug-146-2002,amends,,,,normele metodologice de aplicare a prevederilor ordonantei de urgenta a guvernului nr. 146/2002,,,title,0
+ordin-finante-1225-2025,ordin-517-2016,amends,,,,ordinului ministrului finantelor publice nr. 517/2016,,,title,0
+ordin-finante-1514-2025,ordin-86-2005,amends,,,,ordinul ministrului finantelor publice nr. 86/2005,,,title,0
+ordin-finante-1855-2025,ordin-736-2025,amends,,,,"ordinul viceprim-ministrului, ministrul finantelor, nr. 736/2025",,,title,0
+ordin-finante-1908-2025,ordin-1801-2020,amends,,,,ordinul ministrului finantelor publice nr. 1.801/2020,,,title,0
+ordin-finante-1912-2025,ordin-3216-2020,amends,,,,ordinul ministrului finantelor nr. 3.216/2020,,,title,0
+ordin-finante-1960-2025,ordin-925-2017,amends,,,,ordinului ministrului finantelor publice nr. 925/2017,,,title,0
+ordin-finante-1997-2025,ordin-736-2025,amends,,,,"ordinul viceprim-ministrului, ministrul finantelor, nr. 736/2025",,,title,0
+ordin-finante-2037-2025,ordin-1140-2025,amends,,,,"normelor metodologice privind angajarea, lichidarea, ordonantarea si plata cheltuielilor bugetare, aprobate prin ordinul",,,title,0
+ordin-finante-2107-2025,ordin-1983-2025,amends,,,,"normelor metodologice privind incheierea exercitiului bugetar al anului 2025, aprobate prin ordinul ministrului finantel",,,title,0
+ordin-finante-2117-2025,ordin-1960-2022,amends,,,,ordinului ministrului finantelor nr. 1.960/2022,,,title,0
+ordin-fonduri-714-2025,ordin-2041-2023,amends,,,,ordinul ministrului investitiilor si proiectelor europene nr. 2.041/2023,,,title,0
+ordin-fonduri-758-2025,ordin-464-2024,amends,,,,ordinului ministrului investitiilor si proiectelor europene nr. 464/2024,,,title,0
+ordin-interne-1-2025,ordin-140-2015,repeals,,,,ordinul ministrului afacerilor interne nr. 140/2015,,,title,0
+ordin-interne-56-2025,ordin-10-2017,amends,,,,"regulamentului de organizare si functionare a aparatului propriu al inspectoratului general pentru imigrari, aprobat pri",,,title,0
+ordin-interne-126-2025,ordin-176-2012,amends,,,,ordinului ministrului administratiei si internelor nr. 176/2012,,,title,0
+ordin-interne-135-2025,ordin-93-2022,amends,,,,"regulamentului de organizare si functionare a clubului sportiv ""dinamo"" bucuresti, aprobat prin ordinul ministrului afac",,,title,0
+ordin-interne-153-2025,ordin-118-2012,amends,,,,ordinului ministrului administratiei si internelor nr. 118/2012,,,title,0
+ordin-interne-165-2025,ordin-76-2015,amends,,,,"ordinului viceprim-ministrului, ministrul afacerilor interne, nr. 76/2015",,,title,0
+ordin-interne-167-2025,ordin-224-2011,amends,,,,ordinului ministrului administratiei si internelor nr. 224/2011,,,title,0
+ordin-interne-189-2025,ordin-224-2024,amends,,,,"regulamentului de organizare si functionare a directiei fonduri externe nerambursabile, aprobat prin ordinul viceprim-mi",,,title,0
+ordin-interne-204-2025,ordin-76-2015,amends,,,,"ordinul viceprim-ministrului, ministrul afacerilor interne, nr. 76/2015",,,title,0
+ordin-mediu-215-2025,ordin-3173-2023,amends,,,,"ordinul ministrului mediului, apelor si padurilor nr. 3.173/2023",,,title,0
+ordin-mediu-3311-2025,ordin-1818-2020,amends,,,,"ordinului ministrului mediului, apelor si padurilor nr. 1.818/2020",,,title,0
+ordin-munca-139-2025,ordin-799-2022,amends,,,,ordinul ministrului muncii si solidaritatii sociale nr. 799/2022,,,title,0
+ordin-munca-2143-2025,ordin-1107-2025,amends,,,,"ordinul ministrului muncii, familiei, tineretului si solidaritatii sociale nr. 1.107/2025",,,title,0
+ordin-penitenciare-267-2025,decizie-500165-2017,amends,,,,"instructiunilor privind organizarea muncii persoanelor private de libertate, aprobate prin decizia directorului general ",,,title,0
+ordin-sanatate-17-2025,ordin-183-2005,amends,,,,ordinul ministrului sanatatii nr. 183/2005,,,title,0
+ordin-sanatate-52-2025,ordin-1479-2014,amends,,,,ordinul ministrului sanatatii nr. 1.479/2014,,,title,0
+ordin-sanatate-328-2025,ordin-1030-2009,amends,,,,ordinului ministrului sanatatii nr. 1.030/2009,,,title,0
+ordin-sanatate-337-2025,ordin-1390-2010,repeals,,,,ordinului ministrului sanatatii nr. 1.390/2010,,,title,0
+ordin-sanatate-364-2025,ordin-450-2015,amends,,,,ordinului ministrului sanatatii nr. 450/2015,,,title,0
+ordin-sanatate-371-2025,ordin-477-2009,amends,,,,ordinul ministrului sanatatii nr. 477/2009,,,title,0
+ordin-sanatate-374-2025,ordin-2933-2023,amends,,,,ordinul ministrului sanatatii nr. 2.933/2023,,,title,0
+ordin-sanatate-444-2025,hg-521-2023,amends,,,,normelor metodologice de aplicare a hotararii guvernului nr. 521/2023,,,title,0
+ordin-sanatate-465-2025,ordin-1301-2007,amends,,,,ordinului ministrului sanatatii publice nr. 1.301/2007,,,title,0
+ordin-sanatate-482-2025,ordin-368-2017,amends,,,,ordinul ministrului sanatatii nr. 368/2017,,,title,0
+ordin-sanatate-539-2025,ordin-4283-2024,amends,,,,ordinul ministrului sanatatii nr. 4.283/2024,,,title,0
+ordin-sanatate-540-2025,ordin-1992-2023,amends,,,,ordinului ministrului sanatatii nr. 1.992/2023,,,title,0
+ordin-sanatate-730-2025,ordin-736-2019,amends,,,,ordinului ministrului sanatatii nr. 736/2019,,,title,0
+ordin-sanatate-776-2025,ordin-607-2019,amends,,,,ordinul ministrului sanatatii nr. 607/2019,,,title,0
+ordin-sanatate-796-2025,ordin-1323-2021,amends,,,,ordinul ministrului sanatatii nr. 1.323/2021,,,title,0
+ordin-sanatate-817-2025,ordin-592-2017,amends,,,,ordinului ministrului sanatatii nr. 592/2017,,,title,0
+ordin-sanatate-819-2025,ordin-1224-2006,amends,,,,ordinul ministrului sanatatii publice nr. 1.224/2006,,,title,0
+ordin-sanatate-838-2025,ordin-1245-2021,amends,,,,ordinului ministrului sanatatii nr. 1.245/2021,,,title,0
+ordin-sanatate-858-2025,ordin-3120-2023,amends,,,,ordinului ministrului sanatatii nr. 3.120/2023,,,title,0
+ordin-sanatate-860-2025,ordin-2396-2023,amends,,,,ordinului ministrului sanatatii nr. 2.396/2023,,,title,0
+ordin-sanatate-887-2025,ordin-3626-2022,amends,,,,ordinului ministrului sanatatii nr. 3.626/2022,,,title,0
+ordin-sanatate-896-2025,ordin-477-2009,amends,,,,ordinul ministrului sanatatii nr. 477/2009,,,title,0
+ordin-sanatate-897-2025,ordin-402-2018,amends,,,,ordinul ministrului sanatatii nr. 402/2018,,,title,0
+ordin-sanatate-941-2025,ordin-1584-2023,repeals,,,,ordinul ministrului sanatatii nr. 1.584/2023,,,title,0
+ordin-sanatate-1018-2025,hg-521-2023,amends,,,,normelor metodologice de aplicare a hotararii guvernului nr. 521/2023,,,title,0
+ordin-sanatate-1112-2025,ordin-3515-2022,amends,,,,ordinul ministrului sanatatii nr. 3.515/2022,,,title,0
+ordin-sanatate-1142-2025,ordin-861-2014,amends,,,,ordinului ministrului sanatatii nr. 861/2014,,,title,0
+ordin-sanatate-1168-2025,ordin-1069-2007,amends,,,,"normele privind suplimentele alimentare, aprobate prin ordinul ministrului sanatatii publice nr. 1.069/2007",,,title,0
+ordin-sanatate-1171-2025,ordin-1419-2017,amends,,,,ordinului ministrului sanatatii nr. 1.419/2017,,,title,0
+ordin-sanatate-1200-2025,ordin-450-2015,amends,,,,ordinului ministrului sanatatii nr. 450/2015,,,title,0
+ordin-sanatate-1226-2025,ordin-1246-2007,amends,,,,ordinul ministrului sanatatii publice nr. 1.246/2007,,,title,0
+ordin-sanatate-1264-2025,ordin-1648-2022,amends,,,,ordinului ministrului sanatatii nr. 1.648/2022,,,title,0
+ordin-sanatate-1266-2025,ordin-3303-2023,amends,,,,ordinul ministrului sanatatii nr. 3.303/2023,,,title,0
+ordin-sanatate-1274-2025,ordin-477-2009,amends,,,,ordinul ministrului sanatatii nr. 477/2009,,,title,0
+ordin-sanatate-1351-2025,ordin-368-2017,amends,,,,ordinul ministrului sanatatii nr. 368/2017,,,title,0
+ordin-sanatate-1370-2025,ordin-1344-2006,amends,,,,ordinul ministrului sanatatii publice nr. 1.344/2006,,,title,0
+ordin-sanatate-1487-2025,ordin-1456-2020,amends,,,,ordinului ministrului sanatatii nr. 1.456/2020,,,title,0
+ordin-sanatate-1544-2025,ordin-1297-2025,amends,,,,ordinului ministrului sanatatii nr. 1.297/2025,,,title,0
+ordin-sanatate-1577-2025,ordin-1196-2013,amends,,,,ordinului ministrului sanatatii nr. 1.196/2013,,,title,0
+ordin-sanatate-1582-2025,ordin-541-2025,amends,,,,ordinului ministrului sanatatii nr. 541/2025,,,title,0
+ordin-sanatate-1599-2025,ordin-1344-2006,amends,,,,ordinul ministrului sanatatii publice nr. 1.344/2006,,,title,0
+ordin-sanatate-1644-2025,ordin-964-2022,amends,,,,"normelor tehnice de realizare a programelor nationale de sanatate publica, aprobate prin ordinul ministrului sanatatii n",,,title,0
+ordin-sanatate-1677-2025,ordin-418-2005,amends,,,,ordinului ministrului sanatatii nr. 418/2005,,,title,0
+ordin-sanatate-1712-2025,ordin-852-2025,amends,,,,ordinul ministrului sanatatii nr. 852/2025,,,title,0
+ordin-sanatate-1774-2025,ordin-875-2015,amends,,,,ordinului ministrului sanatatii nr. 875/2015,,,title,0
+ordin-sanatate-1775-2025,ordin-418-2005,amends,,,,ordinului ministrului sanatatii nr. 418/2005,,,title,0
+ordin-sanatate-1786-2025,ordin-63-2024,amends,,,,ordinului ministrului sanatatii nr. 63/2024,,,title,0
+ordin-sanatate-1833-2025,ordin-5-2020,amends,,,,ordinului ministrului sanatatii nr. 5/2020,,,title,0
+ordin-sanatate-1837-2025,ordin-368-2017,amends,,,,ordinului ministrului sanatatii nr. 368/2017,,,title,0
+ordin-sanatate-1860-2025,ordin-3931-2022,amends,,,,ordinul ministrului sanatatii nr. 3.931/2022,,,title,0
+ordin-sanatate-1964-2025,ordin-166-2023,amends,,,,ordinului ministrului sanatatii nr. 166/2023,,,title,0
+ordin-sanatate-1965-2025,ordin-418-2005,amends,,,,ordinului ministrului sanatatii nr. 418/2005,,,title,0
+ordin-sanatate-1983-2025,ordin-1250-2022,amends,,,,ordinului ministrului sanatatii nr. 1.250/2022,,,title,0
+ordin-sanatate-2056-2025,ordin-368-2017,amends,,,,ordinului ministrului sanatatii nr. 368/2017,,,title,0
+ordin-sanatate-2132-2025,ordin-1030-2009,amends,,,,ordinului ministrului sanatatii nr. 1.030/2009,,,title,0
+ordin-sanatate-2284-2025,ordin-477-2009,amends,,,,ordinul ministrului sanatatii nr. 477/2009,,,title,0
+ordin-sport-853-2025,ordin-553-2019,amends,,,,ordinului ministrului tineretului si sportului nr. 553/2019,,,title,0
+ordin-transporturi-54-2025,ordin-1305-2012,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.305/2012,,,title,0
+ordin-transporturi-66-2025,ordin-1817-2005,amends,,,,"ordinul ministrului transporturilor, constructiilor si turismului nr. 1.817/2005",,,title,0
+ordin-transporturi-101-2025,ordin-1272-2014,amends,,,,ordinul ministrului transporturilor nr. 1.272/2014,,,title,0
+ordin-transporturi-187-2025,ordin-1613-2014,amends,,,,ordinul ministrului transporturilor nr. 1.613/2014,,,title,0
+ordin-transporturi-222-2025,ordin-1039-2024,amends,,,,ordinului ministrului transporturilor si infrastructurii nr. 1.039/2024,,,title,0
+ordin-transporturi-336-2025,ordin-1448-2023,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.448/2023,,,title,0
+ordin-transporturi-363-2025,ordin-244-2020,amends,,,,"ordinul ministrului transporturilor, infrastructurii si comunicatiilor nr. 244/2020",,,title,0
+ordin-transporturi-397-2025,ordin-426-2006,repeals,,,,"ordinul ministrului transporturilor, constructiilor si turismului nr. 426/2006",,,title,0
+ordin-transporturi-398-2025,ordin-1309-2014,amends,,,,ordinului ministrului transporturilor nr. 1.309/2014,,,title,0
+ordin-transporturi-426-2025,ordin-2262-2005,amends,,,,"ordinului ministrului transporturilor, constructiilor si turismului nr. 2.262/2005",,,title,0
+ordin-transporturi-534-2025,ordin-1305-2012,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.305/2012,,,title,0
+ordin-transporturi-563-2025,ordin-1448-2023,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.448/2023,,,title,0
+ordin-transporturi-695-2025,ordin-1359-2022,amends,,,,"ordinul viceprim-ministrului, ministrul transporturilor si infrastructurii, nr. 1.359/2022",,,title,0
+ordin-transporturi-975-2025,ordin-1039-2024,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.039/2024,,,title,0
+ordin-transporturi-1139-2025,ordin-630-2007,amends,,,,"ordinului ministrului transporturilor, constructiilor si turismului nr. 630/2007",,,title,0
+ordin-transporturi-1317-2025,ordin-1848-2023,amends,,,,ordinului ministrului transporturilor si infrastructurii nr. 1.848/2023,,,title,0
+ordin-transporturi-1336-2025,ordin-1026-2021,amends,,,,ordinului ministrului transporturilor si infrastructurii nr. 1.026/2021,,,title,0
+ordin-transporturi-1727-2025,ordin-1318-2025,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.318/2025,,,title,0
+ordin-transporturi-1774-2025,ordin-1448-2023,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.448/2023,,,title,0
+ordin-transporturi-1901-2025,ordin-358-2012,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 358/2012,,,title,0
+ordin-transporturi-1975-2025,ordin-1448-2023,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.448/2023,,,title,0
+ordin-transporturi-1982-2025,ordin-655-2016,amends,,,,"regulamentul de organizare si functionare a comisiei de atestare, disciplina si solutionare a contestatiilor, aprobat pr",,,title,0
+ordin-transporturi-2007-2025,ordin-615-2015,amends,,,,ordinul ministrului transporturilor nr. 615/2015,,,title,0
+ordin-transporturi-2116-2025,ordin-1252-2014,amends,,,,ordinului ministrului transporturilor nr. 1.252/2014,,,title,0
+ordin-transporturi-2117-2025,ordin-271-2022,amends,,,,"ordinul viceprim-ministrului, ministrul transporturilor si infrastructurii, nr. 271/2022",,,title,0
+ordin-transporturi-2185-2025,ordin-1532-2017,amends,,,,ordinul ministrului transporturilor nr. 1.532/2017,,,title,0
+ordin-transporturi-2242-2025,ordin-66-2008,repeals,,,,ordinului ministrului transporturilor nr. 66/2008,,,title,0
+ordin-transporturi-2271-2025,ordin-45-2022,amends,,,,"ordinului viceprim-ministrului, ministrul transporturilor si infrastructurii, nr. 45/2022",,,title,0
+ordin-transporturi-2284-2025,ordin-342-2017,amends,,,,ordinul ministrului transporturilor nr. 342/2017,,,title,0
+ordin-transporturi-2287-2025,ordin-1448-2023,amends,,,,ordinul ministrului transporturilor si infrastructurii nr. 1.448/2023,,,title,0
+ordin-transporturi-2288-2025,ordin-444-2018,amends,,,,ordinului ministrului transporturilor nr. 444/2018,,,title,0
+ordin-transporturi-2294-2025,ordin-1817-2005,amends,,,,"ordinul ministrului transporturilor, constructiilor si turismului nr. 1.817/2005",,,title,0
+ordin-vama-1420-2025,ordin-975-2025,amends,,,,ordinului presedintelui autoritatii vamale romane nr. 975/2025,,,title,0
+regulament-asf-2-2025,regulament-10-2015,amends,,,,regulamentului autoritatii de supraveghere financiara nr. 10/2015,,,title,0
+regulament-asf-4-2025,regulament-8-2024,amends,,,,regulamentului autoritatii de supraveghere financiara nr. 8/2024,,,title,0
+regulament-asf-5-2025,regulament-3-2016,amends,,,,regulamentului autoritatii de supraveghere financiara nr. 3/2016,,,title,0
+regulament-asf-6-2025,regulament-13-2018,amends,,,,regulamentului autoritatii de supraveghere financiara nr. 13/2018,,,title,0
+regulament-asf-7-2025,regulament-5-2024,amends,,,,regulamentului autoritatii de supraveghere financiara nr. 5/2024,,,title,0
+regulament-bnr-2-2025,regulament-5-2013,amends,,,,regulamentului bancii nationale a romaniei nr. 5/2013,,,title,0
+regulament-bnr-3-2025,regulament-4-2021,amends,,,,regulamentului bancii nationale a romaniei nr. 4/2021,,,title,0
+regulament-bnr-5-2025,regulament-8-2022,amends,,,,regulamentului bancii nationale a romaniei nr. 8/2022,,,title,0
+regulament-fgdb-2-2025,regulament-1-2024,amends,,,,regulamentul fondului de garantare a depozitelor bancare nr. 1/2024,,,title,0

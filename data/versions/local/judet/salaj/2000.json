@@ -3,6 +3,96 @@
  "shard": "local/judet/salaj/2000",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2000",
+   "path": "local/judet/salaj/2000/1",
+   "short": "HCJ Sălaj nr. 1/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2000 privind aprobarea rezultatului inventarierii patrimoniului Consiliului Judetean Salaj, pe anul 1999",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-02-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot12000.pdf",
+     "sha256": "62d265c930f71e3e71682ed921d5c3d3908a3c53b2743e2dcb06169a7f2317fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-10-2000",
+   "path": "local/judet/salaj/2000/10",
+   "short": "HCJ Sălaj nr. 10/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2000 privind scutirea la plata a majorarilor de intarziere pentru neplata la termen a imprumutului acordat Corpului Gardienilor Publici Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-02-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot102000.pdf",
+     "sha256": "4b2e9d922fc15c299f6e82445a265ab3d392760498310454352f1ee56ed69a3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2000",
+   "path": "local/judet/salaj/2000/11",
+   "short": "HCJ Sălaj nr. 11/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2000",
+   "url": null,
+   "versions": [
+    {
+     "from": "2000-02-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot112000.pdf",
+     "sha256": "69170990a02d23fd46122b1e8fc32c7b20ea7faf7188c64a1efaeeea72e35ff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2000",
+   "path": "local/judet/salaj/2000/12",
+   "short": "HCJ Sălaj nr. 12/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2000 privind scutirea la plata a majorarilor de intarziere pentru neplata la termen a chiriei pe anul 1999 si mentinerea si pentru anul 2000 a nivelului chiriei stabilit in anul 1999",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-02-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot122000.pdf",
+     "sha256": "7a82d791395cb44208a0e8b9f9a02593c28838cc71bf7c1f36aa9d375069b88e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2000",
+   "path": "local/judet/salaj/2000/13",
+   "short": "HCJ Sălaj nr. 13/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2000 privind aprobarea numarului de posturi aferente functiilor publice de conducere si executie din cadrul aparatului propriu al Consiliului Judetean Salaj si unitatile subordonate",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-04-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot132000.pdf",
+     "sha256": "ab192be49be481b205b8a2f17a79206377426d8db7dc9c761af03f16701b5579"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2000",
+   "path": "local/judet/salaj/2000/14",
+   "short": "HCJ Sălaj nr. 14/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2000 privind modificarea anexei la Hotararea nr.74 din 20 decembrie 1999 a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-04-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot142000.pdf",
+     "sha256": "28960b8eddda7c85ecbafb4ce8faf6212fe4d7a5e68c7d96b215fb0a04001d4f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-15-2000",
    "path": "local/judet/salaj/2000/15",
    "short": "HCJ Sălaj nr. 15/2000",
@@ -18,6 +108,111 @@
    ]
   },
   {
+   "slug": "hcj-salaj-16-2000",
+   "path": "local/judet/salaj/2000/16",
+   "short": "HCJ Sălaj nr. 16/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2000 privind dotarea cu un autoturism a Directiei Judetene pentru Protectia Plantelor Salaj si stabilirea consumului lunar de carburanti aferent acestuia",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-04-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot162000.pdf",
+     "sha256": "b47b942191eb94390272fb5b4a0de7003c0eb2deaa7222a3046796638c01dc4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2000",
+   "path": "local/judet/salaj/2000/17",
+   "short": "HCJ Sălaj nr. 17/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2000 privind aprobarea modificarii pct.4.3.4 din Regulamentul de organizare si functionare al aparatului propriu al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-04-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot172000.pdf",
+     "sha256": "cbc244d44e573f58affa8363fd02ebab9c7e5665d4e5ada659f2e719fa52a509"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-18-2000",
+   "path": "local/judet/salaj/2000/18",
+   "short": "HCJ Sălaj nr. 18/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2000",
+   "url": null,
+   "versions": [
+    {
+     "from": "2000-04-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot182000.pdf",
+     "sha256": "0cb27f33935d9748dd6a1b450ce80df40dd7695bc99b690c8dc4908f67df8ddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2000",
+   "path": "local/judet/salaj/2000/19",
+   "short": "HCJ Sălaj nr. 19/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2000 privind aprobarea bugetului propriu al Consiliului Judetean si ale institutiilor si serviciilor publice subordonate pe anul 2000, repartizarea sumelor alocate de la bugetul de statului pe unitati administrativ - teritoriale si a contului de inchidere a exercitiului bu",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot192000.pdf",
+     "sha256": "1b148fa610cadf72b87f96d3f6381d8ffbcf1c88b97aa6d9b166ffc8a99e0a69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2000",
+   "path": "local/judet/salaj/2000/2",
+   "short": "HCJ Sălaj nr. 2/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2000 privind aprobarea utilizarii disponibilului din fondul de rulment al Consiliului Judetean in suma de 833.368 mii lei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-02-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot22000.pdf",
+     "sha256": "2db3a4f670e7fb6b842cba1ea4a754de2d7853b78d0d757eee19db18cc76e144"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2000",
+   "path": "local/judet/salaj/2000/20",
+   "short": "HCJ Sălaj nr. 20/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2000 privind modificarea anexei nr.4 la Hotararea nr. 19 din 30 iunie 1998 a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot202000.pdf",
+     "sha256": "e5d1c258f0a29d5bc8817e96447c851d826ecf26c66142c5449c950100af1130"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-21-2000",
+   "path": "local/judet/salaj/2000/21",
+   "short": "HCJ Sălaj nr. 21/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 21/2000 privind aprobarea contractarii unui credit extern pentru realizarea obiectivului de investitie \"Îmbunatatirea alimentarii cu apa a localitatilor Zalau, Jibou si Simleu Silvaniei\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-05-31",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot212000.pdf",
+     "sha256": "b28ddb226ef1b5a011397d1bf01f6af103a7b8d2fe55d53848cac7395f75ac7e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-22-2000",
    "path": "local/judet/salaj/2000/22",
    "short": "HCJ Sălaj nr. 22/2000",
@@ -29,6 +224,141 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot222000.pdf",
      "sha256": "7396ef0c9993391315579d66591a21d35791042f727bbb39968ec3e543efcf2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-23-2000",
+   "path": "local/judet/salaj/2000/23",
+   "short": "HCJ Sălaj nr. 23/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2000 privind alegerea Comisiei de validare a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-06-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot232000.pdf",
+     "sha256": "1f566cb774ab4e0513aac44ccc3a34172a60ee2185cadc0622f19b772295506f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2000",
+   "path": "local/judet/salaj/2000/24",
+   "short": "HCJ Sălaj nr. 24/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2000 privind validarea mandatelor consilierilor Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-06-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot242000.pdf",
+     "sha256": "0bd6c69ce3f885eb93a25c3516d197550cd73a7f04bdfbe75631f818e999e95e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2000",
+   "path": "local/judet/salaj/2000/25",
+   "short": "HCJ Sălaj nr. 25/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2000 privind constituirea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-06-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot252000.pdf",
+     "sha256": "205887800b63193f288127f9aa29eeac2e8f1795e61b036ae9990bc26edd3959"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2000",
+   "path": "local/judet/salaj/2000/3",
+   "short": "HCJ Sălaj nr. 3/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2000",
+   "url": null,
+   "versions": [
+    {
+     "from": "2000-02-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot32000.pdf",
+     "sha256": "a5a0a53beed98ec12e79d2dadd1bcc1b7c29bee12d4c5a88ff6e0b54286cd3ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2000",
+   "path": "local/judet/salaj/2000/30",
+   "short": "HCJ Sălaj nr. 30/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2000 privind stabilirea componentei nominale a comisiilor de specialitate ale Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-07-07",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot302000.pdf",
+     "sha256": "e003d25cf70ffc9727d026a25a83d2736adc2994205884e44362ff508d0a186e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-35-2000",
+   "path": "local/judet/salaj/2000/35",
+   "short": "HCJ Sălaj nr. 35/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 35/2000 privind modificarea organigramei si statului de functii pe anul 2000, ale aparatului propriu al Consiliului Judetean Salaj, ca urmare a reorganizarii",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-07-07",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot352000.pdf",
+     "sha256": "b42cc1792905b4f3adca870bff17dd1b0171c5ef79c81848f9b03595a22ec0ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-46-2000",
+   "path": "local/judet/salaj/2000/46",
+   "short": "HCJ Sălaj nr. 46/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 46/2000 privind transmiterea in administrarea Directiei Generale pentru Administrarea Domeniului Public si Privat Salaj a unor bunuri din domeniul public si privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-08-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot462000.pdf",
+     "sha256": "2a1bbcd9cb853d169a74341b6ea775de218f45b37d92db1fa7da39b671972471"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2000",
+   "path": "local/judet/salaj/2000/5",
+   "short": "HCJ Sălaj nr. 5/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2000 privind aprobarea modificarii organigramei si Regulamentului de organizare functionare ale aparatului propriu al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-02-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot52000.pdf",
+     "sha256": "6912b0e5c9d815681e9f1e64654419820f485333cc1bbf6c3b0f564646806795"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2000",
+   "path": "local/judet/salaj/2000/50",
+   "short": "HCJ Sălaj nr. 50/2000",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2000 privind suplimentarea bugetului de venituri si cheltuieli al Consiliului Judetean pe anul 2000",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=114:hotarari-2000&catid=2",
+   "versions": [
+    {
+     "from": "2000-08-11",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2000/hot502000.pdf",
+     "sha256": "c762ac212b1ff83b261c9d4d1aaf5aa2fed41931d406a295812a17c0f4774c3e"
     }
    ]
   },

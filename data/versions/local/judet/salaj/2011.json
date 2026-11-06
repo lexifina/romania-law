@@ -3,6 +3,21 @@
  "shard": "local/judet/salaj/2011",
  "acts": [
   {
+   "slug": "hcj-salaj-1-2011",
+   "path": "local/judet/salaj/2011/1",
+   "short": "HCJ Sălaj nr. 1/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 1/2011 pentru validarea Dispoziţiei Preşedintelui Consiliului Judeţean Sălaj nr. 389 din 29.12.2010 privind majorarea bugetului Judeţului Sălaj pe anul 2010 cu suma de 250,00 mii lei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot12011.pdf",
+     "sha256": "1abe283b54cde32ad4c72e1e7be77ec20eac6831302646fc8073e3be92249ead"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-10-2011",
    "path": "local/judet/salaj/2011/10",
    "short": "HCJ Sălaj nr. 10/2011",
@@ -14,6 +29,96 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot102011.pdf",
      "sha256": "36a598de23aaa3c4c39be3c48f461f467c0c5b6708f725f49c07328404057a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-100-2011",
+   "path": "local/judet/salaj/2011/100",
+   "short": "HCJ Sălaj nr. 100/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 100/2011 privind modificarea Hotararii Consiliului Judetean Salaj nr. 65 din 29.04.2011 pentru aprobarea Regulamentului de organizare si functionare al Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1002011.pdf",
+     "sha256": "90239613292e1cc4f0136b9462a0f6ac5e4ffbbc1d41848c0f545aba497e3a91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-101-2011",
+   "path": "local/judet/salaj/2011/101",
+   "short": "HCJ Sălaj nr. 101/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 101/2011 privind transmiterea unui imobil si a terenului aferent, din domeniul privat al Judetului Salaj si administrarea Consiliului Judetean Salaj, in domeniul public al comunei Buciumi si administrarea Consiliului Local Buciumi",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1012011.pdf",
+     "sha256": "2cbf358a8d312445bcbeeaab77425d29fc2b163efd038ff0c8b3cbed330de7b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-102-2011",
+   "path": "local/judet/salaj/2011/102",
+   "short": "HCJ Sălaj nr. 102/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 102/2011 privind transmiterea unui imobil si a terenului aferent, din domeniul privat al Judetului Salaj si administrarea Consiliului Judetean Salaj, in domeniul public al comunei Ileanda si administrarea Consiliului Local Ileanda",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1022011.pdf",
+     "sha256": "1bbab5a9ffd3aa0a8f3a16bcd816a30761eb5743bb64ed8a965a82c42d05d4ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-103-2011",
+   "path": "local/judet/salaj/2011/103",
+   "short": "HCJ Sălaj nr. 103/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 103/2011 privind transmiterea unui imobil si a terenului aferent, din domeniul privat al Judetului Salaj si administrarea Consiliului Judetean Salaj, in domeniul public al Orasului Simleu Silvaniei si administrarea Consiliului Local Simleu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1032011.pdf",
+     "sha256": "186d641d1832a0b82a3aafdb7a1d0b2de0477c0d2351f9f744d70398f1a4c828"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-104-2011",
+   "path": "local/judet/salaj/2011/104",
+   "short": "HCJ Sălaj nr. 104/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 104/2011 privind darea in folosinta gratuita, pe termen limitat, Consiliului Local Crasna, a unor sectoare din drumurile judetene DJ 191 C: Nusfalau-Crasna-Zalau si DJ 108 G, limita judetul Cluj-Cizer Crasna-Virsolt",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1042011.pdf",
+     "sha256": "e94e6272b873c30081bcb82d4cfeadd66df274841e200eeb01877e6e00468a6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-105-2011",
+   "path": "local/judet/salaj/2011/105",
+   "short": "HCJ Sălaj nr. 105/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 105/2011 privind scoaterea din functionare, casarea si valorificarea unor bunuri aflate in patrimoniul judetului Salaj, concesionate la S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1052011.pdf",
+     "sha256": "f64d5768bdbc2f1a06a7bd394084abf56df8f089af154bc4e1f63e2412310f7d"
     }
    ]
   },
@@ -33,6 +138,81 @@
    ]
   },
   {
+   "slug": "hcj-salaj-107-2011",
+   "path": "local/judet/salaj/2011/107",
+   "short": "HCJ Sălaj nr. 107/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 107/2011 privind aprobarea acordului de asociere intre Judetul Salaj si comunele din judet, pentru realizarea unor lucrari de toaletizare a drumurilor judetene",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1072011.pdf",
+     "sha256": "d0daa8e7b93447b9f6e75229a5a74210a2909b9c1a7521c541c3f46a32740356"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-108-2011",
+   "path": "local/judet/salaj/2011/108",
+   "short": "HCJ Sălaj nr. 108/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2011 privind actualizarea Programului judetean de transport public de persoane, prin curse regulate, pe perioada 2008-2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1082011.pdf",
+     "sha256": "4e8a93c724e87dd02f3710c06be22e0e853e735a6d0d6134e0505e93933a5be9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-109-2011",
+   "path": "local/judet/salaj/2011/109",
+   "short": "HCJ Sălaj nr. 109/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 109/2011 privind transformarea unor posturi, din statul de functii al Spitalului Judetean de Urgenta Zalau, din asistenti medicali cu studii medii, in asistenti medicali cu studii superioare",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1092011.pdf",
+     "sha256": "c31403c0c3e9c839f59c84c601f4370b92bdd86887596c54931da4c00c92a9bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2011",
+   "path": "local/judet/salaj/2011/11",
+   "short": "HCJ Sălaj nr. 11/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2011 privind închirierea unui spaţiu din imobilul situat în municipiul Zalău, strada Avram Iancu, nr. 29, aflat în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot112011.pdf",
+     "sha256": "cb47745032a5a8a1738e6f2aec65573272f44de224d3ae48ca6a1f74da5480db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-110-2011",
+   "path": "local/judet/salaj/2011/110",
+   "short": "HCJ Sălaj nr. 110/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 110/2011 privind rectificarea bugetului propriu al judeţului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1102011.pdf",
+     "sha256": "3c4d6cf188ac7e25cde94df40306200c0b31d612bc5d396da3bb1e530171c92a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-111-2011",
    "path": "local/judet/salaj/2011/111",
    "short": "HCJ Sălaj nr. 111/2011",
@@ -44,6 +224,21 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1112011.pdf",
      "sha256": "64671dc60dfa788626e22174446728e7dd5f03a78e683db7f32dc40ef8179683"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2011",
+   "path": "local/judet/salaj/2011/112",
+   "short": "HCJ Sălaj nr. 112/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2011 privind rectificarea bugetului de venituri şi cheltuieli al Centrului Şcolar pentru Educaţie Incluzivă Şimleu Silvaniei pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1122011.pdf",
+     "sha256": "ac9e8c4046e75a2d404ac08749fb4e8aea57ac369d0368f26b78fc6e13563505"
     }
    ]
   },
@@ -63,6 +258,66 @@
    ]
   },
   {
+   "slug": "hcj-salaj-114-2011",
+   "path": "local/judet/salaj/2011/114",
+   "short": "HCJ Sălaj nr. 114/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 114/2011 privind stabilirea unor măsuri privind derularea la nivelul judeţului Sălaj a Programului de încurajare a consumului de fructe în şcoli, în anul şcolar 2011-2012",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1142011.pdf",
+     "sha256": "9d69932c32029a90045d4f489f68e75a8955f36a8b0781535faf7564a78a5101"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-115-2011",
+   "path": "local/judet/salaj/2011/115",
+   "short": "HCJ Sălaj nr. 115/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 115/2011 privind aprobarea Programului pentru pregătirea şi întreţinerea drumurilor judeţene, din administrarea Consiliului Judeţean Sălaj, pentru perioada de iarnă 2011-2012",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1152011.pdf",
+     "sha256": "ac9f8c75eacf80ee8f581f0c90a5e9b7f9fcf113cbd29e931da58374c163c30d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-116-2011",
+   "path": "local/judet/salaj/2011/116",
+   "short": "HCJ Sălaj nr. 116/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 116/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Reabilitare Drum Judeţean DJ 109, km 32+670-43+330, limită judeţul Cluj-Dragu\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1162011.pdf",
+     "sha256": "41b1c31854842b6c97928fa330ed5552c5a9fd48d85f9f7b801f0b68bf675421"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-117-2011",
+   "path": "local/judet/salaj/2011/117",
+   "short": "HCJ Sălaj nr. 117/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 117/2011 privind aprobarea numărului de posturi, organigramei şi a statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1172011.pdf",
+     "sha256": "987a4d43fe6cc7d05b358e2b26daf984cb0d2b3e3486a7a281461c5f39cb63de"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-118-2011",
    "path": "local/judet/salaj/2011/118",
    "short": "HCJ Sălaj nr. 118/2011",
@@ -74,6 +329,66 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1182011.pdf",
      "sha256": "500769a691d0ed2c90592b1bc79bc192d49f4cf4b62658417bd64dc285035077"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-119-2011",
+   "path": "local/judet/salaj/2011/119",
+   "short": "HCJ Sălaj nr. 119/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 119/2011 privind aprobarea prelungirii termenului de închiriere a unui spaţiu din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-08-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1192011.pdf",
+     "sha256": "e0bb4ee28cef0efa8adf75af976f7c21b9b0a8b7de13feb14e2a789ff47cc0d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2011",
+   "path": "local/judet/salaj/2011/12",
+   "short": "HCJ Sălaj nr. 12/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2011 privind închirierea unui spaţiu din imobilul situat în municipiul Zalău, strada Kossuth, nr.71, aflat în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot122011.pdf",
+     "sha256": "3b5660426ca39f6e68c14e8ffbffe2b85051e11701cbfe485a452102134c7a4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-120-2011",
+   "path": "local/judet/salaj/2011/120",
+   "short": "HCJ Sălaj nr. 120/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 120/2011 privind rectificarea bugetului propriu al judeţului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1202011.pdf",
+     "sha256": "b8f8f6e1e8eaae64b2f219a1d5c51215dca5a5ee89b1297344ec7ed2d6b6f7ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-121-2011",
+   "path": "local/judet/salaj/2011/121",
+   "short": "HCJ Sălaj nr. 121/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 121/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1212011.pdf",
+     "sha256": "0630b0897486c9af91abc22f7cf1253ce57df2b5edefce3d7406bc928be16c7e"
     }
    ]
   },
@@ -93,6 +408,246 @@
    ]
   },
   {
+   "slug": "hcj-salaj-123-2011",
+   "path": "local/judet/salaj/2011/123",
+   "short": "HCJ Sălaj nr. 123/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 123/2011 privind transmiterea unui teren, din domeniul public al judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj, în domeniul public al oraşului Cehu Silvaniei şi administrarea Consiliului Local Cehu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1232011.pdf",
+     "sha256": "fcb3202dd886ea007b87c118c9614ca32bb88c277a0abe43555f15a5ec509266"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-124-2011",
+   "path": "local/judet/salaj/2011/124",
+   "short": "HCJ Sălaj nr. 124/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 124/2011 privind darea în folosinţa gratuită Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj, a unor bunuri imobile situate în oraşele Jibou, Şimleu Silvaniei şi municipiul Zalău, aflate în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1242011.pdf",
+     "sha256": "12c9b36200dfb94f682699b3d93974fc13be168facbfd2e788a06ed6dd4b1322"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-125-2011",
+   "path": "local/judet/salaj/2011/125",
+   "short": "HCJ Sălaj nr. 125/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 125/2011 privind darea in folosinţă gratuită Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj, a unor bunuri imobile situate în oraşul Cehu Silvaniei aflate în domeniul public al Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1252011.pdf",
+     "sha256": "379a708ae8cc0412e5d0d3f2f9e22af20a4c5ada23a6ffd8bf415774fa833e52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-126-2011",
+   "path": "local/judet/salaj/2011/126",
+   "short": "HCJ Sălaj nr. 126/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 126/2011 privind darea in folosinţă gratuită Muzeului Judeţean de Istorie şi Artă Zalău, unor bunuri imobile situate în municipiul Zalău aflate în domeniul public al Judetului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1262011.pdf",
+     "sha256": "f648039ae04476a148e873075e12fabf6902343b8448e83680913ad4e9ed6e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-127-2011",
+   "path": "local/judet/salaj/2011/127",
+   "short": "HCJ Sălaj nr. 127/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 127/2011 privind darea in folosinţă gratuită Spitalului Judeţean de Urgenţă Zalău, a unor bunuri imobile situate în municipiul Zalău, aflate în domeniul public al Judetului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1272011.pdf",
+     "sha256": "92a63ce1ddc8169e4f11117a90c4a9508ef333291a5207ce0345d598958985ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-128-2011",
+   "path": "local/judet/salaj/2011/128",
+   "short": "HCJ Sălaj nr. 128/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 128/2011 privind darea în administarea Direcţiei Judeţene de Evidenţă a Persoanelor Sălaj, a unor spaţii din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1282011.pdf",
+     "sha256": "33bf7884a488aaee59bd51d43dd5f4a1cdb6930d59170d06b90f8d54f2731b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-129-2011",
+   "path": "local/judet/salaj/2011/129",
+   "short": "HCJ Sălaj nr. 129/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 129/2011 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr.62 din 26 octombrie 1999 privind însuşirea inventarului bunurilor care alcătuiesc domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1292011.pdf",
+     "sha256": "eadcda91009dc886663d572f674a9d36dec49af8a9ec7ef61a3e996c36fbf2e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2011",
+   "path": "local/judet/salaj/2011/13",
+   "short": "HCJ Sălaj nr. 13/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2011 privind închirierea unor spaţii din imobilul situat în Zalău, str.Păcii, nr.10, aflate în domeniul privat al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot132011.pdf",
+     "sha256": "abc971697b165f6a7a6d073cc8c37caeeadc412965574513c94ecf054c380b01"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-130-2011",
+   "path": "local/judet/salaj/2011/130",
+   "short": "HCJ Sălaj nr. 130/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 130/2011 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1302011.pdf",
+     "sha256": "f6206a8935e32b9a04930e54b6b77de48f084b95168a364ebf5b433266b18228"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-131-2011",
+   "path": "local/judet/salaj/2011/131",
+   "short": "HCJ Sălaj nr. 131/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 131/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Reabilitare Drum Judeţean DJ 108A, km 7+400 - 30+000 limită Judeţul Cluj-Buciumi-Agrij, Judeţul Sălaj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-09-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1312011.pdf",
+     "sha256": "9c7718aa5808887d9e18187753ec4931a31b10a933690acd50a77cc61268b643"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-132-2011",
+   "path": "local/judet/salaj/2011/132",
+   "short": "HCJ Sălaj nr. 132/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 132/2011 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe perioada 1 ianuarie - 30 septembrie 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1322011.pdf",
+     "sha256": "b3fdfcda10b16ce16eac57bd4a3f47b54a365bb2cec92d3b0ff80e062a477f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-133-2011",
+   "path": "local/judet/salaj/2011/133",
+   "short": "HCJ Sălaj nr. 133/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 133/2011 privind rectificarea bugetului propriu al judeţului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1332011.pdf",
+     "sha256": "46d1d73ff1a84891c30b34a2f6af99f62b670d92e30afb921e5470d0a4ea6df9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-134-2011",
+   "path": "local/judet/salaj/2011/134",
+   "short": "HCJ Sălaj nr. 134/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 134/2011 privind aprobarea prelungirii termenului de închiriere a unui spaţiu din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1342011.pdf",
+     "sha256": "b1c51e063b19c396305938e504b9f4705a35c402c20cb04c98ca1a9d8ad3f163"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-135-2011",
+   "path": "local/judet/salaj/2011/135",
+   "short": "HCJ Sălaj nr. 135/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 135/2011 privind preluarea, din domeniul public al comunei Chieşd şi administrarea Consiliului Local Chieşd, în domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj, a drumului comunal DC 3B în lungime de 3,950 km",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1352011.pdf",
+     "sha256": "63ffc9e48631d3afab0c0626433b25287f2c71fb12fc08ef315670a70ee25f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-136-2011",
+   "path": "local/judet/salaj/2011/136",
+   "short": "HCJ Sălaj nr. 136/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 136/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1362011.pdf",
+     "sha256": "58511de475ee9f72e3b26909cde6a8703fcdc8f1b3c62a521bef5b834da34ade"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-137-2011",
+   "path": "local/judet/salaj/2011/137",
+   "short": "HCJ Sălaj nr. 137/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 137/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Reabilitare drum judetean DJ 108 N, km: 2+820-3+520 şi 4+700-6+600 limită judeţul Cluj - Petrindu, judeţul Sălaj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1372011.pdf",
+     "sha256": "065f46b541df243e25f6fc8b8e8366deb97938fe357b0baa795ebd9c61c64f09"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-138-2011",
    "path": "local/judet/salaj/2011/138",
    "short": "HCJ Sălaj nr. 138/2011",
@@ -104,6 +659,96 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1382011.pdf",
      "sha256": "00c36e44af25819aeecfa8124d9f650615501224e1a5f3bc710767fde63a7d19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-139-2011",
+   "path": "local/judet/salaj/2011/139",
+   "short": "HCJ Sălaj nr. 139/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 139/2011 privind actualizarea Programului judeţean de transport public de persoane, prin curse regulate, pe perioada 2008 – 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1392011.pdf",
+     "sha256": "ec24e986eab9c1753c3996545295f0edf895919d61aa5d8a5996f848b7a14b4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2011",
+   "path": "local/judet/salaj/2011/14",
+   "short": "HCJ Sălaj nr. 14/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2011 privind concesionarea unor spaţii situate în Zalău, str.Kossuth, nr.71, aflate în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot142011.pdf",
+     "sha256": "f875ba93a2756021667e97a021b17e1c233302333c0bfc1c92c448021f51d328"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-140-2011",
+   "path": "local/judet/salaj/2011/140",
+   "short": "HCJ Sălaj nr. 140/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 140/2011 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1402011.pdf",
+     "sha256": "b52dae299ff11349abd7e72bdc51f7b154d6a078a83fb5fd82dcff6d97a96754"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-141-2011",
+   "path": "local/judet/salaj/2011/141",
+   "short": "HCJ Sălaj nr. 141/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 141/2011 pentru modificarea Hotărârii de Consiliu nr. 92 din 30 iunie 2011 privind aprobarea Acordului de parteneriat între Spitalul Judeţean de Urgenţă Zalău, Spitalul Clinic de Urgenţă pentru copii Cluj-Napoca şi Spitalul Municipal Dej, pentru promovarea spre finanţar",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1412011.pdf",
+     "sha256": "eb901aab0948205839a1643f977a2cc8df56dfa146f122e1ab6059ebbb8e2ef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-142-2011",
+   "path": "local/judet/salaj/2011/142",
+   "short": "HCJ Sălaj nr. 142/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 142/2011 privind înlocuirea unui membru în Comisia pentru Protecţia Copilului Sălaj şi actualizarea componenţei Comisiei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1422011.pdf",
+     "sha256": "29c887c45aa39c0dcc90109e3cd6b8e697a9d5ea79b55efa4238685ce03daebd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-143-2011",
+   "path": "local/judet/salaj/2011/143",
+   "short": "HCJ Sălaj nr. 143/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 143/2011 privind rectificarea bugetului propriu al judeţului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1432011.pdf",
+     "sha256": "d6deb18f6db76f4ae6260918b3b4b58ad2cdae67cbc3b266d2a2cbea061fdcd5"
     }
    ]
   },
@@ -123,6 +768,381 @@
    ]
   },
   {
+   "slug": "hcj-salaj-145-2011",
+   "path": "local/judet/salaj/2011/145",
+   "short": "HCJ Sălaj nr. 145/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 145/2011 privind transmiterea unui imobil, compus din construcţii şi teren aferent, din domeniul privat al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj, în domeniul public al comunei Nuşfalău şi administrarea Consiliului Local Nuşfalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1452011.pdf",
+     "sha256": "8f02d3e729139c426f0e8e2667459d6188b1fe53d250a35c5c4b051dc7a5eb5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-146-2011",
+   "path": "local/judet/salaj/2011/146",
+   "short": "HCJ Sălaj nr. 146/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 146/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1462011.pdf",
+     "sha256": "484757202aa1187195bbee493dd601fbadfa8785726e49b95efbf2825bbfd45f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-147-2011",
+   "path": "local/judet/salaj/2011/147",
+   "short": "HCJ Sălaj nr. 147/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 147/2011 privind concesionarea unui imobil,compus din construcţii şi teren aferent, situat în oraşul Cehu Silvaniei, strada Gh. Doja, nr. 97, aflat în domeniul public al judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1472011.pdf",
+     "sha256": "afed070aaac47226e8474c3694a34604bed1d35fdb6df45b183b201d695c98a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-148-2011",
+   "path": "local/judet/salaj/2011/148",
+   "short": "HCJ Sălaj nr. 148/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 148/2011 privind darea în folosinţă gratuită, pe termen limitat, Agenţiei de Dezvoltare Regională Nord-Vest, a unor spaţii din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1482011.pdf",
+     "sha256": "d91d45abe50e09fb12a8833339dfae0190b885a59d61e2a7e20d1446a2d95f87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-149-2011",
+   "path": "local/judet/salaj/2011/149",
+   "short": "HCJ Sălaj nr. 149/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 149/2011 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr. 141 din 20.12.2010 privind înfiinţarea societăţii comerciale cu răspundere limitată \"Pază Obiective şi Intervenţie\", prin reorganizarea Direcţiei de Pază, Protocol şi Administrativ Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1492011.pdf",
+     "sha256": "d5bbab45abbf2ab6d3d72ce582093749f79c664aea7afe2368b714a9e6847cbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2011",
+   "path": "local/judet/salaj/2011/15",
+   "short": "HCJ Sălaj nr. 15/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2011 privind trecerea unui imobil şi a terenului aferent din domeniul privat în domeniul public al Judeţului Sălaj şi transmiterea acestora în domeniul public al Comunei Crasna",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot152011.pdf",
+     "sha256": "f2e16b536d01db8158c302dd479c42d4d065cddd0fc22072713941f9981c56b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-150-2011",
+   "path": "local/judet/salaj/2011/150",
+   "short": "HCJ Sălaj nr. 150/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 150/2011 privind numirea reprezentantului Consiliului Judeţean Sălaj în consiliul de administraţie al Centrului Judeţean de Resurse şi de Asistenţă Educaţională Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1502011.pdf",
+     "sha256": "b1e5e9a11f426292a9a7e456ab852e560de37ff81286860ab9eec46e3352b683"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-151-2011",
+   "path": "local/judet/salaj/2011/151",
+   "short": "HCJ Sălaj nr. 151/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 151/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1512011.pdf",
+     "sha256": "03a1151e31b58d91b714b521b7db555601f47b1465f86c6f42ccaa41c7d8a838"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-152-2011",
+   "path": "local/judet/salaj/2011/152",
+   "short": "HCJ Sălaj nr. 152/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 152/2011 privind rectificarea bugetului propriu al judeţului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1522011.pdf",
+     "sha256": "a6af2a9c9197941dae539d63a0fc0cee2ed8bcbecc16ed5ccb826ec70df82dc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-155-2011",
+   "path": "local/judet/salaj/2011/155",
+   "short": "HCJ Sălaj nr. 155/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 155/2011 pentru modificarea Hotărârii Consiliului Judeţean nr.115 din 29 august 2011 privind aprobarea programului pentru pregătirea şi întreţinerea drumurilor judeţene din administrarea Consiliului Judeţean Sălaj, pentru perioada de iarnă 2011-2012",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1552011.pdf",
+     "sha256": "983bd14d30bb9de654e7e1efd268360c8afcf235a5a8f52aeac3974174bc759a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-156-2011",
+   "path": "local/judet/salaj/2011/156",
+   "short": "HCJ Sălaj nr. 156/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 156/2011 privind aprobarea unor măsuri pentru vânzarea spaţiilor cu destinaţia de cabinete medicale precum şi a spaţiilor în care se desfăşoară activităţi conexe actului medical, aflate în proprietatea privată a judeţului Sălaj şi administrarea consiliului judeţean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1562011.pdf",
+     "sha256": "b6353be7b97c3182e5c7cb1344c015e35a6e3d5f80af70b7a9f96008a68dc097"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-157-2011",
+   "path": "local/judet/salaj/2011/157",
+   "short": "HCJ Sălaj nr. 157/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 157/2011 privind atribuirea unei licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate şi actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2008 – 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1572011.pdf",
+     "sha256": "b32995414da70acd5f0424f6c827c95ede24031d586b0bb76388397d038a31c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-158-2011",
+   "path": "local/judet/salaj/2011/158",
+   "short": "HCJ Sălaj nr. 158/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 158/2011 privind aprobarea atribuirii unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1582011.pdf",
+     "sha256": "e50097ac66afc77a838d91e5c7a7e9afd3ab60001655338ebf3b72392501b61d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-159-2011",
+   "path": "local/judet/salaj/2011/159",
+   "short": "HCJ Sălaj nr. 159/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 159/2011 pentru revocarea Hotărârii Consiliului Judeţean Sălaj nr. 109 din din 29 iulie 2011 privind transformarea unor posturi, din statul de funcţii al Spitalului Judeţean de Urgenţă Zalău, din asistenţi medicali cu studii medii, în asistenţi medicali cu studii superi",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1592011.pdf",
+     "sha256": "c30b79082d4302180ec9bfa7994c4d6831dccafa2178bd1df6085ba26b0761e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2011",
+   "path": "local/judet/salaj/2011/16",
+   "short": "HCJ Sălaj nr. 16/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot162011.pdf",
+     "sha256": "f321e3c2e5e0bad4d6c8be934d6747ee3b59c6e90c13033ae2c87a977e3bb6fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-160-2011",
+   "path": "local/judet/salaj/2011/160",
+   "short": "HCJ Sălaj nr. 160/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 160/2011 privind modificarea Hotărârii Consiliului Judeţean Sălaj nr.6 din 25 ianuarie 2011 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publice din subordin",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1602011.pdf",
+     "sha256": "4344e423cfc719c00412bf86d70c724225d154464e7142116e457306815c1549"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-161-2011",
+   "path": "local/judet/salaj/2011/161",
+   "short": "HCJ Sălaj nr. 161/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 161/2011 pentru modificarea Hotararii Consiliului Judeţean Sălaj nr. 57/2008 privind aprobarea Regulamentului de organizare si functionare a Comisiei de evaluare a persoanelor adulte cu handicap Salaj, reactualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1612011.pdf",
+     "sha256": "1844696a1913cd50519ea28fdc8d6fb69ff77d06f7da178e67724a115a49d7f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-162-2011",
+   "path": "local/judet/salaj/2011/162",
+   "short": "HCJ Sălaj nr. 162/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 162/2011 privind aprobarea planurilor de ocupare a funcţiilor publice pentru anul 2012",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1622011.pdf",
+     "sha256": "36b6ac01b5e8efc905e263c5452ef277705739c51afbc2a2b2a27db6f73f4f09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-163-2011",
+   "path": "local/judet/salaj/2011/163",
+   "short": "HCJ Sălaj nr. 163/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 163/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot1632011.pdf",
+     "sha256": "7ec0d0c890bedf616b5bb7d0e4f91833a7c3f5ad3792f330252f5e532cebe986"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2011",
+   "path": "local/judet/salaj/2011/17",
+   "short": "HCJ Sălaj nr. 17/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot172011.pdf",
+     "sha256": "fec473b7228ab2585acdf7ec43a4688c5abe838b18aa9c10dbf28c0d6cc17195"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-18-2011",
+   "path": "local/judet/salaj/2011/18",
+   "short": "HCJ Sălaj nr. 18/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 18/2011 privind aprobarea închiderii circulaţiei pe un tronson din drumul judeţean DJ 108F",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot182011.pdf",
+     "sha256": "5b473809a8381007771f550b27602b538d02b38858e224996b7e448adfb85680"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2011",
+   "path": "local/judet/salaj/2011/19",
+   "short": "HCJ Sălaj nr. 19/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2011 privind aprobarea acordului de colaborare între Judeţul Satu Mare şi Judeţul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot192011.pdf",
+     "sha256": "44cbc0b2bcf9ed971b890652eae50caa5fe34c4299717d68ffbdc5117be484d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2011",
+   "path": "local/judet/salaj/2011/2",
+   "short": "HCJ Sălaj nr. 2/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2011 privind aprobarea documentaţiei tehnico-economice în faza de studiu de fezabilitate pentru obiectivul de investiţii \"Instalarea sistemelor de încălzire care utilizează energie regenerabilă, inclusiv înlocuirea sau completarea sistemelor clasice de încălzire\" pentr",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot22011.pdf",
+     "sha256": "90e50a34a3d5ac1b98413d6c803296caf82c04e81ec7393906a2ef32e8e0217a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2011",
+   "path": "local/judet/salaj/2011/20",
+   "short": "HCJ Sălaj nr. 20/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot202011.pdf",
+     "sha256": "3826da45fff2247c7eb2dece5e9c944377c9bdc6b868466def042c58068490d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-21-2011",
+   "path": "local/judet/salaj/2011/21",
+   "short": "HCJ Sălaj nr. 21/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 21/2011 privind rectificarea bugetului propriu al judeţului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot212011.pdf",
+     "sha256": "31ec1ad6df1180a1739ebe34db3166623178aed4340ef823e75982a07901db49"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-22-2011",
    "path": "local/judet/salaj/2011/22",
    "short": "HCJ Sălaj nr. 22/2011",
@@ -134,6 +1154,216 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot222011.pdf",
      "sha256": "f41026c03afb35de686b984a375ba7bcf1cca7084e3b2e55dd37f003183aeee9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-23-2011",
+   "path": "local/judet/salaj/2011/23",
+   "short": "HCJ Sălaj nr. 23/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 23/2011 privind aprobarea participării Judeţului Sălaj, cu aport în natură, la majorarea capitalului social la S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot232011.pdf",
+     "sha256": "438a1284fa3a31907a4375dd7623c70a68544a3e04ed76fc93441f6502f9e1fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2011",
+   "path": "local/judet/salaj/2011/24",
+   "short": "HCJ Sălaj nr. 24/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2011 privind modificarea Hotărârii Consiliului Judeţean Sălaj nr. 6 din 25 ianuarie 2011 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publice din subordin",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot242011.pdf",
+     "sha256": "13cfab0f0a8c267be721f3d7111e56937a7315f1c3339767cd639c57c8e05ab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2011",
+   "path": "local/judet/salaj/2011/25",
+   "short": "HCJ Sălaj nr. 25/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2011 privind dezmembrarea terenului situat în municipiul Zalău, strada Salcâmilor, nr. 1, aflat în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot252011.pdf",
+     "sha256": "b08415ea49bde093237adf6c513f5aaa7366cf48d3f2d3a09d8db7d5f438409c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2011",
+   "path": "local/judet/salaj/2011/26",
+   "short": "HCJ Sălaj nr. 26/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2011 privind darea în folosinţă gratuită, pe termen limitat, Centrului de Cultură şi Artă al Judeţului Sălaj, a unui spaţiu din imobilul situat în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot262011.pdf",
+     "sha256": "125736965948f1c7e2dd19159722c542b83c743e456d33ed7d195dd9bfb7ef37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2011",
+   "path": "local/judet/salaj/2011/27",
+   "short": "HCJ Sălaj nr. 27/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2011 pentru modificarea anexei la Hotărârea Consiliului Judeţean Sălaj nr. 129/2010 privind solicitarea transmiterii dreptului de proprietate asupra unui imobil aflat în domeniul public al statului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot272011.pdf",
+     "sha256": "82f5c0f392d096ab3b6ebb5f80e51e0979c1a19d1c6810381984089051418ab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2011",
+   "path": "local/judet/salaj/2011/28",
+   "short": "HCJ Sălaj nr. 28/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2011 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 62 din 26 octombrie 1999, privind însuşirea inventarului care alcătuiesc domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot282011.pdf",
+     "sha256": "dca4c09c789039ea2d0161e88e13f10786d73628b2776867ca0186bdf935a394"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2011",
+   "path": "local/judet/salaj/2011/29",
+   "short": "HCJ Sălaj nr. 29/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2011 privind transmiterea fără plată a unor bunuri aparţinând Staţiei de tratare a apei Vârşolţ, aflate în proprietatea privată a Judeţului Sălaj, către Comuna Vârşolţ",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot292011.pdf",
+     "sha256": "c1878530710b4e8ff4bec3e13b4ad806aac7a3aa10d1237d75e99efc4368b4cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2011",
+   "path": "local/judet/salaj/2011/3",
+   "short": "HCJ Sălaj nr. 3/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Reabilitare Drum Judeţean DJ 108 F, km 4+200-16+000, Şimleu Silvaniei - Moiad\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot32011.pdf",
+     "sha256": "5699cf495bbdecaad87b10f84415f187cc1195ca6f5e65c06b043b768895ae6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2011",
+   "path": "local/judet/salaj/2011/30",
+   "short": "HCJ Sălaj nr. 30/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2011 privind aprobarea Programului de finanţare a activităţilor de asistenţă socială prestate de unităţile de cult şi/sau entităţile care acordă asistenţă socială persoanelor cu Sindrom Down, în judeţul Sălaj, pentru anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot302011.pdf",
+     "sha256": "a8102f7302e42ae9cb8e142f5e91f27a94d96ac4760d532ce22341a61115aaa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-31-2011",
+   "path": "local/judet/salaj/2011/31",
+   "short": "HCJ Sălaj nr. 31/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 31/2011 privind stabilirea contribuţiei lunare de întreţinere datorată de persoanele asistate în centrele rezidenţiale pentru persoane cu handicap din structura Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot312011.pdf",
+     "sha256": "ab43e5667a66fce89cb6df0adc1220d8d4512bccafc3d213b0d95ec5d762ec81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-32-2011",
+   "path": "local/judet/salaj/2011/32",
+   "short": "HCJ Sălaj nr. 32/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 32/2011 privind aprobarea Programului judeţean de transport public de persoane, prin curse regulate, pe perioada 2008 - 2013, modificat şi actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot322011.pdf",
+     "sha256": "5a0becd2ace1fb0d0db3086b5e1da8b1d5ee8434e171d52f53401acab3b9b843"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-34-2011",
+   "path": "local/judet/salaj/2011/34",
+   "short": "HCJ Sălaj nr. 34/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 34/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot342011.pdf",
+     "sha256": "8f09d9a67aee3b663af5a79608be5c5e64330b1b45e51484797be0bc34980d49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2011",
+   "path": "local/judet/salaj/2011/36",
+   "short": "HCJ Sălaj nr. 36/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2011 privind aprobarea Contului de încheiere a exerciţiului bugetar aferent bugetului propriu al Judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului judeţean, pe anul 2010",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot362011.pdf",
+     "sha256": "c6ade3541f18d541f13323b6a1bc818e1db18e4ddc6cf851b9f799c7597b4fd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2011",
+   "path": "local/judet/salaj/2011/37",
+   "short": "HCJ Sălaj nr. 37/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2011 privind rectificarea bugetului propriu al judeţului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot372011.pdf",
+     "sha256": "0561956b63384d55bca7cfc35ad20fd99117321381e2d67d4ad721e11f9144be"
     }
    ]
   },
@@ -153,6 +1383,576 @@
    ]
   },
   {
+   "slug": "hcj-salaj-39-2011",
+   "path": "local/judet/salaj/2011/39",
+   "short": "HCJ Sălaj nr. 39/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 39/2011 privind darea în administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj a unui teren situat în localitatea Crasna nr. 781/a",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot392011.pdf",
+     "sha256": "bc8328bb75a4f11ef642b49d0da984ca3e08f25e3962c6c6e12792658f8fd06e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2011",
+   "path": "local/judet/salaj/2011/4",
+   "short": "HCJ Sălaj nr. 4/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Reabilitare DJ 108 A, km 30+000-40+000, sector- Agrij-Românaşi\", Judeţul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot42011.pdf",
+     "sha256": "b585a9a7aee0cbbf40001f8d49382a90635f07737ffd06cd0b1c6bcecd029873"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-40-2011",
+   "path": "local/judet/salaj/2011/40",
+   "short": "HCJ Sălaj nr. 40/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 40/2011 privind vânzarea unor bunuri aparţinând Staţiei de apă industrială Jibou şi Staţiei de tratare a apei Vârşolţ, aflate în proprietatea privată a judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot402011.pdf",
+     "sha256": "918304577698fe75cdde284441a1e22cd26d27b77482c25703d5292b811b1f7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-41-2011",
+   "path": "local/judet/salaj/2011/41",
+   "short": "HCJ Sălaj nr. 41/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 41/2011 privind darea în folosinţă gratuită, pe termen limitat, Filialei Sălaj a Societăţii Naţionale Crucea Roşie România, a unui spaţiu din imobilul situat în municipiul Zalău, str. Unirii, nr. 7, aflat în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot412011.pdf",
+     "sha256": "48c581a029b489d5759a82e94c0ac20443ed5977cd90e57f2d7aca85bbec0099"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-42-2011",
+   "path": "local/judet/salaj/2011/42",
+   "short": "HCJ Sălaj nr. 42/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 42/2011 privind trecerea din domeniul public în domeniul privat al judeţului a unor bunuri imobile situate în municipiul Zalău, str. Salcâmilor, nr. 1, în vederea scoaterii din funcţiune şi casării acestora",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot422011.pdf",
+     "sha256": "4ab69e9963ab98caac565e9583d3b59db6789d2f8b43622e08411c5029e5843c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2011",
+   "path": "local/judet/salaj/2011/43",
+   "short": "HCJ Sălaj nr. 43/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2011 privind concesionarea unor terenuri situate în Zalău, Jibou, Almaşu şi Sînmihaiu Almaşului, aflate în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot432011.pdf",
+     "sha256": "ebce7f8489264f65ddcd97e6cd9ef64f408bed1a59f7a6dc9021b475865d06dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2011",
+   "path": "local/judet/salaj/2011/44",
+   "short": "HCJ Sălaj nr. 44/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Mansardare clădire existentă - Centru de instruire Boghiş şi Construire centrală termică şi magazie de lemne\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot442011.pdf",
+     "sha256": "64ad8750ed1647800200855d36688e84f294bb492496643e5a1af43fdfff5389"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2011",
+   "path": "local/judet/salaj/2011/45",
+   "short": "HCJ Sălaj nr. 45/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2011 privind cumpărarea unui teren în vederea realizării obiectivului de investiţii \"Staţie de alimentare cu gaze naturale a CSC Cehu-Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot452011.pdf",
+     "sha256": "7d6640e81ab236c95139e29f6764ba65f972f2cb9985d8d2f4ada03aaa614f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-46-2011",
+   "path": "local/judet/salaj/2011/46",
+   "short": "HCJ Sălaj nr. 46/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 46/2011 privind aprobarea planurilor de ocupare a funcţiilor publice pentru anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot462011.pdf",
+     "sha256": "1f3a1cdc3fa4454797675fda5f70ec7957cf2a24c68c4e44eac9491be5529369"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-47-2011",
+   "path": "local/judet/salaj/2011/47",
+   "short": "HCJ Sălaj nr. 47/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 47/2011 privind actualizarea Programului judeţean de transport public de persoane prin curse regulate, pe perioada 2008-2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot472011.pdf",
+     "sha256": "90a8656e42f70a3b6564477ae0fce3219c0bf4f6de6ae3aa39f457e7ddec20a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2011",
+   "path": "local/judet/salaj/2011/48",
+   "short": "HCJ Sălaj nr. 48/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici actualizaţi, pentru obiectivul de investiţii \"Reabilitare DJ 108 A, km 30+000 - 40+000, Agrij-Românaşi\", Judeţul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot482011.pdf",
+     "sha256": "08c1a4f9039d40e7a1a812fbff7dd791438a35604ea060d30e2641fa9069a252"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2011",
+   "path": "local/judet/salaj/2011/49",
+   "short": "HCJ Sălaj nr. 49/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici actualizaţi, pentru obiectivul de investiţii \"Reabilitare DJ 108 F, km 4+200 - 16+000, Şimleu Silvaniei-Moiad\", Judeţul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot492011.pdf",
+     "sha256": "d452126a676b43f5a84f849d039a573f34d4aa7a5d5638c9b1cc211b713a3eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2011",
+   "path": "local/judet/salaj/2011/5",
+   "short": "HCJ Sălaj nr. 5/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Reabilitare DJ 109 P, km 2+400-9+150, sector Halmăşd-Cosniciu de Sus şi km: 10+000-11+400 Cosniciu de Jos-Ip, Judeţul Sălaj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-17",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot52011.pdf",
+     "sha256": "36af387cab7a233a8aab35223e3aea402a592434954ca05fd99015388d5fc408"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2011",
+   "path": "local/judet/salaj/2011/50",
+   "short": "HCJ Sălaj nr. 50/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici actualizaţi, pentru obiectivul de investiţii \"Modernizare DJ 109 P, Km: 2+400 - 9+150, Halmăşd-Cosniciu de Sus şi Km: 10+000 - 11+400, Cosniciu de Jos - Ip\", Judeţul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot502011.pdf",
+     "sha256": "3ab3fb5d609d7c0f28129faf2523c114d1a841b039f5d1a4fb546b84e9d8892a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-2011",
+   "path": "local/judet/salaj/2011/51",
+   "short": "HCJ Sălaj nr. 51/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Modernizare Drum Judeţean DJ 110 E, Nuşfalău-Plopiş-Făget-limită judeţ Bihor, km 0+000 - 24+200\", Judeţul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot512011.pdf",
+     "sha256": "bc70b2fb183190f2b732d4ec29c9dbaed9a2a2918dbdc2a8cee1c40cf74b86b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2011",
+   "path": "local/judet/salaj/2011/52",
+   "short": "HCJ Sălaj nr. 52/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Reabilitare DJ 191 C, Nuşfalău-Crasna-Zalău-Creaca km 0+000 - 27+830; 41+441 - 50+035\", Judeţul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot522011.pdf",
+     "sha256": "280e7d720d7ecf6b30d86314593297c6e2b6191a99db87291f0c7b9de57ffe5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-53-2011",
+   "path": "local/judet/salaj/2011/53",
+   "short": "HCJ Sălaj nr. 53/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 53/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Reabilitare DJ 191 D, (DN 1H)-Nuşfalău-Valcău-Sîg-Tusa-limită Judeţul Cluj, km 0+000 - 31+330\", Judeţul Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot532011.pdf",
+     "sha256": "48a20dcc308f1d7defb4596e889c12b2b743b019045b536fc0780bf96e09157b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-54-2011",
+   "path": "local/judet/salaj/2011/54",
+   "short": "HCJ Sălaj nr. 54/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 54/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot542011.pdf",
+     "sha256": "f892b4b4465528e7ed45b215f01bd2363ca00b5a0a8ab7dc52e8c50ca2f3db82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2011",
+   "path": "local/judet/salaj/2011/55",
+   "short": "HCJ Sălaj nr. 55/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2011 privind validarea mandatului unui consilier judeţean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot552011.pdf",
+     "sha256": "1d1017f68a096f3bd623512f5eb62c060773fb96eebefd8b1f8baa911e86395f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-56-2011",
+   "path": "local/judet/salaj/2011/56",
+   "short": "HCJ Sălaj nr. 56/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 56/2011 privind completarea componenţei unei comisii de specialitate a Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot562011.pdf",
+     "sha256": "ceff0c40af9518a5f08b49edef70f98348526e84e8b76eee66603509795b2878"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2011",
+   "path": "local/judet/salaj/2011/57",
+   "short": "HCJ Sălaj nr. 57/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2011 privind rectificarea bugetului propriu al judeţului, pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot572011.pdf",
+     "sha256": "0866388d08b36d3b13681f4de6d77a2e7a399c99fd12081c50f49c3832c4570e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2011",
+   "path": "local/judet/salaj/2011/58",
+   "short": "HCJ Sălaj nr. 58/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2011 privind aprobarea execuţiei bugetului de funcţionare şi dezvoltare al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului Judeţean, pe trimestrul I 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot582011.pdf",
+     "sha256": "db20686219d53c0bb4d7e6439ee89d5c42591e3e48a372bc225ef1e92acd45a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2011",
+   "path": "local/judet/salaj/2011/59",
+   "short": "HCJ Sălaj nr. 59/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2011 privind cumpărarea unui teren în vederea realizării obiectivului de investiţii \"Staţie de alimentare cu gaze naturale a Centrului de Servicii Comunitare Cehu-Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot592011.pdf",
+     "sha256": "112a79bbc8a66850a6b9b16a2af2345cc2617d56affc2402887a28f7d24940e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2011",
+   "path": "local/judet/salaj/2011/6",
+   "short": "HCJ Sălaj nr. 6/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2011 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj şi ale instituţiilor publice din subordinea Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot62011.pdf",
+     "sha256": "0b57fdc7a62c39c0118bed507750f73b587502f3b865aa1ab2dcfa41030462a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2011",
+   "path": "local/judet/salaj/2011/60",
+   "short": "HCJ Sălaj nr. 60/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2011 privind aprobarea alocaţiilor de hrană pentru consumurile colective din instituţiile de asistenţă socială din subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot602011.pdf",
+     "sha256": "8b9c35a523eac5894954c0193c0085527f019618c0ac178d1c6dbed67dd2d902"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2011",
+   "path": "local/judet/salaj/2011/62",
+   "short": "HCJ Sălaj nr. 62/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2011 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr. 62 din 26 octombrie 1999 privind însuşirea inventarului bunurilor care alcătuiesc domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot622011.pdf",
+     "sha256": "f3da40834b4879a2c18df3490dc4f71adbebc23dde3c5c149625509602bda15d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-63-2011",
+   "path": "local/judet/salaj/2011/63",
+   "short": "HCJ Sălaj nr. 63/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 63/2011 privind darea în administrarea Spitalului Judeţean de Urgenţă Zalău a unui imobil şi a terenului aferent, în vederea înfiinţării Centrului de Sănătate Mintală Pediatrică la nivelul judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot632011.pdf",
+     "sha256": "bfc69d1cb60b53b808fbf20a3f43c4cffce087fa02e2d9cd72814374fcb8ac6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2011",
+   "path": "local/judet/salaj/2011/64",
+   "short": "HCJ Sălaj nr. 64/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2011 privind stabilirea preţului de pornire a licitaţiei pentru vânzarea unor bunuri aparţinând Staţiei de apă industrială Jibou şi Staţiei de tratare a apei Vârşolţ, aflate în proprietatea privată a Judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot642011.pdf",
+     "sha256": "f820edead77410da513541a59be1abbc048c7625e5262a70d88f4f59f8023e74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2011",
+   "path": "local/judet/salaj/2011/65",
+   "short": "HCJ Sălaj nr. 65/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2011 privind aprobarea Regulamentului de organizare şi funcţionare al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot652011.pdf",
+     "sha256": "ed9814cb49ac1c14a15b1f8b9b2aa14720206577a5f371412b401581534dd12a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2011",
+   "path": "local/judet/salaj/2011/66",
+   "short": "HCJ Sălaj nr. 66/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2011 privind trecerea din administrarea Consiliului Judeţean Sălaj, în administrarea Ministerului Dezvoltării Regionale şi Turismului, a drumului judeţean DJ 191D : Nuşfalău (DN1H) - Boghiş - Valcău de Jos - Fizeş - Sîg - Tusa – limită judeţul Cluj, tronsonul cuprins î",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot662011.pdf",
+     "sha256": "48a2efa8b4dffb0e0b6909eb2b483259174ed1726c1b7986ddbe95bb29231844"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2011",
+   "path": "local/judet/salaj/2011/67",
+   "short": "HCJ Sălaj nr. 67/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2011 privind trecerea din administrarea Consiliului Judeţean Sălaj, în administrarea Ministerului Dezvoltării Regionale şi Turismului, a sectoarelor din drumul judeţean DJ109P : DN1H-Halmăşd-Cerîşa-Cosniciu de Jos-Ip-Zăuan Băi-Camăr-limită judeţul Satu Mare, tronsonul",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot672011.pdf",
+     "sha256": "7e927347d62d202c9883797706d3dbfc78097d0c734490f017d419a90aa20e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-68-2011",
+   "path": "local/judet/salaj/2011/68",
+   "short": "HCJ Sălaj nr. 68/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 68/2011 privind trecerea din administrarea Consiliului Judeţean Sălaj, în administrarea Ministerului Dezvoltării Regionale şi Turismului, a drumului judeţean DJ191C : Nuşfalău (DJ191D)-Huseni -Crasna - Meseşenii de Jos - Aghireş - Zalău - Moigrad - Brebi - Creaca, tronson",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot682011.pdf",
+     "sha256": "f6fcb221401bd395573267bee055456cd3bef5797ca8ed5cd1ed2a4d68707f8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-69-2011",
+   "path": "local/judet/salaj/2011/69",
+   "short": "HCJ Sălaj nr. 69/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 69/2011 privind trecerea din administrarea Consiliului Judeţean Sălaj, în administrarea Ministerului Dezvoltării Regionale şi Turismului, a sectorului de drum judeţean DJ 108F : Şimleu Silvaniei - Măierişte - Moiad - Sărmăşag - Chieşd, limită judeţul Satu Mare, tronsonul",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot692011.pdf",
+     "sha256": "f055a250e782a1947273f2758c13e10f1f76ee43cd5622951b34de9a2991de71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2011",
+   "path": "local/judet/salaj/2011/7",
+   "short": "HCJ Sălaj nr. 7/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2011 privind aprobarea numărului de posturi pe categorii de personal pentru Spitalul Judeţean de Urgenţă Zalău",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot72011.pdf",
+     "sha256": "703a64cb5cd7d80c42c70be1731d643b276a78189d14f8acb35d2d44abd12d52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-70-2011",
+   "path": "local/judet/salaj/2011/70",
+   "short": "HCJ Sălaj nr. 70/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 70/2011 privind aprobarea trecerii din administrarea Consiliului Judeţean Sălaj, în administrarea Ministerului Dezvoltării Regionale şi Turismului, a drumului judeţean DJ 110E : Nuşfalău(DN1H)-Plopiş-Făgetu – limită judeţul Bihor, tronsonul cuprins între km 0+000 - 24+200",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot702011.pdf",
+     "sha256": "0a941d2e9331935e6c9ffadc950d3438705630d99a88b40ffc0a3bb94d477e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-71-2011",
+   "path": "local/judet/salaj/2011/71",
+   "short": "HCJ Sălaj nr. 71/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 71/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot712011.pdf",
+     "sha256": "da549991e42f2e5fbcb15113b601f4b8ef1c5eb6e2f6e2adc7a8201bf94e4388"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-72-2011",
+   "path": "local/judet/salaj/2011/72",
+   "short": "HCJ Sălaj nr. 72/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/2011 privind retragerea dreptului de administrare conferit Spitalului Judeţean de Urgenţă Zalău pentru spaţiile în suprafaţă de 58,37 mp situate în municipiul Zalău, str",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot722011.pdf",
+     "sha256": "f494d9b61b23153df5efe7c741eceb1913609375f982a3eb4121cc45c481568b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-73-2011",
+   "path": "local/judet/salaj/2011/73",
+   "short": "HCJ Sălaj nr. 73/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 73/2011 privind rectificarea bugetului propriu al judeţului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot732011.pdf",
+     "sha256": "cf63b221f46ccf52522d566c2abee521e361e56fadf2ce46315dfa940f0adc60"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-74-2011",
    "path": "local/judet/salaj/2011/74",
    "short": "HCJ Sălaj nr. 74/2011",
@@ -164,6 +1964,351 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot742011.pdf",
      "sha256": "fd1f80df46acc8ad801d762fb8bf81be6d90fd8c9d2670977d7cd1eed8b8f391"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2011",
+   "path": "local/judet/salaj/2011/75",
+   "short": "HCJ Sălaj nr. 75/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2011 privind aprobarea numărului de posturi, organigramei şi statului de funcţii ale aparatului de specialitate al Consiliului Judeţean Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot752011.pdf",
+     "sha256": "206dccdf4f8e2b6c80228a372e3182dcfc4e39635e85003f39d3e38de9589de7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2011",
+   "path": "local/judet/salaj/2011/76",
+   "short": "HCJ Sălaj nr. 76/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2011 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiţii \"Modernizare DJ 103 N, km 2+950 – 4+707 (limită Judeţ Cluj), trecerea la nivel cu calea ferată - Jebucu, judeţul Sălaj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot762011.pdf",
+     "sha256": "afea6c21b6bffd16063189cd5b1923b88ef4d5a27a69a61abd1dafddb542b179"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-78-2011",
+   "path": "local/judet/salaj/2011/78",
+   "short": "HCJ Sălaj nr. 78/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 78/2011 privind aprobarea Planului Judeţean de Analiză şi Acoperire a Riscurilor, actualizat",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot782011.pdf",
+     "sha256": "b845d831507a99d08dfd6b426603e0b35d7755254e8d5be2aaa24645ee680db7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-79-2011",
+   "path": "local/judet/salaj/2011/79",
+   "short": "HCJ Sălaj nr. 79/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 79/2011 privind concesionarea unui imobil, în suprafaţă de 530 mp şi a terenului aferent, în suprafaţă de 100 mp, situate în municipiul Zalău, strada Salcâmilor, nr. 1, aflate în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot792011.pdf",
+     "sha256": "dc1917d79c610def2a440782aabc7a1ef4c6a6175fee470c91513083628f6de4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-80-2011",
+   "path": "local/judet/salaj/2011/80",
+   "short": "HCJ Sălaj nr. 80/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 80/2011 privind închirierea unor spaţii din imobilul situat în municipiul Zalău, strada Kossuth, nr.71, aflat în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot802011.pdf",
+     "sha256": "9ac26341497b097e5ba33bf44cbc6e43b9fc7b12fed9d09506c16675e6db00bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-81-2011",
+   "path": "local/judet/salaj/2011/81",
+   "short": "HCJ Sălaj nr. 81/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 81/2011 privind închirierea unui spaţiu din imobilul situat în municipiul Zalău, strada Unirii, nr.20, aflat în domeniul public al judeţului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot812011.pdf",
+     "sha256": "b16d6ad3e146fa8f8bbf5a865a4ee2bf8e0a30311b4877658e87e505abec6d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2011",
+   "path": "local/judet/salaj/2011/82",
+   "short": "HCJ Sălaj nr. 82/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2011 privind constituirea pachetului minim social pentru transportul feroviar public de călători pentru anul 2012, pe relaţiile de transport Marghita – Şărmăşag şi Şimleu Silvaniei – Şărmăşag",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot822011.pdf",
+     "sha256": "c213f900d2607fa7d271d650de1761af5cd7525dcb0e725d3e87f88286af9199"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-83-2011",
+   "path": "local/judet/salaj/2011/83",
+   "short": "HCJ Sălaj nr. 83/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 83/2011 privind rectificarea bugetului propriu al judeţului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot832011.pdf",
+     "sha256": "9e2957172eab858e9d5af94fbc973850f5a61da2b65fe68de2f8c9b6d203c71c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-84-2011",
+   "path": "local/judet/salaj/2011/84",
+   "short": "HCJ Sălaj nr. 84/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 84/2011 privind trecerea din domeniul public în domeniul privat al judeţului a imobilului situat în municipiul Zalău, str. Dumbrava, nr.48",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot842011.pdf",
+     "sha256": "c2ec8ce3d23a8f740c39b38f7065ad89550700adce4c1c881b9fcd4bf8c5fa26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-86-2011",
+   "path": "local/judet/salaj/2011/86",
+   "short": "HCJ Sălaj nr. 86/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 86/2011 privind actualizarea Programului judeţean de transport public de persoane, prin curse regulate, pe perioada 2008 – 2013",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot862011.pdf",
+     "sha256": "cdbf0b7c6d2c29caccc9adeaec0261ffee7bde9d8baf0216e93b39e17942f60e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2011",
+   "path": "local/judet/salaj/2011/87",
+   "short": "HCJ Sălaj nr. 87/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot872011.pdf",
+     "sha256": "6979abf2bf195d22d5d38e9a409f54f69393e9717bb24469669063707048f0ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-88-2011",
+   "path": "local/judet/salaj/2011/88",
+   "short": "HCJ Sălaj nr. 88/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 88/2011 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii Modernizare drum judeţean DJ 108 N în localitatea Mesteacăn, km 28+000-29+350",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot882011.pdf",
+     "sha256": "f541821efd5610b91604c3b7d852c6b590901bd9ac0146eba854a0df69ffb2f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-89-2011",
+   "path": "local/judet/salaj/2011/89",
+   "short": "HCJ Sălaj nr. 89/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 89/2011 privind aprobarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investitii Pietruire drum judeţean DJ 109 A, lim. judet Cluj-Hăşmaş, km 57+980-59+604",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot892011.pdf",
+     "sha256": "7840b87e756222c61c2473c24ebb581de588c35268aca6bc2e4dae6026afe5cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-9-2011",
+   "path": "local/judet/salaj/2011/9",
+   "short": "HCJ Sălaj nr. 9/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 9/2011 privind aprobarea bugetului propriu al judeţului şi al instituţiilor şi serviciilor publice subordonate Consiliului Judeţean, pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot92011.pdf",
+     "sha256": "0c82b9dc6555718434076c79246171a0028f211442f7e1313ad2318c736b09dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-90-2011",
+   "path": "local/judet/salaj/2011/90",
+   "short": "HCJ Sălaj nr. 90/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 90/2011 privind trecea unui imobil din domeniul public al Judeţului Sălaj şi administrarea Consiliului Judeţean Sălaj, în domeniul public al statului şi administrarea Ministerului Sănătăţii",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot902011.pdf",
+     "sha256": "93e9998b4d7a4a267edaace8273bede9ed63a2aa9575588d39f8ba1e45043ccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2011",
+   "path": "local/judet/salaj/2011/91",
+   "short": "HCJ Sălaj nr. 91/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2011 privind consultarea cetăţenilor judeţului, prin referendum, cu privire la propunerea de desfiinţare a judeţului Sălaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot912011.pdf",
+     "sha256": "0b269cb86f13d22cc08fc67fa0b082a910d3610bd1de54a8683550e548a2d58e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-93-2011",
+   "path": "local/judet/salaj/2011/93",
+   "short": "HCJ Sălaj nr. 93/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 93/2011 pentru completarea Hotararii Consiliului Judetean Salaj nr. 141 din 20.12.2010 privind infiintarea societatii comerciale cu raspundere limitata \"Paza Obiective si Interventie\", prin reorganizarea Directiei de Paza, Protocol si Administrativ Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot932011.pdf",
+     "sha256": "31bd9099e2d4fee8a8810fe579f255d5184241f40db7731d93f88ac723e37bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-94-2011",
+   "path": "local/judet/salaj/2011/94",
+   "short": "HCJ Sălaj nr. 94/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 94/2011 privind aprobarea executiei bugetului de functionare si dezvoltare al judetului si al institutiilor si serviciilor publice subordonate Consiliului judetean, pe semestrul I 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot942011.pdf",
+     "sha256": "a5a01d27a04cee35952b1fb7c4a92802ea9c518212ff82c6fbb010f319b1acb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-95-2011",
+   "path": "local/judet/salaj/2011/95",
+   "short": "HCJ Sălaj nr. 95/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 95/2011 privind rectificarea bugetului propriu al judetului pe anul 2011",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot952011.pdf",
+     "sha256": "59df29aadf48e2bcc2a34154ee535212366d153ae333e61739092b8e86fe4b14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-96-2011",
+   "path": "local/judet/salaj/2011/96",
+   "short": "HCJ Sălaj nr. 96/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 96/2011 privind reorganizarea Complexului de Servicii Comunitare Cehu Silvaniei din cadrul Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj in Centru Social Multifunctional Cehu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot962011.pdf",
+     "sha256": "7845b9ba5c949ffc93e5beda8f24bc1b19b3bd2ce48222f4c96d65dd2e65adcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-97-2011",
+   "path": "local/judet/salaj/2011/97",
+   "short": "HCJ Sălaj nr. 97/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 97/2011 privind reorganizarea Complexului de Servicii Comunitare Jibou din cadrul Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj in Centru Social Multifunctional Jibou",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot972011.pdf",
+     "sha256": "c62326a41a5efa391edd8c68783cdd3b6be24283b45f8af6562621b15438125d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-98-2011",
+   "path": "local/judet/salaj/2011/98",
+   "short": "HCJ Sălaj nr. 98/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 98/2011 privind reorganizarea Complexului de Servicii Comunitare Simleu Silvaniei din cadrul Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj in Centru Social Multifunctional Simleu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot982011.pdf",
+     "sha256": "98ca7069ced3c8f9c98702975d762d5fcde3ec4ca7992ea3b83193be9f0c9977"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-99-2011",
+   "path": "local/judet/salaj/2011/99",
+   "short": "HCJ Sălaj nr. 99/2011",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 99/2011 privind reorganizarea Complexului de Servicii Comunitare Nr.1 Zalau din cadrul Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj in Centru Social Multifunctional Zalau",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=103:hotarari-2011&catid=2",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2011/hot992011.pdf",
+     "sha256": "b30c0c090243d82f3c811f7c1eceb3be8c3728d97e56524519d6db03527c0599"
     }
    ]
   }

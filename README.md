@@ -44,6 +44,7 @@ Thirty charts drawn from this repository: who makes Romanian law, how the codes 
 | `<act>/README.md` | the act's articles, versions and any decisions made by hand for it |
 | `ue/<kind>/<year>/<number>/` | EU regulations and directives in force, in their Romanian Official Journal text (`ue/regulament/2016/679/` is the GDPR) |
 | `anexa/<act id>/<annex>/` | official annexes held apart from their act: court circumscriptions, small-claims and legal-aid forms |
+| `tratat/<year>/<MM-DD>-<type>/` | treaties and international agreements, as published in the Monitorul Oficial with the act that ratifies or approves them, named by their signing day and type (`tratat/2024/05-21-acord/`); `data/treaty-links.csv` links each to its ratifying act |
 | `profesii/<body>/...` | the legal professions' own rules (statutes, codes of ethics, regulations, decisions): UNBR, INPPA, OCJR, UNEJ, Consiliul de Mediere, CAFR; CSM, INM and UNPIR as metadata |
 | `jurisprudenta/` | court decisions: `ccr/`, `iccj/<panel>/`, `cedo/`, `cjue/` (Court of Justice of the EU) |
 | [ACTS.md](ACTS.md) | the primary legislation (Constitution, laws, ordinances, decrees, codes), with folder, status and span; every other kind is listed by year in `data/acts/<kind>/<year>.md` (local acts: `data/acts/local/<council>/<year>.md`) |
@@ -73,7 +74,7 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 | --- | --- |
 | `data/index.json` | every act list: the primary files (`acts.json`, `versions.json`, `laws.csv`) and one shard per other kind and year, e.g. `data/acts/hg/2016.json`, `data/versions/ordin/2012.json`, `data/laws/local/bucuresti/cgmb/2016.csv`; `data/sources/<kind>/<year>.csv` lists the sources of those acts (REPRODUCE.md lists the rest) |
 | `data/freshness.json`, `data/freshness/` | when each act was last checked against its official source, and its status (see [How current is it](#how-current-is-it)); `data/freshness/index.json` lists the files |
-| `data/act-links-<year>.csv` | links between acts (amends, repeals, approves, promulgates, republishes…) from the Chamber of Deputies' database, one file per year of the act that acts (`act-links-before-1990.csv`, `act-links-other.csv` for acts with no year); sheets captured 2018–2025 and read again on cdep.ro from November 2026; not official, and a missing link does not mean no change |
+| `data/act-links-<year>.csv` | links between acts (amends, repeals, approves, promulgates, republishes…) from the Chamber of Deputies' database, one file per year of the act that acts (`act-links-before-1990.csv`, `act-links-other.csv` for acts with no year); sheets captured 2018–2025, read again on cdep.ro and from archived copies from November 2026; `evidence` says where each link is stated: the Chamber's sheets (`source sheet`, `target sheet`, `note`, `mof`), the act's own official title (`title`: "pentru modificarea Legii nr. …"; `approves` there covers approval with or without changes) or the bill file of the law (`bill file`); not official, and a missing link does not mean no change |
 | `data/bills.csv` | the bill behind each law since 1996 and the bills still in Parliament: Chamber and Senate numbers, initiator, first and decisional chamber, adoption dates, the Chamber's vote, Constitutional Court referral, re-examination, promulgation decree, and links to the Legislative Council's opinion, the explanatory memorandum and the adopted text, from the Chamber of Deputies' bill files; not official |
 | `data/eu-transposition.csv` | the EU acts each Romanian act transposes, from Romania's notifications to the Commission (`nim`), the act's own note (`clause`) or both; `eu_folder` is the EU act's folder under `ue/`, once it is here |
 | `data/decisions.csv`, `data/rulings-by-provision.json` | every court decision here, and the decisions on each article |
@@ -118,7 +119,7 @@ ECHR judgments against Romania that the Monitorul Oficial never published in Rom
 Every version names the official page it was read from, so every act can be checked against its source. `data/freshness/` records, for each act, the last day a check of the official source confirmed that the version here is still the newest, how it was checked, and any change the source reports that is not here yet.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-06; 72% of acts verified in the last 7 days, 72% in the last 30 ([data/freshness.json](data/freshness.json)).
+Checked against the official sources: 2026-11-06; 73% of acts verified in the last 7 days, 73% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
     python tools/freshness.py codul-civil          # one act: status, last check, newest change, official link

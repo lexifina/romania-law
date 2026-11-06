@@ -376,6 +376,51 @@
      "sha256": "b92af960876ab018f0005aca4a7905019acee31f053b0cd23e1767c11c3f20c6"
     }
    ]
+  },
+  {
+   "slug": "regulament-asf-16-2022",
+   "path": "regulament/asf/2022/16",
+   "short": "Regulament asf nr. 16/2022",
+   "title": "Regulamentul nr. 16/2022 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 28/2020 privind formarea, pregătirea și perfecționarea profesională pe piața de capital Formă aplicabilă la 01 ianuarie 2023",
+   "url": "https://asfromania.ro/uploads/articole/attachments/635a2ac363894822457358.pdf",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 3,
+     "source_url": "https://asfromania.ro/uploads/articole/attachments/635a2ac363894822457358.pdf",
+     "sha256": "dbbb42c4791aad6f1d1e0fe1cfa1587445087adffeba2de59d44e286cad3c7ef"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-12-2022",
+   "path": "regulament/bnr/2022/12",
+   "short": "Regulament bnr nr. 12/2022",
+   "title": "Regulamentul nr. 12/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară și al Băncii Naționale a României nr. 10/4/2018 privind protejarea instrumentelor financiare și a fondurilor care aparțin clienților, obligațiile de guvernanță a produsului și normele aplicabile la acordarea sau primirea de onorarii, comisioane sau alte tipuri de beneficii pecuniare sau nepecuniare",
+   "url": "https://www.bnr.ro/20502-regulament-12-2022",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/20502-regulament-12-2022",
+     "sha256": "f7131de5ddee28d4241f4d01a83aff1e1040a0b264e897061f11f8b34daf32c9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2022",
+   "path": "regulament/bnr/2022/8",
+   "short": "Regulament bnr nr. 8/2022",
+   "title": "Regulamentul nr. 8/2022 privind operațiunile de administrare a datoriei publice guvernamentale efectuate de către Ministerul Finanțelor pe piața titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://www.bnr.ro/20324-regulament-8-2022",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "units": 62,
+     "source_url": "https://www.bnr.ro/20324-regulament-8-2022",
+     "sha256": "5469033e4fe0b85cd5bcc45b472cfd36c1d12a418e10cec3c9f1b7ce6a376bb4"
+    }
+   ]
   }
  ]
 }

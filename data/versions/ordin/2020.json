@@ -18316,6 +18316,36 @@
      "sha256": "c58afe7634d5876eede52d145ac2baa002145d74a79dad76d29b5d1d3dac0c22"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-1-2020",
+   "path": "ordin/bnr/2020/1",
+   "short": "Ordin bnr nr. 1/2020",
+   "title": "Ordinul nr. 1/2020 privind deschiderea în evidențele Băncii Naționale a României a contului în euro pe numele Fondului de garantare a depozitelor bancare",
+   "url": "https://www.bnr.ro/19720-ordin-1-2020",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/19720-ordin-1-2020",
+     "sha256": "1628da29f97de866df94234ecbb3bb79f8a6a79502e966d42fc70798ea3712ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-3-2020",
+   "path": "ordin/bnr/2020/3",
+   "short": "Ordin bnr nr. 3/2020",
+   "title": "Ordinul nr. 3/2020 pentru modificarea și completarea Ordinului Băncii Naționale a României nr. 8/2019 privind aplicarea Standardelor Internaționale de Raportare Financiară de către instituțiile financiare nebancare",
+   "url": "https://www.bnr.ro/21917-ordin-3-2020",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/21917-ordin-3-2020",
+     "sha256": "377105bcf133e7fd259dd2a37b29e66829b209f5556d0925c888eb3d6e96cfea"
+    }
+   ]
   }
  ]
 }

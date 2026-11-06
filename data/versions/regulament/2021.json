@@ -346,6 +346,21 @@
      "sha256": "3c6e8b07ad2471986aeaf9f5730a72594e611c71559d50c1a0e7fdec8c57457a"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-1-2021",
+   "path": "regulament/bnr/2021/1",
+   "short": "Regulament bnr nr. 1/2021",
+   "title": "Regulamentul nr. 1/2021 pentru modificarea Regulamentului Băncii Naționale a României nr. 2/2012 privind organizarea și funcționarea la Banca Națională a României a Centralei Riscului de Credit",
+   "url": "https://www.bnr.ro/19477-regulament-1-2021",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19477-regulament-1-2021",
+     "sha256": "7c2da829024a30c56d65acb6f1f1a06d7e218651d7eabb174e38defd2717944f"
+    }
+   ]
   }
  ]
 }

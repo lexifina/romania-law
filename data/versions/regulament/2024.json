@@ -391,6 +391,51 @@
      "sha256": "5c1a34538979ce0d515a047aad599e92f2b319600bcf73f984d82f18801287eb"
     }
    ]
+  },
+  {
+   "slug": "regulament-asf-7-2024",
+   "path": "regulament/asf/2024/7",
+   "short": "Regulament asf nr. 7/2024",
+   "title": "Regulamentul nr. 7/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 7/2020 privind autorizarea și funcționarea fondurilor de investiții alternative",
+   "url": "https://asfromania.ro/uploads/articole/attachments/664f1392a0732631680147.pdf",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 2,
+     "source_url": "https://asfromania.ro/uploads/articole/attachments/664f1392a0732631680147.pdf",
+     "sha256": "f23336f51297595edce34d18f017baf1fedc72b41ef0bfcab2249853b32633a5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-12-2024",
+   "path": "regulament/bnr/2024/12",
+   "short": "Regulament bnr nr. 12/2024",
+   "title": "Regulamentul nr. 12/2024 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2023 privind cerințe prudențiale pentru băncile de dezvoltare",
+   "url": "https://www.bnr.ro/23927-regulament-12-2024",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 4,
+     "source_url": "https://www.bnr.ro/23927-regulament-12-2024",
+     "sha256": "68ced720b5f536dc32bd11a2e9cc7bb6518047103fa369e865b9b71a5e490738"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2024",
+   "path": "regulament/bnr/2024/8",
+   "short": "Regulament bnr nr. 8/2024",
+   "title": "Regulamentul nr. 8/2024 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit",
+   "url": "https://www.bnr.ro/23246-regulament-8-2024",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/23246-regulament-8-2024",
+     "sha256": "ecb971e618adfdaa55e35b195b8aaa42366fec07fdc4ee090fadb212d0ca318c"
+    }
+   ]
   }
  ]
 }

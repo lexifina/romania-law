@@ -331,6 +331,21 @@
      "sha256": "27dce7bae5cd8ea643cca176ab725a9bd891439f7a369798d2fdd44e56ff4e5b"
     }
    ]
+  },
+  {
+   "slug": "norma-asf-26-2025",
+   "path": "norma/asf/2025/26",
+   "short": "Norma asf nr. 26/2025",
+   "title": "Norma nr. 26/2025 pentru aplicarea Ghidului privind externalizarea către furnizorii de servicii cloud",
+   "url": "https://asfromania.ro/uploads/articole/attachments/6967699482182111211776.pdf",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 10,
+     "source_url": "https://asfromania.ro/uploads/articole/attachments/6967699482182111211776.pdf",
+     "sha256": "09953acbc989e89fa4d8a4d84ceaf2ddbabaf4be9eb3a58d2418f66f11d1aec9"
+    }
+   ]
   }
  ]
 }

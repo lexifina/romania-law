@@ -12706,9 +12706,9 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 30320 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 28330 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
-| Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
+| Ministerial and authority orders (ordine) | 28338 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 744 | [`data/acts/norma/`](data/acts/norma/) |
+| Regulations (regulamente) | 606 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 220 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
 | Clarifications (precizări) | 34 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 3 | [`data/acts/metodologie/`](data/acts/metodologie/) |
@@ -12724,4 +12724,4 @@
 | EU law in Romanian: regulations and directives in force (Official Journal text) | 11927 | [`data/acts/ue/`](data/acts/ue/) |
 | Annexes published apart from their act (court circumscriptions, official forms) | 7 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 667 | [`data/acts/profesii/`](data/acts/profesii/) |
-| Local acts (decisions of local and county councils) | 61796 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 63296 | [`data/acts/local/`](data/acts/local/) |

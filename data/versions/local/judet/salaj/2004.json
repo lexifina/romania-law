@@ -3,6 +3,321 @@
  "shard": "local/judet/salaj/2004",
  "acts": [
   {
+   "slug": "hcj-salaj-10-2004",
+   "path": "local/judet/salaj/2004/10",
+   "short": "HCJ Sălaj nr. 10/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 10/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot102004.pdf",
+     "sha256": "0d3cd01b957afbb2d1b57740992b3569a06f5a98762d3edd34db25ce7e6dc7c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-100-2004",
+   "path": "local/judet/salaj/2004/100",
+   "short": "HCJ Sălaj nr. 100/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 100/2004 privind insusirea statutului, a actului constitutiv si participarea la capitalul social al S.C.\"Compania de Apa Somes\" S.A",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-11-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1002004.pdf",
+     "sha256": "7be10c7363048de18db76bb8aeee862f175a7ab7838ae6096d265c9e02308f60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-101-2004",
+   "path": "local/judet/salaj/2004/101",
+   "short": "HCJ Sălaj nr. 101/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 101/2004 privind rectificarea bugetului propriu al Consiliul judetean si repartizarea pe unitati administrativ-teritoriale a influentelor alocate de la bugetul de stat, pe anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1012004.pdf",
+     "sha256": "3004585fdff75e3869526d48b037f88166427920f9c05925f89126df9426deb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-102-2004",
+   "path": "local/judet/salaj/2004/102",
+   "short": "HCJ Sălaj nr. 102/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 102/2004 privind completarea si modificarea anexei la Hotararea Consiliului Judetean Salaj nr.71 din 25 august 2004 privind stabilirea criteriilor de repartizare pe unitati administrativ-teritoriale a cotei de 15% din sumele defalcate din unele venituri ale bugetului de",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1022004.pdf",
+     "sha256": "15f46b69c3c5c18e5b128664787dd447aa6d0f819c4b80d4244c60461280b058"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-104-2004",
+   "path": "local/judet/salaj/2004/104",
+   "short": "HCJ Sălaj nr. 104/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 104/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-11-26",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1042004.pdf",
+     "sha256": "ff7a068a0e19c8d04ed270ad6902803cd6b5d07304e6ee93e0e267ae8a69c5a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-105-2004",
+   "path": "local/judet/salaj/2004/105",
+   "short": "HCJ Sălaj nr. 105/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 105/2004 privind rectificarea bugetului propriu al Consiliului judetean si repartizarea pe unitati administrativ-teritoriale a influentelor alocate de la bugetul de stat, pe anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-06",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1052004.pdf",
+     "sha256": "65f6cd6d458892eef15f25ddc3b8eae61c25d819d22b3355c18878183a49fcb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-108-2004",
+   "path": "local/judet/salaj/2004/108",
+   "short": "HCJ Sălaj nr. 108/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 108/2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1082004.pdf",
+     "sha256": "9d42af3f5c37e5563777f797b2c719c2d455b4e02f50ff23be327354bc0847ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-109-2004",
+   "path": "local/judet/salaj/2004/109",
+   "short": "HCJ Sălaj nr. 109/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 109/2004 privind validarea mandatului de consilier judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1092004.pdf",
+     "sha256": "8c4d17a109c3ffa58a7dadcd12031f980231d95671e625de6801867b8eeb40ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-11-2004",
+   "path": "local/judet/salaj/2004/11",
+   "short": "HCJ Sălaj nr. 11/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 11/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot112004.pdf",
+     "sha256": "80806def2bc315ae62e25729e56a6698ec3fb51335d1bd76646433c108cdcd56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-110-2004",
+   "path": "local/judet/salaj/2004/110",
+   "short": "HCJ Sălaj nr. 110/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 110/2004 privind unele modificari in componenta comisiilor de specialitate ale Consiliului judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1102004.pdf",
+     "sha256": "8a4afde531232b863dcebd5c4c8cd7e7dc2cfe1c1188b109a44a27dacae94b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-111-2004",
+   "path": "local/judet/salaj/2004/111",
+   "short": "HCJ Sălaj nr. 111/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 111/2004 privind aprobarea bugetului propriu al Consiliului Judetean si al institutiilor si serviciilor publice subordonate si repartizarea pe unitati administrativ-teritoriale a sumelor alocate de la bugetul de stat si a cotei de 17% din impozitul pe venit pe anul 2005",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1112004.pdf",
+     "sha256": "dbae8975a4464e8cfb72ce773d38ef8b206c72fb03df6cb905a5e2ea06efc9b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-112-2004",
+   "path": "local/judet/salaj/2004/112",
+   "short": "HCJ Sălaj nr. 112/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 112/2004 privind alocarea sumei de 480 milioane lei din fondul de rezerva bugetara a Consiliului judetean pe trimestrul IV. 2004, pentru finantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1122004.pdf",
+     "sha256": "cd2bd3ca2e31d300c47ab9d131038e1eb65f24597439ee9351484f0abf17d29f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-113-2004",
+   "path": "local/judet/salaj/2004/113",
+   "short": "HCJ Sălaj nr. 113/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 113/2004 privind rectificarea bugetului propriu al Consiliului judetean pe anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1132004.pdf",
+     "sha256": "ea17097483b7216b9a66ddb963f25645c78c3db9cfbcb2fe86f7519e30990b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-114-2004",
+   "path": "local/judet/salaj/2004/114",
+   "short": "HCJ Sălaj nr. 114/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 114/2004 privind aprobarea Regulamentului de organizare si functionare al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1142004.pdf",
+     "sha256": "1dcfe6038d9e26e820c840befa09f4556222e0eee512fbd912528a9b59e93b0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-115-2004",
+   "path": "local/judet/salaj/2004/115",
+   "short": "HCJ Sălaj nr. 115/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 115/2004 privind aprobarea reorganizarii aparatului propriu al Consiliului Judetean Salaj prin restructurarea unor compartimente din structura organizatorica a acestuia si preluarea activitatilor Directiei pentru Administrarea Domeniului Public, Privat si Dezvoltare Rur",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1152004.pdf",
+     "sha256": "125d134a135ce40ea50c48ca8d78e83a80d2eeb432ab00c6c4ccee50733f2161"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-116-2004",
+   "path": "local/judet/salaj/2004/116",
+   "short": "HCJ Sălaj nr. 116/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 116/2004 privind infiintarea Directiei Generale de Asistenta Sociala si Protectia Copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1162004.pdf",
+     "sha256": "42d12e893e29d0869744045472500120d982eb8a2f3a23a854fef217c8a659f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-117-2004",
+   "path": "local/judet/salaj/2004/117",
+   "short": "HCJ Sălaj nr. 117/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 117/2004 privind aprobarea cu data de 01.01.2005 a infiintarii, organizarii si functionarii Serviciului Public Comunitar Judetean de Evidenta a Persoanelor Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1172004.pdf",
+     "sha256": "90c4d3512882669ba5d816a8269e9368071c4a26e4a1b494480fa622b28a1aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-118-2004",
+   "path": "local/judet/salaj/2004/118",
+   "short": "HCJ Sălaj nr. 118/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 118/2004 privind aprobarea cu data de 01.01.2005 a infiintarii, organizarii si functionarii Ansamblului Folcloric \"Mesesul\" Zalau, ca institutie publica cu personalitate juridica, in subordinea Consiliului Judetean Salaj, aprobarea pe anul 2005 a numarului de posturi, o",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1182004.pdf",
+     "sha256": "2b1b6c9c22743611232297fd31b48eb9e4cdc0b5a4da3576c79187335d038777"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-119-2004",
+   "path": "local/judet/salaj/2004/119",
+   "short": "HCJ Sălaj nr. 119/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 119/2004 privind aprobarea pe anul 2005 a numarului de posturi, organigramelor si statelor de functii a unor servicii si institutii publice din subordinea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1192004.pdf",
+     "sha256": "c6504d97985bce4d02c08e3dc9d75e50abbba0e8c30a657390942390e9a5bd2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-12-2004",
+   "path": "local/judet/salaj/2004/12",
+   "short": "HCJ Sălaj nr. 12/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 12/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot122004.pdf",
+     "sha256": "355e059f83e7e47df3bb38b1c0a5f18b0ba27cf336928cee1bfe4b189575d67d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-120-2004",
+   "path": "local/judet/salaj/2004/120",
+   "short": "HCJ Sălaj nr. 120/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 120/2004 privind reorganizarea unor institutii de protectie a copilului, in Complexe de servicii comunitare",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1202004.pdf",
+     "sha256": "df052054b864196f20d3525c6bb9bcf3ffed5a2ff57b5c85505eef49ef283005"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-121-2004",
    "path": "local/judet/salaj/2004/121",
    "short": "HCJ Sălaj nr. 121/2004",
@@ -14,6 +329,21 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1212004.pdf",
      "sha256": "0c781a4f747cb7ae751b7feeaa5dbb51688376bb82d8bc56aee1863330d9e2cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-122-2004",
+   "path": "local/judet/salaj/2004/122",
+   "short": "HCJ Sălaj nr. 122/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 122/2004 privind aprobarea Regulamentului de organizare si functionare a Comisiei de expertiza a persoanelor cu handicap pentru adulti Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1222004.pdf",
+     "sha256": "3bf5d5f58f2571eb46ff520d7d9532149538f3f725a613697939b15db4967cbb"
     }
    ]
   },
@@ -33,6 +363,156 @@
    ]
   },
   {
+   "slug": "hcj-salaj-124-2004",
+   "path": "local/judet/salaj/2004/124",
+   "short": "HCJ Sălaj nr. 124/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 124/2004 privind asocierea Consiliului Judetean Salaj cu municipiul Zalau, orasul Simleu Silvaniei, comunele: Somes-Odorhei, Criseni, Hereclean, Virsolt, Pericei, Mesesenii de Jos, Crasna si S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1242004.pdf",
+     "sha256": "d3ca683a9d986a9b19161baea3c08e1a3369da8a7dacd65872ca6e5678cacdcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-125-2004",
+   "path": "local/judet/salaj/2004/125",
+   "short": "HCJ Sălaj nr. 125/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 125/2004 privind desemnarea unui consilier judetean, ca membru al Autoritatii Teritoriale de Ordine Publica Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1252004.pdf",
+     "sha256": "bce00fec70b949dabcfb52175cf65b185ebda696c5cad4b483e3889930b17aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-126-2004",
+   "path": "local/judet/salaj/2004/126",
+   "short": "HCJ Sălaj nr. 126/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 126/2004 privind desemnarea unui reprezentant care sa faca parte din Adunarea Generala a Actionarilor la S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1262004.pdf",
+     "sha256": "7123602d6a82d50cc6ea657f449588da13d5bc4970d4ab9b289e0d75cc18453c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-127-2004",
+   "path": "local/judet/salaj/2004/127",
+   "short": "HCJ Sălaj nr. 127/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 127/2004 privind desemnarea unui reprezentant care sa faca parte din Adunarea Generala a Actionarilor la S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1272004.pdf",
+     "sha256": "3f50785191f65e9088302ff606d9cb39dd3d7db6453993ce9918879952a9312e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-128-2004",
+   "path": "local/judet/salaj/2004/128",
+   "short": "HCJ Sălaj nr. 128/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 128/2004 privind reorganizarea Comisiei pentru protectia copilului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot1282004.pdf",
+     "sha256": "4d57e49807721555e0d97447b41f6a8ca96fb49fe468999d8729d45389a94b08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-13-2004",
+   "path": "local/judet/salaj/2004/13",
+   "short": "HCJ Sălaj nr. 13/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 13/2004 privind constituirea comisiei pentru efectuarea cercetarii prealabile in vederea declararii utilitatii publice a unei lucrari",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot132004.pdf",
+     "sha256": "90e19e82a8397699e3ea6aa9f237e7b5d7a4bc78ddc2c0463621631af7363431"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-14-2004",
+   "path": "local/judet/salaj/2004/14",
+   "short": "HCJ Sălaj nr. 14/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 14/2004 privind constituirea Comisiei de inventariere, stabilirea termenelor de predare-preluare si a modului de gestionare a arhivei care contine studdii de teren si documentatii pentru realizarea investitiilor de orice fel, a elementelor de infrastructura, de gospodari",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot142004.pdf",
+     "sha256": "fbedbbde28296d73b1f90f5c53497f214fef4ad2d94ec733fc7d5d4fa0e53651"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-15-2004",
+   "path": "local/judet/salaj/2004/15",
+   "short": "HCJ Sălaj nr. 15/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 15/2004 privind desemnarea consilierilor judeteni care vor face parte din Comisia de examinare pentru concursul din data de 17.02.2004, organizat pentru ocuparea functiei de bibliotecar, gradul profesional I A - director la Biblioteca Judeteana \"Ionita Scipione Badescu\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot152004.pdf",
+     "sha256": "24af1eafb1df7f732faddfa70471c8e01251d395a557a0ddfc4272dd08258588"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-16-2004",
+   "path": "local/judet/salaj/2004/16",
+   "short": "HCJ Sălaj nr. 16/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 16/2004 privind modificarea bugetului propriu al Consiliului Judetean pe anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot162004.pdf",
+     "sha256": "da1c7e1ad189d15465853b45217de17c0c1c0540a9d6826b0e99ff4faa250a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-17-2004",
+   "path": "local/judet/salaj/2004/17",
+   "short": "HCJ Sălaj nr. 17/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 17/2004 privind utilizarea fondului de rulment al Consiliului Judetean in anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot172004.pdf",
+     "sha256": "118d7abded01c83069f22293ac10ad25c4cee464d23da67ac227b0ebd8b2af94"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-18-2004",
    "path": "local/judet/salaj/2004/18",
    "short": "HCJ Sălaj nr. 18/2004",
@@ -44,6 +524,51 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot182004.pdf",
      "sha256": "0f223bf2cc9e3cde9a8aeb492b29195b37a902cd50beea1b145310674079c23b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-19-2004",
+   "path": "local/judet/salaj/2004/19",
+   "short": "HCJ Sălaj nr. 19/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 19/2004 privind atribuirea in folosinta gratuita, pe termen limitat, a unui spatiu din domeniul privat al judetului Salaj pentru Centrul de Diagnostic Genetic al Asociatiei Prader Willi - Romania",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot192004.pdf",
+     "sha256": "ff6f63b13dfdde2777d90b8e299d03f5e7ce7dbc729adc083407672e1962a9eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-2-2004",
+   "path": "local/judet/salaj/2004/2",
+   "short": "HCJ Sălaj nr. 2/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 2/2004 privind alocarea sumei de 50 milioane lei din fondul de rezerva bugetara al Consiliului Judetean Salaj pe anul 2004 pentru cofinantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot22004.pdf",
+     "sha256": "beb7cd78cb38203a2ebca8ce3ed020716f6c912eb639e6c77df894fcc0c767ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-20-2004",
+   "path": "local/judet/salaj/2004/20",
+   "short": "HCJ Sălaj nr. 20/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 20/2004 privind darea in folosinta gratuita a suprafetei de 1985 m.p. din imobilul situat in mun. Zalau, P-ta 1 dec.1918 nr.11 si a terenului aferent in suprafata de 1929 m.p. aflate in domeniul public al judetului Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot202004.pdf",
+     "sha256": "32a8bebec144cbb7820e80043614d7c5cddffdd9ff54852f9058c79c2931b89b"
     }
    ]
   },
@@ -63,6 +588,186 @@
    ]
   },
   {
+   "slug": "hcj-salaj-22-2004",
+   "path": "local/judet/salaj/2004/22",
+   "short": "HCJ Sălaj nr. 22/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 22/2004 pentru aprobarea Strategiei Consiliului Judetean Salaj de accelerare a reformei in administratia publica",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot222004.pdf",
+     "sha256": "f3176c4a27ee08435d6d329c68584918c6b5fc53a2cd1846645cb3ef6412039c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-24-2004",
+   "path": "local/judet/salaj/2004/24",
+   "short": "HCJ Sălaj nr. 24/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 24/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot242004.pdf",
+     "sha256": "b4d296b3d983cffc394543e1878f7ce3f48e8b2ad5a35c9a714c74b0f1fe07c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-25-2004",
+   "path": "local/judet/salaj/2004/25",
+   "short": "HCJ Sălaj nr. 25/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 25/2004 privind aprobarea baremelor de dotare cu echipament si cazarmament si duratele de utilizare, precum si normativele valorice de cheltuieli pentru copii, tineri si mame, conform art.2 din Legea nr.326/2003",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot252004.pdf",
+     "sha256": "2fa7c7b77bf7b1c9c21c6cd1370182e99c29283b8cfe50e0b01901d937add714"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-26-2004",
+   "path": "local/judet/salaj/2004/26",
+   "short": "HCJ Sălaj nr. 26/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 26/2004 privind numirea reprezentantilor Consiliului Judetean in Consiluil de Administratie al Spitalului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot262004.pdf",
+     "sha256": "f5d8551260d1370a92df1ccee76f658916cb87c792bd7c35c1ec22a39008b0f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-27-2004",
+   "path": "local/judet/salaj/2004/27",
+   "short": "HCJ Sălaj nr. 27/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 27/2004 privind numirea reprezentantilor Consiliului Judetean in Consiliul de Administratie al Centrului de Cercetari si Asistenta Medicala Simleu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot272004.pdf",
+     "sha256": "4c80ce4802ca269ac101fc7d57c3c3925d1ede04b9a4e00f5d9a0c821462acdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-28-2004",
+   "path": "local/judet/salaj/2004/28",
+   "short": "HCJ Sălaj nr. 28/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 28/2004 privind majorarea bugetului propriu al Consiliului Judetean pe anul 2004 cu suma de 3.800 milioane lei si constituirea acesteia ca aport la majorarea capitalului social al S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot282004.pdf",
+     "sha256": "39c54735e2827afff37a2965a06013ff4e49a0d05690f6433149cdb24003b5f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-29-2004",
+   "path": "local/judet/salaj/2004/29",
+   "short": "HCJ Sălaj nr. 29/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 29/2004 privind aprobarea contului de incheiere al exercitiului bugetar pe anul 2003 al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot292004.pdf",
+     "sha256": "42ac72f0c94bcc2ade2b8905118ff26e8769ad1f6e5c581e39486f304fbae070"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-3-2004",
+   "path": "local/judet/salaj/2004/3",
+   "short": "HCJ Sălaj nr. 3/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 3/2004 privind aprobarea garantarii scrisorilor de garantie solicitate de catre S.C",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot32004.pdf",
+     "sha256": "2fd7c3d0bb191db977d4e1419e8bc596cee2e2aa9739731a1a0743ebcc6c3c46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-30-2004",
+   "path": "local/judet/salaj/2004/30",
+   "short": "HCJ Sălaj nr. 30/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 30/2004 privind alocarea sumei de 200.000 mii lei din fondul de rezerva bugetara al Consiliului Judetean pe trimestrul II 2004, pentru sustinerea materiala a elevilor cu diferite tipuri de dezabilitati proveniti din judetul nostru si scolarizati in cadrul unor unitati de",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot302004.pdf",
+     "sha256": "cfb7ccd73bde0575ce8b0eb05349b26ecd1a3fa129d4e16d2a3f1bf9fcfa3a69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-32-2004",
+   "path": "local/judet/salaj/2004/32",
+   "short": "HCJ Sălaj nr. 32/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 32/2004 privind utilizarea fondului de rulment al Consiliului Judetean pe anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot322004.pdf",
+     "sha256": "3046534d30f7c6c0ebc2a739fccd4146bd1c511dab1f6e8fdb0c9b351a8df711"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-33-2004",
+   "path": "local/judet/salaj/2004/33",
+   "short": "HCJ Sălaj nr. 33/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 33/2004 privind suplimentarea bugetului propriu al Consiliului Judetean pe anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot332004.pdf",
+     "sha256": "4788194df365f008df64b5b70842e7cd749138c2d5907d70abe110a99bd5cbaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-34-2004",
+   "path": "local/judet/salaj/2004/34",
+   "short": "HCJ Sălaj nr. 34/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 34/2004 privind modificarea art.3 din Hotararea Consiliului Judetean Salaj nr.14/27.02.2003 privind transmiterea unor bunuri din domeniul public al judetului Salaj in administrarea Spitalului Judetean Salaj si suplimentarea bugetului propriu al Consiliului Judetean pe anu",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot342004.pdf",
+     "sha256": "ea6b078da9227e1723b3783404bcd2fa1f7338e77a78b9c681adb9cedbb9ed8c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-35-2004",
    "path": "local/judet/salaj/2004/35",
    "short": "HCJ Sălaj nr. 35/2004",
@@ -74,6 +779,876 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot352004.pdf",
      "sha256": "0354e04eef16b1d3bbc992d3aa8a07e685bd244665dac5848ef89930ee1d2885"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-36-2004",
+   "path": "local/judet/salaj/2004/36",
+   "short": "HCJ Sălaj nr. 36/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 36/2004 privind inchirierea unor platforme betonate destinate pentru parcari",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot362004.pdf",
+     "sha256": "8337afa0e6542cdb23a1f22879746fd2c98417c03aac42c35a7c670753fcfa68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-37-2004",
+   "path": "local/judet/salaj/2004/37",
+   "short": "HCJ Sălaj nr. 37/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 37/2004 privind infiintarea in subordinea Directiei generale pentru Protectia Drepturiloa Copilului, a Serviciului de Prevenire a sarcinii nedorite, prin planificare familiala si educatie contraceptiva",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot372004.pdf",
+     "sha256": "6d8d647077fecf74e6a8bcb363fd5814482667e2d0b944ec83761c4ac966d648"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-38-2004",
+   "path": "local/judet/salaj/2004/38",
+   "short": "HCJ Sălaj nr. 38/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 38/2004 privind asocierea Consiliului Judetean Salaj cu Consiliul Local al comunei Almasu, in vederea reabilitarii unor drumuri judetene aflate pe teritoriul acestei comune",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot382004.pdf",
+     "sha256": "796e8fb57e25b37a85146b931f4ac868011b1eec30bec45cd3e328261b68b64f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-39-2004",
+   "path": "local/judet/salaj/2004/39",
+   "short": "HCJ Sălaj nr. 39/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 39/2004 privind utilizarea fondului de rulment al Consiliului Judetean in anul 2004, in suma de 270 milioane lei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot392004.pdf",
+     "sha256": "6af3f37db494fff01f736aa014b8ed9f78e4097ab134289585fc998547727e88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2004",
+   "path": "local/judet/salaj/2004/4",
+   "short": "HCJ Sălaj nr. 4/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2004 privind acceptarea unei donatii",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot42004.pdf",
+     "sha256": "602a47b21b37d8ca46ace7e531f33ed7c5617aa15fc78c0f8cc11904072690ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-40-2004",
+   "path": "local/judet/salaj/2004/40",
+   "short": "HCJ Sălaj nr. 40/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 40/2004 privind transmiterea unor bunuri aflate in domeniul public al judetului Salaj in administrarea efectiva a Serviciului Judetean de Ambulanta Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot402004.pdf",
+     "sha256": "7d7f4fc606645658e1bbb87c911487bbbf99bb9129037e4c40f49dd24565ae2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-41-2004",
+   "path": "local/judet/salaj/2004/41",
+   "short": "HCJ Sălaj nr. 41/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 41/2004 privind aprobarea inchirierii unui spatiu aflat in domeniul public al judetului si in administrarea efectiva a Serviciului Judetean de Ambulanta Simleu Silvaniei",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot412004.pdf",
+     "sha256": "4eda64f873948c85269adc39b47c7b66b5c2047103c746f2150be4df1871bfb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-42-2004",
+   "path": "local/judet/salaj/2004/42",
+   "short": "HCJ Sălaj nr. 42/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 42/2004 privind completarea \"Programului de transport rutier de persoane prin servicii regulate in trafic judetean\" al judetului Salaj, pentru anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot422004.pdf",
+     "sha256": "32ef5450facc5739d4a23c749e6abe017c4363d3bffe0e98442167e11612ef88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-43-2004",
+   "path": "local/judet/salaj/2004/43",
+   "short": "HCJ Sălaj nr. 43/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 43/2004 privind modificarea anexei la Hotararea nr.24/20.03.2003 privind aprobarea Programului de Transport rutier de persoane prin servicii regulate in trafic interjudetean, intre doua judete limitrofe, pentru anul 2003-2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot432004.pdf",
+     "sha256": "fa35f9a34bb0765af82446c4efd7b84cf0d595e895bca9c548e80152c3e176a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-44-2004",
+   "path": "local/judet/salaj/2004/44",
+   "short": "HCJ Sălaj nr. 44/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 44/2004 privind infiintarea in subordinea Directiei Generale pentru Protectia Drepturilor Copilului, in cadrul Centrului de Servicii Comunitare Jibou, a unui Centru de zi",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot442004.pdf",
+     "sha256": "c5772a147130f163222debe503c8aee58a5356823263b0990392872de1ddc090"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-45-2004",
+   "path": "local/judet/salaj/2004/45",
+   "short": "HCJ Sălaj nr. 45/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 45/2004 privind aprobarea completarii Regulamentului de organizare si functionare a aparatului propriu al Consiliului Judetean Salaj, cu atributiile Compartimentului Redactarea, Editarea si Difuzarea Monitorului Oficial al Judetului din cadrul Directiei Juridica si Administra",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot452004.pdf",
+     "sha256": "b434a528e1b4be46b2fd9435aba6bcb9f4b4d657cc4203fd8151c3670cd90510"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-46-2004",
+   "path": "local/judet/salaj/2004/46",
+   "short": "HCJ Sălaj nr. 46/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 46/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot462004.pdf",
+     "sha256": "3b72321f22a75a0759a5672411a1b98852dbcc1288858ff63352a8b19d283029"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-47-2004",
+   "path": "local/judet/salaj/2004/47",
+   "short": "HCJ Sălaj nr. 47/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 47/2004 privind modificarea repartizarii pe trimestre a sumelor defalcate din impozitul pe venit, prin transferarea sumei de 11.900 milioane lei din trimestrul III, in trimestrul II 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot472004.pdf",
+     "sha256": "e7fe923fa53e6198ca69dfd6e4b2e792992115edd16a945c7c60c4fd14a38e76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-48-2004",
+   "path": "local/judet/salaj/2004/48",
+   "short": "HCJ Sălaj nr. 48/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 48/2004 privind alocarea sumei de 350.000 mii lei din fondul de rezerva bugetara a Consiliului Judetean pe trimestrul II 2004 pentru finantarea cheltuielilor necesare desfasurarii procesului electoral",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot482004.pdf",
+     "sha256": "3260f1bc006b92ad9054472f68ef72affae0214cf1c9de8eedace517b764fe9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-49-2004",
+   "path": "local/judet/salaj/2004/49",
+   "short": "HCJ Sălaj nr. 49/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 49/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot492004.pdf",
+     "sha256": "4ad3489a15df8af4e3e16c8f37c03dbf8afb181c3937a7d17c3f80216c109e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-5-2004",
+   "path": "local/judet/salaj/2004/5",
+   "short": "HCJ Sălaj nr. 5/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 5/2004 privind acceptarea transmiterii unui bun din domeniul public al statului in domeniul public al judetului Salaj, in administrarea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot52004.pdf",
+     "sha256": "17aafd088b2775144ce9c8cfecddcade6a0b04068c73da53ffdbc13a950fe84e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-50-2004",
+   "path": "local/judet/salaj/2004/50",
+   "short": "HCJ Sălaj nr. 50/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 50/2004 privind asocierea Consiliului Judetean cu Consiliul Local Bobota in vederea executarii unor lucrari de reparatii pe drumurile judetene care strabat aceasta comuna",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-05-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot502004.pdf",
+     "sha256": "bd2ce4b482a5d74996b57ade833a240b7763e0e2c226c4c7a8d18dab4de0f5d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-51-2004",
+   "path": "local/judet/salaj/2004/51",
+   "short": "HCJ Sălaj nr. 51/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 51/2004 privind alegerea Comisiei de validare a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot512004.pdf",
+     "sha256": "0975f9d4aa41bb59d28a44650cbfeb4ced0627622151c65cc031d331dad64742"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-52-2004",
+   "path": "local/judet/salaj/2004/52",
+   "short": "HCJ Sălaj nr. 52/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 52/2004 privind validarea mandatelor consilierilor Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot522004.pdf",
+     "sha256": "0e5a41c2a26581989aac29dbf127b73e966c3b95460cb9db7c6e57de4e7cfc26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-53-2004",
+   "path": "local/judet/salaj/2004/53",
+   "short": "HCJ Sălaj nr. 53/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 53/2004 privind constituirea Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot532004.pdf",
+     "sha256": "29fba2f1d90de4f88ca75c7f3dca0c5d6fae94e1752d8232ceb3f8a1cb57c5ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-54-2004",
+   "path": "local/judet/salaj/2004/54",
+   "short": "HCJ Sălaj nr. 54/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 54/2004 privind alegerea presedintelui Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot542004.pdf",
+     "sha256": "ec52795686d21804b2a675c9a63ea9cee78f770b99aef360cc5c475539ebedde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-55-2004",
+   "path": "local/judet/salaj/2004/55",
+   "short": "HCJ Sălaj nr. 55/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 55/2004 privind alegerea vicepresedintilor Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot552004.pdf",
+     "sha256": "c7ae63e32264f8a5e2d5ad6dfa837978f9402a1f24e06bc3697770ab1fd5f2ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-56-2004",
+   "path": "local/judet/salaj/2004/56",
+   "short": "HCJ Sălaj nr. 56/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 56/2004 privind stabilirea numarului, denumirea si componenta comisiilor de specialitate ale Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot562004.pdf",
+     "sha256": "ec39408e8ea547255efdb3f8c1140a452a3bcfc88f7e2e75cc92fa861f71db39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-57-2004",
+   "path": "local/judet/salaj/2004/57",
+   "short": "HCJ Sălaj nr. 57/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 57/2004 privind incetarea de drept a mandatelor unor consilieri judeteni",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot572004.pdf",
+     "sha256": "99a7e15bf1f4171ec962143a67cb8884e524670594aae2bed1ec055fde9b6a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-58-2004",
+   "path": "local/judet/salaj/2004/58",
+   "short": "HCJ Sălaj nr. 58/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 58/2004 privind validarea mandatelor unor consilieri judeteni",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot582004.pdf",
+     "sha256": "59d69fc7c3370897993faa28b85428e27ef7ff5b73eb66d470ff74f886a8d5aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-59-2004",
+   "path": "local/judet/salaj/2004/59",
+   "short": "HCJ Sălaj nr. 59/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 59/2004 privind unele modificari in componenta comisiilor de specialitate ale Consiliului Judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot592004.pdf",
+     "sha256": "9727ee6d01243935f096ce414bd271274af0509c324de69a81d646cb1a462b01"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-6-2004",
+   "path": "local/judet/salaj/2004/6",
+   "short": "HCJ Sălaj nr. 6/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 6/2004 privind accesarea Programului SAMTID de dezvoltare a infrastructurii in orasele mici si mijlocii",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot62004.pdf",
+     "sha256": "4f17b16ca5ea908309cd60a9feff253835ed9124bdf4e2d75d6630c0f105314b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-60-2004",
+   "path": "local/judet/salaj/2004/60",
+   "short": "HCJ Sălaj nr. 60/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 60/2004 privind desemnarea persoanelor care vor face parte din Comitetul de organizare al Autoritatii Teritoriale de Ordine Publica Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot602004.pdf",
+     "sha256": "b7a08a7c03c7f4a742ce5fc44972b03f43095eef4d05b80174656140ecf0925b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-61-2004",
+   "path": "local/judet/salaj/2004/61",
+   "short": "HCJ Sălaj nr. 61/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 61/2004 privind reactualizarea componentei Comisiei tehnice de amenajarea teritoriului si urbanism",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot612004.pdf",
+     "sha256": "319065358b62cd2271d20d989007f8b9d634d8d7ae694503a1decb9d2fda952d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-62-2004",
+   "path": "local/judet/salaj/2004/62",
+   "short": "HCJ Sălaj nr. 62/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 62/2004 privind reorganizarea Comisiei Judetene Anti-saracie si Promovare a Incluziunii Sociale",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot622004.pdf",
+     "sha256": "9c347d3990ad699348284738b6b34784be3165889777fec983f5de67c531c8b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-63-2004",
+   "path": "local/judet/salaj/2004/63",
+   "short": "HCJ Sălaj nr. 63/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 63/2004 privind reorganizarea Comitetului Consultativ din cadrul Programului de Dezvoltare Rurala",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot632004.pdf",
+     "sha256": "8219e264db577801955c88d4d427850d7137b16bf1bc6bf873b65f02e47e10b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-64-2004",
+   "path": "local/judet/salaj/2004/64",
+   "short": "HCJ Sălaj nr. 64/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 64/2004 privind aprobarea \"Programului pentru pregatirea si intretinerea drumurilor judetene si comunale aflete in administrarea Consiliului Judetean Salaj, pentru perioada de iarna 2004-2005\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot642004.pdf",
+     "sha256": "b0bbd078b9aaeaa3f42a5a490c4e5333692ada1f2accd466977d321c8b82a057"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-65-2004",
+   "path": "local/judet/salaj/2004/65",
+   "short": "HCJ Sălaj nr. 65/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 65/2004 privind acceptarea unei donatii",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot652004.pdf",
+     "sha256": "70745f8dea34f706622e2b975368f75c89335caddbea85afffacc471267accd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-66-2004",
+   "path": "local/judet/salaj/2004/66",
+   "short": "HCJ Sălaj nr. 66/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 66/2004 privind acceptarea unei donatii pentru Biblioteca Judeteana \"Ionita Scipione Badescu\" Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot662004.pdf",
+     "sha256": "b438dc989f3b1430db99de369bf02587a23ce720defe0444fd57d0e4861abd1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-67-2004",
+   "path": "local/judet/salaj/2004/67",
+   "short": "HCJ Sălaj nr. 67/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 67/2004 privind modificarea repartizarii pe trimestre a sumelor defalcate din impozitul pe venit prin transferarea sumei de 8.000 milioane lei din trimestrul IV, in trimestrul III 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot672004.pdf",
+     "sha256": "1e3121e162cc69a1bba0cb0d2193a5a58fa0668a7ea496ae86b928dec9424a6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-68-2004",
+   "path": "local/judet/salaj/2004/68",
+   "short": "HCJ Sălaj nr. 68/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 68/2004 privind aprobarea virarii de credite intre capitole, pe trimestrul III, 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot682004.pdf",
+     "sha256": "2f89cb4b13fdaf1db3fc8f68c0e47159d78e5939867d02618f1bb4f834ecf6c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-69-2004",
+   "path": "local/judet/salaj/2004/69",
+   "short": "HCJ Sălaj nr. 69/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 69/2004 privind rectificarea bugetului propriu al Consiliului Judetean pe anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot692004.pdf",
+     "sha256": "f527733ccdda2723d1391383b066eda8ecf4c382c83efdcec4ef8d058d7836be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-7-2004",
+   "path": "local/judet/salaj/2004/7",
+   "short": "HCJ Sălaj nr. 7/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 7/2004 privind modificarea si completarea Hotararii nr.5 di 4 martie 1994 a Consiliului Judetean Salaj privind stabilirea obiectivelor la care se impune organizarea pazei prin gardieni publici",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot72004.pdf",
+     "sha256": "5e8b62ca15283fe60468ff1a318f43675141801f37018c9d493d9b03bad746f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-70-2004",
+   "path": "local/judet/salaj/2004/70",
+   "short": "HCJ Sălaj nr. 70/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 70/2004 privind utilizarea fondului de rulment al Consiliului Judetean in anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot702004.pdf",
+     "sha256": "f44fd22ca52ad4ab0aa6530e96bcd631baf516d2c28c78b27ab3353df4565149"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-71-2004",
+   "path": "local/judet/salaj/2004/71",
+   "short": "HCJ Sălaj nr. 71/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 71/2004 privind completarea si modificarea Anexei la Hotararea Consiliului Judetean Salaj nr.87 din 5 decembrie 2003 privind stabilirea criteriilor de repartizare pe unitati administrativ-teritoriale a cotei de 15% din sumele defalcate din unele venituri ale bugetului de s",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot712004.pdf",
+     "sha256": "6d4ef927ab1475960a578b68932691fbd05a940a43767693f70fbd69a2f4a149"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-72-2004",
+   "path": "local/judet/salaj/2004/72",
+   "short": "HCJ Sălaj nr. 72/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 72/2004 privind aprobarea Studiului de fezabilitate pentru obiectivul de investitii \"Alimentarea cu apa potabila a localitatilor Zalau, Simleu Silvaniei, Jibou si Cehu Silvaniei din sursa Gilau Cluj\"",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot722004.pdf",
+     "sha256": "5fa8578fc9594cf599957a8e50ac673ca858bcb527547720dd15114bec2b4c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-73-2004",
+   "path": "local/judet/salaj/2004/73",
+   "short": "HCJ Sălaj nr. 73/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 73/2004 pentru aprobarea modificarii si completarii Regulamentului de organizare si functionare al aparatului propriu al Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot732004.pdf",
+     "sha256": "fabcf7db157c200a70e933f8c3a3183220ff52fc92c33f3fc9bac4fd3f576bf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-74-2004",
+   "path": "local/judet/salaj/2004/74",
+   "short": "HCJ Sălaj nr. 74/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 74/2004 privind asocierea Consiliului Judetean Salaj cu Consiliul Local al Comunei Gilgau, in vederea executarii lucrarilor de reparatii pe drumul judetean DJ:109F - Fodora-Birsaul Mare",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot742004.pdf",
+     "sha256": "a0c986e93b76878e58bea68744e8f9262ac07b784e80ec29b937db044ced9804"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-75-2004",
+   "path": "local/judet/salaj/2004/75",
+   "short": "HCJ Sălaj nr. 75/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 75/2004 privind infiintarea Casei de tip familial in localitatea Iaz, comuna Plopis, judetul Salaj, in subordinea Directiei Generale pentru Protectia Drepturilor Copilului Salaj si modificarea organigramei in sensul cresterii efectivului de salariati",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot752004.pdf",
+     "sha256": "f6c9d33bc6d9f51f9553ea2a1ab869e2f76efc28ee359eab0294c935ad741a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-76-2004",
+   "path": "local/judet/salaj/2004/76",
+   "short": "HCJ Sălaj nr. 76/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 76/2004 privind modificarea Anexei nr.2b la Hotararea nr.92/22.12.2003 a Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot762004.pdf",
+     "sha256": "ae4da0133c9e9f581cb6b6592ff686abf556c7bc98c45a4ba959a5b618b149a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-77-2004",
+   "path": "local/judet/salaj/2004/77",
+   "short": "HCJ Sălaj nr. 77/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 77/2004 privind trecerea unor bunuri din domeniul public in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot772004.pdf",
+     "sha256": "d765b51dfb7aeed5852a89dbcd16343e4cb2f9f83c50d3a340857096c78d187b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-78-2004",
+   "path": "local/judet/salaj/2004/78",
+   "short": "HCJ Sălaj nr. 78/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 78/2004 privind modificarea componentei Comisiei de Expertiza Medicala a Persoanelor cu Handicap pentru Adulti Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot782004.pdf",
+     "sha256": "24a763f881f777750f7f7c24c507c58f388c618321ccf9365229227ba1db09fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-79-2004",
+   "path": "local/judet/salaj/2004/79",
+   "short": "HCJ Sălaj nr. 79/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 79/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot792004.pdf",
+     "sha256": "982acaf9589985eb017e5ebd9eacb22e74c8c067386e4deaa6a72479a78fa3c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-8-2004",
+   "path": "local/judet/salaj/2004/8",
+   "short": "HCJ Sălaj nr. 8/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 8/2004 privind aprobarea efectuarii in anul 2004 a zilelor aferente concediilor de odihna neefectuate in anul 2003, de catre presedintele si vicepresedintii Consiliului Judetean Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot82004.pdf",
+     "sha256": "4b69845112c2a99f33f4e7cc16b458c0f46f164fe4210ef8d16805fb0ba88443"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-80-2004",
+   "path": "local/judet/salaj/2004/80",
+   "short": "HCJ Sălaj nr. 80/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 80/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot802004.pdf",
+     "sha256": "e81de5c9bde7c3070eb3981d4bbf1b7f0320b1e0ac420481a6aa80d78c9b7b29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-81-2004",
+   "path": "local/judet/salaj/2004/81",
+   "short": "HCJ Sălaj nr. 81/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 81/2004 privind desemnarea unui numar de 6 consilieri judeteni pentru a face parte din Autoritatea Teritoriala de Ordine Publica Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot812004.pdf",
+     "sha256": "db0178bf053f966f0a4b51a700eb4b19075aea0b6eda793929cc2d61ac737504"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-82-2004",
+   "path": "local/judet/salaj/2004/82",
+   "short": "HCJ Sălaj nr. 82/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 82/2004 privind sustinerea materiala si financiara a scolii profesionale \"Mesesul\" Zalau",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot822004.pdf",
+     "sha256": "0da2164d873838c3909664ee2ab16371e5ca77865dc277367fb904279c566053"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-83-2004",
+   "path": "local/judet/salaj/2004/83",
+   "short": "HCJ Sălaj nr. 83/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 83/2004 privind rectificarea bugetului propriu al Consiliului Judetean si repartizarea pe unitati-teritoriale a influentelor alocate de la bugetul de stat, pe anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot832004.pdf",
+     "sha256": "168c8f8ea07fb5661ee08081fb7ba2bf3a7a078531d0bfb1a3b3739a2c2eabfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-84-2004",
+   "path": "local/judet/salaj/2004/84",
+   "short": "HCJ Sălaj nr. 84/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 84/2004 privind alocarea sumei de 400.000 mii lei din fondul de rezerva bugetara a Consiliului Judetean pe trim III 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot842004.pdf",
+     "sha256": "21e1884f697dd91252d1d671811ff01240247f1a5042c39bf665ab124f27eae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-85-2004",
+   "path": "local/judet/salaj/2004/85",
+   "short": "HCJ Sălaj nr. 85/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 85/2004 privind utilizarea sumei de 150.000 mii lei din fondul de rulment al Consiliului Judetean, in anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot852004.pdf",
+     "sha256": "d9d8fa498744ba683f6ec2b814f5a22cb2e27285953a35294e37e43c0da65779"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-87-2004",
+   "path": "local/judet/salaj/2004/87",
+   "short": "HCJ Sălaj nr. 87/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 87/2004 privind asocierea Consiliului Judetean Salajcu Consiliul Local Benesat in vederea executarii unor lucrari de reparatii pe drumul judetean DJ 196 ce strabate aceasta comuna",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot872004.pdf",
+     "sha256": "d5a1232c61f8d210526ec401747b96d92b6837f0497e5f77e077266eb4f5e308"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-88-2004",
+   "path": "local/judet/salaj/2004/88",
+   "short": "HCJ Sălaj nr. 88/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 88/2004 privind validarea Autoritatii Teritoriala de Ordine Publica Salaj",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot882004.pdf",
+     "sha256": "2e754707d65f402ae3c66132ebf4f3510a0044c03edf5b3494e25da9ea7c29b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-89-2004",
+   "path": "local/judet/salaj/2004/89",
+   "short": "HCJ Sălaj nr. 89/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 89/2004 privind rectificarea bugetului propriu al Consiliului Judetean si repartizarea pe unitati administrativ-teritoriale a influentelor alocate de la bugetul de stat, pe anul 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot892004.pdf",
+     "sha256": "5f041ae3c50f08048ae217abfec6d497151adddc6eb9e0bcad822c875d69493d"
     }
    ]
   },
@@ -93,6 +1668,96 @@
    ]
   },
   {
+   "slug": "hcj-salaj-90-2004",
+   "path": "local/judet/salaj/2004/90",
+   "short": "HCJ Sălaj nr. 90/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 90/2004 privind alocarea sumei de 1.000.000 mii lei din fondul de rezerva bugetara a Consiliului Judetean pe trimestrul IV 2004, pentru finantarea unor actiuni de interes judetean",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot902004.pdf",
+     "sha256": "0384e375ba22ac1a01369e324aff53dc048ee157ca55faa1938bb8c514688c10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-91-2004",
+   "path": "local/judet/salaj/2004/91",
+   "short": "HCJ Sălaj nr. 91/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 91/2004 privind asocierea Consiliului Judetean Salaj cu Consiliul Local al comunei Coseiu in vederea executarii unor lucrari de reparatii pe drumul judetean DJ110A: Guruslau-Coseiu-Archid, ce strabate aceasta comuna",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot912004.pdf",
+     "sha256": "948e2103ccc050d82eb5e359fc1e7048e9bd1ef3cd7770942a3dd17daadf19d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-92-2004",
+   "path": "local/judet/salaj/2004/92",
+   "short": "HCJ Sălaj nr. 92/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 92/2004 privind asocierea Consiliului Judetean Salaj cu",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot922004.pdf",
+     "sha256": "c4e5e17b2f9d071ed8d480ab009bdf64feaae4e5bfd5f436cbae1a7ecdc59bbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-93-2004",
+   "path": "local/judet/salaj/2004/93",
+   "short": "HCJ Sălaj nr. 93/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 93/2004 privind aprobarea programului de transport rutier de persoane prin servicii regulate in trafic judetean al judetului Salaj si a celui de trafic interjudetean intre doua judete limitrofe, pentru perioada 2005-2007",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot932004.pdf",
+     "sha256": "3d5d016b5894df0176765680b7e33aaee9da9420087abe1a7973e0a49c3f8de1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-94-2004",
+   "path": "local/judet/salaj/2004/94",
+   "short": "HCJ Sălaj nr. 94/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 94/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot942004.pdf",
+     "sha256": "bdad7e86ccbb7b43e6c74bfcc4f3cb303b3df50e5462736cd271b7e160e52823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-95-2004",
+   "path": "local/judet/salaj/2004/95",
+   "short": "HCJ Sălaj nr. 95/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 95/2004 privind aprobarea pentru anul scolar 2004-2005 a numarului si structurii personalului nedidactic din invatamantul preuniversitar special de stat, finantat de",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot952004.pdf",
+     "sha256": "9d5fc0a8257b811c34ea492abf64b0d68241408dd5e5d155bd654dd66c9d95d7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-96-2004",
    "path": "local/judet/salaj/2004/96",
    "short": "HCJ Sălaj nr. 96/2004",
@@ -104,6 +1769,36 @@
      "units": 1,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot962004.pdf",
      "sha256": "6da953ccb006def83afe0f9734a7a0de82bb24726030a6fa8f2ba657af16ef55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-98-2004",
+   "path": "local/judet/salaj/2004/98",
+   "short": "HCJ Sălaj nr. 98/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 98/2004 privind trecerea unei parti dintr-un imobil din domeniul public in domeniul privat al judetului",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot982004.pdf",
+     "sha256": "53e21a5ae1aab269d997e6b255a307455649f7cd7c9d4a98fb3bea176fb74304"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-99-2004",
+   "path": "local/judet/salaj/2004/99",
+   "short": "HCJ Sălaj nr. 99/2004",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 99/2004 privind rectificarea bugetului propriu al Consiliului Judetean Salaj cu suma de 4.200 milioane lei, pe trimestrul IV 2004",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=110:hotarari-2004&catid=2",
+   "versions": [
+    {
+     "from": "2004-11-12",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2004/hot992004.pdf",
+     "sha256": "ce57e49d51d9352b18f847ba902893f5d4b5cb322d77e160f56597105678e249"
     }
    ]
   }

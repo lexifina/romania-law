@@ -18991,6 +18991,21 @@
      "sha256": "8f3c613f38a0eca61dd6944ff16e23a8a79afc3036e404f58a6c23df2127f02e"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-6-2022",
+   "path": "ordin/bnr/2022/6",
+   "short": "Ordin bnr nr. 6/2022",
+   "title": "Ordinul nr. 6/2022 pentru prorogarea termenului prevăzut la art. 3 alin. (1) din Ordinul Băncii Naționale a României nr. 3/2022 privind regulile de sistem ale TARGET-România și a termenului prevăzut la art. 36 alin. (1) din anexa nr. I la Ordinul Băncii Naționale a României nr. 3/2022 privind regulile de sistem ale TARGET-România",
+   "url": "https://www.bnr.ro/19368-ordin-6-2022",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19368-ordin-6-2022",
+     "sha256": "e3cc301c8cc356de268e4aa0f37285de65e7868e5d12bfdff7e09848bcdeb7d6"
+    }
+   ]
   }
  ]
 }

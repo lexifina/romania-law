@@ -14926,6 +14926,21 @@
      "sha256": "c9b81b05bd682f4125d4be83c5406bdaeae9bb8cf23f497a15089e6cf73b1a9e"
     }
    ]
+  },
+  {
+   "slug": "ordin-bnr-5-2025",
+   "path": "ordin/bnr/2025/5",
+   "short": "Ordin bnr nr. 5/2025",
+   "title": "Ordinul nr. 5/2025 pentru modificarea Ordinului Băncii Naționale a României nr. 2/2014 privind unele raportări aferente Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit",
+   "url": "https://www.bnr.ro/24711-ordinul-nr-5-2025",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/24711-ordinul-nr-5-2025",
+     "sha256": "53332499ddc5da682a2dbc21e8651edeb5287a1cde18206d7b593d13c749f5b8"
+    }
+   ]
   }
  ]
 }

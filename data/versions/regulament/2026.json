@@ -151,6 +151,36 @@
      "sha256": "643c901a8801b2fc27b8f14408725da290a426cde9a366df9bda6eacafe8257b"
     }
    ]
+  },
+  {
+   "slug": "regulament-bnr-2-2026",
+   "path": "regulament/bnr/2026/2",
+   "short": "Regulament bnr nr. 2/2026",
+   "title": "Regulamentul nr. 2/2026 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2019 privind instituțiile de plată și furnizorii specializați în servicii de informare cu privire la conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313379",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/25731-regulament-2-2026",
+     "sha256": "8c736f05d4f103644c503b40a6ec170267e7639e461c1c290f54dc0981ed5607"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2026",
+   "path": "regulament/bnr/2026/3",
+   "short": "Regulament bnr nr. 3/2026",
+   "title": "Regulamentul nr. 3/2026 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 17/2012 privind unele condiții de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/316019",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/26086-regulament-3-2026",
+     "sha256": "105815d183e548ad6053102be4f5212cbbf5b6db3c28eb1ab3cc7d87daa4813c"
+    }
+   ]
   }
  ]
 }
