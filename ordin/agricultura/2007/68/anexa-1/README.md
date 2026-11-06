@@ -1,4 +1,4 @@
-# Anexa nr. 1: LISTA cuprinzând gradatorii autorizați Nr. crt. Numele Prenumele C.N.P. 1. Abagiu Elena 2470317163196 2. Adam Petre 1730711292089 3. Albici Ștefan 1641126021871 4. Alexa Luminița 2720610130914 5. Alex
+# Anexa nr. 1: LISTA cuprinzând gradatorii autorizați Nr. crt. Numele Prenumele C.N.P. 1. Abagiu Elena [CNP omis] 2. Adam Petre [CNP omis] 3. Albici Ștefan [CNP omis] 4. Alexa Luminița [CNP omis] 5. Alex
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
