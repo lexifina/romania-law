@@ -138,6 +138,51 @@
    ]
   },
   {
+   "slug": "regulament-guvern-zi0924-1-1998",
+   "path": "regulament/guvern/1998/09-24-1",
+   "short": "Regulament guvern din 24 septembrie 1998",
+   "title": "Regulament - CADRU din 24 septembrie 1998 de organizare și funcționare a consiliilor pentru dezvoltare regionala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52005",
+   "versions": [
+    {
+     "from": "1998-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52005",
+     "sha256": "69af698eff248e082fc356f8a632507387a3c4c7b7342f705c13ff1e12287548"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0924-2-1998",
+   "path": "regulament/guvern/1998/09-24-2",
+   "short": "Regulament guvern din 24 septembrie 1998",
+   "title": "Regulament din 24 septembrie 1998 de organizare și funcționare a Autorității Feroviare Române - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64363",
+   "versions": [
+    {
+     "from": "1998-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64363",
+     "sha256": "6903c16a096bd7f879b046e79feceee02601f74e207bf1ea5dc1fc9de1e34cb7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0924-3-1998",
+   "path": "regulament/guvern/1998/09-24-3",
+   "short": "Regulament guvern din 24 septembrie 1998",
+   "title": "Regulament din 24 septembrie 1998 de organizare și funcționare a Autorității Rutiere Române - A.R.R",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76752",
+   "versions": [
+    {
+     "from": "1998-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76752",
+     "sha256": "6f424b51bdec6ad89b069134531ebd60c82dabc60e1dde855d09ed1499798fba"
+    }
+   ]
+  },
+  {
    "slug": "regulament-justitie-1253-1998",
    "path": "regulament/justitie/1998/1253",
    "short": "Regulament justitie nr. 1253/1998",

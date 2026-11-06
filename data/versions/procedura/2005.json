@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "procedura/2005",
+ "acts": [
+  {
+   "slug": "procedura-externe-zi0824-2005",
+   "path": "procedura/externe/2005/08-24",
+   "short": "Procedura externe din 24 august 2005",
+   "title": "Procedurile și modalitățile din 24 august 2005 de încasare și de decontare a contravalorii creanțelor recuperate în baza Legii nr. 29/1994 , cu modificările ulterioare, precum și tehnicile de analiză și selecție a ofertelor, de negociere și de prezentare a propunerilor de mandat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64624",
+   "versions": [
+    {
+     "from": "2005-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64624",
+     "sha256": "693d0c13568b9d506497236221a40983f142ce288acbdb3893e016c8bb81aeb8"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-externe-zi0830-2005",
+   "path": "procedura/externe/2005/08-30",
+   "short": "Procedura externe din 30 august 2005",
+   "title": "Procedurile și modalitățile 24 august 2005 de decontare a contravalorii soldurilor din conturile de cliring, barter și cooperare economică internațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64628",
+   "versions": [
+    {
+     "from": "2005-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64628",
+     "sha256": "cda6aa7a3a8ed7448763bdb47b4de18e6362f013957e453bd5c9c209ab887dd5"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi1027-2005",
+   "path": "procedura/mediu/2005/10-27",
+   "short": "Procedura mediu din 27 octombrie 2005",
+   "title": "Procedură din 27 octombrie 2005 privind consultarea utilizatorilor de apă, riveranilor și publicului la luarea deciziilor în domeniul gospodăririi apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65683",
+   "versions": [
+    {
+     "from": "2005-11-07",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65683",
+     "sha256": "5a8a2329b93f3b7490ad2a2e8544d51ea5fcf916c6948ec5cd1d47813a38fa7f"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi1129-2005",
+   "path": "procedura/mediu/2005/11-29",
+   "short": "Procedura mediu din 29 noiembrie 2005",
+   "title": "Procedura și condițiile din 29 noiembrie 2005 de autorizare a persoanelor juridice în vederea preluării responsabilității privind realizarea obiectivelor anuale de reutilizare, reciclare și valorificare energetică a vehiculelor scoase din uz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67392",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67392",
+     "sha256": "f287cdd55bf3feeb0e572f83dcec1cc231a5b737e5dc9e9958d26e31698cd7bc"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-munca-zi0125-2005",
+   "path": "procedura/munca/2005/01-25",
+   "short": "Procedura munca din 25 ianuarie 2005",
+   "title": "Procedură din 25 ianuarie 2005 de eliberare a atestatelor de recunoaștere a calificării - pregătire profesională sau experiență profesională dobândite în străinătate, în afara sistemului de învățământ, de cetățeni români sau cetățeni ai statelor membre ale Uniunii Europene și ai statelor aparținând Spațiului economic european, precum și de membrii de familie ai acestora, care doresc să desfășoare pe teritoriul României activități economice în mod independent, ca persoane fizice sau în cadrul unor asociații familiale, respectiv ca salariat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58942",
+   "versions": [
+    {
+     "from": "2005-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58942",
+     "sha256": "c86ee7f9c65adfa6024f7d7f2f4246964ff975d75cd92c70a621e4d2031a511c"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-transporturi-zi0603-1-2005",
+   "path": "procedura/transporturi/2005/06-03-1",
+   "short": "Procedura transporturi din 3 iunie 2005",
+   "title": "Procedură din 3 iunie 2005 pentru obținerea aprobării Ministerului Transporturilor, Construcțiilor și Turismului privind construirea unei linii ferate industriale (LFI) noi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62794",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62794",
+     "sha256": "8a081233ce9cc50b30451cad79fc75d163e412dcd7b08af5aea24dfce9628041"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-transporturi-zi0603-2-2005",
+   "path": "procedura/transporturi/2005/06-03-2",
+   "short": "Procedura transporturi din 3 iunie 2005",
+   "title": "Procedură din 3 iunie 2005 pentru obținerea aprobării Ministerului Transporturilor, Construcțiilor și Turismului privind modificarea unei LFI existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62795",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62795",
+     "sha256": "0bca1f48febe98da60f96728f958cba2297252e38326ef87b2705af8b9b66533"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-transporturi-zi0603-3-2005",
+   "path": "procedura/transporturi/2005/06-03-3",
+   "short": "Procedura transporturi din 3 iunie 2005",
+   "title": "Procedură din 3 iunie 2005 pentru obținerea aprobării Ministerului Transporturilor, Construcțiilor și Turismului privind desființarea unei LFI existente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62796",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62796",
+     "sha256": "affd4038a4f1e3a3bb86423a780782d3855dc27f6ec32d95fc5d99a226792b2b"
+    }
+   ]
+  }
+ ]
+}

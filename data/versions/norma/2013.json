@@ -421,6 +421,96 @@
      "sha256": "9a2de2e9225e7d0aa60d6584ee5e83fc0455a884564fe9addab6f1ac6f7cc9fb"
     }
    ]
+  },
+  {
+   "slug": "norma-sanatate-zi0329-2013",
+   "path": "norma/sanatate/2013/03-29",
+   "short": "Norma sanatate din 29 martie 2013",
+   "title": "Norme tehnice din 29 martie 2013 de realizare a programelor naționale de sănătate publică pentru anii 2013 și 2014*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146781",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 77,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146781",
+     "sha256": "d0c27c547492e3cc8d804b852b337df1c6f3ef574ab1a9d9d50567a79435dbf0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1010-1-2013",
+   "path": "norma/sanatate/2013/10-10-1",
+   "short": "Norma sanatate din 10 octombrie 2013",
+   "title": "Norme metodologice din 10 octombrie 2013 privind examinarea medicală și psihologică a personalului cu atribuții în siguranța transporturilor și periodicitatea examinării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153331",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153331",
+     "sha256": "cd0655e805e7704b89d751e26236d8af1ef9099b746c1d38dd2ab0d21dac55a0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1010-2-2013",
+   "path": "norma/sanatate/2013/10-10-2",
+   "short": "Norma sanatate din 10 octombrie 2013",
+   "title": "Norme din 10 octombrie 2013 privind procedura de agreare a unităților medicale și/sau psihologice în vederea examinării personalului din transporturi cu atribuții în siguranța transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153333",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153333",
+     "sha256": "c7c0405a3e359cea89e758c95c391de99a2b26370acd8325dfb145810401894c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1010-3-2013",
+   "path": "norma/sanatate/2013/10-10-3",
+   "short": "Norma sanatate din 10 octombrie 2013",
+   "title": "Norme din 10 octombrie 2013 privind procedura de control la unitățile medicale și/sau psihologice agreate să efectueze examinarea personalului cu atribuții în siguranța transporturilor, precum și persoanele desemnate să efectueze controlul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153334",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153334",
+     "sha256": "3eb74217ffe6ed2b7678d0b2c9cf9a7c64f0a562a82a77c53c9fcd21ba3079d7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0425-2013",
+   "path": "norma/transporturi/2013/04-25",
+   "short": "Norma transporturi din 25 aprilie 2013",
+   "title": "Norme din 25 aprilie 2013 privind autorizarea școlilor de conducători auto și a instructorilor auto (Anexa 1)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148395",
+   "versions": [
+    {
+     "from": "2013-05-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148395",
+     "sha256": "d2db3b6a05f4e80a67989e1a61e2429395d65b61284789eb3f23716db89fa161"
+    }
+   ]
+  },
+  {
+   "slug": "norma-turism-zi0610-2013",
+   "path": "norma/turism/2013/06-10",
+   "short": "Norma turism din 10 iunie 2013",
+   "title": "Norme metodologice din 10 iunie 2013 privind eliberarea certificatelor de clasificare a structurilor de primire turistice cu funcțiuni de cazare și alimentație publică, a licențelor și brevetelor de turism*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150201",
+   "versions": [
+    {
+     "from": "2013-06-14",
+     "units": 85,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150201",
+     "sha256": "fbe23a2d693f1a3896bd84eed1d2910f88812c5a158859641131799ec5889778"
+    }
+   ]
   }
  ]
 }

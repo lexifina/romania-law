@@ -618,6 +618,21 @@
    ]
   },
   {
+   "slug": "norma-csa-zi1218-2008",
+   "path": "norma/csa/2008/12-18",
+   "short": "Norma csa din 18 decembrie 2008",
+   "title": "Norme din 18 decembrie 2008 privind utilizarea formularului Constatare amiabilă de accident",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100802",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100802",
+     "sha256": "f8beea5cee1a74d5be1e1c45b69e981393c9426f2bb2c09fc1df9aa6f9d00d2d"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-20-2008",
    "path": "norma/csspp/2008/20",
    "short": "Norma csspp nr. 20/2008",
@@ -764,6 +779,81 @@
      "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98861",
      "sha256": "7eab63114c6558c348b5ecc11c6c8d7a62c953267eb1a4c379f143fd1f25a130"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0327-2008",
+   "path": "norma/sanatate/2008/03-27",
+   "short": "Norma sanatate din 27 martie 2008",
+   "title": "Norme metodologice din 27 martie 2008 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pe anul 2008*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91267",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91267",
+     "sha256": "cf6e4b0430adb7c06f6a94d611efef3ce0f4cb10bae4830cb92e7a618e56cdc9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0331-2008",
+   "path": "norma/sanatate/2008/03-31",
+   "short": "Norma sanatate din 31 martie 2008",
+   "title": "Norme tehnice din 31 martie 2008 de realizare a programelor naționale de sănătate în anul 2008*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91180",
+   "versions": [
+    {
+     "from": "2008-04-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91180",
+     "sha256": "122b73d6e743578ef61c002f9f13ddddff3dba76ae61957210c24d1daba75548"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0711-2008",
+   "path": "norma/sanatate/2008/07-11",
+   "short": "Norma sanatate din 11 iulie 2008",
+   "title": "Normă din 11 iulie 2008 privind obținerea specializărilor de către asistenții medicali generaliști și asistenții medicali de pediatrie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96044",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96044",
+     "sha256": "c16fe00b096980aa1c17b9829dca2baec3421d5e5c9c30f5e12529b88ec7d53f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1212-1-2008",
+   "path": "norma/sanatate/2008/12-12-1",
+   "short": "Norma sanatate din 12 decembrie 2008",
+   "title": "Norme metodologice din 12 decembrie 2008 de aplicare ale titlului IV \"Sistemul național de asistență medicală de urgență și de prim ajutor calificat\" din Legea nr. 95/2006 privind reforma în domeniul sănătății*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101360",
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101360",
+     "sha256": "4cd4f1ce4244a7a4bff0fddf42a7062705f6f60809c5b3df09f3ec16c76f16f4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1212-2-2008",
+   "path": "norma/sanatate/2008/12-12-2",
+   "short": "Norma sanatate din 12 decembrie 2008",
+   "title": "Norme din 12 decembrie 2008 de aplicare în domeniul primului ajutor de bază și primul ajutor calificat*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101361",
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101361",
+     "sha256": "35fe235a415519bdfbd4af28d3aca431b1b3fd3ef5e3c4878c779f8be1962fd1"
     }
    ]
   }

@@ -243,6 +243,36 @@
    ]
   },
   {
+   "slug": "norma-csa-zi0301-2012",
+   "path": "norma/csa/2012/03-01",
+   "short": "Norma csa din 1 martie 2012",
+   "title": "Norme din 1 martie 2012 privind încheierea exercițiului financiar 2011 pentru societățile din domeniul asigurărilor*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136318",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136318",
+     "sha256": "d93726e7af076e3321310aa84e1630acf00bac0295aafc41c35656ec6d206a30"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csa-zi0816-2012",
+   "path": "norma/csa/2012/08-16",
+   "short": "Norma csa din 16 august 2012",
+   "title": "Norme din 16 august 2012 privind forma și clauzele cuprinse în contractul de asigurare obligatorie a locuințelor împotriva cutremurelor, alunecărilor de teren și inundațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140728",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140728",
+     "sha256": "bcd6647e5cf2b9338980226d94e990ad6b56420e462d7c2a5c7e5f6df06b2ca4"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-1-2012",
    "path": "norma/csspp/2012/1",
    "short": "Norma csspp nr. 1/2012",
@@ -494,6 +524,36 @@
      "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148642",
      "sha256": "9b60a4ba3ff34ad61e0a73dc2a538734ba32d1bcdd7d92bbbf26bb71026aabec"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0629-2012",
+   "path": "norma/sanatate/2012/06-29",
+   "short": "Norma sanatate din 29 iunie 2012",
+   "title": "Norme metodologice din 29 iunie 2012 privind utilizarea și modul de completare a formularului de prescripție medicală electronică pentru medicamente cu și fără contribuție personală în tratamentul ambulatoriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139253",
+   "versions": [
+    {
+     "from": "2012-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139253",
+     "sha256": "60351af721c938c860506e28c4580abb99918b87d0607be3846ce52dbb139d0c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sts-zi0525-2012",
+   "path": "norma/sts/2012/05-25",
+   "short": "Norma sts din 25 mai 2012",
+   "title": "Norme proprii din 25 mai 2012 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139905",
+   "versions": [
+    {
+     "from": "2012-07-24",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139905",
+     "sha256": "6efaeba37135697288e28f6f2a230eeee618706f7f32431fd1c0885ee828ad6a"
     }
    ]
   }

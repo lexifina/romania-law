@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "protocol/2020",
+ "acts": [
+  {
+   "slug": "protocol-orda-zi0211-2020",
+   "path": "protocol/orda/2020/02-11",
+   "short": "Protocol orda din 11 februarie 2020",
+   "title": "Protocol din 11 februarie 2020 prin care a fost convenită forma finală a Metodologiei privind comunicarea publică a operelor muzicale în spectacole și festivaluri, încheiat între UCMR-ADA, Asociația pentru Drepturi de Autor a Compozitorilor, pe de o parte, și Asociația Română a Organizatorilor de Concerte și Evenimente Culturale (AROC), ASOCIAȚIA FAPTE, ARTEXIM și ARCUB, S.C. UNTOLD - S.R.L., S.C. EMAGIC LIVE - S.R.L. și S.C. FESTIVALTICKETS MANAGEMENT - S.R.L. (ELECTRIC-CASTLE), pe de altă parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224741",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224741",
+     "sha256": "acbf9957c878ee97e789be4925492d8d23905b18cf1292eed4692554fbe3e25a"
+    }
+   ]
+  }
+ ]
+}

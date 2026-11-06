@@ -421,6 +421,21 @@
      "sha256": "a054ee20ff7b3539ceeeb14ed21a45892c8059d24102854c598ea4504149a06d"
     }
    ]
+  },
+  {
+   "slug": "norma-transporturi-zi0812-2019",
+   "path": "norma/transporturi/2019/08-12",
+   "short": "Norma transporturi din 12 august 2019",
+   "title": "Norme metodologice din 12 august 2019 privind aplicarea prevederilor referitoare la organizarea și efectuarea transportului rutier contra cost de persoane prin servicii regulate la nivel județean",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217221",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217221",
+     "sha256": "e40a85e2fc15530aedd6ee7d909348bd064e6d38d5be09738067aabfc953e6d1"
+    }
+   ]
   }
  ]
 }

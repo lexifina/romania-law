@@ -813,6 +813,36 @@
    ]
   },
   {
+   "slug": "ordin-aep-180-2007",
+   "path": "ordin/aep/2007/180",
+   "short": "Ordin aep nr. 180/2007",
+   "title": "Ordinul nr. 180/2007 privind validarea operațiunilor îndeplinite pentru alegerile a căror dată a fost stabilită de Guvern pe 4 februarie 2007, pentru alegerile organizate în vederea desemnării Consiliului Local al Municipiului Odorheiu Secuiesc, județul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82188",
+   "versions": [
+    {
+     "from": "2007-05-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82188",
+     "sha256": "6c2f1b72d5c363a2938b221b8797c1b827ae2c0a316398f10c2334bf5b907d98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aep-19-2007",
+   "path": "ordin/aep/2007/19",
+   "short": "Ordin aep nr. 19/2007",
+   "title": "Ordinul nr. 19/2007 privind validarea operațiunilor îndeplinite pentru alegerile a căror dată a fost stabilită de Guvern pe 4 februarie 2007, pentru alegerile organizate în vederea desemnării Consiliului Local al Municipiului Odorheiu Secuiesc, județul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80075",
+   "versions": [
+    {
+     "from": "2007-03-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80075",
+     "sha256": "5358780d168595805eb49c4da1ac988f81ca5216d7b42485040bcc7ae137cec0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-147-2007",
    "path": "ordin/agricultura/2007/147",
    "short": "Ordin agricultura nr. 147/2007",
@@ -17804,6 +17834,21 @@
      "units": 64,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79528",
      "sha256": "1be071b054cddf307db64ac850d7c4f33c985ad9b0ce20bca6d05e2a1549f57e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sri-1108-2007",
+   "path": "ordin/sri/2007/1108",
+   "short": "Ordin sri nr. 1108/2007",
+   "title": "Ordinul nr. 1.108/2007 pentru aprobarea bugetului de venituri și cheltuieli pe anul 2007 al Regiei Autonome \"Rasirom\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80119",
+   "versions": [
+    {
+     "from": "2007-03-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80119",
+     "sha256": "99725c136317559c6f3a4b806c461a4232ad82764bb69e8482c68e65a9494603"
     }
    ]
   },

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "procedura/2002",
+ "acts": [
+  {
+   "slug": "procedura-dezvoltare-zi0313-2002",
+   "path": "procedura/dezvoltare/2002/03-13",
+   "short": "Procedura dezvoltare din 13 martie 2002",
+   "title": "Proceduri din 13 martie 2002 pentru implementarea Programului \"Parcuri industriale\"*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37316",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37316",
+     "sha256": "129c9ce2584bf4f60236035e039ef2ede0ae8c8c45dd7bb75dc423e3c8f22a17"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0402-2002",
+   "path": "procedura/finante/2002/04-02",
+   "short": "Procedura finante din 2 aprilie 2002",
+   "title": "Proceduri de lucru din 2 aprilie 2002 în aplicarea Ordinului ministrului finanțelor publice, al guvernatorului Băncii Naționale a României și al președintelui Comisiei Naționale a Valorilor Mobiliare nr. 875/2001 pentru aprobarea Regulamentului privind operațiunile cu titluri de stat emise în forma dematerializată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35370",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35370",
+     "sha256": "56b447cf0a65aac1b04f7d585f728c053d19af712b222e064ba75b63c472df23"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0220-2002",
+   "path": "procedura/guvern/2002/02-20",
+   "short": "Procedura guvern din 20 februarie 2002",
+   "title": "Proceduri din 20 februarie 2002 de control și urmărire a depozitelor de deșeuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52033",
+   "versions": [
+    {
+     "from": "2002-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52033",
+     "sha256": "1d4a1c8ab996511b3e16b97f523e7f579b6a5a824bb07b3af16e48805f3ba468"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi0211-2002",
+   "path": "procedura/mediu/2002/02-11",
+   "short": "Procedura mediu din 11 februarie 2002",
+   "title": "Procedura din 11 februarie 2002 de avizare a specialiștilor pentru evaluarea stării de siguranță în exploatare a barajelor încadrate în categoriile de importanța C și D - NTLH-015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36743",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36743",
+     "sha256": "29f6a92212dfc648bcf67c2baee1dcb86042e1ef6e3259c6be7a2ac4ca9a34db"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-munca-zi0225-1-2002",
+   "path": "procedura/munca/2002/02-25-1",
+   "short": "Procedura munca din 25 februarie 2002",
+   "title": "Procedura din 25 februarie 2002 privind modul de acordare a drepturilor de care beneficiază persoanele aflate în căutarea unui loc de muncă pe durata participării la o formă de pregătire profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34534",
+   "versions": [
+    {
+     "from": "2002-03-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34534",
+     "sha256": "e3b1db62373de8b5d96831493aa96c5288f1522d2655af9e1ce3fd2053452306"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-munca-zi0225-2-2002",
+   "path": "procedura/munca/2002/02-25-2",
+   "short": "Procedura munca din 25 februarie 2002",
+   "title": "Procedura din 25 februarie 2002 privind declararea lunară de către angajatori a obligațiilor de plată la bugetul asigurărilor pentru șomaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34542",
+   "versions": [
+    {
+     "from": "2002-03-18",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34542",
+     "sha256": "c9fc128bd8b533078dfa2d5b83ab8b87e18b6acf9c94ce92be0514b002c4e9c8"
+    }
+   ]
+  }
+ ]
+}

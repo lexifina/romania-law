@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-730-1997-anexa",
+   "path": "anexa/hg-730-1997/anexa",
+   "short": "Anexa la HG nr. 730/1997",
+   "title": "Normativ din 10 noiembrie 1997 privind stabilirea limitelor de încărcare cu poluanți a apelor uzate evacuate în resursele de apa \"NTPA - 001\" (anexa la Hotărârea Guvernului nr. 730/1997)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64516",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64516",
+     "sha256": "48b35bd0b959bcd47f910a244d0b902509a5f43baea57b2ee884f125d4b13ca2"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-84-1997-anexa",
    "path": "anexa/hg-84-1997/anexa",
    "short": "Anexa la HG nr. 84/1997",

@@ -466,6 +466,66 @@
      "sha256": "d3de407697073da8a5735dc2fe3bdd88a743d5ba9c069c68d3282b8862301412"
     }
    ]
+  },
+  {
+   "slug": "norma-sanatate-zi0504-2021",
+   "path": "norma/sanatate/2021/05-04",
+   "short": "Norma sanatate din 4 mai 2021",
+   "title": "Norme metodologice din 4 mai 2021 privind implementarea Protocoalelor terapeutice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242306",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242306",
+     "sha256": "5c436e281c36bffeb60f629911d2238524648ee756156f2e57db2744c7f7acbd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0629-2021",
+   "path": "norma/sanatate/2021/06-29",
+   "short": "Norma sanatate din 29 iunie 2021",
+   "title": "Norme metodologice din 29 iunie 2021 de aplicare a Hotărârii Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementrează condițiile acordării asistenței medicale, tehnologiilor și dispozitivelor asistive în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021- 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244126",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 127,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244126",
+     "sha256": "0ec85e101f24d2d15871332c6c44d82e07eb2e3a519a18c5bb17edf2546d592c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0903-2021",
+   "path": "norma/sanatate/2021/09-03",
+   "short": "Norma sanatate din 3 septembrie 2021",
+   "title": "Norme metodologice din 3 septembrie 2021 privind examinarea medicală și psihologică a personalului cu atribuții în siguranța transporturilor și periodicitatea examinărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246100",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246100",
+     "sha256": "2143c12981db4524a0d1928bce49052b8893b9dceb0b2d3459ca37fd3fd9a964"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0903-2021",
+   "path": "norma/transporturi/2021/09-03",
+   "short": "Norma transporturi din 3 septembrie 2021",
+   "title": "Norme metodologice din 3 septembrie 2021 privind examinarea medicală și psihologică a personalului cu atribuții în siguranța transporturilor și periodicitatea examinărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246092",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246092",
+     "sha256": "f528148f652414d7d7dc3125ef9a9b2437e7feae885a176eebf5b922cf407f62"
+    }
+   ]
   }
  ]
 }

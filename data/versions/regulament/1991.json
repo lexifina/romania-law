@@ -31,6 +31,81 @@
      "sha256": "26d6786aca39fae2f465d84a27a61023d62be2ee813d7c35acc45315a33ab13e"
     }
    ]
+  },
+  {
+   "slug": "regulament-guvern-zi0126-1991",
+   "path": "regulament/guvern/1991/01-26",
+   "short": "Regulament guvern din 26 ianuarie 1991",
+   "title": "Regulament din 26 ianuarie 1991 de organizare și funcționare al Regiei autonome \"Administrația română a serviciilor de trafic aerian\" - ROMATSA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76112",
+   "versions": [
+    {
+     "from": "1991-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76112",
+     "sha256": "4f063aeb5b435be7d43a86ce1b186d5c094847ca70a4db660d3b9aafe2f0e394"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0301-1991",
+   "path": "regulament/guvern/1991/03-01",
+   "short": "Regulament guvern din 1 martie 1991",
+   "title": "Regulament din 1 martie 1991 de organizare și funcționare a Regiei Autonome \"Zirom\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64432",
+   "versions": [
+    {
+     "from": "1991-03-22",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64432",
+     "sha256": "96d13362fe8e8c8fb5a6d008385698c0ef7d301438abc00ad1c4967da3c88ca4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0424-1991",
+   "path": "regulament/guvern/1991/04-24",
+   "short": "Regulament guvern din 24 aprilie 1991",
+   "title": "Regulament din 24 aprilie 1991 de organizare și funcționare a Regiei autonome \"Registrul naval român\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28493",
+   "versions": [
+    {
+     "from": "1991-11-30",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28493",
+     "sha256": "a26232a03321b4b7a84264fcdfc81ff69e64ed7e49c68297bb7741fda0f23366"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0917-1991",
+   "path": "regulament/guvern/1991/09-17",
+   "short": "Regulament guvern din 17 septembrie 1991",
+   "title": "Regulament din 17 septembrie 1991 de organizare și funcționare a Regiei autonome \"Editura didactica și pedagogica\" pentru editarea manualelor școlare, a manualelor universitare și a altor lucrări destinate învățămîntului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95463",
+   "versions": [
+    {
+     "from": "1991-10-03",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95463",
+     "sha256": "f51b3dd5584c1a08d415baebab47d0f50daf386941186056d8fb1e4ef9dabfc9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1108-1991",
+   "path": "regulament/guvern/1991/11-08",
+   "short": "Regulament guvern din 8 noiembrie 1991",
+   "title": "Regulament din 8 noiembrie 1991 de organizare și funcționare a Regiei autonome \"Registrul auto român\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87643",
+   "versions": [
+    {
+     "from": "1991-11-22",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87643",
+     "sha256": "37af782fe87df1e9baa2910e99461ac3d2f1f41b482687a087f0b4295c03e4bb"
+    }
+   ]
   }
  ]
 }

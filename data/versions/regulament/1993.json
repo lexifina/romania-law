@@ -16,6 +16,246 @@
      "sha256": "6955a568f17c6b180a093d03bf8489cba6c58f11ff02b9c6d578e3441eb20a3e"
     }
    ]
+  },
+  {
+   "slug": "regulament-finante-zi0422-1-1993",
+   "path": "regulament/finante/1993/04-22-1",
+   "short": "Regulament finante din 22 aprilie 1993",
+   "title": "Regulament din 22 aprilie 1993 privind subscripția publică și oferta publică de vinzare de titluri de valoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64504",
+   "versions": [
+    {
+     "from": "1993-05-21",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64504",
+     "sha256": "7ea157f6be8e4b90743a2327f8e135467771099ba6efebb7b4958de2a17966db"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-finante-zi0422-2-1993",
+   "path": "regulament/finante/1993/04-22-2",
+   "short": "Regulament finante din 22 aprilie 1993",
+   "title": "Regulament din 22 aprilie 1993 privind autorizarea agențiilor și a agenților de negociere a titlurilor de valoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64505",
+   "versions": [
+    {
+     "from": "1993-05-21",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64505",
+     "sha256": "3e66432a1707933524036036f31a345128ba19b9757fbdb6c0fea80bac0d43a0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0422-1-1993",
+   "path": "regulament/guvern/1993/04-22-1",
+   "short": "Regulament guvern din 22 aprilie 1993",
+   "title": "Regulament din 22 aprilie 1993 de organizare și funcționare a Administrației Zonei Libere Sulina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64360",
+   "versions": [
+    {
+     "from": "1993-05-27",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64360",
+     "sha256": "19076e2a573ef45d3e94ca545f8ca7960a0aa72043af236e3e4753e6f2917332"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0422-2-1993",
+   "path": "regulament/guvern/1993/04-22-2",
+   "short": "Regulament guvern din 22 aprilie 1993",
+   "title": "Regulament din 22 aprilie 1993 de organizare și funcționare a Regiei Autonome \"Registrul Feroviar Român - REFER\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64361",
+   "versions": [
+    {
+     "from": "1993-05-13",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64361",
+     "sha256": "fef8cd6e470f672f918c3259cca880dca6c328a6e239913f481b96e2298daa10"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0601-1993",
+   "path": "regulament/guvern/1993/06-01",
+   "short": "Regulament guvern din 1 iunie 1993",
+   "title": "Regulament din 1 iunie 1993 pentru furnizarea și utilizarea energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54672",
+   "versions": [
+    {
+     "from": "1993-06-24",
+     "units": 119,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54672",
+     "sha256": "32c9999b8ed832db98508edc45cc6be89c3498d389e799bf5da0b0d50eab3435"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0720-1993",
+   "path": "regulament/guvern/1993/07-20",
+   "short": "Regulament guvern din 20 iulie 1993",
+   "title": "Regulament din 20 iulie 1993 de organizare și funcționare a Secretariatului Tripartit pentru Dialog Social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62032",
+   "versions": [
+    {
+     "from": "1993-08-18",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62032",
+     "sha256": "4e143ef82101e18c7857fc2ae103a40db2a24b3fdd4c6c62238845e607f8fe50"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0812-1993",
+   "path": "regulament/guvern/1993/08-12",
+   "short": "Regulament guvern din 12 august 1993",
+   "title": "Regulament din 12 august 1993 de organizare și funcționare a Autorității Aeronautice Civile Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72621",
+   "versions": [
+    {
+     "from": "1993-08-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72621",
+     "sha256": "972c3640480fea116d957ecff756bcbb6c9cc0e53af30b32e7c09caa82e3348d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0816-1993",
+   "path": "regulament/guvern/1993/08-16",
+   "short": "Regulament guvern din 16 august 1993",
+   "title": "Regulament din 16 august 1993 de organizare și funcționare a Regiei Autonome \"Administrația Zonei Libere Constanța Sud\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72622",
+   "versions": [
+    {
+     "from": "1993-09-02",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72622",
+     "sha256": "efdbcc18dcedbb9dbd33d336a421616cda8347c6009312bf62c60779ced44cdd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0817-1-1993",
+   "path": "regulament/guvern/1993/08-17-1",
+   "short": "Regulament guvern din 17 august 1993",
+   "title": "Regulament din 17 august 1993 privind componenta, modul de organizare și atribuțiile Comisiei Naționale pentru Evaluarea Trofeelor Cinegetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92633",
+   "versions": [
+    {
+     "from": "1993-09-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92633",
+     "sha256": "82fdb91d67d0c9af1b1a81c386958c187466cd6a22648e4d95b099c0e373bc51"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0817-2-1993",
+   "path": "regulament/guvern/1993/08-17-2",
+   "short": "Regulament guvern din 17 august 1993",
+   "title": "Regulament din 17 august 1993 privind componenta, modul de organizare și atribuțiile Comisiei Naționale pentru Siguranța Barajelor și Lucrărilor Hidrotehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92634",
+   "versions": [
+    {
+     "from": "1993-09-03",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92634",
+     "sha256": "2d302d34e0c799a87e4c3a1ed8aa18eff1cde5a57ec082e66578a6ed70914f09"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0817-3-1993",
+   "path": "regulament/guvern/1993/08-17-3",
+   "short": "Regulament guvern din 17 august 1993",
+   "title": "Regulament din 17 august 1993 privind componența, modul de organizare și atribuțiile Comitetului Național Român pentru programul Hidrologic Internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92635",
+   "versions": [
+    {
+     "from": "1993-09-03",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92635",
+     "sha256": "5aeaa6f2850133438a5981a98a8f07c548f654a7246ae1885ee926c9173f50bb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1015-1993",
+   "path": "regulament/guvern/1993/10-15",
+   "short": "Regulament guvern din 15 octombrie 1993",
+   "title": "Regulament din 15 octombrie 1993 de organizare și funcționare a Regiei Autonome \"Administrarea Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64734",
+   "versions": [
+    {
+     "from": "1993-11-04",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64734",
+     "sha256": "c2e67b7794d5abef6352aee1f45bc75e4dc6ed13479ab2050533af12d4daa45b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1230-1-1993",
+   "path": "regulament/guvern/1993/12-30-1",
+   "short": "Regulament guvern din 30 decembrie 1993",
+   "title": "Regulament din 30 decembrie 1993 privind stabilirea grupelor de terenuri care intră în perimetrele de ameliorare, precum și componenta, funcționarea și atribuțiile comisiilor de specialiști constituite pentru delimitarea perimetrelor de ameliorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62673",
+   "versions": [
+    {
+     "from": "1994-02-24",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62673",
+     "sha256": "249d4d681c69fbe399916d426a49a262d80b5f8277a9daa99a77032736fb266c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1230-2-1993",
+   "path": "regulament/guvern/1993/12-30-2",
+   "short": "Regulament guvern din 30 decembrie 1993",
+   "title": "Regulament din 30 decembrie 1993 privind oferta publică de vinzare de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62674",
+   "versions": [
+    {
+     "from": "1994-02-10",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62674",
+     "sha256": "c595a5e8d577a89e1431ec9127fdeaf598c9e76b9e4c7040f15c5685f3f24c0e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1230-3-1993",
+   "path": "regulament/guvern/1993/12-30-3",
+   "short": "Regulament guvern din 30 decembrie 1993",
+   "title": "Regulament din 30 decembrie 1993 privind autorizarea societăților de intermediere și a agenților de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62675",
+   "versions": [
+    {
+     "from": "1994-02-10",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62675",
+     "sha256": "85f9a5d999dbefe78b1bc8d78ce6eea0fc758adedf93af2881c6bb8f9d4b57ea"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-iccj-zi1102-1993",
+   "path": "regulament/iccj/1993/11-02",
+   "short": "Regulament iccj din 2 noiembrie 1993",
+   "title": "Regulament de organizare și funcționare a Curții Supreme de Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2963",
+   "versions": [
+    {
+     "from": "1993-11-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2963",
+     "sha256": "98a916cd1534fc27bb75b4020d8954782fbdae4b7bf564213577be843963c7a0"
+    }
+   ]
   }
  ]
 }

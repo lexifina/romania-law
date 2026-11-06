@@ -3,6 +3,51 @@
  "shard": "ghid/2016",
  "acts": [
   {
+   "slug": "ghid-asf-zi0331-1-2016",
+   "path": "ghid/asf/2016/03-31-1",
+   "short": "Ghid asf din 31 martie 2016",
+   "title": "Ghid din 31 martie 2016 privind raportarea și publicarea informațiilor (Anexa nr. 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177362",
+   "versions": [
+    {
+     "from": "2016-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177362",
+     "sha256": "2e2ad2531b27359981ad46000017bbb7981a61b690a3c8f670c5a4643dc54da2"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0331-2-2016",
+   "path": "ghid/asf/2016/03-31-2",
+   "short": "Ghid asf din 31 martie 2016",
+   "title": "Ghid din 31 martie 2016 privind raportarea în scopul stabilității financiare (Anexa nr. 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177363",
+   "versions": [
+    {
+     "from": "2016-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177363",
+     "sha256": "ef5dbf0903d5b1dcaa82d1eb1fbed9166ec318589b323a13eed4e1e037465eab"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0617-2016",
+   "path": "ghid/asf/2016/06-17",
+   "short": "Ghid asf din 17 iunie 2016",
+   "title": "Ghid din 17 iunie 2016 privind măsuri alternative de performanță *)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179517",
+   "versions": [
+    {
+     "from": "2016-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179517",
+     "sha256": "6544372b035cd9f249264b6f1537fb5fc651141a944fcd0292890de7744df210"
+    }
+   ]
+  },
+  {
    "slug": "ghid-mediu-zi0520-2016",
    "path": "ghid/mediu/2016/05-20",
    "short": "Ghid mediu din 20 mai 2016",

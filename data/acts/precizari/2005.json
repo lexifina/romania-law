@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "precizari/2005",
+"acts": [
+{
+"slug": "precizari-educatie-zi0721-2005",
+"path": "precizari/educatie/2005/07-21",
+"kind": "precizari",
+"year": "2005",
+"number": "07-21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizări din 21 iulie 2005 privind calculul valoric al documentelor pierdute, distruse ori deteriorate, găsite lipsă la inventar, pe baza datelor transmise de Institutul Național de Statistică",
+"short": "Precizări educatie din 21 iulie 2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-08-03",
+"latest": "2005-08-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/63882",
+"issuer": "educatie",
+"joint": []
+},
+{
+"slug": "precizari-sanatate-zi1110-2005",
+"path": "precizari/sanatate/2005/11-10",
+"kind": "precizari",
+"year": "2005",
+"number": "11-10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizări din 10 noiembrie 2005 privind activitatea de evidență și raportare a dispozitivelor medicale",
+"short": "Precizări sanatate din 10 noiembrie 2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-11-17",
+"latest": "2005-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/65983",
+"issuer": "sanatate",
+"joint": []
+}
+]
+}

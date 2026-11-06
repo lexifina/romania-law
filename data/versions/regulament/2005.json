@@ -376,6 +376,651 @@
      "sha256": "cf11175d4987da0cef0574eab86dd4fbb84882425b834bb9dbdfe1e674b6b9db"
     }
    ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0201-2005",
+   "path": "regulament/concurenta/2005/02-01",
+   "short": "Regulament concurenta din 1 februarie 2005",
+   "title": "Regulament din 1 februarie 2005 pentru modificarea și completarea Regulamentului privind ajutorul de stat pentru întreprinderile mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59153",
+   "versions": [
+    {
+     "from": "2005-02-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59153",
+     "sha256": "e8cb6d8f22f25ddaa8c7b88eca79ec8ceeab3971664f362dcdc972cf3060fddc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0302-2005",
+   "path": "regulament/concurenta/2005/03-02",
+   "short": "Regulament concurenta din 2 martie 2005",
+   "title": "Regulament din 2 martie 2005 privind ajutorul de stat pentru salvare și restructurare și ajutorul de stat pentru închidere în sectorul siderurgic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60393",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60393",
+     "sha256": "c74c9f9ce7b434aac0cd5277f3d763480e84df349bc371a754ca29955bdac914"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0316-2005",
+   "path": "regulament/concurenta/2005/03-16",
+   "short": "Regulament concurenta din 16 martie 2005",
+   "title": "Regulament din 16 martie 2005 privind procedura de investigație în materia ajutorului de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60326",
+   "versions": [
+    {
+     "from": "2005-03-28",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60326",
+     "sha256": "6b6d5864b75c444913cf644cd98e249d05683c94e91cec07ef7a03bc78f6649e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0318-2005",
+   "path": "regulament/concurenta/2005/03-18",
+   "short": "Regulament concurenta din 18 martie 2005",
+   "title": "Regulament din 18 martie 2005 privind ajutorul de stat pentru instruirea angajaților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60324",
+   "versions": [
+    {
+     "from": "2005-03-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60324",
+     "sha256": "9247723e2c2b17d0cd4fb69ba78da4ca1dfa2e1fa320eb32e571407dd1af6e52"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0504-2005",
+   "path": "regulament/concurenta/2005/05-04",
+   "short": "Regulament concurenta din 4 mai 2005",
+   "title": "Regulament din 4 mai 2005 privind exceptarea acordurilor de transfer de tehnologie de la aplicarea prevederilor art. 5 alin. (1) din Legea concurenței nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61777",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61777",
+     "sha256": "e2cc337f204961e4a080dafe67546153fa367d10e1f8215b593bcd4d659bde8e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0525-2005",
+   "path": "regulament/concurenta/2005/05-25",
+   "short": "Regulament concurenta din 25 mai 2005",
+   "title": "Regulament din 25 mai 2005 privind ajutorul de stat pentru producția cinematografică și de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62263",
+   "versions": [
+    {
+     "from": "2005-06-10",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62263",
+     "sha256": "042f28ae0e5239b8471bec4f05fbb9ea001438f7e5cc534fb911ca03751da805"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0613-1-2005",
+   "path": "regulament/concurenta/2005/06-13-1",
+   "short": "Regulament concurenta din 13 iunie 2005",
+   "title": "Regulament din 13 iunie 2005 privind Registrul ajutoarelor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62812",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62812",
+     "sha256": "6f9ca6b0031ddf49bd1a56a3bf9927a3e6c907e598da7bdec3d044d8ac53965c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0613-2-2005",
+   "path": "regulament/concurenta/2005/06-13-2",
+   "short": "Regulament concurenta din 13 iunie 2005",
+   "title": "Regulament din 13 iunie 2005 privind procedurile de raportare și monitorizare a ajutoarelor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62822",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62822",
+     "sha256": "59a9df57e74a90c4205a41df58027c4cf055764c6050314a88d85e792a2576e5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dizabilitati-zi0509-1-2005",
+   "path": "regulament/dizabilitati/2005/05-09-1",
+   "short": "Regulament dizabilitati din 9 mai 2005",
+   "title": "Regulament din 9 mai 2005 de organizare și funcționare a Autorității Naționale pentru Persoanele cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63675",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63675",
+     "sha256": "b7bd40d457230cb60db3a2cd9a54885f6316d1b585e3a8beb56b9189409ba16d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dizabilitati-zi0509-2-2005",
+   "path": "regulament/dizabilitati/2005/05-09-2",
+   "short": "Regulament dizabilitati din 9 mai 2005",
+   "title": "Regulament din 9 mai 2005 de organizare și funcționare a Comisiei superioare de expertiza medicală a persoanelor cu handicap pentru adulți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63676",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63676",
+     "sha256": "4a6f48e3c7f46a9e4ab331cf63e986ab7b8e60a79b3554a517a713756c704821"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dizabilitati-zi0509-3-2005",
+   "path": "regulament/dizabilitati/2005/05-09-3",
+   "short": "Regulament dizabilitati din 9 mai 2005",
+   "title": "Regulament din 9 mai 2005 de organizare și funcționare a inspecțiilor regionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63677",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63677",
+     "sha256": "124b0613c62a755fa42f51ef3d9c371941ab05745e476045c0149d00c2a6243d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dizabilitati-zi0509-4-2005",
+   "path": "regulament/dizabilitati/2005/05-09-4",
+   "short": "Regulament dizabilitati din 9 mai 2005",
+   "title": "Regulament din 9 mai 2005 de organizare și funcționare a Institutului Național pentru Prevenirea și Combaterea Excluziunii Sociale a Persoanelor cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63678",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63678",
+     "sha256": "a06fb512c4b57e1c94c984b86504e9b815696bb7f7c9ebf803aac9017f8009c0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dizabilitati-zi0914-1-2005",
+   "path": "regulament/dizabilitati/2005/09-14-1",
+   "short": "Regulament dizabilitati din 14 septembrie 2005",
+   "title": "Regulament din 14 septembrie 2005 de organizare și funcționare a Autorității Naționale pentru Persoanele cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31669",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31669",
+     "sha256": "62a1c913f025ba842d80140207f700a31820207a86f026a1339c6a91b5de2ab1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dizabilitati-zi0914-2-2005",
+   "path": "regulament/dizabilitati/2005/09-14-2",
+   "short": "Regulament dizabilitati din 14 septembrie 2005",
+   "title": "Regulament din 14 septembrie 2005 de organizare și funcționare a Institutului Național pentru Prevenirea și Combaterea Excluziunii Sociale a Persoanelor cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31670",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31670",
+     "sha256": "6a25caeb682dcc3b839c93f5814b847214a72afad6ad2bf6fcb9c1efa65544ba"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-economie-zi0401-2005",
+   "path": "regulament/economie/2005/04-01",
+   "short": "Regulament economie din 1 aprilie 2005",
+   "title": "Regulament din 1 aprilie 2005 de organizare și funcționare a Comisiei pentru derularea mecanismului de acordare a sprijinului financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60631",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60631",
+     "sha256": "ce9332645842edd8a8f158e10a3e54d4e9bd48575899cae7c299f6df44820a82"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi1108-2005",
+   "path": "regulament/educatie/2005/11-08",
+   "short": "Regulament educatie din 8 noiembrie 2005",
+   "title": "Regulament din 8 noiembrie 2005 de desfășurare a examenului în vederea obținerii \"Diplomei de acces general în învățământul superior german\" și a \"Diplomei de bacalaureat\" de către absolvenții secțiilor/școlilor speciale germane din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68274",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68274",
+     "sha256": "b41fb8d2676f01ad10ddb360913954f4224c295dd4c9fe98aa3269a17be7d1f8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0121-2005",
+   "path": "regulament/guvern/2005/01-21",
+   "short": "Regulament guvern din 21 ianuarie 2005",
+   "title": "Regulament din 21 ianuarie 2005 de organizare și funcționare a Regiei Autonome \"Administrația Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58968",
+   "versions": [
+    {
+     "from": "2005-02-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58968",
+     "sha256": "af7cab2c32b5e47fb8dc2e882f613017c00cdc3d4f2a1479f586268137f08492"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0331-2005",
+   "path": "regulament/guvern/2005/03-31",
+   "short": "Regulament guvern din 31 martie 2005",
+   "title": "Regulament din 31 martie 2005 de organizare și funcționare a Regiei Autonome \"Administrația Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60927",
+   "versions": [
+    {
+     "from": "2005-04-14",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60927",
+     "sha256": "9c556fd2b9dad0501870ad8ba0d6097344383fe0968d18fbb02eb0e8237ef2d7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0407-2005",
+   "path": "regulament/guvern/2005/04-07",
+   "short": "Regulament guvern din 7 aprilie 2005",
+   "title": "Regulament din 7 aprilie 2005 de organizare și funcționare a Agenției Naționale Antidoping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60710",
+   "versions": [
+    {
+     "from": "2005-04-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60710",
+     "sha256": "51eb1b2a2135235bdd7dc07a883edbcd7b62db935fbd3ef11988307e8dfdf8b6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0609-2005",
+   "path": "regulament/guvern/2005/06-09",
+   "short": "Regulament guvern din 9 iunie 2005",
+   "title": "Regulament-cadru din 9 iunie 2005 de organizare și funcționare a instituțiilor de asistență socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62558",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62558",
+     "sha256": "29afd589d88758f477553b79b0e9f20484c5086f5eeb152b30ef60abea7a0736"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0915-1-2005",
+   "path": "regulament/guvern/2005/09-15-1",
+   "short": "Regulament guvern din 15 septembrie 2005",
+   "title": "Regulament din 15 septembrie 2005 privind organizarea și funcționarea Comisiei speciale de retrocedare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31816",
+   "versions": [
+    {
+     "from": "2005-10-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31816",
+     "sha256": "31fe87935ab7fa69a4a126bc6f0695dc950c445ebc3bf1f8d7386139baf9da05"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0915-2-2005",
+   "path": "regulament/guvern/2005/09-15-2",
+   "short": "Regulament guvern din 15 septembrie 2005",
+   "title": "Regulament din 15 septembrie 2005 de organizare și funcționare a Agenției Naționale Antidoping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65311",
+   "versions": [
+    {
+     "from": "2005-09-28",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65311",
+     "sha256": "8756b4b3ad203c25bd42dd51ef6cc4f3f7f9397d93e454dab59d728bec9aa08d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1110-1-2005",
+   "path": "regulament/guvern/2005/11-10-1",
+   "short": "Regulament guvern din 10 noiembrie 2005",
+   "title": "Regulament de organizare și funcționare din 10 noiembrie 2005 a Institutului Național de Cercetare-Dezvoltare pentru Tehnologii Izotopice și Moleculare - I.N.C.D.T.I.M. Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66293",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66293",
+     "sha256": "4412464b0750f890da5db6804b4da22ea04e1c1374a6f9e1330f42601096461e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1110-2-2005",
+   "path": "regulament/guvern/2005/11-10-2",
+   "short": "Regulament guvern din 10 noiembrie 2005",
+   "title": "Regulament din 10 noiembrie 2005 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Tehnologii Izotopice și Moleculare - I.N.C.D.T.I.M. Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230023",
+   "versions": [
+    {
+     "from": "2005-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230023",
+     "sha256": "7185b78bd159bd8f506fafd0c3a69fcdb7c3ac7d1488cd9686c8588c8cd04264"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1222-1-2005",
+   "path": "regulament/guvern/2005/12-22-1",
+   "short": "Regulament guvern din 22 decembrie 2005",
+   "title": "Regulament din 22 decembrie 2005 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare Agricola INCDA-Fundulea*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74989",
+   "versions": [
+    {
+     "from": "2006-02-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74989",
+     "sha256": "942046bd3ac60695b493d88055bb7df5bc222dfe4a38855719e9b2e264f87011"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1222-2-2005",
+   "path": "regulament/guvern/2005/12-22-2",
+   "short": "Regulament guvern din 22 decembrie 2005",
+   "title": "Regulament din 22 decembrie 2005 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Biologie și Nutriție Animala - IBNA Balotești*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74991",
+   "versions": [
+    {
+     "from": "2006-02-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74991",
+     "sha256": "ccf230678e11580d7890f68473566db774a3711420acfe35c0a11b97023d7179"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0326-2005",
+   "path": "regulament/mediu/2005/03-26",
+   "short": "Regulament mediu din 26 martie 2005",
+   "title": "Regulament-cadru din 26 martie 2005 de organizare și funcționare a Centrului național de coordonare, informare, reactualizare a ghidurilor privind cele mai bune tehnici disponibile și de comunicare cu Biroul European pentru Prevenirea și Controlul Integrat al Poluării și cu Forumul European de Informare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60614",
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60614",
+     "sha256": "100047bf624fbabdd74a436b1354eed7d1322cd0fdce01cf0e368d2e4cb24616"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0726-2005",
+   "path": "regulament/mediu/2005/07-26",
+   "short": "Regulament mediu din 26 iulie 2005",
+   "title": "Regulament din 26 iulie 2005 de organizare și funcționare a Comitetului Național pentru Programul Hidrologic Internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64499",
+   "versions": [
+    {
+     "from": "2005-08-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64499",
+     "sha256": "cf674e0d4c14365f416cd1cc87ce758fe99806caf9701a2aa11bfd2ff0b55150"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi1019-2005",
+   "path": "regulament/mediu/2005/10-19",
+   "short": "Regulament mediu din 19 octombrie 2005",
+   "title": "Regulament din 19 octombrie 2005 de organizare și funcționare a Secretariatului pentru compuși desemnați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65579",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65579",
+     "sha256": "424aa7a672dbfba9a47421de9a904a6c5a4cbe71d34a677b05dc795a2bec5505"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi1107-2005",
+   "path": "regulament/sanatate/2005/11-07",
+   "short": "Regulament sanatate din 7 noiembrie 2005",
+   "title": "Regulament din 7 noiembrie 2005 de organizare și funcționare a Comisiei Naționale pentru Produse Biocide",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67330",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67330",
+     "sha256": "b34295094eb4d90ee2759b72b7c0a90e3cf48839d6756207e598586b0288d257"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-1-2005",
+   "path": "regulament/senat/2005/10-24-1",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35000",
+   "versions": [
+    {
+     "from": "2005-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35000",
+     "sha256": "ec92a5e312855e88379b147146db1415880fef52bdf2785acaddec1a67939b5e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-10-2005",
+   "path": "regulament/senat/2005/10-24-10",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309717",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309717",
+     "sha256": "ffd1f78ade58a442a6d723d80792a140150e587ef00535deac164cfc460bad8b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-2-2005",
+   "path": "regulament/senat/2005/10-24-2",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241198",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241198",
+     "sha256": "60cd096b29fde11b7b4199c66b938614add480f8c5cd65855fb2041b8fb50f3f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-3-2005",
+   "path": "regulament/senat/2005/10-24-3",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242346",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242346",
+     "sha256": "b80437b8d655ce4e3895f6c484dad184046e441d0d58abdd5e7d56a554515dba"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-4-2005",
+   "path": "regulament/senat/2005/10-24-4",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256670",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256670",
+     "sha256": "0863d6eb31ce0374d00adb8cc76f9af808cd779a2051a52b5055a700523e2713"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-5-2005",
+   "path": "regulament/senat/2005/10-24-5",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/262274",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/262274",
+     "sha256": "48ac27684143508a8905c4eaaf2e74547e88c55664f4c076c435f41673ced772"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-6-2005",
+   "path": "regulament/senat/2005/10-24-6",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275491",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275491",
+     "sha256": "0793e80b1d9e7b7767696b55da5277efcadf5c02753bac70cbf16f4487a5b032"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-7-2005",
+   "path": "regulament/senat/2005/10-24-7",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278073",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278073",
+     "sha256": "6874c6fb2fb2b71be5a3c781cb926ba7e93bae7cdb268c4b377de72d0186eb02"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-8-2005",
+   "path": "regulament/senat/2005/10-24-8",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299944",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299944",
+     "sha256": "b560f0d23d676857256fa5c6f366ea22000dba19e8230b9a32a61c6348b2250d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi1024-9-2005",
+   "path": "regulament/senat/2005/10-24-9",
+   "short": "Regulament senat din 24 octombrie 2005",
+   "title": "Regulamentul senatului din 24 octombrie 2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304909",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304909",
+     "sha256": "6ff0db768bfb1e3d9ca555da6ea156c2701cad74b6b2172274eb0dbb17174bdd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sport-zi0527-1-2005",
+   "path": "regulament/sport/2005/05-27-1",
+   "short": "Regulament sport din 27 mai 2005",
+   "title": "Regulament din 27 mai 2005 privind organizarea și funcționarea Comisiei Naționale de Disciplină Sportivă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63052",
+   "versions": [
+    {
+     "from": "2005-07-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63052",
+     "sha256": "a2afc8195388471b03813fa748e1c583b11a8911da2c65add9ccf4918118f1f0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sport-zi0527-2-2005",
+   "path": "regulament/sport/2005/05-27-2",
+   "short": "Regulament sport din 27 mai 2005",
+   "title": "Regulament de procedură din 27 mai 2005 al Comisiei Naționale de Disciplină Sportivă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63054",
+   "versions": [
+    {
+     "from": "2005-07-27",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63054",
+     "sha256": "1e20fdd6c35e17434cac134f567bae519a256755a8b6b0bdd8ceb11325d155d9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi1118-2005",
+   "path": "regulament/transporturi/2005/11-18",
+   "short": "Regulament transporturi din 18 noiembrie 2005",
+   "title": "Regulament din 18 noiembrie 2005 privind prevenirea și gestionarea situațiilor de urgenta specifice riscului la cutremure și/sau alunecări de teren*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70145",
+   "versions": [
+    {
+     "from": "2006-03-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70145",
+     "sha256": "066413e74584934ebe1b7f49336bd294548494f861e4857cde1ec5aa354e8dfd"
+    }
+   ]
   }
  ]
 }

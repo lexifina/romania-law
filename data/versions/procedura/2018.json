@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "procedura/2018",
+ "acts": [
+  {
+   "slug": "procedura-anaf-zi0404-2018",
+   "path": "procedura/anaf/2018/04-04",
+   "short": "Procedura anaf din 4 aprilie 2018",
+   "title": "Procedură din 4 aprilie 2018 privind procesarea formularelor 230 \"Cerere privind destinația sumei reprezentând până la 2% din impozitul anual pe veniturile din salarii și din pensii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199565",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199565",
+     "sha256": "7c07e5578415498d415b4d67d0fdce3252afa6f9b929387ef86850676db2684b"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-antidoping-zi0330-2018",
+   "path": "procedura/antidoping/2018/03-30",
+   "short": "Procedura antidoping din 30 martie 2018",
+   "title": "Procedură de selecție din 30 martie 2018 a candidaților care urmează a fi desemnați membri în Comisia de audiere a sportivilor și a personalului asistent al sportivilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199511",
+   "versions": [
+    {
+     "from": "2018-04-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199511",
+     "sha256": "cb58942ff7527765c997e0207f78905b5f5c21353e51d015f2072117a98c9615"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-dezvoltare-zi0221-2018",
+   "path": "procedura/dezvoltare/2018/02-21",
+   "short": "Procedura dezvoltare din 21 februarie 2018",
+   "title": "Procedură comună din 21 februarie 2018 de autorizare a executării lucrărilor de construcții cu caracter special",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204379",
+   "versions": [
+    {
+     "from": "2018-08-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204379",
+     "sha256": "6777fb53888681f1b1f48f1a1ed6de277ae772d8f46b3a055ca69a3e77355901"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi0626-2018",
+   "path": "procedura/economie/2018/06-26",
+   "short": "Procedura economie din 26 iunie 2018",
+   "title": "Procedură de implementare din 26 iunie 2018 a Programului UNCTAD/EMPRETEC România pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202716",
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202716",
+     "sha256": "a232ac0a7b6f34256ba791a589499b8c7bb30a13dfe925992b1394031886a471"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi1106-2018",
+   "path": "procedura/economie/2018/11-06",
+   "short": "Procedura economie din 6 noiembrie 2018",
+   "title": "Procedura de implementare din 6 noiembrie 2018 a schemei de ajutor de minimis prevăzută în cadrul Programului național multianual pentru dezvoltarea antreprenoriatului în rândul femeilor din sectorul întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206687",
+   "versions": [
+    {
+     "from": "2018-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206687",
+     "sha256": "1c5d543e062c5d430066aec9656cac460c9594f747e97462f2b96a9ad3e8f480"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-externe-zi0718-1-2018",
+   "path": "procedura/externe/2018/07-18-1",
+   "short": "Procedura externe din 18 iulie 2018",
+   "title": "Procedură din 18 iulie 2018 de eliberare a permiselor de mic trafic de frontieră, precum și de păstrare și prelucrare a datelor colectate în cursul eliberării permiselor de mic trafic de frontieră pentru străinii rezidenți în zona de frontieră a Ucrainei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203737",
+   "versions": [
+    {
+     "from": "2018-08-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203737",
+     "sha256": "287c21cb161f0ccdeff4fbc178dda6e2188d64b6a0b50e9bbc2529e8be2e05ec"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-externe-zi0718-2-2018",
+   "path": "procedura/externe/2018/07-18-2",
+   "short": "Procedura externe din 18 iulie 2018",
+   "title": "Procedură din 18 iulie 2018 de eliberare a permiselor de mic trafic de frontieră, precum și de păstrare și prelucrare a datelor colectate în cursul eliberării permiselor de mic trafic de frontieră pentru străinii rezidenți în zona de frontieră a Republicii Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203739",
+   "versions": [
+    {
+     "from": "2018-08-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203739",
+     "sha256": "c42b6999cfcf64c8c53617d7001352f9b9b2663c831e42171def878b76746637"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-prognoza-zi0820-2018",
+   "path": "procedura/prognoza/2018/08-20",
+   "short": "Procedura prognoza din 20 august 2018",
+   "title": "Procedură din 20 august 2018 de depunere, selecție a proiectelor și plată a ajutorului de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204314",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204314",
+     "sha256": "c6da44901f392e6a1d5f612b1f64aec89469b7fdb30ac8280958c66d4f847c97"
+    }
+   ]
+  }
+ ]
+}

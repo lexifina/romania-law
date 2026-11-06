@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "precizari/2000",
+ "acts": [
+  {
+   "slug": "precizari-finante-zi1030-1-2000",
+   "path": "precizari/finante/2000/10-30-1",
+   "short": "Precizări finante din 30 octombrie 2000",
+   "title": "Precizări metodologice din 30 octombrie 2000 privind compensarea unor obligații de plată, potrivit prevederilor art. 65 alin. (6), (6^1) și (6^2) din Legea bugetului de stat pe anul 2000 nr. 76/2000 , modificată și completată prin Ordonanța de urgență a Guvernului nr. 145/2000 cu privire la rectificarea bugetului de stat pe anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25041",
+   "versions": [
+    {
+     "from": "2000-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25041",
+     "sha256": "d7dd05c14b9fa49c1a46667fce13cc2b0a72a4786bca6d5956ee1f578a901b24"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-finante-zi1030-2-2000",
+   "path": "precizari/finante/2000/10-30-2",
+   "short": "Precizări finante din 30 octombrie 2000",
+   "title": "Precizări metodologice din 30 octombrie 2000 privind stingerea unor obligații de plată potrivit prevederilor art. 65 alin. (1), (2) și (4^1) din Legea bugetului de stat pe anul 2000 nr. 76/2000 , modificată și completată prin Ordonanța de urgență a Guvernului nr. 145/2000 cu privire la rectificarea bugetului de stat pe anul 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25061",
+   "versions": [
+    {
+     "from": "2000-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25061",
+     "sha256": "30bc9bce9b586a586fd02ec356255bd60be7e73b2a1728c99464826421337ff4"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-munca-zi0615-2000",
+   "path": "precizari/munca/2000/06-15",
+   "short": "Precizări munca din 15 iunie 2000",
+   "title": "Precizări din 15 iunie 2000 la Normele de aplicare a Legii nr. 142/1998 privind acordarea tichetelor de masa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22788",
+   "versions": [
+    {
+     "from": "2000-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22788",
+     "sha256": "2622a72fe88833c03e9b81455db239a267622264e1210743969852c7ba0adf3a"
+    }
+   ]
+  }
+ ]
+}

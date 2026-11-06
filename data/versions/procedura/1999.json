@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "procedura/1999",
+ "acts": [
+  {
+   "slug": "procedura-mediu-zi0906-1999",
+   "path": "procedura/mediu/1999/09-06",
+   "short": "Procedura mediu din 6 septembrie 1999",
+   "title": "Procedură de notificare din 6 septembrie 1999 către Sistemul de gospodărire a apelor din cadrul sucursalei bazinale a Companiei Naționale \"Apele Române\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20021",
+   "versions": [
+    {
+     "from": "1999-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20021",
+     "sha256": "a2c826023ee024fbce74247008fd1da640aab782747c8e9e9741a5830316025c"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-munca-zi1213-1999",
+   "path": "procedura/munca/1999/12-13",
+   "short": "Procedura munca din 13 decembrie 1999",
+   "title": "Procedura din 13 decembrie 1999 de înregistrare a contractelor individuale de muncă și modul de ținere a evidentei muncii prestate de salariații angajatorilor prevăzuți la art. 8 din Legea nr. 130/1999 , cu modificările și completările ulterioare, precum și de înregistrare și evidenta a convențiilor civile de prestări de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20502",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20502",
+     "sha256": "1c74a3b15117e020f5ba5e1277e245749cb14bd7839a2380f2a2c3d6fe67da47"
+    }
+   ]
+  }
+ ]
+}

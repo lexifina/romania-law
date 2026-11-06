@@ -3,6 +3,96 @@
  "shard": "ghid/2019",
  "acts": [
   {
+   "slug": "ghid-asf-zi0612-1-2019",
+   "path": "ghid/asf/2019/06-12-1",
+   "short": "Ghid asf din 12 iunie 2019",
+   "title": "Ghid esma din 12 iunie 2019 privind raportările referitoare la decontarea internalizată conform art. 9 din Regulamentul privind depozitarii centrali de titluri de valoare (CSDR)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215386",
+   "versions": [
+    {
+     "from": "2019-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215386",
+     "sha256": "20648262e33fcea2bfab3ac49a2610f61718922aff3579f0ebda4656597819a8"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0612-2-2019",
+   "path": "ghid/asf/2019/06-12-2",
+   "short": "Ghid asf din 12 iunie 2019",
+   "title": "Ghid esma din 12 iunie 2019 referitor la gestionarea conflictelor de interese ale contrapărților centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215526",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215526",
+     "sha256": "1904840530dd79785aa90c87b563ed7cb3320dbf94df161f3c8f825394dfe210"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0612-3-2019",
+   "path": "ghid/asf/2019/06-12-3",
+   "short": "Ghid asf din 12 iunie 2019",
+   "title": "Ghid esma din 12 iunie 2019 privind măsurile EMIR de marjă antiprociclicitate pentru contrapărțile centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215527",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215527",
+     "sha256": "7a2826dbc87fc6438e0a0b57b3e0f6f2b757c3ee525f8a181b40184b3d2a872a"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0731-2019",
+   "path": "ghid/asf/2019/07-31",
+   "short": "Ghid asf din 31 iulie 2019",
+   "title": "Ghid esma din 31 iulie 2019 cu privire la indicii de referință nesemnificativi din Regulamentul privind indicii de referință",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216874",
+   "versions": [
+    {
+     "from": "2019-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216874",
+     "sha256": "55729788b44f0853bdc6ef60592490744219dfcabf07ef56b7462438cd502c3c"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1007-2019",
+   "path": "ghid/asf/2019/10-07",
+   "short": "Ghid asf din 7 octombrie 2019",
+   "title": "Ghid esma din 7 octombrie 2019 pentru aplicarea secțiunilor C punctul 6 și C punctul 7 din anexa 1 la MiFID II",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219031",
+   "versions": [
+    {
+     "from": "2019-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219031",
+     "sha256": "2285cf88505035a9600ca2a4959486630112bd1ba13c03f1a207e9a6d9b0fa46"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1219-2019",
+   "path": "ghid/asf/2019/12-19",
+   "short": "Ghid asf din 19 decembrie 2019",
+   "title": "Ghid esma din 19 decembrie 2019 cu privire la factorii de risc în temeiul Regulamentului privind prospectul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221967",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221967",
+     "sha256": "4443ae7dfc965ff7815649e577e996528d4f45a767855e8fbd0f6fed24ae5f2d"
+    }
+   ]
+  },
+  {
    "slug": "ghid-mediu-zi0307-2019",
    "path": "ghid/mediu/2019/03-07",
    "short": "Ghid mediu din 7 martie 2019",

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "regulament/1990",
+ "acts": [
+  {
+   "slug": "regulament-guvern-zi1208-1990",
+   "path": "regulament/guvern/1990/12-08",
+   "short": "Regulament guvern din 8 decembrie 1990",
+   "title": "Regulament din 8 decembrie 1990 de organizare și funcționare a Administrației naționale a drumurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82580",
+   "versions": [
+    {
+     "from": "1991-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82580",
+     "sha256": "a744401f4b31066d3786acd89f00c157d8171d01366af62dee18474fa1e7c53e"
+    }
+   ]
+  }
+ ]
+}

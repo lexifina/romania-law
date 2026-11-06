@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "procedura/2004",
+ "acts": [
+  {
+   "slug": "procedura-agricultura-zi0105-2004",
+   "path": "procedura/agricultura/2004/01-05",
+   "short": "Procedura agricultura din 5 ianuarie 2004",
+   "title": "Procedură din 5 ianuarie 2004 de reglementare și control al transportului deșeurilor pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51170",
+   "versions": [
+    {
+     "from": "2004-04-15",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51170",
+     "sha256": "5640e66c7c28b910c9db59303be94cf6c52a38a6290f695b0c3a6d782f9224ed"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-agricultura-zi0323-2004",
+   "path": "procedura/agricultura/2004/03-23",
+   "short": "Procedura agricultura din 23 martie 2004",
+   "title": "Procedură din 23 martie 2004 de prelevare a probelor în cazul inspecției fitosanitare la import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50866",
+   "versions": [
+    {
+     "from": "2004-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50866",
+     "sha256": "edb700bd5fa858e55a1ef92e06ceef5c54e76d1ba6ac85db30e00f753b7836f1"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-comunicatii-zi1102-2004",
+   "path": "procedura/comunicatii/2004/11-02",
+   "short": "Procedura comunicatii din 2 noiembrie 2004",
+   "title": "Procedură din 2 noiembrie 2004 de acordare a unor licențe de utilizare a frecvențelor radioelectrice în vederea furnizării de rețele locale de comunicații electronice în banda de frecvențe 3410-3600 MHz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56814",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56814",
+     "sha256": "4f38b42f76666729f631ac2632e2755f830b6cfbbaf8547de2f4a463df94ddc3"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi1206-2004",
+   "path": "procedura/economie/2004/12-06",
+   "short": "Procedura economie din 6 decembrie 2004",
+   "title": "Procedură din 6 decembrie 2004 de evaluare a organismelor în vederea desemnării ca serviciu tehnic care efectuează încercările pentru motoarele destinate a fi montate pe mașini mobile nerutiere și pentru motoarele secundare destinate vehiculelor pentru transportul rutier de persoane sau de marfă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58097",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58097",
+     "sha256": "7390698177ce5496e76c6b960dadb972204beb29df87323c5bafa9039bbfb602"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0617-2004",
+   "path": "procedura/finante/2004/06-17",
+   "short": "Procedura finante din 17 iunie 2004",
+   "title": "Procedură din 17 iunie 2004 de stabilire a impozitului pe veniturile din activități agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53272",
+   "versions": [
+    {
+     "from": "2004-07-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53272",
+     "sha256": "2c63a8f89126660421ad9e0cf5780438cae3dbc007d540fcecab31b06f21b9bf"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0803-2004",
+   "path": "procedura/finante/2004/08-03",
+   "short": "Procedura finante din 3 august 2004",
+   "title": "Procedură din 3 august 2004 de acordare a avizului pentru înregistrarea mențiunilor referitoare la luarea în/scoaterea din evidență ca plătitor de taxă pe valoarea adăugată a comercianților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54903",
+   "versions": [
+    {
+     "from": "2004-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54903",
+     "sha256": "f1ae42b0ab45e10bf4fd1d32db16a151f14078cf6374d2a2e3ad6e36c402df07"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0415-2004",
+   "path": "procedura/guvern/2004/04-15",
+   "short": "Procedura guvern din 15 aprilie 2004",
+   "title": "Proceduri din 15 aprilie 2004 de evaluare a conformității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51736",
+   "versions": [
+    {
+     "from": "2004-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51736",
+     "sha256": "3e1ed142908ed7cf0ec50d4f7de4bb62e4f26e08a7440c486e0e5b5b21eb41e3"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-transporturi-zi1015-1-2004",
+   "path": "procedura/transporturi/2004/10-15-1",
+   "short": "Procedura transporturi din 15 octombrie 2004",
+   "title": "Procedură din 15 octombrie 2004 de agrement tehnic pentru produse, procedee și echipamente noi în construcții P.A.T. 1-2004*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80281",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80281",
+     "sha256": "957f3fe2c1f30706dbfb5e9da5928bf1f35803ebb9bd181abe68ddfe7cc0bdaa"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-transporturi-zi1015-2-2004",
+   "path": "procedura/transporturi/2004/10-15-2",
+   "short": "Procedura transporturi din 15 octombrie 2004",
+   "title": "Procedură din 15 octombrie 2004 de abilitare a organismelor elaboratoare de agremente tehnice în construcții P.A.T. 2-2004*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80282",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80282",
+     "sha256": "424e52a9779a574f18fc2a008c2741b2c7a1aad3d0e0ea01e99638932eed8f48"
+    }
+   ]
+  }
+ ]
+}

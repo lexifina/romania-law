@@ -2688,6 +2688,21 @@
    ]
   },
   {
+   "slug": "ordin-avocatulpoporului-95-2001",
+   "path": "ordin/avocatulpoporului/2001/95",
+   "short": "Ordin avocatulpoporului nr. 95/2001",
+   "title": "Ordinul nr. 95/2001 privind numirea adjuncților avocatului poporului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31158",
+   "versions": [
+    {
+     "from": "2001-10-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31158",
+     "sha256": "7081366d5c315cf8854a676c3c0f33ce95ef1cf2293b40fe4866c6815ec08be8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-2-2001",
    "path": "ordin/bnr/2001/2",
    "short": "Ordin bnr nr. 2/2001",
@@ -4514,6 +4529,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32724",
      "sha256": "8da3a99e391ff4eedff742c4ba16d5696032a9b8ab173e0776e7e209c2133223"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-344-2001",
+   "path": "ordin/dizabilitati/2001/344",
+   "short": "Ordin dizabilitati nr. 344/2001",
+   "title": "Ordinul nr. 344/2001 privind înființarea comisiilor de expertiza medicală a persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32136",
+   "versions": [
+    {
+     "from": "2001-11-12",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32136",
+     "sha256": "ee91270a34ced4a1ebbf2bcbb952116333f5abf3c463ff133e2e8188ebd906e6"
     }
    ]
   },

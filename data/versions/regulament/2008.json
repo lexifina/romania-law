@@ -301,6 +301,321 @@
      "sha256": "0be16a65d62d3002400ff123cbdc1ace107d631c1b8504ded6b77d2225f26822"
     }
    ]
+  },
+  {
+   "slug": "regulament-agricultura-zi1204-2008",
+   "path": "regulament/agricultura/2008/12-04",
+   "short": "Regulament agricultura din 4 decembrie 2008",
+   "title": "Regulament din 4 decembrie 2008 de organizare și funcționare a Oficiului Național al Denumirilor de Origine pentru Vinuri (ONDOV)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100496",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100496",
+     "sha256": "248dd9c90cec8f7ba00b700358d4a0a3043d337903290293ab9ca766959c0d03"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-aparare-zi0417-2008",
+   "path": "regulament/aparare/2008/04-17",
+   "short": "Regulament aparare din 17 aprilie 2008",
+   "title": "Regulamentul din 17 aprilie 2008 logisticii operațiilor întrunite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92448",
+   "versions": [
+    {
+     "from": "2008-05-07",
+     "units": 316,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92448",
+     "sha256": "eadb9810e727d78c77b44ad2be20f1168e53c1ca13d01d305522954f756f8868"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0131-1-2008",
+   "path": "regulament/cnas/2008/01-31-1",
+   "short": "Regulament cnas din 31 ianuarie 2008",
+   "title": "Regulament din 31 ianuarie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea subprogramului \"Tratamentul persoanelor cu infecție HIV/SIDA și tratamentul postexpunere (profesională și verticală)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89872",
+   "versions": [
+    {
+     "from": "2008-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89872",
+     "sha256": "73c9803faabcde231d81743825e6749d3b6a4a38fea030fd919e74908c0cd36c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0131-2-2008",
+   "path": "regulament/cnas/2008/01-31-2",
+   "short": "Regulament cnas din 31 ianuarie 2008",
+   "title": "Regulament din 31 ianuarie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea subprogramului \"Tratamentul bolnavilor cu afecțiuni oncologice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89874",
+   "versions": [
+    {
+     "from": "2008-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89874",
+     "sha256": "2d70f23c3e7fd19961d7189ed5449fb5aafdf57ecc8d1b6312132963158d6882"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0131-3-2008",
+   "path": "regulament/cnas/2008/01-31-3",
+   "short": "Regulament cnas din 31 ianuarie 2008",
+   "title": "Regulament din 31 ianuarie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea subprogramului \"Tratamentul de supleere a funcției renale la bolnavii cu insuficiență renală cronică\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89875",
+   "versions": [
+    {
+     "from": "2008-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89875",
+     "sha256": "27f9239293684616ac200e50e03153818e7b702111eecb5c9250a8ee7e95ea4c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0131-4-2008",
+   "path": "regulament/cnas/2008/01-31-4",
+   "short": "Regulament cnas din 31 ianuarie 2008",
+   "title": "Regulament din 31 ianuarie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea subprogramului \"Tratamentul bolnavilor cu diabet zaharat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89876",
+   "versions": [
+    {
+     "from": "2008-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89876",
+     "sha256": "b7dbd36d991415fb03be5c6442ec20c88df046f1c8b9339a7b16f708bded31c3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0131-5-2008",
+   "path": "regulament/cnas/2008/01-31-5",
+   "short": "Regulament cnas din 31 ianuarie 2008",
+   "title": "Regulament din 31 ianuarie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea subprogramului \"Tratamentul bolnavilor cu boli neurologice: scleroză multiplă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89877",
+   "versions": [
+    {
+     "from": "2008-02-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89877",
+     "sha256": "195fa4fb43042f21db0c0768bf7c24e59bb3e5be830d0105431f6360183137a3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi1007-1-2008",
+   "path": "regulament/cnas/2008/10-07-1",
+   "short": "Regulament cnas din 7 octombrie 2008",
+   "title": "Regulament din 7 octombrie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea subprogramului de tratament și monitorizare a persoanelor cu infecție HIV/SIDA și tratamentul postexpunere din cadrul Programului național de boli transmisibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98716",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98716",
+     "sha256": "11dd4ab2806186f3c2267a9dc815991cf8b2f85e591941c3d804ee5b75f4b99b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi1007-2-2008",
+   "path": "regulament/cnas/2008/10-07-2",
+   "short": "Regulament cnas din 7 octombrie 2008",
+   "title": "Regulament din 7 octombrie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea subprogramului de tratament al bolnavilor de tuberculoză din cadrul Programului național de boli transmisibile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98717",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98717",
+     "sha256": "34cfc8357127acd0ee1f232ad068c5cfb08c49c8da5da60761db02a220194150"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi1007-3-2008",
+   "path": "regulament/cnas/2008/10-07-3",
+   "short": "Regulament cnas din 7 octombrie 2008",
+   "title": "Regulament din 7 octombrie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea Programului național de oncologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98718",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98718",
+     "sha256": "0941c4d4d12af4b15ca8a54cf9c08e0fe251e94dba55ee369ca217e2e772ad43"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi1007-4-2008",
+   "path": "regulament/cnas/2008/10-07-4",
+   "short": "Regulament cnas din 7 octombrie 2008",
+   "title": "Regulament din 7 octombrie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea Programului național de supleere a funcției renale la bolnavii cu insuficiență renală cronică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98719",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98719",
+     "sha256": "55b127d6e39d803371151d50e169a13ac02612af20d69fd0c89ef5af87e67bdd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi1007-5-2008",
+   "path": "regulament/cnas/2008/10-07-5",
+   "short": "Regulament cnas din 7 octombrie 2008",
+   "title": "Regulament din 7 octombrie 2008 de organizare și funcționare a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea Programului național de hemofilie, talasemie și alte boli rare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98722",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98722",
+     "sha256": "b5dd02210fd092a452e52723d77be57f6bcfa5ce75094a27c3f7ace0acd39733"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi1107-1-2008",
+   "path": "regulament/cnas/2008/11-07-1",
+   "short": "Regulament cnas din 7 noiembrie 2008",
+   "title": "Regulament de organizare și funcționare din 7 noiembrie 2008 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru tratamentul tumorilor hipofizare cu expansiune supraselară și al tumorilor neuroendocrine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99916",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99916",
+     "sha256": "80fab5290b2d71018265b68223506e72a80e7c8d807498ca6ba18e73fa44ea7b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi1107-2-2008",
+   "path": "regulament/cnas/2008/11-07-2",
+   "short": "Regulament cnas din 7 noiembrie 2008",
+   "title": "Regulament de organizare și funcționare din 7 noiembrie 2008 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru tratamentul specific în psoriazisul cronic sever",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99917",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99917",
+     "sha256": "28c7a22756dfc055aaf49fb70ab6c84048ddcb2c736dd2eb359e4bb299bdab86"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi1107-3-2008",
+   "path": "regulament/cnas/2008/11-07-3",
+   "short": "Regulament cnas din 7 noiembrie 2008",
+   "title": "Regulament de organizare și funcționare din 7 noiembrie 2008 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru tratamentul tulburărilor de nutriție și metabolism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99918",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99918",
+     "sha256": "d3efdb39d7b236a886f60940c90c921e0a82ea5bab6076bf331376656d7930aa"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dezvoltare-zi0722-2008",
+   "path": "regulament/dezvoltare/2008/07-22",
+   "short": "Regulament dezvoltare din 22 iulie 2008",
+   "title": "Regulament din 22 iulie 2008 de organizare și funcționare al Comitetului tehnic de coordonare generală și al comitetelor tehnice de specialitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96392",
+   "versions": [
+    {
+     "from": "2008-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96392",
+     "sha256": "ffd746e2617e9c756e2b5f967e92ac87eda9078a0d0a5b698cbda0300716d71a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1104-2008",
+   "path": "regulament/guvern/2008/11-04",
+   "short": "Regulament guvern din 4 noiembrie 2008",
+   "title": "Regulament-cadru din 4 noiembrie 2008 de organizare și funcționare al comitetului regional de evaluare strategică și corelare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99064",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99064",
+     "sha256": "81ae022a6499a1c196d17e11ed60eb8b46314fc2204ff0988a3ce57b435e31ff"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi0701-2008",
+   "path": "regulament/interne/2008/07-01",
+   "short": "Regulament interne din 1 iulie 2008",
+   "title": "Regulament din 1 iulie 2008 de organizare și funcționare al Direcției generale pentru dezvoltarea capacitații administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96154",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96154",
+     "sha256": "7d7540462a655b43c9f26ffa31063127f94e909bfb26bf840946cef9395f0f03"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0125-2008",
+   "path": "regulament/mediu/2008/01-25",
+   "short": "Regulament mediu din 25 ianuarie 2008",
+   "title": "Regulament din 25 ianuarie 2008 privind organizarea și funcționarea Comisiei pentru Securitate Biologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89387",
+   "versions": [
+    {
+     "from": "2008-02-08",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89387",
+     "sha256": "c990d9d7ea747088f3134ab2ea0dfcbc4de5bff494c372159de7110d39cb6fb1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0716-2008",
+   "path": "regulament/mediu/2008/07-16",
+   "short": "Regulament mediu din 16 iulie 2008",
+   "title": "Regulament din 16 iulie 2008 de organizare și funcționare al comisiilor tehnice regionale pentru verificarea criteriilor utilizate la elaborarea planurilor de acțiune și analizarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96992",
+   "versions": [
+    {
+     "from": "2008-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96992",
+     "sha256": "d23d276de17fbbbbf49c55dd21c13ebd33090357254ec73e80c9a00eadac80bf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0604-2008",
+   "path": "regulament/sanatate/2008/06-04",
+   "short": "Regulament sanatate din 4 iunie 2008",
+   "title": "Regulament din 4 iunie 2008 de organizare și funcționare al Centrului Național de Sănătate Mintală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93973",
+   "versions": [
+    {
+     "from": "2008-06-12",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93973",
+     "sha256": "0beef437a7d7b416c3b50f7bdde78f02aed819b927a57e3ca33fa7baa1889514"
+    }
+   ]
   }
  ]
 }

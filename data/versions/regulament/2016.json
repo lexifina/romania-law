@@ -363,6 +363,36 @@
    ]
   },
   {
+   "slug": "regulament-agricultura-zi0411-2016",
+   "path": "regulament/agricultura/2016/04-11",
+   "short": "Regulament agricultura din 11 aprilie 2016",
+   "title": "Regulament din 11 aprilie 2016 privind organizarea și funcționarea Comisiei pentru autorizarea distilatorilor care desfășoară activități de distilare voluntară a subproduselor vinicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177539",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177539",
+     "sha256": "c4b7184eb3e5bdd2444eefd82bcc6017b49df64baddb232c4682c9b00373b1db"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-agricultura-zi0616-2016",
+   "path": "regulament/agricultura/2016/06-16",
+   "short": "Regulament agricultura din 16 iunie 2016",
+   "title": "Regulament din 16 iunie 2016 de organizare și funcționare a Comisiei pentru analiza solicitărilor pentru acordul prealabil privind plata anuală a cotizațiilor, respectiv a serviciilor lingvistice pentru organizațiile profesionale/interprofesionale neguvernamentale din sectorul agricol și agroalimentar*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179362",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179362",
+     "sha256": "70f07d1258f0d0ae6c86afa6198acf3deedcbe77d8b77ed2a490cd35dad6610e"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-10-2016",
    "path": "regulament/bnr/2016/10",
    "short": "Regulament bnr nr. 10/2016",
@@ -374,6 +404,186 @@
      "units": 2,
      "source_url": "https://www.bnr.ro/21316-regulament-10-2016",
      "sha256": "d5bf3424b682d8e6304eb64b4bb05cb1451e4b913961c4321bc1093250be1721"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0621-2016",
+   "path": "regulament/concurenta/2016/06-21",
+   "short": "Regulament concurenta din 21 iunie 2016",
+   "title": "Regulament din 21 iunie 2016 privind Registrul ajutoarelor de stat*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180192",
+   "versions": [
+    {
+     "from": "2016-07-18",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180192",
+     "sha256": "8b13c8de7dc97d979bb9e5514e476c609696784049d6d46d8df2c6f22ef24fff"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi1207-2016",
+   "path": "regulament/educatie/2016/12-07",
+   "short": "Regulament educatie din 7 decembrie 2016",
+   "title": "Regulament din 7 decembrie 2016 de organizare și funcționare a Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185146",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185146",
+     "sha256": "2f2b0c2103ef4d181addbdd402d453136d3e0c3928b514729b7e747dca184401"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0310-2016",
+   "path": "regulament/guvern/2016/03-10",
+   "short": "Regulament guvern din 10 martie 2016",
+   "title": "Regulament din 10 martie 2016 de organizare și funcționare a Agenției Domeniilor Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176763",
+   "versions": [
+    {
+     "from": "2016-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176763",
+     "sha256": "e4682941de286c29503739b8111a0dcc810fbe743702963a3b0a2db582653660"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0511-2016",
+   "path": "regulament/guvern/2016/05-11",
+   "short": "Regulament guvern din 11 mai 2016",
+   "title": "Regulament din 11 mai 2016 de organizare și funcționare al Agenției Naționale de Administrare a Bunurilor Indisponibilizate (Anexa nr. 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178576",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178576",
+     "sha256": "a7839c05b5a93ff0048f5eea40d638d227f54698ab698dfadbc53ed0c0c53698"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi1017-2016",
+   "path": "regulament/interne/2016/10-17",
+   "short": "Regulament interne din 17 octombrie 2016",
+   "title": "Regulament din 17 octombrie 2016 de organizare și funcționare a Direcției generale afaceri europene, Schengen și relații internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183248",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183248",
+     "sha256": "1e31be521fc8d5682d3b64c03aa7a43e1d7b653acb4e51304c188d8162e7757a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0517-2016",
+   "path": "regulament/mediu/2016/05-17",
+   "short": "Regulament mediu din 17 mai 2016",
+   "title": "Regulamentul din 17 mai 2016 sitului Natura 2000 ROSCI0151 Pădurea Gârboavele și al Ariei Naturale protejate de interes național Pădurea Gârboavele, cod 2.403",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198849",
+   "versions": [
+    {
+     "from": "2016-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198849",
+     "sha256": "73217e7f66a5c37e707f54cb18622f43bb3485bba9f4e0fb713e1aa19e4f8d16"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0523-2016",
+   "path": "regulament/mediu/2016/05-23",
+   "short": "Regulament mediu din 23 mai 2016",
+   "title": "Regulament din 23 mai 2016 al sitului Natura 2000 ROSCI0093 Insulele Stepice Șura Mică - Slimnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204001",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204001",
+     "sha256": "f2eb1c0ce49d51cdc3e61dfc489029652cc4542f3d8a6720822af4c42a80f68d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0629-1-2016",
+   "path": "regulament/sanatate/2016/06-29-1",
+   "short": "Regulament sanatate din 29 iunie 2016",
+   "title": "Regulament-cadru din 29 iunie 2016 de organizare și funcționare a comisiei constituite în baza prevederilor art. 1 alin. (3)-(6) din anexa nr. 2 la Hotărârea Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017 - pentru asistența medicală primară*) (Anexa 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179612",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179612",
+     "sha256": "a93cd72b11323790e10c1f5a9ea0ca2225014234b8f74f01c0f969b6b49af90a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0629-2-2016",
+   "path": "regulament/sanatate/2016/06-29-2",
+   "short": "Regulament sanatate din 29 iunie 2016",
+   "title": "Regulament-cadru din 29 iunie 2016 de organizare și funcționare a comisiei constituite în baza prevederilor art. 22 alin. (3) și (4) și art. 40 alin. (2) și (3) din anexa nr. 2 la Hotărârea Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017 - pentru asistența medicală ambulatorie de specialitate pentru specialitățile clinice și pentru specialitatea recuperare, medicină fizică și balneologie*) (Anexa 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179613",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179613",
+     "sha256": "4258e25c605523f21379808da603abf7f124a51069ebe88ffb78dfe37b750795"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0629-3-2016",
+   "path": "regulament/sanatate/2016/06-29-3",
+   "short": "Regulament sanatate din 29 iunie 2016",
+   "title": "Regulament-cadru din 29 iunie 2016 de organizare și funcționare a comisiei constituite în baza prevederilor art. 72 alin. (2) și (3) din anexa nr. 2 la Hotărârea Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017, pentru asistența medicală ambulatorie de specialitate pentru specialitățile paraclinice*) (Anexa 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179614",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179614",
+     "sha256": "4d2f81e94c191a2c4d23b278050c891781ec3a9aec6e0c7139f3d9feb2de0eeb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0629-4-2016",
+   "path": "regulament/sanatate/2016/06-29-4",
+   "short": "Regulament sanatate din 29 iunie 2016",
+   "title": "Regulament-cadru din 29 iunie 2016 de organizare și funcționare a comisiei constituite în baza prevederilor art. 87 alin. (3) și (4) din anexa nr. 2 la Hotărârea Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017 - pentru asistența medicală spitalicească*) (Anexa 4)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179615",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179615",
+     "sha256": "bd8cec401e8ac3718188d258c4acc6d343f8be6225dde4c5da1d81d9148bd1a3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi0126-2016",
+   "path": "regulament/transporturi/2016/01-26",
+   "short": "Regulament transporturi din 26 ianuarie 2016",
+   "title": "Regulament din 26 ianuarie 2016 de organizare și funcționare a Comisiei de atestare, disciplină și soluționare a contestațiilor (anexa 1)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176044",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176044",
+     "sha256": "58529d2db856172d5f96fa35611d17b84948b8f19ce13cc25b2bf87fce0a2a38"
     }
    ]
   }

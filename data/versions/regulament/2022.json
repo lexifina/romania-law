@@ -421,6 +421,111 @@
      "sha256": "5469033e4fe0b85cd5bcc45b472cfd36c1d12a418e10cec3c9f1b7ce6a376bb4"
     }
    ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0113-2022",
+   "path": "regulament/concurenta/2022/01-13",
+   "short": "Regulament concurenta din 13 ianuarie 2022",
+   "title": "Regulament din 13 ianuarie 2022 de organizare și funcționare a Consiliului Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250563",
+   "versions": [
+    {
+     "from": "2022-01-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250563",
+     "sha256": "95e183f301e23fa9d6c391ae09cd7430e25e7c8d1b60e68ff2349c74a9ae3030"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0415-2022",
+   "path": "regulament/concurenta/2022/04-15",
+   "short": "Regulament concurenta din 15 aprilie 2022",
+   "title": "Regulament din 15 aprilie 2022 privind procedurile de monitorizare a ajutoarelor de stat și de minimis",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254554",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254554",
+     "sha256": "f38389693dbe08533f6d968c83997063cf71ae7e0c7caee28a655e17f667b0cd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi0506-2022",
+   "path": "regulament/justitie/2022/05-06",
+   "short": "Regulament justitie din 6 mai 2022",
+   "title": "Regulament din 6 mai 2022 de organizare și funcționare a Ministerului Justiției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255536",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255536",
+     "sha256": "b0e28106cecedf71b40baf895558b18bdc705eff66b7bb7ef134d55f4293da2f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi1228-2022",
+   "path": "regulament/mediu/2022/12-28",
+   "short": "Regulament mediu din 28 decembrie 2022",
+   "title": "Regulament din 28 decembrie 2022 al sitului ROSCI0312 Castanii comestibili de la Buia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264030",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264030",
+     "sha256": "ffe85c2d3822ebe522383fe090a77e5f950b4b25976e07a62a8bd82b7ccfae99"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-munca-zi0609-2022",
+   "path": "regulament/munca/2022/06-09",
+   "short": "Regulament munca din 9 iunie 2022",
+   "title": "Regulament din 9 iunie 2022 de organizare și funcționare a Comisiei superioare de evaluare a persoanelor adulte cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257892",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257892",
+     "sha256": "1c9136489b3e1e3de920139ade8fa2de02f1361c7dbb1cd834133d65bafa8d78"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi1121-2022",
+   "path": "regulament/sanatate/2022/11-21",
+   "short": "Regulament sanatate din 21 noiembrie 2022",
+   "title": "Regulament din 21 noiembrie 2022 de organizare și funcționare a Institutului Național de Management al Serviciilor de Sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261695",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261695",
+     "sha256": "2bdaf470df55433eada2be2551c98c9c06a210f4b25fbbfdf6a34abd814a227e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi0630-2022",
+   "path": "regulament/transporturi/2022/06-30",
+   "short": "Regulament transporturi din 30 iunie 2022",
+   "title": "Regulament din 30 iunie 2022 privind criteriile minime de pregătire, perfecționare și brevetare a piloților maritimi, alții decât piloții de mare largă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256933",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256933",
+     "sha256": "e7ad784c3b9a60adc1f6e2c9fbe9fa073d67572d43d4d5bc3b422f57fd7480ed"
+    }
+   ]
   }
  ]
 }

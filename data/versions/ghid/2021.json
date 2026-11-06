@@ -3,6 +3,66 @@
  "shard": "ghid/2021",
  "acts": [
   {
+   "slug": "ghid-asf-zi0521-2021",
+   "path": "ghid/asf/2021/05-21",
+   "short": "Ghid asf din 21 mai 2021",
+   "title": "Ghid din 21 mai 2021 referitor la cerințele privind comunicarea informațiilor în temeiul Regulamentului privind prospectul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243222",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243222",
+     "sha256": "4802d0b87b11a0e9039750a31abe59c5dd85c1fa7b069be1897a8cc8e04b28a5"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0810-2021",
+   "path": "ghid/asf/2021/08-10",
+   "short": "Ghid asf din 10 august 2021",
+   "title": "Ghid din 10 august 2021 privind externalizarea către furnizorii de servicii cloud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246266",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246266",
+     "sha256": "bd5bdf8baa09c73c45caa3aa661cbc8c481d49792090640778ab67ffc8150de6"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1007-2021",
+   "path": "ghid/asf/2021/10-07",
+   "short": "Ghid asf din 7 octombrie 2021",
+   "title": "Ghid din 7 octombrie 2021 privind scenariile de simulare a situațiilor de criză în temeiul Regulamentului privind FPM",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247617",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247617",
+     "sha256": "1a528851e5454eae4fc8f85f9c5cee5e23df02bbaa1c52c069febd2cf7a6fe4c"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1102-2021",
+   "path": "ghid/asf/2021/11-02",
+   "short": "Ghid asf din 2 noiembrie 2021",
+   "title": "Ghidul esma din 2 noiembrie 2021 privind articolul 25 din Directiva 2011/61/UE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248380",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248380",
+     "sha256": "e93b8aa1d31c1d57e353e36b4d60e7e80631ab24f0c7d1c09bfbe75b115de100"
+    }
+   ]
+  },
+  {
    "slug": "ghid-finante-zi0810-2021",
    "path": "ghid/finante/2021/08-10",
    "short": "Ghid finante din 10 august 2021",

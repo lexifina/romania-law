@@ -286,6 +286,231 @@
      "sha256": "77a189424bd62cfe0c7f8d1acab81ade709df28a2ef9674442ffd81c4bcc7037"
     }
    ]
+  },
+  {
+   "slug": "regulament-aparare-zi1120-2017",
+   "path": "regulament/aparare/2017/11-20",
+   "short": "Regulament aparare din 20 noiembrie 2017",
+   "title": "Regulament din 20 noiembrie 2017 privind sistemul de management al situațiilor de urgență în Ministerul Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261694",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 110,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261694",
+     "sha256": "b0ef602638f7ba956e34152decbdb727786ef998c37d282cb97fa8ae3ae774e2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-comunicatii-zi0419-1-2017",
+   "path": "regulament/comunicatii/2017/04-19-1",
+   "short": "Regulament comunicatii din 19 aprilie 2017",
+   "title": "Regulament din 19 aprilie 2017 de organizare și funcționare al Consiliului Național de Etică a Cercetării Științifice, Dezvoltării Tehnologice și Inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188511",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188511",
+     "sha256": "9469c94586dcb3a2ee9213e0dfb46923e0cbc2622915d8aca3ce018421cc2f42"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-comunicatii-zi0419-2-2017",
+   "path": "regulament/comunicatii/2017/04-19-2",
+   "short": "Regulament comunicatii din 19 aprilie 2017",
+   "title": "Regulament din 19 aprilie 2017 de organizare și funcționare al Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188513",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188513",
+     "sha256": "a98aa7de978efa85bd80d85565c49d283063b385f9822881d70babc817b387dc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-comunicatii-zi0419-3-2017",
+   "path": "regulament/comunicatii/2017/04-19-3",
+   "short": "Regulament comunicatii din 19 aprilie 2017",
+   "title": "Regulament din 19 aprilie 2017 de organizare și funcționare al Consiliului Național al Cercetării Științifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188515",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188515",
+     "sha256": "2ee3b28ab6dd3283404e10fa2dd350ba49cf9a29dc251195abbfd0db2aca59af"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-comunicatii-zi0419-4-2017",
+   "path": "regulament/comunicatii/2017/04-19-4",
+   "short": "Regulament comunicatii din 19 aprilie 2017",
+   "title": "Regulament din 19 aprilie 2017 de organizare și funcționare al Consiliului Național pentru Transfer Tehnologic și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188517",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188517",
+     "sha256": "bf0895a6605e5c7f9fcc08ebe42bc218d57e20b654adfaa55955909159dc51a8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0307-2017",
+   "path": "regulament/concurenta/2017/03-07",
+   "short": "Regulament concurenta din 7 martie 2017",
+   "title": "Regulament din 7 martie 2017 privind noi servicii feroviare pentru călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188084",
+   "versions": [
+    {
+     "from": "2017-04-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188084",
+     "sha256": "88dd129cb77f048095c85abdfdd52bcee7c1b651f2635d691b7428db21693182"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0505-2017",
+   "path": "regulament/concurenta/2017/05-05",
+   "short": "Regulament concurenta din 5 mai 2017",
+   "title": "Regulament din 5 mai 2017 de organizare, funcționare și procedură a Consiliului Național de Supraveghere din Domeniul Feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191658",
+   "versions": [
+    {
+     "from": "2017-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191658",
+     "sha256": "2ff9a82760440a212e34ec16ca1498fbdb10f47a43e5ed1b4e6df514c9cbdb1d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0629-1-2017",
+   "path": "regulament/concurenta/2017/06-29-1",
+   "short": "Regulament concurenta din 29 iunie 2017",
+   "title": "Regulament din 29 iunie 2017 de organizare și funcționare al Consiliului Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191660",
+   "versions": [
+    {
+     "from": "2017-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191660",
+     "sha256": "7722ba5dee702a381d8d2e43af55b7b94b801556ed83f648c026960c00cd92fa"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0629-2-2017",
+   "path": "regulament/concurenta/2017/06-29-2",
+   "short": "Regulament concurenta din 29 iunie 2017",
+   "title": "Regulament de procedură din 29 iunie 2017 al Consiliului Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191662",
+   "versions": [
+    {
+     "from": "2017-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191662",
+     "sha256": "6b2f0db11d590b3ebb74a6ea66e8984d4884dad1e9fb15531e47b7abf5f8b30d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi0831-2017",
+   "path": "regulament/educatie/2017/08-31",
+   "short": "Regulament educatie din 31 august 2017",
+   "title": "Regulament-cadru din 31 august 2017 de organizare și funcționare a claselor cu predare a unei limbi moderne în regim intensiv, respectiv bilingv în unitățile de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/193349",
+   "versions": [
+    {
+     "from": "2017-09-22",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/193349",
+     "sha256": "b7c4155ea4d0a8133cffcad19776d63ac28d9c790f1bfa75513a827724a3f194"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0804-2017",
+   "path": "regulament/guvern/2017/08-04",
+   "short": "Regulament guvern din 4 august 2017",
+   "title": "Regulament din 4 august 2017 privind stabilirea locurilor de muncă, a categoriilor de personal, mărimea concretă a sporului pentru condiții de muncă, precum și condițiile de acordare a acestuia pentru familia ocupațională de funcții bugetare \"Administrație\" din administrația publică locală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192323",
+   "versions": [
+    {
+     "from": "2017-08-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192323",
+     "sha256": "32bba34729b4707cebb6c544b0b2932689d0425c77bb661d009ca35e7457ca86"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1108-1-2017",
+   "path": "regulament/guvern/2017/11-08-1",
+   "short": "Regulament guvern din 8 noiembrie 2017",
+   "title": "Regulament-cadru din 8 noiembrie 2017 de organizare și funcționare al Direcției generale de asistență socială și protecția copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194963",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194963",
+     "sha256": "20efc3e47aa94bfc811e165600f859903750cdadf4d8487cd59bdf7a47eda8cd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1108-2-2017",
+   "path": "regulament/guvern/2017/11-08-2",
+   "short": "Regulament guvern din 8 noiembrie 2017",
+   "title": "Regfulament-cadru din 8 noiembrie 2017 de organizare și funcționare al direcției de asistență socială organizate în subordinea consiliilor locale ale municipiilor și orașelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194964",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194964",
+     "sha256": "05cc3a5700ba56b829c97627a68f8ed4bcf16bbc977f59b71d93d1ccad209aa8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1108-3-2017",
+   "path": "regulament/guvern/2017/11-08-3",
+   "short": "Regulament guvern din 8 noiembrie 2017",
+   "title": "Regulament-cadru din 8 noiembrie 2017 de organizare și funcționare al compartimentului de asistență socială organizat la nivelul comunelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194965",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194965",
+     "sha256": "a711879a6b8de151c7d0934eb878fab7d93d78bf9b515cf271ecece407b65f79"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi1027-2017",
+   "path": "regulament/transporturi/2017/10-27",
+   "short": "Regulament transporturi din 27 octombrie 2017",
+   "title": "Regulament din 27 octombrie 2017 de gestionare a situațiilor de urgență specifice tipului de risc căderi masive de zăpadă și riscurile asociate acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196816",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196816",
+     "sha256": "5cfda3cf1ef2dfb339ba2ace58d2315b00bd287249fce0d5af69cc4b9d5bb869"
+    }
+   ]
   }
  ]
 }

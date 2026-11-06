@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "protocol/2007",
+ "acts": [
+  {
+   "slug": "protocol-orda-zi0119-2007",
+   "path": "protocol/orda/2007/01-19",
+   "short": "Protocol orda din 19 ianuarie 2007",
+   "title": "Protocol din 19 ianuarie 2007 având drept obiect Metodologia privind utilizarea prin radiodifuzare a repertoriului de opere cinematografice și alte opere audiovizuale de către organismele de televiziune și tabelul de remunerații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79042",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79042",
+     "sha256": "b86142411892319099ccbd28ff5a8319cda131080a8bffa716938bdfdfe5792a"
+    }
+   ]
+  },
+  {
+   "slug": "protocol-orda-zi0312-2007",
+   "path": "protocol/orda/2007/03-12",
+   "short": "Protocol orda din 12 martie 2007",
+   "title": "Protocol din 12 martie 2007 pentru stabilirea Metodologiei privind comunicarea publică a repertoriului de opere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81686",
+   "versions": [
+    {
+     "from": "2007-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81686",
+     "sha256": "58429335c956f82c128bcbf4186c8d4dc00f0e8872c2da27f9df5324ac10eddb"
+    }
+   ]
+  },
+  {
+   "slug": "protocol-orda-zi0524-2007",
+   "path": "protocol/orda/2007/05-24",
+   "short": "Protocol orda din 24 mai 2007",
+   "title": "Protocol din 24 mai 2007 având drept obiect Metodologia privind reproducerea fonogramelor publicate în scop comercial, destinate exclusiv comunicării publice în scop ambiental și lucrativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82609",
+   "versions": [
+    {
+     "from": "2007-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82609",
+     "sha256": "b61ac1e3a3f28d42187c0e705132fdfc61f948b47189d2e046e55ffe48b28754"
+    }
+   ]
+  },
+  {
+   "slug": "protocol-orda-zi0912-2007",
+   "path": "protocol/orda/2007/09-12",
+   "short": "Protocol orda din 12 septembrie 2007",
+   "title": "Protocol din 12 septembrie 2007 de adoptare a Metodologiei privind utilizarea prin radiodifuzare a repertoriului de opere de artă vizuală de către organismele de televiziune, încheiat astăzi, 12 septembrie 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87107",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87107",
+     "sha256": "38fce2843b6117bccc598b997df142a0a0acfc45fd049589f0be78ff2465be87"
+    }
+   ]
+  }
+ ]
+}

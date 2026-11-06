@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "precizari/2003",
+ "acts": [
+  {
+   "slug": "precizari-csa-zi0226-2003",
+   "path": "precizari/csa/2003/02-26",
+   "short": "Precizări csa din 26 februarie 2003",
+   "title": "Precizări din 26 februarie 2003 privind unele măsuri referitoare la încheierea exercițiului financiar pe anul 2002 la societățile comerciale de asigurare, de asigurare-reasigurare și de reasigurare, precum și la societățile de intermediere în asigurări care, potrivit prevederilor Legii contabilității nr. 82/1991 , republicată, au obligația sa întocmească situații financiare anuale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43577",
+   "versions": [
+    {
+     "from": "2003-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43577",
+     "sha256": "b86c514d7ab6b1151b31a0cd77eea6aa8447a674f425c0055959dd667a1879f8"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-economie-zi0508-2003",
+   "path": "precizari/economie/2003/05-08",
+   "short": "Precizări economie din 8 mai 2003",
+   "title": "Precizări din 8 mai 2003 emise în aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 30/2003 pentru instituirea unor măsuri speciale privind producția, importul și comercializarea uleiurilor minerale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43638",
+   "versions": [
+    {
+     "from": "2003-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43638",
+     "sha256": "5eea41ab6e162d4b819a091ccec7249337208787f70afa8247583572b06fd4b2"
+    }
+   ]
+  }
+ ]
+}

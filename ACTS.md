@@ -23284,17 +23284,19 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 42021 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 40434 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 1423 | [`data/acts/norma/`](data/acts/norma/) |
-| Regulations (regulamente) | 695 | [`data/acts/regulament/`](data/acts/regulament/) |
+| Ministerial and authority orders (ordine) | 40491 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 1540 | [`data/acts/norma/`](data/acts/norma/) |
+| Regulations (regulamente) | 1261 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 381 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
-| Clarifications (precizări) | 41 | [`data/acts/precizari/`](data/acts/precizari/) |
+| Clarifications (precizări) | 56 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 314 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 78 | [`data/acts/criterii/`](data/acts/criterii/) |
 | Circulars of authorities (circulare) | 1183 | [`data/acts/circulara/`](data/acts/circulara/) |
 | Decisions of authorities' boards (hotărâri) | 664 | [`data/acts/hotarare/`](data/acts/hotarare/) |
 | Decisions of authorities (decizii) | 2657 | [`data/acts/decizie/`](data/acts/decizie/) |
-| Guides (ghiduri) | 145 | [`data/acts/ghid/`](data/acts/ghid/) |
+| Procedures (proceduri) | 302 | [`data/acts/procedura/`](data/acts/procedura/) |
+| Guides (ghiduri) | 193 | [`data/acts/ghid/`](data/acts/ghid/) |
+| Protocols (protocoale) | 26 | [`data/acts/protocol/`](data/acts/protocol/) |
 | Central Electoral Bureau decisions, regulations and results (BEC) | 290 | [`data/acts/decizie-bec/`](data/acts/decizie-bec/) |
 | Permanent Electoral Authority decisions (AEP) | 201 | [`data/acts/hotarare-aep/`](data/acts/hotarare-aep/) |
 | Permanent Electoral Authority norms, instructions and lists (AEP) | 229 | [`data/acts/norma-aep/`](data/acts/norma-aep/) |
@@ -23304,7 +23306,7 @@
 | Data protection authority decisions and sanction notices (ANSPDCP) | 380 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
 | EU law in Romanian: regulations and directives in force (Official Journal text) | 16409 | [`data/acts/ue/`](data/acts/ue/) |
-| Annexes published apart from their act (court circumscriptions, official forms) | 3766 | [`data/acts/anexa/`](data/acts/anexa/) |
+| Annexes published apart from their act (court circumscriptions, official forms) | 3797 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 2536 | [`data/acts/profesii/`](data/acts/profesii/) |
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
 | Public procurement complaints council decisions (CNSC) | 1 | [`data/acts/cnsc/`](data/acts/cnsc/) |

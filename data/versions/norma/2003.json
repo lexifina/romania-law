@@ -1173,6 +1173,21 @@
    ]
   },
   {
+   "slug": "norma-csa-zi0226-2003",
+   "path": "norma/csa/2003/02-26",
+   "short": "Norma csa din 26 februarie 2003",
+   "title": "Norma metodologică din 26 februarie 2003 privind întocmirea, verificarea și centralizarea situațiilor financiare anuale ale societăților comerciale de asigurare, de asigurare-reasigurare și de reasigurare, precum și ale brokerilor de asigurare pe anul 2002*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43576",
+   "versions": [
+    {
+     "from": "2003-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43576",
+     "sha256": "39eb61d0d4d64e749fb4c3b9649d5a0dec731d60d86cc85553c72c913f2c7313"
+    }
+   ]
+  },
+  {
    "slug": "norma-economie-zi0226-2003",
    "path": "norma/economie/2003/02-26",
    "short": "Norma economie din 26 februarie 2003",
@@ -1364,6 +1379,171 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48985",
      "sha256": "8a7dd1bc50c0d68f69c2628d9b55ea720d222cd26140c351dd4f313878bfdf8c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0306-1-2003",
+   "path": "norma/sanatate/2003/03-06-1",
+   "short": "Norma sanatate din 6 martie 2003",
+   "title": "Norma tehnica din 6 martie 2003 privind curățenia și dezinfecția în unitățile sanitare de stat și private*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44109",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44109",
+     "sha256": "f4b5b4cad950ae21df8f739807489efa2da304c3cd868447cee6162cba35c3b7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0306-2-2003",
+   "path": "norma/sanatate/2003/03-06-2",
+   "short": "Norma sanatate din 6 martie 2003",
+   "title": "Norma tehnica din 6 martie 2003 privind efectuarea sterilizării și păstrarea starilității dispozitivelor materialelor sanitare în unitățile sanitare de stat și private*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44110",
+   "versions": [
+    {
+     "from": "2003-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44110",
+     "sha256": "163a618e05e2aa112e6144824dab07868ff8a421a2c0310666e3badb769b2862"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0321-2003",
+   "path": "norma/sanatate/2003/03-21",
+   "short": "Norma sanatate din 21 martie 2003",
+   "title": "Norma metodologică din 21 martie 2003 privind finanțarea, raportarea și controlul indicatorilor specifici prevăzuți în programele, respectiv subprogramele de sănătate în anul 2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43898",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43898",
+     "sha256": "8bd8ec9e1620e36ee8b2d7631fbd3818c0b5d7cfec2f3e8e384c6b7495ce4d68"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0415-2003",
+   "path": "norma/sanatate/2003/04-15",
+   "short": "Norma sanatate din 15 aprilie 2003",
+   "title": "Normă*) din 15 aprilie 2003 privind parametrii de calitate și salubritate pentru producerea, importul, controlul calității, comercializarea și utilizarea nutreturilor concentrate simple, combinate, aditivilor furajeri, premixurilor, substanțelor energetice, substanțelor minerale și a nutrețurilor speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48515",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48515",
+     "sha256": "28d2f7b67a131ea5fdcaa63a5d6d4dcff7a5723d7c12b2841b5b97d18b5fa231"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0909-2003",
+   "path": "norma/sanatate/2003/09-09",
+   "short": "Norma sanatate din 9 septembrie 2003",
+   "title": "Norme metodologice din 9 septembrie 2003 privind organizarea și exercitarea auditului intern în cadrul Ministerului Sănătății*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47941",
+   "versions": [
+    {
+     "from": "2003-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47941",
+     "sha256": "d9f91ba47f076efb716f62f9aca791040284cd8452acdd9da8289118beedd418"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sts-zi1029-2003",
+   "path": "norma/sts/2003/10-29",
+   "short": "Norma sts din 29 octombrie 2003",
+   "title": "Norme proprii din 29 octombrie 2003 de aplicare a Contractului-cadru privind conditiile acordarii asistentei medicale in sistemul asigurarilor sociale de sanatate, adaptate la specificul organizarii asistentei medicale in reteaua sanitara a ministerelor si institutiilor din domeniul apararii, ordinii publice, sigurantei nationale si autoritatii judecatoresti*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49022",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49022",
+     "sha256": "598681a8ea061a81216d477f558d94c15049b2fd5385396d43b597061833d32f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-vama-zi0203-1-2003",
+   "path": "norma/vama/2003/02-03-1",
+   "short": "Norma vama din 3 februarie 2003",
+   "title": "Norme tehnice din 3 februarie 2003 privind procedura simplificata de efectuare a formalităților vamale aferente aprovizionării mijloacelor de transport în trafic internațional*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42993",
+   "versions": [
+    {
+     "from": "2003-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42993",
+     "sha256": "5f03bcdd662028c18242d0f6c50eab119d9ff5dae41efa771b23eeff2a5cfa22"
+    }
+   ]
+  },
+  {
+   "slug": "norma-vama-zi0203-2-2003",
+   "path": "norma/vama/2003/02-03-2",
+   "short": "Norma vama din 3 februarie 2003",
+   "title": "Norme tehnice din 3 februarie 2003 de lucru privind circulația sacilor și trimiterilor poștale externe între birourile vamale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42995",
+   "versions": [
+    {
+     "from": "2003-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42995",
+     "sha256": "40ec577abd4a0be60bc74828f42441ab2118677ed84a98103427bad034a18230"
+    }
+   ]
+  },
+  {
+   "slug": "norma-vama-zi0203-3-2003",
+   "path": "norma/vama/2003/02-03-3",
+   "short": "Norma vama din 3 februarie 2003",
+   "title": "Norme tehnice din 3 februarie 2003 privind antrepozitul vamal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42996",
+   "versions": [
+    {
+     "from": "2003-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42996",
+     "sha256": "abd3df28b94ec3da3b49610b63b0e03333da4bab2758ee5122860ea2f643756d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-vama-zi0203-4-2003",
+   "path": "norma/vama/2003/02-03-4",
+   "short": "Norma vama din 3 februarie 2003",
+   "title": "Norme tehnice din 3 februarie 2003 privind aplicarea uniforma a reglementărilor vamale, evidenta operativă, controlul și supravegherea vamală a mărfurilor care se introduc sau se scot din zonele libere și din porturile care beneficiază de facilitățile prevăzute în Ordonanța Guvernului nr. 131/2000 , aprobată și modificată prin Legea nr. 99/2002*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42997",
+   "versions": [
+    {
+     "from": "2003-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42997",
+     "sha256": "a85bd0ab420b739fc5c2f53e27eb79ee9f05c4e905cc590a307f9f57f2ea4f64"
+    }
+   ]
+  },
+  {
+   "slug": "norma-vama-zi0203-5-2003",
+   "path": "norma/vama/2003/02-03-5",
+   "short": "Norma vama din 3 februarie 2003",
+   "title": "Norma tehnica din 3 februarie 2003 privind imprimarea, utilizarea și completarea declarației vamale în detaliu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42998",
+   "versions": [
+    {
+     "from": "2003-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42998",
+     "sha256": "4161185c928676a4c9b177df6ef326fd1e9f2b78592633973822c499cbfb2529"
     }
    ]
   }

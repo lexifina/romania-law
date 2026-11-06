@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "precizari-anrm-zi0930-1999",
+   "path": "precizari/anrm/1999/09-30",
+   "short": "Precizări anrm din 30 septembrie 1999",
+   "title": "Precizări din 30 septembrie 1999 la Instrucțiunile privind evidenta, calculul, plata și raportarea taxelor anuale aferente activității de prospecțiune, explorare și exploatare a resurselor minerale și a redevențelor miniere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19920",
+   "versions": [
+    {
+     "from": "1999-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19920",
+     "sha256": "514509fc63bb275616c0315790cbf8a801c72e9ccba3480fa91700ffb31fa4c4"
+    }
+   ]
+  },
+  {
    "slug": "precizari-bnr-2-1999",
    "path": "precizari/bnr/1999/2",
    "short": "Precizări bnr nr. 2/1999",

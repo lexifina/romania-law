@@ -511,6 +511,21 @@
      "sha256": "a692c736ab23c6e4264a3248a886e7b6d8824dfdbd89277e76c6bb23ad75433b"
     }
    ]
+  },
+  {
+   "slug": "norma-transporturi-zi0628-1999",
+   "path": "norma/transporturi/1999/06-28",
+   "short": "Norma transporturi din 28 iunie 1999",
+   "title": "Norme din 28 iunie 1999 privind verificarea tehnică a vehiculelor feroviare aparținând agenților economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83906",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83906",
+     "sha256": "a97f502c0fe4a2fadc40d5e158bc8abbfd7109d2fbd7666deddd0412270364b5"
+    }
+   ]
   }
  ]
 }

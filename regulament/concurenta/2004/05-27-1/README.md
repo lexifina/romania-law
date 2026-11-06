@@ -1,0 +1,18 @@
+# Regulament din 27 mai 2004 pentru modificarea și completarea Regulamentului privind ajutorul de stat pentru cercetare și dezvoltare
+
+Regulament concurenta din 27 mai 2004 · 1 versions, from 2004-06-09 (latest in force: 2004-06-09) · <https://legislatie.just.ro/Public/DetaliiDocument/52580>
+
+**Status:** Published as it appeared in the Monitorul Oficial, as a document of its own: approving act not identified (it will be linked to the act that approves it); later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Articolul I | [art-001.md](art-001.md) | 0 |  |
+| Articolul II | [art-002.md](art-002.md) | 0 |  |
+
+Act id: `regulament-concurenta-zi0527-1-2004` (tags `regulament-concurenta-zi0527-1-2004/<day>`; `python tools/on.py <day> regulament-concurenta-zi0527-1-2004`).
+
+## Decisions made by hand
+
+- Regulament concurenta din 27 mai 2004: added from the official web service of the Portalul legislativ (FreeWebService) as the regulation published in Monitorul Oficial nr. 521 of 9 June 2004 as a document of its own, with no number of its own (document 52580, retrieved 2026-11-04, held on disk; the service was not requested again). Whether later acts amended it has not yet been checked; amendments, if any, are not applied here.
+- Regulament concurenta din 27 mai 2004: approving act not identified. The regulation was published without a number, as a document of its own; no act of the same Monitorul Oficial issue points to it or approves a document of its subject, so it is published on its own, its folder named by its day (the number it lacks), and will be linked to its approving act later.
+- Regulament concurenta din 27 mai 2004: the first version is the regulation as published in Monitorul Oficial nr. 521 of 9 June 2004, in force from its publication in the Monitorul Oficial.

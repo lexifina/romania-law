@@ -498,6 +498,21 @@
    ]
   },
   {
+   "slug": "regulament-agricultura-zi0409-2020",
+   "path": "regulament/agricultura/2020/04-09",
+   "short": "Regulament agricultura din 9 aprilie 2020",
+   "title": "Regulament din 9 aprilie 2020 privind gestionarea situațiilor de urgență generate de fenomene meteorologice periculoase având ca efect producerea secetei pedologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224916",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224916",
+     "sha256": "66793530a0c99ca7dbd1f2118a6f171e9946d9b43e2c0160079c6bf13dac58d4"
+    }
+   ]
+  },
+  {
    "slug": "regulament-asf-5-2020",
    "path": "regulament/asf/2020/5",
    "short": "Regulament asf nr. 5/2020",
@@ -524,6 +539,171 @@
      "units": 3,
      "source_url": "https://www.bnr.ro/20319-regulament-5-2020",
      "sha256": "045d355939f60f2856c434ad7d86a0db1e062383a4613e3f227f2e314dfb8eec"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0609-2020",
+   "path": "regulament/concurenta/2020/06-09",
+   "short": "Regulament concurenta din 9 iunie 2020",
+   "title": "Regulament din 9 iunie 2020 de stabilire a procedurii și a criteriilor de aplicare a testului de echilibru economic de către Consiliul Național de Supraveghere din Domeniul Feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227090",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227090",
+     "sha256": "aedbe6ab796f15302fdaeac67663b18c57209d5db8fa8dff6028b55cbe0e024e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0716-2020",
+   "path": "regulament/concurenta/2020/07-16",
+   "short": "Regulament concurenta din 16 iulie 2020",
+   "title": "Regulament din 16 iulie 2020 pentru modificarea și completarea Regulamentului privind constatarea contravențiilor și aplicarea sancțiunilor de către Consiliul Concurenței, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 407/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228552",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228552",
+     "sha256": "70a3df9b3db0a2f16a7eb8df5f68c0cbb115d37cb75748d054168b684222ba79"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0729-2020",
+   "path": "regulament/concurenta/2020/07-29",
+   "short": "Regulament concurenta din 29 iulie 2020",
+   "title": "Regulament din 29 iulie 2020 pentru modificarea și completarea Regulamentului privind desfășurarea audierilor și adoptarea deciziilor în cadrul Consiliului Concurenței, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 509/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228738",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228738",
+     "sha256": "5f552de2cf05c1e3c9b24d80b7c15333298bfeebd112d0a28b67623b29ef73d5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cultura-zi0121-2020",
+   "path": "regulament/cultura/2020/01-21",
+   "short": "Regulament cultura din 21 ianuarie 2020",
+   "title": "Regulament din 21 ianuarie 2020 de organizare și funcționare a Institutului Național pentru Cercetare și Formare Culturală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222786",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222786",
+     "sha256": "6f4807828a7ce81253e3725b36e04f9ff4e624e051ded1cba7fb84002956a319"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-externe-zi0928-2020",
+   "path": "regulament/externe/2020/09-28",
+   "short": "Regulament externe din 28 septembrie 2020",
+   "title": "Regulament din 28 septembrie 2020 privind consultarea documentelor din Arhiva Istorică a Ministerului Afacerilor Externe la sala de studiu \"Grigore Gafencu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230559",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230559",
+     "sha256": "256416021e93a5b64b25e84ad8972e2d02b1d7bf7d7393219846bc14aaef61b7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0221-2020",
+   "path": "regulament/mediu/2020/02-21",
+   "short": "Regulament mediu din 21 februarie 2020",
+   "title": "Regulamentul din 21 februarie 2020 Parcului Național Piatra Craiului și al sitului Natura 2000 ROSCI0194 Piatra Craiului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225025",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225025",
+     "sha256": "766f9914d315dc00c54e48129fe98e6d015a4205bb4e1d281c6b0a6c359a27d9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sport-zi0519-1-2020",
+   "path": "regulament/sport/2020/05-19-1",
+   "short": "Regulament sport din 19 mai 2020",
+   "title": "Regulament din 19 mai 2020 privind condițiile necesar a fi respectate în vederea reluării antrenamentelor sportive în cantonamente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225937",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225937",
+     "sha256": "9c04b392ff416721cd3035476e75e3ed02b2fff818a23b1e6647060955d4d03b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sport-zi0519-2-2020",
+   "path": "regulament/sport/2020/05-19-2",
+   "short": "Regulament sport din 19 mai 2020",
+   "title": "Regulament din 19 mai 2020 privind condițiile necesar a fi respectate în vederea reluării antrenamentelor în cazul sporturilor individuale care se practică în aer liber",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225938",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225938",
+     "sha256": "6f8eb8b5c002e819e7f7b931052e7307d03503df66e98c83aeb16415b2584137"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sport-zi0529-2020",
+   "path": "regulament/sport/2020/05-29",
+   "short": "Regulament sport din 29 mai 2020",
+   "title": "Regulament din 29 mai 2020 privind condițiile necesar a fi respectate de către sportivii profesioniști, sportivii de performanță și/sau legitimați în vederea reluării competițiilor sportive organizate în aer liber",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226216",
+   "versions": [
+    {
+     "from": "2020-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226216",
+     "sha256": "4dec4c6a4fdb1789ee8d8aa24f429b5b79fe1a9214f1d7b49e0bcc765193ee9d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sport-zi0812-1-2020",
+   "path": "regulament/sport/2020/08-12-1",
+   "short": "Regulament sport din 12 august 2020",
+   "title": "Regulament din 12 august 2020 privind condițiile necesar a fi respectate în vederea desfășurării de către sportivii profesioniști, sportivii de performanță și/sau legitimați a activităților sportive în spații închise",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229235",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229235",
+     "sha256": "b6dd0b5643c6c8ca042eedd38086d93a75a631d6db8bf1bf1f2d342bee2de082"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sport-zi0812-2-2020",
+   "path": "regulament/sport/2020/08-12-2",
+   "short": "Regulament sport din 12 august 2020",
+   "title": "Regulament din 12 august 2020 privind condițiile necesar a fi respectate în vederea desfășurării activităților de pregătire fizică în săli de fitness și aerobic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229236",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229236",
+     "sha256": "06a04d8b09d58c6747842213e89d63e10d65a1990b1b37980233f970304a22d1"
     }
    ]
   }

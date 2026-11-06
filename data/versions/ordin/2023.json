@@ -9063,6 +9063,21 @@
    ]
   },
   {
+   "slug": "ordin-dizabilitati-359-2023",
+   "path": "ordin/dizabilitati/2023/359",
+   "short": "Ordin dizabilitati nr. 359/2023",
+   "title": "Ordinul nr. 359/2023 pentru aprobarea obiectivelor și indicatorilor-cheie de performanță corespunzători acestora privind procesul de dezinstituționalizare și de prevenire a instituționalizării persoanelor adulte cu dizabilități, planificați la nivelul fiecărui județ/sector al municipiului București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267201",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267201",
+     "sha256": "dd2f37d9bd6ba8a015eae4803888e4794344ffe9892a2d57570d8c0ad62252da"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dizabilitati-360-2023",
    "path": "ordin/dizabilitati/2023/360",
    "short": "Ordin dizabilitati nr. 360/2023",
@@ -29174,6 +29189,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264811",
      "sha256": "3e66f4f222eff2c88e2a487b0c62c192f619b3de36d6c70070066a5a00d2d7b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-399-2023",
+   "path": "ordin/turism/2023/399",
+   "short": "Ordin turism nr. 399/2023",
+   "title": "Ordinul nr. 399/2023 privind modificarea punctului 2 subpunctul 2.2 din Procedura de implementare a Programului național multianual pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul IMM, aprobată prin Ordinul ministrului antreprenoriatului și turismului nr. 1.314/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264812",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406052325id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/264812",
+     "sha256": "48f1f8855b7bf454d983439111308285608cc07a8b5230a79bbe62f83346f212"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-turism-450-2023",
+   "path": "ordin/turism/2023/450",
+   "short": "Ordin turism nr. 450/2023",
+   "title": "Ordinul nr. 450/2023 privind abrogarea Ordinului ministrului turismului nr. 89/1995 pentru aprobarea Instrucțiunilor privind acordarea diplomei de \"Maestru în arta culinară\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265290",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265290",
+     "sha256": "858b9874bb1a3feaab0d298bebfc2282003aaf1b225ab347d5c523f0da25037f"
     }
    ]
   },

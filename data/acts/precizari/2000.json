@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "precizari/2000",
+"acts": [
+{
+"slug": "precizari-finante-zi1030-1-2000",
+"path": "precizari/finante/2000/10-30-1",
+"kind": "precizari",
+"year": "2000",
+"number": "10-30-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizări metodologice din 30 octombrie 2000 privind compensarea unor obligații de plată, potrivit prevederilor art. 65 alin. (6), (6^1) și (6^2) din Legea bugetului de stat pe anul 2000 nr. 76/2000 , modificată și completată prin Ordonanța de urgență a Guvernului nr. 145/2000 cu privire la rectificarea bugetului de stat pe anul 2000",
+"short": "Precizări finante din 30 octombrie 2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-11-16",
+"latest": "2000-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/25041",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "precizari-finante-zi1030-2-2000",
+"path": "precizari/finante/2000/10-30-2",
+"kind": "precizari",
+"year": "2000",
+"number": "10-30-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizări metodologice din 30 octombrie 2000 privind stingerea unor obligații de plată potrivit prevederilor art. 65 alin. (1), (2) și (4^1) din Legea bugetului de stat pe anul 2000 nr. 76/2000 , modificată și completată prin Ordonanța de urgență a Guvernului nr. 145/2000 cu privire la rectificarea bugetului de stat pe anul 2000",
+"short": "Precizări finante din 30 octombrie 2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-11-16",
+"latest": "2000-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/25061",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "precizari-munca-zi0615-2000",
+"path": "precizari/munca/2000/06-15",
+"kind": "precizari",
+"year": "2000",
+"number": "06-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizări din 15 iunie 2000 la Normele de aplicare a Legii nr. 142/1998 privind acordarea tichetelor de masa",
+"short": "Precizări munca din 15 iunie 2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-06-16",
+"latest": "2000-06-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/22788",
+"issuer": "munca",
+"joint": []
+}
+]
+}

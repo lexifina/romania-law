@@ -153,6 +153,36 @@
    ]
   },
   {
+   "slug": "regulament-agricultura-zi0804-2026",
+   "path": "regulament/agricultura/2026/08-04",
+   "short": "Regulament agricultura din 4 august 2026",
+   "title": "Regulament din 4 august 2026 privind recunoașterea grupurilor de producători ai căror membri produc un produs desemnat printr-o indicație geografică sau care produc anumite categorii de produse desemnate prin indicații geografice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313396",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313396",
+     "sha256": "430f77f1ce360ab619b5eb1a027ab8f57b8b1e7a5ae779da87ab538f694a3cb3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anaf-zi0401-2026",
+   "path": "regulament/anaf/2026/04-01",
+   "short": "Regulament anaf din 1 aprilie 2026",
+   "title": "Regulament din 1 aprilie 2026 de organizare și funcționare a Comisiei pentru autorizarea operatorilor de produse supuse accizelor armonizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308995",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308995",
+     "sha256": "3a5cc8a9deb15675ecba0b7f708b5e0398327e9de4d5aa45f20a963435454445"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-2-2026",
    "path": "regulament/bnr/2026/2",
    "short": "Regulament bnr nr. 2/2026",
@@ -179,6 +209,111 @@
      "units": 2,
      "source_url": "https://www.bnr.ro/26086-regulament-3-2026",
      "sha256": "105815d183e548ad6053102be4f5212cbbf5b6db3c28eb1ab3cc7d87daa4813c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0617-2026",
+   "path": "regulament/concurenta/2026/06-17",
+   "short": "Regulament concurenta din 17 iunie 2026",
+   "title": "Regulament din 17 iunie 2026 privind procedura de selecție a membrilor Consiliului Național de Supraveghere din Domeniul Feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311908",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311908",
+     "sha256": "7012fc1fda94ce16382dc88a08e21e2df1073939da6fb3340ffa596cdd25115e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0917-2026",
+   "path": "regulament/concurenta/2026/09-17",
+   "short": "Regulament concurenta din 17 septembrie 2026",
+   "title": "Regulament din 17 septembrie 2026 privind concentrările economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314976",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314976",
+     "sha256": "2df5095c86f2a68951dfcf0b59baa4da2e7334469f44c088d31a33083e6258b5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0929-2026",
+   "path": "regulament/concurenta/2026/09-29",
+   "short": "Regulament concurenta din 29 septembrie 2026",
+   "title": "Regulament din 29 septembrie 2026 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Concurenței, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 1.511/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314936",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314936",
+     "sha256": "635d050feb22f932a8b5a86f25366b454f6c9651fc2958418ae1dacb667e42a3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cultura-zi0417-1-2026",
+   "path": "regulament/cultura/2026/04-17-1",
+   "short": "Regulament cultura din 17 aprilie 2026",
+   "title": "Regulament din 17 aprilie 2026 de organizare și funcționare a Comisiei Naționale \"Limes\" pentru FRE-Dacia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309738",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309738",
+     "sha256": "e27a260e681a8192e4505159fa7dab330fb750f6ddcc48fbee25985978b4269f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cultura-zi0417-2-2026",
+   "path": "regulament/cultura/2026/04-17-2",
+   "short": "Regulament cultura din 17 aprilie 2026",
+   "title": "Regulament din 17 aprilie 2026 de organizare și funcționare a Comisiei Naționale \"Limes\" pentru FRE-DLES",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309739",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309739",
+     "sha256": "35a37fde76320a1a57d58861d5c926fe7317f3f0fe4efcaafe32222acde0a88b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dizabilitati-zi0303-2026",
+   "path": "regulament/dizabilitati/2026/03-03",
+   "short": "Regulament dizabilitati din 3 martie 2026",
+   "title": "Regulament din 3 martie 2026 de organizare și funcționare a Comisiei superioare de evaluare a persoanelor adulte cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308032",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308032",
+     "sha256": "c5b50e48f95798cdaa50b4a85cdb3b8465f5d3222bf52312d56b06c88bcd9e84"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi0320-2026",
+   "path": "regulament/educatie/2026/03-20",
+   "short": "Regulament educatie din 20 martie 2026",
+   "title": "Regulament din 20 martie 2026 pentru concursurile naționale organizate de Ministerul Educației și Cercetării în vederea obținerii burselor acordate în baza documentelor de colaborare bilaterală sau a ofertelor unilaterale ale altor state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309456",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309456",
+     "sha256": "1908d12b834a136da88211b017acb8460215f1a501eec179f23c14f08f0ddd04"
     }
    ]
   }

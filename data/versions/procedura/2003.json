@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "procedura/2003",
+ "acts": [
+  {
+   "slug": "procedura-agricultura-zi1027-1-2003",
+   "path": "procedura/agricultura/2003/10-27-1",
+   "short": "Procedura agricultura din 27 octombrie 2003",
+   "title": "Procedura din 27 octombrie 2003 de încredințare a administrării ariilor naturale protejate care necesita constituirea de structuri de administrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47635",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47635",
+     "sha256": "a2ebe31ec67378561cd8e5125a7564663802f88e35abfcd76f129fe8be9c074e"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-agricultura-zi1027-2-2003",
+   "path": "procedura/agricultura/2003/10-27-2",
+   "short": "Procedura agricultura din 27 octombrie 2003",
+   "title": "Procedura din 27 octombrie 2003 de atribuire în custodie a ariilor naturale protejate care nu necesita constituirea de structuri de administrare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47636",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47636",
+     "sha256": "dbc99e18f830d8ded58b9679014b40579f56b908aef59bdd971a9af935cbd140"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi1002-2003",
+   "path": "procedura/guvern/2003/10-02",
+   "short": "Procedura guvern din 2 octombrie 2003",
+   "title": "Procedura din 2 octombrie 2003 de solicitare și de acordare de către Ministerul Apărării Naționale a autorizărilor de survol/avizelor prealabile pentru efectuarea zborurilor cu aeronave civile sau de stat în spațiul aerian național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47016",
+   "versions": [
+    {
+     "from": "2003-10-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47016",
+     "sha256": "31c3d405c9a725b45a7b5225ddabb51822568a3298e567ca3d865ecf1e59eb70"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0911-2003",
+   "path": "procedura/imm/2003/09-11",
+   "short": "Procedura imm din 11 septembrie 2003",
+   "title": "Procedura din 11 septembrie 2003 de implementare a Programului național pentru susținerea meșteșugurilor și artizanatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46348",
+   "versions": [
+    {
+     "from": "2003-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46348",
+     "sha256": "f1cb5e1bbd2d455436a94db3a2254704d68afaeac48d7504d8dce7d8ed1c6dfe"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi0619-2003",
+   "path": "procedura/mediu/2003/06-19",
+   "short": "Procedura mediu din 19 iunie 2003",
+   "title": "Procedură din 19 iunie 2003 de selecție a auditorilor pentru evaluarea laboratoarelor de mediu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91692",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91692",
+     "sha256": "96a2aaaca8996bde295207935296457484ef3464a99aa0aa887d2c063d7962c6"
+    }
+   ]
+  }
+ ]
+}

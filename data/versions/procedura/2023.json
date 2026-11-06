@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "procedura/2023",
+ "acts": [
+  {
+   "slug": "procedura-anaf-zi0609-2023",
+   "path": "procedura/anaf/2023/06-09",
+   "short": "Procedura anaf din 9 iunie 2023",
+   "title": "Procedură din 9 iunie 2023 pentru anularea obligațiilor fiscale ce pot face obiectul anulării prevăzute de Legea nr. 43/2023 pentru anularea unor obligații fiscale, precum și modalitățile de restituire a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271694",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271694",
+     "sha256": "e997f8cc4dd9bf6fa112dbfa59ccb93adc25de4526a3cf9ebb00a5230534a4c8"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-ansvsa-zi0323-2023",
+   "path": "procedura/ansvsa/2023/03-23",
+   "short": "Procedura ansvsa din 23 martie 2023",
+   "title": "Procedură din 23 martie 2023 de eliberare a certificatului de competență profesională pentru conducătorii și însoțitorii de pe vehiculele rutiere care transportă animale vii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266547",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266547",
+     "sha256": "d40ad5592d94a6174c90d590826a0a376b33f1343d734f0563a58608a61ea3f8"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi0829-2023",
+   "path": "procedura/economie/2023/08-29",
+   "short": "Procedura economie din 29 august 2023",
+   "title": "Procedură din 29 august 2023 de implementare a programului pentru organizarea Târgului Întreprinderilor Mici și Mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274284",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274284",
+     "sha256": "0cf908bdc1c409d58791d07b375dd549c8841e7f7cdde8b12f3a81483e20f77f"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-educatie-zi0215-2023",
+   "path": "procedura/educatie/2023/02-15",
+   "short": "Procedura educatie din 15 februarie 2023",
+   "title": "Procedură din 15 februarie 2023 de înscriere în clasa a IX-a, în anul școlar 2023-2024, a cetățenilor ucraineni cu statut de elevi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265227",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265227",
+     "sha256": "bd992f49cbfd0fd2d7a1cfa57f26f31486e05324448750be4743e8651b67c3fe"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0803-2023",
+   "path": "procedura/guvern/2023/08-03",
+   "short": "Procedura guvern din 3 august 2023",
+   "title": "Procedură din 3 august 2023 privind colaborarea și împărțirea responsabilităților între autoritățile administrației publice locale de la nivelul județelor, comunelor, orașelor, municipiilor și subdiviziunilor administrativ-teritoriale ale municipiilor în ceea ce privește implementarea Programului pentru școli al României în perioada 2023-2029",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273597",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273597",
+     "sha256": "2cc77e062c3922c5576cf64801eee6218d1dfb45a4992a8a03ec1fd3665a9349"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi1005-2023",
+   "path": "procedura/guvern/2023/10-05",
+   "short": "Procedura guvern din 5 octombrie 2023",
+   "title": "Procedură din 5 octombrie 2023 de selecție, remunerarea președintelui executiv, a vicepreședinților executivi și a administratorilor neexecutivi ai Consiliului de administrație al Exim Banca Românească - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275094",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275094",
+     "sha256": "95e86c0dfa399bafe908dacfe638077b16b1d45792536aa537ab889c5d5dada9"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi0524-2023",
+   "path": "procedura/mediu/2023/05-24",
+   "short": "Procedura mediu din 24 mai 2023",
+   "title": "Procedură din 24 mai 2023 de emitere a certificatelor de origine pentru biomasa provenită din deșeuri industriale și municipale, furnizată în vederea valorificării prin procesul de digestie anaerobă și utilizării în producerea de energie electrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271221",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271221",
+     "sha256": "66aab1d5edad3db9ae44a1676495de51d70b6413f28b19ff6121fd79ff3fc220"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "protocol/2018",
+"acts": [
+{
+"slug": "protocol-orda-zi0315-2018",
+"path": "protocol/orda/2018/03-15",
+"kind": "protocol",
+"year": "2018",
+"number": "03-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 15 martie 2018 privind desemnarea Centrului Român pentru Administrarea Drepturilor Artiștilor Interpreți (CREDIDAM) drept colector al remunerației suplimentare anuale datorate de producătorii de fonograme artiștilor interpreți sau executanți, în calitate de titulari de drepturi, și repartizarea remunerațiilor colectate către organismele de gestiune colectivă beneficiare",
+"short": "Protocol orda din 15 martie 2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-22",
+"latest": "2018-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/199017",
+"issuer": "orda",
+"joint": []
+},
+{
+"slug": "protocol-orda-zi1219-2018",
+"path": "protocol/orda/2018/12-19",
+"kind": "protocol",
+"year": "2018",
+"number": "12-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 19 decembrie 2018 privind colectarea de către organismul de gestiune colectivă CREDIDAM pentru și în numele ARAIEX a remunerațiilor cuvenite artiștilor interpreți sau executanți reprezentați de ARAIEX, aferente drepturilor care fac obiectul gestiunii colective facultative",
+"short": "Protocol orda din 19 decembrie 2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-03-27",
+"latest": "2019-03-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/212217",
+"issuer": "orda",
+"joint": []
+}
+]
+}

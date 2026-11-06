@@ -438,6 +438,21 @@
    ]
   },
   {
+   "slug": "norma-csa-zi0721-2009",
+   "path": "norma/csa/2009/07-21",
+   "short": "Norma csa din 21 iulie 2009",
+   "title": "Norme din 21 iulie 2009 privind Fondul de garantare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109961",
+   "versions": [
+    {
+     "from": "2009-07-28",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109961",
+     "sha256": "4d9845d2e143958a7b26f313c687ae739139f05af629fef1c63a6b29142c0308"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-19-2009",
    "path": "norma/csspp/2009/19",
    "short": "Norma csspp nr. 19/2009",
@@ -614,6 +629,126 @@
      "units": 38,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103920",
      "sha256": "264f52fd65cc8b5954e4064ed46a8a2506fdd40421f2d2111130c939988580a0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0226-2009",
+   "path": "norma/sanatate/2009/02-26",
+   "short": "Norma sanatate din 26 februarie 2009",
+   "title": "Norme tehnice din 26 februarie 2009 de realizare a Programului pentru compensarea cu 90% a prețului de referință al medicamentelor pentru pensionarii cu venituri realizate numai din pensii de până la 600 lei/lună",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102839",
+   "versions": [
+    {
+     "from": "2009-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102839",
+     "sha256": "be6e31ae8f65da484a18129e2ca715d3b3fa4f7c3ef6e4f0320e8e4644abff56"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0331-1-2009",
+   "path": "norma/sanatate/2009/03-31-1",
+   "short": "Norma sanatate din 31 martie 2009",
+   "title": "Norme tehnice din 31 martie 2009 de realizare a programelor naționale de sănătate în anul 2009*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104609",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104609",
+     "sha256": "2136fa0eceba679fa15489d5be3005bcf4ffe7cc475b6d545cbb4ec291a2b23d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0331-2-2009",
+   "path": "norma/sanatate/2009/03-31-2",
+   "short": "Norma sanatate din 31 martie 2009",
+   "title": "Norme metodologice din 31 martie 2009 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2009*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104651",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104651",
+     "sha256": "5d78750ee502476b2db3d7fca6d712d1dcc5f1f99c73dc22e459bb6ff0705688"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0709-2009",
+   "path": "norma/sanatate/2009/07-09",
+   "short": "Norma sanatate din 9 iulie 2009",
+   "title": "Norme metodologice din 9 iulie 2009 pentru realizarea și raportarea activităților specifice în cadrul subprogramului de screening pentru depistarea precoce activă a cancerului de col uterin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110285",
+   "versions": [
+    {
+     "from": "2009-08-06",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110285",
+     "sha256": "495b675815114acfc32fbbaab17c9adcff266b9949c4197f4a1fdaf747399cc1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1124-2009",
+   "path": "norma/sanatate/2009/11-24",
+   "short": "Norma sanatate din 24 noiembrie 2009",
+   "title": "Norme proprii din 24 noiembrie 2009 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2009, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113871",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113871",
+     "sha256": "aacb4e61b36920afe348e43829ac3df740b78ed61613d0a69e1c67f90a494cb3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-spp-zi1010-2009",
+   "path": "norma/spp/2009/10-10",
+   "short": "Norma spp din 10 octombrie 2009",
+   "title": "Norme proprii din 10 octombrie 2009 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2009, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113894",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113894",
+     "sha256": "0fceabb9ceaf1b1642be62564171e2ed482ffc16a65ac771f0e7216076a2c467"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0403-2009",
+   "path": "norma/transporturi/2009/04-03",
+   "short": "Norma transporturi din 3 aprilie 2009",
+   "title": "Norme din 3 aprilie 2009 privind stabilirea echipajului minim de siguranță la navele de navigație interioară care arborează pavilion român*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113151",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113151",
+     "sha256": "fef707bce2707fd65a8f88855c64110507a0d6d81c2079784368f7e6beaee1f8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-vama-zi1209-2009",
+   "path": "norma/vama/2009/12-09",
+   "short": "Norma vama din 9 decembrie 2009",
+   "title": "Norme tehnice din 9 decembrie 2009 pentru aplicarea regimului de tranzit comunitar/comun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114740",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 189,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114740",
+     "sha256": "baaa821f6abbcce6c10aec8a5c11b0b289e40311bdbc5d1cbea5a17783951cd3"
     }
    ]
   }

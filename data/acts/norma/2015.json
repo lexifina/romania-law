@@ -1103,6 +1103,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/164715",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "norma-sanatate-zi0331-1-2015",
+"path": "norma/sanatate/2015/03-31-1",
+"kind": "norma",
+"year": "2015",
+"number": "03-31-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme metodologice din 31 martie 2015 de aplicare în anul 2015 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015*)",
+"short": "Norma sanatate din 31 martie 2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-04-01",
+"latest": "2015-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/166980",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "norma-sanatate-zi0331-2-2015",
+"path": "norma/sanatate/2015/03-31-2",
+"kind": "norma",
+"year": "2015",
+"number": "03-31-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme tehnice din 31 martie 2015 de realizare a programelor naționale de sănătate publică pentru anii 2015 și 2016*)",
+"short": "Norma sanatate din 31 martie 2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-04-01",
+"latest": "2015-04-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/167045",
+"issuer": "sanatate",
+"joint": []
 }
 ]
 }

@@ -303,6 +303,81 @@
    ]
   },
   {
+   "slug": "regulament-agricultura-zi1229-2014",
+   "path": "regulament/agricultura/2014/12-29",
+   "short": "Regulament agricultura din 29 decembrie 2014",
+   "title": "Regulament din 29 decembrie 2014 de organizare și funcționare al Comitetul consultativ pentru sectorul pescăresc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164438",
+   "versions": [
+    {
+     "from": "2015-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164438",
+     "sha256": "a5c640aadec16e51d2dfbbfeb2649bdbd36ad29ce67c551970cad9c892021775"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-ancpi-zi0709-2014",
+   "path": "regulament/ancpi/2014/07-09",
+   "short": "Regulament ancpi din 9 iulie 2014",
+   "title": "Regulamentul din 9 iulie 2014 de avizare, recepție și înscriere în evidențele de cadastru și carte funciară*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161619",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161619",
+     "sha256": "f79f4406fe6af5ee5d88fbaab84959d44cb2d279b4da7aaceafedead130ee652"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi1217-1-2014",
+   "path": "regulament/anre/2014/12-17-1",
+   "short": "Regulament anre din 17 decembrie 2014",
+   "title": "Regulament din 17 decembrie 2014 pentru atestarea managerilor energetici și agreerea societăților prestatoare de servicii energetice*) (Anexa 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165535",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165535",
+     "sha256": "ed4755080b8a923321ea6606fd56fbf63edc3bb43baa737604c4e599b4fb4501"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi1217-2-2014",
+   "path": "regulament/anre/2014/12-17-2",
+   "short": "Regulament anre din 17 decembrie 2014",
+   "title": "Regulament din 17 decembrie 2014 pentru autorizarea auditorilor energetici din industrie*) (Anexa 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165536",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165536",
+     "sha256": "b8abbdadf4d57cbed54afe42a6816d77bbd0d97c21c6d110db0a4808fae37318"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-aparare-zi0902-2014",
+   "path": "regulament/aparare/2014/09-02",
+   "short": "Regulament aparare din 2 septembrie 2014",
+   "title": "Regulamentul din 2 septembrie 2014 serviciului interior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162070",
+   "versions": [
+    {
+     "from": "2014-10-13",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162070",
+     "sha256": "b8e54d2a7dfe8c0bceafe731ad714e2d0ef031d3ca8f6edb032fd817dd0b421a"
+    }
+   ]
+  },
+  {
    "slug": "regulament-asf-11-2014",
    "path": "regulament/asf/2014/11",
    "short": "Regulament asf nr. 11/2014",
@@ -359,6 +434,186 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160642",
      "sha256": "be46e196d5b006b44e034563b0a64016fc9a77bd3b0f5df059ba51fc8b4436db"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0529-1-2014",
+   "path": "regulament/cnas/2014/05-29-1",
+   "short": "Regulament cnas din 29 mai 2014",
+   "title": "Regulament-cadru din 29 mai 2014 de organizare și funcționare a comisiei constituite în baza prevederilor art. 72 alin. (2) și (3) din anexa nr. 2 la Hotărârea Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, pentru asistența medicală ambulatorie de specialitate pentru specialitățile paraclinice (Anexa nr. 4)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158660",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158660",
+     "sha256": "6a764dffbeef8cf073e2e73c53139d5934be9be89b63a5c3fb5b31922fda0a2c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0529-2-2014",
+   "path": "regulament/cnas/2014/05-29-2",
+   "short": "Regulament cnas din 29 mai 2014",
+   "title": "Regulament-cadru din 29 mai 2014 de organizare și funcționare a comisiei constituite în baza prevederilor art. 87 alin. (3) și (4) din anexa nr. 2 la Hotărârea Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015, pentru asistența medicală spitalicească (Anexa nr. 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158661",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158661",
+     "sha256": "1a21abf15b4cf21b908cf0c8d4a5f42f7c800c48ba13c50ff0f87e4400d6d57e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0605-2014",
+   "path": "regulament/concurenta/2014/06-05",
+   "short": "Regulament concurenta din 5 iunie 2014",
+   "title": "Regulament din 5 iunie 2014 pentru modificarea Regulamentului privind stabilirea și perceperea tarifelor pentru procedurile și serviciile prevăzute de Legea concurenței nr. 21/1996 și regulamentele emise în aplicarea acesteia, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 426/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159099",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159099",
+     "sha256": "6f7ef01d2ca64b8ab8221f155b1bae25f96a1557f1e8b7f8b42d98778c64ef93"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi0128-2014",
+   "path": "regulament/educatie/2014/01-28",
+   "short": "Regulament educatie din 28 ianuarie 2014",
+   "title": "Regulament din 28 ianuarie 2014 de organizare și funcționare a Bibliotecii Centrale Universitare \"Carol I\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156597",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 94,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156597",
+     "sha256": "5352d189c491bf5a36025babd9e7d8701d13bacf7db835d80c1cc8f4c1147def"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi0602-2014",
+   "path": "regulament/educatie/2014/06-02",
+   "short": "Regulament educatie din 2 iunie 2014",
+   "title": "Regulament din 2 iunie 2014 de organizare și funcționare a Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159006",
+   "versions": [
+    {
+     "from": "2014-06-16",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159006",
+     "sha256": "bd778c3292807efdc98e2c2a922754dd6bd4d4ca9f5fc627b45c0747331f61e3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi1215-2014",
+   "path": "regulament/educatie/2014/12-15",
+   "short": "Regulament educatie din 15 decembrie 2014",
+   "title": "Regulamentul din 15 decembrie 2014 de organizare și funcționare a unităților de învățământ preuniversitar*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164652",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164652",
+     "sha256": "4ccad9c1bc42f1b771601f057fc71c443c066018242c7120bb2c5e2921f4bb83"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi1106-2014",
+   "path": "regulament/interne/2014/11-06",
+   "short": "Regulament interne din 6 noiembrie 2014",
+   "title": "Regulament din 6 noiembrie 2014 de organizare și funcționare a Inspectoratului General de Aviație al Ministerului Afacerilor Interne*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164604",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164604",
+     "sha256": "1f291ecc171fcd907d596d5317b6ad3cce8990316bdedab5b98cb50963529978"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi1211-2014",
+   "path": "regulament/interne/2014/12-11",
+   "short": "Regulament interne din 11 decembrie 2014",
+   "title": "Regulament din 11 decembrie 2014 privind întocmirea și comunicarea referatului de evaluare profesională de către conducătorul parchetului sub coordonarea, controlul și conducerea căruia își desfășoară activitatea polițiștii din cadrul poliției judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163789",
+   "versions": [
+    {
+     "from": "2014-12-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163789",
+     "sha256": "987133e4b162d26245afe03227ef26f227a844425352941cd251ff2d90d89e1e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi1218-2014",
+   "path": "regulament/interne/2014/12-18",
+   "short": "Regulament interne din 18 decembrie 2014",
+   "title": "Regulament din 18 decembrie 2014 de organizare și funcționare a arhivelor naționale*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164741",
+   "versions": [
+    {
+     "from": "2015-01-07",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164741",
+     "sha256": "49f70080cf1b0c51525084aca4406d9c1a4c6992647cb11249125b6979a02eec"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi0320-2014",
+   "path": "regulament/justitie/2014/03-20",
+   "short": "Regulament justitie din 20 martie 2014",
+   "title": "Regulament din 20 martie 2014 de organizare și funcționare a Oficiului Național al Registrului Comerțului și a oficiilor registrului comerțului de pe lângă tribunale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158475",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158475",
+     "sha256": "a504d56165b1a54abebc7d8d38b384311d371996534aba568cdfea76d4e23cc3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi0730-2014",
+   "path": "regulament/justitie/2014/07-30",
+   "short": "Regulament justitie din 30 iulie 2014",
+   "title": "Regulament din 30 iulie 2014 de ordine interioară al parchetelor*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161638",
+   "versions": [
+    {
+     "from": "2014-08-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161638",
+     "sha256": "4826c160695184cb39d02bd5aba17e31d66aa356636d3f7566b1b248abd32374"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0617-2014",
+   "path": "regulament/mediu/2014/06-17",
+   "short": "Regulament mediu din 17 iunie 2014",
+   "title": "Regulamentul din 17 iunie 2014 Rezervației Naturale Muzeul Trovanților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160022",
+   "versions": [
+    {
+     "from": "2014-07-21",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160022",
+     "sha256": "dadf338025024f2fcfae03b6f815518d220d272260fa0ae690ba31af75e786a4"
     }
    ]
   }

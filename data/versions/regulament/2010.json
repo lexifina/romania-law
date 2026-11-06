@@ -648,6 +648,51 @@
    ]
   },
   {
+   "slug": "regulament-agricultura-zi0127-2010",
+   "path": "regulament/agricultura/2010/01-27",
+   "short": "Regulament agricultura din 27 ianuarie 2010",
+   "title": "Regulament din 27 ianuarie 2010 de practicare a pescuitului recreativ/sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115786",
+   "versions": [
+    {
+     "from": "2010-02-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115786",
+     "sha256": "c5fd7c1005f436d42371c78628b06443c60b15ff535027e257b356da9f56b91a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi0729-2010",
+   "path": "regulament/anre/2010/07-29",
+   "short": "Regulament anre din 29 iulie 2010",
+   "title": "Regulament*) din 29 iulie 2010 de calificare a producției de energie electrică în cogenerare de înaltă eficiență și de verificare și monitorizare a consumului de combustibil și a producțiilor de energie electrică și energie termică utilă în cogenerare de înaltă eficiență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122348",
+   "versions": [
+    {
+     "from": "2010-08-23",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122348",
+     "sha256": "5885a50c79950b03c1602b7621a1372d3c780078b3c8fc230071bd1962c050d2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi0826-2010",
+   "path": "regulament/anre/2010/08-26",
+   "short": "Regulament anre din 26 august 2010",
+   "title": "Regulament general din 26 august 2010 de manevre în instalațiile electrice de medie și înaltă tensiune - NTE 009/10/00",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122751",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122751",
+     "sha256": "93374843a19e42a5fddb6fb06e14dda9230e404f34beb1d8030e42ef1f9d53fd"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-18-2010",
    "path": "regulament/bnr/2010/18",
    "short": "Regulament bnr nr. 18/2010",
@@ -704,6 +749,141 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117070",
      "sha256": "a4f427d555eb3598075a50e09afd4d6f0047d57b9a0cd0f6792feca202ed85d8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0805-2010",
+   "path": "regulament/concurenta/2010/08-05",
+   "short": "Regulament concurenta din 5 august 2010",
+   "title": "Regulament din 5 august 2010 privind concentrările economice*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122169",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122169",
+     "sha256": "c01fa8d7a83e7b8bbb69a384625f3241bd71bd38890cb714cdafc596621ec2e7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-imm-zi0304-2010",
+   "path": "regulament/imm/2010/03-04",
+   "short": "Regulament imm din 4 martie 2010",
+   "title": "Regulament din 4 martie 2010 de organizare și funcționare a Comitetului consultativ pentru dezvoltarea întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119858",
+   "versions": [
+    {
+     "from": "2010-06-25",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119858",
+     "sha256": "eb81fcccd7b9c84ae94f990bb28bd47990e1adc8419834d8b57aaa5e55060848"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0330-2010",
+   "path": "regulament/sanatate/2010/03-30",
+   "short": "Regulament sanatate din 30 martie 2010",
+   "title": "Regulamentul din 30 martie 2010 de organizare și funcționare al Institutului Național de Sănătate Publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117809",
+   "versions": [
+    {
+     "from": "2010-04-12",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117809",
+     "sha256": "e3b465bed29a568efea5ef51a3400378a601af556d4d931c28e8781d43846c7b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0526-1-2010",
+   "path": "regulament/sanatate/2010/05-26-1",
+   "short": "Regulament sanatate din 26 mai 2010",
+   "title": "Regulament din 26 mai 2010 privind acordarea sporurilor la salariile de bază, în conformitate cu prevederile art. 5 din anexa nr. I și ale art. 9 și 10 din anexa nr. III la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119258",
+   "versions": [
+    {
+     "from": "2010-06-04",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119258",
+     "sha256": "f117510b430ba5f9d562c3b6d17998065d4f5a42a7f720159c2f6e72402cde63"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0526-2-2010",
+   "path": "regulament/sanatate/2010/05-26-2",
+   "short": "Regulament sanatate din 26 mai 2010",
+   "title": "Regulament din 26 mai 2010 privind acordarea sporurilor la salariile de bază, în conformitate cu prevederile notei din anexa nr. II/2 la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119260",
+   "versions": [
+    {
+     "from": "2010-06-04",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119260",
+     "sha256": "03c4da6d28b3eab32fcb32bee4196ba86377d81f0ba271d6b7b315c934ffccd7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0716-1-2010",
+   "path": "regulament/sanatate/2010/07-16-1",
+   "short": "Regulament sanatate din 16 iulie 2010",
+   "title": "Regulament-cadru din 16 iulie 2010 de organizare și funcționare al comisiei constituite în baza prevederilor art. 22 alin. (3) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, aprobat prin Hotărârea Guvernului nr. 262/2010 , pentru stabilirea necesarului de medici de familie cu liste, atât pentru mediul urban, cât și pentru mediul rural, precum și pentru stabilirea numărului minim de persoane beneficiare ale pachetelor de servicii medicale de pe listele medicilor de familie din mediul rural, pentru care se încheie contractul de furnizare de servicii medicale din asistența medicală primară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121048",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121048",
+     "sha256": "496d44c4f46b04fcdd718b240d91c3ed750783f50cab78adfbe51efc1aa4109a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0716-2-2010",
+   "path": "regulament/sanatate/2010/07-16-2",
+   "short": "Regulament sanatate din 16 iulie 2010",
+   "title": "Regulament-cadru din 16 iulie 2010 de organizare și funcționare al comisiei constituite în baza prevederilor art. 43. alin. (4) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, aprobat prin Hotărârea Guvernului nr. 262/2010 , pentru stabilirea necesarului de medici de specialitate și a numărului de norme necesare pentru fiecare specialitate clinică, pe județ, pentru care se încheie contract de furnizare de servicii medicale în asistența medicală ambulatorie de specialitate pentru specialitățile clinice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121049",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121049",
+     "sha256": "71a05b9a46a037910fa510917941efca26778a7aafb171633a10ec667acdf820"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0716-3-2010",
+   "path": "regulament/sanatate/2010/07-16-3",
+   "short": "Regulament sanatate din 16 iulie 2010",
+   "title": "Regulament-cadru din 16 iulie 2010 de organizare și funcționare al comisiei constituite în baza prevederilor art. 43 alin. (4) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, aprobat prin Hotărârea Guvernului nr. 262/2010 , pentru stabilirea numărului necesar de medici dentiști și a numărului de norme necesare pentru medicină dentară, pe județ, pentru care se încheie contract de furnizare de servicii medicale în asistența medicală ambulatorie de specialitate pentru medicina dentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121050",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121050",
+     "sha256": "a953f023cb216a89e676f7f71ff80581217c0075770df5a5582a3a66d99657e9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0716-4-2010",
+   "path": "regulament/sanatate/2010/07-16-4",
+   "short": "Regulament sanatate din 16 iulie 2010",
+   "title": "Regulament-cadru din 16 iulie 2010 de organizare și funcționare al comisiei constituite în baza prevederilor art. 43 alin. (5) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010, aprobat prin Hotărârea Guvernului nr. 262/2010 , pentru stabilirea numărului necesar de investigații medicale paraclinice pe total județ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121051",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121051",
+     "sha256": "92cc09c9fccd002b7dce1e9d25df39c7f085d77be8523ec6945b3b32a7bf4be7"
     }
    ]
   }

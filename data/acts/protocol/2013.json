@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "protocol/2013",
+"acts": [
+{
+"slug": "protocol-orda-zi0821-1-2013",
+"path": "protocol/orda/2013/08-21-1",
+"kind": "protocol",
+"year": "2013",
+"number": "08-21-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 21 august 2013 privind criteriile de repartizare a sumelor cuvenite ADPFR reprezentând remunerație compensatorie pentru copia privată pentru operele reproduse după înregistrări sonore pentru perioada 2013-2014",
+"short": "Protocol orda din 21 august 2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-10-17",
+"latest": "2013-10-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151920",
+"issuer": "orda",
+"joint": []
+},
+{
+"slug": "protocol-orda-zi0821-2-2013",
+"path": "protocol/orda/2013/08-21-2",
+"kind": "protocol",
+"year": "2013",
+"number": "08-21-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 21 august 2013 privind criteriile de repartizare a remunerației echitabile pentru radiodifuzarea fonogramelor de comerț, a fonogramelor publicate în scop comercial sau a reproducerilor acestora de către organismele de radiodifuziune, cuvenite organismului de gestiune colectivă ADPFR pentru producătorii de fonograme pe care îi reprezintă, precum și a comisionului de colectare datorat organismului de gestiune colector UPFR, pentru perioada 2013-2014",
+"short": "Protocol orda din 21 august 2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-10-22",
+"latest": "2013-10-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/151972",
+"issuer": "orda",
+"joint": []
+}
+]
+}

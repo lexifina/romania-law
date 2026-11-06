@@ -46,6 +46,96 @@
      "sha256": "6df84e44b24968a7026a4b69c011d48bca0f97ecf74c9539f44b96ddc83a0c5d"
     }
    ]
+  },
+  {
+   "slug": "regulament-finante-zi1010-1992",
+   "path": "regulament/finante/1992/10-10",
+   "short": "Regulament finante din 10 octombrie 1992",
+   "title": "Regulament din 10 octombrie 1992 privind organizarea și funcționarea Gărzii financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55262",
+   "versions": [
+    {
+     "from": "1992-11-24",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55262",
+     "sha256": "6a22625121e1095340a51bc36573e0e413aa5bcb0874cca486c930344704b39e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0229-1992",
+   "path": "regulament/guvern/1992/02-29",
+   "short": "Regulament guvern din 29 februarie 1992",
+   "title": "Regulament -cadru orientativ din 29 februarie 1992 privind funcționarea consiliilor locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53014",
+   "versions": [
+    {
+     "from": "1992-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53014",
+     "sha256": "e5dab10e0f399c20f350d6e25810f6c2e7a0afeb6be1fad210d8a464a697cb18"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0402-1992",
+   "path": "regulament/guvern/1992/04-02",
+   "short": "Regulament guvern din 2 aprilie 1992",
+   "title": "Regulament din 2 aprilie 1992 privind procedurile de organizare și desfășurare ale licitațiilor pentru achizițiile guvernamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55138",
+   "versions": [
+    {
+     "from": "1992-05-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55138",
+     "sha256": "84e4fb605b61b318b02aa232dd9568768885e5022a6974910f54dd8519cd1c57"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0602-1992",
+   "path": "regulament/guvern/1992/06-02",
+   "short": "Regulament guvern din 2 iunie 1992",
+   "title": "Regulament din 2 iunie 1992 privind atribuțiile, competentele și modul de funcționare ale Comitetului Interministerial de Garanții și Credite de Comerț Exterior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55257",
+   "versions": [
+    {
+     "from": "1992-06-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55257",
+     "sha256": "32510a6d34edf07b5a21c9248c28ab18a78e6d2800648e3ffbd80239ef0375e6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0928-1992",
+   "path": "regulament/guvern/1992/09-28",
+   "short": "Regulament guvern din 28 septembrie 1992",
+   "title": "Regulament din 28 septembrie 1992 de organizare și funcționare a Regiei Autonome \"Imprimeria Națională\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94595",
+   "versions": [
+    {
+     "from": "1992-10-23",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94595",
+     "sha256": "9a1e7ae01e764fe2b4567c96d8532a382f7b9d4fd20064ddd83c43a377205f9b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1008-1992",
+   "path": "regulament/guvern/1992/10-08",
+   "short": "Regulament guvern din 8 octombrie 1992",
+   "title": "Regulament din 8 octombrie 1992 de organizare și funcționare a Fondului Proprietății de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31256",
+   "versions": [
+    {
+     "from": "1992-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31256",
+     "sha256": "15c89d85e94f9d639857bd0648f7f769596ba0aa0ff7dfd94fb6152e6cc7bb98"
+    }
+   ]
   }
  ]
 }

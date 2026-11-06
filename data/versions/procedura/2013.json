@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "procedura/2013",
+ "acts": [
+  {
+   "slug": "procedura-agricultura-zi0516-2013",
+   "path": "procedura/agricultura/2013/05-16",
+   "short": "Procedura agricultura din 16 mai 2013",
+   "title": "Procedură din 16 mai 2013 de autorizare prestare de servicii pentru activitatea de testare a reproducătorilor, colectarea și comercializarea materialului seminal congelat, la specia bovine - Anexa 1*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149269",
+   "versions": [
+    {
+     "from": "2013-05-24",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149269",
+     "sha256": "cc87b93edc1ca22b7d58e4b2506f79eddb70edcdbdd4951047fe4aba5bc9732e"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0315-2013",
+   "path": "procedura/anaf/2013/03-15",
+   "short": "Procedura anaf din 15 martie 2013",
+   "title": "Procedură din 15 martie 2013 privind stabilirea sumei reprezentând timbrul de mediu pentru autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146146",
+   "versions": [
+    {
+     "from": "2013-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146146",
+     "sha256": "b42db732a647f12a09b1b7199779ad7b443c7d8ca554b6e5b9382a47e2a64d22"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0328-1-2013",
+   "path": "procedura/anaf/2013/03-28-1",
+   "short": "Procedura anaf din 28 martie 2013",
+   "title": "Procedură din 28 martie 2013 de înregistrare, din oficiu, în Registrul persoanelor impozabile care aplică sistemul TVA la încasare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146847",
+   "versions": [
+    {
+     "from": "2013-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146847",
+     "sha256": "3586f35036ca0db0aa56ad2464e3f2ba01969e6a30790d622f875149e0de47b1"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0328-2-2013",
+   "path": "procedura/anaf/2013/03-28-2",
+   "short": "Procedura anaf din 28 martie 2013",
+   "title": "Procedură din 28 martie 2013 de radiere, din oficiu, din Registrul persoanelor impozabile care aplică sistemul TVA la încasare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146848",
+   "versions": [
+    {
+     "from": "2013-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146848",
+     "sha256": "bf3065ce9429362d0e3b3139b9a63737265cfc3ad324ed1374b169c1ac7e8201"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0709-2013",
+   "path": "procedura/anaf/2013/07-09",
+   "short": "Procedura anaf din 9 iulie 2013",
+   "title": "Procedură din 9 iulie 2013 de înregistrare fiscală a contribuabililor nerezidenți care desfășoară activitate în România prin unul sau mai multe sedii permanente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149926",
+   "versions": [
+    {
+     "from": "2013-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149926",
+     "sha256": "6a3d6fba0453067655c31ae581f85b132004b5d78a192eefe419d68ec2392cbd"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-dezvoltare-zi0611-2013",
+   "path": "procedura/dezvoltare/2013/06-11",
+   "short": "Procedura dezvoltare din 11 iunie 2013",
+   "title": "Procedură din 11 iunie 2013 privind desemnarea organismelor de evaluare și verificare a constanței performanței produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149384",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149384",
+     "sha256": "d6f8b8278e8da17a29a22016e7d961877d7675c8a6267c63f7725f7b34dd11be"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-educatie-zi0123-2013",
+   "path": "procedura/educatie/2013/01-23",
+   "short": "Procedura educatie din 23 ianuarie 2013",
+   "title": "Procedură din 23 ianuarie 2013 de selectare, prin concurs, a membrilor Consiliului Agenției Române de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144953",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144953",
+     "sha256": "5d0083452f7a31fdded753e78df25cf6b78be0a94e774d49114263bfa885e717"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-educatie-zi1122-2013",
+   "path": "procedura/educatie/2013/11-22",
+   "short": "Procedura educatie din 22 noiembrie 2013",
+   "title": "Procedura din 22 noiembrie 2013 de achiziție a manualelor școlare pentru învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156390",
+   "versions": [
+    {
+     "from": "2014-03-14",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156390",
+     "sha256": "a4e60e7cb8a54f3023b56b884f6578d4b06d6501aca8538f3c2195f2c3a5bf81"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-interne-zi0626-2013",
+   "path": "procedura/interne/2013/06-26",
+   "short": "Procedura interne din 26 iunie 2013",
+   "title": "Procedură din 26 iunie 2013 privind desemnarea organismelor de evaluare tehnică europeană a produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149389",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149389",
+     "sha256": "a22d3fc132ad88b3240439be5558e172a1c34783b15c6c58690f994f52a35b8c"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi0329-2013",
+   "path": "procedura/mediu/2013/03-29",
+   "short": "Procedura mediu din 29 martie 2013",
+   "title": "Procedură din 29 martie 2013 de restituire a sumelor prevăzute la art. 7, 9 și 12 din Ordonanța de urgență a Guvernului nr. 9/2013 privind timbrul de mediu pentru autovehicule, precum și a sumelor stabilite de instanțele de judecată prin hotărâri definitive și irevocabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146492",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146492",
+     "sha256": "5ea85c0ee217d0244a11abf86e36036d33a3af83a478b3d2a2dc6a32e473e1fb"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-sport-zi0416-2013",
+   "path": "procedura/sport/2013/04-16",
+   "short": "Procedura sport din 16 aprilie 2013",
+   "title": "Procedură din 16 aprilie 2013 de închiriere a bunurilor imobile din domeniul public al statului, aflate în administrarea Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147251",
+   "versions": [
+    {
+     "from": "2013-04-23",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147251",
+     "sha256": "d963f16fdb562f08ebe1dc4131f20dbaf6a221e232b670cec20d72ae9f9fe316"
+    }
+   ]
+  }
+ ]
+}

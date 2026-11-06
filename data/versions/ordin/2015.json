@@ -6513,6 +6513,21 @@
    ]
   },
   {
+   "slug": "ordin-conas-103-2015",
+   "path": "ordin/conas/2015/103",
+   "short": "Ordin conas nr. 103/2015",
+   "title": "Ordinul nr. 103/2015 privind acreditarea Spitalului Clinic de Psihiatrie \"Prof. Dr. Alexandru Obregia\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168241",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168241",
+     "sha256": "519aaba76a1dc0af89fe29125e6f9f792dc3dc72ec3e230cc5f7966012062408"
+    }
+   ]
+  },
+  {
    "slug": "ordin-conas-129-2015",
    "path": "ordin/conas/2015/129",
    "short": "Ordin conas nr. 129/2015",
@@ -6543,6 +6558,21 @@
    ]
   },
   {
+   "slug": "ordin-conas-175-2015",
+   "path": "ordin/conas/2015/175",
+   "short": "Ordin conas nr. 175/2015",
+   "title": "Ordinul nr. 175/2015 privind acreditarea unor unități spitalicești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171205",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171205",
+     "sha256": "3ec8a395407fa898675fdf186b279c7206193dc502d008ec046029af2029f508"
+    }
+   ]
+  },
+  {
    "slug": "ordin-conas-43-2015",
    "path": "ordin/conas/2015/43",
    "short": "Ordin conas nr. 43/2015",
@@ -6554,6 +6584,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166376",
      "sha256": "f838a294236f246fd9a50fd339c0569067e9dc8904d171a45ad705c85b7a1c02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-52-2015",
+   "path": "ordin/conas/2015/52",
+   "short": "Ordin conas nr. 52/2015",
+   "title": "Ordinul nr. 52/2015 pentru aprobarea componenței comisiilor de evaluare a spitalelor în funcție de competență și numărul de paturi, valabilă până la finele primului ciclu de acreditare trimestrul III 2011 - trimestrul II 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166824",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166824",
+     "sha256": "99d2c96bed5c8edaf92b2f6e8dfd1aa3eb444d6d5aa431d87ab17c147cb55097"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-conas-90-2015",
+   "path": "ordin/conas/2015/90",
+   "short": "Ordin conas nr. 90/2015",
+   "title": "Ordinul nr. 90/2015 privind acreditarea unor unități spitalicești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167666",
+   "versions": [
+    {
+     "from": "2015-05-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167666",
+     "sha256": "9538fb4451ee81748e0abaf455354f682c64b86211960000125f82568e38a3bc"
     }
    ]
   },
@@ -16844,6 +16904,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172024",
      "sha256": "de23784e4e79fdc46e52ecbdaebf665fd33b4ff4265e2f9ee33bd9c0083af8d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-182-2015",
+   "path": "ordin/onpcsb/2015/182",
+   "short": "Ordin onpcsb nr. 182/2015",
+   "title": "Ordinul nr. 182/2015 privind modificarea Ordinului viceprim-ministrului, ministrul finanțelor publice, al ministrului administrației și internelor și al președintelui Oficiului Național de Prevenire și Combatere a Spălării Banilor nr. 663/110/76/2012 pentru aprobarea componenței Comisiei de autorizare a activității de schimb valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173506",
+   "versions": [
+    {
+     "from": "2015-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173506",
+     "sha256": "b1f6c868b9782499f964c6e5b1fc09f367f53cff766c840a79e26db27c967199"
     }
    ]
   },

@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "procedura/2019",
+ "acts": [
+  {
+   "slug": "procedura-anaf-zi0313-2019",
+   "path": "procedura/anaf/2019/03-13",
+   "short": "Procedura anaf din 13 martie 2019",
+   "title": "Procedură din 13 martie 2019 privind emiterea și comunicarea unor acte administrative și de executare pentru debitorii care înregistrează obligații fiscale restante sub o anumită limită",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211962",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211962",
+     "sha256": "ff1e6f34fad059edf0f3b4b919f567ccfe63ff00a75e30a2fcc27e0d095fab97"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0404-2019",
+   "path": "procedura/anaf/2019/04-04",
+   "short": "Procedura anaf din 4 aprilie 2019",
+   "title": "Procedură din 4 aprilie 2019 privind cesiunea creanțelor bugetare datorate de debitorii aflați în procedura insolvenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212710",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212710",
+     "sha256": "57fde8ad70f1dbad13e86d32e37b3d320d66ae2e882bb8a663af5532679f53d5"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi1024-2019",
+   "path": "procedura/anaf/2019/10-24",
+   "short": "Procedura anaf din 24 octombrie 2019",
+   "title": "Procedură din 24 octombrie 2019 privind stabilirea din oficiu a impozitului anual pe veniturile persoanelor fizice, precum și a modelului și conținutului unor formulare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219540",
+   "versions": [
+    {
+     "from": "2019-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219540",
+     "sha256": "1723a78450c0fc27ac92d05b441c7948a10e950950997b59133de269e02196c3"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anofm-zi0314-2019",
+   "path": "procedura/anofm/2019/03-14",
+   "short": "Procedura anofm din 14 martie 2019",
+   "title": "Procedură din 14 martie 2019 privind confirmarea existenței situației de boală la societățile din sectorul crescătorilor de suine a căror activitate a fost afectată de virusul pestei porcine africane, în vederea acordării compensației prevăzute la art. 2 alin. (1) din Ordonanța de urgență a Guvernului nr. 83/2018 privind acordarea unei măsuri de protecție socială persoanelor concediate din cadrul societăților din sectorul crescătorilor de suine a căror activitate a fost afectată de virusul pestei porcine africane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211936",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211936",
+     "sha256": "3f68dfeb7ac1929ba8e739f7bde5ead1cad45b286ebf743b8ba5e3eedeac9f53"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anre-zi0313-2019",
+   "path": "procedura/anre/2019/03-13",
+   "short": "Procedura anre din 13 martie 2019",
+   "title": "Procedură din 13 martie 2019 privind fundamentarea și criteriile de aprobare a planurilor de investiții ale operatorilor de transport și de sistem, de distribuție și de înmagazinare a gazelor naturale, precum și ai terminalelor GNL",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212030",
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212030",
+     "sha256": "44abcabe4ef840d13daa763abc537c9cf8e5c2afaf938a24fafce5fc85387ad9"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0703-2019",
+   "path": "procedura/guvern/2019/07-03",
+   "short": "Procedura guvern din 3 iulie 2019",
+   "title": "Procedură din 3 iulie 2019 de organizare și publicare a monitoarelor oficiale ale unităților/subdiviziunilor administrativ-teritoriale, în format electronic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215926",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215926",
+     "sha256": "ea474c589123a698ba41f96cb5b6605601628591034d5cb9ca1ec857bb6efea9"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0912-2019",
+   "path": "procedura/guvern/2019/09-12",
+   "short": "Procedura guvern din 12 septembrie 2019",
+   "title": "Procedură din 12 septembrie 2019 privind acordarea de finanțări din fondurile obținute din aplicarea timbrului monumentelor istorice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218010",
+   "versions": [
+    {
+     "from": "2019-09-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218010",
+     "sha256": "5730003e6e6e70bec7160c4efef9bec810779560445406b4d5da57366ee7d981"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-onjn-zi1029-2019",
+   "path": "procedura/onjn/2019/10-29",
+   "short": "Procedura onjn din 29 octombrie 2019",
+   "title": "Procedură din 29 octombrie 2019 privind modalitatea de notificare a operatorilor economici - organizatori de jocuri de noroc licențiați și a modelului de înștiințare de plată pentru contribuția anuală prevăzută la art. 10 alin. (4) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219538",
+   "versions": [
+    {
+     "from": "2019-11-06",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219538",
+     "sha256": "adf81f64de4ae886e5098debf379e2e78f706a65d3e12fbc2a28ec7b80fd55c3"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-prognoza-zi0517-2019",
+   "path": "procedura/prognoza/2019/05-17",
+   "short": "Procedura prognoza din 17 mai 2019",
+   "title": "Procedură și termene de evaluare din 17 mai 2019 a cererilor de acord pentru finanțare și de plată a ajutorului de minimis aprobat în baza Hotărârii Guvernului nr. 239/2019 pentru instituirea unei scheme de ajutor de minimis privind programul guvernamental \"gROwth - Investim în copii, investim în viitor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214071",
+   "versions": [
+    {
+     "from": "2019-05-20",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214071",
+     "sha256": "11c2fc33d830d5101699a10c3d852e45c329cd16ad98ab155498c4045b379228"
+    }
+   ]
+  }
+ ]
+}

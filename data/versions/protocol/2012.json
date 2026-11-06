@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "protocol/2012",
+ "acts": [
+  {
+   "slug": "protocol-orda-zi1018-2012",
+   "path": "protocol/orda/2012/10-18",
+   "short": "Protocol orda din 18 octombrie 2012",
+   "title": "Protocol din 18 octombrie 2012 având drept obiect Metodologia privind remunerația datorată de organismele de televiziune titularilor de drepturi de autor pentru utilizarea prin radiodifuzare a unor opere cinematografice și alte opere audiovizuale din repertoriul organismelor de gestiune colectivă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142242",
+   "versions": [
+    {
+     "from": "2012-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142242",
+     "sha256": "cec2dcfc158daa21a1f2b20983fb505ca54a2285696e5a20876b8111b4dd417f"
+    }
+   ]
+  }
+ ]
+}

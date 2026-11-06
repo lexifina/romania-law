@@ -3,6 +3,156 @@
  "shard": "ghid/2023",
  "acts": [
   {
+   "slug": "ghid-asf-zi0109-2023",
+   "path": "ghid/asf/2023/01-09",
+   "short": "Ghid asf din 9 ianuarie 2023",
+   "title": "Ghid din 9 ianuarie 2023 privind criteriile pentru a acorda firmelor de investiții o scutire de la cerințele de lichiditate în conformitate cu articolul 43 alineatul (4) din Regulamentul (UE) 2019/2.033",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264022",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264022",
+     "sha256": "b386af2118a158b984cfcee7a4c95303b0f5041a079db513ae6ef17306a0559e"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0306-1-2023",
+   "path": "ghid/asf/2023/03-06-1",
+   "short": "Ghid asf din 6 martie 2023",
+   "title": "Ghid din 6 martie 2023 privind cadrul de administrare a activității în temeiul Directivei (UE) 2019/2.034 (EBA/GL/2021/14)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266044",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266044",
+     "sha256": "f38b12884d7e2fa6f00ac7cbd17552687716fd571b64738a57c6d862bf74427d"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0306-2-2023",
+   "path": "ghid/asf/2023/03-06-2",
+   "short": "Ghid asf din 6 martie 2023",
+   "title": "Ghid din 6 martie 2023 privind politicile solide de remunerare în temeiul Directivei (UE) 2019/2.034 (EBA/GL/2021/13)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266284",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266284",
+     "sha256": "e337af8a1597ef143feb10cd5fe6c128520bc8ba10c71eb95894d5c82bd5ceed"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0609-1-2023",
+   "path": "ghid/asf/2023/06-09-1",
+   "short": "Ghid asf din 9 iunie 2023",
+   "title": "Ghid din 9 iunie 2023 privind exercițiul de colectare de date referitoare la persoanele cu venituri ridicate în temeiul Directivei 2013/36/UE și al Directivei (UE) 2019/2.034 (EBA/GL/2022/08)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271753",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271753",
+     "sha256": "aa2277371a5a289b3f0926562c6cba5038b9ec752d7b10eed6afe067fc909f31"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0609-2-2023",
+   "path": "ghid/asf/2023/06-09-2",
+   "short": "Ghid asf din 9 iunie 2023",
+   "title": "Ghid esma din 9 iunie 2023 privind procedurile și metodologiile comune referitoare la procesul de supraveghere și evaluare a contrapărților centrale (CPC) în temeiul articolului 21 din EMIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271788",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271788",
+     "sha256": "11cfc56f06bfdf6ed1b490696e032435ba36c89e83b49ef9501bb16e3839f46f"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0712-2023",
+   "path": "ghid/asf/2023/07-12",
+   "short": "Ghid asf din 12 iulie 2023",
+   "title": "Ghidul esma din 12 iulie 2023 privind formularele, formatele și modelele standard pentru solicitarea aprobării de gestionare a unei infrastructuri a pieței bazate pe DLT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272430",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272430",
+     "sha256": "d4b607d33f2b5ea55d7487ad33112a1b87f5b6e1aa3d88ea768cbeda5d539e45"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0925-2023",
+   "path": "ghid/asf/2023/09-25",
+   "short": "Ghid asf din 25 septembrie 2023",
+   "title": "Ghid din 25 septembrie 2023 privind cerințele de guvernanță a produselor MiFID II (ESMA35-43-3448)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275047",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275047",
+     "sha256": "a87dfbbda38b6ee09523ca020124027dd0fd9412c3f8abd4cf9199fe21c63c0c"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0929-1-2023",
+   "path": "ghid/asf/2023/09-29-1",
+   "short": "Ghid asf din 29 septembrie 2023",
+   "title": "Ghid esma din 29 septembrie 2023 privind indicatorii din planurile de redresare ale CPC-urilor [art. 9 alin. (5) din CCPRRR]",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275157",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275157",
+     "sha256": "85bdb9b8696b52a0963c9c5a1675f19f2a43136da0406154ef7dfbcf84963601"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0929-2-2023",
+   "path": "ghid/asf/2023/09-29-2",
+   "short": "Ghid asf din 29 septembrie 2023",
+   "title": "Ghid esma din 29 septembrie 2023 privind scenariile din planurile de redresare ale CPC-urilor [art. 9 alin. (12) din CCPRRR]",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275158",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275158",
+     "sha256": "282a145fc791a4ef3185dd8a4564d074170e0b2851846c62ac0e0b319dea1f8a"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1101-2023",
+   "path": "ghid/asf/2023/11-01",
+   "short": "Ghid asf din 1 noiembrie 2023",
+   "title": "Ghid din 1 noiembrie 2023 privind procedurile și metodologiile comune pentru procesul de supraveghere și evaluare (SREP) în temeiul Directivei (UE) 2019/2.034",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276574",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276574",
+     "sha256": "6c3092147f91af0c58f285efceb36952d98e997b66c390f0f313e797ec0c8e46"
+    }
+   ]
+  },
+  {
    "slug": "ghid-finante-zi0606-1-2023",
    "path": "ghid/finante/2023/06-06-1",
    "short": "Ghid finante din 6 iunie 2023",

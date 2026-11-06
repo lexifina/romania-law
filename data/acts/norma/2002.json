@@ -1084,6 +1084,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/35259",
 "issuer": "munca",
 "joint": []
+},
+{
+"slug": "norma-vama-zi0513-2002",
+"path": "norma/vama/2002/05-13",
+"kind": "norma",
+"year": "2002",
+"number": "05-13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme metodologice din 13 mai 2002 privind aplicarea sistemului de tranzit comun pe teritoriul României",
+"short": "Norma vama din 13 mai 2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-09-01",
+"latest": "2002-09-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/37992",
+"issuer": "vama",
+"joint": []
 }
 ]
 }

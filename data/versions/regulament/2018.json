@@ -333,6 +333,21 @@
    ]
   },
   {
+   "slug": "regulament-anrsc-zi0820-2018",
+   "path": "regulament/anrsc/2018/08-20",
+   "short": "Regulament anrsc din 20 august 2018",
+   "title": "Regulament din 20 august 2018 de constatare, notificare și sancționare a abaterilor de la reglementările emise în domeniul de activitate al Autorității Naționale de Reglementare pentru Serviciile Comunitare de Utilități Publice - A.N.R.S.C",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204316",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204316",
+     "sha256": "bd814068bd35cdd96ec23cdee22eb25f4cf7c4eab6e1cf6e26263a4b05cc5a4c"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-2-2018",
    "path": "regulament/bnr/2018/2",
    "short": "Regulament bnr nr. 2/2018",
@@ -344,6 +359,126 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199024",
      "sha256": "a8a1f68e00ad086f58c2ea5b158f1e1e5168d1c8e4d2ee68ed1b77bf143322e0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0402-1-2018",
+   "path": "regulament/concurenta/2018/04-02-1",
+   "short": "Regulament concurenta din 2 aprilie 2018",
+   "title": "Regulament din 2 aprilie 2018 privind constatarea contravențiilor și aplicarea sancțiunilor de către Consiliul Național de Supraveghere din Domeniul Feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201333",
+   "versions": [
+    {
+     "from": "2018-06-06",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201333",
+     "sha256": "a647f68db83ff6de412111d0bb07c9d16db81db6d749d230cca44827048db76b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0402-2-2018",
+   "path": "regulament/concurenta/2018/04-02-2",
+   "short": "Regulament concurenta din 2 aprilie 2018",
+   "title": "Regulament din 2 aprilie 2018 privind analiza și soluționarea plângerilor referitoare la încălcarea Legii nr. 202/2016 privind integrarea sistemului feroviar din România în spațiul feroviar unic european",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201335",
+   "versions": [
+    {
+     "from": "2018-06-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201335",
+     "sha256": "374b2db828f691952ab9eace5d75856e1e2794921339571c596187982130f848"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi0329-2018",
+   "path": "regulament/educatie/2018/03-29",
+   "short": "Regulament educatie din 29 martie 2018",
+   "title": "Regulament din 29 martie 2018 de organizare și funcționare a Bibliotecii Centrale Universitare \"Carol I\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200558",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200558",
+     "sha256": "32c03ecb4117e54d7e8c68adcf0da5934a7232c6421c9e940083887b836ae5ad"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi0521-2018",
+   "path": "regulament/educatie/2018/05-21",
+   "short": "Regulament educatie din 21 mai 2018",
+   "title": "Regulament din 21 mai 2018 de organizare, funcționare și operaționalizare a Registrului Matricol Unic al Universităților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201776",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201776",
+     "sha256": "0aa0ea909a96c4b29c2b04d02fc019ca366bcf4f2a723c24e7ba87a24a0c4ff6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1109-2018",
+   "path": "regulament/guvern/2018/11-09",
+   "short": "Regulament guvern din 9 noiembrie 2018",
+   "title": "Regulament din 9 noiembrie 2018 de organizare și funcționare și a structurii organizatorice ale Autorității Naționale pentru Formare Profesională Inițială în Sistem Dual din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206961",
+   "versions": [
+    {
+     "from": "2018-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206961",
+     "sha256": "b63de7f1e4a8ccb29e9d0aa18e56d6759d83424383ff9581de77d54946c3c5ad"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi0108-2018",
+   "path": "regulament/justitie/2018/01-08",
+   "short": "Regulament justitie din 8 ianuarie 2018",
+   "title": "Regulament din 8 ianuarie 2018 de organizare și funcționare a Administrației Naționale a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198013",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198013",
+     "sha256": "9ba76dc4e33cdc1ca3c6b80a7fb2e4ff48cf3693e537086890b25094ad7d579d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi1121-2018",
+   "path": "regulament/mediu/2018/11-21",
+   "short": "Regulament mediu din 21 noiembrie 2018",
+   "title": "Regulament din 21 noiembrie 2018 privind organizarea, funcționarea și componența Comisiei de atestare a operatorilor economici pentru activitatea de exploatare forestieră, precum și criteriile de atestare pentru activitatea de exploatare forestieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208080",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208080",
+     "sha256": "1c41ce0b1fd5c8365c274daa902cc1ccf0d4dfc1874295ec1691a6c7292b16f6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0524-2018",
+   "path": "regulament/sanatate/2018/05-24",
+   "short": "Regulament sanatate din 24 mai 2018",
+   "title": "Regulament din 24 mai 2018 de organizare și funcționare al Centrului Național Clinic de Recuperare Neuropsihomotorie Copii \"Dr. Nicolae Robănescu\" București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201308",
+   "versions": [
+    {
+     "from": "2018-06-05",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201308",
+     "sha256": "2c54ab27413ed2c9d76706692c193ac0e6fc2d90197412305ff54601f76e8d1c"
     }
    ]
   }

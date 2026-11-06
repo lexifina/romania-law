@@ -483,6 +483,21 @@
    ]
   },
   {
+   "slug": "regulament-camera-zi1107-2006",
+   "path": "regulament/camera/2006/11-07",
+   "short": "Regulament camera din 7 noiembrie 2006",
+   "title": "Regulament din 7 noiembrie 2006 de organizare și funcționare al serviciilor Camerei Deputaților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76748",
+   "versions": [
+    {
+     "from": "2006-11-14",
+     "units": 127,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76748",
+     "sha256": "54b652df39aded517f755249ab8d9760d0b12a51eb6e612049d6fa81c78d8125"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-1-2006",
    "path": "regulament/cnvm/2006/1",
    "short": "Regulament cnvm nr. 1/2006",
@@ -644,6 +659,381 @@
      "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70509",
      "sha256": "10a065fb813dcaa0b938059c34907577e0d6f66b9f279099834ceed3f1347b80"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0224-2006",
+   "path": "regulament/concurenta/2006/02-24",
+   "short": "Regulament concurenta din 24 februarie 2006",
+   "title": "Regulament din 24 februarie 2006 pentru modificarea și completarea Regulamentului privind transparența relațiilor financiare dintre autoritățile publice și întreprinderile publice, precum și transparența financiară în cadrul anumitor întreprinderi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69924",
+   "versions": [
+    {
+     "from": "2006-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69924",
+     "sha256": "76f4a17b2f818f6795bffa7fe8e3970e30b1a6139c27f5bd0d7586c6523f6338"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0508-2006",
+   "path": "regulament/concurenta/2006/05-08",
+   "short": "Regulament concurenta din 8 mai 2006",
+   "title": "Regulament din 8 mai 2006 pentru modificarea și completarea Regulamentului privind regimul exceptării pe categorii de înțelegeri, decizii luate de asociațiile de agenți economici și practici concertate, în domeniul transporturilor maritime, de la interdicția prevăzută la art. 5 alin. (1) din Legea concurenței nr. 21/1996 , cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71839",
+   "versions": [
+    {
+     "from": "2006-05-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71839",
+     "sha256": "beff91c068ca6f32fb6fb018ef3c34ced80d0985c7dd8f12ebc3c1551ac48c4b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0609-2006",
+   "path": "regulament/concurenta/2006/06-09",
+   "short": "Regulament concurenta din 9 iunie 2006",
+   "title": "Regulament din 9 iunie 2006 privind ajutorul de stat sub forma compensărilor acordate anumitor întreprinderi cărora le-a fost încredințată prestarea unor servicii de interes economic general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72899",
+   "versions": [
+    {
+     "from": "2006-06-26",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72899",
+     "sha256": "1126767657455933f0f0406f5665fcb14cfb05216b99abbcdf07f4b33ba5e67e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi1221-2006",
+   "path": "regulament/concurenta/2006/12-21",
+   "short": "Regulament concurenta din 21 decembrie 2006",
+   "title": "Regulament din 21 decembrie 2006 privind abrogarea unor regulamente și instrucțiuni adoptate de Consiliul Concurenței în domeniul ajutorului de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78175",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78175",
+     "sha256": "ee649358dd07369ff8105d90dbafaede4fb7391a3e99bfaf4fd846e59a0a4af1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-economie-zi0911-2006",
+   "path": "regulament/economie/2006/09-11",
+   "short": "Regulament economie din 11 septembrie 2006",
+   "title": "Regulament din 11 septembrie 2006 de organizare și funcționare al Comisiei de recunoaștere a organismelor care realizează evaluarea conformității mijloacelor de măsurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76211",
+   "versions": [
+    {
+     "from": "2006-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76211",
+     "sha256": "9c14e3e842c7cf2402e93c833117ec1cc3efb29ddae47519182ff2964d2dd2ed"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0105-2006",
+   "path": "regulament/guvern/2006/01-05",
+   "short": "Regulament guvern din 5 ianuarie 2006",
+   "title": "Regulament din 5 ianuarie 2006 de organizare și funcționare a Institutului Național de Cercetare Dezvoltare pentru Mecanică Fină - I.N.C.D.M.F. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67985",
+   "versions": [
+    {
+     "from": "2006-02-17",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67985",
+     "sha256": "e3f740132668567fff34681e96e2558267780df48b626addc7a9ba0c78a9472a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0322-2006",
+   "path": "regulament/guvern/2006/03-22",
+   "short": "Regulament guvern din 22 martie 2006",
+   "title": "Regulament din 22 martie 2006 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare în Construcții și Economia Construcțiilor - INCERC București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70608",
+   "versions": [
+    {
+     "from": "2006-04-10",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70608",
+     "sha256": "1c2f2a8b3f8e4f79dabf1a8b3276f1e3bc8881086512a0113ed308af7a68d445"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0405-1-2006",
+   "path": "regulament/guvern/2006/04-05-1",
+   "short": "Regulament guvern din 5 aprilie 2006",
+   "title": "Regulament-cadru din 5 aprilie 2006 de organizare și funcționare a oficiului prefectural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71065",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71065",
+     "sha256": "48eded1e39014b0b6b1cc8129104366608e33c5ac5d248c793918a93ca971876"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0405-2-2006",
+   "path": "regulament/guvern/2006/04-05-2",
+   "short": "Regulament guvern din 5 aprilie 2006",
+   "title": "Regulament-cadru din 5 aprilie 2006 de funcționare a colegiului prefectural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71066",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71066",
+     "sha256": "2c6c6d412ba1f3fe25b23c6f76aa5c955686154ca99900df39320b2c807395ac"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0412-2006",
+   "path": "regulament/guvern/2006/04-12",
+   "short": "Regulament guvern din 12 aprilie 2006",
+   "title": "Regulament din 12 aprilie 2006 de aplicare a Ordonanței de urgență a Guvernului nr. 139/2005 privind administrarea pădurilor din România, aprobată cu modificări și completări prin Legea nr. 38/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70986",
+   "versions": [
+    {
+     "from": "2006-04-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70986",
+     "sha256": "58c3ff1e21f5fdb9ddcee019d39b2610305bdb04a5942073f90f6820c180397e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0614-1-2006",
+   "path": "regulament/guvern/2006/06-14-1",
+   "short": "Regulament guvern din 14 iunie 2006",
+   "title": "Regulament din 14 iunie 2006 de organizare și funcționare al Consiliului Național de Soluționare a Contestațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72941",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72941",
+     "sha256": "6cc0d2acfc9d7574e3e009033991068885f62c61f620cd5337700eb25ef2a807"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0614-2-2006",
+   "path": "regulament/guvern/2006/06-14-2",
+   "short": "Regulament guvern din 14 iunie 2006",
+   "title": "Regulament din 14 iunie 2006 pentru verificarea îndeplinirii criteriilor de competență profesională și de performanță ale membrilor Consiliului Național de Soluționare a Contestațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72955",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72955",
+     "sha256": "0583513090f318d8e97c473fb6bed95181b10e5dc3f33ed5ea778fd0239d1f27"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0614-3-2006",
+   "path": "regulament/guvern/2006/06-14-3",
+   "short": "Regulament guvern din 14 iunie 2006",
+   "title": "Regulament din 14 iunie 2006 de organizare a concursului pentru numirea personalului tehnic-administrativ al Consiliului Național de Soluționare a Contestațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72956",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72956",
+     "sha256": "821ebfd64b8d6f634f34854d1e7439c93065122ba5c1eb13fbd26cad68b9634d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0719-2006",
+   "path": "regulament/guvern/2006/07-19",
+   "short": "Regulament guvern din 19 iulie 2006",
+   "title": "Regulament din 19 iulie 2006 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Îmbunătățiri Funciare - I.N.C.D.I.F. - \"ISPIF\" București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74299",
+   "versions": [
+    {
+     "from": "2006-08-15",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74299",
+     "sha256": "a8cc2e5ae7ab1c369547083776633cf0e97acdad66080c1345cdaf1e0b69d932"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0913-2006",
+   "path": "regulament/guvern/2006/09-13",
+   "short": "Regulament guvern din 13 septembrie 2006",
+   "title": "Regulament din 13 septembrie 2006 de organizare și funcționare al Institutului Național de Cercetare-Dezvoltare pentru Urbanism și Amenajarea Teritoriului - URBANPROIECT București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75659",
+   "versions": [
+    {
+     "from": "2006-10-06",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75659",
+     "sha256": "a185ecb7c4d5e476de457c2eb86bc7b7f5641c3adbfb84e4fb8d4e44ecf15f37"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1025-2006",
+   "path": "regulament/guvern/2006/10-25",
+   "short": "Regulament guvern din 25 octombrie 2006",
+   "title": "Regulament din 25 octombrie 2006 de organizare și funcționare a Agenției Naționale Anti-Doping",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76673",
+   "versions": [
+    {
+     "from": "2006-11-09",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76673",
+     "sha256": "0a91e581b046cb5e327d467cb1128cf6ff2e26c005af3229b6382ab8f817f249"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1101-1-2006",
+   "path": "regulament/guvern/2006/11-01-1",
+   "short": "Regulament guvern din 1 noiembrie 2006",
+   "title": "Regulament din 1 noiembrie 2006 de organizare și funcționare al Autorității de Siguranță Feroviară Română - ASFR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77013",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77013",
+     "sha256": "97f1e131f1204ef8c3fc2e1e021b13655225c41280bdf506a4c12f843384f536"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1101-2-2006",
+   "path": "regulament/guvern/2006/11-01-2",
+   "short": "Regulament guvern din 1 noiembrie 2006",
+   "title": "Regulament din 1 noiembrie 2006 de organizare și funcționare al Organismului Notificat Feroviar Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77014",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77014",
+     "sha256": "2ed175b152af22a555a490888d4bf440f9e6cb3cdf9fe79e9d310a552e4b611d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1101-3-2006",
+   "path": "regulament/guvern/2006/11-01-3",
+   "short": "Regulament guvern din 1 noiembrie 2006",
+   "title": "Regulament din 1 noiembrie 2006 de organizare și funcționare al Organismului de Investigare Feroviar Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77015",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77015",
+     "sha256": "f283a43e3abba2b5eb9394cb546e667df2c6f3eb43f018bc505eb46acbbb2d2a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1101-4-2006",
+   "path": "regulament/guvern/2006/11-01-4",
+   "short": "Regulament guvern din 1 noiembrie 2006",
+   "title": "Regulament din 1 noiembrie 2006 de organizare și funcționare al Organismului de Licențe Feroviare Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77016",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77016",
+     "sha256": "f4d2e161d998f913d0da95aa6e040407e0fa72617cbf0039d8a76ff0b8d936e2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0710-2006",
+   "path": "regulament/sanatate/2006/07-10",
+   "short": "Regulament sanatate din 10 iulie 2006",
+   "title": "Regulament din 10 iulie 2006 de organizare și funcționare al Școlii Naționale de Sănătate Publică și Management Sanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74125",
+   "versions": [
+    {
+     "from": "2006-08-08",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74125",
+     "sha256": "ba842771f78b7ab26b2a2540b5638cd129478ef4caae02be80b2c3c3b0fb4ebf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi1004-2006",
+   "path": "regulament/sanatate/2006/10-04",
+   "short": "Regulament sanatate din 4 octombrie 2006",
+   "title": "Regulament din 4 octombrie 2006 de organizare și funcționare al comisiei naționale de evaluare în sistemul de asigurări de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76881",
+   "versions": [
+    {
+     "from": "2006-11-14",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76881",
+     "sha256": "8079a8923f9233c87916578cc595fe30f4feda9b85c726fa9c53da5590975bf6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi1218-2006",
+   "path": "regulament/sanatate/2006/12-18",
+   "short": "Regulament sanatate din 18 decembrie 2006",
+   "title": "Regulament din 18 decembrie 2006 de organizare și funcționare a Comisiei de desemnare a organismelor care realizează evaluarea conformității dispozitivelor medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78278",
+   "versions": [
+    {
+     "from": "2007-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78278",
+     "sha256": "fe5442f7b06cb80e5b87e3fd0b4d83bcbd9ca055fbccd968018603422699c2ac"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi0613-1-2006",
+   "path": "regulament/transporturi/2006/06-13-1",
+   "short": "Regulament transporturi din 13 iunie 2006",
+   "title": "Regulament din 13 iunie 2006 de organizare și funcționare a comisiilor teritoriale medicale și psihologice de siguranță circulației și navigației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73392",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73392",
+     "sha256": "716557dbe62193852cf190dbf1b33ca7dd93fb21f6d873c1347c1ce989bbfc38"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi0613-2-2006",
+   "path": "regulament/transporturi/2006/06-13-2",
+   "short": "Regulament transporturi din 13 iunie 2006",
+   "title": "Regulament din 13 iunie 2006 de organizare și funcționare a Comisiei centrale medicale și psihologice de siguranță circulației și navigației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73393",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73393",
+     "sha256": "73a04d789b611dc028436f9a34ae6d668aaefa627165e81027afce4053fdb207"
     }
    ]
   }

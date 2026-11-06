@@ -183,6 +183,66 @@
    ]
   },
   {
+   "slug": "regulament-anre-zi0417-2013",
+   "path": "regulament/anre/2013/04-17",
+   "short": "Regulament anre din 17 aprilie 2013",
+   "title": "Regulament din 17 aprilie 2013 pentru atestarea operatorilor economici care proiectează, execută și verifică instalații electrice*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149433",
+   "versions": [
+    {
+     "from": "2013-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149433",
+     "sha256": "6c3cabc254aae788a742ac72bf53685647125c2e2cc1c9a8e8db85412d2195b9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi0612-1-2013",
+   "path": "regulament/anre/2013/06-12-1",
+   "short": "Regulament anre din 12 iunie 2013",
+   "title": "Regulament din 12 iunie 2013 pentru autorizarea auditorilor energetici*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150568",
+   "versions": [
+    {
+     "from": "2013-07-03",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150568",
+     "sha256": "0a67a25386d4ec2f189d17c6973184c14d5f7475a9c3a41c2b856d909c909f36"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi0612-2-2013",
+   "path": "regulament/anre/2013/06-12-2",
+   "short": "Regulament anre din 12 iunie 2013",
+   "title": "Regulament din 12 iunie 2013 pentru atestarea managerilor energetici și acreditarea societăților prestatoare de servicii energetice*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150569",
+   "versions": [
+    {
+     "from": "2013-07-03",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150569",
+     "sha256": "d11a85467dd76339bc0b78451a76c132e95e532726ee2d018834469b093fd0d7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi1218-2013",
+   "path": "regulament/anre/2013/12-18",
+   "short": "Regulament anre din 18 decembrie 2013",
+   "title": "Regulament din 18 decembrie 2013 de calificare a producției de energie electrică în cogenerare de înaltă eficiență și de verificare și monitorizare a consumului de combustibil și a producțiilor de energie electrică și energie termică utilă, în cogenerare de înaltă eficiență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154440",
+   "versions": [
+    {
+     "from": "2013-12-21",
+     "units": 89,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154440",
+     "sha256": "299e5eb7bd6f9747a023f462d8b8be3527b9bede7f5bfd6c6de49a7f714b4e32"
+    }
+   ]
+  },
+  {
    "slug": "regulament-aparare-1-2013",
    "path": "regulament/aparare/2013/1",
    "short": "Regulament aparare nr. 1/2013",
@@ -194,6 +254,21 @@
      "units": 64,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235580",
      "sha256": "d437ce27d855f0d4c2bda36eb49d63b021513a1b0878b79388e612e8a6e68250"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-aparare-zi0527-2013",
+   "path": "regulament/aparare/2013/05-27",
+   "short": "Regulament aparare din 27 mai 2013",
+   "title": "Regulament din 27 mai 2013 de organizare și desfășurare a activităților la bordul navelor și ambarcațiunilor din Forțele Navale *)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176702",
+   "versions": [
+    {
+     "from": "2013-07-11",
+     "units": 588,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176702",
+     "sha256": "10d612dcddc8a08866e2af1f2c3545411819dce4f5445d8abd6af7fce55959f8"
     }
    ]
   },
@@ -239,6 +314,396 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154195",
      "sha256": "b4e9d0eb7292dcc9d86a1a0b6ce4adaff6b7d65e5ab6273264845de54824b602"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-1-2013",
+   "path": "regulament/cnas/2013/03-21-1",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a comisiilor de experți ale Casei Naționale de Asigurări de Sănătate pentru implementarea Programului național de oncologie și pentru monitorizarea activă a terapiilor specifice oncologice (Anexa 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146666",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146666",
+     "sha256": "5d26c87fdf02d4e0d61dba5ed5c6dff1f77863af5bdbdb9f465ffd2a3dd1e329"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-10-2013",
+   "path": "regulament/cnas/2013/03-21-10",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru tratamentul tulburărilor de nutriție și metabolism (Anexa 10)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146675",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146675",
+     "sha256": "15cd04ce63d0cd1af3fda7dc46b30e0e06fdf1c74a84487c0c26124f2ca0df6c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-2-2013",
+   "path": "regulament/cnas/2013/03-21-2",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea Programului național de hemofilie, talasemie și alte boli rare tratamentul specific talasemiei și hemofiliei (Anexa 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146667",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146667",
+     "sha256": "5d5ec2047e45080e7860bba7b976d484e1df7a2dfbfa826dbb919f48c381708b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-3-2013",
+   "path": "regulament/cnas/2013/03-21-3",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a Comisiei de experți a Casei Naționale de Asigurări de Sănătate pentru implementarea Programului național de diagnostic și tratament pentru bolnavii cu boli rare - scleroză multiplă (Anexa 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146668",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146668",
+     "sha256": "22a6fd30d5ddd1bb5d94591f6d6adf90295dd4fda6cac1c2a27829fbe01c424a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-4-2013",
+   "path": "regulament/cnas/2013/03-21-4",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru tratamentul specific în psoriazisul cronic sever (Anexa 4)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146669",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146669",
+     "sha256": "be0b3d02ecdc2397ead7dd392cecd6077b85b4e6fcce468c6f26832c3fd8c2d5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-5-2013",
+   "path": "regulament/cnas/2013/03-21-5",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru tratamentul specific în boala Gaucher (Anexa 5)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146670",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146670",
+     "sha256": "32ba7bb8bdc4cec6f0140cd8cdb21ba85f2f4a6881140704987d126352728cd6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-6-2013",
+   "path": "regulament/cnas/2013/03-21-6",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru monitorizarea activă a terapiilor specifice oncologice în endocrinologie (Anexa 6)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146671",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146671",
+     "sha256": "b5925fd5f4af63fa4163db93f52f68555373828c60ecfdbe497d8c6efaeb3181"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-7-2013",
+   "path": "regulament/cnas/2013/03-21-7",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru tratamentul specific hepatitelor cronice și cirozei hepatice de etiologie virală, precum și pentru boala inflamatorie cronică intestinală (Anexa 7)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146672",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146672",
+     "sha256": "31145880b58d644fd0a3a5193024394149f331f44cfbcbf44e1c0aa11dcd993e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-8-2013",
+   "path": "regulament/cnas/2013/03-21-8",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru tratamentul infertilității de cauză hormonală (Anexa 8)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146673",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146673",
+     "sha256": "83f2718882e63443b55d250e158d26e3d6db2002f580ea2fac819c6953e86f0e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnas-zi0321-9-2013",
+   "path": "regulament/cnas/2013/03-21-9",
+   "short": "Regulament cnas din 21 martie 2013",
+   "title": "Regulament de organizare și funcționare din 21 martie 2013 a Comisiei de experți de la nivelul Casei Naționale de Asigurări de Sănătate pentru tratamentul cu imunosupresoare în poliartrita reumatoidă, artropatia psoriazică, spondilita anchilozantă și artrita juvenilă (Anexa 9)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146674",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146674",
+     "sha256": "4e10de90d442c3c1c255501d231774a525599e8040dc69209a08e978bd35e8ce"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0215-2013",
+   "path": "regulament/concurenta/2013/02-15",
+   "short": "Regulament concurenta din 15 februarie 2013",
+   "title": "Regulament din 15 februarie 2013 privind organizarea și funcționarea Consiliului de supraveghere din domeniul feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145882",
+   "versions": [
+    {
+     "from": "2013-03-04",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145882",
+     "sha256": "768c463ce844c243286b15e7801ab3d1cb7f86c2fff12422516db58cac242a8c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0529-1-2013",
+   "path": "regulament/guvern/2013/05-29-1",
+   "short": "Regulament guvern din 29 mai 2013",
+   "title": "Regulament din 29 mai 2013 de organizare și funcționare a Comitetului de supraveghere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148537",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/148537",
+     "sha256": "2cc6250316a4fd907b7bb38e1bbb5a91039eebdaba53f408231c7cfcd4ac4a38"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0529-2-2013",
+   "path": "regulament/guvern/2013/05-29-2",
+   "short": "Regulament guvern din 29 mai 2013",
+   "title": "Regulament din 29 mai 2013 de organizare și funcționare a Regiei Autonome Tehnologii pentru Energia Nucleară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149121",
+   "versions": [
+    {
+     "from": "2013-06-20",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149121",
+     "sha256": "5bf70358322f56e4f249ad891835fa8bb3c25c724d7f20bee5ebe1d44775b5a5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-infrastructura-zi1114-2013",
+   "path": "regulament/infrastructura/2013/11-14",
+   "short": "Regulament infrastructura din 14 noiembrie 2013",
+   "title": "Regulament din 14 noiembrie 2013 de organizare și funcționare privind procedurile de atribuire a contractelor de achiziție publică (Anexa nr. 1)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153466",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153466",
+     "sha256": "2acedf96191be76848bf1a7f73109ccc55d08f7ff9a67bcc316ca29483e36886"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0304-1-2013",
+   "path": "regulament/mediu/2013/03-04-1",
+   "short": "Regulament mediu din 4 martie 2013",
+   "title": "Regulamentul din 4 martie 2013 sitului de importanță comunitară ROSCI0003 Arboretele de castan comestibil de la Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146370",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146370",
+     "sha256": "0cc05a140b5ea6263e6839ddb73c77f626b3619536cbbef5ff0ad67db38ac2c1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0304-2-2013",
+   "path": "regulament/mediu/2013/03-04-2",
+   "short": "Regulament mediu din 4 martie 2013",
+   "title": "Regulamentul din 4 martie 2013 sitului de importanță comunitară ROSCI0061 Defileul Crișului Negru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146371",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 133,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146371",
+     "sha256": "27cdbf4bf662ff93c8bff2d787aa9291aec55384431b0ec4faa853644fbd8943"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0304-3-2013",
+   "path": "regulament/mediu/2013/03-04-3",
+   "short": "Regulament mediu din 4 martie 2013",
+   "title": "Regulamentul din 4 martie 2013 sitului de importanță comunitară ROSCI0145 Pădurea de la Alparea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146373",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146373",
+     "sha256": "a220de22fe9f398457ff623d4f7203bd0cf423ccd3f6fe0d1256608d3a9204a5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0304-4-2013",
+   "path": "regulament/mediu/2013/03-04-4",
+   "short": "Regulament mediu din 4 martie 2013",
+   "title": "Regulamentul din 4 martie 2013 sitului de importanță comunitară ROSCI0155 Pădurea Goroniște",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146374",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146374",
+     "sha256": "c33b5be62650c157966ab054971242326e936c029b631ca690f319183671dae2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0304-5-2013",
+   "path": "regulament/mediu/2013/03-04-5",
+   "short": "Regulament mediu din 4 martie 2013",
+   "title": "Regulamentul din 4 martie 2013 sitului de importanță comunitară ROSCI0193 Peștera Tăușoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146375",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146375",
+     "sha256": "1da57ec6cec6ba360ced4a5338d92c18c9ae8584f9dbf9c21d3a88a44ae836b5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0304-6-2013",
+   "path": "regulament/mediu/2013/03-04-6",
+   "short": "Regulament mediu din 4 martie 2013",
+   "title": "Regulamentul din 4 martie 2013 ariei naturale protejate de interes național B1. Rezervația de orbeți de la Apahida",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146376",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146376",
+     "sha256": "5e3e0506d0c98bb7d72af93e285f5db332897f81350905b74b360ac1bbd16ae3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi1010-2013",
+   "path": "regulament/mediu/2013/10-10",
+   "short": "Regulament mediu din 10 octombrie 2013",
+   "title": "Regulament din 10 octombrie 2013 de organizare și funcționare al Comitetului consultativ pentru sectorul pescăresc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152868",
+   "versions": [
+    {
+     "from": "2013-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152868",
+     "sha256": "4e170d3a8bd4fedffc7d4a06cdb467995af884832b6debe2869be17d5ae5af13"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0402-1-2013",
+   "path": "regulament/sanatate/2013/04-02-1",
+   "short": "Regulament sanatate din 2 aprilie 2013",
+   "title": "Regulament-cadru din 2 aprilie 2013 de organizare și funcționare al comisiei constituite în baza prevederilor art. 23 alin. (3) și (4) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013-2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală primară (Anexa nr. 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146721",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146721",
+     "sha256": "a118491eea0fe659eb6aeac24b9159485525f8468cb0a98ce580a29b6c12880e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0402-2-2013",
+   "path": "regulament/sanatate/2013/04-02-2",
+   "short": "Regulament sanatate din 2 aprilie 2013",
+   "title": "Regulament-cadru din 2 aprilie 2013 de organizare și funcționare al comisiei constituite în baza prevederilor art. 44 alin. (4) și (6) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013-2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală ambulatorie de specialitate pentru specialitățile clinice (Anexa nr. 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146722",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146722",
+     "sha256": "ff759ed1178c4e5fc1e7db5aa6b3d6872d9c952819d3b67ca9737e763d56922d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0402-3-2013",
+   "path": "regulament/sanatate/2013/04-02-3",
+   "short": "Regulament sanatate din 2 aprilie 2013",
+   "title": "Regulament-cadru din 2 aprilie 2013 de organizare și funcționare al comisiei constituite în baza prevederilor art. 44 alin. (4) și (6) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013-2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală ambulatorie de specialitate pentru medicina dentară (Anexa nr. 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146723",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146723",
+     "sha256": "fbd197cf95141ebfdd00b712905bf850762dd83b892d1a61206380953536de47"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0402-4-2013",
+   "path": "regulament/sanatate/2013/04-02-4",
+   "short": "Regulament sanatate din 2 aprilie 2013",
+   "title": "Regulament-cadru din 2 aprilie 2013 de organizare și funcționare al comisiei constituite în baza prevederilor art. 44 alin. (5) și (6) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013-2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală ambulatorie de specialitate pentru specialitățile paraclinice (Anexa nr. 4)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146724",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146724",
+     "sha256": "e4978a00378876785671670bb9be15096722f012c2ddb37bdf13fdb8e89162cd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0402-5-2013",
+   "path": "regulament/sanatate/2013/04-02-5",
+   "short": "Regulament sanatate din 2 aprilie 2013",
+   "title": "Regulament-cadru din 2 aprilie 2013 de organizare și funcționare al comisiei constituite în baza prevederilor art. 62 alin. (3) și (4) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2013-2014, aprobat prin Hotărârea Guvernului nr. 117/2013 , pentru asistența medicală spitalicească (Anexa nr. 5)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146725",
+   "versions": [
+    {
+     "from": "2013-04-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146725",
+     "sha256": "b11533f08d78a03ef29f604bdf9a56641dda2ac659aaf882ff9e4f1b897b6796"
     }
    ]
   }

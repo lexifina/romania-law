@@ -3,6 +3,66 @@
  "shard": "ghid/2024",
  "acts": [
   {
+   "slug": "ghid-asf-zi0419-2024",
+   "path": "ghid/asf/2024/04-19",
+   "short": "Ghid asf din 19 aprilie 2024",
+   "title": "Ghid esma din 19 aprilie 2024 privind raportarea în temeiul EMIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283043",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283043",
+     "sha256": "7e701026f04de09858608d24d0763b41685210efa042e8a6d535cc31ed70d085"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1115-2024",
+   "path": "ghid/asf/2024/11-15",
+   "short": "Ghid asf din 15 noiembrie 2024",
+   "title": "Ghidul autorității europene din 15 noiembrie 2024 pentru Valori Mobiliare și Piețe privind denumirile fondurilor care folosesc termeni MSG sau legați de durabilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291124",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291124",
+     "sha256": "9641b8c3ee9d69aa033037c1524d3636360b8dd7d08b0c7277e2f46d5196a118"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1127-1-2024",
+   "path": "ghid/asf/2024/11-27-1",
+   "short": "Ghid asf din 27 noiembrie 2024",
+   "title": "Ghid din 27 noiembrie 2024 cu privire la aplicarea testului capitalului la nivel de grup pentru grupurile de firme de investiții în conformitate cu art. 8 din Regulamentul (UE) 2019/2.033",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292109",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292109",
+     "sha256": "ba5f07776584f8671cad899f0ad71cfabed2d3dd907bdb9532aa5ab3060021fc"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1127-2-2024",
+   "path": "ghid/asf/2024/11-27-2",
+   "short": "Ghid asf din 27 noiembrie 2024",
+   "title": "Ghid din 27 noiembrie 2024 privind analiza comparativă a practicilor în materie de diversitate, inclusiv a politicilor privind diversitatea și a diferenței de remunerare între femei și bărbați, în temeiul Directivei 2013/36/UE și al Directivei (UE) 2019/2.034",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292330",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292330",
+     "sha256": "3dba0476d6a1363c4f33f920d2787e16ad2e7063c3669bb8a453763841d552e5"
+    }
+   ]
+  },
+  {
    "slug": "ghid-dizabilitati-zi0402-2024",
    "path": "ghid/dizabilitati/2024/04-02",
    "short": "Ghid dizabilitati din 2 aprilie 2024",

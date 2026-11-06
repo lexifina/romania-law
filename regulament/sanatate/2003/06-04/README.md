@@ -1,0 +1,18 @@
+# Regulament din 4 iunie 2003 de organizare și funcționare a Comisiei de desemnare a organismelor care realizează evaluarea conformității dispozitivelor medicale
+
+Regulament sanatate din 4 iunie 2003 · 1 versions, from 2003-06-11 (latest in force: 2003-06-11) · <https://legislatie.just.ro/Public/DetaliiDocument/91493>
+
+**Status:** Published as it appeared in the Monitorul Oficial, as a document of its own: approving act not identified (it will be linked to the act that approves it); later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `regulament-sanatate-zi0604-2003` (tags `regulament-sanatate-zi0604-2003/<day>`; `python tools/on.py <day> regulament-sanatate-zi0604-2003`).
+
+## Decisions made by hand
+
+- Regulament sanatate din 4 iunie 2003: added from the official web service of the Portalul legislativ (FreeWebService) as the regulation published in Monitorul Oficial nr. 408 of 11 June 2003 as a document of its own, with no number of its own (document 91493, retrieved 2026-11-02, held on disk; the service was not requested again). Whether later acts amended it has not yet been checked; amendments, if any, are not applied here.
+- Regulament sanatate din 4 iunie 2003: approving act not identified. The regulation was published without a number, as a document of its own; no act of the same Monitorul Oficial issue points to it or approves a document of its subject, so it is published on its own, its folder named by its day (the number it lacks), and will be linked to its approving act later.
+- Regulament sanatate din 4 iunie 2003: the first version is the regulation as published in Monitorul Oficial nr. 408 of 11 June 2003, in force from its publication in the Monitorul Oficial.
+- Regulament sanatate din 4 iunie 2003: its text is kept whole as one unit: its articles could not be split without losing words.

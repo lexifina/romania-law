@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "norma-csa-zi0203-2010",
+   "path": "norma/csa/2010/02-03",
+   "short": "Norma csa din 3 februarie 2010",
+   "title": "Norme din 3 februarie 2010 privind încheierea exercițiului financiar 2009 pentru societățile din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115967",
+   "versions": [
+    {
+     "from": "2010-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115967",
+     "sha256": "b3710fb741dfd3bf8fae8ca5dac4f73fc4132574423a13469fbf2dc86b340355"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-1-2010",
    "path": "norma/csspp/2010/1",
    "short": "Norma csspp nr. 1/2010",
@@ -359,6 +374,96 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119050",
      "sha256": "14a4c75ba80d91ad54381c636d14a7773ab9ecacfd2fd0017dd00e62351a034a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0401-1-2010",
+   "path": "norma/sanatate/2010/04-01-1",
+   "short": "Norma sanatate din 1 aprilie 2010",
+   "title": "Norme metodologice din 1 aprilie 2010 de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2010*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117757",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117757",
+     "sha256": "f88fe0fd653445ff1258049fa094827d2656c3069593053e58cb74521b42560e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0401-2-2010",
+   "path": "norma/sanatate/2010/04-01-2",
+   "short": "Norma sanatate din 1 aprilie 2010",
+   "title": "Norme tehnice din 1 aprilie 2010 de realizare a programelor naționale de sănătate în anul 2010*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117890",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117890",
+     "sha256": "684385d5d4d0a47316334534bf85cba37ec2c451753c0c18e6704a29e714efff"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0511-2010",
+   "path": "norma/sanatate/2010/05-11",
+   "short": "Norma sanatate din 11 mai 2010",
+   "title": "Normele de aplicare din 11 mai 2010 a prevederilor art. 51 alin. (3^1) din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118828",
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118828",
+     "sha256": "4bf90b23424f24df0857c09a91c20dc61dde996e2aca71592e23d8a05938de94"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1230-2010",
+   "path": "norma/sanatate/2010/12-30",
+   "short": "Norma sanatate din 30 decembrie 2010",
+   "title": "Norme tehnice din 30 decembrie 2010 de realizare a programelor naționale de sănătate pentru anii 2011 și 2012*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125656",
+   "versions": [
+    {
+     "from": "2011-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125656",
+     "sha256": "f51f2d5c404275bdc35941abd8a563b9fc93e104917fee8b7a337b45d49f1fb8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sport-zi0527-2010",
+   "path": "norma/sport/2010/05-27",
+   "short": "Norma sport din 27 mai 2010",
+   "title": "Norme procedurale din 27 mai 2010 privind achiziția publică de servicii hoteliere, campinguri și alte tipuri de cazare decât cea hotelieră și a serviciilor de restaurant și de servire a mâncării, pentru acțiuni organizate de Autoritatea Națională pentru Sport și Tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119158",
+   "versions": [
+    {
+     "from": "2010-06-01",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119158",
+     "sha256": "a794265c86920181eedbc08fa224c08dd65fc2d7e2b988002f083bf79c5f47c7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0119-2010",
+   "path": "norma/transporturi/2010/01-19",
+   "short": "Norma transporturi din 19 ianuarie 2010",
+   "title": "Normă tehnică feroviară din 19 ianuarie 2010 \"Vehicule de cale ferată destinate transportului de călători. Instalații de sonorizare. Cerințe tehnice generale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115796",
+   "versions": [
+    {
+     "from": "2010-03-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115796",
+     "sha256": "9bc9da3026064888fb36c761eaf394e9a574951b04ba0433bfacc7b9e3865895"
     }
    ]
   }

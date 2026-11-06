@@ -76,6 +76,96 @@
      "sha256": "204a20920e4ded7358434429f0d56bc387e754ce3748d9e0751c9fe60ae0e515"
     }
    ]
+  },
+  {
+   "slug": "regulament-camera-zi0224-1-1994",
+   "path": "regulament/camera/1994/02-24-1",
+   "short": "Regulament camera din 24 februarie 1994",
+   "title": "Regulamentul din 24 februarie 1994 Camerei Deputaților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225023",
+   "versions": [
+    {
+     "from": "2020-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225023",
+     "sha256": "d0f608b5d98ababb0d974a09f2b5fb4207861008aaf0866b1b237b4380f57af5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-camera-zi0224-2-1994",
+   "path": "regulament/camera/1994/02-24-2",
+   "short": "Regulament camera din 24 februarie 1994",
+   "title": "Regulamentul din 24 februarie 1994 Camerei Deputaților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239136",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239136",
+     "sha256": "f6585fff02b12d7fadc0155035a130717beed3008f6fb7146cf6a8bfe3f8e5fe"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-camera-zi0224-3-1994",
+   "path": "regulament/camera/1994/02-24-3",
+   "short": "Regulament camera din 24 februarie 1994",
+   "title": "Regulamentul din 24 februarie 1994 Camerei Deputaților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245294",
+   "versions": [
+    {
+     "from": "2021-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245294",
+     "sha256": "d667f9b590c003e6375afadb9898a3e1c4aa186981a6bef6ff60f07183bd189a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-camera-zi0224-4-1994",
+   "path": "regulament/camera/1994/02-24-4",
+   "short": "Regulament camera din 24 februarie 1994",
+   "title": "Regulamentul din 24 februarie 1994 Camerei Deputaților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273497",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273497",
+     "sha256": "a5ba5cee96f0c0c8ffe3ebcaddd6962d4b9f545179189bc92959b9730cb5d9fc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-camera-zi0224-5-1994",
+   "path": "regulament/camera/1994/02-24-5",
+   "short": "Regulament camera din 24 februarie 1994",
+   "title": "Regulamentul din 24 februarie 1994 Camerei Deputaților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278469",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278469",
+     "sha256": "36069b115bc9d3ab5755c51e14b12d52ea6efb9316294dd12454d0e0b08b06b0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-camera-zi0224-6-1994",
+   "path": "regulament/camera/1994/02-24-6",
+   "short": "Regulament camera din 24 februarie 1994",
+   "title": "Regulamentul din 24 februarie 1994 Camerei Deputaților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291398",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291398",
+     "sha256": "c0d83a2c6b70741da17624626e2aaafa9079cb681cefd20ec005f3a2da550e23"
+    }
+   ]
   }
  ]
 }

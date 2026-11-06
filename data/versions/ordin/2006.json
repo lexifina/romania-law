@@ -6753,6 +6753,21 @@
    ]
   },
   {
+   "slug": "ordin-camera-128-2006",
+   "path": "ordin/camera/2006/128",
+   "short": "Ordin camera nr. 128/2006",
+   "title": "Ordinul nr. 128/2006 privind revocarea și, respectiv, numirea Consiliului de administrație al Regiei Autonome \"Monitorul Oficial\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70475",
+   "versions": [
+    {
+     "from": "2006-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70475",
+     "sha256": "4f5fb1879b99bd1ba6cf010042a4dcb789348915948c79dae53b3f3c4601f2d5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnas-142-2006",
    "path": "ordin/cnas/2006/142",
    "short": "Ordin cnas nr. 142/2006",

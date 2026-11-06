@@ -243,6 +243,36 @@
    ]
   },
   {
+   "slug": "regulament-anre-zi0123-2019",
+   "path": "regulament/anre/2019/01-23",
+   "short": "Regulament anre din 23 ianuarie 2019",
+   "title": "Regulament din 23 ianuarie 2019 de constatare, notificare și sancționare a abaterilor de la reglementările emise în domeniul energiei aplicabil activității de investigații desfășurate de Autoritatea Națională de Reglementare în Domeniul Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210595",
+   "versions": [
+    {
+     "from": "2019-02-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210595",
+     "sha256": "4281b269b6af9d7c6cf3cec4a8ad4629691102301d8349ad7a367893a6ce18b4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi0828-2019",
+   "path": "regulament/anre/2019/08-28",
+   "short": "Regulament anre din 28 august 2019",
+   "title": "Regulament din 28 august 2019 privind cadrul organizat de tranzacționare a produselor standardizate pe piețele centralizate de gaze naturale administrate de Societatea Humintrade - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217650",
+   "versions": [
+    {
+     "from": "2019-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217650",
+     "sha256": "4e9d7cda960dc1e34b343378158bab79f1f6c747f31f923f019aadc6bb41d078"
+    }
+   ]
+  },
+  {
    "slug": "regulament-asf-5-2019",
    "path": "regulament/asf/2019/5",
    "short": "Regulament asf nr. 5/2019",
@@ -269,6 +299,126 @@
      "units": 31,
      "source_url": "https://www.bnr.ro/20211-regulament-2-2019",
      "sha256": "44110451bb41d0394602fb1ac4a6c18e491e19960b44afdff94b4a172b0517a8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0416-1-2019",
+   "path": "regulament/concurenta/2019/04-16-1",
+   "short": "Regulament concurenta din 16 aprilie 2019",
+   "title": "Regulament din 16 aprilie 2019 pentru completarea art. 1 din Regulamentul de procedură al Consiliului Concurenței, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 377/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213804",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213804",
+     "sha256": "c346730a1034aae78e9727fb368d877ab28f304cd458e6444d11fab2f51c70b4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0416-2-2019",
+   "path": "regulament/concurenta/2019/04-16-2",
+   "short": "Regulament concurenta din 16 aprilie 2019",
+   "title": "Regulament din 16 aprilie 2019 privind constatarea contravențiilor și aplicarea sancțiunilor de către Consiliul Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213852",
+   "versions": [
+    {
+     "from": "2019-05-13",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213852",
+     "sha256": "edcb51f123feda13464dea8ab15cb6c42a74d163ffba3493ad5a602c0a6292a9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi1129-2019",
+   "path": "regulament/concurenta/2019/11-29",
+   "short": "Regulament concurenta din 29 noiembrie 2019",
+   "title": "Regulament din 29 noiembrie 2019 de organizare și funcționare a Consiliului Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220668",
+   "versions": [
+    {
+     "from": "2019-12-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220668",
+     "sha256": "4c2136f66e1be35a9bf9487dfbebf648c63451bdece3cfde42360a595a6c9138"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0917-2019",
+   "path": "regulament/guvern/2019/09-17",
+   "short": "Regulament guvern din 17 septembrie 2019",
+   "title": "Regulament din 17 septembrie 2019 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Biotehnologii în Horticultură Ștefănești",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218589",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218589",
+     "sha256": "bbf17aaa66133e73de9aa51861b47987509a8c76100d9b140814ae3f7ba04345"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-penitenciare-zi0805-2019",
+   "path": "regulament/penitenciare/2019/08-05",
+   "short": "Regulament penitenciare din 5 august 2019",
+   "title": "Regulament din 5 august 2019 privind organizarea și executarea controalelor în Administrația Națională a Penitenciarelor și în unitățile subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217179",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217179",
+     "sha256": "1d27139a8d9dab0faf283da04447d7bc4c587c65afb4e3ec726eeacea42faf07"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-penitenciare-zi1105-1-2019",
+   "path": "regulament/penitenciare/2019/11-05-1",
+   "short": "Regulament penitenciare din 5 noiembrie 2019",
+   "title": "Regulament din 5 noiembrie 2019 Componența și Regulamentul de desfășurare a lucrărilor Consiliului de conducere al Administrației Naționale a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219880",
+   "versions": [
+    {
+     "from": "2019-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219880",
+     "sha256": "7eb254bfc95f7fb234606c227f05460d13fa901b6f2421905cf4dea7452700bf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-penitenciare-zi1105-2-2019",
+   "path": "regulament/penitenciare/2019/11-05-2",
+   "short": "Regulament penitenciare din 5 noiembrie 2019",
+   "title": "Regulament din 5 noiembrie 2019 Componența și Regulamentul de desfășurare a lucrărilor Consiliului de conducere al unităților subordonate Administrației Naționale a Penitenciarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219881",
+   "versions": [
+    {
+     "from": "2019-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219881",
+     "sha256": "8c3a9012a0b067d07f41c72de643e92af5216c66fb80bc07f8421900efce4511"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sport-zi0312-2019",
+   "path": "regulament/sport/2019/03-12",
+   "short": "Regulament sport din 12 martie 2019",
+   "title": "Regulament de tabără din 12 martie 2019 privind desfășurarea taberelor pentru copii și tineri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211985",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 99,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211985",
+     "sha256": "0460d62456dc700103f166e21c351b2bd682545222c1ce51a9016865b55d6ef1"
     }
    ]
   }

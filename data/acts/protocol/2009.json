@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "protocol/2009",
+"acts": [
+{
+"slug": "protocol-orda-zi0413-2009",
+"path": "protocol/orda/2009/04-13",
+"kind": "protocol",
+"year": "2009",
+"number": "04-13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 13 aprilie 2009 privind desemnarea colectorului unic al remunerației cuvenite titularilor de drepturi de autor și titularilor de drepturi conexe pentru retransmiterea prin cablu, repartizarea remunerațiilor colectate către organismele de gestiune colectivă beneficiare și modalitatea de evidențiere și justificare a cheltuielilor privind acoperirea reală a costurilor de colectare ale organismului de gestiune colectivă colector unic",
+"short": "Protocol orda din 13 aprilie 2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-05-25",
+"latest": "2009-05-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/106153",
+"issuer": "orda",
+"joint": []
+},
+{
+"slug": "protocol-orda-zi0527-2009",
+"path": "protocol/orda/2009/05-27",
+"kind": "protocol",
+"year": "2009",
+"number": "05-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 27 mai 2009 privind desemnarea colectorului unic al remunerației compensatorii pentru copia privată pentru operele reproduse după înregistrări sonore sau audiovizuale cuvenite titularilor de drepturi de autor și titularilor de drepturi conexe, repartizarea remunerațiilor colectate către organismele de gestiune colectivă beneficiare și modalitatea de evidențiere și justificare a cheltuielilor privind acoperirea reală a costurilor de colectare ale organismului de gestiune colectivă colector unic",
+"short": "Protocol orda din 27 mai 2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-06-24",
+"latest": "2009-06-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/108066",
+"issuer": "orda",
+"joint": []
+},
+{
+"slug": "protocol-orda-zi1207-2009",
+"path": "protocol/orda/2009/12-07",
+"kind": "protocol",
+"year": "2009",
+"number": "12-07",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 7 decembrie 2009 referitor la Metodologia privind remunerațiile reprezentând drepturi patrimoniale de autor pentru reproducerile pe videograme ale operelor muzicale utilizate în cadrul operelor audiovizuale, altele decât videoclipurile muzicale, concertele și înregistrările audiovizuale conținând biografii ale unor artiști interpreți sau trupe de muzică",
+"short": "Protocol orda din 7 decembrie 2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-01-01",
+"latest": "2010-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/114858",
+"issuer": "orda",
+"joint": []
+}
+]
+}

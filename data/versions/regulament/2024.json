@@ -393,6 +393,21 @@
    ]
   },
   {
+   "slug": "regulament-anre-zi0320-2024",
+   "path": "regulament/anre/2024/03-20",
+   "short": "Regulament anre din 20 martie 2024",
+   "title": "Regulament din 20 martie 2024 privind repartizarea consumurilor de energie termică între consumatorii din imobilele de tip condominiu, în cazul folosirii sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280507",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280507",
+     "sha256": "603c1f4cf1b319d172cd11bb227fbdbf78bf119fdfd4df255a89b5096782ae0f"
+    }
+   ]
+  },
+  {
    "slug": "regulament-asf-7-2024",
    "path": "regulament/asf/2024/7",
    "short": "Regulament asf nr. 7/2024",
@@ -434,6 +449,111 @@
      "units": 5,
      "source_url": "https://www.bnr.ro/23246-regulament-8-2024",
      "sha256": "ecb971e618adfdaa55e35b195b8aaa42366fec07fdc4ee090fadb212d0ca318c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0618-2024",
+   "path": "regulament/concurenta/2024/06-18",
+   "short": "Regulament concurenta din 18 iunie 2024",
+   "title": "Regulament din 18 iunie 2024 pentru modificarea și completarea Regulamentului privind Registrul ajutoarelor de stat, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 437/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285330",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285330",
+     "sha256": "461ab5e6d63c0728d79803ea7d9de6a43368793e9de7e2b8e421db37e03575e3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0730-2024",
+   "path": "regulament/concurenta/2024/07-30",
+   "short": "Regulament concurenta din 30 iulie 2024",
+   "title": "Regulament din 30 iulie 2024 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Concurenței, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 1.511/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287459",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287459",
+     "sha256": "305f77f47ec281f4bfa5cb9971e1d7a60893b067f0b63f733c809070db915593"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0827-2024",
+   "path": "regulament/concurenta/2024/08-27",
+   "short": "Regulament concurenta din 27 august 2024",
+   "title": "Regulament din 27 august 2024 privind modificarea și completarea Regulamentului pentru aprobarea cheltuielilor necesare desfășurării activităților Comisiei pentru examinarea investițiilor străine directe prevăzute la art. 24 alin. (9) și (10) din Legea concurenței nr. 21/1996 , pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 1.476/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287815",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287815",
+     "sha256": "0a29defaa2234fc80893d11629559709198e6044f340607c77b61a925e55e52c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0621-2024",
+   "path": "regulament/guvern/2024/06-21",
+   "short": "Regulament guvern din 21 iunie 2024",
+   "title": "Regulament din 21 iunie 2024 privind desfășurarea concursului de recrutare pentru ocuparea funcțiilor publice cu statut special din cadrul Autorității Vamale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284583",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284583",
+     "sha256": "3ca1476ebeb672b8afff686a611141494408fc64c0f55ed97236e987cd7c153f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1218-2024",
+   "path": "regulament/guvern/2024/12-18",
+   "short": "Regulament guvern din 18 decembrie 2024",
+   "title": "Regulament din 18 decembrie 2024 de organizare și funcționare a Institutului Național de Expertiză Medicală și Recuperare a Capacității de Muncă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292998",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292998",
+     "sha256": "6baa39d801a7c35d2f6f837b24281a4ed5bf310547c4be79d7234709f99d8daf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi0621-2024",
+   "path": "regulament/justitie/2024/06-21",
+   "short": "Regulament justitie din 21 iunie 2024",
+   "title": "Regulament din 21 iunie 2024 privind organizarea și funcționarea Spitalului \"Prof. dr. Constantin Angelescu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287902",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 275,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287902",
+     "sha256": "0d670ccb025c30a5f5b5a339cfda27333b564e9c2faef64c7bcc3c1d79c20905"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0620-2024",
+   "path": "regulament/sanatate/2024/06-20",
+   "short": "Regulament sanatate din 20 iunie 2024",
+   "title": "Regulament din 20 iunie 2024 privind gestionarea situațiilor de urgență generate de epidemii și a riscurilor asociate acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285237",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285237",
+     "sha256": "4d1b600befd3d6c87581c7edbef361f681d8c1da10cc1470d55f00236fe6fe52"
     }
    ]
   }

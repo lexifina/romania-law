@@ -1,0 +1,396 @@
+{
+ "country": "RO",
+ "shard": "procedura/2016",
+ "acts": [
+  {
+   "slug": "procedura-agricultura-zi0411-2016",
+   "path": "procedura/agricultura/2016/04-11",
+   "short": "Procedura agricultura din 11 aprilie 2016",
+   "title": "Procedură din 11 aprilie 2016 privind autorizarea distilatorilor care desfășoară activități de distilare voluntară a subproduselor vinicole pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177540",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177540",
+     "sha256": "61faf0b7cb78e3c184f0cac11ec5a2a794977bb00dbb5e27d1e85c1136cadf23"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-agricultura-zi0721-1-2016",
+   "path": "procedura/agricultura/2016/07-21-1",
+   "short": "Procedura agricultura din 21 iulie 2016",
+   "title": "Procedură din 21 iulie 2016 de verificare a documentației pentru înregistrarea unei indicații geografice și dobândirea protecției băuturilor spirtoase (Anexa 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180460",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180460",
+     "sha256": "f6a2291cfccc9d4f540145608be64712e2c0f78dcf5271a7de13795205a43415"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-agricultura-zi0721-2-2016",
+   "path": "procedura/agricultura/2016/07-21-2",
+   "short": "Procedura agricultura din 21 iulie 2016",
+   "title": "Procedură din 21 iulie 2016 de declarare a opoziției la nivel național (Anexa 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180461",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180461",
+     "sha256": "f42d15bcb754674237cad9985283f1acec4080a04bd89b1eaa34195442e6ddc0"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-agricultura-zi0721-3-2016",
+   "path": "procedura/agricultura/2016/07-21-3",
+   "short": "Procedura agricultura din 21 iulie 2016",
+   "title": "Procedură din 21 iulie 2016 de transmitere la nivelul Comisiei Europene a cererii de înregistrare a indicației geografice a băuturilor spirtoase, în vederea dobândirii protecției la nivelul Uniunii Europene (Anexa 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180462",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180462",
+     "sha256": "4ca1efac5af507b4af1388d436b4f429c9acd381b960f2f56a7c92a3a5a2d386"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0120-2016",
+   "path": "procedura/anaf/2016/01-20",
+   "short": "Procedura anaf din 20 ianuarie 2016",
+   "title": "Procedură din 20 ianuarie 2016 privind stabilirea sumei reprezentând timbrul de mediu pentru autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175447",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175447",
+     "sha256": "d8bc54cc4a64693d07080b8e5335850a50be17cf730703fec9c682ee19e7804f"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0506-1-2016",
+   "path": "procedura/anaf/2016/05-06-1",
+   "short": "Procedura anaf din 6 mai 2016",
+   "title": "Procedură din 6 mai 2016 de înregistrare, la cerere, în Registrul persoanelor impozabile care aplică sistemul TVA la încasare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178786",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178786",
+     "sha256": "6a52159ada51e7bc7d5d62e3e0d85f218a6f70b3b7afd161c94467b12bac40a8"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0506-2-2016",
+   "path": "procedura/anaf/2016/05-06-2",
+   "short": "Procedura anaf din 6 mai 2016",
+   "title": "Procedură din 6 mai 2016 de radiere, la cerere sau din oficiu, din Registrul persoanelor impozabile care aplică sistemul TVA la încasare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178787",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178787",
+     "sha256": "42dfd6964e07b39fd801dd1ebfbfe673bc3d48f79bd585b3bc0e732eee61b847"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0617-2016",
+   "path": "procedura/anaf/2016/06-17",
+   "short": "Procedura anaf din 17 iunie 2016",
+   "title": "Procedură din 17 iunie 2016 de înregistrare a activității de distribuție și comercializare angro de băuturi alcoolice și/sau tutun prelucrat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179448",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179448",
+     "sha256": "ea0b6f5a891399b12419273f18677a9521f5a82914dedc27c2597b178c2ec69f"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0705-2016",
+   "path": "procedura/anaf/2016/07-05",
+   "short": "Procedura anaf din 5 iulie 2016",
+   "title": "Procedură din 5 iulie 2016 de înregistrare, la cerere, în scopuri de taxă pe valoarea adăugată potrivit prevederilor art. 316 alin. (12) din Legea nr. 227/2015 privind Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180623",
+   "versions": [
+    {
+     "from": "2016-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180623",
+     "sha256": "1cb9fe021acd5903947216eee6471b14b3fd2640a7383a45e3b164d1f133e78d"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0920-2016",
+   "path": "procedura/anaf/2016/09-20",
+   "short": "Procedura anaf din 20 septembrie 2016",
+   "title": "Procedură din 20 septembrie 2016 de declarare și stabilire a contribuției de asigurări sociale de sănătate datorate de persoanele fizice care nu realizează venituri sau alte categorii de persoane prevăzute la art. 180 din Codul fiscal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182935",
+   "versions": [
+    {
+     "from": "2016-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182935",
+     "sha256": "97118ac4a8e28bc7f0519b1556d63153ac72c26dd266e76c6fff37edb9547411"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0929-2016",
+   "path": "procedura/anaf/2016/09-29",
+   "short": "Procedura anaf din 29 septembrie 2016",
+   "title": "Procedură din 29 septembrie 2016 de soluționare a cererilor de rambursare a taxei pe valoarea adăugată formulate de către persoanele impozabile nestabilite în România, stabilite în alt stat membru al Uniunii Europene (Anexa 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183183",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183183",
+     "sha256": "5224854acf3387b12e8ba90aa5583d24f429d573a03eabc0f88c3cf7dad6b8ff"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-dezvoltare-zi1124-2016",
+   "path": "procedura/dezvoltare/2016/11-24",
+   "short": "Procedura dezvoltare din 24 noiembrie 2016",
+   "title": "Procedură din 24 noiembrie 2016 de comunicare a actelor administrative fiscale, a actelor de executare și a altor acte emise de organul fiscal local prin mijloace electronice de transmitere la distanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184247",
+   "versions": [
+    {
+     "from": "2016-12-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184247",
+     "sha256": "b3321bf90f9d325988cabe20bafe4a73560d7e15d4c276b6fb96e198d59d0e78"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi0630-1-2016",
+   "path": "procedura/economie/2016/06-30-1",
+   "short": "Procedura economie din 30 iunie 2016",
+   "title": "Procedură din 30 iunie 2016 de implementare a schemei de ajutor de minimis prevăzută în cadrul Programului național multianual de microindustrializare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185829",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185829",
+     "sha256": "ce0876ec7e5aff4aa80cf2cd32fb0442e7ab8f6eaaf539fbd7b72bb0c54752a0"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi0630-2-2016",
+   "path": "procedura/economie/2016/06-30-2",
+   "short": "Procedura economie din 30 iunie 2016",
+   "title": "Procedură din 30 iunie 2016 de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului național multianual pentru dezvoltarea antreprenoriatului în rândul femeilor din sectorul întreprinderilor mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186762",
+   "versions": [
+    {
+     "from": "2016-07-06",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186762",
+     "sha256": "6d29288ec6baa46cc3bdf676cc0ad909a0b81f89293ad01df1fb96120a873b24"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi0630-3-2016",
+   "path": "procedura/economie/2016/06-30-3",
+   "short": "Procedura economie din 30 iunie 2016",
+   "title": "Procedură din 30 iunie 2016 de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului național multianual pentru înființarea și dezvoltarea întreprinderilor mici și mijlocii în mediul rural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186763",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186763",
+     "sha256": "5307dfbbe21267dcc2318e603080fc38486cdc73059d14c0160ae2335f8d9f22"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi0630-4-2016",
+   "path": "procedura/economie/2016/06-30-4",
+   "short": "Procedura economie din 30 iunie 2016",
+   "title": "Procedură din 30 iunie 2016 de implementare a schemei de ajutor de minimis prevăzută în cadrul Programului de dezvoltare a activităților de comercializare a produselor și serviciilor de piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186765",
+   "versions": [
+    {
+     "from": "2016-07-06",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186765",
+     "sha256": "2593988384dc06eeceb286203a403a30f1566655f72a7516b78e7ed065cd0183"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi0726-2016",
+   "path": "procedura/economie/2016/07-26",
+   "short": "Procedura economie din 26 iulie 2016",
+   "title": "Procedură din 26 iulie 2016 de implementare a schemei de ajutor de minimis prevăzute în cadrul Programului pentru stimularea înființării și dezvoltării microîntreprinderilor de către întreprinzătorii debutanți în afaceri - PO.IP-06 - Revizia 0",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181785",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181785",
+     "sha256": "11c6c1596ffcebc0101245936840daf509b7593dc4ab8b8b57aaf7f94933c09d"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0413-1-2016",
+   "path": "procedura/finante/2016/04-13-1",
+   "short": "Procedura finante din 13 aprilie 2016",
+   "title": "Procedură din 13 aprilie 2016 pentru modulul \"Semnarea electronică a rapoartelor și accesul entităților publice la funcționalitățile sistemului național de raportare - Forexebug\" (Anexa 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177784",
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177784",
+     "sha256": "f95ea9ea4e2ecdf9700d995a7d7ce9fd1f2d822be30cf33079861fc8def87de1"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0413-2-2016",
+   "path": "procedura/finante/2016/04-13-2",
+   "short": "Procedura finante din 13 aprilie 2016",
+   "title": "Procedură din 13 aprilie 2016 privind modulul \"Completarea și depunerea bugetului individual al instituțiilor publice\" (Anexa 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177785",
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177785",
+     "sha256": "e63250a05b0cd163e17b480e70e147cc76b4f866237bd926660563f6d881a289"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0413-3-2016",
+   "path": "procedura/finante/2016/04-13-3",
+   "short": "Procedura finante din 13 aprilie 2016",
+   "title": "Procedură din 13 aprilie 2016 privind modulul \"Înregistrarea angajamentelor legale și angajamentelor bugetare în sistemul de control al angajamentelor\" (Anexa 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177786",
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177786",
+     "sha256": "8c800b7609be74517916b85bab98f6f3fee97c26a71d8a998b8a7f36fda1d148"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0413-4-2016",
+   "path": "procedura/finante/2016/04-13-4",
+   "short": "Procedura finante din 13 aprilie 2016",
+   "title": "Procedură din 13 aprilie 2016 pentru modulul „Semnarea electronică a rapoartelor și accesul entităților publice la funcționalitățile sistemului național de raportare - Forexebug” (Anexa 1)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196527",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196527",
+     "sha256": "62a4b44a1c4a923c3b759d3efc7da8106870fa01cb1ba46eee7b611e262af940"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0413-5-2016",
+   "path": "procedura/finante/2016/04-13-5",
+   "short": "Procedura finante din 13 aprilie 2016",
+   "title": "Procedură din 13 aprilie 2016 privind modulul „Completarea și depunerea bugetului individual al instituțiilor publice” (Anexa 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196528",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196528",
+     "sha256": "09a55f0c942891bc859564f22ff9b9d7317a5474bce697360b34237258ab8e44"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0413-6-2016",
+   "path": "procedura/finante/2016/04-13-6",
+   "short": "Procedura finante din 13 aprilie 2016",
+   "title": "Procedură din 13 aprilie 2016 privind modulul „Înregistrarea angajamentelor legale și angajamentelor bugetare în sistemul de control al angajamentelor” (Anexa 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196529",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196529",
+     "sha256": "740fde82bad7e3960ee06f4b18cbc0877c34ae4f253f0f32e0513efc62d7307a"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi1116-2016",
+   "path": "procedura/guvern/2016/11-16",
+   "short": "Procedura guvern din 16 noiembrie 2016",
+   "title": "Procedură din 16 noiembrie 2016 de acordare de la bugetul de stat a costurilor serviciilor silvice pentru fondul forestier proprietate privată a persoanelor juridice și fizice care nu desfășoară activități economice, dacă suprafața proprietății forestiere este mai mică sau egală cu 30 ha (Anexa nr. 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183906",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183906",
+     "sha256": "293a22be7f93fb3568ea01ab07f036e232e3215b7e169a44ff32550689a79b8c"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi0407-2016",
+   "path": "procedura/mediu/2016/04-07",
+   "short": "Procedura mediu din 7 aprilie 2016",
+   "title": "Procedură din 7 aprilie 2016 de restituire a sumelor prevăzute la art. 7, 9 și 12 din Ordonanța de urgență a Guvernului nr. 9/2013 privind timbrul de mediu pentru autovehicule, precum și a sumelor stabilite de instanțele de judecată prin hotărâri definitive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177453",
+   "versions": [
+    {
+     "from": "2016-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177453",
+     "sha256": "0d61f8c9106e6cc688b32f7246c9fce8a71780678ed18d5e5c8218e94d31a7de"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi0518-2016",
+   "path": "procedura/mediu/2016/05-18",
+   "short": "Procedura mediu din 18 mai 2016",
+   "title": "Procedură de autorizare din 18 mai 2016 pentru preluarea responsabilității gestionării deșeurilor de ambalaje*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178883",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178883",
+     "sha256": "b5f6de0988930c9f60bebe8de758a52b234d6b42fef3a98bb1e3172695efed4e"
+    }
+   ]
+  }
+ ]
+}

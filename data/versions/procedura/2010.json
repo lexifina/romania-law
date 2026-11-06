@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "procedura/2010",
+ "acts": [
+  {
+   "slug": "procedura-anaf-zi0104-1-2010",
+   "path": "procedura/anaf/2010/01-04-1",
+   "short": "Procedura anaf din 4 ianuarie 2010",
+   "title": "Procedură din 4 ianuarie 2010 de soluționare a cererilor de rambursare a taxei pe valoarea adăugată formulate de către persoanele impozabile nestabilite în România, stabilite în alt stat membru al Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115348",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115348",
+     "sha256": "d62b804bef842ed5126cca1b91ba923af08e688ddb6d6176fc43bbc163471889"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0104-2-2010",
+   "path": "procedura/anaf/2010/01-04-2",
+   "short": "Procedura anaf din 4 ianuarie 2010",
+   "title": "Procedură din 4 ianuarie 2010 de soluționare a cererilor de rambursare a taxei pe valoarea adăugată formulate de către persoane impozabile neînregistrate în scopuri de TVA în România, stabilite în afara Comunității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115350",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115350",
+     "sha256": "aa4462435e5dbfe0c1c20b8bfb7146c1bc5e1a9d6a8ebacda1af09c1047780ed"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0104-3-2010",
+   "path": "procedura/anaf/2010/01-04-3",
+   "short": "Procedura anaf din 4 ianuarie 2010",
+   "title": "Procedură din 4 ianuarie 2010 pentru aprobarea perioadei fiscale semestriale/anuale pentru persoanele impozabile înregistrate în scopuri de TVA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115354",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115354",
+     "sha256": "2ad340c575cb9d1237a623c104f611103a1ef46318fae461e1c47083a066c40d"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0630-2010",
+   "path": "procedura/anaf/2010/06-30",
+   "short": "Procedura anaf din 30 iunie 2010",
+   "title": "Procedură din 30 iunie 2010 de solicitare și eliberare a certificatului pentru spațiul cu destinație de sediu social și de înregistrare a documentului care atestă dreptul de folosință asupra spațiului cu destinația de sediu social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120001",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120001",
+     "sha256": "492686df6ec677c69f109c9ff0dea388bbe2e3f03edb5b3fe1d0c044d963f94b"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-ansvsa-zi0428-2010",
+   "path": "procedura/ansvsa/2010/04-28",
+   "short": "Procedura ansvsa din 28 aprilie 2010",
+   "title": "Procedură de aprobare din 28 aprilie 2010 a mijloacelor oficiale de identificare a bovinelor, suinelor, ovinelor și caprinelor pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118371",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118371",
+     "sha256": "72e6c769422f217a10a29169d7f966b5f81aa93f5f29ebfc36571393394682f3"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi0305-2010",
+   "path": "procedura/economie/2010/03-05",
+   "short": "Procedura economie din 5 martie 2010",
+   "title": "Procedură de avizare din 5 martie 2010 pentru conformitatea statutului asociațiilor sau uniunilor județene/naționale de societăți cooperative cu prevederile Legii nr. 1/2005 privind organizarea și funcționarea cooperației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117506",
+   "versions": [
+    {
+     "from": "2010-03-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117506",
+     "sha256": "f8044c83ba6b2ab22f6c583cc6880d5b33f0d44624688be5853bfb68c3a5865b"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-educatie-zi0617-2010",
+   "path": "procedura/educatie/2010/06-17",
+   "short": "Procedura educatie din 17 iunie 2010",
+   "title": "Procedura din 17 iunie 2010 de închiriere a bunurilor imobile din domeniul public al statului, aflate în administrarea Ministerului Educației, Cercetării, Tineretului și Sportului, prin Autoritatea Națională pentru Sport și Tineret",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119743",
+   "versions": [
+    {
+     "from": "2010-06-22",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119743",
+     "sha256": "ebf7f7e6db54cc94d844e2f4392e5d1f915a77ac2be195ac6243ee2feb11628f"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0825-1-2010",
+   "path": "procedura/guvern/2010/08-25-1",
+   "short": "Procedura guvern din 25 august 2010",
+   "title": "Procedură din 25 august 2010 de acordare a autorizațiilor și avizului prevăzute la art. 4 alin. (1) lit. a)-d) din hotărâre și de informare a Ministerului Apărării Naționale conform art. 3 alin. (2) din hotărâre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122063",
+   "versions": [
+    {
+     "from": "2010-12-07",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122063",
+     "sha256": "d2ec231c358c00b3f3cddedeea4118e707d9646b78bb7b36bd59126889b31cbf"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0825-2-2010",
+   "path": "procedura/guvern/2010/08-25-2",
+   "short": "Procedura guvern din 25 august 2010",
+   "title": "Procedură din 25 august 2010 de solicitare și de acordare de către Ministerul Apărării Naționale a autorizărilor de survol/avizelor pentru efectuarea zborurilor cu aeronave civile sau de stat în spațiul aerian național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122064",
+   "versions": [
+    {
+     "from": "2010-12-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122064",
+     "sha256": "48da3a536211913c9011e6c56843fce230d780e0d28a1c29a6fcdb10c87cbf52"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0308-1-2010",
+   "path": "procedura/imm/2010/03-08-1",
+   "short": "Procedura imm din 8 martie 2010",
+   "title": "Procedură din 8 martie 2010 de implementare a Programului național multianual pe perioada 2002 - 2012 pentru susținerea meșteșugurilor și artizanatului*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118213",
+   "versions": [
+    {
+     "from": "2010-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118213",
+     "sha256": "2b75e8298412511f5c5b8b596e343998ae7788164e54fd2f1ac3b546f6417b46"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0308-2-2010",
+   "path": "procedura/imm/2010/03-08-2",
+   "short": "Procedura imm din 8 martie 2010",
+   "title": "Procedură din 8 martie 2010 de implementare a Programului național multianual pe perioada 2005-2012 pentru dezvoltarea culturii antreprenoriale în rândul femeilor manager din sectorul întreprinderilor mici și mijlocii*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118217",
+   "versions": [
+    {
+     "from": "2010-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118217",
+     "sha256": "92657965c604f299fcf7028be7fa052230803f9230de5270ee3fe75a35317019"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0308-3-2010",
+   "path": "procedura/imm/2010/03-08-3",
+   "short": "Procedura imm din 8 martie 2010",
+   "title": "Procedură din 8 martie 2010 de implementare a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului acestora la finanțare - START -*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119762",
+   "versions": [
+    {
+     "from": "2010-04-08",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119762",
+     "sha256": "266f48f3c28c82ab750772a56c2353afce269a3e40765607862ea37635f80eaf"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0308-4-2010",
+   "path": "procedura/imm/2010/03-08-4",
+   "short": "Procedura imm din 8 martie 2010",
+   "title": "Procedură din 8 martie 2010 de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119788",
+   "versions": [
+    {
+     "from": "2010-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119788",
+     "sha256": "2eeb8b8b5c4f4a8691dc64b708235db7dfd6a82b08330c8820e58eccef60216b"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi1122-2010",
+   "path": "procedura/mediu/2010/11-22",
+   "short": "Procedura mediu din 22 noiembrie 2010",
+   "title": "Procedură din 22 noiembrie 2010 pentru aprobarea planului de gestionare a deșeurilor din industriile extractive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125597",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125597",
+     "sha256": "838dac74704cf65ff64eb4d24f3ac9f4a19832bed60a579754ed5d0e5fd29f8c"
+    }
+   ]
+  }
+ ]
+}

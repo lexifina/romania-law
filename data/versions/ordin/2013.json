@@ -5823,6 +5823,21 @@
    ]
   },
   {
+   "slug": "ordin-conas-228-2013",
+   "path": "ordin/conas/2013/228",
+   "short": "Ordin conas nr. 228/2013",
+   "title": "Ordinul nr. 228/2013 privind aprobarea constituirii Comisiei de evaluare în vederea acreditării în primul ciclu de acreditare 2011-2015 pentru fiecare unitate sanitară cu paturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152816",
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152816",
+     "sha256": "ce5171129ad5dcd4c2da4c927ca8402fec43560cace8c387c2356334c4be6181"
+    }
+   ]
+  },
+  {
    "slug": "ordin-conas-280-2013",
    "path": "ordin/conas/2013/280",
    "short": "Ordin conas nr. 280/2013",
@@ -13083,6 +13098,81 @@
    ]
   },
   {
+   "slug": "ordin-infrastructura-290-2013",
+   "path": "ordin/infrastructura/2013/290",
+   "short": "Ordin infrastructura nr. 290/2013",
+   "title": "Ordinul nr. 290/2013 pentru aprobarea unor tarife aplicate de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150410",
+   "versions": [
+    {
+     "from": "2013-09-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150410",
+     "sha256": "150577babf0f2fe32b2084fa74af83c74390c851c5b5217d74f87b6bfd03bb5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-304-2013",
+   "path": "ordin/infrastructura/2013/304",
+   "short": "Ordin infrastructura nr. 304/2013",
+   "title": "Ordinul nr. 304/2013 privind stabilirea unei derogări de la prevederile Ordinului ministrului transporturilor și infrastructurii nr. 568/2010 pentru aprobarea unor tarife aplicate de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149262",
+   "versions": [
+    {
+     "from": "2013-06-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149262",
+     "sha256": "87775fb4656161513c4ec5186a27ed5c7a1bd276f9ee889985272f56f3da1eca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-356-2013",
+   "path": "ordin/infrastructura/2013/356",
+   "short": "Ordin infrastructura nr. 356/2013",
+   "title": "Ordinul nr. 356/2013 pentru modificarea Ordinului ministrului delegat pentru proiecte de infrastructură de interes național și investiții străine nr. 304/2013 privind stabilirea unei derogări de la prevederile Ordinului ministrului transporturilor și infrastructurii nr. 568/2010 pentru aprobarea unor tarife aplicate de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150268",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150268",
+     "sha256": "59d9a5cc6d4f9b19650a7e80fef5ff6ff53e7e5e3fa0d400d9e26fd9d217eb9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-398-2013",
+   "path": "ordin/infrastructura/2013/398",
+   "short": "Ordin infrastructura nr. 398/2013",
+   "title": "Ordinul nr. 398/2013 privind modificarea și prorogarea termenului de intrare în vigoare a Ordinului ministrului delegat pentru proiecte de infrastructură de interes național și investiții străine nr. 290/2013 pentru aprobarea unor tarife aplicate de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151080",
+   "versions": [
+    {
+     "from": "2013-08-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151080",
+     "sha256": "7e532aacd43e7c93e26150c6bb767e222a37f37deff6d3be6567d541c37707ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-409-2013",
+   "path": "ordin/infrastructura/2013/409",
+   "short": "Ordin infrastructura nr. 409/2013",
+   "title": "Ordinul nr. 409/2013 privind modificarea anexelor nr. 1 și 6 la Ordinul ministrului delegat pentru proiecte de infrastructură de interes național și investiții străine nr. 290/2013 pentru aprobarea unor tarife aplicate de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151432",
+   "versions": [
+    {
+     "from": "2013-09-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151432",
+     "sha256": "343a729913a2b0947ada1527797a347e1cc29835da1f4a3dec5f55fa2ed1855a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-infrastructura-412-2013",
    "path": "ordin/infrastructura/2013/412",
    "short": "Ordin infrastructura nr. 412/2013",
@@ -13094,6 +13184,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151679",
      "sha256": "e64a53d2432197926c183f0a1e599dece1b0b7ee3f03d19514ab86af635df6c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-428-2013",
+   "path": "ordin/infrastructura/2013/428",
+   "short": "Ordin infrastructura nr. 428/2013",
+   "title": "Ordinul nr. 428/2013 privind introducerea unor restricții de circulație pe podul Agigea peste Canalul Dunăre-Marea Neagră pe DN 39, km 8+988, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151753",
+   "versions": [
+    {
+     "from": "2013-10-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151753",
+     "sha256": "0c97ecc9a5accad3195f6e6372f9bf50388a1020c7b5afa379291909ec3658c8"
     }
    ]
   },
@@ -13124,6 +13229,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155273",
      "sha256": "ad0ff863da92d13b5d45d3cb6ff3bf52e2d1faaf6d9cfa41c1625b1d2406c9db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-482-2013",
+   "path": "ordin/infrastructura/2013/482",
+   "short": "Ordin infrastructura nr. 482/2013",
+   "title": "Ordinul nr. 482/2013 pentru modificarea art. 1 din Ordinul ministrului delegat pentru proiecte de infrastructură de interes național și investiții străine nr. 428/2013 privind introducerea unor restricții de circulație pe podul Agigea peste Canalul Dunăre-Marea Neagră pe DN 39, km 8+988, județul Constanța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154088",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154088",
+     "sha256": "921d8483da3dbb296db68bd74d74f381e6ebe36632f74dfcd81297393fa5e4db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-483-2013",
+   "path": "ordin/infrastructura/2013/483",
+   "short": "Ordin infrastructura nr. 483/2013",
+   "title": "Ordinul nr. 483/2013 privind modificarea și completarea anexelor nr. 3, 4 și 5 la Ordinul ministrului delegat pentru proiecte de infrastructură de interes național și investiții străine nr. 290/2013 pentru aprobarea unor tarife aplicate de Compania Națională de Autostrăzi și Drumuri Naționale din România - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154223",
+   "versions": [
+    {
+     "from": "2013-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154223",
+     "sha256": "8a318c867d89149ca081b806fe4d344838bbb0cd6752a1ddfdce54684b003e70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-infrastructura-485-2013",
+   "path": "ordin/infrastructura/2013/485",
+   "short": "Ordin infrastructura nr. 485/2013",
+   "title": "Ordinul nr. 485/2013 privind introducerea restricției de circulație pentru vehiculele rutiere cu masa totală maximă autorizată mai mare sau egală cu 7,5 tone, altele decât cele destinate exclusiv transportului de persoane, pe drumul național DN1 (E60), sectorul București-Ploiești-Brașov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154204",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154204",
+     "sha256": "59b0931a4d0df6ab1a737bf139cf0b55df89954976afa333301ab15a306be845"
     }
    ]
   },
@@ -15839,6 +15989,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151021",
      "sha256": "a9eb2a3db4e872056df07618956e738f8d09b41ebc5e6f604a4b27582bf7b1cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-onpcsb-130-2013",
+   "path": "ordin/onpcsb/2013/130",
+   "short": "Ordin onpcsb nr. 130/2013",
+   "title": "Ordinul nr. 130/2013 privind modificarea Ordinului viceprim-ministrului, ministrul finanțelor publice, al ministrului administrației și internelor și al președintelui Oficiului Național de Prevenire și Combatere a Spălării Banilor nr. 663/110/76/2012 pentru aprobarea componenței Comisiei de autorizare a activității de schimb valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150883",
+   "versions": [
+    {
+     "from": "2013-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150883",
+     "sha256": "7258d2b9fdc9aed348c366af667c9472aae1c4af2bd9967bd25cab817a5e340a"
     }
    ]
   },

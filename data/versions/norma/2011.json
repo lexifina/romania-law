@@ -301,6 +301,51 @@
      "sha256": "d67762552a40aba66321c208c1fcce90900c16048f650cc5cae40e4707a2a3ec"
     }
    ]
+  },
+  {
+   "slug": "norma-sanatate-zi0216-2011",
+   "path": "norma/sanatate/2011/02-16",
+   "short": "Norma sanatate din 16 februarie 2011",
+   "title": "Norme metodologice din 16 februarie 2011 privind instituirea unor măsuri de combatere a proliferării substanțelor/produselor noi cu efecte psihoactive, dăunătoare sănătății, altele decât cele reglementate, precum și de prevenire a consumului acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126240",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126240",
+     "sha256": "8dca5ba9e0667816297988433324cf5d3aa1d06bef760b6c661a7bd1778f2e7d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1220-2011",
+   "path": "norma/sanatate/2011/12-20",
+   "short": "Norma sanatate din 20 decembrie 2011",
+   "title": "Norme metodologice din 20 decembrie 2011 de aplicare în anul 2012 a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, aprobat prin Hotărârea Guvernului nr. 1.389/2010 *)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134140",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134140",
+     "sha256": "8d6c87bd6f80dcfcbfd3d727a6d4eb9c3502995efc8e948f9e993c7ca42fb747"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi1130-2011",
+   "path": "norma/transporturi/2011/11-30",
+   "short": "Norma transporturi din 30 noiembrie 2011",
+   "title": "Norme metodologice din 30 noiembrie 2011 privind aplicarea prevederilor referitoare la organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora stabilite prin Ordonanța Guvernului nr. 27/2011 privind transporturile rutiere*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133843",
+   "versions": [
+    {
+     "from": "2011-12-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133843",
+     "sha256": "d35af20f01bcb1af47d58317d36da78a7f72fd331bc34f4aa5f93a7391f7af5a"
+    }
+   ]
   }
  ]
 }

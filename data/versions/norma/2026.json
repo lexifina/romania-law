@@ -301,6 +301,21 @@
      "sha256": "e480af2352449f966e1a7b7d710fcf35758787ed32060f743438a5e305b008f8"
     }
    ]
+  },
+  {
+   "slug": "norma-vama-zi0123-2026",
+   "path": "norma/vama/2026/01-23",
+   "short": "Norma vama din 23 ianuarie 2026",
+   "title": "Norme metodologice din 23 ianuarie 2026 privind realizarea auditului post-vămuire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306742",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306742",
+     "sha256": "b4569782ff7118f8b47100aa3e2ebb755eebaf04d192e36dbbd4880e2d97d7a6"
+    }
+   ]
   }
  ]
 }

@@ -48,6 +48,96 @@
    ]
   },
   {
+   "slug": "regulament-agricultura-zi1109-1-2001",
+   "path": "regulament/agricultura/2001/11-09-1",
+   "short": "Regulament agricultura din 9 noiembrie 2001",
+   "title": "Regulament din 9 noiembrie 2001 privind conținutul documentațiilor referitoare la scoaterea terenurilor din circuitul agricol, necesare amplasării obiectivelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32778",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32778",
+     "sha256": "9573695a3dfbdb3265ebcda37c9f9316dffc962d7a290ad6fc7086d8043d555f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-agricultura-zi1109-2-2001",
+   "path": "regulament/agricultura/2001/11-09-2",
+   "short": "Regulament agricultura din 9 noiembrie 2001",
+   "title": "Regulament din 9 noiembrie 2001 privind conținutul documentației pentru schimbarea categoriei de folosința a terenurilor agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32779",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32779",
+     "sha256": "8a920ca468a80e2c4c5657f94796b3a0c70f8de18f11807c1fd517734c377a62"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-agricultura-zi1130-2001",
+   "path": "regulament/agricultura/2001/11-30",
+   "short": "Regulament agricultura din 30 noiembrie 2001",
+   "title": "Regulament din 30 noiembrie 2001 de organizare și desfășurare a licitațiilor pentru vânzarea de active cu plata integrală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33300",
+   "versions": [
+    {
+     "from": "2002-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33300",
+     "sha256": "407bf8dbead9c2efea646e12c4f0c7294c8c43dc0d3eeddfaf5dcdfb1ff30497"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-ancpi-zi1001-1-2001",
+   "path": "regulament/ancpi/2001/10-01-1",
+   "short": "Regulament ancpi din 1 octombrie 2001",
+   "title": "Regulament din 1 octombrie 2001 pentru verificarea lucrărilor de specialitate în domeniile cadastrului, geodeziei și cartografiei, realizate de persoane fizice și juridice autorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32730",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32730",
+     "sha256": "5fd009706522de44712e02af75ef4e1dccfd6bffad1395eca544c8535dd7717d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-ancpi-zi1001-2-2001",
+   "path": "regulament/ancpi/2001/10-01-2",
+   "short": "Regulament ancpi din 1 octombrie 2001",
+   "title": "Regulament din 1 octombrie 2001 privind controlul activității persoanelor fizice și juridice autorizate să realizeze și sa verifice lucrări de specialitate în domeniile cadastrului, geodeziei și cartografiei pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32736",
+   "versions": [
+    {
+     "from": "2001-12-12",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32736",
+     "sha256": "170efaf89c1698047e163f3eab1be2124fd173fbe8185739dbbf4f44098de33b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anpc-zi1212-2001",
+   "path": "regulament/anpc/2001/12-12",
+   "short": "Regulament anpc din 12 decembrie 2001",
+   "title": "Regulament din 12 decembrie 2001 de organizare și funcționare a Comitetului Interministerial pentru Supravegherea Pieței Produselor și Serviciilor și Protecția Consumatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33136",
+   "versions": [
+    {
+     "from": "2002-01-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33136",
+     "sha256": "5b6e2de345d80e0d59cc2aba218b180185ba48db27766b51b7e3fe9e7db8ecee"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-1-2001",
    "path": "regulament/cnvm/2001/1",
    "short": "Regulament cnvm nr. 1/2001",
@@ -89,6 +179,141 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32068",
      "sha256": "261ffc82bf446378e1c3a7f5c5ae53f1b2ace62a65918b105334623c14434158"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0220-2001",
+   "path": "regulament/concurenta/2001/02-20",
+   "short": "Regulament concurenta din 20 februarie 2001",
+   "title": "Regulament din 20 februarie 2001 pentru modificarea anexei la Regulamentul privind stabilirea și perceperea tarifelor pentru procedurile și serviciile prevăzute de Legea concurentei nr. 21/1996 și de regulamentele emise pentru aplicarea acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26936",
+   "versions": [
+    {
+     "from": "2001-02-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26936",
+     "sha256": "6b7076da3bf9b8985b3855ba56f69b0284fa780507d825ba84c383b07da71cf3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-economie-zi0126-1-2001",
+   "path": "regulament/economie/2001/01-26-1",
+   "short": "Regulament economie din 26 ianuarie 2001",
+   "title": "Regulament din 26 ianuarie 2001 pentru autorizarea și verificarea personalului care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27113",
+   "versions": [
+    {
+     "from": "2001-03-06",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27113",
+     "sha256": "9e995b0bdcae1fab47f0756cf77b2bbbaee8bb4cf8aa75140f6888125e2d5c4f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-economie-zi0126-2-2001",
+   "path": "regulament/economie/2001/01-26-2",
+   "short": "Regulament economie din 26 ianuarie 2001",
+   "title": "Regulament din 26 ianuarie 2001 pentru autorizarea și verificarea agenților economici care desfășoară activități de proiectare și execuție în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27114",
+   "versions": [
+    {
+     "from": "2001-03-06",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27114",
+     "sha256": "bc666abf4fc2842da76e2b1f9f12388e870769d6199366fc510911f1b2112f73"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-finante-zi0521-2001",
+   "path": "regulament/finante/2001/05-21",
+   "short": "Regulament finante din 21 mai 2001",
+   "title": "Regulament din 21 mai 2001 privind operațiunile cu titluri de stat emise în forma dematerializată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30033",
+   "versions": [
+    {
+     "from": "2001-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30033",
+     "sha256": "c49a9b4afef89833475f60310d3158db3c163453f8c235da188e8ba483754e85"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0104-1-2001",
+   "path": "regulament/guvern/2001/01-04-1",
+   "short": "Regulament guvern din 4 ianuarie 2001",
+   "title": "Regulament din 4 ianuarie 2001 de organizare și funcționare a Regiei Autonome \"Administrația Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25908",
+   "versions": [
+    {
+     "from": "2001-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25908",
+     "sha256": "04e5965a572f8029e0e97c737749cac747e0cebd99191d447adc766998249800"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0104-2-2001",
+   "path": "regulament/guvern/2001/01-04-2",
+   "short": "Regulament guvern din 4 ianuarie 2001",
+   "title": "Regulament din 4 ianuarie 2001 de organizare și funcționare a Comisiei Naționale pentru Siguranța Barajelor și a Altor Lucrări Hidrotehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25956",
+   "versions": [
+    {
+     "from": "2001-01-10",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25956",
+     "sha256": "6c4350ec9a6c289140e8811f49666baad0b9bfab928590a4d9228df8fbd4012c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0104-3-2001",
+   "path": "regulament/guvern/2001/01-04-3",
+   "short": "Regulament guvern din 4 ianuarie 2001",
+   "title": "Regulament de organizare și funcționare din 4 ianuarie 2001 a Inspectoratului de stat în construcții și a inspectoratelor teritoriale în construcții din subordinea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25967",
+   "versions": [
+    {
+     "from": "2001-01-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25967",
+     "sha256": "24a933cc1e5d00af28ef32d422da713bacb40b53fa5a905902fbf575a85394ab"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0706-2001",
+   "path": "regulament/guvern/2001/07-06",
+   "short": "Regulament guvern din 6 iulie 2001",
+   "title": "Regulament din 6 iulie 2001 de organizare și funcționare a Institutului Național de Cercetare pentru Sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29557",
+   "versions": [
+    {
+     "from": "2001-07-13",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29557",
+     "sha256": "e1c274e68344292d1e0dc9219d6ed33f09fd063eabd6f06973d22705b86d2ab9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1206-2001",
+   "path": "regulament/guvern/2001/12-06",
+   "short": "Regulament guvern din 6 decembrie 2001",
+   "title": "Regulament din 6 decembrie 2001 de organizare și funcționare a Regiei Autonome \"Administrația Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32882",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32882",
+     "sha256": "7ab511843b890bf9e8e3574574aa1c97f396793c14cca2cdf76fddfa014b4f8f"
     }
    ]
   }

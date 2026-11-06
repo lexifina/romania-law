@@ -198,6 +198,81 @@
    ]
   },
   {
+   "slug": "regulament-anre-zi1213-1-2007",
+   "path": "regulament/anre/2007/12-13-1",
+   "short": "Regulament anre din 13 decembrie 2007",
+   "title": "Regulament din 13 decembrie 2007 pentru autorizarea și verificarea persoanelor fizice care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88447",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88447",
+     "sha256": "9932d3ddbe256c8fbe4d5950ccf010f2a4315d9e5dd519d993208032a4812831"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi1213-2-2007",
+   "path": "regulament/anre/2007/12-13-2",
+   "short": "Regulament anre din 13 decembrie 2007",
+   "title": "Regulament din 13 decembrie 2007 pentru autorizarea și verificarea operatorilor economici care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88448",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88448",
+     "sha256": "a0938c8eac4f74492b4a9c2b4fc22686d14050a7b77b7ccd15b7564d71cf99bb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anrsc-zi0320-1-2007",
+   "path": "regulament/anrsc/2007/03-20-1",
+   "short": "Regulament anrsc din 20 martie 2007",
+   "title": "Regulament-cadru din 20 martie 2007 al serviciului de iluminat public*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81980",
+   "versions": [
+    {
+     "from": "2007-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81980",
+     "sha256": "6b52ad7db2fb6e346b021a8ea4cda82d71f79462bb2a2d739f26b0d544838a94"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anrsc-zi0320-2-2007",
+   "path": "regulament/anrsc/2007/03-20-2",
+   "short": "Regulament anrsc din 20 martie 2007",
+   "title": "Regulament-cadru din 20 martie 2007 serviciului public de alimentare cu energie termica*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82307",
+   "versions": [
+    {
+     "from": "2007-05-23",
+     "units": 252,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82307",
+     "sha256": "b8ec68383d4afddee7fbd2c50fdab395303cf06d5c7564f58d6eefb7ae49eb90"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anrsc-zi0709-2007",
+   "path": "regulament/anrsc/2007/07-09",
+   "short": "Regulament anrsc din 9 iulie 2007",
+   "title": "Regulament-cadru din 9 iulie 2007 al serviciului de salubrizare a localităților*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84411",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 164,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84411",
+     "sha256": "9c023294bda4313cc35ffc1a700cb8a3b4ffd03bf2b35894216d46ddd406d78f"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-2-2007",
    "path": "regulament/bnr/2007/2",
    "short": "Regulament bnr nr. 2/2007",
@@ -224,6 +299,246 @@
      "units": 2,
      "source_url": "https://www.bnr.ro/20523-regulament-6-2007",
      "sha256": "92a7ae31177bddece0d79b7d75bc07f9d775fe7cc98c3b51fb473bffccd35cae"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0301-2007",
+   "path": "regulament/concurenta/2007/03-01",
+   "short": "Regulament concurenta din 1 martie 2007",
+   "title": "Regulament din 1 martie 2007 pentru modificarea și completarea Regulamentului privind transparența relațiilor financiare dintre autoritățile publice și întreprinderile publice, precum și transparența financiară în cadrul anumitor întreprinderi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80278",
+   "versions": [
+    {
+     "from": "2007-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80278",
+     "sha256": "73d19c70ef5d7564f7c0ffe6fa82db2423d7811e1b9a8271033d1081bee68fb2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0620-2007",
+   "path": "regulament/concurenta/2007/06-20",
+   "short": "Regulament concurenta din 20 iunie 2007",
+   "title": "Regulament din 20 iunie 2007 privind procedurile de monitorizare a ajutoarelor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83287",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83287",
+     "sha256": "72a3fd296fb4a02142fa87f25d67ae901d318c23291a58ee05a895d1ea78acc3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-economie-zi0328-2007",
+   "path": "regulament/economie/2007/03-28",
+   "short": "Regulament economie din 28 martie 2007",
+   "title": "Regulament din 28 martie 2007 privind depozitarea buteliilor transportabile pentru gaze comprimate, lichefiate sau dizolvate sub presiune, exclusiv GPL*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81789",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81789",
+     "sha256": "8045ba2ce94a0bca6fbaf551394cca21a7022c9bb9db4a385b9e8cad3338739c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi0628-2007",
+   "path": "regulament/educatie/2007/06-28",
+   "short": "Regulament educatie din 28 iunie 2007",
+   "title": "Regulament din 28 iunie 2007 de efectuare a pregătirii prin rezidențiat în specialitățile prevăzute de Nomenclatorul specialităților medicale, medico-dentare și farmaceutice pentru rețeaua de asistență medicală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85783",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85783",
+     "sha256": "07f70b4efe05cdc682357db7727ca1700fe65c017ef83fa4725de873777c8e5b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-geodezi-zi0622-2007",
+   "path": "regulament/geodezi/2007/06-22",
+   "short": "Regulament geodezi din 22 iunie 2007",
+   "title": "Regulament din 22 iunie 2007 de funcționare a Comisiilor de disciplină",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85029",
+   "versions": [
+    {
+     "from": "2007-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85029",
+     "sha256": "c9789517726f4284976b322280fa697859e9fc61a0e4292fe4f84881dd2b18e6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0314-2007",
+   "path": "regulament/guvern/2007/03-14",
+   "short": "Regulament guvern din 14 martie 2007",
+   "title": "Regulamentul din 14 martie 2007 de organizare și funcționare al Agenției Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80725",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80725",
+     "sha256": "12ae0800b16e69113c4504a0eb24dc83fb4f3ea314f9b2aa18eccb0bbf9e8252"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0330-1-2007",
+   "path": "regulament/guvern/2007/03-30-1",
+   "short": "Regulament guvern din 30 martie 2007",
+   "title": "Regulament din 30 martie 2007 privind apărarea împotriva inundațiilor produse de cursuri de apă (Anexa 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84276",
+   "versions": [
+    {
+     "from": "2007-08-06",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84276",
+     "sha256": "857cdbe967c19e3613511ff166f9f487401291c81fa0cce26191d91df18fc84b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0330-2-2007",
+   "path": "regulament/guvern/2007/03-30-2",
+   "short": "Regulament guvern din 30 martie 2007",
+   "title": "Regulament din 30 martie 2007 privind apărarea împotriva inundațiilor produse de ape interne (Anexa 3)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84277",
+   "versions": [
+    {
+     "from": "2007-08-06",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84277",
+     "sha256": "fac7564b6090afda5fd190b06f9abce9c2f9abc61a55c00d08ec48adee9e1fdc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0330-3-2007",
+   "path": "regulament/guvern/2007/03-30-3",
+   "short": "Regulament guvern din 30 martie 2007",
+   "title": "Regulament din 30 martie 2007 privind regimul de exploatare a barajului Bekes, la nivelul ridicat +510 cm, de pe teritoriul ungar, corelat cu funcționarea stației de pompare Ant de pe teritoriul român (Anexa 4)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84278",
+   "versions": [
+    {
+     "from": "2007-08-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84278",
+     "sha256": "3a7c07d70d57e774020955eb06e908117c6854fee6bcb5f373e90145566c59bb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0330-4-2007",
+   "path": "regulament/guvern/2007/03-30-4",
+   "short": "Regulament guvern din 30 martie 2007",
+   "title": "Regulament din 30 martie 2007 privind trecerea frontierei și contactul între organele hidrotehnice ale României și Republicii Ungare (Anexa 5)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84279",
+   "versions": [
+    {
+     "from": "2007-08-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84279",
+     "sha256": "fcb49cc9ded4ea943d8422bc8da818283ee69f995c73c7ce49df54fdcc65f5b0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0330-5-2007",
+   "path": "regulament/guvern/2007/03-30-5",
+   "short": "Regulament guvern din 30 martie 2007",
+   "title": "Regulament din 30 martie 2007 privind efectuarea de observații hidrometrice sistematice și determinarea în comun a resurselor de apă pe apele de frontieră (Anexa 6)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84280",
+   "versions": [
+    {
+     "from": "2007-08-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84280",
+     "sha256": "7dd2c008c559f078cd93f3239222cfeadf7927a48ddfd3c976ece0c4d8c3b5ef"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0330-6-2007",
+   "path": "regulament/guvern/2007/03-30-6",
+   "short": "Regulament guvern din 30 martie 2007",
+   "title": "Regulament din 30 martie 2007 de colaborare între organele teritoriale în cazul scurgerii apelor mici (extraordinare) pe râurile din subunitățile hidrografice care formează sau traversează frontiera româno-ungară (Anexa 7)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84281",
+   "versions": [
+    {
+     "from": "2007-08-06",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84281",
+     "sha256": "fe3d26d75dd0f213bc675a1a6e23c6aa2baaf6d69e2e5118d2e586e83aa7fd43"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0530-1-2007",
+   "path": "regulament/guvern/2007/05-30-1",
+   "short": "Regulament guvern din 30 mai 2007",
+   "title": "Regulament din 30 mai 2007 privind activitatea de asigurare a creditelor de export desfășurată de Banca de Export-Import a României EXIMBANK - S.A., în numele și în contul statului, pentru operațiunile pe termen mediu și lung legate de exporturi de bunuri și/sau servicii destinate statelor care nu sunt membre ale Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83070",
+   "versions": [
+    {
+     "from": "2007-06-22",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83070",
+     "sha256": "b6a7558adedcb85a2711c0700801829ec51aa4859e7ceae4a8dfee95f2a475b9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0530-2-2007",
+   "path": "regulament/guvern/2007/05-30-2",
+   "short": "Regulament guvern din 30 mai 2007",
+   "title": "Regulament din 30 mai 2007 privind activitatea de coasigurare de către Banca de Export-Import a României EXIMBANK - S.A., în numele și în contul statului, a creditelor de export aferente operațiunilor de export realizate în cooperare de mai multe întreprinderi din diferite state membre ale Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83071",
+   "versions": [
+    {
+     "from": "2007-06-22",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83071",
+     "sha256": "4c4d2f97e0e217d66efef6fc4489906359dcc2fc2a48f92964014e3e5dffbccd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0725-2007",
+   "path": "regulament/guvern/2007/07-25",
+   "short": "Regulament guvern din 25 iulie 2007",
+   "title": "Regulament- cadru din 25 iulie 2007 de organizare și funcționare a Comitetului de monitorizare a Programului operațional sectorial de mediu 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84624",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84624",
+     "sha256": "59803be4cedd90b0645b835feeebd2be82b4da673a1351c9aafa7740fd86cee5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi0221-2007",
+   "path": "regulament/justitie/2007/02-21",
+   "short": "Regulament justitie din 21 februarie 2007",
+   "title": "Regulament din 21 februarie 2007 de ordine interioară al parchetelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80002",
+   "versions": [
+    {
+     "from": "2007-03-05",
+     "units": 192,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80002",
+     "sha256": "a28b9f2c23680999d6650d990dd2252da92f8bca21fea8134ca1dd13e54844fc"
     }
    ]
   }

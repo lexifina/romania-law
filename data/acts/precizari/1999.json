@@ -3,6 +3,25 @@
 "shard": "precizari/1999",
 "acts": [
 {
+"slug": "precizari-anrm-zi0930-1999",
+"path": "precizari/anrm/1999/09-30",
+"kind": "precizari",
+"year": "1999",
+"number": "09-30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizări din 30 septembrie 1999 la Instrucțiunile privind evidenta, calculul, plata și raportarea taxelor anuale aferente activității de prospecțiune, explorare și exploatare a resurselor minerale și a redevențelor miniere",
+"short": "Precizări anrm din 30 septembrie 1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1999-11-17",
+"latest": "1999-11-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/19920",
+"issuer": "anrm",
+"joint": []
+},
+{
 "slug": "precizari-bnr-2-1999",
 "path": "precizari/bnr/1999/2",
 "kind": "precizari",

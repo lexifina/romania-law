@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "procedura/2009",
+ "acts": [
+  {
+   "slug": "procedura-economie-zi0630-2009",
+   "path": "procedura/economie/2009/06-30",
+   "short": "Procedura economie din 30 iunie 2009",
+   "title": "Procedură din 30 iunie 2009 de înregistrare a producătorilor de baterii și acumulatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109594",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109594",
+     "sha256": "ca37e2fc59461376ef7cb1ef6227846cc0e01d6a999a9935226deab7277a6a27"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-economie-zi1116-2009",
+   "path": "procedura/economie/2009/11-16",
+   "short": "Procedura economie din 16 noiembrie 2009",
+   "title": "Procedură din 16 noiembrie 2009 privind modul de evidență și raportare a datelor referitoare la baterii și acumulatori și la deșeurile de baterii și acumulatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113615",
+   "versions": [
+    {
+     "from": "2009-11-23",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113615",
+     "sha256": "71e77dc80dcfc55001c3e1a56ca310b9226c55c651b139958c4166f65391a273"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0123-1-2009",
+   "path": "procedura/finante/2009/01-23-1",
+   "short": "Procedura finante din 23 ianuarie 2009",
+   "title": "Procedura din 23 ianuarie 2009 contractării de către operatori economici a unui împrumut cu garanția statului de la instituții financiare internaționale (IFI) sau pe bază de acorduri bilaterale (de la guverne străine ori agenții guvernamentale)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101972",
+   "versions": [
+    {
+     "from": "2009-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101972",
+     "sha256": "14bf9f99db7028df5f8d9bb1bd9e66b66ed3282803ccd294a3c1462a022d648e"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0123-2-2009",
+   "path": "procedura/finante/2009/01-23-2",
+   "short": "Procedura finante din 23 ianuarie 2009",
+   "title": "Procedura din 23 ianuarie 2009 emiterii scrisorilor de garanție pentru împrumuturi contractate de unitățile administrativ-teritoriale de la bănci comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101973",
+   "versions": [
+    {
+     "from": "2009-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101973",
+     "sha256": "572b0b280ce7f45c674ec778fb55a014b96d02a1530272dbc71b6257d4446c3a"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0123-3-2009",
+   "path": "procedura/finante/2009/01-23-3",
+   "short": "Procedura finante din 23 ianuarie 2009",
+   "title": "Procedura din 23 ianuarie 2009 contractării de către unitățile administrativ-teritoriale a unui împrumut cu garanția statului de la instituții financiare internaționale (IFI) sau pe bază de acorduri bilaterale (de la guverne străine ori agenții guvernamentale)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101974",
+   "versions": [
+    {
+     "from": "2009-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101974",
+     "sha256": "94f460af5d2f592a8d50d81d81dc0673cec749f8d99bf748179f22b5ac428811"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0316-1-2009",
+   "path": "procedura/finante/2009/03-16-1",
+   "short": "Procedura finante din 16 martie 2009",
+   "title": "Procedură din 16 martie 2009 privind contractarea de către Ministerul Finanțelor Publice a unui împrumut de la instituții financiare românești/străine sau prin emisiuni de titluri de stat, subîmprumutat unui operator economic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104260",
+   "versions": [
+    {
+     "from": "2009-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104260",
+     "sha256": "5d54983d64a62b9ac376e46691899f2ac55dc3e83ab234f42ef0e8376652fb7f"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0316-2-2009",
+   "path": "procedura/finante/2009/03-16-2",
+   "short": "Procedura finante din 16 martie 2009",
+   "title": "Procedură din 16 martie 2009 privind contractarea de către Ministerul Finanțelor Publice a unui împrumut de la instituții financiare internaționale (IFI) sau pe relații bilaterale (de la guverne străine ori agenții guvernamentale), subîmprumutat unui operator economic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104261",
+   "versions": [
+    {
+     "from": "2009-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104261",
+     "sha256": "4a4db6c49f798c7670384b7abf116c2a6da1ed576f2dc46653c4583ff4127292"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0316-3-2009",
+   "path": "procedura/finante/2009/03-16-3",
+   "short": "Procedura finante din 16 martie 2009",
+   "title": "Procedură din 16 martie 2009 privind contractarea de către Ministerul Finanțelor Publice a unui împrumut de la instituții financiare românești/străine sau prin emisiuni de titluri de stat, subîmprumutat unei unități administrativ-teritoriale ori unui operator economic/serviciu public din subordinea unei unități administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104262",
+   "versions": [
+    {
+     "from": "2009-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104262",
+     "sha256": "f394e3ed8889b3878cf254a02d76f72fed48c7a9d7949642aa018247a9f480ad"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0316-4-2009",
+   "path": "procedura/finante/2009/03-16-4",
+   "short": "Procedura finante din 16 martie 2009",
+   "title": "Procedură din 16 martie 2009 privind contractarea de către Ministerul Finanțelor Publice a unui împrumut de la instituții financiare internaționale (IFI) sau pe relații bilaterale (de la guverne străine ori agenții guvernamentale), subîmprumutat unei unități administrativ-teritoriale sau unui operator economic/serviciu public din subordinea unei unități administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104263",
+   "versions": [
+    {
+     "from": "2009-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104263",
+     "sha256": "154c861919abc664d6e36832c1208fd5492d12d34c8af8b6e7a939211328c908"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0409-1-2009",
+   "path": "procedura/imm/2009/04-09-1",
+   "short": "Procedura imm din 9 aprilie 2009",
+   "title": "Procedură*) din 9 aprilie 2009 de implementare a Programului național multianual pe perioada 2006-2012 pentru susținerea accesului întreprinderilor mici și mijlocii la servicii de instruire și consultanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111388",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111388",
+     "sha256": "c775c02564e36b59f811a632aac1f07511232cec9648cdae6fa9892fff1c3d25"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0409-2-2009",
+   "path": "procedura/imm/2009/04-09-2",
+   "short": "Procedura imm din 9 aprilie 2009",
+   "title": "Procedură*) din 9 aprilie 2009 de implementare a Programului pentru sprijinirea transferul afacerilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111389",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111389",
+     "sha256": "64b8853325307c4649ae524509283aa79d379b81ba69bf70ab0c46bb2d86b43e"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0409-3-2009",
+   "path": "procedura/imm/2009/04-09-3",
+   "short": "Procedura imm din 9 aprilie 2009",
+   "title": "Procedură din 9 aprilie 2009 de implementare a Programului de dezvoltare și modernizare a activităților de comercializare a produselor și serviciilor de piață - 2009*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112381",
+   "versions": [
+    {
+     "from": "2009-04-24",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112381",
+     "sha256": "226fc13beea1c3fe61ac62d024692e4e4553c213da79a70bd3933ff25ef702e1"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0409-4-2009",
+   "path": "procedura/imm/2009/04-09-4",
+   "short": "Procedura imm din 9 aprilie 2009",
+   "title": "Procedură din 9 aprilie 2009 de implementare a Programului pentru sprijinirea dezvoltării întreprinderilor mici și mijlocii prin fonduri în limita sumelor plătite pentru profitul brut reinvestit*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112382",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112382",
+     "sha256": "c75eb1be42762328a9a65fdbe3abaa23152649641c2c6310b5cbdd1e49e02089"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0409-5-2009",
+   "path": "procedura/imm/2009/04-09-5",
+   "short": "Procedura imm din 9 aprilie 2009",
+   "title": "Procedură din 9 aprilie 2009 de implementare a Programului național multianual pe perioada 2002-2012 pentru susținerea meșteșugurilor și artizanatului*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112383",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112383",
+     "sha256": "86ddaa32a706f42463654875c8b30c8b28fe8ecfc866635c8ae431666c375ae4"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0612-2009",
+   "path": "procedura/imm/2009/06-12",
+   "short": "Procedura imm din 12 iunie 2009",
+   "title": "Procedură*) din 12 iunie 2009 de implementare a Programului pentru dezvoltarea abilităților antreprenoriale în rândul tinerilor și facilitarea accesului acestora la finanțare - START",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110545",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110545",
+     "sha256": "7eaec410d4225f34e9a906c3664c30911d19281efd03264d4503b0fb4c52b592"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi0226-1-2009",
+   "path": "procedura/mediu/2009/02-26-1",
+   "short": "Procedura mediu din 26 februarie 2009",
+   "title": "Procedură din 26 februarie 2009 de restituire a sumelor prevăzute la art. IV alin. (1) din Ordonanța de urgență a Guvernului nr. 218/2008 privind modificarea Ordonanței de urgență a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103015",
+   "versions": [
+    {
+     "from": "2009-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103015",
+     "sha256": "68d4bac64116588082b19c7d51f47578ccb38166f086d131649e98a4b5dd0636"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi0226-2-2009",
+   "path": "procedura/mediu/2009/02-26-2",
+   "short": "Procedura mediu din 26 februarie 2009",
+   "title": "Procedură din 26 februarie 2009 de restituire a sumelor prevăzute la art. II alin. (2) din Ordonanța de urgență a Guvernului nr. 7/2009 privind modificarea Ordonanței de urgență a Guvernului nr. 50/2008 pentru instituirea taxei pe poluare pentru autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103016",
+   "versions": [
+    {
+     "from": "2009-03-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103016",
+     "sha256": "2166db95ea22bc11739f6855b704ef40fffe90c9dd95c9419eb51cee3e949aa9"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-sport-zi1009-2009",
+   "path": "procedura/sport/2009/10-09",
+   "short": "Procedura sport din 9 octombrie 2009",
+   "title": "Procedură din 9 octombrie 2009 de închiriere a bunurilor imobile din domeniul public al statului, aflate în administrarea Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113115",
+   "versions": [
+    {
+     "from": "2009-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113115",
+     "sha256": "621c01985292ef7c883527ccee98e60097c1dbd1379d20857a7ba12ef321888b"
+    }
+   ]
+  }
+ ]
+}

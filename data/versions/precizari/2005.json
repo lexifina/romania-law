@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "precizari/2005",
+ "acts": [
+  {
+   "slug": "precizari-educatie-zi0721-2005",
+   "path": "precizari/educatie/2005/07-21",
+   "short": "Precizări educatie din 21 iulie 2005",
+   "title": "Precizări din 21 iulie 2005 privind calculul valoric al documentelor pierdute, distruse ori deteriorate, găsite lipsă la inventar, pe baza datelor transmise de Institutul Național de Statistică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63882",
+   "versions": [
+    {
+     "from": "2005-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63882",
+     "sha256": "d2a750e72048bdfee036622018628614f45597e2d52593d4211334cea43d7bc5"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-sanatate-zi1110-2005",
+   "path": "precizari/sanatate/2005/11-10",
+   "short": "Precizări sanatate din 10 noiembrie 2005",
+   "title": "Precizări din 10 noiembrie 2005 privind activitatea de evidență și raportare a dispozitivelor medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65983",
+   "versions": [
+    {
+     "from": "2005-11-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65983",
+     "sha256": "4fde99b845bd9794928a09fbbf5285f48ddfcad6eb0d24bfc798bd3acee1df6f"
+    }
+   ]
+  }
+ ]
+}

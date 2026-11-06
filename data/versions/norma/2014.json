@@ -511,6 +511,51 @@
      "sha256": "9bcd0b2ab4ecd000af89ead97a7a16d983ac2d02041359e49a77474da1151bf0"
     }
    ]
+  },
+  {
+   "slug": "norma-sanatate-zi0415-2014",
+   "path": "norma/sanatate/2014/04-15",
+   "short": "Norma sanatate din 15 aprilie 2014",
+   "title": "Norme tehnice din 15 aprilie 2014 de finanțare și realizare a acțiunilor prioritare pentru profilaxia morții subite cardiace de cauză aritmică (AP-PMSC) prin implantarea de defibrilatoare cardiace interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157899",
+   "versions": [
+    {
+     "from": "2014-05-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157899",
+     "sha256": "b7e57369746805c22f4a6dbc5cf5301fb99fcbaf59e49c2ce9dc59d5ab2c9c1c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0530-2014",
+   "path": "norma/sanatate/2014/05-30",
+   "short": "Norma sanatate din 30 mai 2014",
+   "title": "Norme metodologice din 30 mai 2014 de aplicare în anul 2014 a Hotărârii Guvernului nr. 400/2014 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158665",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158665",
+     "sha256": "9d1e597c670e1483020f92df2e88695ac69c83b45628daee90cf78db0935f848"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0203-2014",
+   "path": "norma/transporturi/2014/02-03",
+   "short": "Norma transporturi din 3 februarie 2014",
+   "title": "Normă din 3 februarie 2014 privind atestarea profesorilor de legislație rutieră și a instructorilor de conducere auto (Anexa 1)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155631",
+   "versions": [
+    {
+     "from": "2014-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155631",
+     "sha256": "6b0d9c2848f251d310d8117a098b1e7453ca536d74b1831699047f32a3edca16"
+    }
+   ]
   }
  ]
 }

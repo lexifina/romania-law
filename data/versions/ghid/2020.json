@@ -3,6 +3,66 @@
  "shard": "ghid/2020",
  "acts": [
   {
+   "slug": "ghid-asf-zi0116-1-2020",
+   "path": "ghid/asf/2020/01-16-1",
+   "short": "Ghid asf din 16 ianuarie 2020",
+   "title": "Ghid din 16 ianuarie 2020 cu privire la criteriile STS pentru securitizarea non-ABCP (EBA/GL/2018/09)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222780",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222780",
+     "sha256": "9d54c2182eb928d46bddbf90f52ec8ef0e964db6fb9cee53beddc7ba02a55e1b"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0116-2-2020",
+   "path": "ghid/asf/2020/01-16-2",
+   "short": "Ghid asf din 16 ianuarie 2020",
+   "title": "Ghid din 16 ianuarie 2020 cu privire la criteriile STS pentru securitizarea ABCP (EBA/GL/2018/08)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222781",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222781",
+     "sha256": "3fe5ca7685427316b2c01f8ec9e698fbc456bf421bea8b902a728435c78a7467"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0902-2020",
+   "path": "ghid/asf/2020/09-02",
+   "short": "Ghid asf din 2 septembrie 2020",
+   "title": "Ghidul esma din 2 septembrie 2020 privind raportarea către autoritățile competente în conformitate cu articolul 37 din Regulamentul (UE) nr. 1.131/2017 privind fondurile de piață monetară (Money-market funds)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229989",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229989",
+     "sha256": "7b8531aca91687dfc21b1c419bf92beff74bd9d8cf04eddb82a5af98eb31d634"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0923-2020",
+   "path": "ghid/asf/2020/09-23",
+   "short": "Ghid asf din 23 septembrie 2020",
+   "title": "Ghid esma din 23 septembrie 2020 privind simularea situațiilor de criză de lichiditate în OPCVM și FIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230511",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230511",
+     "sha256": "aba31a6d6d62290f14178a48d1180d0ce22267a4bedfcfd97acf91755e22fb2c"
+    }
+   ]
+  },
+  {
    "slug": "ghid-guvern-zi0305-2020",
    "path": "ghid/guvern/2020/03-05",
    "short": "Ghid guvern din 5 martie 2020",

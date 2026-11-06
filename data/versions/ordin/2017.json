@@ -10833,6 +10833,21 @@
    ]
   },
   {
+   "slug": "ordin-culte-24-2017",
+   "path": "ordin/culte/2017/24",
+   "short": "Ordin culte nr. 24/2017",
+   "title": "Ordinul nr. 24/2017 privind conținutul, întocmirea și verificarea listelor originale cuprinzând adeziunile membrilor cetățeni români ai unei asociații religioase ce solicită recunoașterea calității de cult, precum și procedura emiterii de către Secretariatul de Stat pentru Culte a avizului consultativ privitor la recunoașterea calității de cult a unei asociații religioase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189923",
+   "versions": [
+    {
+     "from": "2017-06-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189923",
+     "sha256": "95eb414dd7a21ff330cdce7700d807cbf30c7b20453ab3edbcc03b9b83bf83f1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-culte-32-2017",
    "path": "ordin/culte/2017/32",
    "short": "Ordin culte nr. 32/2017",
@@ -15389,6 +15404,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197160",
      "sha256": "d7de0362757aefc0922b4cc747e474d716e1e9a43611ec9baa5b8f881f8dbaac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-512-2017",
+   "path": "ordin/exporturi/2017/512",
+   "short": "Ordin exporturi nr. 512/2017",
+   "title": "Ordinul nr. 512/2017 pentru abrogarea unor dispoziții ale Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.083/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 17 unități administrativ-teritoriale din județul Ilfov și ale Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.086/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 18 unități administrativ-teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189558",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189558",
+     "sha256": "204c04399d9ab803e7eefc0f479aa534ba22f71f093cc8da2205976e5b669500"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-exporturi-549-2017",
+   "path": "ordin/exporturi/2017/549",
+   "short": "Ordin exporturi nr. 549/2017",
+   "title": "Ordinul nr. 549/2017 privind abrogarea Ordinului directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 1.301/2016 privind aprobarea începerii lucrărilor de înregistrare sistematică a imobilelor, pe sectoare cadastrale, în 4 unități administrativ-teritoriale din județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190352",
+   "versions": [
+    {
+     "from": "2017-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190352",
+     "sha256": "345a21465130c10ab1a5d40fbca721e04ac1d29f8ffde9c10ef9b7b91d1750ca"
     }
    ]
   },

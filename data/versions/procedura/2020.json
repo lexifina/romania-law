@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "procedura/2020",
+ "acts": [
+  {
+   "slug": "procedura-anaf-zi0120-2020",
+   "path": "procedura/anaf/2020/01-20",
+   "short": "Procedura anaf din 20 ianuarie 2020",
+   "title": "Procedură din 20 ianuarie 2020 privind stabilirea sumei reprezentând până la 3,5% din impozitul anual datorat pentru susținerea entităților nonprofit care se înființează și funcționează în condițiile legii și a unităților de cult, precum și pentru acordarea de burse private, conform legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222412",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222412",
+     "sha256": "bb2f220aa414d51904d70b5f9164127967c94156f442d86a0096314ed7363301"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0324-2020",
+   "path": "procedura/anaf/2020/03-24",
+   "short": "Procedura anaf din 24 martie 2020",
+   "title": "Procedură din 24 martie 2020 de înregistrare a contractelor de fiducie, de organizare și funcționare a Registrului central al fiduciilor, precum și a modelului și conținutului formularului \"Declarație de înregistrare a contractelor de fiducie\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224458",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224458",
+     "sha256": "659d3ff9c8bd888bda700dafe5e32a54ecd8bb2286f42c3dc638d5e9c51a2267"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-aparare-zi0611-2020",
+   "path": "procedura/aparare/2020/06-11",
+   "short": "Procedura aparare din 11 iunie 2020",
+   "title": "Procedură din 11 iunie 2020 privind finalizarea dosarelor de candidat și executarea selecției candidaților care nu provin din rândul absolvenților de colegii naționale militare, la programele de studii universitare militare de licență pentru formarea ofițerilor în activitate, respectiv la programele de studii postliceale militare pentru formarea maiștrilor militari și a subofițerilor în activitate, în anul de învățământ 2020-2021, în instituțiile/unitățile de învățământ militar din rețeaua Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226841",
+   "versions": [
+    {
+     "from": "2020-06-17",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226841",
+     "sha256": "b520bf1f01f7fccdc34d78d896ec36286315a17e3232dfdcbe68ed00f42e70f3"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-sport-zi0825-2020",
+   "path": "procedura/sport/2020/08-25",
+   "short": "Procedura sport din 25 august 2020",
+   "title": "Procedură-cadru din 25 august 2020 de închiriere a bunurilor imobile aflate în proprietatea publică a statului și administrarea Ministerului Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229644",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229644",
+     "sha256": "dd1cc9dabcf3ae7d13ea819d337b7cdb2cc9905392be352d65f364995725bbea"
+    }
+   ]
+  }
+ ]
+}

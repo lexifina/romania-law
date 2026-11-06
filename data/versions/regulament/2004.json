@@ -168,6 +168,111 @@
    ]
   },
   {
+   "slug": "regulament-agricultura-zi0709-2004",
+   "path": "regulament/agricultura/2004/07-09",
+   "short": "Regulament agricultura din 9 iulie 2004",
+   "title": "Regulamentul din 9 iulie 2004 de organizare și funcționare a Comitetului interministerial pentru zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54026",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54026",
+     "sha256": "767355df941f47eeeb909dea92dce5245f305db39c8c846c2b37406ebbf3e9e6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anrgn-zi1022-1-2004",
+   "path": "regulament/anrgn/2004/10-22-1",
+   "short": "Regulament anrgn din 22 octombrie 2004",
+   "title": "Regulament din 22 octombrie 2004 pentru autorizarea și verificarea persoanelor fizice care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56382",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56382",
+     "sha256": "a7df6f8f4e66067fe2835aee2c13de0ac8ad5b74f1e3fef68f5c8820e3a072bc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anrgn-zi1022-2-2004",
+   "path": "regulament/anrgn/2004/10-22-2",
+   "short": "Regulament anrgn din 22 octombrie 2004",
+   "title": "Regulament din 22 octombrie 2004 pentru autorizarea și verificarea agenților economici care desfășoară activități de proiectare, execuție și exploatare în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56383",
+   "versions": [
+    {
+     "from": "2004-11-04",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56383",
+     "sha256": "c5e76cb644a27a21c9ff38aced89cf1ffac506ee4dc7c7c663ffae7e47a6505d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anrgn-zi1101-1-2004",
+   "path": "regulament/anrgn/2004/11-01-1",
+   "short": "Regulament anrgn din 1 noiembrie 2004",
+   "title": "Regulament de funcționare din 1 noiembrie 2004 a Comisiei de soluționare a refuzului accesului la sistemele de transport, distribuție, înmagazinare subterană a gazelor naturale și la conductele din amonte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56358",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56358",
+     "sha256": "752dfc5a48f764d9778cee5117a6f55bada9726e8d12db9f71c338d97d402234"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anrgn-zi1101-2-2004",
+   "path": "regulament/anrgn/2004/11-01-2",
+   "short": "Regulament anrgn din 1 noiembrie 2004",
+   "title": "Regulament din 1 noiembrie 2004 pentru acreditarea consumatorilor eligibili de gaze naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56360",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56360",
+     "sha256": "1ad89eea117a3053395441638363dd8730482436b848d3343dc45c509cfd0ad9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anrgn-zi1102-1-2004",
+   "path": "regulament/anrgn/2004/11-02-1",
+   "short": "Regulament anrgn din 2 noiembrie 2004",
+   "title": "Regulament din 2 noiembrie 2004 de programare, funcționare și dispecerizare a depozitelor de înmagazinare subterană a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57584",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57584",
+     "sha256": "727e1e59a65530288b56498bd54a85c0f97d8056a1ae695969eadb0ba88ff45c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anrgn-zi1102-2-2004",
+   "path": "regulament/anrgn/2004/11-02-2",
+   "short": "Regulament anrgn din 2 noiembrie 2004",
+   "title": "Regulament din 2 noiembrie 2004 privind alimentarea cu gaze naturale a consumatorilor captivi racordați direct în Sistemul național de transport și/sau la conductele din amonte și a consumatorilor eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57590",
+   "versions": [
+    {
+     "from": "2004-12-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57590",
+     "sha256": "1f79bff9ed267d8297800d00261f7fa22b56d75a6d264e9ab5a1ec7464e7cc3d"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-2-2004",
    "path": "regulament/bnr/2004/2",
    "short": "Regulament bnr nr. 2/2004",
@@ -209,6 +314,1041 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50917",
      "sha256": "5030b87dba71e466bcb3f0b47bc68d634c8f24377ddd8aa376dad38137c73cea"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0323-1-2004",
+   "path": "regulament/concurenta/2004/03-23-1",
+   "short": "Regulament concurenta din 23 martie 2004",
+   "title": "Regulament din 23 martie 2004 privind ajutorul de stat pentru întreprinderile mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51284",
+   "versions": [
+    {
+     "from": "2004-04-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51284",
+     "sha256": "70a6cec7c62f48a1e35dae2f1a249857829d3a01f09ee9a923ca60900d915d29"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0323-2-2004",
+   "path": "regulament/concurenta/2004/03-23-2",
+   "short": "Regulament concurenta din 23 martie 2004",
+   "title": "Regulament din 23 martie 2004 privind ajutorul de stat regional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51285",
+   "versions": [
+    {
+     "from": "2004-04-19",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51285",
+     "sha256": "a758a302a81719b6250776ef441781b3d0cbda2a81410d797733dcd6109b7052"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0326-1-2004",
+   "path": "regulament/concurenta/2004/03-26-1",
+   "short": "Regulament concurenta din 26 martie 2004",
+   "title": "Regulament din 26 martie 2004 de organizare, funcționare și procedură al Consiliului Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50987",
+   "versions": [
+    {
+     "from": "2004-04-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50987",
+     "sha256": "26d0cb6337e3e8b29cb75930d3c3a2da09d8cdb601f0ccb8aebc9319e34f9b35"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0326-2-2004",
+   "path": "regulament/concurenta/2004/03-26-2",
+   "short": "Regulament concurenta din 26 martie 2004",
+   "title": "Regulament din 26 martie 2004 privind stabilirea și perceperea tarifelor pentru procedurile și serviciile prevăzute de Legea concurenței nr. 21/1996 și regulamentele emise în aplicarea acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50988",
+   "versions": [
+    {
+     "from": "2004-04-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50988",
+     "sha256": "8c4ab45e855c97bd31f7efbe2ea74fd85de08d75665e39fde8a3ea55a9e307a6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0329-1-2004",
+   "path": "regulament/concurenta/2004/03-29-1",
+   "short": "Regulament concurenta din 29 martie 2004",
+   "title": "Regulament din 29 martie 2004 privind aplicarea ari 5 alin. (2) din Legea concurenței nr. 21/1996 în cazul înțelegerilor verticale din sectorul autovehiculelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50833",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50833",
+     "sha256": "bf538fac6f1f82a31ac545b32aa307ca8b0b89b0b189595c27dade1c36d6bc96"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0329-2-2004",
+   "path": "regulament/concurenta/2004/03-29-2",
+   "short": "Regulament concurenta din 29 martie 2004",
+   "title": "Regulament din 29 martie 2004 privind autorizarea concentrărilor economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50834",
+   "versions": [
+    {
+     "from": "2004-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50834",
+     "sha256": "2a1f742abb8a121a32274bea27d33a43ccbd6edbc314faecd5b542d248e78a42"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0405-1-2004",
+   "path": "regulament/concurenta/2004/04-05-1",
+   "short": "Regulament concurenta din 5 aprilie 2004",
+   "title": "Regulament din 5 aprilie 2004 privind aplicarea art. 5 alin.(2) din Legea concurenței nr. 21/1996 , în cazul înțelegerilor verticale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51535",
+   "versions": [
+    {
+     "from": "2004-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51535",
+     "sha256": "909d815e5540d2c596e4e6ff7c8e2892c060d08716f8f438bd5800541029bae1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0405-3-2004",
+   "path": "regulament/concurenta/2004/04-05-3",
+   "short": "Regulament concurenta din 5 aprilie 2004",
+   "title": "Regulament din 5 aprilie 2004 Regulament privind regimul disciplinar pentru personalul din cadrul Consiliului Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51537",
+   "versions": [
+    {
+     "from": "2004-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51537",
+     "sha256": "07e1f88670acc17728a22ad334d1a391deec6827d6d7d8fb18a5649f8e02fb65"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0408-2004",
+   "path": "regulament/concurenta/2004/04-08",
+   "short": "Regulament concurenta din 8 aprilie 2004",
+   "title": "Regulament din 8 aprilie 2004 pentru modificarea și completarea Regulamentului de organizare, funcționare și procedură al Consiliului Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51533",
+   "versions": [
+    {
+     "from": "2004-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51533",
+     "sha256": "4ebe5f6a0be93af8a3b37b9f82ef6a09657b90e13a3a4c32253a0f452a4200f6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0414-1-2004",
+   "path": "regulament/concurenta/2004/04-14-1",
+   "short": "Regulament concurenta din 14 aprilie 2004",
+   "title": "Regulament din 14 aprilie 2004 privind regimul exceptării, pe categorii de înțelegeri, decizii luate de asociațiile de agenți economici și practici concertate privind consultările pentru tarifele de transport de pasageri pentru serviciile aeriene regulate și alocarea sloturilor*) în aeroporturi, de la interdicția prevăzută la art. 5 alin. (1) din Legea concurenței nr. 21/1996 , cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51874",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51874",
+     "sha256": "4cda583e88035d48790b78bee6d130505aad0fc0a476bae1683a83985e14efc5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0414-2-2004",
+   "path": "regulament/concurenta/2004/04-14-2",
+   "short": "Regulament concurenta din 14 aprilie 2004",
+   "title": "Regulament din 14 aprilie 2004 privind exceptarea acordurilor de cercetare-dezvoltare de la interdicția prevăzută la art. 5 alin. (1) din Legea concurentei nr. 21/1996 , cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51878",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51878",
+     "sha256": "ce4ab22e124e9e694229a248b1080941df6389d368ac0a221f2045df337a4bd4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0414-3-2004",
+   "path": "regulament/concurenta/2004/04-14-3",
+   "short": "Regulament concurenta din 14 aprilie 2004",
+   "title": "Regulament din 14 aprilie 2004 privind regimul exceptării, pe categorii de înțelegeri, decizii luate de asociațiile de agenți economici și practici concertate, în domeniul transporturilor maritime, de la interdicția prevăzută la art. 5 alin. (1) din Legea concurenței nr. 21/1996 , cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51924",
+   "versions": [
+    {
+     "from": "2004-05-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51924",
+     "sha256": "3ee7b784b701cefc350fe0673d9aa855c2d60feae32b3147c3cd34264c226f66"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0416-1-2004",
+   "path": "regulament/concurenta/2004/04-16-1",
+   "short": "Regulament concurenta din 16 aprilie 2004",
+   "title": "Regulament din 16 aprilie 2004 pentru aplicarea prevederilor art. 5 și 6 din Legea concurenței nr. 21/1996 , cu modificările și completările ulterioare, privind practicile anticoncurențiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51893",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51893",
+     "sha256": "ef0b602a4af2a94e20eabe4fdeb013c7169f43a432ef530e19816434fe938244"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0416-2-2004",
+   "path": "regulament/concurenta/2004/04-16-2",
+   "short": "Regulament concurenta din 16 aprilie 2004",
+   "title": "Regulament din 16 aprilie 2004 privind regimul exceptării acordurilor din domeniul asigurărilor de la interdicția prevăzută la art. 5 alin. (1) din Legea concurentei nr. 21/1996 , cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51947",
+   "versions": [
+    {
+     "from": "2004-05-18",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51947",
+     "sha256": "b379b4ebc6d200c27dfef7ebea15269c954cf25c942ec3cd07d93fc8284432d7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0521-1-2004",
+   "path": "regulament/concurenta/2004/05-21-1",
+   "short": "Regulament concurenta din 21 mai 2004",
+   "title": "Regulament din 21 mai 2004 privind transparența relațiilor financiare dintre autoritățile publice și întreprinderile publice, precum și transparența financiară în cadrul anumitor întreprinderi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52603",
+   "versions": [
+    {
+     "from": "2004-06-10",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52603",
+     "sha256": "db44c188e1fcc21de5916cc47d8607566907363707c4633593ce7226bb338012"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0521-2-2004",
+   "path": "regulament/concurenta/2004/05-21-2",
+   "short": "Regulament concurenta din 21 mai 2004",
+   "title": "Regulament din 21 mai 2004 pentru modificarea alin. (2) al art. 4 din Regulamentul cu privire la ajutorul de stat pentru protecția mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52605",
+   "versions": [
+    {
+     "from": "2004-06-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52605",
+     "sha256": "803246e81e8a43d6dd9625987ccd36bedaac32ff4b346d0bf54d1bb5e6e0761c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0521-3-2004",
+   "path": "regulament/concurenta/2004/05-21-3",
+   "short": "Regulament concurenta din 21 mai 2004",
+   "title": "Regulament din 21 mai 2004 pentru modificarea Regulamentului privind ajutorul de stat pentru instruirea angajaților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52607",
+   "versions": [
+    {
+     "from": "2004-06-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52607",
+     "sha256": "eae8fbe33b81955a0ac19a14500a46e081d3f30ea1a7a7322ab1de6933e70b43"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0526-2004",
+   "path": "regulament/concurenta/2004/05-26",
+   "short": "Regulament concurenta din 26 mai 2004",
+   "title": "Regulament din 26 mai 2004 pentru modificarea și completarea Regulamentului privind ajutorul de stat pentru salvarea și restructurarea firmelor în dificultate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52578",
+   "versions": [
+    {
+     "from": "2004-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52578",
+     "sha256": "b7ce71c7e8f1c112251ef61fcc13675dc7dbc82a7e6485cde0518d9728b4c6f8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0527-1-2004",
+   "path": "regulament/concurenta/2004/05-27-1",
+   "short": "Regulament concurenta din 27 mai 2004",
+   "title": "Regulament din 27 mai 2004 pentru modificarea și completarea Regulamentului privind ajutorul de stat pentru cercetare și dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52580",
+   "versions": [
+    {
+     "from": "2004-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52580",
+     "sha256": "cc919f21989e3a62300dfaf9d91628d170a7af169039c395b967b4289f928524"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0527-2-2004",
+   "path": "regulament/concurenta/2004/05-27-2",
+   "short": "Regulament concurenta din 27 mai 2004",
+   "title": "Regulament din 27 mai 2004 pentru modificarea alin. (1) al art. 11 din Regulamentul privind aplicarea art. 5 alin. (2) din Legea concurenței nr. 21/1996 în cazul înțelegerilor verticale din sectorul autovehiculelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52582",
+   "versions": [
+    {
+     "from": "2004-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52582",
+     "sha256": "be7e1ddac8ac7619379a4e712134fed23496ed657754d9e880457fb619abcceb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0812-2004",
+   "path": "regulament/concurenta/2004/08-12",
+   "short": "Regulament concurenta din 12 august 2004",
+   "title": "Regulament din 12 august 2004 pentru modificarea și completarea Regulamentului de organizare, funcționare și procedură al Consiliului Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54966",
+   "versions": [
+    {
+     "from": "2004-09-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54966",
+     "sha256": "c457980a22a38b248b7946099e9f2cf778d68b561fd8692eac775ffe4513a4a6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0817-2004",
+   "path": "regulament/concurenta/2004/08-17",
+   "short": "Regulament concurenta din 17 august 2004",
+   "title": "Regulament din 17 august 2004 pentru modificarea și completarea Regulamentului multisectorial privind ajutorul de stat regional pentru proiecte mari de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55214",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55214",
+     "sha256": "b01d464373262022710a1e906613f4b1d4ec90f05ee9725e0ede0e456c078bdc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0910-1-2004",
+   "path": "regulament/concurenta/2004/09-10-1",
+   "short": "Regulament concurenta din 10 septembrie 2004",
+   "title": "Regulament din 10 septembrie 2004 privind ajutorul de stat pentru cercetare și dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55216",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55216",
+     "sha256": "16753214f925f2cee4d6ab965df4ffb5fde018451975520850e21a4377d78380"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0910-2-2004",
+   "path": "regulament/concurenta/2004/09-10-2",
+   "short": "Regulament concurenta din 10 septembrie 2004",
+   "title": "Regulament din 10 septembrie 2004 pentru modificarea Regulamentului privind ajutorul de stat pentru întreprinderile mici și mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55220",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55220",
+     "sha256": "9a184c47d595eee2375c77a73504659d4afd71ddde8f24754f85f8f5f60f3bdf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0910-3-2004",
+   "path": "regulament/concurenta/2004/09-10-3",
+   "short": "Regulament concurenta din 10 septembrie 2004",
+   "title": "Regulament din 10 septembrie 2004 pentru modificarea și completarea Regulamentului privind ajutorul de stat regional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55223",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55223",
+     "sha256": "f19e5b735840f37c0aea3aae13d164ba42c4cb4bdf6463f889d88171f9ec9d66"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0910-4-2004",
+   "path": "regulament/concurenta/2004/09-10-4",
+   "short": "Regulament concurenta din 10 septembrie 2004",
+   "title": "Regulament din 10 septembrie 2004 pentru modificarea și completarea Regulamentului privind ajutorul de stat pentru ocuparea forței de muncă, elaborat în temeiul Legii nr. 143/1999 privind ajutorul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55231",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55231",
+     "sha256": "c9ba2a05fc113c9dc33c521e550d080551e939ba82a4841e68bfcda55e2e9fa0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0930-2004",
+   "path": "regulament/concurenta/2004/09-30",
+   "short": "Regulament concurenta din 30 septembrie 2004",
+   "title": "Regulament din 30 septembrie 2004 privind ajutoarele de stat acordate în industria construcțiilor de nave",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55910",
+   "versions": [
+    {
+     "from": "2004-10-18",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55910",
+     "sha256": "dc300d99269ffaac65852f13767286d20456082203002c4fd05264263db760ae"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi1123-2004",
+   "path": "regulament/concurenta/2004/11-23",
+   "short": "Regulament concurenta din 23 noiembrie 2004",
+   "title": "Regulament din 23 noiembrie 2004 privind ajutorul de stat pentru salvarea și restructurarea întreprinderilor în dificultate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57874",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57874",
+     "sha256": "5f5bf7854fd134fb83a15e5f3f964ad87140b22e5ccbf269da7d252af0421aa5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi1231-2004",
+   "path": "regulament/concurenta/2004/12-31",
+   "short": "Regulament concurenta din 31 decembrie 2004",
+   "title": "Regulament din 31 decembrie 2004 privind individualizarea sancțiunilor pentru contravențiile prevăzute de Legea nr. 143/1999 privind ajutorul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58688",
+   "versions": [
+    {
+     "from": "2005-01-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58688",
+     "sha256": "d772013ab06b3c0c09fd31b38cc7666ee3501cc017c1ae152e23f41d17899072"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cultura-zi0317-1-2004",
+   "path": "regulament/cultura/2004/03-17-1",
+   "short": "Regulament cultura din 17 martie 2004",
+   "title": "Regulament - CADRU din 17 martie 2004 de organizare și funcționare a casei de cultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51056",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51056",
+     "sha256": "89100f488d91b3c2711e292219f65749359e3ca67c37ed5c4bb4f596fbbf149b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cultura-zi0317-2-2004",
+   "path": "regulament/cultura/2004/03-17-2",
+   "short": "Regulament cultura din 17 martie 2004",
+   "title": "Regulament - CADRU din 17 martie 2004 de organizare și funcționare a universității populare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51057",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51057",
+     "sha256": "6e454c1823cbd1aa9e567c29b8c40577810c77c39225944bbcf8a61914e47f2b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cultura-zi0317-3-2004",
+   "path": "regulament/cultura/2004/03-17-3",
+   "short": "Regulament cultura din 17 martie 2004",
+   "title": "Regulament - CADRU din 17 martie 2004 de organizare și funcționare a școlilor populare de arte și meserii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51058",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51058",
+     "sha256": "8024a1dbfdd451afa0c0699923dcd02b699920e4aca5b041b5a728a823baa273"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cultura-zi0317-4-2004",
+   "path": "regulament/cultura/2004/03-17-4",
+   "short": "Regulament cultura din 17 martie 2004",
+   "title": "Regulament - CADRU din 17 martie 2004 de organizare și funcționare a centrului cultural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51059",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51059",
+     "sha256": "78e9ee230bda96d31038e37af9276e595d3f77a62887830c8e1f342bbcdfbd28"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cultura-zi0317-5-2004",
+   "path": "regulament/cultura/2004/03-17-5",
+   "short": "Regulament cultura din 17 martie 2004",
+   "title": "Regulament - CADRU din 17 martie 2004 de organizare și funcționare a centrului județean pentru conservarea și promovarea culturii tradiționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51060",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51060",
+     "sha256": "613db905c6d96c82caa21631ef492b05c2a377d843fe798fd0c09063b0876172"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cultura-zi0726-2004",
+   "path": "regulament/cultura/2004/07-26",
+   "short": "Regulament cultura din 26 iulie 2004",
+   "title": "Regulament din 26 iulie 2004 pentru împrumutul interbibliotecar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58562",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58562",
+     "sha256": "20da2b63deb9a26d6101f15dff587cea61f223325cf8509ac62ea04d10648861"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-economie-zi0421-2004",
+   "path": "regulament/economie/2004/04-21",
+   "short": "Regulament economie din 21 aprilie 2004",
+   "title": "Regulament din 21 aprilie 2004 de organizare și funcționare a Comisiei pentru derularea mecanismului de acordare a sprijinului financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51564",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51564",
+     "sha256": "3bab20816761be372be7695e561cc23500776acf3497604f09f5696ed60d7262"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-economie-zi0805-2004",
+   "path": "regulament/economie/2004/08-05",
+   "short": "Regulament economie din 5 august 2004",
+   "title": "Regulament din 5 august 2004 de organizare și funcționare a Comisiei de recunoaștere a organismelor pentru evaluarea conformității echipamentelor sub presiune și a organizațiilor de terță parte pentru efectuarea încercărilor prevăzute la pct. 3.1.2 și 3.1.3 din anexa nr. 1 la Hotărârea Guvernului nr. 584/2004 privind stabilirea condițiilor de introducere pe piață a echipamentelor sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55025",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55025",
+     "sha256": "70a06a08c12c8379f27ffe61faded8a4355155bb8d501f4c281e8feef9bc89b2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-economie-zi1206-2004",
+   "path": "regulament/economie/2004/12-06",
+   "short": "Regulament economie din 6 decembrie 2004",
+   "title": "Regulament din 6 decembrie 2004 de organizare și funcționare a Comisiei de desemnare a serviciului tehnic care efectuează încercările pentru motoarele destinate a fi montate pe mașini mobile nerutiere și pentru motoarele secundare destinate vehiculelor pentru transportul rutier de persoane sau de marfă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58098",
+   "versions": [
+    {
+     "from": "2004-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58098",
+     "sha256": "5f7061aeb5e0fc4be25083137b84d4b56a1c42044b7e8d85fec53a1947554377"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi0109-2004",
+   "path": "regulament/educatie/2004/01-09",
+   "short": "Regulament educatie din 9 ianuarie 2004",
+   "title": "Regulament din 9 ianuarie 2004 de organizare și funcționare a Departamentului de Coordonare a Firmelor de Exercițiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49518",
+   "versions": [
+    {
+     "from": "2004-02-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49518",
+     "sha256": "3efcd1d4990da666b16376a98dfdb626d4c617eee91c689fbb8a93a64b07c2dd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0304-2004",
+   "path": "regulament/guvern/2004/03-04",
+   "short": "Regulament guvern din 4 martie 2004",
+   "title": "Regulament din 4 martie 2004 de organizare și funcționare al Institutului Național de Cercetare-Dezvoltare pentru Chimie și Petrochimie - ICECHIM București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50630",
+   "versions": [
+    {
+     "from": "2004-03-23",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50630",
+     "sha256": "2e7860f853075a37f5992f888caf5de17c6825de2f8f54ed38993a2ea9e3992b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0615-1-2004",
+   "path": "regulament/guvern/2004/06-15-1",
+   "short": "Regulament guvern din 15 iunie 2004",
+   "title": "Regulament - CADRU din 15 iunie 2004 de organizare și funcționare a serviciilor publice de administrare a domeniului public și privat de interes local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53713",
+   "versions": [
+    {
+     "from": "2004-07-22",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53713",
+     "sha256": "317909f28fc755393977e47adb195fd7f086af2e1c24e2a21d89cbec0a8275df"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0615-2-2004",
+   "path": "regulament/guvern/2004/06-15-2",
+   "short": "Regulament guvern din 15 iunie 2004",
+   "title": "Regulament - CADRU din 15 iunie 2004 de delegare a gestiunii serviciilor publice de administrare a domeniului public și privat de interes local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53714",
+   "versions": [
+    {
+     "from": "2004-07-22",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53714",
+     "sha256": "aab54686cdd5c53ca3c5e5f79fb666aefc32fe5a38a2e14bd15acba284c45f9b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0625-2004",
+   "path": "regulament/guvern/2004/06-25",
+   "short": "Regulament guvern din 25 iunie 2004",
+   "title": "Regulament din 25 iunie 2004 de organizare și funcționare al Agenției Române de Intervenții și Salvare Navală - ARISN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53741",
+   "versions": [
+    {
+     "from": "2004-07-22",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53741",
+     "sha256": "ab75375b4b62abef69eaeec945511ebfb70f4d2f5a9e939b5f933ba6a7988020"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0813-2004",
+   "path": "regulament/guvern/2004/08-13",
+   "short": "Regulament guvern din 13 august 2004",
+   "title": "Regulament din 13 august 2004 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Inginerie Electrică ICPE - CA București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54662",
+   "versions": [
+    {
+     "from": "2004-08-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54662",
+     "sha256": "1717b59940269020a0794219dcfc9e82a9b6143cb033f07f3e1e37bc8c13063e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0826-2004",
+   "path": "regulament/guvern/2004/08-26",
+   "short": "Regulament guvern din 26 august 2004",
+   "title": "Regulament din 26 august 2004 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Pedologie, Agrochimie și Protecția Mediului - ICPA București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55061",
+   "versions": [
+    {
+     "from": "2004-09-09",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55061",
+     "sha256": "92b804f77adea624182d7c96af20895014f2116d0178027c181f6c3c821eeefd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0902-1-2004",
+   "path": "regulament/guvern/2004/09-02-1",
+   "short": "Regulament guvern din 2 septembrie 2004",
+   "title": "Regulament din 2 septembrie 2004 de organizare și funcționare a Administrației Naționale de Meteorologie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55143",
+   "versions": [
+    {
+     "from": "2004-09-14",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55143",
+     "sha256": "4c3b3e53a0fdec9d9f961845896db39803936c08c4ae5bd48329fd18089b1ab2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0902-2-2004",
+   "path": "regulament/guvern/2004/09-02-2",
+   "short": "Regulament guvern din 2 septembrie 2004",
+   "title": "Regulament-cadru din 2 septembrie 2004 de organizare și funcționare a serviciilor de tip rezidențial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55383",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55383",
+     "sha256": "cb60e235cdfda95f385ccd52636b05dda768439cfa3eeb9eda412d7b8cabf23f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0902-3-2004",
+   "path": "regulament/guvern/2004/09-02-3",
+   "short": "Regulament guvern din 2 septembrie 2004",
+   "title": "Regulament-cadru din 2 septembrie 2004 de organizare și funcționare a serviciilor de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55384",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55384",
+     "sha256": "cf61fa60f492c3fae6cc0664a3a7313be157fdd3a7eb481cdc51119d923b42cf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0902-4-2004",
+   "path": "regulament/guvern/2004/09-02-4",
+   "short": "Regulament guvern din 2 septembrie 2004",
+   "title": "Regulament-cadru din 2 septembrie 2004 de organizare și funcționare a serviciilor de tip familial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55385",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55385",
+     "sha256": "479d944be169fe2dc0bf37a919962db45d24f8783820f22b2b92cccc7534c26e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0909-2004",
+   "path": "regulament/guvern/2004/09-09",
+   "short": "Regulament guvern din 9 septembrie 2004",
+   "title": "Regulament din 9 septembrie 2004 de organizare și funcționare al Inspectoratului General pentru Situații de Urgență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55512",
+   "versions": [
+    {
+     "from": "2004-09-28",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55512",
+     "sha256": "041005463887a9a0000948b160764fcad4c4e9245d07e5d7845ce011e8363d5a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1007-2004",
+   "path": "regulament/guvern/2004/10-07",
+   "short": "Regulament guvern din 7 octombrie 2004",
+   "title": "Regulament din 7 octombrie 2004 de organizare și funcționare a Centrului Național de Calificare și Instruire Feroviară - CENAFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56111",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56111",
+     "sha256": "9b8dbd8304c7562c5bb764387197eafc44ba0e4cc55b8491500ebd4c845004af"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1124-1-2004",
+   "path": "regulament/guvern/2004/11-24-1",
+   "short": "Regulament guvern din 24 noiembrie 2004",
+   "title": "Regulament din 24 noiembrie 2004 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Metale Neferoase și Rare - IMNR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57719",
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57719",
+     "sha256": "d05e9a1a1b4088074df133349711af649e23a1b325e74e62ad2c123e55e61aac"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1124-2-2004",
+   "path": "regulament/guvern/2004/11-24-2",
+   "short": "Regulament guvern din 24 noiembrie 2004",
+   "title": "Regulament din 24 noiembrie 2004 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare pentru Biotehnologii în Horticultură Ștefănești - Argeș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58250",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58250",
+     "sha256": "2683e3da10862a6c7ba5c472f3161efc22d7f6bcf86a70bfd12e647a0bf8dec8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-iccj-zi0921-1-2004",
+   "path": "regulament/iccj/2004/09-21-1",
+   "short": "Regulament iccj din 21 septembrie 2004",
+   "title": "Regulament din 21 septembrie 2004 privind organizarea și funcționarea administrativă a Înaltei Curți de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55427",
+   "versions": [
+    {
+     "from": "2004-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55427",
+     "sha256": "a0df42971ddbea7f38bc329ef9f021d47e32baa66f6b99408f7a34ee93c4b3e4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-iccj-zi0921-2-2004",
+   "path": "regulament/iccj/2004/09-21-2",
+   "short": "Regulament iccj din 21 septembrie 2004",
+   "title": "Regulament din 21 septembrie 2004 privind organizarea și funcționarea administrativă a Înaltei Curți de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223105",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223105",
+     "sha256": "67559118bbfd8a7e7e926ba8e41357c3146e4f89e9b4185200a41ae594cd09ec"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi0927-2004",
+   "path": "regulament/justitie/2004/09-27",
+   "short": "Regulament justitie din 27 septembrie 2004",
+   "title": "Regulament din 27 septembrie 2004 privind organizarea și desfășurarea concursului pentru ocuparea funcției vacante de manager economic și a celorlalte posturi vacante de personal din cadrul departamentelor economico-financiare și administrative ale curților de apel și tribunalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55762",
+   "versions": [
+    {
+     "from": "2004-10-12",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55762",
+     "sha256": "6a16d8bf1002c948514387064a887864384a89b5dedccbdac14b5a5866671f4f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi1008-2004",
+   "path": "regulament/justitie/2004/10-08",
+   "short": "Regulament justitie din 8 octombrie 2004",
+   "title": "Regulament din 8 octombrie 2004 de organizare și desfășurare a perioadei de stagiu, a cursurilor de specializare și a evaluării pentru definitivarea în funcție a funcționarilor publici debutanți din sistemul administrației penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56995",
+   "versions": [
+    {
+     "from": "2004-11-25",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56995",
+     "sha256": "a655a050fee2e983d03450bfe7ed079b65829368e8ebe68a13640124a826f7f7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi1029-1-2004",
+   "path": "regulament/justitie/2004/10-29-1",
+   "short": "Regulament justitie din 29 octombrie 2004",
+   "title": "Regulament din 29 octombrie 2004 privind modul de constituire, organizare și desfășurare a activității comisiilor de disciplină din Administrația Națională a Penitenciarelor și unitățile subordonate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57027",
+   "versions": [
+    {
+     "from": "2004-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57027",
+     "sha256": "0611f26851868c15460d6459088216e952d8522630c4201575eb631ea04d0bf1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-justitie-zi1029-2-2004",
+   "path": "regulament/justitie/2004/10-29-2",
+   "short": "Regulament justitie din 29 octombrie 2004",
+   "title": "Regulament din 29 octombrie 2004 privind condițiile de participare, organizare și desfășurare a concursurilor pentru ocuparea posturilor vacante și avansare, precum și condițiile pentru modificarea și încetarea raporturilor de serviciu ale funcționarilor publici din sistemul administrației penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57050",
+   "versions": [
+    {
+     "from": "2004-11-25",
+     "units": 74,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57050",
+     "sha256": "8618f0f915ac40ad676b810e836211643a1b5259c70ca2945fbcc31049592050"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-munca-zi0421-1-2004",
+   "path": "regulament/munca/2004/04-21-1",
+   "short": "Regulament munca din 21 aprilie 2004",
+   "title": "Regulament din 21 aprilie 2004 de organizare și funcționare a Autorității Naționale pentru Persoanele cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51858",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51858",
+     "sha256": "aeb3716fb08a268cafbe7cdf3ae742fa9ef1871dcd2de98b9fd4195885cbe29c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-munca-zi0421-2-2004",
+   "path": "regulament/munca/2004/04-21-2",
+   "short": "Regulament munca din 21 aprilie 2004",
+   "title": "Regulament din 21 aprilie 2004 de organizare și funcționare a Institutului Național pentru Prevenirea și Combaterea Excluziunii Sociale a Persoanelor cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51859",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51859",
+     "sha256": "092bdd3448ece65053068a320c2187bf7115923bedd1d207ba06b8f36a21d75f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-munca-zi0421-3-2004",
+   "path": "regulament/munca/2004/04-21-3",
+   "short": "Regulament munca din 21 aprilie 2004",
+   "title": "Regulament din 21 aprilie 2004 de organizare și funcționare a inspecțiilor regionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51860",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51860",
+     "sha256": "8bc252b966b4481fdf89858171de1557577ca39be59b04b8dd6ec5e967cca037"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-munca-zi0421-4-2004",
+   "path": "regulament/munca/2004/04-21-4",
+   "short": "Regulament munca din 21 aprilie 2004",
+   "title": "Regulament din 21 aprilie 2004 de organizare și funcționare a Comisiei superioare de expertiză medicală a persoanelor cu handicap pentru adulți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51861",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51861",
+     "sha256": "1ab48c33672d3eb6c25a975f1bd3dfb49a8d5ae863c50e3ab483d108a7bc9c56"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0701-2004",
+   "path": "regulament/sanatate/2004/07-01",
+   "short": "Regulament sanatate din 1 iulie 2004",
+   "title": "Regulament din 1 iulie 2004 privind timpul de muncă, organizarea și efectuarea gărzilor în unitățile publice din sectorul sanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53836",
+   "versions": [
+    {
+     "from": "2004-07-26",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53836",
+     "sha256": "cadf111e9e246c49ab1c9e2f5f037ff6657e58583d85253a93d30701d6f010aa"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi1223-2004",
+   "path": "regulament/sanatate/2004/12-23",
+   "short": "Regulament sanatate din 23 decembrie 2004",
+   "title": "Regulament*) din 23 decembrie 2004 de organizare și funcționare a unităților de dializa publice și private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61116",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61116",
+     "sha256": "32c2fb7ec9baea6c16838a32d9b782a857b89d5aaab3b1359feae3e94e21ce56"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi0622-2004",
+   "path": "regulament/transporturi/2004/06-22",
+   "short": "Regulament transporturi din 22 iunie 2004",
+   "title": "Regulament din 22 iunie 2004 privind standardele de instruire, confirmarea competentei și eliberarea brevetelor și a certificatelor de capacitate pentru personalul navigant maritim",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56158",
+   "versions": [
+    {
+     "from": "2004-09-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56158",
+     "sha256": "a44eb5248138bb51ccaa07d383a1f3d1ddf23580ff91b05d235abf802197472e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi0826-2004",
+   "path": "regulament/transporturi/2004/08-26",
+   "short": "Regulament transporturi din 26 august 2004",
+   "title": "Regulament din 26 august 2004 privind atestarea conformității produselor pentru construcții*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102445",
+   "versions": [
+    {
+     "from": "2005-02-27",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102445",
+     "sha256": "1ef1f96bb8f4f67dc34832ff59a6b34d25af51ce41194493f7484a162d7e4b83"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi1007-2004",
+   "path": "regulament/transporturi/2004/10-07",
+   "short": "Regulament transporturi din 7 octombrie 2004",
+   "title": "Regulament din 7 octombrie 2004 privind clasificarea și încadrarea produselor pentru construcții pe baza performanțelor de comportare la foc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58918",
+   "versions": [
+    {
+     "from": "2005-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58918",
+     "sha256": "3d520ffbae5b7c12dc08cd77b64a9e2a3a67ca9e3c8e24ade7f912b93c015dc5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi1117-2004",
+   "path": "regulament/transporturi/2004/11-17",
+   "short": "Regulament transporturi din 17 noiembrie 2004",
+   "title": "Regulament din 17 noiembrie 2004 de organizare și funcționare a Comisiei de recunoaștere a organismelor desemnate pentru atestarea conformității produselor pentru construcții, prevăzute la art. 27 din Hotărârea Guvernului nr. 622/2004 privind stabilirea condițiilor de introducere pe piață a produselor pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57164",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57164",
+     "sha256": "be5a7361b7082fd001b1f29f5d505b1774e7a5254ce42f266153ddc24ef878d8"
     }
    ]
   }

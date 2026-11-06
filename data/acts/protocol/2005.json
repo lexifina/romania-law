@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "protocol/2005",
+"acts": [
+{
+"slug": "protocol-orda-zi0323-2005",
+"path": "protocol/orda/2005/03-23",
+"kind": "protocol",
+"year": "2005",
+"number": "03-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 23 martie 2005 referitor la Metodologia privind utilizarea de retransmitere prin cablu a operelor muzicale, audiovizuale, cinematografice, scrise, plastice, a fonogramelor publicate în scop comercial sau a reproducerilor acestora, preluate din radiodifuzări inițiale, și tabelul cuprinzând drepturile patrimoniale cuvenite titularilor de drepturi de autor și titularilor de drepturi conexe dreptului de autor, pentru aplicarea prevederilor Legii nr. 8/1996 privind dreptul de autor și drepturile conexe, cu modificările și completările ulterioare",
+"short": "Protocol orda din 23 martie 2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-06-22",
+"latest": "2005-06-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/62501",
+"issuer": "orda",
+"joint": []
+},
+{
+"slug": "protocol-orda-zi0503-2005",
+"path": "protocol/orda/2005/05-03",
+"kind": "protocol",
+"year": "2005",
+"number": "05-03",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 3 mai 2005 referitor la Metodologia privind cuantumul remunerației compensatorii pentru copia privată pentru coli de hârtie pentru copiator format A4, încheiat între organismele de gestiune colectivă Societatea de Gestiune Colectivă a Drepturilor de Autor - COPYRO și Societatea de Gestiune Colectivă a Dreptului de Autor în Domeniul Artelor Vizuale (VISARTA)",
+"short": "Protocol orda din 3 mai 2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-05-06",
+"latest": "2005-05-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/61376",
+"issuer": "orda",
+"joint": []
+},
+{
+"slug": "protocol-orda-zi1219-2005",
+"path": "protocol/orda/2005/12-19",
+"kind": "protocol",
+"year": "2005",
+"number": "12-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Protocol din 19 decembrie 2005 privind comunicarea publică a fonogramelor publicate în scop comercial sau a reproducerilor acestora, precum și a prestațiilor artistice din domeniul audiovizual și tabelul cuprinzând drepturile patrimoniale cuvenite artiștilor interpreți sau executanți și producătorilor de fonograme",
+"short": "Protocol orda din 19 decembrie 2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-02-09",
+"latest": "2006-02-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/68824",
+"issuer": "orda",
+"joint": []
+}
+]
+}

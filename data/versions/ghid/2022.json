@@ -33,6 +33,81 @@
    ]
   },
   {
+   "slug": "ghid-asf-zi0110-2022",
+   "path": "ghid/asf/2022/01-10",
+   "short": "Ghid asf din 10 ianuarie 2022",
+   "title": "Ghid esma din 10 ianuarie 2022 privind acordurile scrise dintre membrii colegiilor pentru contrapărți centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251121",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251121",
+     "sha256": "ebc5a9743efd38962e9dc2cc7b8cce100bb6cfca819ac89683f27a14dc950912"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0120-2022",
+   "path": "ghid/asf/2022/01-20",
+   "short": "Ghid asf din 20 ianuarie 2022",
+   "title": "Ghid esma din 20 ianuarie 2022 privind comunicările publicitare în temeiul Regulamentului (UE) 2019/1.156 al Parlamentului European și al Consiliului din 20 iunie 2019 privind facilitarea distribuției transfrontaliere a organismelor de plasament colectiv și de modificare a Regulamentelor (UE) nr. 345/2013, (UE) nr. 346/2013 și (UE) nr. 1.286/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251125",
+   "versions": [
+    {
+     "from": "2022-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251125",
+     "sha256": "25fadc3d862a3512d4acd1af4cb594cbed44e71a085ce9a1fd400bb5b0b521ee"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0128-2022",
+   "path": "ghid/asf/2022/01-28",
+   "short": "Ghid asf din 28 ianuarie 2022",
+   "title": "Ghid esma din 28 ianuarie 2022 privind obligațiile în materie de date de piață prevăzute în MiFID II/MiFIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251537",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251537",
+     "sha256": "1ba2aa36aef8a4ec2f8c2d665e958c8bde7ce0495caff75fabf6c31189b6c24a"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0411-2022",
+   "path": "ghid/asf/2022/04-11",
+   "short": "Ghid asf din 11 aprilie 2022",
+   "title": "Ghid esma din 11 aprilie 2022 privind raportările referitoare la cazurile de neexecutare a decontării în temeiul art. 7 din CSDR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254383",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254383",
+     "sha256": "03c5776db8f61d910160ce7e1e0651efa54b54765151931a1fbb1f7e2d4db968"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0519-2022",
+   "path": "ghid/asf/2022/05-19",
+   "short": "Ghid asf din 19 mai 2022",
+   "title": "Ghidul esma din 19 mai 2022 privind metodologia, funcția de supraveghere și ținerea evidențelor în temeiul Regulamentului privind indicii de referință",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255716",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255716",
+     "sha256": "2c299404aea41d4573d16482de4f985d046a0234e0ef57fc39df1ee9cee73142"
+    }
+   ]
+  },
+  {
    "slug": "ghid-familie-zi1101-2022",
    "path": "ghid/familie/2022/11-01",
    "short": "Ghid familie din 1 noiembrie 2022",

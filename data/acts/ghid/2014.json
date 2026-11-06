@@ -3,6 +3,25 @@
 "shard": "ghid/2014",
 "acts": [
 {
+"slug": "ghid-asf-zi0327-2014",
+"path": "ghid/asf/2014/03-27",
+"kind": "ghid",
+"year": "2014",
+"number": "03-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ghid din 27 martie 2014 cu privire la politicile și practicile de remunerare (Directiva privind piețele instrumentelor financiare, MiFID)",
+"short": "Ghid asf din 27 martie 2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-11",
+"latest": "2014-04-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/157332",
+"issuer": "asf",
+"joint": []
+},
+{
 "slug": "ghid-fonduri-zi0923-2014",
 "path": "ghid/fonduri/2014/09-23",
 "kind": "ghid",

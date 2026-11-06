@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "regulament/1923",
+ "acts": [
+  {
+   "slug": "regulament-agricultura-zi0703-1923",
+   "path": "regulament/agricultura/1923/07-03",
+   "short": "Regulament agricultura din 3 iulie 1923",
+   "title": "Regulament din 3 iulie 1923 pentru precizarea și lămurirea prețuirii și plății pământurilor expropriate, cum și plata loturilor celor împroprietăriți în Basarabia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28024",
+   "versions": [
+    {
+     "from": "1923-07-03",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28024",
+     "sha256": "73ba9713218304f9fd598c83d7269215d063df0d0b7aa4cf57e3ea0ffa8c86c1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi1101-1923",
+   "path": "regulament/interne/1923/11-01",
+   "short": "Regulament interne din 1 noiembrie 1923",
+   "title": "Regulament din 1 noiembrie 1923 pentru aplicarea dispozițiunilor tratatelor de pace și anexelor lor cu privire la constatarea drepturilor de a dobândi naționalitatea română și a pierderii acestei naționalități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24127",
+   "versions": [
+    {
+     "from": "1923-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24127",
+     "sha256": "b602f0f8f46e4030582c8d12cbd37cf69a3796c750023d66f5ac64f7f64dc110"
+    }
+   ]
+  }
+ ]
+}

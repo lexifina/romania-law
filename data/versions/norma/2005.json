@@ -1261,6 +1261,111 @@
      "sha256": "d6b8d3a683667d8a165af00e11021a946a6cb85dec687f3944ce8e5c00e932d3"
     }
    ]
+  },
+  {
+   "slug": "norma-sanatate-zi1027-2005",
+   "path": "norma/sanatate/2005/10-27",
+   "short": "Norma sanatate din 27 octombrie 2005",
+   "title": "Normă sanitară veterinară și pentru siguranța alimentelor din 27 octombrie 2005 privind anumiți contaminanți din alimentele de origine animala și nonanimală*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71076",
+   "versions": [
+    {
+     "from": "2005-11-26",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71076",
+     "sha256": "709ccc77db1ca4cb9d2b69073fdc9550a069008c479ea59cf849a6639c41223a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1114-1-2005",
+   "path": "norma/sanatate/2005/11-14-1",
+   "short": "Norma sanatate din 14 noiembrie 2005",
+   "title": "Normă din 14 noiembrie 2005 privind autorizarea punerii pe piață a grăsimilor galbene tartinabile, a sosurilor pentru salate, a produselor tip lapte, a produselor tip lapte fermentat, a băuturilor cu soia și a produselor tip brânză cu adaos de fitosteroli/fitostanoli ca alimente noi sau ingrediente alimentare noi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68283",
+   "versions": [
+    {
+     "from": "2006-01-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68283",
+     "sha256": "43064852b04110c0322819892ee77b5565ab04d26fc54bcb068cef8f76c87e54"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1114-2-2005",
+   "path": "norma/sanatate/2005/11-14-2",
+   "short": "Norma sanatate din 14 noiembrie 2005",
+   "title": "Normă din 14 noiembrie 2005 privind autorizarea punerii pe piață a grăsimilor galbene tartinabile, a produselor tip lapte, a produselor tip iaurt și a sosurilor picante cu adaos de fitosteroli/fitostanoli ca alimente noi sau ingrediente alimentare noi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68286",
+   "versions": [
+    {
+     "from": "2006-01-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68286",
+     "sha256": "a69f6038ae4af2dc8833ce2a7e1c11e6f4e9fc16b4b7604a23833aa4141dcae8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1114-3-2005",
+   "path": "norma/sanatate/2005/11-14-3",
+   "short": "Norma sanatate din 14 noiembrie 2005",
+   "title": "Normă din 14 noiembrie 2005 privind autorizarea punerii pe piață a produselor tip lapte și a produselor tip iaurt cu adaos de esteri de fitosterol ca ingrediente alimentare noi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68289",
+   "versions": [
+    {
+     "from": "2006-01-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68289",
+     "sha256": "83fc4ce430b7baf8e4e03c269234a0599a842779aea7ec4514e59aa691181d44"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0826-2005",
+   "path": "norma/transporturi/2005/08-26",
+   "short": "Norma transporturi din 26 august 2005",
+   "title": "Norme metodologice din 26 august 2005 de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65004",
+   "versions": [
+    {
+     "from": "2005-09-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65004",
+     "sha256": "f3e54bb57d71b0035a0ff19bae01c2340b91a00ed8eade8973f177d29aa3406f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi1118-2005",
+   "path": "norma/transporturi/2005/11-18",
+   "short": "Norma transporturi din 18 noiembrie 2005",
+   "title": "Normă din 18 noiembrie 2005 privind organizarea și efectuarea transporturilor rutiere și a activităților conexe acestora*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66770",
+   "versions": [
+    {
+     "from": "2005-12-05",
+     "units": 109,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66770",
+     "sha256": "460f0cb29109cb8f42e36cd9875b77ec9bb53468aac0623be919cd82bf8a3b6a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi1229-2005",
+   "path": "norma/transporturi/2005/12-29",
+   "short": "Norma transporturi din 29 decembrie 2005",
+   "title": "Normă din 29 decembrie 2005 pentru autorizarea personalului cu responsabilități în siguranța circulației, care urmează să desfășoare pe propria răspundere activități specifice transportului feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68772",
+   "versions": [
+    {
+     "from": "2006-02-07",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68772",
+     "sha256": "2e08dfa1b96289082cb77af77dc5c9ec22e252eaa638bd82b0441f31fe8097a7"
+    }
+   ]
   }
  ]
 }

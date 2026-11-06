@@ -361,6 +361,51 @@
      "sha256": "35e4162c4c12b7e58f018e2f6a744fa37ce0da63c5df6c99053440dee77a7fee"
     }
    ]
+  },
+  {
+   "slug": "norma-sanatate-zi0327-2018",
+   "path": "norma/sanatate/2018/03-27",
+   "short": "Norma sanatate din 27 martie 2018",
+   "title": "Norme metodologice din 27 martie 2018 de aplicare în anul 2018 a Hotărârii Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2018-2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199236",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199236",
+     "sha256": "dd757e5a140a794e867b76a2d82079df970cef22a31f82f13d9dc7809d000270"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1122-2018",
+   "path": "norma/sanatate/2018/11-22",
+   "short": "Norma sanatate din 22 noiembrie 2018",
+   "title": "Norme detaliate din 22 noiembrie 2018 pentru elementele de siguranță care apar pe ambalajul medicamentelor de uz uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208350",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208350",
+     "sha256": "bc91e0be124b5d4e42664936d48e5b6bb1086d2d1441d66e9f6e7a7e2714053b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0510-2018",
+   "path": "norma/transporturi/2018/05-10",
+   "short": "Norma transporturi din 10 mai 2018",
+   "title": "Normă tehnică feroviară din 10 mai 2018 \"Vehicule de cale ferată. Prescripții privind salubrizarea, deratizarea, dezinsecția și dezinfecția vagoanelor-bar, vagoanelor-restaurant/bistro, vagoanelor-cușetă și de dormit\" - NTF nr. 56-003:2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203512",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203512",
+     "sha256": "53858143112da78a9fda6f03ce55b5d6321d448f9ebc4e23f4892a39846a21c1"
+    }
+   ]
   }
  ]
 }

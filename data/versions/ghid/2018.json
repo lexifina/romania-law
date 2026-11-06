@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "ghid-asf-zi0607-2018",
+   "path": "ghid/asf/2018/06-07",
+   "short": "Ghid asf din 7 iunie 2018",
+   "title": "Ghid esma din 7 iunie 2018 privind procesul de calcul al indicatorilor pentru a determina cele mai relevante monede în care are loc decontarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203576",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203576",
+     "sha256": "b10eca26ccbb23eed5066e1b6a4f8a0e07e245b3ee47863c297fb3bc62e36c23"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi0719-2018",
+   "path": "ghid/asf/2018/07-19",
+   "short": "Ghid asf din 19 iulie 2018",
+   "title": "Ghidul din 19 iulie 2018 Autorității Europene pentru Valori Mobiliare și Piețe (ESMA) privind scenariile de simulare a situațiilor de criză în temeiul art. 28 din Regulamentul (UE) nr. 1.131/2017 privind fondurile de piață monetară (Money-market funds)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203598",
+   "versions": [
+    {
+     "from": "2018-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203598",
+     "sha256": "111a25cc1867485b756805773f2c84c257d2c4d7de7d3eeec7962cbfee2051d2"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1031-2018",
+   "path": "ghid/asf/2018/10-31",
+   "short": "Ghid asf din 31 octombrie 2018",
+   "title": "Ghid din 31 octombrie 2018 privind produsele de investiții bazate pe asigurări care includ o structură care face dificilă înțelegerea de către consumator a riscurilor implicate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206951",
+   "versions": [
+    {
+     "from": "2018-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206951",
+     "sha256": "c0a6ef957d83eceda12d8eb1085c610b45188cd82580708cf3bcaa1332d56734"
+    }
+   ]
+  },
+  {
    "slug": "ghid-mediu-zi1105-2018",
    "path": "ghid/mediu/2018/11-05",
    "short": "Ghid mediu din 5 noiembrie 2018",

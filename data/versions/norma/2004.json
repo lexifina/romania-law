@@ -993,6 +993,21 @@
    ]
   },
   {
+   "slug": "norma-csa-zi1210-2004",
+   "path": "norma/csa/2004/12-10",
+   "short": "Norma csa din 10 decembrie 2004",
+   "title": "Norme din 10 decembrie 2004 privind aplicarea legii în domeniul asigurărilor obligatorii de răspundere civilă pentru pagube produse terților prin accidente de autovehicule și autorizarea asigurătorilor pentru practicarea asigurării obligatorii de răspundere civilă pentru pagube produse terților prin accidente de autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57876",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57876",
+     "sha256": "6735db55582855cf1da807a2e3feb9edb854c5cd8dbfa1bfc7cc5ce31f3dcd8d"
+    }
+   ]
+  },
+  {
    "slug": "norma-economie-zi0204-2004",
    "path": "norma/economie/2004/02-04",
    "short": "Norma economie din 4 februarie 2004",
@@ -1244,6 +1259,51 @@
      "units": 109,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58456",
      "sha256": "16156051605ba54bf31f57e58398da1650f13f648c88f328468e8c60add167bd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0608-2004",
+   "path": "norma/sanatate/2004/06-08",
+   "short": "Norma sanatate din 8 iunie 2004",
+   "title": "Normă din 8 iunie 2004 privind procedura de autorizare sanitara de funcționare a spitalului*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59317",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59317",
+     "sha256": "a277bdecc7493f787b56ac11a276ade38c813dfe0c689da2880e2b3cad2d094b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0810-2004",
+   "path": "norma/sanatate/2004/08-10",
+   "short": "Norma sanatate din 10 august 2004",
+   "title": "Normă din 10 august 2004 de supraveghere și control al infecțiilor nosocomiale în unități sanitare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58724",
+   "versions": [
+    {
+     "from": "2004-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58724",
+     "sha256": "62c3a8f3e28c726b607b5a9cc610ebc658c8817c49eb3f1c121aafaff1fd4bc9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1223-2004",
+   "path": "norma/sanatate/2004/12-23",
+   "short": "Norma sanatate din 23 decembrie 2004",
+   "title": "Norme din 23 decembrie 2004 DE IGIENA, EPIDEMIOLOGIE ȘI EDUCAȚIE SANITARA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61117",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61117",
+     "sha256": "3bc231359a8152395729dd7d79df6f4b5e70cbeed78da5e28db47489d3ec5a84"
     }
    ]
   }

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "protocol/2021",
+ "acts": [
+  {
+   "slug": "protocol-orda-zi0322-2021",
+   "path": "protocol/orda/2021/03-22",
+   "short": "Protocol orda din 22 martie 2021",
+   "title": "Protocol din 22 martie 2021 prin care a fost convenită forma finală a Metodologiei privind comunicarea publică a operelor muzicale realizată prin punerea la dispoziția publicului a spectacolelor de teatru în mediul online, încheiat între UCMR-ADA, Asociația pentru Drepturi de Autor a Compozitorilor, pe de o parte, și Asociația Teatrelor Independente, Teatrul Național București \"I.L. Caragiale\", Teatrul \"C.I. Nottara\" din București și Teatrul \"Stela Popescu\" din București, CREART, Centrul de Creație, Artă și Tradiție al Municipiului București, Teatrul \"Ion Creangă\" din București, Teatrul Național \"Radu Stanca\" din Sibiu, Teatrul Național Cluj-Napoca din Cluj-Napoca, Teatrul Național \"Marin Sorescu\" din Craiova, Teatrul Național \"Vasile Alecsandri\" din Iași, Teatrul Municipal \"Lucia Sturdza Bulandra\" din București și Societatea Quantum Media Creative - S.R.L. din București, pe de altă parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251924",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251924",
+     "sha256": "f1e08067713b9ac094528f03b1b2a649f0d0e7469ddd0be3c419086c096f98ab"
+    }
+   ]
+  }
+ ]
+}

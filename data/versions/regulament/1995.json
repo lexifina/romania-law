@@ -76,6 +76,21 @@
      "sha256": "4bba84d091d95fdfd51812f7b93223ba781085f86bbd3d2cd0b02618cd0a0329"
     }
    ]
+  },
+  {
+   "slug": "regulament-justitie-zi0705-1995",
+   "path": "regulament/justitie/1995/07-05",
+   "short": "Regulament justitie din 5 iulie 1995",
+   "title": "Regulament din 5 iulie 1995 de punere în aplicare a Legii notarilor publici și a activității notariale, nr. 36/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53659",
+   "versions": [
+    {
+     "from": "1995-08-08",
+     "units": 127,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53659",
+     "sha256": "4f9f78d92565234597873e284f42e73ac4bbc2aa6f45375caab435e4cbe84710"
+    }
+   ]
   }
  ]
 }

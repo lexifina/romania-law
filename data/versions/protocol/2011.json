@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "protocol/2011",
+ "acts": [
+  {
+   "slug": "protocol-orda-zi1012-2011",
+   "path": "protocol/orda/2011/10-12",
+   "short": "Protocol orda din 12 octombrie 2011",
+   "title": "Protocol din 12 octombrie 2011 având ca obiect stabilirea formei finale a Metodologiei privind comunicarea publică a operelor muzicale prin proiecția publică a operelor cinematografice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150188",
+   "versions": [
+    {
+     "from": "2013-07-29",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150188",
+     "sha256": "b786c545d6eeb1b74ced9d6e1a1f430670ebc197db4b3e156aa92ee96021f505"
+    }
+   ]
+  }
+ ]
+}

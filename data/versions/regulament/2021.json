@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "regulament-anrsc-zi0115-2021",
+   "path": "regulament/anrsc/2021/01-15",
+   "short": "Regulament anrsc din 15 ianuarie 2021",
+   "title": "Regulament-cadru din 15 ianuarie 2021 al serviciului public inteligent alternativ pentru procesarea apelor uzate urbane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236731",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 82,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236731",
+     "sha256": "cfd2f6087c7db92c33fec13da0249218255540ffc4570ca9779f94bf49b006b6"
+    }
+   ]
+  },
+  {
    "slug": "regulament-asf-12-2021",
    "path": "regulament/asf/2021/12",
    "short": "Regulament asf nr. 12/2021",
@@ -393,6 +408,66 @@
    ]
   },
   {
+   "slug": "regulament-concurenta-zi0112-1-2021",
+   "path": "regulament/concurenta/2021/01-12-1",
+   "short": "Regulament concurenta din 12 ianuarie 2021",
+   "title": "Regulament din 12 ianuarie 2021 privind analiza și soluționarea plângerilor prevăzute la art. 66^2 alin. (2) lit. f) și alin. (2^2) din Ordonanța Guvernului nr. 22/1999 privind administrarea porturilor și a căilor navigabile, utilizarea infrastructurilor de transport naval aparținând domeniului public, precum și desfășurarea activităților de transport naval în porturi și pe căile navigabile interioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236638",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236638",
+     "sha256": "df7db53a55ca5c071814b911c99439490453a1441a1ada2e203eb5a5596896fb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0112-2-2021",
+   "path": "regulament/concurenta/2021/01-12-2",
+   "short": "Regulament concurenta din 12 ianuarie 2021",
+   "title": "Regulament din 12 ianuarie 2021 privind procedura de selecție a membrilor Consiliului Național de Supraveghere din Domeniul Feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236727",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236727",
+     "sha256": "66264b3162888a32998b5d323fb0a0172084f2ab17fd4bf8e4afa44824573b4e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi1220-2021",
+   "path": "regulament/concurenta/2021/12-20",
+   "short": "Regulament concurenta din 20 decembrie 2021",
+   "title": "Regulament din 20 decembrie 2021 de organizare și funcționare a Consiliului de supraveghere din domeniul naval",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250154",
+   "versions": [
+    {
+     "from": "2022-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250154",
+     "sha256": "ca32e99ccb518281decc411d0c2a0265f5d473b1d0aceb420186691baff77be5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dezvoltare-zi0122-2021",
+   "path": "regulament/dezvoltare/2021/01-22",
+   "short": "Regulament dezvoltare din 22 ianuarie 2021",
+   "title": "Regulament din 22 ianuarie 2021 de organizare și funcționare a Consiliului tehnic permanent pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236694",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236694",
+     "sha256": "158ce0c8ec38e83dc35244a695bfb0f665ca3fb2763cfa954617f11fcfbf80f2"
+    }
+   ]
+  },
+  {
    "slug": "regulament-guvern-559-2021",
    "path": "regulament/guvern/2021/559",
    "short": "Regulament guvern nr. 559/2021",
@@ -404,6 +479,126 @@
      "units": 67,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240989",
      "sha256": "5e568436932a43545d594f0fd4f4828a17d7cd5f675a2075804af8fb784f0201"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-inspectiajudiciara-zi0611-2021",
+   "path": "regulament/inspectiajudiciara/2021/06-11",
+   "short": "Regulament inspectiajudiciara din 11 iunie 2021",
+   "title": "Regulament din 11 iunie 2021 de organizare și funcționare a Inspecției Judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243219",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243219",
+     "sha256": "76d4ae431945ba77e4857b85e8d2108cac4a25cca93bf775c65517602bf6d396"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi0722-2021",
+   "path": "regulament/interne/2021/07-22",
+   "short": "Regulament interne din 22 iulie 2021",
+   "title": "Regulament din 22 iulie 2021 de organizare și funcționare a Academiei de Poliție \"Alexandru Ioan Cuza\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245081",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245081",
+     "sha256": "361535a4bb8f3e37b815c5ce6aea9b2e628a77e1345ca307660b1e84d8909f84"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi0805-2021",
+   "path": "regulament/interne/2021/08-05",
+   "short": "Regulament interne din 5 august 2021",
+   "title": "Regulament din 5 august 2021 de organizare și funcționare a comisiei prevăzute la art. 7 alin. (5) din Legea nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245373",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245373",
+     "sha256": "dd0a0372945c5db5519d6e1753729e00bcb608cc859db9610ae52ca96f5a3548"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0629-1-2021",
+   "path": "regulament/sanatate/2021/06-29-1",
+   "short": "Regulament sanatate din 29 iunie 2021",
+   "title": "Regulament-cadru din 29 iunie 2021 de organizare și funcționare a comisiei constituite în baza prevederilor art. 2 din anexa nr. 2 la Hotărârea Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, tehnologiilor și dispozitivelor asistive în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022 - pentru asistența medicală primară -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243892",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243892",
+     "sha256": "5e1b80a255517d7d1664be90085634a5ae52fa27b4305aa7c885a2231e14d1f7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0629-2-2021",
+   "path": "regulament/sanatate/2021/06-29-2",
+   "short": "Regulament sanatate din 29 iunie 2021",
+   "title": "Regulament-cadru din 29 iunie 2021 de organizare și funcționare a comisiei constituite în baza prevederilor art. 22 alin. (4) și (5) și art. 40 alin. (2) și (3) din anexa nr. 2 la Hotărârea Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, tehnologiilor și dispozitivelor asistive în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022 - pentru asistența medicală ambulatorie de specialitate pentru specialitățile clinice și pentru specialitatea clinică medicină fizică și de reabilitare -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243893",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243893",
+     "sha256": "1f4d49c16a4010f3fbeefd1ea1d16b9a89616d23f6b122fdbf6a23db8e64c747"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0629-3-2021",
+   "path": "regulament/sanatate/2021/06-29-3",
+   "short": "Regulament sanatate din 29 iunie 2021",
+   "title": "Regulament-cadru din 29 iunie 2021 de organizare și funcționare a comisiei constituite în baza prevederilor art. 87 alin. (3) și (4) din anexa nr. 2 la Hotărârea Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, tehnologiilor și dispozitivelor asistive în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022 - pentru asistența medicală spitalicească -",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243894",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243894",
+     "sha256": "e66d699b1ca43ebcf73700f8d58f44a72e166c6140397bb872cdb251b299d472"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0903-2021",
+   "path": "regulament/sanatate/2021/09-03",
+   "short": "Regulament sanatate din 3 septembrie 2021",
+   "title": "Regulament din 3 septembrie 2021 de înființare, organizare, funcționare și componența Comisiei Centrale Medicale și Psihologice în Siguranța Transporturilor din cadrul Spitalului Clinic Căi Ferate nr. 1 Witting București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246099",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246099",
+     "sha256": "6ffee428b3f4874f82100de8d0ad4595563fe267640d91b800f6f8066e9835f2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-transporturi-zi0903-2021",
+   "path": "regulament/transporturi/2021/09-03",
+   "short": "Regulament transporturi din 3 septembrie 2021",
+   "title": "Regulament din 3 septembrie 2021 de înființare, organizare, funcționare și componența Comisiei Centrale Medicale și Psihologice în Siguranța Transporturilor din cadrul Spitalului Clinic Căi Ferate nr. 1 Witting București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246091",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246091",
+     "sha256": "003e09eb287c7aa79cd903a9de744b89efe2b5a2eb2dc622fd505efe616aefbc"
     }
    ]
   }

@@ -3,6 +3,36 @@
  "shard": "ghid/2015",
  "acts": [
   {
+   "slug": "ghid-asf-zi1223-1-2015",
+   "path": "ghid/asf/2015/12-23-1",
+   "short": "Ghid asf din 23 decembrie 2015",
+   "title": "Ghid din 23 decembrie 2015 privind sistemul de guvernanță (Anexa nr. 1)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174615",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174615",
+     "sha256": "6e324eb3c27af611148c9db1658e2113e025662ee71740d79a3dfb6d6c57fc76"
+    }
+   ]
+  },
+  {
+   "slug": "ghid-asf-zi1223-2-2015",
+   "path": "ghid/asf/2015/12-23-2",
+   "short": "Ghid asf din 23 decembrie 2015",
+   "title": "Ghid din 23 decembrie 2015 privind riscul propriu și evaluarea solvabilității (Anexa nr. 2)*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174616",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174616",
+     "sha256": "dfbdb186fd8d9cb317c5436110f53ad2b338a8a315e0d97c52dde1d583e7a8e7"
+    }
+   ]
+  },
+  {
    "slug": "ghid-fonduri-zi0313-2015",
    "path": "ghid/fonduri/2015/03-13",
    "short": "Ghid fonduri din 13 martie 2015",

@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "procedura/2007",
+ "acts": [
+  {
+   "slug": "procedura-agricultura-zi1030-1-2007",
+   "path": "procedura/agricultura/2007/10-30-1",
+   "short": "Procedura agricultura din 30 octombrie 2007",
+   "title": "Procedură din 30 octombrie 2007 de înregistrare și verificare a documentației pentru dobândirea protecției unei indicații geografice sau denumiri de origine a unui produs agricol ori alimentar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86691",
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86691",
+     "sha256": "d97eb416aa790468da7fc2dc9b351cde5aa150bd5d78d3fa6c0894b9174b43e2"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-agricultura-zi1030-2-2007",
+   "path": "procedura/agricultura/2007/10-30-2",
+   "short": "Procedura agricultura din 30 octombrie 2007",
+   "title": "Procedură din 30 octombrie 2007 de declarare a opoziției la nivel național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86692",
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86692",
+     "sha256": "db9eabee95b335ba43a7bdb4a329bcb3e26d6782814b350dcec5d5d957b4b008"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-agricultura-zi1030-3-2007",
+   "path": "procedura/agricultura/2007/10-30-3",
+   "short": "Procedura agricultura din 30 octombrie 2007",
+   "title": "Procedură din 30 octombrie 2007 de transmitere la nivelul Comisiei Europene a cererii de înregistrare a indicațiilor geografice sau denumirilor de origine ale produselor agricole ori alimentare, în vederea dobândirii protecției la nivelul Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86693",
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86693",
+     "sha256": "c2349560b48648002cd617e4256de8d1028adc12dc35aff605b0750a34b848d2"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anre-zi0830-2007",
+   "path": "procedura/anre/2007/08-30",
+   "short": "Procedura anre din 30 august 2007",
+   "title": "Procedură din 30 august 2007 privind reglementarea condițiilor pentru transferul de capacități energetice de distribuție a energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85257",
+   "versions": [
+    {
+     "from": "2007-09-12",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85257",
+     "sha256": "98e9f5bb238f8436d867f9a983c2f225da798e9e2f423a7026b6b82812137fad"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-ansvsa-zi1220-2007",
+   "path": "procedura/ansvsa/2007/12-20",
+   "short": "Procedura ansvsa din 20 decembrie 2007",
+   "title": "Procedură din 20 decembrie 2007 privind efectuarea controlului oficial în unitățile de prelucrare, procesare, depozitare, transport și valorificare a produselor și subproduselor alimentare de origine nonanimală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88287",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88287",
+     "sha256": "f5a5b6a05970ebca0a531e61a534153da23bad6b966f7878cc07219294cc6c13"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0403-1-2007",
+   "path": "procedura/finante/2007/04-03-1",
+   "short": "Procedura finante din 3 aprilie 2007",
+   "title": "Procedură din 3 aprilie 2007 de soluționare a cererilor de rambursare a taxei pe valoarea adăugată către persoane impozabile neînregistrate și care nu sunt obligate să se înregistreze în scopuri de TVA în România, stabilite în alt stat membru al Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81241",
+   "versions": [
+    {
+     "from": "2007-04-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81241",
+     "sha256": "e0927c3d22df69e292e6d63a05b26883dbff8517674aab560e381d9b5a484ee0"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0403-2-2007",
+   "path": "procedura/finante/2007/04-03-2",
+   "short": "Procedura finante din 3 aprilie 2007",
+   "title": "Procedură din 3 aprilie 2007 de soluționare a cererilor de rambursare a taxei pe valoarea adăugată către persoane impozabile neînregistrate și care nu sunt obligate să se înregistreze în scopuri de TVA în România, stabilite în afara Comunității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81319",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81319",
+     "sha256": "a5819787f36681f79c14f789fe2391d8df2f3c023d3bf0af3834a470696828c6"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi0403-3-2007",
+   "path": "procedura/finante/2007/04-03-3",
+   "short": "Procedura finante din 3 aprilie 2007",
+   "title": "Procedură din 3 aprilie 2007 de stabilire și de identificare a gradului de risc fiscal în cazul produselor accizabile expediate din România, în regim suspensiv, pe teritoriul comunitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83631",
+   "versions": [
+    {
+     "from": "2007-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83631",
+     "sha256": "5f34a95cfaddc3492d13a24e057a20d373110ec7db0c4287d074df80e180eebe"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0214-2007",
+   "path": "procedura/guvern/2007/02-14",
+   "short": "Procedura guvern din 14 februarie 2007",
+   "title": "Procedură din 14 februarie 2007 de acordare a finanțărilor de la bugetul de stat și/sau de la bugetele locale pentru programele și proiectele culturale din cadrul programului cultural \"Sibiu - capitală culturală europeană\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79843",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79843",
+     "sha256": "02e6c24dc79a618aec9541b86d488a75d8849d0a156ee1da03bbc902f8b16548"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0926-1-2007",
+   "path": "procedura/guvern/2007/09-26-1",
+   "short": "Procedura guvern din 26 septembrie 2007",
+   "title": "Procedură din 26 septembrie 2007 de acordare a alocărilor specifice individuale în cadrul schemei de ajutor de stat pentru stimularea creșterii economice prin sprijinirea realizării de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86025",
+   "versions": [
+    {
+     "from": "2007-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86025",
+     "sha256": "d6b8ab7b45c6791af3ef2a2c2cceddde47e84fc5cd449afb131acd5bcf4d9a7f"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0926-2-2007",
+   "path": "procedura/guvern/2007/09-26-2",
+   "short": "Procedura guvern din 26 septembrie 2007",
+   "title": "Procedura din 26 septembrie 2007 de acordare a alocărilor specifice individuale în cadrul schemei de ajutor de minimis privind dezvoltarea sau modernizarea întreprinderilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86061",
+   "versions": [
+    {
+     "from": "2007-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86061",
+     "sha256": "ca88f9c5682415e8635fb109b0ebaadcf4e5ff4584a3c6616fcafb91bfe05693"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0321-1-2007",
+   "path": "procedura/imm/2007/03-21-1",
+   "short": "Procedura imm din 21 martie 2007",
+   "title": "Procedură din 21 martie 2007 de implementare a Programului pentru organizarea Târgului Național Cooperatist - TINCOOP",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80577",
+   "versions": [
+    {
+     "from": "2007-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80577",
+     "sha256": "5fd17b123ad21ef1aebff321bf875e59734216c7154beaf66fcc8c02c50be572"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0321-2-2007",
+   "path": "procedura/imm/2007/03-21-2",
+   "short": "Procedura imm din 21 martie 2007",
+   "title": "Procedură din 21 martie 2007 de implementare a Programului național multianual pe perioada 2006-2009 pentru susținerea accesului întreprinderilor mici și mijlocii la servicii de instruire și consultanță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80602",
+   "versions": [
+    {
+     "from": "2007-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80602",
+     "sha256": "e0088540addb7dbb873183a2601c726b2f6468fd251e00f6275bf83299e4ecac"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi1129-2007",
+   "path": "procedura/mediu/2007/11-29",
+   "short": "Procedura mediu din 29 noiembrie 2007",
+   "title": "Procedură din 29 noiembrie 2007 de emitere a autorizației privind emisiile de gaze cu efect de seră pentru perioada 2008-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87709",
+   "versions": [
+    {
+     "from": "2007-12-08",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87709",
+     "sha256": "d08e61fd41375bf2674327c0b3c5ed08fdbfd722c43659df9b5b6711c078dc33"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-sanatate-zi0220-2007",
+   "path": "procedura/sanatate/2007/02-20",
+   "short": "Procedura sanatate din 20 februarie 2007",
+   "title": "Procedura de notificare din 20 februarie 2007 a apelor potabile îmbuteliate, altele decât apele minerale naturale sau decât apele de izvor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79927",
+   "versions": [
+    {
+     "from": "2007-03-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79927",
+     "sha256": "f5467fe7e72443eaadcdb4801e701032b0d03a7729ae9b2be171ac08099ed174"
+    }
+   ]
+  }
+ ]
+}

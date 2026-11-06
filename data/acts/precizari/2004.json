@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "precizari/2004",
+"acts": [
+{
+"slug": "precizari-interne-zi0623-2004",
+"path": "precizari/interne/2004/06-23",
+"kind": "precizari",
+"year": "2004",
+"number": "06-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizări din 23 iunie 2004 pentru transferul interclinic al pacienților critici",
+"short": "Precizări interne din 23 iunie 2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-07-19",
+"latest": "2004-07-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/53619",
+"issuer": "interne",
+"joint": []
+}
+]
+}

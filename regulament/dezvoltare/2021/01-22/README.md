@@ -1,0 +1,18 @@
+# Regulament din 22 ianuarie 2021 de organizare și funcționare a Consiliului tehnic permanent pentru construcții
+
+Regulament dezvoltare din 22 ianuarie 2021 · 1 versions, from 2021-03-26 (latest in force: 2021-03-26) · <https://legislatie.just.ro/Public/DetaliiDocument/236694>
+
+**Status:** Published as it appeared in the Monitorul Oficial, as a document of its own: approving act not identified (it will be linked to the act that approves it); later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `regulament-dezvoltare-zi0122-2021` (tags `regulament-dezvoltare-zi0122-2021/<day>`; `python tools/on.py <day> regulament-dezvoltare-zi0122-2021`).
+
+## Decisions made by hand
+
+- Regulament dezvoltare din 22 ianuarie 2021: added from the official web service of the Portalul legislativ (FreeWebService) as the regulation published in Monitorul Oficial nr. 79 of 25 January 2021 as a document of its own, with no number of its own (document 236694, retrieved 2026-11-03, held on disk; the service was not requested again). Whether later acts amended it has not yet been checked; amendments, if any, are not applied here.
+- Regulament dezvoltare din 22 ianuarie 2021: approving act not identified. The regulation was published without a number, as a document of its own; no act of the same Monitorul Oficial issue points to it or approves a document of its subject, so it is published on its own, its folder named by its day (the number it lacks), and will be linked to its approving act later.
+- Regulament dezvoltare din 22 ianuarie 2021: the first version is the regulation as published in Monitorul Oficial nr. 79 of 25 January 2021, in force from 26 March 2021, the day the service gives.
+- Regulament dezvoltare din 22 ianuarie 2021: its text is kept whole as one unit: its articles could not be split without losing words.

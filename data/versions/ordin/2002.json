@@ -5958,6 +5958,21 @@
    ]
   },
   {
+   "slug": "ordin-avocatulpoporului-110-2002",
+   "path": "ordin/avocatulpoporului/2002/110",
+   "short": "Ordin avocatulpoporului nr. 110/2002",
+   "title": "Ordinul nr. 110/2002 privind numirea domnului Jirjea Vasile în funcția de adjunct al Avocatului Poporului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38601",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38601",
+     "sha256": "8d162593dd1d15d7b9befb5c2242453af7644c87278bae883faf3a0bfbccae5f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-avocatulpoporului-52-2002",
    "path": "ordin/avocatulpoporului/2002/52",
    "short": "Ordin avocatulpoporului nr. 52/2002",
@@ -7919,6 +7934,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38666",
      "sha256": "f97cebda7a7dc5396183ce4340357a91a5aaa86f4e33069455ba0c72348eda24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-92-2002",
+   "path": "ordin/dizabilitati/2002/92",
+   "short": "Ordin dizabilitati nr. 92/2002",
+   "title": "Ordinul nr. 92/2002 privind delegarea competentei de numire și eliberare din funcție a persoanelor cu funcții de conducere din instituțiile de protecție specială a persoanelor cu handicap, aflate în coordonarea Secretariatului de Stat pentru Persoanele cu Handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38034",
+   "versions": [
+    {
+     "from": "2002-08-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38034",
+     "sha256": "caae54edac034f8fd60deb44080f2861255a2a21a52222781ba2579d15194bfe"
     }
    ]
   },

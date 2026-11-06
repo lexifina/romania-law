@@ -333,6 +333,36 @@
    ]
   },
   {
+   "slug": "regulament-aparare-zi0619-2012",
+   "path": "regulament/aparare/2012/06-19",
+   "short": "Regulament aparare din 19 iunie 2012",
+   "title": "Regulament din 19 iunie 2012 de organizare și funcționare a Consiliului consultativ al șefului Statului Major General",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139107",
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139107",
+     "sha256": "a456f6ade04c52f867d7c9d74305f93c6f432c9834a4f48eebd329246d191d29"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-aparare-zi0720-2012",
+   "path": "regulament/aparare/2012/07-20",
+   "short": "Regulament aparare din 20 iulie 2012",
+   "title": "Regulament din 20 iulie 2012 de organizare și funcționare a Comisiei teritoriale de coordonare în garnizoana București a programelor de construire a locuințelor proprietate personală pentru cadre militare, soldați și gradați profesioniști, precum și pentru personalul civil din armată și a Comisiei teritoriale de coordonare în garnizoana Cluj-Napoca a programelor de construire a locuințelor proprietate personală pentru cadre militare, soldați și gradați profesioniști, precum și pentru personalul civil din armată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139959",
+   "versions": [
+    {
+     "from": "2012-07-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139959",
+     "sha256": "85dd74f3b0509df49ff51cfd8ec6da5e116af46232d51a7bbf73111f16128a34"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-7-2012",
    "path": "regulament/bnr/2012/7",
    "short": "Regulament bnr nr. 7/2012",
@@ -378,6 +408,21 @@
    ]
   },
   {
+   "slug": "regulament-educatie-zi0905-2012",
+   "path": "regulament/educatie/2012/09-05",
+   "short": "Regulament educatie din 5 septembrie 2012",
+   "title": "Regulament din 5 septembrie 2012 de organizare și funcționare al Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141091",
+   "versions": [
+    {
+     "from": "2012-09-07",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141091",
+     "sha256": "3099a904b17b508392acf204cf7bcf02d93e9a95227e18da1f3dfc7f355de3bb"
+    }
+   ]
+  },
+  {
    "slug": "regulament-guvern-1288-2012",
    "path": "regulament/guvern/2012/1288",
    "short": "Regulament guvern nr. 1288/2012",
@@ -389,6 +434,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267292",
      "sha256": "d7d537e37c303a4e0da6c4fa244abab9768ee77b05e54f56deaa56373a38a62f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1212-2012",
+   "path": "regulament/guvern/2012/12-12",
+   "short": "Regulament guvern din 12 decembrie 2012",
+   "title": "Regulament din 12 decembrie 2012 de organizare și funcționare al Administrației Rezervației Biosferei \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143963",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143963",
+     "sha256": "9f188271a95bb7009afea2f28ea29023b1e42c6ddb1617ee202ffd3c9b10c2d4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-imm-zi0320-2012",
+   "path": "regulament/imm/2012/03-20",
+   "short": "Regulament imm din 20 martie 2012",
+   "title": "Regulament*) din 20 martie 2012 de organizare și funcționare al Agenției pentru Implementarea Proiectelor și Programelor pentru Întreprinderi Mici și MijIocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138818",
+   "versions": [
+    {
+     "from": "2012-06-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138818",
+     "sha256": "4f5520ae7b9bbdd946f0c02f10c28d64aa13a0394ac1a8286da186dd10480996"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi0312-2012",
+   "path": "regulament/interne/2012/03-12",
+   "short": "Regulament interne din 12 martie 2012",
+   "title": "Regulament din 12 martie 2012 privind organizarea, atribuțiile și funcționarea Comisiei pentru determinarea calității de cadru militar activ, îndepărtat abuziv din armată în perioada 23 august 1944-31 decembrie 1961, la nivelul Ministerului Administrației și Internelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136224",
+   "versions": [
+    {
+     "from": "2012-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136224",
+     "sha256": "f9a86cdcd77ac80f28f68bca3e781284971414e382e874a7f422a29574de0d6d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi0419-2012",
+   "path": "regulament/interne/2012/04-19",
+   "short": "Regulament interne din 19 aprilie 2012",
+   "title": "Regulament din 19 aprilie 2012 de organizare și funcționare a Departamentului Schengen, afaceri europene și relații internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138187",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138187",
+     "sha256": "d2d0555e777e0b160e1b07d6cbe90698d98942bd5db7bcf74469dd80508f695d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0516-2012",
+   "path": "regulament/mediu/2012/05-16",
+   "short": "Regulament mediu din 16 mai 2012",
+   "title": "Regulament din 16 mai 2012 privind gestionarea situațiilor de urgență generate de inundații, fenomene meteorologice periculoase, accidente la construcții hidrotehnice, poluări accidentale pe cursurile de apă și poluări marine în zona costieră*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142001",
+   "versions": [
+    {
+     "from": "2012-09-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142001",
+     "sha256": "50016fb7ae29b0246f30d38fdc142d8a01a77266b3eb92cecc298378f95717f6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-mediu-zi0720-2012",
+   "path": "regulament/mediu/2012/07-20",
+   "short": "Regulament mediu din 20 iulie 2012",
+   "title": "Regulament din 20 iulie 2012 de organizare și funcționare a Comitetului național pentru Programul Hidrologic Internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140550",
+   "versions": [
+    {
+     "from": "2012-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140550",
+     "sha256": "48bc307cd8ccf2ab282939d03bcbd5cb77d72f4cf0c38b55639df5c448e83f89"
     }
    ]
   }

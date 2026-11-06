@@ -811,6 +811,66 @@
      "sha256": "48bc1ea61898dd9416d89b95d8096325d30dd99deafce9fd9d3f08dbc4f9670b"
     }
    ]
+  },
+  {
+   "slug": "norma-sanatate-zi0529-1-2020",
+   "path": "norma/sanatate/2020/05-29-1",
+   "short": "Norma sanatate din 29 mai 2020",
+   "title": "Norme din 29 mai 2020 privind stabilirea măsurilor specifice de prevenire a răspândirii virusului SARS-CoV-2 pentru activitățile de preparare, servire și consum al produselor alimentare, băuturilor alcoolice și nealcoolice în spațiile special amenajate din exteriorul clădirilor unităților de alimentație publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226204",
+   "versions": [
+    {
+     "from": "2020-05-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226204",
+     "sha256": "700c26024bb7c62551c9cba59e24be26eb48ba2f9e2f676ee0f74b47c0d37055"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0529-2-2020",
+   "path": "norma/sanatate/2020/05-29-2",
+   "short": "Norma sanatate din 29 mai 2020",
+   "title": "Norma din 29 mai 2020 privind stabilirea măsurilor specifice de prevenire a răspândirii virusului SARS-CoV-2 pentru activitățile de operare a plajelor turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226210",
+   "versions": [
+    {
+     "from": "2020-05-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226210",
+     "sha256": "e98992d44403ed9d88ca0475b3aed2b5cbc53b02f6a00fcb48b914579bfe27fe"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1221-2020",
+   "path": "norma/sanatate/2020/12-21",
+   "short": "Norma sanatate din 21 decembrie 2020",
+   "title": "Norme din 21 decembrie 2020 privind autorizarea, organizarea și funcționarea centrelor de vaccinare împotriva COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235644",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235644",
+     "sha256": "aa2b9c14052c4e767e82de7bf12ceebacd0b8c77a036dcbf2cd33624c1d7b6d6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sport-zi0904-2020",
+   "path": "norma/sport/2020/09-04",
+   "short": "Norma sport din 4 septembrie 2020",
+   "title": "Norme metodologice din 4 septembrie 2020 privind fundamentarea, acordarea și justificarea sumelor primite de la bugetul de stat, prin bugetul Ministerului Tineretului și Sportului, pentru activitatea Comitetului Olimpic și Sportiv Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229813",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229813",
+     "sha256": "8c9cea70256cf5bb4ae941120988f8bfeec45809d4a5df749ea29c026da171eb"
+    }
+   ]
   }
  ]
 }

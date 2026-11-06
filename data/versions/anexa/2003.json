@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "anexa-decizie-cnas-249-2003-anexa",
+   "path": "anexa/decizie-cnas-249-2003/anexa",
+   "short": "Anexa la Decizia cnas nr. 249/2003",
+   "title": "Standarde din 30 mai 2003 pentru acreditarea furnizorilor de îngrijiri medicale la domiciliu (anexa la Decizia CNAS nr. 249/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44316",
+   "versions": [
+    {
+     "from": "2003-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44316",
+     "sha256": "f13174ebfcf28bf77f5694dc191dfa9c22fa53e3f578b2b7171a6723deff481d"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-decizie-cnas-720-2003-anexa",
+   "path": "anexa/decizie-cnas-720-2003/anexa",
+   "short": "Anexa la Decizia cnas nr. 720/2003",
+   "title": "Standarde din 26 august 2003 pentru acreditarea furnizorilor de servicii medicale de urgență prespitalicească și transport medical (anexa la Decizia CNAS nr. 720/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91492",
+   "versions": [
+    {
+     "from": "2003-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91492",
+     "sha256": "5170a18a6dd38b16ea259491ecbb36db46c53dea5bdd201ad278df90184c1e81"
+    }
+   ]
+  },
+  {
    "slug": "anexa-decizie-cnas-796-2003-anexa",
    "path": "anexa/decizie-cnas-796-2003/anexa",
    "short": "Anexa la Decizia cnas nr. 796/2003",
@@ -1544,6 +1574,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48871",
      "sha256": "8a2380c30aed6ab8439d9da227ab52ed56253489d7b227cfd25c7845c15023ed"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-copii-35-2003-anexa",
+   "path": "anexa/ordin-copii-35-2003/anexa",
+   "short": "Anexa la Ordin copii nr. 35/2003",
+   "title": "Standarde minime obligatorii din 15 mai 2003 pentru asigurarea protecției copilului la asistentul maternal profesionist (anexa la Ordinul COPII nr. 35/2003)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43958",
+   "versions": [
+    {
+     "from": "2003-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43958",
+     "sha256": "52658190d85b0a3d4a4b55a64c716dc9610618461e7d8b03b8e1f78907aa63ec"
     }
    ]
   },

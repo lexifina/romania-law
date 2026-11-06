@@ -913,6 +913,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186406",
 "issuer": "penitenciare",
 "joint": []
+},
+{
+"slug": "norma-sanatate-zi0622-2016",
+"path": "norma/sanatate/2016/06-22",
+"kind": "norma",
+"year": "2016",
+"number": "06-22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme metodologice din 22 iunie 2016 de aplicare în anul 2016 a Hotărârii Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017*)",
+"short": "Norma sanatate din 22 iunie 2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-01",
+"latest": "2016-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/179567",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "norma-sanatate-zi0825-2016",
+"path": "norma/sanatate/2016/08-25",
+"kind": "norma",
+"year": "2016",
+"number": "08-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme metodologice din 25 august 2016 de aplicare a Legii nr. 151/2010 privind serviciile specializate integrate de sănătate, educație și sociale adresate persoanelor cu tulburări din spectrul autist și cu tulburări de sănătate mintală asociate",
+"short": "Norma sanatate din 25 august 2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-10-13",
+"latest": "2016-10-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/182544",
+"issuer": "sanatate",
+"joint": []
 }
 ]
 }

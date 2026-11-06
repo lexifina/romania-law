@@ -301,6 +301,36 @@
      "sha256": "29f18068fc1b8a41fa3e82e2ed0e3d4c7d43d00b14252141d61afbcbce3c3483"
     }
    ]
+  },
+  {
+   "slug": "norma-sanatate-zi1216-1-1998",
+   "path": "norma/sanatate/1998/12-16-1",
+   "short": "Norma sanatate din 16 decembrie 1998",
+   "title": "Norme igienico-sanitare din 16 decembrie 1998 pentru alimente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53610",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53610",
+     "sha256": "8154d763739f779c9a5c3747daa99d631ec64e699b7a66c8432e05abaa306571"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi1216-2-1998",
+   "path": "norma/sanatate/1998/12-16-2",
+   "short": "Norma sanatate din 16 decembrie 1998",
+   "title": "Norme de igiena din 16 decembrie 1998 privind producția, prelucrarea, depozitarea, păstrarea, transportul și desfacerea alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116303",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116303",
+     "sha256": "fb3dd69f1ba782153c03be47264fae0bedd97b82629caa70aef8df47369449ea"
+    }
+   ]
   }
  ]
 }

@@ -753,6 +753,21 @@
    ]
   },
   {
+   "slug": "norma-csa-zi1127-2007",
+   "path": "norma/csa/2007/11-27",
+   "short": "Norma csa din 27 noiembrie 2007",
+   "title": "Norme din 27 noiembrie 2007 privind cotele procentuale pentru contribuția asigurătorilor la Fondul de garantare pe anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87541",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87541",
+     "sha256": "43a39b655db6830309f6255420039607e840161a19b49dafea004939f140307f"
+    }
+   ]
+  },
+  {
    "slug": "norma-finante-zi1214-2007",
    "path": "norma/finante/2007/12-14",
    "short": "Norma finante din 14 decembrie 2007",
@@ -869,6 +884,201 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84527",
      "sha256": "8e30381249b7f79940516aaf3687d438450710fe401923ce37bd2b942ee2e65f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0220-2007",
+   "path": "norma/sanatate/2007/02-20",
+   "short": "Norma sanatate din 20 februarie 2007",
+   "title": "Norme de igienă din 20 februarie 2007 privind apele potabile îmbuteliate, altele decât apele minerale naturale sau decât apele de izvor, comercializate sub denumirea de apă de masă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79926",
+   "versions": [
+    {
+     "from": "2007-03-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79926",
+     "sha256": "52a2ce0b52421cdace6391dd8a15a91298a3858401651ec4880fbb4a076da0d1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0222-2007",
+   "path": "norma/sanatate/2007/02-22",
+   "short": "Norma sanatate din 22 februarie 2007",
+   "title": "Norme metodologice din 22 februarie 2007 privind asigurările voluntare de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79864",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79864",
+     "sha256": "30ed8f1c4b7635c88eabda995af78b8cc2f41f281f23b19ec63dae545498a5d4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0627-1-2007",
+   "path": "norma/sanatate/2007/06-27-1",
+   "short": "Norma sanatate din 27 iunie 2007",
+   "title": "Norme de igienă din 27 iunie 2007 pentru serviciile din cabinetele de piercing și tatuaj (Anexa nr. 2)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83700",
+   "versions": [
+    {
+     "from": "2007-07-19",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83700",
+     "sha256": "781a777d452719afe53801593156d5f183398f9f9741eec2139939e37ac29c4b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0627-2-2007",
+   "path": "norma/sanatate/2007/06-27-2",
+   "short": "Norma sanatate din 27 iunie 2007",
+   "title": "Norme de igienă din 27 iunie 2007 pentru serviciile din cabinetele de tratament și machiaj cosmetic, epilare, manichiură, pedichiură, coafură, frizerie și bărbierit privind aprobarea Normelor de igienă pentru cabinetele de înfrumusețare corporală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83707",
+   "versions": [
+    {
+     "from": "2007-07-19",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83707",
+     "sha256": "a318451eeae3ff1c354db5c1546f24a41971132edf30030ca7c0d99ab0d8cda7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0707-1-2007",
+   "path": "norma/sanatate/2007/07-07-1",
+   "short": "Norma sanatate din 7 iulie 2007",
+   "title": "Norme din 7 iulie 2007 privind informațiile care trebuie oferite donatorilor de sânge și de componente sanguine de origine umană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84270",
+   "versions": [
+    {
+     "from": "2007-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84270",
+     "sha256": "92ca4cee8f290d13d517f50d5b79ed9ad6fcd3113314fc863f49aaa2497b2702"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0707-2-2007",
+   "path": "norma/sanatate/2007/07-07-2",
+   "short": "Norma sanatate din 7 iulie 2007",
+   "title": "Norme din 7 iulie 2007 privind informațiile care trebuie comunicate de către donatori la fiecare donare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84271",
+   "versions": [
+    {
+     "from": "2007-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84271",
+     "sha256": "8d52b8c539f53fd70f7ef619abb0b146c35f5109cf0dc7d4a858c1f486cda4d6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0707-3-2007",
+   "path": "norma/sanatate/2007/07-07-3",
+   "short": "Norma sanatate din 7 iulie 2007",
+   "title": "Norme din 7 iulie 2007 privind admisibilitatea donatorilor de sânge și de componente sanguine umane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84272",
+   "versions": [
+    {
+     "from": "2007-08-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84272",
+     "sha256": "f0cc7bfd3fcd934537c0082cf49efd4e4ea94b1b3717bd8b9c02a156008a0848"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sri-zi0711-2007",
+   "path": "norma/sri/2007/07-11",
+   "short": "Norma sri din 11 iulie 2007",
+   "title": "Norme din 11 iulie 2007 proprii de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anul 2007, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85819",
+   "versions": [
+    {
+     "from": "2007-10-02",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85819",
+     "sha256": "07ecb36a167cb76ebc47cc32f7d7c59d4a72d23c5c5a9623dd2958de9629b202"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0626-1-2007",
+   "path": "norma/transporturi/2007/06-26-1",
+   "short": "Norma transporturi din 26 iunie 2007",
+   "title": "Norme din 26 iunie 2007 pentru acordarea licenței de transport feroviar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83896",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83896",
+     "sha256": "68d3b8e80ae34c7d48bba0ade35b4c76f3522729a89faa2d8174261cc7a340a3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0626-2-2007",
+   "path": "norma/transporturi/2007/06-26-2",
+   "short": "Norma transporturi din 26 iunie 2007",
+   "title": "Normă din 26 iunie 2007 pentru acordarea certificatelor de siguranță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83897",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83897",
+     "sha256": "c6186ba652bd7819c23fedce79f97fa17d9753c2889df327370191f958bb12c6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0719-1-2007",
+   "path": "norma/transporturi/2007/07-19-1",
+   "short": "Norma transporturi din 19 iulie 2007",
+   "title": "Normă din 19 iulie 2007 privind transporturile pe căile ferate din România, aplicabile operatorilor și beneficiarilor de transport feroviar public de călători*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89403",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89403",
+     "sha256": "c3547ed210eb33d0b5d9272476f970727c860e7d91364a5bd7e3a0e68e02af23"
+    }
+   ]
+  },
+  {
+   "slug": "norma-transporturi-zi0719-2-2007",
+   "path": "norma/transporturi/2007/07-19-2",
+   "short": "Norma transporturi din 19 iulie 2007",
+   "title": "Norme uniforme din 19 iulie 2007 privind transporturile pe căile ferate din România, aplicabile operatorilor și beneficiarilor de transport feroviar de marfă*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89750",
+   "versions": [
+    {
+     "from": "2008-01-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89750",
+     "sha256": "ba67c1d140bb7b25790f4c83ed59e8a3dcd193b282e923c3a94fbe644581e168"
+    }
+   ]
+  },
+  {
+   "slug": "norma-vama-zi0403-2007",
+   "path": "norma/vama/2007/04-03",
+   "short": "Norma vama din 3 aprilie 2007",
+   "title": "Norme tehnice din 3 aprilie 2007 de aprobare a utilizării ștampilei speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81257",
+   "versions": [
+    {
+     "from": "2007-04-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81257",
+     "sha256": "9f3d7234f5abec1092c6b4b3e819ac09717c89e8b23f183bf9dbb2594b39b0bf"
     }
    ]
   }

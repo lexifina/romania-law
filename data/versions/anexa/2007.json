@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "anexa-hg-1238-2007-anexa",
+   "path": "anexa/hg-1238-2007/anexa",
+   "short": "Anexa la HG nr. 1238/2007",
+   "title": "Standardele naționale din 10 octombrie 2007 specifice pentru serviciile specializate de asistență și protecție a victimelor traficului de persoane (anexa la Hotărârea Guvernului nr. 1238/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86307",
+   "versions": [
+    {
+     "from": "2007-10-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86307",
+     "sha256": "4cb9a1c8ee8bd77cfcfcaa80413a8f33a1f91402df7cc292b0dba3a1d8208db7"
+    }
+   ]
+  },
+  {
    "slug": "anexa-hg-1306-2007-anexa",
    "path": "anexa/hg-1306-2007/anexa",
    "short": "Anexa la HG nr. 1306/2007",
@@ -284,6 +299,36 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79920",
      "sha256": "b0052ff000bcd48ff525f6a1060b588ff291b7f982ee241829109184fec8b004"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-21-2007-anexa-1",
+   "path": "anexa/hg-21-2007/anexa-1",
+   "short": "Anexa nr. 1 la HG nr. 21/2007",
+   "title": "Standarde din 10 ianuarie 2007 de autorizare de funcționare provizorie a unităților de învățământ preuniversitar (anexa nr. 1 la Hotărârea Guvernului nr. 21/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78794",
+   "versions": [
+    {
+     "from": "2007-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78794",
+     "sha256": "91bef9ece8fb9f5c7a82d7e8a9815e247e1990cda306f856db596acf043fe412"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-hg-21-2007-anexa-2",
+   "path": "anexa/hg-21-2007/anexa-2",
+   "short": "Anexa nr. 2 la HG nr. 21/2007",
+   "title": "Standarde din 10 ianuarie 2007 de acreditare și de evaluare periodică a unităților de învățământ preuniversitar (anexa nr. 2 la Hotărârea Guvernului nr. 21/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78795",
+   "versions": [
+    {
+     "from": "2007-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78795",
+     "sha256": "d966fb777393aabfd34860e3ee3ccc5730708a6ab6fdf2aa2662270a548adadd"
     }
    ]
   },
@@ -1544,6 +1589,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85797",
      "sha256": "ab04360ca839493a6e17b53d1a168f717897449e6da1900daf2963bc873216e8"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-finante-1682-2007-anexa",
+   "path": "anexa/ordin-finante-1682-2007/anexa",
+   "short": "Anexa la Ordin finante nr. 1682/2007",
+   "title": "Prescripțiile tehnice din 18 mai 2007 de stabilire a tarifelor percepute de Agenția Română pentru Conservarea Energiei (ARCE) pentru activitățile proprii de autorizare, avizare și atestare ce decurg din atribuțiile și responsabilitățile acesteia (anexa la Ordinul FINANTE nr. 1682/2007)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82687",
+   "versions": [
+    {
+     "from": "2007-06-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82687",
+     "sha256": "a68bb99a65f2cb463c99fae5f976bdffe20572c9eab1fb1142bcc5b2071477d8"
     }
    ]
   },

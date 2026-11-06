@@ -856,6 +856,21 @@
      "sha256": "6bcf4a8333579a1988cf2d85c09c22ef038fc8ef0944d60912515778c2422b8f"
     }
    ]
+  },
+  {
+   "slug": "norma-vama-zi0513-2002",
+   "path": "norma/vama/2002/05-13",
+   "short": "Norma vama din 13 mai 2002",
+   "title": "Norme metodologice din 13 mai 2002 privind aplicarea sistemului de tranzit comun pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37992",
+   "versions": [
+    {
+     "from": "2002-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37992",
+     "sha256": "b0a7a9293bd4989d95f7381279d7cddda9612676f950c1fe9732ebb353cc391b"
+    }
+   ]
   }
  ]
 }

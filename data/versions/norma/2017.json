@@ -631,6 +631,36 @@
      "sha256": "ffed7649b78fb33f3186b0fe6c7bc2829cf1d2f2dd4c36409f5873646cf7a79d"
     }
    ]
+  },
+  {
+   "slug": "norma-sanatate-zi0301-2017",
+   "path": "norma/sanatate/2017/03-01",
+   "short": "Norma sanatate din 1 martie 2017",
+   "title": "Norme metodologice din 1 martie 2017 de aplicare în anul 2017 a Hotărârii Guvernului nr. 161/2016 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2016-2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187089",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187089",
+     "sha256": "cdc226257788124a07c7d2e75e22743c625260f84ffa26b3122b32a8361f9746"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-zi0703-2017",
+   "path": "norma/sanatate/2017/07-03",
+   "short": "Norma sanatate din 3 iulie 2017",
+   "title": "Norme tehnice din 3 iulie 2017 de realizare a Programului pentru compensarea cu 90% a prețului de referință al medicamentelor pentru pensionarii care realizează venituri din pensii și indemnizație socială pentru pensionari, de până la 900 lei/lună inclusiv, indiferent dacă realizează sau nu alte venituri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/190759",
+   "versions": [
+    {
+     "from": "2017-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/190759",
+     "sha256": "2ade56ab492c1e644459669c420f4da3e11990f88c8f3f1e589b4b8611aecd12"
+    }
+   ]
   }
  ]
 }

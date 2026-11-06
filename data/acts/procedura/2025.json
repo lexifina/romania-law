@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "procedura/2025",
+"acts": [
+{
+"slug": "procedura-educatie-zi0415-2025",
+"path": "procedura/educatie/2025/04-15",
+"kind": "procedura",
+"year": "2025",
+"number": "04-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Procedură din 15 aprilie 2025 privind monitorizarea audio-video în cadrul unităților de învățământ preuniversitar",
+"short": "Procedura educatie din 15 aprilie 2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/297018",
+"issuer": "educatie",
+"joint": []
+},
+{
+"slug": "procedura-guvern-zi1218-2025",
+"path": "procedura/guvern/2025/12-18",
+"kind": "procedura",
+"year": "2025",
+"number": "12-18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proceduri din 18 decembrie 2025 comune de cooperare și raportare în ceea ce privește aplicarea prevederilor Legii nr. 294/2024",
+"short": "Procedura guvern din 18 decembrie 2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306187",
+"issuer": "guvern",
+"joint": []
+}
+]
+}

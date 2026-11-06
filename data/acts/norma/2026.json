@@ -381,6 +381,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/307372",
 "issuer": "onpcsb",
 "joint": []
+},
+{
+"slug": "norma-vama-zi0123-2026",
+"path": "norma/vama/2026/01-23",
+"kind": "norma",
+"year": "2026",
+"number": "01-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norme metodologice din 23 ianuarie 2026 privind realizarea auditului post-vămuire",
+"short": "Norma vama din 23 ianuarie 2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/306742",
+"issuer": "vama",
+"joint": []
 }
 ]
 }

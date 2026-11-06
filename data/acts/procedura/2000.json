@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "procedura/2000",
+"acts": [
+{
+"slug": "procedura-guvern-zi0706-1-2000",
+"path": "procedura/guvern/2000/07-06-1",
+"kind": "procedura",
+"year": "2000",
+"number": "07-06-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Procedura din 6 iulie 2000 de raportare a ajutoarelor de stat către Oficiul Concurentei, în vederea întocmirii și actualizării inventarului ajutoarelor de stat",
+"short": "Procedura guvern din 6 iulie 2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-07-21",
+"latest": "2000-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23429",
+"issuer": "guvern",
+"joint": []
+},
+{
+"slug": "procedura-guvern-zi0706-2-2000",
+"path": "procedura/guvern/2000/07-06-2",
+"kind": "procedura",
+"year": "2000",
+"number": "07-06-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Procedura din 6 iulie 2000 de monitorizare a ajutoarelor de stat",
+"short": "Procedura guvern din 6 iulie 2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-07-21",
+"latest": "2000-07-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23430",
+"issuer": "guvern",
+"joint": []
+}
+]
+}

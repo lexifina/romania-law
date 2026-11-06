@@ -331,6 +331,111 @@
      "sha256": "f26f30000b2433befc52544efbbb0ac70c1c89b22f2d90b2816a49a4b4c21ab7"
     }
    ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0428-2023",
+   "path": "regulament/concurenta/2023/04-28",
+   "short": "Regulament concurenta din 28 aprilie 2023",
+   "title": "Regulament din 28 aprilie 2023 privind procedura de constatare și sancționare a practicilor de concurență neloială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270479",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270479",
+     "sha256": "1d3024974fea6a9fa4a78e0301dd0cf64dd9f6404ecfe17d781bf46d051a7536"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi1114-2023",
+   "path": "regulament/concurenta/2023/11-14",
+   "short": "Regulament concurenta din 14 noiembrie 2023",
+   "title": "Regulament din 14 noiembrie 2023 pentru aprobarea cheltuielilor necesare desfășurării activităților Comisiei pentru examinarea investițiilor străine directe prevăzute la art. 24 alin. (9) și (10) din Legea concurenței nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276344",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276344",
+     "sha256": "67133f2cb7093a440d98eef8b3ada41e1404c991097ce181ac8b83b908fed7d1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi1128-2023",
+   "path": "regulament/concurenta/2023/11-28",
+   "short": "Regulament concurenta din 28 noiembrie 2023",
+   "title": "Regulament din 28 noiembrie 2023 de organizare și funcționare a Consiliului Concurenței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276939",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276939",
+     "sha256": "db6109990d6d7536a02c6d2944d146d0ec8ea12a1b9ea2f66ca33c86e9bb5385"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0405-2023",
+   "path": "regulament/guvern/2023/04-05",
+   "short": "Regulament guvern din 5 aprilie 2023",
+   "title": "Regulament-cadru din 5 aprilie 2023 de organizare și funcționare a Autorității Feroviare Române - AFER",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266774",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266774",
+     "sha256": "d96f4908d1081c886f23c44801b9c5f6a6318a30c9de464adba79f663b8750ac"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1214-2023",
+   "path": "regulament/guvern/2023/12-14",
+   "short": "Regulament guvern din 14 decembrie 2023",
+   "title": "Regulament din 14 decembrie 2023 de organizare și funcționare a Comitetului Național Intersectorial pentru Controlul Tuberculozei și Infecției HIV/SIDA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277569",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277569",
+     "sha256": "bfef5f157f862109f1637fa36ed020a762cae9bfbe147c1844485a819c05146f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-iccj-zi0314-2023",
+   "path": "regulament/iccj/2023/03-14",
+   "short": "Regulament iccj din 14 martie 2023",
+   "title": "Regulament din 14 martie 2023 privind organizarea și funcționarea administrativă a Înaltei Curți de Casație și Justiție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266535",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266535",
+     "sha256": "a10859549f424c45197c13f6b152c0248fec9df7e2da151e1c1a6e65b70020f6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-turism-zi0504-2023",
+   "path": "regulament/turism/2023/05-04",
+   "short": "Regulament turism din 4 mai 2023",
+   "title": "Regulament din 4 mai 2023 pentru participarea întreprinderilor cu activitate de turism, a asociațiilor profesionale, patronale și a organizațiilor neguvernamentale cu activitate în domeniul turismului și a altor entități a căror activitate are impact în domeniul turismului la manifestările expoziționale, în pavilioanele naționale, standurile specializate ori miniexpozițiile la care participă Ministerul Antreprenoriatului și Turismului în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270469",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270469",
+     "sha256": "28ff0d11656a76bfd85356acd5e88bef2abbb662d525acc6dffecd15ba23df0e"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "procedura/1997",
+"acts": [
+{
+"slug": "procedura-mediu-zi0921-1997",
+"path": "procedura/mediu/1997/09-21",
+"kind": "procedura",
+"year": "1997",
+"number": "09-21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Procedură din 21 septembrie 1997 de realizare a bilanțurilor de mediu",
+"short": "Procedura mediu din 21 septembrie 1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-11-06",
+"latest": "1997-11-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/145659",
+"issuer": "mediu",
+"joint": []
+}
+]
+}

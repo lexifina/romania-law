@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "procedura/2014",
+ "acts": [
+  {
+   "slug": "procedura-agricultura-zi0520-2014",
+   "path": "procedura/agricultura/2014/05-20",
+   "short": "Procedura agricultura din 20 mai 2014",
+   "title": "Procedura din 20 mai 2014 de plată a sumelor prevăzute în Legea nr. 48/2014 privind unele măsuri referitoare la plățile naționale directe complementare în sectorul zootehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158404",
+   "versions": [
+    {
+     "from": "2014-05-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158404",
+     "sha256": "d320ff83c071e6f29484981b38bee89fb6c35bdbc7f523bc6d31d6947214703e"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anaf-zi0801-2014",
+   "path": "procedura/anaf/2014/08-01",
+   "short": "Procedura anaf din 1 august 2014",
+   "title": "Procedură din 1 august 2014 privind recalcularea plăților anticipate cu titlu de impozit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160759",
+   "versions": [
+    {
+     "from": "2014-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160759",
+     "sha256": "ec8e0340fcbcf525981a2c6c25287de9743bd2bdf88e60ef855e036a08c2d148"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anre-zi0328-2014",
+   "path": "procedura/anre/2014/03-28",
+   "short": "Procedura anre din 28 martie 2014",
+   "title": "Procedură din 28 martie 2014 pentru determinarea și utilizarea profilului rezidual de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157122",
+   "versions": [
+    {
+     "from": "2014-05-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157122",
+     "sha256": "8cd514a16cba1a154c4f4ca59e5240f693caaa5cddbce14d2645162e171d6d3b"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-anre-zi1013-2014",
+   "path": "procedura/anre/2014/10-13",
+   "short": "Procedura anre din 13 octombrie 2014",
+   "title": "Procedură din 13 octombrie 2014 de avizare a furnizorilor de formare profesională în domeniul instalațiilor electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162308",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162308",
+     "sha256": "9e3ea7fac6a5fb3d72d8c1436121915204f5b7ed1c5d6e483cc79cd863d9bad7"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-asf-zi0423-2014",
+   "path": "procedura/asf/2014/04-23",
+   "short": "Procedura asf din 23 aprilie 2014",
+   "title": "Proceduri din 23 aprilie 2014 privind plata compensațiilor de către Fondul de compensare a investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157665",
+   "versions": [
+    {
+     "from": "2014-04-24",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157665",
+     "sha256": "44a654eb3fe80aec78ca2270b9b5279293ec006a315f0cbd33ab02ec4df3b92b"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-dezvoltare-zi0401-2014",
+   "path": "procedura/dezvoltare/2014/04-01",
+   "short": "Procedura dezvoltare din 1 aprilie 2014",
+   "title": "Procedură din 1 aprilie 2014 de control al statului la autoritățile administrației publice locale/județene privind respectarea prevederilor legale la emiterea certificatelor de urbanism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157500",
+   "versions": [
+    {
+     "from": "2014-04-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157500",
+     "sha256": "e9aa2184c530fbc39d24b369adf32371b6489b329f5d9699291963e977addd8c"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-dezvoltare-zi0725-1-2014",
+   "path": "procedura/dezvoltare/2014/07-25-1",
+   "short": "Procedura dezvoltare din 25 iulie 2014",
+   "title": "Procedură din 25 iulie 2014 privind exercitarea controlului de stat al calității în construcții prin controale la factorii implicați în procesul de execuție - indicativ PCE 001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160376",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160376",
+     "sha256": "a1278d175ba3361ac86983f4497fbdd501ad8ccd7ee94679b9e695ff1a30edd0"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-dezvoltare-zi0725-2-2014",
+   "path": "procedura/dezvoltare/2014/07-25-2",
+   "short": "Procedura dezvoltare din 25 iulie 2014",
+   "title": "Procedură din 25 iulie 2014 privind efectuarea controlului de stat în faze de execuție determinante pentru rezistența mecanică și stabilitatea construcțiilor - indicativ PCF 002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160379",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160379",
+     "sha256": "2d976bb5a61db35d1f97afec7ad6a7f099265ad7bf2693061ec1041b0f168423"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-finante-zi1016-2014",
+   "path": "procedura/finante/2014/10-16",
+   "short": "Procedura finante din 16 octombrie 2014",
+   "title": "Procedură din 16 octombrie 2014 de predare-primire a informațiilor transmise de către unitatea administrativ-teritorială beneficiară a sumelor încasate în contul 21.03.02.17 \"Impozit pe onorariul avocaților și notarilor publici\" către organul fiscal competent în administrarea contribuabililor din subordinea Agenției Naționale de Administrare Fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162382",
+   "versions": [
+    {
+     "from": "2014-10-22",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162382",
+     "sha256": "03b65692cbdc9db7693a7101d7f8cb74e3416c2c79df628723bf06696e0c88ba"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0423-2014",
+   "path": "procedura/guvern/2014/04-23",
+   "short": "Procedura guvern din 23 aprilie 2014",
+   "title": "Procedură din 23 aprilie 2014 privind acordarea ajutoarelor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158038",
+   "versions": [
+    {
+     "from": "2014-05-08",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158038",
+     "sha256": "31dcb09bb9fdc55e03284d63707316f977e744a4092e89feeff169191b6a65c1"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0709-2014",
+   "path": "procedura/guvern/2014/07-09",
+   "short": "Procedura guvern din 9 iulie 2014",
+   "title": "Proceduri din 9 iulie 2014 privind constituirea garanției în contul Agenției Naționale de Îmbunătățiri Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160005",
+   "versions": [
+    {
+     "from": "2014-07-18",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160005",
+     "sha256": "6302878002f596bc24adb96d4f6ed2aca95aefe507825eb07fc6bfa3ca285e93"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0904-1-2014",
+   "path": "procedura/guvern/2014/09-04-1",
+   "short": "Procedura guvern din 4 septembrie 2014",
+   "title": "Procedură din 4 septembrie 2014 de înregistrare a domeniilor SETRE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161197",
+   "versions": [
+    {
+     "from": "2014-09-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161197",
+     "sha256": "9432cd0bb2ba2303a1155cb11bf0dce26d56980ca6099e6a78d4ebf36cdbd6f3"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0904-2-2014",
+   "path": "procedura/guvern/2014/09-04-2",
+   "short": "Procedura guvern din 4 septembrie 2014",
+   "title": "Procedură din 4 septembrie 2014 de înregistrare a furnizorilor SETRE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161198",
+   "versions": [
+    {
+     "from": "2014-09-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161198",
+     "sha256": "9c44c26277bdf760d61d0184753b11282c9a53739b99c27af7919ea751dbae49"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-guvern-zi0917-2014",
+   "path": "procedura/guvern/2014/09-17",
+   "short": "Procedura guvern din 17 septembrie 2014",
+   "title": "Procedură din 17 septembrie 2014 privind acordarea ajutoarelor de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161743",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161743",
+     "sha256": "66fcc2492bdf9b78445ce789bdb00a312ffcbd001dd9d931a6b3e3eafd341648"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-imm-zi0404-2014",
+   "path": "procedura/imm/2014/04-04",
+   "short": "Procedura imm din 4 aprilie 2014",
+   "title": "Procedura de avizare din 4 aprilie 2014 pentru conformitatea statutului asociațiilor sau uniunilor județene/naționale de societăți cooperative cu prevederile Legii nr. 1/2005 privind organizarea și funcționarea cooperației",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157942",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157942",
+     "sha256": "aadb50ad3b89207f11e0b49282dc2e62510f5fbc0bc674cc464bead6ca22d7ee"
+    }
+   ]
+  },
+  {
+   "slug": "procedura-mediu-zi0319-2014",
+   "path": "procedura/mediu/2014/03-19",
+   "short": "Procedura mediu din 19 martie 2014",
+   "title": "Procedură din 19 martie 2014 de efectuare a plății sumelor prevăzute prin hotărâri judecătorești având ca obiect restituirea taxei pe poluare pentru autovehicule și a taxei pentru emisiile poluante provenite de la autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159174",
+   "versions": [
+    {
+     "from": "2014-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159174",
+     "sha256": "f7be5c90f86edea43da147ae4c8c639d3bdb08c7d7f0f57bfe0607a91fa83510"
+    }
+   ]
+  }
+ ]
+}

@@ -528,6 +528,66 @@
    ]
   },
   {
+   "slug": "regulament-anre-zi1112-1-2009",
+   "path": "regulament/anre/2009/11-12-1",
+   "short": "Regulament anre din 12 noiembrie 2009",
+   "title": "Regulament din 12 noiembrie 2009 pentru autorizarea și verificarea persoanelor fizice care desfășoară activități de proiectare, execuție și exploatare în domeniul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113715",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113715",
+     "sha256": "79e320e1eee5275963a4b4465bcd250becde27d89a4fb8889d859054baeeab16"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-anre-zi1112-2-2009",
+   "path": "regulament/anre/2009/11-12-2",
+   "short": "Regulament anre din 12 noiembrie 2009",
+   "title": "Regulament din 12 noiembrie 2009 pentru autorizarea și verificarea operatorilor economici care desfășoară activități de proiectare, execuție și exploatare în domeniul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113716",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113716",
+     "sha256": "75abdbca265b850b4639f08099f9835cac06cd86bba99a73e23eb66c096356ea"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-aparare-zi0312-2009",
+   "path": "regulament/aparare/2009/03-12",
+   "short": "Regulament aparare din 12 martie 2009",
+   "title": "Regulamentul din 12 martie 2009 onorurilor și ceremoniilor militare*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104613",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104613",
+     "sha256": "967738a5796d8b7b56704c2bceb4f92ccd5c5190e9672ce34fd6cbde487a8269"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-aparare-zi1019-2009",
+   "path": "regulament/aparare/2009/10-19",
+   "short": "Regulament aparare din 19 octombrie 2009",
+   "title": "Regulament din 19 octombrie 2009 de organizare și funcționare a Comisiei de coordonare a programelor de construire a locuințelor proprietate personală pentru cadre militare, soldați și gradați voluntari, precum și pentru personalul civil din armată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112564",
+   "versions": [
+    {
+     "from": "2009-10-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112564",
+     "sha256": "d0d25a9396ec77a26c33a595df5ac72dbcee642f368124fd9d38c8d16ef20285"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-12-2009",
    "path": "regulament/bnr/2009/12",
    "short": "Regulament bnr nr. 12/2009",
@@ -543,6 +603,21 @@
    ]
   },
   {
+   "slug": "regulament-cafr-zi0831-2009",
+   "path": "regulament/cafr/2009/08-31",
+   "short": "Regulament cafr din 31 august 2009",
+   "title": "Regulament din 31 august 2009 privind organizarea și funcționarea Consiliului de Coordonare a Relațiilor Internaționale (CCRI)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111593",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111593",
+     "sha256": "e901f746c59b92bb4f78785c90bd2c3d96bb9819207f701a2671162122d7e7e0"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-6-2009",
    "path": "regulament/cnvm/2009/6",
    "short": "Regulament cnvm nr. 6/2009",
@@ -554,6 +629,186 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110757",
      "sha256": "14ca3e4effeb20f792776e4dc00f1f1ad2a9a63c0308249abec92e85ddb6b854"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-economie-zi0310-2009",
+   "path": "regulament/economie/2009/03-10",
+   "short": "Regulament economie din 10 martie 2009",
+   "title": "Regulament din 10 martie 2009 de organizare și funcționare a Comisiei pentru derularea mecanismului de acordare a sprijinului financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110391",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110391",
+     "sha256": "0d34ddf583acdef149c80407ab9e2f08186c4f8a6d78a865d49b62a57e617837"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0325-2009",
+   "path": "regulament/guvern/2009/03-25",
+   "short": "Regulament guvern din 25 martie 2009",
+   "title": "Regulament - CADRU din 25 martie 2009 privind constituirea și funcționarea comisiilor de dialog social la nivelul administrației publice centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104449",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104449",
+     "sha256": "04e086c5cb37c9ae23ae8fdb48554e1cfdb226709f8ac0ae9d7566ad7ba359a1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0408-2009",
+   "path": "regulament/guvern/2009/04-08",
+   "short": "Regulament guvern din 8 aprilie 2009",
+   "title": "Regulament din 8 aprilie 2009 de organizare și funcționare al Institutului de Drept Public și Științe Administrative al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104694",
+   "versions": [
+    {
+     "from": "2009-04-13",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104694",
+     "sha256": "1557478f9bc4e3ce32a11184dff896b5f9b86ba7ad4d195a50da3d662ac20421"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0510-2009",
+   "path": "regulament/guvern/2009/05-10",
+   "short": "Regulament guvern din 10 mai 2009",
+   "title": "Regulament din 10 mai 2009 privind procedurile, la nivelul Guvernului, pentru elaborarea, avizarea și prezentarea proiectelor de documente de politici publice, a proiectelor de acte normative, precum și a altor documente, în vederea adoptării/aprobării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105817",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105817",
+     "sha256": "7b156a8ea8d20171248fbc7104bd0dda0bf38e9cf7a879da010beca4df001895"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi0701-2009",
+   "path": "regulament/guvern/2009/07-01",
+   "short": "Regulament guvern din 1 iulie 2009",
+   "title": "Regulament din 1 iulie 2009 de organizare și funcționare a Consiliului interministerial \"Consiliul pentru promovarea societății informaționale în România\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109835",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109835",
+     "sha256": "952f9353c1801f1b0bfecb743fc1bd22331f077b9f3346c420f6a0b35e527379"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1118-1-2009",
+   "path": "regulament/guvern/2009/11-18-1",
+   "short": "Regulament guvern din 18 noiembrie 2009",
+   "title": "Regulament din 18 noiembrie 2009 de organizare și funcționare a Institutului Național de Cercetare-Dezvoltare în Construcții, Urbanism și Dezvoltare Teritorială Durabilă \"URBAN-INCERC\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113918",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113918",
+     "sha256": "45e874a8fd0efb4cf62444eb152f0d68baabb755ae3aab886e76987ede932d91"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1118-2-2009",
+   "path": "regulament/guvern/2009/11-18-2",
+   "short": "Regulament guvern din 18 noiembrie 2009",
+   "title": "Regulament din 18 noiembrie 2009 de organizare și funcționare a Autorității Naționale de Reglementare în Domeniul Energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114218",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114218",
+     "sha256": "172d8ce00cc779b4b0cb2903c3c3f18cd8ed1bb80fdcfddc07e686ae8b62f807"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1118-3-2009",
+   "path": "regulament/guvern/2009/11-18-3",
+   "short": "Regulament guvern din 18 noiembrie 2009",
+   "title": "Regulament din 18 noiembrie 2009 de organizare și funcționare al Agenției Nucleare și pentru Deșeuri Radioactive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114377",
+   "versions": [
+    {
+     "from": "2009-12-11",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114377",
+     "sha256": "f07cb63e58508725ad19362e1a661600422b1573ff812944b46bf1a074aff8e5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-imm-zi0406-1-2009",
+   "path": "regulament/imm/2009/04-06-1",
+   "short": "Regulament imm din 6 aprilie 2009",
+   "title": "Regulament din 6 aprilie 2009 de organizare și funcționare al Agenției pentru Implementarea Proiectelor și Programelor pentru Întreprinderi Mici și Mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104967",
+   "versions": [
+    {
+     "from": "2009-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104967",
+     "sha256": "bfcefc8c750692adf3d6357e7123536b627bd22df320de17f9d65628f0de536b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-imm-zi0406-2-2009",
+   "path": "regulament/imm/2009/04-06-2",
+   "short": "Regulament imm din 6 aprilie 2009",
+   "title": "Regulament din 6 aprilie 2009 de organizare și funcționare al oficiilor teritoriale pentru întreprinderi mici și mijlocii și cooperație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104968",
+   "versions": [
+    {
+     "from": "2009-04-22",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104968",
+     "sha256": "56d99102059999afe643963b9c14f63781349974e2d5acaeccb54943c200c0ed"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi1118-2009",
+   "path": "regulament/interne/2009/11-18",
+   "short": "Regulament interne din 18 noiembrie 2009",
+   "title": "Regulament din 18 noiembrie 2009 de organizare și funcționare a Unității de politici publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113875",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113875",
+     "sha256": "d060a5da6ddf2214d30a3ce99acc4b8d45f8029d8fc6ffbb5c190ef0f3fc7028"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi1124-2009",
+   "path": "regulament/sanatate/2009/11-24",
+   "short": "Regulament sanatate din 24 noiembrie 2009",
+   "title": "Regulament din 24 noiembrie 2009 de organizare și funcționare a secțiilor și compartimentelor de anestezie și terapie intensivă din unitățile sanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114469",
+   "versions": [
+    {
+     "from": "2009-12-15",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114469",
+     "sha256": "3f0ce9b6ec36f62d31a0d3d3403dfe33de4e28e43ea4344231d639eaf9347a7b"
     }
    ]
   }

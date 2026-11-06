@@ -211,6 +211,156 @@
      "sha256": "dd06c041c0bd74c86ed7a49f66f70d29487ea604333293b190d9c0a357f29a38"
     }
    ]
+  },
+  {
+   "slug": "regulament-anre-zi1216-2025",
+   "path": "regulament/anre/2025/12-16",
+   "short": "Regulament anre din 16 decembrie 2025",
+   "title": "Regulament din 16 decembrie 2025 pentru acordarea autorizațiilor de înființare și a licențelor în sectorul gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306368",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306368",
+     "sha256": "80721782c25dca05ebd723e36c1c9ef26d6e1bf44aa05abbd391c367d5dca918"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0131-2025",
+   "path": "regulament/concurenta/2025/01-31",
+   "short": "Regulament concurenta din 31 ianuarie 2025",
+   "title": "Regulament din 31 ianuarie 2025 pentru modificarea și completarea Regulamentului privind procedurile de monitorizare a ajutoarelor de stat și de minimis, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 441/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294722",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294722",
+     "sha256": "8880b419178ff725d2570045469c128237588579a59d2f74b1256707e80def75"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0411-2025",
+   "path": "regulament/concurenta/2025/04-11",
+   "short": "Regulament concurenta din 11 aprilie 2025",
+   "title": "Regulament din 11 aprilie 2025 privind analiza și soluționarea plângerilor referitoare la încălcarea prevederilor art. 5 , 6 , 8 și 13 din Legea concurenței nr. 21/1996 și a prevederilor art. 101 și 102 din Tratatul privind funcționarea Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296838",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296838",
+     "sha256": "3d112484554493c1c66a9806d84c7ed589e2425eb4dfe4f7ac01ed09d67a05fd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0722-2025",
+   "path": "regulament/concurenta/2025/07-22",
+   "short": "Regulament concurenta din 22 iulie 2025",
+   "title": "Regulament din 22 iulie 2025 privind modificarea Regulamentului pentru aprobarea cheltuielilor necesare desfășurării activităților Comisiei pentru examinarea investițiilor străine directe prevăzute la art. 24 alin. (9) din Legea concurenței nr. 21/1996 , pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 1.476/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300355",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300355",
+     "sha256": "872efa96aa16dd33cb2b29ca4f366efd803600f2a4caa5d13e1e572a4d3c9717"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-concurenta-zi0916-2025",
+   "path": "regulament/concurenta/2025/09-16",
+   "short": "Regulament concurenta din 16 septembrie 2025",
+   "title": "Regulament din 16 septembrie 2025 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Concurenței, pus în aplicare prin Ordinul președintelui Consiliului Concurenței nr. 1.511/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302473",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302473",
+     "sha256": "46b19589a4c7685739af07245044f50c050ab0b01996dbd86c0ae8780f3c2db1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi1020-2025",
+   "path": "regulament/educatie/2025/10-20",
+   "short": "Regulament educatie din 20 octombrie 2025",
+   "title": "Regulamentul din 20 octombrie 2025 de organizare și funcționare a alternativei educaționale Montessori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304091",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304091",
+     "sha256": "9aa4e2c96d261c5445f12c90bc7dbf8b62d47ddde692e2881e51caa808241ed0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-integritate-zi0903-2025",
+   "path": "regulament/integritate/2025/09-03",
+   "short": "Regulament integritate din 3 septembrie 2025",
+   "title": "Regulament din 3 septembrie 2025 de organizare și funcționare al Agenției Naționale de Integritate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301960",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301960",
+     "sha256": "fc697e51ac489d077b7ecdeb82781c5eb1d4a014e5ea2db1a4edb76151a5634b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0327-2025",
+   "path": "regulament/sanatate/2025/03-27",
+   "short": "Regulament sanatate din 27 martie 2025",
+   "title": "Regulament din 27 martie 2025 de organizare și funcționare a Serviciului de Ambulanță București-Ilfov al Municipiului București și al Județului Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296426",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296426",
+     "sha256": "301b9dfcb96f40caf2f7333baae16be04f64515a55da9ab7eb013a48216870c0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi1112-2025",
+   "path": "regulament/sanatate/2025/11-12",
+   "short": "Regulament sanatate din 12 noiembrie 2025",
+   "title": "Regulament de organizare și funcționare din 12 noiembrie 2025 al Centrului Medical de Evaluare, Terapie, Educație Medicală Specifică și Recuperare pentru Copii și Tineri \"Cristian Șerban\" Buziaș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305579",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305579",
+     "sha256": "83ea59f65fe75a3d49e17380b737f0ef7023659adf4c6d516c508df4d9cf60a4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-senat-zi0109-2025",
+   "path": "regulament/senat/2025/01-09",
+   "short": "Regulament senat din 9 ianuarie 2025",
+   "title": "Regulamentul senatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293196",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293196",
+     "sha256": "aebc89506b6f504d7f187a35313d996069c576db62cb3eca3be2034c8aaf34e0"
+    }
+   ]
   }
  ]
 }

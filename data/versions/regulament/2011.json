@@ -693,6 +693,81 @@
    ]
   },
   {
+   "slug": "regulament-agricultura-zi0120-2011",
+   "path": "regulament/agricultura/2011/01-20",
+   "short": "Regulament agricultura din 20 ianuarie 2011",
+   "title": "Regulament din 20 ianuarie 2011 de practicare a pescuitului recreativ/sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125670",
+   "versions": [
+    {
+     "from": "2011-01-28",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125670",
+     "sha256": "3c004a0905e674594d7b81efc32c16d31c118bbd6eff7095d39c28767a2e96f2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-agricultura-zi0624-2011",
+   "path": "regulament/agricultura/2011/06-24",
+   "short": "Regulament agricultura din 24 iunie 2011",
+   "title": "Regulament din 24 iunie 2011 de practicare a pescuitului recreativ/sportiv în ariile naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130186",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130186",
+     "sha256": "f3f7527c93e1129ac0fa623f008319a4c56503a3d1e5e7694cd53e09bd4582cf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-aparare-zi0504-2011",
+   "path": "regulament/aparare/2011/05-04",
+   "short": "Regulament aparare din 4 mai 2011",
+   "title": "Regulament din 4 mai 2011 privind organizarea, funcționarea și structura comisiilor de contestații din cadrul Ministerului Apărării Naționale, Ministerului Administrației și Internelor și Serviciului Român de Informații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128313",
+   "versions": [
+    {
+     "from": "2011-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128313",
+     "sha256": "ea471e0b89fbc2afce280ae77f2658561f6312e41805ade4c5cd62a13b63a465"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-aparare-zi0822-2011",
+   "path": "regulament/aparare/2011/08-22",
+   "short": "Regulament aparare din 22 august 2011",
+   "title": "Regulament din 22 august 2011 de organizare și funcționare a Comisiei de expertiză medicală și a Comisiei superioare de expertiză medicală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131046",
+   "versions": [
+    {
+     "from": "2011-08-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131046",
+     "sha256": "882eb7d1d185a5be26116465c01fdea578b7d78c9334acddaadb5c38d3b2dc16"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-aparare-zi1116-2011",
+   "path": "regulament/aparare/2011/11-16",
+   "short": "Regulament aparare din 16 noiembrie 2011",
+   "title": "Regulament din 16 noiembrie 2011 de organizare și funcționare a Comisiei de heraldică și denumiri a Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133082",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133082",
+     "sha256": "1128c88230cf2b98d1b1f1a5c2634eaa7a7126c099bd5747bde43bfba0fdddcb"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-13-2011",
    "path": "regulament/bnr/2011/13",
    "short": "Regulament bnr nr. 13/2011",
@@ -704,6 +779,276 @@
      "units": 3,
      "source_url": "https://www.bnr.ro/19136-regulament-13-2011",
      "sha256": "7989555c001e9105f18f3c11cfb7c4cb856c666f75f578fd8c9a666ec0edda6a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dezvoltare-zi0311-1-2011",
+   "path": "regulament/dezvoltare/2011/03-11-1",
+   "short": "Regulament dezvoltare din 11 martie 2011",
+   "title": "Regulament de organizare și funcționare din 11 martie 2011 a Comisiei pentru evaluarea și selecția proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127646",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127646",
+     "sha256": "7f8c17e47aabd57b1481c257612c4d29bb2a53c2a38c2e28a7a29e72c07fd8c1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dezvoltare-zi0311-2-2011",
+   "path": "regulament/dezvoltare/2011/03-11-2",
+   "short": "Regulament dezvoltare din 11 martie 2011",
+   "title": "Regulament de organizare și funcționare din 11 martie 2011 a Comisiei pentru evaluarea și selecția proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127649",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127649",
+     "sha256": "e14131ebaae8f420dabf87874e7d9f4a99f9dd8946c265743c8f6123c7c25915"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dezvoltare-zi0311-3-2011",
+   "path": "regulament/dezvoltare/2011/03-11-3",
+   "short": "Regulament dezvoltare din 11 martie 2011",
+   "title": "Regulament de organizare și funcționare din 11 martie 2011 a Comisiei pentru evaluarea și selecția proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127655",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127655",
+     "sha256": "16e405b6d02de56f6ffd92a022e187fab3e55ecda2cf9788a19293bcc951d3f1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-dezvoltare-zi0311-4-2011",
+   "path": "regulament/dezvoltare/2011/03-11-4",
+   "short": "Regulament dezvoltare din 11 martie 2011",
+   "title": "Regulament de organizare și funcționare din 11 martie 2011 a Comisiei pentru evaluarea și selecția proiectelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127658",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127658",
+     "sha256": "b9f341a571d27dbdfcec505a47aab1eb8531f43467bbce7b459dfb11c37a32cc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi1005-1-2011",
+   "path": "regulament/educatie/2011/10-05-1",
+   "short": "Regulament educatie din 5 octombrie 2011",
+   "title": "Regulament-cadru din 5 octombrie 2011 de organizare și funcționare a inspectoratelor școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132313",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132313",
+     "sha256": "283b1dd4e2e6fe21b443697304248e1a167bd1ae974f1cdf1004a44fd367b05a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi1005-2-2011",
+   "path": "regulament/educatie/2011/10-05-2",
+   "short": "Regulament educatie din 5 octombrie 2011",
+   "title": "Regulament-cadru din 5 octombrie 2011 privind organizarea și funcționarea consiliului de administrație al inspectoratului școlar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132314",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132314",
+     "sha256": "3502879f992a39f1091512e6f2b82f3c3beaa8af506563e8575c870634a5070a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-educatie-zi1005-3-2011",
+   "path": "regulament/educatie/2011/10-05-3",
+   "short": "Regulament educatie din 5 octombrie 2011",
+   "title": "Regulament-cadru din 5 octombrie 2011 privind organizarea și funcționarea consiliului consultativ al inspectoratului școlar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132315",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132315",
+     "sha256": "6ec084395dadcb6fc0f0a2f0fdb159dfeb065afbb73514bcb5e0cff1e51bbe20"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1026-2011",
+   "path": "regulament/guvern/2011/10-26",
+   "short": "Regulament guvern din 26 octombrie 2011",
+   "title": "Regulament din 26 octombrie 2011 de organizare și funcționare a Comitetului interdepartamental privind proiectul Nabucco",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132860",
+   "versions": [
+    {
+     "from": "2011-11-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132860",
+     "sha256": "d0d3c347cac32c03a2c6af280d85128b258fda2d625611d62b57b62eb778f28d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-guvern-zi1102-2011",
+   "path": "regulament/guvern/2011/11-02",
+   "short": "Regulament guvern din 2 noiembrie 2011",
+   "title": "Regulament din 2 noiembrie 2011 de organizare și funcționare a Inspectoratului de Stat pentru Controlul în Transportul Rutier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132648",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132648",
+     "sha256": "feb05e92d92e0c469698114c9b58efcca0cea57059cc0c8f06a71e8c8c6688b2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi1220-2011",
+   "path": "regulament/interne/2011/12-20",
+   "short": "Regulament interne din 20 decembrie 2011",
+   "title": "Regulament din 20 decembrie 2011 de organizare și funcționare a Direcției Generale de Pașapoarte*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134984",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134984",
+     "sha256": "178b4f6e20487aac1f59aa66f9f72d193e209b720c072c1bc4ce70e09a267b90"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-interne-zi1221-2011",
+   "path": "regulament/interne/2011/12-21",
+   "short": "Regulament interne din 21 decembrie 2011",
+   "title": "Regulament din 21 decembrie 2011 de organizare și funcționare al Inspectoratului General de Aviație al Ministerului Administrației și Internelor*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134867",
+   "versions": [
+    {
+     "from": "2012-01-04",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134867",
+     "sha256": "7e3a799367af6b7265fa612bf0e9c188d06c744f5029ef2d2e6779ecfe82f0b1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-parchet-zi0518-1-2011",
+   "path": "regulament/parchet/2011/05-18-1",
+   "short": "Regulament parchet din 18 mai 2011",
+   "title": "Regulament din 18 mai 2011 privind organizarea și desfășurarea concursului pentru ocuparea funcției publice vacante de manager economic și a celorlalte posturi vacante sau temporar vacante de funcționari publici din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129852",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129852",
+     "sha256": "faf97696af3d17b423a3b837830da07b2d1ceda3c044e69a133d6eedc8b10544"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-parchet-zi0518-2-2011",
+   "path": "regulament/parchet/2011/05-18-2",
+   "short": "Regulament parchet din 18 mai 2011",
+   "title": "Regulament din 18 mai 2011 privind organizarea și desfășurarea concursului pentru ocuparea posturilor vacante sau temporar vacante de personal contractual din cadrul Ministerului Public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129853",
+   "versions": [
+    {
+     "from": "2011-07-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129853",
+     "sha256": "60cf2ace24fe50c8dedc3f3ed008b7a4c77c5af2cd918d2e241ad0a25a383469"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0531-1-2011",
+   "path": "regulament/sanatate/2011/05-31-1",
+   "short": "Regulament sanatate din 31 mai 2011",
+   "title": "Regulament-cadru din 31 mai 2011 de organizare și funcționare al comisiei constituite în baza prevederilor art. 23 alin. (3) și (4) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, aprobat prin Hotărârea Guvernului nr. 1.389/2010 , pentru asistența medicală primară - Anexa 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128977",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128977",
+     "sha256": "1ee72c437283a99aea623f6f358a05f2bdd45a5f75e652c779eb67926a5c53d3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0531-2-2011",
+   "path": "regulament/sanatate/2011/05-31-2",
+   "short": "Regulament sanatate din 31 mai 2011",
+   "title": "Regulament-cadru din 31 mai 2011 de organizare și funcționare al comisiei constituite în baza prevederilor art. 44 alin. (4) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, aprobat prin Hotărârea Guvernului nr. 1.389/2010 , pentru asistența medicală ambulatorie de specialitate pentru specialitățile clinice - Anexa 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128978",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128978",
+     "sha256": "9cbb9eb80417d7319f5638fa1ab31d8fa93a04b2c5598179920624071f7b9640"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0531-3-2011",
+   "path": "regulament/sanatate/2011/05-31-3",
+   "short": "Regulament sanatate din 31 mai 2011",
+   "title": "Regulament-cadru din 31 mai 2011 de organizare și funcționare al comisiei constituite în baza prevederilor art. 44 alin. (5) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, aprobat prin Hotărârea Guvernului nr. 1.389/2010 , pentru asistența medicală ambulatorie de specialitate pentru specialitățile paraclinice - Anexa 4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128980",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128980",
+     "sha256": "961d842c67fc654e8a98bc27b7e9addbf5bfecff1811b6ac5ef73e708c41277e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sanatate-zi0531-4-2011",
+   "path": "regulament/sanatate/2011/05-31-4",
+   "short": "Regulament sanatate din 31 mai 2011",
+   "title": "Regulament-cadru din 31 mai 2011 de organizare și funcționare al comisiei constituite în baza prevederilor art. 62 alin. (3) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2011-2012, aprobat prin Hotărârea Guvernului nr. 1.389/2010 , pentru asistența medicală spitalicească - Anexa 5",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128981",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128981",
+     "sha256": "a2fcabd4e900acfbda1ad357323ca200e9a5e4bdf7c10ecfe6f8c52dbe059d5a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-sri-zi0503-2011",
+   "path": "regulament/sri/2011/05-03",
+   "short": "Regulament sri din 3 mai 2011",
+   "title": "Regulament din 3 mai 2011 privind organizarea, funcționarea și structura Comisiei centrale de contestații din cadrul Casei Naționale de Pensii Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128312",
+   "versions": [
+    {
+     "from": "2011-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128312",
+     "sha256": "47134d3af530e6ef57c71f63ac45205c166a80cb034050b17d98a89ec7d7a672"
     }
    ]
   }

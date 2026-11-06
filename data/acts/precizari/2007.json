@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "precizari/2007",
+"acts": [
+{
+"slug": "precizari-csa-zi0306-2007",
+"path": "precizari/csa/2007/03-06",
+"kind": "precizari",
+"year": "2007",
+"number": "03-06",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizări din 6 martie 2007 privind încheierea exercițiului financiar 2006 la societățile din domeniul asigurărilor",
+"short": "Precizări csa din 6 martie 2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-03-14",
+"latest": "2007-03-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/80246",
+"issuer": "csa",
+"joint": []
+},
+{
+"slug": "precizari-finante-zi0516-2007",
+"path": "precizari/finante/2007/05-16",
+"kind": "precizari",
+"year": "2007",
+"number": "05-16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizări din 16 mai 2007 pentru efectuarea modificărilor în execuția bugetului de stat pe anul 2007 în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 25/2007 privind stabilirea unor măsuri pentru reorganizarea aparatului de lucru al Guvernului",
+"short": "Precizări finante din 16 mai 2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-05-25",
+"latest": "2007-05-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/82353",
+"issuer": "finante",
+"joint": []
+}
+]
+}

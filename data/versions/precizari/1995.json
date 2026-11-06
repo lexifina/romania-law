@@ -31,6 +31,51 @@
      "sha256": "288f99528d2ef0e15f3619cb6ca2604d8b841380ec91142e7d6e6d64c49d5412"
     }
    ]
+  },
+  {
+   "slug": "precizari-aparare-zi1102-1995",
+   "path": "precizari/aparare/1995/11-02",
+   "short": "Precizări aparare din 2 noiembrie 1995",
+   "title": "Precizări din 2 noiembrie 1995 privind avizarea documentațiilor de urbanism și amenajarea teritoriului, precum și a documentațiilor tehnice pentru autorizarea executării construcțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53668",
+   "versions": [
+    {
+     "from": "1995-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53668",
+     "sha256": "31df9beae0bae92d1f51a888277868e3b5b9c54a98493c3b506b78f95afb61db"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-dezvoltare-zi1107-1995",
+   "path": "precizari/dezvoltare/1995/11-07",
+   "short": "Precizări dezvoltare din 7 noiembrie 1995",
+   "title": "Precizări din 7 noiembrie 1995 privind avizarea documentațiilor de urbanism și amenajarea teritoriului, precum și a documentațiilor tehnice pentru autorizarea executării construcțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53669",
+   "versions": [
+    {
+     "from": "1995-12-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53669",
+     "sha256": "19657510a7bc870213590f185cb8a239fc0d10e0724ca098e816d7770e81d66c"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-guvern-zi0106-1995",
+   "path": "precizari/guvern/1995/01-06",
+   "short": "Precizări guvern din 6 ianuarie 1995",
+   "title": "Precizări din 6 ianuarie 1995 privind masurile referitoare la întocmirea bilanțurilor contabile pe anul 1994 la agenții economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53705",
+   "versions": [
+    {
+     "from": "1995-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53705",
+     "sha256": "3b0d662c1e7cd36463cd54762b734ae1fb243ae400680971217de559f388cc73"
+    }
+   ]
   }
  ]
 }
