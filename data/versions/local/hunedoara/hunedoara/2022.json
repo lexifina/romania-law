@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-260-2022",
+   "path": "local/hunedoara/hunedoara/2022/260",
+   "short": "HCL Hunedoara nr. 260/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 260/2022 pentru aprobarea completării Anexei la Hotărârea Consiliului Local al municipiului Hunedoara nr. 389/2021 privind acordarea facilităților la transportul public local de persoane prin curse regulate pentru categoriile de persoane beneficiare de pe raza administrativ teritorială a Municipiului Hunedoara și a modalităților de emitere a documentelor de călătorie",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/66032",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/65876/HCL%20260-2022.pdf",
+     "sha256": "def409003c2e7b2d9706dc24517c28273f861ac2028529ccf6aa90aff0bfd856"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-261-2022",
    "path": "local/hunedoara/hunedoara/2022/261",
    "short": "HCL Hunedoara nr. 261/2022",
@@ -269,6 +284,21 @@
      "units": 6,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/83551/HCL%20433-2022.pdf",
      "sha256": "6f4aad9eccb98e0450e2212bcf662ecdb83ba4a328f803879e438716ed095736"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-436-2022",
+   "path": "local/hunedoara/hunedoara/2022/436",
+   "short": "HCL Hunedoara nr. 436/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 436/2022",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/79945",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/83597/HCL%20436-2022.pdf",
+     "sha256": "0bb9cba7e9fc43d8d240ebdebcf342c74a1b4a0f3e24038c5b0faf2c7369d731"
     }
    ]
   },

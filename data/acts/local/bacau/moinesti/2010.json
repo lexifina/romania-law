@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/moinesti/2010",
+"acts": [
+{
+"slug": "hcl-bacau--moinesti-5-2010",
+"path": "local/bacau/moinesti/2010/5",
+"kind": "local",
+"year": "2010",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 5/2010 pentru modificarea și completarea Hotarârii Consiliului Local nr. 5/28.01.2010 privind aprobarea Nomenclatorului stradal al municipiului Moinești, județul Bacău Consiliul Local al Municipiului Moinești, județul Bacău, întrunit în ședința ordinară din data de 12.03.2019, Având în vedere: - Raportul nr. 7766/06.03.2019 al Compartimentului Cadastru din cadrul Direcției Urbanism, Amenajarea Teritoriul",
+"short": "HCL Moinești nr. 5/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-01-28",
+"latest": "2010-01-28",
+"portal": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+"council": "bacau/moinesti",
+"council_name": "Consiliul Local al Municipiului Moinești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

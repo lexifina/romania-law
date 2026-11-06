@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-121-2011",
+   "path": "local/neamt/roman/2011/121",
+   "short": "HCL Roman nr. 121/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2011 Privind aprobarea criteriilor de evaluare a performanþelor profesionale individuale pentru personalul contractual din Spitalul Municipal de Urgenþã Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2011/",
+   "versions": [
+    {
+     "from": "2011-09-22",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2011/121%20HCL%202011-09%20criterii%20performanta%20personal%20SMU%20Roman.pdf",
+     "sha256": "395c44aa5dcd6f06daa5501e91acb30768c6fe1670d63527627adad300edfc88"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-142-2011",
    "path": "local/neamt/roman/2011/142",
    "short": "HCL Roman nr. 142/2011",
@@ -74,6 +89,21 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2011/043%20HCL%202011-03%20modificare%20HCL%2018_2008.pdf",
      "sha256": "6578dfe158b0e532dcfbc30a768d2feec70b8c80d8b4c407254e7e2f513557ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2011",
+   "path": "local/neamt/roman/2011/45",
+   "short": "HCL Roman nr. 45/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2011 privind stabilirea condiþiilor de organizare ºi a modului de desfãºurare a concursului/examenului de ocupare a posturilor vacante sau temporar vacante corespunzãtoare funcþiilor contractuale ºi a criteriilor de evaluare a performanþelor profesionale individuale în c",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2011/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2011/045%20HCL%202011-03%20regulament%20organizare%20concurs%20contractuali.pdf",
+     "sha256": "35ffdc485c5057268ecb463ba543dc322fb371cfa15a97db155d802f1e936a66"
     }
    ]
   },

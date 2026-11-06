@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bacau/moinesti/2019",
+"acts": [
+{
+"slug": "hcl-bacau--moinesti-46-2019",
+"path": "local/bacau/moinesti/2019/46",
+"kind": "local",
+"year": "2019",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 46/2019 privind aprobarea contului de executie pe anul 2018 Consiliul Local al Municipiului Moinești, județul Bacău, întrunit în ședința ordinară din data de 12.03.2019, Având în vedere: - Raportul nr. 5370/19.02.2019 al Direcției economice din cadrul aparatului de specialitate al Primarului municipiului Moinești; - Expunerea de motive nr. 5371/19.02.2019 a Primarului municipiului Moinesti; - prevederile",
+"short": "HCL Moinești nr. 46/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-12",
+"latest": "2019-03-12",
+"portal": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+"council": "bacau/moinesti",
+"council_name": "Consiliul Local al Municipiului Moinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--moinesti-133-2019",
+"path": "local/bacau/moinesti/2019/133",
+"kind": "local",
+"year": "2019",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 133/2019 pentru aprobarea raportului de evaluare în vederea vânzării unui imobil situat în Municipiul Moinești, strada Tudor Vladimirescu, Județul Bacău Consiliul Local al Municipiului Moinești, Județul Bacău, întrunit în ședința ordinară din data de 20.06.2019, Având în vedere: - Raportul nr. 18618/13.06.2019 al Serviciului Venituri din cadrul aparatului de specialitate al Primarului Muncipiului Moinești",
+"short": "HCL Moinești nr. 133/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-20",
+"latest": "2019-06-20",
+"portal": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+"council": "bacau/moinesti",
+"council_name": "Consiliul Local al Municipiului Moinești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

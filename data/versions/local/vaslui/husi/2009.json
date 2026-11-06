@@ -241,6 +241,21 @@
      "sha256": "c1c5edb59b1a44d46e678c58fcc2c1aa544d79f51202e51eb65db0c58c32c647"
     }
    ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-86-2009",
+   "path": "local/vaslui/husi/2009/86",
+   "short": "HCL Huși nr. 86/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 86/2009 privind modificarea tarifului de calatorie la transportul public local de calatori in municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-30-martie-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea86_2009.pdf",
+     "sha256": "3e1b7a75499780ede14e49d005bac3c5cad87cac209a1fa295449b3e95f61dae"
+    }
+   ]
   }
  ]
 }

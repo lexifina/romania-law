@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-137-2010",
+   "path": "local/neamt/roman/2010/137",
+   "short": "HCL Roman nr. 137/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 137/2010 Privind aprobarea Regulamentului de organizare ºi funcþionare a aparatului de specialitate ºi a serviciilor publice de interes local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-10-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/137%20HCL%202010-10%20Regulament%20PMR.pdf",
+     "sha256": "5a57f75c5dbe224924ac9989fb64a1618697ec5202385bd6f9e443f6fd314d89"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-141-2010",
    "path": "local/neamt/roman/2010/141",
    "short": "HCL Roman nr. 141/2010",

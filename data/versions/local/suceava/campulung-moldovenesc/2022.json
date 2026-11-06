@@ -3,6 +3,51 @@
  "shard": "local/suceava/campulung-moldovenesc/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-11-2022",
+   "path": "local/suceava/campulung-moldovenesc/2022/11",
+   "short": "HCL Câmpulung Moldovenesc nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 11/2022 privind aprobarea modificării Anexei nr. 1 la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 171 din 20 decembrie 2021 privind aprobarea tarifelor tichetelor și a programului de funcționare pentru efectuarea serviciului de administrare la domeniul schiabil Rarău - Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință extraordinară d",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2022",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_011.doc",
+     "sha256": "aee3956ad45639bbc70fea9e7b0e829a6d67c1c5cdcf760cadfb6cca52762033"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-112-2022",
+   "path": "local/suceava/campulung-moldovenesc/2022/112",
+   "short": "HCL Câmpulung Moldovenesc nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 112/2022 privind aprobarea Statutului municipiului Câmpulung Moldovenesc, județul Suceava Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință ordinară din data de 27 octombrie 2022; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 32301 din 10.10.2022; -Raportul de specialitate al Direcției administrație publică, înregistrat",
+   "url": "https://www.campulungmoldovenesc.ro/monitorul-oficial-local/statut",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_112_2022.doc",
+     "sha256": "f25bd5a869622aa7c1039f3bb7057eff17eed786d8912baa4a74bfbe1b17cf4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-150-2022",
+   "path": "local/suceava/campulung-moldovenesc/2022/150",
+   "short": "HCL Câmpulung Moldovenesc nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 150/2022 cu privire la stabilirea impozitelor și taxelor locale pentru anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 decembrie 2022 ; Având în vedere : -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 41649 din 09.12.2022; -Raportul de specialitate al Direcției economice, înregistrat la nr. 41654 din 0",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2022",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_150_2022.doc",
+     "sha256": "7df01303ad7bd62ba6656d7d2a74af9f6d517f2ca9b654fa406f2d3ebc8a5562"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-153-2022",
    "path": "local/suceava/campulung-moldovenesc/2022/153",
    "short": "HCL Câmpulung Moldovenesc nr. 153/2022",
@@ -29,6 +74,36 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_154_2022.docx",
      "sha256": "3a4678679a51ec6aafc86d76ec26f126079183b4ba3452721c50d79dbd6b4a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-161-2022",
+   "path": "local/suceava/campulung-moldovenesc/2022/161",
+   "short": "HCL Câmpulung Moldovenesc nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 161/2022 privind aprobarea tarifelor tichetelor și a programului de funcționare pentru efectuarea serviciului de administrare la domeniul schiabil Rarău - Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință ordinară din data de 27 decembrie 2022; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 41640 di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2022",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_161_2022.doc",
+     "sha256": "14a8d1e676edd2280e6b6da26256861513022eea8b04c23809f6b79d60774136"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-162-2022",
+   "path": "local/suceava/campulung-moldovenesc/2022/162",
+   "short": "HCL Câmpulung Moldovenesc nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 162/2022 privind aprobarea criteriilor aplicabile la stabilirea ordinii de prioritate pentru soluționarea cererilor de locuințe aflate în administrarea municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 decembrie 2022; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2022",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_162_2022.doc",
+     "sha256": "0a67851cbd05c43959eeecf2066ee36037199504270815b07748f447367d3961"
     }
    ]
   },
@@ -93,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-40-2022",
+   "path": "local/suceava/campulung-moldovenesc/2022/40",
+   "short": "HCL Câmpulung Moldovenesc nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 40/2022 pentru modificarea Anexei nr. 2 la Hotărârea Consiliului Local nr. 81 din 27 august 2020 privind aprobarea organizării concursului de proiecte de management în vederea ocupării postului de manager al Bibliotecii Municipale Câmpulung Moldovenesc, aprobarea regulamentului de organizare și desfășurare a concursului, a caietului de obiective al concursului, a condițiilor de participare la concurs și a",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2022",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_040_2022.doc",
+     "sha256": "757b5d6645de4f6d632769b9865df746e5226a266f816f510175d566f74503b6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-48-2022",
    "path": "local/suceava/campulung-moldovenesc/2022/48",
    "short": "HCL Câmpulung Moldovenesc nr. 48/2022",
@@ -104,6 +194,21 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_048_2022.docx",
      "sha256": "7aad9eae21ba3793cca2d91bd0f86cdd354bf08847643e52f0a24a44f227e27b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-91-2022",
+   "path": "local/suceava/campulung-moldovenesc/2022/91",
+   "short": "HCL Câmpulung Moldovenesc nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 91/2022 privind aprobarea PLANULUI DE MOBILITATE URBANĂ DURABILĂ AL MUNICIPIULUI CÂMPULUNG MOLDOVENESC (PMUD) 2021-2027 Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 august 2022; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 25256 din 10.08.2022; -Raportul de specialitate al Direcției Tehnice",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2022",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_091_2022.doc",
+     "sha256": "dae3c03e375f0b607026b4165636b442e4d11b6ea9f7f1d3b37f45852901ea22"
     }
    ]
   }

@@ -23,6 +23,50 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-bihor--marghita-62-2024",
+"path": "local/bihor/marghita/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 62/2024 privind reactualizarea Planului de analiză și acoperire a riscurilor pe UAT Municipiul Marghita",
+"short": "HCL Marghita nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-10",
+"latest": "2024-04-10",
+"portal": "https://emol.ro/marghita-bh/registru-hcl/149931",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-162-2024",
+"path": "local/bihor/marghita/2024/162",
+"kind": "local",
+"year": "2024",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 162/2024 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Marghita pentru anul 2024",
+"short": "HCL Marghita nr. 162/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-01",
+"latest": "2024-11-01",
+"portal": "https://emol.ro/marghita-bh/registru-hcl/173753",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

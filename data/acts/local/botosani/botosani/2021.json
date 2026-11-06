@@ -252,6 +252,50 @@
 }
 },
 {
+"slug": "hcl-botosani--botosani-240-2021",
+"path": "local/botosani/botosani/2021/240",
+"kind": "local",
+"year": "2021",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 240/2021 Pentru aprobarea unor tarife pentru obiectivul â€Lacul raului de raftingâ€ din cadrul Parcului Regional de Agrement, Turistic si Sportiv Cornisa din municipiul Botosani (Publicarea pe site:26 aug. 2021) Vizualizare",
+"short": "HCL Botoșani nr. 240/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-12",
+"latest": "2021-07-12",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--botosani-241-2021",
+"path": "local/botosani/botosani/2021/241",
+"kind": "local",
+"year": "2021",
+"number": "241",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 241/2021 Pentru modificarea orarului de tarifare la piscinele Parcului Regional de Agrement, Turistic si Sportiv Cornisa din municipiul Botosani (Publicarea pe site:26 aug. 2021) Vizualizare",
+"short": "HCL Botoșani nr. 241/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-12",
+"latest": "2021-07-12",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-botosani--botosani-245-2021",
 "path": "local/botosani/botosani/2021/245",
 "kind": "local",
@@ -271,6 +315,28 @@
 "council_name": "Consiliul Local al Municipiului Botoșani",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-255-2021",
+"path": "local/botosani/botosani/2021/255",
+"kind": "local",
+"year": "2021",
+"number": "255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 255/2021 Privind aprobarea Regulamentului privind stabilirea conditiilor pentru eliberarea avizelor de interventie si Acordurilor Administratorului Drumului, urmarirea si receptia lucrarilor de interventii la retelele edilitare de utilitati publice pe raza municipiului Botosani Vizualizare",
+"short": "HCL Botoșani nr. 255/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-28",
+"latest": "2021-07-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
 }
 },
 {

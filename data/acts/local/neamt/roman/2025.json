@@ -25,6 +25,73 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-12-2025",
+"path": "local/neamt/roman/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 12/2025",
+"short": "HCL Roman nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-012-din-30-01-2025/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-26-2025",
+"path": "local/neamt/roman/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 26/2025 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente Nr. 26 din 27.02.2025 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente",
+"short": "HCL Roman nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-026-din-27-02-2025/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-neamt--roman-27-2025",
+"path": "local/neamt/roman/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2025 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de îngrijire la domiciliu pentru persoane vârstnice Nr.27 din 27.02.2025 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de îngrijire la domiciliu pentru persoane vârstnice",
+"short": "HCL Roman nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-027-din-27-02-2025/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-neamt--roman-28-2025",
 "path": "local/neamt/roman/2025/28",
 "kind": "local",
@@ -291,6 +358,28 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-223-2025",
+"path": "local/neamt/roman/2025/223",
+"kind": "local",
+"year": "2025",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 223/2025 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără personalitate juridică HOTÃRÂRE Nr.223 din 25.09.2025 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local f",
+"short": "HCL Roman nr. 223/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-223-din-25-09-2025/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-neamt--roman-236-2025",
 "path": "local/neamt/roman/2025/236",
 "kind": "local",
@@ -310,6 +399,29 @@
 "council_name": "Consiliul Local al Municipiului Roman",
 "flags": {
 "text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-243-2025",
+"path": "local/neamt/roman/2025/243",
+"kind": "local",
+"year": "2025",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 243/2025",
+"short": "HCL Roman nr. 243/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-10",
+"latest": "2025-10-10",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-243-din-10-10-2025/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review",
 "title_withheld": "personal_data"
 }
 },
@@ -378,6 +490,29 @@
 "council_name": "Consiliul Local al Municipiului Roman",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-306-2025",
+"path": "local/neamt/roman/2025/306",
+"kind": "local",
+"year": "2025",
+"number": "306",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 306/2025",
+"short": "HCL Roman nr. 306/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-306-din-19-12-2025/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

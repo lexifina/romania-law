@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/moinesti/2019",
+ "acts": [
+  {
+   "slug": "hcl-bacau--moinesti-133-2019",
+   "path": "local/bacau/moinesti/2019/133",
+   "short": "HCL Moinești nr. 133/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 133/2019 pentru aprobarea raportului de evaluare în vederea vânzării unui imobil situat în Municipiul Moinești, strada Tudor Vladimirescu, Județul Bacău Consiliul Local al Municipiului Moinești, Județul Bacău, întrunit în ședința ordinară din data de 20.06.2019, Având în vedere: - Raportul nr. 18618/13.06.2019 al Serviciului Venituri din cadrul aparatului de specialitate al Primarului Muncipiului Moinești",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/Hotararea-133-pentru-aprobarea-raportului-de-evaluare-in-vederea-vanzarii-unui-imobil-situat-in-Municipiul-Moinesti-strada-Tudor-Vladimirescu-Judetul-Bacau-20.06.pdf",
+     "sha256": "38c9ad03f46fd2f318ae2814c1d4b51d7f750a55852006bdb25cbf221a0c83c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-46-2019",
+   "path": "local/bacau/moinesti/2019/46",
+   "short": "HCL Moinești nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 46/2019 privind aprobarea contului de executie pe anul 2018 Consiliul Local al Municipiului Moinești, județul Bacău, întrunit în ședința ordinară din data de 12.03.2019, Având în vedere: - Raportul nr. 5370/19.02.2019 al Direcției economice din cadrul aparatului de specialitate al Primarului municipiului Moinești; - Expunerea de motive nr. 5371/19.02.2019 a Primarului municipiului Moinesti; - prevederile",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/Hotararea-46-privind-aprobarea-contului-de-executie-pe-anul-2018-12.03.pdf",
+     "sha256": "6a659fa3a856dfcab0716f03cf3e40fa213158027fb85ee2a20afa65c78f4bdd"
+    }
+   ]
+  }
+ ]
+}

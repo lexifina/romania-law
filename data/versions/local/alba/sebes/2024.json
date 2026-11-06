@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/alba/sebes/2024",
+ "acts": [
+  {
+   "slug": "hcl-alba--sebes-100-2024",
+   "path": "local/alba/sebes/2024/100",
+   "short": "HCL Sebeș nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 100/2024 privind alegerea președintelui de ședință, pentru perioada: 29 aprilie 2024 – 30 iulie 2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/04/HCL-100.pdf",
+     "sha256": "15028a56ca1772123b1ad311d090380905163ddc1146f2ba9022697b4335698b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-112-2024",
+   "path": "local/alba/sebes/2024/112",
+   "short": "HCL Sebeș nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 112/2024 privind aprobarea Contului de execuție al Bugetului general centralizat al Municipiului Sebeș la 31.03.2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/04/HCL-112.pdf",
+     "sha256": "98c0c3062e73ab2852bccf962932d57a2cca488ec5529317d4cabc42c5d6b06d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-160-2024",
+   "path": "local/alba/sebes/2024/160",
+   "short": "HCL Sebeș nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 160/2024 privind deplasarea unei delegații la evenimentul „Noaptea Culturii 2024”, din Büdingen, Germania, în perioada 10-16 iulie. 2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/06/hcl-160.pdf",
+     "sha256": "160edac72ac8c76e807e1590120e151435ad291ac743d80ec0e344e6befc517e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-177-2024",
+   "path": "local/alba/sebes/2024/177",
+   "short": "HCL Sebeș nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 177/2024 privind alegerea președintelui de ședință, pentru perioada : 31 iulie 2024-31 octombrie 2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/07/hcl-177-1.pdf",
+     "sha256": "cf2eaca4d9c0e4bf374d725110861c706abe2f8fd66bb162b32ee1d9f9b964d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-189-2024",
+   "path": "local/alba/sebes/2024/189",
+   "short": "HCL Sebeș nr. 189/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 189/2024 privind aprobarea Contului de execuție al Bugetului general centralizat al Municipiului Sebeș la 30.06.2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/07/hcl-189-1.pdf",
+     "sha256": "63eb1b2c5bed811f056cdfc1827440bd158b203489de9f3cc45ff741a140ded9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-286-2024",
+   "path": "local/alba/sebes/2024/286",
+   "short": "HCL Sebeș nr. 286/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 286/2024 privind acordarea normei de hrană personalului din cadrul Poliției Locale a Municipiului Sebeș, pentru o perioadă de 5 luni respectiv pentru perioada 01 octombrie 2024 – 28 februarie 2025",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/10/HCL-286-1.pdf",
+     "sha256": "46a7009cf95493a1f732bd598646d421e6cc80372b6488371d1013cfe2f8c142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-292-2024",
+   "path": "local/alba/sebes/2024/292",
+   "short": "HCL Sebeș nr. 292/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 292/2024 privind anularea dobânzilor, penalităților și a tuturor accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al Municipiului Sebeș, de către toate categoriile de d",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/10/HCL-292.pdf",
+     "sha256": "65685e9ee2ed6eaed8fba1dfeefcf5955bc9781bcc937478f65302a1bb504438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-346-2024",
+   "path": "local/alba/sebes/2024/346",
+   "short": "HCL Sebeș nr. 346/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 346/2024 privind aprobarea Contului de execuție al Bugetului general centralizat al Municipiului Sebeș la 30.09.2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/11/hcl-346.pdf",
+     "sha256": "814874c4c23f144f694729e8cf7e88be82fa2cf938c427c3298965fbf16ab202"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-355-2024",
+   "path": "local/alba/sebes/2024/355",
+   "short": "HCL Sebeș nr. 355/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 355/2024 privind alegerea preşedintelui de şedinţă pentru perioada 31 octombrie – 29 noiembrie 2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/11/hcl-355.pdf",
+     "sha256": "7bb005ebf83b968ca7a867712ae09b820a43779a253d5b464d6c2d1ad068e92e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-375-2024",
+   "path": "local/alba/sebes/2024/375",
+   "short": "HCL Sebeș nr. 375/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 375/2024 privind alegerea preşedintelui de şedinţă pentru perioada 02 decembrie 2024 – 28 februarie 2025",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/12/hcl-375-site.pdf",
+     "sha256": "3c3430694695159f9699d5ec9d1d79fc7ecb8904da53fea499c3c4fb361e160c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-424-2024",
+   "path": "local/alba/sebes/2024/424",
+   "short": "HCL Sebeș nr. 424/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 424/2024 privind aprobarea Contului de execuție al Bugetului local al Municipiului Sebeș la 20.12.2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/12/hcl-424.pdf",
+     "sha256": "9102b6bf76702e619b6946e54468fd3983124c7c0bb1c52eaa3b355179b0763e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-8-2024",
+   "path": "local/alba/sebes/2024/8",
+   "short": "HCL Sebeș nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 8/2024 privind alegerea președintelui de ședință pentru perioada: 25 ianuarie 2024-24 aprilie 2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/01/hcl-8.pdf",
+     "sha256": "0751f665aa0d1ae2bbed46288da891750e1e02cb11a065dfe106b6aba3fc673e"
+    }
+   ]
+  }
+ ]
+}

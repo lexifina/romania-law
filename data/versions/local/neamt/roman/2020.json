@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-243-2020",
+   "path": "local/neamt/roman/2020/243",
+   "short": "HCL Roman nr. 243/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 243/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ba0c0da498d6fccac143dc0c97aac315a3672a001c88a57baec955d7830f58c3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-244-2020",
    "path": "local/neamt/roman/2020/244",
    "short": "HCL Roman nr. 244/2020",

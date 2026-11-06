@@ -363,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-80-2022",
+   "path": "local/neamt/roman/2022/80",
+   "short": "HCL Roman nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2022 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără personalitate juridică Nr. 80 din 28.04.2022 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără perso",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-080-din-28-04-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2022/05/080-HCL-2022-04-aprobarea-ROF-PMR_compressed.pdf",
+     "sha256": "eab17095e6685200a4243c18f3de1635d288e6ec0b8b55f9dc62f8204887df0b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-89-2022",
    "path": "local/neamt/roman/2022/89",
    "short": "HCL Roman nr. 89/2022",

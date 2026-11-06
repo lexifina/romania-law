@@ -31,6 +31,36 @@
      "sha256": "1e16fd1f80e19ecdc7623e3febcd56e5f18fff03c8898e94f17b453dd9f0cc77"
     }
    ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-35-2019",
+   "path": "local/hunedoara/vulcan/2019/35",
+   "short": "HCL Vulcan nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 35/2019 privind modificarea Hotărârii Consiliului Local nr. 94/2016 privind constituirea Comisiei locale de ordine publică la nivelul municipiului Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN; Analizând expunerea de motive a primarului municipiului Vulcan înregistrată sub 29/1/15/21.02.2019 prin care propune modificarea Hotărârii Consiliului Local nr. 94/2016 privind constituirea Comisiei locale de ordin",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2019-00001322?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/140074C27B0A99F8C22583C300463BB8/$FILE/HCL%20035.pdf",
+     "sha256": "c14edabc593621b4d7f1a4dddf7ca51d98460dbb8956a7e4afed9aa18555ad14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-52-2019",
+   "path": "local/hunedoara/vulcan/2019/52",
+   "short": "HCL Vulcan nr. 52/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 52/2019 pentru modificarea Anexei nr. 5 –Punctul V la Hotărârea Consiliului Local nr 141/2018 privind stabilirea impozitelor și taxelor locale pe anul 2019 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând Expunerea de motive a primarului Municipiului Vulcan, înregistrată sub nr. 25/1/15/14.02.2019 prin care se propune completarea H.C.L nr 141/2018 privind stabilirea impozitelor și taxelor locale pe anul",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2019-00001322?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/DF01F44608F3F8DAC22583F20047F28E/$FILE/HCL%20052.pdf",
+     "sha256": "c413f80a219ac6a1982af09ad8c591d44a538191956481a62df2094730ff61e8"
+    }
+   ]
   }
  ]
 }

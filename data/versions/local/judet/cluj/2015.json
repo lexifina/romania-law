@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/cluj/2015",
+ "acts": [
+  {
+   "slug": "hcj-cluj-15-2015",
+   "path": "local/judet/cluj/2015/15",
+   "short": "HCJ Cluj nr. 15/2015",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 15/2015 pentru aprobarea Regulamentului privind acordarea de finanțare nerambursabilă asociațiilor, fundațiilor, altor organizații neguvernamentale fără scop lucrativ, precum și entităților publice care organizează programe și proiecte în domeniul tineretului și socio- educaționale și pot primi subvenții sau sprijin financiar de la bugetul Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/2015/01",
+   "versions": [
+    {
+     "from": "2015-01-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/05/15_16_regulament-tineret-si-socio-educationale.doc",
+     "sha256": "5e8680b05e56614dea5640536afa4335022a5de919e02d2d05161f1619e5aa19"
+    }
+   ]
+  }
+ ]
+}

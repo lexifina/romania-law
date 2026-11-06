@@ -3,6 +3,21 @@
  "shard": "local/neamt/roman/2012",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-100-2012",
+   "path": "local/neamt/roman/2012/100",
+   "short": "HCL Roman nr. 100/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 100/2012 privind aprobarea Regulamentului de Organizare ºi Funcþionare al aparatului de specialitate ºi serviciilor publice de interes local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/100%20HCL%202012-08%20regulament%20PMR.pdf",
+     "sha256": "fe0c5a336dc3e31973b1f339e15dbed2ffefaef11c521af431d44c7867fdfeea"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-102-2012",
    "path": "local/neamt/roman/2012/102",
    "short": "HCL Roman nr. 102/2012",
@@ -179,6 +194,21 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/096%20HCL%202012-08%20Ajustare%20tarife%20salubrizare%20stradala.pdf",
      "sha256": "61463c1a5cd9d07a1541e6cdfd320007b9cde444086f343d3527967b8237e7e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-98-2012",
+   "path": "local/neamt/roman/2012/98",
+   "short": "HCL Roman nr. 98/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 98/2012 privind aprobarea Regulamentului de Organizare ºi Funcþionare al Serviciului Public Comunitar Local de Evidenþa Persoanelor Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2012/098%20HCL%202012-08%20aprobare%20Regulament%20SPCLEP.pdf",
+     "sha256": "41c5a7ab3592d5e7245514e58aa74f6490b240f8cd7c5b637e08e0d57c48432f"
     }
    ]
   }

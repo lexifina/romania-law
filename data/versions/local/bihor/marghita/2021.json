@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/marghita/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--marghita-139-2021",
+   "path": "local/bihor/marghita/2021/139",
+   "short": "HCL Marghita nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 139/2021 privind rectificarea bugetului de venituri şi cheltuieli al Municipiului Marghita pe anul 2021",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/31387",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/71977/anex%C4%83%20%20nr.1%20la%20HCL%20139.doc",
+     "sha256": "63239053ac9233ebe589883057d2ece64e91fc5bf4ed7e255aa5140c8bbdcc9a"
+    }
+   ]
+  }
+ ]
+}

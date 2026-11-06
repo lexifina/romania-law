@@ -2861,6 +2861,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-147-2020",
+"path": "local/arges/campulung/2020/147",
+"kind": "local",
+"year": "2020",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 147/2020 cu privire la completarea Anexei la Hotararea nr. 128 / 28.10.2020 a Consiliului Localal municipiului Câmpulung, poziția 10",
+"short": "HCL Câmpulung nr. 147/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-148-2020",
 "path": "local/arges/campulung/2020/148",
 "kind": "local",

@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-140-2023",
+   "path": "local/neamt/roman/2023/140",
+   "short": "HCL Roman nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 140/2023",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-140-din-28-06-2023/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2023/06/140-HCL-2023_06-modificare-NH-DPL_compressed.pdf",
+     "sha256": "555375af1c0d32e1fac96d6bc272027355c1a24c0ea572828f9ae705ec100baa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-162-2023",
    "path": "local/neamt/roman/2023/162",
    "short": "HCL Roman nr. 162/2023",
@@ -164,6 +179,21 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-247-din-26-10-2023/",
      "sha256": "ee5539a881c1f5139e295c8f9d3af3e3f278fd6319489fe91853e24ecf071d00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2023",
+   "path": "local/neamt/roman/2023/40",
+   "short": "HCL Roman nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "72ab1f8ac393e29d0d1e9bfa9d793924164133ab139da1793183ccd3c9e3e1aa"
     }
    ]
   },

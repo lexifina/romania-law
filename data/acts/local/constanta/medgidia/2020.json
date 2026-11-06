@@ -3,6 +3,28 @@
 "shard": "local/constanta/medgidia/2020",
 "acts": [
 {
+"slug": "hcl-constanta--medgidia-41-2020",
+"path": "local/constanta/medgidia/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 41/2020 privind stabilirea modului în care este suportat comisionul bancar în urma plății online a obligațiilor de plată impozite și taxe locale utilizând cardul bancar în Ghiseul.ro –Sistem Național Electronic de Plată Online Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință extraordinară în data de 15 mai 2",
+"short": "HCL Medgidia nr. 41/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-15",
+"latest": "2020-05-15",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-constanta--medgidia-42-2020",
 "path": "local/constanta/medgidia/2020/42",
 "kind": "local",
@@ -23,6 +45,161 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-43-2020",
+"path": "local/constanta/medgidia/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 43/2020",
+"short": "HCL Medgidia nr. 43/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": null,
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-49-2020",
+"path": "local/constanta/medgidia/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 49/2020 privind aprobare Plan Urbanistic Zonal – imobil teren- având număr cadastral 106309, situat în intravilanul municipiului Medgidia Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordinară în data de 28 mai 2020, având în vedere: - proiectul de hotărăre nr. 56 și inițiativa exprimată în referatul de a",
+"short": "HCL Medgidia nr. 49/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-50-2020",
+"path": "local/constanta/medgidia/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 50/2020 privind aprobare Plan Urbanistic Zonal - construire extindere corpuri C1 și C2 cu un corp P+2E Spațiu Alimentație publică și Spațiu Cazare Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordinară în data de 28 mai 2020, având în vedere: - proiectul de hotărăre nr. 57 și inițiativa exprimată în refer",
+"short": "HCL Medgidia nr. 50/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-61-2020",
+"path": "local/constanta/medgidia/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 61/2020 privind actualizarea contribuției și a standardelor de cost pentru serviciul de îngrijire persoane vârstnice la domiciliu, în funcție de nivelul venitului net lunar/membru de familie și gradul de dependență începând cu 01.06.2020 Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordinară în data de 30",
+"short": "HCL Medgidia nr. 61/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-77-2020",
+"path": "local/constanta/medgidia/2020/77",
+"kind": "local",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 77/2020 privind aprobarea Metodologiei de acordare a unui ajutor financiar familiilor cu copii preșcolari pentru plata serviciilor oferite de bonă Consiliul Local al Municipiului Medgidia, cu sediul în Municipiului Medgidia, strada Decebal 35, județul Constanța, convocat legal în ședința ordinară pentru data de 30 iulie 2020 ora 1700, având în vedere: - proiectul de hotărăre nr. 73 și inițiativa exprimată",
+"short": "HCL Medgidia nr. 77/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-102-2020",
+"path": "local/constanta/medgidia/2020/102",
+"kind": "local",
+"year": "2020",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 102/2020 privind aprobare Plan Urbanistic Zonal – construire Bază sportivă tip I, municipiul Medgidia, județul Constanța Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință extraordinară în data de 18 august 2020, având în vedere: - proiectul de hotărăre nr. 113 și inițiativa exprimată în referatul de aprobare a",
+"short": "HCL Medgidia nr. 102/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-18",
+"latest": "2020-08-18",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-constanta--medgidia-115-2020",
+"path": "local/constanta/medgidia/2020/115",
+"kind": "local",
+"year": "2020",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 115/2020 privind aprobarea privind actualizarea contribuției și a standardelor de cost pentru serviciul de îngrijire persoane vârstnice la domiciliu, în funcție de nivelul venitului net lunar/membru de familie și gradul de dependență începând cu 01.11.2020 Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordi",
+"short": "HCL Medgidia nr. 115/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+"council": "constanta/medgidia",
+"council_name": "Consiliul Local al Municipiului Medgidia",
+"flags": {
+"text_pending": "review"
 }
 },
 {

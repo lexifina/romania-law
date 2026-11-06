@@ -3,6 +3,36 @@
  "shard": "local/neamt/roman/2026",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-121-2026",
+   "path": "local/neamt/roman/2026/121",
+   "short": "HCL Roman nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2026 privind aprobarea Regulamentului privind perceperea abonamentelor lunare pentru membrii sportivi și a taxelor de participare la competițiile organizate de Club Sportiv Municipal Roman HOTÃRÂRE Nr. 121 din 28.05.2026 privind aprobarea Regulamentului privind perceperea abonamentelor lunare pentru membrii sportivi și a taxelor de participare la competițiile organizate de Club Sportiv",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-121-din-28-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2026/06/121-HCL-Regulament-abonamente-si-taxe-CSM-Roman.pdf",
+     "sha256": "1e6c90024a9b4913e0019c03233ee34336e654d4bf54f638152f3da2bcdf4d6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-148-2026",
+   "path": "local/neamt/roman/2026/148",
+   "short": "HCL Roman nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 148/2026",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-148-din-25-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2026/06/148-HCL-_modificare-HCL-nr.-62-din-26.03.2026_IUNIE-2026.pdf",
+     "sha256": "93ab8f2205810af5acaffbdecc4aa426995a972de36f73220c2f8bd4f6806c49"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-149-2026",
    "path": "local/neamt/roman/2026/149",
    "short": "HCL Roman nr. 149/2026",
@@ -93,6 +123,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-2-2026",
+   "path": "local/neamt/roman/2026/2",
+   "short": "HCL Roman nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 2/2026 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente HOTÃRÂRE Nr. 2 din 22.01.2026 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-002-din-22-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2026/01/02-HCL-_aprobare-regulament-tichete-sociale-2026.pdf",
+     "sha256": "79ee7620cce60e39cf4facf025b24f3a1aa906a33030c047268c604340e31604"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2026",
+   "path": "local/neamt/roman/2026/21",
+   "short": "HCL Roman nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2026",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-021-din-12-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-021-din-12-02-2026/",
+     "sha256": "7c09f62626a8bf52cdc1ff39b0cba5f41638e14a03e660a87ed796f1b9ea4a2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-238-2026",
+   "path": "local/neamt/roman/2026/238",
+   "short": "HCL Roman nr. 238/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 238/2026 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de îngrijire la domiciliu pentru persoane vârstnice HOTÃRÂRE Nr.238 din 24.09.2026 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de îngrijire la domiciliu pentru persoane vârstnice",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-238-din-24-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2026/09/238-HCL-aprobare-ROF-Serviciul-de-ingrijire-la-domiciliu-09.2026.pdf",
+     "sha256": "f8cf2feddd3816373564b8d65eda3539124496d77cfc3df4cda164978b5326df"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-260-2026",
    "path": "local/neamt/roman/2026/260",
    "short": "HCL Roman nr. 260/2026",
@@ -104,6 +179,21 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-260-din-28-10-2026/",
      "sha256": "e647aa7d45bbef2b5eb852846c961cac581c529a996eb20f1aaa82398e027bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-267-2026",
+   "path": "local/neamt/roman/2026/267",
+   "short": "HCL Roman nr. 267/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 267/2026",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-267-din-28-10-2026/",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-267-din-28-10-2026/",
+     "sha256": "b6dbfa3cf7ac6e171b403b5b235d811d72fd70d9f73edcb8ec98186411618d5c"
     }
    ]
   },
@@ -153,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-62-2026",
+   "path": "local/neamt/roman/2026/62",
+   "short": "HCL Roman nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2026 privind actualizarea Regulamentului pentru acordarea de facilități pentru unele categorii de persoane pe mijloacele de transport urban de călători în municipiul Roman HOTÃRÂRE Nr. 62 din 26 .03.2026 privind actualizarea Regulamentului pentru acordarea de facilități pentru unele categorii de persoane pe mijloacele de transport urban de călători în municipiul Roman",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-062-din-26-03-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2026/03/062-HCL-aprobare-regulament-facilitati-transport-2026.pdf",
+     "sha256": "b072cd6996b209704cde0de3c4e51a0b7a2770e713f10ac259088ec8700c5124"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-63-2026",
    "path": "local/neamt/roman/2026/63",
    "short": "HCL Roman nr. 63/2026",
@@ -179,6 +284,36 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2026/04/064-HCL-reactualiz-tarife-refacere-strazi.pdf",
      "sha256": "652300b4de6eb6dca737b4675d3da9e338a25f8897f8f1be960d525bf3173d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-67-2026",
+   "path": "local/neamt/roman/2026/67",
+   "short": "HCL Roman nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2026 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără personalitate juridică HOTÃRÂRE Nr.67 din 17.04.2026 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fă",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-067-din-17-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2026/04/067-HCL-04-2026-aprobare-ROF-primarie.pdf",
+     "sha256": "ed0d02a6d32a242bc449fc8c4c4049b3f3e0c99e04d955357003d5b0f90d8183"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-71-2026",
+   "path": "local/neamt/roman/2026/71",
+   "short": "HCL Roman nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2026",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-071-din-17-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2026/04/071-HCL-_modificare-HCL-nr.-62-din-26.03.2026.pdf",
+     "sha256": "035be39d8881eefe0aa055440bb132cf88cdbba23cdb38dedfe254e413d9a301"
     }
    ]
   },

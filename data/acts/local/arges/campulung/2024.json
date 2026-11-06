@@ -712,6 +712,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-34-2024",
+"path": "local/arges/campulung/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 34/2024 privind aprobarea includerii în Programul național de investiții Școli Sigure și Sănătoase a obiectivelor de investiții Școala Oprea Iorgulescu și Grădinița Sfântul Nicolae Hotărâre privind aprobarea includerii în Programul național de investiții Școli Sigure și Sănătoase a obiectivelor de investiții Școala Oprea Iorgulescu și Grădinița Sfântul Nicolae",
+"short": "HCL Câmpulung nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-14",
+"latest": "2024-03-14",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-35-2024",
 "path": "local/arges/campulung/2024/35",
 "kind": "local",

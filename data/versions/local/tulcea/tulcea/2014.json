@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-160-2014",
+   "path": "local/tulcea/tulcea/2014/160",
+   "short": "HCL Tulcea nr. 160/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 160/2014 pentru modificarea si completarea art.8 din Regulamentul privind exploatarea și întreținerea patinoarului artificial situat in Tulcea, str. Isaccei, Zona Parc Lac Ciuperca (Amfiteatru) Consiliul Local al municipiului Tulcea, judetul Tulcea, intrunit in sedinta ordinara din data de 27 noiembrie 2014; Examinand proiectul de hotarare pentru modificarea si completarea art.8 din Regulamentul privind ex",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/160.pdf",
+     "sha256": "c1c25e507fb277fd8167ccfe0d0864e3b21a69ed4f3d02d49a677d3f72293839"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-192-2014",
    "path": "local/tulcea/tulcea/2014/192",
    "short": "HCL Tulcea nr. 192/2014",

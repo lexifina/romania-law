@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-180-2021",
+   "path": "local/neamt/roman/2021/180",
+   "short": "HCL Roman nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 180/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e929a6f8c23835c56ebe66ae6a57cc77bd3a9fba6ab8961228896fac1512f827"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-181-2021",
    "path": "local/neamt/roman/2021/181",
    "short": "HCL Roman nr. 181/2021",

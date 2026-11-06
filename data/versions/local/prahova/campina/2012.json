@@ -16,6 +16,96 @@
      "sha256": "1e29ab40fb07633e82c46f06eba9bba91c7d5de1c0300eb755b76aa39de1c66a"
     }
    ]
+  },
+  {
+   "slug": "hcl-prahova--campina-19-2012",
+   "path": "local/prahova/campina/2012/19",
+   "short": "HCL Câmpina nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 19/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1002.doc",
+     "sha256": "6d4f37b510410bbebaab424c1b92dd791ef4e634bd8da588483ca1f2faf82004"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-23-2012",
+   "path": "local/prahova/campina/2012/23",
+   "short": "HCL Câmpina nr. 23/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 23/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1007.doc",
+     "sha256": "3730ff5f7433235ce1f57711405fa5a4c4585e6503ae9d0476ad6cf570869797"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-28-2012",
+   "path": "local/prahova/campina/2012/28",
+   "short": "HCL Câmpina nr. 28/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 28/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1012.doc",
+     "sha256": "806b70960c91a25f11481d6710c064b24791e47e5ff0c10593090538dbe23525"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-44-2012",
+   "path": "local/prahova/campina/2012/44",
+   "short": "HCL Câmpina nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 44/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8a1c8c7da8026c5d1945accfbe6fa5d55380a8c5b8fd4026aa44276ae90f21a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-84-2012",
+   "path": "local/prahova/campina/2012/84",
+   "short": "HCL Câmpina nr. 84/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 84/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2956d6c18d1e36ed64c48c5cf6856eec6197bdca213f192d8a18edac3da58216"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-88-2012",
+   "path": "local/prahova/campina/2012/88",
+   "short": "HCL Câmpina nr. 88/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 88/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4a145b842f8a3ecd3b9d15b5990b33fd2f5f22afaafc4d236e5786c553aa7734"
+    }
+   ]
   }
  ]
 }

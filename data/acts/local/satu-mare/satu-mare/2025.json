@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-satu-mare--satu-mare-98-2025",
+"path": "local/satu-mare/satu-mare/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 98/2025 privind valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora precum și amenzile aplicabile în municipiul Satu Mare, în anul 2026 Consiliul Local al municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub numărul 145604/07.03.2025 conexat cu 157988/09.04.2025 referatul de aprobare al Primarului Municipiului Satu Mare, în calitate de inițiator, înregistrat",
+"short": "HCL Satu Mare nr. 98/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-24",
+"latest": "2025-04-24",
+"portal": "https://www.primariasm.ro/hotararea-nr-9824042025",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-satu-mare--satu-mare-157-2025",
 "path": "local/satu-mare/satu-mare/2025/157",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-satu-mare--satu-mare-272-2025",
+"path": "local/satu-mare/satu-mare/2025/272",
+"kind": "local",
+"year": "2025",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 272/2025 pentru modificarea Hotărârii Consiliului Local al municipiului Satu Mare nr. 261/25.10.2018 privind aprobarea documentației Plan Urbanistic Zonal- Ansamblu rezidențial cu imobile P+1+M, cu 6 apartamente și imobil de colț P+2 cu 12 apartamente, amplasament: Satu Mare, zona str",
+"short": "HCL Satu Mare nr. 272/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://www.primariasm.ro/hotararea-nr-27230102025",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-satu-mare--satu-mare-290-2025",
 "path": "local/satu-mare/satu-mare/2025/290",
 "kind": "local",
@@ -66,6 +110,50 @@
 "council_name": "Consiliul Local al Municipiului Satu Mare",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-314-2025",
+"path": "local/satu-mare/satu-mare/2025/314",
+"kind": "local",
+"year": "2025",
+"number": "314",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 314/2025 privind imobilele cărora li se vor aplica prevederile art. 489 alin. (5) - (8) din Legea nr. 227/2015 Consiliul local al municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub numărul 257423/15.12.2025, referatul de aprobare al Primarului municipiului Satu Mare, în calitate de inițiator, înregistrat cu nr. 257424/15.12.2025, raportul de specialitate al Direcției Impozite și Taxe L",
+"short": "HCL Satu Mare nr. 314/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://www.primariasm.ro/hotararea-nr-31418122025",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-341-2025",
+"path": "local/satu-mare/satu-mare/2025/341",
+"kind": "local",
+"year": "2025",
+"number": "341",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 341/2025 privind aprobarea declanșării procedurii de selecție pentru două posturi vacante în Consiliu de Administrație al APASERV Satu Mare S.A",
+"short": "HCL Satu Mare nr. 341/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://primariasm.ro/hotararea-nr-34122122025",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"text_pending": "review"
 }
 },
 {

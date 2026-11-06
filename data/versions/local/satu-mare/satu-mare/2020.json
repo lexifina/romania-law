@@ -3,6 +3,21 @@
  "shard": "local/satu-mare/satu-mare/2020",
  "acts": [
   {
+   "slug": "hcl-satu-mare--satu-mare-161-2020",
+   "path": "local/satu-mare/satu-mare/2020/161",
+   "short": "HCL Satu Mare nr. 161/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 161/2020 privind aprobarea Regulamentului de repartizare și închiriere a locuințelor sociale și de necesitate din Municipiul Satu Mare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 24 septembrie 2020, Analizând proiectul de hotărâre înregistrat sub nr. 40480/15.09.2020 conexat cu nr. 32446/22.07.2020, referatul de aprobare al Primarului municipiului Satu Mare, în calita",
+   "url": "https://www.primariasm.ro/hotararea-nr-16124092020",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/septembrie-2020/hcl-161.doc",
+     "sha256": "429096426b44fc4679d4297975c241b3de6be592626bb3c710129f93675c5484"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-239-2020",
    "path": "local/satu-mare/satu-mare/2020/239",
    "short": "HCL Satu Mare nr. 239/2020",

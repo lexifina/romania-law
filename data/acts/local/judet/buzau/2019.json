@@ -23,6 +23,50 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcj-buzau-222-2019",
+"path": "local/judet/buzau/2019/222",
+"kind": "local",
+"year": "2019",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 222/2019 privind aprobarea Strategiei de tarifare conform rezultatelor Analizei Cost-Beneficiu pentru ”Proiectul Regional de dezvoltare a infrastructurii de apă și apă uzată din Județul Buzău, în perioada 2014-2020”",
+"short": "HCJ Buzău nr. 222/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-11-14",
+"latest": "2019-11-14",
+"portal": "http://cjbuzau.ro/hotarari-cj-2019/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-buzau-256-2019",
+"path": "local/judet/buzau/2019/256",
+"kind": "local",
+"year": "2019",
+"number": "256",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 256/2019 pentru aprobarea Procedurii de organizare și publicare a Monitorului Oficial al Județului Buzău, în format electronic",
+"short": "HCJ Buzău nr. 256/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-12-19",
+"latest": "2019-12-19",
+"portal": "http://cjbuzau.ro/hotarari-cj-2019/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

@@ -3,6 +3,72 @@
 "shard": "local/suceava/campulung-moldovenesc/2020",
 "acts": [
 {
+"slug": "hcl-suceava--campulung-moldovenesc-21-2020",
+"path": "local/suceava/campulung-moldovenesc/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 21/2020 privind aprobarea Regulamentului privind vânzarea locuințelor pentru tineri, construite prin Agenția Națională pentru Locuințe, în municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 martie 2020; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 7888 din 10.03",
+"short": "HCL Câmpulung Moldovenesc nr. 21/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2020",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-36-2020",
+"path": "local/suceava/campulung-moldovenesc/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 36/2020 cu privire la aprobarea Planului Urbanistic Zonal și a Regulamentului de urbanism aferent pentru CONSTRUIRE SPAȚIU CU DESTINAȚIE DE ALIMENTAȚIE PUBLICĂ, strada Bogdan Vodă, Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 martie 2020; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înr",
+"short": "HCL Câmpulung Moldovenesc nr. 36/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2020",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-44-2020",
+"path": "local/suceava/campulung-moldovenesc/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 44/2020 cu privire la aprobarea indexării cu rata inflatiei a impozitelor și taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, aplicabile în anul fiscal 2021 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 aprilie 2020; Având în vedere : -Referatul de aprobare al primarului municipiului Câmpul",
+"short": "HCL Câmpulung Moldovenesc nr. 44/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2020",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-suceava--campulung-moldovenesc-80-2020",
 "path": "local/suceava/campulung-moldovenesc/2020/80",
 "kind": "local",
@@ -18,6 +84,50 @@
 "from": "2020-08-27",
 "latest": "2020-08-27",
 "portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2020",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-81-2020",
+"path": "local/suceava/campulung-moldovenesc/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 81/2020 privind aprobarea organizării concursului de proiecte de management în vederea ocupării postului de manager al Bibliotecii Municipale Câmpulung Moldovenesc, aprobarea regulamentului de organizare și desfășurare a concursului, a caietului de obiective al concursului, a condițiilor de participare la concurs și a bibliografiei concursului Consiliul Local al municipiului Câmpulung Moldovenesc, întruni",
+"short": "HCL Câmpulung Moldovenesc nr. 81/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2020",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-109-2020",
+"path": "local/suceava/campulung-moldovenesc/2020/109",
+"kind": "local",
+"year": "2020",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 109/2020 cu privire la stabilirea impozitelor și taxelor locale pentru anul 2021 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 noiembrie 2020; Având în vedere : -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 28818 din 10.11.2020; -Raportul de specialitate al Direcției economice, înregistrat la nr. 28819 din 10",
+"short": "HCL Câmpulung Moldovenesc nr. 109/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2020",
 "council": "suceava/campulung-moldovenesc",
 "council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
 "flags": {

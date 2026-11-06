@@ -1713,6 +1713,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-53-2026",
+   "path": "local/arges/campulung/2026/53",
+   "short": "HCL Câmpulung nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 53/2026",
+   "url": "https://www.primariacampulung.ro/proiecte-hotarare-dezbatere-publica",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/primaria/2021/Stat%20de%20func%C8%9Bii.pdf",
+     "sha256": "129b4942c29158701494eca2808d35d4537c470be135e6ef726deaf213448f49"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-54-2026",
    "path": "local/arges/campulung/2026/54",
    "short": "HCL Câmpulung nr. 54/2026",
@@ -2054,6 +2069,21 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2076%20din%2027.05.2026.pdf",
      "sha256": "8bea517e58be76743aac851581636e7829b9015be5d3f9aa38380cc52bc986ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-77-2026",
+   "path": "local/arges/campulung/2026/77",
+   "short": "HCL Câmpulung nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 77/2026",
+   "url": "https://www.primariacampulung.ro/proiecte-hotarare-dezbatere-publica",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/proiecte/proiecte-hotarare-dezbatere-publica/6977/1.%20Documente%20anexate/PROPUNERE%20RESTRIC%C8%9AIONARE%20CIRCULA%C8%9AIE%20AUTO%20PE%20BULEVARDUL%20PARDON.pdf",
+     "sha256": "817e17147af7ca48c4506e9ab8edda6c0ba74cc424ae3b0563e95463b907412a"
     }
    ]
   },

@@ -708,6 +708,66 @@
    ]
   },
   {
+   "slug": "hcj-cluj-60-2019",
+   "path": "local/judet/cluj/2019/60",
+   "short": "HCJ Cluj nr. 60/2019",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 60/2019 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 322/2014 privind aprobarea Regulamentului privind acordarea sprijinului financiar, de la bugetul Județului Cluj, unităților de cult din Județul Cluj aparținând cultelor religioase recunoscute din România, cu modificările și completările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/125/",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2019/04/60_13_modif-HCJ-322-2014-Reg-culte-.doc",
+     "sha256": "2fe101172dd615901210425c48dba11d5e266046db6ec2313e800ed2f461f334"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-61-2019",
+   "path": "local/judet/cluj/2019/61",
+   "short": "HCJ Cluj nr. 61/2019",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 61/2019 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 323/2014 pentru aprobarea Regulamentului privind acordarea de finanțare nerambursabilă, de la bugetul Județului Cluj, pentru programele, proiectele și acțiunile organizate în domeniul cultural, cu modificările și completările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/125/",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/61_14_modif-HCJ-323-2014-reg-cultura.doc",
+     "sha256": "943bb30ce4b31477833d6a89b4d301d117c8dc389eb6faa516d93b921e72a484"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-62-2019",
+   "path": "local/judet/cluj/2019/62",
+   "short": "HCJ Cluj nr. 62/2019",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 62/2019 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 14/2015 privind aprobarea Regulamentului privind acordarea de finanțare nerambursabilă, de la bugetul Județului Cluj, pentru structurile sportive din Județul Cluj, cu modificările și completările ulterioare",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/125/",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/62_15_modif-HCJ-14-2015-reg-sport.doc",
+     "sha256": "bfbea06bc391dceda3f4f5fd0040cf3fa5b739ff5a35d0825e6c7458ef2ca2c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-63-2019",
+   "path": "local/judet/cluj/2019/63",
+   "short": "HCJ Cluj nr. 63/2019",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 63/2019 pentru modificarea Hotărârii Consiliului Județean Cluj nr. 15/2015 pentru aprobarea Regulamentului privind acordarea de finanțare nerambursabilă asociațiilor, fundațiilor, altor organizații neguvernamentale fără scop lucrativ, precum și entităților publice care organizează programe și proiecte în domeniul tineretului și socio-educaționale și pot primi subvenții sau sprijin financiar de la bugetul Județului Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/page/125/",
+   "versions": [
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2021/12/63_16_modif-HCJ-15-2015-reg-tineret.doc",
+     "sha256": "ed65e6e90f41529d730660ef2d84d64d83c1666a60f1db22d1bbcfbbd74b9a27"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-66-2019",
    "path": "local/judet/cluj/2019/66",
    "short": "HCJ Cluj nr. 66/2019",

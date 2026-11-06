@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--husi-65-2012",
+"path": "local/vaslui/husi/2012/65",
+"kind": "local",
+"year": "2012",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 65/2012 privind ajustarea tarifului de calatorie la transportul public local de calatori efectuat prin curse regulate in municipiul Husi",
+"short": "HCL Huși nr. 65/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-09-25",
+"latest": "2012-09-25",
+"portal": "https://www.primariahusi.ro/hotarari-25-septembrie-2012/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-vaslui--husi-100-2012",
 "path": "local/vaslui/husi/2012/100",
 "kind": "local",

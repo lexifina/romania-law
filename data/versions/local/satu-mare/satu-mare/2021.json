@@ -48,6 +48,96 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--satu-mare-156-2021",
+   "path": "local/satu-mare/satu-mare/2021/156",
+   "short": "HCL Satu Mare nr. 156/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 156/2021",
+   "url": "https://www.primariasm.ro/hotararea-nr-76",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/mai-2021/hcl-156.doc",
+     "sha256": "a972abae499e6f1e612da7f49dc27405dcc577929ba5a3031da6dc44eaf1ba22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-157-2021",
+   "path": "local/satu-mare/satu-mare/2021/157",
+   "short": "HCL Satu Mare nr. 157/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 157/2021",
+   "url": "https://www.primariasm.ro/hotararea-nr-15727052021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/mai-2021/hcl-157.doc",
+     "sha256": "482224354de41dce68b6bbabd521e79d37b473c52225740805c2b089a0b22284"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-158-2021",
+   "path": "local/satu-mare/satu-mare/2021/158",
+   "short": "HCL Satu Mare nr. 158/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 158/2021",
+   "url": "https://primariasm.ro/hotararea-nr-15827052021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/mai-2021/hcl-158.doc",
+     "sha256": "94db648cf0d06fd73d411aaa6c7942989278720df335874e95d51e9e0993db89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-159-2021",
+   "path": "local/satu-mare/satu-mare/2021/159",
+   "short": "HCL Satu Mare nr. 159/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 159/2021",
+   "url": "https://primariasm.ro/hotararea-nr-15927052021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/mai-2021/hcl-159.doc",
+     "sha256": "348fea401af02f730319325b98b73c08afe57a622fe4ea8788a0c0a1bbff50df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-160-2021",
+   "path": "local/satu-mare/satu-mare/2021/160",
+   "short": "HCL Satu Mare nr. 160/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 160/2021 privind aprobarea documentației P.U.Z.–Reglementare zonă de locuit și tramă stradală și acceptarea ofertelor de donație Amplasament: Satu Mare, Zona str",
+   "url": "https://primariasm.ro/hotararea-nr-16027052021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/mai-2021/hcl-160-1.doc",
+     "sha256": "c7107499002dc266a429a7e184cc115d3ce833efa4a6182956b5615d68994902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-215-2021",
+   "path": "local/satu-mare/satu-mare/2021/215",
+   "short": "HCL Satu Mare nr. 215/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 215/2021 privind aprobarea Regulamentului de Organizare și Funcționare general al Serviciului Public Administrația Domeniului Public Satu Mare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 26.08.2021, Analizând proiectul de hotărâre înregistrat sub nr. 44249/16.08.2021, referatul de aprobare al primarului Municipiului Satu Mare înregistrat cu nr. 44250/16.08.2021, în ca",
+   "url": "https://www.primariasm.ro/hotararea-nr-21526082021",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2021/215/hcl-215.doc",
+     "sha256": "c22b692ea9bb56922a6969e649789babd61a362a71b962115112157c6e0f078a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-218-2021",
    "path": "local/satu-mare/satu-mare/2021/218",
    "short": "HCL Satu Mare nr. 218/2021",

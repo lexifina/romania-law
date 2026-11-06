@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-12-2025",
+   "path": "local/neamt/roman/2025/12",
+   "short": "HCL Roman nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 12/2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-012-din-30-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/01/012-HCL-2025_01-modificare-HCL-nr.-6-_2020.pdf",
+     "sha256": "a1043f9f3e5a1dd409a07492caf491fcab2623d853f2f3d297ef29845bc91fc3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-146-2025",
    "path": "local/neamt/roman/2025/146",
    "short": "HCL Roman nr. 146/2025",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-223-2025",
+   "path": "local/neamt/roman/2025/223",
+   "short": "HCL Roman nr. 223/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 223/2025 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără personalitate juridică HOTÃRÂRE Nr.223 din 25.09.2025 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local f",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-223-din-25-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/10/223-HCL-2025-aprobare-ROF-primarie.pdf",
+     "sha256": "c71d897cfaa1fcfdb3ed70c801e0bdcc24e3aca0f4e4059dc8830228818d6033"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-236-2025",
    "path": "local/neamt/roman/2025/236",
    "short": "HCL Roman nr. 236/2025",
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-243-2025",
+   "path": "local/neamt/roman/2025/243",
+   "short": "HCL Roman nr. 243/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 243/2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-243-din-10-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-243-din-10-10-2025/",
+     "sha256": "8e41ab04ca0e5b99c0593911f75bb27546b1f579ef91576c4a0bc7063d508850"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-255-2025",
    "path": "local/neamt/roman/2025/255",
    "short": "HCL Roman nr. 255/2025",
@@ -89,6 +134,36 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2025/10/255-HCL-2025_10-mandat-special-membri-UATuri-modificare-Contract-si-regulament.pdf",
      "sha256": "3a7bcf3cd9bf086cba0b95464e66ae85c9565df386e68349ccaf3456564ab17a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-26-2025",
+   "path": "local/neamt/roman/2025/26",
+   "short": "HCL Roman nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 26/2025 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente Nr. 26 din 27.02.2025 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-026-din-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/03/026-HCL-_aprobare-regulament-tichete-sociale-2025.pdf",
+     "sha256": "6b051a5af19a23c70a765a541be2b75320c2f792bed331b32aafc2950b604136"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-27-2025",
+   "path": "local/neamt/roman/2025/27",
+   "short": "HCL Roman nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2025 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de îngrijire la domiciliu pentru persoane vârstnice Nr.27 din 27.02.2025 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de îngrijire la domiciliu pentru persoane vârstnice",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-027-din-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2025/03/027-HCL-aprobare-ROF-Serviciul-de-ingrijire-la-domiciliu-2025.pdf",
+     "sha256": "d6cc801799fa47957c3cd07c6259a91197615b7a024253c4e713e3c84d42f0fb"
     }
    ]
   },
@@ -134,6 +209,21 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2025/12/300-HCL-2025-12-Criterii-cote-aditionale-impozite-anul-2026.pdf",
      "sha256": "dbc689d5152a8c46a4cf18992d325df31f1526a30d8bf8063c36daed746d394a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-306-2025",
+   "path": "local/neamt/roman/2025/306",
+   "short": "HCL Roman nr. 306/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 306/2025",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-306-din-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/consiliu_local/hcl-nr-306-din-19-12-2025/",
+     "sha256": "720f44e6cec168ea904c38267d573dd5fb363f13a3318e4451b3ae96f8248aa8"
     }
    ]
   },

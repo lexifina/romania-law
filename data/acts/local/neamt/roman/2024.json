@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-32-2024",
+"path": "local/neamt/roman/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2024 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente HCL nr. 032 din 27.02.2024 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente",
+"short": "HCL Roman nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-032-din-27-02-2024/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-neamt--roman-40-2024",
 "path": "local/neamt/roman/2024/40",
 "kind": "local",
@@ -179,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-149-2024",
+"path": "local/neamt/roman/2024/149",
+"kind": "local",
+"year": "2024",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 149/2024 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără personalitate juridică HCL nr. 149 din 19.06.2024 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără",
+"short": "HCL Roman nr. 149/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-19",
+"latest": "2024-06-19",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-149-din-19-06-2024/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-neamt--roman-225-2024",
 "path": "local/neamt/roman/2024/225",
 "kind": "local",
@@ -221,6 +265,29 @@
 "council_name": "Consiliul Local al Municipiului Roman",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-233-2024",
+"path": "local/neamt/roman/2024/233",
+"kind": "local",
+"year": "2024",
+"number": "233",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 233/2024",
+"short": "HCL Roman nr. 233/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-233-din-17-10-2024/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

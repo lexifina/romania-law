@@ -621,6 +621,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--hunedoara-416-2024",
+"path": "local/hunedoara/hunedoara/2024/416",
+"kind": "local",
+"year": "2024",
+"number": "416",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 416/2024 privind stabilirea impozitelor și taxelor locale pe anul 2025",
+"short": "HCL Hunedoara nr. 416/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/hunedoara-hd/registru-hcl/180742",
+"council": "hunedoara/hunedoara",
+"council_name": "Consiliul Local al Municipiului Hunedoara",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-hunedoara--hunedoara-417-2024",
 "path": "local/hunedoara/hunedoara/2024/417",
 "kind": "local",

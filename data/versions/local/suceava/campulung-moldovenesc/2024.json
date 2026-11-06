@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-167-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/167",
+   "short": "HCL Câmpulung Moldovenesc nr. 167/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 167/2024 cu privire la stabilirea impozitelor și taxelor locale pentru anul 2025 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2024 ; Având în vedere : -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 39844 din 10.12.2024; -Raportul de specialitate al Direcției economice, înregistrat la nr. 39845 din 1",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_167_2024.doc",
+     "sha256": "b86c31ba3b76ac982be0b4e7041a8bcfc0726be48868a43aab66ab171cc97400"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-172-2024",
    "path": "local/suceava/campulung-moldovenesc/2024/172",
    "short": "HCL Câmpulung Moldovenesc nr. 172/2024",
@@ -89,6 +104,21 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_036_2024.docx",
      "sha256": "edacef761ccc234804cefcec527645293ab2926aa0105dd0fd2944adbf9a3635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-7-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/7",
+   "short": "HCL Câmpulung Moldovenesc nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 7/2024 pentru modificarea pct.5.1 Tariful din Contractul privind delegarea gestiunii prin concesiune a Serviciului public de salubrizare al municipiului Câmpulung Moldovenesc nr. 33459/16.11.2021 aprobat prin Anexa nr.3 din Hotărârea Consiliului Local nr.109/2021 pentru aprobarea delegării gestiunii serviciului de salubrizare al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2024",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_007_2024.doc",
+     "sha256": "4522a57a7f274eeed220786b71583855faa6b12c76ca7c5d05e37acd2ce98ea3"
     }
    ]
   }

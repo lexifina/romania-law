@@ -256,6 +256,29 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-250-2018",
+"path": "local/neamt/roman/2018/250",
+"kind": "local",
+"year": "2018",
+"number": "250",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 250/2018",
+"short": "HCL Roman nr. 250/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-11-05",
+"latest": "2018-11-05",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--roman-262-2018",
 "path": "local/neamt/roman/2018/262",
 "kind": "local",

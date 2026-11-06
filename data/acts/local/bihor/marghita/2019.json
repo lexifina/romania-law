@@ -1349,6 +1349,116 @@
 "metadata_only": "individual",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-bihor--marghita-94-2019",
+"path": "local/bihor/marghita/2019/94",
+"kind": "local",
+"year": "2019",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 94/2019 privind actualizarea indicatorilor tehnico-economici in urma aplicarii art71 din OUG114din2018 pt obiectivul CONSTRUIRE SI AMENAJARE SALA DE MESE GRADINITA",
+"short": "HCL Marghita nr. 94/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-30",
+"latest": "2019-07-30",
+"portal": "https://marghita.ro/hotararile-c-l/2019/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-95-2019",
+"path": "local/bihor/marghita/2019/95",
+"kind": "local",
+"year": "2019",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 95/2019 privind rectificarea bugetului de venituri si cheltuieli al mun Marghita pe anul 2019",
+"short": "HCL Marghita nr. 95/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-30",
+"latest": "2019-07-30",
+"portal": "https://marghita.ro/hotararile-c-l/2019/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-96-2019",
+"path": "local/bihor/marghita/2019/96",
+"kind": "local",
+"year": "2019",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 96/2019 privind actualizarea indicatorilor tehnico-economici dupa semnarea contractului pt obiectivul REABILITARE POD PESTE BARCAU str ILCaragiale cuprins la finantare in PNDL 2017-2020",
+"short": "HCL Marghita nr. 96/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-30",
+"latest": "2019-07-30",
+"portal": "https://marghita.ro/hotararile-c-l/2019/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-98-2019",
+"path": "local/bihor/marghita/2019/98",
+"kind": "local",
+"year": "2019",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 98/2019 privind rectificarea bugetului de venituri si cheltuieli al mun Marghita pe anul 2019",
+"short": "HCL Marghita nr. 98/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-08-20",
+"latest": "2019-08-20",
+"portal": "https://marghita.ro/hotararile-c-l/2019/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-99-2019",
+"path": "local/bihor/marghita/2019/99",
+"kind": "local",
+"year": "2019",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 99/2019 privind aprobarea acordului de parteneriat incheiat intre UAT Marghita si ADD a jud Bihor pt realizare studiu de fezabilitate constr Teren sintetic de sport",
+"short": "HCL Marghita nr. 99/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-08-20",
+"latest": "2019-08-20",
+"portal": "https://marghita.ro/hotararile-c-l/2019/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

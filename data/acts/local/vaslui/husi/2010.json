@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--husi-172-2010",
+"path": "local/vaslui/husi/2010/172",
+"kind": "local",
+"year": "2010",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 172/2010 privind modificarea tarifului de calatorie la transportul public local de calatori in municipiul Husi",
+"short": "HCL Huși nr. 172/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-07-29",
+"latest": "2010-07-29",
+"portal": "https://www.primariahusi.ro/hotarari-29-iulie-2010/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-vaslui--husi-207-2010",
 "path": "local/vaslui/husi/2010/207",
 "kind": "local",

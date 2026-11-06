@@ -303,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcj-galati-54-2016",
+   "path": "local/judet/galati/2016/54",
+   "short": "HCJ Galați nr. 54/2016",
+   "title": "Hotărârea Consiliului Județean Galați nr. 54/2016",
+   "url": "https://cjgalati.ro/hotararea-54-apr2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2016/hot54-280416.pdf",
+     "sha256": "4380e01ebf693f1c6082fc08dce8ba2d767cc07bdd3014faee5e58a73a56aa00"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-56-2016",
    "path": "local/judet/galati/2016/56",
    "short": "HCJ Galați nr. 56/2016",

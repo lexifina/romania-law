@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/moinesti/2017",
+ "acts": [
+  {
+   "slug": "hcl-bacau--moinesti-151-2017",
+   "path": "local/bacau/moinesti/2017/151",
+   "short": "HCL Moinești nr. 151/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 151/2017 privind aprobarea execuției bugetelor Municipiului Moinești la data de 30.09.2017 Consiliul Local al municipiului Moinești, județul Bacău, întrunit în ședința ordinară din data de 31.10.2017, Având în vedere: - Raportul nr. 35171/13.10.2017 al Direcției economice din cadrul aparatului de specialitate al Primarului municipiului Moinești; - Expunerea de motive nr. 35173/13.10.2017 a Primarului Munic",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/Hotararea-151-privind-aprobarea-executiei-bugetelor-Municipiului-Moinesti-la-data-de-30.09.2017-31.10.pdf",
+     "sha256": "d01ae60d74e0ac375ce04d2436567afb66f246635c4c44a5acfa6bb82561cecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-37-2017",
+   "path": "local/bacau/moinesti/2017/37",
+   "short": "HCL Moinești nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 37/2017 privind aprobarea contului de executie pe anul 2016 Consiliul Local al Municipiului Moinești, județul Bacău, întrunit în ședința ordinară din data de 30.03.2017, Având în vedere: - Raportul nr.10383/23.03.2017 al Direcției economice din cadrul aparatului de specialitate al Primarului municipiului Moinești; - Expunerea de motive nr. 10385/23.0.32017 a Primarului municipiului Moinesti; - prevederile",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/Hotararea-37-privind-aprobarea-contului-de-executie-pe-anul-2016-30.03.pdf",
+     "sha256": "203612c96ec070d9740bebe8af925c4b3161f04cad2b865e870317358b6b772e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-62-2017",
+   "path": "local/bacau/moinesti/2017/62",
+   "short": "HCL Moinești nr. 62/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 62/2017 privind aprobarea execuției bugetelor Municipiului Moinești la data de 31.03.2017 Consiliul Local al municipiului Moinești, județul Bacău, întrunit în ședința ordinară din data de 27.04.2017, Având în vedere: - Raportul nr. 13465/19.04.2017 al Direcției economice din cadrul aparatului de specialitate al Primarului municipiului Moinești; - Expunerea de motive nr. 13469/19.04.2017 a Primarului Munic",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/Hotararea-62-privind-aprobarea-executiei-bugetelor-Municipiului-Moinesti-la-data-de-31.03.2017-27.04.pdf",
+     "sha256": "a742362ae89da3bdcc32ba71aae657c90dfd7defd177bf6532050fbcc5a8865d"
+    }
+   ]
+  }
+ ]
+}

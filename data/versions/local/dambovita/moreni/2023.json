@@ -3,6 +3,21 @@
  "shard": "local/dambovita/moreni/2023",
  "acts": [
   {
+   "slug": "hcl-dambovita--moreni-148-2023",
+   "path": "local/dambovita/moreni/2023/148",
+   "short": "HCL Moreni nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 148/2023 privind aprobarea PLANULUI URBANISTIC ZONAL pentru obiectivul ,, CONSTRUIRE IMOBIL P+4+5R+6R LOCUINŢE COLECTIVE CU SPAŢII COMERCIALE LA PARTER - ÎMPREJMUNIRE, BRANŞAMENTE UTILITĂŢII, CONSTRUIRE RAMPĂ DEŞEURI ÎNGROPATĂ\" în strada Republicii, nr. 1, municipiul Moreni, judeţul Dâmboviţa",
+   "url": "https://emol.ro/moreni-db/registru-hcl/122886",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/35910/PUZ%20Moreni%20JOB%20Electroserv%20Moreni.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--moreni-149-2023",
    "path": "local/dambovita/moreni/2023/149",
    "short": "HCL Moreni nr. 149/2023",

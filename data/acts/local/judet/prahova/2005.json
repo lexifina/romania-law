@@ -932,6 +932,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-prahova-63-2005",
+"path": "local/judet/prahova/2005/63",
+"kind": "local",
+"year": "2005",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 63/2005 pentru aprobarea taxelor privind acordurile eliberate pentru lucrările care se execută în zona drumurilor județene Având în vedere: - Expunerea de motive a Președintelui Consiliului Județean Prahova și Raportul Direcției Economico – Financiare și Direcției Generale de Patrimoniu Județean nr. 565/16.02.2005, prin care se propune aprobarea taxelor privind acordurile eliberate pentru lucrările care s",
+"short": "HCJ Prahova nr. 63/2005",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2005-05-16",
+"latest": "2005-05-16",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=14",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

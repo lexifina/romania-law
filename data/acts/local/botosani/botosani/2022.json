@@ -224,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-botosani--botosani-108-2022",
+"path": "local/botosani/botosani/2022/108",
+"kind": "local",
+"year": "2022",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 108/2022 privind modificarea anexelor nr. 1 si 2 la HCL nr . 429 /26.11.2021 privind aprobarea Regulamentului de organizare și desfășurare a concursului de proiecte de management, caietului de obiective , condițiilor de participare pentru concursul de ocupare a postului de manager la Filarmonica „George Enescu” Botoșani",
+"short": "HCL Botoșani nr. 108/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-botosani--botosani-113-2022",
 "path": "local/botosani/botosani/2022/113",
 "kind": "local",

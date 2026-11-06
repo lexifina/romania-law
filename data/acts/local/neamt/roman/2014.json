@@ -226,6 +226,28 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-86-2014",
+"path": "local/neamt/roman/2014/86",
+"kind": "local",
+"year": "2014",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2014 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate şi serviciilor publice de interes local",
+"short": "HCL Roman nr. 86/2014",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2014/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-neamt--roman-87-2014",
 "path": "local/neamt/roman/2014/87",
 "kind": "local",

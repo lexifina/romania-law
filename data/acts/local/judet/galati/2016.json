@@ -3,6 +3,29 @@
 "shard": "local/judet/galati/2016",
 "acts": [
 {
+"slug": "hcj-galati-54-2016",
+"path": "local/judet/galati/2016/54",
+"kind": "local",
+"year": "2016",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 54/2016",
+"short": "HCJ Galați nr. 54/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-04-28",
+"latest": "2016-04-28",
+"portal": "https://cjgalati.ro/hotararea-54-apr2016/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-galati-56-2016",
 "path": "local/judet/galati/2016/56",
 "kind": "local",

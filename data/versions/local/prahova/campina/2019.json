@@ -106,6 +106,21 @@
      "sha256": "a93b29b640c71b638045547c1547b59622daab5c3b6342c54b1bc1ba8f254c27"
     }
    ]
+  },
+  {
+   "slug": "hcl-prahova--campina-91-2019",
+   "path": "local/prahova/campina/2019/91",
+   "short": "HCL Câmpina nr. 91/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 91/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b150995fd1d9a658459c87658e4a89b1f86b6b78316bcf13f6ecd545ee905052"
+    }
+   ]
   }
  ]
 }

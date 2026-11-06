@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2008",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-115-2008",
+   "path": "local/prahova/campina/2008/115",
+   "short": "HCL Câmpina nr. 115/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 115/2008 privind lista tarife prestari servicii si prestatii diverse terti SC Hidro Prahova",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-115-privind-lista-tarife-prestari-servicii-si-prestatii-diverse-terti-SC-Hidro-Prahova.doc",
+     "sha256": "9ce4b284a123fed06a15e5b86d20136df4f9557a99cc01113a0bd097f9358705"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-142-2008",
+   "path": "local/prahova/campina/2008/142",
+   "short": "HCL Câmpina nr. 142/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 142/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "59c2a5f8311d1391f686d4084c3cf5cd556966ecb99cd4618cb25163fabce96b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-166-2008",
+   "path": "local/prahova/campina/2008/166",
+   "short": "HCL Câmpina nr. 166/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 166/2008 privind aprobarea reorganizării Comisiei tehnice de urbanism și amenajarea teritoriului din cadrul Primăriei municipiului Câmpina Având în vedere: - expunerea de motive nr.48.113/21 noiembrie 2008 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie și protecția mediului, prin care propun aprobarea reorganizării Comisiei tehnice de urbanism și amenajarea teritoriului din cadrul Primări",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-166-Hotarare-reorganizare-Comisie-tehnica-urbanism.doc",
+     "sha256": "d01ed3b77564bbffd9a5507f2edd0248d947ee7f903803c41c5c70347105ab2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-180-2008",
+   "path": "local/prahova/campina/2008/180",
+   "short": "HCL Câmpina nr. 180/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 180/2008 privind stabilirea impozitelor si taxelor locale pentru anul 2009 Având în vedere : - expunerea de motive nr.48.029/3 noiembrie 2008 a d-lui ing",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2008/",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-180-Hotarare-impozite-si-taxe-2009.doc",
+     "sha256": "d4e81f6e886735af4ae35963fdbcfcf69c560e1e416a74b2529943e062339801"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-191-2008",
+   "path": "local/prahova/campina/2008/191",
+   "short": "HCL Câmpina nr. 191/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 191/2008 referitoare la aprobarea Regulamentului privind stabilirea conținutului planurilor de situație necesare în vederea obținerii autorizațiilor de construire/desființare, pe raza municipiului Câmpina Având în vedere: - expunerea de motive nr.48.171/9 decembrie 2008 a Comisiei amenajarea teritoriului, urbanism, ecologie și protecția mediului, prin care propune aprobarea Regulamentului privind stabilire",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2008/",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-191-Hotarare-aprobare-reglementari-ref-la-urbanismul-pe-raza-mun-Campina.doc",
+     "sha256": "58576077893985b67c5da42a9594a42af2f97c55b88d5b2a6d95a8dd074769a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-36-2008",
+   "path": "local/prahova/campina/2008/36",
+   "short": "HCL Câmpina nr. 36/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 36/2008 privind unele măsuri referitoare la construcția de locuințe cu credit ipotecar edificate prin Agenția Națională pentru Locuințe, situate în municipiul Câmpina, str. Erupției, f.n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-36-Hotarare-masuri-constructie-locuinte-str-Eruptiei-fn-ANL.doc",
+     "sha256": "4b97f60227d4166bba0ca998a6fc39c746ccc4d9c2b92f216e36806aeb7c8cf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-39-2008",
+   "path": "local/prahova/campina/2008/39",
+   "short": "HCL Câmpina nr. 39/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 39/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4a0b51a0badafdbf059762914863a0f27351387515f5cd0ea7b211146b89affe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-40-2008",
+   "path": "local/prahova/campina/2008/40",
+   "short": "HCL Câmpina nr. 40/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2008 privind aprobarea ajustării tarifului practicat de S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-40-Hotarare-ajustare-pret-SC-Floricon-Campina.doc",
+     "sha256": "2542d6412c2f12ef23900368bb1ab1e31d5beac74d6897a43ed27cdde22c2a95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-42-2008",
+   "path": "local/prahova/campina/2008/42",
+   "short": "HCL Câmpina nr. 42/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 42/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cad5283c847f6f98f73a7aef80fe67f554a8ae899de6cd4769deda40eaf380f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-67-2008",
+   "path": "local/prahova/campina/2008/67",
+   "short": "HCL Câmpina nr. 67/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 67/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fd3f52ec5341e18e644bdcd7126eddbdbd9545472db08e3b6da9be433524c84e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-68-2008",
+   "path": "local/prahova/campina/2008/68",
+   "short": "HCL Câmpina nr. 68/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 68/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "403b03df243fccd99fdbf3dd81de5aac35d25504e56fcf6a3be62bf4b24952a6"
+    }
+   ]
+  }
+ ]
+}

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcj-galati-161-2020",
+   "path": "local/judet/galati/2020/161",
+   "short": "HCJ Galați nr. 161/2020",
+   "title": "Hotărârea Consiliului Județean Galați nr. 161/2020 privind aprobarea „Planului de menținere a calității aerului în județul Galați 2019-2023”; Având în vedere prevederile Legii nr. 104/15.06.2011 privind calitatea aerului înconjurător, cu modificările și completările ulterioare; Având în vedere prevederile art. 49 din Hotărârea Guvernului nr. 257 / 2015 privind aprobarea Metodologiei de elaborare a planurilor de calitate a aerului, a planurilor de",
+   "url": "https://cjgalati.ro/hotararea-nr-161/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2020/hot161-300620.pdf",
+     "sha256": "f9342c1ada5388f19a17d494ab1445a5dc95db9f699509c71f9e08fe37a094a3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-250-2020",
    "path": "local/judet/galati/2020/250",
    "short": "HCJ Galați nr. 250/2020",

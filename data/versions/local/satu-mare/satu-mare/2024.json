@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--satu-mare-398-2024",
+   "path": "local/satu-mare/satu-mare/2024/398",
+   "short": "HCL Satu Mare nr. 398/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 398/2024 privind valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora precum și amenzile aplicabile în municipiul Satu Mare, în anul 2025 Consiliul Local al municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub numărul 289006/04.12.2024 conexat cu numărul 239136/01.10.2024, referatul de aprobare al Primarului Municipiului Satu Mare, în calitate de inițiator, în",
+   "url": "https://www.primariasm.ro/hotararea-nr-39819122024",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/398/hcl-398-1.doc",
+     "sha256": "e2a2223c6420c14cad49aa9809317dc823b56fe3b07b4e3e8f9efccc09fdd3ca"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-51-2024",
    "path": "local/satu-mare/satu-mare/2024/51",
    "short": "HCL Satu Mare nr. 51/2024",
@@ -134,6 +149,21 @@
      "units": 1,
      "source_url": "https://www.primariasm.ro/storage/hotarari/2024/6/hcl-6.doc",
      "sha256": "60b819a9dd7ed1cccd22ecb2a2d1823acbb3e3fdfe556912e433dfba69177900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-77-2024",
+   "path": "local/satu-mare/satu-mare/2024/77",
+   "short": "HCL Satu Mare nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 77/2024",
+   "url": "https://www.primariasm.ro/hotararea-nr-7728032024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/77/hcl-77.doc",
+     "sha256": "67979a661477368df752c4ae6ee9d96c180c6b1eedf7303a68276463cc1a6d0a"
     }
    ]
   }

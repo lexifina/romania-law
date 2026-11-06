@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcj-buzau-3-2020",
+"path": "local/judet/buzau/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 3/2020 privind aprobarea Metodologiei de redactare și circulație a proiectelor de hotărâri ale Consiliului Județean și a dispozițiilor Președintelui – forma actualizată conform Codului Administrativ",
+"short": "HCJ Buzău nr. 3/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "http://cjbuzau.ro/hotarari-cj-2020/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-buzau-17-2020",
+"path": "local/judet/buzau/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 17/2020 pentru anul 2020 al Autorității Teritoriale de Ordine Publică a Județului Buzău",
+"short": "HCJ Buzău nr. 17/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "http://cjbuzau.ro/hotarari-cj-2020/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-buzau-48-2020",
 "path": "local/judet/buzau/2020/48",
 "kind": "local",
@@ -199,6 +243,28 @@
 "council_name": "Consiliul Județean Buzău",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-buzau-56-2020",
+"path": "local/judet/buzau/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 56/2020 privind aprobarea Procedurii de închiriere a bunurilor imobile din domeniul public și privat al Județului Buzău, aflate în administrarea Consiliului Județean Buzău",
+"short": "HCJ Buzău nr. 56/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "http://cjbuzau.ro/hotarari-cj-2020/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
 }
 },
 {

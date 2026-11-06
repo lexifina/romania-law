@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Salonta nr. 257/2023 Privind aprobarea Studiului de Fezabilitate aferent obiectivului de investiție cu titlul “Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsumul Municipiului Salonta, Județul Bihor” Consiliul Local al Municipiului Salonta  Examinând Proiectul de hotărâre privind aprobarea Studiului de Fezabilitate aferent obiectivului de in
+
+HCL Salonta nr. 257/2023 · 1 versions, from 2023-12-05 (latest in force: 2023-12-05) · <https://salonta.net/ro/hotarari/5-decembrie2023/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bihor--salonta-257-2023` (tags `hcl-bihor--salonta-257-2023/<day>`; `python tools/on.py <day> hcl-bihor--salonta-257-2023`).
+
+## Decisions made by hand
+
+- HCL Salonta nr. 257/2023: listed from Consiliul Local al Municipiului Salonta (salonta.net); an individual decision: metadata only.
+- HCL Salonta nr. 257/2023: dated from 5 December 2023, the day it was adopted (the register gives no later day of publication).
+- HCL Salonta nr. 257/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

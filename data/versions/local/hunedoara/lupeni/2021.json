@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-153-2021",
+   "path": "local/hunedoara/lupeni/2021/153",
+   "short": "HCL Lupeni nr. 153/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 153/2021",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2021-00003be2?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro//dm_lupeni/portal.nsf/FD0FC600B7DA6A46C22587B8003BC800/$FILE/HCL%20153_23.12.2021%20stabilire%20impozite%20si%20taxe%20locale%20-%202022.doc",
+     "sha256": "bbf014da5a1a815378f8b630cf2aae83ad1cd32d866931b9b30068ff99473797"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-157-2021",
    "path": "local/hunedoara/lupeni/2021/157",
    "short": "HCL Lupeni nr. 157/2021",

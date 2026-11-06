@@ -3,6 +3,139 @@
 "shard": "local/alba/sebes/2019",
 "acts": [
 {
+"slug": "hcl-alba--sebes-91-2019",
+"path": "local/alba/sebes/2019/91",
+"kind": "local",
+"year": "2019",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 91/2019 privind aprobarea Contului de execuție al Bugetului general centralizat al Municipiului Sebeș la 31.03.2019",
+"short": "HCL Sebeș nr. 91/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-31",
+"latest": "2019-03-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-125-2019",
+"path": "local/alba/sebes/2019/125",
+"kind": "local",
+"year": "2019",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 125/2019 privind aprobarea deplasării unei delegații de elevi și profesori la Komarom, Ungaria, în perioada 1 -7 iulie 2019",
+"short": "HCL Sebeș nr. 125/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-07",
+"latest": "2019-07-07",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-139-2019",
+"path": "local/alba/sebes/2019/139",
+"kind": "local",
+"year": "2019",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 139/2019 privind aprobarea prelungirii Contractului de delegare prin concesiune a serviciului de salubrizare a Municipiului Sebeș, nr.5/5650/20.02.2012 prelungit prin actul adițional nr.5 până la data de 20.08.2019, în regim de urgență pentru o",
+"short": "HCL Sebeș nr. 139/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-08-20",
+"latest": "2019-08-20",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-149-2019",
+"path": "local/alba/sebes/2019/149",
+"kind": "local",
+"year": "2019",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 149/2019 privind modificarea HCL nr.125/2019 privind deplasarea unei unei delegații de elevi și profesori la Komárom, Ungaria, în perioada 1-7 iulie 2019",
+"short": "HCL Sebeș nr. 149/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-07",
+"latest": "2019-07-07",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-162-2019",
+"path": "local/alba/sebes/2019/162",
+"kind": "local",
+"year": "2019",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 162/2019 privind aprobarea contului de execuție la 30.06.2019",
+"short": "HCL Sebeș nr. 162/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-30",
+"latest": "2019-06-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-167-2019",
+"path": "local/alba/sebes/2019/167",
+"kind": "local",
+"year": "2019",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 167/2019",
+"short": "HCL Sebeș nr. 167/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-08-01",
+"latest": "2019-08-01",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--sebes-168-2019",
 "path": "local/alba/sebes/2019/168",
 "kind": "local",
@@ -22,6 +155,72 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-205-2019",
+"path": "local/alba/sebes/2019/205",
+"kind": "local",
+"year": "2019",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 205/2019 privind deplasarea unei delegații ce va reprezenta Municipiul Sebes la Smyadovo, Bulgaria, la Festivalul International de Folclor în perioada 19-21 august 2019",
+"short": "HCL Sebeș nr. 205/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-08-21",
+"latest": "2019-08-21",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-228-2019",
+"path": "local/alba/sebes/2019/228",
+"kind": "local",
+"year": "2019",
+"number": "228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 228/2019 privind deplasarea unei delegații la Budingen – Germania, în perioada 19.09.2019 -24.09.2019, pentru a participa la evenimentul ,,GALLUSMARKT,,",
+"short": "HCL Sebeș nr. 228/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-09-19",
+"latest": "2019-09-19",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-237-2019",
+"path": "local/alba/sebes/2019/237",
+"kind": "local",
+"year": "2019",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 237/2019 privind aprobarea prelungirii Contractului de delegare prin concesiune a serviciului de salubrizare a Municipiului Sebeș, nr. 5/5650/20.02.2012, în regim de urgență, pentru o perioadă de 90 de zile, începând cu data de 19.11.2019",
+"short": "HCL Sebeș nr. 237/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-11-19",
+"latest": "2019-11-19",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -66,6 +265,72 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-278-2019",
+"path": "local/alba/sebes/2019/278",
+"kind": "local",
+"year": "2019",
+"number": "278",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 278/2019 privind aprobarea prelungirii unui număr de 5(cinci) contracte de concesiune – cabinet medical, situate în clădirea Centrului de sănătate din Sebeș, str. M. Viteazu, nr. 28,care expiră la data de 30.11.2019",
+"short": "HCL Sebeș nr. 278/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-11-30",
+"latest": "2019-11-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-279-2019",
+"path": "local/alba/sebes/2019/279",
+"kind": "local",
+"year": "2019",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 279/2019 privind aprobarea prelungirii unui număr de 4(patru) contracte de concesiune – cabinet medical, situate în clădirea Dispensarului medical – Petrești,str.1 Mai, nr. 23,care expiră la data de 30.11.2019",
+"short": "HCL Sebeș nr. 279/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-11-30",
+"latest": "2019-11-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-368-2019",
+"path": "local/alba/sebes/2019/368",
+"kind": "local",
+"year": "2019",
+"number": "368",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 368/2019 privind majorarea bugetului local al Municipiului Sebeș și aprobarea Contului de execuție al Bugetului local al Municipiului Sebeș la data de 19.12.2019",
+"short": "HCL Sebeș nr. 368/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-19",
+"latest": "2019-12-19",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,21 @@
  "shard": "local/bihor/marghita/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--marghita-162-2024",
+   "path": "local/bihor/marghita/2024/162",
+   "short": "HCL Marghita nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 162/2024 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Marghita pentru anul 2024",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/173753",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/58723/ANEXA.doc",
+     "sha256": "538be4b6f7f192d6f4d48d3b1a3a6f82abea1bac69135e928a9c0a65824a55a3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--marghita-60-2024",
    "path": "local/bihor/marghita/2024/60",
    "short": "HCL Marghita nr. 60/2024",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/48009/anexa.pdf",
      "sha256": "477af75e33b9509f08354d8d7fc9db98a26a1da0b7e44adb5fe1de66d00419b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-62-2024",
+   "path": "local/bihor/marghita/2024/62",
+   "short": "HCL Marghita nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 62/2024 privind reactualizarea Planului de analiză și acoperire a riscurilor pe UAT Municipiul Marghita",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/149931",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/48013/Planul%20de%20analiza%20si%20acoperire%20riscuri.doc",
+     "sha256": "6e3b3a28f609f13d601be39607091bf9d18003a251fc07503982f65792f96da2"
     }
    ]
   }

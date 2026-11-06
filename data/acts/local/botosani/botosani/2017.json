@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/botosani/2017",
+"acts": [
+{
+"slug": "hcl-botosani--botosani-14-2017",
+"path": "local/botosani/botosani/2017/14",
+"kind": "local",
+"year": "2017",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 14/2017 Privind aprobarea Regulamentului de organizare si desfãsurare a concursului de proiecte de management, caietului de obiective, conditiilor de participare pentru concursul de ocupare a postului de manager la Teatrul pentru Copii si Tineret “Vasilache” (Publicarea pe site: 07 feb. 2017) Vizualizare",
+"short": "HCL Botoșani nr. 14/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-01-31",
+"latest": "2017-01-31",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

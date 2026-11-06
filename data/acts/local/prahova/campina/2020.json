@@ -69,6 +69,97 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-99-2020",
+"path": "local/prahova/campina/2020/99",
+"kind": "local",
+"year": "2020",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 99/2020",
+"short": "HCL Câmpina nr. 99/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-100-2020",
+"path": "local/prahova/campina/2020/100",
+"kind": "local",
+"year": "2020",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 100/2020",
+"short": "HCL Câmpina nr. 100/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-103-2020",
+"path": "local/prahova/campina/2020/103",
+"kind": "local",
+"year": "2020",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 103/2020",
+"short": "HCL Câmpina nr. 103/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-125-2020",
+"path": "local/prahova/campina/2020/125",
+"kind": "local",
+"year": "2020",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 125/2020 privind actualizarea limitelor de proprietate și suprafățet = pentru imobilele — terenuri, aparținând domeniului privat al Municipiului Câmpina, str.Tîrnava Mare, nr.15 - Nr.Cadastral 1093 și str.Tîrnava Mare, nr.15A, Nr.Cadastral 1580 Având în vedere Referatul de aprobare nr.18.508/14 august 2020 ai membrilor Comisiei de specialitate amenajarea teritoriului, urbanism, ecologie și protecția mediul",
+"short": "HCL Câmpina nr. 125/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2020/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-prahova--campina-127-2020",
 "path": "local/prahova/campina/2020/127",
 "kind": "local",
@@ -110,6 +201,29 @@
 "council_name": "Consiliul Local al Municipiului Câmpina",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-prahova--campina-152-2020",
+"path": "local/prahova/campina/2020/152",
+"kind": "local",
+"year": "2020",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 152/2020",
+"short": "HCL Câmpina nr. 152/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

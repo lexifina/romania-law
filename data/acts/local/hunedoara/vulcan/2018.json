@@ -3,6 +3,75 @@
 "shard": "local/hunedoara/vulcan/2018",
 "acts": [
 {
+"slug": "hcl-hunedoara--vulcan-31-2018",
+"path": "local/hunedoara/vulcan/2018/31",
+"kind": "local",
+"year": "2018",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 31/2018",
+"short": "HCL Vulcan nr. 31/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2018-0000118e?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-32-2018",
+"path": "local/hunedoara/vulcan/2018/32",
+"kind": "local",
+"year": "2018",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 32/2018",
+"short": "HCL Vulcan nr. 32/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2018-0000118e?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-33-2018",
+"path": "local/hunedoara/vulcan/2018/33",
+"kind": "local",
+"year": "2018",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 33/2018",
+"short": "HCL Vulcan nr. 33/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2018-0000118e?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--vulcan-44-2018",
 "path": "local/hunedoara/vulcan/2018/44",
 "kind": "local",

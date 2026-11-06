@@ -16,6 +16,21 @@
      "sha256": "631f916139d850d9ef44d59a8572b9239e39b918bf33868ec6271cda763e0cac"
     }
    ]
+  },
+  {
+   "slug": "hcl-neamt--roman-80-2004",
+   "path": "local/neamt/roman/2004/80",
+   "short": "HCL Roman nr. 80/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2004 Privind stabilirea impozitelor si taxelor locale pentru anul 2006",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2004-09-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/080%20HCL%202005-09%20impozite%20si%20taxe%20locale.pdf",
+     "sha256": "f157151d894a94a44b1e167083bb4bb9127b722a96688d2ee320223d61f9f3ab"
+    }
+   ]
   }
  ]
 }

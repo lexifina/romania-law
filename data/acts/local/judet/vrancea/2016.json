@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcj-vrancea-60-2016",
+"path": "local/judet/vrancea/2016/60",
+"kind": "local",
+"year": "2016",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 60/2016 privind aprobarea Statutului JudeŃului Vrancea completată prin Hotarârea Consiliului JudeŃean Vrancea nr. 29/2008 privind stabilirea criteriilor de conferire a titlului de \"CetăŃean de onoare al judeŃului Vrancea\", condiŃiile de pierdere sau de retragere a acestui titlu, precum și drepturile de care se bucură aceste persoane; • OG nr. 53/2002 privind Statutul-cadru al unitaŃii administrativ terito",
+"short": "HCJ Vrancea nr. 60/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-05-12",
+"latest": "2016-05-12",
+"portal": "https://cjvrancea.ro/hotarari/page/6/?an=2016",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-vrancea-68-2016",
 "path": "local/judet/vrancea/2016/68",
 "kind": "local",

@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2011",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-100-2011",
+   "path": "local/prahova/campina/2011/100",
+   "short": "HCL Câmpina nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 100/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c9ca0e9c479f474212d9ebf2c96e4fe4351582e1d835bd59e2237cbfd4ced6c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-101-2011",
+   "path": "local/prahova/campina/2011/101",
+   "short": "HCL Câmpina nr. 101/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 101/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2a4886a3b4d60eb6cfa39a79d190b98b46fc1243b9c2fb56d67f8630b8b9e7af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-102-2011",
+   "path": "local/prahova/campina/2011/102",
+   "short": "HCL Câmpina nr. 102/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 102/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6dd2b725299e2d7da884f6fd4af1b0c762a9096643b5c7612d581b877741d5bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-107-2011",
+   "path": "local/prahova/campina/2011/107",
+   "short": "HCL Câmpina nr. 107/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 107/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "41740e51e01d4bb5b6e486843233ab718138f3e2386abb1c80be9d05bbf6abc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-108-2011",
+   "path": "local/prahova/campina/2011/108",
+   "short": "HCL Câmpina nr. 108/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 108/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b6ec8c3a14cf9f47213c9b98275f5dba307ea1aef8a7adf5dc8ec845d16bc84b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-114-2011",
+   "path": "local/prahova/campina/2011/114",
+   "short": "HCL Câmpina nr. 114/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 114/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f0fff425828ed1f9c18193a1b77dff77e3edc5c7dc78f4d2a30d09618b79cf04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-14-2011",
+   "path": "local/prahova/campina/2011/14",
+   "short": "HCL Câmpina nr. 14/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 14/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f21ff295aee2beb7d759397530f6ee494ffe874dedd05486ea85e56e188bb1e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-158-2011",
+   "path": "local/prahova/campina/2011/158",
+   "short": "HCL Câmpina nr. 158/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 158/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f7f84763b6132940ebb2305041304f020d5f2bb1e4d3efff5001760dbead1cfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-159-2011",
+   "path": "local/prahova/campina/2011/159",
+   "short": "HCL Câmpina nr. 159/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 159/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "65af29094360d349046982bcbbc2fa8a988ac7177aec652da5045de3aa01fa77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-176-2011",
+   "path": "local/prahova/campina/2011/176",
+   "short": "HCL Câmpina nr. 176/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 176/2011 privind aprobarea Regulamentului de organizare și funcționare al Serviciului Public Comunitar Local de Evidență a Persoanelor al municipiului Câmpina",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr175-modificare-Anexa-2-la-HCL-44-din-31-martie-2011-stat-de-functii.doc",
+     "sha256": "3eda80039d2aee374db6445cf540fc2ad6608d5d6b92002cdd2d1477d846fc9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-189-2011",
+   "path": "local/prahova/campina/2011/189",
+   "short": "HCL Câmpina nr. 189/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 189/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr189-stabilire-impozite-si-taxe-locale-2012.doc",
+     "sha256": "d7d9627a5797a7a2343d0ae8b02649fe25dd34c5699383b303fd0f3832a04e26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-194-2011",
+   "path": "local/prahova/campina/2011/194",
+   "short": "HCL Câmpina nr. 194/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 194/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3de8b46cfc3af9026e3a9514152e621dd19b9e97b22f3f516fde7f2805d8ec6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-2-2011",
+   "path": "local/prahova/campina/2011/2",
+   "short": "HCL Câmpina nr. 2/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 2/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "472717f21e29924d2ac290b1b144e55151bc758738bee84c8d26f10d375ed3b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-33-2011",
+   "path": "local/prahova/campina/2011/33",
+   "short": "HCL Câmpina nr. 33/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 33/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a8a028819302397ff23aaca2b3991419683014c9f5d03d042ef7854852a32e83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-4-2011",
+   "path": "local/prahova/campina/2011/4",
+   "short": "HCL Câmpina nr. 4/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 4/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c5b6a3e196ca9c28ccf66b05a8551f0b28d79be97eb385a5d86b1b852d9054f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-46-2011",
+   "path": "local/prahova/campina/2011/46",
+   "short": "HCL Câmpina nr. 46/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 46/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "edca414677b5d998f2770611e2fac082aa368c262a643e978dbb90f822d27da2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-62-2011",
+   "path": "local/prahova/campina/2011/62",
+   "short": "HCL Câmpina nr. 62/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 62/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b89ea11da5a59c190351143880a0359d213c25f2e5921d01e19c10e273c5ef2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-7-2011",
+   "path": "local/prahova/campina/2011/7",
+   "short": "HCL Câmpina nr. 7/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 7/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "442c63428e85c19162d95ccc1515576be84110f5885384ff6723472e10394a2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-78-2011",
+   "path": "local/prahova/campina/2011/78",
+   "short": "HCL Câmpina nr. 78/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 78/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e3636c6b902d76d9a2de53a512843b63d99560ff6a03a57745bc1f39d2c554d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-80-2011",
+   "path": "local/prahova/campina/2011/80",
+   "short": "HCL Câmpina nr. 80/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 80/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr80-Imn-Campina.doc",
+     "sha256": "a6bf507f24c7b7b21de47503a0e1d58d24afe85b035f1b59d1172c191f274364"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-9-2011",
+   "path": "local/prahova/campina/2011/9",
+   "short": "HCL Câmpina nr. 9/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 9/2011 privind aprobarea ajustării tarifului practicat de S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr9-ajustare-tarife-salubritate-Floricon-Salub-SRL.doc",
+     "sha256": "9d2c03cb26437993719f4862ed4f7acba9bf56e3a47e71d20248d7262a6cccd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-91-2011",
+   "path": "local/prahova/campina/2011/91",
+   "short": "HCL Câmpina nr. 91/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 91/2011 privind atribuirea de nume unor străzi din municipiul Câmpina, situate în Cartierul Hernea și Cartierul Voila Având în vedere: - expunerea de motive nr.60.487/16 mai 2011 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie și protecția mediului prin care propun atribuirea de nume unor străzi din municipiul Câmpina, situate în Cartierul Hernea și Cartierul Voila; - raportul de speciali",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr91-atribuire-denumire-strazi-Cartier-Hernea-si-Voila.doc",
+     "sha256": "4d808e088f96d94665f2d1249cd4fc58aff3a1d794ec9116bd586b81d7819f84"
+    }
+   ]
+  }
+ ]
+}

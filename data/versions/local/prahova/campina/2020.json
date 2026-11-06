@@ -3,6 +3,51 @@
  "shard": "local/prahova/campina/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-100-2020",
+   "path": "local/prahova/campina/2020/100",
+   "short": "HCL Câmpina nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 100/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cc4cbdbe9591c7066dd30430d25b8acef57c18c7830972ba8a210cb92ce4e509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-103-2020",
+   "path": "local/prahova/campina/2020/103",
+   "short": "HCL Câmpina nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 103/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1b47a4bdad1d5ecc99df91277e60981c044cb1e8490d07cbc2b1f00ad1cc75f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-125-2020",
+   "path": "local/prahova/campina/2020/125",
+   "short": "HCL Câmpina nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 125/2020 privind actualizarea limitelor de proprietate și suprafățet = pentru imobilele — terenuri, aparținând domeniului privat al Municipiului Câmpina, str.Tîrnava Mare, nr.15 - Nr.Cadastral 1093 și str.Tîrnava Mare, nr.15A, Nr.Cadastral 1580 Având în vedere Referatul de aprobare nr.18.508/14 august 2020 ai membrilor Comisiei de specialitate amenajarea teritoriului, urbanism, ecologie și protecția mediul",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2020/",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2020/09/Hot%C4%83r%C3%A2rea-nr.-125-actualizare-limite-terenuri-str.-T%C3%AErnava-Mare-nr.-15-%C8%99i-15A.pdf",
+     "sha256": "b6d33a7ff1ce901649db6c53f4e72e57c0d45763ff863af5f703efe1974b6c62"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-127-2020",
    "path": "local/prahova/campina/2020/127",
    "short": "HCL Câmpina nr. 127/2020",
@@ -29,6 +74,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2020/09/Hot%C4%83r%C3%A2rea-nr.-128-atestare-apartenen%C8%9B%C4%83-la-domeniul-privat-367-mp-str.-Redutei-nr.-14.pdf",
      "sha256": "986f811285c535b231ef5bb53d5cccbe85ddd01e0f0f44016e42230dd4d51237"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-152-2020",
+   "path": "local/prahova/campina/2020/152",
+   "short": "HCL Câmpina nr. 152/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 152/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8abbce914d7e86157f884b28c24594593dbd446f29543e810f73c74f023c502b"
     }
    ]
   },
@@ -104,6 +164,21 @@
      "units": 4,
      "source_url": null,
      "sha256": "7dde0d60d4ab7224537cbd9e12242edb637d9d6e64601333e6a962e5d904cda9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-99-2020",
+   "path": "local/prahova/campina/2020/99",
+   "short": "HCL Câmpina nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 99/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2020/08/Hot%C4%83r%C3%A2rea-nr.-99-ROF-Direc%C8%9Bia-de-asisten%C8%9B%C4%83-social%C4%83.pdf",
+     "sha256": "d37c3059599aa4a06701f0f1287977aa67a59eb9e2b5669ad0437a980d3c81aa"
     }
    ]
   }

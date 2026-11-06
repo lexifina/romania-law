@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-23-2011",
+   "path": "local/vaslui/husi/2011/23",
+   "short": "HCL Huși nr. 23/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 23/2011 privind constituirea Comisiei Locale de Ordine Publica a municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea23_2011.pdf",
+     "sha256": "6bad40d794c529dc2a54e6750d099901d3fc4fe2b7bd8d44ec8ee0aac17f69db"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-43-2011",
    "path": "local/vaslui/husi/2011/43",
    "short": "HCL Huși nr. 43/2011",

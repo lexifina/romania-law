@@ -3,6 +3,186 @@
  "shard": "local/bihor/salonta/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--salonta-106-2022",
+   "path": "local/bihor/salonta/2022/106",
+   "short": "HCL Salonta nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 106/2022 Privind aprobarea PUZ pentru „ PUZ pentru „ Înființare unitate procesare produse agricole FNC și moară ”, jud. Bihor, Mun. Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/28-aprilie-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-106-PUZ-erdei.pdf",
+     "sha256": "7eec7c16484e5f55496d3c122eb973041ddeadcc4197597747b04fd1fd1273e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-110-2022",
+   "path": "local/bihor/salonta/2022/110",
+   "short": "HCL Salonta nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 110/2022 privind actualizarea Planului de Mobilitate Urbană Durabilă 2017-2023 pentru Municipiul Salonta Consiliul Local al Municipiului Salonta întrunit de îndată, în ședință extraordinară  Examinând proiectul de hotărâre privind actualizarea Planului de Mobilitate Urbană Durabilă 2017-2023 pentru Municipiul Salonta;  Recunoscând oportunitățile de dezvoltare durabilă a Municipiului Salonta prin contract",
+   "url": "https://salonta.net/ro/hotarari/16-mai-2022/",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-110-actualizare-Plan-Mobilitate-Urbana-Durabila-2017-2023-PMUD.pdf",
+     "sha256": "2831ecb5daee3f785a98b193f69bb29fd5f27df3cce43edace7b0f50eec90732"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-116-2022",
+   "path": "local/bihor/salonta/2022/116",
+   "short": "HCL Salonta nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 116/2022 privind actualizarea Planului de Mobilitate Urbană Durabilă 2017-2023 pentru Municipiul Salonta Consiliul Local al Municipiului Salonta întrunit de îndată, în ședință extraordinară  Examinând proiectul de hotărâre privind actualizarea Planului de Mobilitate Urbană Durabilă 2017-2023 pentru Municipiul Salonta;  Recunoscând oportunitățile de dezvoltare durabilă a Municipiului Salonta prin contract",
+   "url": "https://salonta.net/ro/hotarari/17-mai-2022/",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-116-actualizare-2-Plan-Mobilitate-Urbana-Durabila-2017-2023-PMUD.pdf",
+     "sha256": "a57086a43e3a143fd5f885fb222f12a689243f8a57db509702f3fcf528b99e04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-12-2022",
+   "path": "local/bihor/salonta/2022/12",
+   "short": "HCL Salonta nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 12/2022",
+   "url": "https://salonta.net/ro/hotarari/27-ianuarie-2022/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/27-ianuarie-2022/",
+     "sha256": "854ab565e3a0efcfc8128b21713786c5c9967bc0cf3a645e93258666b3fcee10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-121-2022",
+   "path": "local/bihor/salonta/2022/121",
+   "short": "HCL Salonta nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 121/2022 privind aprobarea „Strategiei de stabilire, modificare și/sau ajustare a prețurilor și tarifelor pentru serviciile publice de alimentare cu apă și de canalizare, pentru perioada 2022-2027” Consiliul Local al Municipiului Salonta întrunit în ședință ordinară, • Examinând Proiectul de hotărâre privind aprobarea „Strategiei de stabilire, modificare și/sau ajustare a prețurilor și tarifelor pentru ser",
+   "url": "https://salonta.net/ro/hotarari/31-mai-2022/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.121-Strategia-preturi-si-tarife-apacanalizare-2022-2027.pdf",
+     "sha256": "2fe03b506b1833da2500d40706579c5486d977ac15ecad07870b007cb3c0d595"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-13-2022",
+   "path": "local/bihor/salonta/2022/13",
+   "short": "HCL Salonta nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 13/2022 privind aprobarea Regulamentului de organizare și desfășurare a evaluării managementului din cadrul Complexului Muzeal din Municipiul Salonta Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre pentru aprobarea Regulamentului de organizare și desfășurare a evaluării managementului din cadrul Complexului Muzeal din Municipiul Salonta; • Reținând R",
+   "url": "https://salonta.net/ro/hotarari/27-ianuarie-2022/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-13-Regulament-evaluare-Complex-Muzeal.pdf",
+     "sha256": "9db0250d631b200307e82d533c34e28ff0917ab26e6ceba9677927ed51a068f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-139-2022",
+   "path": "local/bihor/salonta/2022/139",
+   "short": "HCL Salonta nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 139/2022 Privind aprobarea PUZ – „Construire hipermarket Kaufland și construcții anexe (container prefabricat fast food “Imbiss“, terasă acoperită clienți , boxă de reciclare, post trafo, bazin rezervă incendiu) amenajări exterioare incintă (platformă parcare, spații verzi, drumuri , trotuare), accese rutiere și pietonale, racorduri la drumuri publice, împrejmuire teren , organizare de șantier, branșamente",
+   "url": "https://salonta.net/ro/hotarari/30-iunie-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.139-PUZ-Kaufland.pdf",
+     "sha256": "cafade77e999fdf2e4c44f51e6d3dea67e9e8aab9e71bb0dc93152f0417ee27a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-14-2022",
+   "path": "local/bihor/salonta/2022/14",
+   "short": "HCL Salonta nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 14/2022 Privind îndreptarea erorii materiale la HCLMS 224/30-12-2021 privind aprobarea taxelor locale pentru închiriere / concesionare / ocupare domeniu public sau privat pentru anul 2022, Anexa 2 pct. 11 privind ”Terenuri cu destinația de: curți construcții” Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre îndreptarea erorii materiale la HCLMS 224/30",
+   "url": "https://salonta.net/ro/hotarari/27-ianuarie-2022/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-14-referitor-la-HCLMS-taxe-inchirieire-concesionare-2022.pdf",
+     "sha256": "6c81b6055a1d2e4126d3ffb058289b37518537658ceb3402c29fc322afbc6583"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-162-2022",
+   "path": "local/bihor/salonta/2022/162",
+   "short": "HCL Salonta nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 162/2022 Privind completarea Regulamentului de organizare a pășunatului pe raza administrativ-teritorială a Municipiului Salonta aprobat prin HCLMS 116/09.07.2015 Consiliul Local al Municipiului Salonta întrunit în ședință ordinară, • Examinând Proiectul de hotărâre privind completarea Regulamentului de organizare a pășunatului pe raza administrativ-teritorială a Municipiului Salonta aprobat prin HCLMS 116",
+   "url": "https://salonta.net/ro/hotarari/31-august-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-162-completare-Regulament-organizare-a-pasunatului.pdf",
+     "sha256": "e8b1ad7845a641b8469a16109e2829645959a937911afb617db8584f00644a1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-163-2022",
+   "path": "local/bihor/salonta/2022/163",
+   "short": "HCL Salonta nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 163/2022 Privind aprobarea Regulamentului privind stabilirea unor măsuri pentru gospodărirea Municipiului Salonta, precum și a faptelor ce constituie contravenții, constatarea și sancționarea acestora Consiliul Local al Municipiului Salonta întrunit în ședință ordinară, • Examinând Proiectul de hotărâre privind aprobarea Regulamentului privind stabilirea unor măsuri pentru gospodărirea Municipiului Salonta",
+   "url": "https://salonta.net/ro/hotarari/31-august-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-163-Regulament-masuri-gospodarire-contraventii.pdf",
+     "sha256": "03c15b8c8285a5b25c0f86c07dbeebc9460de458fe71a967b0ed70d95d1e8867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-175-2022",
+   "path": "local/bihor/salonta/2022/175",
+   "short": "HCL Salonta nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 175/2022 Privind ajustarea tarifară a prețului și tarifului pentru serviciile de alimentare cu apă și canalizare pentru Municipiul Salonta, județul Bihor – operator SC Aqua Nova Hargita SRL Consiliul Local al Municipiului Salonta întrunit în ședință ordinară, • Examinând Proiectul de hotărâre privind ajustarea tarifară a prețului și tarifului pentru serviciile de alimentare cu apă și canalizare pentru Muni",
+   "url": "https://salonta.net/ro/hotarari/31-august-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-175-ajustare-tarifara.pdf",
+     "sha256": "58dd826ceb446cc6f1b3c5904c4c24ca6559ea9307f172581f6b289f1a6d0226"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-203-2022",
+   "path": "local/bihor/salonta/2022/203",
+   "short": "HCL Salonta nr. 203/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 203/2022 Privind aprobarea modificării și completării „ Regulamentului privind realizarea, repartizarea, închirierea, exploatarea și administrarea locuințelor sociale și de necesitate din Municipiul Salonta” Consiliul Local al Municipiului Salonta întrunit în ședință ordinară, • Examinând proiectul de hotărâre privind aprobarea modificării și completării „ Regulamentului privind realizarea, repartizarea, î",
+   "url": "https://salonta.net/ro/hotarari/29-septembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl.203-completarea-Regulament-Locuinte-sociale.pdf",
+     "sha256": "48a0cdcec870b729682580219adda92c997d39f6785dcabda1885329da635dea"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-227-2022",
    "path": "local/bihor/salonta/2022/227",
    "short": "HCL Salonta nr. 227/2022",
@@ -14,6 +194,21 @@
      "units": 1,
      "source_url": "https://salonta.net/wp-content/uploads/hcl.227-Serviciu-adapost-caini.pdf",
      "sha256": "f8546e5c988985d9791d75a2e329f9117378d44cc0b76f90170a78b8b671d747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-236-2022",
+   "path": "local/bihor/salonta/2022/236",
+   "short": "HCL Salonta nr. 236/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 236/2022 Privind completarea și republicarea Regulamentului de organizare și desfășurare a concursului de proiecte de management, la concursurile organizate pentru ocuparea postului de manager la instituțiile publice de cultură din Municipiul Salonta, aprobat prin HCLMS nr 126/11.07.2019 Consiliul Local al Municipiului Salonta întrunit în ședință ordinară, • Examinând proiectul de hotărâre privind completa",
+   "url": "https://salonta.net/ro/hotarari/27-octombrie-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl.236-completare-Reg.-Casa-de-cultura.pdf",
+     "sha256": "d7a489066653618f46c1d6791bf3dd35637f5e2ea48ea8849e59f8b177604e85"
     }
    ]
   },
@@ -33,6 +228,156 @@
    ]
   },
   {
+   "slug": "hcl-bihor--salonta-250-2022",
+   "path": "local/bihor/salonta/2022/250",
+   "short": "HCL Salonta nr. 250/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 250/2022 privind aprobarea executări de lucrări pe domeniul public în raport cu proiectul: ”Construire hipermarket Kaufland și construcții amenajări exterioare incintă, accese rutiere și pietonale, racorduri la drumuri publice, împrejmuire teren, organizare de șantier, branșamente la utilității și rețele instalatii, amplasare elemente publicitare, pilon totem, bariere de acces auto conform PUZ aprobat prin",
+   "url": "https://salonta.net/ro/hotarari/14-noiembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl.-250-aprobare-lucrari-domeniu-public-Kaufland.pdf",
+     "sha256": "73f0ce36549880e8ed1b605b05759e6fbe10d2ea5daf38ec4d6f1bd17a305331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-257-2022",
+   "path": "local/bihor/salonta/2022/257",
+   "short": "HCL Salonta nr. 257/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 257/2022 Privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile aplicabile pentru anul 2023 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile apl",
+   "url": "https://salonta.net/ro/hotarari/29-noiembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl.-257-valori-impozabile-2023.pdf",
+     "sha256": "97a98e146f28bdec262c519c9e78a9e813840ec87b1902f21347c226abc2ca91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-261-2022",
+   "path": "local/bihor/salonta/2022/261",
+   "short": "HCL Salonta nr. 261/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 261/2022 Privind aprobarea Regulamentului de Organizare Funcționare al aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Regulamentului de Organizare Funcționare al aparatului de specialitate al Primarului Municipiului Salonta. • Reținând Referatul de aprobare nr. 7666 din data de 10.11.2022 al Primarul",
+   "url": "https://salonta.net/ro/hotarari/29-noiembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl.-261-ROF.pdf",
+     "sha256": "0cea92a5385547e8744bc23301e567ed60d88237f009dbbcdc84f91411c03062"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-278-2022",
+   "path": "local/bihor/salonta/2022/278",
+   "short": "HCL Salonta nr. 278/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 278/2022",
+   "url": "https://salonta.net/ro/hotarari/21-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/21-decembrie-2022/",
+     "sha256": "cf5b6bf3673a2ca3b60c25c85a37bb16236d553442ef11f0b7a6b379700a2ce6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-280-2022",
+   "path": "local/bihor/salonta/2022/280",
+   "short": "HCL Salonta nr. 280/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 280/2022 Privind aprobarea taxelor locale pentru închiriere/concesionare/ocupare domeniu public sau privat pentru anul 2023 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea taxelor locale pentru închiriere/concesionare/ocupare domeniu public sau privat pentru anul 2023;  Reținând Referatul de aprobare nr. 7874 din data de 18.11.2022 al Primarului Municipiului Sa",
+   "url": "https://salonta.net/ro/hotarari/21-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl.-280-taxe-locale-2023.pdf",
+     "sha256": "8d0a5a7e8a283907ece104ca7ef9262dc40b4669d4e682cadcdbaba2dc4c6437"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-294-2022",
+   "path": "local/bihor/salonta/2022/294",
+   "short": "HCL Salonta nr. 294/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 294/2022 Pentru aprobarea Regulamentului privind administrarea, întreținerea și utilizarea Bazinului de înot didactic situat în Municipiul Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre pentru aprobarea Regulamentului privind administrarea, întreținerea și utilizarea Bazinului de înot didactic situat în Municipiul Salonta; • Reținând Referatul de aprobare nr. 6141 din da",
+   "url": "https://salonta.net/ro/hotarari/21-decembrie-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl.-294-Regulament-Bazin-inot.pdf",
+     "sha256": "1843ca9a537bc7ee4e9a44064623e7a1b4a7b1b7b8988b16ed24b31ac8cd1280"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-35-2022",
+   "path": "local/bihor/salonta/2022/35",
+   "short": "HCL Salonta nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 35/2022 Privind aprobarea PUZ – „ Demolare corp C1 și construire imobil birouri parter”, județul Bihor, Municipiul Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/24-februarie-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-35-PUZ-demolare-C1-str.-Kossuth.pdf",
+     "sha256": "9e13fc28697cce715f05364449d710ecbd4761b9efc478f008cbdf5b74be4374"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-36-2022",
+   "path": "local/bihor/salonta/2022/36",
+   "short": "HCL Salonta nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 36/2022 Privind aprobarea PUZ – „Extindere zonă comercială pentru spații comerciale și spații de depozitare ”, județul Bihor, Municipiul Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/24-februarie-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-36-PUZ-extindere-zona-comerciala-SC-Mirus.pdf",
+     "sha256": "5b30baeccc7f0064c951e6afb3eaf854ee9bb59d8324f8cee96a3f8ea9e5fa1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-5-2022",
+   "path": "local/bihor/salonta/2022/5",
+   "short": "HCL Salonta nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 5/2022 Privind aprobarea Regulamentului pentru eliberarea Acordului de funcționare, a Autorizației pentru alimentație publică și a Orarului de funcționare Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre privind aprobarea Regulamentului pentru eliberarea Acordului de funcționare, a Autorizației pentru alimentație publică și a Orarului de funcționare",
+   "url": "https://salonta.net/ro/hotarari/27-ianuarie-2022/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-5-Acord-Orar.pdf",
+     "sha256": "b1b5b2cb4b99a9f07cfa8f0ee028e2b39d2d943ee6426c9933e272fa567d522f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-60-2022",
+   "path": "local/bihor/salonta/2022/60",
+   "short": "HCL Salonta nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 60/2022 privind aprobarea „Regulamentului de vânzare a locuinţelor de tip ANL”",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-60-R-Regulament-vanzare-ANL.pdf",
+     "sha256": "6a0f860892008929313adc44802073a01f13e780783a16ef02262e1311777691"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-61-2022",
    "path": "local/bihor/salonta/2022/61",
    "short": "HCL Salonta nr. 61/2022",
@@ -44,6 +389,66 @@
      "units": 1,
      "source_url": "https://salonta.net/wp-content/uploads/hot.-61-R-cf.HCL-119-Regulament-L.S.-cf.-HCLMS-nr.202-din-29.09.2022.pdf",
      "sha256": "154becc0197e4a61444d11583d66404499fb533c722b9c2c89b8824ed9ab5e11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-65-2022",
+   "path": "local/bihor/salonta/2022/65",
+   "short": "HCL Salonta nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 65/2022 Privind aprobarea PUZ – „ Amenajare teren minifotbal și servicii aferente: Bar, vestiar, grupuri sanitare ”, jud. Bihor, Mun. Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/31-martie-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-65-PUZ-teren-minifotbal-str-Marasesti-11.pdf",
+     "sha256": "6cf3bc46400e741562e4b8db403dcbc40520ba5843b381760437479649c2fdd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-66-2022",
+   "path": "local/bihor/salonta/2022/66",
+   "short": "HCL Salonta nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 66/2022 Privind aprobarea PUZ pentru „ Construire spălătorie camioane, construire atelier reparații camioane și stație ITP, construire hală de depozitare ”, jud. Bihor, Mun. Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/31-martie-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-66-PUZ-spalatorie-camioane-str.Ghestului-5.pdf",
+     "sha256": "7b9ac05d87774e5955d6157c149f8495590e9da2e603966c754b69712c1cb390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-67-2022",
+   "path": "local/bihor/salonta/2022/67",
+   "short": "HCL Salonta nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 67/2022 Privind aprobarea PUZ pentru „ Demolare corp C1 și Construire spălătorie auto self service , amenajare incintă , anexe, parcaje și împrejmuire teren ”, jud. Bihor, Mun. Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/31-martie-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-67-PUZ-spalatorie-auto-self-str.-Tincii-nr.42.pdf",
+     "sha256": "56a16c4a19f0ffb9d00c40a9caec2841b61c7ae7aabca5e9a0e8dac86b4eff17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-83-2022",
+   "path": "local/bihor/salonta/2022/83",
+   "short": "HCL Salonta nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 83/2022 Privind aprobarea PUZ pentru „ Extindere hală de producție și depozitare ”, jud. Bihor, Mun. Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/12-aprilie-2022/",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-83-PUZ-CTPARK.pdf",
+     "sha256": "99d278ac2462bb28e8392741c49826892d4611aa3604f2f4d6c14cee99450e0f"
     }
    ]
   }

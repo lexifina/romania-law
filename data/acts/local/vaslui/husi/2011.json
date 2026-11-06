@@ -3,6 +3,28 @@
 "shard": "local/vaslui/husi/2011",
 "acts": [
 {
+"slug": "hcl-vaslui--husi-23-2011",
+"path": "local/vaslui/husi/2011/23",
+"kind": "local",
+"year": "2011",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 23/2011 privind constituirea Comisiei Locale de Ordine Publica a municipiului Husi",
+"short": "HCL Huși nr. 23/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-01-27",
+"latest": "2011-01-27",
+"portal": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-vaslui--husi-43-2011",
 "path": "local/vaslui/husi/2011/43",
 "kind": "local",

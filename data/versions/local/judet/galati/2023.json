@@ -3,6 +3,36 @@
  "shard": "local/judet/galati/2023",
  "acts": [
   {
+   "slug": "hcj-galati-102-2023",
+   "path": "local/judet/galati/2023/102",
+   "short": "HCJ Galați nr. 102/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 102/2023 privind aprobarea „Planului de menținere a calității aerului în județul Galați 2019- 2023”; Având în vedere prevederile Legii nr. 104/15.06.2011 privind calitatea aerului înconjurător, cu modificările și completările ulterioare; Având în vedere prevederile art. 49 din Metodologia de elaborare a planurilor de calitate a aerului, a planurilor de acțiune pe termen scurt și a planurilor de menținere a",
+   "url": "https://cjgalati.ro/hotararea-nr-1007/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2023/hot102-290323.pdf",
+     "sha256": "06c0130c5b356bf1aee4c3d64cc7f3d9c9cefcae04df045ebe1d9f05892bbe2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-120-2023",
+   "path": "local/judet/galati/2023/120",
+   "short": "HCJ Galați nr. 120/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 120/2023",
+   "url": "https://cjgalati.ro/hotararea-nr-1028-1/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2023/hot120-290323.pdf",
+     "sha256": "55b8a4a9f9967b0faa4460d0e99b6b1387ae83a9ed942968a1e8cb6c73b8dfea"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-205-2023",
    "path": "local/judet/galati/2023/205",
    "short": "HCJ Galați nr. 205/2023",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/images/stories/hotarari2023/hot205-300523.pdf",
      "sha256": "8e65f26b7a432c7074911c6800ccd19c16d8aa44c6d621e789a2f243eff28d71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-271-2023",
+   "path": "local/judet/galati/2023/271",
+   "short": "HCJ Galați nr. 271/2023",
+   "title": "Hotărârea Consiliului Județean Galați nr. 271/2023",
+   "url": "https://cjgalati.ro/hotararea-nr-1181/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2023/hot271-270723.pdf",
+     "sha256": "84c05d321c7c7cbe793a9e3569ac20ffa5af0f850b56529c83b4216935250590"
     }
    ]
   },

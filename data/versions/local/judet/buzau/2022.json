@@ -2283,6 +2283,36 @@
    ]
   },
   {
+   "slug": "hcj-buzau-42-2022",
+   "path": "local/judet/buzau/2022/42",
+   "short": "HCJ Buzău nr. 42/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 42/2022 privind însuşirea Planului Strategic al Autorităţii Teritoriale de Ordine Publică a Judeţului Buzău pentru anul 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/02/Hot%C4%83r%C3%A2rea-nr.42-din-2022.pdf",
+     "sha256": "8a7f0435046d84e3022042c29732cf92c8b37897b41eccfb141a227176ea742a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-44-2022",
+   "path": "local/judet/buzau/2022/44",
+   "short": "HCJ Buzău nr. 44/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 44/2022 pentru aprobarea modificării contractelor de delegare a gestiunii unor activități către Societatea „Domenii Prest” SRL Buzău precum și aprobarea tarifelor/prețurilor pentru prestațiile societății în baza contractelor de delegare * Modificată prin Hotărârea nr.176 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/02/Hot%C4%83r%C3%A2rea-nr.44-din-2022.pdf",
+     "sha256": "f0f8b32fd19587ae0185578c17f2109595ee2f0b638ba72f6485f49a071d27c3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-561-2022",
    "path": "local/judet/buzau/2022/561",
    "short": "HCJ Buzău nr. 561/2022",
@@ -2309,6 +2339,51 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/04/Hot%C4%83r%C3%A2rea-nr.72-din-2022.pdf",
      "sha256": "157a28fdfc490f5df5f0a283c9dd1a7d35e4c84f9706d23e71a88437c91dd5af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-76-2022",
+   "path": "local/judet/buzau/2022/76",
+   "short": "HCJ Buzău nr. 76/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 76/2022 pentru aprobarea Regulamentului privind circulația pe drumurile publice județene a vehiculelor rutiere cu greutăți și/sau dimensiuni de gabarit care depășesc limitele maxime prevăzute de Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare și exercitarea controlului, constatarea și aplicarea sancțiunilor de către împuterniciții Consil",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/04/Hot%C4%83r%C3%A2rea-nr.76-din-2022.pdf",
+     "sha256": "373461640d68db90a9877aa71578c9d67cdf98978f025a6d97f5900d6c9f9e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-77-2022",
+   "path": "local/judet/buzau/2022/77",
+   "short": "HCJ Buzău nr. 77/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 77/2022 pentru aprobarea modificării tarifelor de călătorie la bilete și abonamente pe traseele pe care efectuează transport rutier public județean de persoane prin curse regulate operatorul de transport SC ELA TRANS SRL",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/04/Hot%C4%83r%C3%A2rea-nr.77-din-2022.pdf",
+     "sha256": "26a8bd38142ae3a63dfda8aefa2756af75348cb78a825b88ac2e8ff795563672"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-78-2022",
+   "path": "local/judet/buzau/2022/78",
+   "short": "HCJ Buzău nr. 78/2022",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 78/2022 pentru aprobarea modificării tarifelor de călătorie la bilete și abonamente pe traseele pe care efectuează transport rutier public județean de persoane prin curse regulate operatorul de transport SC ȘAMPION SRL",
+   "url": "http://cjbuzau.ro/hotarari-cj-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2022/04/Hot%C4%83r%C3%A2rea-nr.78-din-2022.pdf",
+     "sha256": "b73f70389241e567c71e1a05ff09c9c65ea8f12a9fce2800a60a63075d8e1103"
     }
    ]
   }

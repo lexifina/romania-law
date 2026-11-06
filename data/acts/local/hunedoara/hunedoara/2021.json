@@ -465,6 +465,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--hunedoara-395-2021",
+"path": "local/hunedoara/hunedoara/2021/395",
+"kind": "local",
+"year": "2021",
+"number": "395",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 395/2021 privind stabilirea impozitelor și taxelor locale pe anul 2022",
+"short": "HCL Hunedoara nr. 395/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-10",
+"latest": "2021-12-10",
+"portal": "https://emol.ro/hunedoara-hd/registru-hcl/44590",
+"council": "hunedoara/hunedoara",
+"council_name": "Consiliul Local al Municipiului Hunedoara",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-hunedoara--hunedoara-399-2021",
 "path": "local/hunedoara/hunedoara/2021/399",
 "kind": "local",

@@ -93,6 +93,29 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-61-2021",
+"path": "local/prahova/campina/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 61/2021",
+"short": "HCL Câmpina nr. 61/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-28",
+"latest": "2021-04-28",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--campina-62-2021",
 "path": "local/prahova/campina/2021/62",
 "kind": "local",
@@ -102,6 +125,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 62/2021 pentru aprobarea Regulamentului privind identificarea și stabilirea criteriilor de încadrare a clădirilor și terenurilor în categoria imobilelor neîngrijite, situate în intravilanul Municipiului Câmpina, în vederea majorării impozitului cu până la 500% pentru acestea Având în vedere referatul de aprobare nr.17.055/21 aprilie 2021 al d-lui Moldoveanu Ioan-Alin - Primarul Municipiului Câmpina, prin",
 "short": "HCL Câmpina nr. 62/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-28",
+"latest": "2021-04-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-68-2021",
+"path": "local/prahova/campina/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 68/2021 privind aprobarea Planului Urbanistic Zonal „PUZ – Schimbare parțială destinație (pentru Nr.Cadastral 25375) din C1-zona căi de circulație rutieră (S=205,3 mp) în IS2 – zona instituții și servicii și din SP3-zonă spații verzi plantații de protecție (S=568,7 mp) în IS2-zonă instituții și servicii și (pentru Nr.Cadastral 28416) din C1-zonă căi de circulație (S=80,90 mp) în IS2-zonă instituții și ser",
+"short": "HCL Câmpina nr. 68/2021",
 "code": null,
 "status": "metadata only (text not yet included)",
 "versions": 1,

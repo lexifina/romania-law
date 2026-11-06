@@ -3,6 +3,66 @@
  "shard": "local/alba/sebes/2026",
  "acts": [
   {
+   "slug": "hcl-alba--sebes-112-2026",
+   "path": "local/alba/sebes/2026/112",
+   "short": "HCL Sebeș nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 112/2026 privind alegerea preşedintelui de şedinţă pentru perioada 12 mai 2026 – 11 august 2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/05/hcl-112-site.pdf",
+     "sha256": "299dfc825bc257bc85c455f7a83d3ce67a6b47cdbbefcedea3cfabd542976055"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-13-2026",
+   "path": "local/alba/sebes/2026/13",
+   "short": "HCL Sebeș nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 13/2026 privind alegerea președintelui de ședință pentru perioada 29 ianuarie 2026-29 aprilie 2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/02/HCL-13-site.pdf",
+     "sha256": "1f5687376e3e49346a2d309c3555ac75c4146c82be908029169f27bda45e9199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-193-2026",
+   "path": "local/alba/sebes/2026/193",
+   "short": "HCL Sebeș nr. 193/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 193/2026 privind aprobarea Contului de execuție al Bugetului general centralizat al Municipiului Sebeș la 30.06.2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/08/hcl-193-site.pdf",
+     "sha256": "83a12037949c08dedefe62a9f2642045715407ed7cd5dd8b499fd7c8a5e8affd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-205-2026",
+   "path": "local/alba/sebes/2026/205",
+   "short": "HCL Sebeș nr. 205/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 205/2026 privind alegerea președintelui de ședință pentru ședința extraordinară din data de 17.08.2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/08/hcl-205-site.pdf",
+     "sha256": "0c5f2774d9ae6e4a41e3ce56166802aced3beeed5c48201fa90602aa283c7ad6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-207-2026",
    "path": "local/alba/sebes/2026/207",
    "short": "HCL Sebeș nr. 207/2026",
@@ -14,6 +74,96 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/08/hcl-207-site.pdf",
      "sha256": "031c9c0257ddf69b6e93dc1a05b0e78c8090dd28134243554e3183516eace97e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-211-2026",
+   "path": "local/alba/sebes/2026/211",
+   "short": "HCL Sebeș nr. 211/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 211/2026 privind alegerea președintelui de ședință, pentru ședința ordinară din data de 31 august 2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/09/hcl-211-site.pdf",
+     "sha256": "62bc08dcdc625bd9bf86987011768aa1c5fea528483523c001a4d240fd524547"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-239-2026",
+   "path": "local/alba/sebes/2026/239",
+   "short": "HCL Sebeș nr. 239/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 239/2026 privind alegerea președintelui de ședință, ședințele din data de 25.09.2026 și din data de 30.09.2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/09/hcl-239-site.pdf",
+     "sha256": "f37fc6d8c3cd57f646aa982df562c5facefb926962f7a2424e6e0b05b313f828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-255-2026",
+   "path": "local/alba/sebes/2026/255",
+   "short": "HCL Sebeș nr. 255/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 255/2026 privind acordarea normei de hrană personalului din cadrul Direcția Poliţia Locală a Municipiului Sebeş, pentru perioada 01 octombrie 2026 – 28 februarie 2027",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/10/hcl-255-site.pdf",
+     "sha256": "58b3713fa4f7f62abd6c1c0d9c44ddff4049c66e61736b9ac2151a25bba0d482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-269-2026",
+   "path": "local/alba/sebes/2026/269",
+   "short": "HCL Sebeș nr. 269/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 269/2026 privind alegerea președintelui de ședință pentru ședința ordinară din data de 29.10.2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/11/hcl-269-site.pdf",
+     "sha256": "a196e1d074ab41b34c43f822be5c7e2371fa5134fd9389d406915976904844cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-287-2026",
+   "path": "local/alba/sebes/2026/287",
+   "short": "HCL Sebeș nr. 287/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 287/2026 privind aprobarea Contului de execuție al Bugetului general centralizat al Municipiului Sebeș la 30.09.2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/11/hcl-287-site.pdf",
+     "sha256": "ad9e15b1b6c2dc9787831fd756a4f4cc2efe790a142debcb01cf5043d9674815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-91-2026",
+   "path": "local/alba/sebes/2026/91",
+   "short": "HCL Sebeș nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 91/2026 privind alegerea președintelui de ședință, pentru ședința ordinară din data de 30.04.2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/05/hcl-91-site.pdf",
+     "sha256": "4586192b84cc192188411c4bfac39d18f4c4c028a53c5346c747013d16b021e2"
     }
    ]
   }

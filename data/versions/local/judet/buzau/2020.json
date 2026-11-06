@@ -858,6 +858,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-17-2020",
+   "path": "local/judet/buzau/2020/17",
+   "short": "HCJ Buzău nr. 17/2020",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 17/2020 pentru anul 2020 al Autorității Teritoriale de Ordine Publică a Județului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2020/01/Hot%C4%83r%C3%A2rea-nr.-17.pdf",
+     "sha256": "a1de9efcaa45450ea967174ad70e5c6a4fc953687b322a5b25478c78605e1c99"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-171-2020",
    "path": "local/judet/buzau/2020/171",
    "short": "HCJ Buzău nr. 171/2020",
@@ -1158,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-3-2020",
+   "path": "local/judet/buzau/2020/3",
+   "short": "HCJ Buzău nr. 3/2020",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 3/2020 privind aprobarea Metodologiei de redactare și circulație a proiectelor de hotărâri ale Consiliului Județean și a dispozițiilor Președintelui – forma actualizată conform Codului Administrativ",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2020/01/Hot%C4%83r%C3%A2rea-nr.3.pdf",
+     "sha256": "d495d97ca740e0ed026ba5ab518ebfda33597fbfff3a29a0897d4e084d5d680a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-48-2020",
    "path": "local/judet/buzau/2020/48",
    "short": "HCJ Buzău nr. 48/2020",
@@ -1259,6 +1289,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2020/03/55.-Pr-HCJ-solicitare-CAMS-Pogoanele.pdf",
      "sha256": "169810deb488c8a780f4fd552218cdc1132d80f7d6b2fe6cd888970bc0f621a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-56-2020",
+   "path": "local/judet/buzau/2020/56",
+   "short": "HCJ Buzău nr. 56/2020",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 56/2020 privind aprobarea Procedurii de închiriere a bunurilor imobile din domeniul public și privat al Județului Buzău, aflate în administrarea Consiliului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2020/03/hot%C4%83r%C3%A2re-Procedur%C4%83-%C3%AEnchiriere.pdf",
+     "sha256": "c6a4248a9010df4cdb14fc514f1f9eef0477ea805e6ffb36056498669953ce69"
     }
    ]
   },

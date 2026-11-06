@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-31-2018",
+   "path": "local/hunedoara/vulcan/2018/31",
+   "short": "HCL Vulcan nr. 31/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 31/2018",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2018-0000118e?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/A051357F635CFEA2C225827800272847/$FILE/HCL%2031.pdf",
+     "sha256": "e8096bce4b4c2855dee4cf151754bf4729cf97580ba8d855ede5e62f695b8486"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-32-2018",
+   "path": "local/hunedoara/vulcan/2018/32",
+   "short": "HCL Vulcan nr. 32/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 32/2018",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2018-0000118e?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/D006D911EC72D3F2C225827800272850/$FILE/HCL%2032.pdf",
+     "sha256": "0e5721bd5187f8fbeaa1f2a13a531e4173db5895b6e53eecffd00496463c38a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-33-2018",
+   "path": "local/hunedoara/vulcan/2018/33",
+   "short": "HCL Vulcan nr. 33/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 33/2018",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2018-0000118e?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/0405CC7A619F46B4C225827800272858/$FILE/HCL%2033.pdf",
+     "sha256": "5ecfdd801d5a69c98cc5cf66159d30c4dbae54cd25ef8af00fb397f20371ea6f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-44-2018",
    "path": "local/hunedoara/vulcan/2018/44",
    "short": "HCL Vulcan nr. 44/2018",

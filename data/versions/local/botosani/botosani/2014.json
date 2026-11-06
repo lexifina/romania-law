@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-142-2014",
+   "path": "local/botosani/botosani/2014/142",
+   "short": "HCL Botoșani nr. 142/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 142/2014 privind stabilirea taxelor si impozitelor locale pentru anul 2015Publicarea pe site: 28 mai 2014 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2014-05-16",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/142.pdf",
+     "sha256": "f2309aa6d3ee82e60d6b9d2be8f168a235d79f3fc53ad1d5075ec546605309bb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-150-2014",
    "path": "local/botosani/botosani/2014/150",
    "short": "HCL Botoșani nr. 150/2014",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2014/279.pdf",
      "sha256": "dc65dc3d9d9d6261bdafdda85c92b64b39f0b9aafc827c09b6aae30060edd071"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-294-2014",
+   "path": "local/botosani/botosani/2014/294",
+   "short": "HCL Botoșani nr. 294/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 294/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2014/294.pdf",
+     "sha256": "c4b2d6b0ff80ed731889055286d33948abf37cc092b0422e5baab831fd20101c"
     }
    ]
   },

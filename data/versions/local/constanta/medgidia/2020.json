@@ -3,6 +3,36 @@
  "shard": "local/constanta/medgidia/2020",
  "acts": [
   {
+   "slug": "hcl-constanta--medgidia-102-2020",
+   "path": "local/constanta/medgidia/2020/102",
+   "short": "HCL Medgidia nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 102/2020 privind aprobare Plan Urbanistic Zonal – construire Bază sportivă tip I, municipiul Medgidia, județul Constanța Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință extraordinară în data de 18 august 2020, având în vedere: - proiectul de hotărăre nr. 113 și inițiativa exprimată în referatul de aprobare a",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2020/08/HCL-NR.-102-din-18.08.2020.pdf",
+     "sha256": "958a848b74c2bc0b1bad970284b05c425cebc384429b614e3688787fb764842c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-115-2020",
+   "path": "local/constanta/medgidia/2020/115",
+   "short": "HCL Medgidia nr. 115/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 115/2020 privind aprobarea privind actualizarea contribuției și a standardelor de cost pentru serviciul de îngrijire persoane vârstnice la domiciliu, în funcție de nivelul venitului net lunar/membru de familie și gradul de dependență începând cu 01.11.2020 Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordi",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2021/01/HCL-NR.-115-din-26.11.2020.pdf",
+     "sha256": "09feee7c24fa55ba3eeb0f91c857f4ffedfb5f6ff480a236a1e6bf1340d71b2f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--medgidia-124-2020",
    "path": "local/constanta/medgidia/2020/124",
    "short": "HCL Medgidia nr. 124/2020",
@@ -33,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--medgidia-41-2020",
+   "path": "local/constanta/medgidia/2020/41",
+   "short": "HCL Medgidia nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 41/2020 privind stabilirea modului în care este suportat comisionul bancar în urma plății online a obligațiilor de plată impozite și taxe locale utilizând cardul bancar în Ghiseul.ro –Sistem Național Electronic de Plată Online Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință extraordinară în data de 15 mai 2",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2020/05/HCL-NR-41-din-15.05.2020.pdf",
+     "sha256": "83b54b737b0c353dae88dcf22a99da2c49eaa8297fc6ce2b76fd84c76257e353"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--medgidia-42-2020",
    "path": "local/constanta/medgidia/2020/42",
    "short": "HCL Medgidia nr. 42/2020",
@@ -44,6 +89,81 @@
      "units": 1,
      "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2020/06/HCL-NR-42-din-28.05.2020.pdf",
      "sha256": "19b2ff77b6e085a542fb014ee27304558bf1e55ce87543a2f10a7b2060139b14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-43-2020",
+   "path": "local/constanta/medgidia/2020/43",
+   "short": "HCL Medgidia nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 43/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2020/06/HCL-NR-43-din-28.05.2020.pdf",
+     "sha256": "a7e9e511a815ae2ac56fa242fc8f5917f3dd5da10eab01d6d43206352836d48e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-49-2020",
+   "path": "local/constanta/medgidia/2020/49",
+   "short": "HCL Medgidia nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 49/2020 privind aprobare Plan Urbanistic Zonal – imobil teren- având număr cadastral 106309, situat în intravilanul municipiului Medgidia Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordinară în data de 28 mai 2020, având în vedere: - proiectul de hotărăre nr. 56 și inițiativa exprimată în referatul de a",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2020/06/HCL-NR-49-din-28.05.2020.pdf",
+     "sha256": "3c7fa6d5f74ea41ba39f3f2aa36c490e659c72d2d340006d55b1a17a56f174e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-50-2020",
+   "path": "local/constanta/medgidia/2020/50",
+   "short": "HCL Medgidia nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 50/2020 privind aprobare Plan Urbanistic Zonal - construire extindere corpuri C1 și C2 cu un corp P+2E Spațiu Alimentație publică și Spațiu Cazare Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordinară în data de 28 mai 2020, având în vedere: - proiectul de hotărăre nr. 57 și inițiativa exprimată în refer",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2020/06/HCL-NR-50-din-28.05.2020.pdf",
+     "sha256": "b618b897afaac5c836a0a82e9e6d60cbe86f01cf4053cd1a89f1e72d494ef7e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-61-2020",
+   "path": "local/constanta/medgidia/2020/61",
+   "short": "HCL Medgidia nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 61/2020 privind actualizarea contribuției și a standardelor de cost pentru serviciul de îngrijire persoane vârstnice la domiciliu, în funcție de nivelul venitului net lunar/membru de familie și gradul de dependență începând cu 01.06.2020 Consiliul Local al Municipiului Medgidia, cu sediul în Municipiul Medgidia, strada Decebal numãrul 35, județul Constanța, întrunit legal în ședință ordinară în data de 30",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2020/07/HCL-nr.-61-din-30.06.2020.pdf",
+     "sha256": "a8365518919db938ac5efa52cc7d5ac8745600623fec5f057ef6af9ce9bb8f9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--medgidia-77-2020",
+   "path": "local/constanta/medgidia/2020/77",
+   "short": "HCL Medgidia nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Medgidia nr. 77/2020 privind aprobarea Metodologiei de acordare a unui ajutor financiar familiilor cu copii preșcolari pentru plata serviciilor oferite de bonă Consiliul Local al Municipiului Medgidia, cu sediul în Municipiului Medgidia, strada Decebal 35, județul Constanța, convocat legal în ședința ordinară pentru data de 30 iulie 2020 ora 1700, având în vedere: - proiectul de hotărăre nr. 73 și inițiativa exprimată",
+   "url": "https://primaria-medgidia.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://primaria-medgidia.ro/wp-content/uploads/2020/08/HCL-NR.-77-din-30.07.2020.pdf",
+     "sha256": "a223c7b676471bd5161a410960aec39703151fd53de30f78385d8060d729b415"
     }
    ]
   }

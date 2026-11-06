@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-250-2018",
+   "path": "local/neamt/roman/2018/250",
+   "short": "HCL Roman nr. 250/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 250/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7c895214b31935679b2ac11c7d2a78f777ef469b84e297c009511f5171e578a2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-262-2018",
    "path": "local/neamt/roman/2018/262",
    "short": "HCL Roman nr. 262/2018",

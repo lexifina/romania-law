@@ -3,6 +3,28 @@
 "shard": "local/botosani/botosani/2013",
 "acts": [
 {
+"slug": "hcl-botosani--botosani-6-2013",
+"path": "local/botosani/botosani/2013/6",
+"kind": "local",
+"year": "2013",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 6/2013 privind stabilirea impozitelor si taxelor locale pentru anul 2013 Vizualizare",
+"short": "HCL Botoșani nr. 6/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-01-29",
+"latest": "2013-01-29",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-botosani--botosani-7-2013",
 "path": "local/botosani/botosani/2013/7",
 "kind": "local",
@@ -110,6 +132,28 @@
 "council_name": "Consiliul Local al Municipiului Botoșani",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-135-2013",
+"path": "local/botosani/botosani/2013/135",
+"kind": "local",
+"year": "2013",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 135/2013 privind aprobarea Regulamentului de desfasurare a activitaÅ£ilor in zonele publice din municipiul Botosani Vizualizare",
+"short": "HCL Botoșani nr. 135/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-05-30",
+"latest": "2013-05-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -356,6 +400,72 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-348-2013",
+"path": "local/botosani/botosani/2013/348",
+"kind": "local",
+"year": "2013",
+"number": "348",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 348/2013 privind aprobarea Regulamentului de organizare ºi desfãºurare a concursului de management , caietului de obiective , condiþiilor de participare pentru concursul de ocupare a postului de manager la Teatrul „Mihai Eminescu „ Publicarea pe site: 12 decembrie 2013 Vizualizare",
+"short": "HCL Botoșani nr. 348/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-11-28",
+"latest": "2013-11-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--botosani-349-2013",
+"path": "local/botosani/botosani/2013/349",
+"kind": "local",
+"year": "2013",
+"number": "349",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 349/2013 privind aprobarea Regulamentului de organizare ºi desfãºurare a concursului de management , caietului de obiective , condiþiilor de participare pentru concursul de ocupare a postului de manager la Filarmonica de Stat BotoºaniPublicarea pe site: 12 decembrie 2013 Vizualizare",
+"short": "HCL Botoșani nr. 349/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-11-28",
+"latest": "2013-11-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--botosani-350-2013",
+"path": "local/botosani/botosani/2013/350",
+"kind": "local",
+"year": "2013",
+"number": "350",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 350/2013 privind aprobarea Regulamentului de organizare ºi desfãºurare a concursului de management , caietului de obiective , condiþiilor de participare pentru concursul de ocupare a postului de manager la Teatrul pentru Copii si Tineret „Vasilache „Publicarea pe site: 12 decembrie 2013 Vizualizare",
+"short": "HCL Botoșani nr. 350/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-11-28",
+"latest": "2013-11-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

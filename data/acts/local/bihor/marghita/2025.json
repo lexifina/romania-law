@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-bihor--marghita-157-2025",
+"path": "local/bihor/marghita/2025/157",
+"kind": "local",
+"year": "2025",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 157/2025 privind aprobarea acordului de parteneriat cu Direcția Generală de Asistență Socială și Protecția Copilului Bihor, pentru furnizarea de servicii de recuperare pentru copiii cu dizabilități de pe raza Municipiului Marghita, în cadrul Centrului de Zi de Recuperare pentru Copii cu Dizabilități Oradea",
+"short": "HCL Marghita nr. 157/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/marghita-bh/registru-hcl/232422",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--marghita-179-2025",
 "path": "local/bihor/marghita/2025/179",
 "kind": "local",
@@ -62,6 +84,28 @@
 "from": "2025-12-22",
 "latest": "2025-12-22",
 "portal": "https://marghita.ro/wp-content/uploads/2026/01/HOTARAREA-180-DIN-22.12.2025.pdf",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-186-2025",
+"path": "local/bihor/marghita/2025/186",
+"kind": "local",
+"year": "2025",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 186/2025 privind rectificarea bugetului consolidat de venituri și cheltuieli al unității administrativ teritoriale Municipiul Marghita, județul Bihor pe anul 2025, aprobat prin HCL nr. 48 din 27.03.2025",
+"short": "HCL Marghita nr. 186/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/marghita-bh/registru-hcl/243070",
 "council": "bihor/marghita",
 "council_name": "Consiliul Local al Municipiului Marghita",
 "flags": {

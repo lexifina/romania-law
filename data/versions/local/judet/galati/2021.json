@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcj-galati-134-2021",
+   "path": "local/judet/galati/2021/134",
+   "short": "HCJ Galați nr. 134/2021",
+   "title": "Hotărârea Consiliului Județean Galați nr. 134/2021",
+   "url": "https://cjgalati.ro/hotararea-nr-235/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/hotarari2021/hot134-270521.pdf",
+     "sha256": "86f472065c512999b18fb266d1b68645eb73fe9d072968904ee66a03fe576c76"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-137-2021",
    "path": "local/judet/galati/2021/137",
    "short": "HCJ Galați nr. 137/2021",

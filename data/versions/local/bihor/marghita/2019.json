@@ -916,6 +916,81 @@
      "sha256": "bf28ac00853b94f89875ee180d9d11278e39f94576a3e8ec6589129f540fdd75"
     }
    ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-94-2019",
+   "path": "local/bihor/marghita/2019/94",
+   "short": "HCL Marghita nr. 94/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 94/2019 privind actualizarea indicatorilor tehnico-economici in urma aplicarii art71 din OUG114din2018 pt obiectivul CONSTRUIRE SI AMENAJARE SALA DE MESE GRADINITA",
+   "url": "https://marghita.ro/hotararile-c-l/2019/",
+   "versions": [
+    {
+     "from": "2019-07-30",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2019/03/Hot-94-30.07.2019-privind-actualizarea-indicatorilor-tehnico-economici-in-urma-aplicarii-art71-din-OUG114din2018-pt-obiectivul-CONSTRUIRE-SI-AMENAJARE-SALA-DE-MESE-GRADINITA.pdf",
+     "sha256": "3bc9c84d67a5762b4583eb29eabbc032a0558fe8852b4ed317ec08210b0c66e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-95-2019",
+   "path": "local/bihor/marghita/2019/95",
+   "short": "HCL Marghita nr. 95/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 95/2019 privind rectificarea bugetului de venituri si cheltuieli al mun Marghita pe anul 2019",
+   "url": "https://marghita.ro/hotararile-c-l/2019/",
+   "versions": [
+    {
+     "from": "2019-07-30",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2019/03/Hot-95-30.07.2019-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-al-mun-Marghita-pe-anul-2019.pdf",
+     "sha256": "4d2413cd44dbfe71cc316488587639dc10a67c5b7e47adcc5ee1793f15e75b22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-96-2019",
+   "path": "local/bihor/marghita/2019/96",
+   "short": "HCL Marghita nr. 96/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 96/2019 privind actualizarea indicatorilor tehnico-economici dupa semnarea contractului pt obiectivul REABILITARE POD PESTE BARCAU str ILCaragiale cuprins la finantare in PNDL 2017-2020",
+   "url": "https://marghita.ro/hotararile-c-l/2019/",
+   "versions": [
+    {
+     "from": "2019-07-30",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2019/03/Hot-96-30.07.2019-privind-actualizarea-indicatorilor-tehnico-economici-dupa-semnarea-contractului-pt-obiectivul-REABILITARE-POD-PESTE-BARCAU-str-ILCaragiale-cuprins-la-finantare-in-PNDL-2017-2020.pdf",
+     "sha256": "2a979f8b12e64c990e70f1a9e912d748a2644bf5e202a813cdca10097a56af25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-98-2019",
+   "path": "local/bihor/marghita/2019/98",
+   "short": "HCL Marghita nr. 98/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 98/2019 privind rectificarea bugetului de venituri si cheltuieli al mun Marghita pe anul 2019",
+   "url": "https://marghita.ro/hotararile-c-l/2019/",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2019/03/Hot-98-20.08.2019-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-al-mun-Marghita-pe-anul-2019.pdf",
+     "sha256": "9a741bbd7db8ca0106644dc00f2f216b7e76808127bb6c2ec206c5743f25e712"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-99-2019",
+   "path": "local/bihor/marghita/2019/99",
+   "short": "HCL Marghita nr. 99/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 99/2019 privind aprobarea acordului de parteneriat incheiat intre UAT Marghita si ADD a jud Bihor pt realizare studiu de fezabilitate constr Teren sintetic de sport",
+   "url": "https://marghita.ro/hotararile-c-l/2019/",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2019/03/Hot-99-20.08.2019-privind-aprobarea-acordului-de-parteneriat-incheiat-intre-UAT-Marghita-si-ADD-a-jud-Bihor-pt-realizare-studiu-de-fezabilitate-constr-Teren-sintetic-de-sport-.pdf",
+     "sha256": "cb57eeddca1b3226512b8f8a62cb762d11deba2a79a9ca0812fabf16a8cbd499"
+    }
+   ]
   }
  ]
 }

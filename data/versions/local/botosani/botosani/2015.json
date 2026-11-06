@@ -76,6 +76,21 @@
      "sha256": "66a902e7d66f0094d3a09fab0c6b5b66997d9de29968b5d5d3d09a8f34a0b459"
     }
    ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-65-2015",
+   "path": "local/botosani/botosani/2015/65",
+   "short": "HCL Botoșani nr. 65/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 65/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2015/65.pdf",
+     "sha256": "b50a8abd97b76ef934fdc412aab3d2b528ef1c3f67caba69db44d6b9121f7c39"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vaslui/vaslui/2020",
+"acts": [
+{
+"slug": "hcl-vaslui--vaslui-108-2020",
+"path": "local/vaslui/vaslui/2020/108",
+"kind": "local",
+"year": "2020",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vaslui nr. 108/2020 privind alegerea viceprimarilor Municipiului Vaslui Consiliul Local al Municipiului Vaslui, Având în vedere referatul de aprobare al Primarului Municipiului Vaslui cu nr.79663/05.11.2020; Raportul de specialitate al Serviciului Administrație Publică Locală cu nr. 79664/05.11.2020; Văzând Procesul-Verbal al comisiei de numărare a voturilor; Luând în considerare prevederile art. 7 din Regulamentul d",
+"short": "HCL Vaslui nr. 108/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://primariavaslui.ro/wp-content/uploads/2026/10/108.-HCL-nr.-108-privind-alegerea-viceprimarilor-Municipiului-Vaslui.pdf",
+"council": "vaslui/vaslui",
+"council_name": "Consiliul Local al Municipiului Vaslui",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

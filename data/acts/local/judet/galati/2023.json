@@ -92,6 +92,51 @@
 }
 },
 {
+"slug": "hcj-galati-102-2023",
+"path": "local/judet/galati/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 102/2023 privind aprobarea „Planului de menținere a calității aerului în județul Galați 2019- 2023”; Având în vedere prevederile Legii nr. 104/15.06.2011 privind calitatea aerului înconjurător, cu modificările și completările ulterioare; Având în vedere prevederile art. 49 din Metodologia de elaborare a planurilor de calitate a aerului, a planurilor de acțiune pe termen scurt și a planurilor de menținere a",
+"short": "HCJ Galați nr. 102/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://cjgalati.ro/hotararea-nr-1007/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-galati-120-2023",
+"path": "local/judet/galati/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 120/2023",
+"short": "HCJ Galați nr. 120/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://cjgalati.ro/hotararea-nr-1028-1/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-galati-205-2023",
 "path": "local/judet/galati/2023/205",
 "kind": "local",
@@ -111,6 +156,29 @@
 "council_name": "Consiliul Județean Galați",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-galati-271-2023",
+"path": "local/judet/galati/2023/271",
+"kind": "local",
+"year": "2023",
+"number": "271",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 271/2023",
+"short": "HCJ Galați nr. 271/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://cjgalati.ro/hotararea-nr-1181/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

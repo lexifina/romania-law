@@ -3,6 +3,117 @@
 "shard": "local/bihor/salonta/2020",
 "acts": [
 {
+"slug": "hcl-bihor--salonta-22-2020",
+"path": "local/bihor/salonta/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 22/2020 privind aprobarea Caietului de obiective și a Regulamentului de organizare și desfășurare a concursului de proiecte de management, pentru concursul organizat în vederea ocupării postului de manager la Compexul Muzeal Salonta Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre cu privire la aprobarea Caietului de obiective și a Regulamentului de o",
+"short": "HCL Salonta nr. 22/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://salonta.net/ro/hotarari/24-noiembrie-2020/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-bihor--salonta-31-2020",
+"path": "local/bihor/salonta/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 31/2020 Privind aprobarea taxelor pentru închirierea/concesionarea domeniului public și/sau privat al Municipiului Salonta, pentru anul 2021 Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre privind aprobarea taxelor pentru închirierea/concesionarea domeniului public și/sau privat al Municipiului Salonta, pentru anul 2021; • Reținând Referatul de aprob",
+"short": "HCL Salonta nr. 31/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://salonta.net/ro/hotarari/23-decembrie-2020/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-bihor--salonta-35-2020",
+"path": "local/bihor/salonta/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 35/2020",
+"short": "HCL Salonta nr. 35/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://salonta.net/ro/hotarari/23-decembrie-2020/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--salonta-65-2020",
+"path": "local/bihor/salonta/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 65/2020 Privind stabilirea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile aplicabile pentru anul 2021 Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând stabilirea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile ap",
+"short": "HCL Salonta nr. 65/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://salonta.net/ro/hotarari/29-mai-2020/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-bihor--salonta-86-2020",
+"path": "local/bihor/salonta/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 86/2020 pentru aprobarea Regulamentului privind atestarea administratorilor de condominii din Municipiul Salonta Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre pentru aprobarea Regulamentului privind atestarea administratorilor de condominii din Municipiul Salonta; • Reținând Referatul de aprobare nr.2619/08.04.2020 al Primarului Municipiului Salont",
+"short": "HCL Salonta nr. 86/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://salonta.net/ro/hotarari/30-iunie-2020/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-bihor--salonta-112-2020",
 "path": "local/bihor/salonta/2020/112",
 "kind": "local",
@@ -22,6 +133,94 @@
 "council_name": "Consiliul Local al Municipiului Salonta",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--salonta-127-2020",
+"path": "local/bihor/salonta/2020/127",
+"kind": "local",
+"year": "2020",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 127/2020 pentru modificarea HCLMS nr. 114/28.06.2019 privind aprobarea Regulamentului de stabilire și aplicare a taxei speciale de salubrizare Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre cu privire la modificarea HCLMS nr. 114/28.06.2019 privind aprobarea Regulamentului de stabilire și aplicare a taxei speciale de salubrizare; • Reținând Referatul",
+"short": "HCL Salonta nr. 127/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://salonta.net/ro/hotarari/31-august-2020/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-bihor--salonta-129-2020",
+"path": "local/bihor/salonta/2020/129",
+"kind": "local",
+"year": "2020",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 129/2020 privind aprobarea PUZ – „ Construire seră producție roșii în localitatea Salonta ”, generat de imobilele identificate cu nr. cad 108297, 108298, 108299 în suprafață totală de 23826 mp, Municipiul Salonta, județul Bihor, la solicitarea SC TOMATESAL SRL Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâre cu privire la aprobarea PUZ – „ Construire s",
+"short": "HCL Salonta nr. 129/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://salonta.net/ro/hotarari/31-august-2020/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-bihor--salonta-135-2020",
+"path": "local/bihor/salonta/2020/135",
+"kind": "local",
+"year": "2020",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 135/2020 privind aprobare a Regulamentului (Metodologiei) de eliberare a Acordului de funcționare și a Orarului de funcționare",
+"short": "HCL Salonta nr. 135/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-24",
+"latest": "2020-09-24",
+"portal": "https://salonta.net/ro/hotarari/24-septembrie-2020/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-bihor--salonta-142-2020",
+"path": "local/bihor/salonta/2020/142",
+"kind": "local",
+"year": "2020",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 142/2020 Privind aprobarea Planului Urbanistic Zonal (PUZ) – „Construire Grădiniță și Desființare construcții C3 și C4 ”, generat de imobilul identificat cu nr. cad 112065 în suprafață totală de 2118,00 mp (2260 mp măsurată), Municipiul Salonta, județul Bihor la solicitarea Parohiei Romano-Catolică Salonta Consiliul Local al Municipiului Salonta întrunit în ședința ordinară, • Examinând proiectul de hotărâ",
+"short": "HCL Salonta nr. 142/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-24",
+"latest": "2020-09-24",
+"portal": "https://salonta.net/ro/hotarari/24-septembrie-2020/",
+"council": "bihor/salonta",
+"council_name": "Consiliul Local al Municipiului Salonta",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

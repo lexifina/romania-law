@@ -3,6 +3,28 @@
 "shard": "local/botosani/botosani/2023",
 "acts": [
 {
+"slug": "hcl-botosani--botosani-120-2023",
+"path": "local/botosani/botosani/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 120/2023 privind modificarea anexei la HCL nr. 33/2018 privind Regulamentul de organizare și desfășurare a evaluării managementului instituțiilor publice de cultură din subordinea Consiliului Local al Municipiului Botoșani",
+"short": "HCL Botoșani nr. 120/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-botosani--botosani-162-2023",
 "path": "local/botosani/botosani/2023/162",
 "kind": "local",
@@ -68,6 +90,50 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-497-2023",
+"path": "local/botosani/botosani/2023/497",
+"kind": "local",
+"year": "2023",
+"number": "497",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 497/2023 pentru aprobarea Regulamentului privind reglementarea procedurii și a conținutului – cadru al documentației pentru emiterea Certificatelor de atestare/adeverințe privind edificarea construcțiilor, conform art. 37 alin. (6) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare",
+"short": "HCL Botoșani nr. 497/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-17",
+"latest": "2023-11-17",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--botosani-557-2023",
+"path": "local/botosani/botosani/2023/557",
+"kind": "local",
+"year": "2023",
+"number": "557",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 557/2023 de modificare și completare a HCL nr. 182/28.04.2023 privind stabilirea impozitelor și taxelor locale în Municipiul Botoșani începând cu anul 2024",
+"short": "HCL Botoșani nr. 557/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
 }
 },
 {

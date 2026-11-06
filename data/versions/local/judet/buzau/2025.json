@@ -2973,6 +2973,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-79-2025",
+   "path": "local/judet/buzau/2025/79",
+   "short": "HCJ Buzău nr. 79/2025",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 79/2025 pentru completarea anexei la Hotărârea Consiliului Județean Buzău nr. 17/2025 privind aprobarea tarifelor/prețurilor pentru prestațiile Societății „Domenii Prest Serv” SRL Buzău în baza contractelor de delegare a gestiunii unor activități ale serviciului public de administrare a domeniului public și privat al județului Buzău, respectiv servicii de operare a deșeurilor din construcții și demolări",
+   "url": "https://cjbuzau.ro/hotarari-cj-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/03/Hotararea-nr-79-din-2025.pdf",
+     "sha256": "096062770594203a6a50a8bbfdb7017005ca3010b24fa24d06ba2a9bdd85bfcd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-8-2025",
    "path": "local/judet/buzau/2025/8",
    "short": "HCJ Buzău nr. 8/2025",

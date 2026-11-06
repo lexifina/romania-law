@@ -3,6 +3,66 @@
  "shard": "local/bihor/salonta/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--salonta-10-2024",
+   "path": "local/bihor/salonta/2024/10",
+   "short": "HCL Salonta nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 10/2024 privind aprobarea Notei de Fundamentare actualizată aferentă proiectului: „Asigurarea infrastructurii pentru transportul verde prin amenajarea pistelor pentru biciclete în Municipiul Salonta, județul Bihor” Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea Notei de Fundamentare actualizată aferentă proiectului: „Asigurarea infrastructurii pentru transport",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.10-Nota-de-fundamentare-transport-verde.pdf",
+     "sha256": "dd9edc80dc4549980a7ffd0104480f98bc15c5c277059112c32723e0c5067d91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-100-2024",
+   "path": "local/bihor/salonta/2024/100",
+   "short": "HCL Salonta nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 100/2024 Privind aprobarea Listei de priorități a solicitanților de locuințe sociale, în vedere închirierii locuințelor sociale aflate în administrarea Municipiului Salonta - An 2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Listei de priorități a solicitanților de locuințe sociale, în vedere închirierii locuințelor sociale aflate în administrarea Municipi",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.100-Lista-priritati-locuinte-sociale-An-2024.pdf",
+     "sha256": "03d06353acb6d0e7fc5d1039042f97da46b902994b409c1bfec78cac2bfb94ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-101-2024",
+   "path": "local/bihor/salonta/2024/101",
+   "short": "HCL Salonta nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 101/2024 Privind transmiterea în folosință gratuită către Inspectoratul de Poliție Județean Bihor, a unui mijloc fix – Laptop HP 250 G9 Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind transmiterea în folosință gratuită către Inspectoratul de Poliție Județean Bihor, a unui mijloc fix – Laptop HP 250 G9;  Reținând Referatul de aprobare nr. 3265 din 25.04.2024 al Primarului",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.101-transmitere-IPJ-LAPTOP.pdf",
+     "sha256": "bf2f48a837e12869512c6752adb7306d2af93d6cb218b637e728eaf9cf945a96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-102-2024",
+   "path": "local/bihor/salonta/2024/102",
+   "short": "HCL Salonta nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 102/2024 Privind aprobarea trecerii din domeniul public al Municipiului Salonta în domeniul privat al Municipiului Salonta a terenului în suprafață de 1790,50 mp a supraedificatelor C9 cota 368/654mp , C16 499 mp imobile înscrise în CF nr.113045 și aprobarea demolării supraedificatelor sus menționate Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea trecerii din d",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.102-trecere-domeniu-public-CISTAN.pdf",
+     "sha256": "781c746659e002553bbac470b70c4e5b396575a9845a89056719792bb8bc8a0a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-103-2024",
    "path": "local/bihor/salonta/2024/103",
    "short": "HCL Salonta nr. 103/2024",
@@ -14,6 +74,441 @@
      "units": 1,
      "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.103-R2-amenajare-Coridor-albastru.pdf",
      "sha256": "2ab0d85537ec8f5bfacce197e6da1caecb29aacdaecbdfc4292e23e396c3b53f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-104-2024",
+   "path": "local/bihor/salonta/2024/104",
+   "short": "HCL Salonta nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 104/2024",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.104-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "8ec478b81fa157d5a62ec33d08c60b903b847542ba4bbd9f2aac4ee0566e7c63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-105-2024",
+   "path": "local/bihor/salonta/2024/105",
+   "short": "HCL Salonta nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 105/2024 privind aprobarea Studiului de oportunitate și organizarea vânzării prin licitație publică a bunului imobil teren cu suprafața de 4483 mp identificat cu numar cadastral 114782 înscris în CF 114782 proprietate privată a Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Studiului de oportunitate și organizarea vânzării prin licitație pu",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.105-vnz-4483mp-CF-11482.pdf",
+     "sha256": "3e7a87b390d8dc7c562d604bf95514c8d65b81be08dbd306b22cfe2f8d10c264"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-108-2024",
+   "path": "local/bihor/salonta/2024/108",
+   "short": "HCL Salonta nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 108/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 30 aprilie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1. Procesul-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 30 aprilie 2024, pus la dispoziția consilierilor locali spre consultare, 2",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.108-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "e395823e641d398ec969c47a2186718faf12f17a1f51f489b09c11d8d974feb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-109-2024",
+   "path": "local/bihor/salonta/2024/109",
+   "short": "HCL Salonta nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 109/2024 Privind aprobarea Regulamentului privind gestionarea deșeurilor rezultate din activitatea medicală (umană și veterinară) în Municipiul Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Regulamentului privind gestionarea deșeurilor rezultate din activitatea medicală (umană și veterinară) în Municipiul Salonta; • Reținând Referatul de aprobare nr. 1",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.109-Regulament-deseuri.medicale.pdf",
+     "sha256": "cb179bc00bf742b77528bcbb452233b404af4c96ebbfb4055af6cfccab87d164"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-11-2024",
+   "path": "local/bihor/salonta/2024/11",
+   "short": "HCL Salonta nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 11/2024 pentru actualizarea HCLMS nr. 168/11.08.2023 privind aprobarea soluțiilor de traversare a domeniului public și privat al municipiului Salonta pentru investiția: „ DRUM EXPRES ARAD-ORADEA” ( inclusiv rețele de utilități ) - cu amplasament pe teritoriul județului Bihor Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre pentru actualizarea HCLMS nr. 168/11.08.2023 privind apro",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.11-actualizare-traversare-Drum-Express.pdf",
+     "sha256": "5e00f4c09bd069d9b73688ca31d05d0930d4a777c0fed2958ae68fb74832a153"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-110-2024",
+   "path": "local/bihor/salonta/2024/110",
+   "short": "HCL Salonta nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 110/2024 Privind vânzarea directă a terenului cu suprafața de 590 mp înscris în CF nr. 112350 cu nr. cad 112350 situat pe str",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+     "sha256": "dad81c282537b65cbced82242e3ec0eabe4174631e6f7ea3f9244fd540fcb82c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-111-2024",
+   "path": "local/bihor/salonta/2024/111",
+   "short": "HCL Salonta nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 111/2024 privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenul cu destinația de drum de exploatare în extravilan cu suprafața de 1300 mp DE – 2859 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenul cu destinația de drum de exploatare în extravilan cu suprafața de 1300 mp",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.111-1300mp-DE-2859-ABRUDAN.pdf",
+     "sha256": "26a2034058659826fc93f84236f5caac103217a5579e7bf06c9b63176551171b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-112-2024",
+   "path": "local/bihor/salonta/2024/112",
+   "short": "HCL Salonta nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 112/2024 privind aprobarea planului de amplasament și delimitare a imobilului pentru terenul cu suprafața de 3200 mp cu destinația de drum de exploatare situat în extravilan format din parcelele DE 3007, DE 3008 și HCN 3009 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului pentru terenul cu suprafața de 3200 mp cu",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.112-3200mp-DE-300730083009-MASCAS.pdf",
+     "sha256": "38d11ff4b94decfd5a8a25d3f4ac647314972d222bbef306132549182ef83c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-113-2024",
+   "path": "local/bihor/salonta/2024/113",
+   "short": "HCL Salonta nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 113/2024 privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenurile cu destinația de drum de exploatare situate în extravilan cu suprafața de 1500 mp DE – 5273/3 și suprafața de 2000 mp DE - 5270 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenurile cu destinația de drum d",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.113-1500-si-200mp-DE-5270-NUTRI.pdf",
+     "sha256": "82a180c790980e67ce489cb8efaab76436bf36d62bd9136bf8c58c81f8a787fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-114-2024",
+   "path": "local/bihor/salonta/2024/114",
+   "short": "HCL Salonta nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 114/2024 privind vânzarea prin licitație publică a bunului imobil teren cu suprafața de 4483 mp identificat cu numar cadastral 114782 înscris în CF 114782 proprietate privată a Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind vânzarea prin licitație publică a bunului imobil teren cu suprafața de 4483 mp identificat cu numar cadastral 114782 înscris în",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.114-vnz-4483mp-CF-11482.pdf",
+     "sha256": "58fcbfff7a7c58ff7165765db8e6ea251376caa9c17f3e1faa5c813312fab477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-115-2024",
+   "path": "local/bihor/salonta/2024/115",
+   "short": "HCL Salonta nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 115/2024 privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr. cad 114488 cu suprafața de 10307 mp în 18 loturi Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr. cad 114488 cu suprafața de 10307 mp în 18 loturi; • Reținând Ref",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.115-PAD-10307mp-CF-114488-18-loturi.pdf",
+     "sha256": "4af568447e6883ced105fff016d10b0d930e7ef89f55dac9c478943e317a262f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-116-2024",
+   "path": "local/bihor/salonta/2024/116",
+   "short": "HCL Salonta nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 116/2024 Privind soluționarea cererii nr. 1549/02.04.2024 pentru încetarea contractului de închiriere nr. 2/08.06.2022 pentru suprafețe de teren cu destinația de pășune permanentă aflate în domeniul privat al Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind soluționarea cererii nr. 1549/02.04.2024 pentru încetarea contractului de închiriere nr. 2/08.06",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.116-incetare-ctr.-pasune-2-din-08.06.2022-portik.pdf",
+     "sha256": "fbd58b8892ea8c2ecf98a7e0f8b0c79e2ce5b53da9e42c8b1e87a871dddd785a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-117-2024",
+   "path": "local/bihor/salonta/2024/117",
+   "short": "HCL Salonta nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 117/2024 Privind soluționarea cererii nr. 1465/02.04.2024 pentru încetarea contractului de închiriere nr. 9/08.06.2022 pentru suprafețe de teren cu destinația de pășune permanentă aflate în domeniul privat al Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind soluționarea cererii nr. 1465/02.04.2024 pentru încetarea contractului de închiriere nr. 9/08.06",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.117-incetare-ctr.-pasune-9-din-08.06.2022-pOPOVICIU.pdf",
+     "sha256": "a3e26d01ac7183979281c36419c14baef5014b9ada6d0a25424f034a3b564594"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-118-2024",
+   "path": "local/bihor/salonta/2024/118",
+   "short": "HCL Salonta nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 118/2024 Privind aprobarea cererii nr. 1867/17.04.2024 a SC Artimplet SRL Salonta prin care solicită incetarea Contractului de închiriere nr. 1469/15.03.2012, modificat și completat prin Act Adițional nr. 1/24.04.2018 și Act Adițional nr. 2/10.02.2022 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea cererii nr. 1867/17.04.2024 a SC Artimplet SRL Salonta prin ăare",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.118-solutionare-cerere-ARTIMPLET.pdf",
+     "sha256": "3bc91a5428099daae41b4240f7a2205eac67ab5c6f7433c4ce4ddd5906c20371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-119-2024",
+   "path": "local/bihor/salonta/2024/119",
+   "short": "HCL Salonta nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 119/2024",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.119-cerere-modif.-ctr.-L15-BODO.pdf",
+     "sha256": "07bd5d94dd9b6f6fa716dcfc8c38f46810949ac47f7f979f6295650f8fe5e098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-12-2024",
+   "path": "local/bihor/salonta/2024/12",
+   "short": "HCL Salonta nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 12/2024 Privind aprobarea cererii nr. 137/05.01.2023 a SC Love Impex SRL prin care se solicită modificarea termenului de curgere a obligațiilor concesionarului prevăzute la art. 7.1.(9) al Contractului de Concesiune autentificat la notar sub nr. 733 din 28.04.2022 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea cererii nr. 137/05.01.2023 a SC Love Impex SRL pri",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.12-aprobare-cerere-Love-Impex.pdf",
+     "sha256": "fb4edf58c31ada9968c07da7548f6c3704dcd89a3bd85540763a95d44a146180"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-120-2024",
+   "path": "local/bihor/salonta/2024/120",
+   "short": "HCL Salonta nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 120/2024",
+   "url": "https://salonta.net/ro/hotarari/30-mai-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.120-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "6bf321706f02e7bca7f2c9deb0579bdef9a689d11a40173e4678858c008d0b7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-123-2024",
+   "path": "local/bihor/salonta/2024/123",
+   "short": "HCL Salonta nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 123/2024 privind aprobarea inventarului terenurilor din domeniul privat al Municipiului Salonta disponibile în anul 2024 în vederea aplicării dispozițiilor Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, republicată, cu modificările și completările ulterioare Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind apro",
+   "url": "https://salonta.net/ro/hotarari/7-iunie-2024/",
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.123-inventar-PE-2024-L15.pdf",
+     "sha256": "0a5bfb1f9f6844c48a6d012bf419a9629f737417490c1269afd1947707553a26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-126-2024",
+   "path": "local/bihor/salonta/2024/126",
+   "short": "HCL Salonta nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 126/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 30 mai 2024 și a procesului-verbal al ședinței extraordinare din data de 7 iunie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1. Procesul-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 30 mai 2024 și a procesului-verbal al ședinței",
+   "url": "https://salonta.net/ro/hotarari/28-iunie-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.126-aprobare-PV-sedinta-CL2.pdf",
+     "sha256": "ce4e8eba8207d709be6940ae541e914e23f657f7bb2de651a1c7ff5de7cde196"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-13-2024",
+   "path": "local/bihor/salonta/2024/13",
+   "short": "HCL Salonta nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 13/2024 privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr. cad 103136 cu suprafața de 10000 mp în două loturi Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr. cad 103136 cu suprafața de 10000 mp în două loturi ;  Reținân",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.13-PAD-10000mp-2-loturi.pdf",
+     "sha256": "5f22926c38529cd6f6e8d91e7bf843d044945616b2649d1a205d6a94452aeee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-130-2024",
+   "path": "local/bihor/salonta/2024/130",
+   "short": "HCL Salonta nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 130/2024 Privind aprobarea concesionării, prin licitație publică, a suprafaței de 47618 mp, situat în str",
+   "url": "https://salonta.net/ro/hotarari/28-iunie-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.130-concesionare-47618mp-licitatie-publica.pdf",
+     "sha256": "fa5b74df5c6a8ebdda1e328e7f2ef6c8d6d56e8dfaebd1651a6257ecfeebf03b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-131-2024",
+   "path": "local/bihor/salonta/2024/131",
+   "short": "HCL Salonta nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 131/2024 Privind aprobarea Statului de funcții, a Organigramei și a Regulamentului de organizare și funcționare al Spitalului Municipal Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Statului de funcții, a Organigramei și a Regulamentului de organizare și funcționare al Spitalului Municipal Salonta; • Reținând: - Nota de fundamentare nr. 8074 din data d",
+   "url": "https://salonta.net/ro/hotarari/28-iunie-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.131-Statut-functii-Spital.pdf",
+     "sha256": "3ff56c0699aa24f80e89e6a8136bc9c9b10cca1d1e14456263b77c7b793ba527"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-132-2024",
+   "path": "local/bihor/salonta/2024/132",
+   "short": "HCL Salonta nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 132/2024",
+   "url": "https://salonta.net/ro/hotarari/28-iunie-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.132-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "ec6c05007d226c8b08f88bb7ff76741ffe365e1cbd719a78ac9a7a24d4f4afe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-134-2024",
+   "path": "local/bihor/salonta/2024/134",
+   "short": "HCL Salonta nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 134/2024 Privind aprobarea Statului de funcții și Organigramei a aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Statului de funcții și Organigramei a aparatului de specialitate al Primarului Municipiului Salonta; • Reținând: - Raport de completare nr. 4734 din data de 01.07.2024 întocmit de Biroul Ge",
+   "url": "https://salonta.net/ro/hotarari/1-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.134-Statut-functii-Organigrama.pdf",
+     "sha256": "8a657167d75b948220608aa585eee7acb56f7ff6de8216fff178a9a18062bd8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-135-2024",
+   "path": "local/bihor/salonta/2024/135",
+   "short": "HCL Salonta nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 135/2024 Privind aprobarea Regulamentului de Organizare Funcționare al aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Regulamentului de Organizare Funcționare al aparatului de specialitate al Primarului Municipiului Salonta; • Reținând: - Raport de completare nr. 5082 din data de 01.07.2024 întocmit",
+   "url": "https://salonta.net/ro/hotarari/1-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.135-ROF.pdf",
+     "sha256": "76e1e86b619b97afbdf90859b562ab1de0017075bc878c3ab14a7076fe9d2438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-136-2024",
+   "path": "local/bihor/salonta/2024/136",
+   "short": "HCL Salonta nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 136/2024",
+   "url": "https://salonta.net/ro/hotarari/1-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.136-actualizare-Anexa-HCL-23-din-2018-coef.pdf",
+     "sha256": "6244f20a51bc6d66afa57144e30a44a5557bb9c7fe4cd8eacf8bb30afb92eba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-137-2024",
+   "path": "local/bihor/salonta/2024/137",
+   "short": "HCL Salonta nr. 137/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 137/2024 Privind aprobarea Regulamentului de Organizare și Funcționare ale Serviciului Public Comunitar de Evidență a Persoanelor, Statului de funcții și Organigramei (parte componentă al aparatului de specialitate al Primarului Municipiului Salonta) Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Regulamentului de Organizare și Funcționare ale Serviciului Publi",
+   "url": "https://salonta.net/ro/hotarari/1-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.137-ROF-Stat-de-functii-Organigrama-SPCEP.pdf",
+     "sha256": "e1e78a37f27392ae4c116ca4e86b767bf34fe70965b930ed6df683faf3805101"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-139-2024",
+   "path": "local/bihor/salonta/2024/139",
+   "short": "HCL Salonta nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 139/2024 Privind aprobarea încheierii protocolului de finanțare între U.A.T",
+   "url": "https://salonta.net/ro/hotarari/16-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.139-Protocol-UAT-Bh-actualizare-PUG.pdf",
+     "sha256": "c62bc73aed721a119448c94bac726aa18452865c3ac1073d5a91663854771643"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-14-2024",
+   "path": "local/bihor/salonta/2024/14",
+   "short": "HCL Salonta nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 14/2024 Privind aprobarea planului de amplasament și delimitare a imobilului cu suprafața de 1580 mp pentru imobilul situat în Salonta Str",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.14-PAD-JUDECATORIE.pdf",
+     "sha256": "13b10ac791325c7751b4374b7aab4e7efad9d531e5ca3afcec81aa4aa9f44fee"
     }
    ]
   },
@@ -33,6 +528,201 @@
    ]
   },
   {
+   "slug": "hcl-bihor--salonta-141-2024",
+   "path": "local/bihor/salonta/2024/141",
+   "short": "HCL Salonta nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 141/2024 Privind aprobarea modificării și completării cu membri supleanți a Comisiei de Licitații numită conform prevederilor art. 6 al HCLMS nr. 130 din 28.06.2024 privind aprobarea concesionării, prin licitație publică, a suprafaței de 47618 mp teren, situat în str",
+   "url": "https://salonta.net/ro/hotarari/16-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.141-modif.HCL-130-concesionare-47618mp-licitatie-publica.pdf",
+     "sha256": "b0435d9dbdf3e8dc59cbb0f38513409d32be0bd6f98e99ae21ea7628c48f23f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-145-2024",
+   "path": "local/bihor/salonta/2024/145",
+   "short": "HCL Salonta nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 145/2024 Privind modificarea Hotărârii CLMS nr.21/23.01.2024 privind aprobarea Proiectului Tehnic actualizat și a indicatorilor tehnico-economici pentru proiectul cu titlul: „Reabilitare interioară casa ROTH ARMIN, Piața Libertății, nr.8, Municipiul Salonta, Județul Bihor” , astfel cum a fost actualizată prin Hotărârea nr.33/13.02.2024 și modificată prin Hotărârea nr.86/16.04.2024 Consiliul Local al Munici",
+   "url": "https://salonta.net/ro/hotarari/16-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.145-PT-Casa-ROTH-ARMIN-modif.HCL-21.pdf",
+     "sha256": "e7b58a76447f1a8514ffd3f925ec1592230ee57b08f2fb83960d049d289a42b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-146-2024",
+   "path": "local/bihor/salonta/2024/146",
+   "short": "HCL Salonta nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 146/2024",
+   "url": "https://salonta.net/ro/hotarari/16-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/16-iulie-2024/",
+     "sha256": "a29d2c847fb69a4778a1d26a8bdbeb6c0805ce6e9543e78e1f5faff6b2d89d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-148-2024",
+   "path": "local/bihor/salonta/2024/148",
+   "short": "HCL Salonta nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 148/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 28 iunie 2024 și a procesului-verbal al ședinței extraordinare din data de 1 iulie 2024, și respectiv 16 iulie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1. Procesul-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 28 iunie 2024 și",
+   "url": "https://salonta.net/ro/hotarari/31-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.148-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "59728346dd87f61213732a81dfd5636e1a21d72f27882a66b4f871a5d82cd291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-149-2024",
+   "path": "local/bihor/salonta/2024/149",
+   "short": "HCL Salonta nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 149/2024 Privind rectificarea bugetului general consolidat al Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind rectificarea bugetului general consolidat al Municipiului Salonta; • Reținând Referatul de aprobare nr.5897 din data de 25.07.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de specialitate nr.5898 din d",
+   "url": "https://salonta.net/ro/hotarari/31-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.149-rectificare-buget.pdf",
+     "sha256": "8d76efcb47f93c4986671bca83e36b390c10371ab26b9ec3c393a36049f60b31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-15-2024",
+   "path": "local/bihor/salonta/2024/15",
+   "short": "HCL Salonta nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 15/2024 Privind aprobarea PUZ pentru „Construire hală producție depozitare și birouri administrative, cabină poartă , post trafo, rezervă de incendiu, drumuri și platforme de incintă, amenajări exterioare și împrejmuire teren”, jud. Bihor, Mun. Salonta, nr.cad 106394 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea PUZ pentru „Construire hală producție depozitar",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.15-PUZ-SC-Euro-Buffalo.pdf",
+     "sha256": "c6ed43992a153de37fbedf4766767616aeb436ce55e1a160f3c673b3c91734da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-150-2024",
+   "path": "local/bihor/salonta/2024/150",
+   "short": "HCL Salonta nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 150/2024 Privind completarea obiectivelor secundare de activitate ale ,,Dezvoltarea și administrarea patrimoniului Salonta” SRL cu asociat unic Municipiul Salonta, județul Bihor, și modificarea și actualizarea Actului Constitutiv al societății comerciale cu răspundere limitată de drept privat și interes local ,,Dezvoltarea și administrarea patrimoniului Salonta” SRL cu asociat unic Municipiul Salonta, jude",
+   "url": "https://salonta.net/ro/hotarari/31-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.150-actualizare-Act-Constitutiv-SRL-Salonta.pdf",
+     "sha256": "6eedc7873717a9ae9150292d6f34536ee95f6e6f0e4f31983c5abdf3e668ec03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-151-2024",
+   "path": "local/bihor/salonta/2024/151",
+   "short": "HCL Salonta nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 151/2024 Privind însușirea Contractului de sponzorizare Nr. 114 din 22.07.2024, încheiat între S.C",
+   "url": "https://salonta.net/ro/hotarari/31-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.151-sponsorizare-Canah.pdf",
+     "sha256": "4876617fd761df4dcbecef9bd7f85e8bf7ea1f124bffd6ddd8b0179632cd7d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-152-2024",
+   "path": "local/bihor/salonta/2024/152",
+   "short": "HCL Salonta nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 152/2024 Privind modificarea Regulamentului de organizare si funcționare a serviciului social de zi, Centru de zi “Bunicii Comunității Salonta” Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind modificarea Regulamentului de organizare și funcționare a serviciului social de zi, Centru de zi “Bunicii Comunității Salonta” ;  Reținând Referatul de aprobare nr. 5712 din 17.07.2",
+   "url": "https://salonta.net/ro/hotarari/31-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.152-modif.ROF-Centru-de-zi.pdf",
+     "sha256": "83decd172f54b4469a3a6b62e7cf49885e53a423b0363c6aa172a26929a33e22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-153-2024",
+   "path": "local/bihor/salonta/2024/153",
+   "short": "HCL Salonta nr. 153/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 153/2024 Privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenurile cu destinația de drum de exploatare situate în extravilan cu suprafața de 4500 mp DE – 306 și suprafața de 4200 mp DE - 309 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenurile cu destinația de drum de ex",
+   "url": "https://salonta.net/ro/hotarari/31-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.153-4500mp-DE-306-DE-309-4200mp.pdf",
+     "sha256": "cad79a77d6daa6517ee01e411786c3c5023ffdffbe283f14c1a57b5c3b7a1770"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-154-2024",
+   "path": "local/bihor/salonta/2024/154",
+   "short": "HCL Salonta nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 154/2024 Pentru desemnarea reprezentanților Consiliului Local al Municipiului Salonta în vederea urmăririi lucrărilor de execuție a investiției: ,,Construire centru sportiv și recreere situat în Municipiul Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/31-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.154-desemnare-CLMS.urmarire-lucrari-Centru-sportiv-si-de-recreere.pdf",
+     "sha256": "997e1eefef9b66343416082406eec4a3d282c8e6ea73269101fb509bed50ecf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-155-2024",
+   "path": "local/bihor/salonta/2024/155",
+   "short": "HCL Salonta nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 155/2024",
+   "url": "https://salonta.net/ro/hotarari/31-iulie-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.155-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "df017588b96e61e9aa48b7bbdb8ecd88d9a0ef919456069113afe83c942c1d44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-158-2024",
+   "path": "local/bihor/salonta/2024/158",
+   "short": "HCL Salonta nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 158/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 31 IULIE 2024 Consiliul Local al Municipiului Salonta, Având în vedere:  procesul verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 31 IULIE 2024, pus la dispoziția consilierilor locali spre consultare;  Prevederile art. 138 alin. (13), alin. (14) și",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-158-PV-31-iulie-2024.pdf",
+     "sha256": "1c0d23abbf2e712bfc86ec24054fcb6b7e61d826c7075466e06cea42f7ebdc28"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-159-2024",
    "path": "local/bihor/salonta/2024/159",
    "short": "HCL Salonta nr. 159/2024",
@@ -44,6 +734,936 @@
      "units": 1,
      "source_url": "https://salonta.net/wp-content/uploads/HCLMS-159-impozite-2025.pdf",
      "sha256": "76ada78f46d066aa9f3c13a570b6b954c522371a0ad6a600bc783d05e0bd2f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-16-2024",
+   "path": "local/bihor/salonta/2024/16",
+   "short": "HCL Salonta nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 16/2024 Privind aprobarea PUZ pentru „ Extindere intravilan în vederea parcelării și construirii de locuințe în localitatea Salonta ”, jud. Bihor, Mun. Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.16-PUZ-Blaga.pdf",
+     "sha256": "2194a88b212368d216c910d5a940c128c519a8825091d8ae4fb76cd8f7a98c05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-160-2024",
+   "path": "local/bihor/salonta/2024/160",
+   "short": "HCL Salonta nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 160/2024 privind aprobarea planurilor de amplasament și delimitare a imobilului în vederea instituirii zonelor de protecție sanitară cu regim sever ale surselor de apă potabilă reprezentând forajele F6 și F14 Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind aprobarea planurilor de amplasament și delimitare a imobilului în vederea instituirii zonelor de protecție sanitară c",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-160-PAD-F6-F14.pdf",
+     "sha256": "aa63853782246cc2a0b356f1a5255c5c46910f1f56ffac91e5106765c87ce488"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-161-2024",
+   "path": "local/bihor/salonta/2024/161",
+   "short": "HCL Salonta nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 161/2024 privind aprobarea planului de amplasament și delimitare a imobilului cu suprafața de 1279 mp aferent Stației de Reglare și Măsură Gaze Naturale Salonta ( SRM ) Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului cu suprafața de 1279 mp aferent Stației de Reglare și Măsură Gaze Naturale Salonta ( SRM );  Re",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-161-PAD-SRM.pdf",
+     "sha256": "a552a075932bd4622dcbefafed7fe8b52cff1f91b1bb6015e7ab3e470f1eb9ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-162-2024",
+   "path": "local/bihor/salonta/2024/162",
+   "short": "HCL Salonta nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 162/2024 privind aprobarea planului de amplasament și delimitare a imobilul situat în Salonta str",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-162-PAD-Kulin-62.pdf",
+     "sha256": "b07afe829a8f8f48aa6e18d0146a645c4606d18e28415dc1cc4238c8b878cbcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-163-2024",
+   "path": "local/bihor/salonta/2024/163",
+   "short": "HCL Salonta nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 163/2024 privind aprobarea Studiului de oportunitate și organizarea vânzării prin licitație publică a 2 (două) parcele de teren proprietate privată a Municipiului Salonta situate pe str",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-163-vanzare-Puskin-2-loturi.pdf",
+     "sha256": "b46436b8cbb7fc460bb6d9ae8bdc1b2a122159ed0959c2876964b861ca1c1572"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-164-2024",
+   "path": "local/bihor/salonta/2024/164",
+   "short": "HCL Salonta nr. 164/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 164/2024 privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenurile cu destinația de drum ce deservesc stația de epurare Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenurile cu destinația de drum ce deservesc stația de epurare;  Reținând Referatul de aprobare nr. 6582 di",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-164-DRUM-statia-de-epurare.pdf",
+     "sha256": "fdfe1f36a002f9962b518bfa74b73e9af64f2928254c5619ecf7992edd45e4b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-165-2024",
+   "path": "local/bihor/salonta/2024/165",
+   "short": "HCL Salonta nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 165/2024 Privind aprobarea Documentației tehnico-economice PTE+DTAC și a Devizului General pentru lucrarea ,,Sistematizare pe verticală suprafețe cu umpluturi în zona capelei din cimitirul Municipal Salonta nr.cad.113653 Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind aprobarea Documentației tehnico -economice PTE+DTAC și a Devizului General pentru lucrarea ,,Sistematizar",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-165-Rambleiere-zona-cimitir.pdf",
+     "sha256": "d4b946a71e16b8767af451687011b7890862a97a83ea2faa9c4722bd478929be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-166-2024",
+   "path": "local/bihor/salonta/2024/166",
+   "short": "HCL Salonta nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 166/2024",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/30-august-2024/",
+     "sha256": "810972aa85ff34a3b112293cc9a2755f653af7a12910781f31b1a285eb34fe4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-167-2024",
+   "path": "local/bihor/salonta/2024/167",
+   "short": "HCL Salonta nr. 167/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 167/2024 privind instrumentarea dosarului tehnic pentru accesarea schemei de ajutor de stat ” Silvo-mediu și climă” aferentă investiției DR-07 ” Silvo-mediu și climă” , PS PAC 2023-2027, Ediția I, Sesiunea 1/2024, Cod:GS-DR-07 Consiliul Local al municipiului Salonta  Examinând Proiectul de hotărâre privind instrumentarea dosarului tehnic pentru accesarea schemei de ajutor de stat ” Silvo-mediu și climă” a",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-167-PADURE-silvo-mediu.pdf",
+     "sha256": "98c532b1da1a99b42aeeb6339d68498853cc90ceedde2a02a989ed481c1c8fe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-168-2024",
+   "path": "local/bihor/salonta/2024/168",
+   "short": "HCL Salonta nr. 168/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 168/2024 Privind însușirea Contractului de Asistență Juridică nr. 45 din 26.08.2024 Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind însușirea Contractului de Asistență Juridică nr. 45 din 26.08.2024;  Reținând Referatul de aprobare nr.6841/28.08.2024 al Primarului Municipiului Salonta, în calitate de inițiator;  Analizând Raportul de specialitate nr.6841/28.08.2024 al S",
+   "url": "https://salonta.net/ro/hotarari/30-august-2024/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/HCLMS-168-Contract-asistenta-juridica.pdf",
+     "sha256": "bf53efa128ee6d3a69ba0702c8f0fa33af9837f331ecff4a4c0014f4d867d9f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-169-2024",
+   "path": "local/bihor/salonta/2024/169",
+   "short": "HCL Salonta nr. 169/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 169/2024",
+   "url": "https://salonta.net/ro/hotarari-republicate/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari-republicate/",
+     "sha256": "87ae855d010525f4a53e5346788cdc77d970002011ae4dc5870e162714af666b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-17-2024",
+   "path": "local/bihor/salonta/2024/17",
+   "short": "HCL Salonta nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 17/2024",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+     "sha256": "137ecd5c93065ac3a1a21ab001444f9c6720d7bf581f8b4167a53b01a830e5fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-171-2024",
+   "path": "local/bihor/salonta/2024/171",
+   "short": "HCL Salonta nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 171/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 30 august 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.171-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "b13e91e534c55241f9a8c77c50f13fd44cceb8a9d8321db8620a93a6237b9aa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-172-2024",
+   "path": "local/bihor/salonta/2024/172",
+   "short": "HCL Salonta nr. 172/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 172/2024 Privind rectificarea bugetului general consolidat al Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind rectificarea bugetului general consolidat al Municipiului Salonta; • Reținând Referatul de aprobare nr.7469 din data de 19.09.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de specialitate nr.7470 din d",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.172-rectificare-buget.pdf",
+     "sha256": "0fe117eb2df95e4fb060d62de7d8edc0777a570006cc83c7ce5a4447b12127b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-173-2024",
+   "path": "local/bihor/salonta/2024/173",
+   "short": "HCL Salonta nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 173/2024 pentru acordarea scutirilor de la plata majorărilor de întârziere aferente obligațiilor bugetare datorate bugetului local de către persoanele fizice și juridice Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre pentru acordarea scutirilor de la plata majorărilor de întârziere aferente obligațiilor bugetare datorate bugetului local de către persoanele fizice și juridice; •",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.173-scutiri-amnistia-fiscala.pdf",
+     "sha256": "f6bef76b7d363a82abc014e5c1345d16b1e1bb17d71dc7f563e4839413a68523"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-174-2024",
+   "path": "local/bihor/salonta/2024/174",
+   "short": "HCL Salonta nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 174/2024 Privind stabilirea pentru anul 2025 a nivelului mediu lunar al subvențiilor, tipurile de servicii sociale prioritare și categoriile de cheltuieli curente de funcționare a unităților de asistență socială înființate în Municipiul Salonta și administrate de asociații/fundații/culte recunoscute în România, acreditate ca furnizori de servicii sociale, pentru care se acordă subvenții de la bugetul local",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.174-subventii-serviciu-social-2025.pdf",
+     "sha256": "b8a59afbb835d558a1ed61aa5ce2c936a94e911b0300188e3d7fe090771feda7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-175-2024",
+   "path": "local/bihor/salonta/2024/175",
+   "short": "HCL Salonta nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 175/2024 pentru încheierea unui Acord cadru de colaborare privind efectuarea stagiului de practică cu Universitatea din Oradea – Facultatea de Istorie, Relații Internaționale, Științe Politice și Științele Comunicării Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre pentru încheierea unui Acord cadru de colaborare privind efectuarea stagiului de practică cu Universitatea din Orade",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.175-Acord-stagiu-practica-Univ.Oradea.pdf",
+     "sha256": "5d283af7c6fcd199b023b2731e20771d65b617ab7d81f3047a6a03a8b10729e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-176-2024",
+   "path": "local/bihor/salonta/2024/176",
+   "short": "HCL Salonta nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 176/2024 privind desemnarea reprezentanților Consiliului Local al Municipiului Salonta în Consiliile de administrație ale unităților de învățământ din Municipiul Salonta pentru anul școlar 2024-2025 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la propunerea pentru desemnarea reprezentanților Consiliului Local al Municipiului Salonta în Consiliile de administrație al",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.176-reprezentanti-CA-unitati-invatamant-2024-2025.pdf",
+     "sha256": "9bd30d1f3f400fee4a1b7e419a025f9a72325a007472f81ddda86671e0efb327"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-177-2024",
+   "path": "local/bihor/salonta/2024/177",
+   "short": "HCL Salonta nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 177/2024 privind desemnarea reprezentantului Consiliului Local al Municipiului Salonta în Comisia pentru evaluarea și asigurarea calității la unităților de învățământ din Municipiul Salonta pentru anul școlar 2024-2025 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la propunerea pentru desemnarea reprezentantului Consiliului Local al Municipiului Salonta în Comisia pe",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.177-reprezentanti-CEAC-unitati-invatamant-2024-2025.pdf",
+     "sha256": "ad26ba853243796aba32ef0174ef1ed1f2eeddf350c24f0d16127feaad8d5269"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-178-2024",
+   "path": "local/bihor/salonta/2024/178",
+   "short": "HCL Salonta nr. 178/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 178/2024 privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr. cad 100519 cu suprafața din acte de 5756 mp si suprafața măsurata de 6115 mp înscris în CF nr. 100519 în trei loturi Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.178-PAD-CF-100519.pdf",
+     "sha256": "6202ac1cd41f0bac478643568088c51b6f4753a1eb8bdef935d307b9a0d148c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-179-2024",
+   "path": "local/bihor/salonta/2024/179",
+   "short": "HCL Salonta nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 179/2024 privind aprobarea planului de amplasament și delimitare a imobilului teren cu construcție, situat în str",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+     "sha256": "56a32a46761fcdc2563b2938c314407080f0b234bb5d31695905ef2c4c8ee28b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-18-2024",
+   "path": "local/bihor/salonta/2024/18",
+   "short": "HCL Salonta nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 18/2024 Privind aprobarea executării de lucrări pe domeniul public al municipiului Salonta pentru obiectivul de investiții: „ Racordare la RED parc fotovoltaic CEF OGE 3 de 4,96 MW” , județul Bihor.” Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea executării de lucrări pe domeniul public al municipiului Salonta pentru obiectivul de investiții: „ Racordare la RE",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.18-racordare-OASIIS.pdf",
+     "sha256": "2f012824b72b9192d6a444703a24b6d798e1aab49378e780baf97de7ab7a5109"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-180-2024",
+   "path": "local/bihor/salonta/2024/180",
+   "short": "HCL Salonta nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 180/2024 Privind aprobarea concesionării, prin licitație publică, a suprafaței de 8033 mp teren, situat în str. Ghestului, identificat cu nr. cad. 102975, înscris în CF 102975-Salonta, proprietate privată a Municipiului Salonta, în vederea edificării unor construcții pentru activități economice industriale Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea concesio",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.180-licitatie-concesionare-8033mp.pdf",
+     "sha256": "a61000b8cd1c79494d3c7a6bd29fec86f46eb2a1139a73eb80121ab7f37a6592"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-181-2024",
+   "path": "local/bihor/salonta/2024/181",
+   "short": "HCL Salonta nr. 181/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 181/2024",
+   "url": "https://salonta.net/ro/hotarari/26-septembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.181-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "d49481fd3bc561fea21a0017969152837210ff203899542dc9888e872991ccc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-183-2024",
+   "path": "local/bihor/salonta/2024/183",
+   "short": "HCL Salonta nr. 183/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 183/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 26 septembrie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/10-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.183-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "86ecf499e353d6b6b745465264cc90fb023e5be83c74d0707e702a3dd35b4599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-184-2024",
+   "path": "local/bihor/salonta/2024/184",
+   "short": "HCL Salonta nr. 184/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 184/2024 privind aprobarea depunerii proiectului de investiții: „ Creșterea calității serviciilor medicale locale prin dezvoltarea infrastructurii Spitalului Municipal Salonta ” în cadrul Programului național de investiții în infrastructura unităților spitalicești Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea depunerii proiectului de investiții: „ Creșterea ca",
+   "url": "https://salonta.net/ro/hotarari/10-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.184-cresterea-calitatii-serviciilor-medicale-Program-National.pdf",
+     "sha256": "7c703fb45f19115cdaee2ec5daf7577730145df3ea4bf846bee85558fd3c9dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-187-2024",
+   "path": "local/bihor/salonta/2024/187",
+   "short": "HCL Salonta nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 187/2024 Privind aprobarea procesului-verbal al ședinței extraordinare a Consiliului Local al Municipiului Salonta din data de 10 octombrie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.187-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "5af3dadc6191b201e0ffb276847e573cd3c269eb2a6b76fad5327f21ea66fa06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-188-2024",
+   "path": "local/bihor/salonta/2024/188",
+   "short": "HCL Salonta nr. 188/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 188/2024 Privind rectificarea bugetului general consolidat al Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind rectificarea bugetului general consolidat al Municipiului Salonta; • Reținând Referatul de aprobare nr.8111 din data de 10.10.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de specialitate nr.8112 din d",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.188-rectificare-buget.pdf",
+     "sha256": "3ea6758d4b0710b42d1d9854412ce22a1d27bb196bbf1642e097fb66a8886317"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-189-2024",
+   "path": "local/bihor/salonta/2024/189",
+   "short": "HCL Salonta nr. 189/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 189/2024 privind transformarea unor funcții în Statul de functii al Aparatului de specialitate al Primarului, conform Anexei 1, Anexei 1.1. și Anexei 1.2. la prezenta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind transformarea unor funcții în Statul de functii al Aparatului de specialitate al Primarului, conform Anexei 1, Anexei 1.1. și Anexei 1.2. la prezenta; • Reținâ",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.189-transformare-Statut-functii-.pdf",
+     "sha256": "75f29371a04974f68df863a9117009eb8e7552d2763af2d11e563e8e5c03a08a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-19-2024",
+   "path": "local/bihor/salonta/2024/19",
+   "short": "HCL Salonta nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 19/2024 Privind însușirea și aprobarea Studiului de Fezabilitate și a indicatorilor tehnico- economici ai invcstiției: „CONSTRUIRE CENTRU DE TRANSFER TEHNOLOGIC ȘI INOVARE IN GEOTERMALISM” în Municipiul Salonta, județul Bihor” - nr. 8302/143/11/12/2023 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind însușirea și aprobarea Studiului de Fezabilitate și a indicatorilor tehn",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.19-SF-Centru-de-transfer.pdf",
+     "sha256": "f0ac6c71e8fa38bc534529b4c04495ba709d9ddd019e662fdc01bd10f8304534"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-190-2024",
+   "path": "local/bihor/salonta/2024/190",
+   "short": "HCL Salonta nr. 190/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 190/2024 privind aprobarea actualizarii Regulamentului de Organizare și Funcționare al Serviciului Public Comunitar de Evidență a Persoanelor Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea actualizarii Regulamentului de Organizare și Funcționare al Serviciului Public Comunitar de Evidență a Persoanelor ; • Reținând: - Referatul de aprobare nr. 8106 din data de",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.190-actualizare-ROF-Serv.Evidenta.pdf",
+     "sha256": "f92549e2622b310e89108fabb046e6e427e2a7bb2eeaf79d614c4da49255123d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-191-2024",
+   "path": "local/bihor/salonta/2024/191",
+   "short": "HCL Salonta nr. 191/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 191/2024 privind soluționarea cererii a Genesys Medical Clinic SRL nr. 7578/24.09.2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind soluționarea cererii a Genesys Medical Clinic SRL nr. 7578/24.09.2024; • Reținând: - Referatul de aprobare nr. 7578 din data de 09.10.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de specialitate n",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.191-cerere-Genesys.pdf",
+     "sha256": "1e66033cd50d940c2ec38c1953dc0ef336cd5d194c7d66c45dc45b673b0e3baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-192-2024",
+   "path": "local/bihor/salonta/2024/192",
+   "short": "HCL Salonta nr. 192/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 192/2024 privind soluționarea cererii U.A.T",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.192-microbus-Sacueni.pdf",
+     "sha256": "9adefff20649c9bde0461d7434e885a6a7e4002df8bc203786d816d1843ba031"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-198-2024",
+   "path": "local/bihor/salonta/2024/198",
+   "short": "HCL Salonta nr. 198/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 198/2024 privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenurile cu destinația de drum situate în extravilan cu suprafața de 3563 mp DE – 2837 și suprafața de 354 mp DE - 2828 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilelor pentru terenurile cu destinația de drum situate în extravi",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.198-PAD-DE-2837-DE-2828.pdf",
+     "sha256": "7ba6eb3e76b1c506852f4f09853bc125fec7c41a85fb45166b38e1e6edd982bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-199-2024",
+   "path": "local/bihor/salonta/2024/199",
+   "short": "HCL Salonta nr. 199/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 199/2024",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.199-solutionare-cerere-L15-Erdodi-Kristof.pdf",
+     "sha256": "bf59320f1f3f394a486bcf03d6b8a7f5240596c01db98d642700d07e291f3042"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-200-2024",
+   "path": "local/bihor/salonta/2024/200",
+   "short": "HCL Salonta nr. 200/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 200/2024 privind soluționarea cererii nr. 7935 din 03.10.2024 a Asociației Sf",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.200-solutionare-cerere-Asociatia-Sf.-Ocrotitorul.pdf",
+     "sha256": "ce58c0cc547579bcb00e7d847eb5d2fb623106fa885c7cb57bd5b44ef5d644c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-201-2024",
+   "path": "local/bihor/salonta/2024/201",
+   "short": "HCL Salonta nr. 201/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 201/2024 Privind aprobarea PUZ - ,, Construire spațiu comercial, depozit și apartament în regim P+2E”, jud. Bihor, mun. Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.201-PUZ-Republicii-NR.4.pdf",
+     "sha256": "79e3b9d4091f3b2f8f755d2d807449f465f10663a37c9c58c8d8fdeeb9178e4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-202-2024",
+   "path": "local/bihor/salonta/2024/202",
+   "short": "HCL Salonta nr. 202/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 202/2024 Privind aprobarea PUZ – Schimbare de destinație din instituție de cultură în spațiu comercial, jud. Bihor, mun. Salonta, str",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.202-PUZ-Pta-Libetatii.pdf",
+     "sha256": "5ee46edf1eb76addaea147c965535f832c1dc6834aaa4ab1311556e56eb627e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-203-2024",
+   "path": "local/bihor/salonta/2024/203",
+   "short": "HCL Salonta nr. 203/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 203/2024",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+     "sha256": "2a478174a18307402fd08dbc85a92e69d18926f579054d0ff9f320805961aee5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-204-2024",
+   "path": "local/bihor/salonta/2024/204",
+   "short": "HCL Salonta nr. 204/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 204/2024 privind aprobarea planului de amplasament și delimitare a imobilului teren cu suprafața de 8571mp Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului teren cu suprafața de 8571mp; • Reținând Referatul de aprobare nr. 8175 din data de 15.10.2024 al Primarului Municipiului Salonta, în calitate de inițiator; •",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.204-PAD-8571-mp.pdf",
+     "sha256": "fa267e983e749e5d6ee108a084380d6c15e8eda28fcb3353f4902408ea510d4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-205-2024",
+   "path": "local/bihor/salonta/2024/205",
+   "short": "HCL Salonta nr. 205/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 205/2024 privind aprobarea Planului de dezvoltare al obiectivului de investiție: ,,Realizare Parc de Specializare Inteligentă” Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Planului de dezvoltare al obiectivului de investiție: ,,Realizare Parc de Specializare Inteligentă”; • Reținând Referatul de aprobare nr. 8206 din data de 15.10.2024 al Primarului Municipiu",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.205-Plan-de-dezvoltare-Parc.pdf",
+     "sha256": "14385108a577f9fa7d983ec50085e866b9acbb9be824dcad0cd6d6d20fd3d213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-206-2024",
+   "path": "local/bihor/salonta/2024/206",
+   "short": "HCL Salonta nr. 206/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 206/2024 Privind încheierea Protocolului de colaborare în domeniul serviciilor sociale dintre Municipiul Salonta și Asociația Caritas Catolica Oradea în vederea continuării parteneriatului inițiat pentru implementarea proiectului „REABILITARE ȘI SCHIMBARE DESTINAȚIE ÎN CENTRU DE ZI BĂTRÂNII COMUNITĂȚII SALONTA” Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind încheierea Pr",
+   "url": "https://salonta.net/ro/hotarari/17-octombrie-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.206-solutionare-cerere-cARITAS.pdf",
+     "sha256": "f0ea6d7f77b2750c480bca75453a67f9f3c84b6cfef1b7f68f13e0e83d269603"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-207-2024",
+   "path": "local/bihor/salonta/2024/207",
+   "short": "HCL Salonta nr. 207/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 207/2024 Privind alegerea președintelui de ședință al Consiliului Local al Municipiului Salonta pentru luna noiembrie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: • Prevederile art.123 alin.(1) din OUG nr.57/2019 privind Codul administrativ, referitoare la alegerea președintelui de ședință, • Prevederile Regulamentului de organizare și funcționare a Consiliului Local al Municipiului Salon",
+   "url": "https://salonta.net/ro/hotarari/5-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-207-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "202fa742016e5f0927704e71b675b8a54ac91eae44ff6cddd73df744bdb2fc4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-208-2024",
+   "path": "local/bihor/salonta/2024/208",
+   "short": "HCL Salonta nr. 208/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 208/2024 Pentru aprobarea procesului verbal privind lucrările ședinței de constituire a Consiliului Local al Municipiului Salonta din data de 25 octombrie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/5-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-208-aprobare-PV-sedinta-constituire-CL.pdf",
+     "sha256": "2625aca0fe61150cd5e4eb57080673e9e908917b007fe4bde460dbe86a11fae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-21-2024",
+   "path": "local/bihor/salonta/2024/21",
+   "short": "HCL Salonta nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 21/2024 Privind aprobarea Proiectului Tehnic actualizat și a indicatorilor tehnico-economici pentru proiectul cu titlul „ Reabilitare interioară casa ROTH ARMIN, Piața Libertății, nr.8, Municipiul Salonta, Județul Bihor” Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea Proiectului Tehnic actualizat și a indicatorilor tehnico-economici pentru proiectul cu titlul",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.21-PT-Casa-ROTH-ARMIN.pdf",
+     "sha256": "ea6607210ba7d86d761fdd489fb5b81baf448842b7773ee1aa86f1848619c7e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-210-2024",
+   "path": "local/bihor/salonta/2024/210",
+   "short": "HCL Salonta nr. 210/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 210/2024 Privind Constituirea și componența nominală a comisiilor de specialitate din cadrul Consiliului Local al Municipiului Salonta Consiliul Local al Municipiului Salonta , Având în vedere: • Propunerile cu privire la numărul membrilor comisiilor de specialitate și componența lor; • Prevederile Regulamentului de organizare și funcționare a Consiliului local al Municipiului Salonta, aprobat prin Hotărâr",
+   "url": "https://salonta.net/ro/hotarari/5-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-210-comisii-de-specialitate-CL.pdf",
+     "sha256": "b8019b52ac9bc8b5a16a381228c1dece342ff593962a289d498ed6ff24a27c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-211-2024",
+   "path": "local/bihor/salonta/2024/211",
+   "short": "HCL Salonta nr. 211/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 211/2024 Privind alegerea viceprimarului Municipiului Salonta Consiliul Local al Municipiului Salonta, Având în vedere: • Ordinul nr.583/25.10.2024 a Instituției Prefectului Județul Bihor privind constatarea ca legal constituit a Consiliului local al Municipiului Salonta; • Propunerile făcute și rezultatul votului secret al majorității absolute a consilierilor locali în funcție din data de 5 noiembrie 2024",
+   "url": "https://salonta.net/ro/hotarari/5-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hot.-211-alegerea-viceprimarului.pdf",
+     "sha256": "b7d7ab7ac4d8b91895b156e29b2d5a64df47ecb1ebd048f06e8e662e98084ef2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-213-2024",
+   "path": "local/bihor/salonta/2024/213",
+   "short": "HCL Salonta nr. 213/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 213/2024 privind aprobarea planului de amplasament și delimitare a imobilului teren cu suprafața de 1530 mp Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului teren cu suprafața de 1530 mp; • Reținând Referatul de aprobare nr. 8769 din data de 01.11.2024 al Primarului Municipiului Salonta, în calitate de inițiator",
+   "url": "https://salonta.net/ro/hotarari/5-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.213-PAD-1530MP.pdf",
+     "sha256": "aa2fa5afbc64750749a1b111c84602feab786bac221dad401529734e1aa585b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-216-2024",
+   "path": "local/bihor/salonta/2024/216",
+   "short": "HCL Salonta nr. 216/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 216/2024 Privind aprobarea procesului-verbal al ședințelor extraordinare ale Consiliului Local al Municipiului Salonta din data de 5 noiembrie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.216-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "5a91367b81d9b80413012eea1055efde8d672ce99ca22f15acebe0bf631193c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-217-2024",
+   "path": "local/bihor/salonta/2024/217",
+   "short": "HCL Salonta nr. 217/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 217/2024 privind aprobarea executării de lucrări pe domeniul public al Municipiului Salonta pentru obiectivul de investiții: „ Extindere rețea electrică pentru alimentare cu energie electrică locuințe pentru tineri destinate închirierii în loc",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.217-extindere-retea-electrica-A.S.-Puskin.pdf",
+     "sha256": "245d088e96837b0bda2e63c913a2b3698dd01a86a65cf0d3116fa3da9e49b856"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-218-2024",
+   "path": "local/bihor/salonta/2024/218",
+   "short": "HCL Salonta nr. 218/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 218/2024 Privind înființarea a 10 posturi pentru asistenți personali în cadrul Statului de funcții și Organigramei Aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind înființarea a 10 posturi pentru asistenți personali în cadrul Statului de funcții și Organigramei Aparatului de specialitate al Primarului Municipiul",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.218-infiintare-10-posturi-asistent-personal.pdf",
+     "sha256": "422f43de4a1187289764683eb9e801e62bd7106e77dc1b05b672d1130024f1d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-219-2024",
+   "path": "local/bihor/salonta/2024/219",
+   "short": "HCL Salonta nr. 219/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 219/2024 Privind desemnarea reprezentanților în procedura de evaluare a performanțelor individuale ale Secretarului General al Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind desemnarea reprezentanților în procedura de evaluare a performanțelor individuale ale Secretarului General al Municipiului Salonta; • Reținând Referatul de aprobare nr. 8801 din",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.219-evaluare-SG.pdf",
+     "sha256": "0fc2465250d3a01fc1e954377c34780f888163819c6b3c68428439a18f0cd797"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-220-2024",
+   "path": "local/bihor/salonta/2024/220",
+   "short": "HCL Salonta nr. 220/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 220/2024",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.220-evaluare-manag.Complex-Muzeal.pdf",
+     "sha256": "8579ed90307164d984e2d94fd9341e1cd5022a4131b2a5e64c3881273a66b4b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-221-2024",
+   "path": "local/bihor/salonta/2024/221",
+   "short": "HCL Salonta nr. 221/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 221/2024",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.221-evaluare-manag.-Casa-de-Cultura.pdf",
+     "sha256": "78e116a2d26424931adf12c1f61ff389966ecf500a13f35448a5cf596a455c4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-222-2024",
+   "path": "local/bihor/salonta/2024/222",
+   "short": "HCL Salonta nr. 222/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 222/2024 privind desemnarea reprezentanților Consiliului Local al Municipiului Salonta în Consiliile de administrație ale unităților de învățământ din Municipiul Salonta pentru anul școlar 2024-2025 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la propunerea pentru desemnarea reprezentanților Consiliului Local al Municipiului Salonta în Consiliile de administrație al",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.222-reprez-CA-unitati-scolare.pdf",
+     "sha256": "6fdec9aa676e17a9ae796c6981df2f72ceed7dea969685ca31cee7304a89c028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-223-2024",
+   "path": "local/bihor/salonta/2024/223",
+   "short": "HCL Salonta nr. 223/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 223/2024 privind desemnarea reprezentantului Consiliului Local al Municipiului Salonta în Comisia pentru evaluarea și asigurarea calității la unităților de învățământ din Municipiul Salonta pentru anul școlar 2024-2025 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la propunerea pentru desemnarea reprezentanților Consiliului Local al Municipiului Salonta Comisia pentr",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.223-reprez-CEAC-unitati-scolare.pdf",
+     "sha256": "f02fcd3179c656b7d82d404b57f235fdede557effdc691ffb9c5ee2900c7b285"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-224-2024",
+   "path": "local/bihor/salonta/2024/224",
+   "short": "HCL Salonta nr. 224/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 224/2024",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.224-Fundatia-PRO-Salonta.pdf",
+     "sha256": "5cb4616f3bcc241ba1fdc98dd2024b5dcb022fff6f380cdf690be4d2cb319dde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-225-2024",
+   "path": "local/bihor/salonta/2024/225",
+   "short": "HCL Salonta nr. 225/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 225/2024 privind numirea reprezentantului Consiliului Local al Municipiului Salonta în Consiliul de Administrație a SC Salgaz SA Salonta Consiliul Local al Municipiului Salonta • Examinând proiectul de hotărâre cu privire la propunerea pentru numirea reprezentantului Consiliului Local al Municipiului Salonta în Consiliul de Administrație a SC Salgaz SA Salonta; • Reținând Referatul de aprobare 9045/11.11.2",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.225-CA-Salgaz.pdf",
+     "sha256": "47596e8b47b82f40b70c5c9ad1387e89c6c57a05c9458afad4eaf1e0808b2ca9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-226-2024",
+   "path": "local/bihor/salonta/2024/226",
+   "short": "HCL Salonta nr. 226/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 226/2024 privind numirea reprezentantului Consiliului Local al Municipiului Salonta în Adunarea Generală a Acționarilor a SC Salgaz SA Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la propunerea pentru numirea reprezentantului Consiliului Local al Municipiului Salonta în Adunarea Generală a Acționarilor a SC Salgaz SA Salonta; • Reținând Referatul de aprobare",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.226-AGA-Salgaz.pdf",
+     "sha256": "cddac7fa71b81224962117a7a394a16f7a821af33c17a368afecf9ae0b2827d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-227-2024",
+   "path": "local/bihor/salonta/2024/227",
+   "short": "HCL Salonta nr. 227/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 227/2024 Privind aprobarea Acordului de parteneriat transmis de Direcția Generală de Asistență Socială și Protecția Copilului Bihor aferent anului 2025 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la aprobarea Acordului de parteneriat transmis de Direcția Generală de Asistență Socială și Protecția Copilului Bihor aferent anului 2025; • Reținând Referatul de aprobare",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.227-Acord-parteneriat-DGASPC.pdf",
+     "sha256": "a1064acaa69be187d38e5845de5b6a2952ace13b4a57d472589e24b69836ba47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-229-2024",
+   "path": "local/bihor/salonta/2024/229",
+   "short": "HCL Salonta nr. 229/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 229/2024 Privind plângerea prealabilă nr. 4845/08.10.2024 împotriva Hotărârii Consiliului Local al Municipiului Salonta nr. 134/01.07.2024 privind aprobarea Statului de funcții și Organigramei a aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, Examinând proiectul de hotărâre privind plângerea prealabilă nr.4845/08.10.2024 împotriva Hotărârii Consiliului",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.229-plangere-HCL-134-din-2024.pdf",
+     "sha256": "e2b6de1f797e99f971301c64a082f60cea0d2ec77b4bf511b8ca0ef89898abed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-23-2024",
+   "path": "local/bihor/salonta/2024/23",
+   "short": "HCL Salonta nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 23/2024 Privind însușirea și aprobarea documentatiei pentru avizarea lucrarilor de interventie (D.A.L.I.) aferentă investiției Reabilitare pista de biciclete Salonta - Frontiera Ungaria Consiliul Local al Municipiului Salonta  Examinând Proiectul de hotărâre privind însușirea și aprobarea documentatiei pentru avizarea lucrarilor de interventie (D.A.L.I.) aferentă investiției Reabilitare pista de biciclet",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.23-DALI-Pista-bicicleta-FRONTIERA.pdf",
+     "sha256": "d880f31e66b4d673b9be2b6c517e93a15bb86beba1dc7f3b4876fd2cc53befa6"
     }
    ]
   },
@@ -63,6 +1683,1191 @@
    ]
   },
   {
+   "slug": "hcl-bihor--salonta-231-2024",
+   "path": "local/bihor/salonta/2024/231",
+   "short": "HCL Salonta nr. 231/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 231/2024 Privind aprobarea organizării evenimentului Târgul de Crăciun 2024 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea organizării evenimentului Târgul de Crăciun 2024;  Reținând Referatul de aprobare nr.9093 din data de 12.11.2024 al Primarului Municipiului Salonta, în calitate de inițiator;  Analizând Raportul de specialitate nr.9093 din data de 12.11.2",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.231-Targ-Craciun-2024.pdf",
+     "sha256": "746385aee4de84064a3735b82d282ac03d3635deaefdd91236fb0fffe76316fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-232-2024",
+   "path": "local/bihor/salonta/2024/232",
+   "short": "HCL Salonta nr. 232/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 232/2024 Privind numirea Comisiei de identificare și inventariere a terenurilor pentru punerea în aplicare a dispozițiilor Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, republicată, cu modificările și completările ulterioare și analizarea cererilor de atribuire de teren Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.232.-Comisie-inventariere-terenuri-L15.pdf",
+     "sha256": "0ad38a98ce96d68e6bfe523bbc2e07502ab8e7cb8cbb40f28593d909c1f112cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-233-2024",
+   "path": "local/bihor/salonta/2024/233",
+   "short": "HCL Salonta nr. 233/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 233/2024 Privind aprobarea suprafețelor de teren cu destinație de pășune permanentă aflată în proprietatea privată a Municipiului Salonta disponibile de a fi închiriate în anul 2025 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea suprafețelor de teren cu destinație de pășune permanentă aflată în proprietatea privată a Municipiului Salonta disponibile de a fi înc",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.233-SUPRAFETE-TEREN-PASUNE.pdf",
+     "sha256": "a24dd807a6f848fc512a9072ed33d5f882612df1e3c2baa2b154c6e26b8477fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-234-2024",
+   "path": "local/bihor/salonta/2024/234",
+   "short": "HCL Salonta nr. 234/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 234/2024 privind aprobarea actualizării indicatorilor tehnico-economici al obiectivului de investiție „REALIZARE PARC DE SPECIALIZARE INTELIGENTĂ” solicitat spre finanțare în cadrul Programului Regional NV 2021-2027, Prioritatea 1: O regiune competitivă prin inovare, digitalizare și întreprinderi dinamice, Obiectiv specific 1.3: Intensificarea creșterii durabile și a competitivității IMM-urilor și crearea",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.234-PARC-SPECIALIZARE-INTELIGENTA.pdf",
+     "sha256": "69c8aa37ca816d479799c1f3d67b95f81a57cdacf6ff744eac45836a8b4c9f40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-235-2024",
+   "path": "local/bihor/salonta/2024/235",
+   "short": "HCL Salonta nr. 235/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 235/2024 pentru modificarea HCLMS nr.159/2024 privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte asemenea taxe asimilate acestora, precum și amenzile aplicabile pentru anul 2025 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre pentru modificarea HCLMS nr.159/2024 privind indexarea nivelurilor pentru valorile impozabile, impozitele și taxe",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.235-indexare-impozit-transp.12t.pdf",
+     "sha256": "edfea0b86cccf732bd88ccead2fe5be5fed5b521450f4d526f7ba0eed59813e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-236-2024",
+   "path": "local/bihor/salonta/2024/236",
+   "short": "HCL Salonta nr. 236/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 236/2024 privind aprobarea Studiului de Fezabilitate aferent obiectivului de investiție cu titlul “Construire și împrejmuire Centru multifuncțional pentru copii și amenajări exterioare în Municipiului Salonta, Județul Bihor” Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Studiului de Fezabilitate aferent obiectivului de investiție cu titlul “Construire și împre",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.236-SF-CENTRU-MULTIFUNCTIONAL.pdf",
+     "sha256": "e62343971c88ec506ac169a467714338a882aab64b66b8462c09d3027680dfc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-238-2024",
+   "path": "local/bihor/salonta/2024/238",
+   "short": "HCL Salonta nr. 238/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 238/2024 Privind aprobarea planurilor de amplasament și delimitare a imobilului pentru dezmembrarea următoarelor terenuri: cad 113404 cu suprafața de 29 mp, nr. cad 113412 cu suprafața de 2701 și nr. cad 114700 cu suprafața de 8546 mp Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planurilor de amplasament și delimitare a imobilului pentru dezmembrarea următoar",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.238-PAD-8546MP.pdf",
+     "sha256": "4ae137b9f43b948728d2d40afde5e444014042d376a4503ef4e52513d0c98ab7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-239-2024",
+   "path": "local/bihor/salonta/2024/239",
+   "short": "HCL Salonta nr. 239/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 239/2024 Privind aprobarea planurilor de amplasament și delimitare a imobilului pentru terenul cu suprafața de 11523 mp și suprafața de 5513 mp Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea planurilor de amplasament și delimitare a imobilului pentru terenul cu suprafața de 11523 mp și suprafața de 5513 mp; • Reținând Referatul de aprobare nr. 9248 din data de",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.239-PAD-5513mp.pdf",
+     "sha256": "17ebd97b30da53c753c5809095a0e66183448d8b09a9c7f7a07f6bd602b28a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-24-2024",
+   "path": "local/bihor/salonta/2024/24",
+   "short": "HCL Salonta nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 24/2024 Privind participarea, în calitate de lider de parteneriat, a Municipiului Salonta la Programul Interreg VI-A Romȃnia-Ungaria - Prioritatea 1: Cooperare pentru o zona transfrontalieră mai verde și mai rezilientă, OS 2.7",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.24-ROHU-OS-2.7-GreenBike.pdf",
+     "sha256": "ba1612c885b166413844223f3fcb5e147de9283a2215c5064e59a1b9f6194ef5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-240-2024",
+   "path": "local/bihor/salonta/2024/240",
+   "short": "HCL Salonta nr. 240/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 240/2024",
+   "url": "https://salonta.net/ro/hotarari/18-noiembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.240-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "0563dbe07dc90eb5e444b6efb63e6997d60a81b01eed4d974230070c09c3cf59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-242-2024",
+   "path": "local/bihor/salonta/2024/242",
+   "short": "HCL Salonta nr. 242/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 242/2024 Privind rectificarea bugetului general consolidat al Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind rectificarea bugetului general consolidat al Municipiului Salonta; • Reținând Referatul de aprobare nr. 9842 din data de 03.12.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de specialitate nr.9843 din",
+   "url": "https://salonta.net/ro/hotarari/5-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.242-RECTIF-BUG.pdf",
+     "sha256": "6153f92a2cf026013704551f2627aebb94213a3638799419e627715af4890c44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-245-2024",
+   "path": "local/bihor/salonta/2024/245",
+   "short": "HCL Salonta nr. 245/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 245/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 18 noiembrie 2024 și cel al ședinței extraordinare din data de 05.12.2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.245-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "09bc14cecc695194d2d809f67b96050db5e08e986c9f134991984364ebb3a74a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-246-2024",
+   "path": "local/bihor/salonta/2024/246",
+   "short": "HCL Salonta nr. 246/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 246/2024 Privind rectificarea bugetului general consolidat al Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind rectificarea bugetului general consolidat al Municipiului Salonta; • Reținând Referatul de aprobare nr. 10172 din data de 11.12.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de specialitate nr. 10173 d",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.246-rectificarea-bugetara.pdf",
+     "sha256": "4dd7cedd1f0192b860828d6fc40d1195450d740aed74dc415f315e0b40e5b316"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-247-2024",
+   "path": "local/bihor/salonta/2024/247",
+   "short": "HCL Salonta nr. 247/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 247/2024 Privind numirea Comisiei de analiză a solicitărilor privind locuințele: pentru tineri construite din fondurile Agenției Naționale pentru Locuinte (ANL) și pentru locuințele sociale și alte locuințe aflate în proprietatea publică sau privată a Municipiului Salonta și a Comisiei de analiză și soluționare a contestațiilor Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu p",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.247-Comisie-analiza-cereri-ANL.pdf",
+     "sha256": "d84047ef2c19f30ee8a39b96f7689e8f37b49ce3ff3b69d69a287b968e511afc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-248-2024",
+   "path": "local/bihor/salonta/2024/248",
+   "short": "HCL Salonta nr. 248/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 248/2024 Privind aprobarea rețelei școlare ce va funcționa la nivelul Municipiului Salonta în anul școlar 2025-2026 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la aprobarea rețelei școlare ce va funcționa la nivelul Municipiului Salonta în anul școlar 2025-2026; • Reținând Referatul de aprobare nr. 10037/09.12.2024 al Primarului Municipiului Salonta, în calitate de",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.248-retea-scolara-2025-2026.pdf",
+     "sha256": "eff0d816c4ff9301b6a13d890f627edbc79838b7f7d18881b8d8ad4c78a0bfb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-249-2024",
+   "path": "local/bihor/salonta/2024/249",
+   "short": "HCL Salonta nr. 249/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 249/2024 Privind introducerea taxei pentru eliberarea în regim de urgență a certificatului fiscal Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind introducerea taxei pentru eliberarea în regim de urgență a certificatului fiscal; • Reținând Referatul de aprobare nr. 8905 din data de 05.11.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportu",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.249-taxa-certif.fiscal.pdf",
+     "sha256": "0cbeafb86c3eec82d98596e06eb4d9bdd42ab3018d9918f2ea197946a3a2b280"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-25-2024",
+   "path": "local/bihor/salonta/2024/25",
+   "short": "HCL Salonta nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 25/2024 Privind participarea, în calitate de partener, a Municipiului Salonta la Programul Interreg VI-A România –Ungaria, Prioritatea 2: Cooperare pentru o zonă transfrontalieră mai socială și mai coezivă; OS 4.6",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.25-ROHU-OS-4.6.-Culture-CALL.pdf",
+     "sha256": "4126168c346e43ad8db3474d3b72e51809bf0ea91df01c14f11a6c5809183ac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-250-2024",
+   "path": "local/bihor/salonta/2024/250",
+   "short": "HCL Salonta nr. 250/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 250/2024 privind aprobarea practicării/aplicării tarifelor locale pentru închiriere/concesionare/superficie/ocupare domeniu public sau privat pentru anul 2025 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea practicării/aplicării tarifelor locale pentru închiriere/concesionare/superficie/ocupare domeniu public sau privat pentru anul 2025;  Reținând Referatul de",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.250-tarife-locale-concesiuni-2025.pdf",
+     "sha256": "eb6d3d4fbd6ce86e6f0128fa1341d31c5c3693d20928936199dd9e2c1e00c483"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-251-2024",
+   "path": "local/bihor/salonta/2024/251",
+   "short": "HCL Salonta nr. 251/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 251/2024 privind actualizarea delimitării zonelor de impozitare a perimetrului intravilan al Municipiului Salonta pentru anul 2025 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind actualizarea delimitării zonelor de impozitare a perimetrului intravilan al Municipiului Salonta pentru anul 2025;  Reținând Referatul de aprobare nr. 9818 din 03.12.2024 al Primarului Municipiu",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.251-delimitare-zone-de-impozitare-2025.pdf",
+     "sha256": "d2f2131e1a11776d4d24263510b1005a842497e41799434eed7348b2ded2bc91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-252-2024",
+   "path": "local/bihor/salonta/2024/252",
+   "short": "HCL Salonta nr. 252/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 252/2024",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.252-actualiz.Anexa-3-retea-comunicatii-ANCOM.pdf",
+     "sha256": "5990bad3780cd88a0124a0cafd584aede06fc09a4e28616028d898443fcb12ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-254-2024",
+   "path": "local/bihor/salonta/2024/254",
+   "short": "HCL Salonta nr. 254/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 254/2024 Privind înscrierea proprietății publice a Municipiului Salonta asupra terenului cu suprafața de 152 mp înscris în CF 101950 cu nr. cad 101950 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind înscrierea proprietății publice a Municipiului Salonta asupra terenului cu suprafața de 152 mp înscris în CF 101950 cu nr. cad 101950;  Reținând Referatul de aprobare nr. 913",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.254-inscriere-proprietate-publica-152mp-CF-101950.pdf",
+     "sha256": "8db907e3ce1b23e439ceb89e5f0cad3271adf73e8a3c86e626d9ac428347a85b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-255-2024",
+   "path": "local/bihor/salonta/2024/255",
+   "short": "HCL Salonta nr. 255/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 255/2024 Privind trecerea terenului cu suprafața de 1198 mp înscris în CF 107046 cu nr. cad 107046 din domeniul public al Municipiului Salonta în domeniul privat la Municipiului Salonta Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind trecerea terenului cu suprafața de 1198 mp înscris în CF 107046 cu nr. cad 107046 din domeniul public al Municipiului Salonta în domeniul pr",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.255-trecere-in-domeniul-privat-1198mp-CF-1070446-.pdf",
+     "sha256": "9e179c6083eea2db8a4ab32e4ef89364a4337f63e711b8327f7f7fa78e4e867f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-256-2024",
+   "path": "local/bihor/salonta/2024/256",
+   "short": "HCL Salonta nr. 256/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 256/2024 Privind aprobarea repoziționării numărului cadastral 114599 cu suprafața de 1000 mp înscris în CF nr. 114599 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea repoziționării numărului cadastral 114599 cu suprafața de 1000 mp înscris în CF nr. 114599.  Reținând Referatul de aprobare nr. 10112 din 10.12.2024 al Primarului Municipiului Salonta, în calitate",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.256-repozitionare-nr.cad_.114599-1000mp.pdf",
+     "sha256": "ad9d67d0299b024d19ee8599ae176758c0491d9814525a9f3665b64eec06e45b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-257-2024",
+   "path": "local/bihor/salonta/2024/257",
+   "short": "HCL Salonta nr. 257/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 257/2024 Privind însușirea Convențiilor de Parteneriat încheiate conform prevederilor Legii nr.156/2023 cu unitățile de învățământ de la nivelul Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la însușirea Convențiilor de Parteneriat încheiate conform prevederilor Legii nr.156/2023 cu unitățile de învățământ de la nivelul Municipiului Salonta; • Re",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.257-insusire-Conventie-parteneriat-unitati-scolare_removed.pdf",
+     "sha256": "edb72c72facb13e51a6f51e156232222266224f67847ec453a815b9a7ada4178"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-258-2024",
+   "path": "local/bihor/salonta/2024/258",
+   "short": "HCL Salonta nr. 258/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 258/2024 Privind darea în folosință gratuită către Centrul Școlar de Educație Incluziva “Bonitas” Oradea – Structura Salonta a unor obiecte de inventar, mijloace didactice și mobilier Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la darea în folosință gratuită către Centrul Școlar de Educație Incluziva “Bonitas” Oradea – Structura Salonta a unor obiecte de inventar",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.258-dare-in-folosinta-Bonitas.pdf",
+     "sha256": "6b416ef532ddcad156d0e501be27516fc2ca4c83531e135021960c8c0ae212fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-259-2024",
+   "path": "local/bihor/salonta/2024/259",
+   "short": "HCL Salonta nr. 259/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 259/2024 Privind încheierea Convenției de Colaborare cu “Asociația Copiii Tatălui” Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la încheierea Convenției de Colaborare cu “Asociația Copiii Tatălui”; • Reținând Referatul de aprobare nr. 10249/12.12.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul de specialitate nr. 10250/12.12.2",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.259-Conventie-As.-Copiii-Tatalui.pdf",
+     "sha256": "4e129912970f3bdca7ef399964d176ac0443e3cb13be056810d8797239307a10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-26-2024",
+   "path": "local/bihor/salonta/2024/26",
+   "short": "HCL Salonta nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 26/2024 Privind participarea, în calitate de partener, a Municipiului Salonta la Programul Interreg VI-A România –Ungaria, Prioritatea 1: Cooperare pentru o zona transfrontalieră mai verde și mai rezilientă, OS 2.7",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.26-ROHU-OS-2.7.-GreenBorder.pdf",
+     "sha256": "c875fbcf808f1290adad30c08898047f0a9a87f4f1fe6b6106480d3baf47e303"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-260-2024",
+   "path": "local/bihor/salonta/2024/260",
+   "short": "HCL Salonta nr. 260/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 260/2024",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.260-actualizare-coef.Anexa-1.pdf",
+     "sha256": "9354267c838102a4d83170543e25bdd45c8b8862407bc4ccc3dd22708b927a19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-261-2024",
+   "path": "local/bihor/salonta/2024/261",
+   "short": "HCL Salonta nr. 261/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 261/2024 Privind desființarea Cantinei Sociale a Municipiului Salonta ca instituție publică cu personalitate juridică și reorganizarea Unității de Asistență Medico-Socială pentru bolnavi cronici Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind desființarea Cantinei Sociale a Municipiului Salonta ca instituție publică cu personalitate juridică și reorganizarea Unită",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.261-reorganizare-UAMS.pdf",
+     "sha256": "0b49ca45ac77c0bbfcf11b2cf6dd32f342ce8a5bffa4b7ddd34bfa62fc5fabfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-262-2024",
+   "path": "local/bihor/salonta/2024/262",
+   "short": "HCL Salonta nr. 262/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 262/2024 Privind transformarea unor funcții în Statul de funcții al Aparatului de specialitate al Primarului Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind privind transformarea unor funcții în Statul de functii al Aparatului de specialitate al Primarului; • Reținând Referatul de aprobare nr.10213 din data de 12.12.2024 al Primarului Municipiului Salonta, în calitate de",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.262-transformare-functii.pdf",
+     "sha256": "7bd7dd8afe00cf61c8ec363722706fb2031ad7049dab5863ee605b03dc15728e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-263-2024",
+   "path": "local/bihor/salonta/2024/263",
+   "short": "HCL Salonta nr. 263/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 263/2024 Privind aprobarea Statului de funcții și a Organigramei Aparatului de specialitate al Primarului Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Statului de functii si a Organigramei Aparatului de specialitate al Primarului Municipiului Salonta; • Reținând Referatul de aprobare nr. 10228 din data de 12.12.2024 al Primarului Municipi",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.263-Stat-de-functii-Organigrama.pdf",
+     "sha256": "cc8dc8ceb1f4e94d18aff8e2e9dca0eddff9a5a9f144e9154d15f76fb5fe0430"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-264-2024",
+   "path": "local/bihor/salonta/2024/264",
+   "short": "HCL Salonta nr. 264/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 264/2024 Privind adoptarea propunerii: Criteriile de acces în locuință și Criteriile de ierarhizare prin punctaj care se aplică în soluționarea cererilor de locuințe și în repartizarea locuințelor construite prin Programul de construcții locuințe pentru tineri destinate închirierii în Municipiul Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire adoptarea propuner",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.264-Criterii-ierarhizare-ANL.pdf",
+     "sha256": "86ff5889cb9ed8c0fa13c513b77c857fa42abd73997b9d2598b6dfbc7a6a4b0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-265-2024",
+   "path": "local/bihor/salonta/2024/265",
+   "short": "HCL Salonta nr. 265/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 265/2024 Privind aprobarea Contractului de concesiune ce urmează a fi încheiat pentru concesionarea, terenului în suprafață de 8033 mp, situat în str. Ghestului, cu adjudecatarul Cristiana Company Impex Srl Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre cu privire la aprobarea Contractului de concesiune ce urmează a fi încheiat pentru concesionarea, terenului în suprafață de 803",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.265-ctr.concesiune-Cristiana-Company-8033mp-Ghestului.pdf",
+     "sha256": "5904e2124d226b3c696d26fd9322d13deb0bc150957829b3c2099f5aa03deeb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-266-2024",
+   "path": "local/bihor/salonta/2024/266",
+   "short": "HCL Salonta nr. 266/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 266/2024 Privind supraimpozitarea clădirilor neîntreținute de pe raza Municipiului Salonta pentru anul 2025 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind supraimpozitarea clădirilor neîntreținute de pe raza Municipiului Salonta pentru anul 2025; • Reținând Referatul de aprobare nr. 9819 din data de 03.12.2024 al Primarului Municipiului Salonta, în calitate de inițiator",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.266-SUPRAIMPOZITAREA-CLADIRILOR.pdf",
+     "sha256": "b161c3e80e13db376ea4d11f390c4ab251d8618321c8e389ede264afb540bf2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-267-2024",
+   "path": "local/bihor/salonta/2024/267",
+   "short": "HCL Salonta nr. 267/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 267/2024 Privind reactualizarea Registrului Local al Spațiilor Verzi din Municipiul Salonta, Anexa nr.3 a HCLMS nr.103 din 30 Aprilie 2024 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind reactualizarea Registrului Local al Spațiilor Verzi din Municipiul Salonta, Anexa nr.3 a HCLMS nr.103 din 30 Aprilie 2024;  Reținând Referatul de aprobare nr. 10414 din 10.12.2024 al Pri",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.267-reactualiz.Registru-Spatii-verzi-A-nexa-3.pdf",
+     "sha256": "4b8240136bce0e3f206a87de501df1b51fe67d34a46e4d5d7e562626c2b59903"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-268-2024",
+   "path": "local/bihor/salonta/2024/268",
+   "short": "HCL Salonta nr. 268/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 268/2024",
+   "url": "https://salonta.net/ro/hotarari/18-decembrie-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.268-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "99dd0a07dc8f50044f85560ea7a2cf3092c4923fa93cf3b5330c9ba697ce8511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-27-2024",
+   "path": "local/bihor/salonta/2024/27",
+   "short": "HCL Salonta nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 27/2024",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.27-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "def5901fef5268ad5606ff295905b7875c6140d6be98417d66538ed8afc234b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-3-2024",
+   "path": "local/bihor/salonta/2024/3",
+   "short": "HCL Salonta nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 3/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 21 decembrie 2023 și a procesului verbal al ședinței extraordinare din data de 28 decembrie 2023 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.3-probare-PV-sedinta-CL.pdf",
+     "sha256": "1cde476538c5a6056cc1fc4c045e23a497133b4559b8329d75cb794c911c6504"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-31-2024",
+   "path": "local/bihor/salonta/2024/31",
+   "short": "HCL Salonta nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 31/2024 privind aprobarea „Aprobarea indicatorilor pentru finanțarea elaborării și actualizării Planului Urbanistic General și Regulamentului Local de Urbanism al Municipiului Salonta , jud",
+   "url": "https://salonta.net/ro/hotarari/13-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.31-finantare-elaborare-PUG-si-RLU.pdf",
+     "sha256": "2c60d36ff0dc75159b322518c751d114e6172e590087ec18f0e2a4d95958c683"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-32-2024",
+   "path": "local/bihor/salonta/2024/32",
+   "short": "HCL Salonta nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 32/2024 privind modificarea Regulamentului de organizare si funcționare a serviciului social de zi, Centru de zi “Bunicii Comunității Salonta” Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind modificarea Regulamentului de organizare și funcționare a serviciului social de zi, Centru de zi “Bunicii Comunității Salonta” ;  Reținând Referatul de aprobare nr. 835 din 02.02.20",
+   "url": "https://salonta.net/ro/hotarari/13-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.32-modif.ROF-Centru-de-zi.pdf",
+     "sha256": "b54cab0e6ba7daca6ec5eaf5e2b1539683f3ee8cf84556dd7fc9cf6b0042ac1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-33-2024",
+   "path": "local/bihor/salonta/2024/33",
+   "short": "HCL Salonta nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 33/2024",
+   "url": "https://salonta.net/ro/hotarari/13-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.33-actualizare-Anexa-2-HCL-21-Roth-Armin.pdf",
+     "sha256": "2acd03df4591856bad4818555c514fb06b9a61776807de0a831f19bdd2d9a134"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-34-2024",
+   "path": "local/bihor/salonta/2024/34",
+   "short": "HCL Salonta nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 34/2024",
+   "url": "https://salonta.net/ro/hotarari/13-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.34-modif-Anexa-HCL-361-stema.pdf",
+     "sha256": "5786579a33562752e32cc6aa13c028da34de7488919b3e6c272f3ad7d4c414a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-37-2024",
+   "path": "local/bihor/salonta/2024/37",
+   "short": "HCL Salonta nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 37/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 23 ianuarie 2024 și a procesului verbal al ședinței extraordinare din data de 13 februarie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.37-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "1de8e649941314326497426ac22b0fa2c900124ef181120d7b0e0af0ef331223"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-38-2024",
+   "path": "local/bihor/salonta/2024/38",
+   "short": "HCL Salonta nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 38/2024",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.38-buget-initial-2024.pdf",
+     "sha256": "70026c2bdfdebb5608b5d0610a7279238197b071a95fd798a180c971e88f7dd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-39-2024",
+   "path": "local/bihor/salonta/2024/39",
+   "short": "HCL Salonta nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 39/2024 Privind aprobarea înființării unor activități finanțate integral din venituri proprii pentru instituțiile de învățământ din subordinea Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea înființării unor activități finanțate integral din venituri proprii pentru instituțiile de învățământ din subordinea Municipiului Salonta; • Reținând R",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.39-activitati-finantate-inst.invatamant.pdf",
+     "sha256": "ae5f43afce63ca582fb72a040d7784bdb01f42f44c4f88c43e82617a8b41c1ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-4-2024",
+   "path": "local/bihor/salonta/2024/4",
+   "short": "HCL Salonta nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 4/2024 pentru modificarea și completarea Ordonantei Guvernului nr. 25/2001 privind înființarea Companiei Naționale de Investiții „CNI S.A.”, aprobată cu modificări și completări prin Legea nr. 117/2002, cu modificările și completările ulterioare;  Programului Național de Construcții de Interes Public sau Social; subprogramul: Unități sanitare  HCLMS nr. 247/30.12.2022 privind aprobarea Studiului de Fez",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.4-Cresterea-calitatii-serviciilor-medicale.pdf",
+     "sha256": "5147e2c8599ede0f681063c417fb60b823a14f1e934373bdd4a8ef98f7899b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-40-2024",
+   "path": "local/bihor/salonta/2024/40",
+   "short": "HCL Salonta nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 40/2024",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.40-atestare-pers.fiz_.-condominii.pdf",
+     "sha256": "01a25368390a4ccb80afd124b9b7e73843a5aa2b6d387d36ab77db9e466cf95b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-41-2024",
+   "path": "local/bihor/salonta/2024/41",
+   "short": "HCL Salonta nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 41/2024 Privind aprobarea Planului de acțiune pentru serviciile sociale administrate și finanțate din bugetul local pentru anul 2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Planului de acțiune pentru serviciile sociale administrate și finanțate din bugetul local pentru anul 2024; • Reținând Referatul de aprobare nr. 9783 din data de 14.12.2023 al Primar",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.41-Plan-de-actiune-servicii-sociale-2024.pdf",
+     "sha256": "50221559a1ecefbbbef64f36a8d9e7c72dba1bbc3853fbe167aa80b86da53016"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-42-2024",
+   "path": "local/bihor/salonta/2024/42",
+   "short": "HCL Salonta nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 42/2024 Privind aprobarea PROGRAMULUI DE ACȚIUNE COMUNITARĂ la nivelul Municipiului Salonta pe anul 2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Programului de Acțiune Comunitară la nivelul Municipiului Salonta pe anul 2024; • Reținând Referatul de aprobare nr. 142 din data de 8.01.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Ana",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.42-Programul-de-actiune-comunitara-2024.pdf",
+     "sha256": "d09287ab35a8813bcf6913567807810ab1e002fe9d8c0cf21a452c9c0563d03c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-43-2024",
+   "path": "local/bihor/salonta/2024/43",
+   "short": "HCL Salonta nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 43/2024 Privind acordarea ajutorului de urgență, a ajutorului comunitar și a altor măsuri suport din bugetul local al Municipiului Salonta conform Legii nr.196/2016 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind acordarea ajutorului de urgență, a ajutorului comunitar și a altor măsuri suport din bugetul local al Municipiului Salonta conform Legii nr.196/2016; • Reținând",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.43-ajutor-de-urgenta-2024.pdf",
+     "sha256": "12f8c98297b61499aa9a8e9031264e764f1e178ab9c34e6887aa8626257b9580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-44-2024",
+   "path": "local/bihor/salonta/2024/44",
+   "short": "HCL Salonta nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 44/2024 Privind încheierea unei Convenții de colaborare cu Universitatea Creștină Partium – Facultatea de Științe Economice și Sociale Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind încheierea unei Convenții de colaborare cu Universitatea Creștină Partium – Facultatea de Științe Economice și Sociale; • Reținând Referatul de aprobare nr. 516 din data de 20.02.2024 al Pri",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.44-Conventie-colaborare-Partium.pdf",
+     "sha256": "fcbb41fb42e3ecdb33653bb0e8214e971924c9d85ebe4e8b222509dff69ed94f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-45-2024",
+   "path": "local/bihor/salonta/2024/45",
+   "short": "HCL Salonta nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 45/2024 Privind aprobarea Statului de funcții al Spitalului Municipal Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Statului de funcții al Spitalului Municipal Salonta; • Reținând: - Nota de fundamentare nr. 621/15.01.2024 din partea Spitalului Municipiului Salonta privind aprobarea Statului de funcții al Spitalului Municipal Salonta; - Referatul de a",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.45-Statut-functii-Spital.pdf",
+     "sha256": "cf81cdd6b2b8c930ce00c0741881707be6ee6f6daff4ed1e937c123a32468944"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-46-2024",
+   "path": "local/bihor/salonta/2024/46",
+   "short": "HCL Salonta nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 46/2024",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.46-PUZ-HIZO.pdf",
+     "sha256": "aced733e46adcc029c28e52b26e556aec8da46007d18333593721603194d6e30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-47-2024",
+   "path": "local/bihor/salonta/2024/47",
+   "short": "HCL Salonta nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 47/2024 Privind aprobarea apartamentării imobilului constând în clădire cu destinația de locuință situat în Municipiul Salonta str",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.47-apartamentare-imobil-Jean-Kalvin-32.pdf",
+     "sha256": "aa3416127e31fc6c837944fdaadf847306c00b207fadbf6f568bbf8a06ae67f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-48-2024",
+   "path": "local/bihor/salonta/2024/48",
+   "short": "HCL Salonta nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 48/2024",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+     "sha256": "6315e0d0e9a22fd8243d6b238f89e672207049177874b8721bab8e37ad5521ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-49-2024",
+   "path": "local/bihor/salonta/2024/49",
+   "short": "HCL Salonta nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 49/2024 Privind realizarea unui schimb de imobile între Municipiul Salonta și Crișana Pro Construct SA Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind realizarea unui schimb de imobile între Municipiul Salonta și Crișana Pro Construct SA ;  Reținând Referatul de aprobare nr. 1218/1219 din 22.02.2024 al Primarului Municipiului Salonta, în calitate de inițiator;  Analizâ",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.49-schimb-imobile-Crisana-PRO-Construct.pdf",
+     "sha256": "76abc20b72fdafd12d10b5ba248aaadb4a2cf66426fd16b608ccda5fefdd7103"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-5-2024",
+   "path": "local/bihor/salonta/2024/5",
+   "short": "HCL Salonta nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 5/2024 privind aprobarea planului de amplasament și delimitare a imobilului pentru imobilul cu nr. cadastral 114863 cu suprafața de 9903 mp rezultat din alipirea imobilului cu nr. cadastral 114795 cu suprafața de 19 mp și a imobilului cu nr. cadastral 114817 cu suprafața de 9884 mp Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea planului de amplasament și deli",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.5-alipire-teren.pdf",
+     "sha256": "6840d720979e306899dcd60066e1a2dbbfd9a0e3f51e274a0c08ba7111e5a187"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-50-2024",
+   "path": "local/bihor/salonta/2024/50",
+   "short": "HCL Salonta nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 50/2024 Privind aprobarea achiziționării terenului în suprafață de 1790,50 mp teren și supraedificate C9 parțial 368/654 mp și C16 499 mp , imobile înscrise în CF nr.113045 Salonta, proprietate privată a societății Cistan Comimpex SRL Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea achiziționării terenului în suprafață de 1790,50 mp teren și supraedificate C9 p",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.50-achiz.Cistan.pdf",
+     "sha256": "32cc142456c88f2d451ceade51aa974df8a486c1ccfa6b9bf7bbc25ad581c713"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-51-2024",
+   "path": "local/bihor/salonta/2024/51",
+   "short": "HCL Salonta nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 51/2024 Privind aprobarea inventarului bunurilor imobile aparținând domeniului privat al Municipiului Salonta Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea inventarului bunurilor imobile aparținând domeniului privat al Municipiului Salonta;  Reținând Referatul de aprobare nr. 1230 din 20.02.2024 al Primarului Municipiului Salonta, în calitate de inițiator; ",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.51-inventar-2024-domeniu-privat.pdf",
+     "sha256": "4c95290bc33cfd9177362deeef91dd9f1adfd15806db4b6ca1bc32406d835771"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-52-2024",
+   "path": "local/bihor/salonta/2024/52",
+   "short": "HCL Salonta nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 52/2024",
+   "url": "https://salonta.net/ro/hotarari/29-februarie-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.52-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "8d614227f304a45c39dd11b90adeccc7112b0f5feb2b0bb9aaff9fc39547c373"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-55-2024",
+   "path": "local/bihor/salonta/2024/55",
+   "short": "HCL Salonta nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 55/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 29 februarie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.55-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "696395ce5cd82fad145df0caf5777457c9f247d3b073f4f6999209ec48f0ea0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-56-2024",
+   "path": "local/bihor/salonta/2024/56",
+   "short": "HCL Salonta nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 56/2024 Privind aprobarea contului de execuție bugetară pe anul 2023 și a situației financiare întocmite la data de 31 decembrie 2023 al Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea contului de execuție bugetară pe anul 2023 și a situației financiare întocmite la data de 31 decembrie 2023 al Municipiului Salonta ; • Reținând Referatul de",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.56-cont-de-executie-2024.pdf",
+     "sha256": "918138ea7dc3df8d71b6cafe144b981b033bd59ee58ea44a0cffb2f2b13bf7f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-57-2024",
+   "path": "local/bihor/salonta/2024/57",
+   "short": "HCL Salonta nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 57/2024 Privind stabilirea normativelor proprii de cheltuieli pentru Municipiului Salonta pe anul 2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind stabilirea normativelor proprii de cheltuieli pentru Municipiului Salonta pe anul 2024 ; • Reținând Referatul de aprobare nr. 2191 din data de 21.032024 al Primarului Municipiului Salonta, în calitate de inițiator; • Anali",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.57-normative-cheltuieli-2024.pdf",
+     "sha256": "62ae7cb6eee8c1b495e971e7bdbfe5d0739e5d77cfca602290eaf6e4b5c716c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-58-2024",
+   "path": "local/bihor/salonta/2024/58",
+   "short": "HCL Salonta nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 58/2024 Privind însușirea Procesului Verbal Nr.1747/07.03.2024 și a prețului final de achiziționare a terenului în suprafață de 1790,50 mp teren și a supraedificatelor C9 parțial 368/654 mp și C16 499 mp, imobile înscrise în CF nr.113045 Salonta, proprietate privată a societății Cistan Comimpex SRL Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind însușirea Procesului Verb",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.58-achiz.teren-imobile-CISTAN.pdf",
+     "sha256": "5d8b29bc2c1959362cac1db3cbaff808694b583a1cebd1d993b88a7bb5c298f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-6-2024",
+   "path": "local/bihor/salonta/2024/6",
+   "short": "HCL Salonta nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 6/2024 privind aprobarea Studiului de oportunitate și organizarea vânzării prin licitație publică a bunului imobil teren cu suprafața de 9903 mp identificat cu numar cadastral 114863 înscris în CF 114863 proprietate privată a Municipiului Salonta format prin alipirea terenului cu nr. cad 114817 cu suprafața de 9884 mp și a terenului cu nr. cad 114795 cu suprafața de 19 mp Consiliul Local al Municipiului",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.6-Studiu-oport.-vnz-teren-9903-mp_removed.pdf",
+     "sha256": "ef24a5b213e4bb3dff0686477b861b63384f39f8bfa8544cdbd4dbb4bb454eb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-60-2024",
+   "path": "local/bihor/salonta/2024/60",
+   "short": "HCL Salonta nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 60/2024 Privind aprobarea PUZ pentru ,, Parcelare teren cu nr. cadastral 114488 în vederea construirii de locuințe în Municipiul Salonta, Județul Bihor” Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea PUZ pentru ,, Parcelare teren cu nr. cadastral 114488 în vederea construirii de locuințe în Municipiul Salonta, Județul Bihor” ;  Reținând Referatul de aprobare",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.60-PUZ-parcelare-teren.pdf",
+     "sha256": "8917b48ce461bc6e407e5219c4821a3ae9b045681397045818c02c07cdfb8ef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-61-2024",
+   "path": "local/bihor/salonta/2024/61",
+   "short": "HCL Salonta nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 61/2024 privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr. cad 106596 cu suprafața de 3798 mp în două loturi Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea planului de amplasament și delimitare a imobilului pentru dezmembrarea terenului cu nr. cad 106596 cu suprafața de 3798 mp în două loturi;  Reținând R",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.61-PAD-106596-2-LOTURI.pdf",
+     "sha256": "f5a33272767758baa0184006112200c0db6ce396fd6ef42fb5ebb0550b6e8e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-62-2024",
+   "path": "local/bihor/salonta/2024/62",
+   "short": "HCL Salonta nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 62/2024 privind aprobarea repoziționării numărului cadastral 114916 cu suprafața din acte de 16474 mp și suprafața măsurată de 18934 mp înscris în CF nr. 114916 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea repoziționării numărului cadastral 114916 cu suprafața din acte de 16474 mp și suprafața măsurată de 18934 mp înscris în CF nr. 114916 ;  Reținând Refera",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.62-repozitionare-CF-114916.pdf",
+     "sha256": "1e1a69cba1b1ac19c4f12ac717e4d77cdea25153b42e933041278e9e5f2f12c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-63-2024",
+   "path": "local/bihor/salonta/2024/63",
+   "short": "HCL Salonta nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 63/2024 Privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare necesare pentru gestionarea situațiilor de urgență din Municipiul Salonta pe anul 2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare necesare pentru gestionarea situațiilor de urgență din Municipiul Salonta",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.63-PARUMF-2024.pdf",
+     "sha256": "125323fea46a4bfed5f065ece0b1a14995a22fe69eca722a8cc7df1b05bc8a03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-64-2024",
+   "path": "local/bihor/salonta/2024/64",
+   "short": "HCL Salonta nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 64/2024 Privind însușirea Contractului de Asistență Juridică nr. 296019/19.03.2024 în Dosarul nr.803/111/2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind însușirea Contractului de Asistență Juridică nr. 296019/19.03.2024 în Dosarul nr.803/111/2024; • Reținând Referatul de aprobare nr. 2131 din 19.03.2024 al Primarului Municipiului Salonta, în calitate de inițiator. •",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.64-ctr.asist_.jr-dOS-803.pdf",
+     "sha256": "8294ca9efd160c6c9dd2bceb16bc6a082f84be87a786641789d26a3739f92439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-65-2024",
+   "path": "local/bihor/salonta/2024/65",
+   "short": "HCL Salonta nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 65/2024 privind soluționarea Cererii nr.1251/18.03.2024 a SC Nutrisal SRL prin care solicită încetarea Contractului de închiriere nr.568 din 22.01.2015, având ca obiect închirierea terenului intravilan, în suprafață de 70 mp, aflat în domeniul public al Municipiului Salonta, situat în str",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.65-cerere-NUTRISAL.pdf",
+     "sha256": "64f5f641142cb001fc8d8ea484ac2d93fdd110325a37c8e1587e0c1e7f0ac505"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-66-2024",
+   "path": "local/bihor/salonta/2024/66",
+   "short": "HCL Salonta nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 66/2024 privind soluționarea Cererii nr. 838/20.02.2024 pentru acordarea a două locuri de parcare situate în incinta adresei Aleea Petre Păulescu Q6 ap. 4 – Radix Labor SRL Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind soluționarea Cererii nr. 838/20.02.2024 pentru acordarea a două locuri de parcare situate în incinta adresei Aleea Petre Păulescu Q6 ap. 4 – Radix Labor",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.66-cerere-RADIX-LABOR.pdf",
+     "sha256": "17deedee88613af76bfd2b1e4a22a27a26b45df7c30a5378407cf9c449f9d046"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-67-2024",
+   "path": "local/bihor/salonta/2024/67",
+   "short": "HCL Salonta nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 67/2024",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+     "sha256": "e6a1082220bc73304eebd3f26e8264e0ad462c43fd7731abd42f2ac62fad092a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-68-2024",
+   "path": "local/bihor/salonta/2024/68",
+   "short": "HCL Salonta nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 68/2024 privind participarea la Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind participarea la Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate ;  Reținând Referatul de aprobare nr. 2251 din 22.03.2024 al Primarului Municipiului Salonta, în calitate de",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.68-Program-AFM-16-strazi.pdf",
+     "sha256": "2af9f204c14059fd0abb55f057e2c3b5476d70597905be1952ea5d6f3a5e477c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-69-2024",
+   "path": "local/bihor/salonta/2024/69",
+   "short": "HCL Salonta nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 69/2024 Privind aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân din UAT Comuna Cefa Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân din U",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.69-Protocol-CEFA.pdf",
+     "sha256": "ffd51d496e6770fbead57db779f41344a09e1e84e16a1c78aada31266b5ceea6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-7-2024",
+   "path": "local/bihor/salonta/2024/7",
+   "short": "HCL Salonta nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 7/2024 Privind aprobarea revizuirii și actualizării Regulamentului de organizare și funcționare al Consiliului local al Municipiului Salonta, județul Bihor, aprobat prin HCLMS nr.56 din 27.05.2021, republicat prin HCLMS nr.27/23.02.2023 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea revizuirii și actualizării Regulamentului de organizare și funcționare al Con",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.7-ROF-Consiliul-Local.pdf",
+     "sha256": "2aded30f11fbe175fbe982e9f5eea2ea6af1e98fa1596615f87067c98a945928"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-70-2024",
+   "path": "local/bihor/salonta/2024/70",
+   "short": "HCL Salonta nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 70/2024 Privind aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân din UAT Comuna Ciumeghiu Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.70-Protocol-CIUMEGHIU.pdf",
+     "sha256": "59c42cdc4612b90d38e5c15ed1a49d47d0d090235fadab2080f684f217bede34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-71-2024",
+   "path": "local/bihor/salonta/2024/71",
+   "short": "HCL Salonta nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 71/2024 Privind aprobarea Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân din UAT Comuna Avram Iancu Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea a Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stă",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+     "sha256": "c0992f635bcd024dc6d982a6b4b989a9f28cdac87bcbb2981055893759029655"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-72-2024",
+   "path": "local/bihor/salonta/2024/72",
+   "short": "HCL Salonta nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 72/2024 Privind aprobarea a Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân din Comuna Mădăras Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea a Protocolului de colaborare pentru gestionarea câinilor fără stăpân cu Serviciul specializat pentru gestionarea câinilor fără stăpân di",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.72-Protocol-MADARAS.pdf",
+     "sha256": "a00809106b55de8adb4fbff50db01b329c90845a930dabe9b7d8401a6247cc72"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-73-2024",
    "path": "local/bihor/salonta/2024/73",
    "short": "HCL Salonta nr. 73/2024",
@@ -78,6 +2883,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--salonta-74-2024",
+   "path": "local/bihor/salonta/2024/74",
+   "short": "HCL Salonta nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 74/2024 Privind aprobarea Documentației tehnico - economice Proiect Tehnic și Detalii de Execuție pentru proiectul: Asigurarea infrastructurii pentru transportul verde prin amenajarea pistelor pentru biciclete în Municipiul Salonta, județul Bihor” titlu apel: PNRR/2022/C10/I1.3 Runda 1 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea Documentației tehnico -econo",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.74-PT-pista-transport-verde.pdf",
+     "sha256": "9449ed9c726d831e2604822735a321c00eb9f4613c3b08d7190fa31a905884a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-75-2024",
+   "path": "local/bihor/salonta/2024/75",
+   "short": "HCL Salonta nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 75/2024 Privind aprobarea încheierii unui act adițional la contractul de superficie cu nr 263/07.03.2024 încheiat cu LUC-SAL ENERGY SRL pentru repoziționarea obiectivului de investiții „Racordare la rețea a centralei electrice fotovoltaice LUC-SAL ENERGY SRL” Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea încheierii unui act adițional la contractul de superfic",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.75-act-aditional-LUC-SAL-ENERGY.pdf",
+     "sha256": "b84434fd4367dc8cce640decacd1a946af0224e75d6b38b0e887abf70f2f2502"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-76-2024",
+   "path": "local/bihor/salonta/2024/76",
+   "short": "HCL Salonta nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 76/2024",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.76-PNRR-T.-Nes.pdf",
+     "sha256": "ed13e7ca3195e60bba6fa8a514225b49a4933a812834102b91824ca1d1afed16"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--salonta-77-2024",
    "path": "local/bihor/salonta/2024/77",
    "short": "HCL Salonta nr. 77/2024",
@@ -89,6 +2939,291 @@
      "units": 1,
      "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.77-modif.finantare-elaborare-PUG-si-RLU.pdf",
      "sha256": "16966573cff001ed36aef06742acd9ef7df4294e198380ae8644d071423bb868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-79-2024",
+   "path": "local/bihor/salonta/2024/79",
+   "short": "HCL Salonta nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 79/2024 privind aprobarea modalității de gestionare a activității de dezinsecție, dezinfecție și deratizare la obiectivele din domeniul public și domeniul privat al UAT Municipiul Salonta din cadrul serviciului de salubrizare a localității Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind aprobarea modalității de gestionare a activității de dezinsecție, dezinfecție și dera",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.79-SALUBRIZARE.pdf",
+     "sha256": "69322a8561fbf3fa7ecd71e72f9d3f55af25302c818d9ab3bd3ff2a263422e68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-8-2024",
+   "path": "local/bihor/salonta/2024/8",
+   "short": "HCL Salonta nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 8/2024 privind aprobarea Planului de analiză și acoperire a riscurilor, actualizat pe anul 2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre pentru aprobarea Planului de analiză și acoperire a riscurilor, actualizat pe anul 2024; • Reținând Referatul de aprobare nr. 231 din data de 11.01.2024 al Primarului Municipiului Salonta, în calitate de inițiator; • Analizând Raportul",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.8-PAAR-2024.pdf",
+     "sha256": "ce0652819c508e95b8d34534f9acfd7a2ee1f05e206068112ccdf4f231429f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-80-2024",
+   "path": "local/bihor/salonta/2024/80",
+   "short": "HCL Salonta nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 80/2024 Privind rectificarea anexei la HCL nr.51 din 29.02.2024 privind aprobarea inventarului bunurilor imobile aparținând domeniului privat al Municipiului Salonta Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotărâre privind rectificarea anexei la HCL nr.51 din 29.02.2024 privind aprobarea inventarului bunurilor imobile aparținând domeniului privat al Municipiului Salonta;  Reținâ",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.80-inventar-2024-domeniu-privat.pdf",
+     "sha256": "2a2be701509a8f3bf2587e05bb7746a860a34631a0008384b831f57a00ac70f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-81-2024",
+   "path": "local/bihor/salonta/2024/81",
+   "short": "HCL Salonta nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 81/2024",
+   "url": "https://salonta.net/ro/hotarari/28-martie-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.81-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "c196e75b8f46011efae8f999f080b6484489004aa72c3f96b670ec1c0ddfb324"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-83-2024",
+   "path": "local/bihor/salonta/2024/83",
+   "short": "HCL Salonta nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 83/2024",
+   "url": "https://salonta.net/ro/hotarari/5-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.83-rectificare-buget.pdf",
+     "sha256": "185ba1a601b2a3212eabd641dfb0350c32ee17116c1f221631dc7d433f784b4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-84-2024",
+   "path": "local/bihor/salonta/2024/84",
+   "short": "HCL Salonta nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 84/2024 Privind însușirea Contractului de Asistență Juridică nr. 325791/04.04.2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind însușirea Contractului de Asistență Juridică nr. 325791/04.04.2024; • Reținând Referatul de aprobare nr. 2611 din 04.04.2024 al Primarului Municipiului Salonta, în calitate de inițiator. • Analizând Raportul de specialitate nr. 2612 din 04.04",
+   "url": "https://salonta.net/ro/hotarari/5-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.84-ctr.asist_.jr_.pdf",
+     "sha256": "5dd9d99dd95d507e057c974f4c0cf49d641a015e37dd2a511130b0fdb4bb2d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-86-2024",
+   "path": "local/bihor/salonta/2024/86",
+   "short": "HCL Salonta nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 86/2024 Privind modificarea Hotărârii CLMS nr.21/23.01.2024 privind aprobarea Proiectului Tehnic actualizat și a indicatorilor tehnico-economici pentru proiectul cu titlul : „Reabilitare interioară casa ROTH ARMIN, Piața Libertății, nr.8, Municipiul Salonta, Județul Bihor” , astfel cum a fost actualizată prin Hotărârea nr.33/13.02.2024 Consiliul Local al Municipiului Salonta,  Examinând proiectul de hotă",
+   "url": "https://salonta.net/ro/hotarari/16-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.86-Casa-Roth.pdf",
+     "sha256": "f6d9fb1289558c796c21bc679ffb3860061eccdee6febbb73eaa6573a9547978"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-87-2024",
+   "path": "local/bihor/salonta/2024/87",
+   "short": "HCL Salonta nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 87/2024 Privind modificarea HCL nr. 169 din 11.08.2023 referitor la aprobarea actualizării documentației tehnico-economice, respectiv Proiect Tehnic, pentru proiectul cu titlul : ,,Coridor de mobilitate urbană prin crearea pistelor de biciclete și coridor prioritar pentru mijloc de transport în comun ecologic",
+   "url": "https://salonta.net/ro/hotarari/16-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.87-modif.-HCL-169.pdf",
+     "sha256": "09ee113a9e0bf71799d19959dd8d0ba82fca402d7779765eb6b9d246b9d5527c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-88-2024",
+   "path": "local/bihor/salonta/2024/88",
+   "short": "HCL Salonta nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 88/2024 Privind modificarea HCLnr.263 din 13.12.2023 aprobarea proiectului și a cheltuielilor legate de implementarea proiectului cu titlul „CORIDOR DE MOBILITATE URBANĂ PRIN CREAREA PISTELOR DE BICICLETE ȘI CORIDOR PRIORITAR PENTRU MIJLOC DE TRANSPORT ÎN COMUN ECOLOGIC. TRASEUL I DE LA EST LA VEST ȘI TRASEUL II DE LA SUD LA VEST ÎN MUNICIPIUL SALONTA” Consiliul Local al Municipiului Salonta,  Examinând",
+   "url": "https://salonta.net/ro/hotarari/16-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.88-modif.-HCL-263.pdf",
+     "sha256": "3f21f63a9775147e583aa1e2de6fb370bb3ea331e3de67fe38ad6d85e05696e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-89-2024",
+   "path": "local/bihor/salonta/2024/89",
+   "short": "HCL Salonta nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 89/2024 Privind însușirea Contractului de Asistență Juridică nr. 296024/11.04.2024 în Dosarul nr.804/111/2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind însușirea Contractului de Asistență Juridică nr. 296024/11.04.2024 în Dosarul nr.804/111/2024. • Reținând Referatul de aprobare nr. 2799 din 11.04.2024 al Primarului Municipiului Salonta, în calitate de inițiator. •",
+   "url": "https://salonta.net/ro/hotarari/16-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.89-ctr.asist_.jr_.-Dos.804.pdf",
+     "sha256": "2c00e740574c43030b78b9fb3a4c262da9be6151d95bd2c0fcc544ee46fec00d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-9-2024",
+   "path": "local/bihor/salonta/2024/9",
+   "short": "HCL Salonta nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 9/2024 Privind transmiterea în folosință gratuită către Inspectoratul pentru Situații de Urgență ,,Crișana” al Județului Bihor – Detașamentul de Pompieri Salonta a unui mijloc fix – Remorcă S3 Tandem Brake Consiliul Local al Municipiului Salonta • Examinând proiectul de hotărâre privind transmiterea în folosință gratuită către Inspectoratul pentru Situații de Urgență ,,Crișana” al Județului Bihor – Detaș",
+   "url": "https://salonta.net/ro/hotarari/23-ianuarie-2024/",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.9-folosinta-gratuita-ISU-remorca.pdf",
+     "sha256": "a05e7fab286be3f3d26255b3d9ea8b28d95c051e867175e384a6604e337e98bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-90-2024",
+   "path": "local/bihor/salonta/2024/90",
+   "short": "HCL Salonta nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 90/2024 Privind însușirea Contractului de Asistență Juridică nr.325796/10.04.2024 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind însușirea Contractului de Asistență Juridică nr. 325796/10.04.2024. • Reținând Referatul de aprobare nr. 2802 din 11.04.2024 al Primarului Municipiului Salonta, în calitate de inițiator. • Analizând Raportul de specialitate nr. 2803 din 11.04",
+   "url": "https://salonta.net/ro/hotarari/16-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.90-ctr.asist_.jr_.-325796.pdf",
+     "sha256": "33f46ddad0d29aac8c720514687994ec7d7b29f3d0179d9c9689da7c3edae66c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-93-2024",
+   "path": "local/bihor/salonta/2024/93",
+   "short": "HCL Salonta nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 93/2024 Privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Municipiului Salonta din data de 28 martie 2024, a procesului-verbal al ședinței extraordinare din data de 5 aprilie 2024 și respectiv procesul-verbal al ședinței extraordinare din data de 16 aprilie 2024 Consiliul Local al Municipiului Salonta, Având în vedere: 1",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.93-aprobare-PV-sedinta-CL.pdf",
+     "sha256": "39a52701ff76d8b8a3a59636ae8d8c728357738b61a1eb35d3a7f7fdef1a4c32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-94-2024",
+   "path": "local/bihor/salonta/2024/94",
+   "short": "HCL Salonta nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 94/2024 privind încheierea Protocolului de colaborare în domeniul serviciilor sociale dintre Municipiul Salonta și Asociația Caritas Catolica Oradea în vederea continuării parteneriatului inițiat pentru implementarea proiectului :„REABILITARE ȘI SCHIMBARE DESTINAȚIE ÎN CENTRU DE ZI BĂTRÂNII COMUNITĂȚII SALONTA” Consiliul Local al Municipiului Salonta,  Examinând Proiectul de hotărâre privind încheierea P",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.94-Protocol-colaborare-Caritas.pdf",
+     "sha256": "a2dce195a9c0acef23a661f48332dba30cef0e4249a1b161c4cbfc8ce9886702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-95-2024",
+   "path": "local/bihor/salonta/2024/95",
+   "short": "HCL Salonta nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 95/2024",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+     "sha256": "e90f773e83cb996412d31d98f47bc660c4754e20af9176913b97c05854bc8e77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-96-2024",
+   "path": "local/bihor/salonta/2024/96",
+   "short": "HCL Salonta nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 96/2024 privind aprobarea Studiului de oportunitate și organizarea vânzării prin licitație publică a bunului imobil teren cu suprafața de 9460 mp identificat cu numar cadastral 114818 înscris în CF 114818 proprietate privată a Municipiului Salonta Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea Studiului de oportunitate și organizarea vânzării prin licitație pu",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.96-vnz-9460mp-CF-114818.pdf",
+     "sha256": "c56fe52319097dd7aebb77c4dd84e7496df50fec8b54515a54caafadf90daef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-97-2024",
+   "path": "local/bihor/salonta/2024/97",
+   "short": "HCL Salonta nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 97/2024 privind aprobarea trecerii din domeniul public al Municipiului Salonta în domeniul privat al Municipiului Salonta a terenului înscris în CF nr. 100519 cu suprafața de 5756 mp identificat cu nr. cad 100519 ca urmare a încetării uzului și interesului public local al terenului și aprobarea modificării conturului și a suprafeței numărului cadastral 100519 înscris în CF nr. 100519, prin creșterea supra",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.97-trecere-in-domeniu-privat-5756mp-CF-100519.pdf",
+     "sha256": "0dd8d1c7dd1be8fe1774889dfbd4ae2d8341d2bc3d1e425b3e8b06aaae660e8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-98-2024",
+   "path": "local/bihor/salonta/2024/98",
+   "short": "HCL Salonta nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 98/2024 privind soluționarea cererii nr. 2774/10.04.2024 a Saldecor SRL și cererea nr. 2775/10.04.2024 a Branta Netta SRL cu privire la terenul situat în Municipiul Salonta str",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.98-cerere-Saldecor-Branta.pdf",
+     "sha256": "5d02f1e8d53d22ef404822c7ea1e7ed8281f77f6c8d7eb6ceaf9cae108097f90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--salonta-99-2024",
+   "path": "local/bihor/salonta/2024/99",
+   "short": "HCL Salonta nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Salonta nr. 99/2024 Privind aprobarea actualizării și republicării a Regulamentului de stabilire și aplicare a taxei speciale de salubrizare aprobat prin Hotărârea Consiliului Local al Municipiului Salonta nr.114/28.06.2019 modificat prin HCLMS 127/31.08.2020 Consiliul Local al Municipiului Salonta, • Examinând proiectul de hotărâre privind aprobarea actualizării și republicării a Regulamentului de stabilire și aplic",
+   "url": "https://salonta.net/ro/hotarari/30-aprilie-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://salonta.net/wp-content/uploads/hcl-nr.99-actualizare-taxa-salubrizare.pdf",
+     "sha256": "5c9f404f69bbf7f419212e0c90a7a7d77085dc0f4e26bcc37437681c84d60dd3"
     }
    ]
   }

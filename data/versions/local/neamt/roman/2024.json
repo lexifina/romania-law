@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-149-2024",
+   "path": "local/neamt/roman/2024/149",
+   "short": "HCL Roman nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 149/2024 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără personalitate juridică HCL nr. 149 din 19.06.2024 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-149-din-19-06-2024/",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/06/149-HCL-2024_06-aprobare-ROF-primarie.pdf",
+     "sha256": "7cb860c84b74baf2064b378e5155e8bb2b230671cf2b8d44715c4e0f4e96bff9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-225-2024",
    "path": "local/neamt/roman/2024/225",
    "short": "HCL Roman nr. 225/2024",
@@ -104,6 +119,21 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2024/10/231-HCL-2024_10-PMUD.pdf",
      "sha256": "cbdd62ed1532079ee6e4a9e4c5c4b9836926811b5b2789be09d4e5e3dbf4ba1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-233-2024",
+   "path": "local/neamt/roman/2024/233",
+   "short": "HCL Roman nr. 233/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 233/2024",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-233-din-17-10-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/10/233-HCL-2024_10-modif-HCL-nr.-32_2024.pdf",
+     "sha256": "ccd9b9fb2260f2018977a63a717d64489231c24aef7832c1ea894b646069ada6"
     }
    ]
   },
@@ -179,6 +209,21 @@
      "units": 1,
      "source_url": "https://primariaroman.ro/wp-content/uploads/2024/12/308-HCL-supraimpozitare-SUPL-3.pdf",
      "sha256": "2b39aa359522bdeb0c543791d490c9f62f3d43631317206766422b8d997faa52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2024",
+   "path": "local/neamt/roman/2024/32",
+   "short": "HCL Roman nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2024 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente HCL nr. 032 din 27.02.2024 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente",
+   "url": "https://primariaroman.ro/consiliu_local/hcl-nr-032-din-27-02-2024/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://primariaroman.ro/wp-content/uploads/2024/02/032-regulament-tichete-sociale-2024.pdf",
+     "sha256": "92ded571bbea850434dbfa7ead03439bb1db1d55fc856b7f9c5d7b0cfbc3e49b"
     }
    ]
   },

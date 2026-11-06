@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/marghita/2026",
+ "acts": [
+  {
+   "slug": "hcl-bihor--marghita-90-2026",
+   "path": "local/bihor/marghita/2026/90",
+   "short": "HCL Marghita nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 90/2026",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/279960",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/105969/releveu%20,%20anexa.pdf",
+     "sha256": "c90b0a178bb56b6a1e4a5551571c43834311ec46bfa34f1ef3033de780590b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-91-2026",
+   "path": "local/bihor/marghita/2026/91",
+   "short": "HCL Marghita nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 91/2026",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/279961",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/104773/Anexa%20-%20Lista%20de%20prioritate.xlsx",
+     "sha256": "ebfdaad077381814c928eee2f46f7a0da64e80a7c43ff8599028a5dddabf45ae"
+    }
+   ]
+  }
+ ]
+}

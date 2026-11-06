@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-248-2014",
+   "path": "local/vaslui/husi/2014/248",
+   "short": "HCL Huși nr. 248/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 248/2014 privind aprobarea prelungirii duratei unor contracte de concesiune pentru terenuri apartinand domeniului privat al municipiului Husi, pentru care pana la data de 31.12.2003 s-a datorat taxa de teren, incepand cu data de 01.01.2015 Consiliul Local al municipiului Husi,judetul Vaslui; Avand in vedere: expunerea de motive privind aprobarea prelungirii duratei unor contracte de concesiune pentru teren",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_248_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_248_2014.pdf",
+     "sha256": "dd997e737811e7f218b2047f568c30db5e9e47935ed0ff335a64b38bf833a900"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-32-2014",
    "path": "local/vaslui/husi/2014/32",
    "short": "HCL Huși nr. 32/2014",

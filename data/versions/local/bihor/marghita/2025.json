@@ -3,6 +3,21 @@
  "shard": "local/bihor/marghita/2025",
  "acts": [
   {
+   "slug": "hcl-bihor--marghita-157-2025",
+   "path": "local/bihor/marghita/2025/157",
+   "short": "HCL Marghita nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 157/2025 privind aprobarea acordului de parteneriat cu Direcția Generală de Asistență Socială și Protecția Copilului Bihor, pentru furnizarea de servicii de recuperare pentru copiii cu dizabilități de pe raza Municipiului Marghita, în cadrul Centrului de Zi de Recuperare pentru Copii cu Dizabilități Oradea",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/232422",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/82418/Anexa%20Hot%C4%83r%C3%A2re%20-%20Acord%20Marghita.doc",
+     "sha256": "8b32d2265b67671197fa57449e5625998101ff643bc772ccccd2e9e6625c728d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--marghita-179-2025",
    "path": "local/bihor/marghita/2025/179",
    "short": "HCL Marghita nr. 179/2025",
@@ -29,6 +44,21 @@
      "units": 1,
      "source_url": "https://marghita.ro/wp-content/uploads/2026/01/HOTARAREA-180-DIN-22.12.2025.pdf",
      "sha256": "ad8e8f8258912533be3a42d871e535e389829e8aa33ac592f99624fc958c07a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-186-2025",
+   "path": "local/bihor/marghita/2025/186",
+   "short": "HCL Marghita nr. 186/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 186/2025 privind rectificarea bugetului consolidat de venituri și cheltuieli al unității administrativ teritoriale Municipiul Marghita, județul Bihor pe anul 2025, aprobat prin HCL nr. 48 din 27.03.2025",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/243070",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/86442/anexa%20la%20HCL%20186.pdf",
+     "sha256": "34fdee7e16106e73bdb954c1233501de63faf374db180e5f2e5a44aa9a5c5290"
     }
    ]
   },

@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hunedoara-279-2023",
+   "path": "local/hunedoara/hunedoara/2023/279",
+   "short": "HCL Hunedoara nr. 279/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 279/2023 pentru modificarea și completarea Hotărârii Consiliului Local al municipiului Hunedoara nr. 490/2022 privind stabilirea taxelor ce vor fi aplicate de Clubul Sportiv Corvinul 1921 Hunedoara, pe anul 2023",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/114279",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/117033/HCL%20279_2023.pdf",
+     "sha256": "ad04581b81fa457467f632f61d1cdd2ea8d10e6c033f5b4e18e9276166f4976b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hunedoara-283-2023",
    "path": "local/hunedoara/hunedoara/2023/283",
    "short": "HCL Hunedoara nr. 283/2023",
@@ -134,6 +149,21 @@
      "units": 2,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/117041/HCL%20319_2023.pdf",
      "sha256": "81f72fbcbe23a354d176c0658c67be52d7ae7309e2663ebf3caac7b7e4b1aa6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hunedoara-346-2023",
+   "path": "local/hunedoara/hunedoara/2023/346",
+   "short": "HCL Hunedoara nr. 346/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 346/2023 pentru modificarea și completarea Anexei la Hotărârea Consiliului Local nr. 395/2022 privind aprobarea Regulamentului de instituire și administrare a taxei de salubrizare în municipiul Hunedoara",
+   "url": "https://emol.ro/hunedoara-hd/registru-hcl/123677",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/123263/HCL%20346_2023.pdf",
+     "sha256": "e5359e6d863e1ae6d32fbc0020894fdd542da7daa74a3f49a61583d4cbefa742"
     }
    ]
   },

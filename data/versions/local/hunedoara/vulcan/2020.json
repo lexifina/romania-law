@@ -106,6 +106,21 @@
      "sha256": "e90a593670efb5ad30aa92705748478a0fe126e24c731541ffd69832a1ef23b6"
     }
    ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-69-2020",
+   "path": "local/hunedoara/vulcan/2020/69",
+   "short": "HCL Vulcan nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 69/2020 privind aprobarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială a municipiului Vulcan Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 28.05.2020, Analizând Proiectul de hotărâre nr.54/2020 și Referatul de aprobare nr. 54/1/25/08.04.2020",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl69-000099ba?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/2E18C6DB73A39084C2258598001CF955/$FILE/HCL%2069.docx",
+     "sha256": "c267a9399e4caf8690aedce9f4ca503f89d09253a572492a5e5d7d77d47171f3"
+    }
+   ]
   }
  ]
 }

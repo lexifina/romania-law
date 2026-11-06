@@ -846,6 +846,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-50-2025",
+"path": "local/arges/campulung/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 50/2025 privind îndreptarea erorii materiale din cuprinsul Anexei nr. 6 — activitatea 5 la Hotărârea Consiliului Local nr. 169 din 19.12.2024",
+"short": "HCL Câmpulung nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-52-2025",
 "path": "local/arges/campulung/2025/52",
 "kind": "local",

@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2010",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-109-2010",
+   "path": "local/prahova/campina/2010/109",
+   "short": "HCL Câmpina nr. 109/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 109/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fa8ef7405a423d04e0364bab8a11328cf0197e4350dadec6718ecc812a294a31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-112-2010",
+   "path": "local/prahova/campina/2010/112",
+   "short": "HCL Câmpina nr. 112/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 112/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5fb042c4d6edbac8c9cc5bb198c12fe7a243b70dabbe6c58cf5a8c0fd63825f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-113-2010",
+   "path": "local/prahova/campina/2010/113",
+   "short": "HCL Câmpina nr. 113/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 113/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2352641408c7b4e12bbcf2575fa57be370bd10bb683c7a6a3157c62ba6dada00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-114-2010",
+   "path": "local/prahova/campina/2010/114",
+   "short": "HCL Câmpina nr. 114/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 114/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4f9fa233c7934621088c8b9fe44a542d787946a7497ae09bd402321546e6d1e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-115-2010",
+   "path": "local/prahova/campina/2010/115",
+   "short": "HCL Câmpina nr. 115/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 115/2010 privind aprobarea ajustării tarifului practicat de S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2010/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-115-ajustare-pret-Floricon-Salub-SRL.doc",
+     "sha256": "c9be3a0f89426eb742c651a6525a3496bc30f0b2fb9525874975ed6b51901962"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-116-2010",
+   "path": "local/prahova/campina/2010/116",
+   "short": "HCL Câmpina nr. 116/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 116/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f4b453b3230a70d4f1b3849a3224ee86787acb9e40494b19d2f307c4f2c1b7ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-12-2010",
+   "path": "local/prahova/campina/2010/12",
+   "short": "HCL Câmpina nr. 12/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 12/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6b26454085d5187f743f46f0ee7f0192fd256398daf12cedf95dfd638609af95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-13-2010",
+   "path": "local/prahova/campina/2010/13",
+   "short": "HCL Câmpina nr. 13/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 13/2010 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public de Administrare și Exploatare a Pieței Centrale Agroalimentare a municipiului Câmpina",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2010/",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-13-aprobare-ROF-si-Anexe-la-Piata-Centrala-Agroalimentara.doc",
+     "sha256": "6e1f582a9cbe7cb673ca373eaa773a14479a8395c6091cb6a6c2170851c9553f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-131-2010",
+   "path": "local/prahova/campina/2010/131",
+   "short": "HCL Câmpina nr. 131/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 131/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "12f9861fc5d9401da100250676dd16e0d6fbeb2dd8f0aa82470ba8244db15171"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-148-2010",
+   "path": "local/prahova/campina/2010/148",
+   "short": "HCL Câmpina nr. 148/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 148/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e9cb0dd24c6b5d1c2b40f4142ec0d205494ee514e75492ff3a1696a102ec235f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-170-2010",
+   "path": "local/prahova/campina/2010/170",
+   "short": "HCL Câmpina nr. 170/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 170/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4e191750650b35a38aa4aef4cc8fab700056fa4a58cf9657bf9c7078b75ee666"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-171-2010",
+   "path": "local/prahova/campina/2010/171",
+   "short": "HCL Câmpina nr. 171/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 171/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0b0995cce05f94f707ea145823c395a6d87f3f3ebda8ff0d61155fd4dae9fab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-193-2010",
+   "path": "local/prahova/campina/2010/193",
+   "short": "HCL Câmpina nr. 193/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 193/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-07",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-193-impozite-si-taxe-locale-2011.doc",
+     "sha256": "ac329caa03d87d95df942a8158f806334a755d0c619e4c4ffcabaa882f2b98ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-206-2010",
+   "path": "local/prahova/campina/2010/206",
+   "short": "HCL Câmpina nr. 206/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 206/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7a2fa0a5cd77f0a46c1af284fad435fd4db4847b48b35a4a3b2868a3bf48458a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-24-2010",
+   "path": "local/prahova/campina/2010/24",
+   "short": "HCL Câmpina nr. 24/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 24/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-24-taxe-pasunat-2010.doc",
+     "sha256": "0f2396a354b917139a2af4ede5883f2b79c46e941ae82c5745113dc602c2547e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-36-2010",
+   "path": "local/prahova/campina/2010/36",
+   "short": "HCL Câmpina nr. 36/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 36/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "47e4303f4a4ab14171288f5a2da9509897ece4e58881d6eaaf31940ae68f3b9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-62-2010",
+   "path": "local/prahova/campina/2010/62",
+   "short": "HCL Câmpina nr. 62/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 62/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fcbb8d2ffa452633460cd2c1659f5c7d19ee4330e8350d9db61f02f35b07965d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-63-2010",
+   "path": "local/prahova/campina/2010/63",
+   "short": "HCL Câmpina nr. 63/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 63/2010 privind unele masuri pe linia situatiilor de urgenta",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2010/",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-63-privind-unele-masuri-pe-linia-situatiilor-de-urgenta.doc",
+     "sha256": "2d1a640fefad24bf239b6e6aa242c96970e37d665941c2c52e22592d538df6f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-8-2010",
+   "path": "local/prahova/campina/2010/8",
+   "short": "HCL Câmpina nr. 8/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 8/2010 privind aprobarea ajustării tarifului practicat de S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-8-ajustare-tarife-salubritate-Floricon-Salub-SRL.doc",
+     "sha256": "d70053915e2556080aaf42ddb9b7681d85e3c8f8930dc973d13a76a68c54ce5a"
+    }
+   ]
+  }
+ ]
+}

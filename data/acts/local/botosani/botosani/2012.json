@@ -3,6 +3,50 @@
 "shard": "local/botosani/botosani/2012",
 "acts": [
 {
+"slug": "hcl-botosani--botosani-5-2012",
+"path": "local/botosani/botosani/2012/5",
+"kind": "local",
+"year": "2012",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 5/2012 privind aprobarea cererilor de scutire la plata impozitului pe cladiri si a impozitului pe teren, pe anul 2012, pentru persoanele ce au in intreÅ£inere un elev sau student care a obÅ£inut premiul I, II sau III la faza naÅ£ionala sau internaÅ£ionala a unei olimpiade Vizualizare",
+"short": "HCL Botoșani nr. 5/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-01-31",
+"latest": "2012-01-31",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--botosani-8-2012",
+"path": "local/botosani/botosani/2012/8",
+"kind": "local",
+"year": "2012",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 8/2012 privind aprobarea cererilor de scutire la plata impozitului pe cladiri si a impozitului pe teren, pe anul 2012, pentru persoanele cu contract de voluntariat pentru situaÅ£ii de urgenÅ£a, care au depus cereri de scutire Vizualizare",
+"short": "HCL Botoșani nr. 8/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-01-31",
+"latest": "2012-01-31",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-botosani--botosani-9-2012",
 "path": "local/botosani/botosani/2012/9",
 "kind": "local",
@@ -223,6 +267,28 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-130-2012",
+"path": "local/botosani/botosani/2012/130",
+"kind": "local",
+"year": "2012",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 130/2012 pentru stabilirea destinaÅ£iei locuinÅ£elor realizate prin proiectul de reabilitare a Centrului Istoric al municipiului Botosani si aprobarea Regulamentului privind atribuirea locuinÅ£elor de serviciu din fondul locativ al municipiului Botosani Vizualizare",
+"short": "HCL Botoșani nr. 130/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-05-31",
+"latest": "2012-05-31",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
 }
 },
 {

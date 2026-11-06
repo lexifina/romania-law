@@ -3,6 +3,28 @@
 "shard": "local/bacau/bacau/2022",
 "acts": [
 {
+"slug": "hcl-bacau--bacau-43-2022",
+"path": "local/bacau/bacau/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 43/2022 privind aprobarea Bugetului de venituri și cheltuieli și a Programului de investiții pe anul 2022, ale Consiliului Local al Municipiului Bacău și a prognozei pe următorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 07.02.2022, potrivit art.133 alin.2 din Ordonanța de Urgență nr. 57/2019 privind Codul administrativ, cu modificările și completările ult",
+"short": "HCL Bacău nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-07",
+"latest": "2022-02-07",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--bacau-86-2022",
 "path": "local/bacau/bacau/2022/86",
 "kind": "local",
@@ -17,6 +39,28 @@
 "versions": 1,
 "from": "2022-03-14",
 "latest": "2022-03-14",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--bacau-253-2022",
+"path": "local/bacau/bacau/2022/253",
+"kind": "local",
+"year": "2022",
+"number": "253",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 253/2022 privind aprobarea modificarii HCL nr. 43 din 07.02.2022 privind aprobarea Bugetului de venituri si cheltuieli si Programul de investitii pe anul 2022, ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 20.06.2022 potrivit art. 133 alin. (2) lit. a) din Ordonanța de Urgență nr. 57/2019 p",
+"short": "HCL Bacău nr. 253/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-20",
+"latest": "2022-06-20",
 "portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
 "council": "bacau/bacau",
 "council_name": "Consiliul Local al Municipiului Bacău",
@@ -45,6 +89,28 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--bacau-424-2022",
+"path": "local/bacau/bacau/2022/424",
+"kind": "local",
+"year": "2022",
+"number": "424",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 424/2022 privind aprobarea modificării HCL nr. 43 din 07.02.2022 privind aprobarea Bugetului de venituri si cheltuieli si Programul de investiții pe anul 2022 ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 03.10.2022 potrivit art. 133 alin. (2) lit. a) din Ordonanța de Urgență nr. 57/2019 pr",
+"short": "HCL Bacău nr. 424/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -71,6 +71,29 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-91-2019",
+"path": "local/prahova/campina/2019/91",
+"kind": "local",
+"year": "2019",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 91/2019",
+"short": "HCL Câmpina nr. 91/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-07-25",
+"latest": "2019-07-25",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--campina-102-2019",
 "path": "local/prahova/campina/2019/102",
 "kind": "local",

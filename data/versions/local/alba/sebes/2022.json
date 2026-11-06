@@ -3,6 +3,66 @@
  "shard": "local/alba/sebes/2022",
  "acts": [
   {
+   "slug": "hcl-alba--sebes-112-2022",
+   "path": "local/alba/sebes/2022/112",
+   "short": "HCL Sebeș nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 112/2022 privind aprobarea Contului de execuție al Bugetului general centralizat al Municipiului Sebeș la 31.03.2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/04/hcl-112.pdf",
+     "sha256": "42ea8e9144d49a3d3ec466b532c8e75ae6a2f271c79b274d0bccec3c5b9b450d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-131-2022",
+   "path": "local/alba/sebes/2022/131",
+   "short": "HCL Sebeș nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 131/2022 privind acordarea normei de hrană personalului din cadrul Poliției Locale a Municipiului Sebeș, în perioada 01 iunie 2022 până la 31 august 2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/06/hcl-131.pdf",
+     "sha256": "911334eb1d3fb704cdb846e55deebcfbcd8ee4123678718d5501248e51b66f97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-152-2022",
+   "path": "local/alba/sebes/2022/152",
+   "short": "HCL Sebeș nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 152/2022 privind alegerea președintelui de ședință, pentru perioada 30 iunie – 31 august 2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/07/hcl-152.pdf",
+     "sha256": "570630e58acd9cd467cae18f154acaf7d49f7e7a00adc1836c81bf9a969da0de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-173-2022",
+   "path": "local/alba/sebes/2022/173",
+   "short": "HCL Sebeș nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 173/2022 privind deplasarea unei delegații la evenimentul ,,Noaptea Culturii 2022″din Bűdingen, Germania, în perioada 5-12 iulie 2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/07/hcl-173.pdf",
+     "sha256": "35fe8bdd02ca16ab72a44804fd0bee11bf5c84a29bde463ea8aeca3ab92c10eb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-209-2022",
    "path": "local/alba/sebes/2022/209",
    "short": "HCL Sebeș nr. 209/2022",
@@ -14,6 +74,111 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/08/hcl-209.pdf",
      "sha256": "8c84d196d7815a1210a0ef1be978b13493f2c5b0c7f5af81574e2d3127123f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-248-2022",
+   "path": "local/alba/sebes/2022/248",
+   "short": "HCL Sebeș nr. 248/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 248/2022 privind aprobarea modificării și completării art. 5 din HCL nr. 118/2022 privind aprobarea participării MUNICIPIULUI SEBEȘ în cadrul PLANULUI NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ (PNRR) – COMPONENTA C10 – FONDUL LOCAL / INVESTIȚIA I.1",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/09/hcl-248-site.pdf",
+     "sha256": "8e7677fe976ff6ebe819c4c4f4ef289d0defc2c29df57cb0e62b499eb43c2027"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-249-2022",
+   "path": "local/alba/sebes/2022/249",
+   "short": "HCL Sebeș nr. 249/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 249/2022 privind aprobarea prelungirii unor contracte de închiriere locuință situate pe raza UAT a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/09/hcl-249.pdf",
+     "sha256": "2c7061ca1eafcfcb05a8f93a507e0e2b21401f4052b9181ae0cdd835f8d87d4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-299-2022",
+   "path": "local/alba/sebes/2022/299",
+   "short": "HCL Sebeș nr. 299/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 299/2022 privind acordarea normei de hrană personalului din cadrul Poliției Locale a Municipiului Sebeș, în perioada 01 noiembrie 2022 până la 28 februarie 2023",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/11/hcl-299.pdf",
+     "sha256": "a07e91aad545c593b0e5696b1ff51c218aa1895d03b7d08837d5435c73827a9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-307-2022",
+   "path": "local/alba/sebes/2022/307",
+   "short": "HCL Sebeș nr. 307/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 307/2022 privind aprobarea Contului de execuție al Bugetului general centralizat al Municipiului Sebeș la 30.09.2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/11/hcl-307.pdf",
+     "sha256": "0df7439dfa2408a1023fc3cddc63823facf3af8b2876641b27cbeef01629f60e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-355-2022",
+   "path": "local/alba/sebes/2022/355",
+   "short": "HCL Sebeș nr. 355/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 355/2022 privind alegerea președintelui de ședință, pentru perioada: 06 decembrie 2022 – 06 martie 2023",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/12/hcl-355.pdf",
+     "sha256": "ad02ae7afb4493429589fbfd463ac7a437ee7907338d0f65ab5eda475d3e1337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-385-2022",
+   "path": "local/alba/sebes/2022/385",
+   "short": "HCL Sebeș nr. 385/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 385/2022 privind aprobarea Contului de execuție al Bugetului local al Municipiului Sebeș la 20.12.2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/12/hcl-385.pdf",
+     "sha256": "fd9bcc779229203005a6150a30d8a0f9928b29dca579d96f418e5571cd0719df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-61-2022",
+   "path": "local/alba/sebes/2022/61",
+   "short": "HCL Sebeș nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 61/2022 privind alegerea președintelui de ședință, pentru perioada 03 martie 2022 –31 mai 2022",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/03/hcl-61.pdf",
+     "sha256": "4e5582148fad642ff181c52cdff4bad17e9066db046c3ff42a78d9904f1cb6ff"
     }
    ]
   }

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/marghita/2022",
+ "acts": [
+  {
+   "slug": "hcl-bihor--marghita-103-2022",
+   "path": "local/bihor/marghita/2022/103",
+   "short": "HCL Marghita nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 103/2022 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Marghita pe anul 2022",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/63207",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7053/anexa%20la%20HCL.docx",
+     "sha256": "aa7385310768753846db429ff5ec03d498b359cc33fa7b96ac8c2a254c7b185d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-122-2022",
+   "path": "local/bihor/marghita/2022/122",
+   "short": "HCL Marghita nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 122/2022 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Marghita pe anul 2022",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/65723",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7906/ANEX%C4%82%20%20LA%20HOT%C4%82R%C3%82REA%20CONSILIULUI%20%20%20%20LOCAL%20%20NR.122.docx",
+     "sha256": "aac2a58c00c47e7182d96998991c2e05ee338a42b5f5af6c518ccd4623ac1b65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-226-2022",
+   "path": "local/bihor/marghita/2022/226",
+   "short": "HCL Marghita nr. 226/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 226/2022 privind aprobarea acordului de parteneriat cu Direcția Generală de Asistență Socială și Protecția Copilului Bihor, pentru copiii cu dizabilități de pe raza Municipiului Marghita, care necesită terapii de abilitare/reabilitare în cadrul Centrului de Zi de Recuperare pentru Copii cu Dizabilități Oradea",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/80705",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/19560/Anex%C4%83%20Acord%20de%20parteneriat.doc",
+     "sha256": "6459b54cedee65add53e46d9ca0cae9ef6c3af566c43647e13b3c2b2dcf7672b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-58-2022",
+   "path": "local/bihor/marghita/2022/58",
+   "short": "HCL Marghita nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 58/2022",
+   "url": "https://emol.ro/marghita-bh/registru-hcl/59942",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5787/anexa%20la%20HCL.doc",
+     "sha256": "dd55915e8547f6e9f405ec1ce21d7fdd5c5ad2ea989fa5a796d85bc2b33baf0e"
+    }
+   ]
+  }
+ ]
+}

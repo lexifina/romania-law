@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-constanta-12-2025",
+   "path": "local/judet/constanta/2025/12",
+   "short": "HCJ Constanța nr. 12/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 12/2025 privind aprobarea Metodologiei de atribuire a contractelor și acordurilor-cadru de către Consiliul Județean Constanța în temeiul prevederilor art. 31 din Legea nr. 98/2016 privind achizițiile publice, cu modificările și completările ulterioare și ale Instrucțiunii ANAP nr. 1/2018",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/12.pdf",
+     "sha256": "691db00426506a552715259878d5c9fcc80b15b470739ecb6c93c2f8b96ea77d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-constanta-124-2025",
    "path": "local/judet/constanta/2025/124",
    "short": "HCJ Constanța nr. 124/2025",
@@ -44,6 +59,21 @@
      "units": 1,
      "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/142.pdf",
      "sha256": "29476f975addd6fdf5ee158a9305b218f2f7b367f2e37a270aaeb73f16332df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-143-2025",
+   "path": "local/judet/constanta/2025/143",
+   "short": "HCJ Constanța nr. 143/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 143/2025 privind aprobarea Metodologiei de vânzare prin licitație publică cu strigare a unui spațiu cu destinație medicală, a spațiilor conexe acestuia și a terenului aferent, proprietate privată a Județului Constanța, în conformitate cu prevederile OUG nr.68/2008",
+   "url": "https://www.cjc.ro/sectiune.php?s=271",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/143.pdf",
+     "sha256": "6c585b875e3244ac47b1a32eb5d4bc230a03b1042cf8baab88b985d30e933870"
     }
    ]
   },

@@ -1,0 +1,846 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/moinesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-bacau--moinesti-1-2021",
+   "path": "local/bacau/moinesti/2021/1",
+   "short": "HCL Moinești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 1/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-1-din-05.01.2021.pdf",
+     "sha256": "db6fc22e4670db8d2f021a531bede64d6996ddf144418b55ad63327fd6090f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-100-2021",
+   "path": "local/bacau/moinesti/2021/100",
+   "short": "HCL Moinești nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 100/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-100-din-29.09.2021.pdf",
+     "sha256": "4aab15919ae64bcc84495681d0992b383de4bae63685a9d7aacdf4224c88d9a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-101-2021",
+   "path": "local/bacau/moinesti/2021/101",
+   "short": "HCL Moinești nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 101/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-101-din-29.09.2021.pdf",
+     "sha256": "304250d628b72a0b21610f6e9aaa7f59a53d61d20b250184b4b9bd86c4682501"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-108-2021",
+   "path": "local/bacau/moinesti/2021/108",
+   "short": "HCL Moinești nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 108/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-108-din-13.10.2021.pdf",
+     "sha256": "416650ae37f5fc57389cca9a9631520f8adbde44f01bf75170342fc23ac7d39b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-113-2021",
+   "path": "local/bacau/moinesti/2021/113",
+   "short": "HCL Moinești nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 113/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-113-din-21.10.2021.pdf",
+     "sha256": "fa846831de9e844a349181012d6ec8916565fbf304ee8a56cd668739ed14b0ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-114-2021",
+   "path": "local/bacau/moinesti/2021/114",
+   "short": "HCL Moinești nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 114/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-114-din-21.10.2021.pdf",
+     "sha256": "306b402440945481ef183edb302c307da248a28d4c1e316cb43ad5ce78d3c302"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-115-2021",
+   "path": "local/bacau/moinesti/2021/115",
+   "short": "HCL Moinești nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 115/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-115-din-22.10.2021.pdf",
+     "sha256": "02e4c2d791c82322cce8ee6d677ab204d1b36bcb0ac54b2216fa48185c5dbfca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-116-2021",
+   "path": "local/bacau/moinesti/2021/116",
+   "short": "HCL Moinești nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 116/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-116-din-25.10.2021.pdf",
+     "sha256": "2c8eb6148b2fc861d9c552d30d07dbc0beeb701d198f97097becaceda4b3c0bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-117-2021",
+   "path": "local/bacau/moinesti/2021/117",
+   "short": "HCL Moinești nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 117/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-117-din-27.10.2021.pdf",
+     "sha256": "1699ca8099426257e8727a792d8150075fac4b4dfa90370e5ce1914002f88303"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-16-2021",
+   "path": "local/bacau/moinesti/2021/16",
+   "short": "HCL Moinești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 16/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-16",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-16-din-16.02.2021.pdf",
+     "sha256": "c2c5a78a9d337b9a0211f4d4f55ee50ef5d657bf4e5ccf2b371097f81d7940fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-17-2021",
+   "path": "local/bacau/moinesti/2021/17",
+   "short": "HCL Moinești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 17/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-17",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-17-din-17.02.2021.pdf",
+     "sha256": "d234fd3610f29760baf06f6418162d925c93d69fede278a48e974955c1c24b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-20-2021",
+   "path": "local/bacau/moinesti/2021/20",
+   "short": "HCL Moinești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 20/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-20-din-22.02.2021.pdf",
+     "sha256": "237fdab456136f17f09acb404cfe247831b22fdce3d1ddc221e658b24cb22489"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-21-2021",
+   "path": "local/bacau/moinesti/2021/21",
+   "short": "HCL Moinești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 21/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-21-din-22.02.2021.pdf",
+     "sha256": "8970dfd8d3738beb95dbdda2fe2af81b31174dd69209c679bdf7ab27ab8ae7aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-27-2021",
+   "path": "local/bacau/moinesti/2021/27",
+   "short": "HCL Moinești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 27/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-27-din-04.03.2021.pdf",
+     "sha256": "98a0f3cfa67d7bf03dfddae856899d160d4244bb3ad07e91e832d0c94c918911"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-29-2021",
+   "path": "local/bacau/moinesti/2021/29",
+   "short": "HCL Moinești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 29/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-29-din-08.03.2021.pdf",
+     "sha256": "bc8acbf260892da800d51d4e241b4dce898e07e84984896b93dd9eb461b5dbac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-30-2021",
+   "path": "local/bacau/moinesti/2021/30",
+   "short": "HCL Moinești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 30/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-30-din-08.03.2021.pdf",
+     "sha256": "157f5a9fd707971407d04f47594ff9a8610dbaa23b12074ee61753e8f9e94e37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-32-2021",
+   "path": "local/bacau/moinesti/2021/32",
+   "short": "HCL Moinești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 32/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-32-din-12.03.2021.pdf",
+     "sha256": "7f78ea3932b5035e796fe283bf477337cc4c9f7dc09770ea262f2f144c40c3d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-33-2021",
+   "path": "local/bacau/moinesti/2021/33",
+   "short": "HCL Moinești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 33/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-33-din-12.03.2021.pdf",
+     "sha256": "94d36b0af6cd7e6af88e02f7196174036704f4978fae6262eba18dfb520e5ec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-34-2021",
+   "path": "local/bacau/moinesti/2021/34",
+   "short": "HCL Moinești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 34/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-16",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-34-din-16.03.2021.pdf",
+     "sha256": "18b358f8c82d998c62d5c2a739cdf793b209a4e3728db9f0023e991ecf920c7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-36-2021",
+   "path": "local/bacau/moinesti/2021/36",
+   "short": "HCL Moinești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 36/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-19",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-36-din-19.03.2021.pdf",
+     "sha256": "d5a8788a3b1183e6b3ad129704d9b6dadb2a5a6ec67bdfb5b36c4cd90c20cf80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-37-2021",
+   "path": "local/bacau/moinesti/2021/37",
+   "short": "HCL Moinești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 37/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-19",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-37-din-19.03.2021.pdf",
+     "sha256": "32a30489e852894443d4cb37a3c3ed4b6068f6eca725abf0ce0b4fc9c8ed98d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-38-2021",
+   "path": "local/bacau/moinesti/2021/38",
+   "short": "HCL Moinești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 38/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-21",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-38-din-21.03.2021.pdf",
+     "sha256": "07e1d2a320b4805908ca9db4801d197c69e4d2b2c86ee8b0fe84b1c7cb11cfe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-39-2021",
+   "path": "local/bacau/moinesti/2021/39",
+   "short": "HCL Moinești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 39/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-39-din-22.03.2021.pdf",
+     "sha256": "737b8b47b7e50964bd4b991ddfa74d7026613af9e5e66f7c3a55344763c6d8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-40-2021",
+   "path": "local/bacau/moinesti/2021/40",
+   "short": "HCL Moinești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 40/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-40-din-24.03.2021.pdf",
+     "sha256": "d49e4c135d95a01b6f09845a50cb1799e0b1aae11a1ba919f3165c06362a3f91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-42-2021",
+   "path": "local/bacau/moinesti/2021/42",
+   "short": "HCL Moinești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 42/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-27",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-42-din-27.03.2021.pdf",
+     "sha256": "35f1c6a75ef9fa80cbaa1ec1bae4289694b38d09939ea0506847cfe502385139"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-43-2021",
+   "path": "local/bacau/moinesti/2021/43",
+   "short": "HCL Moinești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 43/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-43-din-30.03.2021.pdf",
+     "sha256": "74d0d096e708c2f90269e09ba18d5d42f34303de91c6a3576fa8ca84ed2909d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-44-2021",
+   "path": "local/bacau/moinesti/2021/44",
+   "short": "HCL Moinești nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 44/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-44-din-01.04.2021.pdf",
+     "sha256": "01ec6b9288b9f31c8a6f624ad8fb7c7cde877443637aa408c3b541fa6caa20cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-45-2021",
+   "path": "local/bacau/moinesti/2021/45",
+   "short": "HCL Moinești nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 45/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-02",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-45-din-02.04.2021.pdf",
+     "sha256": "556ad81fdc75b69be076ae61cd3c94fcd58c52f168e09566ef97dfec695f26c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-46-2021",
+   "path": "local/bacau/moinesti/2021/46",
+   "short": "HCL Moinești nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 46/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-04",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-46-din-04.04.2021.pdf",
+     "sha256": "32107b1fc7a6fefdf2153927bbe352df34b648eb035d0230e57720682c47ed6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-47-2021",
+   "path": "local/bacau/moinesti/2021/47",
+   "short": "HCL Moinești nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 47/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-05",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-47-din-05.04.2021.pdf",
+     "sha256": "cd8e6d0dd9d554d732f1987d47f99b34da50f89208837211ca9c2a28e26e8a3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-5-2021",
+   "path": "local/bacau/moinesti/2021/5",
+   "short": "HCL Moinești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 5/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-5-din-15.01.2021.pdf",
+     "sha256": "8537b5415b4f6e124b964a9de7fab3c47c5baeeec82f0bf451c68223e343cdec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-52-2021",
+   "path": "local/bacau/moinesti/2021/52",
+   "short": "HCL Moinești nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 52/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-52-din-16.04.2021.pdf",
+     "sha256": "51cafee721b2f78b85fb43f4f9620cd91804516acbbceadb85c988301dc90a87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-53-2021",
+   "path": "local/bacau/moinesti/2021/53",
+   "short": "HCL Moinești nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 53/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-18",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-53-din-18.04.2021.pdf",
+     "sha256": "afe3459032265976b40fa4b604f8b952ae448e217bc108a2f508f53a4c49de75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-54-2021",
+   "path": "local/bacau/moinesti/2021/54",
+   "short": "HCL Moinești nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 54/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-54-din-19.04.2021.pdf",
+     "sha256": "6cb3a4a37d057a001c09c5a72891c639ef53504a23dc74ccbe68e41682b2b14f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-55-2021",
+   "path": "local/bacau/moinesti/2021/55",
+   "short": "HCL Moinești nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 55/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-55-din-21.04.2021.pdf",
+     "sha256": "0bb431f3b221cb2626e89da18c8b8d20deaf2515eceb875fbd0c9c4fde1acfae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-56-2021",
+   "path": "local/bacau/moinesti/2021/56",
+   "short": "HCL Moinești nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 56/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-24",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-56-din-24.04.2021.pdf",
+     "sha256": "e53fac4c9848abad71ad8409d65c982de28fdcaec7386adafb032d4927b7e21b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-57-2021",
+   "path": "local/bacau/moinesti/2021/57",
+   "short": "HCL Moinești nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 57/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARI-CJSU-nr.-57-din-27.04.2021.pdf",
+     "sha256": "648c63da2e49abb7c5abeb7a54f61c566444392fb61aef10ad6a9f7f58f14d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-58-2021",
+   "path": "local/bacau/moinesti/2021/58",
+   "short": "HCL Moinești nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 58/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-58-din-29.04.2021.pdf",
+     "sha256": "0b956daebb59d39a7a3ed00ecdab2677851b1edccf26e5554ba3701a79d06307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-59-2021",
+   "path": "local/bacau/moinesti/2021/59",
+   "short": "HCL Moinești nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 59/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-30",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-59-din-30.04.2021.pdf",
+     "sha256": "2b0294237ee0171461e2da268180a2843c45b909553f9e3bd4f2d3d4ed08b482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-61-2021",
+   "path": "local/bacau/moinesti/2021/61",
+   "short": "HCL Moinești nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 61/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-02",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-61-din-02.05.2021.pdf",
+     "sha256": "a2edcfa185b9949a10381dc3667ac174d6bf823eabaf84c730421571629b554c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-63-2021",
+   "path": "local/bacau/moinesti/2021/63",
+   "short": "HCL Moinești nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 63/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-63-din-05.05.2021.pdf",
+     "sha256": "7cf3d2f1f524bc2b172c06398dd3dd2a82a513efa67eb9ae719258c8bfdfdc52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-64-2021",
+   "path": "local/bacau/moinesti/2021/64",
+   "short": "HCL Moinești nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 64/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-64-din-07.05.2021.pdf",
+     "sha256": "1c7f39e3ee37ce4f24aee5e4b945c1a15b2bdac640a880378737885e3a7a559e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-65-2021",
+   "path": "local/bacau/moinesti/2021/65",
+   "short": "HCL Moinești nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 65/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-08",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-65-din-08.05.2021.pdf",
+     "sha256": "bc8f532e8d385ce3c6fb1d391c3c73f91bbe2187cf6410b71e766bd796bce1d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-66-2021",
+   "path": "local/bacau/moinesti/2021/66",
+   "short": "HCL Moinești nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 66/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-66-din-11.05.2021.pdf",
+     "sha256": "7280defa3055aad75ed8d79247e782b96b051d30a566cdd3c2aabe6833374344"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-67-2021",
+   "path": "local/bacau/moinesti/2021/67",
+   "short": "HCL Moinești nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 67/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-67-din-14.05.2021.pdf",
+     "sha256": "93b205c37599fbdab13fdf16dcfbe406428184cfe290468fc60a6e7524eb9eda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-69-2021",
+   "path": "local/bacau/moinesti/2021/69",
+   "short": "HCL Moinești nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 69/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-16",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-69-din-16.05.2021.pdf",
+     "sha256": "5e462094e1e7c7b036078da971688c2df725b2f61a47d109191d1ed5f1b77a54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-7-2021",
+   "path": "local/bacau/moinesti/2021/7",
+   "short": "HCL Moinești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 7/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-7-din-21.01.2021.pdf",
+     "sha256": "e738d7ae12ac94f019585d9a45ffaef3f133eb3e5c23506352f28dadedb7baac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-71-2021",
+   "path": "local/bacau/moinesti/2021/71",
+   "short": "HCL Moinești nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 71/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-71-din-19.05.2021.pdf",
+     "sha256": "e3bba6d69f0ec7d344d97578f5737672f01aaa0a4129c9807f8bbea79e53eb60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-77-2021",
+   "path": "local/bacau/moinesti/2021/77",
+   "short": "HCL Moinești nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 77/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-77-din-28.05.2021.pdf",
+     "sha256": "dce1e7e0a03605bbd6e45dee1b0de485e60b27cb314888372ad3cbc94e40eeeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-8-2021",
+   "path": "local/bacau/moinesti/2021/8",
+   "short": "HCL Moinești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 8/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-8-din-27.01.2021.pdf",
+     "sha256": "82f1b9313659fa952c5ba2100c7ffcc76a4358e7e76f6f46f55f511cdf5e4c78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-88-2021",
+   "path": "local/bacau/moinesti/2021/88",
+   "short": "HCL Moinești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 88/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-88-din-06.09.2021.pdf",
+     "sha256": "5eb1c5ea24467a805a0d2a08bc526ab839e66dd4891a17f9a594f074fe155e8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-89-2021",
+   "path": "local/bacau/moinesti/2021/89",
+   "short": "HCL Moinești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 89/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-89-din-10.09.2021.pdf",
+     "sha256": "a2d7435abff5f3f5adb3b6e6b9b579cc4c60d7288909767ad6690e76b14a2285"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-9-2021",
+   "path": "local/bacau/moinesti/2021/9",
+   "short": "HCL Moinești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 9/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-9-din-29.01.2021.pdf",
+     "sha256": "c3d92b4cbf3f7673ac47cb402a78608e63ae3c8cecfa9c07ec533d0832334dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-90-2021",
+   "path": "local/bacau/moinesti/2021/90",
+   "short": "HCL Moinești nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 90/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-90-din-10.09.2021.pdf",
+     "sha256": "913a4b21e21310ac0921363d075435743d41001ec5bf8e6abc86fb935fc821ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-91-2021",
+   "path": "local/bacau/moinesti/2021/91",
+   "short": "HCL Moinești nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 91/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-91-din-14.09.2021.pdf",
+     "sha256": "532d2856a74caad6d4688a85281352de94aa4b6cbf81e7a5c69b37e70089f2d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-96-2021",
+   "path": "local/bacau/moinesti/2021/96",
+   "short": "HCL Moinești nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 96/2021",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-96-din-22.09.2021.pdf",
+     "sha256": "15fad5ae069a9750e0b3615ec3b7f103ed1674c89ebd7c69e419d8e25d759904"
+    }
+   ]
+  }
+ ]
+}

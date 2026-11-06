@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-17-2015",
+   "path": "local/neamt/roman/2015/17",
+   "short": "HCL Roman nr. 17/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 17/2015 privind aprobarea Regulamentului de acordare a sporului pentru condiţii vătămătoare de muncă personalului din aparatul de lucru al primarului municipiului Roman, serviciile publice subordonate şi aparatul de lucru al Consiliului local Anexa",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2015/",
+   "versions": [
+    {
+     "from": "2015-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2015/017%20HCL%202015-01%20regulament%20acordare%20sporuri%20PMR.pdf",
+     "sha256": "71a34fb93adcf5dd25efca403bd2dc75a7afc775092b7deac2765752c494c2c3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-172-2015",
    "path": "local/neamt/roman/2015/172",
    "short": "HCL Roman nr. 172/2015",

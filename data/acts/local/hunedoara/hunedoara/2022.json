@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--hunedoara-260-2022",
+"path": "local/hunedoara/hunedoara/2022/260",
+"kind": "local",
+"year": "2022",
+"number": "260",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 260/2022 pentru aprobarea completării Anexei la Hotărârea Consiliului Local al municipiului Hunedoara nr. 389/2021 privind acordarea facilităților la transportul public local de persoane prin curse regulate pentru categoriile de persoane beneficiare de pe raza administrativ teritorială a Municipiului Hunedoara și a modalităților de emitere a documentelor de călătorie",
+"short": "HCL Hunedoara nr. 260/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-15",
+"latest": "2022-07-15",
+"portal": "https://emol.ro/hunedoara-hd/registru-hcl/66032",
+"council": "hunedoara/hunedoara",
+"council_name": "Consiliul Local al Municipiului Hunedoara",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-hunedoara--hunedoara-261-2022",
 "path": "local/hunedoara/hunedoara/2022/261",
 "kind": "local",
@@ -419,6 +441,29 @@
 "council_name": "Consiliul Local al Municipiului Hunedoara",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-hunedoara--hunedoara-436-2022",
+"path": "local/hunedoara/hunedoara/2022/436",
+"kind": "local",
+"year": "2022",
+"number": "436",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Hunedoara nr. 436/2022",
+"short": "HCL Hunedoara nr. 436/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/hunedoara-hd/registru-hcl/79945",
+"council": "hunedoara/hunedoara",
+"council_name": "Consiliul Local al Municipiului Hunedoara",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

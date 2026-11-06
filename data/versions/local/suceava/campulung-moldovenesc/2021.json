@@ -3,6 +3,21 @@
  "shard": "local/suceava/campulung-moldovenesc/2021",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-108-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/108",
+   "short": "HCL Câmpulung Moldovenesc nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 108/2021 pentru aprobarea actualizării Regulamentului serviciului de salubrizare din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 26 august 2021; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 22965 din 10.08.2021; -Raportul de specialitate al Direcției tehnice, înregist",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2021",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_108_2021.doc",
+     "sha256": "42eb108903f1d72d81bb12029e4983cf7ee5991d3f0880658fac919b3a314ebb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-151-2021",
    "path": "local/suceava/campulung-moldovenesc/2021/151",
    "short": "HCL Câmpulung Moldovenesc nr. 151/2021",
@@ -14,6 +29,36 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_151_2021.docx",
      "sha256": "dd0a41aff9b4a7a1396aef8fa8e23424c085b4c098060489d33c0e5098004bdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-152-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/152",
+   "short": "HCL Câmpulung Moldovenesc nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 152/2021 pentru aprobarea Regulamentului privind utilizarea și întreținerea sistemului portabil de înregistrare audio-video BOBLOV F1 – 1440 P și prelucrarea datelor cu caracter personal de către funcționarii din cadrul Direcției Poliția Locală Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință ordinară din data de 25 noiembrie 2021; Având în vedere: -Referatul de aprobare al primar",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_152_2021.doc",
+     "sha256": "4745ef4290f5b0f47b411d571d5660c5d349105b1468bb5719fb8ef4f4115e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-167-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/167",
+   "short": "HCL Câmpulung Moldovenesc nr. 167/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 167/2021 cu privire la stabilirea impozitelor și taxelor locale pentru anul 2022 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 20 decembrie 2021; Având în vedere : -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 36821 din 10.12.2021; -Raportul de specialitate al Direcției economice, înregistrat la nr. 36823 din 10",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_167_2021.doc",
+     "sha256": "538cf12435f0691988c67b9e2294f851c4d7bf53306f5f3f85c479deaa76ae8a"
     }
    ]
   },
@@ -33,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-171-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/171",
+   "short": "HCL Câmpulung Moldovenesc nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 171/2021 privind aprobarea tarifelor tichetelor și a programului de funcționare pentru efectuarea serviciului de administrare la domeniul schiabil Rarău - Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință ordinară din data de 20 decembrie 2021; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 38014 di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_171_2021.doc",
+     "sha256": "cbfe8a0cba6ebf6720c098aec06def9a96d193bd3a6f5a94a06b9a801beef240"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-172-2021",
    "path": "local/suceava/campulung-moldovenesc/2021/172",
    "short": "HCL Câmpulung Moldovenesc nr. 172/2021",
@@ -44,6 +104,66 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_172_2021.docx",
      "sha256": "a94ca177899aec74f673b0c02f93d7b249e1700f586c1f7a284e3f87cb85d898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-46-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/46",
+   "short": "HCL Câmpulung Moldovenesc nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 46/2021 privind modificarea Anexei nr. 1 la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 79 din 25 septembrie 2014 pentru constituirea Comisiei tehnice de amenajare a teritoriului și urbanism și aprobarea Regulamentului de funcționare a Comisiei tehnice de amenajare a teritoriului și urbanism a Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenes",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2021",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_046_2021.doc",
+     "sha256": "1ef5114ecf80acea986942642ef76ed2c40f7b9cedaa8431552e8c682a597a1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-68-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/68",
+   "short": "HCL Câmpulung Moldovenesc nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 68/2021 privind modificarea Anexei nr.4 din Caietul de sarcini aprobat prin Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr.54/27.04.2021 pentru aprobarea delegării gestiunii serviciului de salubrizare al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 mai 2021; Având în vedere: -Referatul de aprobare al pri",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_068.doc",
+     "sha256": "84e4a8ce04a13076ae2bda2127645143911bdbe0cd694a21388be1ecfa644c51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-70-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/70",
+   "short": "HCL Câmpulung Moldovenesc nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 70/2021 pentru modificarea articolului 46 din Regulamentul privind regimul finanțărilor nerambursabile din fondurile bugetului local al municipiului Câmpulung Moldovenesc alocate pentru activități nonprofit de interes local și a unor măsuri pentru punerea în aplicare a acestuia, aprobat prin Anexa nr. 1 la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 19/26.02.2015 Consiliul Local",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p7?an=2021",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_070_2021.doc",
+     "sha256": "774a3c17012874be3a02a0d691d75e1724199f0a2b70aef08a15b62024e44e98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-90-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/90",
+   "short": "HCL Câmpulung Moldovenesc nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 90/2021 pentru modificarea articolului 4 din Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 19/2015 pentru aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fondurile bugetului local al municipiului Câmpulung Moldovenesc alocate pentru activități nonprofit de interes local și a unor măsuri pentru punerea în aplicare a acestuia Consiliul Local al municipiului C",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2021",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_090_2021.doc",
+     "sha256": "ad0abb8dee1689c94ff032dcdd6b2e996ac3bb15c1264ef1bfab12e987e60cc3"
     }
    ]
   }

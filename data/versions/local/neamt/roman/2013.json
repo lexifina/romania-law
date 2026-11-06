@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-124-2013",
+   "path": "local/neamt/roman/2013/124",
+   "short": "HCL Roman nr. 124/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 124/2013 privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate și serviciilor publice de interes local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2013/",
+   "versions": [
+    {
+     "from": "2013-10-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2013/124%20HCL%202013-10%20aprobare%20ROF%20PMR.pdf",
+     "sha256": "ad540761b9fdf3aa50620ec967061a9d5b31866de536ac998b23eb55edcd90b5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-134-2013",
    "path": "local/neamt/roman/2013/134",
    "short": "HCL Roman nr. 134/2013",

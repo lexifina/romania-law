@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-22-2008",
+   "path": "local/vaslui/husi/2008/22",
+   "short": "HCL Huși nr. 22/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 22/2008 Privind reactualizarea Comisiei locale de ordine publica constituita la nivelul municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_22_2008.pdf",
+     "sha256": "97b9a4be68ed56f39fe7ea1e760043c47adef6bccd48bd7bad85e2a0d8b2ab40"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-58-2008",
    "path": "local/vaslui/husi/2008/58",
    "short": "HCL Huși nr. 58/2008",

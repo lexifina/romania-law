@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/moinesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-bacau--moinesti-37-2020",
+   "path": "local/bacau/moinesti/2020/37",
+   "short": "HCL Moinești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 37/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/ISU-BC-Hotararea-nr.-37-din-05.10.2020-CLSU.pdf",
+     "sha256": "da84f0e1bb8ce37f04c5ba2ad603015110ef09ca9564953aa45deb4189065fda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-42-2020",
+   "path": "local/bacau/moinesti/2020/42",
+   "short": "HCL Moinești nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 42/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-10-12",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-42-din-12.10.2020.pdf",
+     "sha256": "b9f03e4bd873652e7f74eeb30e6aedc368181a0d0e547cdc33af5bfae6f40604"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-46-2020",
+   "path": "local/bacau/moinesti/2020/46",
+   "short": "HCL Moinești nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 46/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-46-din-19.10.2020.pdf",
+     "sha256": "6af0cd48e216a1b29a97bb73779d5744851078e34ad59b63232ab9f8b52ab044"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-49-2020",
+   "path": "local/bacau/moinesti/2020/49",
+   "short": "HCL Moinești nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 49/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARAREA-CJSU-nr.-49-din-26.10.2020.pdf",
+     "sha256": "791366e0bf409128956e2768904baea6d91d1589a1bc39326fce6d684f7218d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-50-2020",
+   "path": "local/bacau/moinesti/2020/50",
+   "short": "HCL Moinești nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 50/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARAREA-CJSU-nr.-50-din-26.10.2020.pdf",
+     "sha256": "1939482ad8c1724888c3c71837b6ca8e50428e8d01d5ad0fee043a46a52ef5ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-54-2020",
+   "path": "local/bacau/moinesti/2020/54",
+   "short": "HCL Moinești nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 54/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-54-din-02.11.2020.pdf",
+     "sha256": "8cb3d367fbd62b33f2d5a2aa68dc63a2021c8a2960c303e64188e843d098fc68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-55-2020",
+   "path": "local/bacau/moinesti/2020/55",
+   "short": "HCL Moinești nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 55/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-55-din-04.11.2020.pdf",
+     "sha256": "00696de1912b4162742e8bef64833b5d3d2ce9e08beac6afb57c36d29e0d99a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-57-2020",
+   "path": "local/bacau/moinesti/2020/57",
+   "short": "HCL Moinești nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 57/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-57-din-10.11.2020.pdf",
+     "sha256": "1da28adec7192c2599efa7109e6310c4f7ce43e597b6a790c43fe3348a0ce381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-59-2020",
+   "path": "local/bacau/moinesti/2020/59",
+   "short": "HCL Moinești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 59/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-59-din-12.11.2020.pdf",
+     "sha256": "681ff35546d20c367d14bfc52f24a8c5f84bbb528a81fc9ccf8c8bfa734644bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-60-2020",
+   "path": "local/bacau/moinesti/2020/60",
+   "short": "HCL Moinești nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 60/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-60-din-16.11.2020.pdf",
+     "sha256": "37ded3323f84884cf9a4a3bd2c3dfc797ad098a66643f0dd26e8fdfcbfdb8f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-71-2020",
+   "path": "local/bacau/moinesti/2020/71",
+   "short": "HCL Moinești nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 71/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-71-din-15.12.2020.pdf",
+     "sha256": "db1340cf5029ec66aefd28e6af76fca88579a76bf7086e2034876dc04e05de2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-72-2020",
+   "path": "local/bacau/moinesti/2020/72",
+   "short": "HCL Moinești nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 72/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-72-din-17.12.2020.pdf",
+     "sha256": "65823a00093d7e4d6657d11ac2d7f712d879e3bbaf9afa96f2f22261838dca57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-73-2020",
+   "path": "local/bacau/moinesti/2020/73",
+   "short": "HCL Moinești nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 73/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-73-din-22.12.2020.pdf",
+     "sha256": "9f96148173ba608ff203d6d8d06542b3c1bebcc5012a704b41c3c32601829f45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--moinesti-74-2020",
+   "path": "local/bacau/moinesti/2020/74",
+   "short": "HCL Moinești nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Moinești nr. 74/2020",
+   "url": "https://moinesti.ro/categorie-documente/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 1,
+     "source_url": "https://moinesti.ro/wp-content/uploads/2023/07/HOTARARE-CJSU-nr.-74-din-24.12.2020.pdf",
+     "sha256": "e197121a6148cb5216f33e12049a18d529f19a0d22739c8b93bf16c61da0105f"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,72 @@
 "shard": "local/bihor/marghita/2016",
 "acts": [
 {
+"slug": "hcl-bihor--marghita-4-2016",
+"path": "local/bihor/marghita/2016/4",
+"kind": "local",
+"year": "2016",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 4/2016 privind alegerea președintelui de ședință a Consiliului Local",
+"short": "HCL Marghita nr. 4/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-28",
+"latest": "2016-06-28",
+"portal": "https://marghita.ro/hotararile-c-l/2016/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-5-2016",
+"path": "local/bihor/marghita/2016/5",
+"kind": "local",
+"year": "2016",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 5/2016 privind alegerea viceprimarului",
+"short": "HCL Marghita nr. 5/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-28",
+"latest": "2016-06-28",
+"portal": "https://marghita.ro/hotararile-c-l/2016/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-8-2016",
+"path": "local/bihor/marghita/2016/8",
+"kind": "local",
+"year": "2016",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 8/2016 privind aprobarea Planul de lucrări ce vor fi efectuate în anul 2016 de către persoanele apte de muncă, beneficiare de ajutor social potrivit Legii nr. 416/2001, privind venitul minim garantat",
+"short": "HCL Marghita nr. 8/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-26",
+"latest": "2016-01-26",
+"portal": "https://marghita.ro/hotararile-c-l/2016/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--marghita-12-2016",
 "path": "local/bihor/marghita/2016/12",
 "kind": "local",
@@ -22,6 +88,50 @@
 "council_name": "Consiliul Local al Municipiului Marghita",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--marghita-40-2016",
+"path": "local/bihor/marghita/2016/40",
+"kind": "local",
+"year": "2016",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 40/2016 privind validarea Dispoziției primarului nr. 467 din 07.09.2016 privind rectificarea bugetului de venituri și cheltuieli pe anul 2016",
+"short": "HCL Marghita nr. 40/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-29",
+"latest": "2016-09-29",
+"portal": "https://marghita.ro/hotararile-c-l/2016/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-41-2016",
+"path": "local/bihor/marghita/2016/41",
+"kind": "local",
+"year": "2016",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 41/2016 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Marghita pe anul 2016",
+"short": "HCL Marghita nr. 41/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-29",
+"latest": "2016-09-29",
+"portal": "https://marghita.ro/hotararile-c-l/2016/",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

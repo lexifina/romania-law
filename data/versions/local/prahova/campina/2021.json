@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-61-2021",
+   "path": "local/prahova/campina/2021/61",
+   "short": "HCL Câmpina nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 61/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/06/Hotararea-nr61-indexare-impozite-si-taxe-2022.doc",
+     "sha256": "f793f22eb4a2204f1eb4721e09d1c0acd7e502851292783e50a550b7dad161ee"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-62-2021",
    "path": "local/prahova/campina/2021/62",
    "short": "HCL Câmpina nr. 62/2021",
@@ -104,6 +119,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/06/Hotararea-nr62-aprobare-criterii-identificare_incadrare-cladiri-terenuri-neingrijite-Campina.docx",
      "sha256": "1e2a05020f3592734d893f362b59cceca874ae2035d8f715ead7a101d8758b9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-68-2021",
+   "path": "local/prahova/campina/2021/68",
+   "short": "HCL Câmpina nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 68/2021 privind aprobarea Planului Urbanistic Zonal „PUZ – Schimbare parțială destinație (pentru Nr.Cadastral 25375) din C1-zona căi de circulație rutieră (S=205,3 mp) în IS2 – zona instituții și servicii și din SP3-zonă spații verzi plantații de protecție (S=568,7 mp) în IS2-zonă instituții și servicii și (pentru Nr.Cadastral 28416) din C1-zonă căi de circulație (S=80,90 mp) în IS2-zonă instituții și ser",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/06/Hotararea-nr68-PUZ-schimbare-partiala-destinatie-teren-Bdul-NBalcescu-SC-Neptun-SA.doc",
+     "sha256": "a1dce265a5cc062b830ed9f3cdad545c2448767506d1e6a1cabd38de8b6871df"
     }
    ]
   },

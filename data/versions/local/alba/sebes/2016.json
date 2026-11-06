@@ -1,0 +1,936 @@
+{
+ "country": "RO",
+ "shard": "local/alba/sebes/2016",
+ "acts": [
+  {
+   "slug": "hcl-alba--sebes-141-2016",
+   "path": "local/alba/sebes/2016/141",
+   "short": "HCL Sebeș nr. 141/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 141/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.141.pdf",
+     "sha256": "358345788172c7ad89ac21476bc16bd36bcd442c748d5b0f10817ae675d2734c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-142-2016",
+   "path": "local/alba/sebes/2016/142",
+   "short": "HCL Sebeș nr. 142/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 142/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.142.pdf",
+     "sha256": "e37427ee2a8d7308d009876adf30d254b7625c0329a1017d71c790f401163cbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-143-2016",
+   "path": "local/alba/sebes/2016/143",
+   "short": "HCL Sebeș nr. 143/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 143/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.143.pdf",
+     "sha256": "528b44affd0be75bafe9e4cb4bae65373c0da6b2001a1053e3a7367d3fc93739"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-144-2016",
+   "path": "local/alba/sebes/2016/144",
+   "short": "HCL Sebeș nr. 144/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 144/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.144.pdf",
+     "sha256": "bf88d1a70354dbcb77e7a7beada99688b2842691f7fb3408216fa0ac544bf5b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-145-2016",
+   "path": "local/alba/sebes/2016/145",
+   "short": "HCL Sebeș nr. 145/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 145/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.145.pdf",
+     "sha256": "4f8c485ea3d812db375769281a1f356cb685e5f9030784a77a04791048fa9ae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-146-2016",
+   "path": "local/alba/sebes/2016/146",
+   "short": "HCL Sebeș nr. 146/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 146/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.146.pdf",
+     "sha256": "6e63827c37c4c8fd0eddbac5553a9c3fb3646de2b8bc30288363102fc16577cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-147-2016",
+   "path": "local/alba/sebes/2016/147",
+   "short": "HCL Sebeș nr. 147/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 147/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.147.pdf",
+     "sha256": "261bf2fbaa7b7c2bf8e8bc8a05946b3db6bce6cfc6026c1c6b23e0d998d1d060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-148-2016",
+   "path": "local/alba/sebes/2016/148",
+   "short": "HCL Sebeș nr. 148/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 148/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.148.pdf",
+     "sha256": "b289525fb925aeb300927f564b24e651ec3d60a963b2bfb7214902aeee829b4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-149-2016",
+   "path": "local/alba/sebes/2016/149",
+   "short": "HCL Sebeș nr. 149/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 149/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.149.pdf",
+     "sha256": "1e4664e538eb6effa47617b2440d37521229e359cb0f3563503cce670ede1b31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-150-2016",
+   "path": "local/alba/sebes/2016/150",
+   "short": "HCL Sebeș nr. 150/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 150/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.150.pdf",
+     "sha256": "219ab496000b8aabd398ce2e9b57611f06d27f75a7d6d5d8b7f5275a3082b646"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-151-2016",
+   "path": "local/alba/sebes/2016/151",
+   "short": "HCL Sebeș nr. 151/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 151/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.151.pdf",
+     "sha256": "760907d384b224e353da7214dd3e769842cf2ed9d5682011cc2c063211da7a9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-152-2016",
+   "path": "local/alba/sebes/2016/152",
+   "short": "HCL Sebeș nr. 152/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 152/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.152.pdf",
+     "sha256": "1ff78aa1c4eeaafd63bbcb10d8118a930c510402ccd84920c4b58cfb758960a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-153-2016",
+   "path": "local/alba/sebes/2016/153",
+   "short": "HCL Sebeș nr. 153/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 153/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.153.pdf",
+     "sha256": "e7f9b4d9e0f6109f96e6f46fa2c7c2de7fcbad4188fd043c5ae098ab39829afb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-154-2016",
+   "path": "local/alba/sebes/2016/154",
+   "short": "HCL Sebeș nr. 154/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 154/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.154.pdf",
+     "sha256": "55c02067f0f99ffddc0bfd2e6dcb3a105b9e289520049afeea4f3f21477e1542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-155-2016",
+   "path": "local/alba/sebes/2016/155",
+   "short": "HCL Sebeș nr. 155/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 155/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.155.pdf",
+     "sha256": "5d5f426650b93267e5bb14b88ce25281d723f44cd111d0efe405fc81a9a705dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-156-2016",
+   "path": "local/alba/sebes/2016/156",
+   "short": "HCL Sebeș nr. 156/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 156/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.156.pdf",
+     "sha256": "76fa05a9710839fe206e74aede0045bb07d5deefc8ee6f3986a44ad4d4c0ddab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-157-2016",
+   "path": "local/alba/sebes/2016/157",
+   "short": "HCL Sebeș nr. 157/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 157/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.157.pdf",
+     "sha256": "c360cee95000e02ca16760208cec8738154eba54830e6e2c014dae25df6f8058"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-158-2016",
+   "path": "local/alba/sebes/2016/158",
+   "short": "HCL Sebeș nr. 158/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 158/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.158.pdf",
+     "sha256": "a6d3a2d35d02ca20b01404b611de02f63db8e0eb6b32851c8a03f0730a9c29a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-159-2016",
+   "path": "local/alba/sebes/2016/159",
+   "short": "HCL Sebeș nr. 159/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 159/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.159.pdf",
+     "sha256": "a40f0c5a22c3e1104471c485b13e9ed753896da0d7f73db8ac66785fc828ab4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-160-2016",
+   "path": "local/alba/sebes/2016/160",
+   "short": "HCL Sebeș nr. 160/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 160/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.160.pdf",
+     "sha256": "32323002ffcb6ee26c97c409fa304c583e362a40544581218b4c1dc3726b8895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-161-2016",
+   "path": "local/alba/sebes/2016/161",
+   "short": "HCL Sebeș nr. 161/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 161/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.161.pdf",
+     "sha256": "435834dc80536f85ee545806dedb64c1f0bd434d305ca0a104410229e3a59ad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-162-2016",
+   "path": "local/alba/sebes/2016/162",
+   "short": "HCL Sebeș nr. 162/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 162/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.162.pdf",
+     "sha256": "95d610dae7f1e387157c032ca91847ee96e706f874b1127d67b6f482a374eac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-163-2016",
+   "path": "local/alba/sebes/2016/163",
+   "short": "HCL Sebeș nr. 163/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 163/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.163.pdf",
+     "sha256": "0a6f5690aa9bc6846f611477b8450655dee691cdd99f33e33f4edda7d64ae0fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-164-2016",
+   "path": "local/alba/sebes/2016/164",
+   "short": "HCL Sebeș nr. 164/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 164/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.164.pdf",
+     "sha256": "619a09418d83b987a4a4b1af22b83c56b5de9f4bd8a1899822fbe480b8502c40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-165-2016",
+   "path": "local/alba/sebes/2016/165",
+   "short": "HCL Sebeș nr. 165/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 165/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.165.pdf",
+     "sha256": "f6af80ee754686c1782b057736a072bab7e5278c42414642cc4612ef5f83eb17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-166-2016",
+   "path": "local/alba/sebes/2016/166",
+   "short": "HCL Sebeș nr. 166/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 166/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/08/hcl-scanate-26.07.2016/HCL.166.pdf",
+     "sha256": "95f694cf6e7a0c2a7ea24a48af456c8f64b1c1531506028a5eb0594f0e34574a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-231-2016",
+   "path": "local/alba/sebes/2016/231",
+   "short": "HCL Sebeș nr. 231/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 231/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-231.pdf",
+     "sha256": "c365a14e562f6ebf9aab5b6ddd4a84af66e632be03ca59126b0d8e049da81fe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-232-2016",
+   "path": "local/alba/sebes/2016/232",
+   "short": "HCL Sebeș nr. 232/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 232/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-232.pdf",
+     "sha256": "24025b76326fdd265fcb724a088de468c3700d6a1ec47b110cb6a1602774fa8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-233-2016",
+   "path": "local/alba/sebes/2016/233",
+   "short": "HCL Sebeș nr. 233/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 233/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-233.pdf",
+     "sha256": "c4a76e5250db781d24ae9a60f0c01b9de73d3cbaf190e0f110a59bb56da969b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-234-2016",
+   "path": "local/alba/sebes/2016/234",
+   "short": "HCL Sebeș nr. 234/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 234/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-234.pdf",
+     "sha256": "21f9f030324cfa769b77e7ffa8913565809145394302ef1510296927a27b48e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-235-2016",
+   "path": "local/alba/sebes/2016/235",
+   "short": "HCL Sebeș nr. 235/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 235/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-235.pdf",
+     "sha256": "7c2676edf581d6d15e46f86d025c33468ac9b96adc8f26e1cf5065ed15d0495d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-236-2016",
+   "path": "local/alba/sebes/2016/236",
+   "short": "HCL Sebeș nr. 236/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 236/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-236.pdf",
+     "sha256": "c8a232451fc039f637d3103dc8276f6453cadcbd767a45d16e1935e396e3fe80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-237-2016",
+   "path": "local/alba/sebes/2016/237",
+   "short": "HCL Sebeș nr. 237/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 237/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-237.pdf",
+     "sha256": "952e5dfcd0c8bc35de5557a825a935c7404e660559ba11a6a140c92615cebc94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-238-2016",
+   "path": "local/alba/sebes/2016/238",
+   "short": "HCL Sebeș nr. 238/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 238/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-238.pdf",
+     "sha256": "5a457f0c8876cc88cd0dd3de2806c4550d505033a7b4087b0bb7b9c6426eaf5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-239-2016",
+   "path": "local/alba/sebes/2016/239",
+   "short": "HCL Sebeș nr. 239/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 239/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-239.pdf",
+     "sha256": "e126e2f95b190128d10d38793a84339923a108c9c2ccdfb14452438d735d6dd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-240-2016",
+   "path": "local/alba/sebes/2016/240",
+   "short": "HCL Sebeș nr. 240/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 240/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-240.pdf",
+     "sha256": "3bf6a2ae9b95dfb38ff1584abc3c74f14f878339cd7a86f965904185bbd8ae34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-241-2016",
+   "path": "local/alba/sebes/2016/241",
+   "short": "HCL Sebeș nr. 241/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 241/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-241.pdf",
+     "sha256": "620d5b27fbf3b14c2d63eeaaa5ef278c84bfcb73048acdd6ee92de058fee903b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-242-2016",
+   "path": "local/alba/sebes/2016/242",
+   "short": "HCL Sebeș nr. 242/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 242/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-242.pdf",
+     "sha256": "60dd8353deab8dbbd67195fad60ea39c3cd139df5d89909578d22b70a227ff98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-243-2016",
+   "path": "local/alba/sebes/2016/243",
+   "short": "HCL Sebeș nr. 243/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 243/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-243.pdf",
+     "sha256": "a96a195b7e5ab794a0553465a57fe68c4855591d220400236aa7f3495c050ab0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-244-2016",
+   "path": "local/alba/sebes/2016/244",
+   "short": "HCL Sebeș nr. 244/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 244/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-244.pdf",
+     "sha256": "76455665e504ff52c02a9ed2f30e214e5e0d7d09996721d6481ecec77b7e561c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-245-2016",
+   "path": "local/alba/sebes/2016/245",
+   "short": "HCL Sebeș nr. 245/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 245/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-245.pdf",
+     "sha256": "213d5785693135e7ff5416b3e8c6d7da54b46d85c08b5fec9c2fdd4efce3b7d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-246-2016",
+   "path": "local/alba/sebes/2016/246",
+   "short": "HCL Sebeș nr. 246/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 246/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-246.pdf",
+     "sha256": "b75be67a047855b103f4d42f226de87f0b15171fddec2ca31fc0b20b48e8f522"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-247-2016",
+   "path": "local/alba/sebes/2016/247",
+   "short": "HCL Sebeș nr. 247/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 247/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-247.pdf",
+     "sha256": "043d25922c08b96e5703a33494dab0b75a6c5274da8f5fcba827a720fcc53b6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-248-2016",
+   "path": "local/alba/sebes/2016/248",
+   "short": "HCL Sebeș nr. 248/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 248/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-248.pdf",
+     "sha256": "f3a123052e10fa53d91dcb702f91668db8c8c62b53b54a4602e71023d473da12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-249-2016",
+   "path": "local/alba/sebes/2016/249",
+   "short": "HCL Sebeș nr. 249/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 249/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-249.pdf",
+     "sha256": "21c4e9df315fb4f4d0cf0419c5b6ea186874b635aac14680eb328a8d7ffd801e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-250-2016",
+   "path": "local/alba/sebes/2016/250",
+   "short": "HCL Sebeș nr. 250/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 250/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-250.pdf",
+     "sha256": "6a841832396438e29c33607ecfeb9db26a2a27791f95de19589d8e956af50bbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-251-2016",
+   "path": "local/alba/sebes/2016/251",
+   "short": "HCL Sebeș nr. 251/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 251/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-251.pdf",
+     "sha256": "44257be1dee7e2dd9d34553872bff692325f5a9bd226772d92eb248d59813f1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-252-2016",
+   "path": "local/alba/sebes/2016/252",
+   "short": "HCL Sebeș nr. 252/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 252/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-252.pdf",
+     "sha256": "f729965bbcbd708a5f8bb328ab8cd70743a1bccc994f6c69e4d7f4e9cbde3f2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-253-2016",
+   "path": "local/alba/sebes/2016/253",
+   "short": "HCL Sebeș nr. 253/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 253/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-253.pdf",
+     "sha256": "b0e777e3c5dee9660405c0451d135cb2f0f5b6f11f481ea3e605a47bd532d7bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-254-2016",
+   "path": "local/alba/sebes/2016/254",
+   "short": "HCL Sebeș nr. 254/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 254/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-254.pdf",
+     "sha256": "66856b80f98930a13ad80e0ee0c6c387c5d8713788917e8d70a7b7a7d4c34ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-255-2016",
+   "path": "local/alba/sebes/2016/255",
+   "short": "HCL Sebeș nr. 255/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 255/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-255.pdf",
+     "sha256": "ed43ee8a2d4e58ef0c6c16cf37c11a93083f7c3ac54bf94ee14f03ed3564c4ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-256-2016",
+   "path": "local/alba/sebes/2016/256",
+   "short": "HCL Sebeș nr. 256/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 256/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-256.pdf",
+     "sha256": "5684cadc3d930db85db7f2380dbe0187e189692e120b561984edb75ce93310c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-257-2016",
+   "path": "local/alba/sebes/2016/257",
+   "short": "HCL Sebeș nr. 257/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 257/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-257.pdf",
+     "sha256": "3ab78a2f368c555a8afda5c7dacd2a1dce65e37bf5716e507613cdce6ab1930f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-258-2016",
+   "path": "local/alba/sebes/2016/258",
+   "short": "HCL Sebeș nr. 258/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 258/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-258.pdf",
+     "sha256": "d849dc945a4a78369caea709074facd9720a82905592d649ada9854f608088a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-259-2016",
+   "path": "local/alba/sebes/2016/259",
+   "short": "HCL Sebeș nr. 259/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 259/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-259.pdf",
+     "sha256": "6259db5028c15b86e7a9ab41075c30b4bc2542b55204c2b804265dfdb1c67170"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-260-2016",
+   "path": "local/alba/sebes/2016/260",
+   "short": "HCL Sebeș nr. 260/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 260/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-260.pdf",
+     "sha256": "79565e69efe6dc5a62835a0717555a66459437a3c52fe389cbf925aafa138a97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-261-2016",
+   "path": "local/alba/sebes/2016/261",
+   "short": "HCL Sebeș nr. 261/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 261/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-261.pdf",
+     "sha256": "dc98aded5b022d9d676da344e061660a003f656d4331fd03ebf55c38a6c9dfd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-262-2016",
+   "path": "local/alba/sebes/2016/262",
+   "short": "HCL Sebeș nr. 262/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 262/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-262.pdf",
+     "sha256": "1319e93e4a2d620cfa6a0e03a0292d5edecb662899586b2bd58a5507d453799a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-263-2016",
+   "path": "local/alba/sebes/2016/263",
+   "short": "HCL Sebeș nr. 263/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 263/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-263.pdf",
+     "sha256": "e51c0a57ecb119f94bf15fdb1e7f4db52d710ecee9560d6075cbe3b704d79983"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-264-2016",
+   "path": "local/alba/sebes/2016/264",
+   "short": "HCL Sebeș nr. 264/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 264/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-264.pdf",
+     "sha256": "5473a97d90d7e0038c2be10b87f91173f7c86640706947387110140c46e59d30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-265-2016",
+   "path": "local/alba/sebes/2016/265",
+   "short": "HCL Sebeș nr. 265/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 265/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-265.pdf",
+     "sha256": "dbe0ab864f49dacf3332167380195589b600a17739c8be47f3188d81ff1af1d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-266-2016",
+   "path": "local/alba/sebes/2016/266",
+   "short": "HCL Sebeș nr. 266/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 266/2016",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2016/11/8/HCL-scanate-31.10.2016/hcl-266.pdf",
+     "sha256": "51b10e29908bab6260e18e7790198f1f7bb5bbc384197212d1fc5cac51ae6b86"
+    }
+   ]
+  }
+ ]
+}

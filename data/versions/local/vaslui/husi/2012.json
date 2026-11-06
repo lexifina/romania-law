@@ -46,6 +46,21 @@
      "sha256": "54dd4bb7bb42295d116c03d776ed51b7a06d825efe29820c2fedc90d9981ed13"
     }
    ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-65-2012",
+   "path": "local/vaslui/husi/2012/65",
+   "short": "HCL Huși nr. 65/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 65/2012 privind ajustarea tarifului de calatorie la transportul public local de calatori efectuat prin curse regulate in municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2012/",
+   "versions": [
+    {
+     "from": "2012-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/12/hotarirea_b65_2012.pdf",
+     "sha256": "a473874c03ff8455e8f09b13faa7f8a7b9779c989103927eb4b0a9082e217720"
+    }
+   ]
   }
  ]
 }

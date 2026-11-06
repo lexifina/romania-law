@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--marghita-4-2016",
+   "path": "local/bihor/marghita/2016/4",
+   "short": "HCL Marghita nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 4/2016 privind alegerea președintelui de ședință a Consiliului Local",
+   "url": "https://marghita.ro/hotararile-c-l/2016/",
+   "versions": [
+    {
+     "from": "2016-06-28",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2016/02/HCL-428062016.pdf",
+     "sha256": "e311fda07d9757aacc69add5474bbba3ce2e405771dea18f23c17352a4de10f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-40-2016",
+   "path": "local/bihor/marghita/2016/40",
+   "short": "HCL Marghita nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 40/2016 privind validarea Dispoziției primarului nr. 467 din 07.09.2016 privind rectificarea bugetului de venituri și cheltuieli pe anul 2016",
+   "url": "https://marghita.ro/hotararile-c-l/2016/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2016/02/4029092016.pdf",
+     "sha256": "68fad61988315d4ffb09e0366edd3c5434402d9307e570ba3eb72eaf5f0b52d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-41-2016",
+   "path": "local/bihor/marghita/2016/41",
+   "short": "HCL Marghita nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 41/2016 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Marghita pe anul 2016",
+   "url": "https://marghita.ro/hotararile-c-l/2016/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2016/02/4129092016.pdf",
+     "sha256": "c1c9652524e4ee6a558436181c50f98b5df2ba4aace4c43e52439c1374e94b86"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--marghita-42-2016",
    "path": "local/bihor/marghita/2016/42",
    "short": "HCL Marghita nr. 42/2016",
@@ -29,6 +74,36 @@
      "units": 1,
      "source_url": "http://marghita.ro/wp-content/uploads/2018/11/Hot-11-30.01.2018-pentru-completarea-HCL-nr42-29.09.2016-privind-stabilirea-consumului-lunar-de-carburanti-pentru-mijloacele-aflate-in-dotarea-parcului-auto-propriu-din-cadrul-primariei-mun.-Marghita.pdf",
      "sha256": "9ec3a3560ebcac9fa9be212a03ee37a3aa59f351e204cd6010e853baa91c3134"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-5-2016",
+   "path": "local/bihor/marghita/2016/5",
+   "short": "HCL Marghita nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 5/2016 privind alegerea viceprimarului",
+   "url": "https://marghita.ro/hotararile-c-l/2016/",
+   "versions": [
+    {
+     "from": "2016-06-28",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2016/02/HCL-528062016.pdf",
+     "sha256": "368288d316c3061134dcaeea2dd78e02a136b109a4ba8219acebd9966fe54594"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--marghita-8-2016",
+   "path": "local/bihor/marghita/2016/8",
+   "short": "HCL Marghita nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 8/2016 privind aprobarea Planul de lucrări ce vor fi efectuate în anul 2016 de către persoanele apte de muncă, beneficiare de ajutor social potrivit Legii nr. 416/2001, privind venitul minim garantat",
+   "url": "https://marghita.ro/hotararile-c-l/2016/",
+   "versions": [
+    {
+     "from": "2016-01-26",
+     "units": 1,
+     "source_url": "http://marghita.ro/wp-content/uploads/2016/02/HCL-8-26.01.2016.pdf",
+     "sha256": "2260923b9262b4d7c36c7f64dd21a8a55f73913f8bd7c90c8c935339cd67cecd"
     }
    ]
   }

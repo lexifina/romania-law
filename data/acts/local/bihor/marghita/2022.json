@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/bihor/marghita/2022",
+"acts": [
+{
+"slug": "hcl-bihor--marghita-58-2022",
+"path": "local/bihor/marghita/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 58/2022",
+"short": "HCL Marghita nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-23",
+"latest": "2022-05-23",
+"portal": "https://emol.ro/marghita-bh/registru-hcl/59942",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--marghita-103-2022",
+"path": "local/bihor/marghita/2022/103",
+"kind": "local",
+"year": "2022",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 103/2022 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Marghita pe anul 2022",
+"short": "HCL Marghita nr. 103/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://emol.ro/marghita-bh/registru-hcl/63207",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-122-2022",
+"path": "local/bihor/marghita/2022/122",
+"kind": "local",
+"year": "2022",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 122/2022 privind rectificarea bugetului de venituri și cheltuieli al Municipiului Marghita pe anul 2022",
+"short": "HCL Marghita nr. 122/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-11",
+"latest": "2022-07-11",
+"portal": "https://emol.ro/marghita-bh/registru-hcl/65723",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--marghita-226-2022",
+"path": "local/bihor/marghita/2022/226",
+"kind": "local",
+"year": "2022",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 226/2022 privind aprobarea acordului de parteneriat cu Direcția Generală de Asistență Socială și Protecția Copilului Bihor, pentru copiii cu dizabilități de pe raza Municipiului Marghita, care necesită terapii de abilitare/reabilitare în cadrul Centrului de Zi de Recuperare pentru Copii cu Dizabilități Oradea",
+"short": "HCL Marghita nr. 226/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-12",
+"latest": "2022-12-12",
+"portal": "https://emol.ro/marghita-bh/registru-hcl/80705",
+"council": "bihor/marghita",
+"council_name": "Consiliul Local al Municipiului Marghita",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

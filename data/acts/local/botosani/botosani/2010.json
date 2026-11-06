@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-botosani--botosani-275-2010",
+"path": "local/botosani/botosani/2010/275",
+"kind": "local",
+"year": "2010",
+"number": "275",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 275/2010 privind aprobarea Regulamentului de organizare şi desfăşurare a concursului de proiecte de management, caietului de obiective, condiţiilor de participare pentru concursul de ocupare a postului de manager la Teatrul „Mihai Eminescu „ din Botoşani Vizualizare",
+"short": "HCL Botoșani nr. 275/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-10-28",
+"latest": "2010-10-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--botosani-276-2010",
+"path": "local/botosani/botosani/2010/276",
+"kind": "local",
+"year": "2010",
+"number": "276",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 276/2010 privind aprobarea Regulamentului de organizare şi desfăşurare a concursului de proiecte de management, caietului de obiective şi a condiţiilor de participare pentru concursul de ocupare a postului de manager la Teatrul pentru copii şi tineret „VASILACHE” din Botoşani Vizualizare",
+"short": "HCL Botoșani nr. 276/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-10-28",
+"latest": "2010-10-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-botosani--botosani-277-2010",
 "path": "local/botosani/botosani/2010/277",
 "kind": "local",
@@ -66,6 +110,72 @@
 "council_name": "Consiliul Local al Municipiului Botoșani",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-278-2010",
+"path": "local/botosani/botosani/2010/278",
+"kind": "local",
+"year": "2010",
+"number": "278",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 278/2010 privind aprobarea Regulamentului de organizare şi desfăşurare a concursului de proiecte de management, caietului de obiective şi condiţiilor de participare pentru concursul de ocupare a postului de manager la Filarmonica de Stat din Botoşani Vizualizare",
+"short": "HCL Botoșani nr. 278/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-10-28",
+"latest": "2010-10-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--botosani-289-2010",
+"path": "local/botosani/botosani/2010/289",
+"kind": "local",
+"year": "2010",
+"number": "289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 289/2010 privind realizarea pe termen mediu a unei politici tarifare referitoare la preţul de referinţă al energiei termice pentru populaţie necesară implementării proiectului „Reabilitarea sistemului de termoficare urbană la nivelul municipiului Botoşani pentru perioada 2009- 2028 în scopul conformării la legislaţia de mediu şi creşterea eficienţei energetice” finanţat din Fondul de Coeziune în cadrul Pro",
+"short": "HCL Botoșani nr. 289/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-10-28",
+"latest": "2010-10-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--botosani-313-2010",
+"path": "local/botosani/botosani/2010/313",
+"kind": "local",
+"year": "2010",
+"number": "313",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 313/2010 privind stabilirea impozitelor şi taxelor locale pentru anul 2011 Vizualizare",
+"short": "HCL Botoșani nr. 313/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-11-30",
+"latest": "2010-11-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -89,6 +199,50 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-350-2010",
+"path": "local/botosani/botosani/2010/350",
+"kind": "local",
+"year": "2010",
+"number": "350",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 350/2010 privind realizarea pe termen mediu a unei politici tarifare referitoare la preţul de referinta al energiei termice pentru populaţie necesară implementării proiectului „Reabilitarea sistemului de termoficare urbană la nivelul municipiului Botoşani pentru perioada 2009-2028 în scopul conformării la legislaţia de mediu şi creşterea eficienţei energetice” finanţat din Fondul de Coeziune în cadrul Prog",
+"short": "HCL Botoșani nr. 350/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-12-10",
+"latest": "2010-12-10",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-botosani--botosani-372-2010",
+"path": "local/botosani/botosani/2010/372",
+"kind": "local",
+"year": "2010",
+"number": "372",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 372/2010 privind aprobarea Regulamentului de Organizare si funcÅ£ionare a PoliÅ£iei Locale a Municipiului BotosaniPublicarea pe site: 20 ian. 2011 Vizualizare",
+"short": "HCL Botoșani nr. 372/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-12-30",
+"latest": "2010-12-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

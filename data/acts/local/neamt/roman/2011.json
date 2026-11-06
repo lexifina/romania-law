@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-45-2011",
+"path": "local/neamt/roman/2011/45",
+"kind": "local",
+"year": "2011",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2011 privind stabilirea condiþiilor de organizare ºi a modului de desfãºurare a concursului/examenului de ocupare a posturilor vacante sau temporar vacante corespunzãtoare funcþiilor contractuale ºi a criteriilor de evaluare a performanþelor profesionale individuale în c",
+"short": "HCL Roman nr. 45/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-03-31",
+"latest": "2011-03-31",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2011/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-neamt--roman-65-2011",
 "path": "local/neamt/roman/2011/65",
 "kind": "local",
@@ -89,6 +111,28 @@
 "council_name": "Consiliul Local al Municipiului Roman",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-121-2011",
+"path": "local/neamt/roman/2011/121",
+"kind": "local",
+"year": "2011",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2011 Privind aprobarea criteriilor de evaluare a performanþelor profesionale individuale pentru personalul contractual din Spitalul Municipal de Urgenþã Roman",
+"short": "HCL Roman nr. 121/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-09-22",
+"latest": "2011-09-22",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2011/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
 }
 },
 {

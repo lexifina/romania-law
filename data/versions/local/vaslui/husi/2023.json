@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-516-2023",
+   "path": "local/vaslui/husi/2023/516",
+   "short": "HCL Huși nr. 516/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 516/2023 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2024 pentru inchirierea terenurilor si spatiilor din domeniul public si privat al Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-21-decembrie-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2023/hotarari_2023/hotararea_516_2023.pdf?_t=1771832162",
+     "sha256": "75f1f53704de24cfde327edead48261baa43e29739ff0fe68bc447a3e95c8c51"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-518-2023",
    "path": "local/vaslui/husi/2023/518",
    "short": "HCL Huși nr. 518/2023",

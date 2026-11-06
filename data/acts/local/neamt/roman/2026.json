@@ -3,6 +3,28 @@
 "shard": "local/neamt/roman/2026",
 "acts": [
 {
+"slug": "hcl-neamt--roman-2-2026",
+"path": "local/neamt/roman/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 2/2026 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente HOTÃRÂRE Nr. 2 din 22.01.2026 privind aprobarea Regulamentului de acordare a tichetelor sociale în vederea achiziţionării de alimente de bază şi medicamente",
+"short": "HCL Roman nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-002-din-22-01-2026/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-neamt--roman-9-2026",
 "path": "local/neamt/roman/2026/9",
 "kind": "local",
@@ -22,6 +44,29 @@
 "council_name": "Consiliul Local al Municipiului Roman",
 "flags": {
 "text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-21-2026",
+"path": "local/neamt/roman/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2026",
+"short": "HCL Roman nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-021-din-12-02-2026/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review",
 "title_withheld": "personal_data"
 }
 },
@@ -93,6 +138,28 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-62-2026",
+"path": "local/neamt/roman/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2026 privind actualizarea Regulamentului pentru acordarea de facilități pentru unele categorii de persoane pe mijloacele de transport urban de călători în municipiul Roman HOTÃRÂRE Nr. 62 din 26 .03.2026 privind actualizarea Regulamentului pentru acordarea de facilități pentru unele categorii de persoane pe mijloacele de transport urban de călători în municipiul Roman",
+"short": "HCL Roman nr. 62/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-062-din-26-03-2026/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-neamt--roman-63-2026",
 "path": "local/neamt/roman/2026/63",
 "kind": "local",
@@ -135,6 +202,96 @@
 "council_name": "Consiliul Local al Municipiului Roman",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-67-2026",
+"path": "local/neamt/roman/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2026 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fără personalitate juridică HOTÃRÂRE Nr.67 din 17.04.2026 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului municipiului Roman şi al serviciilor publice de interes local fă",
+"short": "HCL Roman nr. 67/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-067-din-17-04-2026/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-neamt--roman-71-2026",
+"path": "local/neamt/roman/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2026",
+"short": "HCL Roman nr. 71/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-071-din-17-04-2026/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-121-2026",
+"path": "local/neamt/roman/2026/121",
+"kind": "local",
+"year": "2026",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2026 privind aprobarea Regulamentului privind perceperea abonamentelor lunare pentru membrii sportivi și a taxelor de participare la competițiile organizate de Club Sportiv Municipal Roman HOTÃRÂRE Nr. 121 din 28.05.2026 privind aprobarea Regulamentului privind perceperea abonamentelor lunare pentru membrii sportivi și a taxelor de participare la competițiile organizate de Club Sportiv",
+"short": "HCL Roman nr. 121/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-121-din-28-05-2026/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-neamt--roman-148-2026",
+"path": "local/neamt/roman/2026/148",
+"kind": "local",
+"year": "2026",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 148/2026",
+"short": "HCL Roman nr. 148/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-25",
+"latest": "2026-06-25",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-148-din-25-06-2026/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -273,6 +430,28 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-238-2026",
+"path": "local/neamt/roman/2026/238",
+"kind": "local",
+"year": "2026",
+"number": "238",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 238/2026 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de îngrijire la domiciliu pentru persoane vârstnice HOTÃRÂRE Nr.238 din 24.09.2026 privind aprobarea Regulamentului de organizare și funcționare a Serviciului de îngrijire la domiciliu pentru persoane vârstnice",
+"short": "HCL Roman nr. 238/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-238-din-24-09-2026/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-neamt--roman-260-2026",
 "path": "local/neamt/roman/2026/260",
 "kind": "local",
@@ -292,6 +471,29 @@
 "council_name": "Consiliul Local al Municipiului Roman",
 "flags": {
 "text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-267-2026",
+"path": "local/neamt/roman/2026/267",
+"kind": "local",
+"year": "2026",
+"number": "267",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 267/2026",
+"short": "HCL Roman nr. 267/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://primariaroman.ro/consiliu_local/hcl-nr-267-din-28-10-2026/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_pending": "review",
 "title_withheld": "personal_data"
 }
 }

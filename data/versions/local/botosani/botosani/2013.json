@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-135-2013",
+   "path": "local/botosani/botosani/2013/135",
+   "short": "HCL Botoșani nr. 135/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 135/2013 privind aprobarea Regulamentului de desfasurare a activitaÅ£ilor in zonele publice din municipiul Botosani Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2013/135.pdf",
+     "sha256": "9859d827336901804cace120bd408dd6a018555d8f74483b9a37d13a0dab45df"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-143-2013",
    "path": "local/botosani/botosani/2013/143",
    "short": "HCL Botoșani nr. 143/2013",
@@ -194,6 +209,66 @@
      "units": 1,
      "source_url": "https://primariabt.ro/hcl/2013/339.pdf",
      "sha256": "987db8aaf5bca6f98f529d48431db3e48c86644f9159784578e636e72056e76a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-348-2013",
+   "path": "local/botosani/botosani/2013/348",
+   "short": "HCL Botoșani nr. 348/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 348/2013 privind aprobarea Regulamentului de organizare ºi desfãºurare a concursului de management , caietului de obiective , condiþiilor de participare pentru concursul de ocupare a postului de manager la Teatrul „Mihai Eminescu „ Publicarea pe site: 12 decembrie 2013 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2013/348.pdf",
+     "sha256": "633074bd4f2186e79e4b8d31431e6821b21945ff2b98c92ada2c2d4f04b7c998"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-349-2013",
+   "path": "local/botosani/botosani/2013/349",
+   "short": "HCL Botoșani nr. 349/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 349/2013 privind aprobarea Regulamentului de organizare ºi desfãºurare a concursului de management , caietului de obiective , condiþiilor de participare pentru concursul de ocupare a postului de manager la Filarmonica de Stat BotoºaniPublicarea pe site: 12 decembrie 2013 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2013/349.pdf",
+     "sha256": "72d2dc88f24b616c82d0bfa71683cbb44e19c1125fcde87637f3c73f226257d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-350-2013",
+   "path": "local/botosani/botosani/2013/350",
+   "short": "HCL Botoșani nr. 350/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 350/2013 privind aprobarea Regulamentului de organizare ºi desfãºurare a concursului de management , caietului de obiective , condiþiilor de participare pentru concursul de ocupare a postului de manager la Teatrul pentru Copii si Tineret „Vasilache „Publicarea pe site: 12 decembrie 2013 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2013/350.pdf",
+     "sha256": "7a8152d61443f95a4d882fb8d0e21a7760b7a3a03d8d8c39cbcc7d9e4be7a2ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-6-2013",
+   "path": "local/botosani/botosani/2013/6",
+   "short": "HCL Botoșani nr. 6/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 6/2013 privind stabilirea impozitelor si taxelor locale pentru anul 2013 Vizualizare",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/arhiva-hotarari-2001-2021/",
+   "versions": [
+    {
+     "from": "2013-01-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/hcl/2013/6.pdf",
+     "sha256": "ac784c1f7f0442d8f9ecef5d3d7501a7ac8c247ec26f9d4b4987c859600ebd17"
     }
    ]
   },

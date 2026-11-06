@@ -1,5 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-oug-10-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/102822
+oug-10-2009,pending-change,2026-11-06,2026-11-13,amendment-search,legea-183-2009,2009-05-26,no,https://legislatie.just.ro/Public/DetaliiDocument/102822
 oug-100-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-122-2010,2010-07-05,no,https://legislatie.just.ro/Public/DetaliiDocument/111394
 oug-101-2009,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/111391
 oug-102-2009,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/111573
@@ -8,7 +8,7 @@ oug-104-2009,stale,2025-09-15,2025-09-22,consolidated-form,legea-208-2013,2013-0
 oug-105-2009,stale,2025-11-17,2025-11-24,consolidated-form,legea-264-2010,2010-12-31,yes,https://legislatie.just.ro/Public/DetaliiDocument/131924
 oug-106-2009,current,2026-11-03,2026-11-10,edition-index,legea-358-2009,2009-11-23,yes,https://legislatie.just.ro/Public/DetaliiDocument/201599
 oug-107-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-35-2010,2010-03-14,no,https://legislatie.just.ro/Public/DetaliiDocument/112197
-oug-108-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/112198
+oug-108-2009,pending-change,2026-11-06,2026-11-13,amendment-search,legea-62-2010,2010-03-31,no,https://legislatie.just.ro/Public/DetaliiDocument/112198
 oug-109-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/112207
 oug-11-2009,stale,2026-01-19,2026-01-26,consolidated-form,legea-303-2009,2009-10-11,yes,https://legislatie.just.ro/Public/DetaliiDocument/202016
 oug-110-2009,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1296-2009,2009-11-10,no,https://legislatie.just.ro/Public/DetaliiDocument/112190
@@ -23,7 +23,7 @@ oug-12-2009,pending-change,2026-11-04,2026-11-11,amendment-search,Decizia nr. 61
 oug-13-2009,pending-change,2026-11-04,2026-11-11,amendment-search,hg-669-2026,2026-08-28,no,https://legislatie.just.ro/Public/DetaliiDocument/103010
 oug-14-2009,pending-change,2026-11-04,2026-11-11,amendment-search,,2010-05-27,no,https://legislatie.just.ro/Public/DetaliiDocument/103029
 oug-15-2009,pending-change,2026-11-04,2026-11-11,amendment-search,,2024-12-03,no,https://legislatie.just.ro/Public/DetaliiDocument/103203
-oug-16-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/103103
+oug-16-2009,pending-change,2026-11-06,2026-11-13,amendment-search,legea-263-2009,2009-07-07,no,https://legislatie.just.ro/Public/DetaliiDocument/103103
 oug-17-2009,stale,2026-03-16,2026-03-23,consolidated-form,legea-198-2013,2013-07-04,yes,https://legislatie.just.ro/Public/DetaliiDocument/149439
 oug-18-2009,stale,2026-02-16,2026-02-23,consolidated-form,og-16-2025,2025-08-25,yes,https://legislatie.just.ro/Public/DetaliiDocument/103284
 oug-19-2009,pending-change,2026-11-04,2026-11-11,amendment-search,Decizia nr. 1046/2011,2011-07-14,no,https://legislatie.just.ro/Public/DetaliiDocument/103309
@@ -31,7 +31,7 @@ oug-2-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.
 oug-20-2009,stale,2025-12-15,2025-12-22,consolidated-form,legea-38-2011,2011-04-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/202009
 oug-21-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/103356
 oug-22-2009,stale,2026-07-20,2026-07-27,consolidated-form,legea-198-2022,2022-07-10,yes,https://legislatie.just.ro/Public/DetaliiDocument/103631
-oug-23-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/103815
+oug-23-2009,pending-change,2026-11-06,2026-11-13,amendment-search,legea-239-2025,2025-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/103815
 oug-25-2009,current,2026-11-03,2026-11-10,edition-index,legea-270-2009,2009-07-16,yes,https://legislatie.just.ro/Public/DetaliiDocument/202008
 oug-26-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-245-2009,2009-06-23,no,https://legislatie.just.ro/Public/DetaliiDocument/103725
 oug-27-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-257-2009,2009-07-07,no,https://legislatie.just.ro/Public/DetaliiDocument/103753
@@ -40,7 +40,7 @@ oug-29-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-256-2009
 oug-3-2009,current,2026-02-16,,consolidated-form,legea-379-2009,2009-12-17,yes,https://legislatie.just.ro/Public/DetaliiDocument/103827
 oug-30-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-255-2009,2009-07-07,no,https://legislatie.just.ro/Public/DetaliiDocument/104246
 oug-31-2009,pending-change,2026-11-04,2026-11-11,amendment-search,Decizia nr. 368/2016,2016-06-02,no,https://legislatie.just.ro/Public/DetaliiDocument/104149
-oug-32-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/104203
+oug-32-2009,pending-change,2026-11-06,2026-11-13,amendment-search,Decizia nr. 664/2012,2012-06-26,no,https://legislatie.just.ro/Public/DetaliiDocument/104203
 oug-33-2009,stale,2026-01-19,2026-01-26,consolidated-form,legea-291-2009,2009-10-04,yes,https://legislatie.just.ro/Public/DetaliiDocument/202006
 oug-34-2009,stale,2025-12-15,2025-12-22,consolidated-form,oug-46-2015,2015-10-28,yes,https://legislatie.just.ro/Public/DetaliiDocument/109290
 oug-35-2009,stale,2025-10-20,2025-10-27,consolidated-form,legea-260-2009,2009-07-16,yes,https://legislatie.just.ro/Public/DetaliiDocument/109905
@@ -52,13 +52,13 @@ oug-40-2009,stale,2025-12-15,2025-12-22,consolidated-form,legea-387-2009,2009-12
 oug-41-2009,pending-change,2026-11-04,2026-11-11,amendment-search,,2018-03-05,no,https://legislatie.just.ro/Public/DetaliiDocument/105253
 oug-42-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-8-2011,2011-03-07,no,https://legislatie.just.ro/Public/DetaliiDocument/105859
 oug-43-2009,current,2026-11-03,2026-11-10,edition-index,legea-63-2010,2010-04-09,yes,https://legislatie.just.ro/Public/DetaliiDocument/201998
-oug-44-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/105943
+oug-44-2009,pending-change,2026-11-06,2026-11-13,amendment-search,,2015-04-03,no,https://legislatie.just.ro/Public/DetaliiDocument/105943
 oug-45-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-150-2010,2010-02-12,no,https://legislatie.just.ro/Public/DetaliiDocument/106092
 oug-46-2009,stale,2026-02-16,2026-02-23,consolidated-form,legea-324-2009,2009-10-25,yes,https://legislatie.just.ro/Public/DetaliiDocument/106176
-oug-47-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/106223
+oug-47-2009,pending-change,2026-11-06,2026-11-13,amendment-search,,2010-07-01,no,https://legislatie.just.ro/Public/DetaliiDocument/106223
 oug-48-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-315-2009,2009-10-17,no,https://legislatie.just.ro/Public/DetaliiDocument/106254
 oug-49-2009,stale,2026-01-19,2026-01-26,consolidated-form,og-6-2016,2016-02-27,yes,https://legislatie.just.ro/Public/DetaliiDocument/106401
-oug-54-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/106832
+oug-54-2009,pending-change,2026-11-06,2026-11-13,amendment-search,,2010-01-06,no,https://legislatie.just.ro/Public/DetaliiDocument/106832
 oug-56-2009,pending-change,2026-11-04,2026-11-11,amendment-search,,2021-07-26,no,https://legislatie.just.ro/Public/DetaliiDocument/106597
 oug-57-2009,pending-change,2026-11-04,2026-11-11,amendment-search,,2011-06-21,no,https://legislatie.just.ro/Public/DetaliiDocument/106754
 oug-59-2009,stale,2026-02-16,2026-02-23,consolidated-form,legea-36-2011,2011-03-27,yes,https://legislatie.just.ro/Public/DetaliiDocument/201698
@@ -84,7 +84,7 @@ oug-78-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-380-2009
 oug-79-2009,stale,2026-02-16,2026-02-23,consolidated-form,og-10-2018,2018-09-02,yes,https://legislatie.just.ro/Public/DetaliiDocument/269008
 oug-8-2009,stale,2026-06-15,2026-06-22,consolidated-form,legea-141-2025,2026-01-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/102660
 oug-80-2009,stale,2025-11-17,2025-11-24,consolidated-form,legea-44-2010,2010-04-02,yes,https://legislatie.just.ro/Public/DetaliiDocument/201685
-oug-81-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/109033
+oug-81-2009,pending-change,2026-11-06,2026-11-13,amendment-search,legea-45-2010,2010-03-19,no,https://legislatie.just.ro/Public/DetaliiDocument/109033
 oug-82-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-51-2011,2011-04-14,no,https://legislatie.just.ro/Public/DetaliiDocument/109132
 oug-83-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/109158
 oug-84-2009,current,2026-11-03,2026-11-10,edition-index,legea-391-2009,2010-01-01,yes,https://legislatie.just.ro/Public/DetaliiDocument/201680
@@ -92,7 +92,7 @@ oug-85-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-6-2010,2
 oug-86-2009,pending-change,2026-11-04,2026-11-11,amendment-search,oug-8-2010,2010-02-19,no,https://legislatie.just.ro/Public/DetaliiDocument/109101
 oug-87-2009,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/109106
 oug-88-2009,stale,2026-02-16,2026-02-23,consolidated-form,legea-165-2010,2010-07-23,yes,https://legislatie.just.ro/Public/DetaliiDocument/201677
-oug-89-2009,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/109111
+oug-89-2009,pending-change,2026-11-06,2026-11-13,amendment-search,legea-3-2010,2010-01-06,no,https://legislatie.just.ro/Public/DetaliiDocument/109111
 oug-9-2009,pending-change,2026-11-04,2026-11-11,amendment-search,legea-8-2019,2019-01-04,no,https://legislatie.just.ro/Public/DetaliiDocument/102859
 oug-90-2009,stale,2026-02-16,2026-02-23,consolidated-form,oug-105-2009,2009-10-06,yes,https://legislatie.just.ro/Public/DetaliiDocument/112011
 oug-91-2009,current,2026-11-03,2026-11-10,edition-index,legea-96-2011,2011-06-12,yes,https://legislatie.just.ro/Public/DetaliiDocument/207300

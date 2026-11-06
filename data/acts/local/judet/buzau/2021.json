@@ -535,6 +535,28 @@
 }
 },
 {
+"slug": "hcj-buzau-53-2021",
+"path": "local/judet/buzau/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 53/2021 pentru susținerea programelor de dezvoltare locală, pentru proiecte de infrastructură care necesită cofinanțare locală, precum și pentru cheltuielile de funcționare pe anul 2021 și estimări pe anii 2022-2024 din sumele defalcate din taxa pe valoarea adăugată și cotele defalcate din unele venituri ale bugetului de stat pentru echilibrarea buget",
+"short": "HCJ Buzău nr. 53/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "http://cjbuzau.ro/hotarari-cj-2021/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-buzau-68-2021",
 "path": "local/judet/buzau/2021/68",
 "kind": "local",
@@ -1372,6 +1394,50 @@
 }
 },
 {
+"slug": "hcj-buzau-168-2021",
+"path": "local/judet/buzau/2021/168",
+"kind": "local",
+"year": "2021",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 168/2021 pentru efectuarea transportului public județean de persoane și a Caietului de sarcini al serviciului public de transport județean de persoane",
+"short": "HCJ Buzău nr. 168/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "http://cjbuzau.ro/hotarari-cj-2021/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-buzau-180-2021",
+"path": "local/judet/buzau/2021/180",
+"kind": "local",
+"year": "2021",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 180/2021 pentru aprobarea modificării tarifelor de călătorie la bilete și abonamente pe traseele pe care efectuează transport rutier public județean de persoane prin curse regulate operatorul de transport SC VOICILĂ MAGAZIN MIXT SNC",
+"short": "HCJ Buzău nr. 180/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "http://cjbuzau.ro/hotarari-cj-2021/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-buzau-202-2021",
 "path": "local/judet/buzau/2021/202",
 "kind": "local",
@@ -1898,6 +1964,29 @@
 "council_name": "Consiliul Județean Buzău",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-buzau-257-2021",
+"path": "local/judet/buzau/2021/257",
+"kind": "local",
+"year": "2021",
+"number": "257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 257/2021",
+"short": "HCJ Buzău nr. 257/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "http://cjbuzau.ro/hotarari-cj-2021/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

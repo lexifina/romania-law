@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-21-2016",
+   "path": "local/hunedoara/vulcan/2016/21",
+   "short": "HCL Vulcan nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 21/2016 privind completarea Hotărârii Consiliului Local nr. 118/2015 pentru aprobarea tarifelor de folosință a imobilului „Sala de Sport” a Municipiului Vulcan și a sălii de sport din incinta Școlii Gimnaziale nr. 4 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând expunerea de motive a Viceprimarului municipiului Vulcan înregistrată sub nr.15/8612/11.02.2016, prin care se propune completarea Hotărârii Co",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2016-0000249e?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/9689E56382E69072C225811E003F82FD/$FILE/HCL%20021.pdf",
+     "sha256": "069f94769cd9f599f095f03272dbdcb59abe85eee98fd24916adca542a8350dd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-22-2016",
    "path": "local/hunedoara/vulcan/2016/22",
    "short": "HCL Vulcan nr. 22/2016",
@@ -134,6 +149,21 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/5DB12146F1223F1FC225811E003F8308/$FILE/HCL%20022.pdf",
      "sha256": "b1797b4a9209ab4c932eedb90387da5bd65ea81de90885cacc75838f678d4067"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-45-2016",
+   "path": "local/hunedoara/vulcan/2016/45",
+   "short": "HCL Vulcan nr. 45/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 45/2016 Privind modificarea Hotărârii nr. 108/2015 privind stabilirea impozitelor și taxelor locale pe anul 2016 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând Expunerea de motive a primarului Municipiului Vulcan, înregistrată sub nr. 45/8612/28.03.2016 prin care se propune modificarea Hotărârii Consiliului Local nr. 108/2015 privind stabilirea impozitelor și taxelor locale pe anul 2016, modificată și",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2016-0000249e?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F3DD8FF7A26199EBC225811E003F837C/$FILE/HCL%20045.pdf",
+     "sha256": "de795b367e3d1ec6c5970866518e6dc15e736d5620b3f92bfec4439e2b64d063"
     }
    ]
   },

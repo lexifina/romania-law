@@ -45,6 +45,50 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-hunedoara--vulcan-35-2019",
+"path": "local/hunedoara/vulcan/2019/35",
+"kind": "local",
+"year": "2019",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 35/2019 privind modificarea Hotărârii Consiliului Local nr. 94/2016 privind constituirea Comisiei locale de ordine publică la nivelul municipiului Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN; Analizând expunerea de motive a primarului municipiului Vulcan înregistrată sub 29/1/15/21.02.2019 prin care propune modificarea Hotărârii Consiliului Local nr. 94/2016 privind constituirea Comisiei locale de ordin",
+"short": "HCL Vulcan nr. 35/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-02-28",
+"latest": "2019-02-28",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2019-00001322?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-52-2019",
+"path": "local/hunedoara/vulcan/2019/52",
+"kind": "local",
+"year": "2019",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 52/2019 pentru modificarea Anexei nr. 5 –Punctul V la Hotărârea Consiliului Local nr 141/2018 privind stabilirea impozitelor și taxelor locale pe anul 2019 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând Expunerea de motive a primarului Municipiului Vulcan, înregistrată sub nr. 25/1/15/14.02.2019 prin care se propune completarea H.C.L nr 141/2018 privind stabilirea impozitelor și taxelor locale pe anul",
+"short": "HCL Vulcan nr. 52/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2019-00001322?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

@@ -16,6 +16,21 @@
      "sha256": "56118cbf2f425234c302f0b1486e28219afcca321311ded3470f54cdb078a05f"
     }
    ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-57-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/57",
+   "short": "HCL Roșiorii de Vede nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 57/2021 privind stabilirea impozitelor și taxelor locale.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2057%20din%2015.%2004.%202021%20privind%20stabilirea%20impozitelor%20%C8%99i%20taxelor%20locale.pdf",
+     "sha256": "26056b8f05291ebb4784542567b074d8adb2980e75287716e31588f8f8d37de7"
+    }
+   ]
   }
  ]
 }
