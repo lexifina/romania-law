@@ -1,4 +1,4 @@
-# Anexa nr. 1: 1 LISTA INSPECTORILOR AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 1. Arba Ioan 1550107400612 Direcția generală aviație civilă 2. Căprioară Marin 15905164000
+# Anexa nr. 1: 1 LISTA INSPECTORILOR AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 1. Arba Ioan [CNP omis] Direcția generală aviație civilă 2. Căprioară Marin 15905164000
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
