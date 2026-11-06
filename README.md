@@ -74,6 +74,7 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 | --- | --- |
 | `data/index.json` | every act list: the primary files (`acts.json`, `versions.json`, `laws.csv`) and one shard per other kind and year, e.g. `data/acts/hg/2016.json`, `data/versions/ordin/2012.json`, `data/laws/local/bucuresti/cgmb/2016.csv`; `data/sources/<kind>/<year>.csv` lists the sources of those acts (REPRODUCE.md lists the rest) |
 | `data/freshness.json`, `data/freshness/` | when each act was last checked against its official source, and its status (see [How current is it](#how-current-is-it)); `data/freshness/index.json` lists the files |
+| `data/status.json` | whether updates are running, the last publication, the last 24 hours, and each official source's availability, refreshed hourly (see [Is it being updated?](#is-it-being-updated)) |
 | `data/act-links-<year>.csv` | links between acts (amends, repeals, approves, promulgates, republishes…) from the Chamber of Deputies' database, one file per year of the act that acts (`act-links-before-1990.csv`, `act-links-other.csv` for acts with no year); sheets captured 2018–2025, read again on cdep.ro and from archived copies from November 2026; `evidence` says where each link is stated: the Chamber's sheets (`source sheet`, `target sheet`, `note`, `mof`), the act's own official title (`title`: "pentru modificarea Legii nr. …"; `approves` there covers approval with or without changes) the bill file of the law (`bill file`) or the official record of the promulgation decree (`promulgation record`, as in `data/promulgation.csv`); not official, and a missing link does not mean no change |
 | `data/bills-<year>.csv` | one file per year of the bill's registration: the bill behind each law since 1996 and the bills still in Parliament: Chamber and Senate numbers, initiator, first and decisional chamber, adoption dates, the Chamber's vote, Constitutional Court referral, re-examination, promulgation decree, and links to the Legislative Council's opinion, the explanatory memorandum and the adopted text, from the Chamber of Deputies' bill files; not official |
 | `data/bill-initiators-<year>.csv` | one file per year of the bill's registration: the members of Parliament who initiated each bill (as Parliament's bill files name them, with their chamber and group); a citizens' initiative's committee is not listed |
@@ -137,6 +138,19 @@ Checked against the official sources: 2026-11-06; 73% of acts verified in the la
 | `source-unavailable` | due for a check, but the official source is not answering |
 
 The threshold is 7 days for the Constitution, codes, laws, ordinances, decrees and Government decisions, and 30 days for orders and other secondary legislation, local council decisions, EU acts and the acts of authorities and professional bodies. A repealed act does not change again, so it has none; court decisions do not change once published and have no rows. The tool works offline from these files: to be certain, open the official link it prints.
+
+### Is it being updated?
+
+The pipeline that keeps this repository current is monitored around the clock: each official source's availability, the publishing itself, every collection lane, the freshness above, and the repository's own size and integrity. Problems raise alerts for the maintainers. Its public part, [data/status.json](data/status.json), is refreshed every hour:
+
+| Field | Meaning |
+| --- | --- |
+| `updates` | `running` while new versions are being published |
+| `last_published` | when the newest commit reached this repository |
+| `published_last_24h` | commits and new acts published in the last 24 hours |
+| `official_sources` | each official source's state (`available`, `unavailable`), since when, and the last successful contact |
+
+Source states are as seen from the pipeline: a source marked unavailable did not answer it, and may still be up for you. While an official source is unavailable, its acts show `source-unavailable` or `stale` above rather than an out-of-date `current`.
 
 ## How it is built and checked
 
